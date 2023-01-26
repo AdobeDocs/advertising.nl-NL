@@ -2,10 +2,10 @@
 title: Een herbruikbaar publiek bewerken
 description: Leer hoe u een herbruikbaar publiek kunt bewerken.
 feature: DSP Audiences
-exl-id: 6a3145b9-2d30-4040-8893-0fb7b3f86597
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Wanneer u een publiek bewerkt dat wordt gebruikt in plaatsingen of andere herbruikbare doelgroepen, worden de wijzigingen direct toegepast op die plaatsingen en doelgroepen.<!-- verify -->
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL All audiences]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Edit]**.
 
@@ -51,9 +51,9 @@ Wanneer u een publiek bewerkt dat wordt gebruikt in plaatsingen of andere herbru
 
       1. Kopieer de segmentlogica van het bestaande publiek op een van de volgende manieren:
 
-         * Houd in de weergave Alle soorten publiek de cursor boven de personenrij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Houd in de weergave Alle soorten publiek de cursor boven de personenrij en klik vervolgens op **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
-         * Klik in de instellingen voor het bestaande publiek boven aan het deelvenster voor segmentlogica op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Klik in de instellingen voor het bestaande publiek boven aan het deelvenster voor segmentlogica op **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
          * Maak in een teksteditor handmatig de segmentlogica met alfanumerieke segment-id&#39;s en [Booleaanse syntaxis](audience-segment-logic-syntax.md)en kopieer deze naar het klembord.
       1. Klikken **[!UICONTROL paste in an audience rule to begin building]** plakt u de bestaande segmentlogica in het invoerveld en klikt u vervolgens op **[!UICONTROL Apply]**.

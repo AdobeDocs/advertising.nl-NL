@@ -2,10 +2,10 @@
 title: Een pakket dupliceren
 description: Leer hoe u een pakket dupliceert.
 feature: DSP Packages
-exl-id: 4c37883f-5feb-4513-9573-ed4e32606132
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '246'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Zie &quot;[Wat is niet gedupliceerd](#package-not-duplicated)&quot; voor een lij
 
 1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
 
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]>[!UICONTROL Duplicate]**.
+1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Geef de nieuwe pakketinstellingen op:
 

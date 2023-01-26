@@ -2,8 +2,8 @@
 title: Segmentinformatie bewerken
 description: Leer hoe te om informatie over een douane of CCPA uit verkoopsegment uit te geven.
 feature: DSP Segments
-exl-id: a121264f-7fa6-454e-b66a-f6bc0db98890
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 1df6bf2a-4008-46ec-8b4a-e3d0c8322e44
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt de naam en het raadplegingsvenster voor een douanesegment, of de naam van een opting-out CCPA van verkoopsegment uitgeven. De segmenttags worden niet gewijzigd wanneer u de instellingen bewerkt.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Edit]**.
 

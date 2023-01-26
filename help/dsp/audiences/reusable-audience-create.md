@@ -2,8 +2,8 @@
 title: Een herbruikbaar publiek maken
 description: Leer hoe u een herbruikbaar publiek kunt maken dat bestaat uit doelsegmenten en andere opgeslagen soorten publiek.
 feature: DSP Audiences
-exl-id: 48e3dc4c-6e2d-452c-8d69-7e6211d808e0
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '487'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiekssegmenten en zelfs andere opgeslagen soorten publiek, die u kunt gebruiken als doelen of uitsluitingen voor meerdere plaatsen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL All Audiences]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All Audiences]**.
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]**.
 
@@ -62,9 +62,9 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
       1. Kopieer de segmentlogica van het bestaande publiek op een van de volgende manieren:
 
-         * Houd in de weergave Alle soorten publiek de cursor boven de personenrij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Houd in de weergave Alle soorten publiek de cursor boven de personenrij en klik vervolgens op **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
-         * Klik in de instellingen voor het bestaande publiek boven aan het deelvenster voor segmentlogica op **[!UICONTROL More]>[!UICONTROL Copy to Clipboard]**.
+         * Klik in de instellingen voor het bestaande publiek boven aan het deelvenster voor segmentlogica op **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
          * Maak in een teksteditor handmatig de segmentlogica met alfanumerieke segment-id&#39;s en [Booleaanse syntaxis](audience-segment-logic-syntax.md)en kopieer deze naar het klembord.
       1. Klikken **[!UICONTROL paste in an audience rule to begin building]** plakt u de bestaande segmentlogica in het invoerveld en klikt u vervolgens op **[!UICONTROL Apply]**.

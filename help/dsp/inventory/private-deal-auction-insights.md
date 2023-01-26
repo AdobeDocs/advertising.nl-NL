@@ -2,8 +2,8 @@
 title: Inzichten in veilingen weergeven voor een persoonlijke deal
 description: Leer hoe te om veilinginzichten te gebruiken om de overeenkomstensamenstelling van privé overeenkomst te analyseren.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 9d585bd4-59d5-401a-a68c-6ed656086252
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die worden ontvangen voor [belangrijke veilingkenmerken](#auction-attributes) binnen een bepaalde termijn.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Auction Insights]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]**.
 
 >[!NOTE]
 >
->Veilinginzichten zijn ook beschikbaar via de plaatsing [!UICONTROL Inspector] gebruiken. Om ze te openen, [de plaatsing openen [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan de [!UICONTROL Inventory tab]en klik vervolgens op **[!UICONTROL ...]>[!UICONTROL Auction Insights]** in de overeenkomstenrij.
+>Veilinginzichten zijn ook beschikbaar via de plaatsing [!UICONTROL Inspector] gebruiken. Om ze te openen, [de plaatsing openen [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan de [!UICONTROL Inventory tab]en klik vervolgens op **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in de overeenkomstenrij.
 
 ## Veilingskenmerken {#auction-attributes}
 

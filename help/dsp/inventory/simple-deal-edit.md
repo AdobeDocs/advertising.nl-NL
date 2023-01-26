@@ -2,8 +2,8 @@
 title: Bewerken [!UICONTROL Simple Ad Serving] Dealinstellingen
 description: Leer hoe u de instellingen voor een [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
-exl-id: 025b299b-05ba-4e4e-ac92-8a738303bc32
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 48540a6c-54ee-4109-bdd6-293fbee5c3e5
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 1%
@@ -14,9 +14,9 @@ ht-degree: 1%
 
 U kunt bepaalde instellingen voor een [!UICONTROL Simple Ad Serving] deal die niet is afgelopen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Edit]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. Bewerk de [deal-instellingen](simple-deal-settings.md).
 

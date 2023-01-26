@@ -2,8 +2,8 @@
 title: Een pakket archiveren of archiveren
 description: Leer hoe u een pakket archiveert of archiveert.
 feature: DSP Packages
-exl-id: a8840f9e-e0ee-481d-80c2-66b56fc1882f
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 12d1b498-2239-401a-8571-9210956e32b2
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '151'
 ht-degree: 0%
@@ -20,7 +20,7 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -31,7 +31,7 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

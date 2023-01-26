@@ -2,8 +2,8 @@
 title: Een herbruikbaar publiek delen
 description: Leer hoe u een herbruikbaar publiek deelt met andere adverteerders die beschikbaar zijn voor uw account.
 feature: DSP Audiences
-exl-id: 8a5d432b-42d7-4b3b-845f-32a70dd5d1b7
-source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
+exl-id: c0369efe-464d-43d1-9b21-1113a38fc9bb
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Als u eenmaal een publiek deelt, kunt u het niet langer delen.
 
 1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Share]**.
 
-1. Selecteer de optie die u wilt **[!UICONTROL Share with all advertisers in my account]**.
+1. Selecteer de optie die u wilt **[!UICONTROL Share with all advertisers in my account ]**.
 
 1. Klik op **[!UICONTROL Save]**.
 

@@ -2,10 +2,10 @@
 title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
-exl-id: 440ded21-92d3-41ad-839f-ebc8376aa932
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 81b0acfa-085d-495b-9516-576b952b1307
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
 
 1. Aanmelden [!DNL Adobe Advertising Search] bij (Amerikaanse ondernemingen) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (ondernemingen in alle andere landen) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Zorg ervoor dat de meetgegevens die u in uw doel wilt opnemen, zijn bijgehouden, beschikbaar zijn in het product en een weergavenaam bevatten:
-   1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Transaction Properties]**.
+   1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Admin]>[!UICONTROL Transaction Properties]**.
    1. Bepaal de plaats van metrisch, en zorg ervoor dat **[!UICONTROL Show in UI and Reports]** wordt toegelaten voor metrisch.
    1. Als metrisch geen waarde in metrisch heeft **[!UICONTROL Display Name]** , klikt u in de cel, voert u de weergavenaam in en klikt u op **[!UICONTROL Apply].**
 1. Het aangepaste doel maken als een *doel*:
-   1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Optimization] >[!UICONTROL Objectives]**.
+   1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Optimization]>[!UICONTROL Objectives]**.
    1. Klik op de werkbalk op **[!UICONTROL Create objective].**
    1. Voer de objectieve instellingen in:
       1. In de **[!UICONTROL Change Objective Name]** voert u de objectieve naam in.

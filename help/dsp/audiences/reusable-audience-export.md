@@ -2,8 +2,8 @@
 title: Details exporteren over een herbruikbaar publiek
 description: Leer hoe te om de configuratie, publieksgrootte, en gerichte plaatsen voor een herbruikbaar publiek te bekijken.
 feature: DSP Audiences
-exl-id: a4c946f1-8968-4e55-9935-76e6376561f1
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 6d69706e-4398-41e0-b7a3-04ba72b08bfc
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt een [!DNL Microsoft Excel] werkbladdossier met de regel van de publieksconfiguratie, het aantal actieve en totale publieksleden door apparatentype, details over elk segment in het publiek, en alle plaatsen die het publiek richten.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL All audiences]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Export XLS]**.
 

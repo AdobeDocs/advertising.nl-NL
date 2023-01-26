@@ -1,11 +1,11 @@
 ---
 title: Gebruikersprofiel bewerken
 description: Leer hoe u uw gebruikersprofiel kunt bewerken.
-exl-id: 4a140b0a-5860-4b68-820c-03b6bf80254f
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 3%
 
 ---
 
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebruikersrollen kunnen informatie over de rekening van uw organisatie ook bekijken en extra mensen uitnodigen om gebruikersrekeningen in de organisatierekening tot stand te brengen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Settings]> [!UICONTROL Account].**
+1. Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account].**
 
 1. Bewerk de profielinstellingen:
 
@@ -22,7 +22,6 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
       1. Naast het bestaande **[!UICONTROL Email address]**, klikt u op **[!UICONTROL Edit]**.
 
       1. Voer het nieuwe e-mailadres en het bestaande wachtwoord voor de gebruikersaccount in.
-
       1. Klik op **[!UICONTROL Continue]**.
    * Het wachtwoord voor de gebruikersaccount bewerken:
 

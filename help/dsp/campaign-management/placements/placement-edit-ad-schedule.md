@@ -2,10 +2,10 @@
 title: Het advertentieschema voor een plaatsing bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die aan een plaatsing zijn gekoppeld.
 feature: DSP Placements
-exl-id: 880522d3-efcd-4ff9-8cef-bf6be626869c
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor de advertenties di
 
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Ad schedule]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Ad schedule]**.
 
    1. Voer een van de volgende handelingen uit:
 

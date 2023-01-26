@@ -2,8 +2,8 @@
 title: Plaatsingen en advertenties voor een persoonlijke deal opgeven
 description: Leer hoe u een persoonlijke deal met extra plaatsingen en advertenties kunt gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-exl-id: 669cadcf-021b-4129-95d5-3d24af4a4b88
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 09119471-429d-413e-8033-e29e1558abb0
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 1%
@@ -24,9 +24,9 @@ U kunt ook [nieuwe advertenties toevoegen aan bestaande plaatsingen](/help/dsp/c
 
 ## Plaatsingen en advertenties aan een Overeenkomst van PG vastmaken
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Attach New Placement]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Attach New Placement]**.
 
 1. In de [!UICONTROL Ad & Campaign Selection] Selecteer de advertenties die u voor de plaatsing wilt gebruiken:
 

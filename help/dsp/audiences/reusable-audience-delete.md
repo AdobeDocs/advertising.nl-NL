@@ -2,8 +2,8 @@
 title: Een herbruikbaar publiek verwijderen
 description: Leer hoe u een herbruikbaar publiek verwijdert.
 feature: DSP Audiences
-exl-id: 037f85b1-8676-4ac7-b1a2-ae7d5550b377
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: cc9afa22-1b90-4709-b7af-d9c1ee16aa16
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -16,7 +16,7 @@ U kunt een publiek verwijderen dat niet wordt gebruikt in plaatsingen of andere 
 
 Als een publiek momenteel wordt gebruikt, dan zult u de optie hebben om een [!DNL Microsoft Excel] werkblad met alle plaatsen en publiek die het publiek gebruiken.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL All audiences]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
 
 1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Delete]**.
 

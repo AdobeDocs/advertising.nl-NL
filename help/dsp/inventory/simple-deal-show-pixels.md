@@ -2,8 +2,7 @@
 title: Gebeurtenispixels weergeven voor een [!UICONTROL Simple Ad Serving] Deal
 description: Leer hoe u een kopie van de pixels voor het bijhouden van gebeurtenissen ophaalt voor een [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
-exl-id: 88d18ddd-98ba-4e36-890c-d6ddfb7d59e5
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -16,7 +15,7 @@ U kunt een kopie van de pixels voor het bijhouden van gebeurtenissen ophalen voo
 
 De gebeurtenispixels bevatten een [!UICONTROL Clickthrough] en [!UICONTROL Impression] pixel. Video- en audioadvertenties bevatten ook gebeurtenispixels die met kwartiel zijn voltooid (van [!UICONTROL 25% Complete] tot [!UICONTROL 100% Complete]).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
 1. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
 

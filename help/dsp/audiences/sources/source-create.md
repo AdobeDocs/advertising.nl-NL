@@ -2,10 +2,10 @@
 title: Creeer een Bron van het Publiek om Eerste Publiek te activeren
 description: Leer hoe u een bron kunt maken voor het importeren van soorten publiek naar uw account of een adverteerderaccount.
 feature: DSP Audiences
-exl-id: 16eb7cdb-4364-4e94-ba73-0f2d4d200cb9
-source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
+exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Maak een bron voor het importeren van soorten publiek naar uw DSP of een adverte
 >
 >Nadat u een bron voor het [!DNL Real-Time CDP], moet u uw [!DNL Real-Time CDP] publiek via de Adobe Advertising DSP bestemming binnen [!DNL Real-Time CDP] om te beginnen met het importeren ervan. Zie [de stappen in de activeringsworkflow](source-about.md#workflow-sources).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences] > [!UICONTROL Sources (BETA)].
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Sources (BETA)].
 
 1. Klik op [!UICONTROL Add Source].
 
@@ -40,13 +40,13 @@ Maak een bron voor het importeren van soorten publiek naar uw DSP of een adverte
 
 1. Maak in Experience Platform een DSP doelverbinding voor adverteren met de [!UICONTROL Source Key] die is gegenereerd in de DSP broninstellingen.
 
-   Voor instructies voor het activeren van de DSP bestemmingsverbinding, het selecteren van segmenten, en de toegang tot van controletoestemmingen, zie &quot;[Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
+Voor instructies voor het activeren van de DSP bestemmingsverbinding, het selecteren van segmenten, en de toegang tot van controletoestemmingen, zie &quot;[Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html).&quot;
 
 >[!MORELIKETHIS]
 >
 >* [Broninstellingen voor publiek](source-settings.md)
 >* [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](source-about.md)
 >* [Activeer Erkende Segmenten van de Duurzame Partners van identiteitskaart](source-durable-id.md)<!-- title?-->
->* [Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html)
 >* [Over Audience Management](/help/dsp/audiences/audience-about.md)
 

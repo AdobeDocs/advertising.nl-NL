@@ -2,8 +2,8 @@
 title: Een wijzigingslogboek voor plaatsing weergeven
 description: Leer hoe u de wijzigingen in de plaatsing kunt bekijken.
 feature: DSP Placements
-exl-id: a57056bd-c467-4b81-90b1-528b85787a5e
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -19,7 +19,7 @@ U kunt de gegevens sorteren op de kolom Type, Gewijzigd door of Datum gewijzigd.
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Change logs]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
 
 >[!MORELIKETHIS]
 >

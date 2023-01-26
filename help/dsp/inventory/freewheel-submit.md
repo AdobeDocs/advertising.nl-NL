@@ -2,8 +2,8 @@
 title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 6cb41f3b-29e4-4feb-9c31-578ab40bd4f7
-source-git-commit: 2459ae8803e26c68d9fca3a1bcf5b744eaafb72c
+exl-id: 18d91f0c-4a27-4e40-b762-6c5e97e9a21a
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -26,15 +26,13 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
 
    1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-   1. Klikken  **[!UICONTROL ...]>[!UICONTROL Edit]** naast de naam van de advertentie.
+   1. Klikken  **[!UICONTROL ...]** > **[!UICONTROL Edit]** naast de naam van de advertentie.
 
    1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
       In de volgende URL is de ad-toets bijvoorbeeld `3NtNC5ZbaGZtqbei8jD3`
 
-      ```
-      https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads
-      ```
+      `https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads`
 
 1. De advertentie verzenden naar [!DNL Freewheel]:
 

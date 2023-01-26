@@ -2,10 +2,10 @@
 title: Instellingen voor persoonlijke deal bewerken
 description: Leer hoe te om details voor een privé overeenkomst uit te geven.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 171a3dae-6a25-4e16-85f8-cd4138ec4ba8
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: c6ab7d39-5581-423b-90aa-3e142c235072
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '122'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 De veranderingen in een toegelaten overeenkomst worden niet gesynchroniseerd van SSP. Als u een overeenkomst hebt goedgekeurd maar de uitgever heeft veranderingen verzonden, kunt u sommige elementen van de overeenkomstenmontages van uitgeven [!UICONTROL Inventory] > [!UICONTROL Deals]. U kunt een overeenkomst op elk ogenblik ook anders noemen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL edit]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL edit]**.
 
 1. Bewerk de [deal-instellingen](deal-id-settings.md).
 

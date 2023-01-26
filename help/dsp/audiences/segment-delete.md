@@ -2,8 +2,8 @@
 title: Een segment verwijderen
 description: Leer hoe te om een douane of CCPA opt-out van verkoop segment te schrappen.
 feature: DSP Segments
-exl-id: dd58d4ad-50a7-46d5-b644-77aa481f15ba
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 2b5f61b1-b07d-45e1-bf1c-8e7c25ead42b
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Als u een aangepast of CCPA-opkoopsegment verwijdert, wordt dit verwijderd uit alle plaatsingen en opgeslagen doelgroepen die dit segment bevatten en is het niet meer beschikbaar voor toekomstig gebruik.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL More]** > **[!UICONTROL Delete]**.
 

@@ -2,8 +2,8 @@
 title: Controleer de status van advertenties voor een [!DNL [!DNL FreeWheel]] PG-deal
 description: Meer informatie over de status van advertenties voor [!DNL Freewheel] programmatisch gegarandeerde deals.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 57c365f6-41cf-4ab6-b71d-fe9984eaf115
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: f5f33e96-68a8-48bd-8c30-72be9315c5ac
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 0%
@@ -24,13 +24,13 @@ Neem contact op met uw [!DNL Adobe] accountteam.
 
 1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]>[!UICONTROL see Freewheel status]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL see Freewheel status]**.
 
-1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]>[!UICONTROL Resubmit]**.
+1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
 ## Controleer de status via de [!UICONTROL Deals] Weergave
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Voer een van de volgende handelingen uit:
 
@@ -44,7 +44,7 @@ Neem contact op met uw [!DNL Adobe] accountteam.
 
    Voor mislukte indieningen [!UICONTROL API] De kolom van de Reactie wijst op de fout. Voor een volledige lijst met foutcodes voor mislukte verzendingen en de volgende stappen om deze te corrigeren, raadpleegt u &quot;[Foutcodes voor [!DNL FreeWheel] Advertentie verzenden](freewheel-error-codes.md).&quot;
 
-1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]>[!UICONTROL Resubmit]**.
+1. (Optioneel) Als u een advertentie opnieuw wilt verzenden voor goedkeuring, houdt u de cursor boven de advertentierij en klikt u vervolgens op **[!UICONTROL More]** > **[!UICONTROL Resubmit]**.
 
 >[!MORELIKETHIS]
 >

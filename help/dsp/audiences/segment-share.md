@@ -2,10 +2,10 @@
 title: Delen of Stoppen met delen van een segment
 description: Leer hoe u een aangepast of CCPA-opt-out-segment voor verkoop kunt delen of niet meer delen met andere DSP gebruikersaccounts.
 feature: DSP Segments
-exl-id: 3a284c81-73ee-4efd-9532-5ae00a000dd9
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: ea5cafb3-58b0-4b05-9b02-c022466d9b8c
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt uw douanesegmenten en opt-out CCPA van verkoopsegmenten met extra DSP geb
 
 U kunt ook stoppen met het delen van een segment met andere DSP gebruikersaccounts.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]>[!UICONTROL Segments]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
 1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Share]**.
 

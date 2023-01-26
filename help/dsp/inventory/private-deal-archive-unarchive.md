@@ -2,8 +2,8 @@
 title: Een persoonlijke deal archiveren of archiveren
 description: Leer hoe te om een privé overeenkomst te archiveren of unarchiveren.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 6ecf90b6-a52f-42f3-aa3f-b2c489ea0aa8
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: f3f22299-a538-4956-a8ef-d44f20e4d2d7
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '216'
 ht-degree: 0%
@@ -24,8 +24,8 @@ U kunt een overeenkomst unarchive om zijn vorige status op elk ogenblik te herst
 
 ## Een persoonlijke deal archiveren
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
-1. In de overeenkomstenrij, klik **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -34,9 +34,9 @@ U kunt een overeenkomst unarchive om zijn vorige status op elk ogenblik te herst
 
 ## Een persoonlijke deal verwijderen
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 1. Boven de overeenkomstenlijst, klik ![Filter](/help/dsp/assets/filter.png); klikken **[!UICONTROL Status]** en selecteert u *[!UICONTROL Archived]*; en klik vervolgens op **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
-1. In de overeenkomstenrij, klik **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
 
 Als de uitgever of SSP eerder de overeenkomst had gedeactiveerd en u het opnieuw wilt gebruiken, contacteer direct de uitgever of SSP.

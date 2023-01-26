@@ -2,8 +2,8 @@
 title: Bewerk de accounts met toegang tot een persoonlijke deal
 description: Leer hoe u een persoonlijke deal met verschillende accounts kunt delen en niet meer delen.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: fb67ef24-8b7f-4a2f-973b-8102a97f0acb
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -22,21 +22,21 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 ## Deel een identiteitskaart van de Overeenkomst met Rekeningen
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
-1. In de overeenkomstenrij, klik **[!UICONTROL ...]>[!UICONTROL Share]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Share]**.
 
 1. Voor elke account die wordt gedeeld:
 
-   1. Voer de **[!UICONTROL Email Address]** voor de rekening met toegang tot de overeenkomst.
+1. Voer de **[!UICONTROL Email Address]** voor de rekening met toegang tot de overeenkomst.
 
-   1. Klik op **[!UICONTROL Share]**.
+1. Klik op **[!UICONTROL Share]**.
 
 ## Stoppen met het delen van een deal-id met accounts
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL Deals]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**.
 
-1. In de overeenkomstenrij, klik **[!UICONTROL ...]>[!UICONTROL Share]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Share]**.
 
 1. Naast de [!UICONTROL Account Email] waarde, klik **[!UICONTROL Unshare].**
 

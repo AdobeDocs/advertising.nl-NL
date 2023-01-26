@@ -2,8 +2,8 @@
 title: Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-inventaristransacties
 description: Leer hoe u zich kunt abonneren op en toegang wilt aanvragen tot[!DNL On Demand] deals.
 feature: DSP On Demand Inventory
-exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 7f23f989-3c96-475e-9f49-aa9098d24c17
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
 ## Abonneren op Alle overeenkomsten van een uitgever
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
 1. (Optioneel) Filter de beschikbare deals of uitgevers op een van de volgende criteria:
 
@@ -36,7 +36,8 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
    * Overeenkomsten van **[!UICONTROL TV Broadcasters]**
 
-   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren (**[!UICONTROL Tune-In]**)
+   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren
+      **[!UICONTROL Tune-In]**)
 
    * Deals waarvoor de uitgever 21+ het richten en goedkeurt alcoholadvertenties heeft toegepast (**[!UICONTROL Legal drinking age]**)
 
@@ -48,7 +49,7 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
 ## Verzoek om toegang tot Individuele Overeenkomsten
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 
 1. (Optioneel) Filter de beschikbare deals of uitgevers op een van de volgende criteria:
 
@@ -64,7 +65,8 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
    * Overeenkomsten van **[!UICONTROL TV Broadcasters]**
 
-   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren (**[!UICONTROL Tune-In]**)
+   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren
+      **[!UICONTROL Tune-In]**)
 
    * Deals waarvoor de uitgever 21+ het richten en goedkeurt alcoholadvertenties heeft toegepast (**[!UICONTROL Legal drinking age]**)
 

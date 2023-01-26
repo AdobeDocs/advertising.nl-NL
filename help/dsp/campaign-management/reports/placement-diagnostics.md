@@ -2,8 +2,8 @@
 title: De Placement Diagnostic Reports weergeven
 description: Leer hoe u problemen kunt diagnosticeren met de plaatsingsinstellingen en -pakking.
 feature: DSP Placements
-exl-id: d64406b6-83b5-4ae7-984c-98610fc1ee40
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -24,7 +24,7 @@ De volgende gereedschappen kunnen u helpen bij het diagnosticeren van problemen 
    1. Open de plaatsingsinstellingen:
       1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
       1. Klik op de naam van de campagne en klik vervolgens op **[!UICONTROL Placements]**.
-      1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Edit]**.
+      1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
    1. Klik in de rechterbovenhoek op ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) of **[!UICONTROL Diagnostic]**.
 1. Voer een van de volgende handelingen uit:
    * Het wijzigingslogboek weergeven:

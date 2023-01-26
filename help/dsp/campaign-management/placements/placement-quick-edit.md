@@ -2,8 +2,8 @@
 title: Instellingen voor sleutelplaatsing snel bewerken
 description: Leer hoe u de instellingen voor toetsplaatsing snel kunt wijzigen.
 feature: DSP Placements
-exl-id: 107ec263-a0f2-491b-8380-2cceaf51cae9
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 0%
@@ -23,7 +23,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Quick Edit]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Quick Edit]**.
 1. Bewerk de beschikbare opties [plaatsingsinstellingen](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, en **[!UICONTROL Budget]**.
 1. Klik op **[!UICONTROL Apply]**.
 
@@ -37,5 +37,5 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
->* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 

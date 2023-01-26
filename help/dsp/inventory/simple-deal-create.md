@@ -1,18 +1,18 @@
 ---
-title: "Maak een [!UICONTROL Simple Ad Serving] Overeenkomst"
-description: "Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal."
+title: Een [!UICONTROL Simple Ad Serving] Deal
+description: Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] deal.
 feature: DSP Simple Ad Serving
-exl-id: d8de85ec-616c-44ed-9a1a-cc25713ad4a4
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
 
 # Een [!UICONTROL Simple Ad Serving] Deal
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Simple Ad Serving]**.
 

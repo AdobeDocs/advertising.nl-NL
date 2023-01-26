@@ -2,8 +2,8 @@
 title: Geef Advertisers met Toegang tot een Privé Overeenkomst uit
 description: Leer hoe te om te specificeren welke adverteerders tot een privé overeenkomst kunnen toegang hebben.
 feature: DSP Private Inventory, DSP Deal IDs
-exl-id: 6efbc5dc-90d8-46a5-88fe-218990c6336d
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 >
 >U kunt ook [delen en ophouden delend een overeenkomst identiteitskaart met alle adverteerders binnen gespecificeerde rekeningen](deal-id-share.md).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]> [!UICONTROL Deals].**
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]>[!UICONTROL Manage Advertisers]**.
+1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Manage Advertisers]**.
 
 1. In de overeenkomstenmontages, selecteer de controledoos naast elke adverteerder die toegang tot de overeenkomst zou moeten hebben, en ontruim de controledoos naast elke adverteerder die geen toegang zou moeten hebben.
 

@@ -2,8 +2,8 @@
 title: De status van je [!DNL On Demand] Aanvragen en abonnementen voor deals
 description: Leer hoe u de status van uw [!DNL On Demand] deal verzoeken en abonnementen.
 feature: DSP On Demand Inventory
-exl-id: 8dd6d922-c4a3-4ddb-bca9-f6f782da1320
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 4a8c0242-eaa7-426f-82da-8a4ae4bed492
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '290'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Nadat u om een individuele overeenkomst verzoekt of op alle overeenkomsten van een uitgever intekent, zie of heeft de uitgever elke overeenkomst voor elke adverteerder in uw rekening goedgekeurd of verworpen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Inventory]>[!UICONTROL On Demand]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL On Demand]**.
 1. Filter de beschikbare deals om deals op te nemen die u hebt aangevraagd of waarop u een abonnement hebt genomen (**[!UICONTROL Currently subscribed to]**)**.
 1. Voer een van de volgende handelingen uit:
    * Als u de deals wilt weergeven in het dialoogvenster [!UICONTROL Deal] weergeven, klikken **[!UICONTROL Deal view]**.

@@ -2,8 +2,8 @@
 title: Een aangepast rapport dupliceren
 description: Leer hoe te om een douanerapport tot stand te brengen door een bestaand rapport te dupliceren.
 feature: DSP Custom Reports
-exl-id: 40f6d10d-5abf-410d-b382-6c8ddbc10921
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 20542bf8-69e9-44e0-9637-56b27f2de9ec
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 1%
@@ -16,7 +16,7 @@ Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Reports]**.
 
-1. Klik in de kolom Opties voor de rapportrij op **[!UICONTROL options]>[!UICONTROL Copy]**.
+1. Klik in de kolom Opties voor de rapportrij op **[!UICONTROL options]** > **[!UICONTROL Copy]**.
 
 1. (Optioneel) Bewerk de [rapportinstellingen](/help/dsp/reports/report-settings.md) indien nodig.
 

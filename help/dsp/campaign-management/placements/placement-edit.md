@@ -2,10 +2,10 @@
 title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
-exl-id: 135adad3-0bc0-4402-ac4a-a4fc71f78edf
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk b
 
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Edit]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. Bewerk de [plaatsingsinstellingen](placement-settings.md).
 
@@ -88,5 +88,5 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
->* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/dsp/bulk-edit-placement-tools.html)
+>* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
 

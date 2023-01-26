@@ -2,8 +2,8 @@
 title: Een plaatsing archiveren of archiveren
 description: Leer hoe u een plaatsing archiveert of het archief ervan opheft.
 feature: DSP Placements
-exl-id: 3d342f83-1bcb-4f80-b31a-2009bcdde565
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 4304452d-4573-46b3-892e-299950a75d4f
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -23,7 +23,7 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Archive]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -35,7 +35,7 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]>[!UICONTROL Unarchive]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

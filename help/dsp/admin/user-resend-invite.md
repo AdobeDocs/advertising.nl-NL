@@ -1,8 +1,8 @@
 ---
 title: Een uitnodiging voor een gebruiker in behandeling opnieuw verzenden
 description: Leer hoe u een uitnodiging in behandeling opnieuw kunt verzenden.
-exl-id: e326460b-8354-452e-aa35-00c82c7d76bf
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 15d17a03-526b-4dc2-883a-131d750fca24
+source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -17,9 +17,9 @@ U kunt een uitnodiging opnieuw verzenden naar een gebruiker met een uitnodiging 
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Users]**.
+   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Users]**.
 
-   * Klik in het hoofdmenu op **[!UICONTROL Settings]>[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]**.
+   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]**.
 
 1. In de **Uitnodigingen** sectie, klikt u op ![Opnieuw](/help/dsp/assets/resend.png).
 
