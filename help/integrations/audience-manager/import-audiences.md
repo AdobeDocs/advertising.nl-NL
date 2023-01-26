@@ -2,10 +2,10 @@
 title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
-exl-id: 08a40148-b7d2-442b-81e8-f3aec4fca7df
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
+source-git-commit: 0b5e60f033d623bb6d342c6b56cb98f0bfcde916
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '763'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ DSP en [!DNL Advertising Search] kan elke gebruiker metagegevens, hiërarchiegeg
 
 * Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd
 
-* Segmenten die in Adobe Experience Cloud zijn gemaakt met de opdracht [!DNL People core service]
+* Segmenten die zijn gemaakt met de Adobe Experience Cloud [!DNL Audience Library]
 
 * Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
@@ -109,7 +109,7 @@ De eerste importbewerking duurt ongeveer 24 uur. Na de eerste importbewerking wo
 ### How DSP Syncs the Data
 
 DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.eversttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
-
+ 
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 
 ### How Search Syncs the Data

@@ -2,10 +2,10 @@
 title: Adobe Advertising Integrations with Adobe Audience Manager
 description: Meer informatie over de verschillende manieren waarop Adobe Advertising gegevens kan uitwisselen met Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
-exl-id: 0f88235b-6f9c-4b97-9517-22e8c47e1846
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
+source-git-commit: 0b5e60f033d623bb6d342c6b56cb98f0bfcde916
 workflow-type: tm+mt
-source-wordcount: '503'
+source-wordcount: '502'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ U kunt Adobe-reclame op de volgende manieren integreren met Audience Manager.
 
 *Geopende adverteerders met [!DNL Advertising Search] alleen*
 
-Binnen [!DNL [!DNL Search]], kunt u maken [!DNL Google Ads] Google-klanten komen overeen met gebruikers-id&#39;s die uw bestaande Audience Manager-segmenten gebruiken die [!UICONTROL Adobe Media Optimizer (HTTP)] en [!UICONTROL Adobe Media Optimizer Batch Destination] als bestemmingen. ([!DNL Media Optimizer] is een vroegere naam voor [!DNL [!DNL Search]].) Dit omvat Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die in Adobe Experience Cloud worden gemaakt met behulp van de [!DNL People core service]. Raadpleeg de Help in het product binnen [!DNL [!DNL Search]].
+Binnen [!DNL [!DNL Search]], kunt u maken [!DNL Google Ads] Google-klanten komen overeen met gebruikers-id&#39;s die uw bestaande Audience Manager-segmenten gebruiken die [!UICONTROL Adobe Media Optimizer (HTTP)] en [!UICONTROL Adobe Media Optimizer Batch Destination] als bestemmingen. ([!DNL Media Optimizer] is een vroegere naam voor [!DNL [!DNL Search]].) Dit omvat Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die met de Adobe Experience Cloud zijn gemaakt [!DNL Audience Library]. Raadpleeg de Help in het product binnen [!DNL [!DNL Search]].
 
 [Klanten komen overeen met gebruikers-id&#39;s](https://support.google.com/google-ads/answer/9199250) werkt net als publiek met tags op de website, maar een niet-PII-id wordt toegewezen aan unieke publieksleden voor duidelijke voordelen ten opzichte van standaardklantovereenkomsten en op websites gebaseerde doelgroepen.
 

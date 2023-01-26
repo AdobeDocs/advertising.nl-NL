@@ -1,9 +1,9 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 0b5e60f033d623bb6d342c6b56cb98f0bfcde916
 workflow-type: tm+mt
-source-wordcount: '871'
+source-wordcount: '870'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ Meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht va
 
 * Audience Manager-segmenten
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
-* Segmenten die in Adobe Experience Cloud zijn gemaakt met de opdracht [!DNL People core service]
+* Segmenten die zijn gemaakt met de Adobe Experience Cloud [!DNL Audience Library]
 * Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
 De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-time gesynchroniseerd met een vertraging van 1 tot 2 seconden.
