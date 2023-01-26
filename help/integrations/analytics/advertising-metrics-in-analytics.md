@@ -3,9 +3,9 @@ title: Adobe Advertising Metrics in Analysis Workspace
 description: Adobe Advertising Metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: d740bd19-c643-4917-9cfd-f9cf0affd07e
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -39,7 +39,7 @@ ht-degree: 0%
 | [!UICONTROL AMO Views 75% Complete] | Het aantal weergaven waarvoor ten minste 75% van een Adobe-advertentievideo werd bekeken. |
 | [!UICONTROL AMO Views 100% Complete] | Het aantal weergaven waarvoor 100% van een Adobe-advertentievideo werd bekeken. |
 | [!UICONTROL AMO Viewable Impressions] | Het aantal indrukkingen dat is gemeten om te kunnen worden weergegeven volgens de plaatsingsconfiguratie. |
-| [!UICONTROL AMO Not Viewable Impressions] | Het aantal indrukkingen waarvan is vastgesteld dat ze niet kunnen worden weergegeven. Deze waarde wordt berekend als ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable ]). |
+| [!UICONTROL AMO Not Viewable Impressions] | Het aantal indrukkingen waarvan is vastgesteld dat ze niet kunnen worden weergegeven. Deze waarde wordt berekend als ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable]). |
 | [!UICONTROL AMO Measurable Impressions] | Het aantal indrukkingen waarvoor de viewability instrumentatie met succes werd geïnitialiseerd. Deze waarde wordt berekend als (geïndexeerde indrukken - het aantal niet-meetbare indrukken). |
 
 ## Nuttige aangepaste berekende cijfers voor Adobe-advertenties

@@ -3,7 +3,7 @@ title: Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-inventaristra
 description: Leer hoe u zich kunt abonneren op en toegang wilt aanvragen tot[!DNL On Demand] deals.
 feature: DSP On Demand Inventory
 exl-id: e66e5bad-526e-4b71-8072-332dd173f105
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -36,8 +36,7 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
    * Overeenkomsten van **[!UICONTROL TV Broadcasters]**
 
-   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren
-      **[!UICONTROL Tune-In]**)
+   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren (**[!UICONTROL Tune-In]**)
 
    * Deals waarvoor de uitgever 21+ het richten en goedkeurt alcoholadvertenties heeft toegepast (**[!UICONTROL Legal drinking age]**)
 
@@ -65,8 +64,7 @@ Zodra een overeenkomst is [goedgekeurd](/help/dsp/inventory/on-demand-inventory-
 
    * Overeenkomsten van **[!UICONTROL TV Broadcasters]**
 
-   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren
-      **[!UICONTROL Tune-In]**)
+   * Deals van uitgevers die &#39;tune-in&#39;-creatieven accepteren (**[!UICONTROL Tune-In]**)
 
    * Deals waarvoor de uitgever 21+ het richten en goedkeurt alcoholadvertenties heeft toegepast (**[!UICONTROL Legal drinking age]**)
 

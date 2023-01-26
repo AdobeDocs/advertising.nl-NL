@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: c96e46ae-2fb2-4364-9c51-f160c00693ba
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
 workflow-type: tm+mt
-source-wordcount: '1660'
+source-wordcount: '1657'
 ht-degree: 0%
 
 ---
@@ -125,7 +125,7 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Net Spend] | De som van [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)], en [!UICONTROL Billable Spend (Other)]. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | 100% realiseerbaar (%)] | Het percentage zichtbare indrukken[!UICONTROL dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Viewable Completion (%)] | Het percentage zichtbare indrukken dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completion Rate] | Het percentage weergaven dat minstens één kwartiel van de advertentie bekeken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completions] | Het aantal meningen die minstens één kwartiel van de advertentie bekeken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Completion Rate] | Het percentage weergaven dat minstens twee kwartielen van de advertentie bekeken. |

@@ -3,9 +3,9 @@ title: Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris v
 description: Leer hoe u de beoogde sites, advertenties, frequentie en inventarisgegevens voor een plaatsing bekijkt.
 feature: DSP Placements
 exl-id: 99bb4a4e-dc52-4130-87c4-5458e25bbc1e
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

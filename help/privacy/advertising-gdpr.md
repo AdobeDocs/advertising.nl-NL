@@ -3,9 +3,9 @@ title: Adobe Reclameondersteuning voor de algemene gegevensbeschermingsverordeni
 description: Meer informatie over de ondersteunde gegevenstypen voor aanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden
 feature: GDPR
 exl-id: 304d88d0-d63d-4b32-8d4d-c61ba2409adc
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over 
 
 ## Vereiste veldwaarden in JSON-verzoeken voor Adobe-advertenties
 
-&quot;&quot;bedrijfcontext&quot;:
+`"company context":`
 
 * `"namespace": **imsOrgID**`
 * `"value":` &lt;*uw IMS Org ID-waarde*>

@@ -3,10 +3,10 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 4e37b571-9af4-4897-bff2-035a5f2600a5
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
-source-wordcount: '652'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -52,7 +52,7 @@ ht-degree: 1%
 
       1. Versmal het publiek. Dit omvat het selecteren van publiekssegmenten om binnen de plaatsing te richten.
 
-         Voor [!DNL] U kunt plaatsingen gebruiken [DSP unieke publiek dat overeenkomt met [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) door een of meer publiekssegmenten op te nemen die kunnen worden vergeleken met de [!DNL Roku] (opted-in) deterministische gegevensset.
+         Voor [!DNL Roku] plaatsing, u kunt hefboomwerking [DSP unieke publiek dat overeenkomt met [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) door een of meer publiekssegmenten op te nemen die kunnen worden vergeleken met de [!DNL Roku] (opted-in) deterministische gegevensset.
    1. (Voor campagnes met apparaatoverschrijdende doelgerichtheid op het niveau van de mens; (optioneel) Als de plaatsing gericht is op een of meer specifieke doelgroepen, schakelt u op personen gebaseerde cross-device-oriëntatie in voor de plaatsing.
 
       Op mensen gebaseerde cross-device gerichte toepassingen worden geleverd door [!DNL LiveRamp] alleen gegevens uit de VS gebruiken. De dienst is beschikbaar aan alle adverteerders bij $0.35 CPM voor beelden die door te gebruiken worden geleverd [!DNL LiveRamp] apparaatgrafiek (dat wil zeggen voor apparaten die niet worden gevonden binnen de doelpubliekssegmenten).
@@ -73,56 +73,56 @@ ht-degree: 1%
    1. Klik op **[!UICONTROL Attach an ad]**.
 
    1. Voer een van de volgende handelingen uit:
-   * Een nieuwe advertentie maken:
 
-      1. Klik op **[!UICONTROL Create a New Ad].**
+      * Een nieuwe advertentie maken:
 
-      1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
+         1. Klik op **[!UICONTROL Create a New Ad].**
 
-      1. Klik op **[!UICONTROL Save & Submit for Review]**.
+         1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
-      1. (Optioneel) Klik voor elke aanvullende advertentie die u voor de plaatsing wilt maken op **[!UICONTROL Attach Another Ad]** en herhaal vervolgens stap 1-3.
+         1. Klik op **[!UICONTROL Save & Submit for Review]**.
 
-      1. Als u geen bestaande advertenties wilt bijvoegen, klikt u op **[!UICONTROL I'm done for now]**.
-   * Bestaande advertenties toevoegen aan de campagne:
+         1. (Optioneel) Klik voor elke aanvullende advertentie die u voor de plaatsing wilt maken op **[!UICONTROL Attach Another Ad]** en herhaal vervolgens stap 1-3.
 
-      1. Klik op **[!UICONTROL Select an Ad]**.
+         1. Als u geen bestaande advertenties wilt bijvoegen, klikt u op **[!UICONTROL I'm done for now]**.
+      * Bestaande advertenties toevoegen aan de campagne:
 
-      1. Voer een van de volgende handelingen uit:
-
-         * Eén advertentie tegelijk toevoegen:
-
-            1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
-
-            1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach Another Ad]** en herhaal vervolgens het proces.
-         * U kunt maximaal 20 advertenties tegelijk toevoegen:
-
-            1. Schakel het selectievakje boven de advertentielijst in.
-
-            1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
-
-            1. Klik op **[!UICONTROL Attach]**.
-
-            1. Klik naast de naam van de advertentie op **[!UICONTROL Select]**.
-      1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
-
-         1. Klik op **[!UICONTROL Custom Schedule Ads]**.
+         1. Klik op **[!UICONTROL Select an Ad]**.
 
          1. Voer een van de volgende handelingen uit:
 
-            * Als u een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
+            * Eén advertentie tegelijk toevoegen:
 
-            * Als u een bestaande vlucht wilt toevoegen aan een advertentie, klikt u op **[!UICONTROL +]** in de rij ad voor de vluchtkolom.
+               1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
 
-            * Als u een bestaande vlucht uit een advertentie wilt verwijderen, klikt u op **[!UICONTROL x]** in de rij ad voor de vluchtkolom.
+               1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach Another Ad]** en herhaal vervolgens het proces.
+            * U kunt maximaal 20 advertenties tegelijk toevoegen:
 
-            * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie, en voert vervolgens het relatieve gewicht in waarmee elke advertentie moet worden geroteerd, als percentage.
+               1. Schakel het selectievakje boven de advertentielijst in.
 
-               De totale gewichten moeten gelijk zijn aan 100.
-         1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]**.
+               1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
 
-         1. Bekijk de vlieggegevens en klik vervolgens op **[!UICONTROL Save & Finish]**.
+               1. Klik op **[!UICONTROL Attach]**.
 
+               1. Klik naast de naam van de advertentie op **[!UICONTROL Select]**.
+         1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
+
+            1. Klik op **[!UICONTROL Custom Schedule Ads]**.
+
+            1. Voer een van de volgende handelingen uit:
+
+               * Als u een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
+
+               * Als u een bestaande vlucht wilt toevoegen aan een advertentie, klikt u op **[!UICONTROL +]** in de rij ad voor de vluchtkolom.
+
+               * Als u een bestaande vlucht uit een advertentie wilt verwijderen, klikt u op **[!UICONTROL x]** in de rij ad voor de vluchtkolom.
+
+               * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie, en voert vervolgens het relatieve gewicht in waarmee elke advertentie moet worden geroteerd, als percentage.
+
+                  De totale gewichten moeten gelijk zijn aan 100.
+            1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]**.
+
+            1. Bekijk de vlieggegevens en klik vervolgens op **[!UICONTROL Save & Finish]**.
 
 
 
@@ -137,7 +137,6 @@ ht-degree: 1%
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-
-   >*[Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
+>* [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 >* [Video: Hoe te om een StandaardPlaatsing van de Vertoning te creëren](https://video.tv.adobe.com/v/340454)
 

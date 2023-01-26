@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen voor een campagne downloaden
 description: Leer hoe te om de plaatsingsmontages voor een campagne te downloaden gebruikend de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: c3b0cbf2-7095-4608-977a-9a5dd0bbd585
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in h
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik naast de naam van de campagne op **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]**.
+   * Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
 
-   * Klik op de naam van de campagne om de details van de campagne weer te geven. Klik in de rechterbovenhoek op **[!UICONTROL ...]>[!UICONTROL Download Excel QA sheet]**.
+   * Klik op de naam van de campagne om de details van de campagne weer te geven. Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
 
    Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 

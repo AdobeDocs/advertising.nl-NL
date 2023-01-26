@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 feature: Integration with Adobe Analytics
 exl-id: 34685e04-d4f9-4e27-b83e-b56164244b2b
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
-source-wordcount: '3278'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -153,13 +153,17 @@ Voor uw integratie moet u uw doorklikgegevens valideren om ervoor te zorgen dat 
 
 In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] Bij het bijhouden moet u klikken met instanties vergelijken met de berekende metrische waarde &quot;Klikken op AMO ID-instanties&quot;, die als volgt wordt berekend:
 
-```Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)```
+```
+Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
+```
 
 [!UICONTROL AMO ID Instances] staat voor het aantal keren dat AMO-id&#39;s (`s_kwcid` parameters) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een `s_kwcid` parameter wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
 
 In advertentierapporten van Adobe kunt u klikken op vergelijkbare wijze vergelijken met instanties die de opdracht &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 
-```Clicks to [!UICONTROL EF ID Instances] = (ef_id_instances / Clicks)```
+```
+Clicks to [EF ID Instances = (ef_id_instances / Clicks)
+```
 
 Zorg dat de AMO-id en de EF-id goed overeenkomen. Verwacht echter niet dat de AMO-id en de EF-id allemaal op dezelfde manier overeenkomen. Dit verschil kan leiden tot kleine verschillen in het totaal [!UICONTROL AMO ID Instances] en [!UICONTROL EF ID Instances]. Indien het totaal [!UICONTROL AMO ID Instances] in [!DNL Analytics] verschillen van [!UICONTROL EF ID Instances] in reclame voor Adobe met meer dan 1%, maar neem contact op met uw [!DNL Adobe] accountteam voor hulp.
 
@@ -175,13 +179,17 @@ De [AMO-id](ids.md) (s_kwcid de parameter van het vraagkoord wordt gebruikt voor
 
 Stel dat we de volgende bestemmingspagina hebben:
 
-`www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id`
+```
+www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id
+```
 
 waarbij de EF-id &quot;`test_ef_id`&quot; en de AMO-id &quot;`test_amo_id`.&quot;
 
 Als een omleiding van de site plaatsvindt, kan de URL er als volgt uitzien:
 
-`www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id#redirectAnchorTag`
+```
+www.adobe.com/?ef_id=test_ef_id&s_kwcid=test_amo_id#redirectAnchorTag
+```
 
 waarbij de EF-id &quot;`test_ef_id`&quot; en de AMO-id &quot;`test_amo_id#redirectAnchorTag`.&quot;
 
@@ -223,7 +231,7 @@ De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgang
 
 ### Adobe Advertising Traffic Metrics gebruiken voor niet-Adobe-Dimension voor advertenties
 
-Adobe Advertising biedt Analytics met [advertentiespecifieke verkeersmetingen en de daarmee verband houdende afmetingen van DSP en [!DNL [!DNL Search]]](advertising-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
+Adobe Advertising biedt Analytics met [reclamespecifieke verkeersmaatstaven en de daarmee verband houdende afmetingen van [!DNL DSP] en [!DNL Search]](advertising-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
 
 Als u bijvoorbeeld de [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] Metriek per Rekening, dat een Adobe Advertising dimensie is, dan zult u het totaal zien [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] per rekening.
 

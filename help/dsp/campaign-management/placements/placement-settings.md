@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 36097132-e589-4d49-bf86-54f61eae5b67
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
-source-wordcount: '3418'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 
    U kunt de lijst zoeken op trefwoord, sleutel, deal-id of aangepaste tag.
 
-* [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: Alles [premie, niet gegarandeerd [!UICONTROL On Demand] voorraad](/help/dsp/inventory/on-demand-inventory-about.md) (of [!UICONTROL On Demand] [!DNL] Roku-deals voor [!DNL Roku] plaatsen) waarop u zich hebt geabonneerd [!DNL DSP]. U kunt opnemen en uitsluiten [!UICONTROL On Demand] voorraad.
+* [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: Alles [premie, niet gegarandeerd [!UICONTROL On Demand] voorraad](/help/dsp/inventory/on-demand-inventory-about.md) (of [!UICONTROL On Demand] [!DNL Roku] deals voor [!DNL Roku] plaatsen) waarop u zich hebt geabonneerd [!DNL DSP]. U kunt opnemen en uitsluiten [!UICONTROL On Demand] voorraad.
 
    U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst op feed weergeeft, kunt u zoeken op naam van feed, feed-sleutel of een geselecteerd uitgeversgebied, een categorietag of een kenmerkende tag.
 
@@ -188,14 +188,14 @@ Opgeven welke inventarisdoelen worden gebruikt:
    1. Schakel het selectievakje naast de naam van het voorraadtype in.
    1. (Optioneel) Wijzig de bronnen in:
       1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
-      1. ([!UICONTROL Public] en [!UICONTROL On Demand] voorraad) Klik *[!UICONTROL *View by Source]** of **[!UICONTROL View by Feed]** om te wijzigen hoe de bronnen worden weergegeven.
+      1. ([!UICONTROL Public] en [!UICONTROL On Demand] voorraad) Klik **[!UICONTROL View by Source]** of **[!UICONTROL View by Feed]** om te wijzigen hoe de bronnen worden weergegeven.
       1. (Indien van toepassing) Filter de voorraad naar wens.
       1. Geef de bronnen op die u wilt opnemen en uitsluiten:
          * Als u een [!UICONTROL Public] of [!UICONTROL On Demand] bron, klik **[!UICONTROL Include]** naast de bronnaam.
          * Opnemen [!UICONTROL Private] bronnen:
             * Als u alle voorraad in een deal wilt opnemen, klikt u op **[!UICONTROL Include all]** naast de overeenkomstennaam.
             * Om een individuele inventarisbron te omvatten, breid de overeenkomstennaam uit, en klik dan het controlevakje naast de bronnaam.
-         * Een [!UICONTROL Public] of [!UICONTROL On ] bron, klik **[!UICONTROL Exclude]** naast de bronnaam.
+         * Een [!UICONTROL Public] of [!UICONTROL On source], klikt u op **[!UICONTROL Exclude]** naast de bronnaam.
    1. (Optioneel) Als u een CSV-bestand met de doelgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Save & Export]**.
    1. Klik op **[!UICONTROL Save]**.
 
@@ -311,6 +311,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 **[!UICONTROL Secondary Cap]:** (facultatief; beschikbaar wanneer u een numerieke waarde toevoegt [!UICONTROL Placement Cap]) Een extra beperking binnen de grenzen van de primaire plaatsingsdop. Selecteer het aantal afbeeldingen en de tijdsperiode (bijvoorbeeld 3 per 12 uur).
 
 **[!UICONTROL Day Parting]:** (Optioneel) Specifieke dagen van de week en het tijdstip van de dag waarop advertenties kunnen worden uitgevoerd. De zomerintervallen opgeven:
+
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Selecteer de toepasselijke tijdzone.
 1. Geef de intervallen op:

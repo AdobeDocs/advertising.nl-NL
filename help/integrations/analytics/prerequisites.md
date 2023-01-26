@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 08e54e2b-ed9b-4489-8de5-ab1379b7133c
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Bekijk de volgende informatie voordat u Adobe Advertising integreert met Adobe A
 ## Vereisten voor het delen van analysesegmenten met Adobe-reclame
 
 * Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.1 of hoger
-* Adobe Analytics: `!DNL appMeasurement.js` versie 1.8 of hoger
+* Adobe Analytics: `appMeasurement.js` versie 1.8 of hoger
 
 ## Voorschriften voor rapportage [!DNL Analytics] Gegevens in Adobe-reclame
 

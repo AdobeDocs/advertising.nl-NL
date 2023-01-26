@@ -3,7 +3,7 @@ title: Bewerk de accounts met toegang tot een persoonlijke deal
 description: Leer hoe u een persoonlijke deal met verschillende accounts kunt delen en niet meer delen.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 5ddd406d-1ee5-4d13-8e12-be575cbb7551
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -28,9 +28,9 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 1. Voor elke account die wordt gedeeld:
 
-1. Voer de **[!UICONTROL Email Address]** voor de rekening met toegang tot de overeenkomst.
+   1. Voer de **[!UICONTROL Email Address]** voor de rekening met toegang tot de overeenkomst.
 
-1. Klik op **[!UICONTROL Share]**.
+   1. Klik op **[!UICONTROL Share]**.
 
 ## Stoppen met het delen van een deal-id met accounts
 

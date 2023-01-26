@@ -3,7 +3,7 @@ title: Veelgestelde vragen over Campaign Management
 description: Meer informatie over campagnebeheer, waaronder de latentieperiode voor wijzigingen en wat er gebeurt wanneer u budgetwijzigingen aanbrengt tijdens een vlucht.
 feature: DSP Packages, DSP Placements
 exl-id: 9034ab2c-b8b0-4759-bc87-5f73857bb062
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
