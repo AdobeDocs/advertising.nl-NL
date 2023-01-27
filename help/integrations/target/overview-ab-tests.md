@@ -17,7 +17,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op alle betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 

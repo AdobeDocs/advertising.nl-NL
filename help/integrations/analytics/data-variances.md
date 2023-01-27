@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 2060ab016917a69ef8bf718d339a35eb62b1269e
 workflow-type: tm+mt
-source-wordcount: '3276'
+source-wordcount: '3279'
 ht-degree: 0%
 
 ---
@@ -88,8 +88,11 @@ Houd rekening met deze verschillen bij het vergelijken van doorkijkconversies tu
 
 Zie een lijst met [!DNL Analytics] toewijzingsmodellen en de definities daarvan op [https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html).
 
-Als u bent aangemeld [!DNL Search]kunt u een lijst met toewijzingsmodellen vinden op
-[https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm](https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm).
+Als u bent aangemeld [!DNL Search], kunt u een lijst vinden
+
+* (Gebruikers in Noord-Amerika) [`https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm`](https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm)
+
+* (Alle andere gebruikers) [`https://enterprise-intl.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm`](https://enterprise-intl.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm)
 
 #### Attributie van gebeurtenisdatum in advertentie van Adobe
 

@@ -3,7 +3,7 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 81b0acfa-085d-495b-9516-576b952b1307
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 2060ab016917a69ef8bf718d339a35eb62b1269e
 workflow-type: tm+mt
 source-wordcount: '504'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
 >
 >Zie de [aanbevolen procedures voor het maken van aangepaste doelen](custom-goal-best-practices.md) voor uiteinden op hoe te om uw douanedoelstellingen te vormen.
 
-1. Aanmelden [!DNL Adobe Advertising Search] bij (Amerikaanse ondernemingen) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (ondernemingen in alle andere landen) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Aanmelden [!DNL Adobe Advertising Search] at (gebruikers in Noord-Amerika) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (alle andere gebruikers) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Zorg ervoor dat de meetgegevens die u in uw doel wilt opnemen, zijn bijgehouden, beschikbaar zijn in het product en een weergavenaam bevatten:
    1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Admin]>[!UICONTROL Transaction Properties]**.
    1. Bepaal de plaats van metrisch, en zorg ervoor dat **[!UICONTROL Show in UI and Reports]** wordt toegelaten voor metrisch.
