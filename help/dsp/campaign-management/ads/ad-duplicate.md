@@ -3,7 +3,7 @@ title: Een advertentie dupliceren
 description: Leer hoe u een advertentie dupliceert.
 feature: DSP Ads
 exl-id: 030ce258-750c-4c5f-ae89-32dfb2864189
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -20,7 +20,7 @@ U kunt een advertentie dupliceren binnen dezelfde campagne.
 
 1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL Duplicate]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Geef de nieuwe advertentie-instellingen op:
 

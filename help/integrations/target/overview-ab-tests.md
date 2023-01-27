@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1644'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,7 @@ Voor dit gebruiksgeval zijn de volgende producten en integraties vereist:
 
 ![Doorklikframework](/help/integrations/assets/target-ct-framework.png)
 
-Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de openingspagina bereikt), DSP automatisch de plaatsingssleutel vastleggen door ```${TM_PLACEMENT_ID}``` in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
+Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de openingspagina bereikt), DSP automatisch de plaatsingssleutel vastleggen door `${TM_PLACEMENT_ID}` in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
 
 ![DoorklikURL toegevoegd aan URL landingspagina](/help/integrations/assets/target-ct-url.jpg)
 
@@ -98,7 +98,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
    1. Van de **Gegevensbron** vervolgkeuzelijst, selecteert u **Ad Cloud**.
 
-   1. Voeg binnen de expressiebouwer ```d_event``` in het veld Sleutel en ```imp``` in de **Waarde** veld, selecteren **Regel toevoegen** en sla de eigenschap op.
+   1. Voeg binnen de expressiebouwer `d_event` in het veld Sleutel en `imp` in de **Waarde** veld, selecteren **Regel toevoegen** en sla de eigenschap op.
 
    ![Screenshot van een op regels gebaseerde eigenschap](/help/integrations/assets/target-am-trait.png)
 
@@ -115,7 +115,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voor volledige instructies raadpleegt u &quot;[Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html.&quot;
+In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voor volledige instructies raadpleegt u &quot;[Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)&quot;.
 
 1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
@@ -208,7 +208,7 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 * Controleer op dezelfde landingspagina of a) de hostnaam die wordt weergegeven in de Adobe-foutopsporing onder Oplossingen > Doel overeenkomt met b) de trackingserver die wordt weergegeven in [!DNL Target] voor de activiteit (onder Doelstellingen en instellingen > Rapportinstellingen).
 
-   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.&lt;!— alleen &quot;Analytics?&quot;>
+   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.<!-- just "to Analytics?"-->
 
 [Hostnaamwaarde in Foutopsporing Adobe](/help/integrations/assets/target-troubleshooting-hostname.png)
 

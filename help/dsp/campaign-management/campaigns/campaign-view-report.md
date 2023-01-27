@@ -3,7 +3,7 @@ title: Gedetailleerd rapport voor een campagne weergeven
 description: Leer hoe u rapporten op campagnereniveau kunt openen met secties over de gegevens Geografie, Apparaat, Viewability en Publiek.
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: ce0d8b44-63cb-47da-adac-d9ae330c52bf
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -16,8 +16,8 @@ De <!--legacy --> campagnerapport bevat een overzicht en secties over [!UICONTRO
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Voer een van de volgende handelingen uit:
-   * Klikken **... >[!UICONTROL View report]** in de rechterbovenwerkbalk.
-   * Klik naast de naam van de campagne op  **... >[!UICONTROL View report]**.
+   * Klikken **[!UICONTROL ...]** > **[!UICONTROL View report]** in de rechterbovenwerkbalk.
+   * Klik naast de naam van de campagne op  **[!UICONTROL ...]** > **[!UICONTROL View report]**.
 
 >[!MORELIKETHIS]
 >

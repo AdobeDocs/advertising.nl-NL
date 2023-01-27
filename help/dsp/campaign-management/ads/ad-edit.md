@@ -3,7 +3,7 @@ title: Een advertentie bewerken
 description: Leer hoe u een advertentie kunt bewerken.
 feature: DSP Ads
 exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL Edit]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
 1. De advertentie-instellingen bewerken voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), [pre-rol advertenties](ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md).
 

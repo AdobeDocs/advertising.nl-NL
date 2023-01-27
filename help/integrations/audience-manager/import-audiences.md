@@ -3,9 +3,9 @@ title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
-source-git-commit: 0b5e60f033d623bb6d342c6b56cb98f0bfcde916
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
-source-wordcount: '763'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ DSP en [!DNL Advertising Search] kan elke gebruiker metagegevens, hiërarchiegeg
 
 * Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
-Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL [!DNL Search]], moet u het publiek importeren in [!DNL [!DNL Search]].
+Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL Search], moet u het publiek importeren in [!DNL Search].
 
 ## Vereisten
 
@@ -109,7 +109,7 @@ De eerste importbewerking duurt ongeveer 24 uur. Na de eerste importbewerking wo
 ### How DSP Syncs the Data
 
 DSP syncs the data automatically using the [!DNL Adobe Experience Cloud Identity (ECID) Service]. During synchronization, the [!DNL ECID Service] calls Adobe Advertising at [!DNL cm.eversttech.net]. Because Adobe Advertising is a trusted domain, ID syncs take place from parent pages rather than within the destination publishing iframes, as they do with most third-party activation partners. Audience Manager identifies unique users by device IDs, using the [Audience Manager [!DNL Unique User ID (AAM UUID)]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/ids-in-aam.html#global-device-ids), also called the [!DNL Device ID].
- 
+
 ![Synchronization of [!DNL Adobe] audiences in DSP](/help/integrations/assets/audience-manager-sync.png)
 
 ### How Search Syncs the Data
@@ -148,7 +148,7 @@ In [!DNL Creative], zijn de segmenten beschikbaar in de ervaringsmontages voor d
 
 ### In [!DNL Advertising Search]
 
-In [!DNL [!DNL Search]], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+In [!DNL Search], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 Voor elke [!DNL Google] publiek dat u maakt, [!DNL Google] levert de omvang van het publiek.
 

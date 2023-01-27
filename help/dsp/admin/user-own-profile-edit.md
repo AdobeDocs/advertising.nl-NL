@@ -2,7 +2,7 @@
 title: Gebruikersprofiel bewerken
 description: Leer hoe u uw gebruikersprofiel kunt bewerken.
 exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 3%
@@ -22,6 +22,7 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
       1. Naast het bestaande **[!UICONTROL Email address]**, klikt u op **[!UICONTROL Edit]**.
 
       1. Voer het nieuwe e-mailadres en het bestaande wachtwoord voor de gebruikersaccount in.
+
       1. Klik op **[!UICONTROL Continue]**.
    * Het wachtwoord voor de gebruikersaccount bewerken:
 

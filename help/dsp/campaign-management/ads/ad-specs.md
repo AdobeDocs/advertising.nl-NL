@@ -3,7 +3,7 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '843'
 ht-degree: 0%
@@ -177,7 +177,6 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
    * Bestandstype: JPEG, JPG, PNG, GIF, HTML
    * Maximale bestandsgrootte: 2 MB
    * Dimension: 300 x 250
- 
 
 ## Systeemeigen weergaveadvertenties
 

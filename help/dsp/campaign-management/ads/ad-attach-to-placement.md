@@ -3,7 +3,7 @@ title: Advertentie aan een Plaatsing vastmaken
 description: Leer hoe u een advertentie aan een plaatsing koppelt.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '528'
 ht-degree: 1%
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 1. Klik in het submenu op **[!UICONTROL Ads]**.
 
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL Add to Placements]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
 1. Voer een van de volgende handelingen uit in het scherm Plaatsen en toevoegen:
 
@@ -64,7 +64,7 @@ ht-degree: 1%
 
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 
-1. Klik naast de plaatsingsnaam op  **... > [!UICONTROL Attach Ads].**
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
 
 1. In de [!UICONTROL Add Ad to Placement] scherm, voer een van de volgende handelingen uit:
 
@@ -86,6 +86,7 @@ ht-degree: 1%
       1. Klik op **[!UICONTROL Select an Ad].**
 
       1. Geef de advertenties op:
+
          * Eén advertentie tegelijk toevoegen:
 
             1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**

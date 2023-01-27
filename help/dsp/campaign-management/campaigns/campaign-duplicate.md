@@ -3,7 +3,7 @@ title: Een campagne dupliceren
 description: Leer hoe u een campagne dupliceert.
 feature: DSP Campaigns
 exl-id: 4e42bd5b-e8a9-45be-af5c-367c48d0b131
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '200'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Zie &quot;[Wat is niet gedupliceerd](#campaign-not-duplicated)&quot; voor een li
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
-1. Klik naast de naam van de campagne op **... >[!UICONTROL Duplicate]**.
+1. Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
 
 1. Geef de nieuwe instellingen voor de campagne op:
 

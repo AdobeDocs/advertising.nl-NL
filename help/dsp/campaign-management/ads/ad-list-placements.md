@@ -3,7 +3,7 @@ title: De aan een advertentie gekoppelde plaatsen weergeven
 description: Leer hoe u de plaatsingen kunt zien die aan een advertentie zijn gekoppeld.
 feature: DSP Ads
 exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -17,7 +17,7 @@ Bekijk een lijst met plaatsen die aan een advertentie zijn gekoppeld om de prest
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Ads]**.
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL See placements]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL See placements]**.
 
 >[!MORELIKETHIS]
 >

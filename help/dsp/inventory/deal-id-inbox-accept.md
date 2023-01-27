@@ -3,7 +3,7 @@ title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
 description: Leer hoe u een persoonlijke deal accepteert die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) die identiteitskaart Inbox van de Overeenkomst gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 7c681ab7-3051-451d-ab83-fc75bdd6eaad
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%

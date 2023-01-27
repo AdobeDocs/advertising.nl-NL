@@ -3,7 +3,7 @@ title: Een advertentie archiveren of archiveren
 description: Leer hoe u een advertentie archiveert of de archivering ongedaan maakt.
 feature: DSP Ads
 exl-id: 086c120f-df55-43b0-a6fb-51d68d00a29e
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -21,7 +21,7 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Ads]**.
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL Archive]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
 
 >[!NOTE]
@@ -33,7 +33,7 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Ads]**.
-1. Klik naast de naam van de advertentie op  **... >[!UICONTROL Unarchive]**.
+1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]

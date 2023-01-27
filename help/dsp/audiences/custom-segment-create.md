@@ -3,7 +3,7 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -38,7 +38,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
    1. Terug naar **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 
-   2. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]**.
+   1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]**.
 
       * Ga als volgt te werk om bezoekers van het bureaublad en mobiele apparaten bij te houden op een webpagina:
 
