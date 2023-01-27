@@ -1,10 +1,10 @@
 ---
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
-exl-id: 97055645-4b2f-4795-830d-9ce89ae2ad15
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op alle betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 
@@ -47,7 +47,7 @@ Voor dit gebruiksgeval zijn de volgende producten en integraties vereist:
 
 ![Doorklikframework](/help/integrations/assets/target-ct-framework.png)
 
-Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de openingspagina bereikt), DSP automatisch de plaatsingssleutel vastleggen door `${TM_PLACEMENT_ID}` in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
+Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de openingspagina bereikt), DSP automatisch de plaatsingssleutel vastleggen door ```${TM_PLACEMENT_ID}``` in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
 
 ![DoorklikURL toegevoegd aan URL landingspagina](/help/integrations/assets/target-ct-url.jpg)
 
@@ -98,7 +98,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
    1. Van de **Gegevensbron** vervolgkeuzelijst, selecteert u **Ad Cloud**.
 
-   1. Voeg binnen de expressiebouwer `d_event` in het veld Sleutel en `imp` in de **Waarde** veld, selecteren **Regel toevoegen** en sla de eigenschap op.
+   1. Voeg binnen de expressiebouwer ```d_event``` in het veld Sleutel en ```imp``` in de **Waarde** veld, selecteren **Regel toevoegen** en sla de eigenschap op.
 
    ![Screenshot van een op regels gebaseerde eigenschap](/help/integrations/assets/target-am-trait.png)
 
@@ -115,7 +115,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voor volledige instructies raadpleegt u &quot;[Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html).&quot;
+In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voor volledige instructies raadpleegt u &quot;[Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html.&quot;
 
 1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
@@ -129,7 +129,7 @@ In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voo
 
    >[!NOTE]
    >
-   >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
+   >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-site-entry-reports.html) in Analytics.
 
 1. In de **Goal** voert u de succesmetrische waarde voor de test in.
 
@@ -208,7 +208,7 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 * Controleer op dezelfde landingspagina of a) de hostnaam die wordt weergegeven in de Adobe-foutopsporing onder Oplossingen > Doel overeenkomt met b) de trackingserver die wordt weergegeven in [!DNL Target] voor de activiteit (onder Doelstellingen en instellingen > Rapportinstellingen).
 
-   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.<!-- just "to Analytics?"-->
+   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.&lt;!— alleen &quot;Analytics?&quot;>
 
 [Hostnaamwaarde in Foutopsporing Adobe](/help/integrations/assets/target-troubleshooting-hostname.png)
 

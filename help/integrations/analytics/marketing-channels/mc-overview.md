@@ -2,8 +2,8 @@
 title: Grondbeginselen van [!DNL Marketing Channels]
 description: Belangrijke informatie over [!DNL Analytics Marketing Channels] dat [!DNL Analytics for Advertising] gebruikers moeten dit begrijpen.
 feature: Integration with Adobe Analytics
-exl-id: 27b6fb07-0b63-4ff1-a316-20b9a2b60fe9
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: de02dff5-86ce-41e8-89c6-3c11f6375b77
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -45,6 +45,6 @@ Als u wilt begrijpen hoe Adobe-reclame kan bijdragen aan de signalen die nodig z
 >* [Adobe-advertentie-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](mc-ids.md)
 >* [Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](mc-ac-data.md)
->* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
 

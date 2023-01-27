@@ -2,10 +2,10 @@
 title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 31367c8b-3410-4110-9ae6-11defe625355
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Indien naar behoren in dienst genomen, [!DNL Analytics for Advertising] vervaagt
 Primaire voordelen:
 
 * Verzenden [!DNL Analytics] segmenten rechtstreeks naar Adobe Advertising voor eerderangs sites.
-* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediaclame.
+* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediacereclame.
 * Profiteer van [!DNL Analytics] Analysis Workspace voor een beter begrip van de toegangspunten van sites en het gedrag van bezoekers.
 * Nauwere samenwerking tussen webanalisten en betaalde medieteams mogelijk maken.
 * Doorlopende permanente Adobe-advertentieweergave en doorklikid&#39;s gebruiken binnen [!DNL Analytics] de betrokkenheid van de site te begrijpen.
@@ -34,7 +34,7 @@ Primaire voordelen:
 
 >[!TIP]
 >
-> Kijk eens naar [videoverleiding naar [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html?lang=en#analytics).
+> Kijk eens naar [videoverleiding naar [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html?lang=en#analytics).
 
 ## Analyses gebruiken voor rapportage van betaalde media
 
@@ -94,19 +94,19 @@ Voor meer informatie over de dienst van het Soorten publiek van de Experience Cl
 
 ### Reclamegegevens van Adobe gebruiken in Analysis Workspace
 
-Bekijk de video &quot;[Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html).&quot;
+Bekijk de video &quot;[Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html).&quot;
 
 ### Adobe-publicatiedashboards maken
 
-Als u wilt weten hoe u uw Adobe-advertentiegegevens kunt bijhouden op basis van uw doelstellingen in Analysis Workspace, raadpleegt u de video &quot;[Adobe-publicatiedashboards maken met Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-dashboards-a4adc.html).&quot;
+Als u wilt weten hoe u uw Adobe-advertentiegegevens kunt bijhouden op basis van uw doelstellingen in Analysis Workspace, raadpleegt u de video &quot;[Adobe-publicatiedashboards maken met Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html).&quot;
 
 ### De Adobe-advertentie-id gebruiken voor de analyse van site-invoer
 
-Als u wilt zien hoe u een Adobe Advertising site-ingrapport kunt maken voor de dag-van-week, tijd-van-dag, browser en geografische invloeden, raadpleegt u de video &quot;[Rapporten over Adobe-advertentiesite-invoer maken](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-site-entry-a4adc.html).&quot;
+Als u wilt zien hoe u een Adobe Advertising site-ingrapport kunt maken voor de dag-van-week, tijd-van-dag, browser en geografische invloeden, raadpleegt u de video &quot;[Rapporten over Adobe-advertentiesite-invoer maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Video: Inleiding tot [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/intro-a4adc.html)
+>* [Video: Inleiding tot [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html)
 >* [Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]](prerequisites.md)
 >* [Adobe-advertentie-id&#39;s gebruikt door Analytics](ids.md)
 >* [JavaScript-code voor analyses voor advertenties](/help/integrations/analytics/javascript.md)

@@ -2,8 +2,8 @@
 title: Adobe-advertentie-id's gebruiken om te maken [!DNL Marketing Channels] Regels
 description: Leer hoe u met Adobe-advertentie-id's verwerkingsregels maakt voor [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 4fcdd586-e9c5-4405-a6dc-7799d2bac93e
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 525761b4-607f-4b03-9020-8051009a13c6
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
 source-wordcount: '768'
 ht-degree: 0%
@@ -93,6 +93,6 @@ Maak een regel waarin de EF-id eindigt met &quot;:i&quot; om een weergavedoorvoe
 >* [Grondbeginselen van [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]](mc-data-variances.md)
 >* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](mc-ac-data.md)
->* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
 

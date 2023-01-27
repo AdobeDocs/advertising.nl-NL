@@ -2,10 +2,10 @@
 title: Informatie over Plaatsingsbeheer in DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
-exl-id: 1d1382d9-b6c8-44bf-a708-8458769a39c6
-source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
+exl-id: 903ba200-6bb3-4c31-b7a9-03ada3de5451
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -49,5 +49,6 @@ Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL I
 >* [Een plaatsing maken](placement-create.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
->* [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
+
+   >*[Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 

@@ -2,10 +2,10 @@
 title: JavaScript-code voor [!DNL Analytics for Advertising]
 description: JavaScript-code voor [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
-exl-id: 184508ce-df8d-4fa0-b22b-ca0546a61d58
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '939'
 ht-degree: 0%
 
 ---
@@ -76,9 +76,9 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
    * De tweede rij is de oproep die het verzoek naar Adobe Advertising verzendt. Het begint als volgt: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
 
       Als je de oproep tot Adobe Advertising niet ziet, is dit mogelijk niet de eerste paginaweergave van je bezoek. Voor testdoeleinden kunt u de cookie verwijderen zodat de volgende aanroep de eerste paginaweergave voor het bijbehorende bezoek wordt:
-   1. Zoek op het tabblad Toepassing naar het tabblad `adcloud` cookie, en controleer of de cookie `_les_v` (laatste bezoek) met een waarde van `y` en een tijdstempel voor UTC-tijdperk die over 30 minuten verloopt.
-      1. Verwijder de `ad cloud` cookie maken en de pagina vernieuwen.
 
+      1. Zoek op het tabblad Toepassing naar het tabblad `adcloud` cookie, en controleer of de cookie `_les_v` (laatste bezoek) met een waarde van `y` en een tijdstempel voor UTC-tijdperk die over 30 minuten verloopt.
+      1. Verwijder de `ad cloud` cookie maken en de pagina vernieuwen.
 
 1. (Implementaties die gebruikmaken van de Experience Cloud Identity Service `visitorAPI.js` code) Filter op `/b/ss` om de Analytics-hit te zien.
 

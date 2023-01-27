@@ -2,10 +2,10 @@
 title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
-exl-id: fc64680d-9d1c-4f74-a8b9-2e9b670c00eb
-source-git-commit: 7055a9b9d3a68ef2f690e146128d6946e713586a
+exl-id: bc297796-0c89-4d91-87aa-0668462526ae
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1247'
 ht-degree: 0%
 
 ---

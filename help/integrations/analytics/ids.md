@@ -2,10 +2,10 @@
 title: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 description: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
-exl-id: ed1aab7b-9bd0-4d42-9bfb-9c6fa6db76bc
-source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
+exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1186'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,7 @@ De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te kop
 
 #### [!DNL Google Ads] zoekadvertenties
 
-```
-{gclid}:G:s
-```
+```{gclid}:G:s```
 
 waarbij:
 
@@ -60,9 +58,7 @@ waarbij:
 
 #### Microsoft Adverteren, zoekadvertenties
 
-```
-{msclkid}:G:s
-```
+```{msclkid}:G:s```
 
 waarbij:
 
@@ -71,9 +67,7 @@ waarbij:
 
 #### Advertenties en zoekadvertenties weergeven op andere zoekmachines
 
-```
-<Adobe Advertising visitor ID>:<timestamp>:<channel type>
-```
+```<Adobe Advertising visitor ID>:<timestamp>:<channel type>```
 
 waarbij:
 
@@ -87,7 +81,7 @@ waarbij:
    * `i` voor een indruk van een DSP (display view-through)
    * `s` voor een klik op een zoekadvertentie (doorzoeken door te klikken).
 
-Voorbeeld `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
+Voorbeeld `EF `ID: WcmibgAAHJK1RyY:1551968087687:d
 
 ### De EF ID Dimension in [!DNL Analytics]
 
@@ -103,9 +97,7 @@ De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DN
 
 ### AMO ID-indeling voor [!DNL DSP]
 
-```
-<Channel ID>!<Ad ID>!<Placement ID>
-```
+```<Channel ID>!<Ad ID>!<Placement ID>```
 
 waarbij:
 
@@ -124,9 +116,7 @@ Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
 AMO-id&#39;s voor [!DNL Search] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
 
-```
-AL!{userid}!{sid}
-```
+```AL!{userid}!{sid}```
 
 waarbij:
 
@@ -138,9 +128,7 @@ Hieronder vindt u de volledige AMO-id-indelingen voor een aantal advertentienetw
 
 AMO ID-indeling voor [!DNL Google Ads]:
 
-```
-AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
-```
+```AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}```
 
 waarbij:
 
@@ -152,9 +140,7 @@ waarbij:
 
 AMO ID-indeling voor [!DNL Microsoft Advertising]:
 
-```
-AL!{userid}!{sid}!{AdId}!{OrderItemId}
-```
+```AL!{userid}!{sid}!{AdId}!{OrderItemId}```
 
 waarbij:
 

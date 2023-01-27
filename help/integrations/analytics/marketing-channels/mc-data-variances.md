@@ -2,8 +2,8 @@
 title: Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]
 description: Leer waarom de kanaalgegevens die door AMO ID worden gevolgd van kanaalgegevens kunnen variëren die door worden gevolgd [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
-exl-id: 4605dc7d-43d7-414f-a509-6096c6cf5fd2
-source-git-commit: 1c13874967ec4ad264e5fa6a5e0dfeb6120f53cc
+exl-id: 72e3aa1e-85ed-485a-b93f-5e67dd0140ce
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -34,5 +34,5 @@ Voor meer informatie over mogelijke gegevensvariaties tussen Adobe Advertising T
 >* [Grondbeginselen van [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Adobe-advertentie-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](mc-ids.md)
 >* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](mc-ac-data.md)
->* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 

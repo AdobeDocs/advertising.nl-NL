@@ -2,9 +2,10 @@
 user-guide-title: Integratie met Adobe Experience Cloud
 user-guide-description: Meer informatie over de integratie van DSP en advertenties in zoekopdrachten met andere Adobe Experience Cloud-producten en -services.
 breadcrumb-title: Integratie met Experience Cloud
-source-git-commit: 3fd9323e6b6a525392aff67cc116bd649f2936b1
+index: true
+source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -43,4 +44,4 @@ ht-degree: 0%
       + [Gevallen gebruiken](/help/integrations/audience-manager/media-data-integration/use-cases.md)
    + [Adobe Audience Analytics voor klanten die adverteren](/help/integrations/audience-manager/audience-analytics.md)
 + [A/B-tests configureren in Adobe Target voor DSP advertenties](/help/integrations/target/overview-ab-tests.md)
-+ [Video&#39;s Tutorials over Adobe-advertentie-integratie](https://experienceleague.adobe.com/docs/advertising-cloud-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
++ [Video&#39;s Tutorials over Adobe-advertentie-integratie](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
