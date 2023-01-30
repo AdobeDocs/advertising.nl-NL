@@ -3,7 +3,7 @@ title: Broninstellingen voor publiek
 description: Meer informatie over de instellingen voor publieksbronnen.
 feature: DSP Audiences
 exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 9ca42d078c0d0b6a08d521c8465eca69c2affce5
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -20,13 +20,13 @@ ht-degree: 0%
 
 **[!UICONTROL Enter IMS Org Id]:** De organisatie-id van de Experience Cloud voor de [!DNL Adobe Experience Platform] account.
 
-**[!UICONTROL AAC Source Key]:** (Alleen-lezen; gegenereerd wanneer een waarde wordt ingevoerd in het dialoogvenster [!UICONTROL Enter IMS Org Id] veld) De bronsleutel die u kunt gebruiken [een doelverbinding maken in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html) om het publiek aan DSP te zetten. U kunt de waarde naar het klembord kopiëren en in het deelvenster [!DNL Adobe Real-Time CDP] instellingen voor doelverbinding of in een bestand.
+**[!UICONTROL AAC Source Key]:** (Alleen-lezen; gegenereerd wanneer een waarde wordt ingevoerd in het dialoogvenster [!UICONTROL Enter IMS Org Id] veld) De bronsleutel die u kunt gebruiken [een doelverbinding maken in [!DNL Adobe Real-Time Customer Data Profile]](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html) om het publiek aan DSP te zetten. U kunt de waarde naar het klembord kopiëren en in het deelvenster [!DNL Adobe Real-Time CDP] instellingen voor doelverbinding of in een bestand.
 
 >[!MORELIKETHIS]
 >
 >* [Creeer een Bron van het Publiek om Eerste Publiek te activeren](source-create.md)
 >* [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](source-about.md)
 >* [Activeer Erkende Segmenten van de Duurzame Partners van identiteitskaart](source-durable-id.md)
->* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html)
+>* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Over Audience Management](/help/dsp/audiences/audience-about.md)
 

@@ -3,7 +3,7 @@ title: Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het
 description: Leer over het opnemen van eerste-partijsegmenten van een platform van klantengegevens.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 9ca42d078c0d0b6a08d521c8465eca69c2affce5
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Voor meer informatie over bestemmingen, zie het Experience Platform [Doelgids](h
 
 1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount.
 
-1. [Een [!DNL Real-Time CDP] doelverbinding in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html).
+1. [Een [!DNL Real-Time CDP] doelverbinding in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
 Neem voor extra ondersteuning contact op met uw [!DNL Adobe] accountteam of `adcloud-support@adobe.com`.
 
@@ -42,7 +42,7 @@ Neem voor extra ondersteuning contact op met uw [!DNL Adobe] accountteam of `adc
 >* [Activeer Erkende Segmenten van de Duurzame Partners van identiteitskaart](source-durable-id.md)
 >* [Creeer een Bron van het Publiek om Eerste Publiek te activeren](source-create.md)
 >* [Broninstellingen voor publiek](source-settings.md)
->* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-connection.html)
+>* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Overzicht van de doelcatalogus](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Over Audience Management](/help/dsp/audiences/audience-about.md)
 
