@@ -2,7 +2,7 @@
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 69a829a7fda684fcb2d698427f3ef5772d11433d
 workflow-type: tm+mt
 source-wordcount: '1644'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op alle betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 
@@ -129,7 +129,7 @@ In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voo
 
    >[!NOTE]
    >
-   >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-site-entry-reports.html) in Analytics.
+   >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
 1. In de **Goal** voert u de succesmetrische waarde voor de test in.
 
