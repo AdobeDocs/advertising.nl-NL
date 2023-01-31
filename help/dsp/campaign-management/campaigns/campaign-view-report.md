@@ -3,9 +3,9 @@ title: Gedetailleerd rapport voor een campagne weergeven
 description: Leer hoe u rapporten op campagnereniveau kunt openen met secties over de gegevens Geografie, Apparaat, Viewability en Publiek.
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: ce0d8b44-63cb-47da-adac-d9ae330c52bf
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 4085c1b21c0fe84653978e449321868921841367
 workflow-type: tm+mt
-source-wordcount: '83'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
@@ -25,4 +25,5 @@ De <!--legacy --> campagnerapport bevat een overzicht en secties over [!UICONTRO
 >* [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
 >* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Aangepaste rapporten](/help/dsp/reports/report-about.md)
+>* [Het Wijzigingslogboek voor een campagne weergeven](campaign-change-log.md)
 

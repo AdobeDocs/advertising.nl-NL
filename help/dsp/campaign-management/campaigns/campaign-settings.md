@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 4085c1b21c0fe84653978e449321868921841367
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '928'
 ht-degree: 0%
 
 ---
@@ -150,4 +150,5 @@ Belastingen die moeten worden ingehouden ramen:
 >* [Informatie over Campaign Management](campaign-about.md)
 >* [Een campagne maken](campaign-create.md)
 >* [Een campagne bewerken](campaign-edit.md)
+>* [Het Wijzigingslogboek voor een campagne weergeven](campaign-change-log.md)
 

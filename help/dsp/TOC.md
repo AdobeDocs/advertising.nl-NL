@@ -8,9 +8,9 @@ user-guide-title: DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP
 index: true
-source-git-commit: c0dad3f6c5744ec32417e9fe0cab0f328067ae18
+source-git-commit: 4085c1b21c0fe84653978e449321868921841367
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '888'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ ht-degree: 0%
       + [Een campagne dupliceren](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
       + [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
       + [Een campagne archiveren of archiveren](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
+      + [Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
       + [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md)
       + [Controlelijst voor starten van campagne](/help/dsp/campaign-management/campaign-launch-checklist.md)
    + Pakketten {#packages}

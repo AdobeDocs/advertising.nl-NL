@@ -3,9 +3,9 @@ title: Een campagne archiveren of archiveren
 description: Leer hoe u een campagne archiveert of het archief ervan opheft.
 feature: DSP Campaigns
 exl-id: 3b1fac7b-1c3e-417e-b6f6-142aa48b1135
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 4085c1b21c0fe84653978e449321868921841367
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ U kunt een campagne desarchiveren om zijn vorige status op elk ogenblik te herst
 >[!MORELIKETHIS]
 >
 >* [Een campagne bewerken](campaign-edit.md)
-
+>* [Het Wijzigingslogboek voor een campagne weergeven](campaign-change-log.md)
