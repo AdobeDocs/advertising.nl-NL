@@ -2,21 +2,25 @@
 title: Een wijzigingslogboek voor een campagne weergeven
 description: Leer hoe u de wijzigingen in de campagne kunt bekijken.
 feature: DSP Campaigns
-source-git-commit: 4085c1b21c0fe84653978e449321868921841367
+exl-id: ba96a277-937a-4475-bab6-6e0a4f5ced13
+source-git-commit: 4c1b94f6cc168f85b0517d77db5398ddaea4a10d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '199'
 ht-degree: 0%
 
 ---
 
 # Het Wijzigingslogboek voor een campagne weergeven
 
-Wijzigingslogbestanden bevatten wijzigingen die in de campagne zijn aangebracht tijdens het geselecteerde datumbereik, zoals de naam van de campagne, het type entiteit (campagne), het type wijziging, de nieuwe en oude waarden, de gebruiker die de wijziging heeft aangebracht en de datum.
+Wijzigingslogbestanden bevatten wijzigingen die in de campagne zijn aangebracht tijdens het geselecteerde datumbereik, zoals de naam van de campagne, het type entiteit (campagne), het type wijziging, de nieuwe en oude waarden, de gebruiker die de wijziging heeft aangebracht en de datum. U kunt desgewenst notities toevoegen aan elke invoer.
 
 U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik naast de naam van de campagne op  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
+1. (Beta-functie; (optioneel) Als u wilt schakelen tussen het weergeven van de gegevens in tabelvorm en in tabel- en diagramformulieren, klikt u op ![Tabel- en grafiekweergave](/help/dsp/assets/table-plus-chart-view.png "Tabel- en grafiekweergave") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de rechterbovenwerkbalk.
+1. (Beta-functie; (optioneel) Als u een notitie aan een item wilt toevoegen, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL Add Notes]**. Typ tekst in de invoervelden en klik vervolgens op **[!UICONTROL Save]**.
+1. (Beta-functie; (optioneel) Als u de details van een item in een pop-upvenster wilt weergeven, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL View Details]**.
 
 >[!MORELIKETHIS]
 >

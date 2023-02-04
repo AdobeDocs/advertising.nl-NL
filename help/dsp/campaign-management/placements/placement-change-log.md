@@ -3,16 +3,16 @@ title: Een wijzigingslogboek voor plaatsing weergeven
 description: Leer hoe u de wijzigingen in de plaatsing kunt bekijken.
 feature: DSP Placements
 exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 62bebacc05bd5178cc4f5958a395daf54361b3e1
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
 # Het Wijzigingslogboek voor een plaatsing weergeven
 
-Wijzigingslogbestanden bevatten wijzigingen die in de plaatsing zijn aangebracht tijdens het geselecteerde datumbereik, zoals het type wijziging, de nieuwe en oude waarden, de gebruiker die de wijziging heeft aangebracht en de datum.
+Wijzigingslogbestanden bevatten wijzigingen die in de plaatsing zijn aangebracht tijdens het geselecteerde datumbereik, zoals het type wijziging, de nieuwe en oude waarden, de gebruiker die de wijziging heeft aangebracht en de datum. U kunt desgewenst notities toevoegen aan elke invoer.
 
 U kunt de gegevens sorteren op de kolom Type, Gewijzigd door of Datum gewijzigd.
 
@@ -20,6 +20,9 @@ U kunt de gegevens sorteren op de kolom Type, Gewijzigd door of Datum gewijzigd.
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
+1. (Beta-functie; (optioneel) Als u wilt schakelen tussen het weergeven van de gegevens in tabelvorm en in tabel- en diagramformulieren, klikt u op ![Tabel- en grafiekweergave](/help/dsp/assets/table-plus-chart-view.png "Tabel- en grafiekweergave") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de rechterbovenwerkbalk.
+1. (Beta-functie; (optioneel) Als u een notitie aan een item wilt toevoegen, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL Add Notes]**. Typ tekst in de invoervelden en klik vervolgens op **[!UICONTROL Save]**.
+1. (Beta-functie; (optioneel) Als u de details van een item in een pop-upvenster wilt weergeven, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL View Details]**.
 
 >[!MORELIKETHIS]
 >
