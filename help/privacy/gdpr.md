@@ -3,9 +3,9 @@ title: Adobe Reclameondersteuning voor de algemene gegevensbeschermingsverordeni
 description: Meer informatie over de ondersteunde gegevenstypen voor aanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden
 feature: GDPR
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 99ebf339504e053578dc90dbde41437c5f3774f6
 workflow-type: tm+mt
-source-wordcount: '1034'
+source-wordcount: '1033'
 ht-degree: 0%
 
 ---

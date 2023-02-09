@@ -4,19 +4,19 @@ role: User, Admin
 cloud: Experience Cloud
 solution: Advertising, Advertising Cloud
 product: advertising cloud
-user-guide-title: DSP
+user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
-breadcrumb-title: DSP
+breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 4085c1b21c0fe84653978e449321868921841367
+source-git-commit: 85f748bae0efb52e96d8993dcc482b1b969fe6fe
 workflow-type: tm+mt
-source-wordcount: '888'
-ht-degree: 0%
+source-wordcount: '879'
+ht-degree: 6%
 
 ---
 
 
-# DSP {#dsp}
+# Handleiding Adverteren met DSP {#dsp}
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
       + [Edit the Attribute Tags for a Deal ID](/help/dsp/inventory/deal-id-edit-attribute-tags.md)
@@ -35,8 +35,8 @@ ht-degree: 0%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [Steun voor Consumentenprivacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [Beleid en richtsnoeren](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Ondersteuning voor consumentenprivacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Beleid en richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -106,8 +106,8 @@ ht-degree: 0%
          + [Campagnegegevens filteren](/help/dsp/campaign-management/reports/campaign-data-filter.md)
          + [Een kolom sorteren](/help/dsp/campaign-management/reports/campaign-data-sort.md)
       + [Gegevensvisualisatie beheren](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
-   + Plaatsingsinstellingen voor een campagne corrigeren met behulp van spreadsheets {#qa-spreadsheet}
-      + [Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+   + Plaatsingsinstellingen corrigeren met behulp van werkbladen {#qa-spreadsheet}
+      + [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
       + [Plaatsingsinstellingen voor een campagne downloaden](/help/dsp/campaign-management/qa/qa-sheet-download.md)
       + [Plaatsingsinstellingen voor een campagne uploaden](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
@@ -126,7 +126,7 @@ ht-degree: 0%
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
    + [Over Audience Management](/help/dsp/audiences/audience-about.md)
-   + Segmenten beheren {#segments}
+   + Segmenten {#segments}
       + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
       + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
          + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
@@ -136,7 +136,7 @@ ht-degree: 0%
       + [Delen of Stoppen met delen van een segment](/help/dsp/audiences/segment-share.md)
       + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
       + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
-   + Soorten doelgroepen beheren {#reusable-audiences}
+   + Soorten publiek {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
       + [Een herbruikbaar publiek bewerken](/help/dsp/audiences/reusable-audience-edit.md)
@@ -147,7 +147,7 @@ ht-degree: 0%
       + [Een herbruikbaar publiek verwijderen](/help/dsp/audiences/reusable-audience-delete.md)
       + [Instellingen publiek](/help/dsp/audiences/audience-settings.md)
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
-   + Bronnen beheren {#sources}
+   + Bronnen {#sources}
       + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
       + [Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart](/help/dsp/audiences/sources/source-durable-id.md)
       + [Creeer een Bron van het Publiek om Eerste Publiek te activeren](/help/dsp/audiences/sources/source-create.md)
@@ -225,6 +225,6 @@ ht-degree: 0%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [Integraties met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Klantenondersteuning](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
-+ [Opmerkingen bij de release van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Aanvullende informatie over Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

@@ -3,9 +3,9 @@ title: 'Adobe Advertising support for the California Consumer Privacy Act: Toega
 description: Leer meer over de ondersteunde typen gegevensaanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden.
 feature: CCPA
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: bc0015c134406fb020370def45a8588b5032587e
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1075'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Om verzoeken tot toegang tot en schrapping van de persoonlijke informatie van de
    >
    >Voor aanvragen naar bepaalde Experience Cloud-oplossingen is de JavaScript-bibliotheek niet vereist, maar voor aanvragen naar Adobe-advertentie is dit wel vereist.
 
-   U zou de bibliotheek op de Web-pagina moeten opstellen waarvan uw klanten toegang en schrappingsverzoeken, zoals het privacyportaal van uw bedrijf kunnen voorleggen. Met de bibliotheek kunt u Adobe-cookies ophalen (naamruimte-id: `gsurferID`), zodat u deze identiteiten kunt verzenden als deel van toegang en verzoeken kunt schrappen via [!DNL Adobe Experience Platform Privacy Service API].
+   U zou de bibliotheek op de webpagina moeten opstellen waarvan uw klanten toegang en schrappingsverzoeken, zoals het privacyportaal van uw bedrijf kunnen voorleggen. Met de bibliotheek kunt u Adobe-cookies ophalen (naamruimte-id: `gsurferID`), zodat u deze identiteiten kunt verzenden als deel van toegang en verzoeken kunt schrappen via [!DNL Adobe Experience Platform Privacy Service API].
 
    Wanneer de klant vraagt om persoonlijke gegevens te verwijderen, verwijdert de bibliotheek ook het cookie van de klant uit de browser van de klant.
 
