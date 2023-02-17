@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 425a5f38582a0c603417b67a665a7919dc26e1ac
+source-git-commit: 4b92f880dbb9edf45b9521fb261cfbeb52a27218
 workflow-type: tm+mt
-source-wordcount: '1169'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 15 februari 2023 | [!UICONTROL Campaigns] | De opties om veranderingslogboeken in grafiekvorm te bekijken en nota&#39;s toe te voegen aan om het even welke ingang zijn uit bèta. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 | 3 februari 2023 | [!UICONTROL Campaigns] | (Bètafuncties) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elk item. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 | 25 januari 2023 | [!UICONTROL Deals] | Een nieuwe &quot;Pacing van de Impressie van PG&quot;uitgavenkolom in de Inventaris > de meningsrapporten van Overeenkomsten die voor gewaarborgde overeenkomsten in pakket plaatsen. | Zie &quot;[Een aangepaste kolomweergave bewerken](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
 | 4 januari 2023 | [!UICONTROL Campaigns] | Een veranderingslogboek, dat veranderingen toont die tijdens de geselecteerde datumwaaier worden aangebracht, is nu beschikbaar voor elke campagne. Wijzigingslogbestanden waren al beschikbaar voor pakketten en plaatsingen. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md)&quot;.&quot; |
