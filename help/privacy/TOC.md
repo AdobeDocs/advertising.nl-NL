@@ -2,21 +2,21 @@
 type: Documentation
 role: User, Admin
 cloud: Experience Cloud
-solution: Advertising, Advertising Cloud
+solution: Advertising
 product: advertising cloud
-user-guide-title: Adobe Reclame Steun voor Consumentenprivacy
-user-guide-description: Meer informatie over de beveiliging en privacycontroles die Adobe Advertising biedt om adverteerders te helpen zich aan te passen aan de privacywetgeving van de consument.
-breadcrumb-title: Steun voor Consumentenprivacy
+user-guide-title: Adobe Advertising-ondersteuning voor consumentenprivacy
+user-guide-description: Meer informatie over de beveiliging en privacycontroles die Adobe Advertising biedt om adverteerders te helpen te voldoen aan de privacywetgeving voor de consument.
+breadcrumb-title: Ondersteuning voor consumentenprivacy
 index: true
-source-git-commit: c0dad3f6c5744ec32417e9fe0cab0f328067ae18
+source-git-commit: b90c8d391bfd90a844e4c6bad37da193fa226397
 workflow-type: tm+mt
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 56%
 
 ---
 
 
-# Adobe Reclame Steun voor Consumentenprivacy {#privacy}
+# Adobe Advertising-ondersteuning voor consumentenprivacy {#privacy}
 
 + [Over Adobe Advertising Support for Consumer Privacy](/help/privacy/home.md)
 + [Ondersteuning voor GDPR](/help/privacy/gdpr.md)
