@@ -3,9 +3,9 @@ title: Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het
 description: Leer over het opnemen van eerste-partijsegmenten van een platform van klantengegevens.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
-source-git-commit: 9ca42d078c0d0b6a08d521c8465eca69c2affce5
+source-git-commit: f6308ac9af8019987f4a2e501cba6b019cb032b6
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -29,13 +29,13 @@ Voor meer informatie over bestemmingen, zie het Experience Platform [Doelgids](h
 
 <!-- Make sure that titles make the distinctions clear -- everything can't be "Activate XXX." -->
 
-1. [DSP toestaan om klantgegevenssegmenten te vertalen in [!DNL LiveRamp RampIDs]](source-durable-id.md) die herkenbaar zijn in een biedbare omgeving.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your DSP account team will perform this configuration. -->
+1. [DSP toestaan om klantgegevenssegmenten te vertalen in [!DNL LiveRamp RampIDs]](source-durable-id.md) die herkenbaar zijn in een biedbare omgeving.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your Adobe Account Team will perform this configuration. -->
 
 1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount.
 
 1. [Een [!DNL Real-Time CDP] doelverbinding in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
 
-Neem voor extra ondersteuning contact op met uw [!DNL Adobe] accountteam of `adcloud-support@adobe.com`.
+Neem voor extra ondersteuning contact op met uw Adobe-accountteam of `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >

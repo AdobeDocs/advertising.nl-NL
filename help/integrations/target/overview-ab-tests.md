@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search] advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 69a829a7fda684fcb2d698427f3ef5772d11433d
+source-git-commit: f6308ac9af8019987f4a2e501cba6b019cb032b6
 workflow-type: tm+mt
-source-wordcount: '1644'
+source-wordcount: '1642'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Werk de doorklikURL voor elke advertentie handmatig bij in Campagne Flash Talk o
 
 * [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
 
-Neem contact op met uw DSP accountteam en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
+Neem contact op met uw accountteam van Adobe en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
 
 ## Stap 2: Opstelling het Mening-door Kader Gebruikend Audience Manager {#view-through-framework}
 
@@ -166,7 +166,7 @@ In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voo
    * Ervaring B: Gebruik de [!DNL Target] gebruikersinterface om de landingspagina-sjabloon aan te passen op basis van de elementen die in de test zijn opgenomen (zoals kopregels, kopiëren, knopplaatsing en creatieve elementen).
    >[!NOTE]
    >
-   >Neem contact op met uw accountteam als u bijvoorbeeld creatieve tests gebruikt voor creatieve tests.
+   >Neem bijvoorbeeld contact op met uw Adobe-accountteam voor creatieve testdoeleinden.
 
 ## Stap 4: Stel uw [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
 

@@ -3,9 +3,9 @@ title: Adobe Advertising Integrations with Adobe Audience Manager
 description: Meer informatie over de verschillende manieren waarop Adobe Advertising gegevens kan uitwisselen met Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
 exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: f6308ac9af8019987f4a2e501cba6b019cb032b6
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Within [!DNL Search]kunt u [!DNL Google Ads] Google-klanten komen overeen met ge
 
 [Klanten komen overeen met gebruikers-id&#39;s](https://support.google.com/google-ads/answer/9199250) werkt net als publiek met tags op de website, maar een niet-PII-id wordt toegewezen aan unieke publieksleden voor duidelijke voordelen ten opzichte van standaardklantovereenkomsten en op websites gebaseerde doelgroepen.
 
-Als u de benodigde gebruikers-id&#39;s wilt maken, moet u een JavaScript-tag voor reclame voor Adobe gebruiken <!-- with a user ID parameter -->op uw websites. Neem contact op met uw [!DNL Search] accountteam voor meer informatie.
+Als u de benodigde gebruikers-id&#39;s wilt maken, moet u een JavaScript-tag voor reclame voor Adobe gebruiken <!-- with a user ID parameter -->op uw websites. Neem contact op met het accountteam van uw Adobe voor meer informatie.
 
 ![segmentaanmaakproces](/help/integrations/assets/ad_search_user_id_pic.png)
 
