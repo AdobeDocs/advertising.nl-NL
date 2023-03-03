@@ -3,9 +3,9 @@ title: Controleer de status van advertenties voor een [!DNL FreeWheel] PG-deal
 description: Meer informatie over de status van advertenties voor [!DNL Freewheel] programmatisch gegarandeerde deals.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: f5f33e96-68a8-48bd-8c30-72be9315c5ac
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Kijk of je advertentie verzendt naar [!DNL Freewheel] zijn gelukt. U kunt elke advertentie naar wens opnieuw verzenden.
 
-Neem contact op met uw [!DNL Adobe] accountteam.
+Neem contact op met uw Adobe-accountteam voor aanvullende vragen of problemen met opnieuw verzenden.
 
 ## Controleer de status via de [!UICONTROL Ads] Weergave
 

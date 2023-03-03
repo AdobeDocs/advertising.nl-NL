@@ -3,9 +3,9 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1076'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Indien naar behoren in dienst genomen, [!DNL Analytics for Advertising] vervaagt
 Primaire voordelen:
 
 * Verzenden [!DNL Analytics] segmenten rechtstreeks naar Adobe Advertising voor eerderangs sites.
-* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediacereclame.
+* Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediaclame.
 * Profiteer van [!DNL Analytics] Analysis Workspace voor een beter begrip van de toegangspunten van sites en het gedrag van bezoekers.
 * Nauwere samenwerking tussen webanalisten en betaalde medieteams mogelijk maken.
 * Doorlopende permanente Adobe-advertentieweergave en doorklikid&#39;s gebruiken binnen [!DNL Analytics] de betrokkenheid van de site te begrijpen.
@@ -45,7 +45,7 @@ Primaire voordelen:
 
 Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediarapportage een Experience Cloud-aanmelding met toegang tot Analysis Workspace nodig. Uw Adobe-advertentieteam helpt u bij het toewijzen van uw Adobe Advertising-gegevens aan individuele rapportensuites in Analysis Workspace. U kunt Adobe Advertising-gegevens naar elke rapportsuite verzenden, maar u dient op de hoogte te zijn van de rapportsuites die zijn toegewezen aan Adobe Advertising en andere die dat nog niet hebben gedaan. Afhankelijk van de rapportsuite kunnen de gerapporteerde gegevens hierdoor worden gewijzigd.
 
-[Reclame-id&#39;s Adobe binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugkijkvenster voor toewijzingen ingesteld op 60 dagen tijdens de Adobe-advertentie-implementatie. Werk met uw [!DNL Adobe] accountteam.
+[Reclame-id&#39;s Adobe binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugkijkvenster voor toewijzingen ingesteld op 60 dagen tijdens de Adobe-advertentie-implementatie. U kunt deze instelling wijzigen door met het accountteam van uw Adobe te werken.
 
 Adobe De advertentiedrempels worden toegevoegd met het achtervoegsel &quot;(AMO ID)&quot; (zoals &quot;Advertentietype (AMO ID)&quot;). Zie &quot;[Adobe Advertising Metrics in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
 

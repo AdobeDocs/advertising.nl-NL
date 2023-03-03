@@ -3,9 +3,9 @@ title: 'Adobe Advertising support for the California Consumer Privacy Act: Consu
 description: Meer informatie over ondersteuning voor het vastleggen van aanvragen voor een opt-out voor consumenten.
 feature: CCPA
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: cce2d73880fbc4b185b426f2e18c1b071dd511a1
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '1003'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ U kunt koppelingen opvragen naar de maandelijkse rapporten die in de afgelopen d
 
 Deze functie is beschikbaar voor organisaties die de [!DNL Trafficking API]. Zie de documentatie voor de [!DNL Trafficking API] voor meer informatie .
 
-Als uw organisatie de opdracht [!DNL Trafficking API] maar is geïnteresseerd in meer informatie, neem contact op met uw [!DNL Adobe] accountteam.
+Als uw organisatie de opdracht [!DNL Trafficking API] maar u hebt meer informatie nodig. Neem contact op met uw Adobe-accountteam.
 
 ## Aanhangsel: Voorbeeld [!UICONTROL CCPA Opt-Out-of-Sale] Aanvraag voor Privacy Service API-gebruikers
 

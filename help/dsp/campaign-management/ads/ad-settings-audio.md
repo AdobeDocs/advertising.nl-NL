@@ -3,9 +3,9 @@ title: Instellingen voor audio toevoegen
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor audioadvertenties.
 feature: DSP Ads
 exl-id: 2fa1143b-6e83-4729-91cd-7a5da357509e
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '382'
+source-wordcount: '383'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Dit veld kan al dan niet worden weergegeven, afhankelijk van de accountmachtigin
 
 **[!UICONTROL Final VAST Tag]:** (Alleen bij gebruik van VAST-tags) De URL voor de advertentiebron van derden met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
-**[!UICONTROL Select Rate]:** (Alleen gebruikers met toestemming) Een vooraf overeengekomen tarief dat in rekening wordt gebracht via Adobe, of een van de tarieven die u hebt onderhandeld en waarvoor de kosten via de leverancier in rekening worden gebracht. Neem contact op met uw [!DNL Adobe] accountteam.
+**[!UICONTROL Select Rate]:** (Alleen gebruikers met toestemming) Een vooraf overeengekomen tarief dat in rekening wordt gebracht via Adobe, of een van de tarieven die u hebt onderhandeld en waarvoor de kosten via de leverancier in rekening worden gebracht. Neem contact op met het accountteam van Adobe om een tarief toe te voegen.
 
 ### Pixel
 

@@ -3,9 +3,9 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: d21917ef-5cac-46f8-8222-099667797683
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '1000'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een ver
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 
-Neem contact op met uw [!DNL Adobe] accountteam.
+Neem contact op met het accountteam van de Adobe als u de toewijzingsmeting voor verschillende apparaten wilt activeren.
 
 ### Conversierapporten instellen voor kenmerk voor apparaatconversie
 

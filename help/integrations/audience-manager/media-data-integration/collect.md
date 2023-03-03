@@ -3,9 +3,9 @@ title: Klik- en indrukgegevens verzamelen uit DSP advertenties
 description: Leer hoe u op cookies gebaseerde beelden vastlegt en op gebeurtenissen klikt in advertenties DSP advertenties met Audience Managers pixels
 feature: Integration with Adobe Audience Manager
 exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1055'
+source-wordcount: '1056'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Maak in de Audience Manager een [gegevensbron](https://experienceleague.adobe.co
 
 ## Stap 2: Impressie implementeren en op webpagina&#39;s op gebeurtenispixels klikken {#implement-dsp-pixels}
 
-Adverteerders kunnen gebeurtenislabels voor hun eigen merken maken en implementeren. Neem indien nodig contact op met uw Adobe Audience Manager-consultant of uw [!DNL Adobe] accountmanager voor ondersteuning.
+Adverteerders kunnen gebeurtenislabels voor hun eigen merken maken en implementeren. Neem indien nodig contact op met uw Adobe Audience Manager-consultant of uw Adobe-accountteam voor ondersteuning.
 
 >[!NOTE]
 >

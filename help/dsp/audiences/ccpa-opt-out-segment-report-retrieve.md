@@ -3,9 +3,9 @@ title: Rapporten over verkoopopties voor consumenten ophalen
 description: Leer hoe u rapporten ophaalt van id's die zijn ingediend voor aanvragen om niet te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 
 >[!NOTE]
 >
->U kunt optioneel rapporten met de DSP opvragen waarin de consument zich afmeldt [!DNL Trafficking API]. Raadpleeg de documentatie bij de [!DNL Trafficking API]. Als uw organisatie de opdracht [!DNL Trafficking API] maar is geïnteresseerd in meer informatie, neem contact op met uw [!DNL Adobe] accountteam.
+>U kunt optioneel rapporten met de DSP opvragen waarin de consument zich afmeldt [!DNL Trafficking API]. Raadpleeg de documentatie bij de [!DNL Trafficking API]. Als uw organisatie de opdracht [!DNL Trafficking API] maar u hebt meer informatie nodig. Neem contact op met uw Adobe-accountteam.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
 1. Klik boven de segmentlijst op **[!UICONTROL Access CCPA Reports]**.

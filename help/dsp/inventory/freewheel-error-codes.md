@@ -3,9 +3,9 @@ title: Foutcodes voor [!DNL FreeWheel] Advertentie verzenden
 description: Verwijs de foutencodes die voor ad voorlegging zijn teruggekeerd aan [!DNL FreeWheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '684'
 ht-degree: 2%
 
 ---
@@ -33,13 +33,13 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn uit DSP of uit
 
 | Code | Betekenis | Beschrijving | Volgende stappen |
 |--- |--- |--- |--- |
-| 401 | Onbevoegd | Onjuiste, ontbrekende of ongeldige toegangsreferenties. | Neem contact op met uw [!DNL Adobe] accountteam. |
-| 403 | Verboden | De server begreep het verzoek maar weigert het te autoriseren. | Neem contact op met uw [!DNL Adobe] accountteam. |
-| 404 | Niet gevonden | De bron die u hebt aangevraagd, is niet beschikbaar. Als Creative ID niet wordt gevonden in de PUT bewerking, wordt een 404 geretourneerd. | Neem contact op met uw [!DNL Adobe] accountteam. |
-| 405 | Methode niet toegestaan | Er is een verzoek ingediend van een bron die een aanvraagmethode gebruikt die niet door die bron wordt ondersteund (bijvoorbeeld door GET te gebruiken voor een methode die vereist dat gegevens door POST worden verzonden of door PUT te gebruiken voor een alleen-lezen bron). | Neem contact op met uw [!DNL Adobe] accountteam. |
-| 408 | Tijdslimiet aanvraag | Er is een time-out opgetreden tijdens de verwerking van dit verzoek. De onderbrekingen worden gewoonlijk veroorzaakt door gezamenlijke verzoeken van exclusieve toegang tot bepaalde middelen. | Verzend het verzoek opnieuw wanneer u deze status ontvangt. Neem contact op met uw [!DNL Adobe] accountteam. |
-| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als identiteitskaart van de Overeenkomst niet werd gevonden). Zie [FreeWheel API 422-fouten](#freewheel-422-errors) voor meer informatie . | Neem contact op met uw [!DNL Adobe] accountteam. |
-| 500 | Interne serverfout | API-systeemfout. | Neem contact op met uw [!DNL Adobe] accountteam. |
+| 401 | Onbevoegd | Onjuiste, ontbrekende of ongeldige toegangsreferenties. | Neem contact op met het accountteam van uw Adobe. |
+| 403 | Verboden | De server begreep het verzoek maar weigert het te autoriseren. | Neem contact op met het accountteam van uw Adobe. |
+| 404 | Niet gevonden | De bron die u hebt aangevraagd, is niet beschikbaar. Als Creative ID niet wordt gevonden in de PUT bewerking, wordt een 404 geretourneerd. | Neem contact op met het accountteam van uw Adobe. |
+| 405 | Methode niet toegestaan | Er is een verzoek ingediend van een bron die een aanvraagmethode gebruikt die niet door die bron wordt ondersteund (bijvoorbeeld door GET te gebruiken voor een methode die vereist dat gegevens door POST worden verzonden of door PUT te gebruiken voor een alleen-lezen bron). | Neem contact op met het accountteam van uw Adobe. |
+| 408 | Tijdslimiet aanvraag | Er is een time-out opgetreden tijdens de verwerking van dit verzoek. De onderbrekingen worden gewoonlijk veroorzaakt door gezamenlijke verzoeken van exclusieve toegang tot bepaalde middelen. | Verzend het verzoek opnieuw wanneer u deze status ontvangt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
+| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als identiteitskaart van de Overeenkomst niet werd gevonden). Zie [FreeWheel API 422-fouten](#freewheel-422-errors) voor meer informatie . | Neem contact op met het accountteam van uw Adobe. |
+| 500 | Interne serverfout | API-systeemfout. | Neem contact op met het accountteam van uw Adobe. |
 
 {style=&quot;table-layout:auto&quot;}
 

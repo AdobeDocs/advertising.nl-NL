@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1247'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -144,7 +144,7 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 
 * **[!UICONTROL Device Targeting]**:
    * Inclusief [!UICONTROL Computer], [!UICONTROL Mobile], en [!UICONTROL Tablet].
-   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
+   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met uw Adobe-accountteam voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
    * Als u mobiel webverkeer als doel instelt, schakelt u alle mobiele browsers uit, behalve [!UICONTROL Chrome] en [!UICONTROL Edge].
 
 ### Merk, veiligheid en mediakwaliteit

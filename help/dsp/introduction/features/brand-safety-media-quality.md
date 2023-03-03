@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1350'
+source-wordcount: '1354'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Wanneer u een site in de lijst met wereldwijd geblokkeerde sites opneemt als pla
 
 >[!NOTE]
 >
->U kunt optioneel de algemene lijst met geblokkeerde sites omzeilen voor standaard weergaveadvertenties die zijn gekoppeld aan een vertrouwde persoonlijke deal door de optie &quot;[!UICONTROL Allow unscreened sites]&quot; in de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md). Indien nodig [!DNL Adobe] accountteam kan ook desgewenst het blokkeren van sites voor een openbare (veiling-niveau) deal in de uitgevers-instellingen voor de deal uitschakelen.
+>U kunt optioneel de algemene lijst met geblokkeerde sites omzeilen voor standaard weergaveadvertenties die zijn gekoppeld aan een vertrouwde persoonlijke deal door de optie &quot;[!UICONTROL Allow unscreened sites]&quot; in de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md). Indien nodig, kan het Team van de Rekening van de Adobe naar keuze plaats ook onbruikbaar maken die voor een openbare (veiling-niveau) overeenkomst in de uitgeversmontages voor de overeenkomst blokkeert.
 
 #### Geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 
@@ -104,7 +104,7 @@ Profiteer van onze integratie met derden [!DNL Comscore], [!DNL DoubleVerify], [
 
 Je kunt standaard blokkeringscontroles voor vooraf biedingen instellen voor elke adverteerder<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [de instellingen voor elke plaatsing aanpassen](/help/dsp/campaign-management/placements/placement-settings.md). Er kunnen extra kosten van toepassing zijn wanneer u deze functie gebruikt.
 
-Neem voor meer informatie over functionaliteit rechtstreeks contact op met de voorkeursleverancier of neem contact op met uw [!DNL Adobe] accountteam.
+Neem voor meer informatie over functionaliteit rechtstreeks contact op met de voorkeursleverancier of neem contact op met het Adobe-accountteam.
 
 ![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science-logo](/help/dsp/assets/ias-logo.png) ![Peer39-logo](/help/dsp/assets/peer39-logo.png)
 
@@ -126,7 +126,7 @@ Aangepaste onderwerpsegmenten maken:
 
 * Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] om [https://agents.comscore.com](https://agents.comscore.com). Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
 
-* Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw [!DNL Adobe] accountteam.
+* Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw Adobe-accountteam.
 
 ![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![Grapeshot-logo](/help/dsp/assets/oracle-grapeshot-logo.png)
 
@@ -138,7 +138,7 @@ Als u eenmaal een [!DNL DoubleVerify] met de vereiste focus, kunt u het segment 
 
 U kunt een [!DNL DoubleVerify] segment-id voor elke adverteerder<!-- [specify a DoubleVerify segment ID for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [in- of uitschakelen [!UICONTROL Authentic Brand Safety] voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). DSP uw account aan voor gebruik van de segment-id.
 
-Voor meer informatie over functionaliteit, contacteer [!DNL DoubleVerify] rechtstreeks, of neem contact op met uw [!DNL Adobe] accountteam.
+Voor meer informatie over functionaliteit, contacteer [!DNL DoubleVerify] of neem contact op met uw Adobe-accountteam.
 
 ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png)
 

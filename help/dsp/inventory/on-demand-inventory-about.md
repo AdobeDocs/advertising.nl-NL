@@ -3,9 +3,9 @@ title: Info [!DNL On Demand] Premium-voorraad
 description: Leer over de overeenkomsten die DSP met de partners van de premieuitgever vooraf heeft onderhandeld.
 feature: DSP On Demand Inventory
 exl-id: 2e8dd4a0-7a7b-45e9-8f0f-e5435cf0d9ee
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Met de DSP markt kunt u:
 
 * Prestaties bijhouden met geconsolideerde rapportage
 
-Zodra een overeenkomst wordt goedgekeurd, is het beschikbaar als doel voor bestaande plaatsingen en automatisch inbegrepen als doel voor nieuwe plaatsingen die allen richten [!DNL On Demand] voorraad. Als een overeenkomstenverzoek wordt ontkend, kunt u met uw werken [!DNL Adobe] accountteam om het probleem op te lossen en de deal vervolgens opnieuw aan te vragen.
+Zodra een overeenkomst wordt goedgekeurd, is het beschikbaar als doel voor bestaande plaatsingen en automatisch inbegrepen als doel voor nieuwe plaatsingen die allen richten [!DNL On Demand] voorraad. Als een overeenkomstenverzoek wordt ontkend, kunt u met uw Team van de Rekening van de Adobe werken om de kwestie op te lossen en dan de overeenkomst opnieuw te verzoeken.
 
 ## De weergave Op aanvraag
 

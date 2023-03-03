@@ -3,9 +3,9 @@ title: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 description: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1182'
+source-wordcount: '1183'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ waarbij:
 * `{userid}` is de unieke numerieke gebruikersnaam die door Adobe Advertising aan de adverteerder wordt toegewezen.
 * `{sid}` is de numerieke id die Adobe Advertising gebruikt voor het opgegeven advertentienetwerk, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
 
-Hieronder vindt u de volledige AMO-id-indelingen voor een aantal advertentienetwerken. Neem voor AMO ID-indelingen voor andere advertentienetwerken contact op met uw [!DNL Adobe] accountteam.
+Hieronder vindt u de volledige AMO-id-indelingen voor een aantal advertentienetwerken. Neem contact op met het accountteam van Adobe voor AMO ID-indelingen voor andere advertentienetwerken.
 
 AMO ID-indeling voor [!DNL Google Ads]:
 

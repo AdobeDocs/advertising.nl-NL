@@ -3,9 +3,9 @@ title: Over het beheer van het publiek in DSP
 description: Meer informatie over functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '1036'
+source-wordcount: '1039'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt geb
 
 * U kunt uw eigen gegevens van het eerste publiek verzamelen door segmenten te creëren en uit te voeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
+   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
 
    * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
@@ -36,7 +36,7 @@ DSP is een geïntegreerde bestemming voor [de [!DNL Adobe Real-Time Customer Dat
 
 DSP kunnen ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 
-Neem contact op met uw [!DNL Adobe] accountteam voor meer informatie.
+Neem contact op met het accountteam van uw Adobe voor meer informatie.
 
 ## publiek beschikbaar als plaatsingsdoelen
 
@@ -104,11 +104,11 @@ De [!UICONTROL Segments] in de weergave worden ook de volgende segmenttypen weer
 
 * Alle geïmporteerde eerste-partijsegmenten zijn beschikbaar voor de gebruiker.
 
-   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met uw [!DNL Adobe] -accountteam als u eersteklas segmenten met extra gebruikers moet delen.
+   U kunt geen eerste-partijsegmenten uitgeven of delen die met u werden gedeeld. Neem contact op met het accountteam van de Adobe als u de eerste-partijsegmenten met extra gebruikers moet delen.
 
 * Alle aangepaste segmenten van derden zijn beschikbaar voor de gebruiker.
 
-   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw [!DNL Adobe] accountteam als u segmenten van derden met extra gebruikers wilt delen.
+   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met het accountteam van Adobe als u segmenten van derden met extra gebruikers wilt delen.
 
 >[!MORELIKETHIS]
 >

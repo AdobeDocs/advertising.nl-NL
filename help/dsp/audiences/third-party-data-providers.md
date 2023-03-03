@@ -3,9 +3,9 @@ title: Beschikbare gegevensleveranciers van derden in DSP voor advertenties
 description: Zie een lijst met alle beschikbare externe gegevensproviders.
 feature: DSP Audiences
 exl-id: 081d1513-b105-4d32-a98c-145c7122cb89
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '93'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ De vergoeding voor het gebruik van elk segment wordt naast de segmentnaam weerge
 * [!DNL TruSignal]
 * [!DNL Weborama]
 
-Neem voor meer informatie over het importeren van aangepaste segmenten van derden voor uw account contact op met uw [!DNL Adobe] accountteam.
+Neem voor meer informatie over het importeren van aangepaste segmenten van derden voor uw account contact op met het accountteam van Adobe.
 
 >[!MORELIKETHIS]
 >

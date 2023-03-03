@@ -3,9 +3,9 @@ title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '763'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,9 @@ Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek i
 
 De [!DNL Adobe] team voor account- en gegevensbewerkingen voert de volgende stappen uit.
 
-1. De [!DNL Adobe] accountteam moet de instelling op adverteerderniveau configureren &quot;[!UICONTROL Adobe Analytics Cloud].&quot;
+1. Het accountteam van Adobe moet de instelling op adverteerderniveau &quot;[!UICONTROL Adobe Analytics Cloud].&quot;
 
-1. De [!DNL Adobe] accountteam moet een aanvraag indienen<!-- Submit a request as a JIRA task? --> aan het team van gegevensverrichtingen<!-- implementation team? --> om de segmenten van de Audience Manager van de organisatie te importeren met behulp van de integratie van Advertising DSP native API.
+1. Het accountteam van Adobe moet een verzoek indienen<!-- Submit a request as a JIRA task? --> aan het team van gegevensverrichtingen<!-- implementation team? --> om de segmenten van de Audience Manager van de organisatie te importeren met behulp van de integratie van Advertising DSP native API.
 
 ### Welke veranderingen resulteren in Audience Manager?
 
@@ -76,7 +76,7 @@ De API automatisch:
 
 [!DNL Adobe] het personeel zal de meeste of alle volgende stappen uitvoeren.
 
-1. De [!DNL Adobe] het accountteam moet een verzoek indienen bij het team voor gegevensbewerkingen om een integratie in te stellen tussen [!DNL Search] en Audience Manager. Neem de namen op van de Audience Manager-segmenten waarnaar u wilt exporteren [!DNL Search].
+1. Het team van de Rekening van de Adobe zou een verzoek aan het team van gegevensverrichtingen moeten voorleggen om opstelling een integratie tussen [!DNL Search] en Audience Manager. Neem de namen op van de Audience Manager-segmenten waarnaar u wilt exporteren [!DNL Search].
 
 1. Binnen Audience Manager, vorm bestemmingen voor [!DNL Search]:
 

@@ -3,9 +3,9 @@ title: Problemen oplossen
 description: Verwijzing gemeenschappelijke prestatieskwesties en zie hoe te om hen problemen op te lossen.
 feature: DSP Optimization
 exl-id: b87f8556-1908-40c1-9f98-fbdc6d9b59b1
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '518'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 | Geen uitgaven voor plaatsing | De plaatsing bevat geen advertenties en/of de advertenties zijn niet actief. | Controleer of alle verwachte advertenties zijn gekoppeld aan de plaatsing en zijn goedgekeurd en actief.<br><br>Zie ook of de plaatsing een aangepast advertentieschema bevat, waardoor de vliegperiode voor elke advertentie kan worden beperkt. Klik op  **[!UICONTROL ...]** > **[!UICONTROL Ad schedule]** naast de plaatsingsnaam. |
 |  | De betrokken datums vallen niet binnen de geconfigureerde vluchtdatums. | Controleer of de vluchtdatums geldig zijn op de campagne, het pakket en het plaatsingsniveau &#x200B; s. |
 |  | Het begrotingsdoel is bereikt en/of is niet hoog genoeg. | Controleer de budgetinstellingen op de campagne-, pakket- en plaatsingsniveaus. |
-|  | De rekening heeft niet genoeg financiering. | Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Account]** en bekijk de hoeveelheid [!UICONTROL Usable Funds]. Neem contact op met uw [!DNL Adobe] accountteam. |
+|  | De rekening heeft niet genoeg financiering. | Ga naar **[!UICONTROL Settings]** > **[!UICONTROL Account]** en bekijk de hoeveelheid [!UICONTROL Usable Funds]. Neem contact op met het accountteam van Adobe als u meer middelen wilt toevoegen. |
 |  | Er is geen voorraad beschikbaar. | Controleren of de opgegeven inventarisbronnen ([!UICONTROL Public], [!UICONTROL Private], of [!UICONTROL On Demand]) zijn:<ul><li>Correcte instelling.</li><li>Actief en via veilingen verzenden.</li><li>Compatibel met het toepasselijke advertentie- en plaatsingstype.</li></ul><br>Als de inventarisbronnen allemaal geldig en actief zijn, richt u zich waar mogelijk op aanvullende of alle inventarisbronnen. |
 |  | Er zijn geen gebruikers beschikbaar. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers bevatten. Als ze dat niet doen, breidt u de doelen uit door meer publiek toe te voegen. |
 | Lage uitgaven voor plaatsing | De [!UICONTROL Non Bids] in het rapport voor plaatsingsdiagnostiek worden mogelijke redenen getoond waarom er geen bod is uitgebracht. | [Controleer de [!UICONTROL Non Bids] verslag](/help/dsp/campaign-management/reports/placement-diagnostics.md) om te begrijpen waarom de plaatsing niet heeft geboden.  <!-- add link/edit text when file available: See the [in-depth guide to possible Non-Bid Reasons (NBR)](link) for more information. --> |

@@ -3,16 +3,16 @@ title: Hoe DSP uw campagnes optimaliseert
 description: Leer hoe DSP de pakketten in uw campagnes optimaliseert.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
 # Hoe reclame uw campagnes DSP optimaliseren
 
-Deze pagina beschrijft hoe de DSP optimaliseringsmotor, die door wordt aangedreven [!DNL Adobe Sensei], optimaliseert de pakketten in uw campagnes. Neem voor tips en trucs voor het handmatig optimaliseren van uw campagnes contact op met uw [!DNL Adobe] accountteam. <!-- add link to trading playbook if we add it to help -->
+Deze pagina beschrijft hoe de DSP optimaliseringsmotor, die door wordt aangedreven [!DNL Adobe Sensei], optimaliseert de pakketten in uw campagnes. Neem voor tips en trucs voor het handmatig optimaliseren van uw campagnes contact op met het accountteam van Adobe. <!-- add link to trading playbook if we add it to help -->
 
 De optimalisatiedoelstellingen van het pakket werken op twee niveaus:
 

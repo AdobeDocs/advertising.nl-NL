@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '840'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ De [!DNL Analytics for Advertising] JavaScript gebruikt deze instellingen om te 
 
 ## Adobe-advertentiegegevens in [!DNL Analytics]
 
-[!DNL Analytics] Hiermee stelt u Adobe-advertentie-id&#39;s (AMO-id&#39;s) in in de treffer voor Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder, die van toepassing is op zowel doorklikken als doorzoeken. De persistentie-instelling is geconfigureerd op de achterkant van de Adobe Advertising en uw [!DNL Adobe] accountteam kan dit wijzigen.
+[!DNL Analytics] Hiermee stelt u Adobe-advertentie-id&#39;s (AMO-id&#39;s) in in de treffer voor Analytics, afhankelijk van de persistentie-instelling van de eVar van de adverteerder, die van toepassing is op zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de achterkant van de Adobe Advertising en uw Adobe-accountteam kan deze wijzigen.
 
 * [!DNL Analytics for Advertising] Vervaldatum eVar: Standaard 60 dagen voor AMO-id&#39;s
 
@@ -77,7 +77,7 @@ De [!DNL Analytics for Advertising] JavaScript gebruikt deze instellingen om te 
 * Online video
 * Oorspronkelijk
 
-Neem contact op met uw [!DNL Adobe] -accountteam voor de nieuwste ondersteunde advertentiemogelijkheden in elk kanaal.
+Neem contact op met uw Adobe-accountteam voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
 
 ## Wat u moet weten voordat u gaat implementeren
 

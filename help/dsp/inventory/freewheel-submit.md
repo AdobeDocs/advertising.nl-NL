@@ -3,7 +3,7 @@ title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
 description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 18d91f0c-4a27-4e40-b762-6c5e97e9a21a
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%

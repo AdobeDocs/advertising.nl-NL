@@ -3,9 +3,9 @@ title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewhe
 description: Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel].
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: b9c60248-8104-42ef-8afb-2f9db67b33b0
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL Freewheel] v
 
 >[!PREREQUISITES]
 >
->Werk met uw [!DNL Adobe] accountteam om te controleren of uw [!DNL DSP] account heeft de volgende machtigingen:
+>Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] account heeft de volgende machtigingen:
 >
 >* Machtiging om de [!DNL FreeWheel] programmatic gegarandeerde workflow, die vereist is om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel].
 >

@@ -3,9 +3,9 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -43,7 +43,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X |  | X |  |
 | [!DNL Inskin] |  |  | X |  | Skins met een hoog effect (inclusief conversationele Cavai-advertenties) moeten worden uitgediept uit een 180x150-id voor de weergavedeal in het inventarisnetwerk Inskin. |
 | [!DNL Jivox] |  | X |  |  |  |
-| [!DNL Kargo] |  | X |  | X | 320x50 Anker, BYOC, Hover, Breakout, Breakaway en Sidetrap; 300x250 Outstream, HighRise; Standaarddesktopbeeldscherm (specifieke id&#39;s voor insteekmodules en insteekmodules zijn niet vereist); Videoanker (alleen VAST)</br></br>Neem contact op met uw [!DNL Adobe] accountteam voor hulp bij het opzetten van advertentiesystemen. |
+| [!DNL Kargo] |  | X |  | X | 320x50 Anker, BYOC, Hover, Breakout, Breakaway en Sidetrap; 300x250 Outstream, HighRise; Standaarddesktopbeeldscherm (specifieke id&#39;s voor insteekmodules en insteekmodules zijn niet vereist); Videoanker (alleen VAST)</br></br>Neem contact op met het accountteam van uw Adobe voor hulp bij het instellen van advertentie-eenheden. |
 | [!DNL Linkstorm] |  |  | X |  |  |
 | [!DNL mCanvas] |  |  | X |  |  |
 | [!DNL Medialets] |  | X |  |  |  |

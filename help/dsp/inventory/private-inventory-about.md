@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 34fc1926-a839-4f2d-8628-557542fb7835
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Adverteerders die verder kijken dan RTB kunnen privéinventarisaties gebruiken o
 
 ## Deal IDs
 
-Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen door gebruik te maken van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw advertenties DSP plaatsingen. DSP integreert met al uw uitgevers wanneer u opstelling een rekening. Als u later toegang wilt tot extra uitgevers, neemt u contact op met uw [!DNL Adobe] -accountteam voor toegang instellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
+Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen door gebruik te maken van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw advertenties DSP plaatsingen. DSP integreert met al uw uitgevers wanneer u opstelling een rekening. Als u later toegang wilt tot extra uitgevers, neemt u contact op met uw Adobe-accountteam om toegang in te stellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Al uw privé overeenkomsten met een overeenkomstenidentiteitskaart worden gefinancierd en gefactureerd door [!DNL Adobe].
 

@@ -3,9 +3,9 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: 806450b9-ce32-4f5c-a2ac-ba8e435ce36d
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Elk douanedoel bestaat uit één of meerdere metriek, of *transactieeigenschappe
 >[!NOTE]
 >
 >* [!DNL Analytics] De afmetingen en de segmenten zijn niet beschikbaar voor Adobe Advertising optimization.
->* Als u Analytics-gebeurtenissen wilt gebruiken in DSP, werkt u met uw [!DNL Adobe] -accountteam configureren voor integratie op adverteerderniveau.
+>* Om de gebeurtenissen van Analytics in DSP te gebruiken, werk met uw Team van de Rekening van Adobe om een adverteerder-vlakke integratie te vormen.
 >* [!DNL Analytics] aangepaste gebeurtenissen volgen deze naamgevingsconventie: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Voorbeeld: `custom_event_16_examplersid`
 
 

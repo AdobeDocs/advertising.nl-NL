@@ -3,9 +3,9 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 81b0acfa-085d-495b-9516-576b952b1307
-source-git-commit: 2060ab016917a69ef8bf718d339a35eb62b1269e
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '504'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt aangepaste doelen maken als *doelstellingen* binnen [!DNL Adobe Advertising Search].
 
-Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search] account, neem contact op met uw [!DNL Adobe] accountteam.
+Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search] account, neemt u contact op met uw Adobe-accountteam.
 
 >[!TIP]
 >

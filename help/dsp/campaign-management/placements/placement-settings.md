@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '3416'
+source-wordcount: '3417'
 ht-degree: 0%
 
 ---
@@ -319,7 +319,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (facultatief; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met uw [!DNL Adobe] accountteam.
+**[!UICONTROL Topic Targeting]:** (facultatief; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met het accountteam van Adobe om deze functie en de onderdelen van het installatieonderwerp te activeren.
 
 Onderwerpgerichte onderwerpen opgeven:
 
