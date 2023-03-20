@@ -2,14 +2,14 @@
 title: Veelgestelde vragen over Universal Video
 description: Meer weten over universele videobanden?
 feature: DSP Placements, DSP Ads
-source-git-commit: 8e0237355e834f4ae2b9ef1ed211e047b41cafe7
+source-git-commit: fe5340cbf495eb9498d89c18080307464d4067d9
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# # Veelgestelde vragen over universele video
+# Veelgestelde vragen over Universal Video
 
 ## Hoe kunt u universele videoplaatsen en advertenties maken?
 
@@ -23,7 +23,11 @@ Maak ze op dezelfde manier als andere typen plaatsingen en video&#39;s:
 
 1. In dezelfde campagne als de universele videoplaatsing, [één universele video-advertentie maken](/help/dsp/campaign-management/ads/ad-create.md) of [meerdere universele videobanden maken](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
-   Als u meerdere advertenties maakt, moet u &quot;[!UICONTROL Universal Video]&quot; als de [!UICONTROL Ad Type]. Voor [!DNL Google] of [!DNL Flashtalking] adverteert, nadat u het bestand hebt geüpload, klikt u op het veld Advertentietype in het dialoogvenster &quot;[!UICONTROL Review ad types]&quot; stap en bewerk deze. Voor andere typen advertentietags geeft u het advertentietype op in het spreadsheetbestand dat u uploadt.
+   Als u meerdere advertenties maakt, moet u &quot;[!UICONTROL Universal Video]&quot; als de [!UICONTROL Ad Type]:
+
+   * Voor [!DNL Google] of [!DNL Flashtalking] advertenties: In het veld &quot;[!UICONTROL Review ad types]&quot; nadat u het bestand hebt geüpload, klikt u op de knop **[!UICONTROL Ad Type]** veld en selecteer **[!UICONTROL Universal Video]**.
+
+   * Voor andere typen advertentietags: Geef in het werkbladbestand dat u uploadt het veld Advertentietype voor elke advertentie op als **[!UICONTROL Universal Video]**.
 
 1. [De advertentie-instellingen openen](/help/dsp/campaign-management/ads/ad-edit.md) voor elke nieuwe advertentie en selecteer het toepasselijke videoformaat:
 
