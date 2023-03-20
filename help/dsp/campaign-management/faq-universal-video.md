@@ -2,9 +2,9 @@
 title: Veelgestelde vragen over Universal Video
 description: Meer weten over universele videobanden?
 feature: DSP Placements, DSP Ads
-source-git-commit: fe5340cbf495eb9498d89c18080307464d4067d9
+source-git-commit: 58cbb5b85a1dc790aaf762ba55fd2badeef6fe68
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Maak ze op dezelfde manier als andere typen plaatsingen en video&#39;s:
 
 1. In de gewenste campagne [universele videoplaatsing maken](/help/dsp/campaign-management/placements/placement-create.md), selecteert u de [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
 
-   U moet ten minste één omgeving opgeven (Desktop, Mobiel, Verbonden tv) als doel.
+   U moet ten minste één omgeving (Desktop, Mobiel, Verbonden tv) opgeven om als doel in te stellen.
 
 1. In dezelfde campagne als de universele videoplaatsing, [één universele video-advertentie maken](/help/dsp/campaign-management/ads/ad-create.md) of [meerdere universele videobanden maken](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
@@ -47,8 +47,8 @@ Doelstellingen die niet compatibel zijn met standaard aangesloten tv-plaatsingen
 
 Gebruiken **[!UICONTROL VAST]** in een van de volgende scenario&#39;s:
 
-* De plaatsing is gericht op de inventarisatie van aangesloten tv.
-* De plaatsing richt videoinventaris van Google Ad Manager, Appnexus, SpotX, of Freeschijf. Deze SSPs steunt niet VPAID &amp; VAST videoformaat.
+* De plaatsingsdoelstellingen verbonden TV-inventaris.
+* De plaatsing is gericht op videoinventarisatie van Google Ad Manager, Appnexus, SpotX of Freeschijf. Deze SSPs steunt niet VPAID &amp; VAST videoformaat.
 
 ## Is het mogelijk om veelvoudige universele videoadvertenties aan de zelfde universele videoplaatsing vast te maken?
 
