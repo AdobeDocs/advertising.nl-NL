@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 251d6a0bed5b4f4b28afc5ecfe666a1e506cd7d5
 workflow-type: tm+mt
-source-wordcount: '3417'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 **[!UICONTROL Ad specs for forecast]:** (Alleen video en indelingen) De duur en/of specificaties van de advertentie, die worden gebruikt om de voorspelde projectie aan de rechterkant te berekenen. De velden verschillen per advertentietype.
 
-**[!UICONTROL Environment]:** (Alleen Universal Video ad-indeling) De apparaatomgevingen (Computer, Mobiel, Connected TV) die als doelen in de plaatsing moeten worden opgenomen.
+**[!UICONTROL Environment]:** (Alleen Universal Video ad-indeling) De apparaatomgevingen (Computer, Mobiel, Connected TV) die als doelen in de plaatsing moeten worden opgenomen. Geef ten minste één waarde op.
 
 **[!UICONTROL Placement tags]:** (Optioneel) Trefwoorden of bijnamen om u te helpen deze plaatsing te vinden.
 
@@ -468,5 +468,5 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 >* [Een plaatsing bewerken](placement-edit.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
 

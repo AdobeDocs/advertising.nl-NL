@@ -3,14 +3,18 @@ title: Advertentie aan een Plaatsing vastmaken
 description: Leer hoe u een advertentie aan een plaatsing koppelt.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 1f35711c5543974f97ce2a9c35427636c1e5a6a9
 workflow-type: tm+mt
-source-wordcount: '528'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 # Advertentie aan een Plaatsing vastmaken
+
+>[!NOTE]
+>
+>Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
 ## Een nieuwe advertentie toevoegen vanuit de [!UICONTROL Ads] Weergave
 
@@ -132,4 +136,5 @@ ht-degree: 1%
 >* [Een advertentie bewerken](ad-edit.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
 >* [Het advertentieschema voor een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 

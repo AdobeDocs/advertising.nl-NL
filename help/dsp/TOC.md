@@ -8,10 +8,10 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: b90c8d391bfd90a844e4c6bad37da193fa226397
+source-git-commit: d44b3834240e13904718912ac62df7c8fdbee963
 workflow-type: tm+mt
-source-wordcount: '879'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -113,7 +113,8 @@ ht-degree: 6%
       + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+   + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+   + [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 + Optimalisatie {#optimization}
    + [Hoe [!DNL DSP] Optimaliseert uw campagnes](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md)

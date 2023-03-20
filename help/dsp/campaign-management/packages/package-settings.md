@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 32d74703d9aecbddc5a5f3e0526a2cefbf1f2266
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -121,5 +121,5 @@ Voer voor elke vlucht de startdatum, de einddatum en het doelaantal indrukkingen
 >* [Een pakket bewerken](package-edit.md)
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/campaign-management-faq.md)
+>* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
 

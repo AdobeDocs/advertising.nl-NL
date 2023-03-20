@@ -3,9 +3,9 @@ title: Eén advertentie maken
 description: Leer hoe u één externe advertentie kunt maken.
 feature: DSP Ads
 exl-id: fdfb02c0-9aec-4faf-b374-0f03c7a3fa98
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 4af30f6fa6a81ce7f1a6879244178c84580caa0f
 workflow-type: tm+mt
-source-wordcount: '249'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -27,6 +27,10 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Ad Types] in het menu klikt u op de knop [advertentietype](ad-about.md#ad-types).
 
 1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), [pre-rol advertenties](ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md):
+
+   >[!NOTE]
+   >
+   >Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
    1. Op de [!UICONTROL Insert Ad Tag] scherm, ga informatie over de advertentie van een verklaarde derde in dienst dienende partner, en klik dan **[!UICONTROL Go]**.
 
@@ -50,4 +54,5 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie bewerken](ad-edit.md)
 >* [Advertentiespecificaties](ad-specs.md)
+>* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 

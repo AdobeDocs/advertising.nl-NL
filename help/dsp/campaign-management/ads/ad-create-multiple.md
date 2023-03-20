@@ -3,9 +3,9 @@ title: Meerdere externe advertenties maken
 description: Leer hoe u meerdere advertenties van derden tegelijk kunt maken.
 feature: DSP Ads
 exl-id: be7c1cc4-3c17-4e37-aae7-c8601d2222a0
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: d072670b26e56e986df2a6690978df1e74237dad
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -64,10 +64,15 @@ U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleve
 
       1. Klik op **[!UICONTROL Save & submit for review]**.
 
+>[!NOTE]
+>
+>Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
+
 >[!MORELIKETHIS]
 >
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Advertentiespecificaties](ad-specs.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [Video: Hoe te om te bulken uploadt de Markeringen van de Derden Ad](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 

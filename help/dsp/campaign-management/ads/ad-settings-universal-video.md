@@ -3,9 +3,9 @@ title: Instellingen voor Universal Video Add
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor universele videoadvertenties.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 0c9e9c8d2a3444c623568d25262421be53c0c846
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Instellingen voor Universal Video Add
 
 *bètafunctie openen*
+
+>[!NOTE]
+>
+>Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -50,7 +54,7 @@ ht-degree: 0%
 
 **[!UICONTROL Video Format]:** De indeling van de advertentiespeler voor mogelijke inventarisatie: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]*, of *[!UICONTROL VAST]*. Zichtbaarheid wordt altijd gemeten voor [!UICONTROL VPAID], maar [!UICONTROL VPAID & VAST] bevat een overzicht waarin geen meting van de weergavemogelijkheid is toegestaan. Houd rekening met dit verschil als meetgegevens voor de weergavemogelijkheden belangrijk zijn voor uw campagne.
 
-Gebruiken *[!UICONTROL VAST]*, die geen meting van de weergavekwaliteit toestaat, wanneer u zich richt op aangesloten tv of inventaris die uitsluitend VAST-indeling vereist (gewoonlijk van leveringsbronnen zoals Google Ad Manager, Appnexus, SpotX en Freewiel).
+Gebruiken [!UICONTROL VAST], die geen meting van de weergavekwaliteit toestaat, wanneer u zich richt op aangesloten tv of inventaris die uitsluitend VAST-indeling vereist (gewoonlijk van leveringsbronnen zoals Google Ad Manager, Appnexus, SpotX en Freewiel). Gebruik deze optie ook voor voorraad die eerder compatibel was met de standaardinstellingen voor Pre-roll (VAST) of Phone + Tablet Standard Pre-roll (VAST).
 
 **[!UICONTROL Clock Number]**: (Alleen gebruikt in het Verenigd Koninkrijk; (alleen beschikbaar voor gebruikers met toestemming) Een unieke id die wordt gebruikt om ervoor te zorgen dat de juiste advertentie wordt uitgezonden. Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -72,6 +76,7 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 
 >[!MORELIKETHIS]
 >
+>* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
