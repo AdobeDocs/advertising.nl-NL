@@ -3,9 +3,9 @@ title: Over Advertentiebeheer in DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 41dbe28e-a476-4601-a3d8-a9111eae3f6b
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 9073400eb26957c63378bee90929009fcc82f78f
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '732'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ DSP ondersteunt ad-leveranties via tags van derden voor advertenties (zoals Goog
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
 
-Wanneer uw advertenties zijn ingesteld, moet u elke advertentie aan een plaatsing koppelen, die de doelparameters bevat (zoals geo, publiek, apparaat en inventarisgericht maken) die bepalen hoe uw campagne zal worden uitgevoerd. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
+Wanneer uw advertenties zijn ingesteld, koppelt u elke advertentie aan een plaatsing, die de doelparameters bevat (zoals geo, publiek, apparaat en voorraadgerichtheid) die bepalen hoe uw campagne werkt. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
 
 ## Beschikbare advertentietypen {#ad-types}
 
@@ -37,7 +37,11 @@ Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specifica
 
 * **Aangesloten tv-advertenties (alleen van derden)**: Aangesloten tv-advertenties worden weergegeven voor en tijdens hoogwaardige tv-video-inhoud. Alle aangesloten tv-inventarisaties worden uitgevoerd op tv-apparaten. Dit betekent dat video automatisch wordt afgespeeld in een teruggekoppelde, schermvullende omgeving die de kijkers niet kunnen overslaan. Connected TV is de meest verwante digitale video-indeling voor tv-reclames. Belangrijke prestatie-indicatoren voor Connected TV zijn onder andere [!UICONTROL Completion Rate].
 
-* **Universal Video Ads (alleen van derden)**: In Universal Video-advertenties worden alle mogelijkheden van Connected TV, Pre-roll en Mobile Pre-roll Ads (VAST en VPAID) in één blok gecombineerd en worden deze voor en tijdens video-inhoud getoond. Universal Video-advertentie kan worden gebruikt wanneer u zich richt op video-inventarisatie vanuit een desktop-, mobiele- en Connected TV-omgeving en voorkomt zo de noodzaak om meerdere videobaden te maken. Tot de belangrijkste prestatie-indicatoren voor Universal Video behoren [!UICONTROL Completion Rate] en [!UICONTROL Viewability Rate].
+* **Universal Video Ads (alleen van derden)**: Met Universal Video ads kunt u de videovoorraad richten op desktopcomputers, mobiele apparaten en aangesloten tv-omgevingen voor VPAID- en VAST-inventarisatie met behulp van één videoplaatsing. Ze combineren alle mogelijkheden van aangesloten tv-advertenties, pre-roll-advertenties en mobiele pre-roll-advertenties en worden voor en tijdens video-inhoud weergegeven. Tot de belangrijkste prestatie-indicatoren voor universele video behoren: [!UICONTROL Completion Rate] en [!UICONTROL Viewability Rate].
+
+   Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
+
+   Zie &quot;[Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)&quot; voor meer informatie over universele videobaden .
 
 ## Goedkeuringen DSP
 
