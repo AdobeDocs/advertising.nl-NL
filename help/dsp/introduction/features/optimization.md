@@ -3,7 +3,7 @@ title: Optimalisatie
 description: Meer informatie over optimalisatiefuncties.
 feature: DSP Introduction, DSP Optimization
 exl-id: c60e58e7-ab16-49bd-9acf-e5b858755493
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Wanneer u opstelling een programmatic campagne, één van de belangrijkste te ov
 
 Reclame DSP optimaliseert voor de metriek u over het grootste deel in twee fasen geeft. Ten eerste verschuift het geld naar de plaatsen of tactieken die het beste presteren, afhankelijk van de optimalisatiedoelstelling van het pakket. Ten tweede worden veilingbiedingen in real-time aangepast aan de economische waarde op het moment dat het een afweging maakt tussen a) de noodzaak om uw budget volledig te leveren en b) de gekozen KPI&#39;s. Samen zorgen deze optimaliseringsfasen ervoor dat uw budget efficiënt wordt besteed om uw campagnedoelstellingen te bereiken.
 
-Voor elk van uw plaatsen en pakketten, kunt u een optimalisatiedoel kiezen. De beschikbare optimalisatiedoelen bevatten vooraf ingestelde opties, zoals &quot;[!UICONTROL Lowest Cost per Click],&quot; en aangepaste doelen die u hebt ingesteld als doelstellingen in [!DNL Adobe Advertising Search].
+Voor elk van uw plaatsen en pakketten, kunt u een optimalisatiedoel kiezen. De beschikbare optimalisatiedoelen bevatten vooraf ingestelde opties, zoals &quot;[!UICONTROL Lowest Cost per Click],&quot; en aangepaste doelen die u hebt ingesteld als doelstellingen in [!DNL Advertising Search, Social, & Commerce].
 
 >[!MORELIKETHIS]
 >

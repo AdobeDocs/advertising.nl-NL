@@ -3,7 +3,7 @@ title: Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 description: Leer hoe u uw [!DNL Adobe] publiek naar DSP en zoeken met Adobe Audience Manager
 feature: Integration with Adobe Audience Manager
 exl-id: 6ff80699-9554-4b39-a019-d8055d68c174
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '763'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden
 
-DSP en [!DNL Advertising Search] kan elke gebruiker metagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle adverteerders of agentschappen ophalen [!DNL Adobe] publiek<!-- segments or audiences? Standardize terms per AAM's docs -->. Dit omvat gegevens voor:
+DSP en [!DNL Advertising Search, Social, & Commerce] kan elke gebruiker metagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle adverteerders of agentschappen ophalen [!DNL Adobe] publiek<!-- segments or audiences? Standardize terms per AAM's docs -->. Dit omvat gegevens voor:
 
 * Adobe Audience Manager-segmenten
 
@@ -22,7 +22,7 @@ DSP en [!DNL Advertising Search] kan elke gebruiker metagegevens, hiërarchiegeg
 
 * Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
 
-Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL Search], moet u het publiek importeren in [!DNL Search].
+Toegang tot [!DNL Adobe] publiek in DSP of [!DNL Creative], moet u het publiek in DSP importeren. Toegang tot [!DNL Adobe] publiek in [!DNL Search, Social, & Commerce], moet u het publiek importeren in [!DNL Search, Social, & Commerce].
 
 ## Vereisten
 
@@ -70,19 +70,19 @@ De API automatisch:
 
    * Adobe AdCloud: 411 (Dit wordt standaard en automatisch als onderdeel van [!DNL Identity Service] versie 2.0. Organisaties met [!DNL Identity Service] In versies onder 2.0 moet u deze pixel toevoegen aan de container van de Audience Manager.
 
-## Soorten publiek in Audience Manager importeren naar [!DNL Search]
+## Soorten publiek in Audience Manager importeren naar [!DNL Search, Social, & Commerce]
 
-### Stappen voor het importeren van soorten publiek naar [!DNL Search]
+### Stappen voor het importeren van soorten publiek naar [!DNL Search, Social, & Commerce]
 
 [!DNL Adobe] het personeel zal de meeste of alle volgende stappen uitvoeren.
 
-1. Het team van de Rekening van de Adobe zou een verzoek aan het team van gegevensverrichtingen moeten voorleggen om opstelling een integratie tussen [!DNL Search] en Audience Manager. Neem de namen op van de Audience Manager-segmenten waarnaar u wilt exporteren [!DNL Search].
+1. Het team van de Rekening van de Adobe zou een verzoek aan het team van gegevensverrichtingen moeten voorleggen om opstelling een integratie tussen [!DNL Search, Social, & Commerce] en Audience Manager. Neem de namen op van de Audience Manager-segmenten waarnaar u wilt exporteren [!DNL Search, Social, & Commerce].
 
-1. Binnen Audience Manager, vorm bestemmingen voor [!DNL Search]:
+1. Binnen Audience Manager, vorm bestemmingen voor [!DNL Search, Social, & Commerce]:
 
    1. Maak twee nieuwe doelen: `[!UICONTROL Adobe Media Optimizer (HTTP)]` en `[!UICONTROL Adobe Media Optimizer Batch Destination]`.
 
-      [!DNL Media Optimizer] is een vroegere naam voor [!DNL Search].
+      [!DNL Media Optimizer] is een vroegere naam voor [!DNL Search, Social, & Commerce].
 
    1. Geef de segmenten voor elk van de bestemmingen op.
 
@@ -90,13 +90,13 @@ De API automatisch:
 
       De [!UICONTROL Manually map segments] kunt u de segmenten handmatig toewijzen aan synchronisatie met de batchbestemming (`[!UICONTROL Adobe Media Optimizer Batch Destination]`). Er hoeven geen segmenten handmatig te worden toegewezen aan de HTTP-bestemming.
 
-1. Within [!DNL Search]de [!DNL Search] het implementatieteam of een gebruiker met de directe rol van de manager van de toegangscliënt zou de invoer van moeten in werking stellen [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
+1. Within [!DNL Search, Social, & Commerce]de [!DNL Search, Social, & Commerce] het implementatieteam of een gebruiker met de directe rol van de manager van de toegangscliënt zou de invoer van moeten in werking stellen [!UICONTROL Search] > [!UICONTROL Admin] > [!UICONTROL Audience Manager Setup].
 
    U moet de Experience Cloud van de organisatie invoeren [!DNL Organization ID] ([!DNL IMS org ID]). De id moet dezelfde zijn als de id die wordt gebruikt voor de account van de Audience Manager van de organisatie.
 
 ### Welke veranderingen resulteren in Audience Manager?
 
-De organisatie ziet twee [!DNL Search] bestemmingen in Audience Manager:
+De organisatie ziet twee [!DNL Search, Social, & Commerce] bestemmingen in Audience Manager:
 
 * **[!UICONTROL Adobe Media Optimizer (HTTP)]**
 * **[!UICONTROL Adobe Media Optimizer Batch Destination])**
@@ -124,7 +124,7 @@ Segment membership data is sent only after one of the following events occurs:
 
   * The segment is added to the [!DNL Adobe AdCloud Cross-Channel] batch and real-time destinations within the Audience Manager user interface.
 
-* (Advertisers with [!DNL Search]):
+* (Advertisers with [!DNL Search, Social, & Commerce]):
 
   * The segment is targeted in an Adobe Advertising search ad.
 
@@ -146,9 +146,9 @@ In DSP, worden de segmentnamen georganiseerd door de taxonomie van de Audience M
 
 In [!DNL Creative], zijn de segmenten beschikbaar in de ervaringsmontages voor doelknopen.
 
-### In [!DNL Advertising Search]
+### In [!DNL Advertising Search, Social, & Commerce]
 
-In [!DNL Search], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
+In [!DNL Search, Social, & Commerce], zijn de segmenten beschikbaar wanneer u een [!DNL Google] publiek dat [!UICONTROL Data Source] &quot;[!UICONTROL Adobe Audience]&quot; van [!UICONTROL Campaigns] > [!UICONTROL Audiences] > [!UICONTROL Library].
 
 Voor elke [!DNL Google] publiek dat u maakt, [!DNL Google] levert de omvang van het publiek.
 

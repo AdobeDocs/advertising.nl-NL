@@ -3,7 +3,7 @@ title: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 description: Adobe advertentie-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '1183'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Adverteerders met een Adobe Advertising-Adobe Analytics Integration Only*
 
-*Van toepassing op DSP en[!DNL Advertising Search]*
+*Van toepassing op DSP en[!DNL Advertising Search, Social, & Commerce]*
 
 In advertentie voor Adobe worden twee id&#39;s gebruikt voor het on-site bijhouden van prestaties: de *EF-id* en de *AMO-id*.
 
@@ -23,7 +23,7 @@ Wanneer een advertentie-imitatie optreedt, maakt Adobe Advertising de AMO-id- en
 Bij reclame in Adobe wordt een onderscheid gemaakt tussen een doorklikvermelding of een doorkijkitem op de website aan de hand van de volgende criteria:
 
 * Een view-through ingang wordt gevangen wanneer een gebruiker de plaats na het bekijken van een advertentie bezoekt maar niet het klikt. [!DNL Analytics] registreert een mening-door als twee voorwaarden worden voldaan:
-   * De bezoeker heeft geen doorklikken voor een [!DNL DSP] of [!DNL Search] advertentie tijdens de [klik terugkijkvenster](#lookback-a4adc).
+   * De bezoeker heeft geen doorklikken voor een [!DNL DSP] of [!DNL Search, Social, & Commerce] advertentie tijdens de [klik terugkijkvenster](#lookback-a4adc).
    * De bezoeker heeft minstens één [!DNL DSP] advertentie tijdens de [terugkijkvenster van indruk](#lookback-a4adc). De laatste indruk wordt doorgegeven als de doorkijkhoek.
 * Een doorklikitem wordt vastgelegd wanneer een sitebezoeker op een advertentie klikt voordat hij de site betreedt. [!DNL Analytics] vangt een klik-door wanneer één van beiden van de volgende voorwaarden voorkomt:
    * De URL bevat een EF-id en een AMO-id die door Adobe Advertising aan de URL van de bestemmingspagina zijn toegevoegd.
@@ -112,7 +112,7 @@ waarbij:
 * &lt;*Kanaal-id*> kan:
 
    * `AC` = DSP
-   * `AL` for [!DNL Advertising Search]
+   * `AL` for [!DNL Advertising Search, Social, & Commerce]
 
 * &lt;*ID advertentie*> wordt gebruikt als unieke id voor een advertentie die is gegenereerd door Adobe Advertising. Het dient als sleutel voor het omzetten van metagegevens van Adobe Advertising entity in leesbaar [!DNL Analytics] afmetingen.
 
@@ -120,9 +120,9 @@ waarbij:
 
 Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO ID-indeling voor [!DNL Search]
+### AMO ID-indeling voor [!DNL Search, Social, & Commerce]
 
-AMO-id&#39;s voor [!DNL Search] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
+AMO-id&#39;s voor [!DNL Search, Social, & Commerce] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
 
 ```
 AL!{userid}!{sid}

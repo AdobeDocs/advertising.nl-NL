@@ -3,7 +3,7 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: d21917ef-5cac-46f8-8222-099667797683
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '1000'
 ht-degree: 0%
@@ -78,7 +78,7 @@ U kunt de volgende metriek in douanerapporten omvatten:
 
 *Adverteerders met alleen Adobe Advertising Conversion Tracking*
 
-Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een verschillend apparaat dan het apparaat plaatsvonden waarop de media blootstelling voorkwam. Over de DSP is een maatstaf voor individuele toeschrijvingen beschikbaar, [!DNL Adobe Advertising Creative], en [!DNL Adobe Advertising Search] voor adverteerders die Adobe Advertising pixels op hun sites hebben geïmplementeerd.
+Met op mensen gebaseerde attributie, kunt u omzettingen verklaren die op een verschillend apparaat dan het apparaat plaatsvonden waarop de media blootstelling voorkwam. Over de DSP is een maatstaf voor individuele toeschrijvingen beschikbaar, [!DNL Adobe Advertising Creative], en [!DNL Adobe Advertising Search, Social, & Commerce] voor adverteerders die Adobe Advertising pixels op hun sites hebben geïmplementeerd.
 
 ### Meting van op personen gebaseerde kenmerken inschakelen
 

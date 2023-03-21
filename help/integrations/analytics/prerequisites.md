@@ -3,7 +3,7 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 
-*Adverteerders met DSP en[!DNL Advertising Search]*
+*Adverteerders met DSP en[!DNL Advertising Search, Social, & Commerce]*
 
 Bekijk de volgende informatie voordat u Adobe Advertising integreert met Adobe Analytics.
 

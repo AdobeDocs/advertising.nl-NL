@@ -5,10 +5,10 @@ cloud: Experience Cloud
 solution: Advertising
 product: advertising cloud
 user-guide-title: Beleid en richtlijnen voor Adobe Advertising
-user-guide-description: Meer informatie over het beleid en de richtlijnen voor DSP en [!DNL Advertising Search].
+user-guide-description: Meer informatie over het beleid en de richtlijnen voor DSP en [!DNL Advertising Search, Social, & Commerce].
 breadcrumb-title: Beleid en richtlijnen
 index: true
-source-git-commit: b90c8d391bfd90a844e4c6bad37da193fa226397
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '33'
 ht-degree: 39%

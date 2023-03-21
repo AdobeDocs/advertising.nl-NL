@@ -3,7 +3,7 @@ title: Ondersteunde valuta's
 description: Zie een lijst met de ondersteunde valuta's.
 feature: DSP Custom Reports, DSP Campaign Data Views
 exl-id: 97d49cce-4438-40c4-94a4-e5d90ebaf651
-source-git-commit: 2d4d04204ac9df86f11a6ffee349d0cb0124b0e4
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Adobe Advertising ondersteunt de volgende valuta&#39;s.
 >
 > [!DNL DSP] uitsluitend de volgende valuta&#39;s worden gefactureerd: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD en USD.
 
-## [!DNL Adobe Advertising Search]
+## [!DNL Adobe Advertising Search, Social, & Commerce]
 
 Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is hetzelfde als [door [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
 

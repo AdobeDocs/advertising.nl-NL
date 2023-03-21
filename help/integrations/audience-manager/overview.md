@@ -3,7 +3,7 @@ title: Adobe Advertising Integrations with Adobe Audience Manager
 description: Meer informatie over de verschillende manieren waarop Adobe Advertising gegevens kan uitwisselen met Adobe Audience Manager.
 feature: Integration with Adobe Audience Manager
 exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
-source-git-commit: f6308ac9af8019987f4a2e501cba6b019cb032b6
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
@@ -16,13 +16,13 @@ U kunt Adobe-reclame op de volgende manieren integreren met Audience Manager.
 
 ## Audience Manager en andere synchroniseren [!DNL Adobe] Segmenten voor advertentiedoeleinden
 
-[!DNL Search] en DSP kunnen metagegevens, hiërarchische gegevens en unieke publieksgegevens ophalen voor alle Audience Managers en andere [!DNL Adobe] publiek. Deze unieke verbinding is alleen beschikbaar voor marketers die Adobe Advertising gebruiken. Zie &quot;[Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden](/help/integrations/audience-manager/import-audiences.md).&quot;
+[!DNL Search, Social, & Commerce] en DSP kunnen metagegevens, hiërarchische gegevens en unieke publieksgegevens ophalen voor alle Audience Managers en andere [!DNL Adobe] publiek. Deze unieke verbinding is alleen beschikbaar voor marketers die Adobe Advertising gebruiken. Zie &quot;[Adobe Audience Manager-segmenten importeren voor advertentiedoeleinden](/help/integrations/audience-manager/import-audiences.md).&quot;
 
 ### Audience Manager en overige gebruiken [!DNL Adobe] Te maken segmenten [!DNL Google Ads Audiences] {#audience-manager-google-audiences}
 
-*Geopende adverteerders met [!DNL Advertising Search] alleen*
+*Geopende adverteerders met [!DNL Advertising Search, Social, & Commerce] alleen*
 
-Within [!DNL Search]kunt u [!DNL Google Ads] Google-klanten komen overeen met gebruikers-id&#39;s die uw bestaande Audience Manager-segmenten gebruiken die [!UICONTROL Adobe Media Optimizer (HTTP)] en [!UICONTROL Adobe Media Optimizer Batch Destination] als bestemmingen. ([!DNL Media Optimizer] is een vroegere naam voor [!DNL Search].) Dit omvat Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die met de Adobe Experience Cloud zijn gemaakt [!DNL Audience Library]. Raadpleeg de Help in het product voor meer informatie [!DNL Search].
+Within [!DNL Search, Social, & Commerce]kunt u [!DNL Google Ads] Google-klanten komen overeen met gebruikers-id&#39;s die uw bestaande Audience Manager-segmenten gebruiken die [!UICONTROL Adobe Media Optimizer (HTTP)] en [!UICONTROL Adobe Media Optimizer Batch Destination] als bestemmingen. ([!DNL Media Optimizer] is een vroegere naam voor [!DNL Search, Social, & Commerce].) Dit omvat Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die met de Adobe Experience Cloud zijn gemaakt [!DNL Audience Library]. Raadpleeg de Help in het product voor meer informatie [!DNL Search, Social, & Commerce].
 
 [Klanten komen overeen met gebruikers-id&#39;s](https://support.google.com/google-ads/answer/9199250) werkt net als publiek met tags op de website, maar een niet-PII-id wordt toegewezen aan unieke publieksleden voor duidelijke voordelen ten opzichte van standaardklantovereenkomsten en op websites gebaseerde doelgroepen.
 
@@ -34,7 +34,7 @@ Wanneer u het publiek hebt gemaakt, kunt u deze gebruiken in [!DNL Google Ads] c
 
 ### Audience Manager en andere [!DNL Adobe] Segmenten voor doel- of uitsluitingsadvertenties {#audience-manager-targets}
 
-* (Geopende adverteerders met [!DNL Search]) U kunt alle [!DNL Google Ads] publiek dat [gemaakt met [!DNL Adobe] segmenten](#audience-manager-google-audiences) als streefdoelen of uitsluitingen op campagnereniveau of op ad-groepsniveau in uw [!DNL Google Ads] campagnes.
+* (Geopende adverteerders met [!DNL Search, Social, & Commerce]) U kunt alle [!DNL Google Ads] publiek dat [gemaakt met [!DNL Adobe] segmenten](#audience-manager-google-audiences) als streefdoelen of uitsluitingen op campagnereniveau of op ad-groepsniveau in uw [!DNL Google Ads] campagnes.
 
 * (Adverteerders met DSP) U kunt uw bestaande [!DNL Adobe] segmenten als doelen voor uw advertentieplaatsen. U kunt de segmenten desgewenst opnemen in herbruikbare doelgroepen, die u kunt gebruiken als doelen of uitsluitingen voor meerdere plaatsingen.
 

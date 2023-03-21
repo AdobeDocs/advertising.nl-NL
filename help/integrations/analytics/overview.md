@@ -3,7 +3,7 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Overzicht van [!DNL Analytics for Advertising]
 
-*Adverteerders met DSP en[!DNL Advertising Search]*
+*Adverteerders met DSP en[!DNL Advertising Search, Social, & Commerce]*
 
 [!DNL Analytics for Advertising] Adobe Analytics en Adobe Advertising worden geïntegreerd om de mogelijkheden van elk product uit te breiden en te verbeteren.
 
@@ -66,7 +66,7 @@ Zonder extra pixels te vereisen, [!DNL Analytics for Advertising] maakt een bete
 
    U kunt [!DNL Analytics] segmenten voor herbestemming van eerste site in [!DNL DSP] en betaalde zoekopdrachten.
 
-   ([!DNL Search] alleen) Adverteerders met [!DNL Analytics] maar Audience Managers kunnen ook op tags gebaseerde soorten publiek (remarketing lijsten) en publiek met klantovereenkomsten (klantlijsten) maken op basis van Google-websites [!DNL Analytics] segmenten die met Experience Cloud worden gedeeld.
+   ([!DNL Search, Social, & Commerce] alleen) Adverteerders met [!DNL Analytics] maar Audience Managers kunnen ook op tags gebaseerde soorten publiek (remarketing lijsten) en publiek met klantovereenkomsten (klantlijsten) maken op basis van Google-websites [!DNL Analytics] segmenten die met Experience Cloud worden gedeeld.
 
 ### Metrische gegevens voor siteconversie als biedsignalen
 
@@ -82,7 +82,7 @@ Zie &quot;[Analysemetriek in Adobe-reclame](analytics-data-in-advertising.md)&qu
 
 ### Analysesegmenten voor het opnieuw oprichten van sites
 
-Adobe-reclame kan worden opgenomen [!DNL Analytics] segmenten voor het opnieuw in de handel brengen van DSP en [!DNL Search] advertenties die gebruikmaken van de native Experience Cloud-publieksintegratie tussen [!DNL Analytics] en Experience Cloud.
+Adobe-reclame kan worden opgenomen [!DNL Analytics] segmenten voor het opnieuw in de handel brengen van DSP en [!DNL Search, Social, & Commerce] advertenties die gebruikmaken van de native Experience Cloud-publieksintegratie tussen [!DNL Analytics] en Experience Cloud.
 
 Om toegang te krijgen tot [!DNL Analytics] segmenten, moet een adverteerderaccount de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) ingeschakeld. Wanneer de Dienst van identiteitskaart wordt toegelaten, alle segmenten van Experience Cloud (met inbegrip van segmenten die in worden gecreeerd [!DNL Analytics] en gepubliceerd naar Experience Cloud, in Adobe Audience Manager gemaakte segmenten, in Experience Cloud gemaakte segmenten met behulp van de [!DNL People core service], en segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe-reclame zijn verzonden) worden beschikbaar in Adobe Advertising zodra ze zijn verwerkt.
 

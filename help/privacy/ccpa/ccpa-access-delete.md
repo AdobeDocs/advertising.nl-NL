@@ -3,7 +3,7 @@ title: 'Adobe Advertising support for the California Consumer Privacy Act: Toega
 description: Leer meer over de ondersteunde typen gegevensaanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden.
 feature: CCPA
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
-source-git-commit: bc0015c134406fb020370def45a8588b5032587e
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Adobe Advertising Support for the California Consumer Privacy Act: Toegang tot consumentengegevens en ondersteuning voor verwijderen
 
-*Voor [!DNL Adobe Advertising Search]; Adobe-DSP; Creatief reclame voor Adobe; en Adobe Advertising DCO*
+*Voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe-DSP; Creatief reclame voor Adobe; en Adobe Advertising DCO*
 
 >[!IMPORTANT]
 >
@@ -24,7 +24,7 @@ Als bedrijf, zult u de persoonlijke gegevens bepalen die Adobe Experience Cloud 
 
 Als uw dienstverlener, biedt de Reclame van de Adobe steun voor uw zaken om aan zijn verplichtingen uit hoofde van CCPA te voldoen die op het gebruik van de producten en de diensten van de Adobe Reclame van toepassing zijn, met inbegrip van het beheren van verzoeken om toegang tot en schrapping van persoonlijke informatie en het beheren van verzoeken om van de verkoop van persoonlijke informatie te kiezen.
 
-In dit document wordt beschreven hoe [!DNL Advertising Search]; Creatief adverteren; DSP (Demand Side Platform); en [!DNL Advertising DCO] — als dienstverleners — het recht van de consument op toegang tot en verwijdering van persoonsgegevens met behulp van de Adobe ondersteunen [!DNL Experience Platform Privacy Service API] en [!DNL Privacy Service UI].
+In dit document wordt beschreven hoe [!DNL Advertising Search, Social, & Commerce]; Creatief adverteren; DSP (Demand Side Platform); en [!DNL Advertising DCO] — als dienstverleners — het recht van de consument op toegang tot en verwijdering van persoonsgegevens met behulp van de Adobe ondersteunen [!DNL Experience Platform Privacy Service API] en [!DNL Privacy Service UI].
 
 Voor informatie over de wijze waarop reclame DSP het recht van de consument om te weigeren gebruik te maken van de verkoop van persoonlijke informatie, raadpleegt u [Adobe Advertising Support for the California Consumer Privacy Act: Support voor consumenten](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
@@ -34,8 +34,8 @@ Voor meer informatie over de diensten van de Privacy van de Adobe voor CCPA, zie
 
 Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken uit te voeren:
 
-* Toegang tot gegevens op cookieniveau of gegevens op ID-niveau van een consument (voor advertenties in mobiele apps) binnen [!DNL Search], [!DNL Creative], [!DNL DSP], of [!DNL DCO].
-* Gegevens op cookieniveau verwijderen die zijn opgeslagen in [!DNL Search], [!DNL Creative], [!DNL DSP], of [!DNL DCO] voor consumenten die een browser gebruiken; of gegevens op ID-niveau verwijderen die zijn opgeslagen in [!DNL DSP] voor consumenten die apps op mobiele apparaten gebruiken.
+* Toegang tot gegevens op cookieniveau of gegevens op ID-niveau van een consument (voor advertenties in mobiele apps) binnen [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], of [!DNL DCO].
+* Gegevens op cookieniveau verwijderen die zijn opgeslagen in [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], of [!DNL DCO] voor consumenten die een browser gebruiken; of gegevens op ID-niveau verwijderen die zijn opgeslagen in [!DNL DSP] voor consumenten die apps op mobiele apparaten gebruiken.
 * Controleer de status van een of alle bestaande aanvragen.
 
 ## Vereiste installatie voor het verzenden van verzoeken om Adobe-reclame
@@ -54,7 +54,7 @@ Om verzoeken tot toegang tot en schrapping van de persoonlijke informatie van de
 
    >[!NOTE]
    >
-   >Het verwijderen van persoonlijke gegevens is anders dan het uitschakelen van gegevens, waardoor een eindgebruiker niet meer doelgericht met publiekssegmenten werkt. Wanneer een consument echter om verwijdering van persoonsgegevens vraagt [!DNL Creative], [!DNL DSP], of [!DNL DCO], verzendt de bibliotheek ook een verzoek naar Adobe Advertising om de klant te weigeren zich te richten op segmenten. Voor adverteerders met [!DNL Search], adviseren wij u uw klanten een verbinding te verstrekken aan [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), die verklaart hoe te om uit doelgesegmenteerd publiekssegment te kiezen.
+   >Het verwijderen van persoonlijke gegevens is anders dan het uitschakelen van gegevens, waardoor een eindgebruiker niet meer doelgericht met publiekssegmenten werkt. Wanneer een consument echter om verwijdering van persoonsgegevens vraagt [!DNL Creative], [!DNL DSP], of [!DNL DCO], verzendt de bibliotheek ook een verzoek naar Adobe Advertising om de klant te weigeren zich te richten op segmenten. Voor adverteerders met [!DNL Search, Social, & Commerce], adviseren wij u uw klanten een verbinding te verstrekken aan [https://www.adobe.com/privacy/opt-out.html#customeruse](https://www.adobe.com/privacy/opt-out.html#customeruse), die verklaart hoe te om uit doelgesegmenteerd publiekssegment te kiezen.
 
 1. Identificeer uw organisatie-id van de Experience Cloud en zorg ervoor het met uw Adobe Advertising rekeningen wordt verbonden.
 
@@ -62,7 +62,7 @@ Om verzoeken tot toegang tot en schrapping van de persoonlijke informatie van de
 
    >[!IMPORTANT]
    >
-   >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle accounts van uw organisatie voor Adobe-advertenties — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
+   >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle accounts van uw organisatie voor Adobe-advertenties — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
 
 1. Gebruik een van de [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of de [UI Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) verzoeken om toegang tot en verwijdering van persoonsgegevens namens Adobe Advertising voor de consument in te dienen en de status van bestaande verzoeken te controleren.
 
@@ -73,7 +73,7 @@ Om verzoeken tot toegang tot en schrapping van de persoonlijke informatie van de
    Wanneer u een verzoek tot verwijdering van een consument indient, worden de cookie-id of apparaat-id en alle kosten, klik en inkomstengegevens die bij het cookie horen, van de server verwijderd.
 
    >[!NOTE]
-   Als uw bedrijf veelvoudige organisatie IDs van Experience Cloud heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
+   Als uw bedrijf veelvoudige organisatie IDs van Experience Cloud heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
 Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 

@@ -3,7 +3,7 @@ title: Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Ma
 description: Leer waarom de kanaalgegevens die door AMO ID worden gevolgd van kanaalgegevens kunnen variëren die door worden gevolgd [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 72e3aa1e-85ed-485a-b93f-5e67dd0140ce
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 0%
@@ -22,7 +22,7 @@ De twee gegevenssets hebben verschillende hoofdgebruikscenario&#39;s:
 
    De [!DNL Analytics] [!UICONTROL Marketing Channel] dimensie, daarom, wordt gevormd om alle kanalen te vangen en te volgen. [!DNL Marketing Channels] kan ook worden geconfigureerd voor het vastleggen van advertenties DSP doorzoeken en doorklikken met betrekking tot andere marketingkanalen.
 
-* AMO-id voor reclame-Adobe: Het belangrijkste gebruik van de AMO-id-gegevens voor reclame van Adobe is om de geavanceerde [!DNL Adobe Sensei]-powered bidding algorithms. De algoritmen maken automatisch duizenden biedbeslissingen op microniveau die dagelijks worden genomen om de uitgaven voor reclame te maximaliseren en de doelstellingen van de [!DNL DSP] de [!DNL Search] portfolio. Hoe meer conversiegegevens de algoritmen kunnen verbinden met campagnes, hoe beter de algoritmen deze biedbeslissingen kunnen nemen.
+* AMO-id voor reclame-Adobe: Het belangrijkste gebruik van de AMO-id-gegevens voor reclame van Adobe is om de geavanceerde [!DNL Adobe Sensei]-powered bidding algorithms. De algoritmen maken automatisch duizenden biedbeslissingen op microniveau die dagelijks worden genomen om de uitgaven voor reclame te maximaliseren en de doelstellingen van de [!DNL DSP] de [!DNL Search, Social, & Commerce] portfolio. Hoe meer conversiegegevens de algoritmen kunnen verbinden met campagnes, hoe beter de algoritmen deze biedbeslissingen kunnen nemen.
 
    Om deze gegevens te verzamelen, [!DNL Analytics for Advertising] integratie geeft onbewerkte AMO-id&#39;s door die kunnen worden vertaald als doorklikcodes en doorkijkcodes in de AMO-id-dimensie van Adobe Analytics. Deze worden opgeslagen als een aangepaste variabele (eVar) of een gereserveerde variabele (rVar). Doorklikken voor andere kanalen wordt niet ingesteld in de AMO ID-dimensie, zodat de AMO ID-dimensie de invoer van deze andere kanalen niet kan bijhouden. Het resultaat is dat de AMO-id doorloopt [!DNL Marketing Channels] toegangspunten.
 

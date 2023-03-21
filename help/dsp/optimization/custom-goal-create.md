@@ -3,7 +3,7 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 81b0acfa-085d-495b-9516-576b952b1307
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Een aangepast doel maken
 
-U kunt aangepaste doelen maken als *doelstellingen* binnen [!DNL Adobe Advertising Search].
+U kunt aangepaste doelen maken als *doelstellingen* binnen [!DNL Advertising Search, Social, & Commerce].
 
-Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search] account, neemt u contact op met uw Adobe-accountteam.
+Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search, Social, & Commerce] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search, Social, & Commerce] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search, Social, & Commerce] account, neemt u contact op met uw Adobe-accountteam.
 
 >[!TIP]
 >
 >Zie de [aanbevolen procedures voor het maken van aangepaste doelen](custom-goal-best-practices.md) voor uiteinden op hoe te om uw douanedoelstellingen te vormen.
 
-1. Aanmelden [!DNL Adobe Advertising Search] at (gebruikers in Noord-Amerika) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (alle andere gebruikers) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
+1. Aanmelden [!DNL Advertising Search, Social, & Commerce] at (gebruikers in Noord-Amerika) [`https://enterprise-na.efrontier.com`](https://enterprise-na.efrontier.com) of (alle andere gebruikers) [`https://enterprise-intl.efrontier.com`](https://enterprise-intl.efrontier.com).
 1. Zorg ervoor dat de meetgegevens die u in uw doel wilt opnemen, zijn bijgehouden, beschikbaar zijn in het product en een weergavenaam bevatten:
    1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Admin]>[!UICONTROL Transaction Properties]**.
    1. Bepaal de plaats van metrisch, en zorg ervoor dat **[!UICONTROL Show in UI and Reports]** wordt toegelaten voor metrisch.

@@ -3,7 +3,7 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
 workflow-type: tm+mt
 source-wordcount: '3282'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Adverteerders met de [!DNL Analytics for Advertising] <!-- (A4AdC) --> betaalde 
 
 De [!DNL Analytics for Advertising] integratie gebruikt twee variabelen (eVars of rVars \[gereserveerde eVars]\) om de [EF-id en AMO-id](ids.md). Deze variabelen worden gevormd met één enkel raadplegingsvenster (de tijd waarbinnen klik-productie en mening-productie worden toegeschreven) en een attributiemodel. Tenzij anders gespecificeerd, worden de variabelen gevormd om het gebrek aan te passen, klikt de adverteerder-vlakke raadplegingsvenster en attributiemodel in Adobe Advertising.
 
-De terugkijkvensters en attributiemodellen kunnen echter zowel in Analytics (via de eVars) als in Advertising voor Adobe worden geconfigureerd. Bovendien is het attributiemodel in Adobe Advertising (voor Bodemoptimalisatie) niet alleen op adverteerderniveau configureerbaar, maar ook binnen afzonderlijke gegevensweergaven en -rapporten (alleen voor rapportagedoeleinden). Een organisatie kan bijvoorbeeld de voorkeur geven aan het toewijzingsmodel voor gelijkmatige distributie voor optimalisatie, maar de laatste aanraakkenmerk gebruiken voor rapporten in DSP of [!DNL Advertising Search]. Als u toewijzingsmodellen wijzigt, wordt het aantal toegewezen conversies gewijzigd.
+De terugkijkvensters en attributiemodellen kunnen echter zowel in Analytics (via de eVars) als in Advertising voor Adobe worden geconfigureerd. Bovendien is het attributiemodel in Adobe Advertising (voor Bodemoptimalisatie) niet alleen op adverteerderniveau configureerbaar, maar ook binnen afzonderlijke gegevensweergaven en -rapporten (alleen voor rapportagedoeleinden). Een organisatie kan bijvoorbeeld de voorkeur geven aan het toewijzingsmodel voor gelijkmatige distributie voor optimalisatie, maar de laatste aanraakkenmerk gebruiken voor rapporten in DSP of [!DNL Advertising Search, Social, & Commerce]. Als u toewijzingsmodellen wijzigt, wordt het aantal toegewezen conversies gewijzigd.
 
 Als een terugkijkvenster of attributenmodel van het rapport in één product en niet in andere wordt gewijzigd, dan zullen de zelfde rapporten van elk systeem verschillende gegevens tonen:
 
@@ -88,7 +88,7 @@ Houd rekening met deze verschillen bij het vergelijken van doorkijkconversies tu
 
 Zie een lijst met [!DNL Analytics] toewijzingsmodellen en de definities daarvan op [https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/models.html).
 
-Als u bent aangemeld [!DNL Search], kunt u een lijst vinden
+Als u bent aangemeld [!DNL Search, Social, & Commerce], kunt u een lijst vinden
 
 * (Gebruikers in Noord-Amerika) [`https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm`](https://enterprise-na.efrontier.com/CMDashboard/help/external/tracking/r_appendix_-_how_attribution_rules_are_calculated.htm)
 
@@ -118,7 +118,7 @@ Het terugzoekvenster voor [!DNL Marketing Channels] kan worden aangepast. In de 
 
 ### Verschillende kanaalkenmerken in [!DNL Marketing Channels]
 
-In advertentierapporten van Adobe worden alleen betaalde media opgenomen die via Adobe-reclame worden verhandeld (betaalde zoekopdracht naar [!DNL Advertising Search] advertenties en display voor advertenties DSP advertenties), terwijl [!DNL Marketing Channels] in rapporten kunnen alle digitale kanalen worden bijgehouden . Dit kan tot een discrepantie in het kanaal leiden waarvoor een omzetting wordt toegeschreven.
+In advertentierapporten van Adobe worden alleen betaalde media opgenomen die via Adobe-reclame worden verhandeld (betaalde zoekopdracht naar [!DNL Advertising Search, Social, & Commerce] advertenties en display voor advertenties DSP advertenties), terwijl [!DNL Marketing Channels] in rapporten kunnen alle digitale kanalen worden bijgehouden . Dit kan tot een discrepantie in het kanaal leiden waarvoor een omzetting wordt toegeschreven.
 
 Betaalde zoekopdrachten en natuurlijke zoekkanalen hebben bijvoorbeeld vaak een symbiotische relatie, waarbij elk kanaal het andere kanaal helpt. De [!DNL Marketing Channels] In dit rapport worden sommige conversies toegewezen aan een natuurlijke zoekopdracht die niet wordt uitgevoerd door Adobe Advertising, omdat deze geen natuurlijke zoekopdracht bijhoudt.
 
@@ -160,7 +160,7 @@ In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Anal
 Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
 ```
 
-[!UICONTROL AMO ID Instances] staat voor het aantal keren dat AMO-id&#39;s (`s_kwcid` parameters) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een `s_kwcid` parameter wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
+[!UICONTROL AMO ID Instances] staat voor het aantal keren dat AMO-id&#39;s (`s_kwcid` parameters) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een `s_kwcid` parameter wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
 
 In advertentierapporten van Adobe kunt u klikken op vergelijkbare wijze vergelijken met instanties die de opdracht &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 
@@ -234,7 +234,7 @@ De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgang
 
 ### Adobe Advertising Traffic Metrics gebruiken voor niet-Adobe-Dimension voor advertenties
 
-Adobe Advertising biedt Analytics met [reclamespecifieke verkeersmaatstaven en de daarmee verband houdende afmetingen van [!DNL DSP] en [!DNL Search]](advertising-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
+Adobe Advertising biedt Analytics met [reclamespecifieke verkeersmaatstaven en de daarmee verband houdende afmetingen van [!DNL DSP] en [!DNL Search, Social, & Commerce]](advertising-metrics-in-analytics.md). De door Adobe-advertenties verschafte meetgegevens zijn alleen van toepassing op de opgegeven Adobe Advertising-afmetingen en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
 
 Als u bijvoorbeeld de [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] Metriek per Rekening, dat een Adobe Advertising dimensie is, dan zult u het totaal zien [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] per rekening.
 
