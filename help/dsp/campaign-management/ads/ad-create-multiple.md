@@ -3,7 +3,7 @@ title: Meerdere externe advertenties maken
 description: Leer hoe u meerdere advertenties van derden tegelijk kunt maken.
 feature: DSP Ads
 exl-id: be7c1cc4-3c17-4e37-aae7-c8601d2222a0
-source-git-commit: d072670b26e56e986df2a6690978df1e74237dad
+source-git-commit: 5139e6022cd5f5f11046d8f38bd0f1db91464928
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -39,6 +39,10 @@ U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleve
 1. Nadat het uploaden is voltooid, klikt u op **[!UICONTROL Start Building Ads]**.
 
 1. Bekijk de details en status van elke advertentie:
+
+   1. (Universeel video-advertenties gebruiken [!DNL Google] of [!DNL Flashtalking] tags) Klik op de knop **[!UICONTROL Ad Type]** veld en selecteer **[!UICONTROL Universal Video]**.
+
+   1. (Universal Video Adads) Voor elke nieuwe advertentie klikt u op ![bewerken](/help/dsp/assets/edit.png), selecteert u de [toepasselijke video-indeling](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)en klik vervolgens op **Opslaan**.
 
    1. Controleer de status van elke advertentie, die is gebaseerd op validatiecontroles van de geüploade tag.
 
