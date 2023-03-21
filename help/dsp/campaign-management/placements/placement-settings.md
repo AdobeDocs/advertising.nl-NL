@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 251d6a0bed5b4f4b28afc5ecfe666a1e506cd7d5
+source-git-commit: 0836206b41789749a92bd9557a984896e710ec3a
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3433'
 ht-degree: 0%
 
 ---
@@ -39,6 +39,8 @@ ht-degree: 0%
 **[!UICONTROL Ad specs for forecast]:** (Alleen video en indelingen) De duur en/of specificaties van de advertentie, die worden gebruikt om de voorspelde projectie aan de rechterkant te berekenen. De velden verschillen per advertentietype.
 
 **[!UICONTROL Environment]:** (Alleen Universal Video ad-indeling) De apparaatomgevingen (Computer, Mobiel, Connected TV) die als doelen in de plaatsing moeten worden opgenomen. Geef ten minste één waarde op.
+
+In douanerapporten, wijst de plaatsing-vlakke dimensie &quot;het Milieu van het Apparaat&quot;op het gerichte milieu.
 
 **[!UICONTROL Placement tags]:** (Optioneel) Trefwoorden of bijnamen om u te helpen deze plaatsing te vinden.
 

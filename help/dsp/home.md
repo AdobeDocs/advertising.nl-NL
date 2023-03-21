@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 4b92f880dbb9edf45b9521fb261cfbeb52a27218
+source-git-commit: dc4ff4e836d1fba7fdf54bf3aa8e18dae3c5e24f
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1230'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 20 maart 2023 | [!UICONTROL Campaigns] | Lees meer over universele videokoppelingen en advertenties, een open bètafunctie. | Zie &quot;[Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md).&quot; |
 | 15 februari 2023 | [!UICONTROL Campaigns] | De opties om veranderingslogboeken in grafiekvorm te bekijken en nota&#39;s toe te voegen aan om het even welke ingang zijn uit bèta. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 | 3 februari 2023 | [!UICONTROL Campaigns] | (Bètafuncties) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elk item. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 | 25 januari 2023 | [!UICONTROL Deals] | Een nieuwe &quot;Pacing van de Impressie van PG&quot;uitgavenkolom in de Inventaris > de meningsrapporten van Overeenkomsten die voor gewaarborgde overeenkomsten in pakket plaatsen. | Zie &quot;[Een aangepaste kolomweergave bewerken](/help/dsp/campaign-management/reports/column-view-edit.md).&quot; |
@@ -49,7 +50,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 |  | [!DNL Freewheel] door programmacode gegarandeerde transacties | U kunt nu advertenties verzenden en de status van advertenties controleren voor [!DNL Freewheel] door programmacode gegarandeerde transacties van de [!UICONTROL Ads] weergeven. Eerder was het mogelijk om beide handelingen alleen uit te voeren vanuit de [!UICONTROL Deals] weergeven. | Zie &quot;[Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the Status of Ads for [!DNL Freewheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md).&quot; |
 | 7 oktober 2021 | Help | Alles [DSP en andere Adobe Reclamedocumentatie](https://experienceleague.adobe.com/docs/advertising.html) op [!DNL Experience League] is nu de machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![Taal wijzigen](/help/dsp/assets/change-language.png) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- older entries:
 
