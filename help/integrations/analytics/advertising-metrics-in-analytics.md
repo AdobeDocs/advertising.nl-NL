@@ -3,9 +3,9 @@ title: Adobe Advertising Metrics in Analysis Workspace
 description: Adobe Advertising Metrics in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 5dd3772de945660e76321dac935de5ebcab5979a
 workflow-type: tm+mt
-source-wordcount: '429'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ ht-degree: 0%
 >
 >* Adobe Adverteren geeft verkeersmaatstaven en -afmetingen door aan [!DNL Analytics] dagelijks.
 >* [!DNL Analytics] Hiermee legt u doorklikbewerkingen voor Adobe-advertenties en doorzoekingen in real-time vast.
+   > Voor [!DNL Search, Social, & Commerce], wordt deze functie ondersteund voor de meeste advertentienetwerken en campagneretypen. Zie &quot;Ondersteunde voorraad&quot; in het dialoogvenster [!DNL Search, Social, & Commerce] Voor meer informatie.<!-- add link when that's published in ExL -->
 
 
 ## Verkeersmetriek van Adobe-reclame
@@ -42,6 +43,32 @@ ht-degree: 0%
 | [!UICONTROL AMO Not Viewable Impressions] | Het aantal indrukkingen waarvan is vastgesteld dat ze niet kunnen worden weergegeven. Deze waarde wordt berekend als ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable]). |
 | [!UICONTROL AMO Measurable Impressions] | Het aantal indrukkingen waarvoor de viewability instrumentatie met succes werd geïnitialiseerd. Deze waarde wordt berekend als (geïndexeerde indrukken - het aantal niet-meetbare indrukken). |
 
+## Adobe Advertentie-Dimension
+
+>[!NOTE]
+>
+>Alle Adobe-advertentiedimensies in [!DNL Analytics] worden gevolgd door &quot;(AMO-id)&quot;.
+
+| Dimension | Toepasselijke Adobe-advertentiegegevens | Beschrijving |
+| ----------- | ---------- | ---------- |
+| [!UICONTROL Ad Platform (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Reclame-DSP of naam van de zoekmachine |
+| [!UICONTROL Account (AMO ID] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | De accountnaam. |
+| [!UICONTROL Network (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | RTB ([!DNL DSP]) of de naam van het advertentienetwerk ([!DNL Search, Social, & Commerce]) |
+| [!UICONTROL Campaign (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | De naam van de campagne. |
+| [!UICONTROL Optimization (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Het pakket ([!DNL DSP]) of portfolio ([!DNL Search, Social, & Commerce]) name. |
+| [!UICONTROL Placement (AMO ID)] | [!DNL DSP] data | De plaatsingsnaam. |
+| [!UICONTROL Ad Group (AMO ID)] | [!DNL Search, Social, & Commerce] data | De naam van de advertentiegroep. |
+| [!UICONTROL Keyword (AMO ID)] | [!DNL Search, Social, & Commerce] data | Het trefwoord. |
+| [!UICONTROL Match Type (AMO ID)] | [!DNL Search, Social, & Commerce] data | Het type zoekovereenkomst. |
+| [!UICONTROL Keyword Match Type (AMO ID)] | [!DNL Search, Social, & Commerce] data | Het trefwoord en het overeenkomende type. |
+| [!UICONTROL Ad Type (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Het advertentietype, zoals `text`, `video`, `display`, of `native`. |
+| [!UICONTROL Ad Title (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Het advertentietype ([!DNL DSP]) of een advertentitel ([!DNL Search, Social, & Commerce]). |
+| [!UICONTROL Ad Description (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | De advertentiebeschrijving ([!DNL DSP]) of ad body ([!DNL Search, Social, & Commerce]). |
+| [!UICONTROL Ad Display URL (AMO ID)] | [!DNL Search, Social, & Commerce] data | De URL die wordt weergegeven in de advertentie. |
+| [!UICONTROL Ad Destination URL (AMO ID)] | [!DNL Search, Social, & Commerce] data | De doel-URL voor de advertentie. |
+| [!UICONTROL Landing Type (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Hiermee wordt aangegeven of het item van de openingspagina een doorkijkeffect of een doorklikeffect heeft. |
+| [!UICONTROL Product Target (AMO ID)] | [!DNL Search, Social, & Commerce] data | Het productdoel voor een advertentie voor een productaanbieding. |
+
 ## Nuttige aangepaste berekende cijfers voor Adobe-advertenties
 
 Overweeg de volgende meetgegevens voor uw Adobe-advertentiegegevens te maken.
@@ -51,32 +78,6 @@ Overweeg de volgende meetgegevens voor uw Adobe-advertentiegegevens te maken.
 * Weergavegraad van de depressie ([!UICONTROL AMO Viewable Impressions] / [!UICONTROL AMO Measureable Impressions] * 100)
 * Kosten per weergave ([!UICONTROL AMO Cost] / [!UICONTROL AMO Views])
 * Kosten per klik ([!UICONTROL AMO Cost] / [!UICONTROL AMO Clicks])
-
-## Adobe Advertentie-Dimension
-
->[!NOTE]
->
->Alle Adobe-advertentiedimensies in [!DNL Analytics] worden gevolgd door &quot;(AMO-id)&quot;.
-
-| Dimension | Toepasselijke Adobe-advertentiegegevens | Beschrijving |
-| ----------- | ---------- | ---------- |
-| [!UICONTROL Ad Platform (AMO ID)] | [!DNL DSP] en [!DNL Search] data | Reclame-DSP of naam van de zoekmachine |
-| [!UICONTROL Account (AMO ID] | [!DNL DSP] en [!DNL Search] data | De accountnaam. |
-| [!UICONTROL Network (AMO ID)] | [!DNL DSP] en [!DNL Search] data | RTB ([!DNL DSP]) of de naam van het advertentienetwerk ([!DNL Search]) |
-| [!UICONTROL Campaign (AMO ID)] | [!DNL DSP] en [!DNL Search] data | De naam van de campagne. |
-| [!UICONTROL Optimization (AMO ID)] | [!DNL DSP] en [!DNL Search] data | Het pakket ([!DNL DSP]) of portfolio ([!DNL Search]) name. |
-| [!UICONTROL Placement (AMO ID)] | [!DNL DSP] data | De plaatsingsnaam. |
-| [!UICONTROL Ad Group (AMO ID)] | [!DNL Search] data | De naam van de advertentiegroep. |
-| [!UICONTROL Keyword (AMO ID)] | [!DNL Search] data | Het trefwoord. |
-| [!UICONTROL Match Type (AMO ID)] | [!DNL Search] data | Het type zoekovereenkomst. |
-| [!UICONTROL Keyword Match Type (AMO ID)] | [!DNL Search] data | Het trefwoord en het overeenkomende type. |
-| [!UICONTROL Ad Type (AMO ID)] | [!DNL DSP] en [!DNL Search] data | Het advertentietype, zoals `text`, `video`, `display`, of `native`. |
-| [!UICONTROL Ad Title (AMO ID)] | [!DNL DSP] en [!DNL Search] data | Het advertentietype ([!DNL DSP]) of een advertentitel ([!DNL Search]). |
-| [!UICONTROL Ad Description (AMO ID)] | [!DNL DSP] en [!DNL Search] data | De advertentiebeschrijving ([!DNL DSP]) of ad body ([!DNL Search]). |
-| [!UICONTROL Ad Display URL (AMO ID)] | [!DNL Search] data | De URL die wordt weergegeven in de advertentie. |
-| [!UICONTROL Ad Destination URL (AMO ID)] | [!DNL Search] data | De doel-URL voor de advertentie. |
-| [!UICONTROL Landing Type (AMO ID)] | [!DNL DSP] en [!DNL Search] data | Hiermee wordt aangegeven of het item van de openingspagina een doorkijkeffect of een doorklikeffect heeft. |
-| [!UICONTROL Product Target (AMO ID)] | [!DNL Search] data | Het productdoel voor een advertentie voor een productaanbieding. |
 
 >[!MORELIKETHIS]
 >
