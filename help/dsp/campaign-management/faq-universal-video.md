@@ -2,20 +2,22 @@
 title: Veelgestelde vragen over Universal Video
 description: Meer weten over universele videobanden?
 feature: DSP Placements, DSP Ads
-source-git-commit: 1740c4ca3f70a0e3edb7e4ebaea0be3f0b731b16
+source-git-commit: 17a47e9d7ddb18b36da998d289f949e540beded8
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Veelgestelde vragen over Universal Video
 
+[Universele video-advertenties](/help/dsp/campaign-management/ads/ad-about.md) kunt u de videovoorraad van desktop-, mobiel- en aangesloten tv-omgevingen richten op VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.
+
 ## Hoe kunt u universele videoplaatsen en advertenties maken?
 
 Universal video placements can contain only Universal video ads, and Universal video ads can be attached only to Universal video placements.
 
-Maak ze op dezelfde manier als andere typen plaatsingen en video&#39;s:
+Maak universele videoplaatsingen en advertenties die vergelijkbaar zijn met de manier waarop u andere typen plaatsingen en video&#39;s maakt:
 
 1. In de gewenste campagne [universele videoplaatsing maken](/help/dsp/campaign-management/placements/placement-create.md), selecteert u de [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
 
