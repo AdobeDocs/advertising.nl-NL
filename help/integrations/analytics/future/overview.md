@@ -3,9 +3,9 @@ title: Adobe Advertising Integrations with Adobe Analytics
 description: Leer hoe Adobe Advertising gegevens kan uitwisselen met Adobe Analytics en hoe u de gegevens kunt gebruiken in Search, Social & Commerce.
 feature: Integration with Adobe Analytics
 exl-id: 5b0ecb82-fb5c-48c5-a599-15b548f59461
-source-git-commit: def6a3a8d1de1f9f80dee6ecd1a18667afc79fd3
+source-git-commit: 06996ee9eb635fe204c0c3938e6937e8871c8a90
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 U kunt reclame voor Adobe op de volgende manieren integreren met Analytics.
 
-## Gegevens uitwisselen tussen [!AAnalyse] en Adobe-reclame
+## Gegevens uitwisselen tussen [!DNL Analytics] en Adobe-reclame
 
-### Draaien [!AAnalyse] Gegevens over Adobe-reclame
+### Draaien [!DNL Analytics] Gegevens over Adobe-reclame
 
 Met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md),[!DNL Search, Social, & Commerce] en DSP trekken in:
 
@@ -24,9 +24,9 @@ Met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics
 
 * **[!DNL Analytics]maatstaven voor sitebetrokkenheid**
 
-* **[!DNL Analytics]Standaard, aangepaste en gereserveerde cijfers**
+* **[!DNL Analytics]standaard, aangepaste en gereserveerde cijfers**
 
-### Adobe-advertentiegegevens verzenden naar [!AAnalyse]
+### Adobe-advertentiegegevens verzenden naar [!DNL Analytics]
 
 * **Verkeersmetriek van Adobe Advertising**
 
