@@ -2,7 +2,7 @@
 title: Veelgestelde vragen over Universal Video
 description: Meer weten over universele videobanden?
 feature: DSP Placements, DSP Ads
-source-git-commit: 17a47e9d7ddb18b36da998d289f949e540beded8
+source-git-commit: 2caacfcbdb3c9d0d91ca26829de5829654f9ab8a
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Veelgestelde vragen over Universal Video
 
-[Universele video-advertenties](/help/dsp/campaign-management/ads/ad-about.md) kunt u de videovoorraad van desktop-, mobiel- en aangesloten tv-omgevingen richten op VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.
+[Universele video-advertenties](/help/dsp/campaign-management/ads/ad-about.md#ad-types) kunt u de videovoorraad van desktop-, mobiel- en aangesloten tv-omgevingen richten op VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.
 
 ## Hoe kunt u universele videoplaatsen en advertenties maken?
 
