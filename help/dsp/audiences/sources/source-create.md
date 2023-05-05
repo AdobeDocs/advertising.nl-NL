@@ -3,16 +3,14 @@ title: Creeer een Bron van het Publiek om Eerste Publiek te activeren
 description: Leer hoe u een bron kunt maken voor het importeren van soorten publiek naar uw account of een adverteerderaccount.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 3347bfbaec92bb13428a39207954f895eb4f5d6d
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # Creeer een Bron van het Publiek om Eerste Publiek te activeren
-
-*Beta, functie*
 
 <!-- Will this remain for admin users/Adobe Account Team users only? -->
 
@@ -22,7 +20,7 @@ Maak een bron voor het importeren van soorten publiek naar uw DSP of een adverte
 >
 >Nadat u een bron voor het [!DNL Real-Time CDP], moet u uw [!DNL Real-Time CDP] publiek via de Adobe Advertising DSP bestemming binnen [!DNL Real-Time CDP] om te beginnen met het importeren ervan. Zie [de stappen in de activeringsworkflow](source-about.md#workflow-sources).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Sources (BETA)].
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
 1. Klik op [!UICONTROL Add Source].
 
