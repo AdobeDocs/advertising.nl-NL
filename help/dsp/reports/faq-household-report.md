@@ -1,9 +1,9 @@
 ---
 title: Veelgestelde vragen over de [!UICONTROL Household] Rapport
 description: Meer informatie over de [!UICONTROL Household] rapport, met inbegrip van hoe het van andere rapporten en het oplossen van problemen verschilt.
-source-git-commit: d88ea4ab2ad4a2ee54475346a24724b766b024fc
+source-git-commit: 95f81dafbe13f40487bad47f7dd41a6c80c589ee
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -34,15 +34,15 @@ De metriek van de omzetting en douanedoelstellingen worden niet gesteund.
 
 ## Wat is het verschil tussen de overlap en de niet-overlap cijfers?
 
-In de volgende afbeelding ziet u drie meeteenheden (Unieke huishoudens, Incrementele huishoudens en Incrementele huishoudens (overlapping)) voor drie campagnes (A, B en C).
+In de volgende afbeelding ziet u drie meeteenheden (Unieke waarde voor huishoudens bereikt, Incrementele huishoudens bereikt en Incrementele huishoudens (overlapping)) voor drie campagnes (A, B en C).
 
 ![Afbeelding van de maatstaven voor overlap tussen huishoudens](/help/dsp/assets/household-overlap-metrics-illustration.png "Afbeelding van de maatstaven voor overlap tussen huishoudens")
 
-* Unieke huishoudens die zijn bereikt (totaal), geven de unieke huishoudens aan die door elk van de campagnes zijn bereikt of het totale oppervlak van elk van de cirkels. In de figuur is het unieke huishouden bereikt door A = het incrementele huishouden bereikt door A + (A+C) + (A+B) + (A+B+C)
+* Unieke huishoudens die zijn bereikt (totaal), geven de unieke huishoudens aan die door elk van de campagnes zijn bereikt of het totale oppervlak van elk van de cirkels. In de figuur is het unieke huishouden bereikt door A = het incrementele huishouden bereikt door A + (A+B) + (A+C) + (A+B+C)
 
-* Het incrementele huishouden dat is bereikt is het unieke huishouden dat slechts door een campagne is bereikt. In de cijfers zijn de incrementele huishoudens die door A, B en C zijn bereikt, de incrementele huishoudens die door respectievelijk A, B en C zijn bereikt.
+* Het incrementele huishouden dat is bereikt is het unieke huishouden dat slechts door een campagne is bereikt. In de cijfers zijn de incrementele huishoudens die door A, B, C zijn bereikt, de incrementele huishoudens die door A, B, C zijn bereikt.
 
-* Het incrementele huishouden (overlapping) is de unieke huishouden die wordt bereikt door de campagne of combinatie van campagnes. In de cijfers is A+C de incrementele huishouding van A, C.
+* Het incrementele huishouden (overlapping) is de unieke huishouden die wordt bereikt door de campagne of combinatie van campagnes. In de figuur is de incrementele huishouding bereikt door A, C A+C.
 
 ## Workflow
 
