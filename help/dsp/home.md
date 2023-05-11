@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: dc4ff4e836d1fba7fdf54bf3aa8e18dae3c5e24f
+source-git-commit: f8523b9157eb13ea0999d10dd19e9645906c50d0
 workflow-type: tm+mt
-source-wordcount: '1230'
+source-wordcount: '1273'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| maart 2023 | [!UICONTROL Reports] | Een nieuwe [!UICONTROL Household Report] toont beelden, bereik, en frequentie over diverse afmetingen op een huisniveau dat op IP adres wordt gebaseerd, eerder dan op een apparaat/koekjesniveau. Het verslag bevat negen dimensies: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length]en door de gebruiker gemaakt [!UICONTROL Tags]. | Zie &quot;[Over rapporten](/help/dsp/reports/report-about.md),&quot; &quot;[Rapportinstellingen](/help/dsp/reports/report-settings.md),&quot; en &quot;[Veelgestelde vragen over de [!UICONTROL Household] Rapport](/help/dsp/reports/faq-household-report.md).&quot; |
 | 20 maart 2023 | [!UICONTROL Campaigns] | Lees meer over universele videokoppelingen en advertenties, een open bètafunctie. | Zie &quot;[Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md).&quot; |
 | 15 februari 2023 | [!UICONTROL Campaigns] | De opties om veranderingslogboeken in grafiekvorm te bekijken en nota&#39;s toe te voegen aan om het even welke ingang zijn uit bèta. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |
 | 3 februari 2023 | [!UICONTROL Campaigns] | (Bètafuncties) U kunt nu wijzigingslogboeken weergeven in diagramvorm en u kunt notities toevoegen aan elk item. | Zie &quot;[Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md),&quot; Zie &quot;[Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md),&quot; en Zie &quot;[Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md).&quot; |

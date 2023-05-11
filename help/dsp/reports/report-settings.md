@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: 2e0240ff1b342d5a0564e01ebec3ee313b488b59
 workflow-type: tm+mt
-source-wordcount: '967'
+source-wordcount: '1013'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **[!UICONTROL Name]** De rapportnaam. De maximumlengte is 180 tekens.
 
-**[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, of *[!UICONTROL Site]*.
+**[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, of *[!UICONTROL Household]*.
 
 ## [!UICONTROL Apply Filters] Sectie
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Last Calendar Month]:** Bevat gegevens voor de vorige kalendermaand.
 
-**[!UICONTROL Add Filters]:** (Optioneel) Aanvullende afmetingen waarmee de gegevens kunnen worden gefilterd, ongeacht of de afmetingen als kolommen in het rapport zijn opgenomen: *[!UICONTROL Account]*,\* *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Placement]*, *[!UICONTROL Ad]*, *[!UICONTROL Ad Type]*, *[!UICONTROL Video]*, *[!UICONTROL Video Duration]*, *[!UICONTROL Country]*, en *[!UICONTROL Package]*.
+**[!UICONTROL Add Filters]:** (Optioneel) Aanvullende afmetingen waarmee de gegevens kunnen worden gefilterd, ongeacht of de afmetingen als kolommen in het rapport zijn opgenomen. De beschikbare filters variëren per rapporttype en kunnen omvatten: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, en *[!UICONTROL Video Duration]*.
 
 \* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor wordt gevormd [cross-account rapportage](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met het accountteam van Adobe voor meer informatie over cross-account rapportage.
 
@@ -42,12 +42,25 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 ## [!UICONTROL Build Your Report] Sectie
 
-**[!UICONTROL Select To Add As Report Headers]:**  De gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. Alle niet-beschikbare meetgegevens zijn uitgeschakeld. De beschikbare gegevenscategorieën zijn:
+**[!UICONTROL Select To Add As Report Headers]:**  De gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. De beschikbare gegevenscategorieën zijn:
 
 * [!UICONTROL Dimensions]
+
+   >[!NOTE]
+   >
+   > De [!UICONTROL Household] het rapport kan slechts één dimensie bevatten .
+
 * [!UICONTROL Metrics]
+
+   >[!NOTE]
+   >
+   >De [!UICONTROL Household] het rapport kan of overlappende metriek of niet-overlappende metriek, maar niet allebei omvatten.
+
 * [!UICONTROL Conversion Metrics] (gesorteerd op adverteerder)
+
 * [!UICONTROL Custom Goals] (gesorteerd op adverteerder)
+
+Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvingen van alle opties.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** De volgorde van de kolomkoppen. U kunt elke kolom slepen en neerzetten om de volgorde aan te passen.
 

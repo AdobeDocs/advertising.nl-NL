@@ -8,10 +8,10 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: d44b3834240e13904718912ac62df7c8fdbee963
+source-git-commit: ce26d622bde31f289466c581a85724b93e4eae62
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '887'
+ht-degree: 5%
 
 ---
 
@@ -208,6 +208,7 @@ ht-degree: 0%
    + [Een aangepast rapport uitvoeren](/help/dsp/reports/report-run-now.md)
    + [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
    + [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
+   + [Veelgestelde vragen over de [!UICONTROL Household] Rapport](/help/dsp/reports/faq-household-report.md)
    + Doelen rapporteren {#report-destinations}
       + [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)

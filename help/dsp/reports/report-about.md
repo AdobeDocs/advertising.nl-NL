@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 858b00ec28158ada1edfc70a2efc3540fa46a376
 workflow-type: tm+mt
-source-wordcount: '652'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -75,6 +75,8 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Site]:** Standaard bevat dit standaard standaardcijfers, totale netto-uitgaven voor media en totale netto-uitgaven voor facturering per site.
 
+   * **[!UICONTROL Household]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+
 ## Rapportage tussen accounts {#cross-account-reporting}
 
 Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met het accountteam van Adobe om deze functie in te schakelen en te configureren.
@@ -87,6 +89,7 @@ Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de and
 >
 >* [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
+>* [Veelgestelde vragen over de [!UICONTROL Household] Rapport](/help/dsp/reports/faq-household-report.md)
 >* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
 >* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
