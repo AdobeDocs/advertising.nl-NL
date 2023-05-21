@@ -7,7 +7,7 @@ index: true
 exl-id: e5874077-d2a8-43bb-ad4e-55547442c8a4
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | 26 mei 2021 | Help | Het hoofdstuk &quot;[!DNL Analytics for Advertising]&quot; bevat nu een subhoofdstuk over &quot;Werken in [!DNL Analytics Marketing Channels].&quot; | Zie: &quot;[Grondbeginselen van marketingkanalen](/help/integrations/analytics/marketing-channels/mc-overview.md),&quot; &quot;[Adobe-advertentie-id&#39;s gebruiken om te maken [!DNL Analytics Marketing Channels] Verwerkingsregels](/help/integrations/analytics/marketing-channels/mc-ids.md),&quot; &quot;[Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](/help/integrations/analytics/marketing-channels/mc-ac-data.md),&quot; en &quot;[Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Analytics Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md).&quot; |
 | 26 mei 2021 | Help | Een koppeling naar alle videozelfstudies over [!DNL Analytics for Advertising] is toegevoegd. | [Videozelfstudies over de integratie van Adobe-advertenties](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html) |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- At some point, just make this an overview page instead?
 

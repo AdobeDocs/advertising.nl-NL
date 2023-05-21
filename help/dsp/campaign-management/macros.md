@@ -5,7 +5,7 @@ feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 | `${TM_TIMESTAMP}` | De Unix-tijdstempel die het aantal seconden aangeeft dat is verstreken sinds middernacht (00:00 UTC) op 1 januari 1970. | lang |
 | ` ${TM_VIDEO_DURATION}` | De duur van de advertentievideo in seconden. | integer |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- Removed because not found in code base:
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
@@ -65,7 +65,7 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 | `${TM_BUNDLE}` | De [!DNL iOS] of [!DNL Android] bundel-id van app store. Voorbeelden: com.zynga.wwf2.free of id804379658 | string |
 | `gdpr=${GDPR_ENFORCED}&gdpr_consent=${GDPR_CONSENT}` | `gdpr=${GDPR_ENFORCED}` geeft aan of de bieder bepaalt dat het bod afkomstig is uit de Europese Unie en dat de GDPR-handhaving vereist:<ul><li>`1` = GDPR moet worden afgedwongen</li><li>`0` = GDPR dient niet te worden afgedwongen</li></ul>`gdpr_consent=${GDPR_CONSENT}` is de waarde van de instemming die door de leverancier in het binnenkomende biedverzoek is doorgegeven:<ul><li>In de meeste gevallen is dit een base64url-gecodeerde toestemmingskoord, of madeliefje (voorbeeld: BN5lERiOMYEdiAKAWXEND1HoSBE6CAFAApAMgBkIDIgM0AgOJxAnQA)</li><li>`0` = geen toestemming</li><li>`1` = toestemming</li></ul> | madeliefje of geheel getal |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## Klik op Macro&#39;s voor externe weergaveadvertenties
 
@@ -76,7 +76,7 @@ Als u kliks voor advertenties op nauwkeurige wijze wilt bijhouden met behulp van
 | `${TM_CLICK_URL}` | De omleidings-URL waarmee advertentieservers het platform kunnen bijhouden, tellen en klikken. | string |
 | `${TM_CLICK_URL_URLENC}` | De omleidings-URL waarmee advertentieservers die URL-codering nodig hebben, kunnen worden bijgehouden en geteld en op het platform kunnen worden geklikt. | string |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 DSP voegt automatisch de weergave van klikmacro&#39;s in een externe weergavetag in wanneer u:
 

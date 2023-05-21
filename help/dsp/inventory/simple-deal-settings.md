@@ -5,7 +5,7 @@ feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
 source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '467'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 | **[!UICONTROL Ad Creation]** | (Alleen nieuwe deals) Of:<ul><li>*[!UICONTROL Create New]:* Om een advertentie voor deze overeenkomst tot stand te brengen.</li><li>*[!UICONTROL Select Ads]:* Om een bestaande advertentie voor deze overeenkomst te gebruiken.</li></ul> |
 | **[!UICONTROL Ad Type]** | Het advertentietype voor deze overeenkomst. Als u advertenties voor de overeenkomst gaat creëren, omvat de advertentiegrootte of de duur, zoals gevraagd. De beschikbare opties variëren per mediatype. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ### [!UICONTROL Select Ad(s)]
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 | **[!UICONTROL Deal Name]** | De naam van de deal. Voer een naam in of selecteer *[!UICONTROL Auto Generate Deal Name]* om DSP een naam te laten produceren die op de overeenkomstendetails wordt gebaseerd.<br><br>Voorbeeld van een automatisch gegenereerde naam: `Campaign-desktop_video_preroll_15-24Kitchen-$10_USD-jdoe-SAS` |
 | **[!UICONTROL Attached Ads]** | (Alleen-lezen) De advertenties die deel uitmaken van de deal. Als u een advertentie wilt bewerken, klikt u op de naam van de advertentie. Om een advertentie uit de overeenkomst te verwijderen, klik **[!UICONTROL X]** naast de naam van de advertentie. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 <!-- 
 ## Existing Simple Ad Serving Deals

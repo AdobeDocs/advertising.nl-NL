@@ -71,4 +71,5 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 >* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
 >* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
 
-<!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
+   <!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
+

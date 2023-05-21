@@ -5,7 +5,7 @@ feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 9d3417cb-8b44-4f1c-afc4-eea6a2e5b9d7
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '520'
+source-wordcount: '517'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 | [!UICONTROL Tracking] | [!UICONTROL Flight Dates] | De begin en einddata voor verkeer die deze overeenkomst gebruiken. Deze datums zijn alleen bedoeld voor traceringsdoeleinden en hebben geen invloed op de levering.<br><br><b>Tip:</b> In de [!UICONTROL Inventory] > [!UICONTROL Deals] de [!UICONTROL Pacing & Budget] de kolom toont hoe de overeenkomst aan het gespecificeerde vliegdatum en imperiatiedoel past. Als de levering onderaan of overpakking is, contacteer uw uitgever om aan te passen hoeveel volume het door de overeenkomst verzendt. | Gegarandeerde deals: Ja<br>Niet-gegarandeerde transacties: Nee | Ja |
 |  | [!UICONTROL Impressions] | (Optioneel voor niet-gegarandeerde deals) Het geschatte aantal indrukkingen dat u verwacht te kunnen uitvoeren met deze deal. Deze waarde is alleen voor traceringsdoeleinden; de uitgever controleert en levering. | Gegarandeerde deals: Ja<br>Niet-gegarandeerde transacties: Nee | Ja |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

@@ -5,8 +5,8 @@ feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
 source-git-commit: 1f35711c5543974f97ce2a9c35427636c1e5a6a9
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '543'
+ht-degree: 1%
 
 ---
 

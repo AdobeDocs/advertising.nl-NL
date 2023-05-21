@@ -5,7 +5,7 @@ feature: DSP Optimization
 exl-id: b87f8556-1908-40c1-9f98-fbdc6d9b59b1
 source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '516'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 0%
 |  | Er zijn weinig gebruikers beschikbaar. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers bevatten. Als ze dat niet doen, breidt u de doelen uit door meer publiek toe te voegen.<br><br>Houd er rekening mee dat het gebruik van meerdere plaatsingsdoelen, zoals voorbiedingsfilters, geo&#39;s, voorraad en soorten publiek, het bieden en uitgeven van objecten cumulatief kan beperken. |
 |  | Het pakket bevat een groot aantal actieve plaatsingen. | Het aantal actieve stages binnen het pakket verminderen of het totale budget verhogen.<br><br>Als het pakket veel plaatsen maar niet genoeg budget heeft, kan DSP mogelijk niet genoeg budget aan elke plaatsing toewijzen. Elke plaatsing moet de mogelijkheid hebben om ten minste 2 USD/dag te besteden. Als uw pakket bijvoorbeeld een budget van 10 dollar per dag heeft, kunt u het beste vijf of minder plaatsen opnemen. &#x200B; |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

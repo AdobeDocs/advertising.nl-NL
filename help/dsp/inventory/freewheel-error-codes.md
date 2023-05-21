@@ -5,7 +5,7 @@ feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
 source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
 workflow-type: tm+mt
-source-wordcount: '684'
+source-wordcount: '675'
 ht-degree: 2%
 
 ---
@@ -27,7 +27,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn uit DSP of uit
 | [!DNL Ad with identifier] \&lt;*advertentienaam*\> [!DNL was not found.] | De verzonden ad-toets bestaat niet of is niet actief aan de Adobe-zijde. | Zoek de juiste advertentiecode en verzend de advertentie opnieuw. |
 | [!DNL Pending Submission] | De indiening is nog in behandeling. | Vernieuw de pagina. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## [!DNL Freewheel] API-fouten
 
@@ -41,7 +41,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn uit DSP of uit
 | 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als identiteitskaart van de Overeenkomst niet werd gevonden). Zie [FreeWheel API 422-fouten](#freewheel-422-errors) voor meer informatie . | Neem contact op met het accountteam van uw Adobe. |
 | 500 | Interne serverfout | API-systeemfout. | Neem contact op met het accountteam van uw Adobe. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 ## [!DNL Freewheel] API 422-fouten {#freewheel-422-errors}
 
@@ -60,7 +60,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn uit DSP of uit
 | DATA_CREATIVE_DETECTION_FAILURE | 422 | De URL is niet gedetecteerd. |
 | DATA_ENTITY_NOT_FOUND | 422 | De creatieve bestaat niet. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

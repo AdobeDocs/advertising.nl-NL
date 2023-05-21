@@ -5,7 +5,7 @@ feature: DSP Placements
 exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
 source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
 workflow-type: tm+mt
-source-wordcount: '782'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -86,7 +86,7 @@ ht-degree: 0%
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | het aantal advertenties dat aan de plaatsing is gekoppeld, indien aanwezig, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Ads] | [!UICONTROL Ad Names] | de namen van de advertenties die aan de plaatsing zijn gekoppeld, indien van toepassing, of *[!UICONTROL None]*. | — |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

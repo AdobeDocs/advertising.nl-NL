@@ -5,7 +5,7 @@ feature: DSP Optimization
 exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '448'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 | [!UICONTROL Player Size 3rdParty (Moat/IAS)] | Hiermee wordt een vereiste minimale spelergrootte ingesteld, waarbij gegevens worden gebruikt van [!DNL Moat] of [!DNL Integral Ad Science] ([!DNL IAS]). Je biedt op een indruk wanneer de [!UICONTROL Player Size] drempelwaarde is bereikt. | Gebruik deze optie om te zorgen dat u op platformbrede schaal een volledige-episodespelervoorraad aanbiedt [!DNL Moat] of [!DNL IAS] gegevens.<br><br><b>Opmerking:</b> Gebruik dit filter slechts wanneer de campagne wordt gevormd om te gebruiken [!DNL Moat] of [!DNL IAS] gegevens. |
 | [!UICONTROL Viewability Adobe (MRC or [!DNL GroupM])] | Hiermee stelt u een minimaal weergavepercentage in met DSP weergavegetallen en metingen. Je kunt een bod uitbrengen als de opgegeven drempel is bereikt.<br><br><b>Opmerkingen:</b><ul><li>Als de campagne [!UICONTROL Viewability Sensitivity] instelling is &quot;[!UICONTROL Standard (50% of ad in view for 2 consecutive seconds)],&quot; dan de [!DNL Media Rating Council] (MRC) de norm van de viewability meting wordt gebruikt voor de campagne. Als de [!UICONTROL Viewability Sensitivity] instelling is &quot;[!UICONTROL Strict (100% of ad in view & audio on for 50% duration)],&quot; dan de [!DNL GroupM] voor de campagne wordt de standaard voor de meting van de gezichtsvermogen gebruikt.</li><li>Adobe-meetdefinities verschillen van definities van derden, zodat er kleine verschillen kunnen zijn met gegevens van derden.</li></ul> | De beste manier is om de optimalisatiedoelstelling en eventuele filterinstellingen vóór het bieden te laten aansluiten op de campagne [!UICONTROL Viewability Sensitivity] instellen. |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

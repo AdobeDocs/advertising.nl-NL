@@ -5,7 +5,7 @@ feature: DSP Optimization
 exl-id: ad684c99-7ae5-48eb-abfe-d48fd3d34cd0
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
 workflow-type: tm+mt
-source-wordcount: '1611'
+source-wordcount: '1608'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 0%
 | [!UICONTROL Lowest vCPM (Moat - GroupM)] | Bij optimalisering op pakketniveau zal de begrotingstoewijzing voorrang geven aan stages bij de laagste vCPM&#39;s.<br><br>Bij de beoordeling van veilingen krijgt vCPM prioriteit. Als de uitgavendoelstellingen worden verwezenlijkt, dan zal DSP proberen om het verminderen van CPMs met het verhogen van viewability in evenwicht te brengen. | Type campagne: Branding<br><br>Benchmark: Efficiënte CPM en hoogste vCPM<br><br>Typen advertenties: Pre-roll, Display<br><br><b>Opmerking:</b> Gebruik dit doel om het best mogelijke vCPM te bereiken.<br><br>Om een maximum CPM te waarborgen, gebruik het als MaximumBod voor de plaatsing.<br><br>Deze instelling werkt het beste als gegevens van derden [!DNL Moat] informeert het algoritme. Gebruik dit doel slechts wanneer u hebt toegelaten [!DNL Moat] integratie voor de campagne . |
 | [!UICONTROL Lowest vCPM (Moat - MRC)] | Bij optimalisering op pakketniveau zal de begrotingstoewijzing voorrang geven aan stages bij de laagste vCPM&#39;s.<br><br>Bij de beoordeling van veilingen krijgt vCPM prioriteit. Als de uitgavendoelstellingen worden verwezenlijkt, dan zal DSP proberen om het verminderen van CPMs met het verhogen van viewability in evenwicht te brengen. | Type campagne: Branding<br><br>Benchmark: Efficiënte CPM en hoogste vCPM<br><br>Typen advertenties: Pre-roll, Display<br><br><b>Opmerking:</b> Gebruik dit doel om het best mogelijke vCPM te bereiken.<br><br>Om een maximum CPM te waarborgen, gebruik het als MaximumBod voor de plaatsing.<br><br>Deze instelling werkt het beste als gegevens van derden [!DNL Moat] informeert het algoritme. Gebruik dit doel slechts wanneer u hebt toegelaten [!DNL Moat] integratie voor de campagne . |
 
-{style=&quot;table-layout:auto&quot;}
+{style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >

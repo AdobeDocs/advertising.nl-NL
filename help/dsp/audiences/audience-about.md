@@ -16,7 +16,7 @@ In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt geb
 
 * U kunt uw eigen gegevens van het eerste publiek verzamelen door segmenten te creëren en uit te voeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele- en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
+   * [Aangepaste segmenten](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers bij te houden die zijn blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten en b) gebruikers die specifieke webpagina&#39;s bezoeken.
 
    * [CCPA opt-out of-of-sale segmenten](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om de gebruikers-id&#39;s op uw website te traceren van de door de consument ingediende opt-out-of-sale aanvragen, overeenkomstig de California Consumer Privacy Act (CCPA). U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
