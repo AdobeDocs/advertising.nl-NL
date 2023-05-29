@@ -3,9 +3,9 @@ title: Een pakket maken
 description: Leer hoe u een pakket maakt.
 feature: DSP Packages
 exl-id: 528c57f2-fa83-44d7-9ce4-509ca7565135
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -30,6 +30,7 @@ Wanneer u een pakket hebt gemaakt, kunt u er plaatsingen aan toewijzen.
 >* [Een pakket bewerken](package-edit.md)
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
+>* [Een pakket onderbreken of activeren](package-pause-activate.md)
 >* [Pakketinstellingen](package-settings.md)
 >* [Video: Een pakket maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html)
 

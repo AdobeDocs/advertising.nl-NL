@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 
 1. Schakel het selectievakje in naast elke plaatsing die u wilt bewerken.
 
-1. Klik in de menubalk op **[!UICONTROL Edit]**.
+1. Klik in de menubalk voor bulkbewerkingen op **[!UICONTROL Edit]**.
 
 1. Voor elke instelling die u wilt wijzigen:
 

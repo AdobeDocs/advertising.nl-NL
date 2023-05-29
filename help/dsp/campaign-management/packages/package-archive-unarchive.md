@@ -3,9 +3,9 @@ title: Een pakket archiveren of archiveren
 description: Leer hoe u een pakket archiveert of archiveert.
 feature: DSP Packages
 exl-id: 12d1b498-2239-401a-8571-9210956e32b2
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '156'
 ht-degree: 0%
 
 ---
@@ -38,4 +38,5 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 >
 >* [Een pakket bewerken](package-edit.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
+>* [Een pakket onderbreken of activeren](package-pause-activate.md)
 

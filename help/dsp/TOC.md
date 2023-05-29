@@ -8,9 +8,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: ce26d622bde31f289466c581a85724b93e4eae62
+source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '902'
 ht-degree: 5%
 
 ---
@@ -46,6 +46,7 @@ ht-degree: 5%
       + [Een campagne bewerken](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Een campagne dupliceren](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
       + [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+      + [Een campagne onderbreken of activeren](/help/dsp/campaign-management/campaigns/campaign-pause-activate.md)
       + [Een campagne archiveren of archiveren](/help/dsp/campaign-management/campaigns/campaign-archive-unarchive.md)
       + [Het Wijzigingslogboek voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-change-log.md)
       + [Campagne-instellingen](/help/dsp/campaign-management/campaigns/campaign-settings.md)
@@ -56,6 +57,7 @@ ht-degree: 5%
       + [Een pakket bewerken](/help/dsp/campaign-management/packages/package-edit.md)
       + [Een pakket dupliceren](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Een plaatsing koppelen aan een pakket](/help/dsp/campaign-management/packages/package-attach-placement.md)
+      + [Een pakket onderbreken of activeren](/help/dsp/campaign-management/packages/package-pause-activate.md)
       + [Een pakket archiveren of archiveren](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
       + [Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md)
@@ -83,6 +85,7 @@ ht-degree: 5%
       + [Advertentie aan een Plaatsing vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
+      + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
       + [Een advertentie archiveren of archiveren](/help/dsp/campaign-management/ads/ad-archive-unarchive.md)
       + Advertentie-instellingen {#ad-settings}
          + [Instellingen voor audio toevoegen](/help/dsp/campaign-management/ads/ad-settings-audio.md)
