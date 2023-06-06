@@ -9,9 +9,9 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: f6ab84bc5caef1446bc30f53ec68bfd43cb5c030
+source-git-commit: cd8367fbae2234cfdb937c5da8f21f94a615e92a
 workflow-type: tm+mt
-source-wordcount: '1697'
+source-wordcount: '1694'
 ht-degree: 0%
 
 ---
@@ -27,14 +27,13 @@ ht-degree: 0%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [Adobe [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)
-      + [Integratie met Adobe Audience Manager](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)
-   + [Steun voor de privacy van consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
-   + [Beleid en richtsnoeren](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html)
+      + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)
+      + [Integratie met Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)
+   + [Ondersteuning voor de privacy van consumenten (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+   + [Beleid en richtsnoeren (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html)
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
-   + [Conversie bijhouden instellen voor uw webpagina&#39;s](/help/search-social-commerce/getting-started/conversion-tracking-setup.md)
    + [Aanmelden](/help/search-social-commerce/getting-started/log-in.md)
    + [De indeling van de gebruikersinterface](/help/search-social-commerce/getting-started/user-interface.md)
    + [Afmelden](/help/search-social-commerce/getting-started/log-out.md)
