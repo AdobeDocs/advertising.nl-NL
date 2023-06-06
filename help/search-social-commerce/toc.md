@@ -9,7 +9,7 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: cd8367fbae2234cfdb937c5da8f21f94a615e92a
+source-git-commit: c42ad5b5944f9595431786e05dbab670f1eab02e
 workflow-type: tm+mt
 source-wordcount: '1694'
 ht-degree: 0%
@@ -404,5 +404,5 @@ ht-degree: 0%
       + [De transactieeigenschappen weergeven die voor een adverteerder zijn bijgehouden](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
       + [Wijzig de transactieeigenschappen die beschikbaar zijn in de beheerweergaven en -rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)
       + [De weergavenaam van een transactie-eigenschap wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md)
-   + [Hulp vragen](get-help.md)
-   + [Verklarende woordenlijst](glossary.md)
++ [Hulp vragen](get-help.md)
++ [Verklarende woordenlijst](glossary.md)
