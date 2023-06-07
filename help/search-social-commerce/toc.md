@@ -9,9 +9,9 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: b1913c396e911f7595ab6cb42c5ea960b2cc789b
+source-git-commit: 30e08508f5039cdd08b01fd151b9119ee72b0b4d
 workflow-type: tm+mt
-source-wordcount: '1694'
+source-wordcount: '1690'
 ht-degree: 0%
 
 ---
@@ -372,12 +372,11 @@ ht-degree: 0%
    + Recommendations {#recommendations}
 + Gereedschappen {#tools}
    + [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
-   + Gereedschappen voor het bijhouden van tags {#tracking}
-      + [Gereedschappen voor het maken en decoderen van op pixels gebaseerde tekstspatiëring]{#pixel}
-         + [Over de gereedschappen voor het maken en decoderen van trackingcodes](/help/search-social-commerce/tools/tracking-tools-about.md)
-         + [Een URL voor het bijhouden van klikken genereren](/help/search-social-commerce/tools/click-tracking-url-generate.md)
-         + [Een URL voor het bijhouden van klikken decoderen](/help/search-social-commerce/tools/click-tracking-url-decode.md)
-         + [Een conversietag voor Adobe-advertenties genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
+   + Gereedschappen voor het maken en decoderen van trackingcodes{#tracking}
+      + [Over de gereedschappen voor het maken en decoderen van trackingcodes](/help/search-social-commerce/tools/tracking-tools-about.md)
+      + [Een URL voor het bijhouden van klikken genereren](/help/search-social-commerce/tools/click-tracking-url-generate.md)
+      + [Een URL voor het bijhouden van klikken decoderen](/help/search-social-commerce/tools/click-tracking-url-decode.md)
+      + [Een conversietag voor Adobe-advertenties genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
    + Conversiegegevens uploaden naar advertentienetwerken {#upload-ad-networks}
       + [Conversiemetriek uploaden naar [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
       + [Uploaden van doelstellingen naar en netwerken inschakelen](/help/search-social-commerce/tools/objective-upload-to-networks.md)
