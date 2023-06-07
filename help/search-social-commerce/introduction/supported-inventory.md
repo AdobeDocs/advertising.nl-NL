@@ -1,7 +1,7 @@
 ---
 title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
-source-git-commit: 95c7e67bb6f065567302f266959295ce8125c624
+source-git-commit: 2e16159c3d7d973a12a94128b41ebd05539b2f02
 workflow-type: tm+mt
 source-wordcount: '2371'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 Hier volgt een overzicht van de ondersteunde advertentienetwerken, campagnetypen en advertentietypen en de functionaliteit die voor beide beschikbaar is.
 
 | Bron | Netwerk | Type campagne | Advertentietype | Synchroniseren en weergeven | Maken/bewerken | Track[^1] | Optimaliseren | Rapport[^2] | Adobe Analytics-ondersteuning[^3] |
-|----|----|----|----|----|----|----|----|----|----|----|
+|----|----|----|----|----|----|----|----|----|----|
 | [!DNL Baidu] | Zoeken in netwerk | Handmatig | Tekst | Automatisch via API | Gebruiken [campagneremanagementweergaven](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md) en [bollen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Ja | Campagnes met alleen de strategie voor handmatig bieden via CPC | Gegevens op advertentieniveau | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
 | [!DNL Google Ads] | Alles [!DNL Google] feeds | Detectie (bètafunctie) | Detectie (advertenties met één afbeelding)<br><br>Detectiescarrousel (carrouseladvertenties met meerdere afbeeldingen) | Automatisch via API | — | Ja | Alleen in hybride portefeuilles<br><br>De biedingen en de doelstellingen van de biedingsstrategie worden vastgesteld op het campagneniveau, samen met de campagnebegrotingen, zoals van toepassing voor het optimalisatietype. | Gegevens op advertentieniveau | Gegevens op advertentieniveau voor zoeken, sociale zaken en handel (met de bijgewerkte versie) [s_kwcid-trackingcode](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)[^4]<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
 |  | Alles | Maximale standaardprestaties (bètafunctie) | Alle typen | Automatisch via API | Campagne maken/bewerken en advertentiemiddelen uploaden binnen de campagne-instellingen in de weergave Campagnes<br><br>Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij [!DNL [!DNL Google Ads] Advertentie]-editor. | Ja | Alleen in hybride portefeuilles<br><br>De doelstellingen van de biedstrategie worden vastgesteld op het campagneniveau, samen met de campagnebegrotingen. | Gegevens op campagneniveau<br><br>Gegevens voor lijstgroepen zijn niet beschikbaar, en het ad-level netwerk verstrekt geen gegevens op ad-niveau. | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op campagnereniveau, van Zoeken, Sociaal en Handel tot Analytics. Vereist de upgrade [s_kwcid-trackingcode](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md). |
