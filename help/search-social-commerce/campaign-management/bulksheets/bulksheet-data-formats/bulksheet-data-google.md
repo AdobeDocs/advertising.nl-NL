@@ -1,9 +1,9 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
-source-git-commit: 29d11545d9c3cb3e90efca4a51a39118dbf9cc1a
+source-git-commit: 05a3424b67d084dbb664321c7a6ada0f99a840b2
 workflow-type: tm+mt
-source-wordcount: '6276'
+source-wordcount: '6628'
 ht-degree: 0%
 
 ---
@@ -114,56 +114,33 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 <table style="table-layout:auto">
 
-<!-- 
+## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel
 
-## Fields required to create, edit, or delete each account component
+### Campagnevelden
 
-### Campaign fields
+| Accountnaam | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. | | Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. | | Campagnebegroting | Vereist: Maken<br><br>>Optioneel: Bewerken of verwijderen | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. | | Leveringsmethode | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Kanaaltype | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Netwerken | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Domeinnaam DSA | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Domeintaal DSA | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Prioriteit campagne | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Merchant ID | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Land van verkoop | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Filter productbereik | Optioneel | | Talen | Optioneel | | Apparaatdoelen | Optioneel | | Apparaatbesturingssysteemdoelen (Google Adwords) | Optioneel | | Mobiele vervoerders (Google Adwords) | Optioneel | | Doelmethode publiek | n.v.t. | | Achtervoegsel bestemmingspagina | <p>Optioneel | | Sjabloon voor bijhouden | Optioneel | | Campagnestatus | Facultatief: Maken of bewerken<br><br>Vereist: Verwijderen | | \[Advertiser-specific Label Classification\] | Optioneel | | Beperkingen | Optioneel | | Campagne-id | Alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. | | AMO-ID | n.v.t.: Maken<br><br>Vereist/optioneel: Bewerken of verwijderen |
 
-| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
-| Campaign Name | Required | The unique name that identifies a campaign for an account. |
-| Campaign Budget | Required: Create<br><br>>Optional: Edit or delete | A daily spending limit for the campaign, with or without monetary symbols and punctuation. This value overrides but can't exceed the account budget. |
-| Delivery Method | Required: Create<br><br>Optional: Edit or delete |
-| Channel Type | Required: Create<br><br>Optional: Edit or delete |
-| Networks | Required: Create<br><br>Optional: Edit or delete |
-| DSA Domain Name | Required: Create<br><br>Optional: Edit or delete |
-| DSA Domain Language | Required: Create<br><br>Optional: Edit or delete |
-| Campaign Priority | Required/Optional: Create<br><br>Optional / n/a: Edit or delete  |
-| Merchant ID | Required/Optional: Create<br><br>Optional / n/a: Edit or delete |
-| Sales Country | Required/Optional: Create<br><br>Optional / n/a: Edit or delete |
-| Product Scope Filter | Optional |
-| Languages | Optional |
-| Device Targets | Optional |
-| Device OS Targets (Google Adwords) | Optional |
-| Mobile Carriers (Google Adwords) | Optional |
-| Audience Target Method | n/a |
-| Landing Page Suffix | <p>Optional |
-| Tracking Template | Optional |
-| Campaign Status | Optional: Create or edit<br><br>Required: Delete |
-| \[Advertiser-specific Label Classification\] | Optional |
-| Constraints | Optional |
-| Campaign ID | Required only when you change the campaign name, unless the row includes an &quot;AMO ID&quot; for the campaign. |
-| AMO ID | n/a: Create<br><br>Required/Optional: Edit or delete |
+### Groepsvelden toevoegen
 
-### Ad group fields
-
-| Field | Required? |
+| Veld | Vereist? |
 | ---- | ---- |
-| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
-| Campaign Name | Required |
-| Networks | n/a |
-| GDN Custom Bid Level | Optional |
-| Ad Group Name | Required  |
-| Ad Group Type | Required |
-| Max CPC | Optional |
-| Max Content CPC | Optional |
-| Audience Target Method | Required |
-| Tracking Template | Optional |
-| Ad Group Status  | Optional: Create or edit<br><br>Required: Delete |
-| \[Advertiser-specific Label Classification\] | Optional |
-| Constraints | Optional |
-| Ad Group ID | Required only when you change the campaign name, unless the row includes an &quot;AMO ID&quot; for the ad group. |
-| AMO ID | The AMO ID is required to edit or delete the data unless you include the entity ID and parent entity ID.<br><br>Search, Social, & Commerce uses the value to determine the correct identity to edit but doesn't post the ID to the ad network. |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Netwerken | n.v.t. |
+| Aangepast biedingsniveau GDN | Optioneel |
+| Naam advertentiegroep | Vereist |
+| Type advertentiegroep | Vereist |
+| Max CPC | Optioneel |
+| Max. inhoud CPC | Optioneel |
+| Doelmethode publiek | Vereist |
+| Sjabloon voor bijhouden | Optioneel |
+| Status van advertentiegroep | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Groep-id toevoegen | Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &#39;AMO-id&#39; voor de advertentiegroep bevat. |
+| AMO-id | De AMO-id is vereist om de gegevens te bewerken of te verwijderen, tenzij u de id van de entiteit en de bovenliggende entiteit hebt opgenomen.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+<!-- 
 
 ### Keyword fields
 
