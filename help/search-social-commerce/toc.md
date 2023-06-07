@@ -9,9 +9,9 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: 30e08508f5039cdd08b01fd151b9119ee72b0b4d
+source-git-commit: ba0604f0c8f07cad70aa1af66fe24db3ec8e541d
 workflow-type: tm+mt
-source-wordcount: '1690'
+source-wordcount: '1721'
 ht-degree: 0%
 
 ---
@@ -369,7 +369,11 @@ ht-degree: 0%
       + [Aangepaste waarschuwingen weergeven](/help/search-social-commerce/alerts/alert-view.md)
       + [Gegevens exporteren voor aangepaste waarschuwingen](/help/search-social-commerce/alerts/alert-export-data.md)
    + [Rapport Wijzigingsgeschiedenis weergeven](/help/search-social-commerce/reports/change-history-view.md)
-   + Recommendations {#recommendations}
+   + Recommendations- en uitgeversinzichten {#recommendations}
+      + [Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers](/help/search-social-commerce/recommendations/recommendation-support.md)
+      + [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
+      + [Een [!DNL Google Ads] aanbeveling](/help/search-social-commerce/recommendations/google-recommendation-apply-dismiss.md)
+      + [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Gereedschappen {#tools}
    + [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
    + Gereedschappen voor het maken en decoderen van trackingcodes{#tracking}
