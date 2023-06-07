@@ -1,9 +1,9 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
-source-git-commit: 05a3424b67d084dbb664321c7a6ada0f99a840b2
+source-git-commit: e06d89ce5d7995bf3abc3ff1312a4a2c2c7448f1
 workflow-type: tm+mt
-source-wordcount: '6628'
+source-wordcount: '6630'
 ht-degree: 0%
 
 ---
@@ -118,7 +118,32 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 ### Campagnevelden
 
-| Accountnaam | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. | | Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. | | Campagnebegroting | Vereist: Maken<br><br>>Optioneel: Bewerken of verwijderen | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. | | Leveringsmethode | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Kanaaltype | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Netwerken | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Domeinnaam DSA | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Domeintaal DSA | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen | | Prioriteit campagne | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Merchant ID | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Land van verkoop | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen | | Filter productbereik | Optioneel | | Talen | Optioneel | | Apparaatdoelen | Optioneel | | Apparaatbesturingssysteemdoelen (Google Adwords) | Optioneel | | Mobiele vervoerders (Google Adwords) | Optioneel | | Doelmethode publiek | n.v.t. | | Achtervoegsel bestemmingspagina | <p>Optioneel | | Sjabloon voor bijhouden | Optioneel | | Campagnestatus | Facultatief: Maken of bewerken<br><br>Vereist: Verwijderen | | \[Advertiser-specific Label Classification\] | Optioneel | | Beperkingen | Optioneel | | Campagne-id | Alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. | | AMO-ID | n.v.t.: Maken<br><br>Vereist/optioneel: Bewerken of verwijderen |
+| Veld | Vereist? |
+| ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. |
+| Campagnebudget | Vereist: Maken<br><br>>Optioneel: Bewerken of verwijderen | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
+| Leveringsmethode | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
+| Kanaaltype | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
+| Netwerken | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
+| DSA-domeinnaam | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
+| DSA-domeintaal | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
+| Campagneprioriteit | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
+| Merchant ID | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
+| Verkoopland | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
+| Filter Productbereik | Optioneel |
+| Talen | Optioneel |
+| Apparaatdoelen | Optioneel |
+| Apparaatbesturingssysteemdoelen (Google Adwords) | Optioneel |
+| Mobiele dragers (Google Adwords) | Optioneel |
+| Doelmethode publiek | n.v.t. |
+| Achtervoegsel bestemmingspagina | <p>Optioneel |
+| Sjabloon voor bijhouden | Optioneel |
+| Campagnestatus | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. |
+| AMO-id | n.v.t.: Maken<br><br>Vereist/optioneel: Bewerken of verwijderen |
 
 ### Groepsvelden toevoegen
 
@@ -144,10 +169,10 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 ### Keyword fields
 
-Campaign Name
-Ad Group Name
-Keyword Status
-Max CPC
+| Acct Name | Required unless each row includes an &quot;AMO ID&quot; for the entity. |
+| Campaign Name | Required |
+| Ad Group Name | Required  |
+| Max CPC | Optional |
 Tracking Template
 URLs (Base URL/Final URL, Destination URL)
 Exemption Request (Google Adwords)
@@ -159,6 +184,7 @@ Param2
 Quality Score
 Custom URL Param
 Label Classification
+Keyword Status
 
 | Field | Required? | Description |
 | ---- | ---- | ---- |
