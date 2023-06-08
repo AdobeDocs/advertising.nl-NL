@@ -1,9 +1,9 @@
 ---
 title: "[!DNL Yahoo! Japan Ads] trefwoordinstellingen"
 description: Verwijs naar de instellingen voor [!DNL Yahoo! Japan Ads] trefwoorden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '160'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,6 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
 >* Yahoo! Japanse trefwoorden en typen overeenkomsten zijn veranderbaar, wat betekent dat u ze kunt bewerken zonder het bestaande trefwoord te verwijderen.
 
-
 **[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
 
 ## [!UICONTROL Bids]
@@ -32,9 +31,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param1}` [aangepaste parameter](https://help.marketing.yahoo.co.jp/en?p=7195#customp).
+**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param1}` [aangepaste parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
 
-**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param2}` [aangepaste parameter](https://help.marketing.yahoo.co.jp/en?p=7195#customp).
+**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param2}` [aangepaste parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
 
 ## URL-opties
 
@@ -49,4 +48,3 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >[!MORELIKETHIS]
 >
 >* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
-

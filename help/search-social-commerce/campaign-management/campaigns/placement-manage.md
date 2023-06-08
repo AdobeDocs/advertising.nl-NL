@@ -1,9 +1,9 @@
 ---
 title: Beheren [!DNL Google Ads] plaatsing
 description: Meer informatie over het maken en beheren van plaatsingen voor [!DNL Google Ads] ad groepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 
 ### [!UICONTROL Placement Details]
 
-**[!UICONTROL Placements]:** Plaatst op het inhoudsnetwerk waarop uw advertentie kan verschijnen. Voer een geldige URL in, bijvoorbeeld www.example.com, example.com of www.example.com/shoes/kids. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u deze op aparte regels in. De URL kan geen vraagteken (`?`). **Opmerking:** U kunt [websiteplaatsing uitsluiten](placement-negative-create.md) van de [!UICONTROL Placements] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
+**[!UICONTROL Placements]:** Plaatst op het inhoudsnetwerk waarop uw advertentie kan verschijnen. Voer een geldige URL in, bijvoorbeeld www.example.com, example.com of www.example.com/shoes/kids. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in. De URL kan geen vraagteken bevatten (`?`). **Opmerking:** U kunt [websiteplaatsing uitsluiten](placement-negative-create.md) van de [!UICONTROL Placements] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
 
 **[!UICONTROL Status]:** De weergavestatus van de plaatsing: *Actief* (om biedingen mogelijk te maken; de standaardinstelling), *Gepauzeerd* (om biedingen uit te schakelen), of *Verwijderd* (om de plaatsing te schrappen; alleen bestaande stages).
 
@@ -88,4 +88,3 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 >* [Informatie over plaatsingen](placement-about.md)
 >* [Negatieve plaatsingen maken](placement-negative-create.md)
 >* [De status van stages en negatieve stages wijzigen](placement-status-edit.md)
-

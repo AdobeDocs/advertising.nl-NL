@@ -1,9 +1,9 @@
 ---
 title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
 workflow-type: tm+mt
-source-wordcount: '2088'
+source-wordcount: '2080'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
 
    1. In de **[!UICONTROL Account Details]** Voer de accountgegevens in.
 
-      Voor advertentienetwerken die het type van login vergunning gebruiken &quot;[!UICONTROL oAuth],&quot; staat Search, Social &amp; Commerce toe om toegang te krijgen tot de account via de [OAuth-autorisatieprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22):
+      Voor advertentienetwerken die het type van login vergunning gebruiken &quot;[!UICONTROL oAuth],&quot; staat Search, Social &amp; Commerce toe om toegang te krijgen tot de account via de [OAuth-autorisatieprotocol](https://oauth.net/2/):
 
       1. Voer de **[!UICONTROL Login]** waarde voor de account, voert u desgewenst het wachtwoord in en klikt u op **[!UICONTROL Authenticate]**.
 
@@ -45,8 +45,8 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
       1. Kopieer de verificatietekenreeks in het pop-upvenster dat wordt geopend, en plak de tekenreeks in de **[!UICONTROL oAuth Token]** veld.
 
       1. Geef de overige accountgegevens op.
-   1. Klikken **[!UICONTROL Set Account Tracking]** en voer de instellingen voor bijhouden in.
 
+   1. Klikken **[!UICONTROL Set Account Tracking]** en voer de instellingen voor bijhouden in.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -82,7 +82,7 @@ Als de verificatiegegevens van de account veranderen, wilt u de standaardparamet
 
 *Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
 
-Als Zoeken, Sociaal en Handel toegang heeft tot de account met de [OAuth-autorisatieprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22) en de geloofsbrieven van de rekening veranderen, of als extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Handel te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
+Als Zoeken, Sociaal en Handel toegang heeft tot de account met de [OAuth-autorisatieprotocol](https://oauth.net/2/) en de geloofsbrieven van de rekening veranderen, of als extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Handel te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
 
 Uw Adobe Account Team zal u informeren als de nieuwe eigenschappen een nieuw teken vereisen.
 
@@ -146,7 +146,7 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseert u met Zoeken,
 
 **[!UICONTROL Login Details]: \[Aanmeldingstype\]** - ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt autoriseren met:
 
-* *[!UICONTROL oAuth]* (de standaardinstelling): Als u de opdracht [[!DNL OAuth] machtigingsprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+* *[!UICONTROL oAuth]* (de standaardinstelling): Als u de opdracht [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
 * *[!UICONTROL Password]:* Het wachtwoord van de client gebruiken.
 
@@ -154,7 +154,7 @@ Voor [!DNL Microsoft Advertising] alleen accounts [!DNL oAuth]-authorised logins
 
 **[!UICONTROL Login Details]: [!UICONTROL Login]:** (Alle advertentienetwerken behalve [!DNL Naver]) De aanmeldnaam of -id om API-toegang tot het account in te schakelen.
 
-**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled en alle andere netwerken behalve [!DNL Baidu], [!DNL Meta], en [!DNL Yandex]) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled en alle andere netwerken behalve [!DNL Baidu], [!DNL Meta], en [!DNL Yandex]) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
 **[!UICONTROL Login Details]: [!UICONTROL Password]:** (Alle advertentienetwerken behalve [!DNL Naver]) Het wachtwoord voor de account. Voor accounts waarvoor wachtwoorden zijn ingeschakeld: [!DNL Baidu], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex]is dit veld vereist. Voor [!DNL oAuth]-enabled accounts, is dit veld optioneel; gebruik dit wanneer u het wachtwoord wilt coderen en opslaan, zodat accountmanager tokens naar wens kan vernieuwen.
 
@@ -172,7 +172,6 @@ Accounts die Adobe Advertising Click tracking gebruiken, moeten de klikidentific
 >
 >* Dit veld wordt niet bijgewerkt door de [!UICONTROL Auto Upload] instelling voor tekstspatiëring.
 >* De laatste URL-achtervoegsels op lagere niveaus overschrijven het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de advertentiegroep of lager te vormen, gebruik de redacteur van het ad netwerk.
-
 
 **Tijdzone:** (Alle advertentienetwerken behalve [!DNL Baidu] en [!DNL Yahoo! Display Network]) De tijdzone van de adverteerder. Dit veld kan worden bewerkt en optioneel voor nieuwe [!DNL Naver] rekeningen. Voor alle andere onderzoeksnetwerken, wordt de waarde automatisch gevuld met de tijdzone die voor de rekening van het Onderzoek, Sociale, &amp; van de Handel van de adverteerder wordt gevormd zodra u het verslag opslaat.
 
@@ -200,7 +199,6 @@ Accounts die Adobe Advertising Click tracking gebruiken, moeten de klikidentific
 >* Voor [!DNL Google Ads], vermijd het gebruiken van macro&#39;s, die niet voor kliks van bronnen substitueren die parallel volgen toelaten. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe Account Team met de Klantenondersteuning of het implementatieteam samenwerken om deze toe te voegen.
 >* De het volgen malplaatje op het meest korrelige niveau treedt de waarden op alle hogere niveaus met voeten. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast.
 >* Als u een trackingsjabloon bijwerkt op advertentie-, sitelink- of trefwoordniveau, worden de relevante advertenties opnieuw verzonden voor revisie. U kunt de trackingsjablonen op account-, campagne- of advertentieniveau bijwerken zonder uw advertenties opnieuw ter goedkeuring in te dienen.
-
 
 **[!UICONTROL Master Account ID]:** ([!DNL Microsoft Advertising] (alleen accounts) De ID voor een agentschap/beheeraccount die bij de account hoort.
 
@@ -259,4 +257,3 @@ Om de gegevens in de rapportreeksen te verschijnen, of a) moet de server-kant s\
 >* [Informatie over netwerkaccounts](ad-network-account-about.md)
 >* [Zakelijke accounts beheren](merchant-account-manage.md)
 >* [De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](update-skwcid-google.md)
-

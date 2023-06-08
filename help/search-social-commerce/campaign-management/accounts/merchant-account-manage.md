@@ -1,9 +1,9 @@
 ---
 title: Zakelijke accounts beheren
 description: Leer hoe u accountgegevens voor een bedrijfscentrum instelt en beheert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor ee
 
    1. In de [!UICONTROL Product Source] selecteert u het winkelcentrum.
 
-   1. (Vereist voor [!DNL Google Ads] rekeningen; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdracht, sociale zaken en handel toestaan om toegang te krijgen tot de account via de [[!DNL OAuth] machtigingsprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22):
+   1. (Vereist voor [!DNL Google Ads] rekeningen; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdracht, sociale zaken en handel toestaan om toegang te krijgen tot de account via de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] alleen accounts) Selecteren **[!UICONTROL oAuth]**.
 
@@ -98,13 +98,13 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 
 **[!UICONTROL Product Source]:** Het commerciële netwerk. U kunt de waarde van een bestaand account niet wijzigen.
 
-**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] alleen accounts) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] alleen accounts) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
 **[!UICONTROL Auth Type]:** ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt autoriseren met:
 
 * *[!UICONTROL Client login]:* De aanmeldingsgegevens van de client gebruiken.
 
-* *[!UICONTROL oAuth]* (de standaardinstelling): Als u de opdracht [[!DNL OAuth] machtigingsprotocol](http://tools.ietf.org/html/draft-ietf-oauth-v2-22).
+* *[!UICONTROL oAuth]* (de standaardinstelling): Als u de opdracht [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
 **[!UICONTROL Access Key]:** ([!DNL Microsoft Merchant Center] alleen) De toegangstoets voor de ontwikkelaarsaccount die moet worden gebruikt.
 
@@ -130,4 +130,3 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 >
 >* [Informatie over netwerkaccounts](ad-network-account-about.md)
 >* [Netwerkaccounts beheren](ad-network-account-manage.md)
-
