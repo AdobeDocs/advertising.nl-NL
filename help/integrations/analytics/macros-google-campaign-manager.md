@@ -3,7 +3,7 @@ title: Toevoegen [!DNL Analytics for Advertising] Macro's naar [!DNL Google Camp
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising] macro's voor uw [!DNL Google Campaign Manager 360] advertentietags
 feature: Integration with Adobe Analytics
 exl-id: 89cd4e1d-277a-4a43-9c38-ae6641302e09
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 0%
@@ -41,10 +41,10 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 ```
 
 >[!NOTE]
->
->
 >* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de URL `amo` vóór het hashsymbool.
->* Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
+
+>
+>* >Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 
 ### URL-achtervoegsel van bestemmingspagina op advertentieniveau configureren
@@ -83,8 +83,7 @@ data-dcm-param-amo='ef_id=${TM_USER_ID}:${TM_DATETIME}:d&s_kwcid=AC!${TM_AD_ID}!
 Wanneer een gebruiker op de advertentie klikt, [!DNL Google Campaign Manager 360] ziet `%pamo` in het URL-achtervoegsel en voegt dynamisch de waarde van de `amo` in de URL.
 
 >[!MORELIKETHIS]
->
->* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
->* [Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](macros-flashtalking.md)
+* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
+* [Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
+* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](macros-flashtalking.md)
 
