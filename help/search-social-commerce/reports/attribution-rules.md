@@ -1,16 +1,16 @@
 ---
 title: Hoe toewijzingsregels worden berekend
 description: Leer hoe Adobe Advertising elk type attributieregel berekent.
-source-git-commit: 6436866ae7684a330f74c14e58ee30d365de80a1
+source-git-commit: d4237253af7110a3ed02595c466c01359f5601d4
 workflow-type: tm+mt
-source-wordcount: '2431'
+source-wordcount: '2439'
 ht-degree: 0%
 
 ---
 
-# Hoe de toewijzingsregels worden berekend voor Adobe-reclame
+# Hoe toewijzingsregels worden berekend voor Adobe Advertising
 
-*Adverteerders die alleen de conversie van Adoben Advertising bijhouden*
+*Adverteerders met alleen het bijhouden van Adobe-advertenties*
 
 <!-- Verify statements about cross-device events -->
 
@@ -23,7 +23,7 @@ In rapporten, gebrek en douanemeningen voor Advertising Onderzoek, Sociale, &amp
 >* De attributieregels zijn van toepassing op kliks op betaalde advertenties in om het even welk kanaal en op beelden op vertoning en sociale advertenties. Ze zijn niet van toepassing op afbeeldingen voor betaalde zoekopdrachten, die niet op gebeurtenisniveau kunnen worden bijgehouden.
 >* Adobe Advertising slaat altijd de volgende gebeurtenissen voor elke surfer van het Web vóór een omzetting op: a) de eerste betaalde klik; b) maximaal 10 klikken voor elk kanaal (zoeken, sociale weergave of weergave), inclusief de eerste klik; en c) maximaal 10 beeldschermafbeeldingen. <!-- But it can continue to attribute conversions to clicks and impressions for longer. -->
 * Bij DSP en Advertising Creative van advertenties houden apparaatdefinities alleen rekening met het gebeurtenispad van de geselecteerde attributieregel.<!-- cross-device attribution via LiveRamp only -->
-* In rapporten en beheersmeningen, hangt het aantal decimalen die voor een waarde worden getoond van de munt af, maar de Adobe Advertising slaat nauwkeurigere waarden op.
+* In rapporten en beheerweergaven hangt het aantal decimalen dat voor een waarde wordt weergegeven af van de valuta, maar in Advertising van Adobe worden nauwkeurigere waarden opgeslagen.
 
 ## Laatste gebeurtenis (de standaardwaarde)
 
@@ -209,7 +209,7 @@ Omdat de gebeurtenisreeks zowel indrukken als klikken bevatte, is het gewicht va
 
 Attributie: Impressie 1 = 6 USD, klik 1 = 54 USD, Impressie 2 = 6 USD, klik 2 = 54 USD (in totaal 120 USD)
 
-#### Het gebruiken (slechts Adobe Advertising DSP) geen Gewicht van de Overschrijving van de Indrukking of (Onderzoek, Sociale, &amp; Handel slechts) een &quot;Gewicht van de Overschrijving van de Indrukking van 0%
+#### Het gebruiken van (de DSP van de Adverteren van Adobe slechts) geen Gewicht van de Schrapping van de Indrukking of (Onderzoek, Sociale, &amp; Handel slechts) een &quot;Gewicht van de Schrapping van de Indrukking van 0%
 
 Aangezien de gebeurtenisreeks zowel afbeeldingen als klikken bevat, worden de indrukkingen genegeerd.
 
@@ -295,13 +295,13 @@ Kenmerkt de omzetting aan alle gebeurtenissen in de reeks die binnen adverteerde
 
 Wanneer de conversie alleen wordt voorafgegaan door impressies, wordt de conversie beschouwd als een *doorzien*, die volgens de [instelling voor doorkijkgewicht](/help/search-social-commerce/glossary.md#uv) of — zoals gespecificeerd — volgens de view-through waarderingsmethode die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.
 
-Wanneer het omzettingspad zowel &#39;betaal&#39; als &#39;Ongewenste&#39; afbeeldingen bevat, worden de afbeeldingen door verschillende Adobe-advertentieproducten anders behandeld:
+Wanneer het omzettingspad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
 * In Search, Social, &amp; Commerce, [dikte van indruk overschrijven](/help/search-social-commerce/glossary.md#i-j) — die in de indruk van de adverteerder wordt opgegeven, overschrijft de gewichtsinstelling en in de parameters report, view of custom simulatie — wordt eerst toegepast op de afbeeldingen.
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP neemt geen indruk met voorrang van gewichten in overweging voor attributie.
 
-<!-- ![U-shaped attribution percentages](/help/search-social-commerce/assets/attribution-percent-u-shaped.png "U-shaped event attribution percentages") -->
+![U-vormig toewijzingspercentage](/help/search-social-commerce/assets/attribution-percent-u-shaped.png "U-vormig toewijzingspercentage")
 
 <!-- start examples as collapsible content -->
 
