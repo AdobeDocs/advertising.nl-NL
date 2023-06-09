@@ -1,9 +1,9 @@
 ---
 title: Effectieve tekst schrijven en kopiëren
 description: Meer informatie over de beste praktijken voor het schrijven van effectieve e-mails.
-source-git-commit: 6b93a29d121bd5a1cd887bf17023811e59fe85c3
+source-git-commit: c31c8615ecbd24b03c47563aee499fc1d865ea36
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '578'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 * Schrijf krachtige koppen om potentiële klanten aan te trekken.
 
-* Neem trefwoorden op in uw koptekst, want dat is waar de meeste mensen naar op zoek zijn. [*]
+* Neem trefwoorden op in uw koptekst, want dat is waar de meeste mensen naar op zoek zijn. [1]
 
 * Maak een advertentie die is ontworpen voor het beoogde publiek.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 * Als u een korting aanbiedt, neemt u het specifieke bedrag of percentage van de korting op (zoals &quot;20% korting&quot; of &quot;Bespaar $20 bij eerste aankoop).
 
-* Gebruik indien mogelijk het trefwoord zowel in de kop/titel als in beide regels van de beschrijving/hoofdtekst. [*]
+* Gebruik indien mogelijk het trefwoord zowel in de kop/titel als in beide regels van de beschrijving/hoofdtekst. [1]
 
 * Neem altijd een oproep tot actie op in de tekst, zoals &quot;Weergave&quot;, &quot;Uitchecken&quot;, &quot;Volgorde&quot; of &quot;Aanmelden&quot; om de doorklikfrequentie te verhogen. Neem voor afbeeldingsadvertenties de aanroep naar actie op een knop die aan uw website is gekoppeld. voor advertenties met rijke media neemt u de oproep tot actie in een vroeg stadium op.
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 * Onderzoek wat uw concurrenten doen. Bekijk de bovenste advertenties voor een spatie (op sites als www.spyfu.com) en probeer te begrijpen welke advertenties werken.
 
-[*]: Als u sleutelwoordtoevoeging gebruikt, gebruik het correcte hoofdlettergebruik voor de toevoegingscode:
+[1]: Als u sleutelwoordtoevoeging gebruikt, gebruik het correcte hoofdlettergebruik voor de toevoegingscode:
 
 `{keyword:default}` = grasmaaiers
 

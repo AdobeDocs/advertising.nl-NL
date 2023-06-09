@@ -1,7 +1,7 @@
 ---
 title: "[!UICONTROL Campaign Assist Report]"
 description: Meer informatie over de [!UICONTROL Campaign Assist Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: e2df0116f912ca9cbf3d140dec4da57536b929bd
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -31,7 +31,7 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardkolommen worden standaard automatisch opgenomen. U kunt de beschikbare douanekolommen van de sectie van Kolommen van de rapportmontages toevoegen.
 
 | Kolom | Standaard? | Beschrijving |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Campaign] tot [!UICONTROL 5th Campaign] | Standaard | De vijf oudste campagnes in het conversiepad die binnen de adverteerders plaatsvonden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j).<br><br>Als u een van de rapportopties hebt opgenomen om het advertentienetwerk, de accountnaam of het gebeurtenistype na de entiteitsnaam aan te geven, wordt die informatie opgenomen na de naam van de campagne (zoals `"<"campaign name> [Google] [Account1] [impression]`&quot;). |
 | [!UICONTROL Path Size] | Standaard | Het aantal campagnes in het conversiepad dat is uitgevoerd binnen de adverteerders [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Campaign] | Standaard | De eerste campagne in het conversiepad. |
@@ -57,4 +57,3 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 >* [De [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Rapportinstellingen voor assistentie](assist-report-settings.md)
 >* [Een rapport voor Help genereren](assist-report-generate.md)
-

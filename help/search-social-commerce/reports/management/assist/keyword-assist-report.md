@@ -1,7 +1,7 @@
 ---
 title: "[!UICONTROL Keyword Assist Report]"
 description: Meer informatie over de [!UICONTROL Keyword Assist Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: e2df0116f912ca9cbf3d140dec4da57536b929bd
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 0%
@@ -29,7 +29,7 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardkolommen worden standaard automatisch opgenomen. U kunt de beschikbare douanekolommen van de sectie van Kolommen van de rapportmontages toevoegen.
 
 | Kolom | Standaard? | Beschrijving |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Keyword] tot [!UICONTROL 5th Keyword] | Standaard | De vijf oudste betaalde zoektrefwoorden of -plaatsing klikken in het conversiepad dat binnen de adverteerders is opgetreden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j).<br><br><b>Opmerking:</b> Als het rapport plaatsingen van inhoud-toegelaten onderzoekscampagnes omvat (die geen sleutelwoorden omvatten), dan tonen deze kolommen de toepasselijke namen van de advertentiegroep, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie,&quot;in plaats daarvan. |
 | [!UICONTROL Path Size] | Standaard | Het aantal trefwoorden en/of plaatsen in het conversiepad dat is opgetreden binnen de adverteerders [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Keyword] | Standaard | Het eerste trefwoord of de eerste plaatsing in het conversiepad. |
@@ -51,4 +51,3 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 >* [De [!UICONTROL Channel Assist Report]](channel-assist-report.md)
 >* [Rapportinstellingen voor assistentie](assist-report-settings.md)
 >* [Een rapport voor Help genereren](assist-report-generate.md)
-

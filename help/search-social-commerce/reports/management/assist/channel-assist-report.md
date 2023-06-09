@@ -1,7 +1,7 @@
 ---
 title: "[!UICONTROL Channel Assist Report]"
 description: Meer informatie over de [!UICONTROL Channel Assist Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: e2df0116f912ca9cbf3d140dec4da57536b929bd
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%
@@ -25,7 +25,7 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardkolommen worden standaard automatisch opgenomen. U kunt de beschikbare douanekolommen van de sectie van Kolommen van de rapportmontages toevoegen.
 
 | Kolom | Standaard? | Beschrijving |
-|----|----|
+| ---- | ---- | ---- |
 | [!UICONTROL 1st Event] tot [!UICONTROL 5th Event] | Standaard | De vijf vroegste gebeurtenistypen in het conversiepad die binnen de adverteerders zijn opgetreden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL Path Size] | Standaard | Het aantal gebeurtenistypen in het conversiepad dat binnen de adverteerders is opgetreden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Event Type] | Standaard | Het gebeurtenistype van de eerste (vroegste) gebeurtenis in het conversiepad. |
@@ -47,4 +47,3 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 >* [De [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Rapportinstellingen voor assistentie](assist-report-settings.md)
 >* [Een rapport voor Help genereren](assist-report-generate.md)
-

@@ -1,7 +1,7 @@
 ---
 title: Informatie over meldingen
 description: Meer informatie over meldingen, waaronder de verschillende typen en categorieën.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 1b38a7cd20eb2f9b773d01dc0444f45761b99647
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -20,11 +20,11 @@ U kunt uw berichtmontages vormen om aan, of unsubscribe van, verschillende types
 
 * Van een [!UICONTROL Notification Center] webtoepassing die wordt geopend [!UICONTROL Notification Center] in een apart venster buiten Search, Social, &amp; Commerce.
 
-   De toepassing wordt sneller geladen dan de standaardbrowserversie en wordt automatisch bijgewerkt. U kunt de toepassing installeren en beheren met App Manager van de browser.
+  De toepassing wordt sneller geladen dan de standaardbrowserversie en wordt automatisch bijgewerkt. U kunt de toepassing installeren en beheren met App Manager van de browser.
 
 * Van pushberichten naar uw browser.
 
-   Wanneer u pushmeldingen inschakelt, worden deze weergegeven volgens de meldingsconventies van de browser.
+  Wanneer u pushmeldingen inschakelt, worden deze weergegeven volgens de meldingsconventies van de browser.
 
 U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en meldingen verwijderen.
 
@@ -50,7 +50,7 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
    * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Meldt dat de [!UICONTROL Landing Page Suffix] waarde is onjuist, ontbreekt of bevat een onjuiste SKWCID-sjabloon; of op een lager niveau wordt overschreven door een onjuiste waarde.
 
-   * **[!UICONTROL Manager Account Missing ]**: Meldingen dat Search, Social, &amp; Commerce de geloofsbrieven voor een [account voor netwerkbeheer](/help/search-social-commerce/admin/manager-accounts.md), die voor de correcte opstelling van kritieke functies zijn.
+   * **[!UICONTROL Manager Account Missing]**: Meldingen dat Search, Social, &amp; Commerce de geloofsbrieven voor een [account voor netwerkbeheer](/help/search-social-commerce/admin/manager-accounts.md), die voor de correcte opstelling van kritieke functies zijn.
 
 * [!UICONTROL Network Errors]
 
@@ -76,4 +76,3 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 >* [Uw meldingsinstellingen bewerken](notification-edit.md)
 >* [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
 >* [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](notification-app-install-uninstall.md)
-

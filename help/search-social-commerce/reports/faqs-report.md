@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen over rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 3f2b483a4cae20295a2334321802f8abfe864bd8
 workflow-type: tm+mt
 source-wordcount: '3917'
 ht-degree: 0%
@@ -39,7 +39,7 @@ U kunt zien welke omzettingen het resultaat zijn van een klik op een [!DNL Googl
 
 * Sitelinks worden weergegeven als `sl:<Sitelink text>`, zoals `sl:See Current Offers`.
 
-   U kunt ook een sitelink identificeren als u de [!UICONTROL Tracking URL] in het rapport. De [!UICONTROL Tracking URL] voor een sitelink bevat het kenmerk `&ev_ltx=sl:<link-name>`.
+  U kunt ook een sitelink identificeren als u de [!UICONTROL Tracking URL] in het rapport. De [!UICONTROL Tracking URL] voor een sitelink bevat het kenmerk `&ev_ltx=sl:<link-name>`.
 
 >[!NOTE]
 >
@@ -75,11 +75,11 @@ Als u een rapport veelvoudige tijden gebruikend de zelfde rapportparameters maar
 
 * Klik op datumgegevens als deze buiten het opgegeven datumbereik vallen.
 
-   Als u de rapportparameter &quot;[!UICONTROL Conversions based on click date],&quot; is het opgegeven datumbereik van toepassing op de datum van de klik in plaats van op de datum van de transactie. Als in het rapport ook de toewijzingsregel &quot;Eerste gebeurtenis&quot; of &quot;Laatste gebeurtenis&quot; wordt gebruikt, kan de eerste of laatste gebeurtenis die tot de conversie heeft geleid, zich buiten het opgegeven datumbereik bevinden. Bijvoorbeeld, veronderstel dat een gebruiker Keyword_1 op 30 April klikte, Keyword_2 op 20 Mei klikte, en op 21 Mei omgezet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- attributieregel en een datumbereik van 1-21 mei, dan wordt de eerste gebeurtenis (een klik op Keyword_1 op 30 april) niet in het rapport opgenomen. Als u het rapport uitvoert met hetzelfde datumbereik maar de waarde &quot;[!UICONTROL Last Event]&quot;- toewijzingsregel, dan wordt de conversie opgenomen in het rapport omdat de laatste klik binnen het opgegeven datumbereik heeft plaatsgevonden.
+  Als u de rapportparameter &quot;[!UICONTROL Conversions based on click date],&quot; is het opgegeven datumbereik van toepassing op de datum van de klik in plaats van op de datum van de transactie. Als in het rapport ook de toewijzingsregel &quot;Eerste gebeurtenis&quot; of &quot;Laatste gebeurtenis&quot; wordt gebruikt, kan de eerste of laatste gebeurtenis die tot de conversie heeft geleid, zich buiten het opgegeven datumbereik bevinden. Bijvoorbeeld, veronderstel dat een gebruiker Keyword_1 op 30 April klikte, Keyword_2 op 20 Mei klikte, en op 21 Mei omgezet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- attributieregel en een datumbereik van 1-21 mei, dan wordt de eerste gebeurtenis (een klik op Keyword_1 op 30 april) niet in het rapport opgenomen. Als u het rapport uitvoert met hetzelfde datumbereik maar de waarde &quot;[!UICONTROL Last Event]&quot;- toewijzingsregel, dan wordt de conversie opgenomen in het rapport omdat de laatste klik binnen het opgegeven datumbereik heeft plaatsgevonden.
 
 * Bij de selectie van het portfoliofilter worden enkele gebeurtenissen die tot de conversie leiden, uitgesloten.
 
-   Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- toewijzingsregel, dan moet Portfolio_1 worden opgenomen om de conversie in het rapport op te nemen. Als het rapport echter de toewijzingsregel &quot;Laatste gebeurtenis&quot; gebruikt, moet Portfolio_2 worden opgenomen.
+  Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- toewijzingsregel, dan moet Portfolio_1 worden opgenomen om de conversie in het rapport op te nemen. Als het rapport echter de toewijzingsregel &quot;Laatste gebeurtenis&quot; gebruikt, moet Portfolio_2 worden opgenomen.
 
 >[!TIP]
 >
@@ -152,9 +152,9 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 +++Opbrengst ontbreekt in rapporten.
 
-### Adverteerders die Adobe-conversietags gebruiken
+**Adverteerders die conversietags voor Adoben Advertising gebruiken**
 
-#### Mogelijke oorzaken
+*Mogelijke oorzaken:*
 
 * Trefwoorden of advertenties zijn toegevoegd zonder het voorvoegsel voor het bijhouden van de klik op Zoeken, Sociaal en Handel vooraf in te stellen op de trackingsjablonen of doel-URL&#39;s, of het voorvoegsel voor bijhouden is onjuist.
 
@@ -164,7 +164,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 * De inkomstenparser voor de cliënt werd niet uitgevoerd.
 
-#### Mogelijke oplossing of doorwerken
+*Mogelijke oplossing of oplossing:*
 
 1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [stelt de transactieeigenschappen ter beschikking van rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
@@ -180,9 +180,9 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
    Als de client niet is gestart of pas is gestart, controleert de klantenservice of er een inkomstenparser is ingesteld. Als de parser opstelling is, dan verifiëren zij als Onderzoek, Sociale, &amp; Handel om het even welke pixelomzettingen ontvangt en de kwestie problemen oplossen.
 
-### Adverteerders die gegevens voor conversie verzenden
+**Adverteerders die gegevens voor conversie verzenden**
 
-#### Mogelijke oorzaken
+*Mogelijke oorzaken:*
 
 * Het voederbestand werd niet afgeleverd, het werd niet volledig geparseerd, of het voer bevatte verweesde transacties.
 
@@ -192,7 +192,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 >
 >De gegevens verschijnen over het algemeen niet in het gebruikersinterface tot 2-4 uur nadat het voer wordt ontvangen.
 
-#### Mogelijke oplossing of doorwerken
+*Mogelijke oplossing of oplossing:*
 
 1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [stelt de transactieeigenschappen ter beschikking van rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
 
@@ -208,14 +208,14 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 +++
 
 +++Sommige geavanceerde rapporten bevatten geen omzettingsgegevens die door een adverteerdervoer worden verstrekt.
-De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service Adobe Advertising en die alleen voor adverteerders met de service kunnen worden gegenereerd. De rapporten omvatten geen omzettingsgegevens die buiten het systeem van het de omzettingscontrole van de Adobe Reclame worden gevolgd.
+De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service voor het bijhouden van Adoben Advertising en die alleen kunnen worden gegenereerd voor adverteerders met de service. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
 +++
 
 +++inkomstengegevens verschillen van de eigen inkomstengegevens van de adverteerder.
 
-### Adverteerders die Adobe-conversietags gebruiken
+**Adverteerders die conversietags voor Adoben Advertising gebruiken**
 
-#### Mogelijke oorzaken
+*Mogelijke oorzaken:*
 
 * Bij zoeken, Sociale media en Handel worden inkomsten genegeerd wanneer de cookie verlopen of verwijderd is, maar de adverteerder kan dit als geldige inkomsten beschouwen.
 
@@ -223,7 +223,7 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
 * De tag voor het bijhouden van conversies wordt niet correct geïmplementeerd op alle toepasselijke webpagina&#39;s of is bewerkt.
 
-#### Mogelijke oplossing of doorwerken
+*Mogelijke oplossing of oplossing:*
 
 1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de gegevens van de adverteerder.
 
@@ -235,13 +235,13 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
    De zorg van de klant zal proberen om de ontbrekende transacties te identificeren en dan om op weestransacties en transacties te controleren die niet uit een advertentie kwamen (&quot;ongecorreleerde omzettingen&quot;).
 
-### Adverteerders met gegevensdoorvoer voor conversie `ef_id` waarden
+**Adverteerders met gegevensdoorvoer voor conversie `ef_id` waarden**
 
 Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
-### Adverteerders met de invoer van conversiegegevens gebruiken transactie-id&#39;s
+**Adverteerders met de invoer van conversiegegevens gebruiken transactie-id&#39;s**
 
-#### Mogelijke oorzaken
+*Mogelijke oorzaken:*
 
 * Bij zoeken, Sociaal en Handel worden inkomsten genegeerd wanneer het cookie verloopt of wordt verwijderd, maar de adverteerder kan dit als geldige inkomsten beschouwen.
 
@@ -249,7 +249,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 * Er is een offline conversie gerapporteerd voordat er een online transactie met dezelfde transactie-id heeft plaatsgevonden. De online transactie moet eerst plaatsvinden.
 
-#### Mogelijke oplossing of doorwerken
+*Mogelijke oplossing of oplossing:*
 
 1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de de voedergegevens van de adverteerder.
 
@@ -259,9 +259,9 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
    De klantenservice controleert op fouten bij het parseren van gegevens en [verweesde transacties](/help/search-social-commerce/glossary.md#o-p).
 
-### Adverteerders met andere soorten conversiegegevensfeeds
+**Adverteerders met andere soorten conversiegegevensfeeds**
 
-#### Mogelijke oorzaken
+*Mogelijke oorzaken:*
 
 * Bij zoeken, Sociale media en Handel worden inkomsten genegeerd wanneer de cookie verlopen of verwijderd is, maar de adverteerder kan dit als geldige inkomsten beschouwen.
 
@@ -279,7 +279,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 * De deduping-logica van de adverteerder verschilt van de zoeklogica, de logica van sociale zaken en handel.
 
-#### Mogelijke oplossing of doorwerken
+*Mogelijke oplossing of oplossing:*
 
 1. Ga naar **[!UICONTROL Insights]&amp;[!UICONTROL Reports > Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de gegevens van de adverteerder.
 
@@ -311,8 +311,8 @@ De [!UICONTROL Portfolio Report] toont gegevens voor slechts de campagnes die aa
 De advertentienetwerken verstrekken niet het herkenningsteken noodzakelijk om opbrengst aan een individuele advertentie voor die campagnes toe te schrijven. Daarom zijn er geen prestatiegegevens op ad-niveau beschikbaar voor die typen campagnes in het dialoogvenster [!UICONTROL Ads] of in de [!UICONTROL Ad Variation Report]. Verwacht discrepanties tussen de totale ad-level gegevens voor een campagne en de totale gegevens voor de campagne.
 +++
 
-+++In de [!UICONTROL Transaction Report], hoe weet ik welke transactieeigenschap afkomstig is van een gegevenstoevoer of wordt bijgehouden door de pixel voor het bijhouden van advertenties van Adobe?
-In een transactierapport kunt u zien of een opgenomen transactieeigenschap is bijgehouden door de Adobe-pixel Advertising tracking als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; Het bijhouden van URL&#39;s met de pixel voor het bijhouden van Adobe-advertenties begint met &quot;`http://pixel.everesttech.net`.&quot;
++++In de [!UICONTROL Transaction Report], hoe weet ik welke transactie-eigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de Adobe Advertising trackingpixel?
+In een transactierapport, kunt u vertellen of een inbegrepen transactiebezit door de Adobe Advertising volgende pixel werd gevolgd als u de douanekolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met &quot;`http://pixel.everesttech.net`.&quot;
 +++
 
 +++De gegevens in mijn [!UICONTROL Transaction Report] komt niet overeen met de gegevens in mijn [!UICONTROL Keyword Report].
