@@ -1,7 +1,7 @@
 ---
 title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: c2a6e14fe97d46185094dd4df3e75db35a505925
 workflow-type: tm+mt
 source-wordcount: '1925'
 ht-degree: 0%
@@ -66,7 +66,7 @@ ht-degree: 0%
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] alleen; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) Het percentage van de afbeeldingsindrukkingen dat wordt weergegeven als de eerste advertentie boven de organische zoekresultaten. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] alleen; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) Het percentage van uw advertentie-impressies dat boven de organische zoekresultaten wordt weergegeven. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
-| [!UICONTROL Keyword] | Het trefwoord.<br><br><b>Opmerking:</i> Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat deze kolom de toepasselijke ad groepsnaam zoals &quot;(de inhoud van de adgroup) Uw Naam van de Adgroup.&quot; Voor een site-gerichte plaatsing in een onderzoekscampagne, heeft deze kolom geen waarde. |
+| [!UICONTROL Keyword] | Het trefwoord.<br><br><b>Opmerking:</b> Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat deze kolom de toepasselijke ad groepsnaam zoals &quot;(de inhoud van de adgroup) Uw Naam van de Adgroup.&quot; Voor een site-gerichte plaatsing in een onderzoekscampagne, heeft deze kolom geen waarde. |
 | [!UICONTROL Keyword ID] | De numerieke id die Zoeken, Sociale &amp; Handel wijst aan het trefwoord toe. |
 | [!UICONTROL Keyword Status] | De status van het trefwoord waaraan de zoekterm is gekoppeld: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, [!UICONTROL Deleted]*, of[!UICONTROL Disapproved]*. |
 | [!UICONTROL Language] | ([!UICONTROL Campaign Daily Impression Share Report]) De doeltaal. |
@@ -119,4 +119,3 @@ ht-degree: 0%
 >* [Speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
 >* [Een speciaal rapport genereren](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
 >* [Instellingen voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
-
