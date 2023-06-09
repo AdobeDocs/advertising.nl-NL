@@ -1,10 +1,10 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Microsoft Advertising] rekeningen.
-source-git-commit: f7ac5c69f96582d7f9a442a05c333baecc2215df
+source-git-commit: 964ee8431d9f1d03b0c9eec8906ab5a0b7940222
 workflow-type: tm+mt
-source-wordcount: '5147'
-ht-degree: 0%
+source-wordcount: '7615'
+ht-degree: 1%
 
 ---
 
@@ -110,96 +110,317 @@ Om te creëren en bij te werken [!DNL Microsoft Advertising] Campagne gegevens i
 
 <table style="table-layout:auto">
 
-<!-- EDIT ALL -- Copied from Google page -->
+[^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
-<!-- 
+## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel
 
-## Fields required to create, edit, or delete each account component
+### Campagnevelden
 
-### Campaign fields
+| Veld | Vereist? |
+| ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. |
+| Campagnebudget | Vereist om een campagne te maken. | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
+| Kanaaltype | Vereist om een campagne te maken. |
+| Leveringsmethode | Optioneel |
+| Campagneprioriteit | Vereist om een winkelcampagne te maken. |
+| Merchant ID | Vereist om een winkelcampagne te maken. |
+| Verkoopland | Vereist om een winkelcampagne te maken. |
+| Filter Productbereik | (Winkelcampagnes) Optioneel |
+| DSA-domeinnaam | Vereist voor het maken van een campagne van het type a) &quot;DynamicSearchAds&quot; of b) &quot;Search&quot; wanneer het element ExperimentId niet is ingesteld) |
+| DSA-domeintaal | Vereist voor het maken van een campagne van het type a) &quot;DynamicSearchAds&quot; of b) &quot;Search&quot; wanneer het element ExperimentId niet is ingesteld) |
+| Sjabloon voor bijhouden | Optioneel |
+| Achtervoegsel bestemmingspagina | <p>Optioneel |
+| Begrotingstype | Vereist om een campagne te maken. |
+| Apparaat | Optioneel |
+| Bodaanpassing | Optioneel |
+| Campagnestatus | Alleen vereist om een campagne te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-Campaign Name
-Campaign Budget
-Campaign Status
-Delivery Method
-Device OS Targets (Google Adwords)
-Device Targets
-Languages
-Mobile Carriers (Google Adwords)
-Networks
-Tracking Template
-Channel Type
-Campaign Priority
-Merchant ID
-Sales Country
-Product Scope Filter
-Audience Target Method
-DSA Domain Name
-DSA Domain Language
-Landing Page Suffix
-Label Classification
+### Groepsvelden toevoegen
 
-### Ad group fields
+| Veld | Vereist? |
+| ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Type advertentiegroep | Vereist om een advertentiegroep te maken. |
+| Doelmethode publiek | Alleen vereist om publiek en groepen te maken. |
+| Begindatum van groep toevoegen | Optioneel |
+| Einddatum van groep toevoegen | Optioneel |
+| Sjabloon voor bijhouden | Optioneel |
+| Netwerkstatus zoeken | (Alleen campagnes op het zoeknetwerk) Optioneel |
+| Talen | Optioneel |
+| Apparaat | Optioneel |
+| Bodaanpassing | Optioneel |
+| Status van advertentiegroep | Alleen vereist om een advertentiegroep te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Groep-id toevoegen | Alleen vereist wanneer u de naam van de advertentiegroep wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de advertentiegroep bevat. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-Campaign Name
-Ad Group Name
-Ad Group Type
-Networks
-Ad Group Status
-Max CPC
-Max Content CPC
-Tracking Template
-Audience Target Method
-Label Classification
+### Trefwoordvelden
 
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Trefwoord | Vereist |
+| Type afstemmen | Een waarde voor of het gelijke type of sleutelwoordidentiteitskaart wordt vereist om een sleutelwoord met veelvoudige gelijke types uit te geven of te schrappen. |
+| Max CPC | Optioneel |
+| Basis-URL/Definitieve URL | Optioneel |
+| Aangepast URL-parameters | Optioneel |
+| Sjabloon voor bijhouden | Optioneel |
+| Param1 | Optioneel |
+| Param2 | Optioneel |
+| Trefwoordstatus | Alleen vereist om een trefwoord te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| Trefwoord-id | Vereist slechts wanneer u het sleutelwoord uitgeeft of schrapt, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) een &quot;identiteitskaart van AMO.&quot; |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-## Keyword fields
+### Dynamisch zoeken en velden
 
-Campaign Name
-Ad Group Name
-Keyword Status
-Max CPC
-Tracking Template
-URLs (Base URL/Final URL, Destination URL)
-Exemption Request (Google Adwords)
-First Page Bid
-Keyword
-Match Type
-Param1
-Param2
-Quality Score
-Custom URL Param
-Label Classification
+>[!NOTE]
+>
+>Ondersteuning voor maken is niet beschikbaar.
 
+Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
-### Text/Product ad fields
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Beschrijving regel 1-2 | Vereist om de beschrijving te bewerken. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie. |
+| Pad 1 weergeven | Vereist om het veld te bewerken. |
+| Pad 2 weergeven | Vereist om het veld te bewerken. |
+| Creatief type | Vereist om de status van een productadvertentie te maken of te bewerken. |
+| Creatieve voorkeursapparaten | Optioneel |
+| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-Uses "Creative (except RSA)" row in Download Bulksheet dialog
+### Product (winkelen) en velden
 
-### Dynamic search ad fields
+Raadpleeg voor meer informatie over het maken van winkeladvertenties &quot;[Microsoft-reclamecampagnes implementeren](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/microsoft-shopping-campaigns.html).&quot;
 
-Note: Create support not available
+Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
-### Multimedia/Responsive ad fields
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Aanbiedingslijn | Optioneel |
+| Basis-URL/Definitieve URL | Optioneel |
+| Aangepast URL-parameters | Optioneel |
+| Creatief type | Vereist om de status van een productadvertentie te maken of te bewerken. |
+| Sjabloon voor bijhouden | Optioneel |
+| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-### Responsive search ad fields
+### Responsief (multimedia) en velden
 
-Uses "Responsive Search Ad" row in Download Bulksheet dialog
+Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
-### Dynamic search target (auto target) fields
-Note: Create support not available
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Advertentitel, advertentietak 2-15 | Voor responsieve advertenties zijn Advertentitel, Titel 2 en Titel 3 van Advertentie vereist om advertenties te maken. Alle andere velden voor de advertentie zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie. |
+| Beschrijving regel 1-4 | Beschrijvingsregel 1 en Beschrijving regel 2 zijn vereist om advertenties te maken en regel 3 en beschrijving 4 zijn optioneel. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie. |
+| Bedrijfsnaam | Vereist om een advertentie te maken of te verwijderen. |
+| Oproep tot actie | Vereist om een advertentie te maken. |
+| Oproep tot actie | Vereist om een advertentie te maken. |
+| Basis-URL/Definitieve URL | Vereist om een advertentie te maken. |
+| Creatief type | Optioneel. |
+| Sjabloon voor bijhouden | Optioneel |
+| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-### Shopping product group fields
+### Responsieve zoekopdrachten en velden
 
-### Campaign-level sitelink fields
+Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
-### Location Target fields
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist | |
+| Advertentitel, advertentietak 2-15 | Voor responsieve zoekadvertenties zijn Advertentitel, Advertentitel 2 en Advertentitel 3 vereist om een advertentie te maken, en alle andere advertentievelden zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| Titel 1-15 Positie toevoegen | Optioneel |
+| Beschrijving regel 1-4 | Voor responsieve zoekadvertenties zijn Beschrijving regel 1 en Beschrijving regel 2 vereist om een advertentie te maken, en Beschrijving regel 3 en Beschrijving regel 4 zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| Beschrijving regel 1-4 positie | Optioneel |
+| Pad 1 weergeven | Optioneel |
+| Pad 2 weergeven | Optioneel |
+| Basis-URL/Definitieve URL | Vereist om een advertentie te maken. |
+| Aangepast URL-parameters | Optioneel |
+| Creatief type | Optioneel |
+| Sjabloon voor bijhouden | Optioneel |
+| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| ID advertentie | Vereist om advertenties te bewerken of te verwijderen, tenzij de rij een &quot;AMO-id&quot; bevat. |
+| AMO-id | Je moet advertenties bewerken of verwijderen, tenzij je de advertentie-id opneemt. |
 
-### Device Target fields
+### Tekst en velden
 
-### RLSA Target
+Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
--->
+>[!NOTE]
+>
+>Uitgebreide tekstadvertenties zijn afgekeurd. U kunt alleen bestaande tekstadvertenties verwijderen.
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Advertentietitel, en titel 2-3 | Alleen-lezen |
+| Beschrijving regel 1-2 | Alleen-lezen |
+| URL weergeven | Alleen-lezen |
+| Pad 1 weergeven | Alleen-lezen |
+| Pad 2 weergeven | Alleen-lezen |
+| Basis-URL/Definitieve URL | Alleen-lezen |
+| Aangepast URL-parameters | Alleen-lezen |
+| Creatief type | Optioneel |
+| Sjabloon voor bijhouden | Alleen-lezen |
+| Creatieve voorkeursapparaten | Alleen-lezen |
+| Advertentiestatus | Vereist |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| ID advertentie | Alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij een &quot;AMO-id&quot; bevat. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de advertentie-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### Dynamische doelvelden (automatisch doel) voor zoeken
+
+>[!NOTE]
+>
+>Ondersteuning voor maken is niet beschikbaar.
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Automatische doelexpressie | Vereist. |
+| Type afstemmen | Optioneel |
+| Max CPC | Optioneel |
+| Aangepast URL-parameters | Optioneel |
+| Doelstatus | Vereist om een doel te verwijderen |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| Doel-id | Deze optie is alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### Velden voor productgroepen kopen
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist |
+| Type afstemmen | Vereist om een productgroep te maken. |
+| Max CPC | Vereist om een productgroep te maken. |
+| Bovenliggende productgroepen | Vereist |
+| Productgroepering | Vereist |
+| Type partitie | Vereist om een productgroep te maken. |
+| Basis-URL/Definitieve URL | Vereist |
+| Sjabloon voor bijhouden | Optioneel |
+| Status van productgroep | Alleen vereist om een productgroep te verwijderen. |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel |
+| Productgroep-id | Dit is alleen vereist wanneer u de productgroep wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de productgroep te identificeren of b) een &quot;AMO-id&quot;. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### Sitemeelinktvelden op campagnereniveau
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Beschrijving regel 1 | Optioneel |
+| Beschrijving regel 2 | Optioneel |
+| Begindatum | Optioneel |
+| Einddatum | Optioneel |
+| Basis-URL/Definitieve URL | Vereist |
+| Aangepast URL-parameters | Optioneel |
+| Sjabloon voor bijhouden | Optioneel |
+| Creatieve voorkeursapparaten | Optioneel |
+| Koppelingsnaam | Vereist |
+| Sitelink-status | Alleen vereist om een sitelink te verwijderen. |
+| Campagne-id | Optioneel |
+| Sitelink-id | Deze optie is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) een &quot;AMO-id&quot;. Als u echter noch Sitelink-id, noch AMO-id opneemt en de eigenschappenkolommen overeenkomen met meerdere sitelinks, verandert de status voor slechts een van de sitelinks.<br><br><b>Opmerking:</b> Als u sitelink-eigenschapkolommen behalve Status voor een bestaande sitelink bewerkt en u niet de Sitelink-id of AMO-id opneemt, wordt een nieuwe sitelink gemaakt en wordt de bestaande sitelink niet gewijzigd. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### Locatiedoelvelden
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Locatie | Vereist |
+| Locatietype | Vereist om een doel te maken |
+| Bodaanpassing | Optioneel |
+| Locatiestatus | Alleen vereist om een locatiedoel te verwijderen. |
+| Campagne-id | Optioneel |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de campagne-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Apparaat | Vereist om een apparaatdoel te verwijderen. |
+| Bodaanpassing | Optioneel |
+| Naam advertentiegroep | Vereist voor apparaatdoelen op ad-groepsniveau. Niet van toepassing op apparaatdoelen op campagneniveau. |
+| Doelstatus van apparaat | Alleen vereist om een apparaatdoel te verwijderen. |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel; alleen van toepassing op ad-group-apparaatdoelen. |
+| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+
+### De doelgebieden van RLSA van het campagne-niveau en van het ad groep
+
+| Veld | Vereist? | Beschrijving |
+| ---- | ---- | ---- |
+| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| Campagnenaam | Vereist |
+| Naam advertentiegroep | Vereist voor doelen op groepsniveau. Niet van toepassing op streefcijfers op campagneniveau. |
+| Publiek | Vereist om een nieuw doel te creëren. |
+| Doeltype | Optioneel |
+| Bodaanpassing | Optioneel |
+| RLSA-doelstatus | Vereist om een doel te schrappen. |
+| Campagne-id | Optioneel |
+| Groep-id toevoegen | Optioneel; alleen van toepassing op streefcijfers op ad-groepsniveau. |
+| RLSA doel-id | Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
+| AMO-id | Vereist om de gegevens uit te geven of te schrappen tenzij u identiteitskaart van het Doel RLSA omvat.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 >[!MORELIKETHIS]
 >
@@ -209,4 +430,3 @@ Note: Create support not available
 >* [Een bulkbladbestand downloaden/maken](../bulksheet-download.md)
 >* [Opmaak voor het bijhouden van klikken voor [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
 >* [Een bulksbladbestand of gecorrigeerd foutbestand uploaden](../bulksheet-upload.md)
-

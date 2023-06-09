@@ -1,9 +1,9 @@
 ---
 title: Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek
 description: Leer hoe u creeert [!DNL Google Ads] klanten komen hetzelfde publiek aan als uw bestaande Adobe Analytics- en Audience Manager-publiek.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 7089f7fe75b551953026ac6cca4ac7aafa06ba7b
 workflow-type: tm+mt
-source-wordcount: '589'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]accounts die alleen in aanmerking komen voor overeenkomst met klanten*
 
-*Adverteerders met alleen de integratie Adobe Advertising-Adobe Audience Manager of Adobe Advertising-Adobe Analytics*
+*Adverteerders die alleen Adobe Advertising-Adobe Audience Manager of Adobe Advertising-Adobe Analytics-integratie hebben*
 
 Geopende adverteerders kunnen [!DNL Google Ads] klant stemt publiek overeen gebruikend gebruiker - identiteitskaart van a) [!DNL Analytics] segmenten die worden gedeeld met Adobe Experience Cloud en b) de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben, met inbegrip van [!DNL Analytics] segmenten die worden gepubliceerd naar Adobe Experience Cloud en segmenten die worden gemaakt met de Adobe Experience Cloud Audience Library. Met Zoeken, Sociaal en Handel wordt automatisch een [!DNL Google] URL bijhouden naar elke URL [!DNL Analytics] of Audience Manager, zodat [!DNL Google] kan het publiek volgen.
 
@@ -32,7 +32,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
    1. (Als u een publiek wilt maken met een vervolgkeuzelijst voor gebruikers-id&#39;s) Een [!DNL Adobe] de beheerder gebruiker of de rekeningsmanager moet de adverteerder-vlakke plaatsen selecteren om klant gelijke publiek toe te laten. De instellingen verschillen tussen adverteerders met Audience Manager en adverteerders met [!DNL Analytics] alleen.
 
-   1. Implementeer de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=en) versie 2.0 of hoger.
+   1. Implementeer de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) versie 2.0 of hoger.
 
    1. Gebruik de volgende tag zo hoog mogelijk op de webpagina&#39;s van de adverteerder waaruit het publiek moet worden bijgehouden
 
@@ -80,11 +80,9 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 >
 >* Zie [[!DNL Google Ads] documentatie over de werking en de beperkingen van klantenovereenkomsten](https://support.google.com/displayvideo/answer/9539301).
 
-
 >[!MORELIKETHIS]
 >
 >* [Informatie over publiek](audience-about.md)
 >* [Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen](google-audience-from-campaign-email-list.md)
 >* [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](audience-from-customer-data-list.md)
 >* [Dynamisch publiek voor opnieuw op de markt brengen beheren](audience-dynamic-remarketing-manage.md)
-

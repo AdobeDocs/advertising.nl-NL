@@ -1,9 +1,9 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
-source-git-commit: 6c1e9bffd072979975a933fceb1c6e1253399373
+source-git-commit: a1201866bab44b260c6e1e68ba215162504e618f
 workflow-type: tm+mt
-source-wordcount: '8631'
+source-wordcount: '8662'
 ht-degree: 1%
 
 ---
@@ -114,6 +114,8 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 <table style="table-layout:auto">
 
+[^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
+
 ## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel
 
 ### Campagnevelden
@@ -122,24 +124,24 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 | ---- | ---- |
 | Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
 | Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. |
-| Campagnebudget | Vereist: Maken<br><br>>Optioneel: Bewerken of verwijderen | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
-| Leveringsmethode | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
-| Kanaaltype | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
-| Netwerken | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
-| DSA-domeinnaam | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
-| DSA-domeintaal | Vereist: Maken<br><br>Optioneel: Bewerken of verwijderen |
-| Campagneprioriteit | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
-| Merchant ID | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
-| Verkoopland | Vereist/optioneel: Maken<br><br>Optioneel / n.v.t.: Bewerken of verwijderen |
-| Filter Productbereik | Optioneel |
+| Campagnebudget | Vereist om een campagne te maken. | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
+| Leveringsmethode | Vereist om een campagne te maken. |
+| Kanaaltype | Vereist om een campagne te maken. |
+| Netwerken | Vereist om een campagne te maken. |
+| DSA-domeinnaam | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
+| DSA-domeintaal | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
+| Campagneprioriteit | Vereist om een winkelcampagne te maken. |
+| Merchant ID | Vereist om een winkelcampagne te maken. |
+| Verkoopland | Vereist om een winkelcampagne te maken. |
+| Filter Productbereik | (Winkelcampagnes) Optioneel |
 | Talen | Optioneel |
 | Apparaatdoelen | Optioneel |
 | Apparaatbesturingssysteemdoelen (Google Adwords) | Optioneel |
 | Mobiele dragers (Google Adwords) | Optioneel |
 | Doelmethode publiek | n.v.t. |
-| Achtervoegsel bestemmingspagina | <p>Optioneel |
+| Achtervoegsel bestemmingspagina | Optioneel |
 | Sjabloon voor bijhouden | Optioneel |
-| Campagnestatus | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| Campagnestatus | Alleen vereist om een campagne te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
 | Restricties | Optioneel |
 | Campagne-id | Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. |
@@ -154,12 +156,12 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 | Netwerken | n.v.t. |
 | Aangepast biedingsniveau GDN | Optioneel |
 | Naam advertentiegroep | Vereist |
-| Type advertentiegroep | Vereist |
+| Type advertentiegroep | Vereist om een advertentiegroep te maken. |
 | Max CPC | Optioneel |
 | Max. inhoud CPC | Optioneel |
 | Doelmethode publiek | Vereist |
 | Sjabloon voor bijhouden | Optioneel |
-| Status van advertentiegroep | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| Status van advertentiegroep | Alleen vereist om een advertentiegroep te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
 | Restricties | Optioneel |
 | Groep-id toevoegen | Alleen vereist wanneer u de naam van de advertentiegroep wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de advertentiegroep bevat. |
@@ -174,13 +176,13 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 | Naam advertentiegroep | Vereist |
 | Max CPC | Optioneel |
 | Trefwoord | Vereist |
-| Type afstemmen | Optioneel: Maken<br><br>Vereist/optioneel: Bewerken of verwijderen |
+| Type afstemmen | Een waarde voor of het gelijke type of sleutelwoordidentiteitskaart wordt vereist om een sleutelwoord met veelvoudige gelijke types uit te geven of te schrappen. |
 | Sjabloon voor bijhouden | Optioneel |
 | Basis-URL/Definitieve URL | Optioneel |
 | Aangepast URL-parameters | Optioneel |
 | Param1 | Optioneel |
 | Param2 | Optioneel |
-| Trefwoordstatus | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| Trefwoordstatus | Alleen vereist om een trefwoord te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
 | Restricties | Optioneel |
 | Campagne-id | Optioneel |
@@ -212,7 +214,7 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 ### Uitgebreide dynamische zoekopdracht
 
-Dit advertentietype wordt nu &#39;&#39;dynamic search ad&#39;&#39; genoemd in [!DNL Google Ads]. Ga voor meer informatie over het maken van dynamische zoekadvertenties naar &quot;[Implementeren [!DNL Google Ads] dynamische zoekadvertenties](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-dynamic-search-ads.html?lang=en).&quot;
+Dit advertentietype wordt nu &#39;&#39;dynamic search ad&#39;&#39; genoemd in [!DNL Google Ads]. Ga voor meer informatie over het maken van dynamische zoekadvertenties naar &quot;[Implementeren [!DNL Google Ads] dynamische zoekadvertenties](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-dynamic-search-ads.html).&quot;
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
@@ -235,7 +237,7 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 ### Aanbiedings-/winkeladvertentievelden
 
-Raadpleeg voor meer informatie over het maken van winkeladvertenties &quot;[Google Ads-winkelcampagnes implementeren](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-shopping-campaigns.html?lang=en).&quot;
+Raadpleeg voor meer informatie over het maken van winkeladvertenties &quot;[Google Ads-winkelcampagnes implementeren](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-campaign-types/google-shopping-campaigns.html).&quot;
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
@@ -266,9 +268,9 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot
 | Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
 | Campagnenaam | Vereist |
 | Naam advertentiegroep | Vereist | |
-| Advertentitel, advertentietak 2-15 | Voor responsieve zoekadvertenties zijn Advertentitel, Advertentitel 2 en Advertentitel 3 vereist, en alle andere velden van de advertentitel zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| Advertentitel, advertentietak 2-15 | Voor responsieve zoekadvertenties zijn Advertentitel, Advertentitel 2 en Advertentitel 3 vereist om een advertentie te maken, en alle andere advertentievelden zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
 | Titel 1-15 Positie toevoegen | Optioneel |
-| Beschrijving regel 1-4 | Voor responsieve zoekopdrachten zijn beschrijvingsregel 1 en beschrijvingsregel 2 vereist en regel 3 en beschrijving 4 zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| Beschrijving regel 1-4 | Voor responsieve zoekadvertenties zijn Beschrijving regel 1 en Beschrijving regel 2 vereist om een advertentie te maken, en Beschrijving regel 3 en Beschrijving regel 4 zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
 | Beschrijving regel 1-4 positie | Optioneel |
 | Pad 1 weergeven | Optioneel |
 | Pad 2 weergeven | Optioneel |
@@ -324,6 +326,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | Automatische doelexpressie | Vereist als de instelling voor de campagne &quot;Mijn website-inhoud gebruiken om mijn advertenties te activeren&quot; niet is ingeschakeld. anders facultatief. |
 | Type afstemmen | Optioneel |
 | Doelstatus | Vereist om een doel te verwijderen |
+| \[Advertiserspecifieke labelclassificatie\] | Optioneel |
+| Restricties | Optioneel |
 | Campagne-id | Optioneel |
 | Groep-id toevoegen | Optioneel |
 | Doel-id | Deze optie is alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
@@ -376,14 +380,14 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | ---- | ---- | ---- |
 | Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
 | Campagnenaam | Vereist |
-| Locatie | Vereist voor het maken of bewerken van een locatiedoel. |
+| Locatie | Vereist |
 | Locatietype | Optioneel |
 | Bodaanpassing | Optioneel |
 | Locatiestatus | Alleen vereist om een locatiedoel te verwijderen. |
 | Campagne-id | Optioneel |
 | AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de campagne-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-## Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
+### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -398,7 +402,7 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | Apparaatdoel-id | Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
 | AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-## Campagne- en ad-group-niveau RLSA-doel-/uitsluitingsvelden
+### Campagne- en ad-group-niveau RLSA-doel-/uitsluitingsvelden
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -413,8 +417,6 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | Groep-id toevoegen | Optioneel; alleen van toepassing op streefcijfers en uitsluitingen op ad-groepsniveau. |
 | RLSA doel-id | Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
 | AMO-id | Vereist om de gegevens uit te geven of te schrappen tenzij u identiteitskaart van het Doel RLSA omvat.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
-
-[^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
 >[!MORELIKETHIS]
 >

@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor advertenties van Adobe in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP en [!DNL Search, Social, & Commerce] advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: 7089f7fe75b551953026ac6cca4ac7aafa06ba7b
 workflow-type: tm+mt
-source-wordcount: '1642'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op betaalmedia en on-site messaging. Door signalen tussen de producten te delen, kunt u:
+Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om een persoonlijke en verbonden ervaring te bieden op alle betaalmedia en onsite berichten. Door signalen tussen de producten te delen, kunt u:
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 
@@ -85,11 +85,12 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
    1. Ga naar **Audience Manager** > **Poortgegevens** > **Signalen** en selecteert u vervolgens de **Zoeken** in de linkerbovenhoek.
 
-   1. Voer de **Sleutel** en **Waarde** voor het signaal dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd. Een [ondersteunde toets](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=en) met een waarde die overeenkomt met een macro die u hebt toegevoegd aan de Audience Manager-imitatiepixel.
+   1. Voer de **Sleutel** en **Waarde** voor het signaal dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd. Een [ondersteunde toets](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) met een waarde die overeenkomt met een macro die u hebt toegevoegd aan de Audience Manager-imitatiepixel.
 
       Als u bijvoorbeeld gebruikers voor een bepaalde plaatsing wilt groeperen, gebruikt u de opdracht `d_placement` toets. Voor de waarde gebruikt u een numerieke plaatsing-id (zoals 2501853 in het hierboven opgenomen scherm) die door de DSP macro wordt vastgelegd `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
 
       Als het veld Totaal aantal gebruikers tellen voor het sleutelwaardepaar, wat aangeeft dat de pixel correct is geplaatst en dat de gegevens stromen, kunt u doorgaan naar de volgende stap.
+
    ![Zoeken in signalen](/help/integrations/assets/target-am-signals.png)
 
 1. [Een op regels gebaseerd kenmerk maken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) voor het maken van segmenten in Audience Manager.
@@ -109,6 +110,7 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
    1. Geef het segment een naam, selecteer `Ad Cloud` als de **Gegevensbron** en sla het segment op.
 
       De Audience Manager splitst automatisch het segment in een controlegroep die de standaard het landen paginaervaring en een testgroep ontvangt die een gepersonaliseerde onplaatservaring ontvingen.
+
    ![Screenshot van een testsegment](/help/integrations/assets/target-am-segment.png)
 
 ## Stap 3: Een &quot;A/B Test&quot;-activiteit instellen in Doel
@@ -164,6 +166,7 @@ In de volgende instructies wordt informatie over het DSP-gebruik gemarkeerd. Voo
    * Ervaring A: Bewerk de gegevens niet omdat dit de standaardeigenschap voor de bestemmingspagina zonder personalisatie is.
 
    * Ervaring B: Gebruik de [!DNL Target] gebruikersinterface om de landingspagina-sjabloon aan te passen op basis van de elementen die in de test zijn opgenomen (zoals kopregels, kopiëren, knopplaatsing en creatieve elementen).
+
    >[!NOTE]
    >
    >Neem bijvoorbeeld contact op met uw Adobe-accountteam voor creatieve testdoeleinden.
@@ -182,7 +185,7 @@ In Analysis Workspace configureert u de [!DNL Analytics for Target panel] om uw 
 
 #### Metrisch
 
-* Maak een deelvenster in de werkruimte dat specifiek is voor de reclamecampagne, het reclamepakket of de plaatsing van de Adobe waarvoor de test is uitgevoerd. Gebruik beknopte visualisaties om Adobe Advertising-cijfers weer te geven in hetzelfde rapport als de resultaten van de doeltest.
+* Maak een deelvenster in de werkruimte dat specifiek is voor de Adobe Advertising-campagne, het -pakket of de -plaatsing waarvoor de test is uitgevoerd. De summiere visualisaties van het gebruik om Adobe Advertising metriek in het zelfde rapport te tonen zoals de de testprestaties van het Doel.
 
 * Prioriteit geven aan het gebruik van onsite metriek (zoals bezoeken en conversies) om de prestaties te meten.
 
@@ -204,11 +207,11 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 * Controleer of dezelfde SDID (Supplemental Data ID) wordt gebruikt voor zowel Doel als Analytics. U kunt de waarden van SDID verifiëren door [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) op de landingspagina waarop de campagne de gebruikers drijft.
 
-[Aanvullende waarden voor gegevens-id (SDID) in Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
+[Aanvullende waarden voor de gegevens-id (SDID) in de Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
-* Controleer op dezelfde landingspagina of a) de hostnaam die wordt weergegeven in de Adobe-foutopsporing onder Oplossingen > Doel overeenkomt met b) de trackingserver die wordt weergegeven in [!DNL Target] voor de activiteit (onder Doelstellingen en instellingen > Rapportinstellingen).
+* Controleer op dezelfde landingspagina of a) de hostnaam in de Adobe Debugger onder Oplossingen > Doel overeenkomt met b) de trackingserver die wordt weergegeven in [!DNL Target] voor de activiteit (onder Doelstellingen en instellingen > Rapportinstellingen).
 
-   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.<!-- just "to Analytics?"-->
+  [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.<!-- just "to Analytics?"-->
 
 [Hostnaamwaarde in Foutopsporing Adobe](/help/integrations/assets/target-troubleshooting-hostname.png)
 
