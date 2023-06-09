@@ -1,9 +1,9 @@
 ---
 title: De parameter s_kwcid tracking
-description: Meer informatie over de parameter tracking die wordt gebruikt voor het delen van advertentiegegevens van Adobe met Adobe Analytics.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+description: Meer informatie over de parameter tracking die wordt gebruikt om Adobe Advertising-gegevens te delen met Adobe Analytics.
+source-git-commit: a9e23de134274d8f5004a908853c4132300b84e8
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '400'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,15 @@ Adobe Advertising deelt gegevens over je campagnes met Adobe Analytics via `s_kw
 
 * (Aanbevolen)<!--; the only option for Advertising DSP-->) De functie s_kwcid aan de serverzijde is geïmplementeerd.
 
-   Voor [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] de pixelserver die voor de account of campagne is ingeschakeld, voegt de parameter s_kwcid automatisch toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie klikt <!-- click a search ad or views a display ad --> met de Adobe Advertising pixel.
+  Voor [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] de pixelserver die voor de account of campagne is ingeschakeld, voegt de parameter s_kwcid automatisch toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie klikt <!-- click a search ad or views a display ad --> met de Adobe Advertising pixel.
 
-   voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] Als u uitgeschakelde instellingen instelt, voegt u de parameter handmatig toe aan de toevoegingsparameters op accountniveau, die u vervolgens toevoegt aan de basis-URL&#39;s.
+  voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] Als u uitgeschakelde instellingen instelt, voegt u de parameter handmatig toe aan de toevoegingsparameters op accountniveau, die u vervolgens toevoegt aan de basis-URL&#39;s.
 
 * <!-- (Search, Social, & Commerce only) -->De server-kant s_kwcid eigenschap wordt niet uitgevoerd, en u moet de s_kwcid parameter aan uw manueel toevoegen ([!DNL Google Ads] en [!DNL Microsoft Advertising]) het landen pagina achtervoegsels of (andere ad netwerken) rekening-vlakke toevoegingsparameters.
 
 Om de server-kant s_kwcid eigenschap uit te voeren, of de beste optie voor uw zaken te bepalen, spreek met uw Team van de Rekening van Adobe.
 
-## `s_kwcid` opmaak voor advertenties DSP advertenties
+## s_kwcid-indeling voor advertenties DSP advertenties
 
 `s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
@@ -38,7 +38,7 @@ waarbij:
 
 * `{TM_PLACEMENT_ID}` is de alfanumerieke plaatsingssleutel.
 
-## `s_kwcid` indelingen voor advertenties voor zoeken, sociale zaken en handel
+## s_kwcid-indelingen voor advertenties voor zoeken, sociale media en handel
 
 De parameters variëren per advertentienetwerk, maar de volgende parameters zijn gemeenschappelijk voor allen:
 
@@ -58,18 +58,17 @@ Hieronder vallen ook boodschappencampagnes die [!DNL Google Merchant Center].
 
 * Rekeningen die het recentste s_kwcid formaat gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties maximumcampagnes en concepten en experimentatiecampagnes steunt:
 
-   `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
 * Alle overige rekeningen:
 
-   `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 >[!NOTE]
 >
->* Voor dynamische zoekopdrachten wordt {keyword} gevuld met het automatische doel.
+>* Voor dynamische zoekopdrachten {keyword} wordt gevuld met het automatische doel.
 >* Wanneer u tekstspatiëring genereert voor [!DNL Google] winkeladvertenties, een product-id-parameter, `{adwords_producttargetid}`, wordt ingevoegd vóór de trefwoordparameter. De parameter product-id wordt niet weergegeven in het dialoogvenster [!DNL Google Ads] parameters voor het bijhouden op accountniveau en op campagnereniveau.
 >* Ga naar &quot;[De s_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md).&quot;
-
 
 <!--
 
@@ -91,15 +90,15 @@ where:
 
 * Zoekcampagnes:
 
-   `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
 
 * Winkelcampagnes (gebruiken [!DNL Microsoft Merchant Center]):
 
-   `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
 
 * Campagnes van het netwerk van het publiek:
 
-   `s_kwcid=AL!{userid}!{sid}!{AdId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}`
 
 ### [!DNL Yahoo! Japan Ads]
 
@@ -111,11 +110,10 @@ where:
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
+>* [Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
 >* [Netwerkaccounts beheren](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
 >* [Instellingen voor Baidu-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [Instellingen voor Google Ads-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
 >* [Instellingen voor Microsoft-advertentiecampagnes](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
 >* [Yahoo! Campagne voor Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
 >* [Instellingen voor Yandex-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
-

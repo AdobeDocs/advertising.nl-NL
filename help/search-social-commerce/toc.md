@@ -9,9 +9,9 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: ba0604f0c8f07cad70aa1af66fe24db3ec8e541d
+source-git-commit: 71ffe30ca09a2be0def70fc230a4bfa7616c7bfa
 workflow-type: tm+mt
-source-wordcount: '1721'
+source-wordcount: '1722'
 ht-degree: 0%
 
 ---
@@ -27,10 +27,10 @@ ht-degree: 0%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html)
-      + [Integratie met Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html)
-   + [Ondersteuning voor de privacy van consumenten (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
-   + [Beleid en richtsnoeren (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html)
+      + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
+      + [Integratie met Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
+   + [Ondersteuning voor de privacy van consumenten (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [Beleid en richtsnoeren (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -85,11 +85,11 @@ ht-degree: 0%
             + [Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
             + [Opmaak voor het bijhouden van klikken voor [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [Adobe Reclamecookies](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html)
+      + [Cookies Adoben Advertising (koppeling)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
       + [De parameter s_kwcid tracking](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
-      + Adobe Reclame converteren bijhouden {#advertising-conversion-tracking}
+      + Adobe Advertising conversie bijhouden {#advertising-conversion-tracking}
          + [Informatie over conversietags voor Adobe-advertenties](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
          + [Indeling van JavaScript-tags voor conversie bijhouden versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)

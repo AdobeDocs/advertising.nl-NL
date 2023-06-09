@@ -1,9 +1,9 @@
 ---
 title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
-source-git-commit: b1913c396e911f7595ab6cb42c5ea960b2cc789b
+source-git-commit: 7327c91b92b6471fa8da8767fc764de4226b4f91
 workflow-type: tm+mt
-source-wordcount: '3640'
+source-wordcount: '3653'
 ht-degree: 0%
 
 ---
@@ -92,7 +92,7 @@ ht-degree: 0%
 | [!UICONTROL Domain] | ([!UICONTROL Domain Referral Report], [!UICONTROL Keyword Report]) De domeinnaam waarvan kliks zijn gestart. |
 | [!UICONTROL eCPM] | De effectieve CPM, of de gemiddelde betaalde kosten per 1000 beelden tijdens een gespecificeerde datumwaaier. eCPM-waarden worden berekend voor CPM- of CPC-campagnes. |
 | [!UICONTROL EF Campaign ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan de campagne. |
-| [!UICONTROL EF ID] | ([!UICONTROL Transaction Report]) (Adverteerders met de service Adobe Advertising Tracking en de &quot;[!UICONTROL EF Redirect]De &quot; volgende methode met een teken) het teken voor de klik of de omzetting.<ul><li>Voor [!DNL Google Ads] zoekadvertenties, de EF-id is `{gclid}:G:s`, die de Google Click ID (GCLID) en het netwerktype (&quot;s&quot;voor onderzoek) omvat.</li><li> Voor [!DNL Microsoft Advertising] zoekadvertenties, de EF-id is `{msclkid}:G:s`, die de Microsoft Click ID (MSCLKID) en het netwerktype (&quot;s&quot;voor onderzoek) omvat.</li><li>Voor zoekadvertenties op andere advertentienetwerken bevat de EF-id de surfer-id, de kliktijd en het netwerktype.</li><li>Voor weergaveadvertenties bevat de EF-id de surfer-id, de klik- of impressietijd en het netwerktype.</li></ul> |
+| [!UICONTROL EF ID] | ([!UICONTROL Transaction Report]) (Adverteerders met de service Adobe Advertising converteren en de functie &quot;[!UICONTROL EF Redirect]De &quot; volgende methode met een teken) het teken voor de klik of de omzetting.<ul><li>Voor [!DNL Google Ads] zoekadvertenties, de EF-id is `{gclid}:G:s`, die de Google Click ID (GCLID) en het netwerktype (&quot;s&quot;voor onderzoek) omvat.</li><li> Voor [!DNL Microsoft Advertising] zoekadvertenties, de EF-id is `{msclkid}:G:s`, die de Microsoft Click ID (MSCLKID) en het netwerktype (&quot;s&quot;voor onderzoek) omvat.</li><li>Voor zoekadvertenties op andere advertentienetwerken bevat de EF-id de surfer-id, de kliktijd en het netwerktype.</li><li>Voor weergaveadvertenties bevat de EF-id de surfer-id, de klik- of impressietijd en het netwerktype.</li></ul> |
 | [!UICONTROL EF Pixel Location ID] | ([!UICONTROL Geo Distribution Report]; (alleen voor gebruik bij Zoeken, Sociaal en Handel) Een interne id voor geografische locatie, die wordt gebruikt om gegevens te normaliseren. |
 | [!UICONTROL EF Portfolio Group ID] | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL EF Search Engine ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk:  <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd), of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (afgekeurd). |
@@ -110,7 +110,7 @@ ht-degree: 0%
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Interaction Rate] | (Videoadvertenties) Het aantal interacties gedeeld door het aantal keren dat de advertentie (video- en miniatuurafbeeldingen) werd weergegeven. |
 | [!UICONTROL Interactions] | (Videoadvertenties) Het aantal keren dat mensen uw advertentie hebben bekeken. |
-| [!UICONTROL Is_Click_Objectives] | ([!UICONTROL Portfolio Report]) <!-- ?????? insert definition --> |
+| [!UICONTROL Is_Click_Objectives] | ([!UICONTROL Portfolio Report]) <i>true</i> wanneer het portfolio campagnes bevat met de [!UICONTROL Maximize Clicks] biedstrategie, en <i>false</i> anders. |
 | [!UICONTROL Keyword] | Het trefwoord.<br><br><b>Opmerking:</b> Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat deze kolom de toepasselijke ad groepsnaam zoals &quot;(de inhoud van de adgroup) Uw Naam van de Adgroup.&quot; Voor een site-gerichte plaatsing in een onderzoekscampagne, heeft deze kolom geen waarde. |
 | [!UICONTROL Keyword ID] | De numerieke id die Zoeken, Sociale &amp; Handel wijst aan het trefwoord toe. |
 | [!UICONTROL Keyword Status] | De status van het trefwoord waaraan de zoekterm is gekoppeld: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Deleted]</i>, of <i>[!UICONTROL Disapproved]</i>. |
@@ -192,4 +192,3 @@ ht-degree: 0%
 >* [Basisrapporten en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
 >* [Een basis- of geavanceerd rapport genereren](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
-

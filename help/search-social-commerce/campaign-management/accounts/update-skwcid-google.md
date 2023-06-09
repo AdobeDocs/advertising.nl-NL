@@ -1,7 +1,7 @@
 ---
 title: "De s\_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account"
 description: Leer hoe u overschakelt naar de nieuwste s\_kwcid-trackingcode voor een [!DNL Google Ads] account.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a9e23de134274d8f5004a908853c4132300b84e8
 workflow-type: tm+mt
 source-wordcount: '466'
 ht-degree: 0%
@@ -58,5 +58,4 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe notatie s
 >
 >* [Netwerkaccounts beheren](ad-network-account-manage.md)
 >* [De parameter s_kwcid tracking](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
->* [Overzicht van [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
-
+>* [Overzicht van [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}

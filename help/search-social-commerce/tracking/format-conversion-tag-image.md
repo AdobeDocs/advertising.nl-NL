@@ -1,7 +1,7 @@
 ---
 title: Opmaak van trackingtags voor afbeeldingsconversie
 description: Verwijs naar de indeling van de volgende tags voor afbeeldingsomzetting.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: b230c593d93dfa868b8f075939fc9940ea74fa13
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 0%
@@ -16,15 +16,11 @@ ht-degree: 0%
 
 * Niet-beveiligde tags voor sites met HTTP:
 
-   ```
-   <img src="http://pixel.everesttech.net/px2/<ef-userid>?px_evt=s&s=<segmentid>&px_evt=t&ev_propertyname=<propertyname>&ev_transid=<transid>" width="1" height="1"/>
-   ```
+  `<img src="http://pixel.everesttech.net/px2/<ef-userid>?px_evt=s&s=<segmentid>&px_evt=t&ev_propertyname=<propertyname>&ev_transid=<transid>" width="1" height="1"/>`
 
 * Beveiligde tags voor sites met HTTPS:
 
-   ```
-   <img src="https://pixel.everesttech.net/px2/<ef-userid>?px_evt=s&s=<segmentid>&px_evt=t&ev_propertyname=<propertyname>&ev_transid=<transid>" width="1" height="1"/>
-   ```
+  `<img src="https://pixel.everesttech.net/px2/<ef-userid>?px_evt=s&s=<segmentid>&px_evt=t&ev_propertyname=<propertyname>&ev_transid=<transid>" width="1" height="1"/>`
 
 waarbij:
 
@@ -34,7 +30,7 @@ waarbij:
 
 * `<transid>` is een unieke transactie-id (zoals een werkelijke bestelling-id) die de adverteerder genereert en doorgeeft om een transactie te identificeren. Het is alleen opgenomen als &quot;[!UICONTROL Include unique transaction IDs]&quot; is geselecteerd.
 
-   Zoek, Sociaal en Handel gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id is opgenomen in de [!UICONTROL Transaction Report], die u kunt gebruiken om gegevens te valideren in advertenties van Adobe met de gegevens van de adverteerder. **Opmerking:** Als de gegevens van de adverteerder geen unieke id per transactie bevatten, genereert Search, Social en Commerce nog steeds een id op basis van de transactietijd.
+  Zoek, Sociaal en Handel gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id is opgenomen in de [!UICONTROL Transaction Report], waarmee u gegevens kunt valideren in Adobe Advertising met de gegevens van de adverteerder. **Opmerking:** Als de gegevens van de adverteerder geen unieke id per transactie bevatten, genereert Search, Social en Commerce nog steeds een id op basis van de transactietijd.
 
 <!-- add more links -->
 
@@ -45,4 +41,3 @@ waarbij:
 >* [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
 >* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](format-conversion-tag-jsv2.md)
 >* [Indeling van JavaScript-tags voor conversie bijhouden versie 3](format-conversion-tag-jsv3.md)
-
