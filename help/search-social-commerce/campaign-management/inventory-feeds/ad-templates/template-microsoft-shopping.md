@@ -1,9 +1,9 @@
 ---
 title: "[!DNL Microsoft® Ads] winkelen en sjablooninstellingen voor voorraadfeeds"
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Ads] winkelen en sjablonen voor voorraadfeeds.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
 workflow-type: tm+mt
-source-wordcount: '507'
+source-wordcount: '499'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,6 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 >[!NOTE]
 >
 >* De volgende tekens zijn gereserveerd voor het aangeven van kolomnamen en wijzigingsnamen in de sjabloon en zijn daarom niet toegestaan als tekst in alle kenmerkvelden:  `[ ] < > `
-
 
 
 ## \[Boven alle tabbladen\]
@@ -171,9 +170,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 >[!MORELIKETHIS]
 >
 >* [Informatie over het automatiseren en beheren van voorraden](../inventory-feeds-about.md)
->* [Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds](../inventory-feeds-workflow.md)
 >* [Wijzigingstoetsen beheren](../modifiers-manage.md)
 >* [Invoerbestanden voor inventarisgegevens beheren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
 >* [Doorvoergegevens doorgeven via sjablonen](../feed-data-propagate.md)
 >* [Campagnegegevens van voorraadfeeds aan advertentienetwerken posten](../propagated-data-post.md)
-

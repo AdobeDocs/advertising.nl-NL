@@ -9,9 +9,9 @@ user-guide-description: In deze handleiding worden de belangrijkste functies, ta
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: false
 hide: true
-source-git-commit: 71ffe30ca09a2be0def70fc230a4bfa7616c7bfa
+source-git-commit: 72dd7a51e024057a1135fa0cc641b236254c28d8
 workflow-type: tm+mt
-source-wordcount: '1722'
+source-wordcount: '1714'
 ht-degree: 0%
 
 ---
@@ -222,7 +222,6 @@ ht-degree: 0%
             + [Vereiste gegevens voor het bulkwerkblad [!DNL Yandex] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
       + Campagnegegevens automatiseren met behulp van voorraadfeeds {#inventory-feeds}
          + [Informatie over het automatiseren en beheren van voorraden](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
-         + [Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-workflow.md)
          + [Wanneer worden accountcomponenten gemaakt of verwijderd door voorraadfeeds?](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md)
          + [Instellingen voor voedergegevens configureren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md)
          + [voederbestanden beheren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)

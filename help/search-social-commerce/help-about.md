@@ -1,9 +1,9 @@
 ---
 title: Over deze handleiding
 description: Leer wat in elk hoofdstuk van deze gids wordt behandeld.
-source-git-commit: 0b5a3e0e633e5d93ba048da7e4931f4bd777e1b0
+source-git-commit: b857bae4ea175c446072f5dacf82db3845993a45
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ De informatie over specifieke groepen taken en andere informatie is beschikbaar 
 
 * Het &quot;beheer van de Campagne&quot;verklaart hoe te opstelling en campagnecomponenten voor uw rekeningen van het advertentienetwerk te beheren.
 
-* Met &quot;Inzichten en rapporten&quot; wordt uitgelegd hoe u reclame-inzichten kunt genereren, gedetailleerde rapporten kunt genereren en de productie van rapporten kunt automatiseren, waarschuwingen kunt maken en controleren, een logboek met wijzigingen in het adverteerderaccount kunt weergeven en toepassen [!DNL Google Ads]-genereren aanbevelingen voor je accounts.
+* &quot;Inzichten en rapporten&quot;verklaart hoe te om reclame inzicht te produceren, gedetailleerde rapporten te produceren en rapportproductie te automatiseren, alarm tot stand te brengen en te controleren, een logboek van veranderingen te bekijken die aan de adverteerderrekening worden aangebracht, en advertentie netwerk-geproduceerde aanbevelingen voor uw rekeningen te bekijken en toe te passen.
 
 * &quot;Tools&quot; legt uit hoe u uw wachtwoord kunt wijzigen, gereedschappen kunt gebruiken om kliktracking- en conversietags te genereren en de conversiemetriek kunt uploaden naar [!DNL Google Ads] en uw portfoliodoelstellingen naar de advertentienetwerken voor hybride optimalisering, uploadmeetgegevens voor het volgen van campagnes, en repliceer uw [!DNL Google Ads] campagnes in uw [!DNL Microsoft Advertising] rekeningen.
 

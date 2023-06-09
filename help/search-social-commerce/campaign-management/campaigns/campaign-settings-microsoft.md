@@ -1,9 +1,9 @@
 ---
 title: "[!DNL Microsoft Advertising] campagne-instellingen"
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 0706f4dbc5f2a27e7d0cf43a6865d242865f9d36
 workflow-type: tm+mt
-source-wordcount: '915'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Search and Display Network]:* Hiermee geeft u alleen tekstadvertenties weer op het zoeknetwerk.
 
-* *[!UICONTROL Shopping Network]:* Geeft productadvertenties en mdashl voor uw producten in uw [!DNL Microsoft Merchant Center] productcatalogus — op het winkelnetwerk
+* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer — voor uw producten in uw [!DNL Microsoft Merchant Center] productcatalogus — op het winkelnetwerk
 
 * *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
 
@@ -64,13 +64,13 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 * *[!UICONTROL Target CPA]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen die op facultatief worden gebaseerd **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
 
-   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
+  Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
 * *[!UICONTROL Target Impression Share]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen om een doelimitatieaandeel en een advertentiepositie te bereiken. Voer desgewenst een **[!UICONTROL Target Impression Share]** als percentage, **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in hybride portfolio&#39;s.
 
 * *[!UICONTROL Target Return on Ad Spend]:*  (Campagnes op de zoek en het winkelen netwerken) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen op basis van uw **[!UICONTROL Target ROAS]** (Retourneren bij advertentie), opgegeven als een percentage. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
 
-   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
+  Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
 ## [!UICONTROL Shopping Settings]
 
@@ -180,4 +180,3 @@ Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advert
 >[!MORELIKETHIS]
 >
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-

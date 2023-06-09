@@ -1,9 +1,9 @@
 ---
 title: Effectieve tekst schrijven en kopiëren
 description: Meer informatie over de beste praktijken voor het schrijven van effectieve e-mails.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 6b93a29d121bd5a1cd887bf17023811e59fe85c3
 workflow-type: tm+mt
-source-wordcount: '578'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ ht-degree: 0%
 
 * Schrijf krachtige koppen om potentiële klanten aan te trekken.
 
-* Neem trefwoorden op in uw koptekst, want dat is waar de meeste mensen naar op zoek zijn. [^1]
+* Neem trefwoorden op in uw koptekst, want dat is waar de meeste mensen naar op zoek zijn. [*]
 
 * Maak een advertentie die is ontworpen voor het beoogde publiek.
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 * Als u een korting aanbiedt, neemt u het specifieke bedrag of percentage van de korting op (zoals &quot;20% korting&quot; of &quot;Bespaar $20 bij eerste aankoop).
 
-* Gebruik indien mogelijk het trefwoord zowel in de kop/titel als in beide regels van de beschrijving/hoofdtekst. [^1]
+* Gebruik indien mogelijk het trefwoord zowel in de kop/titel als in beide regels van de beschrijving/hoofdtekst. [*]
 
 * Neem altijd een oproep tot actie op in de tekst, zoals &quot;Weergave&quot;, &quot;Uitchecken&quot;, &quot;Volgorde&quot; of &quot;Aanmelden&quot; om de doorklikfrequentie te verhogen. Neem voor afbeeldingsadvertenties de aanroep naar actie op een knop die aan uw website is gekoppeld. voor advertenties met rijke media neemt u de oproep tot actie in een vroeg stadium op.
 
@@ -66,7 +66,7 @@ ht-degree: 0%
 
 * Onderzoek wat uw concurrenten doen. Bekijk de bovenste advertenties voor een spatie (op sites als www.spyfu.com) en probeer te begrijpen welke advertenties werken.
 
-[^1]: Als u sleutelwoordtoevoeging gebruikt, gebruik het correcte hoofdlettergebruik voor de toevoegingscode:
+[*]: Als u sleutelwoordtoevoeging gebruikt, gebruik het correcte hoofdlettergebruik voor de toevoegingscode:
 
 `{keyword:default}` = grasmaaiers
 
@@ -84,4 +84,3 @@ ht-degree: 0%
 >
 >* [Rapporten analyseren om uw trefwoorden en campagne-instellingen te verfijnen](best-practices-analyze.md)
 >* [De openingspagina&#39;s van de website optimaliseren](best-practices-optimize.md)
-

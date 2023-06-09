@@ -1,9 +1,9 @@
 ---
 title: Wanneer worden accountcomponenten gemaakt of verwijderd door voorraadfeeds?
 description: Leer welke situaties accountcomponenten maken en verwijderen wanneer u voorraadfeeds plaatst.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
 workflow-type: tm+mt
-source-wordcount: '855'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -30,12 +30,10 @@ Wanneer een dossier van de inventarisvoer door een malplaatje wordt verspreid, w
 | De nieuwe voedergegevens omvatten een rij voor een advertentiegroep, een advertentie, een sleutelwoord, of een productgroep die a) in vorige gegevens was maar b) sindsdien werd weggelaten en volgens volgens [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). | n.v.t. | De bestaande advertentiegroep, advertentie, trefwoord of productgroep wordt opnieuw geactiveerd, zonder dat er geschiedenis of kwaliteitsscore verloren gaat. |
 | De nieuwe voedergegevens omvatten een rij voor een advertentiegroep, een advertentie, een sleutelwoord, of een productgroep die a) in vorige gegevens was maar b) sindsdien werd weggelaten en volgens [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). | n.v.t. | Er wordt een nieuwe advertentiegroep, advertentie, trefwoord of productgroep gemaakt. |
 | U hebt de optie op campagne- of advertentieniveau uitgeschakeld naar &quot;[!UICONTROL Delete negative keywords when omitted from list].&quot; | De negatieve trefwoordenlijst bevat &quot;coupe&quot; en &quot;sport car&quot;.<br><br>De ad-groep bevat al het negatieve trefwoord &quot;SUV&quot;. | Eventuele negatieve trefwoorden die niet in de lijst staan, blijven ongewijzigd. |
-| U hebt de optie op campagne- of advertentieniveau ingeschakeld op &quot;[!UICONTROL Delete negative keywords when omitted from list],&quot; en negatieve trefwoorden die niet in de lijst staan, bestaan. | De negatieve trefwoordenlijst bevat &quot;coupe&quot; en &quot;sport car&quot;.<br><br>De ad-groep bevat al het negatieve trefwoord &quot;SUV&quot;. | Eventuele niet-opgegeven negatieve trefwoorden die eerder met de sjabloon zijn gemaakt, worden verwijderd wanneer een feed-bestand via de sjabloon wordt doorgegeven. Niet-opgegeven negatieve trefwoorden die op andere manieren zijn gemaakt (bijvoorbeeld in normale bulksbladen, [!UICONTROL Campaigns] weergaven (of in de advertentie-editor van het advertentienetwerk) blijven ongewijzigd. |  | De geplande einddatum voor de componenten van een gepost voederdossier komt voor. | n.v.t. | De bestaande campagnes blijven ongewijzigd. De bestaande advertentiegroepen, advertenties en trefwoorden blijven ongewijzigd, worden gepauzeerd of verwijderd volgens de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). |
+| U hebt de optie op campagne- of advertentieniveau ingeschakeld op &quot;[!UICONTROL Delete negative keywords when omitted from list],&quot; en negatieve trefwoorden die niet in de lijst staan, bestaan. | De negatieve trefwoordenlijst bevat &quot;coupe&quot; en &quot;sport car&quot;.<br><br>De ad-groep bevat al het negatieve trefwoord &quot;SUV&quot;. | Eventuele niet-opgegeven negatieve trefwoorden die eerder met de sjabloon zijn gemaakt, worden verwijderd wanneer een feed-bestand via de sjabloon wordt doorgegeven. Niet-opgegeven negatieve trefwoorden die op andere manieren zijn gemaakt (bijvoorbeeld in normale bulksbladen, [!UICONTROL Campaigns] weergaven (of in de advertentie-editor van het advertentienetwerk) blijven ongewijzigd. | | De geplande einddatum voor de componenten van een gepost voederdossier komt voor. | n.v.t. | De bestaande campagnes blijven ongewijzigd. De bestaande advertentiegroepen, advertenties en trefwoorden blijven ongewijzigd, worden gepauzeerd of verwijderd volgens de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). |
 | Het voorraadniveau van een artikel daalt tot onder het in de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). | Vorig bestand: stock=10<br><br>Nieuw bestand: stock=0 | De bestaande campagnes blijven ongewijzigd. De bestaande advertentiegroepen, advertenties, trefwoorden en productgroepen worden gepauzeerd of verwijderd volgens de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). |
 | Het voorraadniveau van een artikel ligt weer boven het in de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). | Vorig bestand: stock=0<br><br> Nieuw bestand: stock=10 | Wanneer de bestaande advertenties, trefwoorden of productgroepen zijn gepauzeerd, worden ze opnieuw geactiveerd, zonder dat er geschiedenis of kwaliteitsscore verloren gaat. Als er geen advertenties, trefwoorden of productgroepen bestaan (bijvoorbeeld als deze eerder zijn verwijderd omdat het voorraadniveau onder het minimum lag), worden er nieuwe gemaakt. |
 
 >[!MORELIKETHIS]
 >
 >* [Informatie over het automatiseren en beheren van voorraden](inventory-feeds-about.md)
->* [Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds](inventory-feeds-workflow.md)
-

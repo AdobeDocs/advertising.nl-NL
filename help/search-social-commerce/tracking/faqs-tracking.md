@@ -1,7 +1,7 @@
 ---
 title: Veelgestelde vragen over bijhouden
 description: Leer antwoorden op algemene vragen over het volgen, met inbegrip van het oplossen van problemenkwesties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: f5e2044af460ebf561e075ed6b1fb057ed47acc3
 workflow-type: tm+mt
 source-wordcount: '1191'
 ht-degree: 0%
@@ -19,7 +19,7 @@ Ja. Als Zoeken, Sociaal, &amp; Handel één van uw rekeningen van het advertenti
 
 +++Hoe krijg ik multievent-attributie?
 
-Voor adverteerders die tags voor Zoeken, Sociale &amp; Handel of Adobe Analytics-conversie gebruiken, biedt Adobe Advertising meerdere opties voor het toewijzen van conversiegegevens voor een reeks gebeurtenissen die tot conversie leiden. Met een instelling op advertentieniveau wordt bepaald hoe conversiegegevens over gebeurtenissen moeten worden verdeeld, zelfs wanneer deze via meerdere advertentiekanalen plaatsvinden, op voorwaarde dat de kanalen de indruk op gebeurtenisniveau kunnen bijhouden. Standaard worden conversies toegeschreven aan de laatste (meest recente) gebeurtenis, maar de instelling kan anders worden geconfigureerd, bijvoorbeeld om conversies aan de eerste gebeurtenis toe te schrijven of om alle gebeurtenissen gelijkmatig af te wegen. Als u de toewijzingsregel wijzigt, bepaalt dat hoe toekomstige biedingen worden berekend.
+Voor adverteerders die tags voor Zoeken, Sociale &amp; Handel of Adobe Analytics-conversie gebruiken, biedt Adobe Advertising meerdere opties voor het toewijzen van conversiegegevens over een reeks gebeurtenissen die tot conversie leiden. Met een instelling op advertentieniveau wordt bepaald hoe conversiegegevens over gebeurtenissen moeten worden verdeeld, zelfs wanneer deze via meerdere advertentiekanalen plaatsvinden, op voorwaarde dat de kanalen de indruk op gebeurtenisniveau kunnen bijhouden. Standaard worden conversies toegeschreven aan de laatste (meest recente) gebeurtenis, maar de instelling kan anders worden geconfigureerd, bijvoorbeeld om conversies aan de eerste gebeurtenis toe te schrijven of om alle gebeurtenissen gelijkmatig af te wegen. Als u de toewijzingsregel wijzigt, bepaalt dat hoe toekomstige biedingen worden berekend.
 
 Adverteerders die alle conversiegegevens in een voederbestand verstrekken, moeten de conversie aan de gerelateerde transactiegebeurtenissen zelf toeschrijven.
 
@@ -29,19 +29,19 @@ Adverteerders die alle conversiegegevens in een voederbestand verstrekken, moete
 
 +++
 
-+++Hoe identificeren Adobe-advertenties dubbele transacties?
++++Hoe identificeert de Adobe Advertising dubbele transacties?
 
 Er kunnen dubbele transacties plaatsvinden wanneer een gebruiker de bevestigingspagina vernieuwt nadat een transactie is voltooid. Voor reclame Adobe wordt gebruikgemaakt van de `ev_transid` attribuut om dubbele transacties met zelfde transactieID en bezitswaarde te elimineren.
 
-De deduplicatielogica van Adobe Advertising:
+Hieronder volgt de deduplicatielogica van de Adobe Advertising:
 
 * **Wanneer een client een waarde verzendt voor de `ev_transid` kenmerk:** Volgende pixelaanvragen worden beschouwd als duplicaten van de vorige als de volgende aanvragen hetzelfde zijn: de `ev_transid`; de volgende identiteitskaart voor het zelfde sleutelwoord, en, of plaatsing; en de waarde voor een specifieke transactieeigenschap.
 
-   Bijvoorbeeld, als de veelvoudige leningstoepassingen zelfde toepassings identiteitskaart en leningsbedrag voor het zelfde sleutelwoord op een specifiek advertentienetwerk hebben, dan worden zij beschouwd als duplicaten, en slechts wordt de eerste leningstoepassing geteld.
+  Bijvoorbeeld, als de veelvoudige leningstoepassingen zelfde toepassings identiteitskaart en leningsbedrag voor het zelfde sleutelwoord op een specifiek advertentienetwerk hebben, dan worden zij beschouwd als duplicaten, en slechts wordt de eerste leningstoepassing geteld.
 
 * **Wanneer een client geen waarde verzendt voor de `ev_transid` kenmerk:** Opeenvolgende transacties worden beschouwd als duplicaten van de vorige als ze een tracking-id delen voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing. en dezelfde waarde voor een specifieke transactieeigenschap.
 
-   Als bijvoorbeeld meerdere leningaanvragen dezelfde trefwoordid en hetzelfde bedrag voor de lening hebben, worden ze als duplicaten beschouwd en wordt alleen de eerste leningaanvraag geteld.
+  Als bijvoorbeeld meerdere leningaanvragen dezelfde trefwoordid en hetzelfde bedrag voor de lening hebben, worden ze als duplicaten beschouwd en wordt alleen de eerste leningaanvraag geteld.
 +++
 
 ## Typen implementatie bijhouden
@@ -55,7 +55,7 @@ Wijzig in de account of campagne de methode voor bijhouden in &quot;[!UICONTROL 
 
 ## Gegevensvragen
 
-+++Hoe weet ik welke transactieeigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de tag voor het bijhouden van advertenties van Adobe?
++++Hoe weet ik welke transactieeigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de trackingtag voor conversie van Adobe Advertising?
 
 In een [!UICONTROL Transaction Report], kunt u zien of een ingesloten transactieeigenschap is bijgehouden door de Adobe-pixel voor conversie van advertenties als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de Adobe-pixel voor reclame bijhouden begint met `http://pixel.everesttech.net`.
 +++
@@ -68,7 +68,7 @@ Wanneer een Adobe Account Team vermoedt dat verweesde transacties de oorzaak zij
 
 In de volgende situaties doen zich orfanen voor.
 
-## Pixelimplementaties
+**Pixelimplementaties**
 
 Orphan-transacties komen bijna nooit voor bij pixelimplementaties. Er zijn echter pixelwezen opgetreden wanneer:
 
@@ -76,7 +76,7 @@ Orphan-transacties komen bijna nooit voor bij pixelimplementaties. Er zijn echte
 
 * De kliklogboeken worden niet verwerkt vóór de omzettingslogboeken.
 
-## Implementaties van diervoeders
+**Implementaties van diervoeders**
 
 * De id voor bijhouden die in de feed is verzonden, is afkomstig van een account waarvan u niet op de hoogte bent van Zoeken, Sociale media en Handel.
 
@@ -88,11 +88,11 @@ Orphan-transacties komen bijna nooit voor bij pixelimplementaties. Er zijn echte
 
 * In het configuratiebestand is de reguliere expressie die wordt gebruikt om de volgende-id uit de URL&#39;s te extraheren, onjuist of verouderd. Soms wijzigt de adverteerder de tracking-id in de URL of past hij een geheel nieuw tracingsysteem toe. Hiervoor moet het implementatieteam Zoeken, Sociale Zaken en Handel de reguliere expressie bijwerken. In dergelijke gevallen is een groot deel van de inkomsten weeshuis.
 
-## Implementaties doorvoeren met een transactie-id
+**Implementaties doorvoeren met een transactie-id**
 
 Er zijn geen online transacties beschikbaar vóór de datums waarvoor gegevens beschikbaar zijn in de offlinefeed.
 
-## Implementaties van feed met een token (ef_id)
+**Implementaties van feed met een token (ef_id)**
 
 Zoek, Sociaal, &amp; Handel kan geen overeenkomstige klik op zijn server of op het advertentienetwerk vinden. Dit kan zijn omdat de klikgegevens niet beschikbaar voor de de klikdatum van de omzetting of (zelden) zijn omdat de kliklogboeken niet vóór de omzettingslogboeken werden verwerkt. Wanneer de Onderzoek, Sociale, &amp; Handel de klikgegevens van het advertentienetwerk ontvangt of de kliklogboeken worden verwerkt, worden de gegevens in kaart gebracht aan de omzetting.
 +++

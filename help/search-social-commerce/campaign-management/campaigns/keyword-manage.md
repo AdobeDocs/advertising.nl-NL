@@ -1,7 +1,7 @@
 ---
 title: Biedeerbare trefwoorden beheren
 description: Leer hoe u trefwoorden voor zoekopdrachten en groepen maakt en beheert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 77069de8ff3367a3ffa6f84583b4a69f37aab88b
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%
@@ -22,8 +22,7 @@ U kunt trefwoorden voor zoekopdrachten en groepen maken en bewerken in [onderste
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Keywords] >[!UICONTROL Keywords]**.
 
-1. 
-   1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
+1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik vervolgens op **[!UICONTROL Continue]**.
 
@@ -77,4 +76,3 @@ Het bestaande trefwoord wordt verwijderd en er wordt een ander trefwoord gemaakt
 >* [[!DNL Yandex] trefwoordinstellingen](keyword-settings-yandex.md)
 >* [Negatieve trefwoorden maken](/help/search-social-commerce/campaign-management/campaigns/keyword-negative-create.md)
 >* [De status van trefwoorden en negatieve trefwoorden wijzigen](keyword-status-edit.md)
-

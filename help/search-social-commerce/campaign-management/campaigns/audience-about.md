@@ -1,9 +1,9 @@
 ---
 title: Informatie over publiek
 description: Meer informatie over opties voor bijhouden, maken en beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] publiek.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: 0b77c54ee9214021c841b4c1cca0b3439ea71f6f
 workflow-type: tm+mt
-source-wordcount: '536'
+source-wordcount: '534'
 ht-degree: 0%
 
 ---
@@ -21,9 +21,10 @@ U kunt publiek tot stand brengen en leiden gebruikend segmenten of e-maillijsten
    * (Adverteerders met [!DNL Analytics] accounts die geen Audience Manager hebben) U kunt [!DNL Google Ads] klant stemt publiek overeen met gebruiker-id&#39;s van [!DNL Analytics] segmenten die met Adobe Experience Cloud worden gedeeld.
 
    * (Adverteerders met een Audience Manager-account) U kunt [!DNL Google Ads] klanten passen publiek aan gebruikend gebruikers IDs van de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben. Dit kunnen Adobe Analytics-segmenten omvatten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die zijn gemaakt met de Audience Library van Adobe Experience Cloud.
-   Als u een publiek wilt maken dat aansluit bij de overeenkomst, [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250). Ook, moet de adverteerderrekening in Onderzoek, Sociale, &amp; Handel worden gevormd om de verwezenlijking van klantengelijkenissen toe te staan.<!-- For Analytics audiences: Analytics Only Integration. For Audience Manager, Enable CM/CRM option) -->
 
-   [!DNL Adobe] gesegmenteerde gegevens en koekjessynchronisatiedossiers voor klant op gegevens-gebaseerd publiek worden gesynchroniseerd aan [!DNL Google Ads] dagelijks.
+  Als u een publiek wilt maken dat aansluit bij de overeenkomst, [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250). Ook, moet de adverteerderrekening in Onderzoek, Sociale, &amp; Handel worden gevormd om de verwezenlijking van klantengelijkenissen toe te staan.<!-- For Analytics audiences: Analytics Only Integration. For Audience Manager, Enable CM/CRM option) -->
+
+  [!DNL Adobe] gesegmenteerde gegevens en koekjessynchronisatiedossiers voor klant op gegevens-gebaseerd publiek worden gesynchroniseerd aan [!DNL Google Ads] dagelijks.
 
 * **Adobe Campaign-e-maillijsten:** Uw Adobe-accountteam kan u helpen een workflow in te stellen voor het maken en bijwerken van een [!DNL Google Ads] klant stemt publiek van een e-maillijst binnen [!DNL Campaign].
 
@@ -31,9 +32,9 @@ U kunt publiek tot stand brengen en leiden gebruikend segmenten of e-maillijsten
 
 * **Dynamische remarketing lijsten:** Adverteerders met [!DNL Microsoft® Advertising] accounts kunnen een dynamisch publiek voor opnieuw op de markt brengen maken en beheren, dat u kunt gebruiken om potentiële klanten die onlangs op meerdere manieren met uw producten hebben gewerkt (zoals productviewers of kopers uit het verleden) te richten. Voor dynamisch publiek voor opnieuw marketing moet u de JavaScript-conversie- en publiekstraceringstag van het advertentienetwerk op uw webpagina&#39;s gebruiken. Gebruik dynamische lijsten voor het opnieuw op de markt brengen met winkelcampagnes op de zoek- en publieksnetwerken om doelgroepen te richten op productadvertenties en met zoekcampagnes om doelgroepen te richten op tekstadvertenties en dynamische zoekadvertenties. <!--[For [!DNL Google Ads], these are technically included in a customer data-based audience, so word this all carefully when we add support for them.]-->
 
-   >[!NOTE]
-   >
-   >Bodmodifiers voor dynamische remarketing publieksdoelen worden niet geoptimaliseerd in portfolio&#39;s met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
+  >[!NOTE]
+  >
+  >Bodmodifiers voor dynamische remarketing publieksdoelen worden niet geoptimaliseerd in portfolio&#39;s met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
 
 >[!NOTE]
 >
@@ -41,11 +42,9 @@ U kunt publiek tot stand brengen en leiden gebruikend segmenten of e-maillijsten
 
 >[!MORELIKETHIS]
 >
->* [Informatie over publiek](audience-about.md)
 >* [Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek](google-audience-from-adobe-audience.md)
 >* [Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen](google-audience-from-campaign-email-list.md)
 >* [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](audience-from-customer-data-list.md)
 >* [Dynamisch publiek voor opnieuw op de markt brengen beheren](audience-dynamic-remarketing-manage.md)
 >* [Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen](audience-targets-manage.md)
 >* [De uitsluiting van het publiek voor campagnes en ad-groepen beheren](audience-exclusions-manage.md)
-

@@ -1,9 +1,9 @@
 ---
 title: Tekst en responsieve zoek- en sjablooninstellingen voor voorraadfeeds
 description: Verwijs naar de montages voor tekst en ontvankelijke onderzoek en malplaatjes voor inventarisvoer.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
 workflow-type: tm+mt
-source-wordcount: '3337'
+source-wordcount: '3329'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,6 @@ ht-degree: 0%
 >
 >* De volgende tekens zijn gereserveerd voor het aangeven van kolomnamen en wijzigingsnamen in de sjabloon en zijn daarom niet toegestaan als tekst in alle kenmerkvelden:  `[ ] < > `
 >* In [!DNL Yandex templates]kunt u de dynamische parameters gebruiken `{param1}` en `{param2}` alleen in URL&#39;s, en u kunt geen dynamische prijstoevoeging in beschrijvingen van advertenties gebruiken.
-
 
 ## \[Boven alle tabbladen\]
 
@@ -107,7 +106,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 * *[!UICONTROL Search]:* Biedt voor gesponsorde zoekopdrachten.
 
-   ([!DNL Google Ads] campagnes) Biedingen opnemen in aanbiedingen voor [!DNL Google Ads] zoekpartners, schakel het selectievakje in naast **[!UICONTROL Search partners]**.
+  ([!DNL Google Ads] campagnes) Biedingen opnemen in aanbiedingen voor [!DNL Google Ads] zoekpartners, schakel het selectievakje in naast **[!UICONTROL Search partners]**.
 
 * *[!UICONTROL Content]:* Biedt voor plaatsingen op (weergave)netwerklijsten met inhoud. **Opmerking:** U kunt geen plaatsingen tot stand brengen gebruikend het malplaatje. Wanneer u deze optie selecteert, maakt u plaatsingen voor elke advertentiegroep en geeft u op welke pagina&#39;s in het weergavenetwerk u als doel voor elke advertentiegroep instelt met behulp van <!-- insert link --> bolletjes of de <!-- insert links --> en groep- en plaatsingsinstellingen in het dialoogvenster [!UICONTROL Search] > [!UICONTROL Campaigns] weergaven.
 
@@ -135,11 +134,11 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 **[!UICONTROL Ad Group Tracking Template]:** (Alleen accounts met definitieve/geavanceerde URL&#39;s) De sjabloon voor reeksspatiëring op advertentieniveau, die alle parameters voor het omleiden en volgen van domeinen opgeeft en de laatste URL in een parameter insluit.
 
-Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF omleiden&#39; en &#39;Automatisch uploaden&#39; bevatten, voegt Search, Social &amp; Commerce automatisch code voor omleiding en tekstspatiëring toe wanneer u de record opslaat.
+Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF omleiden&#39; en &#39;Automatisch uploaden&#39; bevatten, wordt bij het opslaan van de record automatisch code voor omleiding en tekstspatiëring toegevoegd.
 
 Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de landingspagina aangeven:
 
-* Voor Yahoo! Japan Ads-accounts gebruiken de parameter {lpurl} .
+* Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
 * Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
@@ -171,7 +170,7 @@ Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische paramet
 
    * Voor statische trefwoorden: Brede overeenkomst = `keyword`, Brede overeenkomende modifier = `+keyword`, of Phrase Match = `"keyword"`
 
-      U kunt hier geen statische trefwoorden invoeren die exact overeenkomen met de standaard overeenkomende syntaxis omdat ze tussen haakjes staan (`[]`), zoals dynamische parameters.
+     U kunt hier geen statische trefwoorden invoeren die exact overeenkomen met de standaard overeenkomende syntaxis omdat ze tussen haakjes staan (`[]`), zoals dynamische parameters.
 
 * Voor [!DNL Yandex] sjablonen:
 
@@ -186,7 +185,6 @@ Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische paramet
 * Negatieve overeenkomsten worden niet ondersteund.
 * Google-trefwoorden voor brede overeenkomsten hebben nu hetzelfde gedrag als woordcombinaties die overeenkomen voor bepaalde talen en u kunt geen nieuwe trefwoorden voor uitgebreide overeenkomsten maken. Zie de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/10286719) voor meer informatie .
 
-
 **[!UICONTROL Map Only]:** Hiermee voegt u nieuwe advertenties toe aan advertentiegroepen (of aan campagnes voor [!DNL Yandex] accounts) waarin de opgegeven trefwoorden worden gevonden, in plaats van nieuwe trefwoorden te maken. Schakel het selectievakje in om deze optie in te schakelen. Wanneer deze optie wordt toegelaten, zijn om het even welk Param 1 en Paragraaf 2 variabelen in de gespecificeerde sleutelwoorden niet van toepassing omdat de sleutelwoorden bestaan.
 
 **[!UICONTROL Keyword Final URL]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De URL van de bestemmingspagina waarnaar netwerkgebruikers worden geleid wanneer zij op uw advertentie klikken. De URL moet hetzelfde domein bevatten als de URL van de weergave en alle parameters in de uiteindelijke URL moeten overeenkomen met de parameters in de URL van de bestemmingspagina na de advertentie. Het kan omleidingen binnen het landende paginadomein of subdomain bevatten maar geen omleidingen buiten het landende paginadomein.
@@ -194,9 +192,9 @@ Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische paramet
 Als u een [!DNL Google Merchant Center] Geef deze waarde op in het veld &quot;[!DNL Link]&quot;, en voeg dan die kolom op dit gebied in.
 
 >[!NOTE]
+>
 * Als u het volgen URLs produceert wanneer u gegevens die door het malplaatje worden verspreid post, worden het volgen parameters toegevoegd aan deze waarde die op de rekening het volgen montages wordt gebaseerd.
 * ([!DNL Google Ads] accounts) Vermijd het gebruik van macro&#39;s, die niet worden vervangen door klikken van bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het accountteam van Adobe samenwerken met de klantenondersteuning of het implementatieteam om deze toe te voegen.
-
 
 **[!UICONTROL Keyword Tracking Template]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon tracking, die alle parameters voor het omleiden en volgen van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter insluit. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
 
@@ -318,7 +316,7 @@ Voor responsieve zoekadvertenties voegt u een advertentieklanker in met de volge
 
 [!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] hebben het maken en bewerken van standaardtekstadvertenties vervangen.
 
-**[!UICONTROL Base URL]:** (Accounts with destination URLs only) The page to which users are take. Het kan herrichtings- en volgcode van derden bevatten. Als u de service Adobe Advertising Conversion tracking gebruikt en de instellingen voor de campagne het gebruik van de optie [!UICONTROL EF Redirect] en het toevoegen van het volgen op het advertentieniveau, dan voegt het Onderzoek, Sociale, &amp; Handel automatisch zijn eigen redirection en het volgen code aan de advertentie toe.
+**[!UICONTROL Base URL]:** (Accounts with destination URLs only) The page to which users are take. Het kan herrichtings- en volgcode van derden bevatten. Als u de service voor het bijhouden van Adoben Advertising voor conversie gebruikt en de instellingen voor de campagne het gebruik van de opdracht [!UICONTROL EF Redirect] en het toevoegen van het volgen op het advertentieniveau, dan voegt het Onderzoek, Sociale, &amp; Handel automatisch zijn eigen redirection en het volgen code aan de advertentie toe.
 
 Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische parameter, klikt u in het invoerveld en vervolgens op een kolomnaam in de kolomlijst of een [wijzigingnaam](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de [!UICONTROL Modifiers] lijst.
 
@@ -327,9 +325,9 @@ Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische paramet
 Als u een [!DNL Google Merchant] De feed centreren en deze waarde opnemen in het veld &quot;[!UICONTROL Link]&quot;, en voeg dan die kolom op dit gebied in.
 
 >[!NOTE]
+>
 * Als u het volgen URLs produceert wanneer u gegevens die door het malplaatje worden verspreid post, dan worden het volgen parameters toegevoegd aan deze waarde die op de rekening het volgen montages wordt gebaseerd.
 * ([!DNL Google Ads] accounts ) Gebruik geen macro&#39;s, die niet worden vervangen door klikken op bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe Account Team met de Klantenondersteuning of het implementatieteam samenwerken om deze toe te voegen.
-
 
 **[!UICONTROL Tracking Template]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon tracking, die alle parameters voor het omleiden en volgen van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter insluit. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
 
@@ -337,17 +335,17 @@ Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wannee
 
 Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de landingspagina aangeven:
 
-* Voor Yahoo! Japan Ads-accounts gebruiken de parameter {lpurl} .
+* Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
 * Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternatieve advertentievelden onder de oorspronkelijke advertentievelden\]:** (Optioneel) Een alternatieve set advertentiekopieën voor een advertentie, die kan worden gebruikt als een van de regels in het origineel en de kopie de maximaal toegestane lengte overschrijdt zodra dynamische parameters zijn ingevuld met gegevens tijdens de propagatie.
 
 >[!NOTE]
+>
 * Als de [!UICONTROL Prefill] is geselecteerd, worden de alternatieve velden vooraf ingevuld met de oorspronkelijke velden en kunt u deze naar wens bewerken.
 * Alleen de velden voor het kopiëren van de advertentie die de maximale lengte overschrijden, worden vervangen door de alternatieve waarde. Als bijvoorbeeld alleen een oorspronkelijke kop of titel te lang is, gebruiken de gegenereerde en de variatie de alternatieve kop of titel en de oorspronkelijke beschrijvingen. Zorg er daarom voor dat de alternatieve advertentie-kopie zinvol is wanneer deze wordt gecombineerd met het origineel en de kopie.
 * Als het origineel en de kopie voldoen aan de lengtevereisten van het zoekprogramma, wordt de alternatieve advertentiekopie verwijderd.
-
 
 **\[Component\] [!UICONTROL Ad Label Classifications] > \[Classificatie en waarde van label\]:** (Optioneel) Waarden voor maximaal vijf bestaande labelclassificaties die worden toegewezen aan de advertentievariaties die worden gemaakt of bewerkt met de sjabloon. Voor elk campagnecomponent waaraan u etiketclassificaties wilt toewijzen:
 
@@ -384,10 +382,9 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 {{$include /help/_includes/inventory-feed-template-label-classifications.md}}
 
 >[!MORELIKETHIS]
+>
 * [Informatie over het automatiseren en beheren van voorraden](../inventory-feeds-about.md)
-* [Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds](../inventory-feeds-workflow.md)
 * [Wijzigingstoetsen beheren](../modifiers-manage.md)
 * [Invoerbestanden voor inventarisgegevens beheren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
 * [Doorvoergegevens doorgeven via sjablonen](../feed-data-propagate.md)
 * [Campagnegegevens van voorraadfeeds aan advertentienetwerken posten](../propagated-data-post.md)
-

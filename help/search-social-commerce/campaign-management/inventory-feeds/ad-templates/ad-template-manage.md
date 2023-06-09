@@ -1,9 +1,9 @@
 ---
 title: Advertentiesjablonen beheren voor voorraadfeeds
 description: Meer informatie over het beheren van advertentiesjablonen waarmee je voorraadgegevens kunnen worden verwerkt om de accountstructuur te beheren en dynamische advertenties te leveren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
 workflow-type: tm+mt
-source-wordcount: '1423'
+source-wordcount: '1415'
 ht-degree: 0%
 
 ---
@@ -37,8 +37,8 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
       1. Schakel het selectievakje in naast de sjabloon die u wilt kopiëren.
 
       1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Create/Clone]** en selecteer vervolgens het toepasselijke advertentienetwerk.
-   * (Als u een bestaande sjabloon wilt bewerken) Klik naast de sjabloonnaam op ![Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Instellingen weergeven/bewerken").
 
+   * (Als u een bestaande sjabloon wilt bewerken) Klik naast de sjabloonnaam op ![Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Instellingen weergeven/bewerken").
 
 1. Geef de instellingen op voor de [tekst en sjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] winkeladvertentiesjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft® Advertising] winkeladvertentiesjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
 
@@ -66,7 +66,6 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
       >* Elke advertentiegroep kan maximaal drie ingeschakelde responsieve zoekadvertenties bevatten.
       >* U kunt bestaande standaardtekst en -variaties niet bewerken en bestaande sjablonen genereren niet langer standaardtekstadvertenties.
       >* Als u een advertentiesjabloon wijzigt, kunnen bestaande advertenties worden verwijderd en kunnen nieuwe advertenties worden gemaakt wanneer u gegevens via de sjabloon verspreidt, [afhankelijk van het advertentietype en het advertentienetwerk](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md).
-
 
       * Ga als volgt te werk om een advertentievariatie toe te voegen:
 
@@ -107,6 +106,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
                >* U kunt maximaal vier alternatieven opgeven voor elk veld voor een advertentie-kopie.
 
          * Als u een advertentievariatie wilt verwijderen, klikt u op **[!UICONTROL Remove ETA Variation]** (voor uitgebreide/uitgebreide tekstadvertenties) of **[!UICONTROL Remove RSA Variation]** (voor responsieve zoekopdrachten) naast de advertentie, al naar gelang het geval.
+
    1. (Alleen winkelsjablonen) Klik op de knop **[!UICONTROL Product Groups]** en geeft u vervolgens informatie op over de productgroepen waarvoor u wilt kiezen.
 
    1. (Optioneel) Klik op de knop **[!UICONTROL Feed Filters]** en geeft u vervolgens op welke rijen in het feed-bestand moeten worden doorgegeven.
@@ -120,10 +120,6 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
          1. Klik op **[!UICONTROL Add Label Classification]**.
 
          1. Selecteer de labelclassificatie en selecteer vervolgens een bestaande waarde of voer een nieuwe waarde in.
-
-
-
-
 
 1. Sla de sjabloon op:
 
@@ -158,9 +154,7 @@ U kunt elke gepauzeerde sjabloon voor gegevensinvoer activeren of een actieve sj
 >[!MORELIKETHIS]
 >
 >* [Informatie over het automatiseren en beheren van voorraden](../inventory-feeds-about.md)
->* [Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds](../inventory-feeds-workflow.md)
 >* [Tekst en responsieve zoek- en sjablooninstellingen](template-text-rsa.md)
 >* [[!DNL Google Ads] winkelen en sjablooninstellingen](template-google-shopping.md)
 >* [[!DNL Microsoft® Advertising] winkelen en sjablooninstellingen](template-microsoft-shopping.md)
 >* [Doorvoergegevens doorgeven via sjablonen](../feed-data-propagate.md)
-

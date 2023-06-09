@@ -1,9 +1,9 @@
 ---
 title: Advertenties beheren
 description: Meer informatie over advertenties in Zoeken, Sociale Zaken en Handel, inclusief de beschikbare advertentietypen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: eaf08dedb14bdf0c0be087e48c79bbf21b0990aa
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '895'
 ht-degree: 0%
 
 ---
@@ -30,19 +30,19 @@ U kunt ondersteunde advertentietypen voor advertentiegroepen maken en beheren in
 
 * **Uitgebreide dynamische zoekopdrachten** (heet nu alleen &quot;dynamische zoekadvertenties&quot; op advertentienetwerken) voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] dynamische zoekacties en groepen in zoekcampagnes. Dynamische zoekadvertenties gebruiken inhoud van uw website in plaats van trefwoorden om te bepalen wanneer u uw advertenties wilt weergeven. Het advertentienetwerk genereert dynamisch de kop, kiest de bestemmingspagina-URL en de weergave-URL en genereert automatisch de laatste URL.
 
-   U kunt de pagina&#39;s in uw websites definiëren waarvan de inhoud wordt gebruikt om uw dynamische zoekopdrachten te activeren door specifieke dynamische zoekdoelen voor de advertentiegroep in te stellen. Voor [!DNL Google Ads]kunt u dynamische zoekdoelen maken in Zoeken, Sociale Zaken en Handel; for [!DNL Microsoft® Advertising], moet u deze maken binnen [!DNL Microsoft® Advertising]. In [!DNL Google Ads] campagnes, kunt u naar keuze een websitedomein en een taal in de campagne specificeren &quot;[!DNL DSA Options]&quot; in plaats van of als aanvulling op het maken van dynamische zoekdoelen.
+  U kunt de pagina&#39;s in uw websites definiëren waarvan de inhoud wordt gebruikt om uw dynamische zoekopdrachten te activeren door specifieke dynamische zoekdoelen voor de advertentiegroep in te stellen. Voor [!DNL Google Ads]kunt u dynamische zoekdoelen maken in Zoeken, Sociale Zaken en Handel; for [!DNL Microsoft® Advertising], moet u deze maken binnen [!DNL Microsoft® Advertising]. In [!DNL Google Ads] campagnes, kunt u naar keuze een websitedomein en een taal in de campagne specificeren &quot;[!DNL DSA Options]&quot; in plaats van of als aanvulling op het maken van dynamische zoekdoelen.
 
-   Wanneer de zoekterm van een gebruiker exact overeenkomt met een trefwoord in een van uw op trefwoorden gebaseerde campagnes, wordt een advertentie uit de op trefwoorden gebaseerde campagne weergegeven in plaats van een dynamische zoekadvertentie. Het advertentienetwerk toont een dynamische onderzoeksadvertentie in plaats van een sleutelwoord-gericht en wanneer de het onderzoekstermijn van de gebruiker een brede gelijke of woordgroep aan één van uw sleutelwoorden en uw dynamische onderzoeksadvertentie heeft een hogere rang.
+  Wanneer de zoekterm van een gebruiker exact overeenkomt met een trefwoord in een van uw op trefwoorden gebaseerde campagnes, wordt een advertentie uit de op trefwoorden gebaseerde campagne weergegeven in plaats van een dynamische zoekadvertentie. Het advertentienetwerk toont een dynamische onderzoeksadvertentie in plaats van een sleutelwoord-gericht en wanneer de het onderzoekstermijn van de gebruiker een brede gelijke of woordgroep aan één van uw sleutelwoorden en uw dynamische onderzoeksadvertentie heeft een hogere rang.
 
-   Meer informatie over [!DNL Google Ads] dynamische zoekopdrachten, zie https://support.google.com/google-ads/answer/2471185. Meer informatie over [!DNL Microsoft® Advertising] dynamische zoekopdrachten, zie https://help.ads.microsoft.com/#apex/ads/en/60037/0.
+  Raadpleeg voor meer informatie over dynamische zoekopdrachten de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/2471185) en [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/ads/en/56794).
 
 * **Multimedia-advertenties** for [!DNL Microsoft® Advertising] zoekcampagnes. Multimedia-advertenties zijn grote afbeeldingsadvertenties die worden weergegeven op de prominente posities in de mainline en zijbalk en die slechts één multimediadad per pagina bevatten. Ze kunnen meerdere tekst- en afbeeldingselementen bevatten, zoals responsieve advertenties, en het advertentienetwerk verzamelt de advertenties met behulp van de meest effectieve combinaties van advertentie-elementen. Multimedia-advertenties vervangen uw tekst en plaatsingen niet.
 
 * Aanbiedingsregels voor **[!DNL Microsoft® Advertising]product (winkelen) advertenties** op het winkelnetwerk. Winkeladvertenties gebruiken producten in uw bestaande [!DNL Microsoft® Merchant Center] in plaats van trefwoorden kunt u bepalen hoe en waar u uw advertenties wilt weergeven. De URL van de advertentiekopie- en landingspagina wordt automatisch gegenereerd op basis van uw productinformatie in de feed, maar u kunt optioneel promotielijnen instellen die worden opgenomen voor de advertentiegroep.
 
-   U kunt bepalen welke producten met uw [!DNL Microsoft® Advertising] winkeladvertenties door afzonderlijke productgroepen voor de advertentiegroep op te zetten, van de [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] weergeven.
+  U kunt bepalen welke producten met uw [!DNL Microsoft® Advertising] winkeladvertenties door afzonderlijke productgroepen voor de advertentiegroep op te zetten, van de [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] weergeven.
 
-   Voor meer informatie over de workflow voor product-/winkeladvertenties raadpleegt u &quot;[Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md).&quot;  Zie voor meer informatie over productadvertenties de [Microsoft® Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
+  Voor meer informatie over de workflow voor product-/winkeladvertenties raadpleegt u &quot;[Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md).&quot;  Zie voor meer informatie over productadvertenties de [Microsoft® Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 * Responsieve zoekopdrachten voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes op het onderzoeksnetwerk. Het advertentienetwerk assembleert dynamisch op tekst gebaseerde responsieve zoekadvertenties van een reeks advertentietitels en beschrijvingen, die combinaties begunstigen die goed samen presteren. De advertentie bevat maximaal drie kopregels, twee beschrijvingen en een aanpasbare URL uit de basis-URL en optionele velden path1 en path2. U kunt desgewenst titels en beschrijvingen vastzetten op specifieke posities.
 
@@ -70,4 +70,3 @@ Deze is echter niet beschikbaar voor [!DNL Google Ads] dynamic search ad (DSA), 
 >[!MORELIKETHIS]
 >
 >* [Advertenties beheren](ad-manage.md)
-
