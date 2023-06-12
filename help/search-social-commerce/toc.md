@@ -5,10 +5,10 @@ solution: Advertising
 product: advertising cloud
 archetype: end-user
 user-guide-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
-user-guide-description: In deze handleiding worden de belangrijkste functies, taken, instellingen en andere bronnen uitgelegd die nodig zijn voor het beheren, optimaliseren en rapporteren van uw zoek-, sociale en handels- en reclamecampagnes.
+user-guide-description: Deze gids verklaart de belangrijkste eigenschappen, de taken, de montages, en andere middelen die worden vereist om, uw onderzoek, sociale, en handel en campagnes te beheren te volgen en te melden.
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: true
-source-git-commit: b5ac81e04055c32cff02cc8528efb88e0d690f48
+source-git-commit: d28103d6788a1b0ee08663a5cc0393c373171860
 workflow-type: tm+mt
 source-wordcount: '1714'
 ht-degree: 0%
@@ -88,7 +88,7 @@ ht-degree: 0%
       + [De parameter s_kwcid tracking](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
-      + Adobe Reclame converteren bijhouden {#advertising-conversion-tracking}
+      + Adobe Advertising conversie bijhouden {#advertising-conversion-tracking}
          + [Informatie over conversietags voor Adobe-advertenties](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
          + [Indeling van JavaScript-tags voor conversie bijhouden versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
