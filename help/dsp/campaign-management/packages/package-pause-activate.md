@@ -2,7 +2,7 @@
 title: Een pakket onderbreken of activeren
 description: Leer hoe u een pakket pauzeert of activeert.
 feature: DSP Packages
-source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
+source-git-commit: 81f761e44b6f5a0bef9524468b57d97c021ef2b2
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Een pakket onderbreken of activeren
 
-Onderbreek een live pakket of activeer een gepauzeerd pakket wanneer dit zich binnen het geconfigureerde vliegschema bevindt.
+Pauzeer een levend pakket of activeer een gepauzeerd pakket wanneer het binnen het gevormde vliegprogramma is.
 
 Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking zelf wordt gepauzeerd, blijven gepauzeerd wanneer de verpakking wordt geactiveerd.
 
@@ -36,4 +36,3 @@ Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking ze
 >* [Een pakket bewerken](package-edit.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Een pakket archiveren](package-archive-unarchive.md)
-
