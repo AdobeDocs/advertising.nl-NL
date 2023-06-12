@@ -5,12 +5,12 @@ solution: Advertising
 product: advertising cloud
 archetype: end-user
 user-guide-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
-user-guide-description: Leer meer over de nieuwste updates en nieuwe functies in Zoeken naar advertenties, Sociale media en Handel.
+user-guide-description: In deze handleiding worden de belangrijkste functies, taken, instellingen en andere bronnen uitgelegd die nodig zijn voor het beheren, optimaliseren en rapporteren van uw zoek-, sociale en handels- en reclamecampagnes.
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: true
-source-git-commit: 72dc4d0f193b39c13daf1a0203f54285bff8cc28
+source-git-commit: b5ac81e04055c32cff02cc8528efb88e0d690f48
 workflow-type: tm+mt
-source-wordcount: '1702'
+source-wordcount: '1714'
 ht-degree: 0%
 
 ---
