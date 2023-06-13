@@ -1,9 +1,9 @@
 ---
 title: "[!DNL Microsoft® Ads] winkelen en sjablooninstellingen voor voorraadfeeds"
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Ads] winkelen en sjablonen voor voorraadfeeds.
-source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '499'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -147,7 +147,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 {{$include /help/_includes/inventory-feed-template-row-level-value.md}}
 
-**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; (optioneel) De volgende sjabloon voor de productgroep, die alle parameters voor het omleiden en volgen van domeinen buiten de landing opgeeft en de laatste URL in een parameter ValueTrack insluit. Deze sjabloon negeert sjablonen op hogere niveaus.
+**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; (optioneel) De sjabloon voor bijhouden van gegevens voor de productgroep, die alle parameters voor omleiding en tekstspatiëring buiten het landingsdomein opgeeft en de laatste URL in een [!DNL ValueTrack] parameter. Deze sjabloon negeert sjablonen op hogere niveaus.
 
 Voor het bijhouden van reclame-conversies voor Adobe hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 

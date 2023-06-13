@@ -1,9 +1,9 @@
 ---
 title: Werkbladgegevens voor [!DNL Yahoo! Display Network] rekeningen
 description: Verwijs naar de kopbalgebieden en gegevensgebieden in gedownloade bulksbladen voor [!DNL Yahoo! Display Network] rekeningen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '521'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,10 @@ Platform,Acct Name,Campaign Name,Ad Group Name,Ad Name, Ad Title,Description Lin
 | [!UICONTROL Ad Group ID] | n.v.t. | Indien inbegrepen | Indien inbegrepen | De unieke id die een bestaande advertentiegroep identificeert. |
 | [!UICONTROL Keyword ID] | n.v.t. | n.v.t. | Indien inbegrepen | De unieke id die een bestaand trefwoord identificeert. |
 | [!UICONTROL AMO ID] | n.v.t. | n.v.t. | n.v.t. | (In gegenereerde bulksbladen) Een unieke id die door Adobe wordt gegenereerd voor een gesynchroniseerde entiteit. |
-| [!UICONTROL EF Error Message] | n.v.t. | n.v.t. | n.v.t. | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van Zoeken, Sociale Zaken en Handel met betrekking tot gegevens in de rij. foutberichten worden opgenomen in EF-foutbestanden. |
+| [!UICONTROL EF Error Message] | n.v.t. | n.v.t. | n.v.t. | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van Zoeken, Sociale Zaken en Handel met betrekking tot gegevens in de rij. foutberichten worden opgenomen in [!UICONTROL EF Errors] bestanden. |
 
 <table style="table-layout:auto">
 
 >[!MORELIKETHIS]
 >
 >* [Een bulkbladbestand downloaden/maken](../bulksheet-download.md)
-

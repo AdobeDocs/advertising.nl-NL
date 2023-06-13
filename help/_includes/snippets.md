@@ -1,7 +1,7 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel vooraf fixeert automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.
 
-* Voor ondersteunde parameters om de laatste URL in te sluiten, raadpleegt u de [[!DNL Google Ads] documentation for the supported [!DNL ValueTrack] formaten](https://support.google.com/google-ads/answer/6305348). (Ga naar de parameters van het &quot;Volgmalplaatje slechts&quot;in de sectie over &quot;Beschikbare Parameters ValueTrack.&quot;)
+* Voor ondersteunde parameters om de laatste URL in te sluiten, raadpleegt u de [[!DNL Google Ads] documentation for the supported [!DNL ValueTrack] formaten](https://support.google.com/google-ads/answer/6305348). (Ga naar de parameters &quot;het Volgen malplaatje slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters.&quot;)
 
-* U kunt naar keuze URL parameters en om het even welke douaneparameters omvatten die voor de campagne worden bepaald, door ampersands (&amp;), zoals {lpurl} worden gescheiden?matchtype={matchtype}&amp;device={device}.
+* U kunt optioneel URL-parameters en aangepaste parameters die zijn gedefinieerd voor de campagne opnemen, gescheiden door en-tekens (&amp;), zoals {lpurl}?matchtype={matchtype}&amp;device={device}.
 
 * U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen.
 
@@ -26,7 +26,6 @@ Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wannee
 >* Vermijd het gebruik van macro&#39;s, die niet worden vervangen door klikken van bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het accountteam van Adobe samenwerken met de klantenondersteuning of het implementatieteam om deze toe te voegen.
 >* De het volgen malplaatje op het meest korrelige niveau treedt de waarden op alle hogere niveaus met voeten. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast.
 >* Als u een trackingsjabloon bijwerkt op advertentie-, sitelink- of trefwoordniveau, worden de relevante advertenties opnieuw verzonden voor revisie. U kunt de trackingsjablonen op account-, campagne- of advertentieniveau bijwerken zonder uw advertenties opnieuw ter goedkeuring in te dienen.
-
 
 ## Trackingsjabloonveld voor Microsoft-advertentie-entiteiten {#tracking-template-microsoft}
 
@@ -38,7 +37,7 @@ Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wannee
 
 * Voor ondersteunde parameters om de laatste URL in te sluiten, raadpleegt u de [[!DNL Microsoft Advertising] documentatie over parameters die de uiteindelijke URL aangeven](https://help.ads.microsoft.com/#apex/3/en/56799).
 
-* U kunt naar keuze URL parameters en om het even welke douaneparameters omvatten die voor de campagne worden bepaald, door ampersands (&amp;), zoals {lpurl} worden gescheiden?matchtype={matchtype}&amp;device={device}.
+* U kunt optioneel URL-parameters en aangepaste parameters die zijn gedefinieerd voor de campagne opnemen, gescheiden door en-tekens (&amp;), zoals {lpurl}?matchtype={matchtype}&amp;device={device}.
 
 * U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen.
 
@@ -48,7 +47,6 @@ Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wannee
 >
 >* De het volgen malplaatje op het meest korrelige niveau treedt de waarden op alle hogere niveaus met voeten. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast.
 >* U kunt de trackingsjablonen op elk niveau bijwerken zonder uw advertenties opnieuw ter goedkeuring in te dienen.
-
 
 ## Tekst en sjabloon - Opmerking waarin wordt uitgelegd hoe u een dynamische parameter invoegt {#inventory-feed-template-insert-dynamic-parameter}
 

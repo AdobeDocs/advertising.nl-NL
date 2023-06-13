@@ -1,9 +1,9 @@
 ---
 title: "De s\_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account"
 description: Leer hoe u overschakelt naar de nieuwste s\_kwcid-trackingcode voor een [!DNL Google Ads] account.
-source-git-commit: a9e23de134274d8f5004a908853c4132300b84e8
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '466'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -48,8 +48,8 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe notatie s
 
 1. Nadat u de migratie hebt gestart, werkt u desgewenst de instellingen voor het achtervoegsel van de bestemmingspagina (het zogenaamde &quot;laatste URL-achtervoegsel&quot; in sommige advertentienetwerken) bij:
 
-   * Wanneer de functie Automatisch uploaden is ingeschakeld in de instellingen voor bijhouden, wordt de code voor bijhouden in het achtervoegsel voor deze account en de bijbehorende campagnes automatisch bijgewerkt in Zoeken, Sociaal en Handel. Je hoeft niets te doen.
-   * Wanneer de functie Automatisch uploaden niet is ingeschakeld en u geen gebruik maakt van de S-kwcid aan de serverzijde, moet u de parameter s\_kwcid handmatig bijwerken in de instellingen voor het achtervoegsel voor de bestemmingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
+   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor bijhouden, Zoeken, Sociale zaken en Handel werkt automatisch de trackingcode bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
+   * Wanneer de [!UICONTROL Auto Upload]De functie &#39;&#39; is niet ingeschakeld en u gebruikt de parameter s-kwcid aan de serverzijde niet. Vervolgens moet u de parameter s\_kwcid handmatig bijwerken in de instellingen voor het achtervoegsel voor de landingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
    * Als u s\_kwcid in het Basis URL plaatsen voor om het even welke campagnecomponent, dan verplaats het naar het relevante het Bestanden plaatsen van het Achtervoegsel van de Pagina.
 
 1. (Aanbevolen) Controleer de gegevens voor dit account in Analytics voordat u aanvullende accounts migreert.

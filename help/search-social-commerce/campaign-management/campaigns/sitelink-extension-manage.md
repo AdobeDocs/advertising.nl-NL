@@ -1,9 +1,9 @@
 ---
 title: Gedeelde sitelinks beheren
 description: Leer hoe u gedeelde sitelink-extensies kunt maken en beheren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -92,12 +92,11 @@ Nadat u de record hebt opgeslagen, bevat de basis-URL alle toevoegingsparameters
 >* ([!DNL Google Ads]) Elke sitelink in een campagne of advertentiegroep moet een unieke bestemmingspagina hebben, en de inhoud voor elke sitelink-landingspagina moet ongeveer 80% unieke inhoud hebben. U kunt bijvoorbeeld geen sitelinks met koppelingen naar meerdere ankers op dezelfde pagina hebben.
 >* ([!DNL Google Ads]) Vermijd het gebruik van macro&#39;s, die niet worden vervangen door klikken van bronnen die parallelle tracering mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het accountteam van Adobe samenwerken met de klantenondersteuning of het implementatieteam om deze toe te voegen.
 
-
 **[!UICONTROL Tracking Template]:** (Optioneel) De URL voor reeksspatiëring of reeksspatiëring, die alle omleidingen en volgparameters van het niet-landende domein opgeeft en ook de URL van de laatste/landingspagina in een parameter insluit. Voorbeeld: `{lpurl}?source={network}&id=5` of `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` om een omleiding op te nemen.
 
-* Voor het bijhouden van reclame-omzettingen in Adobe, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF-omleiding&#39; en &#39;Automatisch uploaden&#39;, &#39;Zoeken, Sociaal en Handel&#39; bevatten, wordt automatisch de eigen code voor het bijhouden van klikken vooraf vastgelegd wanneer u de record opslaat.
+* Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]Met de opdracht &#39;&#39; en &#39;&#39;Automatisch uploaden&#39;&#39;, &#39;&#39;Zoeken, Sociaal&#39; en &#39;Handel&#39;&#39; wordt automatisch een voorvoegsel gemaakt voor de code voor het bijhouden van klikken wanneer u de record opslaat.
 
-* Zie voor ondersteunde parameters om de laatste URL in te sluiten ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+* Zie voor ondersteunde parameters om de laatste URL in te sluiten ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 * U kunt optioneel URL-parameters en aangepaste parameters die zijn gedefinieerd voor de campagne opnemen, gescheiden door en-tekens (&amp;), zoals `{lpurl}?matchtype={matchtype}&device={device}`.
 
@@ -111,9 +110,7 @@ Nadat u de record hebt opgeslagen, bevat de basis-URL alle toevoegingsparameters
 >* ([!DNL Microsoft Advertising]) Je kunt je trackingsjablonen op elk niveau bijwerken zonder je advertenties opnieuw ter goedkeuring in te dienen.
 >* Voor [!DNL Google Ads], vermijd het gebruiken van macro&#39;s, die niet voor kliks van bronnen substitueren die parallel volgen toelaten. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe Account Team met de Klantenondersteuning of het implementatieteam samenwerken om deze toe te voegen.
 
-
 >[!MORELIKETHIS]
 >
 >* [Extensies voor sitelink](sitelink-extension-about.md)
 >* [Gedeelde sitelinks koppelen aan accounts, campagnes en ad-groepen](sitelink-extension-associate.md)
-

@@ -1,9 +1,9 @@
 ---
 title: Tekst en responsieve zoek- en sjablooninstellingen voor voorraadfeeds
 description: Verwijs naar de montages voor tekst en ontvankelijke onderzoek en malplaatjes voor inventarisvoer.
-source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '3329'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] alleen) De parameter gebruiken `!{unescapedurl}` om de URL van de landingspagina aan te geven.
 
@@ -134,13 +134,13 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 **[!UICONTROL Ad Group Tracking Template]:** (Alleen accounts met definitieve/geavanceerde URL&#39;s) De sjabloon voor reeksspatiëring op advertentieniveau, die alle parameters voor het omleiden en volgen van domeinen opgeeft en de laatste URL in een parameter insluit.
 
-Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF omleiden&#39; en &#39;Automatisch uploaden&#39; bevatten, wordt bij het opslaan van de record automatisch code voor omleiding en tekstspatiëring toegevoegd.
+Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de landingspagina aangeven:
 
 * Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
-* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 Deze waarde negeert de instellingen op account- en campagnereniveau, maar het bijhouden van sjablonen op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijft deze waarde.
 
@@ -198,13 +198,13 @@ Als u een [!DNL Google Merchant Center] Geef deze waarde op in het veld &quot;[!
 
 **[!UICONTROL Keyword Tracking Template]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon tracking, die alle parameters voor het omleiden en volgen van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter insluit. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
 
-* Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF omleiden&#39; en &#39;Automatisch uploaden&#39; bevatten, voegt Search, Social &amp; Commerce automatisch code voor omleiding en tekstspatiëring toe wanneer u de record opslaat.
+* Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 * U kunt desgewenst omleidingen en reeksspatiëring van derden invoeren.
 
 * De URL van de landingspagina aangeven:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] alleen) De parameter gebruiken `!{lpurl}` om de URL van de landingspagina aan te geven.
 
@@ -337,7 +337,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 * Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
-* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternatieve advertentievelden onder de oorspronkelijke advertentievelden\]:** (Optioneel) Een alternatieve set advertentiekopieën voor een advertentie, die kan worden gebruikt als een van de regels in het origineel en de kopie de maximaal toegestane lengte overschrijdt zodra dynamische parameters zijn ingevuld met gegevens tijdens de propagatie.
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -15,4 +15,4 @@ Als u een advertentieklanter wilt invoegen, gebruikt u de volgende indelingen, w
 
 * [!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}, such as {CUSTOMIZER.Discount:10%}`
 
-Als bijvoorbeeld Pad 1 weergeven &quot;deals&quot; is en Pad 2 weergeven &quot;lokaal&quot;, is de URL van de weergave `<display URL>/deals/local`, zoals www.example.com/deals/local.
+Als [!UICONTROL Display Path 1] is &quot;deals&quot; en [!UICONTROL Display Path 2] is &quot;lokaal&quot;, wordt de URL van de weergave `<display URL>/deals/local`, zoals www.example.com/deals/local.

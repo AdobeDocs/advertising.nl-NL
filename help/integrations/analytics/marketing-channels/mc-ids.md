@@ -1,11 +1,11 @@
 ---
 title: Adobe-advertentie-id's gebruiken om te maken [!DNL Marketing Channels] Regels
-description: Leer hoe u met Adobe-advertentie-id's verwerkingsregels maakt voor [!DNL Analytics Marketing Channels].
+description: Leer hoe u Adobe Advertising-id's kunt gebruiken om verwerkingsregels te maken voor [!DNL Analytics Marketing Channels].
 feature: Integration with Adobe Analytics
 exl-id: 525761b4-607f-4b03-9020-8051009a13c6
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '768'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ De dynamische waarden binnen AMO-id&#39;s geven het marketingkanaal aan dat is b
 
 De rest van de AMO-id kan worden genegeerd.
 
-| AMO-id | Kanaal | Regellogica |
+| [!UICONTROL AMO ID] | Kanaal | Regellogica |
 |--------|---------|--------------------|
 | AL! (voorvoegsel) | [!UICONTROL Paid Search] | Begint met |
 | AC! (voorvoegsel) | [!UICONTROL DSP] | Begint met |
@@ -62,7 +62,7 @@ De [!DNL Marketing Channels] verwerkingsregel voor de [!UICONTROL YouTube Video 
 
 ## EF-id in verwerkingsregels
 
-De EF-id van AMO (EF-ID) is de tweede trackingcode die wordt gebruikt in de [!DNL Analytics for Advertising] integratie. Het hoofddoel is het volgen en passeren [!DNL Analytics] gebeurtenisgegevens naar Adobe Advertising. Telkens wanneer een klik-door of een mening-door voorkomt, wordt een unieke EF identiteitskaart geproduceerd, zelfs als het de nauwkeurige zelfde advertentie voor de zelfde bezoeker is. De EF-id wordt niet gebruikt in de [!DNL Analytics] het melden van gebruikersinterface omdat het typisch de 500k unieke waarden per veranderlijke grens in overschrijdt [!DNL Analytics], waardoor het onbruikbaar wordt voor rapportage. De Adobe-gegevens en metagegevens voor reclame worden niet op de EF-id toegepast; ze worden alleen toegepast op de AMO-id. De toegevoegde granulariteit van het volgen is vereist voor campagtimalisatie in Adobe Advertising, zodat beide id&#39;s vereist zijn.
+De EF-id van AMO (EF-ID) is de tweede trackingcode die wordt gebruikt in de [!DNL Analytics for Advertising] integratie. Het hoofddoel is het volgen en passeren [!DNL Analytics] gebeurtenisgegevens naar Adobe Advertising. Telkens wanneer een klik-door of een mening-door voorkomt, wordt een unieke EF identiteitskaart geproduceerd, zelfs als het de nauwkeurige zelfde advertentie voor de zelfde bezoeker is. De EF-id wordt niet gebruikt in de [!DNL Analytics] het melden van gebruikersinterface omdat het typisch de 500k unieke waarden per veranderlijke grens in overschrijdt [!DNL Analytics], waardoor het onbruikbaar wordt voor rapportage. De meetgegevens en metagegevens van de Adobe Advertising worden niet op de EF-id toegepast; ze worden alleen toegepast op de AMO-id. De toegevoegde granulariteit van het volgen is vereist voor campagtimalisatie in Adobe Advertising, zodat beide id&#39;s vereist zijn.
 
 Hoewel de EF-id-dimensie niet rechtstreeks wordt gebruikt in [!DNL Analytics] de EF-id kan nuttig zijn voor het maken van marketingkanalen. Het EF-id-achtervoegsel geeft het kanaal (weergave of zoekopdracht) aan en geeft aan of het bezoek is aangestuurd door een doorklik of een doorzicht. Het scheidingsteken in de EF-id is een dubbele punt in plaats van het uitroepteken in de AMO-id.
 
@@ -92,7 +92,6 @@ Maak een regel waarin de EF-id eindigt met &quot;:i&quot; om een weergavedoorvoe
 >
 >* [Grondbeginselen van [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [Waarom kanaalgegevens kunnen verschillen tussen Adobe-reclame en [!DNL Marketing Channels]](mc-data-variances.md)
->* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe-advertentiegegevens](mc-ac-data.md)
->* [Video: Gebruiken [!DNL Marketing Channels] voor Adobe Advertising Reporting](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
+>* [Gebruiken [!DNL Analytics Marketing Channels] met Adobe Advertising](mc-ac-data.md)
+>* [Video: Gebruiken [!DNL Marketing Channels] voor rapportage van Adoben Advertising](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html)
 >* [Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
-

@@ -1,9 +1,9 @@
 ---
 title: Fouten in werkbladen
 description: Verwijzing naar mogelijke redenen voor elke fout in het werkblad.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1141'
 ht-degree: 0%
 
 ---
@@ -26,14 +26,14 @@ Fouten in de [!UICONTROL SE Error] de kolom komt direct van het advertentienetwe
 
 ## [!UICONTROL EF Error] berichten
 
-De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in EF-foutbestanden.
+De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in [!UICONTROL EF Errors] bestanden.
 
 ### Downloaden/fouten maken
 
 | Categorie | Bericht | Beschrijving |
 |----|----|----|
 | Algemeen | [!UICONTROL Internal Error: Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | De bewerking is volledig mislukt als gevolg van een niet-gecategoriseerde of niet-afgehandelde fout. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
-|  | [!UICONTROL Pre-Sync Failed. Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | Search, Social &amp; Commerce kon niet synchroniseren met het advertentienetwerk voordat het bulksheet werd gemaakt. Er is dus geen bulksheet gemaakt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
+| | [!UICONTROL Pre-Sync Failed. Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | Search, Social &amp; Commerce kon niet synchroniseren met het advertentienetwerk voordat het bulksheet werd gemaakt. Er is dus geen bulksheet gemaakt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
 
 ### Uploadfouten
 
@@ -76,13 +76,13 @@ De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in EF-foutbestanden.
 
 ### Post-fouten
 
-De volgende fouten treden alleen op in EF-foutbestanden. De meeste postingsfouten komen van het advertentienetwerk en zijn inbegrepen in een dossier van de Fouten van SE.
+De volgende fouten treden op in [!UICONTROL EF Errors] alleen bestanden. De meeste postingsfouten komen van het advertentienetwerk en zijn inbegrepen in een dossier van de Fouten van SE.
 
 | Categorie | Bericht | Beschrijving |
 |----|----|----|
 | Algemeen | [!UICONTROL Internal Error: Please Try Posting the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
 | Alle entiteiten | [!UICONTROL Entity] is gepost aan advertentienetwerk | De entiteit werd gepost aan het advertentienetwerk, maar het werd niet tegelijkertijd gesynchroniseerd aan Onderzoek, Sociale, &amp; Handel, zodat zijn de entiteitgegevens niet onmiddellijk beschikbaar in Onderzoek, Sociale, &amp; Handel. Het synchronisatieproces wordt nu automatisch geactiveerd.<br><br>Wanneer grote hoeveelheden gegevens worden gesynchroniseerd, zijn de gegevens mogelijk enkele uren of langer niet beschikbaar in Zoeken, Sociale Zaken en Handel. |
-|  | [!UICONTROL Skipping <ENTITY> creation since <PARENT ENTITY> creation failed.] | De bovenliggende entiteit kon niet worden gemaakt, dus deze onderliggende entiteit is niet gemaakt. |
+| | [!UICONTROL Skipping <ENTITY> creation since <PARENT ENTITY> creation failed.] | De bovenliggende entiteit kon niet worden gemaakt, dus deze onderliggende entiteit is niet gemaakt. |
 
 >[!MORELIKETHIS]
 >
@@ -91,4 +91,3 @@ De volgende fouten treden alleen op in EF-foutbestanden. De meeste postingsfoute
 >* [Openingspagina&#39;s in bulkbladbestanden valideren](bulksheet-validate-landing-pages.md)
 >* [Een bulksbladbestand of gecorrigeerd foutbestand uploaden](bulksheet-upload.md)
 >* [Kolommen of gecorrigeerde foutbestanden plaatsen](bulksheet-post.md)
-

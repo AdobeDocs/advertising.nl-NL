@@ -1,9 +1,9 @@
 ---
 title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
-source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '2080'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -184,7 +184,7 @@ Accounts die Adobe Advertising Click tracking gebruiken, moeten de klikidentific
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in het gedeelte over &quot;Beschikbare ValueTrack-parameters&quot; in het gedeelte [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] alleen) De parameter gebruiken `!{lpurl}` om de URL van de landingspagina aan te geven.
 
@@ -238,7 +238,7 @@ Accounts die Adobe Advertising Click tracking gebruiken, moeten de klikidentific
 
 {{$include /help/_includes/append-parameters.md}}
 
-* **S\_kwcid-indeling** - (Bestaande [!DNL Google Ads] accounts voor adverteerders met een Adobe-advertentie-Adobe Analytics-integratie en waarvoor de s\_kwcid nog niet is gemigreerd)
+* **S\_kwcid-indeling** - (Bestaande [!DNL Google Ads] accounts voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie en waarvoor de s\_kwcid nog niet is gemigreerd)
 
 Dit account gebruikt de oudere indeling voor de s\_kwcid-trackingcode, waarmee Adobe-advertenties gegevens over het account kunnen delen met Adobe Analytics. De [nieuwste indeling](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) bevat parameters voor campagne-id en groep-id, die nodig zijn om nauwkeurig te rapporteren op campagne- en advertentieniveau voor [!DNL Google Ads] maximaal presterende campagnes en concepten en experimentatiecampagnes in Analytics:
 

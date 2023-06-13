@@ -1,16 +1,16 @@
 ---
 title: Een URL voor het bijhouden van klikken genereren
 description: Leer hoe u handmatig een URL voor het bijhouden van zoekopdrachten, sociale berichten en handel genereert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '468'
 ht-degree: 0%
 
 ---
 
 # Een URL voor het bijhouden van klikken op Zoeken, Sociale media en Handel genereren met het gereedschap URL&#39;s bijhouden
 
-*Adverteerders met alleen het bijhouden van Adobe-advertenties*
+*Adverteerders die alleen de conversie van Adoben Advertising bijhouden*
 
 Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en uitvoeren, zie &quot;[Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md).&quot;
 
@@ -34,57 +34,56 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
          * (Creatieve producten, standaardadvertenties) `**landing_page**`
 
-            waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: http://www.example.com/travel.html
+           Voorbeeld: http://www.example.com/travel.html
 
          * ([!DNL Microsoft® Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
 
-            waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: `Careers <tab> ** <tab> http://www.example.com/careers.html`
+           Voorbeeld: `Careers <tab> ** <tab> http://www.example.com/careers.html`
 
-            Het bestand kan maximaal 10.000 regels bevatten.
+           Het bestand kan maximaal 10.000 regels bevatten.
 
          * ([!DNL Google Merchant Center] productgroepen en [Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
 
-            waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: `Acme PR208 <tab> ** <tab> http://www.example.com/travel.html`
+           Voorbeeld: `Acme PR208 <tab> ** <tab> http://www.example.com/travel.html`
 
-            Het bestand kan maximaal 10.000 regels bevatten.
+           Het bestand kan maximaal 10.000 regels bevatten.
+
       * Voer in het invoerveld één item per regel in de volgende notatie in:
 
          * (Creatieve producten, standaardadvertenties) `landing_page`
 
-            waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: http://www.example.com/travel.html
+           Voorbeeld: http://www.example.com/travel.html
 
          * ([!DNL Microsoft® Advertising] sitelinks) `sitelink**landing_page`
 
-            waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: `Careers**http://www.example.com/careers.html`
+           Voorbeeld: `Careers**http://www.example.com/careers.html`
 
          * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft® Advertising] productadvertenties) `product name**landing_page`
 
-            waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
 
-            Voorbeeld: Acme PR208**http://www.example.com/travel.html
+           Voorbeeld: Acme PR208**http://www.example.com/travel.html
+
    1. Klik op **[!UICONTROL Generate Tracking URLs]**.
-
-
 
 1. (Optioneel) Kopieer de URL&#39;s (te beginnen met &quot;http&quot; of &quot;https&quot;) van het scherm of de uitvoerpagina en implementeer deze in de zoekfunctie of de sociale account.
 
 Voer voor accounts met doel-URL&#39;s de waarden in het juiste [!UICONTROL Base URL] velden.
 
-Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het juiste [!UICONTROL Tracking Template] veld. U moet een parameter voor de laatste URL toevoegen na de instelling `&url=` parameter (zoals `{lpurl}`). Voor [!DNL Yahoo! Japan Ads] accounts, gebruik de parameter `{lpurl}`. Voor een lijst met [!DNL Google Ads] en [!DNL Microsoft® Advertising] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348) (zie de &quot;Volgsjabloon only&quot;-parameters in het gedeelte over &quot;Available ValueTrack Parameters&quot;) en de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2).
+Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het juiste [!UICONTROL Tracking Template] veld. U moet een parameter voor de laatste URL toevoegen na de instelling `&url=` parameter (zoals `{lpurl}`). Voor [!DNL Yahoo! Japan Ads] accounts, gebruik de parameter `{lpurl}`. Voor een lijst met [!DNL Google Ads] en [!DNL Microsoft® Advertising] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348) (Zie de parameters &quot;Volgsjabloon alleen&quot; in het gedeelte over &quot;Beschikbaar&quot; [!DNL ValueTrack] Parameters&quot;) en de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2).
 
 >[!MORELIKETHIS]
 >
 >* [Over de gereedschappen voor het maken en decoderen van trackingcodes](tracking-tools-about.md)
 >* [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
 >* [Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociaal en Handel](click-tracking-url-decode.md)
-

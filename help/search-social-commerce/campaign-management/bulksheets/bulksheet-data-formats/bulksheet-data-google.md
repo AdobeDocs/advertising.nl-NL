@@ -1,9 +1,9 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
-source-git-commit: 384515330bfb980e7549128a1aa890df8fa1c463
+source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
 workflow-type: tm+mt
-source-wordcount: '8406'
+source-wordcount: '7515'
 ht-degree: 1%
 
 ---
@@ -20,8 +20,8 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 | Veld | Beschrijving |
 | ---- | ---- |
-| [!UICONTROL Platform] | (Opgenomen in gegenereerde bulksbladen ter informatie) Het advertentieplatform. Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| [!UICONTROL Acct Name] | De unieke naam die een advertentienetwerkaccount identificeert. Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
+| [!UICONTROL Platform] | (Opgenomen in gegenereerde bulksbladen ter informatie) Het advertentieplatform. Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Acct Name] | De unieke naam die een advertentienetwerkaccount identificeert. Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | De unieke naam die een campagne voor een account identificeert. |
 | [!UICONTROL Campaign Budget] | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
 | [!UICONTROL Delivery Method] | <p>Hoe snel om advertenties voor de campagne elke dag te tonen:</p><ul><li><p><i>[!UICONTROL Standard (Distributed)]</i> (de standaardinstelling voor nieuwe campagnes): Om uw advertenties over de dag te verspreiden.</p></li><li><p><i>[!UICONTROL Accelerated]:</i> (Verouderd in oktober 2019) Je advertenties zo vaak mogelijk weergeven totdat je budget is bereikt. Hierdoor worden uw advertenties mogelijk niet later op de dag weergegeven.</p></li></ul> |
@@ -34,15 +34,15 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 | [!UICONTROL Merchant ID] | (Winkelcampagnes en publiekscampagnes die alleen zijn gekoppeld aan een commerciële feed) De klant-id van het zakelijke account waarvan de producten voor de campagne worden gebruikt. |  |
 | [!UICONTROL Sales Country] | (Alleen koopcampagnes; alleen-lezen voor bestaande campagnes) Het land waar de campagneproducten worden verkocht. Omdat de producten met doellanden worden geassocieerd, bepaalt dit het plaatsen welke producten in de campagne worden geadverteerd. |
 | [!UICONTROL Product Scope Filter] | (Campagnes die het [!DNL Google Ads] het winkelnetwerk slechts) de producten in uw [!DNL Google Merchant Center] account waarvoor winkeladvertenties voor de campagne kunnen worden gemaakt. U kunt maximaal zeven productafmetingen en kenmerkcombinaties ingaan waarop om uw producten te filtreren, gebruikend het formaat dimensi=attribute. Scheid meerdere filters met een scheidingsteken &quot;>>&quot;. Voor een lijst met beschikbare productafmetingen raadpleegt u &quot;[Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot;</p><p>Voorbeeld: &quot;Categorie L1=dieren>>Categorie L2=pet-benodigdheden>>Merk=Acme-dierenbenodigdheden&quot;</p><p>Als u de bestaande waarden wilt verwijderen, gebruikt u de waarde <span class="Code">[delete]</span> (met inbegrip van de haakjes).</p> |
-| [!UICONTROL Languages] | <p>(Alleen zoek- en weergavenetwerken) De doeltalen voor advertenties in de campagne.</p><p>Als u geen waarde voor of dit gebied of [!UICONTROL Geo Targeting] in het veld voor een nieuwe campagne worden de standaardtalen bepaald door de valuta die voor de account is opgegeven, behalve dat campagnes met valuta&#39;s die niet aan specifieke talen zijn toegewezen (bijvoorbeeld EUR), op alle talen zijn gericht. Als u voor dit veld geen waarde opgeeft, maar een waarde opgeeft in het veld [!UICONTROL Geo Targeting] veld voor een nieuwe campagne, standaard ingesteld op <span style="font-style: italic;"><i>Alles</i></span>. Als u dit veld leeg laat voor een bestaande campagne, blijft de bestaande waarde behouden.</p><p>Als u alle talen als doel wilt instellen, voert u <span style="font-style: italic;">&lt;i span=&quot;&quot; id=&quot;1&quot; translate=&quot;no&quot; />. [!UICONTROL >All]</i></span> Als u specifieke talen als doel wilt instellen, voert u waarden in die door puntkomma&#39;s worden gescheiden. Hiervoor gebruikt u <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#languages" target="_blank">[!DNL Google Ads] taalnamen</a> (zoals <span style="font-style: italic;"><i>Engels;Japans</i></span>, die wordt vervangen door de juiste numerieke codes) of door numerieke codes (zoals <span style="font-style: italic;"><i>1000;1005</i></span>). De waarden zijn niet hoofdlettergevoelig.</p> |
+| [!UICONTROL Languages] | <p>(Alleen zoek- en weergavenetwerken) De doeltalen voor advertenties in de campagne.</p><p>Als u geen waarde voor of dit gebied of [!UICONTROL Geo Targeting] in het veld voor een nieuwe campagne worden de standaardtalen bepaald door de valuta die voor de account is opgegeven, behalve dat campagnes met valuta&#39;s die niet aan specifieke talen zijn toegewezen (bijvoorbeeld EUR), op alle talen zijn gericht. Als u voor dit veld geen waarde opgeeft, maar een waarde opgeeft in het veld [!UICONTROL Geo Targeting] veld voor een nieuwe campagne, standaard ingesteld op <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>. Als u dit veld leeg laat voor een bestaande campagne, blijft de bestaande waarde behouden.</p><p>Als u alle talen als doel wilt instellen, voert u <span style="font-style: italic;">&lt;i span=&quot;&quot; id=&quot;1&quot; translate=&quot;no&quot; />. [!UICONTROL >All]</i></span> Als u specifieke talen als doel wilt instellen, voert u waarden in die door puntkomma&#39;s worden gescheiden. Hiervoor gebruikt u <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#languages" target="_blank">[!DNL Google Ads] taalnamen</a> (zoals <span style="font-style: italic;"><i>Engels;Japans</i></span>, die wordt vervangen door de juiste numerieke codes) of door numerieke codes (zoals <span style="font-style: italic;"><i>1000;1005</i></span>). De waarden zijn niet hoofdlettergevoelig.</p> |
 | [!UICONTROL Location] | Een geografische locatie waar advertenties voor de campagne moeten worden geplaatst of waar advertenties moeten worden uitgesloten. Als u geen waarden voor dit veld of het veld Talen voor een nieuwe campagne invoert, bepaalt de valuta die voor de account is opgegeven de standaardlocaties, behalve dat campagnes met valuta&#39;s die niet aan specifieke locaties zijn toegewezen (bijvoorbeeld EUR), op alle locaties worden gericht. Als u voor dit veld geen waarde opgeeft, maar een waarde opgeeft in het veld [!UICONTROL Languages] veld voor een nieuwe campagne, dan is dit standaard <i>[!UICONTROL All]</i>. Als u dit veld leeg laat voor een bestaande campagne, blijft de bestaande waarde behouden.</p><p>Als u een specifieke locatie als doel wilt instellen, gebruikt u een van de volgende [[!DNL Google Ads] locatienamen](https://developers.google.com/adwords/api/docs/appendix/geotargeting) (die worden vervangen door de juiste numerieke code) of locatiecodes:</p><ul><li><p>Landen/gebieden: Voer de naam van het land of gebied in (bijvoorbeeld <span style="font-style: italic;"><i>Verenigde Staten;Japan</i></span>) of de numerieke codes (zoals <span style="font-style: italic;"><i>2840;2392</i></span>).</p></li><li><p>Staten/provincies/regio&#39;s: Geef de naam van de staat/provincie/regio op met de bijbehorende afkortingen voor land/gebied (zoals <span style="font-style: italic;"><i>Tokyo, JP;New York, VS</i></span>) of de numerieke codes (zoals <span style="font-style: italic;"><i>20636;2167</i></span>).</p></li><li><p>Niet-Amerikaanse steden: Voer de naam van de stad, de naam van de provincie/regio en de afkortingen land/gebied in (zoals <span style="font-style: italic;"><i>Adachi, Tokio, JP;Kita, Tokio, JP</i></span>), of de numerieke codes (zoals <span style="font-style: italic;"><i>1028850;1009293</i></span>)</p></li><li><p>Amerikaanse metrogebieden: Voer de namen van steden, staten en landen in (zoals <span style="font-style: italic;"><i>Buffalo NY, VS;New York NY, VS</i></span>) of de numerieke codes (zoals <span style="font-style: italic;"><i>514;501</i></span>).</p></li></ul><p>Als u een locatie wilt uitsluiten, plaatst u een minteken (`-`), zoals <span style="font-style: italic;"><i>-Japan</i></span>.</p><p><b>Opmerking:</b> De waarden zijn niet hoofdlettergevoelig.</p> |
 | [!UICONTROL Location Type] | (Wanneer u een locatie opneemt) De [locatietype](https://developers.google.com/google-ads/api/data/geotargets). |
 | [!UICONTROL Device] | Een apparaattype waarvoor biedaanpassingen worden uitgevoerd op campagne- of advertentieniveau: <i>[!UICONTROL smartphone]</i>, <i>[!UICONTROL tablet]</i>, of <i>[!UICONTROL desktop]</i>. |
-| [!UICONTROL Bid Adjustment] | <p>(Wanneer u een Locatie, Apparaat, of doel RLSA omvat) Of om biedingen voor advertenties in een specifieke plaats, op een specifiek apparatentype, of met een specifiek publieksdoel aan te passen:</p><ul><li><p>Voer 0 in om het trefwoordniveaubod te gebruiken (verschil van 0%). Voor nieuwe doelen kunt u deze ook leeg laten.</p></li><li><p>Als u een ander bod voor dit doel wilt gebruiken, voert u het percentage in waarmee u de biedingen wilt verhogen of verlagen.</p></li><ul><li><p>Voor locatie en doelstellingen RLSA, omvatten de geldige percentages van -90 tot 900.</p></li><li><p>Voor correcties bij het bieden van een apparaat zijn geldige percentages:</p></li><ul><li><p>(Campagnes)-100 (om niet te bieden voor advertenties op het apparaattype) of van -90 tot 900.</p></li><li><p>(Toevoegingsgroepen) -100 voor smartphones en tablets (om niet te bieden voor het apparaattype) en van -90 tot 900 voor alle apparaattypen.</p></li></ul></ul><li><p>(Bestaande campagnes en advertentiegroepen) Laat dit leeg als u de bestaande correctie voor biedingen wilt gebruiken.</p></li></ul> |
-| [!UICONTROL Adobe Rec Bid Adjustment] | (Opgenomen in gegenereerde bulksbladen ter informatie) De alleen-lezen-bodaanpassing die Adobe aanbeveelt voor een locatiedoel op campagnereniveau of een RLSA. Het wordt berekend slechts wanneer de campagne in een portefeuille met een gewogen opbrengstdoelstelling (niet de Maximize doelstelling van Kliks) is, en de campagne bevat minstens twee plaatsdoelstellingen of RLSAs met minstens vijf klikken of 5 USD in kosten in de afgelopen 90 dagen.</p><p>Als u een plaatsdoel of RLSA manueel wilt uitgeven om de geadviseerde waarde te gebruiken, wacht minstens twee weken nadat u het plaatsdoel of RLSA creeert om voor voldoende gegevensinzameling toe te staan, en verandert niet de waarde meer dan eens per week. |
+| [!UICONTROL Bid Adjustment] | <p>(Wanneer u een [!UICONTROL Location], [!UICONTROL Device], of [!UICONTROL RLSA] target) Of u de biedingen voor advertenties op een specifieke locatie, op een specifiek apparaattype of met een specifiek doelpubliek wilt aanpassen:</p><ul><li><p>Voer 0 in om het trefwoordniveaubod te gebruiken (verschil van 0%). Voor nieuwe doelen kunt u deze ook leeg laten.</p></li><li><p>Als u een ander bod voor dit doel wilt gebruiken, voert u het percentage in waarmee u de biedingen wilt verhogen of verlagen.</p></li><ul><li><p>Voor locatie en doelstellingen RLSA, omvatten de geldige percentages van -90 tot 900.</p></li><li><p>Voor correcties bij het bieden van een apparaat zijn geldige percentages:</p></li><ul><li><p>(Campagnes)-100 (om niet te bieden voor advertenties op het apparaattype) of van -90 tot 900.</p></li><li><p>(Toevoegingsgroepen) -100 voor smartphones en tablets (om niet te bieden voor het apparaattype) en van -90 tot 900 voor alle apparaattypen.</p></li></ul></ul><li><p>(Bestaande campagnes en advertentiegroepen) Laat dit leeg als u de bestaande correctie voor biedingen wilt gebruiken.</p></li></ul> |
+| [!UICONTROL Adobe Rec Bid Adjustment] | (Opgenomen in gegenereerde bulksbladen ter informatie) De alleen-lezen-bodaanpassing die Adobe aanbeveelt voor een locatiedoel op campagnereniveau of een RLSA. Deze wordt alleen berekend wanneer de campagne zich in een portfolio met een gewogen inkomstendoelstelling bevindt (niet de [!UICONTROL Maximize Clicks] (doelstelling) en de campagne bevat ten minste twee locatiedoelen of RLSA&#39;s met ten minste vijf klikken of 5 USD aan kosten in de afgelopen 90 dagen.</p><p>Als u een plaatsdoel of RLSA manueel wilt uitgeven om de geadviseerde waarde te gebruiken, wacht minstens twee weken nadat u het plaatsdoel of RLSA creeert om voor voldoende gegevensinzameling toe te staan, en verandert niet de waarde meer dan eens per week. |
 | [!UICONTROL Device Targets] | <p>(Alleen oudere campagnetypen) De apparaten waarop de advertentie kan worden weergegeven: <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Computers]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Smartphones]</i></span>, of <span style="font-style: italic;"><i>[!UICONTROL Tablets]</i></span>. Voor nieuwe campagnes is de standaardwaarde <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>.</p> |
 | [!UICONTROL Device OS Targets (Google Adwords)] | (Alleen verouderde campagnetypen; van toepassing wanneer de doelstellingen van het Apparaat &quot;Smartphones&quot;of &quot;Tablets&quot;omvatten de werkende systemen waarop de advertentie kan worden getoond: <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Android]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL iOS]</i></span>, of <span style="font-style: italic;"><i>[!UICONTROL Palm]</i></span>. Voor nieuwe campagnes is de standaardwaarde <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>.</p> |
-| [!UICONTROL Mobile Carriers (Google Adwords)] | <p>(Alleen verouderde campagnetypen; van toepassing wanneer [!UICONTROL Device Targets] include &quot;[!UICONTROL All]&quot; of &quot;[!UICONTROL Smartphones]&quot;) Mobiele dragers waarop de smartphones kunnen worden aangesloten: <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>of een of meer door &lt;c span=&quot;&quot; id=&quot;4&quot; translate=&quot;no&quot; />code van drager</i></span>>,&lt;<span style="font-style: italic;"><i>landcode</i></span>> (zoals T-Mobile, VS) met de lijst van <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#mobile-carriers" target="_blank">beschikbare vervoerders en codes voor [!DNL Google Ads]</a>. <span style="font-style: italic;"><i> Scheid meerdere dragers van elkaar met puntkomma&#39;s (zoals T-Mobile,US;T-Mobile,GB). Voor nieuwe campagnes is de standaardwaarde <span style="font-style: italic;"><i>Alles</i></span>.</p> |
+| [!UICONTROL Mobile Carriers (Google Adwords)] | <p>(Alleen verouderde campagnetypen; van toepassing wanneer [!UICONTROL Device Targets] include &quot;[!UICONTROL All]&quot; of &quot;[!UICONTROL Smartphones]&quot;) Mobiele dragers waarop de smartphones kunnen worden aangesloten: <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>of een of meer door &lt;c span=&quot;&quot; id=&quot;4&quot; translate=&quot;no&quot; />code van drager</i></span>>,&lt;<span style="font-style: italic;"><i>landcode</i></span>> (zoals T-Mobile, VS) met de lijst van <a href="https://developers.google.com/adwords/api/docs/appendix/codes-formats?csw=1#mobile-carriers" target="_blank">beschikbare vervoerders en codes voor [!DNL Google Ads]</a>. <span style="font-style: italic;"><i> Scheid meerdere dragers van elkaar met puntkomma&#39;s (zoals T-Mobile,US;T-Mobile,GB). Voor nieuwe campagnes is de standaardwaarde <span style="font-style: italic;"><i>[!UICONTROL All]</i></span>.</p> |
 | [!UICONTROL Ad Group Name] | <p>De unieke naam die een advertentiegroep identificeert. De maximale lengte is 255 tekens. Er worden geen navolgende lege tekens opgeslagen (zoals &#39;Groep 1 toevoegen&#39; wordt opgeslagen als &#39;Groep 1 toevoegen&#39;). Dit veld is niet van toepassing op sitelinks op campagneniveau of apparaatdoelen op campagneniveau.</p> |
 | [!UICONTROL Ad Group Type] | <p>Het type advertentiegroep: <i>[!UICONTROL Discovery]</i> (alleen voor opsporingscampagnes), <i>[!UICONTROL Display]</i> (voor weergavecampagnes), <i>[!UICONTROL Search Dynamic]</i> (voor uitgebreide dynamische zoekadvertenties), <i>[!UICONTROL Search Standard]</i> (voor zoekadvertenties), <i>[!UICONTROL Shopping Product]</i> (voor winkeladvertenties), <i>[!UICONTROL Shopping Showcase]</i> (maken en bewerken wordt niet ondersteund), of <i>[!UICONTROL Unknown]</i>.</p> |
 | [!UICONTROL Max CPC] | <p>(Alleen CPC-campagnes) De maximale kosten per klik (CPC). Dit is het hoogste bedrag dat wordt betaald voor een advertentie op het advertentienetwerk, met of zonder monetaire symbolen en interpunctie. U kunt waarden instellen voor advertentiegroepen en trefwoorden, productgroepen en dynamische zoekdoelen. De standaardinstelling voor een nieuw trefwoord wordt overgenomen van het niveau van de advertentiegroep. Voor productgroepen kunt u waarden instellen voor de laagste productgroepniveau. de standaardinstelling voor een nieuwe laag wordt overgenomen van de bovenliggende laag.</p><p>Voor bestaande productgroepen en dynamische zoekdoelen in geoptimaliseerde portfolio&#39;s zijn updates slechts één dag effectief en worden ze tijdens de volgende optimalisatiecyclus overschreven.</p> |
@@ -54,63 +54,63 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 | [!UICONTROL Parent Product Groupings] | De hiërarchie van bovenliggende productgroepen.<br><br>Voorbeeld: `All Products>>ProductTypeL1=a>>ProductTypeL2=b` |
 | [!UICONTROL Product Grouping] | <p>De productgroep (zoals &quot;brand=acme&quot; of &quot;Alle producten&quot;).</p><p><b>Opmerking:</b></p><ul><li><p>Wanneer een opgegeven productgroep niet bestaat in het dialoogvenster [!UICONTROL Parent Product Groupings] de hiërarchie, het Onderzoek, de Sociale, &amp; Handel leidt tot om het even welke delen van de hiërarchie die nodig zijn.</p></li><li><p>Met Zoeken, Sociaal, en Handel wordt automatisch een &quot;[!UICONTROL All Products]&quot; groeperen wanneer u een advertentiegroep maakt in een [!DNL Google Ads] Winkelcampagne met een standaardbod ingesteld op het standaardbod van de advertentiegroep. Met Zoeken, Sociaal, en Handel wordt automatisch een &quot;[!UICONTROL Everything Else]&quot; groeperen met het standaardbod van de advertentiegroep op elk niveau van de hiërarchie van de productgroep. U kunt deze standaardgroepen nog steeds expliciet maken en ze uitsluiten of hun biedingen wijzigen.</p></li><li><p>Elke advertentiegroep kan maximaal acht lagen productgroepen bevatten, waaronder &quot;[!UICONTROL All Products]&quot; en zeven andere lagen.</p></li></ul> |
 | [!UICONTROL Partition Type] | Het partitietype voor de productgroep: <i>onderverdeling</i> (als het onderliggende productgroepen heeft) of <i>eenheid</i> (als het geen onderliggende productgroepen heeft). |
-| Type afstemmen | <p>Voor dynamisch zoekdoel of productgroepen: De optie voor trefwoordafstemming voor het dynamische zoekdoel of de productgroep: <i>Dynamisch ad-doel</i> (standaard voor nieuwe dynamische zoekdoelen), <i>Productgroep</i> (standaard voor nieuwe productgroepen) of <i>Negatieve productgroep</i> (om een productgroep uit te sluiten).</p><p>Voor trefwoorden: De optie voor trefwoordafstemming voor het trefwoord: <span style="font-style: italic;"><i>Breed</i></span>, <span style="font-style: italic;"><i>Woorden</i></span>, <span style="font-style: italic;"><i>Exact</i></span>, of <span style="font-style: italic;"><i>Negatief</i></span> (om een trefwoord of een plaatsing op het weergavenetwerk uit te sluiten); productgroepen die voor winkeladvertenties worden gebruikt, hebben een overeenkomend type <span style="font-style: italic;"><i>Productgroep</i></span>. Als u <span style="font-style: italic;"><i>Negatief</i></span>, moet u ook het type opnemen dat moet worden uitgesloten (bijvoorbeeld Negatieve zin).</p><p>Voor nieuwe trefwoorden is de standaardwaarde <span style="font-style: italic;"><i>Breed</i></span>. Een waarde voor het type van gelijke of sleutelwoordidentiteitskaart wordt vereist slechts om een sleutelwoord met veelvoudige gelijke types uit te geven.</p><p><b>Opmerking:</b></p><ul><li><p>Identieke typen zijn niet van toepassing op uitgebreide dynamische zoekadvertenties, die geen trefwoorden gebruiken.</p></li><li><p>Het overeenkomentype voor een [!DNL Google Ads] verwijdert het bestaande trefwoord en maakt een nieuw trefwoord.</p></li><li><p>Kies bij Breedte overeenkomende modifier &quot;Breed&quot; en voeg een + in vóór elk woord in het trefwoord waarvoor nauwe varianten vereist zijn (zoals &quot;+red +schoenen&quot; om nauwe varianten van zowel &quot;rood&quot; als &quot;schoenen&quot; te vereisen). <b>Opmerking:</b> Brede overeenkomende wijzigingstoetsen hebben nu hetzelfde gedrag als woordovereenkomst voor sommige talen en u kunt sinds juli 2021 geen nieuwe trefwoorden voor brede overeenkomsten maken. Zie [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/7042511) voor meer informatie .</p> |
-| Eerste paginabod | (Opgenomen in gegenereerde bulksbladen ter informatie) Het bod dat vereist is om een advertentie op de eerste pagina van de zoekresultaten te plaatsen. Deze waarde wordt niet naar het advertentienetwerk gepost. |
-| Kwaliteitsscore | (Opgenomen in gegenereerde opsommingstekens ter informatie) De huidige kwaliteitsscore die de zoekfunctie aan het trefwoord heeft toegewezen. Deze waarde wordt niet naar het advertentienetwerk gepost.) |
-| Creatieve voorkeursapparaten | (Tekstadvertenties, uitgebreide dynamische zoekopdrachten en verbeterde sitelinks; (optioneel) De apparaattypen waarop u de advertentie wilt weergeven: <span style="font-style: italic;"><i>Alles</i></span> (de standaardwaarde) of <i>Mobiel</i>. Wanneer <i>Mobiel</i> wordt opgegeven, probeert het netwerk de advertentie voor gebruikers van mobiele apparaten weer te geven in plaats van voor gebruikers van desktops of tablets. Anders, toont het netwerk de advertentie op om het even welk apparatentype.</p><p><b>Opmerking:</b></p><ul><li><p>Alleen beheerder en [!DNL Adobe] gebruikers van accountmanagers kunnen deze instelling bewerken.</p></li><li><p>Het netwerk garandeert niet dat de advertentie op het voorkeurstype wordt weergegeven.</p></li><li><p>Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p></li></ul> |
-| Advertentitel, advertentietak 2-15 | (Alleen uitgebreide tekstadvertenties en responsieve zoekadvertenties) De kopregels van een advertentie, elk gescheiden door een verticale pipe ( | ). De maximumlengte voor elk veld van de advertentitel is 30 karakters of 15 dubbel-byte karakters, met inbegrip van om het even welke dynamische teksten (zoals de waarden van sleutelwoorden en adverteerders).</p><p>Voor responsieve zoekadvertenties zijn Advertentitel, Advertentitel 2 en Advertentitel 3 vereist, en alle andere velden van de advertentitel zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p><p>Voeg voor responsieve zoekadvertenties een advertentieklanker in met de volgende indeling: `{CUSTOMIZER.AdCustomizerName:DefaultText}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022. |
-| Titel 1-15 Positie toevoegen | <p>(Alleen responsieve zoekopdrachten; (optioneel) Een positie waarop de corresponderende advertentitel moet worden vastgezet: `[null]` (geen waarde waardoor de titel van de advertentie voor alle posities in aanmerking komt), <i>1</i>, <i>2</i>, of <i>3</i>. Als Positie advertentie bijvoorbeeld de waarde 1 heeft, wordt Titel toevoegen alleen weergegeven in Positie 1. Standaard zijn alle advertentitels null (geen waarden).</p><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p><p><b>Opmerking:</b> U kunt meerdere advertentitels vastzetten op dezelfde positie. In het advertentienetwerk wordt een van de advertentietitels gebruikt die op de positie zijn vastgezet. Titels die op positie 3 zijn vastgezet, worden mogelijk niet met de advertentie weergegeven.</p> |
-| Beschrijving regel 1-4 | <p>(Alleen uitgebreide dynamische zoekadvertenties, uitgevouwen tekstadvertenties en responsieve zoekadvertenties) De hoofdtekst van een advertentie. De maximumlengte voor elk beschrijvingsveld is 90 tekens of 45 double-byte tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).</p><p>Voeg voor responsieve zoekadvertenties een advertentieklanker in met de volgende indeling: `{CUSTOMIZER.AdCustomizerName:DefaultText}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>Gebruik voor uitgebreide dynamische zoekopdrachten alleen Regel 1 en Beschrijving regel 2. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p><p>Voor responsieve zoekopdrachten zijn beschrijvingsregel 1 en beschrijvingsregel 2 vereist en regel 3 en beschrijving 4 zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p> |
-| Beschrijving regel 1-4 positie | (Alleen responsieve zoekopdrachten; (optioneel) Een positie waarop de desbetreffende beschrijving moet worden vastgezet: `[null]` (geen waarde waardoor de beschrijving voor alle posities in aanmerking komt), <i>1</i>, <i>2</i>, of <i>3</i>. Als Beschrijving 1 Positie bijvoorbeeld de waarde 1 heeft, wordt Beschrijving 1 alleen weergegeven in Positie 1. Standaard zijn geen beschrijvingen vastgezet op een positie.</p><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes).</p><p><b>Opmerking:</b> U kunt meerdere beschrijvingen vastzetten op dezelfde positie. Het advertentienetwerk gebruikt één van de beschrijvingen die aan de positie worden vastgezet. Beschrijvingen die op positie 2 zijn vastgezet, mogen niet met de advertentie worden getoond. |
-| URL weergeven | De URL die is opgenomen in de advertentie.<br><br>Voor uitgebreide dynamische zoekopdrachten [!DNL Google Ads] Hiermee wordt deze waarde dynamisch gegenereerd vanuit het websitedomein. U hoeft geen waarde in te voeren.<br><br>Voor responsieve zoekopdrachten hoeft u geen waarde in te voeren. De weergave-URL wordt automatisch opgehaald uit het domein in de uiteindelijke URL. U kunt de URL desgewenst aanpassen met de velden Pad 1 en Pad 2.<br><br>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.<br><br><b>Opmerking:</b> (Accounts met definitieve URL&#39;s) De domeinnamen in de weergave-URL en de uiteindelijke URL moeten overeenkomen.</p> |
-| Pad 1 weergeven | <p>(Uitgebreide tekstadvertenties<span> en responsieve zoekadvertenties</span> alleen)</p><p>(Optioneel) Tekst die wordt toegevoegd aan de weergave-URL en die automatisch wordt opgehaald uit de uiteindelijke URL. Het is voorafgegaan in URL door een voorwaartse schuine streep (/). Een pad mag geen forward slash (/) of newline (\n) tekens bevatten. De maximumlengte is 15 tekens of 7 double-byte tekens.</p><p>Als u een advertentieklanter wilt invoegen, gebruikt u de volgende indelingen, waarbij `Default text` is een optionele waarde die moet worden ingevoegd wanneer uw feed-bestand geen geldige waarde bevat:&lt; `{CUSTOMIZER.AdCustomizerName:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>Als Display Path 1 bijvoorbeeld &#39;deals&#39; is, is de weergave-URL &lt;<i>URL weergeven</i>>/deals, zoals www.example.com/deals.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p> |
-| Pad 2 weergeven | een tweede weergavepad; zie de ingang voor de Weg van de Vertoning 1.<br><br>Voorbeeld: Als Weergavepad 1 &quot;deals&quot; is en Weergavepad 2 &quot;lokaal&quot; is, is de weergave-URL &lt;<i>URL weergeven</i>>/deals/local, zoals www.example.com/deals/local.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p> |
-| Aanbiedingslijn | (Alleen advertenties voor aanbiedingen van producten) Een optionele promotielijn die in de zoekresultaten bij de aanbieding van het product moet worden gevoegd. De maximumlengte is 45 tekens.</p><p>De promotielijn kan op verschillende plaatsen ten opzichte van de advertentie (zoals onder de advertentie) verschijnen, afhankelijk van waar de advertentie op de pagina wordt weergegeven. |
-| Koppelingsnaam | <p>De sitelink-tekst. Het kan maximaal 25 tekens bevatten.</p><p>Voor nieuwe sitelinks moet u de naam van de campagne opnemen in de sitelink-rij. Voor sitelinks op advertentieniveau moet u ook de naam van de advertentiegroep opnemen.</p><p><b>Opmerking:</b> Bestaande tekst van 35 tekens wordt nog wel weergegeven in advertenties op desktops en tablets, maar niet op mobiele apparaten.</p> |
-| Mobile App-Platform (Google-trefwoorden) | (Alleen voor bestaande installatielocaties voor apps) Het besturingssysteem waarop de mobiele toepassing wordt uitgevoerd: <i>Android™</i> of <i>ios</i>. |
-| Mobiele app-id (Google Adwords) | (Alleen bestaande installatieladingen voor apps) <p>De toepassings-id of pakketnaam. |
-| Mobiele toepassingsnaam (Google-trefwoorden) | (Alleen voor bestaande installatiemonsters) De naam van de toepassing. |
-| Begindatum | <p>(Alleen verbeterde sitelinks) De eerste datum waarop biedingen mogen worden uitgebracht voor de sitelink, in de tijdzone van de adverteerder en in een van de volgende formaten: <span style="font-style: italic;"><i>d/m/yyyy</i></span>, <span style="font-style: italic;"><i>d/m/yy</i></span>, <span style="font-style: italic;"><i>d-m-yyyy</i></span>, of <span style="font-style: italic;"><i>d-m-yy</i></span>. De standaard voor nieuwe verbeterde sitelinks is de huidige dag.</p><p><b>Opmerking:</b> Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p> |
-| Einddatum | <p>(Alleen verbeterde sitelinks) De laatste datum waarop biedingen voor de sitelink mogen worden uitgebracht, in de tijdzone van de adverteerder en in een van de volgende formaten:  <span style="font-style: italic;"><i>d/m/yyyy</i></span>, <span style="font-style: italic;"><i>d/m/yy</i></span>, <span style="font-style: italic;"><i>d-m-yyyy</i></span>, of <span style="font-style: italic;"><i>d-m-yy</i></span>. De standaardwaarde is geen (geen einddatum).</p><p><b>Opmerking:</b> Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p> |
-| Tablet uitsluiten (Google Adwords) | (Alleen bestaande installatieladingen voor apps)</p><p>(Optioneel) Voorkomen [!DNL Google Ads] van het weergeven van de advertentie naar tabletgebruikers. Waarden kunnen <i>ja</i> en <i>nee</i>. |
-| Achtervoegsel bestemmingspagina | Alle parameters die aan het einde van de uiteindelijke URL&#39;s moeten worden toegevoegd om informatie bij te houden. Voorbeeld: `param2=value1&param3=value2`<br><br>Zie &quot;[Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md).&quot;<br><br>De laatste URL-achtervoegsels op lagere niveaus overschrijven het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor. |
-| Sjabloon voor bijhouden | Het volgende malplaatje, dat alle off-landing domein specificeert richt en het volgen parameters en bedt definitieve URL in een parameter ValueTrack in. De het volgen malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelig) treedt de waarden op alle hogere niveaus met voeten.<br><br>Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &#39;EF-omleiding&#39; en &#39;Automatisch uploaden&#39; bevatten, voegt Search, Social &amp; Commerce automatisch zijn eigen omleidings- en trackingcode toe wanneer u de record opslaat.<br><br>Voer een waarde in voor omleidingen en bijhouden door derden. Voor een lijst van parameters ValueTrack om definitieve URLs in het volgen malplaatjes aan te geven, zie de &quot;het Volgen malplaatje&quot;parameters in de sectie over &quot;Beschikbare Parameters ValueTrack&quot;in [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/2375447).<br><br>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
-| Basis-URL/Definitieve URL | De bestemmingspagina URL waarnaar de gebruikers van de onderzoeksmotor worden genomen wanneer zij uw advertentie klikken, met inbegrip van om het even welke toevoegingsparameters die voor de campagne of de rekening worden gevormd. Basis/definitieve URLs op het sleutelwoordniveau treedt die op het advertentieniveau en hoger met voeten.<br><br>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
-| Doel-URL | (Ter informatie opgenomen in gegenereerde bulksbladen; (niet gepost aan de zoekmachine) Voor accounts met doel-URL&#39;s is dit de URL die een advertentie koppelt aan een basis-URL/bestemmingspagina op de website van de adverteerder (soms via een andere site die de klik bijhoudt en de gebruiker vervolgens doorstuurt naar de bestemmingspagina). Het omvat om het even welke toevoegingsparameters die voor de Onderzoek, Sociale, &amp; de campagne of de rekening van de Handel worden gevormd. Als u URL&#39;s voor bijhouden hebt gegenereerd, is dit gebaseerd op de volgende parameters in uw accountinstellingen en campagnemontages. Als u specifieke parameters voor zoekprogramma&#39;s hebt toegevoegd, kunnen deze worden vervangen door de equivalente parameters voor Zoeken, Sociale &amp; Handel.<br><br>Voor accounts met uiteindelijke URL&#39;s geeft deze kolom dezelfde waarde weer als de kolom Basis-URL/Definitieve URL. |
-| Aangepast URL-parameters | Gegevens ter vervanging van de `{custom_code}` dynamische variabele wanneer de variabele is opgenomen in de volgende parameters voor de instellingen van de zoekaccount of campagne. Als u de aangepaste waarde in de URL voor bijhouden wilt invoegen, moet u het bestand met de opsommingstekens uploaden met de optie URL&#39;s voor bijhouden genereren. |
-| Creatief type | De advertentievorm: <i>Tekst en tekst</i>, <i>Uitgebreide tekst en</i>, <i>Dynamisch zoeken en</i> (afgekeurd advertentietype), <i>Uitgebreide dynamische zoekopdracht</i>, <i>Advertentie weergeven</i>, <i>App Install-advertentie</i> (afgekeurd), <i>Afbeelding</i> <i>Productadvertentie</i> (winkeladvertenties), of <i>Responsieve zoekopdracht</i>. De standaardinstelling voor nieuwe advertenties is <i>Tekst en tekst</i>.<br><br>Vereist om de status van een productadvertentie te maken of te bewerken. |
-| Param1 | <p>De numerieke waarde van de `{param1}` ad parameter, die kan worden opgenomen in de advertentie-kopie of weergave-URL voor elke advertentie in het bulksbladbestand. De maximumlengte is 25 tekens en u kunt de volgende niet-numerieke tekens opnemen:</p><ul><li><p>De waarde kan worden voorafgegaan of toegevoegd met een valutasymbool of -code. Bijvoorbeeld: `£2.000,00` en `2000GBP` zijn geldig.</p></li><li><p>De waarde kan een komma (`,`) of punt (`.`) als scheidingsteken, met een optionele punt (`.`) of komma (`,`) voor fractionele waarden. Bijvoorbeeld: `1,000.00` en `2.000,10` zijn geldig.</p></li><li><p>De waarde kan worden voorafgegaan of met een percentageteken worden toegevoegd (`%`), plusteken (`+`), of minteken (`- `). Bijvoorbeeld: `20%`, `208+`, en `-42.32` zijn geldig.</p></li><li><p>Twee getallen kunnen worden ingesloten met een slash. Bijvoorbeeld: `4/1` en `0.95/0.45` zijn geldig.</p></li></ul><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes).</p> |
-| Param2 | De numerieke waarde van de `{param2}` ad parameter, die kan worden opgenomen in de advertentie-kopie of weergave-URL voor elke advertentie in het bulksbladbestand. Zie de ingang voor Param1 voor meer informatie. |
-| Publiek | De lijst voor opnieuw op de markt brengen voor onderzoeksadvertenties (RLSA) richt publiek of uitgesloten publiek voor de campagne of de ad groep. Geef op of dit een doel of een uitsluiting is in het veld &quot;Doeltype&quot;. |
-| Doeltype | (Wanneer een publiek wordt gespecificeerd) Of het gespecificeerde publiek een publiek is <i>Opname</i> (doel) of <i>Uitsluiting</i>. |
-| Campagnestatus | De weergavestatus van de campagne: <i>Actief</i>, <i>Gepauzeerd</i>, <i>Beëindigd</i> (niet bewerkbaar), of <i>Verwijderd</i> (alleen bestaande campagnes). De standaardinstelling voor nieuwe campagnes is <i>Actief</i>. Als u een actieve of gepauzeerde campagne wilt verwijderen, voert u de waarde in <i>Verwijderd</i>. |
-| Status van advertentiegroep | De weergavestatus van de advertentiegroep: <i>Actief</i>, <i>Gepauzeerd</i>, of <i>Verwijderd</i> (alleen bestaande advertentiegroepen). De standaardinstelling voor nieuwe advertentiegroepen is Actief. Als u een actieve of gepauzeerde ad-groep wilt verwijderen, voert u de waarde in `Deleted`. |
-| Trefwoordstatus | De weergavestatus van het trefwoord: <i>Actief</i>, <i>Gepauzeerd</i>, of <i>Verwijderd</i> (alleen bestaande trefwoorden). De standaardwaarde voor nieuwe trefwoorden is Actief. Als u een actief of gepauzeerd trefwoord wilt verwijderen, voert u de waarde in <i>Verwijderd</i>. |
-| Advertentiestatus | De weergavestatus van de advertentie: <i>Actief</i>, <i>Verwijderd</i> (alleen bestaande advertenties), <i>Afgekeurd</i> (niet bewerkbaar), of <i>Gepauzeerd</i>. De standaardinstelling voor nieuwe advertenties is Actief. Als u een actieve of gepauzeerde advertentie wilt verwijderen, voert u de waarde in <i>Verwijderd</i>. |
-| Plaatsingsstatus | De status van de plaatsing van de website: <span style="font-style: italic;"><i>Actief</i></span>, <span style="font-style: italic;"><i>Gepauzeerd</i></span>, of <span style="font-style: italic;"><i>Verwijderd</i></span> (alleen bestaande advertenties). De standaardinstelling voor nieuwe websites is <span style="font-style: italic;"><i>Actief.</i></span> Als u een actieve of gepauzeerde plaatsing wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>Verwijderd</i></span>. |
-| Doelstatus | De status van een dynamisch zoekdoel: <span style="font-style: italic;"><i>Actief</i></span>, <span style="font-style: italic;"><i>Gepauzeerd</i></span>, of <span style="font-style: italic;"><i>Verwijderd</i></span> (alleen bestaande streefcijfers). De standaardinstelling voor nieuwe doelen is <span style="font-style: italic;"><i>Actief.</i></span> Als u een actief of gepauzeerd doel wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>Verwijderd</i></span>. |
-| Status van productgroep | De weergavestatus van de productgroep: <span style="font-style: italic;"><i>Actief</i></span> <span>of</span> <span style="font-style: italic;"><i>Verwijderd</i></span> (alleen bestaande productgroepen). De standaardwaarde voor nieuwe productgroepen is <span style="font-style: italic;"><i>Actief</i></span>. Als u een actieve productgroep wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>Verwijderd</i></span>. |
-| Sitelink-status | De weergavestatus van de sitelink: <span style="font-style: italic;"><i>Actief of verwijderd</i></span> (alleen bestaande sitelinks). De standaardinstelling voor nieuwe sitelinks is <span style="font-style: italic;"><i>Actief</i></span>. Als u een actieve sitelink wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>Verwijderd</i></span>. |
-| Locatiestatus | De status van het locatiedoel: <i>Actief</i> of <i>Verwijderd</i> (alleen bestaande locaties). Het gebrek voor nieuwe plaatsen is Actief. Als u een actieve locatie wilt verwijderen, voert u de waarde in <i>Verwijderd</i>. |
-| RLSA-doelstatus | De status van het doel of de uitsluiting van de RLSA op campagne- of advertentieniveau: <span style="font-style: italic;"><i>Actief of verwijderd</i></span> (alleen bestaande streefcijfers). De standaardinstelling voor nieuwe doelen of uitsluitingen is <span style="font-style: italic;"><i>Actief</i></span>. Als u een actief doel of een actieve uitsluiting wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>Verwijderd</i></span>. |
-| Doelstatus van apparaat | <p>De status van het apparaatdoel op campagne- of advertentieniveau: <span class="Option">Actief</span> of <span class="Option">Verwijderd</span>. Voor nieuwe campagnes en advertentiegroepen is de standaardwaarde <span class="Option">Actief</span>.</p> |
+| [!UICONTROL Match Type] | <p>Voor dynamisch zoekdoel of productgroepen: De optie voor trefwoordafstemming voor het dynamische zoekdoel of de productgroep: <i>[!UICONTROL Dynamic Ad Target]</i> (standaard voor nieuwe dynamische zoekdoelen), <i>[!UICONTROL Product Group]</i> (standaard voor nieuwe productgroepen) of <i>[!UICONTROL Negative Product Group]</i> (om een productgroep uit te sluiten).</p><p>Voor trefwoorden: De optie voor trefwoordafstemming voor het trefwoord: <span style="font-style: italic;"><i>[!UICONTROL Broad]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Phrase]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Exact]</i></span>, of <span style="font-style: italic;"><i>[!UICONTROL Negative]</i></span> (om een trefwoord of een plaatsing op het weergavenetwerk uit te sluiten); productgroepen die voor winkeladvertenties worden gebruikt, hebben een overeenkomend type <span style="font-style: italic;"><i>[!UICONTROL Product Group]</i></span>. Als u <span style="font-style: italic;"><i>[!UICONTROL Negative]</i></span>, moet u ook het type opnemen dat moet worden uitgesloten (bijvoorbeeld Negatieve zin).</p><p>Voor nieuwe trefwoorden is de standaardwaarde <span style="font-style: italic;"><i>[!UICONTROL Broad]</i></span>. Een waarde voor het type van gelijke of sleutelwoordidentiteitskaart wordt vereist slechts om een sleutelwoord met veelvoudige gelijke types uit te geven.</p><p><b>Opmerking:</b></p><ul><li><p>Identieke typen zijn niet van toepassing op uitgebreide dynamische zoekadvertenties, die geen trefwoorden gebruiken.</p></li><li><p>Het overeenkomentype voor een [!DNL Google Ads] verwijdert het bestaande trefwoord en maakt een nieuw trefwoord.</p></li><li><p>Kies bij Breedte overeenkomende modifier &quot;Breed&quot; en voeg een + in vóór elk woord in het trefwoord waarvoor nauwe varianten vereist zijn (zoals &quot;+red +schoenen&quot; om nauwe varianten van zowel &quot;rood&quot; als &quot;schoenen&quot; te vereisen). <b>Opmerking:</b> Brede overeenkomende wijzigingstoetsen hebben nu hetzelfde gedrag als woordovereenkomst voor sommige talen en u kunt sinds juli 2021 geen nieuwe trefwoorden voor brede overeenkomsten maken. Zie [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/7042511) voor meer informatie .</p> |
+| [!UICONTROL First Page Bid] | (Opgenomen in gegenereerde bulksbladen ter informatie) Het bod dat vereist is om een advertentie op de eerste pagina van de zoekresultaten te plaatsen. Deze waarde wordt niet naar het advertentienetwerk gepost. |
+| [!UICONTROL Quality Score] | (Opgenomen in gegenereerde opsommingstekens ter informatie) De huidige kwaliteitsscore die de zoekfunctie aan het trefwoord heeft toegewezen. Deze waarde wordt niet naar het advertentienetwerk gepost.) |
+| [!UICONTROL Creative Preferred Devices] | (Tekstadvertenties, uitgebreide dynamische zoekopdrachten en verbeterde sitelinks; (optioneel) De apparaattypen waarop u de advertentie wilt weergeven: <span style="font-style: italic;"><i>[!UICONTROL All]</i></span> (de standaardwaarde) of <i>[!UICONTROL Mobile]</i>. Wanneer <i>[!UICONTROL Mobile]</i> wordt opgegeven, probeert het netwerk de advertentie voor gebruikers van mobiele apparaten weer te geven in plaats van voor gebruikers van desktops of tablets. Anders, toont het netwerk de advertentie op om het even welk apparatentype.</p><p><b>Opmerking:</b></p><ul><li><p>Alleen beheerder en [!DNL Adobe] gebruikers van accountmanagers kunnen deze instelling bewerken.</p></li><li><p>Het netwerk garandeert niet dat de advertentie op het voorkeurstype wordt weergegeven.</p></li><li><p>Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p></li></ul> |
+| [!UICONTROL Ad Title], [!UICONTROL Ad Title 2]-15 | (Alleen uitgebreide tekstadvertenties en responsieve zoekadvertenties) De kopregels van een advertentie, elk gescheiden door een verticale pipe ( | ). De maximumlengte voor elk veld van de advertentitel is 30 karakters of 15 dubbel-byte karakters, met inbegrip van om het even welke dynamische teksten (zoals de waarden van sleutelwoorden en adverteerders).</p><p>Voor responsieve zoekadvertenties: [!UICONTROL Ad Title], [!UICONTROL Ad Title 2], en [!UICONTROL Ad Title 3] zijn vereist en alle andere titelvelden zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p><p>Voeg voor responsieve zoekadvertenties een advertentieklanker in met de volgende indeling: `{CUSTOMIZER.AdCustomizerName:DefaultText}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022. |
+| [!UICONTROL Ad Title 1 Position]-[!UICONTROL Ad Title 15 Position] | <p>(Alleen responsieve zoekopdrachten; (optioneel) Een positie waarop de corresponderende advertentitel moet worden vastgezet: `[null]` (geen waarde waardoor de titel van de advertentie voor alle posities in aanmerking komt), <i>1</i>, <i>2</i>, of <i>3</i>. Als [!UICONTROL Ad Title Position] heeft een waarde van 1, dan verschijnt de Titel van de Advertentie slechts in Positie 1. Standaard zijn alle advertentitels null (geen waarden).</p><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p><p><b>Opmerking:</b> U kunt meerdere advertentitels vastzetten op dezelfde positie. In het advertentienetwerk wordt een van de advertentietitels gebruikt die op de positie zijn vastgezet. Titels die op positie 3 zijn vastgezet, worden mogelijk niet met de advertentie weergegeven.</p> |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 4] | <p>(Alleen uitgebreide dynamische zoekadvertenties, uitgevouwen tekstadvertenties en responsieve zoekadvertenties) De hoofdtekst van een advertentie. De maximumlengte voor elk beschrijvingsveld is 90 tekens of 45 double-byte tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).</p><p>Voeg voor responsieve zoekadvertenties een advertentieklanker in met de volgende indeling: `{CUSTOMIZER.AdCustomizerName:DefaultText}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>Gebruik voor uitgebreide dynamische zoekopdrachten [!UICONTROL Description Line 1] en [!UICONTROL Description Line 2] alleen. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p><p>Voor responsieve zoekadvertenties: [!UICONTROL Description Line 1] en [!UICONTROL Description Line 2] verplicht zijn, en [!UICONTROL Description Line 3] en [!UICONTROL Description Line 4] zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde <code>[delete]</code> (met inbegrip van de haakjes).</p> |
+| [!UICONTROL Description Line 1 Position]-[!UICONTROL Description Line 4 Position] | (Alleen responsieve zoekopdrachten; (optioneel) Een positie waarop de desbetreffende beschrijving moet worden vastgezet: `[null]` (geen waarde waardoor de beschrijving voor alle posities in aanmerking komt), <i>1</i>, <i>2</i>, of <i>3</i>. Als [!UICONTROL Description 1 Position] heeft een waarde van 1, dan [!UICONTROL Description 1] alleen op positie 1 wordt weergegeven. Standaard zijn geen beschrijvingen vastgezet op een positie.</p><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes).</p><p><b>Opmerking:</b> U kunt meerdere beschrijvingen vastzetten op dezelfde positie. Het advertentienetwerk gebruikt één van de beschrijvingen die aan de positie worden vastgezet. Beschrijvingen die op positie 2 zijn vastgezet, mogen niet met de advertentie worden getoond. |
+| [!UICONTROL Display URL] | De URL die is opgenomen in de advertentie.<br><br>Voor uitgebreide dynamische zoekopdrachten [!DNL Google Ads] Hiermee wordt deze waarde dynamisch gegenereerd vanuit het websitedomein. U hoeft geen waarde in te voeren.<br><br>Voor responsieve zoekopdrachten hoeft u geen waarde in te voeren. De weergave-URL wordt automatisch opgehaald uit het domein in de uiteindelijke URL. U kunt de URL desgewenst aanpassen met de velden Pad 1 en Pad 2.<br><br>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.<br><br><b>Opmerking:</b> (Accounts met definitieve URL&#39;s) De domeinnamen in de weergave-URL en de uiteindelijke URL moeten overeenkomen.</p> |
+| [!UICONTROL Display Path 1] | <p>(Uitgebreide tekstadvertenties<span> en responsieve zoekadvertenties</span> alleen)</p><p>(Optioneel) Tekst die wordt toegevoegd aan de weergave-URL en die automatisch wordt opgehaald uit de uiteindelijke URL. Het is voorafgegaan in URL door een voorwaartse schuine streep (/). Een pad mag geen forward slash (/) of newline (\n) tekens bevatten. De maximumlengte is 15 tekens of 7 double-byte tekens.</p><p>Als u een advertentieklanter wilt invoegen, gebruikt u de volgende indelingen, waarbij `Default text` is een optionele waarde die moet worden ingevoegd wanneer uw feed-bestand geen geldige waarde bevat:&lt; `{CUSTOMIZER.AdCustomizerName:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`</p><p>Als [!UICONTROL Display Path 1] is &quot;deals&quot;, dan is de weergave-URL &lt;<i>URL weergeven</i>>/deals, zoals www.example.com/deals.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p> |
+| [!UICONTROL Display Path 2] | een tweede weergavepad; zie de vermelding voor [!UICONTROL Display Path 1].<br><br>Voorbeeld: Indien [!UICONTROL Display Path 1] is &quot;deals&quot; en [!UICONTROL Display Path 2] is &quot;lokaal&quot;, dan is de weergave-URL &lt;<i>URL weergeven</i>>/deals/local, zoals www.example.com/deals/local.</p><p>U kunt geen tekstadvertenties maken of bewerken, maar u kunt wel tekstadvertenties verwijderen en uitbreiden, die [!DNL Google Ads] afgeschaft in juni 2022.</p> |
+| [!UICONTROL Promotion Line] | (Alleen advertenties voor aanbiedingen van producten) Een optionele promotielijn die in de zoekresultaten bij de aanbieding van het product moet worden gevoegd. De maximumlengte is 45 tekens.</p><p>De promotielijn kan op verschillende plaatsen ten opzichte van de advertentie (zoals onder de advertentie) verschijnen, afhankelijk van waar de advertentie op de pagina wordt weergegeven. |
+| [!UICONTROL Link Name] | <p>De sitelink-tekst. Het kan maximaal 25 tekens bevatten.</p><p>Voor nieuwe sitelinks moet u de naam van de campagne opnemen in de sitelink-rij. Voor sitelinks op advertentieniveau moet u ook de naam van de advertentiegroep opnemen.</p><p><b>Opmerking:</b> Bestaande tekst van 35 tekens wordt nog wel weergegeven in advertenties op desktops en tablets, maar niet op mobiele apparaten.</p> |
+| [!UICONTROL Mobile App Platform (Google Adwords)] | (Alleen voor bestaande installatielocaties voor apps) Het besturingssysteem waarop de mobiele toepassing wordt uitgevoerd: <i>Android™</i> of <i>ios</i>. |
+| [!UICONTROL Mobile App ID (Google Adwords)] | (Alleen bestaande installatieladingen voor apps) <p>De toepassings-id of pakketnaam. |
+| [!UICONTROL Mobile App Name (Google Adwords)] | (Alleen voor bestaande installatiemonsters) De naam van de toepassing. |
+| [!UICONTROL Start Date] | <p>(Alleen verbeterde sitelinks) De eerste datum waarop biedingen mogen worden uitgebracht voor de sitelink, in de tijdzone van de adverteerder en in een van de volgende formaten: <span style="font-style: italic;"><i>d/m/yyyy</i></span>, <span style="font-style: italic;"><i>d/m/yy</i></span>, <span style="font-style: italic;"><i>d-m-yyyy</i></span>, of <span style="font-style: italic;"><i>d-m-yy</i></span>. De standaard voor nieuwe verbeterde sitelinks is de huidige dag.</p><p><b>Opmerking:</b> Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p> |
+| [!UICONTROL End Date] | <p>(Alleen verbeterde sitelinks) De laatste datum waarop biedingen voor de sitelink mogen worden uitgebracht, in de tijdzone van de adverteerder en in een van de volgende formaten:  <span style="font-style: italic;"><i>d/m/yyyy</i></span>, <span style="font-style: italic;"><i>d/m/yy</i></span>, <span style="font-style: italic;"><i>d-m-yyyy</i></span>, of <span style="font-style: italic;"><i>d-m-yy</i></span>. De standaardwaarde is geen (geen einddatum).</p><p><b>Opmerking:</b> Nieuwe verbeterde sitelinks kunnen alleen worden gemaakt in campagnes met bestaande verbeterde sitelinks of zonder sitelinks.</p> |
+| [!UICONTROL Exclude Tablet (Google Adwords)] | (Alleen bestaande installatieladingen voor apps)</p><p>(Optioneel) Voorkomen [!DNL Google Ads] van het weergeven van de advertentie naar tabletgebruikers. Waarden kunnen <i>ja</i> en <i>nee</i>. |
+| [!UICONTROL Landing Page Suffix] | Alle parameters die aan het einde van de uiteindelijke URL&#39;s moeten worden toegevoegd om informatie bij te houden. Voorbeeld: `param2=value1&param3=value2`<br><br>Zie &quot;[Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md).&quot;<br><br>De laatste URL-achtervoegsels op lagere niveaus overschrijven het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor. |
+| [!UICONTROL Tracking Template] | De volgende sjabloon, die alle buiten-landingsdomein omleidt en het volgen parameters specificeert en definitieve URL in een inbedt [!DNL ValueTrack] parameter. De het volgen malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelig) treedt de waarden op alle hogere niveaus met voeten.<br><br>Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch zijn eigen omleiding en volgcode toe wanneer u sparen het verslag.<br><br>Voer een waarde in voor omleidingen en bijhouden door derden. Voor een lijst met [!DNL ValueTrack] parameters om definitieve URLs in het volgen malplaatjes aan te geven, zie de &quot;het Volgen malplaatje&quot;parameters in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/2375447).<br><br>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| [!UICONTROL Base URL/Final URL] | De bestemmingspagina URL waarnaar de gebruikers van de onderzoeksmotor worden genomen wanneer zij uw advertentie klikken, met inbegrip van om het even welke toevoegingsparameters die voor de campagne of de rekening worden gevormd. Basis/definitieve URLs op het sleutelwoordniveau treedt die op het advertentieniveau en hoger met voeten.<br><br>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| [!UICONTROL Destination URL] | (Ter informatie opgenomen in gegenereerde bulksbladen; (niet gepost aan de zoekmachine) Voor accounts met doel-URL&#39;s is dit de URL die een advertentie koppelt aan een basis-URL/bestemmingspagina op de website van de adverteerder (soms via een andere site die de klik bijhoudt en de gebruiker vervolgens doorstuurt naar de bestemmingspagina). Het omvat om het even welke toevoegingsparameters die voor de Onderzoek, Sociale, &amp; de campagne of de rekening van de Handel worden gevormd. Als u URL&#39;s voor bijhouden hebt gegenereerd, is dit gebaseerd op de volgende parameters in uw accountinstellingen en campagnemontages. Als u specifieke parameters voor zoekprogramma&#39;s hebt toegevoegd, kunnen deze worden vervangen door de equivalente parameters voor Zoeken, Sociale &amp; Handel.<br><br>Voor accounts met uiteindelijke URL&#39;s geeft deze kolom dezelfde waarde weer als de kolom Basis-URL/Definitieve URL. |
+| [!UICONTROL Custom URL Param] | Gegevens ter vervanging van de `{custom_code}` dynamische variabele wanneer de variabele is opgenomen in de volgende parameters voor de instellingen van de zoekaccount of campagne. Als u de aangepaste waarde in de URL voor bijhouden wilt invoegen, moet u het bestand met de opsommingstekens uploaden met de optie URL&#39;s voor bijhouden genereren. |
+| [!UICONTROL Creative Type] | De advertentievorm: <i>[!UICONTROL Text ad]</i>, <i>[!UICONTROL Expanded text ad]</i>, <i>[!UICONTROL Dynamic search ad]</i> (afgekeurd advertentietype), <i>[!UICONTROL Expanded Dynamic Search ad]</i>, &lt;[!UICONTROL i>Display ad]</i>, <i>[!UICONTROL App Install ad]</i> (afgekeurd), <i>[!UICONTROL Image]</i>, <i>[!UICONTROL Product ad<]/i> (winkeladvertenties), of <i>[!UICONTROL Responsive search ad]</i>. De standaardinstelling voor nieuwe advertenties is <i>[!UICONTROL Text ad]</i>.<br><br>Vereist om de status van een productadvertentie te maken of te bewerken. |
+| [!UICONTROL Param1] | <p>De numerieke waarde van de `{param1}` ad parameter, die kan worden opgenomen in de advertentie-kopie of weergave-URL voor elke advertentie in het bulksbladbestand. De maximumlengte is 25 tekens en u kunt de volgende niet-numerieke tekens opnemen:</p><ul><li><p>De waarde kan worden voorafgegaan of toegevoegd met een valutasymbool of -code. Bijvoorbeeld: `£2.000,00` en `2000GBP` zijn geldig.</p></li><li><p>De waarde kan een komma (`,`) of punt (`.`) als scheidingsteken, met een optionele punt (`.`) of komma (`,`) voor fractionele waarden. Bijvoorbeeld: `1,000.00` en `2.000,10` zijn geldig.</p></li><li><p>De waarde kan worden voorafgegaan of met een percentageteken worden toegevoegd (`%`), plusteken (`+`), of minteken (`- `). Bijvoorbeeld: `20%`, `208+`, en `-42.32` zijn geldig.</p></li><li><p>Twee getallen kunnen worden ingesloten met een slash. Bijvoorbeeld: `4/1` en `0.95/0.45` zijn geldig.</p></li></ul><p>Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes).</p> |
+| [!UICONTROL Param2] | De numerieke waarde van de `{param2}` ad parameter, die kan worden opgenomen in de advertentie-kopie of weergave-URL voor elke advertentie in het bulksbladbestand. Zie de ingang voor Param1 voor meer informatie. |
+| [!UICONTROL Audience] | De lijst voor opnieuw op de markt brengen voor onderzoeksadvertenties (RLSA) richt publiek of uitgesloten publiek voor de campagne of de ad groep. Geef op of dit een doel of een uitsluiting is in het veld &quot;Doeltype&quot;. |
+| [!UICONTROL Target Type] | (Wanneer een publiek wordt gespecificeerd) Of het gespecificeerde publiek een publiek is <i>Opname</i> (doel) of <i>Uitsluiting</i>. |
+| [!UICONTROL Campaign Status] | De weergavestatus van de campagne: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Ended]</i> (niet bewerkbaar), of <i>[!UICONTROL Deleted]</i> (alleen bestaande campagnes). De standaardinstelling voor nieuwe campagnes is <i>[!UICONTROL Active]</i>. Als u een actieve of gepauzeerde campagne wilt verwijderen, voert u de waarde in <i>[!UICONTROL Deleted]</i>. |
+| [!UICONTROL Ad Group Status] | De weergavestatus van de advertentiegroep: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, of <i>[!UICONTROL Deleted]</i> (alleen bestaande advertentiegroepen). De standaardinstelling voor nieuwe advertentiegroepen is [!UICONTROL Active]. Als u een actieve of gepauzeerde ad-groep wilt verwijderen, voert u de waarde in `Deleted`. |
+| [!UICONTROL Keyword Status] | De weergavestatus van het trefwoord: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, of <i>[!UICONTROL Deleted]</i> (alleen bestaande trefwoorden). De standaardwaarde voor nieuwe trefwoorden is [!UICONTROL Active]. Als u een actief of gepauzeerd trefwoord wilt verwijderen, voert u de waarde in <i>[!UICONTROL Deleted]</i>. |
+| [!UICONTROL Ad Status] | De weergavestatus van de advertentie: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Deleted]</i> (alleen bestaande advertenties), <i>[!UICONTROL Disapproved]</i> (niet bewerkbaar), of <i>[!UICONTROL Paused]</i>. De standaardinstelling voor nieuwe advertenties is [!UICONTROL Active]. Als u een actieve of gepauzeerde advertentie wilt verwijderen, voert u de waarde in <i>[!UICONTROL Deleted]</i>. |
+| [!UICONTROL Placement Status] | De status van de plaatsing van de website: <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Paused]</i></span>, of <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span> (alleen bestaande advertenties). De standaardinstelling voor nieuwe websites is <span style="font-style: italic;"><i>Actief.</i></span> Als u een actieve of gepauzeerde plaatsing wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span>. |
+| [!UICONTROL Target Status] | De status van een dynamisch zoekdoel: <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span>, <span style="font-style: italic;"><i>[!UICONTROL Paused]</i></span>, of <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span> (alleen bestaande streefcijfers). De standaardinstelling voor nieuwe doelen is <span style="font-style: italic;"><i>Actief.</i></span> Als u een actief of gepauzeerd doel wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span>. |
+| [!UICONTROL Product Group Status] | De weergavestatus van de productgroep: <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span> <span>of</span> <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span> (alleen bestaande productgroepen). De standaardwaarde voor nieuwe productgroepen is <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span>. Als u een actieve productgroep wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span>. |
+| [!UICONTROL Sitelink Status] | De weergavestatus van de sitelink: <span style="font-style: italic;"><i>Actief of verwijderd</i></span> (alleen bestaande sitelinks). De standaardinstelling voor nieuwe sitelinks is <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span>. Als u een actieve sitelink wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span>. |
+| [!UICONTROL Location Status] | De status van het locatiedoel: <i>[!UICONTROL Active]</i> of <i>[!UICONTROL Deleted]</i> (alleen bestaande locaties). De standaardinstelling voor nieuwe locaties is [!UICONTROL Active]. Als u een actieve locatie wilt verwijderen, voert u de waarde in <i>[!UICONTROL Deleted]</i>. |
+| [!UICONTROL RLSA Target Status] | De status van het doel of de uitsluiting van de RLSA op campagne- of advertentieniveau: <span style="font-style: italic;"><i>[!UICONTROL Active]</i> of [!UICONTROL Deleted]</i></span> (alleen bestaande streefcijfers). De standaardinstelling voor nieuwe doelen of uitsluitingen is <span style="font-style: italic;"><i>[!UICONTROL Active]</i></span>. Als u een actief doel of een actieve uitsluiting wilt verwijderen, voert u de waarde in <span style="font-style: italic;"><i>[!UICONTROL Deleted]</i></span>. |
+| [!UICONTROL Device Target Status] | <p>De status van het apparaatdoel op campagne- of advertentieniveau: <i>[!UICONTROL Active]</i> of <i>[!UICONTROL Deleted]</i>. Voor nieuwe campagnes en advertentiegroepen is de standaardwaarde <i>[!UICONTROL Active]</i>.</p> |
 | \[Advertiserspecifieke labelclassificatie\] | (Benoemd voor een advertentiespecifieke labelclassificatie, zoals &quot;Kleur&quot; voor een labelclassificatie genaamd Kleur) Een waarde voor de opgegeven classificatie die aan de entiteit is gekoppeld. U kunt per entiteit slechts één waarde per classificatie opnemen (zoals &quot;rood&quot; voor de labelclassificatie &quot;Kleur&quot; voor campagne A). De maximumlengte is 100 tekens en de waarde kan ASCII- en niet-ASCII-tekens bevatten.<br><br>De classificaties van het etiket en hun etiketwaarden worden toegepast op alle kindcomponenten; nieuwe componenten die later worden toegevoegd, worden automatisch aan het label gekoppeld. De etiketclassificaties voor productgroepen worden toegepast op het eenheidniveau (het meest korrelige).<br><br>Noch de classificatienaam noch de classificatiewaarde is hoofdlettergevoelig. |
-| Restricties | Een beperking die aan de entiteit is toegewezen. U kunt slechts één beperking per entiteit toewijzen.<br><b>>Restricties worden overgeërfd door onderliggende entiteiten, zodat u geen waarden voor onderliggende entiteiten hoeft in te voeren, tenzij u de overgeërfde waarden wilt overschrijven. |
-| Campagne-id | De unieke id die een bestaande campagne identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. |
-| Groep-id toevoegen | De unieke id die een bestaande advertentiegroep identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &#39;AMO-id&#39; voor de advertentiegroep bevat. |
-| Trefwoord-id | De unieke id die een bestaand trefwoord identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Vereist slechts wanneer u het sleutelwoord verandert, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) een &quot;identiteitskaart van AMO.&quot; |
-| ID advertentie | <p>De unieke id die een bestaande advertentie identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Voor responsieve zoekopdrachten is de ID van de advertentie of de AMO-id vereist om advertentiegegevens te bewerken of te verwijderen. Voor alle andere entiteitstypen is de advertentie-id alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met eigenschappen bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties.</p><p><b>Opmerking:</b> Als u a) en bezitskolommen behalve Status voor een bestaande advertentie uitgeeft, of b) om het even welke gegevens voor een ontvankelijke onderzoeksadvertentie, en u omvat noch identiteitskaart van de Advertentie noch identiteitskaart AMO, dan wordt een nieuwe advertentie gecreeerd, en de bestaande advertentie wordt niet veranderd.</p> |
-| Plaatsing-id | De unieke id die een plaatsing van een website identificeert. Deze optie is alleen vereist wanneer u de plaatsing wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de plaatsing te identificeren of b) een &quot;AMO-id&quot;. |
-| Doel-id | De unieke id die een bestaand automatisch doel identificeert. Deze optie is alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
-| Productgroep-id | De unieke id die een bestaande productgroep identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Dit is alleen vereist wanneer u de productgroep wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de productgroep te identificeren of b) een &quot;AMO-id&quot;. |
-| Sitelink-id | De unieke id die een bestaande sitelink identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) een &quot;AMO-id&quot;. Als u echter geen Sitelink-id of AMO-id opneemt en de eigenschapskolommen overeenkomen met meerdere sitelinks, verandert de status voor slechts een van de sitelinks.</p><p><b>Opmerking:</b> Als u de kolommen van de sitelink-eigenschap behalve Status voor een bestaande sitelink bewerkt en u noch de Sitelink-id noch de AMO-id opneemt, wordt een nieuwe sitelink gemaakt en wordt de bestaande sitelink niet gewijzigd. |
-| RLSA doel-id | De unieke id die een bestaand RLSA-doel of -uitsluiting op campagne- of advertentieniveau identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u het doel of de uitsluiting wijzigt of verwijdert, tenzij de rij een &#39;AMO-id&#39; voor het doel bevat. |
-| Apparaatdoel-id | <p>De unieke id die een bestaand doel of een bestaande uitsluiting op campagnereniveau of op ad-groepsniveau aangeeft. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat.</p> |
-| AMO-id | (In gegenereerde bulksbladen) Een unieke id die door Adobe wordt gegenereerd voor een gesynchroniseerde entiteit. Voor responsieve zoekopdrachten is de AMO-id vereist om advertenties te bewerken of te verwijderen, tenzij u de advertentie-id opneemt. Als u gegevens voor alle andere entiteitstypen met een AMO-id wilt bewerken, moet de AMO-id de gegevens bewerken of verwijderen, tenzij u de id van de entiteit en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
-| EF-foutbericht | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van het advertentienetwerk betreffende gegevens in de rij; foutberichten worden opgenomen in EF-foutbestanden. Deze waarde wordt niet naar het advertentienetwerk gepost. |
-| Foutbericht SE | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van het advertentienetwerk betreffende gegevens in de rij; foutberichten worden opgenomen in de bestanden met SE-fouten. Deze waarde wordt niet naar het advertentienetwerk gepost. |
-| Vrijstellingsverzoek | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van de namen en tekst van [!DNL Google Ads] reclamebeleid dat een advertentie schendt. |
-| Retail Hash | (Ter informatie opgenomen in bulksbladen die zijn gegenereerd met Advanced Campaign Management) Een alfanumerieke hash-code (zoals f9639f40cdf56524b541e5dacf55a991) die aangeeft dat het item is gegenereerd met de weergave Geavanceerd (ACM). |
+| [!UICONTROL Constraints] | Een beperking die aan de entiteit is toegewezen. U kunt slechts één beperking per entiteit toewijzen.<br><b>>Restricties worden overgeërfd door onderliggende entiteiten, zodat u geen waarden voor onderliggende entiteiten hoeft in te voeren, tenzij u de overgeërfde waarden wilt overschrijven. |
+| [!UICONTROL Campaign ID] | De unieke id die een bestaande campagne identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij de waarde &quot;[!UICONTROL AMO ID]&quot; voor de campagne . |
+| [!UICONTROL Ad Group ID] | De unieke id die een bestaande advertentiegroep identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij de waarde &quot;[!UICONTROL AMO ID]&quot; voor de advertentiegroep. |
+| [!UICONTROL Keyword ID] | De unieke id die een bestaand trefwoord identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Vereist slechts wanneer u het sleutelwoord verandert, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) &quot;[!UICONTROL AMO ID]&quot;.&quot; |
+| [!UICONTROL Ad ID] | <p>De unieke id die een bestaande advertentie identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Voor responsieve zoekopdrachten is de ID van de advertentie of de AMO-id vereist om advertentiegegevens te bewerken of te verwijderen. Voor alle andere entiteitstypen is de advertentie-id alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met eigenschappen bevat om de advertentie te identificeren of b) en &quot;[!UICONTROL AMO ID]&quot;.&quot; Als u echter geen van de [!UICONTROL Ad ID] noch [!UICONTROL AMO ID]en de kolommen met de eigenschap ad-eigenschap komen overeen met meerdere advertenties. De status voor slechts een van de advertenties verandert dan.</p><p><b>Opmerking:</b> Als u a) en bezitskolommen behalve Status voor een bestaande advertentie uitgeeft, of b) om het even welke gegevens voor een ontvankelijke onderzoeksadvertentie, en u omvat noch [!UICONTROL Ad ID] noch [!UICONTROL AMO ID], wordt er een nieuwe advertentie gemaakt en de bestaande advertentie wordt niet gewijzigd.</p> |
+| [!UICONTROL Placement ID] | De unieke id die een plaatsing van een website identificeert. Dit is alleen vereist wanneer u de plaatsing wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de plaatsing te identificeren, of b) en &quot;[!UICONTROL AMO ID]&quot;.&quot; |
+| [!UICONTROL Target ID] | De unieke id die een bestaand automatisch doel identificeert. Alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel. |
+| [!UICONTROL Product Group ID] | De unieke id die een bestaande productgroep identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Dit is alleen vereist wanneer u de productgroep wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de productgroep te identificeren of b) en &quot;[!UICONTROL AMO ID]&quot;.&quot; |
+| [!UICONTROL Sitelink ID] | De unieke id die een bestaande sitelink identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Dit is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) en &quot;[!UICONTROL AMO ID]&quot;.&quot; Als u echter geen van beide opties opneemt [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID]en de eigenschapskolommen overeenkomen met meerdere sitelinks. De status voor slechts een van de sitelinks wordt dan gewijzigd.</p><p><b>Opmerking:</b> Als u eigenschapkolommen sitelink bewerkt, behalve Status voor een bestaande sitelink, en u geen van beide kolommen [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID], wordt er een nieuwe sitelink gemaakt en de bestaande sitelink wordt niet gewijzigd. |
+| [!UICONTROL RLSA Target ID] | De unieke id die een bestaand RLSA-doel of -uitsluiting op campagne- of advertentieniveau identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Deze optie is alleen vereist wanneer u het doel of de uitsluiting wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel. |
+| [!UICONTROL Device Target ID] | <p>De unieke id die een bestaand doel of een bestaande uitsluiting op campagnereniveau of op ad-groepsniveau aangeeft. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1] Alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel.</p> |
+| [!UICONTROL AMO ID] | (In gegenereerde bulksbladen) Een unieke id die door Adobe wordt gegenereerd voor een gesynchroniseerde entiteit. Voor responsieve zoekopdrachten is de AMO-id vereist om advertenties te bewerken of te verwijderen, tenzij u de advertentie-id opneemt. Als u gegevens voor alle andere entiteitstypen met een AMO-id wilt bewerken, moet de AMO-id de gegevens bewerken of verwijderen, tenzij u de id van de entiteit en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL EF Error Message] | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van het advertentienetwerk betreffende gegevens in de rij; foutberichten worden opgenomen in [!UICONTROL EF Errors] bestanden. Deze waarde wordt niet naar het advertentienetwerk gepost. |
+| [!UICONTROL SE Error Message] | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van het advertentienetwerk betreffende gegevens in de rij; foutberichten worden opgenomen in [!UICONTROL SE Errors] bestanden. Deze waarde wordt niet naar het advertentienetwerk gepost. |
+| [!UICONTROL Exemption Request] | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van de namen en tekst van [!DNL Google Ads] reclamebeleid dat een advertentie schendt. |
+| [!UICONTROL Retail Hash] | (Ter informatie opgenomen in bulksbladen die zijn gegenereerd met Advanced Campaign Management) Een alfanumerieke hash-code (zoals f9639f40cdf56524b541e5dacf55a991) die aangeeft dat het item is gegenereerd met de weergave Geavanceerd (ACM). |
 
 <table style="table-layout:auto">
 
@@ -122,95 +122,95 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 | Veld | Vereist? |
 | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist | De unieke naam die een campagne voor een account identificeert. |
-| Campagnebudget | Vereist om een campagne te maken. | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
-| Leveringsmethode | Vereist om een campagne te maken. |
-| Kanaaltype | Vereist om een campagne te maken. |
-| Netwerken | Vereist om een campagne te maken. |
-| DSA-domeinnaam | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
-| DSA-domeintaal | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
-| Campagneprioriteit | Vereist om een winkelcampagne te maken. |
-| Merchant ID | Vereist om een winkelcampagne te maken. |
-| Verkoopland | Vereist om een winkelcampagne te maken. |
-| Filter Productbereik | (Winkelcampagnes) Optioneel |
-| Talen | Optioneel |
-| Apparaatdoelen | Optioneel |
-| Apparaatbesturingssysteemdoelen (Google Adwords) | Optioneel |
-| Mobiele dragers (Google Adwords) | Optioneel |
-| Doelmethode publiek | n.v.t. |
-| Achtervoegsel bestemmingspagina | Optioneel |
-| Sjabloon voor bijhouden | Optioneel |
-| Campagnestatus | Alleen vereist om een campagne te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist | De unieke naam die een campagne voor een account identificeert. |
+| [!UICONTROL Campaign Budget] | Vereist om een campagne te maken. | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
+| [!UICONTROL Delivery Method] | Vereist om een campagne te maken. |
+| [!UICONTROL Channel Type] | Vereist om een campagne te maken. |
+| [!UICONTROL Networks] | Vereist om een campagne te maken. |
+| [!UICONTROL DSA Domain Name] | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
+| [!UICONTROL DSA Domain Language] | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
+| [!UICONTROL Campaign Priority] | Vereist om een winkelcampagne te maken. |
+| [!UICONTROL Merchant ID] | Vereist om een winkelcampagne te maken. |
+| [!UICONTROL Sales Country] | Vereist om een winkelcampagne te maken. |
+| [!UICONTROL Product Scope Filter] | (Winkelcampagnes) Optioneel |
+| [!UICONTROL Languages] | Optioneel |
+| [!UICONTROL Device Targets] | Optioneel |
+| [!UICONTROL Device Targets (Google Adwords)] | Optioneel |
+| [!UICONTROL Mobile Carriers (Google Adwords)] | Optioneel |
+| [!UICONTROL Audience Target Method] | n.v.t. |
+| [!UICONTROL Landing Page Suffix] | Optioneel |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Campaign Status] | Alleen vereist om een campagne te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Deze optie is alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de campagne bevat. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Alleen vereist wanneer u de naam van de campagne wijzigt, tenzij de rij de waarde &quot;[!UICONTROL AMO ID]&quot; voor de campagne . |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Groepsvelden toevoegen
 
 | Veld | Vereist? |
 | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Netwerken | n.v.t. |
-| Aangepast biedingsniveau GDN | Optioneel |
-| Naam advertentiegroep | Vereist |
-| Type advertentiegroep | Vereist om een advertentiegroep te maken. |
-| Max CPC | Optioneel |
-| Max. inhoud CPC | Optioneel |
-| Doelmethode publiek | Vereist |
-| Sjabloon voor bijhouden | Optioneel |
-| Status van advertentiegroep | Alleen vereist om een advertentiegroep te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Networks] | n.v.t. |
+| [!UICONTROL GDN Custom Bid Level] | Optioneel |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Ad Group Type] | Vereist om een advertentiegroep te maken. |
+| [!UICONTROL Max CPC] | Optioneel |
+| [!UICONTROL Max Content CPC] | Optioneel |
+| [!UICONTROL Audience Target Method] | Vereist |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Ad Group Status] | Alleen vereist om een advertentiegroep te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Groep-id toevoegen | Alleen vereist wanneer u de naam van de advertentiegroep wijzigt, tenzij de rij een &quot;AMO-id&quot; voor de advertentiegroep bevat. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Ad Group ID] | Alleen vereist wanneer u de naam van de advertentiegroep wijzigt, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor de advertentiegroep. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Trefwoordvelden
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Max CPC | Optioneel |
-| Trefwoord | Vereist |
-| Type afstemmen | Een waarde voor of het gelijke type of sleutelwoordidentiteitskaart wordt vereist om een sleutelwoord met veelvoudige gelijke types uit te geven of te schrappen. |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Optioneel |
-| Aangepast URL-parameters | Optioneel |
-| Param1 | Optioneel |
-| Param2 | Optioneel |
-| Trefwoordstatus | Alleen vereist om een trefwoord te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Max CPC] | Optioneel |
+| [!UICONTROL Keyword] | Vereist |
+| [!UICONTROL Match Type] | Een waarde voor of het gelijke type of sleutelwoordidentiteitskaart wordt vereist om een sleutelwoord met veelvoudige gelijke types uit te geven of te schrappen. |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Optioneel |
+| [!UICONTROL Custom URL Param] | Optioneel |
+| [!UICONTROL Param1] | Optioneel |
+| [!UICONTROL Param2] | Optioneel |
+| [!UICONTROL Keyword Status] | Alleen vereist om een trefwoord te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| Trefwoord-id | Vereist slechts wanneer u het sleutelwoord uitgeeft of schrapt, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) een &quot;identiteitskaart van AMO.&quot; |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Keyword ID] | Vereist slechts wanneer u het sleutelwoord uitgeeft of schrapt, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) &quot;[!UICONTROL AMO ID].&quot; |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Plaatsingsvelden
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Max Placement CPC (Google Adwords) | Optioneel |
-| Max Placement CPM (Google Adwords) | Optioneel |
-| Plaatsing | Vereist |
-| Type afstemmen | Vereist |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Optioneel |
-| Aangepast URL-parameters | Optioneel |
-| Plaatsingsstatus | Optioneel: Maken of bewerken<br><br>Vereist: Verwijderen |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Max Placement CPC (Google Adwords)] | Optioneel |
+| [!UICONTROL Max Placement CPM (Google Adwords)] | Optioneel |
+| [!UICONTROL Placement] | Vereist |
+| [!UICONTROL Match Type] | Vereist |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Optioneel |
+| [!UICONTROL Custom URL Param] | Optioneel |
+| [!UICONTROL Placement Status] | Alleen vereist om een plaatsing te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| Plaatsing-id | Deze optie is alleen vereist wanneer u de plaatsing bewerkt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de plaatsing te identificeren of b) een &quot;AMO-id&quot;. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Placement ID] | Dit is alleen vereist wanneer u de plaatsing bewerkt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de plaatsing te identificeren, of b) en &quot;[!UICONTROL AMO ID].&quot; |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Uitgebreide dynamische zoekopdracht
 
@@ -220,20 +220,20 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Creatieve voorkeursapparaten | Optioneel |
-| Beschrijving regel 1-2 | Vereist om een advertentie te maken of de beschrijving te bewerken. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie. |
-| URL weergeven | Vereist |
-| Sjabloon voor bijhouden | Optioneel |
-| Creatief type | Vereist om de status van een productadvertentie te maken of te bewerken. |
-| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Creative Preferred Devices] | Optioneel |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] | Vereist om een advertentie te maken of de beschrijving te bewerken. <b>Opmerking:</b> Als u voor dit advertentietype wijzigingen aanbrengt in de advertentie, verwijdert u de bestaande advertentie en maakt u een nieuwe advertentie. |
+| [!UICONTROL Display URL] | Vereist |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Creative Type] | Vereist om de status van een productadvertentie te maken of te bewerken. |
+| [!UICONTROL Ad Status] | Vereist om een advertentie te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Ad ID] | Dit is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van de [!UICONTROL Ad ID] noch [!UICONTROL AMO ID]en de kolommen met de eigenschap ad-eigenschap komen overeen met meerdere advertenties. De status voor slechts een van de advertenties verandert dan. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Aanbiedings-/winkeladvertentievelden
 
@@ -243,21 +243,21 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Aanbiedingslijn | Optioneel |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Optioneel |
-| Aangepast URL-parameters | Optioneel |
-| Creatief type | Vereist om de status van een productadvertentie te maken of te bewerken. |
-| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Promotion Line] | Optioneel |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Optioneel |
+| [!UICONTROL Custom URL Param] | Optioneel |
+| [!UICONTROL Creative Type] | Vereist om de status van een productadvertentie te maken of te bewerken. |
+| [!UICONTROL Ad Status] | Vereist om een advertentie te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Ad ID] | Dit is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van de [!UICONTROL Ad ID] noch [!UICONTROL AMO ID]en de kolommen met de eigenschap ad-eigenschap komen overeen met meerdere advertenties. De status voor slechts een van de advertenties verandert dan. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Responsieve zoekopdrachten en velden
 
@@ -265,25 +265,25 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist | |
-| Advertentitel, advertentietak 2-15 | Voor responsieve zoekadvertenties zijn Advertentitel, Advertentitel 2 en Advertentitel 3 vereist om een advertentie te maken, en alle andere advertentievelden zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
-| Titel 1-15 Positie toevoegen | Optioneel |
-| Beschrijving regel 1-4 | Voor responsieve zoekadvertenties zijn Beschrijving regel 1 en Beschrijving regel 2 vereist om een advertentie te maken, en Beschrijving regel 3 en Beschrijving regel 4 zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
-| Beschrijving regel 1-4 positie | Optioneel |
-| Pad 1 weergeven | Optioneel |
-| Pad 2 weergeven | Optioneel |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Vereist om een advertentie te maken. |
-| Aangepast URL-parameters | Optioneel |
-| Creatief type | Optioneel |
-| Advertentiestatus | Vereist om een advertentie te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist | |
+| [!UICONTROL Ad Title], [!UICONTROL Ad Title 2]-15 | Voor responsieve zoekadvertenties: [!UICONTROL Ad Title], [!UICONTROL Ad Title 2], en [!UICONTROL Ad Title 3] zijn vereist om een advertentie te maken en alle andere velden voor advertentietoldaties zijn optioneel. Als u de bestaande waarde voor een niet-vereist veld wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| [!UICONTROL Ad Title 1 Position]-[!UICONTROL Ad Title 15 Position] | Optioneel |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 4] | Voor responsieve zoekadvertenties: [!UICONTROL Description Line 1] en [!UICONTROL Description Line 2] zijn vereist om een advertentie te maken, en [!UICONTROL Description Line 3] en [!UICONTROL Description Line 4] zijn optioneel. Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (met inbegrip van de haakjes). |
+| [!UICONTROL Description Line 1 Position]-[!UICONTROL Description Line 4 Position] | Optioneel |
+| [!UICONTROL Display Path 1] | Optioneel |
+| [!UICONTROL Display Path 2] | Optioneel |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Vereist om een advertentie te maken. |
+| [!UICONTROL Custom URL Param] | Optioneel |
+| [!UICONTROL Creative Type] | Optioneel |
+| [!UICONTROL Ad Status] | Vereist om een advertentie te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| ID advertentie | Vereist om advertenties te bewerken of te verwijderen, tenzij de rij een &quot;AMO-id&quot; bevat. |
-| AMO-id | Je moet advertenties bewerken of verwijderen, tenzij je de advertentie-id opneemt. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Ad ID] | Vereist om advertenties te bewerken of te verwijderen, tenzij de rij een &quot;[!UICONTROL AMO ID].&quot; |
+| [!UICONTROL AMO ID] | Je moet advertenties bewerken of verwijderen, tenzij je de advertentie-id opneemt. |
 
 ### Tekst en velden
 
@@ -295,128 +295,128 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Creatieve voorkeursapparaten | Alleen-lezen |
-| Advertentietitel, en titel 2-3 | Alleen-lezen |
-| Beschrijving regel 1-2 | Alleen-lezen |
-| URL weergeven | Alleen-lezen |
-| Pad 1 weergeven | Alleen-lezen |
-| Pad 2 weergeven | Alleen-lezen |
-| Sjabloon voor bijhouden | Alleen-lezen |
-| Basis-URL/Definitieve URL | Alleen-lezen |
-| Aangepast URL-parameters | Alleen-lezen |
-| Creatief type | Optioneel |
-| Advertentiestatus | Vereist |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Creative Preferred Devices] | Alleen-lezen |
+| [!UICONTROL Ad Title], en Titel 2-3 | Alleen-lezen |
+| [!UICONTROL Description Line 1]-[!UICONTROL Description Line 2] Alleen-lezen |
+| [!UICONTROL Display URL] | Alleen-lezen |
+| [!UICONTROL Display Path 1] | Alleen-lezen |
+| [!UICONTROL Display Path 2] | Alleen-lezen |
+| [!UICONTROL Tracking Template] | Alleen-lezen |
+| [!UICONTROL Base URL/Final URL] | Alleen-lezen |
+| [!UICONTROL Custom URL Param] | Alleen-lezen |
+| [!UICONTROL Creative Type] | Optioneel |
+| [!UICONTROL Ad Status] | Vereist |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| ID advertentie | Deze optie is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) een &quot;AMO-id&quot; te identificeren. Als u echter noch de ID van de advertentie, noch de AMO-id opneemt en de kolommen met de eigenschap advertentie komen overeen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Ad ID] | Dit is alleen vereist wanneer u de advertentiestatus wijzigt, tenzij de rij a) voldoende kolommen met ad-eigenschap bevat om de advertentie of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van de [!UICONTROL Ad ID] noch [!UICONTROL AMO ID]en de kolommen met de eigenschap ad-eigenschap komen overeen met meerdere advertenties. De status voor slechts een van de advertenties verandert dan. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Dynamische doelvelden (automatisch doel) voor zoeken
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Max CPC | Optioneel |
-| Automatische doelexpressie | Vereist als de instelling voor de campagne &quot;Mijn website-inhoud gebruiken om mijn advertenties te activeren&quot; niet is ingeschakeld. anders facultatief. |
-| Type afstemmen | Optioneel |
-| Doelstatus | Vereist om een doel te verwijderen |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Max CPC] | Optioneel |
+| [!UICONTROL Auto Target Expression] | Alleen vereist als de instelling voor de campagne op &quot;[!UICONTROL Use my website contents to target my ads]&quot; is niet ingeschakeld. |
+| [!UICONTROL Match Type] | Optioneel |
+| [!UICONTROL Target Status] | Vereist om een doel te verwijderen |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| Doel-id | Deze optie is alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Target ID] | Alleen vereist wanneer u het automatische doel wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Velden voor productgroepen kopen
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist |
-| Max CPC | Vereist om een productgroep te maken. |
-| Bovenliggende productgroepen | Vereist |
-| Productgroepering | Vereist |
-| Type partitie | Vereist om een productgroep te maken. |
-| Type afstemmen | Optioneel |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Vereist |
-| Status van productgroep | Alleen vereist om een productgroep te verwijderen. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist |
+| [!UICONTROL Max CPC] | Vereist om een productgroep te maken. |
+| [!UICONTROL Parent Product Groupings] | Vereist |
+| [!UICONTROL Product Grouping] | Vereist |
+| [!UICONTROL Partition Type] | Vereist om een productgroep te maken. |
+| [!UICONTROL Match Type] | Optioneel |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Vereist |
+| [!UICONTROL Product Group Status] | Alleen vereist om een productgroep te verwijderen. |
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
-| Restricties | Optioneel |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| Productgroep-id | Dit is alleen vereist wanneer u de productgroep wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de productgroep te identificeren of b) een &quot;AMO-id&quot;. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Constraints] | Optioneel |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Product Group ID] | Dit is alleen vereist wanneer u de productgroep wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de productgroep te identificeren of b) en &quot;[!UICONTROL AMO ID].&quot; |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Sitemelinktvelden op campagnereniveau en op groepsniveau
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Naam advertentiegroep | Vereist voor sitelinks op advertentieniveau. Niet van toepassing op sitelinks op campagneniveau. |
-| Creatieve voorkeursapparaten | Optioneel |
-| Koppelingsnaam | Vereist |
-| Begindatum | Optioneel |
-| Einddatum | Optioneel |
-| Sjabloon voor bijhouden | Optioneel |
-| Basis-URL/Definitieve URL | Vereist |
-| Sitelink-status | Alleen vereist om een sitelink te verwijderen. |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel |
-| Sitelink-id | Deze optie is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) een &quot;AMO-id&quot;. Als u echter noch Sitelink-id, noch AMO-id opneemt en de eigenschappenkolommen overeenkomen met meerdere sitelinks, verandert de status voor slechts een van de sitelinks.<br><br><b>Opmerking:</b> Als u sitelink-eigenschapkolommen behalve Status voor een bestaande sitelink bewerkt en u niet de Sitelink-id of AMO-id opneemt, wordt een nieuwe sitelink gemaakt en wordt de bestaande sitelink niet gewijzigd. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Ad Group Name] | Vereist voor sitelinks op advertentieniveau. Niet van toepassing op sitelinks op campagneniveau. |
+| [!UICONTROL Creative Preferred Devices] | Optioneel |
+| [!UICONTROL Link Name] | Vereist |
+| [!UICONTROL Start Date] | Optioneel |
+| [!UICONTROL End Date] | Optioneel |
+| [!UICONTROL Tracking Template] | Optioneel |
+| [!UICONTROL Base URL/Final URL] | Vereist |
+| [!UICONTROL Sitelink Status] | Alleen vereist om een sitelink te verwijderen. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel |
+| [!UICONTROL Sitelink ID] | Dit is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van beide opties opneemt [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID]  en de bezitskolommen passen veelvoudige sitelinks aan, dan zal de status voor slechts één van de sitelinks veranderen.<br><br><b>Opmerking:</b> Als u eigenschapkolommen sitelink bewerkt, behalve [!UICONTROL Status] voor een bestaande sitelink, en u omvat noch [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID], wordt er een nieuwe sitelink gemaakt en de bestaande sitelink wordt niet gewijzigd. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Locatiedoelvelden
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Locatie | Vereist |
-| Locatietype | Optioneel |
-| Bodaanpassing | Optioneel |
-| Locatiestatus | Alleen vereist om een locatiedoel te verwijderen. |
-| Campagne-id | Optioneel |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de campagne-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Location] | Vereist |
+| [!UICONTROL Location Type] | Optioneel |
+| [!UICONTROL Bid Adjustment] | Optioneel |
+| [!UICONTROL Location Status] | Alleen vereist om een locatiedoel te verwijderen. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de [!UICONTROL Campaign ID].<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Apparaat | Vereist voor het maken of bewerken van een apparaatdoel. |
-| Bodaanpassing | Optioneel |
-| Naam advertentiegroep | Vereist voor apparaatdoelen op ad-groepsniveau. Niet van toepassing op apparaatdoelen op campagneniveau. |
-| Doelstatus van apparaat | Alleen vereist om een apparaatdoel te verwijderen. |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel; alleen van toepassing op ad-group-apparaatdoelen. |
-| Apparaatdoel-id | Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
-| AMO-id | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Device] | Vereist voor het maken of bewerken van een apparaatdoel. |
+| [!UICONTROL Bid Adjustment] | Optioneel |
+| [!UICONTROL Ad Group Name] | Vereist voor apparaatdoelen op ad-groepsniveau. Niet van toepassing op apparaatdoelen op campagneniveau. |
+| [!UICONTROL Device Target Status] | Alleen vereist om een apparaatdoel te verwijderen. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel; alleen van toepassing op ad-group-apparaatdoelen. |
+| [!UICONTROL Device Target ID] | Alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Campagne- en ad-group-niveau RLSA-doel-/uitsluitingsvelden
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
-| Naam van account | Vereist tenzij elke rij een &quot;AMO-id&quot; voor de entiteit bevat. |
-| Campagnenaam | Vereist |
-| Bodaanpassing | Optioneel |
-| Naam advertentiegroep | Vereist voor streefcijfers en uitsluitingen op groepsniveau. Niet van toepassing op streefcijfers en uitsluitingen op campagneniveau. |
-| Publiek | Vereist om een nieuw doel of een nieuwe uitsluiting te creëren. |
-| Doeltype | Vereist om een nieuw doel of een nieuwe uitsluiting te creëren. |
-| RLSA-doelstatus | Alleen vereist om een doel of uitsluiting te verwijderen. |
-| Campagne-id | Optioneel |
-| Groep-id toevoegen | Optioneel; alleen van toepassing op streefcijfers en uitsluitingen op ad-groepsniveau. |
-| RLSA doel-id | Deze optie is alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een AMO-id voor het doel bevat. |
-| AMO-id | Vereist om de gegevens uit te geven of te schrappen tenzij u identiteitskaart van het Doel RLSA omvat.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
+| [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Bid Adjustment] | Optioneel |
+| [!UICONTROL Ad Group Name] | Vereist voor streefcijfers en uitsluitingen op groepsniveau. Niet van toepassing op streefcijfers en uitsluitingen op campagneniveau. |
+| [!UICONTROL Audience] | Vereist om een nieuw doel of een nieuwe uitsluiting te creëren. |
+| [!UICONTROL Target Type] | Vereist om een nieuw doel of een nieuwe uitsluiting te creëren. |
+| [!UICONTROL RLSA Target Status] | Alleen vereist om een doel of uitsluiting te verwijderen. |
+| [!UICONTROL Campaign ID] | Optioneel |
+| [!UICONTROL Ad Group ID] | Optioneel; alleen van toepassing op streefcijfers en uitsluitingen op ad-groepsniveau. |
+| [!UICONTROL RLSA Target ID] | Alleen vereist wanneer u het doel wijzigt of verwijdert, tenzij de rij een &quot;[!UICONTROL AMO ID]&quot; voor het doel. |
+| [!UICONTROL AMO ID] | Vereist om de gegevens uit te geven of te schrappen tenzij u identiteitskaart van het Doel RLSA omvat.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 >[!MORELIKETHIS]
 >
