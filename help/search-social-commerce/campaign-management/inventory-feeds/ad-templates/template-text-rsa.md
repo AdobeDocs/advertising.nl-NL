@@ -236,7 +236,7 @@ De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen a
 
 **[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param3}` dynamische substitutiereeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van het advertentie-element waarin u het element gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
-**[!UICONTROL Initial Bid (<Match Type or Ad Type>)]:** Het eerste bod voor elk trefwoord met het opgegeven overeenkomende type of advertentietype.
+**[!UICONTROL Initial Bid (&lt;Match Type or Ad Type>)]:** Het eerste bod voor elk trefwoord met het opgegeven overeenkomende type of advertentietype.
 
 ## [!UICONTROL Ads]
 
