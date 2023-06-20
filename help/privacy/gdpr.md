@@ -3,16 +3,16 @@ title: Adobe Reclameondersteuning voor de algemene gegevensbeschermingsverordeni
 description: Meer informatie over de ondersteunde gegevenstypen voor aanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden
 feature: GDPR
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: 071d0ae725c21aaea19072725ae99ca77ef1a410
 workflow-type: tm+mt
-source-wordcount: '1033'
+source-wordcount: '1032'
 ht-degree: 0%
 
 ---
 
-# Adobe Reclameondersteuning voor de algemene gegevensbeschermingsverordening
+# Ondersteuning van de Adobe Advertising van de algemene gegevensbeschermingsverordening
 
-*Voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe-DSP; Creatief reclame voor Adobe; en Adobe Advertising DCO*
+*Voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; en Adobe Advertising DCO*
 
 >[!IMPORTANT]
 >
@@ -22,11 +22,11 @@ De algemene gegevensbeschermingsverordening (GDPR), een wet die op 25 mei 2018 v
 
 Adobe Experience Cloud treedt op als een gegevensverwerker voor persoonlijke gegevens die het ontvangt en opslaat namens zijn klanten. Als gegevenscontroller bepaalt u de persoonlijke gegevens die Adobe Experience Cloud voor u verwerkt en opslaat.
 
-In dit document wordt beschreven hoe [!DNL Advertising Search, Social, & Commerce]; Creatief adverteren; DSP (Demand Side Platform); en [!DNL Advertising DCO] de toegang tot en het verwijderen van GDPR-gegevens van de betrokkenen ondersteunen met behulp van de Adobe Experience Platform Privacy Service API en de gebruikersinterface van de Privacy Service.
+In dit document wordt beschreven hoe [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; DSP (Demand Side Platform); en [!DNL Advertising DCO] de toegang tot en het verwijderen van GDPR-gegevens van de betrokkenen ondersteunen met behulp van de Adobe Experience Platform Privacy Service API en de gebruikersinterface van de Privacy Service.
 
 Voor meer informatie over wat GDPR voor uw zaken betekent, zie [GDPR en uw bedrijf](https://www.adobe.com/privacy/general-data-protection-regulation.html).
 
-## Ondersteunde gegevenstypen voor aanvragen voor Adobe-reclame
+## Ondersteunde gegevenstypen voor aanvragen voor Adobe Advertising
 
 Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken uit te voeren:
 
@@ -34,7 +34,7 @@ Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken u
 * Gegevens op cookieniveau verwijderen die zijn opgeslagen in [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], of [!DNL DCO] voor betrokkenen die een browser gebruiken; of gegevens op ID-niveau verwijderen die zijn opgeslagen in [!DNL DSP] voor betrokkenen die apps gebruiken op mobiele apparaten.
 * Controleer de status van een of alle bestaande aanvragen.
 
-## Vereiste installatie voor het verzenden van verzoeken om Adobe-reclame
+## Vereiste opstelling om Verzoeken om Adobe Advertising te verzenden
 
 Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u moeten:
 
@@ -58,9 +58,9 @@ Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u
 
    >[!IMPORTANT]
    >
-   >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle accounts van uw organisatie voor Adobe-advertenties — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
+   >Neem contact op met de vertegenwoordiger van de Adobe Advertising van uw bedrijf om te bevestigen dat alle accounts van de Adobe Advertising van uw organisatie — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
 
-1. Gebruik een van de [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of de [UI Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) verzoeken om toegang tot en schrapping van verzoeken aan Adobe Advertising namens de betrokkenen in te dienen, en de status van bestaande verzoeken te controleren.
+1. Gebruik een van de [Adobe Experience Platform Privacy Service API](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of de [UI Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) verzoeken om toegang en om verwijdering namens de betrokkenen aan de Adobe Advertising voor te leggen en de status van bestaande verzoeken te controleren.
 
    Voor adverteerders die een mobiele app hebben om te communiceren met betrokkenen en campagnes met DSP te starten, moet u de voor privacy geschikte mobiele SDK&#39;s voor Experience Cloud downloaden. De mobiele SDK&#39;s staan gegevenscontrollers toe om statusmarkeringen voor weigeren in te stellen, de apparaat-id van de betrokkene op te halen (naamruimte-id: deviceID), en verzoeken indienen bij de Privacy Service-API. Voor uw mobiele app is SDK-versie 4.15.0 of hoger vereist.
 
@@ -69,11 +69,12 @@ Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u
    Wanneer u het verwijderingsverzoek van een betrokkene verzendt, worden de cookie-id of apparaat-id en alle kosten, klik en inkomstengegevens die bij het cookie horen, van de server verwijderd.
 
    >[!NOTE]
+   >
    Als uw bedrijf veelvoudige Experience Cloud organisatie IDs heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
-Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [www.adobe.io/apis/cloudplatform/gdpr.html](https://www.adobe.io/apis/experienceplatform/gdpr.html).
+Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [Privacy en GDPR](https://developer.adobe.com/client-sdks/documentation/privacy-and-gdpr/).
 
-## Vereiste veldwaarden in JSON-verzoeken voor Adobe-advertenties
+## Vereiste veldwaarden in JSON-verzoeken voor Adobe Advertising
 
 &quot;&quot;bedrijfcontext&quot;:
 
@@ -96,7 +97,7 @@ Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over 
 
 * `"regulation": **gdpr**` (dit is de privacyverordening die van toepassing is op het verzoek)
 
-## Voorbeeld van een aanvraag die door de betrokkene is ingediend met een Adobe-advertentie-gebruikersnaam die is opgehaald van `AdobePrivacy.js`
+## Voorbeeld van een aanvraag die door de betrokkene is ingediend met een Adobe Advertising-gebruikersnaam die is opgehaald van `AdobePrivacy.js`
 
 ```
 {
@@ -130,7 +131,7 @@ Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over 
 
 ## Gegevensvelden die worden geretourneerd voor toegangsverzoeken
 
-Hieronder ziet u een voorbeeld van een toegangsreactie voor advertenties van Adobe.
+Het volgende is een voorbeeld van een toegangsreactie voor Adobe Advertising.
 
 ```
 {
