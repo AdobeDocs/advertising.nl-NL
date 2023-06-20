@@ -1,7 +1,8 @@
 ---
 title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
-source-git-commit: 7327c91b92b6471fa8da8767fc764de4226b4f91
+exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
+source-git-commit: 906df6747838f5febba8a43a74dbf87d35444f8a
 workflow-type: tm+mt
 source-wordcount: '3653'
 ht-degree: 0%
@@ -171,17 +172,8 @@ ht-degree: 0%
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) De id van de gebruiker die de transactie heeft voltooid. |
 | [!UICONTROL Through Plays] | ([!DNL Meta] advertenties) Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Top of Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die boven aan de pagina&#39;s met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
-| [!UICONTROL Tracking URL] | (Alleen zoektrefwoorden) De trackingsjabloon of de doel-URL die is ingesloten met (indien van toepassing) code voor het bijhouden van zoekopdrachten, sociale gegevens en handel. |
-| [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) De advertentiespecifieke transactieeigenschap waaraan de transactie wordt gecrediteerd. |
-| [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) Het tijdstip waarop de opgegeven transactieeigenschap is gecrediteerd. |
-| [!UICONTROL User Account Type] | Achterhaald |
-| [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. |
-| [!UICONTROL Video Average Play Time] | ([!DNL Meta] advertenties) De gemiddelde tijd dat een video is afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één indruk. |
-| [!UICONTROL Video Plays] | ([!DNL Meta] advertenties) Het aantal keren dat uw video begint met afspelen, exclusief het aantal keren dat de video wordt afgespeeld. |
-| [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], en [!UICONTROL VideoQuartile100Rate] | (Videoadvertenties) Het percentage video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
-| [!UICONTROL View Rate] | (Videoadvertenties) Het aantal weergaven of opdrachten gedeeld door het aantal keren dat de advertentie (video- en miniatuurafbeeldingen) werd weergegeven. |
-| [!UICONTROL Views] | (Videoadvertenties) Het aantal keren dat mensen naar uw advertentie keken of zich met uw advertentie bezighielden. |
-| [!UICONTROL ViewThroughConversions] | (Adds op het publieksnetwerk) Het aantal omzettingen die uit één of meerdere beelden resulteerden maar geen kliks. |
+
+| [!UICONTROL Tracking URL] | (Alleen zoektrefwoorden) De trackingsjabloon of de doel-URL die is ingesloten met (indien van toepassing) code voor het bijhouden van zoekopdrachten, sociale gegevens en handel. | | [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) De advertentiespecifieke transactieeigenschap waaraan de transactie wordt gecrediteerd. | | [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) Het tijdstip waarop de opgegeven transactieeigenschap is gecrediteerd. | | [!UICONTROL User Account Type] | Achterhaald | | [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. | | [!UICONTROL Video Average Play Time] | ([!DNL Meta] advertenties) De gemiddelde tijd dat een video is afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één indruk. | | [!UICONTROL Video Plays] | ([!DNL Meta] advertenties) Het aantal keren dat uw video begint met afspelen, exclusief het aantal keren dat de video wordt afgespeeld. | | [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], en [!UICONTROL VideoQuartile100Rate] | (Videoadvertenties) Het percentage video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. | | [!UICONTROL View Rate] | (Videoadvertenties) Het aantal weergaven of afspraken gedeeld door het aantal keren dat de advertentie (video- en miniatuurindrukkingen) werd weergegeven. | | [!UICONTROL Views] | (Videoadvertenties) Het aantal keren dat mensen naar uw advertentie keken of zich daar mee bezighielden. | | [!UICONTROL ViewThroughConversions] | (Adds op het publieksnetwerk) Het aantal omzettingen die uit één of meerdere indrukkingen resulteerden maar geen kliks. |
 
 <table style="table-layout:auto">
 

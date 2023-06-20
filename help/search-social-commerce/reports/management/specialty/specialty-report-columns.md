@@ -1,9 +1,10 @@
 ---
 title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
-source-git-commit: c2a6e14fe97d46185094dd4df3e75db35a505925
+exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
+source-git-commit: 906df6747838f5febba8a43a74dbf87d35444f8a
 workflow-type: tm+mt
-source-wordcount: '1925'
+source-wordcount: '2279'
 ht-degree: 0%
 
 ---
@@ -15,22 +16,37 @@ ht-degree: 0%
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | De waarde voor een aangepaste metrische waarde die u hebt gemaakt en die wordt berekend op basis van bestaande metriek. |
 | \[Advertiser-specifieke transactieeigenschappen\] | Het aantal omzettingen voor een gespecificeerde transactiebezit of metrisch van de plaatsovereenkomst. |
 | [!UICONTROL Account Name] | De accountnaam. |
-| [!UICONTROL Ad Distribution] | ([!UICONTROL Bing Ads Geo Report]) Wanneer de advertentie is verspreid:  *[!UICONTROL Search]* (op pagina&#39;s met zoekresultaten) of *[!UICONTROL Content]* (op [!DNL Microsoft®]websites die eigendom zijn van of deelnemende partnerwebsites). |
+| [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] rapporten) De account-id die door het advertentienetwerk is toegewezen. |
+| [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] rapporten) De rekeningstatus: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, of *[!UICONTROL Inactive]*. |
+| [!UICONTROL Ad Distribution] | ([!UICONTROL Bing Ads Geo Report]) Wanneer de advertentie is verspreid: *[!UICONTROL Search]* (op pagina&#39;s met zoekresultaten) of *[!UICONTROL Content]* (op [!DNL Microsoft®]websites die eigendom zijn van of deelnemende partnerwebsites). |
+| [!UICONTROL Ad Extension ID] | ([!UICONTROL MSA Ad Extension] rapporten) ID voor de advertentie-extensie. |
+| [!UICONTROL Ad Extension Number] | ([!UICONTROL MSA Ad Extension] rapporten) The version attribute for the add extension. |
+| [!UICONTROL Ad Extension Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het type advertentie-extensie. |
 | [!UICONTROL Ad Group] | De advertentiegroep. |
 | [!UICONTROL Ad Group ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan de advertentiegroep. |
 | [!UICONTROL Ad Group Name] | De advertentiegroep. |
 | [!UICONTROL Ad Group Status] | De status van de advertentiegroep: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, of *[!UICONTROL Deleted]*. |
+| [!UICONTROL Ad Title] | ([!UICONTROL MSA Ad Extension] rapporten) De titel van de advertentie. |
 | [!UICONTROL Advertiser] | De naam van de adverteerder. |
 | [!UICONTROL Advertiser ID] | De numerieke id voor het account Zoeken, Sociale &amp; Handel van de adverteerder. |
+| [!UICONTROL All Conversion Rate] | ([!UICONTROL MSA Ad Extension] rapporten) De omrekeningskoers als een percentage. |
+| [!UICONTROL All Conversions] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
+| [!UICONTROL All Conversions Qualified] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
+| [!UICONTROL All Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De kosten per conversie. &lt;!— Hoe verschilt dit — en de andere velden — van standaardmeetgegevens, zoals &quot;Kosten per conversie&quot;? —> |
+| [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] (rapporten) De totale ontvangsten gedeeld door de uitgaven, uitgedrukt als een percentage. |
+| [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De inkomsten per conversie. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) Het element. |
 | [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) De numerieke id die door Search, Social &amp; Commerce wordt toegewezen aan het element. |
 | [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) [[!DNL Google Ads] prestatiebeoordeling](https://support.google.com/google-ads/answer/9564897) voor het actief. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) De status van het element: *[!UICONTROL Enabled]* of *[!UICONTROL Enabled]* (verwijderd). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) Het type element: *[!UICONTROL Creative Title]* of *[!UICONTROL Description]*. |
+| [!UICONTROL Assists] | ([!UICONTROL MSA Ad Extension] (rapporten) Het aantal keren dat een entiteit heeft bijgedragen aan een conversie die verband houdt met een andere entiteit. |
 | [!UICONTROL Audience ID] | De numerieke gebruikers-id. |
 | [!UICONTROL Audience Name] | Het publiek. Beschikbaar publiek bevat uw [!DNL Google Ads] op gegevens gebaseerde, op de markt verkrijgbare en vergelijkbare doelgroepen en uw [!DNL [!DNL Microsoft® Advertising]] aangepast, klantovereenkomst, dynamisch opnieuw op de markt brengen, opnieuw op de markt brengen, en gelijkaardig publiek. |
 | [!UICONTROL Audience Status] | De status van het publiek. |
+| [!UICONTROL Average CPC] | De gemiddelde kosten per klik. |
 | [!UICONTROL Average Position], [!UICONTROL Avg Position] | De gemiddelde positie van de advertenties tijdens het opgegeven datumbereik.<br><br>Voor [!DNL Google Ads] en [!DNL Yahoo! Japan Ads] zijn deze gegevens pas beschikbaar in september 2019. Voor [!DNL Microsoft® Advertising]Deze gegevens zijn pas beschikbaar op 22 januari 2021. |
+| [!UICONTROL Bid Match Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het type overeenkomst dat is gekoppeld aan het trefwoord waarop is geboden. |
 | [!UICONTROL Campaign Budget] | ([!UICONTROL Campaign Daily Impression Share Report]) Het campagnebudget. |
 | [!UICONTROL Campaign Name] | De campagne. |
 | [!UICONTROL Campaign Start Date] | ([!UICONTROL Campaign Daily Impression Share Report]) De eerste dag waarop biedingen voor de campagne werden/worden uitgebracht. |
@@ -44,23 +60,35 @@ ht-degree: 0%
 | [!UICONTROL Content IS% (Google)] | ([!DNL Google Ads] alleen; [!UICONTROL Campaign Daily Impression Share Report]) Het aantal indrukkingen dat u hebt ontvangen voor advertenties op het scherm-/publieksnetwerk gedeeld door het geschatte aantal indrukken dat u in aanmerking kwam om te ontvangen. Percentages onder 10% worden aangeduid als &quot;`<10%`en percentages van meer dan 90% worden aangeduid als &quot;`>90%`.&quot; |
 | [!UICONTROL Content IS% Lost to Budget (Google)] | ([!DNL Google Ads] alleen; [!UICONTROL Campaign Daily Impression Share Report]) Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet kregen omdat uw dagelijkse of maandelijkse budget te laag was. Percentages onder 10% worden aangeduid als &quot;`<10%`en percentages van meer dan 90% worden aangeduid als &quot;`>90%`.&quot; |
 | [!UICONTROL Content IS% Lost to Rank (Google)] | ([!DNL Google Ads] alleen; [!UICONTROL Campaign Daily Impression Share Report]) Het geschatte percentage indrukken dat uw advertenties op het scherm/publieksnetwerk niet werden getoond wegens een slechte advertentierangschikking. Percentages onder 10% worden aangeduid als &quot;`<10%`en percentages van meer dan 90% worden aangeduid als &quot;`>90%`.&quot; |
+| [!UICONTROL Conversion Rate] | Het aantal conversies gedeeld door het totale aantal klikken. |
 | [!UICONTROL Conversion Type] | Het door de gebruiker gedefinieerde conversietype dat op de website van de adverteerder is bijgehouden. |
+| [!UICONTROL Conversions] | ([!UICONTROL MSA Ad Extension] rapporten) Klik op een product dat tot een verkoop of een andere maatstaf voor succes heeft geleid. |
+| [!UICONTROL Conversions Qualified] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
 | [!UICONTROL Cost] | De totale kosten voor advertenties tijdens het opgegeven datumbereik. |
+| [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] rapporten) De totale kosten per hulp. |
+| [!UICONTROL Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De totale kosten per conversie. |
 | [!UICONTROL Country] | ([!UICONTROL AdWords Geo Report] en [!UICONTROL Bing Ads Geo Report]) Een land waarvan kliks afkomstig zijn. Het wordt bepaald van het IP van de gebruiker adres. |
 | [!UICONTROL CPC] | De kosten per klik (CPC) voor advertenties tijdens het opgegeven datumbereik. |
 | [!UICONTROL Creative Description 1], [!UICONTROL Creative Description 2] | De eerste en tweede regel van de advertentie. |
 | [!UICONTROL Creative Destination URL] | De laatste URL of de doel-URL (inclusief eventuele trackingparameters) voor de advertentie. |
 | [!UICONTROL Creative Display URL] | De weergave-URL voor de advertentie, die eindgebruikers zien in de advertentie. |
-| [!UICONTROL Creative Status] | De status van de advertentie: Actief, Gepauzeerd of Verwijderd. |
+| [!UICONTROL Creative Status] | ([!UICONTROL MSA Ad Extension] rapporten) De status van de advertentie. |
 | [!UICONTROL Creative Name] | (Transactierapport; [!DNL Yahoo! Japan] (alleen) De naam van de advertentieafbeelding. |
 | [!UICONTROL Creative Title] | De titel of titel van de advertentie. |
 | [!UICONTROL CTR] | De doorklikfrequentie. Dit is het aantal klikken gedeeld door het aantal indrukken voor de opgenomen advertenties. |
 | [!UICONTROL Current Quality Score] | ([!DNL Google Ads] en [!DNL Microsoft® Advertising] (alleen campagnes) De huidige kwaliteitsscore voor het trefwoord of de biedingseenheid, zoals opgegeven door het advertentienetwerk. Het varieert van 1 (laag) tot 10 (perfect). Voor één enkel sleutelwoord en gelijke typecombinatie, is deze waarde de huidige score voor die combinatie. Wanneer in meerdere campagnes dezelfde combinatie van trefwoorden en typen wordt gebruikt, is deze waarde de maximale huidige score voor alle campagnes.<br><br>De advertentienetwerken gebruiken de kwaliteitsscore om biedprijzen en advertentiepositie te bepalen. Deze wordt berekend op basis van een groot aantal factoren, zoals de relevantie van het trefwoord voor de bijbehorende advertentie en de zoekquery van de gebruiker en de kwaliteit van de bestemmingspagina. Voor trefwoorden in [!DNL Google Ads]wordt ook rekening gehouden met de doorklikfrequentie van het trefwoord en voor trefwoorden in [!DNL Microsoft® Advertising], wordt ook rekening gehouden met de gebruikerservaring die door de landingspagina wordt geboden. |
+| [!UICONTROL Delivered Match Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het type van gelijke die het advertentienetwerk wordt gebruikt om de advertentie te leveren. |
+| [!UICONTROL Device OS] | Het besturingssysteem van het apparaat waarop de advertentie is weergegeven of waarop is geklikt. |
 | [!UICONTROL Device Type] | Het apparaat waarop de advertentie is weergegeven of waarop is geklikt:<ul><li>*[!UICONTROL desktop]*: Bureaubladcomputer</li><li>*[!UICONTROL mobile]*: Mobiel apparaat met volledige browser</li><li>*[!UICONTROL tablet]*: Tablet met volledige browser</li></ul> |
 | [!UICONTROL eCPM] | De effectieve CPM, of de gemiddelde betaalde kosten per 1000 beelden tijdens een gespecificeerde datumwaaier. eCPM-waarden worden berekend voor CPM- of CPC-campagnes. |
 | [!UICONTROL EF Campaign ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan de campagne. |
 | [!UICONTROL EF Portfolio Group ID] | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
-| [!UICONTROL EF Search Engine ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk:  <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft® Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd), of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (afgekeurd). |
+| [!UICONTROL EF Search Engine ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft® Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd), of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (afgekeurd). |
+| [!UICONTROL End Date] | De laatste dag die is gemeld. |
+| [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] de [weergavenaam van de extensie](https://help.ads.microsoft.com/#apex/ads/en/51001). |
+| [!UICONTROL Extension Type ID] | ([!UICONTROL MSA Ad Extension] rapporten) ID voor het type advertentie-extensie. |
+| [!UICONTROL Goal] | ([!UICONTROL MSA Ad Extension] rapporten) De naam van het omzettingsdoel. |
+| [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het type conversiedoel. |
 | [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) Het aantal online conversies dat wordt bijgehouden door [de [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
 | [!UICONTROL Google Converted Clicks] | ([!UICONTROL AdWords Conversion Report]; afgekeurd in 2016) Het aantal klikken dat tot een of meer omzettingen heeft geleid. |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] alleen; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) Het percentage van de afbeeldingsindrukkingen dat wordt weergegeven als de eerste advertentie boven de organische zoekresultaten. |
@@ -68,12 +96,16 @@ ht-degree: 0%
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | Het trefwoord.<br><br><b>Opmerking:</b> Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat deze kolom de toepasselijke ad groepsnaam zoals &quot;(de inhoud van de adgroup) Uw Naam van de Adgroup.&quot; Voor een site-gerichte plaatsing in een onderzoekscampagne, heeft deze kolom geen waarde. |
 | [!UICONTROL Keyword ID] | De numerieke id die Zoeken, Sociale &amp; Handel wijst aan het trefwoord toe. |
+| [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) De id van de advertentie-extensie die is toegewezen door het advertentienetwerk. |
+| [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) De id van de advertentie-extensie die is toegewezen door het advertentienetwerk. |
+| [!UICONTROL Keyword Extension Type] | ([!UICONTROL MSA Ad Extension by Keyword Report]) Het extensietype advertentie. |
 | [!UICONTROL Keyword Status] | De status van het trefwoord waaraan de zoekterm is gekoppeld: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, [!UICONTROL Deleted]*, of[!UICONTROL Disapproved]*. |
 | [!UICONTROL Language] | ([!UICONTROL Campaign Daily Impression Share Report]) De doeltaal. |
 | [!UICONTROL Language and Region] | ([!UICONTROL Bing Ads Geo Report]) De doeltaal en -markt voor de advertentiegroep (zoals Engels-UK). |
 | [!UICONTROL Location] | ([!UICONTROL Campaign Daily Impression Share Report]) De doelpubliekslocatie. |
 | [!UICONTROL Max Spend % Target] | ([!UICONTROL Campaign Daily Impression Share Report]; campagnes in portefeuilles met ROI, CPT, of [!UICONTROL Marginal Cost per Transaction] uitgavenstrategieën) De maximale dagelijkse begrotingsdoelstelling voor de portefeuille. |
 | [!UICONTROL Metro Code] | ([!UICONTROL AdWords Geo Report] en [!UICONTROL Bing Ads Geo Report]) Een numerieke metro-code waarvan de beelden of kliks (zoals us-751 voor Denver) voortvloeiden. Het wordt bepaald van het IP van de onderzoeksgebruiker adres. |
+| [!UICONTROL Network] | ([!UICONTROL MSA Ad Extension] rapporten) De markt voor het advertentienetwerk. |
 | [!UICONTROL Network Account ID] | De account-id die door het netwerk is toegewezen. |
 | [!UICONTROL Network Ad Group ID] | De id van de advertentiegroep die door het netwerk is toegewezen. |
 | [!UICONTROL Network Campaign ID] | De campagne-id die door het netwerk is toegewezen. |
@@ -87,8 +119,13 @@ ht-degree: 0%
 | [!UICONTROL Product Type] ([!UICONTROL 1st level] - [!UICONTROL 5th level]) | ([!UICONTROL AdWords Shopping Performance Report]) De producttypen op het eerste niveau tot en met het vijfde niveau (uw zelfgedefinieerde kenmerken voor de productgroep). |
 | [!UICONTROL Query Match Type] | (AdWords het Rapport van de Vraag van het Onderzoek) het sleutelwoordgelijke type voor de onderzoeksvraag. |
 | [!UICONTROL Region] | ([!UICONTROL AdWords Geo Report] en [!UICONTROL Bing Ads Geo Report]) Een gebied of een staat V.S./Canada waarvoor de beelden of kliks voortvloeiden. Het wordt bepaald van het IP van de gebruiker adres. |
+| [!UICONTROL Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] (rapporten) De totale ontvangsten gedeeld door de uitgaven, uitgedrukt als een percentage. |
+| [!UICONTROL Revenue] | ([!UICONTROL MSA Ad Extension] rapporten) De totale inkomsten. |
+| [!UICONTROL Revenue per Assist] | ([!UICONTROL MSA Ad Extension] rapporten) De totale ontvangsten per hulp. |
+| [!UICONTROL Revenue per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De totale inkomsten per conversie. |
+| [!UICONTROL SE Account Name] | De accountnaam op het advertentienetwerk. |
 | [!UICONTROL SE Creative ID] | De advertentie-id die door het netwerk is toegewezen. |
-| [!UICONTROL SE_TERM_ID] | (AdWords het Rapport van de Vraag van het Onderzoek van het Onderzoek) identiteitskaart van de onderzoekstermijn die door het advertentienetwerk wordt toegewezen<!--??? what is this? --> |
+| [!UICONTROL SE_TERM_ID] | (AdWords het Rapport van de Vraag van het Onderzoek) identiteitskaart van de onderzoekstermijn die door het advertentienetwerk wordt toegewezen.<!--??? what is this? --> |
 | [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] en [!DNL Microsoft® Advertising]; [!UICONTROL Campaign Daily Impression Share Report] en [!UICONTROL Keyword Daily Impression Share Report]) De afbeeldingen die u hebt ontvangen op de absolute bovenste locatie (de eerste en boven de resultaten van de organische zoekopdracht) gedeeld door het geschatte aantal afbeeldingen dat u in aanmerking kwam voor opname op de bovenste locatie. Percentages onder 10% worden aangeduid als &quot;`<10%`&quot; of &quot;`0.0999`.&quot; |
 | [!UICONTROL Search (Top) IS] | ([!DNL Google Ads] en [!DNL Microsoft® Advertising]; [!UICONTROL Campaign Daily Impression Share Report] en [!UICONTROL Keyword Daily Impression Share Report]) De afbeeldingen die u op de bovenste locaties hebt ontvangen (boven de resultaten van de organische zoekopdracht) gedeeld door het geschatte aantal afbeeldingen dat u op de bovenste locaties mocht ontvangen. Percentages onder 10% worden aangeduid als &quot;`<10%`&quot; of &quot;`0.0999`.&quot; |
 | [!UICONTROL Search Engine] | Het advertentienetwerk. |
@@ -109,6 +146,11 @@ ht-degree: 0%
 | [!UICONTROL Search Term] | (AdWords het Rapport van de Vraag van het Onderzoek van de Vraag en het Rapport van de Vraag van de Vraag van Bing Advertentie) Een termijn van het gebruikersonderzoek waarvan klikken voortvloeiden. |
 | [!UICONTROL Start Date] | De eerste dag die werd gerapporteerd. |
 | [!UICONTROL Store ID] | De id van het advertentienetwerk die voor de winkelcentrum. |
+| [!UICONTROL title_part1] | ([!UICONTROL MSA Ad Extension by Ad Report]) De eerste regel van de advertentie die is gekoppeld aan uw website. |
+| [!UICONTROL title_part2] | ([!UICONTROL MSA Ad Extension by Ad Report]) De tweede regel van de advertentie die naar uw website is gekoppeld. |
+| [!UICONTROL title_part3] | ([!UICONTROL MSA Ad Extension by Ad Report]) De derde regel van de advertentie die naar uw website is gekoppeld. |
+| [!UICONTROL Top vs. Other] | ([!UICONTROL MSA Ad Extension] rapporten) De positie van je advertentie op de pagina met zoekresultaten. |
+| [!UICONTROL Total Clicks] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal klikken toen het advertentie-element in het advertentiekopie aanwezig was, of het al dan niet werd geklikt. |
 | [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. |
 | [!UICONTROL ViewThroughConversions] | ([!UICONTROL Bing Ads Geo Report]; advertenties op het publieksnetwerk) Het aantal omzettingen dat uit één of meerdere beelden resulteerde maar geen kliks. |
 

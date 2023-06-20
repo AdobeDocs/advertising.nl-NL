@@ -8,9 +8,9 @@ user-guide-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 user-guide-description: Deze gids verklaart de belangrijkste eigenschappen, de taken, de montages, en andere middelen die worden vereist om, uw onderzoek, sociale, en handel en campagnes te beheren te volgen en te melden.
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: true
-source-git-commit: d28103d6788a1b0ee08663a5cc0393c373171860
+source-git-commit: 8d4bf0b53c8ddbc11111879c7e73adf3995e0ad8
 workflow-type: tm+mt
-source-wordcount: '1714'
+source-wordcount: '1717'
 ht-degree: 0%
 
 ---
@@ -314,6 +314,9 @@ ht-degree: 0%
                + [De [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
                + [De [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
                + [De [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
+               + [De [!UICONTROL MSA Ad Extension by Ad Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-detail-report.md)
+               + [De [!UICONTROL MSA Ad Extension by Keyword Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-by-keyword-report.md)
+               + [De [!UICONTROL MSA Ad Extension Detail Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-by-ad-report.md)
             + [Een speciaal rapport genereren](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
             + [Instellingen voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
             + [Kolommen rapporteren voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
