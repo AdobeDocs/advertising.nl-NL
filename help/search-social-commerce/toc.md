@@ -1,23 +1,19 @@
 ---
-type: Documentation
-cloud: Experience Cloud
-solution: Advertising
-product: advertising cloud
-archetype: end-user
+role: User
 user-guide-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 user-guide-description: Deze gids verklaart de belangrijkste eigenschappen, de taken, de montages, en andere middelen die worden vereist om, uw onderzoek, sociale, en handel en campagnes te beheren te volgen en te melden.
 breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
 index: true
-source-git-commit: 8d4bf0b53c8ddbc11111879c7e73adf3995e0ad8
+source-git-commit: 24cc190c2e2ae5ad63f7b79a54c47e6904a1f0ad
 workflow-type: tm+mt
-source-wordcount: '1717'
+source-wordcount: '1724'
 ht-degree: 0%
 
 ---
 
 # Handleiding voor Zoeken, Sociale &amp; Handel in advertenties {#search-social-commerce}
 
-<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link won't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md)-->
+<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link won't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md)-->
 
 + [Nieuwe functies](home.md)
 + [Over deze handleiding](help-about.md)
@@ -88,7 +84,7 @@ ht-degree: 0%
       + [De parameter s_kwcid tracking](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
-      + Adobe Reclame converteren bijhouden {#advertising-conversion-tracking}
+      + Adobe Advertising conversie bijhouden {#advertising-conversion-tracking}
          + [Informatie over conversietags voor Adobe-advertenties](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
          + [Indeling van JavaScript-tags voor conversie bijhouden versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
@@ -372,8 +368,9 @@ ht-degree: 0%
    + [Rapport Wijzigingsgeschiedenis weergeven](/help/search-social-commerce/reports/change-history-view.md)
    + Recommendations- en uitgeversinzichten {#recommendations}
       + [Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers](/help/search-social-commerce/recommendations/recommendation-support.md)
-      + [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
+      + [Bekijk uw uitgeversaanbevelingen en prestatiesinzichten](/help/search-social-commerce/recommendations/recommendation-view.md)
       + [Een [!DNL Google Ads] aanbeveling](/help/search-social-commerce/recommendations/google-recommendation-apply-dismiss.md)
+      + [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
       + [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Gereedschappen {#tools}
    + [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)

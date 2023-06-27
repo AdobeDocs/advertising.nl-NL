@@ -1,14 +1,17 @@
 ---
 title: Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio's
 description: Leer de beste praktijken voor het gebruiken [!DNL Google Ads] aanbevelingen voor uw portfolio's met zoekopdrachten, sociale zaken en handel.
-source-git-commit: 0c2b4648b3f0d6d7e4ed60f03a3a9bce56e9cdd7
+exl-id: 8362a0e1-9a0d-4287-a1dd-b7ec77985744
+source-git-commit: 0f40e771ae332a151dbae6968d6af5baaed55ee7
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
 # Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s
+
+<!-- If we don't come up with similar ones for MS, then rename this file "... Google Ads ..." -->
 
 ## [!DNL Google Ads] aanbevelingen
 
@@ -25,6 +28,6 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers](recommendation-support.md)
->* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Bekijk uw uitgeversaanbevelingen en prestatiesinzichten](recommendation-view.md)
 >* [Een [!DNL Google Ads] aanbeveling](google-recommendation-apply-dismiss.md)
-
+>* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)

@@ -1,32 +1,47 @@
 ---
 title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
+source-git-commit: de1b0b3ffbb8cbc3113e4e707b8ee2d647f60ca3
 workflow-type: tm+mt
-source-wordcount: '453'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
 
 # Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 
-[!DNL Google Ads] aanbevelingen zijn suggesties van [!DNL Google Ads] om de prestaties en efficiëntie van uw campagnes te helpen verbeteren. Elke aanbeveling biedt aangepaste suggesties over verschillende prestatiesaspecten van een campagne — van het toevoegen van middelen tot het verhogen van het budget — op basis van de prestatiegeschiedenis van uw account, uw campagnemontages en trends over [!DNL Google Ads].
+*[!DNL Google Ads]en [!DNL Microsoft® Advertising] rekeningen*
+
+*Bètafunctie voor [!DNL Microsoft® Advertising] rekeningen*
+
+[!DNL Google Ads] aanbevelingen en [!DNL Microsoft® Advertising] prestatiesinzichten zijn suggesties van het ad netwerk helpen de prestaties en de efficiency van uw campagnes verbeteren:
+
+* Elk [!DNL Google Ads] Deze aanbeveling biedt aangepaste suggesties voor verschillende prestatiesaspecten van een campagne — van het toevoegen van middelen tot het verhogen van het budget — op basis van de prestatiegeschiedenis van uw account, uw campagnemontages en trends over [!DNL Google Ads].
+
+* Elk [!DNL Microsoft® Advertising] het prestatiesinzicht waarschuwt u aan een significante schommeling in een managerrekening, een adverteerderrekening, of een campagne; identificeert de mogelijke oorzaken en stelt acties voor om de prestaties te optimaliseren.
+
+## De [!UICONTROL Recommendations & Publisher Insights] weergave
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]kunt u:
 
-* Bekijk in één oogopslag alle ondersteunde aanbevelingen waaraan nog niet eerder is gewerkt [!DNL Google Ads]<!-- or [Microsoft Advertising]--> account. De informatie voor elke aanbeveling omvat de gegevens van de aanbeveling, het soort aanbeveling en de categorie, de feitelijke meetgegevens en de meetgegevens die [!DNL Google Ads] voorspelt of de aanbeveling wordt toegepast en de betrokken entiteiten als de aanbeveling wordt toegepast. Voorspelde toenamen tot metriek worden groen gemarkeerd. U kunt de aanbevolen handelingen voor elke aanbeveling weergeven. U kunt de lijst desgewenst ook filteren op de categorie en het type van de aanbeveling.
+* Bekijk in één oogopslag alle ondersteunde aanbevelingen waaraan nog niet eerder is gewerkt [!DNL Google Ads] account of alle prestatieinzichten die in de laatste 30 dagen voor een [Microsoft® Advertising] account. De informatie voor elke vermelding omvat de aanbevelingen/inzichten en de betrokken entiteiten. Voor [!DNL Google Ads] accounts, voorspelde verhogingen van metriek worden groen gemarkeerd.
 
   ![Recommendations-gebruikersinterface](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations-gebruikersinterface")
 
   De gegevens zijn beschikbaar in real time wanneer u de mening opent. Als u de gegevens wilt vernieuwen, klikt u op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png "Vernieuwen") linksonder op de pagina.
 
-* Pas de aanbevelingen voor een account toe en negeer deze.
+* Voor [!DNL Google Ads] accounts:
 
-* Logboeken weergeven van elke aanbeveling die is toegepast voor een account, inclusief de betrokken entiteiten die de aanbeveling hebben toegepast, en het tijdstempel.
+   * Bekijk de aanbevelingen en pas een aanbeveling rechtstreeks toe of verwerp deze.
+
+   * Bekijk een logboek van elke aanbeveling die voor de rekening, met inbegrip van de beïnvloede entiteiten werd toegepast, die de aanbeveling toepaste, en de tijdstempel.
+
+* Voor [Microsoft® Advertising] accounts, opent u de [!DNL Microsoft® Advertising] redacteur, waarvan u op een specifiek inzicht kunt handelen.
 
 >[!NOTE]
 >
->Hoewel aanbevelingen u helpen campagneprestaties te verbeteren, kunnen sommige niet met uw bredere doelstellingen richten. Dientengevolge, is het best om met uw Team van de Rekening van de Adobe te raadplegen alvorens om het even welke aanbeveling uit te voeren.
+>Terwijl en de aanbevelingen van het netwerk en prestatiesinzichten u helpen campagneprestaties verbeteren, kunnen sommige niet op uw bredere doelstellingen richten. Dientengevolge, is het best om met uw Team van de Rekening van de Adobe te raadplegen alvorens om het even welke aanbeveling of inzicht uit te voeren.
 
 ## Ondersteunde aanbevelingen voor [!DNL Google Ads]
 
@@ -60,6 +75,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!MORELIKETHIS]
 >
->* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)
+>* [Bekijk uw uitgeversaanbevelingen en prestatiesinzichten](recommendation-view.md)
 >* [Een [!DNL Google Ads] aanbeveling](google-recommendation-apply-dismiss.md)
+>* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)
 >* [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](recommendation-best-practices.md)

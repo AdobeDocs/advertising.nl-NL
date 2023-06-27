@@ -1,9 +1,10 @@
 ---
 title: Een [!DNL Google Ads] aanbeveling
 description: Leer hoe u een [!DNL Google Ads] aanbevelingen en hoe de aanbeveling moet worden toegepast of verworpen.
-source-git-commit: 7bb2e247c0d6436c369474dacba323a085dd2ebb
+exl-id: 7aab10bf-d5fc-4eb7-b1bb-9e61ba354a29
+source-git-commit: 0f40e771ae332a151dbae6968d6af5baaed55ee7
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -30,13 +31,13 @@ Bekijk de aanbevolen acties en leg uit waarom de acties nuttig zouden zijn voor 
 
    * Als u een aanbeveling wilt toepassen, klikt u op **[!UICONTROL Apply]**.
 
-      Het toepassen van een aanbeveling kan, afhankelijk van de grootte van de aanbeveling, overal in milliseconden tot enkele seconden duren.
+     Het toepassen van een aanbeveling kan, afhankelijk van de grootte van de aanbeveling, overal in milliseconden tot enkele seconden duren.
 
    * Als u een aanbeveling wilt negeren, klikt u op **[!UICONTROL Dismiss]**.
 
 >[!MORELIKETHIS]
 >
 >* [Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers](recommendation-support.md)
+>* [Bekijk uw uitgeversaanbevelingen en prestatiesinzichten](recommendation-view.md)
 >* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)
 >* [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](recommendation-best-practices.md)
-
