@@ -2,9 +2,9 @@
 title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
 exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
-source-git-commit: 906df6747838f5febba8a43a74dbf87d35444f8a
+source-git-commit: b6279bdf5f0cf3fbd144414f789a105af87040cc
 workflow-type: tm+mt
-source-wordcount: '2279'
+source-wordcount: '2280'
 ht-degree: 0%
 
 ---
@@ -96,8 +96,8 @@ ht-degree: 0%
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
 | [!UICONTROL Keyword] | Het trefwoord.<br><br><b>Opmerking:</b> Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat deze kolom de toepasselijke ad groepsnaam zoals &quot;(de inhoud van de adgroup) Uw Naam van de Adgroup.&quot; Voor een site-gerichte plaatsing in een onderzoekscampagne, heeft deze kolom geen waarde. |
 | [!UICONTROL Keyword ID] | De numerieke id die Zoeken, Sociale &amp; Handel wijst aan het trefwoord toe. |
-| [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) De id van de advertentie-extensie die is toegewezen door het advertentienetwerk. |
-| [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) De id van de advertentie-extensie die is toegewezen door het advertentienetwerk. |
+| [!UICONTROL Keyword Extension ID] | ([!UICONTROL MSA Ad Extension by Keyword Report]) De numerieke id die het advertentienetwerk toewijst aan de advertentie-extensie. |
+| [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) Het versiekenmerk voor de advertentie-extensie. |
 | [!UICONTROL Keyword Extension Type] | ([!UICONTROL MSA Ad Extension by Keyword Report]) Het extensietype advertentie. |
 | [!UICONTROL Keyword Status] | De status van het trefwoord waaraan de zoekterm is gekoppeld: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, [!UICONTROL Deleted]*, of[!UICONTROL Disapproved]*. |
 | [!UICONTROL Language] | ([!UICONTROL Campaign Daily Impression Share Report]) De doeltaal. |
