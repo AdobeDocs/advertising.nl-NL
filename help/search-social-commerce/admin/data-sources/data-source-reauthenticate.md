@@ -1,7 +1,9 @@
 ---
 title: Een [!DNL Google Analytics] gegevensbron
 description: Leer hoe u een [!DNL Google Analytics] gegevensbron als u het bijbehorende wachtwoord verandert of het certificaat verloopt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: 9233e004-8607-444a-ba99-f63cb83a8b7a
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -29,10 +31,10 @@ Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een 
          >[!TIP]
          >
          >Alleen specifieke [!DNL Google Analytics] De eigenschappen en de meningen zijn beschikbaar binnen Onderzoek, Sociale, &amp; Handel, login gebruikend een e-mailadres dat toegang tot slechts die eigenschappen en meningen heeft.
+
    1. Schakel het selectievakje in om Zoeken, Sociale media en Handel toegang te geven tot statistieken voor de account.
 
    1. Klik op **[!UICONTROL Re-Authenticate]**.
-
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -45,4 +47,3 @@ Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een 
 >* [Synchronisatie van een gegevensbron pauzeren](data-source-pause.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

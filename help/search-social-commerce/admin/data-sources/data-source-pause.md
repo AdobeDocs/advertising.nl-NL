@@ -1,7 +1,9 @@
 ---
 title: Synchronisatie van een gegevensbron pauzeren
 description: Leer hoe u een gegevensbron pauzeert om synchronisatie te stoppen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: 5495ea13-8700-4e8a-9325-062c9ed8f4f4
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 *De Beheerders van het agentschap (basisrol), de Managers van de Rekening van Adobe, en slechts Beheerders*
 
-Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron gestopt. Als de feed momenteel wordt gesynchroniseerd, wordt het proces eerst voltooid, zodat de gegevens in Advertising voor Adobe actueel zijn.
+Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron gestopt. Als de feed momenteel wordt gesynchroniseerd, wordt het proces eerst voltooid, zodat de gegevens in de Adobe Advertising actueel zijn.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]**.
 
@@ -31,4 +33,3 @@ Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron 
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

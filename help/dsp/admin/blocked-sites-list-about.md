@@ -1,8 +1,9 @@
 ---
 title: Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 description: Meer weten over de lijst met geblokkeerde sites voor een account of adverteerder?
+role: User, Admin
 exl-id: e147159b-54f2-492b-8dbc-054b97897fa6
-source-git-commit: bd667a01a0579c1523dc975bffd3560ac2a056db
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -23,10 +24,8 @@ Lijsten op advertentieniveau overschrijven lijsten op accountniveau.
 >* Gebruikers kunnen ook gerichte sites toevoegen aan elke gewenste plaatsing.
 >* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
-
 >[!MORELIKETHIS]
 >
 >* [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
 >* [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-

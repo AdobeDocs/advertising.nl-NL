@@ -1,7 +1,9 @@
 ---
 title: Een [!DNL Google Analytics] gegevensbron
 description: Leer hoe u de configuratie voor een [!DNL Google Analytics] gegevensbron.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: a23444f7-8f4c-42ba-b5fe-a325fb18136d
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%
@@ -31,4 +33,3 @@ ht-degree: 1%
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

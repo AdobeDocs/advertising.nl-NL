@@ -1,8 +1,9 @@
 ---
 title: Waarschuwingsabonnementen beheren
 description: Leer hoe u automatische e-mailwaarschuwingen beheert.
+role: User, Admin
 exl-id: 9f47aa2a-54c4-4fdc-b289-6c3586cc18e6
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -67,7 +68,7 @@ ht-degree: 0%
 
 * Als u een abonnee wilt toevoegen aan een abonnement, voert u de e-mailadressen in het invoerveld onder in **[!UICONTROL Subscribers]**.
 
-   Scheid veelvoudige adressen met ruimten.
+  Scheid veelvoudige adressen met ruimten.
 
 * Als u de abonnee van een abonnement wilt verwijderen, klikt u op **[!UICONTROL X]** naast het e-mailadres onder **[!UICONTROL Subscribers]**.
 

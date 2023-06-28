@@ -1,7 +1,9 @@
 ---
 title: Een [!DNL Google Analytics] weergeven als gegevensbron
 description: Leer hoe te om een gegevensbron van een te vormen [!DNL Google Analytics] weergeven.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: 583cf9aa-861c-4faf-a707-1def4e983b93
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -45,6 +47,7 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
       1. Schakel het selectievakje in om Adobe-advertenties toegang te geven tot cijfers voor het account.
 
       1. Klik op **[!UICONTROL Authenticate]**.
+
    1. In de [!UICONTROL Account Details] in, geeft u de eigenschap en weergave op voor de metriek die u wilt importeren. Bovendien specificeer de douaneafmeting die met de waarde van de &quot;ef_id&quot;parameter van het vraagkoord wordt bevolkt.
 
    1. In de [!UICONTROL Import Metrics] , geeft u de metriek op die u in de feed(s) wilt opnemen.
@@ -56,7 +59,6 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
       >[!DNL Google Analytics] staat maximaal 10 metriek in één enkele gegevensvoer toe. Zoeken, sociale zaken en handel kunnen maximaal twee feeds met in totaal 20 metriek ondersteunen, maar door een tweede feed te gebruiken worden uw API-aanroepen verdubbeld tot [!DNL Google Analytics]. Als u veel metriek hebt, selecteer slechts de metriek die u in doelstellingen voor optimalisering wilt gebruiken. Meer informatie over [quota&#39;s en oproeplimieten voor API-aanvragen voor [!DNL Google Analytics]](https://developers.google.com/analytics/devguides/reporting/core/v4/limits-quotas).
 
    1. In de [!UICONTROL Metric Tag] de naam van de tag in die u aan elke metrische waarde voor de gegevensbron wilt toevoegen.
-
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Post]**.
 
@@ -75,4 +77,3 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Over synchroniseren [!DNL Google Analytics] conversiemetingen
 description: Meer informatie over synchroniseren [!DNL Google Analytics] conversiemetriek voor optimalisatie en rapportage.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: 0c263ced-3774-4d4b-9d61-65289cd74027
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '336'
 ht-degree: 0%
@@ -22,9 +24,9 @@ De volgende stappen beschrijven het proces voor het synchroniseren van conversie
 
 1. [Voer de vereiste taken uit](data-source-prerequisites.md)
 
-   * Een Adobe-advertentietoken implementeren (`ef_id` parameter querytekenreeks) in de bestemmingspagina-URL&#39;s voor alle toepasselijke advertentierekeningen.
+   * Een Adobe Advertising-token implementeren (`ef_id` parameter querytekenreeks) in de bestemmingspagina-URL&#39;s voor alle toepasselijke advertentierekeningen.
 
-   * Leg het Adobe-advertentietoken vast (`ef_id` querytekenreeks (parameter) in een [!DNL Custom Dimension] in [!DNL Google Analytics].
+   * Leg de Adobe Advertising-token vast (`ef_id` querytekenreeks (parameter) in een [!DNL Custom Dimension] in [!DNL Google Analytics].
 
 1. (Accountbeheerder van het Agentschap, accountmanager van het agentschap, [!DNL Adobe] accountmanager en alleen beheerders) [Eén gegevensbron maken per [!DNL Google Analytics] account, eigenschap en weergavecombinatie](data-source-configure.md).
 
@@ -41,4 +43,3 @@ De volgende stappen beschrijven het proces voor het synchroniseren van conversie
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

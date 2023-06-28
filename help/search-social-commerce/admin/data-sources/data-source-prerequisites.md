@@ -1,7 +1,9 @@
 ---
 title: Vereisten voor het configureren van een [!DNL Google Analytics] gegevensbron
 description: Leer over de stappen die u moet voltooien alvorens u vormt een [!DNL Google Analytics] gegevensbron.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: cbb2ad6d-8494-4fa4-928c-238b25bda3a6
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -55,4 +57,3 @@ Herhaal de volgende taken voor elk [!DNL Google Analytics] de combinatie van acc
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
 >* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
-

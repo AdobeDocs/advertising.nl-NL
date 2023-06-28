@@ -1,7 +1,8 @@
 ---
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+role: User, Admin
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '870'
 ht-degree: 0%
@@ -38,11 +39,11 @@ Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over be
 
 (Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
 
-**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising convertiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens zal uitwisselen.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising conversiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
-**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met Adobe Advertising tracking-tags die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met behulp van codes voor het bijhouden van Adoben Advertising die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
 
-Om de gegevens in de rapportsuites te verschijnen, [!DNL Search, Social, & Commerce] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] -account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
+Om de gegevens in de rapportsuites te verschijnen, [!DNL Search, Social, & Commerce] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
 
 >[!WARNING]
 >
@@ -144,6 +145,5 @@ U kunt de instelling op advertentieniveau op plaatsingsniveau overschrijven.
 >[!MORELIKETHIS]
 >
 >* [Account voor adverteerders maken](/help/dsp/admin/advertiser-create.md)
-
 
 <!-- >* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md) -->

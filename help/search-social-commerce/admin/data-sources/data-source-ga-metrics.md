@@ -1,7 +1,9 @@
 ---
 title: Beschikbaar [!DNL Google Analytics] cijfers
 description: Verwijs naar de [!DNL Google Analytics] gegevens beschikbaar voor gegevensbronnen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+role: User, Admin
+exl-id: f7ac93e3-1aed-4165-ae65-7966ca192c84
+source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -42,4 +44,3 @@ De volgende metriek, behalve de vermelde uitsluitingen, zijn beschikbaar wanneer
 >* [Synchronisatie van een gegevensbron pauzeren](data-source-pause.md)
 >* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
 >* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
-
