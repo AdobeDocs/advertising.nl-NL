@@ -1,17 +1,17 @@
 ---
 role: User
-user-guide-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
-user-guide-description: Deze gids verklaart de belangrijkste eigenschappen, de taken, de montages, en andere middelen die worden vereist om, uw onderzoek, sociale, en handel en campagnes te beheren te volgen en te melden.
-breadcrumb-title: Handleiding voor Zoeken, Sociale & Handel in advertenties
+user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
+user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
+breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
 source-git-commit: 24cc190c2e2ae5ad63f7b79a54c47e6904a1f0ad
 workflow-type: tm+mt
 source-wordcount: '1724'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Handleiding voor Zoeken, Sociale &amp; Handel in advertenties {#search-social-commerce}
+# Handleiding voor Advertising, Search, Social, &amp; Commerce {#search-social-commerce}
 
 <!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link won't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md)-->
 
