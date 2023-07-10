@@ -1,7 +1,7 @@
 ---
 title: Elementen maken en uploaden
 description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
-source-git-commit: 6cb13fe9917daf6437af7df30ec7164120732faa
+source-git-commit: d6d2b85b3be95a6f1162f87e2beccbdd4337b1f2
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 0%
@@ -30,7 +30,7 @@ ht-degree: 0%
 
          1. Klikken **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
-        Elke afbeelding kan maximaal 10 MB groot zijn. U kunt maximaal 200 MB afbeeldingen tegelijk uploaden.
+            Elke afbeelding kan maximaal 10 MB groot zijn. U kunt maximaal 200 MB afbeeldingen tegelijk uploaden.
 
          1. Voor elke afbeelding:
 
@@ -48,16 +48,16 @@ ht-degree: 0%
 
       * Voer voor video-elementen de URL in voor een [!DNL YouTube] video die minstens 10 seconden lang is. Klik op **+ Toevoegen** en voer een andere URL in.
 
-      U kunt maximaal 10 video-URL&#39;s tegelijk posten.
+        U kunt maximaal 10 video-URL&#39;s tegelijk posten.
 
       * Voer bij tekstelementen de tekstreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
 
-      Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
+        Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
 
-      U kunt de tekstelementen later gebruiken voor alle advertentie-elementen van uw keuze (zoals een kop of korte beschrijving), mits deze voldoen aan de tekenlimieten voor dat advertentie-element.
+        U kunt de tekstelementen later gebruiken voor alle advertentie-elementen van uw keuze (zoals een kop of korte beschrijving), mits deze voldoen aan de tekenlimieten voor dat advertentie-element.
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->*[Over het [!UICONTROL Asset Library]](asset-library-about.md)
+>* [Over het [!UICONTROL Asset Library]](asset-library-about.md)

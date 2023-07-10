@@ -1,9 +1,9 @@
 ---
 title: "Over de [!UICONTROL Asset Library]"
 description: Leer meer over de elementenbibliotheek voor uw advertentie-elementen.
-source-git-commit: 2b47ad8422a505a85f43d5954dc9a5bdd1242e57
+source-git-commit: d6d2b85b3be95a6f1162f87e2beccbdd4337b1f2
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '56'
 ht-degree: 0%
 
 ---
@@ -22,4 +22,4 @@ U kunt uw elementen gebruiken voor advertenties wanneer u campagnes maakt of bew
 
 >[!MORELIKETHIS]
 >
->*[Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
+>* [Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
