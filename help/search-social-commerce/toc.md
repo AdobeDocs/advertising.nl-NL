@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: e9818b49ab4bd473ba7b17663c9dd1436915f667
+source-git-commit: d8ec24ab05d16ea5f120b3263a8c426d76732cf8
 workflow-type: tm+mt
 source-wordcount: '1737'
 ht-degree: 2%
@@ -250,13 +250,13 @@ ht-degree: 2%
       + [Waarden voor labelclassificatie verwijderen uit accountcomponenten](/help/search-social-commerce/campaign-management/label-classifications/classification-values-remove.md)
       + [Classificatiewaarden label verwijderen](/help/search-social-commerce/campaign-management/label-classifications/classification-values-delete.md)
       + [Labelclassificaties verwijderen](/help/search-social-commerce/campaign-management/label-classifications/classification-delete.md)
+   + Advertenties beheren {#assets}
+      + [Over het [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
+      + [Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
    + Aanbevolen werkwijzen voor zoekcampagnes {#best-practices-search}
       + [Rapporten analyseren om uw trefwoorden en campagne-instellingen te verfijnen](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
       + [Effectieve tekst schrijven en kopiëren](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
       + [De openingspagina&#39;s van de website optimaliseren](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
-   + Advertenties beheren {#assets}
-      + [Over het [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
-      + [Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
    + [Maximum aantal objecten per netwerkaccount](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
    + [Veelgestelde vragen over campagnebeheer](/help/search-social-commerce/campaign-management/faqs-campaigns.md)
 + Inzichten en verslagen {#insights-reports}
