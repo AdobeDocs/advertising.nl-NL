@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 24cc190c2e2ae5ad63f7b79a54c47e6904a1f0ad
+source-git-commit: b1b1f67068dcd38f3e10d6e71db9827622f74da6
 workflow-type: tm+mt
-source-wordcount: '1724'
+source-wordcount: '1728'
 ht-degree: 2%
 
 ---
@@ -106,7 +106,8 @@ ht-degree: 2%
       + [Informatie over campagnebeheer in Zoeken, Sociale Zaken en Handel](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
       + [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
       + [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
-      + [Google Ads-conversiegegevens in Zoeken, Sociale Zaken en Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+      + [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+      + [[!DNL Microsoft Advertising] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/microsoft-conversion-data.md)
    + Accounts instellen {#campaign-management-accounts}
       + Nettoaccounts toevoegen {#ad-network-accounts}
          + [Informatie over netwerkaccounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
