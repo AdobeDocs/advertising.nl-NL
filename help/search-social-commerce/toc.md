@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: b1b1f67068dcd38f3e10d6e71db9827622f74da6
+source-git-commit: e9818b49ab4bd473ba7b17663c9dd1436915f667
 workflow-type: tm+mt
-source-wordcount: '1728'
+source-wordcount: '1737'
 ht-degree: 2%
 
 ---
@@ -84,7 +84,7 @@ ht-degree: 2%
       + [De parameter s_kwcid tracking](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
-      + Adobe Advertising conversie bijhouden {#advertising-conversion-tracking}
+      + Adobe Reclame converteren bijhouden {#advertising-conversion-tracking}
          + [Informatie over conversietags voor Adobe-advertenties](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
          + [Indeling van JavaScript-tags voor conversie bijhouden versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
@@ -254,6 +254,9 @@ ht-degree: 2%
       + [Rapporten analyseren om uw trefwoorden en campagne-instellingen te verfijnen](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
       + [Effectieve tekst schrijven en kopiëren](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
       + [De openingspagina&#39;s van de website optimaliseren](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
+   + Advertenties beheren {#assets}
+      + [Over het [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
+      + [Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
    + [Maximum aantal objecten per netwerkaccount](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
    + [Veelgestelde vragen over campagnebeheer](/help/search-social-commerce/campaign-management/faqs-campaigns.md)
 + Inzichten en verslagen {#insights-reports}

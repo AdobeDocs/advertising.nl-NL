@@ -1,9 +1,9 @@
 ---
 title: Elementen maken en uploaden
 description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
-source-git-commit: 5051ca80724a6ea55bc270b9454a2276a72deea0
+source-git-commit: 6cb13fe9917daf6437af7df30ec7164120732faa
 workflow-type: tm+mt
-source-wordcount: '256'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -50,8 +50,14 @@ ht-degree: 0%
 
       U kunt maximaal 10 video-URL&#39;s tegelijk posten.
 
-      * Voer bij tekstelementen de tekstreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.&lt;!— welk element voor een kopie — kop, korte beschrijving, lange beschrijving? Geen plaats om element te selecteren. —>
+      * Voer bij tekstelementen de tekstreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
 
       Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
 
+      U kunt de tekstelementen later gebruiken voor alle advertentie-elementen van uw keuze (zoals een kop of korte beschrijving), mits deze voldoen aan de tekenlimieten voor dat advertentie-element.
+
 1. Klik op **[!UICONTROL Post]**.
+
+>[!MORELIKETHIS]
+>
+>*[Over het [!UICONTROL Asset Library]](asset-library-about.md)
