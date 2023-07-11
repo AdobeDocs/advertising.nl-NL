@@ -1,9 +1,10 @@
 ---
 title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
 description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
+source-git-commit: 0da256d0e3d98751dfaaf69adf5fed72662f5d22
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '998'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ U kunt de volgende typen campagnes en de bijbehorende campagnestructuur replicer
 
 * [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft® Advertising] publiekscampagnes over het Microsoft® Audience Network.
 
-   Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
+  Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
 
 * [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] slimme winkelcampagnes.
 
@@ -58,7 +59,7 @@ Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.m
 
 1. (Optioneel) Zoek-, sociale en handelstracering toevoegen in het dialoogvenster [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
 
-## Details bewerken voor een importtaak voor een campagne
+## Planningsinstellingen voor een importtaak voor een campagne bewerken
 
 Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
@@ -66,15 +67,7 @@ Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.m
 
 1. Schakel het selectievakje naast de importtaak in en klik op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
 
-1. Bewerk de [importinstellingen](#campaign-import-settings).
-
-   1. In de **[!UICONTROL Select accounts]** sectie, selecteer de bron en bestemmingsrekeningen en referentie identiteitskaart die [!DNL Microsoft® Advertising] vereist.
-
-   1. In de **[!UICONTROL Select campaigns & ad groups]** , geeft u op welke campagnes en advertentiegroepen u wilt importeren.
-
-   1. In de **[!UICONTROL Customize your import]** , geeft u de itemtypen op die u wilt importeren.
-
-   1. In de **[!UICONTROL Set schedule]** , geeft u op wanneer de importtaak moet worden uitgevoerd.
+1. In de **[!UICONTROL Set schedule]** in, geeft u de [planningsinstellingen](#campaign-import-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -86,7 +79,7 @@ U kunt alle importtaken weergeven, inclusief de bron [!DNL Google Ads] account, 
 
    * Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]**.
 
-      Standaard wordt de weergave geopend voor de [!UICONTROL List of Import Jobs] tab.
+     Standaard wordt de weergave geopend voor de [!UICONTROL List of Import Jobs] tab.
 
    * Van de [[!UICONTROL Import Logs] tab](#campaign-import-log)klikt u op de knop **[!UICONTROL List of Import Jobs]** tab.
 
