@@ -1,9 +1,9 @@
 ---
 title: '[!DNL Microsoft Advertising] conversiegegevens'
 description: Meer informatie over de typen [!DNL Microsoft Advertising]-tracked conversion data available in Search, Social, & Commerce.
-source-git-commit: f48706edc1ab25f7c2396159d420bc2cfa849bbb
+source-git-commit: 0d7a7b63b31f85b3befb3217fc43bcb229b370f0
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -34,14 +34,11 @@ Twee transactieeigenschappen voor elk [[!DNL Microsoft Advertising]-trackconvers
 
 De gegevens zijn beschikbaar op basis van de kliktijd en gebaseerd op de conversie-/transactietijd vanaf de datum waarop de functie voor de account is ingeschakeld.
 
-<!-- verify below/ if equivalent
-
-[!DNL Microsoft Advertising] records each conversion by [bid unit](/help/search-social-commerce/glossary.md#a-b), device, and click date (not conversion date). Attribution is based on the default attribution setting for each metric in [!DNL Microsoft Advertising]; Adobe Advertising attribution isn't factored in because click event-level data isn't available.
--->
+[!DNL Microsoft Advertising] registreert elke omzetting door [biedingseenheid](/help/search-social-commerce/glossary.md#a-b), apparaat en klik op datum (geen omzettingsdatum). Attributie is gebaseerd op de standaardattributie-instelling voor elke metrische waarde in [!DNL Microsoft Advertising]; De attributie van de Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
 
 >[!NOTE]
 >
->* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit gebeurt, [de weergavenaam wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) voor een van de dubbele meetwaarden in [!UICONTROL Admin] > [!UICONTROL Transaction Properties]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
+>* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in de Adobe Advertising. Als dit gebeurt, [de weergavenaam wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) voor een van de dubbele meetwaarden in [!UICONTROL Admin] > [!UICONTROL Transaction Properties]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
 >* Gegevens op het niveau van de biedingseenheid komen overeen met gegevens in het advertentienetwerk op hetzelfde niveau. Nochtans, kunnen de eigen omzettingsgegevens van het advertentienetwerk voor hogere niveaus extra omzettingen omvatten die niet aan de eenheden van het kindbod worden toegeschreven. Gegevens in Zoeken, Sociaal, &amp; Handel worden altijd opgevoerd vanaf het niveau van de biedingseenheid, zodat, bijvoorbeeld, zou een campagne-vlakke rapport niet de zelfde totalen kunnen hebben zoals een campagne-vlakke rapport in het advertentienetwerk.
 >* De variantie van gegevens is typisch minder na de ochtendsynchronisatie dan het later op de dag is, wanneer de extra omzettingen nog niet zijn gesynchroniseerd. We raden u aan &#39;s ochtends gegevens te valideren.
 >* De gegevens zijn niet beschikbaar bij het publiek of het geografische plaatsniveau en daarom niet gebruikt om RLSA en plaats biodaanpassingen auto-te optimaliseren.
