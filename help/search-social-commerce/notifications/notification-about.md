@@ -2,7 +2,7 @@
 title: Informatie over meldingen
 description: Meer informatie over meldingen, waaronder de verschillende typen en categorieën.
 exl-id: a21dae13-b948-48e0-922a-d865f86e72f8
-source-git-commit: 7882e024ff11c20a5c2bf47fdc039345636da245
+source-git-commit: f3cc5ffae0d5d19c8542a46ffdb49478efa14522
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -49,26 +49,25 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
    * **[!UICONTROL Manager Account Missing]**: Meldingen dat Search, Social, &amp; Commerce de geloofsbrieven voor een [account voor netwerkbeheer](/help/search-social-commerce/admin/manager-accounts.md), die voor de correcte opstelling van kritieke functies zijn.
 
-<!--
-* [!UICONTROL Setup Errors]
-
-  * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect s_kwcid template; or it's overridden at a lower level by an incorrect value.
+  <!--
+  * [!UICONTROL Setup Errors]
   
-  * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
+    * **[!UICONTROL Adobe Analytics Tracking Setup Error]**: : Notifications that the [!UICONTROL Landing Page Suffix] value is incorrect, missing, or contains an incorrect s_kwcid template; or it's overridden at a lower level by an incorrect value.
+    
+    * **[!UICONTROL Manager Account Missing]**: Notifications that Search, Social, & Commerce is missing the credentials for an [ad network manager account](/help/search-social-commerce/admin/manager-accounts.md), which are for the correct setup of critical functions.
+  -->
 
--->
+   * [!UICONTROL Network Errors]
 
-* [!UICONTROL Network Errors]
+      * **[!UICONTROL Manager Account Auth Error]**: Meldingen dat Zoeken, Sociale &amp; Handel niet kon synchroniseren met een [account voor netwerkbeheer](/help/search-social-commerce/admin/manager-accounts.md) vanwege ongeldige of een ongeldig of verlopen verificatietoken.
 
-   * **[!UICONTROL Manager Account Auth Error]**: Meldingen dat Zoeken, Sociale &amp; Handel niet kon synchroniseren met een [account voor netwerkbeheer](/help/search-social-commerce/admin/manager-accounts.md) vanwege ongeldige of een ongeldig of verlopen verificatietoken.
+      * **[!UICONTROL Account Auth Error]**: Meldingen dat Search, Social &amp; Commerce geen toegang heeft tot een [ad-netwerkaccount](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) vanwege ongeldige of een ongeldig of verlopen verificatietoken.
 
-   * **[!UICONTROL Account Auth Error]**: Meldingen dat Search, Social &amp; Commerce geen toegang heeft tot een [ad-netwerkaccount](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) vanwege ongeldige of een ongeldig of verlopen verificatietoken.
+   * [!UICONTROL Data Upload]
 
-* [!UICONTROL Data Upload]
+      * **[!UICONTROL Direct File Upload]**: Wordt gebruikt voor een gesloten bètaversie
 
-   * **[!UICONTROL Direct File Upload]**: Wordt gebruikt voor een gesloten bètaversie
-
-   * **[!UICONTROL File Upload to Cloud Storage]**: Wordt gebruikt voor een gesloten bètaversie
+      * **[!UICONTROL File Upload to Cloud Storage]**: Wordt gebruikt voor een gesloten bètaversie
 
 <!--
 * [!UICONTROL Optimization]
