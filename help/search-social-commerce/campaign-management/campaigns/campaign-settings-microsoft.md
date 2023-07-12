@@ -1,9 +1,10 @@
 ---
-title: "[!DNL Microsoft Advertising] campagne-instellingen"
+title: '''[!DNL Microsoft Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
-source-git-commit: 0706f4dbc5f2a27e7d0cf43a6865d242865f9d36
+exl-id: c6d86fb8-48b0-40fd-bcfc-c4afdccd5283
+source-git-commit: f2889bbafc1b3cd3c467d94abae2ad1a52d0eaed
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '992'
 ht-degree: 0%
 
 ---
@@ -176,6 +177,12 @@ Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advert
 <!-- **[!UICONTROL Append Parameters]:** -->
 
 {{$include /help/_includes/append-parameters.md}}
+
+## [!UICONTROL Conversion Goals]
+
+**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Opmerking:** De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [de netwerkgegevens van de advertentie handmatig synchroniseren](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+
+Als de campagne deel uitmaakt van een portfolio, gebruikt u dezelfde conversiedoelstellingen als de doelstelling van de portfolio. Het gebruik van verschillende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 
 >[!MORELIKETHIS]
 >
