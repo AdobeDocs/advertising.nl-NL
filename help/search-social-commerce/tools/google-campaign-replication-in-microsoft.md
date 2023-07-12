@@ -2,9 +2,9 @@
 title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
 description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
 exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
-source-git-commit: 0da256d0e3d98751dfaaf69adf5fed72662f5d22
+source-git-commit: 8d062e5c74c8f873ab5f2491659a32be47bb2afb
 workflow-type: tm+mt
-source-wordcount: '998'
+source-wordcount: '962'
 ht-degree: 0%
 
 ---
@@ -35,19 +35,19 @@ Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toe
 
 Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
-1. Een referentie-id voor importeren ophalen van [!DNL Microsoft® Advertising] om uw [!DNL Google Ads] referenties.
-
-   Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] API-beperkingen. Neem contact op met de technische ondersteuning van de Adobe of met uw Adobe-accountteam. Deze medewerkers genereren de gegevens en geven u de id.
-
-   U moet over de id beschikken om de importtaak te configureren.
-
 1. Klik in het hoofdmenu Zoeken, Sociaal en Handel op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]**.
 
 1. Klik op **[!UICONTROL +Import]**.
 
 1. Geef de [importinstellingen](#campaign-import-settings):
 
-   1. In de **[!UICONTROL Select accounts]** sectie, selecteer de bron en bestemmingsrekeningen en referentie identiteitskaart die [!DNL Microsoft® Advertising] vereist.
+   1. In de **[!UICONTROL Select accounts]** sectie:
+
+      1. Selecteer de bron- en doelaccounts.
+
+      1. Klik op **[!UICONTROL Get Credential Id from MSA]**.
+
+      1. Aanmelden bij de bestemming [!DNL Microsoft Advertising] account, kopieert u de referentie-id die wordt weergegeven en plakt u de waarde in de **[!UICONTROL Credential ID]** veld.
 
    1. In de **[!UICONTROL Select campaigns & ad groups]** , geeft u op welke campagnes en advertentiegroepen u wilt importeren.
 
