@@ -1,9 +1,10 @@
 ---
-title: Adobe Reclameondersteuning voor de algemene gegevensbeschermingsverordening
+title: Ondersteuning van de Adobe Advertising van de algemene gegevensbeschermingsverordening
 description: Meer informatie over de ondersteunde gegevenstypen voor aanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden
 feature: GDPR
+role: User, Developer
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
-source-git-commit: 071d0ae725c21aaea19072725ae99ca77ef1a410
+source-git-commit: df19f47971e97727c85bce99ce80b677fbdb1a49
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -12,7 +13,7 @@ ht-degree: 0%
 
 # Ondersteuning van de Adobe Advertising van de algemene gegevensbeschermingsverordening
 
-*Voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; en Adobe Advertising DCO*
+*Voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe-DSP; Adobe Advertising Creative; en Adobe Advertising DCO*
 
 >[!IMPORTANT]
 >
@@ -34,7 +35,7 @@ Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken u
 * Gegevens op cookieniveau verwijderen die zijn opgeslagen in [!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], of [!DNL DCO] voor betrokkenen die een browser gebruiken; of gegevens op ID-niveau verwijderen die zijn opgeslagen in [!DNL DSP] voor betrokkenen die apps gebruiken op mobiele apparaten.
 * Controleer de status van een of alle bestaande aanvragen.
 
-## Vereiste opstelling om Verzoeken om Adobe Advertising te verzenden
+## Vereiste installatie voor het verzenden van verzoeken om Adobe-reclame
 
 Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u moeten:
 
@@ -50,7 +51,7 @@ Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u
 
    >[!NOTE]
    >
-   >Het schrappen van persoonlijke gegevens is verschillend dan uit Opt, die het richten van een eindgebruiker met publiekssegmenten tegenhoudt. Wanneer een betrokkene echter om verwijdering van persoonsgegevens verzoekt [!DNL Creative], [!DNL DSP], of [!DNL DCO], stuurt de bibliotheek ook een verzoek naar Adobe Advertising om de betrokkene te weigeren zich te richten op de verschillende categorieën. Voor adverteerders met [!DNL Search, Social, & Commerce], adviseren wij u een verbinding te verstrekken aan de betrokkenen [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), die verklaart hoe te om uit doelgesegmenteerd publiekssegment te kiezen.
+   >Het schrappen van persoonlijke gegevens is verschillend dan uit Opt, die het richten van een eindgebruiker met publiekssegmenten tegenhoudt. Wanneer een betrokkene echter om verwijdering van persoonsgegevens verzoekt [!DNL Creative], [!DNL DSP], of [!DNL DCO], stuurt de bibliotheek ook een verzoek aan de Adobe Advertising om de betrokkene uit te sluiten van segmentgerichtheid. Voor adverteerders met [!DNL Search, Social, & Commerce], adviseren wij u een verbinding te verstrekken aan de betrokkenen [https://www.adobe.com/privacy/opt-out.html](https://www.adobe.com/privacy/opt-out.html), die verklaart hoe te om uit doelgesegmenteerd publiekssegment te kiezen.
 
 1. Identificeer uw organisatie-id van de Experience Cloud en zorg ervoor het met uw Adobe Advertising rekeningen verbonden is.
 
@@ -74,7 +75,7 @@ Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u
 
 Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [Privacy en GDPR](https://developer.adobe.com/client-sdks/documentation/privacy-and-gdpr/).
 
-## Vereiste veldwaarden in JSON-verzoeken voor Adobe Advertising
+## Vereiste veldwaarden in JSON-verzoeken voor Adobe-advertenties
 
 &quot;&quot;bedrijfcontext&quot;:
 
@@ -102,29 +103,29 @@ Al deze stappen zijn nodig voor Adobe Advertising. Ga voor meer informatie over 
 ```
 {
 "companyContexts":[
-      {
-         "namespace":"imsOrgID",
-         "value":"5AB13068374019BC@AdobeOrg"
-      }
-   ],
-   "users": [
+    {
+        "namespace":"imsOrgID",
+        "value":"5AB13068374019BC@AdobeOrg"
+      }
+   ],
+   "users": [
 {
- "key": "John Doe",
- "action":["access"],
-  "userIDs":[
-      {
-         "namespace":"411",
-         "value":"Wqersioejr-wdg",
-         "type":"namespaceId",
-         "deletedClientSide":false
-      }
-   ]
+ "key": "John Doe",
+ "action":["access"],
+ "userIDs":[
+      { 
+        "namespace":"411",
+        "value":"Wqersioejr-wdg",
+        "type":"namespaceId",
+        "deletedClientSide":false
+      }
+   ]
 }
 ],
 "include":[
-      "adCloud"
-   ],
-    "regulation":"gdpr"
+      "adCloud"
+   ],
+    "regulation":"gdpr"
 }
 }
 ```

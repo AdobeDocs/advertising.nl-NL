@@ -1,9 +1,10 @@
 ---
-title: 'Adobe Advertising support for the California Consumer Privacy Act: Consumentenondersteuning voor uitverkoop'
+title: 'Steun van de Adobe Advertising voor de California Consumer Privacy Act: Consumentenondersteuning voor uitverkoop'
 description: Meer informatie over ondersteuning voor het vastleggen van aanvragen voor een opt-out voor consumenten.
 feature: CCPA
+role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: df19f47971e97727c85bce99ce80b677fbdb1a49
 workflow-type: tm+mt
 source-wordcount: '1003'
 ht-degree: 0%
@@ -22,11 +23,11 @@ De California Consumer Privacy Act (CCPA) is de nieuwe privacywet van Californi�
 
 Als bedrijf, zult u de persoonlijke gegevens bepalen die Adobe Experience Cloud verwerkt en namens u opslaat.
 
-Als uw dienstverlener, biedt de Reclame van de Adobe steun voor uw zaken om aan zijn verplichtingen uit hoofde van CCPA te voldoen die op het gebruik van de producten en de diensten van de Adobe Reclame van toepassing zijn, met inbegrip van het beheren van consumentenverzoeken om toegang tot en schrapping van persoonlijke informatie en het beheren van consumentenverzoeken om van de verkoop van persoonlijke informatie te kiezen.
+Als uw dienstverlener, verleent de Adobe Advertising steun voor uw zaken om aan zijn verplichtingen in het kader van CCPA te voldoen die op het gebruik van de producten en de diensten van de Adobe Advertising van toepassing zijn, met inbegrip van het beheren van consumentenverzoeken om toegang tot en schrapping van persoonlijke informatie en het beheren van consumentenverzoeken om zich uit de verkoop van persoonlijke informatie te sluiten.
 
-In dit document wordt beschreven hoe het Adobe Advertising Demand Side Platform (DSP), als dienstverlener, het recht van de consument ondersteunt om zich te onthouden van de &quot;verkoop&quot; van &quot;persoonlijke informatie&quot;, zoals elke term door de CCPA wordt gedefinieerd. Het omvat informatie over hoe te om opt-out-of-verkoop verzoeken aan Adobe Advertising en hoe te om rapporten van de opt-out van uw organisatie te terugwinnen verzoeken.
+In dit document wordt beschreven hoe het Adobe Advertising Demand Side Platform (DSP), als dienstverlener, het recht van de consument ondersteunt om zich te onthouden van de &quot;verkoop&quot; van &quot;persoonlijke informatie&quot;, zoals elke term door de CCPA wordt gedefinieerd. Het omvat informatie over hoe te om opt-out van-of-verkoop verzoeken aan Adobe Advertising mee te delen en hoe te om rapporten van de opt-out van uw organisatie verzoeken terug te winnen.
 
-Voor informatie over hoe [!DNL Advertising Search, Social, & Commerce]; Creatief adverteren; en [!DNL Advertising DCO] ondersteuning van de rechten van de consument op het gebied van toegang tot en verwijdering van persoonsgegevens , zie [Adobe Advertising Support for the California Consumer Privacy Act: Toegang tot consumentengegevens en ondersteuning voor verwijderen](/help/privacy/ccpa/ccpa-access-delete.md).
+Voor informatie over hoe [!DNL Advertising Search, Social, & Commerce]; Advertising Creative; en [!DNL Advertising DCO] ondersteuning van de rechten van de consument op het gebied van toegang tot en verwijdering van persoonsgegevens , zie [Adobe Advertising Support for the California Consumer Privacy Act: Toegang tot consumentengegevens en ondersteuning voor verwijderen](/help/privacy/ccpa/ccpa-access-delete.md).
 
 Voor meer informatie over de diensten van de Privacy van de Adobe voor CCPA, zie [Adobe Privacy Center](https://www.adobe.com/privacy/ccpa.html).
 
@@ -58,19 +59,20 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
 
    U moet de bibliotheek implementeren op de webpagina van waaruit uw klanten aanvragen voor een opt-out-of--verkoop kunnen indienen, zoals het privacyportaal van uw bedrijf. Met de bibliotheek kunt u Adobe-cookies ophalen (naamruimte-id: `gsurferID`), zodat u deze identiteiten kunt verzenden als onderdeel van een &quot;opt-out&quot;-aanvraag via de Adobe Experience Platform Privacy Service API.
 
-1. Identificeer uw organisatie-id van de Experience Cloud en zorg ervoor het met uw Adobe Advertising rekeningen wordt verbonden.
+1. Identificeer uw organisatie-id van de Experience Cloud en zorg ervoor het met uw rekeningen van de Adobe Advertising verbonden is.
 
    Een Experience Cloud-organisatie-id is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met &quot;@AdobeOrg&quot;. Aan de meeste klanten van Experience Cloud is een organisatie-id toegewezen. Als uw marketingteam of interne beheerder van het Adobe-systeem uw organisatie-id niet kent of niet zeker weet of deze is ingericht, neemt u contact op met de klantenservice van Adobe op gdprsupport@adobe.com. U hebt de organisatie-id nodig om aanvragen in te dienen bij de privacy-API met behulp van de `imsOrgID` naamruimte.
 
    >[!IMPORTANT]
    >
-   >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle accounts van uw organisatie voor Adobe-advertenties — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
+   >Neem contact op met de vertegenwoordiger van de Adobe Advertising van uw bedrijf om te bevestigen dat alle accounts van de Adobe Advertising van uw organisatie — inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] rekeningen, en [!DNL Creative] of [!DNL DCO] accounts — zijn gekoppeld aan uw Experience Cloud-organisatie-id.
 
-1. De Adobe Experience Platform Privacy Service API gebruiken om [indiening van &quot;opt-out&quot;-verzoeken](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) reclame namens de Adobe, en de status van bestaande verzoeken te controleren.
+1. De Adobe Experience Platform Privacy Service API gebruiken om [indiening van &quot;opt-out&quot;-verzoeken](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) Adobe Advertising namens de consument en controle op de status van bestaande verzoeken.
 
    Zie de bijlage hieronder voor een voorbeeld van een &quot;opt-out&quot;-verzoek.
 
    >[!NOTE]
+   >
    Als uw bedrijf veelvoudige organisatie IDs van Experience Cloud heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
 Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
@@ -132,4 +134,4 @@ curl -X POST \
 waarbij:
 
 * `"namespace": "AdCloud"` Hiermee wordt de `AdCloud` koekjesruimte, en de overeenkomstige waarde is de koekjesidentiteitskaart van de klant zoals die van wordt teruggewonnen `AdobePrivacy.js`
-* `"include": ["AdCloud"]` geeft aan dat het verzoek van toepassing is op reclame voor Adobe
+* `"include": ["AdCloud"]` geeft aan dat het verzoek van toepassing is op Adobe Advertising
