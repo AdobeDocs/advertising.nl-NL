@@ -3,7 +3,7 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: b3c45f6ae5adcf7cd41060e4e724dbb8021c8c1b
+source-git-commit: ab892528a2fbc0ed5994938ead23cd8e33e8b45f
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -74,7 +74,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Household Reach & Frequency]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
 
-* **[!UICONTROL Household Conversions]:** Gebruik dit rapport om mening-door omzettingen op het huisniveau te zien dat op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+   * **[!UICONTROL Household Conversions]:** Gebruik dit rapport om mening-door omzettingen op het huisniveau te zien dat op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
