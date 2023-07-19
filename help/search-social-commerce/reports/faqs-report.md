@@ -1,14 +1,15 @@
 ---
-title: Veelgestelde vragen over rapporten
+title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
-source-git-commit: 3f2b483a4cae20295a2334321802f8abfe864bd8
+exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
+source-git-commit: 18d7ec2254dda9e5f94270e13476a521006ec686
 workflow-type: tm+mt
-source-wordcount: '3917'
+source-wordcount: '3919'
 ht-degree: 0%
 
 ---
 
-# Veelgestelde vragen over rapporten
+# Veelgestelde vragen over aangepaste rapporten
 
 ## Algemene vragen
 
@@ -170,7 +171,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag zo nodig uw accountteam van Adobe om een testtransactie te maken voor elke toepasselijke conversietag en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
 
-1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociale en Koophandel bevat en klik op Doorsturen voor elke sjabloon. Uw Adobe Account Team kan een intern rapport uitvoeren om te zien of klikken-volgende URLs (het volgen van malplaatjes of bestemmingsURLs) mist of misvormd.
+1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociale en Koophandel bevat en klik op Doorsturen voor elke sjabloon. Uw Adobe Account Team kan een intern rapport uitvoeren om te zien of klikken-volgende URLs (het volgen malplaatjes of bestemmingsURLs) mist of misvormd.
 
    Indien nodig, genereert u tekstspatiëring door een bulksbladbestand met de juiste URL&#39;s te maken en het bestand naar de juiste account te posten met de opdracht **URL&#39;s voor bijhouden genereren** optie.
 
@@ -208,12 +209,12 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 +++
 
 +++Sommige geavanceerde rapporten bevatten geen omzettingsgegevens die door een adverteerdervoer worden verstrekt.
-De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service voor het bijhouden van Adoben Advertising en die alleen kunnen worden gegenereerd voor adverteerders met de service. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
+De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service Adobe Advertising en die alleen voor adverteerders met de service kunnen worden gegenereerd. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
 +++
 
 +++inkomstengegevens verschillen van de eigen inkomstengegevens van de adverteerder.
 
-**Adverteerders die conversietags voor Adoben Advertising gebruiken**
+**Adverteerders die Adobe-conversietags gebruiken**
 
 *Mogelijke oorzaken:*
 

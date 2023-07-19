@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 50c462fd58acd9cd36aace933ff56db43c2dbf48
+source-git-commit: 18d7ec2254dda9e5f94270e13476a521006ec686
 workflow-type: tm+mt
-source-wordcount: '1719'
+source-wordcount: '1720'
 ht-degree: 2%
 
 ---
@@ -349,7 +349,7 @@ ht-degree: 2%
             + [Instellingen voor werkbladrapportfeed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-settings.md)
          + [FTP-toegang tot rapporten](/help/search-social-commerce/reports/automation/ftp-reports.md)
       + [Hoe toewijzingsregels worden berekend](/help/search-social-commerce/reports/attribution-rules.md)
-      + [Veelgestelde vragen over rapporten](/help/search-social-commerce/reports/faqs-report.md)
+      + [Veelgestelde vragen over aangepaste rapporten](/help/search-social-commerce/reports/faqs-report.md)
    + Meldingen {#notifications}
       + [Informatie over meldingen](/help/search-social-commerce/notifications/notification-about.md)
       + [Je berichten bekijken](/help/search-social-commerce/notifications/notification-view.md)

@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: b505a40d04fc57fce245d111f58a614bd6756c65
 workflow-type: tm+mt
 source-wordcount: '902'
 ht-degree: 5%
@@ -24,7 +24,7 @@ ht-degree: 5%
 
 + [Nieuwe functies](/help/dsp/home.md)
 + Inleiding {#introduction}
-   + [Inleiding tot DSP van Adobe-advertenties](/help/dsp/introduction/dsp-about.md)
+   + [Inleiding tot Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
    + Belangrijkste kenmerken {#features}
       + [Optimalisatie](/help/dsp/introduction/features/optimization.md)
       + [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
@@ -207,7 +207,7 @@ ht-degree: 5%
    + [Een aangepast rapport uitvoeren](/help/dsp/reports/report-run-now.md)
    + [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
    + [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
-   + [Veelgestelde vragen over de [!UICONTROL Household] Rapport](/help/dsp/reports/faq-household-report.md)
+   + [Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)
    + Doelen rapporteren {#report-destinations}
       + [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)

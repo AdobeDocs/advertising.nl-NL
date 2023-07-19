@@ -3,7 +3,7 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: ab892528a2fbc0ed5994938ead23cd8e33e8b45f
+source-git-commit: 085e2c40ae65a5bb93c3d1a13036342d2670226b
 workflow-type: tm+mt
 source-wordcount: '750'
 ht-degree: 0%
@@ -40,7 +40,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
      >
      >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
 
-   * **[!UICONTROL Conversion]:** Gebruik dit rapport om te begrijpen hoe uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adoben Advertising. Dit rapport bevat multi-touchattributie.
+   * **[!UICONTROL Conversion]:** Met dit rapport krijgt u inzicht in de manier waarop uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adobe-advertenties. Dit rapport bevat multi-touchattributie.
 
    * **[!UICONTROL Device]:** Gebruik deze vooraf ingevulde sjabloon om belangrijke metriek per apparaat-gerelateerde afmetingen te bekijken.
 
@@ -88,7 +88,7 @@ Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de and
 >
 >* [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
->* [Veelgestelde vragen over de [!UICONTROL Household] Rapport](/help/dsp/reports/faq-household-report.md)
+>* [Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)
 >* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
 >* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
