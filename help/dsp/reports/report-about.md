@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 858b00ec28158ada1edfc70a2efc3540fa46a376
+source-git-commit: b3c45f6ae5adcf7cd41060e4e724dbb8021c8c1b
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '750'
 ht-degree: 0%
 
 ---
@@ -36,30 +36,28 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Billing]:** Gebruik dit rapport om belangrijke factureringsmetriek zoals uitgavenmetriek voor media het factureren door campagne te begrijpen.
 
-      >[!NOTE]
-      >
-      >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
+     >[!NOTE]
+     >
+     >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
 
-   * **[!UICONTROL Conversion]:** Met dit rapport krijgt u inzicht in de manier waarop uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adobe-advertenties. Dit rapport bevat multi-touchattributie.
+   * **[!UICONTROL Conversion]:** Gebruik dit rapport om te begrijpen hoe uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adoben Advertising. Dit rapport bevat multi-touchattributie.
 
    * **[!UICONTROL Device]:** Gebruik deze vooraf ingevulde sjabloon om belangrijke metriek per apparaat-gerelateerde afmetingen te bekijken.
 
    * **[!UICONTROL Frequency (by Impression)]:** Met dit rapport krijgt u inzicht in de distributie van afbeeldingen die worden weergegeven aan unieke viewers (bijvoorbeeld hoeveel unieke viewers één indruk, twee afbeeldingen, drie afbeeldingen enzovoort hebben gezien). Gegevens zijn beschikbaar via plaatsing of campagne.
 
-      >[!NOTE]
-      >
-      >* Gegevens zijn beschikbaar na 1 maart 2019.
-      >* De frequentie wordt geschat op basis van een steekproef van gegevens.
-      >* Voor sommige inventarisaties geven uitgevers geen apparaat-id door, waardoor het bijhouden van de frequentie wordt verhinderd. Dit rapport bevat alleen afbeeldingen waarvoor een apparaat-id beschikbaar was.
-
+     >[!NOTE]
+     >
+     >* Gegevens zijn beschikbaar na 1 maart 2019.
+     >* De frequentie wordt geschat op basis van een steekproef van gegevens.
+     >* Voor sommige inventarisaties geven uitgevers geen apparaat-id door, waardoor het bijhouden van de frequentie wordt verhinderd. Dit rapport bevat alleen afbeeldingen waarvoor een apparaat-id beschikbaar was.
 
    * **[!UICONTROL Frequency (by App/Site)]:** Gebruik dit rapport om te begrijpen hoeveel unieke gebruikers per app of per site zijn bereikt. U kunt ook zien hoeveel unieke gebruikers alleen via een bepaalde app of site (&quot;verschillende unieke gebruikers&quot;) zijn bereikt.
 
-      >[!NOTE]
-      >
-      >* Gegevens zijn beschikbaar na 15 november 2018.
-      >* Voor sommige privéinventarisaties geven uitgevers geen apparaat-id door, waardoor het bijhouden van de frequentie wordt verhinderd.
-
+     >[!NOTE]
+     >
+     >* Gegevens zijn beschikbaar na 15 november 2018.
+     >* Voor sommige privéinventarisaties geven uitgevers geen apparaat-id door, waardoor het bijhouden van de frequentie wordt verhinderd.
 
    * **[!UICONTROL Geo]**: Gebruik deze vooraf ingevulde sjabloon om de belangrijkste metriek op geografische afmetingen weer te geven.
 
@@ -67,15 +65,16 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Segment]:** Gebruik dit vooraf ingevulde malplaatje om zeer belangrijke metriek door segment te zien.
 
-      >[!NOTE]
-      >
-      >* Dit rapport is bedoeld om te tonen hoe de verschillende doelsegmenten presteren. Het gebruikt de gegevens van het segmentlidmaatschap. Wanneer een persoon of een apparaat dat tot twee of meer doelsegmenten behoort, de indruk krijgt, bevat dit rapport één rij voor elk segment. Daarom komen de totalen in dit rapport mogelijk niet overeen met de werkelijke levering.
-      >* De metriek van de omzetting en de gegevens van het douanedoel voor segmenten zijn beschikbaar na 2 Augustus 2019. Alle andere gegevens voor segmenten zijn beschikbaar vanaf 1 juni 2018.
-
+     >[!NOTE]
+     >
+     >* Dit rapport is bedoeld om te tonen hoe de verschillende doelsegmenten presteren. Het gebruikt de gegevens van het segmentlidmaatschap. Wanneer een persoon of een apparaat dat tot twee of meer doelsegmenten behoort, de indruk krijgt, bevat dit rapport één rij voor elk segment. Daarom komen de totalen in dit rapport mogelijk niet overeen met de werkelijke levering.
+     >* De metriek van de omzetting en de gegevens van het douanedoel voor segmenten zijn beschikbaar na 2 Augustus 2019. Alle andere gegevens voor segmenten zijn beschikbaar vanaf 1 juni 2018.
 
    * **[!UICONTROL Site]:** Standaard bevat dit standaard standaardcijfers, totale netto-uitgaven voor media en totale netto-uitgaven voor facturering per site.
 
-   * **[!UICONTROL Household]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+   * **[!UICONTROL Household Reach & Frequency]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+
+* **[!UICONTROL Household Conversions]:** Gebruik dit rapport om mening-door omzettingen op het huisniveau te zien dat op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
@@ -93,4 +92,3 @@ Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de and
 >* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
 >* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
-
