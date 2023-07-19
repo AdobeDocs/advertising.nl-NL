@@ -3,9 +3,9 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: 232b253877195b0e0a1d47b0b28e6ed25a8b07d4
+source-git-commit: 562d6b4be50b5ba248ecfa12e8ff0b60556c326a
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1207'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Indien naar behoren in dienst genomen, [!DNL Analytics for Advertising] vervaagt
 
 Primaire voordelen:
 
-* Verzenden [!DNL Analytics] segmenten rechtstreeks naar Adobe Advertising voor eerderangs sites.
+* Verzenden [!DNL Analytics] segmenten direct aan Adobe Advertising voor de hermarketing van de eerste plaats.
 * Gebruiken [!DNL Analytics] aangepaste en standaardgebeurtenissen als conversiesignalen voor het optimaliseren van betaalde mediaclame.
 * Profiteer van [!DNL Analytics] Analysis Workspace voor een beter begrip van de toegangspunten van sites en het gedrag van bezoekers.
 * Nauwere samenwerking tussen webanalisten en betaalde medieteams mogelijk maken.
@@ -43,15 +43,15 @@ Primaire voordelen:
 * Doorlopende weergave van permanente Adobe Advertising gebruiken en doorklikid&#39;s gebruiken binnen [!DNL Analytics] de betrokkenheid van de site te begrijpen.
 * Profiteer van Analysis Workspace voor een beter begrip van de toegangspunten voor sites en het gedrag van bezoekers. U hebt toegang tot betaalde media-dimensionale en gebeurtenisgegevens, waaronder namen van campagneentiteiten (tot plaatsen en advertenties) en de bijbehorende metriek, zoals klikken, indrukken en kosten.
 
-Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediarapportage een Experience Cloud-aanmelding met toegang tot Analysis Workspace nodig. Uw team van de Adobe Advertising zal u helpen om uw gegevens van de Adobe Advertising aan individuele rapportreeksen in Analysis Workspace in kaart te brengen. U kunt de gegevens van de Adobe Advertising naar om het even welke rapportreeks verzenden, maar u zou van de rapportsuites op de hoogte moeten zijn die aan Adobe Advertising en die in kaart zijn gebracht die niet hebben. Afhankelijk van de rapportsuite kunnen de gerapporteerde gegevens hierdoor worden gewijzigd.
+Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediarapportage een Experience Cloud-aanmelding met toegang tot Analysis Workspace nodig. Uw team van de Adobe Advertising zal u helpen om uw gegevens van de Adobe Advertising aan individuele rapportreeksen in Analysis Workspace in kaart te brengen. U kunt Adobe Advertising-gegevens naar elke rapportsuite verzenden, maar u dient op de hoogte te zijn van de rapportsuites die zijn toegewezen aan Adobe Advertising en andere die dat nog niet hebben gedaan. Afhankelijk van de rapportsuite kunnen de gerapporteerde gegevens hierdoor worden gewijzigd.
 
-[Adobe Advertising-id&#39;s binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugzoekvenster voor toewijzing ingesteld op 60 dagen tijdens de implementatie van de Adobe Advertising. U kunt deze instelling wijzigen door met het accountteam van uw Adobe te werken.
+[Adobe Advertising-id&#39;s binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugkijkvenster voor toewijzingen ingesteld op 60 dagen tijdens de Adobe-advertentie-implementatie. U kunt deze instelling wijzigen door met het accountteam van uw Adobe te werken.
 
-Adobe De advertentiedrempels worden toegevoegd met het achtervoegsel &quot;(AMO ID)&quot; (zoals &quot;Advertentietype (AMO ID)&quot;). Zie &quot;[Adobe Advertising Metrics in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
+De afmetingen van de Adobe Advertising worden toegevoegd met het achtervoegsel &quot;(AMO-id)&quot; (zoals &quot;Advertentietype (AMO-id)&quot;). Zie &quot;[Adobe Advertising Metrics in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
 
 >[!NOTE]
 >
-> Wanneer u de gegevens van de Adobe Advertising (of om het even welke gegevensreeks) binnen bekijkt [!DNL Analytics], moet u er rekening mee houden dat metriek en rapporten zijn gebaseerd op de regels die binnen [!DNL Analytics]. De gegevens kunnen anders zijn dan wat u ziet in andere rapportsystemen, zoals advertentierapporten. [!DNL DSP] rapporten of rapporten van zoekprogramma&#39;s. Om inzicht te krijgen in de gegevensverschillen in [!DNL Analytics]Bovendien moet u weten wanneer de gegevens van de eVar verlopen, wat een bezoek bepaalt, wat als laatste aanraakattributie tegenover totale persisterende attributie wordt beschouwd, en andere factoren. Zie voor meer informatie [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame](data-variances.md).
+> Wanneer u de gegevens van de Adobe Advertising (of om het even welke gegevensreeks) binnen bekijkt [!DNL Analytics], moet u er rekening mee houden dat metriek en rapporten zijn gebaseerd op de regels die binnen [!DNL Analytics]. De gegevens kunnen anders zijn dan wat u ziet in andere rapportsystemen, zoals advertentierapporten. [!DNL DSP] rapporten of rapporten van zoekprogramma&#39;s. Om inzicht te krijgen in de gegevensverschillen in [!DNL Analytics]Bovendien moet u weten wanneer de gegevens van de eVar verlopen, wat een bezoek bepaalt, wat als laatste aanraakattributie tegenover totale persisterende attributie wordt beschouwd, en andere factoren. Zie voor meer informatie [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising](data-variances.md).
 
 ## Analyses gebruiken voor Power Adobe Advertising-campagnes en -Portfolio
 
@@ -92,7 +92,7 @@ Voor meer informatie over de dienst van het Soorten publiek van de Experience Cl
 
 ## Voorbeelden van hoe te om de Integratie te gebruiken {#integration-examples}
 
-### Gegevens van Adobe Advertising gebruiken in Analysis Workspace
+### Reclamegegevens van Adobe gebruiken in Analysis Workspace
 
 Bekijk de video &quot;[Inleiding tot werkruimte en rapportage](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html).&quot;
 
@@ -128,11 +128,15 @@ De weergave Marketingkanaal gebruiken:
 
    Openingspagina: `View-Through (CTV)`
 
+>[!NOTE]
+>
+> Doorkijkconversies voor CTV-plaatsingen zijn ook beschikbaar in de [DSP [!UICONTROL Household Conversions Report]](/help/dsp/reports/report-about.md).
+
 ### Adobe Advertising-dashboards maken
 
 Als u wilt weten hoe u de gegevens van uw Adobe Advertising kunt bijhouden op basis van uw doelstellingen in Analysis Workspace, raadpleegt u de video &quot;[Adobe Advertising-dashboards maken met Adobe Analytics](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html).&quot;
 
-### De Adobe-advertentie-id gebruiken voor de analyse van site-invoer
+### Gebruikend Adobe Advertising identiteitskaart voor de Analyse van de Ingang van de Plaats
 
 Om te zien hoe u een rapport van de de plaatsingang van de Adobe Advertising kunt creëren om dag-van-week, tijd-van-dag, browser, en geografische invloeden te controleren, zie de video &quot;[Rapporten over site-invoer voor Adobe Advertising maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html).&quot;
 
