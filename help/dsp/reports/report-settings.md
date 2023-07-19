@@ -3,7 +3,7 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 2e0240ff1b342d5a0564e01ebec3ee313b488b59
+source-git-commit: 3faf43573cb073be828b0740f68f0e7d0612a1ef
 workflow-type: tm+mt
 source-wordcount: '1013'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **[!UICONTROL Name]** De rapportnaam. De maximumlengte is 180 tekens.
 
-**[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, of *[!UICONTROL Household]*.
+**[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*,  *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*,  *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, of *[!UICONTROL Household Conversions]*.
 
 ## [!UICONTROL Apply Filters] Sectie
 
@@ -46,15 +46,15 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 * [!UICONTROL Dimensions]
 
-   >[!NOTE]
-   >
-   > De [!UICONTROL Household] het rapport kan slechts één dimensie bevatten .
+  >[!NOTE]
+  >
+  > De [!UICONTROL Household Reach & Frequency] het rapport kan slechts één dimensie bevatten .
 
 * [!UICONTROL Metrics]
 
-   >[!NOTE]
-   >
-   >De [!UICONTROL Household] het rapport kan of overlappende metriek of niet-overlappende metriek, maar niet allebei omvatten.
+  >[!NOTE]
+  >
+  >De [!UICONTROL Household Reach & Frequency] het rapport kan of overlappende metriek of niet-overlappende metriek, maar niet allebei omvatten.
 
 * [!UICONTROL Conversion Metrics] (gesorteerd op adverteerder)
 
@@ -70,7 +70,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Report Headers]:** Of *[!UICONTROL Include]* of *[!UICONTROL Do Not Include]* kolomkoppen.
 
-**[!UICONTROL Attribution Rule Settings]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen Adobe Advertising conversion tracking) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+**[!UICONTROL Attribution Rule Settings]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
 
 >[!NOTE]
 >
@@ -156,4 +156,3 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
 >* [Info over Rapportdoelen](/help/dsp/reports/report-destinations/report-destination-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
-
