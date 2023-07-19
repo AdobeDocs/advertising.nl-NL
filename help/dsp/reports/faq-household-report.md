@@ -2,9 +2,9 @@
 title: Veelgestelde vragen over rapporten van huishoudens
 description: Leer meer over het bereik, de frequentie en de omzettingsgegevens van het huishouden, met inbegrip van hoe de huishoudelijk rapporten van andere rapporten en het oplossen van problemen verschillen.
 exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
-source-git-commit: e07038895e64a266f898619384c8b41024f71038
+source-git-commit: ae6028d7dc9b35906e4abcd727b84b169e5594b1
 workflow-type: tm+mt
-source-wordcount: '912'
+source-wordcount: '914'
 ht-degree: 0%
 
 ---
@@ -91,11 +91,11 @@ Als uw organisatie [!DNL Analytics for Advertising]beide typen rapportage samen 
 
 ## [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] Rapporten versus gegevens van [!DNL Advanced Measurement Services]
 
-Voor geavanceerde rapportage over het bereik en de frequentie of omzettingen in huishoudens, [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) kan zeer klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Meer informatie over [!DNL Advanced Measurement Services], neemt u contact op met uw Adobe-accountteam.
+Voor een geavanceerde rapportage over het bereik en de frequentie of omrekeningen op basis van huishoudens, [[!DNL Strategic Advertising Consulting] team](/help/dsp/introduction/advanced-measurement-services.md) kan zeer klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Meer informatie over [!DNL Advanced Measurement Services], neemt u contact op met uw Adobe-accountteam.
 
 ### Als ik al gebruik [!DNL Advanced Measurement Services], waarom moet ik de [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] rapporten?
 
-De [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] rapporten stellen klanten in staat autonoom in real time het bereik, de frequentie en de conversiemetriek op het niveau van het huishouden te trekken.
+De [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] Met rapporten kunnen klanten het bereik, de frequentie en de conversiemetriek op het niveau van het huishouden autonoom in real time ophalen.
 
 ### Mag ik beide [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] verslagen en [!DNL Advanced Measurement Services]?
 
