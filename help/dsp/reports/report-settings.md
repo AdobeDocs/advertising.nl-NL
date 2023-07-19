@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: b41c1ab857d37d21cf593a8e566b18f2769d47c0
+source-git-commit: 73fb309063066e52e4d8c23f5ce9ebb84159b253
 workflow-type: tm+mt
-source-wordcount: '1123'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -70,38 +70,41 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 ## [!UICONTROL Multi-Touch Conversion Options] Sectie
 
+**[!UICONTROL Attribution Rule Settings]** De instellingen variëren per rapporttype:
 
-### [!UICONTROL Attribution Rule Settings]
+* **\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
 
-**\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
+   * [!UICONTROL Unique]: (De standaardwaarde) Telt het aantal keren dat een waarde voor de dimensie (zoals een apparaat of plaatsing) zich op het pad naar de conversie bevond.
 
-* [!UICONTROL Unique]: (De standaardwaarde) Telt het aantal keren dat een waarde voor de dimensie (zoals een apparaat of plaatsing) zich op het pad naar de conversie bevond.
+   * [!UICONTROL Multi-Touch Attribution (MTA)]: Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
 
-* [!UICONTROL Multi-Touch Attribution (MTA)]: Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
+* **\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
 
-**\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+  >[!NOTE]
+  >
+  >Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters die zijn geconfigureerd in [!DNL Advertising Search, Social, & Commerce]. Klikken krijgen de voorkeur boven indrukken tijdens conversie-toewijzing. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
 
->[!NOTE]
->
->Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters die zijn geconfigureerd in [!DNL Advertising Search, Social, & Commerce]. Klikken krijgen de voorkeur boven indrukken tijdens conversie-toewijzing. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
+   * *[!UICONTROL Last Event]:* Hiermee worden conversies toegewezen aan de laatste klik of indruk in het conversiepad.
 
-* *[!UICONTROL Last Event]:* Hiermee worden conversies toegewezen aan de laatste klik of indruk in het conversiepad.
+   * *[!UICONTROL Weight Last More]:* Hiermee worden conversies toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgen de laatste gebeurtenis het meeste gewicht en wordt het gewicht van de voorgaande gebeurtenissen achtereenvolgens minder.
 
-* *[!UICONTROL Weight Last More]:* Hiermee worden conversies toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgen de laatste gebeurtenis het meeste gewicht en wordt het gewicht van de voorgaande gebeurtenissen achtereenvolgens minder.
+   * *[!UICONTROL Even Distribution]:* Hiermee worden conversies gelijkmatig toegewezen aan elke gebeurtenis in het conversiepad.
 
-* *[!UICONTROL Even Distribution]:* Hiermee worden conversies gelijkmatig toegewezen aan elke gebeurtenis in het conversiepad.
+   * *[!UICONTROL Weight First More]:* Hiermee worden conversies toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgen de eerste gebeurtenis het meeste gewicht en wordt het gewicht van de volgende gebeurtenissen achtereenvolgens minder.
 
-* *[!UICONTROL Weight First More]:* Hiermee worden conversies toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgen de eerste gebeurtenis het meeste gewicht en wordt het gewicht van de volgende gebeurtenissen achtereenvolgens minder.
+   * *[!UICONTROL First Event]:* Hiermee worden conversies toegewezen aan de eerste klik of de eerste indruk in het conversiepad.
 
-* *[!UICONTROL First Event]:* Hiermee worden conversies toegewezen aan de eerste klik of de eerste indruk in het conversiepad.
+   * *[!UICONTROL U-shaped]:* Hiermee wordt de conversie toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgt het grootste gewicht aan de eerste en laatste gebeurtenis, met achtereenvolgens minder gewicht aan de gebeurtenissen in het midden van het conversiepad.
 
-* *[!UICONTROL U-shaped]:* Hiermee wordt de conversie toegewezen aan alle gebeurtenissen in het conversiepad, maar krijgt het grootste gewicht aan de eerste en laatste gebeurtenis, met achtereenvolgens minder gewicht aan de gebeurtenissen in het midden van het conversiepad.
+   * *[!UICONTROL Display Only]:*  Hiermee worden conversies toegewezen aan de laatste DSP klik of indruk in het conversiepad. Dit omvat video en aangesloten tv-advertenties en sluit klikken op [!DNL Advertising Search, Social, & Commerce] advertenties.
 
-* *[!UICONTROL Display Only]:*  Hiermee worden conversies toegewezen aan de laatste DSP klik of indruk in het conversiepad. Dit omvat video en aangesloten tv-advertenties en sluit klikken op [!DNL Advertising Search, Social, & Commerce] advertenties.
+   * *[!UICONTROL Social Only]:* Achterhaald
 
-* *[!UICONTROL Social Only]:* Achterhaald
+  <!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
-<!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
+<!--
+* **Lookback:** ([!UICONTROL Household Conversion] reports with [!UICONTROL Conversion Metrics] or [!UICONTROL Custom Goals] columns; advertisers with Adobe Advertising conversion tracking only) Within the report, the number of days after a paid click in an event series occurs in which the click can be attributed to a conversion.
+-->
 
 **[!UICONTROL Paths as Columns]:**  (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) Welke soorten omzettingen om te melden wanneer de vroegere gebeurtenissen op het zelfde apparaat voorkwamen. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)], of [!UICONTROL (vt)]):
 
