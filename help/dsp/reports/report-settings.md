@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 3faf43573cb073be828b0740f68f0e7d0612a1ef
+source-git-commit: b41c1ab857d37d21cf593a8e566b18f2769d47c0
 workflow-type: tm+mt
-source-wordcount: '1013'
+source-wordcount: '1123'
 ht-degree: 0%
 
 ---
@@ -64,13 +64,22 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** De volgorde van de kolomkoppen. U kunt elke kolom slepen en neerzetten om de volgorde aan te passen.
 
-## [!UICONTROL Multi-Touch Conversion Options] Sectie
-
 **[!UICONTROL Format]:** Of een rapport moet worden gegenereerd in *[!UICONTROL CSV]* (door komma&#39;s gescheiden waarden) of *[!UICONTROL Tab]* (door tabs gescheiden waarden).
 
-**[!UICONTROL Report Headers]:** Of *[!UICONTROL Include]* of *[!UICONTROL Do Not Include]* kolomkoppen.
+**[!UICONTROL Headers]:** Of *[!UICONTROL Include]* of *[!UICONTROL Do Not Include]* kolomkoppen.
 
-**[!UICONTROL Attribution Rule Settings]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+## [!UICONTROL Multi-Touch Conversion Options] Sectie
+
+
+### [!UICONTROL Attribution Rule Settings]
+
+**\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
+
+* [!UICONTROL Unique]: (De standaardwaarde) Telt het aantal keren dat een waarde voor de dimensie (zoals een apparaat of plaatsing) zich op het pad naar de conversie bevond.
+
+* [!UICONTROL Multi-Touch Attribution (MTA)]: Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
+
+**\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
 
 >[!NOTE]
 >

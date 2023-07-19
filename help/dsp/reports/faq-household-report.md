@@ -2,9 +2,9 @@
 title: Veelgestelde vragen over rapporten van huishoudens
 description: Leer meer over het bereik, de frequentie en de omzettingsgegevens van het huishouden, met inbegrip van hoe de huishoudelijk rapporten van andere rapporten en het oplossen van problemen verschillen.
 exl-id: aaaf6f6d-b133-4cda-8fc6-bd686b3b1ebb
-source-git-commit: ae6028d7dc9b35906e4abcd727b84b169e5594b1
+source-git-commit: bd925c41f7b949c56402edd4e2dc393f0c5bed57
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '910'
 ht-degree: 0%
 
 ---
@@ -75,9 +75,9 @@ Wanneer een plaatsing veelvoudige markeringen omvat, beschouwt het rapport het v
 
 Er worden twee typen toewijzingsmethoden ondersteund:
 
-* Uniek: Telt het aantal keren dat een afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting was.
+* [!UICONTROL Unique]: Telt het aantal keren dat een afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting was.
 
-* MTA (Multi-Touch Attribution): Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
+* [!UICONTROL Multi-Touch Attribution (MTA)]: Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
 
 ### Hoe verschilt de rapportage van omrekeningen van huishoudens van de rapportage van de doorkijkcijfers in Adobe Analytics?
 
