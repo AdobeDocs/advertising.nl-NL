@@ -1,13 +1,13 @@
 ---
 title: Nieuwe functies in DSP
-description: Meer informatie over de nieuwste updates en nieuwe functies in Adobe Advertising DSP.
+description: Meer informatie over de nieuwste updates en nieuwe functies in DSP voor reclame in Adobe.
 cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: d825772e74e8b3ab9eec747706801beca08aaa9c
+source-git-commit: a616228e40df2ed49b0eb354f3c626a2076524e3
 workflow-type: tm+mt
-source-wordcount: '1364'
+source-wordcount: '1361'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 19 juli 2023 | Rapportage | (DSP gebruikers met [!DNL Analytics for Advertising]) De nieuwe [!UICONTROL Household Conversions Report] toont mening-door omzettingen op het niveau van het huishouden die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. | Zie &quot;[Over rapporten](/help/dsp/reports/report-about.md)&quot; en &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md).&quot; |
+| 19 juli 2023 | Rapportage | De nieuwe [!UICONTROL Household Conversions Report] toont mening-door omzettingen op het niveau van het huishouden die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. | Zie &quot;[Over rapporten](/help/dsp/reports/report-about.md)&quot; en &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md).&quot; |
 | 29 mei 2023 | [!UICONTROL Campaigns] | U kunt nu campagnes, pakketten en advertenties pauzeren of activeren. U kunt plaatsing al pauzeren en activeren. | Zie &quot;[Een campagne onderbreken of activeren](/help/dsp/campaign-management/campaigns/campaign-pause-activate.md),&quot; &quot;[Een pakket onderbreken of activeren](/help/dsp/campaign-management/packages/package-pause-activate.md),&quot; en &quot;[Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md).&quot; |
 | 24 mei 2023 | [!UICONTROL Campaigns] | Universele videokaarten en -advertenties zijn nu over het algemeen beschikbaar. | Zie &quot;[Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md),&quot; &quot;[Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md),&quot; en &quot;[Een advertentie maken](/help/dsp/campaign-management/ads/ad-create.md).&quot; |
 | maart 2023 | [!UICONTROL Reports] | Een nieuwe [!UICONTROL Household Report] toont beelden, bereik, en frequentie over diverse afmetingen op een huisniveau dat op IP adres wordt gebaseerd, eerder dan op een apparaat/koekjesniveau. Het verslag bevat negen dimensies: [!UICONTROL Campaign], [!UICONTROL Package], [!UICONTROL Placement], [!UICONTROL Site/Apps], [!UICONTROL Media Type], [!UICONTROL Device], [!UICONTROL Audience], [!UICONTROL Creative Length]en door de gebruiker gemaakt [!UICONTROL Tags]. | Zie &quot;[Over rapporten](/help/dsp/reports/report-about.md),&quot; &quot;[Rapportinstellingen](/help/dsp/reports/report-settings.md),&quot; en &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md).&quot; |
@@ -52,7 +52,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 |  | [!UICONTROL Ads] | (Gebruikers met toestemming om het bestand op te nemen [!DNL Clearcast] kloknummers in hun advertenties) DSP er niet langer een fout wordt weergegeven als u een kloknummer gebruikt dat aan een andere advertentie is gekoppeld. **Opmerking:**  De beste manier is om een uniek kloknummer te gebruiken voor elke video-advertentie. Anders keurt de uitgever niet alle advertenties goed. | — |
 |  | [!UICONTROL Deal IDs] | De [!UICONTROL Deal ID] de instellingen en andere plaatsen in de gebruikersinterface weerspiegelen nieuwe branding voor [!DNL Magnite] SSP:<br><ul><li>Het SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) is nu &quot;[!DNL Magnite CTV].&quot;</li><li>In de komende weken [!DNL Rubicon]&quot; wordt gewijzigd in &quot;[!DNL Magnite DV+],&quot; waarbij [!DNL DV+] staat voor weergave, video en andere indelingen, zoals audio.</li></ul> | Zie &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
 |  | [!DNL Freewheel] door programmacode gegarandeerde transacties | U kunt nu advertenties verzenden en de status van advertenties controleren voor [!DNL Freewheel] door programmacode gegarandeerde transacties van de [!UICONTROL Ads] weergeven. Eerder was het mogelijk om beide handelingen alleen uit te voeren vanuit de [!UICONTROL Deals] weergeven. | Zie &quot;[Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the Status of Ads for [!DNL Freewheel] Door programmacode gegarandeerde deals](/help/dsp/inventory/freewheel-check-status.md).&quot; |
-| 7 oktober 2021 | Help | Alles [DSP en andere Adobe Reclamedocumentatie](https://experienceleague.adobe.com/docs/advertising.html) op [!DNL Experience League] is nu de machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![Taal wijzigen](/help/dsp/assets/change-language.png) |
+| 7 oktober 2021 | Help | Alles [DSP en andere Adobe Advertising](https://experienceleague.adobe.com/docs/advertising.html) op [!DNL Experience League] is nu de machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![Taal wijzigen](/help/dsp/assets/change-language.png) |
 
 {style="table-layout:auto"}
 
