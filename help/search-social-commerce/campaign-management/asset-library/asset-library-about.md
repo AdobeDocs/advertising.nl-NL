@@ -1,7 +1,7 @@
 ---
 title: "Over de [!UICONTROL Asset Library]"
 description: Leer meer over de elementenbibliotheek voor uw advertentie-elementen.
-source-git-commit: b0244cf2d56026493bc1902abebbdb660e07b1e2
+source-git-commit: 004f1c41578f0c046ccb81f17fbf812959433c87
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *bètafunctie openen*
 
-In [!UICONTROL Campaigns] > [!UICONTROL Asset Library (Beta)]kunt u herbruikbare afbeeldings-, video- en tekstelementen maken en deze uploaden naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
+In [!UICONTROL Campaigns] > [!UICONTROL Asset Library]kunt u herbruikbare afbeeldings-, video- en tekstelementen maken en deze uploaden naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
 
 U kunt uw elementen gebruiken voor advertenties wanneer u campagnes maakt of bewerkt met de [!DNL Google Ads] editor.
 

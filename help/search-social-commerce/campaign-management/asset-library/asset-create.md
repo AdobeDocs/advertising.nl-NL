@@ -1,7 +1,7 @@
 ---
 title: Elementen maken en uploaden
 description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
-source-git-commit: b0244cf2d56026493bc1902abebbdb660e07b1e2
+source-git-commit: 004f1c41578f0c046ccb81f17fbf812959433c87
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *bètafunctie openen*
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Asset Library (Beta)]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Asset Library]**.
 
 1. Selecteer in de rechterbovenhoek het advertentienetwerk en de account.
 
