@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 781b0c8874d73d060bc7133bdd55d1ceffb63435
+source-git-commit: 54e60a47c54eaac687fd0b385a94b25818b66b71
 workflow-type: tm+mt
-source-wordcount: '1171'
+source-wordcount: '1170'
 ht-degree: 0%
 
 ---
@@ -70,7 +70,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 ## [!UICONTROL Multi-Touch Conversion Options] Sectie
 
-**[!UICONTROL Attribution Rule Settings]** De instellingen variëren per rapporttype:
+**[!UICONTROL Attribution Rule Settings]:** De instellingen variëren per rapporttype:
 
 * **\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
 
@@ -150,7 +150,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 ## [!UICONTROL Save Report] Sectie
 
-**[!UICONTROL Send & Save]:** Wanneer het rapport wordt verzonden: *[!UICONTROL On Schedule]* of *[!UICONTROL Run Now]*. Geplande rapporten zullen tegen 9:00 in de tijdzone van de rekening worden geleverd.
+**[!UICONTROL Send & Save]:** Wanneer het rapport wordt verzonden: *[!UICONTROL On Schedule]* of *[!UICONTROL Run Now]*. Geplande rapporten worden geleverd tegen 9.00 uur in de tijdzone van de account.
 
 >[!NOTE]
 >
