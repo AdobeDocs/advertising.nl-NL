@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Microsoft Advertising] rekeningen.
 exl-id: a3090962-49df-46b0-89f8-98b633c3ea7a
-source-git-commit: e4901c1ac6e73f27886e315136c3fe9b865cdd48
+source-git-commit: 16e7a310571000fc5b584eb67c832df1e12cea72
 workflow-type: tm+mt
-source-wordcount: '6721'
+source-wordcount: '6744'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ Elk bulksblad moet de koptekstvelden en de bijbehorende gegevensvelden bevatten 
 
 Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tabellen die aangeven welke velden vereist zijn om gegevens voor afzonderlijke entiteiten (zoals campagnes en trefwoorden) toe te voegen, te bewerken of te verwijderen.
 
-## Alle beschikbare gegevensvelden
+## Alle beschikbare gegevensvelden {#bulksheet-fields-all-microsoft}
 
-In de volgende tabel worden alle beschikbare gegevensvelden weergegeven.
+In de volgende tabel worden alle beschikbare gegevensvelden beschreven.
 
 Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-microsoft).
 
@@ -118,6 +118,10 @@ Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Vel
 [^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
 ## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel {#bulksheet-fields-per-component-microsoft}
+
+De volgende secties bevatten de velden die relevant zijn voor specifieke rekeningentiteiten.
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 >[!NOTE]
 >

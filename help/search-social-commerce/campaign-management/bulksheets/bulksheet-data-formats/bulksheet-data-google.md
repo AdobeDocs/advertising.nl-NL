@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
 exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
-source-git-commit: 09ac5c3fa36f5fce10174d10cb10bb7cf7e836c7
+source-git-commit: 16e7a310571000fc5b584eb67c832df1e12cea72
 workflow-type: tm+mt
-source-wordcount: '7706'
+source-wordcount: '7729'
 ht-degree: 1%
 
 ---
@@ -17,9 +17,9 @@ Elk bulksblad moet de koptekstvelden en de bijbehorende gegevensvelden bevatten 
 
 Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tabellen die aangeven welke velden vereist zijn om gegevens voor afzonderlijke entiteiten (zoals campagnes en trefwoorden) toe te voegen, te bewerken of te verwijderen.
 
-## Alle beschikbare gegevensvelden
+## Alle beschikbare gegevensvelden {#bulksheet-fields-all-google}
 
-In de volgende tabel worden alle beschikbare gegevensvelden weergegeven.
+In de volgende tabel worden alle beschikbare gegevensvelden beschreven.
 
 Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-google).
 
@@ -129,6 +129,10 @@ Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Vel
 [^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
 ## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel {#bulksheet-fields-per-component-google}
+
+De volgende secties bevatten de velden die relevant zijn voor specifieke rekeningentiteiten.
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 >[!NOTE]
 >
