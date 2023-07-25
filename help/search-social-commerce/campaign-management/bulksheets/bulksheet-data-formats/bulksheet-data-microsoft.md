@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Microsoft Advertising] rekeningen.
 exl-id: a3090962-49df-46b0-89f8-98b633c3ea7a
-source-git-commit: 16e7a310571000fc5b584eb67c832df1e12cea72
+source-git-commit: 1f27e2616d706c56ef1e6a62cf081d83e6f807c1
 workflow-type: tm+mt
-source-wordcount: '6744'
+source-wordcount: '6900'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tab
 
 In de volgende tabel worden alle beschikbare gegevensvelden beschreven.
 
-Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-microsoft).
+Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-microsoft).&quot;
 
 | Veld | Beschrijving |
 |----|----|
@@ -121,13 +121,13 @@ Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Vel
 
 De volgende secties bevatten de velden die relevant zijn voor specifieke rekeningentiteiten.
 
-Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
-
 >[!NOTE]
 >
 >Wanneer een veld niet van toepassing is op een handeling, wordt een waarde die in het veld is ingevoerd, genegeerd.
 
 ### Campagnevelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -155,6 +155,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 ### Groepsvelden toevoegen
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -176,6 +178,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Trefwoordvelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -206,6 +210,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -229,6 +235,8 @@ Raadpleeg voor meer informatie over het maken van winkeladvertenties &quot;[Impl
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -250,6 +258,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 ### Responsief (multimedia) en velden
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -274,6 +284,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 ### Responsieve zoekopdrachten en velden
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot; Rij in de [!UICONTROL Download Bulksheet] .
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -305,6 +317,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 >
 >Uitgebreide tekstadvertenties zijn afgekeurd. U kunt alleen bestaande tekstadvertenties verwijderen.
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -333,6 +347,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 >
 >Ondersteuning voor maken is niet beschikbaar.
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -351,6 +367,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Velden voor productgroepen kopen
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -374,6 +392,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 ### Sitemeelinktvelden op campagnereniveau
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -394,6 +414,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 ### Locatiedoelvelden
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -406,6 +428,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de campagne-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -420,6 +444,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### De doelgebieden van RLSA van het campagne-niveau en van het ad groep
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |

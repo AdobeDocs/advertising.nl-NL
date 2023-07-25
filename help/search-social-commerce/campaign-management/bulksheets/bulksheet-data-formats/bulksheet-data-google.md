@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
 exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
-source-git-commit: 16e7a310571000fc5b584eb67c832df1e12cea72
+source-git-commit: 1f27e2616d706c56ef1e6a62cf081d83e6f807c1
 workflow-type: tm+mt
-source-wordcount: '7729'
+source-wordcount: '7884'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tab
 
 In de volgende tabel worden alle beschikbare gegevensvelden beschreven.
 
-Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-google).
+Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-google).&quot;
 
 >[!NOTE]
 >
@@ -132,13 +132,13 @@ Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Vel
 
 De volgende secties bevatten de velden die relevant zijn voor specifieke rekeningentiteiten.
 
-Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
-
 >[!NOTE]
 >
 >Wanneer een veld niet van toepassing is op een handeling, wordt een waarde die in het veld is ingevoerd, genegeerd.
 
 ### Campagnevelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -169,6 +169,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 ### Groepsvelden toevoegen
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
+
 | Veld | Vereist? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -188,6 +190,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Trefwoordvelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -211,6 +215,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Plaatsingsvelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -238,6 +244,8 @@ Dit advertentietype wordt nu &#39;&#39;dynamic search ad&#39;&#39; genoemd in [!
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -261,6 +269,8 @@ Raadpleeg voor meer informatie over het maken van winkeladvertenties &quot;[Impl
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -282,6 +292,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 ### Responsieve zoekopdrachten en velden
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot; Rij in de [!UICONTROL Download Bulksheet] .
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -308,6 +320,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot
 ### Tekst en velden
 
 Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quot; Rij in de [!UICONTROL Download Bulksheet] .
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 >[!NOTE]
 >
@@ -337,6 +351,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 ### Dynamische doelvelden (automatisch doel) voor zoeken
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -354,6 +370,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Velden voor productgroepen kopen
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -377,6 +395,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 ### Sitemelinktvelden op campagnereniveau en op groepsniveau
 
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
+
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
@@ -394,7 +414,9 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL Sitelink ID] | Dit is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van beide opties opneemt [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID]  en de bezitskolommen passen veelvoudige sitelinks aan, dan zal de status voor slechts één van de sitelinks veranderen.<br><br><b>Opmerking:</b> Als u eigenschapkolommen sitelink bewerkt, behalve [!UICONTROL Status] voor een bestaande sitelink, en u omvat noch [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID], wordt er een nieuwe sitelink gemaakt en de bestaande sitelink wordt niet gewijzigd. |
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
-### Locatiedoelvelden
+### Locatiedoel
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -408,6 +430,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de [!UICONTROL Campaign ID].<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
@@ -423,6 +447,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de apparaatdoel-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Campagne- en ad-group-niveau RLSA-doel-/uitsluitingsvelden
+
+Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
 | Veld | Vereist? | Beschrijving |
 | ---- | ---- | ---- |
