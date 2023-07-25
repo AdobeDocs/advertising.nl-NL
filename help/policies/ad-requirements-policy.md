@@ -3,16 +3,16 @@ title: Beleid inzake Adobe Advertising en vereisten
 description: Zie het beleid voor advertentievereisten.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
-source-git-commit: 04980842afb60870b2beb851e3e80431ae0b037d
+source-git-commit: b81323c8f576617cc551963b7abd28575166f53a
 workflow-type: tm+mt
-source-wordcount: '2070'
+source-wordcount: '2060'
 ht-degree: 0%
 
 ---
 
 # Beleid inzake Adobe Advertising en vereisten
 
-*Laatst bijgewerkt: 12 juli 2021 (behalve voor bijgewerkte productnamen en URL van deze pagina)*
+*Laatst bijgewerkt: 12 juli 2021*
 
 *Voor Adobe Advertising DSP en Adobe Advertising zoeken, Sociaal, &amp; Handel*
 
