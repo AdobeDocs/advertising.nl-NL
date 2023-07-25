@@ -1,9 +1,10 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
+source-git-commit: 09ac5c3fa36f5fce10174d10cb10bb7cf7e836c7
 workflow-type: tm+mt
-source-wordcount: '7515'
+source-wordcount: '7706'
 ht-degree: 1%
 
 ---
@@ -12,11 +13,22 @@ ht-degree: 1%
 
 Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kunt u Onderzoek, Sociale, &amp; het bulksbladdossiers van de Handel gebruiken die specifiek voor worden geformatteerd [!DNL Google Ads] rekeningen. U kunt een van beide [bulkbladbestanden genereren voor bestaande accounts](../bulksheet-download.md) in de vereiste bestandsindeling of b) handmatig aanmaken (zie &quot;[Ondersteunde bestandsindelingen voor bulkbladbestanden](bulksheet-file-formats.md)&quot; voor algemene informatie over de ondersteunde bestandsindelingen).
 
-{{$include /help/_includes/bulksheet-appendices-intro.md}}
+Elk bulksblad moet de koptekstvelden en de bijbehorende gegevensvelden bevatten die zijn vereist voor de [specifieke bewerkingen die u wilt uitvoeren](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md) (zoals het maken van een advertentie). Als een veld niet vereist is, kunt u het weglaten uit de koptekst- en gegevensrijen. Alle aangepaste kolommen worden verwijderd wanneer u het bulkbladbestand uploadt.
+
+Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tabellen die aangeven welke velden vereist zijn om gegevens voor afzonderlijke entiteiten (zoals campagnes en trefwoorden) toe te voegen, te bewerken of te verwijderen.
 
 ## Alle beschikbare gegevensvelden
 
-{{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+In de volgende tabel worden alle beschikbare gegevensvelden weergegeven.
+
+Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-google).
+
+>[!NOTE]
+>
+>* De waarden in alle tekstkolommen zijn hoofdlettergevoelig.
+>* Wanneer u een nieuwe record maakt en geen waarden opneemt voor alle vereiste gegevensvelden, worden aan sommige van deze velden de opgegeven standaardwaarden toegewezen.
+>* Voor gebieden die hieronder niet worden gespecificeerd, wordt de standaardwaarde voor het advertentienetwerk gebruikt.
+>* Voor een lijst met beschikbare rijen voor opsommingstekens in het dialoogvenster [!UICONTROL Download Bulksheet] dialoogvenster, zie &quot;[Opsommingstekstrijen per ad-netwerk](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md#bulksheet-rows-by-ad-network).&quot;
 
 | Veld | Beschrijving |
 | ---- | ---- |
@@ -116,7 +128,11 @@ Om te creëren en bij te werken [!DNL Google Ads] Campagne gegevens in bulk, kun
 
 [^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
-## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel
+## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel {#bulksheet-fields-per-component-google}
+
+>[!NOTE]
+>
+>Wanneer een veld niet van toepassing is op een handeling, wordt een waarde die in het veld is ingevoerd, genegeerd.
 
 ### Campagnevelden
 

@@ -1,9 +1,10 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Microsoft Advertising] rekeningen.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: a3090962-49df-46b0-89f8-98b633c3ea7a
+source-git-commit: e4901c1ac6e73f27886e315136c3fe9b865cdd48
 workflow-type: tm+mt
-source-wordcount: '6595'
+source-wordcount: '6721'
 ht-degree: 1%
 
 ---
@@ -12,11 +13,15 @@ ht-degree: 1%
 
 Om te creëren en bij te werken [!DNL Microsoft Advertising] Campagne gegevens in bulk, kunt u Onderzoek, Sociale, &amp; het bulksbladdossiers van de Handel gebruiken die specifiek voor worden geformatteerd [!DNL Microsoft Advertising] rekeningen. U kunt een van beide [bulkbladbestanden genereren voor bestaande accounts](../bulksheet-download.md) in de vereiste bestandsindeling of b) handmatig aanmaken (zie &quot;[Ondersteunde bestandsindelingen voor bulkbladbestanden](bulksheet-file-formats.md)&quot; voor algemene informatie over de ondersteunde bestandsindelingen).
 
-{{$include /help/_includes/bulksheet-appendices-intro.md}}
+Elk bulksblad moet de koptekstvelden en de bijbehorende gegevensvelden bevatten die zijn vereist voor de [specifieke bewerkingen die u wilt uitvoeren](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md) (zoals het maken van een advertentie). Als een veld niet vereist is, kunt u het weglaten uit de koptekst- en gegevensrijen. Alle aangepaste kolommen worden verwijderd wanneer u het bulkbladbestand uploadt.
+
+Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tabellen die aangeven welke velden vereist zijn om gegevens voor afzonderlijke entiteiten (zoals campagnes en trefwoorden) toe te voegen, te bewerken of te verwijderen.
 
 ## Alle beschikbare gegevensvelden
 
-{{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+In de volgende tabel worden alle beschikbare gegevensvelden weergegeven.
+
+Voor de gegevensvelden die relevant zijn voor rekeningentiteiten, zie &quot;[Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel](#bulksheet-fields-per-component-microsoft).
 
 | Veld | Beschrijving |
 |----|----|
@@ -112,7 +117,11 @@ Om te creëren en bij te werken [!DNL Microsoft Advertising] Campagne gegevens i
 
 [^1]: [!DNL Excel] grote getallen worden omgezet in wetenschappelijke notaties (zoals 2.12E+09 voor 2115585666) wanneer het bestand wordt geopend. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 
-## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel
+## Velden vereist voor het maken, bewerken of verwijderen van elk accountonderdeel {#bulksheet-fields-per-component-microsoft}
+
+>[!NOTE]
+>
+>Wanneer een veld niet van toepassing is op een handeling, wordt een waarde die in het veld is ingevoerd, genegeerd.
 
 ### Campagnevelden
 
