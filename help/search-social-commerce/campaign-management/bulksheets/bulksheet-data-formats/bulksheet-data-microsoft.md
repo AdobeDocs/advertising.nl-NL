@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Microsoft Advertising] rekeningen.
 exl-id: a3090962-49df-46b0-89f8-98b633c3ea7a
-source-git-commit: 1f27e2616d706c56ef1e6a62cf081d83e6f807c1
+source-git-commit: 9cdfe415c9ec2d7e7b65d5a46d208329d66ca14a
 workflow-type: tm+mt
-source-wordcount: '6900'
+source-wordcount: '6888'
 ht-degree: 1%
 
 ---
@@ -181,8 +181,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -212,8 +212,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -237,8 +237,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -261,8 +261,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -287,8 +287,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist | |
@@ -319,8 +319,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -349,8 +349,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -370,8 +370,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -394,8 +394,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | Beschrijving regel 1 | Optioneel |
@@ -416,8 +416,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Location] | Vereist |
@@ -431,8 +431,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Device] | Vereist om een apparaatdoel te verwijderen. |
@@ -447,8 +447,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-microsoft).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist voor doelen op groepsniveau. Niet van toepassing op streefcijfers op campagneniveau. |
