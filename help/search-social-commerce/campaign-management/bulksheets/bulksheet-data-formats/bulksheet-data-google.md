@@ -2,9 +2,9 @@
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
 exl-id: 1e35f503-c2fe-459c-ad13-6b8cf65be67e
-source-git-commit: 1f27e2616d706c56ef1e6a62cf081d83e6f807c1
+source-git-commit: 25f9deef6302065a6576a07fcb880e81470886e5
 workflow-type: tm+mt
-source-wordcount: '7884'
+source-wordcount: '7839'
 ht-degree: 1%
 
 ---
@@ -143,8 +143,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | Veld | Vereist? |
 | ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
-| [!UICONTROL Campaign Name] | Vereist | De unieke naam die een campagne voor een account identificeert. |
-| [!UICONTROL Campaign Budget] | Vereist om een campagne te maken. | Een dagelijkse uitgavenlimiet voor de campagne, met of zonder monetaire symbolen en leestekens. Deze waarde overschrijft, maar kan het budget van de account niet overschrijden. |
+| [!UICONTROL Campaign Name] | Vereist |
+| [!UICONTROL Campaign Budget] | Vereist om een campagne te maken. |
 | [!UICONTROL Delivery Method] | Vereist om een campagne te maken. |
 | [!UICONTROL Channel Type] | Vereist om een campagne te maken. |
 | [!UICONTROL Networks] | Vereist om een campagne te maken. |
@@ -193,8 +193,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -218,8 +218,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -246,8 +246,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -271,8 +271,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Creative (except RSA)]&quo
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -295,8 +295,8 @@ Voor dit advertentietype gebruikt u &quot;[!UICONTROL Responsive Search Ad]&quot
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist | |
@@ -327,8 +327,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 >
 >Uitgebreide tekstadvertenties zijn in juni 2022 afgekeurd. U kunt alleen bestaande tekstadvertenties verwijderen.
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -353,8 +353,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -373,8 +373,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist |
@@ -397,8 +397,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Ad Group Name] | Vereist voor sitelinks op advertentieniveau. Niet van toepassing op sitelinks op campagneniveau. |
@@ -418,8 +418,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Location] | Vereist |
@@ -433,8 +433,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Device] | Vereist voor het maken of bewerken van een apparaatdoel. |
@@ -450,8 +450,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 
 Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare gegevensvelden](#bulksheet-fields-all-google).&quot;
 
-| Veld | Vereist? | Beschrijving |
-| ---- | ---- | ---- |
+| Veld | Vereist? |
+| ---- | ---- |
 | [!UICONTROL Acct Name] | Vereist tenzij elke rij een &quot; bevat[!UICONTROL AMO ID]&quot; voor de entiteit. |
 | [!UICONTROL Campaign Name] | Vereist |
 | [!UICONTROL Bid Adjustment] | Optioneel |
