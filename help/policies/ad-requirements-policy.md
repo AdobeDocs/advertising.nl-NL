@@ -1,22 +1,22 @@
 ---
-title: Beleid inzake advertentie en vereisten voor Adobe
+title: Beleid inzake Adobe Advertising en vereisten
 description: Zie het beleid voor advertentievereisten.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 04980842afb60870b2beb851e3e80431ae0b037d
 workflow-type: tm+mt
-source-wordcount: '2058'
+source-wordcount: '2070'
 ht-degree: 0%
 
 ---
 
-# Beleid inzake advertentie en vereisten voor Adobe
+# Beleid inzake Adobe Advertising en vereisten
 
-*Laatst bijgewerkt: 12 juli 2021*
+*Laatst bijgewerkt: 12 juli 2021 (behalve voor bijgewerkte productnamen en URL van deze pagina)*
 
-*Voor Adobe-DSP en Adobe-advertentie zoeken*
+*Voor Adobe Advertising DSP en Adobe Advertising zoeken, Sociaal, &amp; Handel*
 
-In dit beleid voor Adds Requirements Policy (&quot;Policy&quot;) worden de vereisten uiteengezet voor advertenties die via de On-demand Services van Adobe voor Adobe Advertising (&quot;Services&quot;) worden verspreid. Dit beleid wordt door verwijzing opgenomen in de Overeenkomst tussen Adobe en de Klant (&quot;u&quot;) gebruikend de Diensten op bestelling. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
+In dit beleid voor Adds-vereisten (&quot;Beleid&quot;) worden de vereisten uiteengezet voor advertenties die via On-demand Services van Adobe voor Adobe Advertising (&quot;Services&quot;) worden gedistribueerd. Dit beleid wordt door verwijzing opgenomen in de Overeenkomst tussen Adobe en de Klant (&quot;u&quot;) gebruikend de Diensten op bestelling. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
 
 Adobe behoudt zich het recht voor om in zijn uitsluitende oordeel vast te stellen of een advertentie of de website(s) waarnaar de advertentie doorleidt of koppelt, in strijd is met de vereisten van dit beleid, in welk geval Adobe die advertentie kan afwijzen en/of de toegang tot de diensten op die basis kan beëindigen of opschorten.
 
@@ -26,7 +26,7 @@ Naast de vereisten die hieronder en in de Overeenkomst worden vermeld, moet u aa
 
 ### Creatieve vereisten
 
-Alle advertenties die u via de services op aanvraag verzendt, opslaat, toont, verspreidt of anderszins beschikbaar stelt, moeten in overeenstemming zijn met de reclamespecificaties in de advertentie-advertentiesoorten van de Adobe, zoals die van tijd tot tijd door Adobe kunnen worden herzien.
+Alle Advertenties die via de On-demand Services worden verzonden, opgeslagen, weergegeven, gedistribueerd of anderszins door u beschikbaar worden gesteld, moeten in overeenstemming zijn met de reclamespecificaties in de Adobe Advertising Advertentiespecificaties, die van tijd tot tijd door Adobe kunnen worden herzien.
 
 ### Verboden advertenties
 
@@ -128,4 +128,3 @@ U mag de Services niet gebruiken om discriminatie te plegen in strijd met de wet
 >[!MORELIKETHIS]
 >
 >* [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
-
