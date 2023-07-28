@@ -1,7 +1,9 @@
 ---
 title: Beheren [!DNL Microsoft Advertising] dynamisch hermarketingpubliek
 description: Leer hoe u creeert en beheert [!DNL Microsoft Advertising] dynamisch hermarketingpubliek.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6f0cb6a0-36cc-4a07-82a8-247191b6c4f5
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 0%
@@ -12,9 +14,9 @@ ht-degree: 0%
 
 *[!DNL Microsoft Advertising]alleen accounts*
 
-U kunt een [!DNL Microsoft Advertising] het dynamische publiek voor opnieuw op de markt brengen wanneer u de conversie- en publiekstrackingtag JavaScript van het zoekprogramma op uw webpagina&#39;s gebruikt. Elk publiek wordt gemaakt met een opgegeven tag die wordt opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen. U kunt meerdere soorten publiek maken met dezelfde tag voor bijhouden. U kunt ook de naam en de gegevensbron voor bestaande doelgroepen wijzigen of bestaande doelgroepen verwijderen.
+U kunt een [!DNL Microsoft Advertising] het dynamische publiek voor opnieuw op de markt brengen wanneer u de conversie-en publiek-volgende markering van JavaScript van het onderzoeksmotor op uw webpagina&#39;s gebruikt. Elk publiek wordt gemaakt met een opgegeven tag die wordt opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen. U kunt meerdere soorten publiek maken met dezelfde tag voor bijhouden. U kunt ook de naam en de gegevensbron voor bestaande doelgroepen wijzigen of bestaande doelgroepen verwijderen.
 
-Dynamisch hermarketingpubliek heeft het type publiek &quot;[!UICONTROL Dynamic Remarketing] \&lt;visitor type=&quot;&quot;>&quot; (zoals &quot;Dynamische opmerkingverleden kopers&quot;).
+Dynamisch hermarketingpubliek heeft het Audience Type &quot;[!UICONTROL Dynamic Remarketing] \&lt;visitor type=&quot;&quot;>&quot; (zoals &quot;Dynamische opmerkingverleden kopers&quot;).
 
 Zie voor meer informatie over dynamische remarketing en het implementeren van de vereiste JavaScript-tag de [[!DNL Microsoft Advertising] documentatie over dynamische remarketing](https://help.ads.microsoft.com/#apex/ads/en/56910).
 
@@ -66,9 +68,9 @@ U kunt de naam en de gegevensbron wijzigen voor een [!DNL Microsoft Advertising]
 
 1. Bewerk de publieksinformatie:
 
-   1. In de **[!UICONTROL Data Source]** sectie, klikt u op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
+   1. In de **[!UICONTROL Data Source]** sectie, klikken ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
 
-   1. (Optioneel) Wijzig de **[!UICONTROL Audience Name]**.
+   1. (Optioneel) Wijzig de instelling **[!UICONTROL Audience Name]**.
 
    1. (Optioneel) Wijzig de naam van de [!DNL Microsoft Advertising] De tag UET die is opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen.
 
@@ -76,7 +78,7 @@ U kunt de naam en de gegevensbron wijzigen voor een [!DNL Microsoft Advertising]
 
    1. Klik op **[!UICONTROL Post]**.
 
-## Een dynamisch publiek voor opnieuw marketing verwijderen
+## Dynamisch opnieuw op de markt brengen publiek verwijderen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]**.
 
@@ -86,7 +88,7 @@ U kunt de naam en de gegevensbron wijzigen voor een [!DNL Microsoft Advertising]
 
    Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
@@ -94,4 +96,3 @@ U kunt de naam en de gegevensbron wijzigen voor een [!DNL Microsoft Advertising]
 >* [Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek](google-audience-from-adobe-audience.md)
 >* [Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen](google-audience-from-campaign-email-list.md)
 >* [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](audience-from-customer-data-list.md)
-

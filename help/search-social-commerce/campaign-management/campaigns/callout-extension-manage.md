@@ -1,7 +1,9 @@
 ---
 title: Beheren [!DNL Google Ads] callout-extensies
 description: Leer hoe u creeert en beheert [!DNL Google Ads] callout-extensies.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 5ac4ae56-6de6-4c35-aaf3-339011af16c5
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '377'
 ht-degree: 0%
@@ -52,7 +54,7 @@ U kunt één gedeelde bijschrift tegelijk bewerken.
 
 1. Klik op de werkbalk op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 ## [!DNL Google Ads] gedeelde bijschriftinstellingen {#shared-callout-settings}
 
@@ -74,4 +76,3 @@ Voor extra [!DNL Google Ads] beleidsregels en redenen voor de afkeuring van bijs
 >
 >* [Info [!DNL Google Ads] callout-extensies](callout-extension-about.md)
 >* [Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen](callout-extension-associate.md)
-

@@ -1,7 +1,8 @@
 ---
 title: "[!UICONTROL MSA Ad Extension Detail Report]"
 description: Meer informatie over de [!UICONTROL MSA Ad Extension Detail Report].
-source-git-commit: 3aad445fc1a5a0e2210209f181b9756047f44999
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '153'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 
 Dit rapport toont de indrukken, klikken, uitgaven, en gemiddelde kosten per klik voor individuele en uitbreidingselementen van de advertentie (zoals elke verbinding in een sitelink uitbreiding). Gebruik dit rapport om de doeltreffendheid van uw elementen van de advertentie-uitbreiding te zien.
 
-Wanneer u een rapport met slechts metrische kolommen en geen dimensies in werking stelt, dan bevat het geproduceerde rapport twee dubbele rijen: één met geaggregeerde gegevens en de andere met alle meetwaarden.<!-- all metrics? -->
+Wanneer u een rapport met slechts metrische kolommen en geen dimensies in werking stelt, dan bevat het geproduceerde rapport twee dubbele rijen: met samengevoegde gegevens en andere met alle metriek.<!-- all metrics? -->
 
 U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Handel worden de gegevens opgehaald van [!DNL Microsoft Advertising] in real time, en het kan verscheidene notulen vergen om rapporten met groter gegevensvolume te produceren.
 
@@ -24,7 +25,7 @@ U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Hand
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL SE Account Name]
 * [!UICONTROL Extension Property Value]

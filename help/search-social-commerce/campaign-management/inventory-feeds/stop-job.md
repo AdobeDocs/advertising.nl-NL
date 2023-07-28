@@ -1,7 +1,9 @@
 ---
 title: Een publicatietaak voor de gegevens van de inventarisfeed stoppen
 description: Leer hoe u het posten van een taak voor de gegevens van de inventarisfeed kunt stoppen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 995dd6f4-fb8c-4b3f-bdc5-1e80d1129f53
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -29,4 +31,3 @@ U kunt op de volgende manieren ophouden met het posten van campagnegegevens die 
 >* [Uit feeds gegenereerde gegevens bewerken](propagated-data-edit.md)
 >* [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](propagated-data-post.md)
 >* [Statussen van gegevens die zijn gegenereerd uit feeds](propagated-data-status.md)
-

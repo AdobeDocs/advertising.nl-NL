@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Ad Group Report]"
+title: '[!UICONTROL Ad Group Report]'
 description: Meer informatie over de [!UICONTROL Ad Group Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 7939c015-4828-49d4-8f7a-efd5992e088b
+feature: Search Reports, Search Basic Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -18,11 +20,11 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 >[!NOTE]
 >
->Gegevens op groepsniveau kunnen niet worden toegevoegd voor [!DNL Google Ads] maximale prestaties. Als u maximale prestatiecampagnes hebt, verwacht u discrepanties tussen de totale gegevens op groepsniveau voor een campagne en de totale gegevens voor de campagne.
+>Gegevens op groepsniveau kunnen niet worden toegevoegd voor [!DNL Google Ads] maximale prestaties. Als u maximale prestatiecampagnes hebt, verwacht u discrepanties tussen het totaal en de gegevens op groepsniveau voor een campagne en de totale gegevens voor de campagne.
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Ad Group]
 * [!UICONTROL Campaign]
@@ -44,4 +46,3 @@ Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-adv
 >* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
 >* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
-

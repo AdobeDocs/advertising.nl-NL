@@ -1,7 +1,9 @@
 ---
 title: Veelgestelde vragen over bijhouden
 description: Leer antwoorden op algemene vragen over het volgen, met inbegrip van het oplossen van problemenkwesties.
-source-git-commit: f5e2044af460ebf561e075ed6b1fb057ed47acc3
+exl-id: f559b977-dd44-4d29-b49e-c41c6fb783d1
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '1191'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 ## Functies voor bijhouden
 
-+++Kan ik campagnes bijhouden die Adobe Advertising niet beheert?
++++Kan ik campagnes bijhouden die de Adobe Advertising niet beheert?
 
 Ja. Als Zoeken, Sociaal, &amp; Handel één van uw rekeningen van het advertentienetwerk synchroniseert, dan volgt het de klikgegevens van het advertentienetwerk voor allen [ondersteunde typen campagne](/help/search-social-commerce/introduction/supported-inventory.md) op die rekening. De conversiegegevens worden ook bijgehouden als u de omleiding Zoeken, Sociale Zaken en Handel hebt toegevoegd aan uw doel-URL&#39;s voor advertenties en/of trefwoorden, of als u sjablonen hebt bijgehouden en conversie-tracking hebt geïmplementeerd op uw conversiepagina&#39;s. Verbeter met uw Adobe Account Team welke campagnes u Onderzoek, Sociale, &amp; Handel eenvoudig wilt volgen en die u hen wilt beheren.
 +++
@@ -31,22 +33,22 @@ Adverteerders die alle conversiegegevens in een voederbestand verstrekken, moete
 
 +++Hoe identificeert de Adobe Advertising dubbele transacties?
 
-Er kunnen dubbele transacties plaatsvinden wanneer een gebruiker de bevestigingspagina vernieuwt nadat een transactie is voltooid. Voor reclame Adobe wordt gebruikgemaakt van de `ev_transid` attribuut om dubbele transacties met zelfde transactieID en bezitswaarde te elimineren.
+Er kunnen dubbele transacties plaatsvinden wanneer een gebruiker de bevestigingspagina vernieuwt nadat een transactie is voltooid. Adobe Advertising gebruikt de `ev_transid` kenmerk om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen.
 
 Hieronder volgt de deduplicatielogica van de Adobe Advertising:
 
-* **Wanneer een client een waarde verzendt voor de `ev_transid` kenmerk:** Volgende pixelaanvragen worden beschouwd als duplicaten van de vorige als de volgende aanvragen hetzelfde zijn: de `ev_transid`; de volgende identiteitskaart voor het zelfde sleutelwoord, en, of plaatsing; en de waarde voor een specifieke transactieeigenschap.
+* **Wanneer een client een waarde verzendt voor de `ev_transid` kenmerk:** Volgende pixelaanvragen worden beschouwd als duplicaten van de vorige aanvraag als de volgende twee aanvragen hetzelfde zijn: de `ev_transid`; de volgende ID voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing; en de waarde voor een specifieke transactieeigenschap.
 
   Bijvoorbeeld, als de veelvoudige leningstoepassingen zelfde toepassings identiteitskaart en leningsbedrag voor het zelfde sleutelwoord op een specifiek advertentienetwerk hebben, dan worden zij beschouwd als duplicaten, en slechts wordt de eerste leningstoepassing geteld.
 
-* **Wanneer een client geen waarde verzendt voor de `ev_transid` kenmerk:** Opeenvolgende transacties worden beschouwd als duplicaten van de vorige als ze een tracking-id delen voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing. en dezelfde waarde voor een specifieke transactieeigenschap.
+* **Wanneer een client geen waarde verzendt voor de `ev_transid` kenmerk:** Volgende transacties worden beschouwd als duplicaten van de vorige als ze een tracking-id delen voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing en dezelfde waarde voor een specifieke transactie-eigenschap.
 
   Als bijvoorbeeld meerdere leningaanvragen dezelfde trefwoordid en hetzelfde bedrag voor de lening hebben, worden ze als duplicaten beschouwd en wordt alleen de eerste leningaanvraag geteld.
 +++
 
 ## Typen implementatie bijhouden
 
-+++Ik wil stoppen met het gebruik van de service Adobe Advertising tracking voor een of meer campagnes of accounts. Hoe kan ik snel de volgende code uit volgende URLs verwijderen?
++++I wil ophouden gebruikend de dienst van het de converteren van de Adobe Advertising voor één of meerdere campagnes of rekeningen. Hoe kan ik snel de volgende code uit volgende URLs verwijderen?
 
 Neem eerst contact op met uw Adobe-accountteam om te begrijpen wat de gevolgen zijn van het verwijderen van URL&#39;s die u bijhoudt.
 
@@ -57,12 +59,12 @@ Wijzig in de account of campagne de methode voor bijhouden in &quot;[!UICONTROL 
 
 +++Hoe weet ik welke transactieeigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de trackingtag voor conversie van Adobe Advertising?
 
-In een [!UICONTROL Transaction Report], kunt u zien of een ingesloten transactieeigenschap is bijgehouden door de Adobe-pixel voor conversie van advertenties als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de Adobe-pixel voor reclame bijhouden begint met `http://pixel.everesttech.net`.
+In een [!UICONTROL Transaction Report], kunt u zien of een opgenomen transactieeigenschap is bijgehouden door de volgende pixel van de conversie van de Adobe Advertising als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met `http://pixel.everesttech.net`.
 +++
 
 +++Wat zijn verweesde transacties?
 
-Orphan-transacties zijn transactiegebeurtenissen die niet aan een specifiek trefwoord of een specifieke advertentie kunnen worden gekoppeld. Adobe Advertising kenmerkt transactie/opbrengst aan een trefwoord of advertentie door de ontvangen tracking-id&#39;s met de inkomstengebeurtenis te koppelen aan de unieke tracking-id in de URL van het trefwoord of de advertentie.
+Orphan-transacties zijn transactiegebeurtenissen die niet aan een specifiek trefwoord of een specifieke advertentie kunnen worden gekoppeld. De Adobe Advertising kenmerkt transactie/opbrengst aan een sleutelwoord of een advertentie door het volgen IDs die met de opbrengstgebeurtenis worden ontvangen aan unieke het volgen identiteitskaart in het volgende URL van sleutelwoord of advertentie aan te passen.
 
 Wanneer een Adobe Account Team vermoedt dat verweesde transacties de oorzaak zijn van een daling van de inkomsten, controleert het team van de Zorg van de Klant op wezen en, als het er om het even welk vindt, onderzoekt de kwestie.
 

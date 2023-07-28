@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft® Advertising] product en instellingen"
+title: '''[!DNL Microsoft® Advertising] product en instellingen"'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] productadvertenties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6a2d0549-d8fc-4ec8-bdec-7e49a43aeb7b
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 De hoofdtekst van de advertentie wordt automatisch gemaakt op basis van de productinformatie in [!DNL Microsoft® Merchant Center], op basis van de productgroepen waarop de advertentiegroep gericht is. U kunt optioneel promotielijnen maken die u kunt opnemen in productadvertenties in campagnes die gebruikmaken van het winkelnetwerk.
 
-Meer informatie over [!DNL Microsoft® Advertising] productadvertenties, zie [Microsoft® Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
+Voor meer informatie over [!DNL Microsoft® Advertising] productadvertenties, zie [Microsoft® Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 ## [!UICONTROL Product Ad]
 
@@ -32,4 +34,3 @@ De promotielijn kan op verschillende plaatsen ten opzichte van de advertentie ve
 >* [[!DNL Microsoft® Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
 >* [[!DNL Microsoft® Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
 >* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
-

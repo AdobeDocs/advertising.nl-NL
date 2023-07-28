@@ -1,7 +1,9 @@
 ---
 title: Gegevens weergeven die zijn gegenereerd uit feeds
 description: Leer hoe u gegevens kunt bekijken die zijn gegenereerd uit de invoer van inventarisgegevens.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 961155ac-a9d3-42e4-904b-b968e9f3383b
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -18,7 +20,7 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
 
 * Als u de optie &quot;[!UICONTROL Propagate only],&quot;bekijk dan de geproduceerde gegevens binnen een mening van de campagnehiërarchie van [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs.
 
-   In de weergaven van de campagnehiërarchie worden alleen de gegevens weergegeven die zijn gegenereerd uit het feed-bestand, niet de bestaande accountcomponenten. Nadat gegevens voor een component en al zijn subcomponents aan het advertentienetwerk worden gepost, is het niet meer vermeld in de mening van de campagnehiërarchie.
+  In de weergaven van de campagnehiërarchie worden alleen de gegevens weergegeven die zijn gegenereerd uit het feed-bestand, niet de bestaande accountcomponenten. Nadat gegevens voor een component en al zijn subcomponents aan het advertentienetwerk worden gepost, is het niet meer vermeld in de mening van de campagnehiërarchie.
 
    1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Advanced (ACM)]**, die voor de [!UICONTROL Templates] tab.
 
@@ -27,17 +29,17 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
       1. Klik op de sjabloonnaam.
 
       1. In de [!UICONTROL Accounts] in het linkernavigatievenster, breid de knoop van het advertentienetwerk en de knoop van de advertentienetwerkrekening uit, en selecteer dan de controledoos naast de malplaatjenaam.
+
    1. Klik op de knop **[!UICONTROL Campaigns]**, **[!UICONTROL Ad Groups]**, **[!UICONTROL Keywords]**, of **[!UICONTROL Ads]** , afhankelijk van de componenten die u wilt weergeven.
 
       >[!NOTE]
       >
-      >* Tenzij u gegevens voor een bepaalde sjabloon bekijkt, wordt de [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] op de tabbladen staan alle groepen en trefwoorden en advertenties die zijn gemaakt op basis van alle sjablonen en feedbestanden. Productgroepen gebruikt voor [!DNL Google Ads] winkeladvertenties worden vermeld op de [!UICONTROL Keywords] tab.
+      >* Tenzij u gegevens voor een specifieke sjabloon bekijkt, wordt de [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] op de tabbladen staan alle groepen en trefwoorden en advertenties die zijn gemaakt op basis van alle sjablonen en feedbestanden. Productgroepen gebruikt voor [!DNL Google Ads] winkeladvertenties worden vermeld op de [!UICONTROL Keywords] tab.
       >* Als u alleen de subcomponenten van een specifieke campagne wilt weergeven, begint u met het weergeven van de [!UICONTROL Campaigns] tab. Als u alleen de subcomponenten van een specifieke advertentiegroep wilt weergeven, begint u met het weergeven van de [!UICONTROL Ad Groups] tab.
-
 
    1. (Optioneel) Voer een van de volgende twee handelingen uit om meer informatie weer te geven:
 
-      * Klik op [Pictogram Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de naam.
+      * Als u de instellingen voor een campagne, groep, trefwoord of advertentie wilt weergeven, klikt u op [Pictogram Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de naam.
 
       * Ga als volgt te werk om de subcomponenten van een campagne of advertentiegroep weer te geven:
 
@@ -47,7 +49,6 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
 
          * Als u alle advertenties in een advertentiegroep wilt weergeven, klikt u op de naam van de advertentiegroep en vervolgens op de knop [!UICONTROL Ads] tab.
 
-
 >[!MORELIKETHIS]
 >
 >* [Informatie over voorraadfeeds](inventory-feeds-about.md)
@@ -55,4 +56,3 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
 >* [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](propagated-data-post.md)
 >* [Een publicatietaak voor de gegevens van de inventarisfeed stoppen](stop-job.md)
 >* [Statussen van gegevens die zijn gegenereerd uit feeds](propagated-data-status.md)
-

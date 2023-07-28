@@ -1,7 +1,9 @@
 ---
 title: Informatie over netwerkaccounts
 description: Leer over ad netwerkrekeningen in Onderzoek, Sociale, & Handel.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: fca469f1-502c-415a-897d-03b6e6ba34e8
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # Informatie over netwerkaccounts
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
 
 Met Zoeken, Sociaal en Handel kunt u de accounts van adverteerders bijhouden op ondersteunde advertentienetwerken. Als u het bijhouden van een account wilt inschakelen, moet u een corresponderende accountrecord maken. U moet accountgegevens instellen voor elk type account, ongeacht of Search, Social &amp; Commerce hiermee synchroniseert of biedingen en budgetten op advertenties optimaliseert.
 
@@ -32,7 +34,7 @@ Zie het hoofdstuk over &quot;Campaign Management&quot; voor meer informatie over
 
 Met behulp van traceringscampagnes kunt u de prestaties bijhouden, rapporteren en visualiseren voor de advertenties die u rechtstreeks via het advertentienetwerk koopt. Met Zoeken, Sociale media en Handel worden geen gegevens gesynchroniseerd met het advertentienetwerk, worden geen biedingen voor de account geplaatst en wordt geen optimalisatie of simulatie geboden.
 
-Als u Zoeken, Sociale media en Handel wilt toestaan conversies toe te wijzen aan klikgeluiden, stelt u opties voor bijhouden in de accountrecord in en schakelt u de accountrecord in. Vervolgens kunt u met de opsommingstekens URL&#39;s voor bijhouden van advertenties en trefwoorden genereren en de URL&#39;s voor bijhouden handmatig toevoegen in het dialoogvenster [!DNL Naver] Advertentiemanager.
+Als u Zoeken, Sociale media en Handel wilt toestaan conversies toe te wijzen aan klikgeluiden, stelt u opties voor bijhouden in de accountrecord in en schakelt u de accountrecord in. Vervolgens kunt u met de opsommingstekens URL&#39;s voor bijhouden van advertenties en trefwoorden genereren en de URL&#39;s voor bijhouden handmatig toevoegen in het dialoogvenster [!DNL Naver] advertentiebeheerder.
 
 Meer informatie over [!DNL Naver] alleen-trackingcampagnes, zie &quot;[Implementeren [!DNL Naver] accounts met alleen traceren](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md).&quot;
 
@@ -41,4 +43,3 @@ Meer informatie over [!DNL Naver] alleen-trackingcampagnes, zie &quot;[Implement
 >* [Netwerkaccounts beheren](ad-network-account-manage.md)
 >* [Zakelijke accounts beheren](merchant-account-manage.md)
 >* [De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](update-skwcid-google.md)
-

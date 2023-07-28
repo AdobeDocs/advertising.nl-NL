@@ -1,7 +1,9 @@
 ---
 title: Zakelijke accounts beheren
 description: Leer hoe u accountgegevens voor een bedrijfscentrum instelt en beheert.
-source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
+exl-id: eca58f55-f056-46b3-b192-2849690e8bcc
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '791'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # Zakelijke accounts beheren
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
 
 Met Zoeken, Sociale media en Handel kunt u elke dag productgegevens downloaden en weergeven voor de accounts van Google Merchant Center of Microsoft Merchant Center van een adverteerder. Bovendien kan met Zoeken, Sociaal en Handel een advertentie worden geautomatiseerd op basis van de inhoud van de zakelijke account. Als u rechtstreeks met productgegevens wilt werken in Zoeken, Sociaal en Handel, moet u een corresponderend accountrecord maken met de toegangsreferenties van de account en met toegang *enabled*.
 
@@ -18,9 +20,9 @@ Met Zoeken, Sociale media en Handel kunt u elke dag productgegevens downloaden e
 >
 >U kunt een zakelijke accountrecord niet verwijderen. U kunt de toegang tot een account uitschakelen door het accounttype te wijzigen in *uitgeschakeld*.
 
-## Details handelsaccount maken {#create-merchant-account}
+## Detailgegevens van zakelijke accounts maken {#create-merchant-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
 
 Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor een zakelijke account, en advertenties wilt maken op basis van de gegevens, moet u een corresponderend accountrecord maken met de toegangsgegevens van de account en met toegang tot de account *enabled*.
 
@@ -36,7 +38,7 @@ Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor ee
 
    1. In de [!UICONTROL Product Source] selecteert u het winkelcentrum.
 
-   1. (Vereist voor [!DNL Google Ads] rekeningen; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdracht, sociale zaken en handel toestaan om toegang te krijgen tot de account via de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/):
+   1. (Vereist voor [!DNL Google Ads] accounts; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdracht, sociale zaken en handel toestaan om toegang te krijgen tot de account via de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] alleen accounts) Selecteren **[!UICONTROL oAuth]**.
 
@@ -56,7 +58,7 @@ Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor ee
 
 ## Details handelsaccount bewerken {#edit-merchant-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
 
 Als de accountgegevens veranderen of als u niet langer gegevens voor een zakelijke account wilt ophalen en gebruiken, bewerkt u de accountgegevens.
 
@@ -78,7 +80,7 @@ Als de accountgegevens veranderen of als u niet langer gegevens voor een zakelij
 
 ## Toegang tot een zakelijke account uitschakelen {#disable-merchant-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
 
 Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en haalt u daarom geen bijgewerkte productgegevens op. De gegevens die zijn verzameld terwijl de account was ingeschakeld, worden nog opgeslagen en bestaande advertenties die zijn gemaakt met productgegevens, worden niet bijgewerkt, gepauzeerd of verwijderd volgens de instellingen van de voedersjabloon en de voedergegevens.
 
@@ -100,17 +102,17 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 
 **[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] alleen accounts) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
-**[!UICONTROL Auth Type]:** ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt autoriseren met:
+**[!UICONTROL Auth Type]:** ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt toestaan met:
 
 * *[!UICONTROL Client login]:* De aanmeldingsgegevens van de client gebruiken.
 
-* *[!UICONTROL oAuth]* (de standaardinstelling): Als u de opdracht [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
+* *[!UICONTROL oAuth]* (de standaardinstelling): De [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
 **[!UICONTROL Access Key]:** ([!DNL Microsoft Merchant Center] alleen) De toegangstoets voor de ontwikkelaarsaccount die moet worden gebruikt.
 
 **[!UICONTROL Account Name]:** De naam die voor de account wordt weergegeven in Zoeken, Sociale media en Handel.
 
-**[!UICONTROL Login]:** De aanmeldnaam of -id voor het account.
+**[!UICONTROL Login]:** De aanmeldingsnaam of id voor het account.
 
 **[!UICONTROL Password]:** Het wachtwoord voor de account.
 
@@ -118,7 +120,7 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 
 **[!UICONTROL EF Account Type]:** Of Search, Social &amp; Commerce toegang krijgt tot het account:
 
-* *[!UICONTROL Enabled]* (de standaardinstelling): Met Zoeken, Sociale media en Handel kunt u zich aanmelden bij de account om productgegevens op te halen.
+* *[!UICONTROL Enabled]* (de standaardwaarde): met Zoeken, Sociaal en Handel kunt u zich aanmelden bij de account om de productgegevens op te halen.
 
 * *[!UICONTROL Disabled]:* Search, Social &amp; Commerce meldt zich niet aan bij de account en haalt daarom geen bijgewerkte productgegevens op. De gegevens die zijn verzameld terwijl de account was ingeschakeld, worden nog opgeslagen en bestaande advertenties die zijn gemaakt met productgegevens, worden niet bijgewerkt, gepauzeerd of verwijderd volgens de instellingen van de voedersjabloon en de voedergegevens.
 

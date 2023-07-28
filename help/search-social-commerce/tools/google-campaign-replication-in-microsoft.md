@@ -2,7 +2,8 @@
 title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
 description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
 exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
-source-git-commit: 8d062e5c74c8f873ab5f2491659a32be47bb2afb
+feature: Search Tools
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '962'
 ht-degree: 0%
@@ -15,15 +16,15 @@ U kunt uw gesynchroniseerde campagnes exporteren in een [!DNL Google Ads] accoun
 
 U kunt de volgende typen campagnes en de bijbehorende campagnestructuur repliceren:
 
-* [!DNL Google Ads] zoeken en campagnes weergeven in [!DNL Microsoft® Advertising] zoeken en weergeven.
+* [!DNL Google Ads] zoeken en campagnes weergeven in [!DNL Microsoft® Advertising] zoek- en weergavecampagnes.
 
 * [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft® Advertising] publiekscampagnes over het Microsoft® Audience Network.
 
-  Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
+  Als u boodschappencampagnes op basis van feed wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
 
 * [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] slimme winkelcampagnes.
 
-U kunt ervoor kiezen de campagnes eenmaal bij te werken; dagelijks wekelijks of maandelijks; of volgens [!DNL Microsoft® Advertising]aanbevolen schema. U kunt meldingen desgewenst configureren wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft® Advertising]kunt u de status van de importtaak controleren, eventuele foutlogboeken controleren, een importtaak handmatig uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
+U kunt ervoor kiezen de campagnes eenmaal bij te werken, dagelijks wekelijks of maandelijks, of volgens [!DNL Microsoft® Advertising]aanbevolen schema. U kunt meldingen desgewenst configureren telkens wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft® Advertising]kunt u de status van de importtaak controleren, eventuele foutlogboeken controleren, een importtaak handmatig uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
 
 Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toevoegen aan uw [!DNL Microsoft® Advertising] campagnes. Voor meer informatie over welke gegevens worden ingevoerd, zie [!DNL Microsoft® Advertising] help over &quot;[Wat wordt geïmporteerd uit [!DNL Google Ads]](https://help.ads.microsoft.com/#apex/ads/en/50851).&quot; Omdat het zoeken, Sociale, &amp; het volgen van de Handel niet wordt ingevoerd, zou u het volgen binnen moeten ook toevoegen [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
 
@@ -129,13 +130,13 @@ Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor import
 
       * In de [!UICONTROL Campaigns] of [!UICONTROL Adgroups] deselecteert u de campagne of de ad-groep zodat het vinkje verdwijnt.
 
-      * In de [!UICONTROL Selected] kolom, klikt u op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
+      * In de [!UICONTROL Selected] kolom, klik ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
 
 ### [!UICONTROL Customize your import]
 
 **[!UICONTROL Choose specific import options]:** Hiermee kunt u opgeven wat u wilt importeren, bieden en budgetten en andere opties.
 
-**[!UICONTROL What to import]:** Hiermee definieert u de items die u wilt importeren. Opties voor het importeren van itemcategorieën zijn standaard geselecteerd, waarbij alle itemtypen zijn geselecteerd. Als u alleen bepaalde itemtypen wilt opnemen, klikt u op **[!UICONTROL Show advanced options]** en wijzig de itemtypen die u wilt opnemen.
+**[!UICONTROL What to import]:** Definieert de items die moeten worden geïmporteerd. Opties voor het importeren van itemcategorieën zijn standaard geselecteerd, waarbij alle itemtypen zijn geselecteerd. Als u alleen bepaalde itemtypen wilt opnemen, klikt u op **[!UICONTROL Show advanced options]** en wijzig de itemtypen die u wilt opnemen.
 
 **[!UICONTROL Bids and budgets]:** Hiermee definieert u welke bied- en begrotingsinstellingen moeten worden geïmporteerd, bijgewerkt en aangepast.
 
@@ -145,7 +146,7 @@ Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor import
 
 **[!UICONTROL Import name]:** De naam van de importtaak.
 
-**[!UICONTROL When]:** Wanneer importeert u de opgegeven campagnes: *Automatisch* (aan [!DNL Microsoft® Advertising] een schema instellen om uw campagnes optimaal te optimaliseren); *[!UICONTROL Now]* (om de taak uit te voeren wanneer u de taakinstellingen plaatst), *[!UICONTROL Once]* op een bepaald tijdstip *[!UICONTROL Daily]* op een bepaald tijdstip *[!UICONTROL Weekly]* op een bepaald tijdstip, of *[!UICONTROL Monthly]* op een opgegeven tijdstip.
+**[!UICONTROL When]:** Wanneer importeert u de opgegeven campagnes: *Automatisch* (aan [!DNL Microsoft® Advertising] een schema instellen om uw campagnes zo goed mogelijk te optimaliseren); *[!UICONTROL Now]* (om de taak uit te voeren wanneer u de taakinstellingen plaatst), *[!UICONTROL Once]* op een bepaald tijdstip *[!UICONTROL Daily]* op een bepaald tijdstip *[!UICONTROL Weekly]* op een bepaald tijdstip, of *[!UICONTROL Monthly]* op een opgegeven tijdstip.
 
 **[!UICONTROL Receive email notifications]:** Als en wanneer u e-mailmeldingen over importtaken wilt verzenden naar de e-mailadressen in het veld Rapporten verzenden naar.
 

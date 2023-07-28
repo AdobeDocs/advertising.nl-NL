@@ -1,7 +1,9 @@
 ---
 title: Overzicht van het implementeren van Search, Social, & Commerce
 description: Meer informatie
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 31a4cd6f-8b02-4762-8e68-c9f377389935
+feature: Search Getting Started
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '819'
 ht-degree: 0%
@@ -42,13 +44,13 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    * Als de rekeningen reeds campagnegegevens niet bevatten, dan voeg campagnes, ad groepen, sleutelwoorden, advertenties, en plaatsingen van binnen Onderzoek, Sociale, &amp; Handel of van binnen het advertentienetwerk toe.
 
-      Raadpleeg het Help-hoofdstuk over &quot;Campaign Management&quot; voor meer informatie over het instellen van zoekcampagnes.
+     Raadpleeg het Help-hoofdstuk over &quot;Campaign Management&quot; voor meer informatie over het instellen van zoekcampagnes.
 
-1. Stel het bijhouden van advertenties in voor alle advertenties waarvoor u Adobe-reclame conversies wilt bijhouden:
+1. Stel het bijhouden van wijzigingen in voor alle advertenties waarvoor u de Adobe Advertising wilt laten uitvoeren:
 
    1. (Indien nodig) Stel klikspatiëring in voor advertenties en optioneel voor trefwoorden. [!DNL Google Ads] plaatsingen, en [!DNL Google Ads] extensies te genereren en te uploaden, klik-URL&#39;s bijhouden.
 
-      Klik op URL&#39;s bijhouden voor adverteerders met de service voor het bijhouden van pixelconversies in Adobe Advertising en geef een omleiding naar [!DNL Adobe] servers.
+      Klik op URL&#39;s bijhouden voor adverteerders met de Adobe Advertising service voor het bijhouden van pixelconversies, waaronder een omleiding naar [!DNL Adobe] servers.
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de juiste webpagina&#39;s en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die u met uw eigen methode hebt verzameld.
 
@@ -56,7 +58,7 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
 1. Integraties instellen met extra producten:
 
-   1. (Adverteerders met Adobe Analytics en/of Adobe Audience Manager) Integraties tussen de verschillende accounts instellen, zodat Adobe Advertisations gegevens met hen kunnen uitwisselen.
+   1. (Adverteerders met Adobe Analytics en/of Adobe Audience Manager) Integraties tussen de verschillende accounts instellen, zodat de Adobe Advertising gegevens met hen kan uitwisselen.
 
       Zie de handleiding op &#39;[Integratie met Experience Cloud](/help/integrations/home.md).&quot;
 
@@ -73,6 +75,7 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
       >Met Zoeken, Sociale media en Handel worden nog steeds gegevens bijgehouden en gerapporteerd voor campagnes die niet aan portfolio&#39;s zijn toegewezen, maar worden biedingen voor hen niet geoptimaliseerd.
 
    1. Nadat er voldoende gegevens beschikbaar zijn om een basislijn te maken, kan het team het portfolio starten. Met Zoeken, Sociale zaken en Handel kunt u biedingen en/of budgetten voor het portfolio optimaliseren op basis van het optimalisatietype.
+
    Raadpleeg voor meer informatie over het instellen en opstarten van portfolio&#39;s de Help over &quot;Optimalisatie&quot;, die beschikbaar is op het tabblad [!UICONTROL Help] menu (![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help")) in de rechterbovenhoek van elke pagina in Zoeken, Sociaal en Handel.
 
 1. De prestaties van uw portfolio&#39;s bewaken:
@@ -89,7 +92,7 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
 Na de eerste keer starten zijn de volgende lopende taken vereist. Afhankelijk van uw voorwaarden voor betrokkenheid, ofwel [!DNL Adobe], een gelieerde instantie of de adverteerder verricht de volgende taken:
 
-* U kunt de prestaties van elke portfolio blijven controleren en analyseren door waarschuwingen, prestatiegegevens voor elke portfolio en de bijbehorende componentcampagnes, aanpasbare rapporten en (sommige rollen) simulaties weer te geven.
+* U kunt de prestaties van elke portfolio blijven controleren en analyseren door waarschuwingen, prestatiegegevens voor elke portfolio en de bijbehorende campagnes, aanpasbare rapporten en (sommige rollen) simulaties weer te geven.
 
 * Pas de verschillende strategieën en instellingen die u gebruikt om de portfolioset te beheren, indien nodig aan op basis van de werkelijke en voorspelde prestaties en groeimogelijkheden van de portfolio:
 

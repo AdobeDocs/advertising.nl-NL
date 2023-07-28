@@ -1,7 +1,9 @@
 ---
 title: Campagne-gegevens bulksgewijs maken en bewerken met kopiëren en plakken
 description: Leer hoe u campagnegegevens bulksgewijs kunt beheren met de functie Kopiëren en plakken.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 09454f19-221b-43bb-ac74-f2c121329422
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -38,13 +40,13 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
 1. Bewerk de gegevens volgens de volgende vereisten:
 
-   * De geplakte gegevens moeten een koptekstrij en de benodigde objectwaarden voor de campagne bevatten. zie de vereiste kolommen van het bulksblad voor [Baidu](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [Google-advertenties](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [Naver](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [Yahoo! Netwerk weergeven](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), [Yahoo! Japan](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), en [Yandex](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md). De kolomvolgorde is niet van belang.
+   * De geplakte gegevens moeten een koptekstrij en de vereiste campagneobjectwaarden bevatten; zie de vereiste bulksbladkolommen voor [Baidu](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [Naver](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [Yahoo! Netwerk weergeven](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), [Yahoo! Japan](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), en [Yandex](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md). De kolomvolgorde is niet van belang.
 
-      * Voor bestaande objecten die u wilt bewerken, moet u alle relevante ID-kolommen, entiteitsnamen en het kenmerk dat u wilt bewerken opnemen. Bewerk de numerieke id van het object niet.
+      * Voor bestaande objecten die u wilt bewerken, moet u alle relevante ID-kolommen, entiteitsnamen en het kenmerk dat u wilt bewerken, opnemen. Bewerk de numerieke id van het object niet.
 
       * Voor nieuwe campagneobjecten neemt u alle relevante entiteitsnamen en -kenmerken op, maar niet de object-id&#39;s (die automatisch worden gegenereerd). Als u bijvoorbeeld een nieuwe advertentie maakt, laat u de knop [!UICONTROL Ad ID] veld leeg. Het ad-netwerk maakt automatisch een id wanneer u het object plaatst.
-   * De waarde in een niet-verplichte kolom mag null (leeg) zijn, maar elke rij moet hetzelfde aantal waarden met tabs als scheidingsteken hebben.
 
+   * De waarde in een niet-verplichte kolom mag null (leeg) zijn, maar elke rij moet hetzelfde aantal waarden met tabs als scheidingsteken hebben.
 
 1. Sla de gegevens op als door tabs gescheiden waarden.
 
@@ -78,7 +80,6 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 >* [Campagnegegevens beheren met behulp van bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)
 >* [Instellingen rechtstreeks in een rij bewerken](/help/search-social-commerce/common-tasks/settings-edit-within-row.md)
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
->* [Advertentiegroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
 >* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
 >* [Advertenties beheren](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md)
-

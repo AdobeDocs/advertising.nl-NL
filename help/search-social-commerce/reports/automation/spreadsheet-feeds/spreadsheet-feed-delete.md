@@ -1,7 +1,9 @@
 ---
 title: feeds voor spreadsheetrapporten verwijderen
 description: Leer hoe u spreadsheetfeeds verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: fbe8a578-8bcb-4755-96d0-e82aab313e5e
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >
@@ -30,7 +32,6 @@ ht-degree: 0%
 >* [Een feed voor een spreadsheetrapport maken](spreadsheet-feed-create.md)
 >* [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](spreadsheet-feed-create-excel-template.md)
 >* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Instellingen voor werkbladrapportfeed](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor spreadsheetrapporten weergeven of opslaan](spreadsheet-feed-view-or-save.md)
+>* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
+>* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
 >* [Werkbladrapportfeeds handmatig vernieuwen](spreadsheet-feed-refresh.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Informatie over aangepaste metriek
 description: Meer informatie over aangepaste metriek, die worden berekend op basis van standaardmeetwaarden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6a2df48f-4d6b-4afe-88c0-c52a6de53e33
+feature: Search Common Tasks, Search Custom Metrics
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -25,4 +27,3 @@ U kunt aangepaste metriek als kolommen opnemen in de portfolio- en campagnebehee
 >* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
 >* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
 >* [Aangepaste metrische instellingen](custom-metric-settings.md)
-

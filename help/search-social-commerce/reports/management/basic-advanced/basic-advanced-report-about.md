@@ -1,7 +1,9 @@
 ---
 title: Basisrapporten en geavanceerde rapporten
 description: Leer meer over aanpasbare basis- en geavanceerd rapporten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6224ee6d-72db-4524-9660-7fc0d57b5347
+feature: Search Reports, Search Basic Reports, Search Advanced Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '370'
 ht-degree: 0%
@@ -56,7 +58,7 @@ De basisrapporten tonen de daadwerkelijke kosten en klik gegevens voor portefeui
 
 De geavanceerde rapporten kunnen u helpen strategische besluiten over uw reclamestrategie nemen door te identificeren waar u zou profiteren door uw geografische gericht te vormen of netwerkmontages. Ze kunnen u ook helpen bij het valideren van conversiegegevens die beschikbaar zijn in Zoeken, Sociale Zaken en Handel, op basis van de interne gegevens voor het bijhouden van conversies van de adverteerder.
 
-Alle gebruikers kunnen de [!UICONTROL Transaction Report], waarin afzonderlijke transacties op trefwoord worden weergegeven. Alle andere geavanceerde rapporten gebruiken gegevens die zijn vastgelegd via de service voor het bijhouden van Adobe-advertenties en kunnen alleen worden gegenereerd voor adverteerders met de service.
+Alle gebruikers kunnen de [!UICONTROL Transaction Report], waarin afzonderlijke transacties op trefwoord worden weergegeven. Alle andere geavanceerde rapporten gebruiken gegevens die door de dienst van het de converteren van de Adobe Advertising worden gevangen en kunnen slechts voor adverteerders met de dienst worden geproduceerd.
 
 Alle geavanceerde rapporten kunnen naar keuze omzettingsgegevens of om het even welke andere metriek omvatten u creeert. De geavanceerde rapporten die door portefeuille eerder dan door ad netwerk worden geproduceerd tonen gegevens voor campagnes die momenteel aan de gespecificeerde portefeuilles in kaart worden gebracht. De rapporten omvatten geen gegevens voor campagnes die in de portefeuilles tijdens de datumwaaier waren maar er nog niet zijn.
 
@@ -73,4 +75,3 @@ Alle geavanceerde rapporten kunnen naar keuze omzettingsgegevens of om het even 
 >* [Een basis- of geavanceerd rapport genereren](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
 >* [Kolommen rapporteren voor basis- en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
-

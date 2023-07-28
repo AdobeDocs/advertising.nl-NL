@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft Advertising] trefwoordinstellingen"
+title: '''[!DNL Microsoft Advertising] trefwoordinstellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] trefwoorden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 248f45c7-8b8c-46fe-a65a-66c50c630044
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -22,7 +24,6 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >
 >* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
 >* Een [!DNL Microsoft Advertising] trefwoord verwijdert het bestaande trefwoord en maakt een nieuw trefwoord met een nieuwe id. Als u het overeenkomsttype wijzigt, wordt het bestaande trefwoord echter niet verwijderd.
-
 
 **[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
 
@@ -53,4 +54,3 @@ In dit veld kan optioneel de opdracht `{Param2}` en `{Param3}` dynamische vervan
 >[!MORELIKETHIS]
 >
 >* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste metrische waarde maken
 description: Leer hoe te om douanemetriek te vormen, die van standaardmetriek worden berekend.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 14a768f5-3c7f-4e8e-bcd0-66b176052a25
+feature: Search Common Tasks, Search Custom Metrics
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '160'
 ht-degree: 1%
@@ -34,7 +36,7 @@ ht-degree: 1%
 
 1. Klik op **[!UICONTROL Submit]**.
 
-## Een aangepaste metrische waarde maken vanuit de [!UICONTROL Portfolios] views
+## Een aangepaste metrische waarde maken op basis van de [!UICONTROL Portfolios] views
 
 1. Klik boven de gegevenstabel op ![Geselecteerde weergave bewerken](/help/search-social-commerce/assets/view-settings.png "Geselecteerde weergave bewerken").
 
@@ -52,4 +54,3 @@ ht-degree: 1%
 >* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
 >* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
 >* [Aangepaste metrische instellingen](custom-metric-settings.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Indeling van JavaScript-tags voor conversie bijhouden versie 3
 description: Verwijs naar de indeling van JavaScript conversie tracking-tags versie 3.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 1e177c52-f93c-4800-afb5-28f2336117b9
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
@@ -57,15 +59,14 @@ waarbij:
 
 * `<transid>` is een unieke transactie-id (zoals een werkelijke bestelling-id) die de adverteerder genereert en doorgeeft om een transactie te identificeren. Het is alleen opgenomen als &quot;[!UICONTROL Include unique transaction IDs]&quot; is geselecteerd.
 
-   Zoek, Sociaal en Handel gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id is opgenomen in de [!UICONTROL Transaction Report], die u kunt gebruiken om gegevens te valideren in advertenties van Adobe met de gegevens van de adverteerder. **Opmerking:** Als de gegevens van de adverteerder geen unieke id per transactie bevatten, genereert Search, Social en Commerce nog steeds een id op basis van de transactietijd.
+  Zoek, Sociaal en Handel gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id is opgenomen in de [!UICONTROL Transaction Report], waarmee u gegevens kunt valideren in Adobe Advertising met de gegevens van de adverteerder. **Opmerking:** Als de gegevens van de adverteerder geen unieke id per transactie bevatten, genereert Search, Social en Commerce nog steeds een id op basis van de transactietijd.
 
 <!-- add more links -->
 
 >[!MORELIKETHIS]
 >
->* [Informatie over conversietags voor Adobe-advertenties](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [Een conversietag voor Adobe-advertenties genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [Tags voor conversie naar Adobe Advertising bijhouden](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+>* [Een conversietag voor Adoben Advertising genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
 >* [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
 >* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](format-conversion-tag-jsv2.md)
 >* [Opmaak van trackingtags voor afbeeldingsconversie](format-conversion-tag-image.md)
-

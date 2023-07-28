@@ -1,7 +1,9 @@
 ---
 title: Een bulkbladtaak onderbreken
 description: Leer hoe u een bulksbladtaak onderbreekt terwijl deze bezig is.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: bfdc3c65-8dfc-4683-a39d-05d40078fd2d
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -18,7 +20,7 @@ U kunt elke taak met opsommingstekens stoppen, inclusief het posten van een best
 
 1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Stop job]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL O]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL O]**.
 
 >[!NOTE]
 >
@@ -28,4 +30,3 @@ U kunt elke taak met opsommingstekens stoppen, inclusief het posten van een best
 >
 >* [Campagnegegevens beheren met behulp van bulksbladen](bulksheet-about.md)
 >* [Geüploade bulksbladen en foutbestanden verwijderen](bulksheet-delete.md)
-

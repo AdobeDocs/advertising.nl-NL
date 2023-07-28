@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Google Ads] alleen-aanroepen advertentie-instellingen"
+title: '[!DNL Google Ads] alleen-aanroepen advertentie-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] alleen-aanroepadvertenties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 1f810c2b-9c30-43c6-bda6-07609423ef79
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '325'
 ht-degree: 0%
@@ -42,9 +44,9 @@ De maximumlengte is 35 single-byte of 17 double-byte tekens. De syntaxis voor he
 
 **[!UICONTROL Is Tracked]:** Laat vraag het volgen en vraag-slechts omzettingen toe.
 
-**[!UICONTROL Count calls as phone call conversions]:** (Wanneer &quot;[!UICONTROL Is Tracked]&quot; is geselecteerd; (optioneel) Kenmerkt alle aanroepen die het resultaat zijn van de advertentie, toe aan een specifiek type telefoonomzetting, wanneer er een wordt opgegeven. Anders, [!DNL Google Ads] Hiermee wordt een standaardconversieactie gemaakt met de naam &quot;[!UICONTROL Calls from ads]&quot; zodra het minstens één omzetting van uw het door:sturen aantallen registreert, en dan attributen roept aan het.
+**[!UICONTROL Count calls as phone call conversions]:** (Wanneer &quot;[!UICONTROL Is Tracked]&quot; wordt geselecteerd; facultatief) kenmerkt alle vraag die uit de advertentie aan een specifiek type van telefoonomzetting voortvloeit, wanneer één wordt gespecificeerd. Anders, [!DNL Google Ads] Hiermee wordt een standaardconversieactie gemaakt met de naam &quot;[!UICONTROL Calls from ads]&quot; zodra het minstens één omzetting van uw het door:sturen aantallen registreert, en dan attributen roept aan het.
 
-**[!UICONTROL Count Action]:** (Wanneer &quot;[!UICONTROL Count calls as phone call conversions]&quot; is geselecteerd; (facultatief) De bestaande omzettingsactie waaraan vraag wordt toegewezen.
+**[!UICONTROL Count Action]:** (Wanneer &quot;[!UICONTROL Count calls as phone call conversions]&quot; is geselecteerd; optioneel) De bestaande conversieactie waaraan aanroepen worden toegewezen.
 
 U kunt conversieacties maken en beheren binnen [!DNL Google Ads].
 
@@ -58,4 +60,3 @@ U kunt conversieacties maken en beheren binnen [!DNL Google Ads].
 >* [Advertenties beheren](ad-manage.md)
 >* [[!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-google-dsa.md)
 >* [[!DNL Google Ads] responsieve zoekopdrachten en instellingen](ad-settings-google-rsa.md)
-

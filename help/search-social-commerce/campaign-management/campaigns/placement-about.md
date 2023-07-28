@@ -1,7 +1,9 @@
 ---
 title: Info [!DNL Google Ads] plaatsing
 description: Meer informatie over opties voor biedbare en negatieve plaatsingen voor [!DNL Google Ads].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 2f390a39-99e9-4b0d-8576-e724882185ef
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -20,7 +22,7 @@ U kunt plaatsen voor om het even welke advertentiegroep in maken [ondersteund [!
 
 De [!UICONTROL Placements] > [!UICONTROL Placements] in de weergave worden al uw plaatsingen en de [!UICONTROL Placements] > [!UICONTROL Negatives] in de weergave worden al uw negatieve plaatsingen weergegeven waarvoor geen advertenties worden weergegeven.
 
-U kunt plaatsingen voor een advertentiegroep tot stand brengen van [!UICONTROL Placements] > [!UICONTROL Placements] weergeven. U kunt negatieve trefwoorden maken voor elke advertentiegroep of campagne in het menu [!UICONTROL Placements] > [!UICONTROL Negatives] van de campagne- en groepsinstellingen bekijken of weergeven.  U kunt ook de status van actieve en gepauzeerde plaatsingen bewerken en wijzigen en negatieve plaatsingen verwijderen.
+U kunt plaatsingen voor een advertentiegroep tot stand brengen van [!UICONTROL Placements] > [!UICONTROL Placements] weergeven. U kunt negatieve trefwoorden maken voor elke advertentiegroep of campagne in het menu [!UICONTROL Placements] > [!UICONTROL Negatives] vanuit de instellingen voor de campagne en de advertentiegroep.  U kunt ook de status van actieve en gepauzeerde plaatsingen bewerken en wijzigen en negatieve plaatsingen verwijderen.
 
 >[!NOTE]
 >
@@ -31,4 +33,3 @@ U kunt plaatsingen voor een advertentiegroep tot stand brengen van [!UICONTROL P
 >* [Biedeerbare plaatsingen beheren](placement-manage.md)
 >* [Negatieve plaatsingen maken](placement-negative-create.md)
 >* [De status van stages en negatieve stages wijzigen](placement-status-edit.md)
-

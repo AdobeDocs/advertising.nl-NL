@@ -1,7 +1,9 @@
 ---
 title: Informatie over modelnauwkeurigheidsrapporten
 description: Meer informatie over rapporten die de nauwkeurigheid aangeven van de kosten- en inkomstenmodellen die worden gebruikt om biedingen te optimaliseren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 8aeb2308-8775-4a6d-9d25-ba5378490344
+feature: Search Reports, Search Model Accuracy Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -26,5 +28,4 @@ Onnauwkeurigheden kunnen prestatieproblemen aangeven en het is mogelijk dat u de
 >* [De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
 >* [Een rapport over de modelnauwkeurigheid genereren](model-accuracy-report-generate.md)
 >* [Instellingen van modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
->* [Over rapporten](/help/search-social-commerce/reports/report-about.md)
-
+>* [Informatie over rapporten](/help/search-social-commerce/reports/report-about.md)

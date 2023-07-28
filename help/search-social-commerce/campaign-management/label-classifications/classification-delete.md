@@ -1,7 +1,9 @@
 ---
 title: Labelclassificaties verwijderen
 description: Leer hoe u een labelclassificatie kunt verwijderen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 4d00bda7-e3a6-4558-b818-5ccd45d0eb5b
+feature: Search Label Classifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 0%
@@ -28,7 +30,7 @@ Als u een classificatie verwijdert, worden alle koppelingen tussen de onderligge
 
 1. Klik op de werkbalk boven de tabel met gegevens op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
@@ -38,4 +40,3 @@ Als u een classificatie verwijdert, worden alle koppelingen tussen de onderligge
 >* [Classificatiewaarden toewijzen aan accountcomponenten met behulp van bulksbladen](classification-values-assign-bulksheets.md)
 >* [Waarden voor labelclassificatie verwijderen uit accountcomponenten](classification-values-remove.md)
 >* [Classificatiewaarden label verwijderen](classification-values-delete.md)
-

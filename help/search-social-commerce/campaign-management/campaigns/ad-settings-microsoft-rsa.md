@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen"
+title: '[!DNL Microsoft® Advertising] responsieve zoekfunctie en instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] responsieve zoekopdrachten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 4ee3c81a-38f4-448d-aea5-c062ab0a6f2a
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 0%
@@ -53,4 +55,3 @@ De responsieve zoek- en zoekindeling is beschikbaar voor advertenties in het zoe
 >* [[!DNL Microsoft® Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
 >* [[!DNL Microsoft® Advertising] product en instellingen](ad-settings-microsoft-product.md)
 >* [[!DNL Microsoft® Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
-

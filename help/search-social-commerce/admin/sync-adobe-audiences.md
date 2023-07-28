@@ -1,18 +1,20 @@
 ---
-title: Synchroniseren [!DNL Adobe] publiek
+title: Sync [!DNL Adobe] publiek
 description: Leer hoe u metagegevens, hiërarchische gegevens en unieke publieksgegevens synchroniseert voor uw [!DNL Adobe] publiek.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 7d4a3c66-5013-412f-8937-d64c336751e3
+feature: Search Admin
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%
 
 ---
 
-# Synchroniseren [!DNL Adobe] publiek
+# Sync [!DNL Adobe] publiek
 
 *[!DNL Direct Access]alleen clientmanagers en beheerders*
 
-*Adverteerders met alleen de integratie Adobe Advertising-Adobe Audience Manager of Adobe Advertising-Adobe Analytics*
+*Adverteerders die alleen Adobe Advertising-Adobe Audience Manager of Adobe Advertising-Adobe Analytics-integratie hebben*
 
 U kunt Zoeken, Sociale Zaken en Handel toestaan om metagegevens, hiërarchische gegevens en unieke publieksgegevens voor alle adverteerders of bureaus van [!DNL Adobe] publiek in de [!UICONTROL Campaigns] > [!UICONTROL Audiences] weergaven. Deze informatie omvat gegevens voor:
 
@@ -36,4 +38,3 @@ De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-t
 >
 >* [Informatie over publiek](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
 >* [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-

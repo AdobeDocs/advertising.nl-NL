@@ -1,7 +1,9 @@
 ---
 title: Een rapportsjabloon weergeven
 description: Leer hoe te om een herbruikbare rapportmalplaatje te bekijken.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: fc2b9326-c783-4632-9673-89392bffb05f
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -26,4 +28,3 @@ ht-degree: 0%
 >* [Een rapportsjabloon maken](template-create.md)
 >* [Een rapportsjabloon bewerken](template-edit.md)
 >* [Rapportsjablonen verwijderen](template-delete.md)
-

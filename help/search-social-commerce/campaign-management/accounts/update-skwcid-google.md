@@ -1,7 +1,9 @@
 ---
-title: "De s\_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account"
+title: De code voor bijhouden met de klok mee bijwerken voor een [!DNL Google Ads] account
 description: Leer hoe u overschakelt naar de nieuwste s\_kwcid-trackingcode voor een [!DNL Google Ads] account.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '462'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
+*Adverteerders die alleen Adobe Advertising-Adobe Analytics-integratie hebben*
 
 *[!DNL Google Ads]alleen accounts*
 
@@ -48,7 +50,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe notatie s
 
 1. Nadat u de migratie hebt gestart, werkt u desgewenst de instellingen voor het achtervoegsel van de bestemmingspagina (het zogenaamde &quot;laatste URL-achtervoegsel&quot; in sommige advertentienetwerken) bij:
 
-   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor bijhouden, Zoeken, Sociale zaken en Handel werkt automatisch de trackingcode bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
+   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor bijhouden, Zoeken, Sociale zaken en Handel werkt automatisch de code voor bijhouden bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
    * Wanneer de [!UICONTROL Auto Upload]De functie &#39;&#39; is niet ingeschakeld en u gebruikt de parameter s-kwcid aan de serverzijde niet. Vervolgens moet u de parameter s\_kwcid handmatig bijwerken in de instellingen voor het achtervoegsel voor de landingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
    * Als u s\_kwcid in het Basis URL plaatsen voor om het even welke campagnecomponent, dan verplaats het naar het relevante het Bestanden plaatsen van het Achtervoegsel van de Pagina.
 

@@ -1,7 +1,9 @@
 ---
 title: Over winkelproductgroepen
 description: Meer informatie over het winkelen van productgroepen tijdens winkelcampagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: c91e6fb5-3be1-4d21-b508-09f974058fc7
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '739'
 ht-degree: 0%
@@ -18,7 +20,7 @@ U vormt productgroepen op het niveau van de advertentiegroep om te bepalen welke
 
 Wanneer hetzelfde product in meer dan één campagne is opgenomen, gebruikt het advertentienetwerk eerst de campagneprioriteit om te bepalen welke campagne (en het bijbehorende bod) in aanmerking komt voor de advertentieveiling. Wanneer alle campagnes dezelfde prioriteit hebben, is de campagne met het hoogste bod subsidiabel.
 
-Meer informatie over [!DNL Google] winkelcampagnes en advertenties , zie &quot;[Implementeren [!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)&quot; en de [Google Ads-documentatie](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&amp;rd=1). Raadpleeg voor meer informatie over Microsoft-winkelcampagnes &quot;[Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)&quot; en de [Microsoft-advertentiedocumentatie](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500).
+Voor meer informatie over [!DNL Google] winkelcampagnes en advertenties , zie &quot;[Implementeren [!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)&quot; en de [Google Ads-documentatie](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&amp;rd=1). Raadpleeg voor meer informatie over Microsoft-winkelcampagnes &quot;[Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)&quot; en de [Microsoft Advertising-documentatie](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500).
 
 >[!NOTE]
 >
@@ -44,9 +46,9 @@ U kunt productgroepen en onderliggende productgroepen maken en bewerken in de [!
 
 * (Vereist voor [!DNL Google Ads]; beste praktijken voor [!DNL Microsoft Advertising]) Voeg de URL voor bijhouden toe aan de [!DNL Tracking Template] in de account-, campagne- of productgroepinstelling. Voeg deze op het hoogst mogelijke niveau toe om het onderhoud te vereenvoudigen. Om het even welke toevoegingsparameters die voor de rekening of de campagne worden gespecificeerd zijn niet inbegrepen.
 
-   >[!CAUTION]
-   >
-   >([!DNL Microsoft Advertising]Gebruik deze optie alleen als u URL&#39;s voor het bijhouden van zoekopdrachten, sociale gegevens en handel niet opneemt in een aangepaste kolom in de productfeed. Als u beide instelt, bevatten de URL&#39;s twee omleidingen die verbroken koppelingen veroorzaken.
+  >[!CAUTION]
+  >
+  >([!DNL Microsoft Advertising]Gebruik deze optie alleen als u URL&#39;s voor het bijhouden van zoekopdrachten, sociale gegevens en handel niet opneemt in een aangepaste kolom in de productfeed. Als u beide instelt, bevatten de URL&#39;s twee omleidingen en worden de koppelingen verbroken.
 
 * ([!DNL Microsoft Advertising] alleen) Voeg de URL voor bijhouden toe aan de productgegevens in het dialoogvenster [!DNL Microsoft Merchant Center] account. Hiervoor neemt u de URL voor bijhouden op, samen met de waarde in het dialoogvenster `link` of `mobile_link` in een aangepaste kolom met de naam [`bingads_redirect`](https://help.ads.microsoft.com/#apex/3/en/51084/0) in het diervoeder. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de account- of campagnemontages in Zoeken, Sociaal en Handel.
 
@@ -59,4 +61,3 @@ U kunt gegevens over productgroepen weergeven in [de [!UICONTROL Product Group R
 >* [Implementeren [!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
 >* [[!DNL Microsoft Advertising] productgroepinstellingen](product-group-settings-microsoft.md)
 >* [Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
-

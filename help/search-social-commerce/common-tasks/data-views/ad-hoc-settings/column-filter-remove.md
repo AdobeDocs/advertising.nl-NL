@@ -1,7 +1,9 @@
 ---
 title: Een kolomfilter verwijderen
 description: Leer hoe u een kolomfilter verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 9f11d100-06c7-474d-a7ca-30f180e3d7ff
+feature: Search Common Tasks, Search Custom Data Views
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook meerdere filters verwijderen uit een filterset die is ingesteld door [bewerken van de filterset](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md).
+>U kunt ook meerdere filters verwijderen uit een filterset van [bewerken van de filterset](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md).
 
 1. (Indien nodig) Klik in de filterset boven de gegevenstabel op ![Meer](/help/search-social-commerce/assets/more-filters.png "Meer") om de filterset uit te vouwen.
 

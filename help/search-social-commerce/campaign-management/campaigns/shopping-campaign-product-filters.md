@@ -1,7 +1,9 @@
 ---
-title: "Winkelcampagne-productfilters"
+title: Productfilters voor winkelcampagne
 description: Verwijs naar de productfilters beschikbaar voor winkelproductgroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 9c4f3c64-5a51-49de-aeba-bcda8a379609
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '181'
 ht-degree: 0%
@@ -33,6 +35,5 @@ Zie ook de [!DNL Google Ads] help &quot;[Een winkelcampagne beheren met productg
 >* [[!DNL Microsoft® Advertising] productgroepinstellingen](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
 >* [[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
 >* [[!DNL Microsoft Advertising] winkelen en sjablooninstellingen voor voorraadfeeds](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
->* [Vereiste gegevens voor [!DNL Google Ads] bollen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
->* [Vereiste gegevens voor [!DNL Microsoft Advertising] bollen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
-
+>* [Vereiste gegevens voor [!DNL Google Ads] bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
+>* [Vereiste gegevens voor [!DNL Microsoft Advertising] bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)

@@ -1,7 +1,9 @@
 ---
 title: Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing
 description: Leer hoe u de [!UICONTROL Notification Center] webtoepassing.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: e1afc7c0-4bbb-44d6-9871-924580648fa9
+feature: Search Notifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 *Bètaonderdeel*
 
-U kunt meldingen buiten uw browser ontvangen en beheren door een [!UICONTROL Notification Center] webtoepassing. De toepassing ziet er hetzelfde uit en heeft dezelfde functionaliteit als [!UICONTROL Notification Center] binnen Zoeken, Sociale &amp; Handel. De toepassing is beschikbaar voor [!DNL Google Chrome] 40 of hoger [!DNL Microsoft® Edge] 17 en hoger.
+U kunt meldingen buiten uw browser ontvangen en beheren door een [!UICONTROL Notification Center] webtoepassing. De toepassing ziet er hetzelfde uit en heeft dezelfde functionaliteit als [!UICONTROL Notification Center] binnen Zoeken, Sociale &amp; Handel. De toepassing is beschikbaar voor [!DNL Google Chrome] 40 en hoger of [!DNL Microsoft® Edge] 17 en hoger.
 
 Wanneer u de [!UICONTROL Notification Center] wordt deze automatisch ingeschakeld in de toepassingsmanager van de browser en wordt deze geladen als een afzonderlijk venster waarvan de lay-out dynamisch wordt gerangschikt op basis van de venstergrootte. U kunt de toepassing openen en sluiten vanuit de toepassingsmanager van de browser of deze vastzetten op de taakbalk of het dock van het besturingssysteem. De toepassing wordt automatisch bijgewerkt.
 
@@ -26,7 +28,7 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
 1. Klik in de rechteronderhoek op ![De webtoepassing Notification Center installeren](/help/search-social-commerce/assets/notifications-install-app.png "De webtoepassing Notification Center installeren").
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Add]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Add]**.
 
 1. In de Install App? bericht, klik **[!UICONTROL Install]**.
 
@@ -38,7 +40,7 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
    1. Klik in de rechteronderhoek op ![De webtoepassing Notification Center installeren](/help/search-social-commerce/assets/notifications-install-app.png "De webtoepassing Notification Center installeren").
 
-   1. Klik in het bevestigingsbericht op **[!UICONTROL Add]**.
+   1. Klik in het bevestigingsbericht **[!UICONTROL Add]**.
 
    1. In de [!UICONTROL Install Notification Center] app-bericht, klik op **[!UICONTROL Install]**.
 
@@ -66,4 +68,3 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 >* [Een melding verwijderen](notification-delete.md)
 >* [Uw meldingsinstellingen bewerken](notification-edit.md)
 >* [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
-

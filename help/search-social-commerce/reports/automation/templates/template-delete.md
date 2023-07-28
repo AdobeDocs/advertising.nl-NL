@@ -1,7 +1,9 @@
 ---
 title: Een rapportsjabloon verwijderen
 description: Leer hoe u uw rapportsjablonen verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 2b81aad8-6ab1-495f-8f34-67fa5c55be42
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -20,7 +22,7 @@ U kunt om het even welk rapportmalplaatje schrappen beschikbaar aan u. Wanneer u
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >
@@ -28,4 +30,3 @@ U kunt om het even welk rapportmalplaatje schrappen beschikbaar aan u. Wanneer u
 >* [Een rapportsjabloon maken](template-create.md)
 >* [Een rapportsjabloon bewerken](template-edit.md)
 >* [Een rapportsjabloon weergeven](template-view.md)
-

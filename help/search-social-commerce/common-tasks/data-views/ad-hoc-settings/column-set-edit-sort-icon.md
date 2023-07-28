@@ -1,7 +1,9 @@
 ---
 title: De kolomset bewerken en sorteren vanuit de [!UICONTROL Custom Columns] pictogram
 description: Leer hoe u de zichtbare kolommen wijzigt met de functie voor kolomaanpassing.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 9b8ddb3d-c598-4393-85f2-0e586ebe0df3
+feature: Search Common Tasks, Search Custom Data Views
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '295'
 ht-degree: 0%
@@ -28,7 +30,7 @@ U kunt de zichtbare kolommen in om het even welk van uw meningen van de juiste t
 
    * (De horizontale positie van een kolom wijzigen) In het dialoogvenster [!UICONTROL Selected Columns & Ordering] klikt u op de kolomnaam en sleept u deze naar de gewenste positie of klikt u op ![Kolom omhoog verplaatsen](/help/search-social-commerce/assets/chevron-up.png "Kolom omhoog verplaatsen") of ![Kolom omlaag verplaatsen](/help/search-social-commerce/assets/chevron-down.png "Kolom omlaag verplaatsen") om het daar te verplaatsen.
 
-      De naam van de bovenste kolom wordt weergegeven in de linkerkolom.
+     De bovenste kolomnaam wordt weergegeven in de linkerkolom.
 
    * (Een kolom verwijderen) in het dialoogvenster [!UICONTROL Selected Columns & Ordering] klikt u op een kolomnaam en sleept u deze naar de [!UICONTROL Available Columns] lijst of klik op ![Verwijderen](/help/search-social-commerce/assets/chevron-left.png "Verwijderen") om het daar te verplaatsen.
 
@@ -36,7 +38,7 @@ U kunt de zichtbare kolommen in om het even welk van uw meningen van de juiste t
 
 1. Geef de sorteeropties op:
 
-   * Geef de kolom op waarmee de rijen moeten worden gesorteerd.
+   * Geef de kolom op waarmee u de rijen wilt sorteren.
 
    * (Optioneel) Verplaats de schuifregelaar om de waarden van de geselecteerde kolom te sorteren in **[!UICONTROL Ascending]** of **[!UICONTROL Descending]** bestelling.
 

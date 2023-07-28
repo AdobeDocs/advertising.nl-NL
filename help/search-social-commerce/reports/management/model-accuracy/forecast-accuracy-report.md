@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Forecast Accuracy Report]"
+title: '[!UICONTROL Forecast Accuracy Report]'
 description: Leer over het Rapport van de Nauwkeurigheid van de Vooruitzichten, met inbegrip van de gegevenskolommen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 2bb36728-ae14-441b-bcda-fa457f5cf664
+feature: Search Reports, Search Model Accuracy Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
@@ -23,7 +25,6 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 >* Voor kostenramingen wordt een afwijking van 10% in de laatste zeven dagen aanvaardbaar geacht, zodat de feitelijke uitgaven die tussen 90% en 110% van de geraamde uitgaven liggen, fijn zijn. Voor inkomstenprognoses wordt een afwijking van 15% in de laatste zeven dagen aanvaardbaar geacht, zodat de werkelijke inkomsten die tussen 85% en 115% van de geraamde uitgaven liggen, een boete zijn. Prognoses met hogere afwijkingen moeten worden onderzocht.
 >
 >* Wanneer trefwoorden in de portefeuille gekoppeld zijn aan beperkingen in verband met verschuiving van het bod, wordt de portefeuille hoger of lager uitgegeven dan het totale bedrag dat door de verschuiving van het bod wordt veroorzaakt. Dientengevolge, wijken de voorspelde kostenkolommen van de doeluitgave door de verhoogde of verminderde uitgave af.
-
 
 ## Beschikbare kolommen
 
@@ -56,4 +57,3 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 >* [De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
 >* [Een rapport over de modelnauwkeurigheid genereren](model-accuracy-report-generate.md)
 >* [Instellingen van modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
-

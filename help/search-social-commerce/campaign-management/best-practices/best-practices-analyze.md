@@ -1,7 +1,9 @@
 ---
 title: Rapporten analyseren om uw trefwoorden en campagne-instellingen te verfijnen
 description: Leer over beste praktijken voor het gebruiken van rapporten om uw sleutelwoorden en campagnemontages te verfijnen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: fe32561d-e910-40e0-8c37-889184b4e9c6
+feature: Search Best Practices
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 0%
@@ -28,4 +30,3 @@ Voor meer informatie over het aanpassen van uw sleutelwoorden en campagnemontage
 >
 >* [Effectieve tekst schrijven en kopiëren](best-practices-write.md)
 >* [De openingspagina&#39;s van de website optimaliseren](best-practices-optimize.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon maken
 description: Leer hoe u een sjabloon maakt voor het genereren van aangepaste waarschuwingen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 1acc6224-3e6c-4443-8efe-9ae8545d6da0
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '256'
 ht-degree: 0%
@@ -56,4 +58,3 @@ U kunt schakelen tussen tabbladen door op de tabnaam te klikken (bijvoorbeeld &q
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

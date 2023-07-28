@@ -1,7 +1,9 @@
 ---
 title: Advertenties beheren
 description: Meer informatie over advertenties in Zoeken, Sociale Zaken en Handel, inclusief de beschikbare advertentietypen.
-source-git-commit: eaf08dedb14bdf0c0be087e48c79bbf21b0990aa
+exl-id: 92ae631a-c35a-40ec-9d40-ebce13e3311b
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '895'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
 
-Een advertentie kan op een doelwebsite (voor inhoud, of plaatsing-gerichte campagnes) worden getoond; wanneer een gebruiker naar een van de trefwoorden in de advertentiegroep zoekt (voor zoekcampagnes) of naar inhoud op uw website (dynamische zoekopdrachten in [!DNL Google Ads] alleen-zoekcampagnes); of wanneer een gebruiker een zoekopdracht uitvoert die relevant is voor een van de items in uw [!DNL Google Merchant Center] of [!DNL Microsoft® Merchant Center] productfeed (winkeladvertenties in [!DNL Google Ads] of productadvertenties in [!DNL Microsoft® Advertising] campagnes).
+Een advertentie kan worden weergegeven op een doelwebsite (voor inhoud of op plaatsing gerichte campagnes); wanneer een gebruiker naar een van de trefwoorden in de advertentiegroep zoekt (voor zoekcampagnes) of naar inhoud op uw website (dynamische zoekadvertenties in [!DNL Google Ads] (alleen-zoekcampagnes); of wanneer een gebruiker een zoekopdracht uitvoert die relevant is voor een van de items in uw [!DNL Google Merchant Center] of [!DNL Microsoft® Merchant Center] productfeed (winkeladvertenties in [!DNL Google Ads] of productadvertenties in [!DNL Microsoft® Advertising] campagnes).
 
 ## Beschikbare advertentietypen
 
@@ -20,17 +22,17 @@ U kunt ondersteunde advertentietypen voor advertentiegroepen maken en beheren in
 
 * **Tekstadvertenties of uitgebreide tekstadvertenties** voor een advertentiegroep in een campagne die het onderzoeksnetwerk richt. Tekstadvertenties kunnen optionele volgparameters bevatten die de parameters op advertentieniveau of op campagnereniveau overschrijven. Afhankelijk van het advertentienetwerk, kunt u of uitgebreide/uitgebreide tekstadvertenties of standaardtekstadvertenties tot stand brengen.
 
-* Interconnectiviteit tussen apparaten, native **publieksadvertenties** for [!DNL Microsoft® Advertising] campagnes over [!DNL Microsoft® Audience Network]. U hebt twee opties voor publieksadvertenties, op basis van de campagne-instellingen:
+* Interconnectiviteit tussen apparaten, native **publieksadvertenties** for [!DNL Microsoft® Advertising] campagnes over de [!DNL Microsoft® Audience Network]. U hebt twee opties voor publieksadvertenties, op basis van de campagne-instellingen:
 
    * Als de campagne aan een winkelcentrum wordt verbonden, dan laat het advertentienetwerk automatisch advertenties op diervoeder-gebaseerde advertenties voor de campagne produceren, gebruikend de productinformatie van de opslag. U hoeft geen op feed gebaseerde advertenties voor de campagne te maken, maar u moet ad-groups maken met een gebruikerstoewijzing.
 
-   * Als de campagne niet is gekoppeld aan een commercieel gecentreerde account, maakt u op afbeeldingen gebaseerde publieksadvertenties met de responsieve advertentievorm, die meerdere tekst- en afbeeldingselementen bevat. Het advertentienetwerk assembleert de advertenties gebruikend de meest efficiënte combinaties advertentie-elementen en toont hen op plaatsen als [!DNL MSN], [!DNL Outlook.com], en [!DNL Microsoft® Edge].
+   * Als de campagne niet is gekoppeld aan een commercieel gecentreerde account, maakt u op afbeeldingen gebaseerde publieksadvertenties met de responsieve advertentievorm, die meerdere tekst- en afbeeldingselementen bevat. Het advertentienetwerk assembleert de advertenties met behulp van de meest efficiënte combinaties van advertentie-elementen en toont hen op plaatsen als [!DNL MSN], [!DNL Outlook.com], en [!DNL Microsoft® Edge].
 
-* **Alleen-aanroepbare advertenties** for [!DNL Google Ads] campagnes op het onderzoeksnetwerk. Alleen-aanroepbare advertenties zijn tekstadvertenties die een telefoonnummer bevatten. U kunt desgewenst een [!DNL Google Ads]- toegewezen het door:sturen aantal voor geavanceerde vraag het melden.
+* **Alleen-bellen advertenties** for [!DNL Google Ads] campagnes op het onderzoeksnetwerk. Alleen-aanroepbare advertenties zijn tekstadvertenties die een telefoonnummer bevatten. U kunt desgewenst een [!DNL Google Ads]- toegewezen het door:sturen aantal voor geavanceerde vraag het melden.
 
 * **Uitgebreide dynamische zoekopdrachten** (heet nu alleen &quot;dynamische zoekadvertenties&quot; op advertentienetwerken) voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] dynamische zoekacties en groepen in zoekcampagnes. Dynamische zoekadvertenties gebruiken inhoud van uw website in plaats van trefwoorden om te bepalen wanneer u uw advertenties wilt weergeven. Het advertentienetwerk genereert dynamisch de kop, kiest de bestemmingspagina-URL en de weergave-URL en genereert automatisch de laatste URL.
 
-  U kunt de pagina&#39;s in uw websites definiëren waarvan de inhoud wordt gebruikt om uw dynamische zoekopdrachten te activeren door specifieke dynamische zoekdoelen voor de advertentiegroep in te stellen. Voor [!DNL Google Ads]kunt u dynamische zoekdoelen maken in Zoeken, Sociale Zaken en Handel; for [!DNL Microsoft® Advertising], moet u deze maken binnen [!DNL Microsoft® Advertising]. In [!DNL Google Ads] campagnes, kunt u naar keuze een websitedomein en een taal in de campagne specificeren &quot;[!DNL DSA Options]&quot; in plaats van of als aanvulling op het maken van dynamische zoekdoelen.
+  U kunt de pagina&#39;s in uw websites definiëren waarvan de inhoud wordt gebruikt om uw dynamische zoekadvertenties te activeren door specifieke dynamische zoekdoelen voor de advertentiegroep in te stellen. Voor [!DNL Google Ads]kunt u dynamische zoekdoelen maken in Zoeken, Sociale Zaken en Handel, voor [!DNL Microsoft® Advertising], moet u deze maken binnen [!DNL Microsoft® Advertising]. In [!DNL Google Ads] campagnes, kunt u naar keuze een websitedomein en een taal in de campagne specificeren &quot;[!DNL DSA Options]&quot; in plaats van of als aanvulling op het maken van dynamische zoekdoelen.
 
   Wanneer de zoekterm van een gebruiker exact overeenkomt met een trefwoord in een van uw op trefwoorden gebaseerde campagnes, wordt een advertentie uit de op trefwoorden gebaseerde campagne weergegeven in plaats van een dynamische zoekadvertentie. Het advertentienetwerk toont een dynamische onderzoeksadvertentie in plaats van een sleutelwoord-gericht en wanneer de het onderzoekstermijn van de gebruiker een brede gelijke of woordgroep aan één van uw sleutelwoorden en uw dynamische onderzoeksadvertentie heeft een hogere rang.
 

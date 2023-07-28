@@ -1,7 +1,9 @@
 ---
 title: Negatieve trefwoorden maken
 description: Leer hoe u negatieve trefwoorden maakt voor zoekcampagnes en advertentiegroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 683e5395-cb65-4d7f-a981-7fc9f84d4192
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -15,7 +17,7 @@ ht-degree: 0%
 U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne tot stand brengen die het onderzoek of de vertoning of het inheemse netwerk richten. Negatieve trefwoorden activeren geen advertenties.
 
 >[!NOTE]
->U kunt ook negatieve trefwoorden maken en bewerken in het dialoogvenster [groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
+>U kunt ook negatieve trefwoorden maken en bewerken in het dialoogvenster [groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
 
 >[!TIP]
 >Als u veel negatieve trefwoorden tegelijk wilt maken, gebruikt u [brochures](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
@@ -44,7 +46,6 @@ U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne 
 
    * [!DNL Yandex]: Elk trefwoord mag maximaal zeven woorden bevatten, met uitzondering van stopwoorden. Elk [!DNL Yandex ad group] Kan maximaal 200 trefwoorden bevatten.
 
-
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
@@ -52,4 +53,3 @@ U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne 
 >* [Trefwoorden](keyword-about.md)
 >* [Biedeerbare trefwoorden beheren](keyword-manage.md)
 >* [De status van trefwoorden en negatieve trefwoorden wijzigen](keyword-status-edit.md)
-

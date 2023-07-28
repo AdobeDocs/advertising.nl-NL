@@ -1,7 +1,9 @@
 ---
 title: Ondersteunde bestandsindelingen voor bulksbladen
 description: Verwijs naar de algemene dossiervereisten voor bulksbladen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: b14aaf11-e2e9-4f7c-b6bc-831f668b93a6
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 0%
@@ -45,7 +47,7 @@ Gegevensvelden in TSV-bestanden en TXT-bestanden die zijn gescheiden met tabs, m
 
 * De velden in elke record worden gescheiden door tabtekens. Als u een waarde voor een veld wilt weglaten, gebruikt u alleen het tabteken.
 
-   Voorbeeld: `Cruises<TAB>5000<TAB>Caribbean<TAB><TAB><TAB>`
+  Voorbeeld: `Cruises<TAB>5000<TAB>Caribbean<TAB><TAB><TAB>`
 
 * Velden mogen geen ingesloten tabtekens bevatten.
 
@@ -55,23 +57,23 @@ Gegevensvelden in CSV-bestanden en TXT-bestanden met komma&#39;s als scheidingst
 
 * De velden in een record worden gescheiden door komma&#39;s. Als u een waarde voor een veld wilt weglaten, gebruikt u alleen de komma.
 
-   Voorbeeld: `Cruises,5000,Caribbean,,,`
+  Voorbeeld: `Cruises,5000,Caribbean,,,`
 
 * Willekeurig veld kan eventueel worden ingesloten door dubbele aanhalingstekens (`""`).
 
-   Voorbeeld:  `"Cruises","5000","Caribbean",`
+  Voorbeeld:  `"Cruises","5000","Caribbean",`
 
 * Velden met ingesloten komma&#39;s moeten tussen dubbele aanhalingstekens staan (`""`).
 
-   Voorbeeld: `Cruises,5000,Caribbean,"Luxurious, spacious cabins",`
+  Voorbeeld: `Cruises,5000,Caribbean,"Luxurious, spacious cabins",`
 
 * Velden met ingesloten dubbele aanhalingstekens moeten tussen dubbele aanhalingstekens staan (`""`).
 
-   Voorbeeld: `Cruises,5000,Caribbean,"Customers say ""We wish we could stay forever."",`
+  Voorbeeld: `Cruises,5000,Caribbean,"Customers say ""We wish we could stay forever."",`
 
 * Velden met voorafgaande of navolgende spaties moeten tussen dubbele aanhalingstekens (`""`).
 
-   Voorbeeld: `Cruises,5000,Caribbean,"  Come see what we mean.  ",`
+  Voorbeeld: `Cruises,5000,Caribbean,"  Come see what we mean.  ",`
 
 >[!MORELIKETHIS]
 >
@@ -79,4 +81,3 @@ Gegevensvelden in CSV-bestanden en TXT-bestanden met komma&#39;s als scheidingst
 >* [Bewerkingen die u kunt uitvoeren in bulksbladen](bulksheet-operations.md)
 >* [Bijlage - Fouten in bladbladen](../bulksheet-errors.md)
 >* [Een bulkbladbestand downloaden/maken](../bulksheet-download.md)
-

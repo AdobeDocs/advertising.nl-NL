@@ -1,7 +1,9 @@
 ---
 title: Classificatiewaarden label verwijderen
 description: Leer hoe u waarden voor labelclassificaties verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 97c07598-4740-4e55-85e9-ef4e4e46daeb
+feature: Search Label Classifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -18,7 +20,7 @@ Als u labelclassificatiewaarden verwijdert, zijn deze niet meer beschikbaar voor
 
 1. Klik op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Label Classifications]**.
 
-1. Selecteer in het submenu de optie **[!UICONTROL Label Values]**.
+1. Selecteer in het submenu **[!UICONTROL Label Values]**.
 
 1. (Optioneel) Filter de lijst om specifieke labelwaarden op te nemen.
 
@@ -30,7 +32,7 @@ Als u labelclassificatiewaarden verwijdert, zijn deze niet meer beschikbaar voor
 
 1. Klik op de werkbalk boven de tabel met gegevens op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
@@ -40,4 +42,3 @@ Als u labelclassificatiewaarden verwijdert, zijn deze niet meer beschikbaar voor
 >* [Classificatiewaarden toewijzen aan accountcomponenten met behulp van bulksbladen](classification-values-assign-bulksheets.md)
 >* [Waarden voor labelclassificatie verwijderen uit accountcomponenten](classification-values-remove.md)
 >* [Labelclassificaties verwijderen](classification-delete.md)
-

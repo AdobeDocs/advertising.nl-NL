@@ -3,7 +3,8 @@ title: Een [!DNL Google Analytics] gegevensbron
 description: Leer hoe u een [!DNL Google Analytics] gegevensbron als u het bijbehorende wachtwoord verandert of het certificaat verloopt.
 role: User, Admin
 exl-id: 9233e004-8607-444a-ba99-f63cb83a8b7a
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+feature: Search Admin, Search Data Sources
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -26,7 +27,7 @@ Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een 
 
    1. In de [!UICONTROL Connect to Google Analytics] , voert u de volgende handelingen uit.
 
-      1. (Indien nodig) Voer een nieuw e-mailadres in voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet zijn geregistreerd bij een [!DNL Google] -account en beschikken over &quot;Lezen en analyseren&quot;-machtigingen voor de [!DNL Google Analytics] account. Zie de [instructies voor het toewijzen van gebruikersmachtigingen in [!DNL Google Analytics]](https://support.google.com/analytics/answer/9305587).
+      1. (Indien nodig) Voer een nieuw e-mailadres in voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet bij een [!DNL Google] -account en beschikken over &quot;Lezen en analyseren&quot;-machtigingen voor de [!DNL Google Analytics] account. Zie de [instructies voor het toewijzen van gebruikersmachtigingen in [!DNL Google Analytics]](https://support.google.com/analytics/answer/9305587).
 
          >[!TIP]
          >

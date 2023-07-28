@@ -1,7 +1,9 @@
 ---
 title: Overzicht van het uitvoeren van en netwerkrekeningen en campagnes
 description: Leer over de taken betrokken bij vestiging, het synchroniseren, en het beheren van uw rekeningen van het advertentienetwerk.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 401c5ebb-258c-4614-96e8-ca604fc698c0
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '978'
 ht-degree: 0%
@@ -36,21 +38,21 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
       Zoek, Sociale, &amp; Handel synchroniseert dan met het advertentienetwerk. Als de account al campagnegegevens bevat, zijn de gegevens over ongeveer 24 uur beschikbaar.
 
-   1. ([Typen toevoegen die u kunt maken/bewerken](/help/search-social-commerce/introduction/supported-inventory.md) in Zoeken, Sociale Zaken, &amp; Handel) als de rekening reeds campagnegegevens bevat, dan creeer campagnestructuur en campagnecomponenten van binnen Onderzoek, Sociale, &amp; Handel door om het even welke volgende methodes die voor het advertentietype beschikbaar zijn:
+   1. ([Typen toevoegen die u kunt maken/bewerken](/help/search-social-commerce/introduction/supported-inventory.md) in Zoeken, Sociaal, &amp; Handel) Als de account nog geen campagnegegevens bevat, maakt u dan een campagnestructuur en campagnecomponenten vanuit Zoeken, Sociale Zaken en Handel met een van de volgende methoden die beschikbaar zijn voor het advertentietype:
 
       * (Google Ads, Microsoft Advertising, Yahoo! Advertenties en alleen Yandex-accounts) Een [geautomatiseerd proces voor het maken van dynamische advertenties en trefwoorden voor elk item in uw voorraad](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) op basis van een ad-netwerkspecifieke advertentiesjabloon die u maakt en de inhoud van voorraadgegevensbestanden die u uploadt naar een FTP-locatie.
 
       * (Baidu, Google Ads, Microsoft Advertising, Yahoo! Japan Ads en alleen Yandex-accounts) Uploaden [bulksheet-bestanden](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) die zoveel gegevens bevatten als u wilt voor een account en deze vervolgens naar de advertentienetwerken posten.
 
       * (Baidu, Google Ads, Microsoft Advertising, Yahoo! Japan Ads (en alleen Yandex-accounts) Voer gegevens voor afzonderlijke componenten rechtstreeks in de interface in. Voor de meeste campagne en advertentietypes, kunt u gegevens op campagnereniveau, en groepsniveau, en individuele sleutelwoord, plaatsing, en advertentieniveaus tot stand brengen.
-      Voor sommige campagne- en advertentietypen zijn echter unieke workflows vereist. Zie instructies voor het instellen [[!DNL Microsoft Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md), [[!DNL Google Ads] dynamische zoekadvertenties](/help/search-social-commerce/campaign-management/special-campaign-types/google-dynamic-search-ads.md), [[!DNL Google Ads] maximale prestatiecampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-performance-max-campaigns.md), en [[!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md).
+
+      Voor sommige campagne- en advertentietypen zijn echter unieke workflows vereist. Zie instructies voor het instellen [[!DNL Microsoft Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md), [[!DNL Google Ads] dynamische zoekopdrachten](/help/search-social-commerce/campaign-management/special-campaign-types/google-dynamic-search-ads.md), [[!DNL Google Ads] maximale prestatiecampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-performance-max-campaigns.md), en [[!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md).
 
    1. ([!DNL Naver] alleen accounts voor bijhouden) Uploaden [bulksheet-bestanden](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) met gegevens die de bestaande campagnes, groepen en trefwoorden in Zoeken, Sociale Zaken en Handel moeten repliceren zonder ze naar te posten [!DNL Naver].
 
+1. Stel het bijhouden van wijzigingen in voor alle advertenties waarvoor de Adobe Advertising conversies bijhoudt:
 
-1. Tracking instellen voor alle advertenties waarvoor in Adobe-reclame conversies worden bijgehouden:
-
-   1. (Adverteerders met de service Adobe Advertising Tracking) Indien nodig, [instellen, klik bijhouden](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) voor advertenties, en optioneel voor trefwoorden, plaatsingen en extensies door URL&#39;s voor het bijhouden van klikken op Zoeken, Sociale media en Handel te genereren en te uploaden.
+   1. (Adverteerders met de dienst voor het bijhouden van Adoben Advertising) Indien nodig, [instellen, klik bijhouden](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) voor advertenties, en optioneel voor trefwoorden, plaatsingen en extensies door URL&#39;s voor het bijhouden van klikken op Zoeken, Sociale media en Handel te genereren en te uploaden.
 
       Voor [!DNL Google Ads] maximale prestatiecampagnes, alle &#39;tracking&#39; instellen in de [instellingen voor bijhouden van campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).
 
@@ -58,13 +60,13 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de webpagina&#39;s van de adverteerder en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die de adverteerder afzonderlijk heeft verzameld.
 
-      Als u de service Adobe Advertising Tracking gebruikt, kunt u conversie-tags genereren [binnen Zoeken, Sociale &amp; Handel](/help/search-social-commerce/tools/conversion-tag-generate.md) of [gebruiken, Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud.html).
+      Als u de service voor het bijhouden van Adoben Advertising voor conversie gebruikt, kunt u conversietags genereren [binnen Zoeken, Sociale &amp; Handel](/help/search-social-commerce/tools/conversion-tag-generate.md) of [gebruiken, Adobe Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud.html).
 
    1. Valideer de gegevens die worden bijgehouden.
 
    Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over het instellen van tekstspatiëring.
 
-1. (Adverteerders met Adobe Analytics) [Reclame en analyses voor Adobe integreren](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) zodat zij gegevens kunnen uitwisselen.
+1. (Adverteerders met Adobe Analytics) [Adobe Advertising en analyse integreren](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) zodat zij gegevens kunnen uitwisselen.
 
 1. (Zoeken, sociale zaken en handel toestaan om biedingen en/of campagnebudgetten te optimaliseren; [ondersteunde typen campagne](/help/search-social-commerce/introduction/supported-inventory.md) alleen) [De campagne toewijzen aan een portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md).
 
@@ -88,4 +90,3 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 >* [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](monitor-performance-campaigns.md)
 >* [Google Ads-conversiegegevens in Zoeken, Sociale Zaken en Handel](google-conversion-data.md)
 >* [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
-

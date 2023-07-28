@@ -1,7 +1,9 @@
 ---
 title: Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen
 description: Leer hoe u een [!DNL Google Ads] klanten komen overeen met publiek uit een bestaande Adobe Campaign-e-maillijst.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 967580fc-52c3-42f5-8d60-18cb83bc714a
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 0%
@@ -31,6 +33,7 @@ Hiervoor hebt u toegang nodig tot uw [!DNL Campaign] -instantie en een XML-besta
       1. Voer de URL en het poortnummer in voor de [!DNL Adobe] SFTP-server en de mapnaam, gebruikersnaam en wachtwoord van de adverteerder.
 
       1. Klik op **[!UICONTROL Save]**.
+
    1. In [!DNL Campaign Client]Installeer het gegevenspakket met de vereiste workflow voor het verzenden van e-mailgegevens:
 
       1. Ga in de menubalk naar **[!UICONTROL Tools]> [!UICONTROL Advanced] >[!UICONTROL Import Package]**.
@@ -40,6 +43,7 @@ Hiervoor hebt u toegang nodig tot uw [!DNL Campaign] -instantie en een XML-besta
       1. Het bestand met het gegevenspakket zoeken (`AMO_Workflow.xml`) op het apparaat of netwerk en klik vervolgens op **[!UICONTROL Next]**.
 
       1. Klikken **[!UICONTROL Start]** en wacht tot de workflow is geïnstalleerd.
+
    1. Bewerk de geïnstalleerde workflow om desgewenst de filters voor de gegevensquery te bewerken en de nieuwe publieksnaam en de externe SFTP-account te identificeren:
 
       1. Ga naar **[!UICONTROL Administration]> [!UICONTROL Configuration] > [!UICONTROL Package management] >[!UICONTROL Installed packages]** en open het pakket.
@@ -51,34 +55,36 @@ Hiervoor hebt u toegang nodig tot uw [!DNL Campaign] -instantie en een XML-besta
          * Bewerk de filterexpressies.
 
          * Klik op **[!UICONTROL Finish]**.
+
       1. Geef het segment een naam:
 
          * Dubbelklik in de workflow op de activiteit **[!UICONTROL Data extraction (File)]**.
 
-         * Aan de **[!UICONTROL Data extraction (File)]** tabblad, in het dialoogvenster **[!UICONTROL File name]** veld, voer de segmentnaam in met de extensie &quot;`.added`&quot; (zoals PaidSubscribers.added).
+         * Aan de **[!UICONTROL Data extraction (File)]** tabblad, in de **[!UICONTROL File name]** veld, voer de segmentnaam in met de extensie &quot;`.added`&quot; (zoals PaidSubscribers.added).
 
-            De segmentnaam mag nog niet bestaan. De segmentnaam is hoofdlettergevoelig en moet bestaan uit ASCII-tekens, maar mag geen onderstrepingstekens bevatten (`_`).
+           De segmentnaam mag nog niet bestaan. De segmentnaam is hoofdlettergevoelig en moet bestaan uit ASCII-tekens, maar mag geen onderstrepingstekens bevatten (`_`).
 
-            Nochtans, als u het segment aan een specifiek wilt toevoegen [!DNL Google Ad] de rekening, dan voeg de segmentnaam met een onderstrepingsteken en toe [!UICONTROL User SE Account ID] (zoek-, sociale en handels-id voor de [!DNL Google Ads] account, niet de account-id van het netwerk):
+           Nochtans, als u het segment aan een specifiek wilt toevoegen [!DNL Google Ad] de rekening, dan voeg de segmentnaam met een onderstrepingsteken en toe [!UICONTROL User SE Account ID] (zoek-, sociale en handels-id voor de [!DNL Google Ads] account, niet de account-id van het netwerk):
 
-            `_<User SE Account ID>`
+           `_<User SE Account ID>`
 
-            Voorbeeld: Paid_Subscribers_1234.added
+           Voorbeeld: Paid_Subscribers_1234.added
 
-            >[!NOTE]
-            >
-            >Dit is een uitzondering op de regel die onderstrepingstekens in de bestandsnaam niet toestaat.
+           >[!NOTE]
+           >
+           >Dit is een uitzondering op de regel die onderstrepingstekens in de bestandsnaam niet toestaat.
 
-            Anders wordt het segment toegevoegd aan alle [!DNL Google Ads] accounts die door Search, Social &amp; Commerce worden gesynchroniseerd voor de adverteerder.
+           Anders wordt het segment toegevoegd aan alle [!DNL Google Ads] accounts die Search, Social &amp; Commerce synchroniseren voor de adverteerder.
 
          * De optie behouden voor **[!UICONTROL Generate an outbound transition]** geselecteerd.
 
          * Klik op **[!UICONTROL Ok]**.
+
       1. Geef de externe account op waarnaar de gegevens worden verzonden:
 
          * Dubbelklik in de workflow op de activiteit **[!UICONTROL File Transfer]**.
 
-         * Aan de **[!UICONTROL File Transfer]** tabblad, in het dialoogvenster **[!UICONTROL Remote server]** selecteert u de optie om **[!UICONTROL Use an external account]**.
+         * Aan de **[!UICONTROL File Transfer]** tabblad, in de **[!UICONTROL Remote server]** selecteert u de optie om **[!UICONTROL Use an external account]**.
 
          * In de **[!UICONTROL External account]** selecteert u het label voor de externe account die u hebt gemaakt in Stap 2.
 
@@ -86,13 +92,9 @@ Hiervoor hebt u toegang nodig tot uw [!DNL Campaign] -instantie en een XML-besta
 
          * (Optioneel) Op de **[!UICONTROL Schedule]** een ander schema voor de bestandsoverdracht op.
 
-            De workflow wordt standaard uitgevoerd om 00:00 (middernacht), zodat alle records worden verwerkt. Om latentie te minimaliseren, plant het werkschema om uiterlijk 18:00 in werking te stellen.
+           De workflow wordt standaard uitgevoerd om 00:00 (middernacht), zodat alle records worden verwerkt. Om latentie te minimaliseren, plant het werkschema om uiterlijk 18:00 in werking te stellen.
 
          * Klik op **[!UICONTROL Ok]**.
-
-
-
-
 
 Zoek, Sociale, &amp; Handel controleert de folder om de 30 minuten (om NN:30 en NN:59 in de tijdzone van de adverteerder) en beweegt om het even welke dossiers het aan een andere plaats vindt, en leidt dan automatisch tot een publiek van de gegevens en duwt het aan Google om 22:00 (10 p.m.). U kunt elke 30 minuten zoeken naar updates (toevoegingen en aftrekken) in de e-maillijst en het publiek bijwerken op [!DNL Google Ads] dienovereenkomstig om 22.00 uur per dag.
 
@@ -102,10 +104,9 @@ Zoek, Sociale, &amp; Handel controleert de folder om de 30 minuten (om NN:30 en 
 >
 >* Met Zoeken, Sociaal en Handel worden geen van de klantgegevens uit uw e-maillijsten opgeslagen die worden gebruikt om een [!DNL Google Ads] publiek.
 >
->* [!DNL Google Ads] Het kan even duren voordat updates voor een publiek worden verwerkt.
+>* [!DNL Google Ads] Het kan enige tijd duren voordat updates voor een publiek worden verwerkt.
 >
 >* Zie [[!DNL Google Ads] documentatie over de werking en de beperkingen van klantenovereenkomsten](https://support.google.com/displayvideo/answer/9539301).
-
 
 >[!MORELIKETHIS]
 >
@@ -113,4 +114,3 @@ Zoek, Sociale, &amp; Handel controleert de folder om de 30 minuten (om NN:30 en 
 >* [Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek](google-audience-from-adobe-audience.md)
 >* [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](audience-from-customer-data-list.md)
 >* [Dynamisch publiek voor opnieuw op de markt brengen beheren](audience-dynamic-remarketing-manage.md)
-

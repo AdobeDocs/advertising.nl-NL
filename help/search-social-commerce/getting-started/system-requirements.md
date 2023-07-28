@@ -1,7 +1,9 @@
 ---
 title: Systeemvereisten
 description: Meer informatie over software- en accountvereisten.
-source-git-commit: c7c1735f9459012ade5039e64e55d10343f8d0af
+exl-id: 9ff7d9ba-3f04-4552-b24f-6c8165cd89e1
+feature: Search Getting Started
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '174'
 ht-degree: 0%
@@ -26,7 +28,7 @@ U hebt de volgende software- en accountgegevens nodig.
 
 * (Als u geëxporteerde bestanden in de XLS-indeling wilt weergeven) [!DNL Microsoft Excel] aanbevolen
 
-   Als u een andere toepassing gebruikt dan [!DNL Microsoft Excel] om geëxporteerde XLS-bestanden weer te geven, hebben getallen, datums, tijden en valuta&#39;s mogelijk niet de juiste indeling.
+  Als u een andere toepassing gebruikt dan [!DNL Microsoft Excel] om geëxporteerde XLS-bestanden weer te geven, hebben getallen, datums, tijden en valuta&#39;s mogelijk niet de juiste indeling.
 
 ## Gebruikersnaam en wachtwoord
 

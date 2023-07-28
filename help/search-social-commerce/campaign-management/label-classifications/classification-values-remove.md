@@ -1,7 +1,9 @@
 ---
 title: Waarden voor labelclassificatie verwijderen uit accountcomponenten
 description: Leer hoe u koppelingen kunt verwijderen tussen classificatiewaarden van labels en accountcomponenten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0e7ef344-7f23-40bc-9841-dc0354ad7f07
+feature: Search Label Classifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '241'
 ht-degree: 0%
@@ -26,7 +28,7 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
       * Schakel het selectievakje naast elke rij in.
 
-         Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+        Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
       * Klik op de werkbalk boven de tabel met gegevens op ![Meer](/help/search-social-commerce/assets/more.png "Meer")en klik vervolgens op **[!UICONTROL Classification]**.
 
@@ -54,4 +56,3 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 >* [Classificatiewaarden toewijzen aan accountcomponenten met behulp van bulksbladen](classification-values-assign-bulksheets.md)
 >* [Classificatiewaarden label verwijderen](classification-values-delete.md)
 >* [Labelclassificaties verwijderen](classification-delete.md)
-

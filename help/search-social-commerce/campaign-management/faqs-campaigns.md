@@ -1,7 +1,9 @@
 ---
 title: Veelgestelde vragen over campagnes
 description: Zie antwoorden op vragen over campagnebeheer en de mening van campagnegegevens.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: b5975869-4bc3-461d-8cb7-eeefab157137
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '1472'
 ht-degree: 0%
@@ -70,7 +72,7 @@ Als u de vertoningsnamen van de transactieeigenschappen in Onderzoek, Sociale, &
 
 +++ (Google Ads-campagnes) Kan ik een gedeeld budget gebruiken voor campagnes in portfolio&#39;s?
 
-Voor de beste resultaten kunt u beter geen [!DNL Google Ads] campagnes voor een [!DNL Google Ads] gedeelde begroting als zij in geoptimaliseerde portefeuilles zijn die aan &quot; worden gevormd[!UICONTROL Auto adjust campaign budget limits].&quot; Als u dat doet, [!DNL Google Ads] Hiermee overschrijft u de voor de campagne geoptimaliseerde budgetten voor Zoeken, Sociale Zaken en Handel, wat kan leiden tot inefficiënties bij biedingen.
+Voor de beste resultaten kunt u het beste de opdracht Niet toevoegen [!DNL Google Ads] campagnes voor een [!DNL Google Ads] gedeelde begroting als zij in geoptimaliseerde portefeuilles zijn die aan &quot; worden gevormd[!UICONTROL Auto adjust campaign budget limits].&quot; Als u dat doet, [!DNL Google Ads] Hiermee overschrijft u de voor de campagne geoptimaliseerde budgetten voor Zoeken, Sociale Zaken en Handel, wat kan leiden tot inefficiënties bij biedingen.
 +++
 
 ++([!DNL Google Ads] campagnes) Kan ik mobiele en niet-mobiele gebruikers naar verschillende bestemmingspagina&#39;s sturen?
@@ -79,17 +81,17 @@ U kunt de [!DNL Google Ads] [!DNL ValueTrack] parameters `{ifmobile}` en `{ifnot
 
 * De mobiele aanduiding opnemen als hostserver met `{ifmobile:m}{ifnotmobile:www}`.
 
-   Bijvoorbeeld: `http://{ifmobile:m}{ifnotmobile:www}.example.com` Hiermee gaat u mobiele gebruikers naar m.example.com en niet-mobiele gebruikers naar www.example.com.
+  Bijvoorbeeld: `http://{ifmobile:m}{ifnotmobile:www}.example.com` gaat mobiele gebruikers naar m.example.com en niet-mobiele gebruikers naar www.example.com.
 
 * De mobiele aanduiding opnemen als het domein op het hoogste niveau dat `{ifmobile:mobi}{ifnotmobile:com}`.
 
-   Bijvoorbeeld: `http://www.example.{ifmobile:mobi}{ifnotmobile:com}` Hiermee gaat u mobiele gebruikers naar www.example.mobi en niet-mobiele gebruikers naar www.example.com.
+  Bijvoorbeeld: `http://www.example.{ifmobile:mobi}{ifnotmobile:com}` gaat mobiele gebruikers naar www.example.mobi en niet-mobiele gebruikers naar www.example.com.
 
 In beide gevallen bevatten de niet-gecodeerde basis-URL&#39;s met de URL&#39;s voor Zoeken, Sociaal en Handel `{}` tags en eventuele aanvullende parameters die aan de basis-URL zijn toegevoegd.
 
 >[!NOTE]
 >
->Gebruik geen volledige URL als waarde voor de parameters ifnotmobile en ifmobile; alleen het variabele gedeelte van de URL gebruiken (zoals &quot;m&quot; versus &quot;www&quot; of &quot;mobi&quot; versus &quot;com&quot;).
+>Gebruik geen volledige URL als waarde voor ifnotmobile- en ifmobile-parameters; gebruik alleen het variabele gedeelte van de URL (zoals &quot;m&quot; versus &quot;www&quot; of &quot;mobi&quot; versus &quot;com&quot;).
 
 +++
 
@@ -107,11 +109,11 @@ In de [!UICONTROL Campaigns] in beide [!UICONTROL Search] > [!UICONTROL Campaign
 
 ++([!DNL Google Ads] en [!DNL Microsoft Advertising]) Biedt via Search, Social &amp; Commerce ondersteuning voor parallelle tracering van advertenties in [!DNL Google Ads] of [!DNL Microsoft Advertising]?
 
-Met parallelle tracering worden klanten rechtstreeks van uw advertentie naar de uiteindelijke URL gestuurd en wordt de URL van uw trackingsjabloon (met klikmeting) op de achtergrond geladen. hierdoor wordt de landingspagina sneller geladen.
+Met parallelle tracering worden klanten rechtstreeks van uw advertentie naar de uiteindelijke URL gestuurd en wordt de URL van uw trackingsjabloon (met klikmeting) op de achtergrond geladen. Hierdoor wordt de landingspagina sneller geladen.
 
 Search, Social &amp; Commerce ondersteunt parallelle tracering voor zoek- en winkelcampagnes met behulp van de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads]). Een [op rekeningniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) of [campagneniveau](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (wordt &quot;[!DNL final URL suffix]&quot; in de advertentienetwerken), die aan het landen van pagina URLs wordt toegevoegd om te volgen klikt op kindadvertenties van browsers die parallel volgen steunen. Zie de [vereiste achtervoegselformaten voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [vereiste achtervoegselformaten voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
-Wanneer een gebruiker uw advertentie weergeeft in een browser die parallelle tracering niet ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar uw het volgen malplaatje URL, die klanten aan tussenliggende het volgen servers kan omleiden alvorens hen aan definitieve URL opnieuw te richten. Alle het volgen malplaatjes voor een advertentienetwerkrekening zouden de zelfde klik herkenningsteken parameter moeten omvatten die u in gebruikt [!UICONTROL Landing Page Suffix]. Zie de [sjabloonindelingen bijhouden voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en de [sjabloonindelingen bijhouden voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk sequentiële tracking in plaats daarvan: klanten worden eerst naar de URL van de trackingsjabloon verzonden, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze naar de uiteindelijke URL worden omgeleid. Alle het volgen malplaatjes voor een advertentienetwerkrekening zouden de zelfde klik herkenningsteken parameter moeten omvatten die u in gebruikt [!UICONTROL Landing Page Suffix]. Zie de [sjabloonindelingen bijhouden voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en de [sjabloonindelingen bijhouden voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
 +++Waarom worden URL&#39;s voor mijn advertenties bijgehouden met &quot;`&EV_HASH={<hash>}`?&quot;
@@ -130,16 +132,16 @@ Als u advertenties pauzeert, worden ze opnieuw geactiveerd als u dezelfde advert
 Wanneer u advertenties verwijdert en opnieuw verzendt, worden nieuwe advertenties gemaakt en moeten historische gegevens worden verzameld. Als u verwijderde advertenties niet verwacht opnieuw te verzenden, is het echter niet belangrijk historische gegevens te hebben.
 +++
 
-+++ (voer voor productinventarisatie) Als ik een advertentiesjabloon verwijder en vervolgens een nieuwe, identieke sjabloon maak, worden ontbrekende items in het volgende voederbestand gepauzeerd (wanneer de instellingen voor het voedingsbestand hiervoor zijn geconfigureerd)?
++++ (voer voor productinventarisatie) Als ik een advertentiesjabloon verwijder en vervolgens een nieuwe, identieke sjabloon maak, worden ontbrekende items in het volgende voederbestand gepauzeerd (wanneer de instellingen voor het voederbestand hiervoor zijn geconfigureerd)?
 
 Als het volgende voederdossier regelpunten mist en u niet eerder die lijnpunten van het nieuwe malplaatje via een vorig voederdossier hebt gepost, dan worden de ontbrekende lijnpunten niet erkend als &quot;ontbrekend,&quot;zodat worden zij niet gecreeerd. Om dit te vermijden, verspreidt u het vorige voederdossier door het nieuwe malplaatje en post de gegevens alvorens gegevens van een nieuw dossier te verspreiden en te posten.
 +++
 
 +++ (Product voorraad feeds) Kan ik de prijzen voor mijn producten bijwerken zonder dat dit van invloed is op de kwaliteitsscore van een advertentie?
 
-Voor [!DNL Google Ads] campagnes, ja: De [!DNL Google Ads] `{Param 1}` en `{Param 2}` Met variabelen kunt u dynamisch numerieke waarden in een advertentievariatie invoegen zonder de advertentie te verwijderen en opnieuw te maken, en dus zonder dat dit van invloed is op de kwaliteitsscore.
+Voor [!DNL Google Ads] campagnes, ja: de [!DNL Google Ads] `{Param 1}` en `{Param 2}` Met variabelen kunt u dynamisch numerieke waarden in een advertentievariatie invoegen zonder de advertentie te verwijderen en opnieuw te maken, en dus zonder dat dit van invloed is op de kwaliteitsscore.
 
-Als u een `{Param 1}` of `{Param 2}` variabele voor uw prijsgegevens, wijs de prijskolom in uw gegevensdossier aan die variabele in de aangewezen voedermalplaatjes toe, en neem dan de variabele in uw malplaatjes van de advertentievariatie op.
+Een `{Param 1}` of `{Param 2}` variabele voor uw prijsgegevens, wijs de prijskolom in uw gegevensdossier aan die variabele in de aangewezen voedermalplaatjes toe, en neem dan de variabele in uw malplaatjes van de advertentievariatie op.
 
 Als de kolom bijvoorbeeld Prijs heet, opent u de feed-sjabloon waarmee de advertenties worden gemaakt en klikt u in het invoerveld naast **[!UICONTROL Param 1]** en klik vervolgens op de knop **[!UICONTROL Price]** in de [!UICONTROL Feeds/Available Columns] lijst, die invoegt `[Price]` als de waarde voor [!UICONTROL Param 1]. Voeg vervolgens in de variatiesjabloon onder aan de voedersjabloon in `{param1:default text}`, waarbij &#39;standaardtekst&#39; tekst is die moet worden gebruikt als de parameterkolom in het feed-bestand leeg is voor een advertentierij.
 

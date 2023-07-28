@@ -1,7 +1,9 @@
 ---
 title: Informatie over campagnebeheer in Zoeken, Sociale Zaken en Handel
-description: Meer informatie over functies voor campagnebeheer in Zoeken, Sociaal en Handel.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+description: Meer informatie over functies voor campagnebeheer in Zoeken, Sociale media en Handel.
+exl-id: e6fca48d-1f6c-4d36-a10d-e1a5db859a37
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '806'
 ht-degree: 0%
@@ -22,7 +24,7 @@ Voor accounts die zijn gesynchroniseerd via de API van het advertentienetwerk, b
 
 ## Klik op bijhouden om de klikken aan conversies te koppelen
 
-Als u de service Adobe Advertising Tracking Service gebruikt, moet u code voor zoeken, sociale zaken en handel opnemen in het achtervoegsel van de bestemmingspagina, sjablonen voor het bijhouden van advertenties en de URL&#39;s voor de eindgebruiker/bestemming voor advertenties, trefwoorden en plaatsingen, sitelinks en productlijsten. Voor [ondersteunde advertentienetwerken en campagneretypen](/help/search-social-commerce/introduction/supported-inventory.md) waarvan de campagne-instellingen &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch zijn eigen omleiding en het volgen code toe wanneer u sparen het verslag, zodat te hoeven u niet het manueel toe te voegen. Anders moet u de code handmatig toevoegen aan de volgende sjablonen of uiteindelijke URL&#39;s.
+Als u de service voor het bijhouden van Adoben Advertising voor conversie gebruikt, moet u code voor het bijhouden van klikken op Zoeken, Sociaal zoeken en Handel opnemen in het achtervoegsel van de bestemmingspagina, sjablonen voor het bijhouden van wijzigingen en de URL&#39;s voor eindgebruik/bestemming voor advertenties, trefwoorden en plaatsingen, sitelinks en productlijsten. Voor [ondersteunde advertentienetwerken en campagneretypen](/help/search-social-commerce/introduction/supported-inventory.md) waarvan de campagne-instellingen &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch zijn eigen omleiding en het volgen code toe wanneer u sparen het verslag, zodat te hoeven u niet het manueel toe te voegen. Anders moet u de code handmatig toevoegen aan de volgende sjablonen of uiteindelijke URL&#39;s.
 
 Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over tekstspatiëring.
 
@@ -38,15 +40,15 @@ Met de weergaven voor campagnebeheer kunt u uw zoekaccounts controleren en beher
 
 * **[!UICONTROL Campaigns]** — De [!UICONTROL Campaigns] de meningen tonen gegevens van elke verbonden en netwerkrekening. U kunt kosten bekijken, klikken, indruk, en opbrengstgegevens over alle rekeningen van het advertentienetwerk en over individuele rekeningen, campagnes, en groepen, sleutelwoorden, advertenties, het winkelen productgroepen, plaatsingen, autodoelstellingen (dynamische onderzoeksdoelstellingen), publiek, en de bibliotheken van de toevoegingsuitbreiding en hun bijbehorende rekeningsentiteiten. Voor [ondersteunde campagneretypen op ondersteunde advertentienetwerken](/help/search-social-commerce/introduction/supported-inventory.md)kunt u gegevens voor afzonderlijke campagnes en campagnecomponenten rechtstreeks in de interface maken en bewerken. U kunt de gegevens in de meeste subweergaven optioneel exporteren naar een spreadsheetbestand.
 
-   >[!NOTE]
-   >
-   >Gegevens op advertentieniveau zijn niet beschikbaar voor [!DNL Google Ads] dynamic search ad (DSA), performance max, smart shopping en [!DNL YouTube] campagnes.
+  >[!NOTE]
+  >
+  >Gegevens op advertentieniveau zijn niet beschikbaar voor [!DNL Google Ads] dynamic search ad (DSA), performance max, smart shopping en [!DNL YouTube] campagnes.
 
-* **[!UICONTROL Products]** — De [!UICONTROL Products] weergaven geven gegevens voor elke [[!DNL Google] or [!DNL Microsoft] gesynchroniseerde zakelijke account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De standaardwaarde [!UICONTROL Accounts] een overzicht van alle gesynchroniseerde accounts; sommige gebruikerstypen kunnen nieuwe accounts toevoegen vanuit deze weergave. De [!UICONTROL Products] In een subweergave wordt elk product in de account weergegeven.
+* **[!UICONTROL Products]** — De [!UICONTROL Products] weergaven geven gegevens voor elke [[!DNL Google] or [!DNL Microsoft] gesynchroniseerde zakelijke account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De standaardwaarde [!UICONTROL Accounts] In subview worden alle gesynchroniseerde accounts weergegeven. In sommige gebruikerstypen kunnen vanuit deze weergave nieuwe accounts worden toegevoegd. De [!UICONTROL Products] In een subweergave wordt elk product in de account weergegeven.
 
 * **[!UICONTROL Advanced (ACM)]** — Van de [!DNL Advanced] ([!DNL AMC]Voor de weergave Geavanceerd Campaign Management) kunt u geautomatiseerde processen instellen om [dynamische advertenties en trefwoorden voor elk object in je voorraad](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) volgens een ad-netwerkspecifieke advertentiesjabloon die u maakt en de inhoud van [!DNL Google Merchant Center] accounts of voorraadgegevensbestanden die u uploadt naar een FTP-locatie. Subviews bevatten details over elke voedersjabloon voor de adverteerder en elke campagne, advertentiegroep, trefwoord en advertentie die is opgenomen in een feed die is doorgegeven via een voedersjabloon maar niet naar het advertentienetwerk is gepost.
 
-* **[!UICONTROL Bulksheets]** — Gebruik de [!UICONTROL Bulksheets] te maken weergave [bulksheet-bestanden](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) die zoveel gegevens bevatten als u wilt voor een account op een [ondersteund advertentienetwerk](/help/search-social-commerce/introduction/supported-inventory.md)en vervolgens naar het advertentienetwerk te posten.
+* **[!UICONTROL Bulksheets]** — Gebruik de [!UICONTROL Bulksheets] te maken weergave [bulksheet-bestanden](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) die zoveel gegevens bevatten als u wilt voor een account op een [ondersteund advertentienetwerk](/help/search-social-commerce/introduction/supported-inventory.md), en dan hen aan het advertentienetwerk te posten.
 
 * **[!UICONTROL Audiences]** — [De [!UICONTROL Audiences] views](/help/search-social-commerce/campaign-management/campaigns/audience-about.md) bevat alle [!DNL Google Ads] en [!DNL Microsoft Advertising] publiek dat wordt gegenereerd op basis van verschillende soorten gebruikerslijsten. U kunt [!DNL Google Ads] publiek van uw bestaande Adobe Experience Cloud-publiek en uw e-maillijsten van klanten. U kunt ook doelwitten en uitsluitingen voor uw publiek weergeven en beheren [!DNL Google Ads] en [!DNL Microsoft Advertising] advertenties.
 
@@ -57,4 +59,3 @@ Met de weergaven voor campagnebeheer kunt u uw zoekaccounts controleren en beher
 >* [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](campaign-implemention-overview.md)
 >* [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](monitor-performance-campaigns.md)
 >* [Google Ads-conversiegegevens in Zoeken, Sociale Zaken en Handel](google-conversion-data.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Gegevens filteren op datumbereik
 description: Leer hoe u het globale datumbereikfilter gebruikt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: e67e843a-1a73-4ab1-9ef7-c97afeb999f6
+feature: Search Common Tasks, Search Custom Data Views
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%
@@ -19,9 +21,8 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 >[!NOTE]
 >
 >* U kunt gegevens van de voorgaande 13 maanden weergeven, maar bestaande aangepaste weergaven kunnen gegevens van maximaal 180 dagen bevatten.
->* Ga naar de pagina [[!UICONTROL Reports] weergave](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en voert u een basisrapport uit.
+>* Als u eerdere gegevens wilt weergeven, gaat u naar de [[!UICONTROL Reports] weergave](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en voert u een basisrapport uit.
 >* U kunt ook een datumbereik opslaan voor een [standaardweergave of aangepaste weergave](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
-
 
 ## Globale datumfilter wijzigen in campagneweergaven
 
@@ -29,11 +30,11 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 
 1. In de **[!UICONTROL Date Range]** -veld, geeft u het bereik op:
 
-   * Voor een vooraf ingesteld bereik: Maak een keuze in de lijst met veelgebruikte tijdstappen, variërend van *[!UICONTROL Today]* tot *[!UICONTROL Last 180 Days]*. De standaardwaarde is *[!UICONTROL Yesterday]*.
+   * Voor een vooraf ingesteld bereik: selecteer een optie in de lijst met veelgebruikte tijdstappen, variërend van *[!UICONTROL Today]* tot *[!UICONTROL Last 180 Days]*. De standaardwaarde is *[!UICONTROL Yesterday]*.
 
    * Voor een specifiek bereik: Selecteren **[!UICONTROL Custom Date Range]** en geeft u vervolgens de begindatum en de einddatum op.
 
-      Voer datums in in de notatie DD-MM-JJJJ of DD-MM-JJJJ, of klik op ![Kalenderpictogram](/help/search-social-commerce/assets/calendar.png "Kalenderpictogram") naast elk veld om de kalender te openen en een datum te selecteren.
+     Voer datums in in de notatie DD-MM-JJJJ of DD-MM-JJJJ, of klik op ![Kalenderpictogram](/help/search-social-commerce/assets/calendar.png "Kalenderpictogram") naast elk veld om de kalender te openen en een datum te selecteren.
 
 1. (Optioneel) Vergelijk gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik:
 
@@ -45,7 +46,7 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 
    1. Kies hoe u het verschil tussen gegevens in de twee geselecteerde datumbereiken in &quot;\[ wilt uitdrukken _Gegevensveld_\] Verschil&quot; kolom:
 
-      * *[!UICONTROL Variance]* (de standaardinstelling): Hiermee wordt het verschil weergegeven als een numerieke waarde.
+      * *[!UICONTROL Variance]* (standaard): geeft het verschil weer als een numerieke waarde.
 
       * *[!UICONTROL % Change]:*  Hiermee geeft u het verschil weer als een percentage.
 

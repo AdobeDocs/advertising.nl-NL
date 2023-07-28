@@ -1,7 +1,9 @@
 ---
 title: Campagnegegevens beheren met behulp van bulksbladen
 description: Meer informatie over de functionaliteit van bulksheet die beschikbaar is in het advertentienetwerk, de werkstroom van het bulksblad en foutafhandeling.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 207cc08b-8650-4243-b9fd-1c920b81c1f9
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -26,11 +28,11 @@ Alle bulksbladen, bestanden met validatiefouten van de landingspagina en andere 
 
 * **Alleen downloaden en uploaden:** [!DNL Naver] rekeningen
 
-   U kunt uploaden [!DNL Naver] gegevens voor gebruik binnen Onderzoek, Sociale, &amp; Handel maar kan het niet aan het advertentienetwerk posten. U kunt ook de bestaande (niet-gesynchroniseerde) gegevens downloaden.
+  U kunt uploaden [!DNL Naver] gegevens voor gebruik binnen Onderzoek, Sociale, &amp; Handel maar kan het niet aan het advertentienetwerk posten. U kunt ook de bestaande (niet-gesynchroniseerde) gegevens downloaden.
 
 * **Alleen gegevens downloaden:**  [!DNL Pinterest], [!DNL Yahoo Native], en [!DNL Yahoo! Display Network] rekeningen
 
-   U kunt uw bestaande (niet-gesynchroniseerde) gegevens downloaden.
+  U kunt uw bestaande (niet-gesynchroniseerde) gegevens downloaden.
 
 ## Overzicht van het gebruik van bulksbladen
 
@@ -50,7 +52,7 @@ De standaardstappen voor het gebruik van bulksbladen voor gesynchroniseerde acco
 
    1. [Het bewerkte bestand handmatig uploaden](bulksheet-upload.md) om te zoeken, sociale zaken en handel, of [het bestand uploaden naar een opgegeven FTP-account](bulksheet-ftp-account.md) voor automatisch posten.
 
-1. (Voor bestanden die handmatig worden geüpload) [Bestand verzenden](bulksheet-post.md) naar het advertentienetwerk wanneer u het uploadt of later.
+1. (Voor bestanden die handmatig worden geüpload) [Het bestand verzenden](bulksheet-post.md) naar het advertentienetwerk wanneer u het uploadt of later.
 
 1. (Indien nodig) Download eventuele nieuwe foutbestanden, corrigeer de rijen en post het bestand opnieuw.
 
@@ -84,4 +86,3 @@ De informatie voor elk dossier omvat de huidige taakstatus en het percentage van
 >* [Upload een bulksheet of een gecorrigeerd foutbestand](bulksheet-upload.md)
 >* [Kolommen of gecorrigeerde foutbestanden plaatsen](bulksheet-post.md)
 >* [Een gegenereerd of geüpload bulksbladbestand exporteren](bulksheet-export.md)
-

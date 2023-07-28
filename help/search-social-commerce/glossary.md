@@ -1,7 +1,9 @@
 ---
 title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
+feature: Search Introduction
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '2025'
 ht-degree: 0%
@@ -36,9 +38,9 @@ ht-degree: 0%
 
 **URL voor klikken bijhouden:** Een het volgen malplaatje of een bestemmingsURL met ingebedde code om kliks op een sleutelwoord, en variatie, of plaatsing te volgen.
 
-**beperking:** (Adverteerders met portefeuilles; (alleen van toepassing op biedingseenheden in standaardportefeuilles) Een regel voor het bieden op een specifiek trefwoord of een specifieke advertentie. Hiermee worden eventuele limieten op portefeuilleniveau en de aanbevolen biedstrategie genegeerd.
+**beperking:** (Adverteerders met portefeuilles; alleen van toepassing op biedingseenheden in standaardportefeuilles) Een regel voor het bieden op een bepaald trefwoord of een specifieke advertentie. Hiermee worden eventuele limieten op portefeuilleniveau en de aanbevolen biedstrategie genegeerd.
 
-**conversie:** De voltooiing van een actie nadat een eindgebruiker een advertentie klikt, gewoonlijk gevangen als metrisch; voorbeelden hiervan zijn registraties of aankopen . Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
+**conversie:** De voltooiing van een actie nadat een eindgebruiker een advertentie klikt, gewoonlijk gevangen als metrisch; voorbeelden omvatten registraties of aankopen. Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
 
 **conversie bijhouden:** Bij conversietracering worden cookies gebruikt om a) de advertenties van een adverteerder op de advertentienetwerken bij te houden en b) de resulterende transacties op de website van de adverteerder.
 
@@ -46,7 +48,7 @@ ht-degree: 0%
 
 **kostenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en handel die het kostenvolume voorspelt, het bod dat vereist is om elke positie of plaatsing te winnen, en de CPC (search) of CPM (display) voor elke biedingseenheid met behulp van historische gegevens en wiskundige voorspellingstechnieken.
 
-**dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden dat in de afgelopen zeven dagen ten minste één indruk heeft gekregen, zodat de optimaliseringsmogelijkheid kostenmodellen kan bouwen. Niet alle biedeenheden hebben kostprijsmodellen; degenen die naar de dekking van het kostenmodel rekenen.
+**dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden dat in de afgelopen zeven dagen ten minste één indruk heeft gekregen, zodat de optimaliseringsmogelijkheid kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostenmodellen; de modellen die wel meetellen voor de dekking van het kostenmodel.
 
 **halfwaardetijd kostenmodel:** (Adverteerders met portefeuilles) Het aantal dagen vóór de huidige datum waarvoor de kostengegevens als recenter en derhalve relevanter voor kostenmodellen worden beschouwd.
 
@@ -116,7 +118,7 @@ ht-degree: 0%
 
 **verweesde transactie:** Een transactiegebeurtenis die niet aan een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
 
-**pixel:** Een transparante, één pixel bij één pixel ingesloten afbeelding op een webpagina voor traceringsdoeleinden. Adobe Voor conversietags voor advertenties wordt een HTML-afbeeldingspixel of JavaScript gebruikt om muisklikken en de resulterende transacties te volgen.
+**pixel:** Een transparante, één pixel bij één pixel ingesloten afbeelding op een webpagina voor traceringsdoeleinden. Voor het bijhouden van Adoben Advertising voor conversie-tags wordt een HTML-afbeeldingspixel of JavaScript gebruikt om klikbewerkingen en de resulterende transacties bij te houden.
 
 **plaatsing:** Een locatie op een weergavenetwerk waar uw advertenties kunnen worden weergegeven. Het kan een gehele website, een subset van een website of een advertentiepunt op een specifieke pagina zijn.
 
@@ -154,11 +156,11 @@ ht-degree: 0%
 
 **uitgavenstrategie:** (Advertisers met portfolio&#39;s) De geselecteerde strategie voor het optimaliseren van trefwoorden/advertenties voor een portfolio.
 
-**`s_kwcid`:** Een trackingcode waarmee Adobe Advertising gegevens over zoekcampagnes kan delen met Adobe Analytics.
+**`s_kwcid`:** Een volgcode waarmee Adobe Advertising gegevens over zoekcampagnes kan delen met Adobe Analytics.
 
 **URL bijhouden:** Een trackingsjabloon of een doel-URL met extra parameters die worden toegevoegd om informatie over klikken op de advertentie bij te houden. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
 
-**transactie:** Elke traceerbare gebeurtenis die online of offline plaatsvindt. Meerdere transactiegebeurtenissen kunnen samen worden bijgehouden als onderdeel van dezelfde transactie of conversie; zo kan bijvoorbeeld een online verzoek om informatie plus een resulterende bestelling per telefoon als onderdeel van een aankoop worden beschouwd . De termen &quot;transactie&quot; en &quot;conversie&quot; worden vaak door elkaar gebruikt. Een transactie wordt vertegenwoordigd door een transactie-id en er zijn een of meer eigenschappen aan gekoppeld.
+**transactie:** Elke traceerbare gebeurtenis die online of offline plaatsvindt. Meerdere transactiegebeurtenissen kunnen samen worden bijgehouden als onderdeel van dezelfde transactie of conversie. Een onlineverzoek om informatie plus een resulterende bestelling per telefoon kan bijvoorbeeld worden beschouwd als onderdeel van een aankoop. De termen &quot;transactie&quot; en &quot;conversie&quot; worden vaak door elkaar gebruikt. Een transactie wordt vertegenwoordigd door een transactie-id en er zijn een of meer eigenschappen aan gekoppeld.
 
 **transactie-id:** Een door de adverteerder opgegeven id die een transactie identificeert. Wanneer een transactie meerdere gebeurtenissen bevat, hebben deze allemaal dezelfde transactie-id.
 

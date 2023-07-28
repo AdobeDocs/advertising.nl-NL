@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL AdWords Conversion Report]"
+title: '[!UICONTROL AdWords Conversion Report]'
 description: Meer informatie over de [!UICONTROL AdWords Conversion Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 5c9252fd-b791-421b-a5d2-1f6279d38c45
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]rekeningen met [!DNL Google Ads] alleen optimalisatie voor conversie*
 
-De [!UICONTROL AdWords Conversion Report] omvat kosten, klik, en beeldgegevens; conversiegegevens per conversietype bijgehouden door de [!DNL Google Ads Conversion Optimizer]; en (facultatief) afgeleide metrische gegevens voor één of meerdere rekeningen, campagnes, en groepen, advertenties, of sleutelwoorden. Gegevens worden alleen weergegeven wanneer de [!DNL Google Ads Conversion Optimizer] is ingeschakeld in de biedinstellingen van de campagne (en dus optimaliseert Zoeken, Sociaal en Handel biedingen voor de campagne niet). Standaard bevatten de gegevens één rij voor elke conversie voor elk toepasselijk trefwoord voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan oplopend in orde door de naam van de ad groep en dan door sleutelwoord door gebrek. Het rapport bevat geen kosten-, klik- of afbeeldingsgegevens en ook geen conversiegegevens die worden bijgehouden door [!DNL Adobe].
+De [!UICONTROL AdWords Conversion Report] bevat kosten, klikken en afbeeldingsgegevens; conversiegegevens op basis van het conversietype dat door de [!DNL Google Ads Conversion Optimizer]en (optioneel) afgeleide metrische gegevens voor een of meer accounts, campagnes, groepen, advertenties of trefwoorden. Gegevens worden alleen weergegeven wanneer de [!DNL Google Ads Conversion Optimizer] is ingeschakeld in de biedinstellingen van de campagne (en dus optimaliseert Zoeken, Sociaal en Handel biedingen voor de campagne niet). Standaard bevatten de gegevens één rij voor elke conversie voor elk toepasselijk trefwoord voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan oplopend in orde door de naam van de ad groep en dan door sleutelwoord door gebrek. Het rapport bevat geen kosten-, klik- of afbeeldingsgegevens en ook geen conversiegegevens die worden bijgehouden door [!DNL Adobe].
 
 U kunt gegevens van de vorige twee maanden bekijken.
 
@@ -22,7 +24,7 @@ U kunt gegevens van de vorige twee maanden bekijken.
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Account Name]
 * [!UICONTROL Start Date]
@@ -48,7 +50,7 @@ Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-column
 * [!UICONTROL Google Converted Clicks]
 
 >[!MORELIKETHIS]
+>
 * [Speciale rapporten](specialty-report-about.md)
 * [Een speciaal rapport genereren](specialty-report-generate.md)
 * [Instellingen voor speciale rapporten](specialty-report-settings.md)
-

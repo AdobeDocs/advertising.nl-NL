@@ -1,7 +1,9 @@
 ---
 title: De status van trefwoorden en negatieve trefwoorden wijzigen
 description: Leer hoe u de status van trefwoorden en negatieve trefwoorden wijzigt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: c1562104-048e-486d-b20c-3c15f089324d
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '179'
 ht-degree: 0%
@@ -28,11 +30,10 @@ U kunt ook actieve of gepauzeerde zoektrefwoorden of negatieve trefwoorden verwi
 
    * (Alleen trefwoorden die kunnen worden doorgegeven) Als u de rijen wilt pauzeren, klikt u op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
 
-   * Als u de rijen wilt verwijderen, klikt u op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+   * Klik op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
 >* [Trefwoorden](keyword-about.md)
 >* [Biedeerbare trefwoorden beheren](keyword-manage.md)
 >* [Negatieve trefwoorden maken](keyword-negative-create.md)
-

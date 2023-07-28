@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL AdWords and Bing Audience Target Report]"
+title: '[!UICONTROL AdWords and Bing Audience Target Report]'
 description: Meer informatie over de [!UICONTROL AdWords and Bing Audience Target Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 02c12266-f11b-4478-a511-8ee464dbb061
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -21,10 +23,9 @@ U kunt gegevens weergeven voor maximaal het voorgaande jaar.
 >* [!DNL Google Ads] biedt niet de middelen om inkomstengegevens voor publiek in de markt te volgen.
 >* De gegevens voor dit rapport worden verzameld voor de vorige dag om 23.00 (23.00 uur) elke dag. Zo worden bijvoorbeeld om 23.00 uur op 18 juni gegevens voor 17 juni opgehaald. Als je het rapport uitvoert op 19 juni om 9.00 uur — voordat gegevens voor 18 juni worden verzameld — dan bevat het rapport gegevens tot 17 juni om 23.00 uur.
 
-
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Start Date]
 * [!UICONTROL End Date]
@@ -40,7 +41,7 @@ Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-column
 * [!UICONTROL Avg Position]
 
 >[!MORELIKETHIS]
+>
 * [Speciale rapporten](specialty-report-about.md)
 * [Een speciaal rapport genereren](specialty-report-generate.md)
 * [Instellingen voor speciale rapporten](specialty-report-settings.md)
-

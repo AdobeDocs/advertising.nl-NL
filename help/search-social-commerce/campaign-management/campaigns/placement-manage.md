@@ -1,7 +1,9 @@
 ---
 title: Beheren [!DNL Google Ads] plaatsing
 description: Meer informatie over het maken en beheren van plaatsingen voor [!DNL Google Ads] ad groepen.
-source-git-commit: a24b51405bef1e73ed57b1cb9d012bdfbda9cdec
+exl-id: 91fee1eb-d1d5-4a1b-b1a6-369b98269100
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -27,7 +29,7 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik vervolgens op **[!UICONTROL Continue]**.
 
-1. Configureer de [plaatsingsinstellingen](#placement-settings).
+1. Vorm [plaatsingsinstellingen](#placement-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -51,7 +53,7 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 
 1. Sla de gegevens op:
 
-   * (Enkele plaatsen) Klik **[!UICONTROL Post]**.
+   * (Eén plaatsing) Klik op **[!UICONTROL Post]**.
 
    * (Meerdere plaatsen) Klik op **[!UICONTROL Post Now]**.
 
@@ -61,7 +63,7 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 
 **[!UICONTROL Placements]:** Plaatst op het inhoudsnetwerk waarop uw advertentie kan verschijnen. Voer een geldige URL in, bijvoorbeeld www.example.com, example.com of www.example.com/shoes/kids. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in. De URL kan geen vraagteken bevatten (`?`). **Opmerking:** U kunt [websiteplaatsing uitsluiten](placement-negative-create.md) van de [!UICONTROL Placements] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
 
-**[!UICONTROL Status]:** De weergavestatus van de plaatsing: *Actief* (om biedingen mogelijk te maken; de standaardinstelling), *Gepauzeerd* (om biedingen uit te schakelen), of *Verwijderd* (om de plaatsing te schrappen; alleen bestaande stages).
+**[!UICONTROL Status]:** De weergavestatus van de plaatsing: *Actief* (om biedingen mogelijk te maken; standaard), *Gepauzeerd* (om biedingen uit te schakelen), of *Verwijderd* (om de plaatsing te verwijderen; alleen bestaande plaatsingen).
 
 ### [!UICONTROL Bids]
 

@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste metrische waarde verwijderen
 description: Leer hoe u aangepaste metriek verwijdert. Deze worden berekend op basis van standaardmeetwaarden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 531da1f7-6e20-4124-9e8c-e1816929c4d7
+feature: Search Common Tasks, Search Custom Metrics
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -22,7 +24,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 1. Plaats de cursor op de kolomnaam. Klik naast de kolomnaam op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL OK]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL OK]**.
 
 ## Een aangepaste metrische waarde verwijderen uit een rapport- of rapportsjabloonformulier
 
@@ -30,7 +32,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 1. Klik op de kolomnaam in de kolom links of rechts en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 ## Een aangepaste metrische waarde verwijderen uit het dialoogvenster [!UICONTROL Portfolios] views
 
@@ -40,7 +42,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 1. Klik op de kolomnaam in het dialoogvenster [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >
@@ -48,4 +50,3 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 >* [Een aangepaste metrische waarde maken](custom-metric-create.md)
 >* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
 >* [Aangepaste metrische instellingen](custom-metric-settings.md)
-

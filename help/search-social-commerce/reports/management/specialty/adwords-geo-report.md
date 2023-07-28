@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL AdWords Geo Report]"
+title: '[!UICONTROL AdWords Geo Report]'
 description: Meer informatie over de [!UICONTROL AdWords Geo Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0597fdff-f256-4ca7-b208-1c28c5631b3a
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 0%
@@ -21,10 +23,9 @@ U kunt gegevens van de vorige twee maanden bekijken.
 >* De totalen voor dit verslag kunnen afwijken van de totalen voor dezelfde campagnes en periode in de [!UICONTROL Geo Distribution Report] (die door Search, Social &amp; Commerce worden gecompileerd) vanwege verschillende leveranciers en methoden voor het bepalen van geografische locaties.
 >* De gegevens voor dit rapport worden verzameld voor de vorige dag om 23.00 (23.00 uur) elke dag. Zo worden bijvoorbeeld om 23.00 uur op 18 juni gegevens voor 17 juni opgehaald. Als je het rapport uitvoert op 19 juni om 9.00 uur — voordat gegevens voor 18 juni worden verzameld — dan bevat het rapport gegevens tot 17 juni om 23.00 uur.
 
-
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Account Name]
 * [!UICONTROL Start Date]
@@ -42,7 +43,7 @@ Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-column
 * [!UICONTROL CPC]
 
 >[!MORELIKETHIS]
+>
 * [Speciale rapporten](specialty-report-about.md)
 * [Een speciaal rapport genereren](specialty-report-generate.md)
 * [Instellingen voor speciale rapporten](specialty-report-settings.md)
-

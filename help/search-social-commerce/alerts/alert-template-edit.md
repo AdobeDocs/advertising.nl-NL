@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon bewerken
 description: Leer hoe u een sjabloon voor het genereren van aangepaste waarschuwingen kunt bewerken.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 14051d02-108c-4b0e-8a52-9ae18a95fe2e
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -34,4 +36,3 @@ ht-degree: 0%
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

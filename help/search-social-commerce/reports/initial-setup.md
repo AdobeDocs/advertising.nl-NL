@@ -1,7 +1,9 @@
 ---
 title: De eerste instellingstaken voor rapporten
 description: Leer hoe u metriek beschikbaar maakt in rapporten en hoe u rapporten automatiseert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0f55aae9-6898-4967-a377-190a13dff6fd
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '331'
 ht-degree: 0%
@@ -14,9 +16,9 @@ Nieuwe gebruikers moeten de volgende initiële instellingstaken uitvoeren:
 
 * Maak de transactieeigenschappen die Adobe Advertising voor een adverteerder volgt [beschikbaar voor rapporten en andere weergaven](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)en optioneel [naam van een willekeurige eigenschapnaam wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) die worden weergegeven in kolomkoppen voor leesbaarheid.
 
-   De eigenschappen van transacties zijn niet beschikbaar voor rapporten tenzij u specifiek hen ter beschikking stelt.
+  De eigenschappen van transacties zijn niet beschikbaar voor rapporten tenzij u specifiek hen ter beschikking stelt.
 
-   Als u later begint een nieuw transactiebezit te volgen, dan zult u deze taak moeten herhalen.
+  Als u later begint een nieuw transactiebezit te volgen, dan zult u deze taak moeten herhalen.
 
 * (Optioneel) Automatisch rapporten genereren:
 
@@ -28,6 +30,5 @@ Nieuwe gebruikers moeten de volgende initiële instellingstaken uitvoeren:
 
 >[!MORELIKETHIS]
 >
->* [Over rapporten](report-about.md)
+>* [Informatie over rapporten](report-about.md)
 >* [Voor rapporten gebruikte gegevens](data-used-for-reports.md)
-

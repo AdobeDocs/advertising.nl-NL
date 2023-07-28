@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Channel Assist Report]"
+title: '[!UICONTROL Channel Assist Report]'
 description: Meer informatie over de [!UICONTROL Channel Assist Report].
-source-git-commit: e2df0116f912ca9cbf3d140dec4da57536b929bd
+exl-id: 49616327-72e9-49c6-90b9-91c7486e8417
+feature: Search Reports, Search Assist Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '681'
 ht-degree: 0%
@@ -10,9 +12,9 @@ ht-degree: 0%
 
 # De [!UICONTROL Channel Assist Report]
 
-*Adverteerders met Search, Social &amp; Commerce klikken op bijhouden en de conversie volgen van Adobe Advertising, Adobe Analytics (met een [!DNL Analytics] integratie), of verstrekt in voer gebruikend een teken (`ef_id`alleen )*
+*Adverteerders met Zoeken, Sociale Zaken &amp; Handel klikken het volgen en met omzetting het volgen van van Adobe Advertising, Adobe Analytics (met [!DNL Analytics] integratie), of verstrekt in voer gebruikend een teken (`ef_id`alleen )*
 
-De [!UICONTROL Channel Assist Report] aangeven hoe verschillende marketingkanalen (zoeken of sociaal zijn via Zoeken, Sociale Zaken en Handel; of weergave of video van advertentie-DSP) hebben geholpen bij het conversieproces. Het rapport toont hoe elk patroon van gebeurtenistypen dat tot één of meerdere omzettingen heeft geleid aan uw algemene omzettingen heeft bijgedragen. U ziet bijvoorbeeld hoeveel conversies er hebben plaatsgevonden wanneer gebruikers eerst een weergave en een indruk zagen, vervolgens op een zoekadvertentie hebben geklikt en vervolgens een bestelling hebben geplaatst. U kunt ook zien hoeveel conversies hebben plaatsgevonden nadat gebruikers interactie hadden gehad met meer dan 10 advertenties. Gebeurtenistypen zijn zoekklikken, weergave-impressies en -klikken, video-impressies en -kliks, en andere impressies en andere kliks. <!-- [DSP metrics may show up as "Other Path Length (<length>)" or empty; we're supposed to fill in more values for DSP at some point.] -->
+De [!UICONTROL Channel Assist Report] aangeven hoe verschillende marketingkanalen (zoeken of sociale informatie van Zoeken, Sociale media en Handel, of weergave of video van DSP) het conversieproces hebben ondersteund. Het rapport toont hoe elk patroon van gebeurtenistypen dat tot één of meerdere omzettingen heeft geleid aan uw algemene omzettingen heeft bijgedragen. U kunt bijvoorbeeld zien hoeveel conversies hebben plaatsgevonden wanneer gebruikers eerst een weergave en een indruk zagen, vervolgens op een zoekadvertentie hebben geklikt en vervolgens een bestelling hebben geplaatst. U kunt ook zien hoeveel conversies er zijn opgetreden nadat gebruikers met meer dan 10 advertenties hebben gewerkt. Gebeurtenistypen zijn zoekklikken, weergave-impressies en -klikken, video-impressies en -kliks, en andere impressies en andere kliks. <!-- [DSP metrics may show up as "Other Path Length (<length>)" or empty; we're supposed to fill in more values for DSP at some point.] -->
 
 De rapportresultaten omvatten geaggregeerde gegevens voor elk patroon van gebeurtenistypen in het conversiepad — tot aan de N vroegste gebeurtenistypen — die binnen de adverteerder zijn opgetreden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). Als u bijvoorbeeld een padgrootte van vijf (5) selecteert, bevat het rapport conversiepaden die maximaal de vijf vroegste gebeurtenissen bevatten, met één rij voor elk bijgehouden patroon van gebeurtenistypen (zoals &quot;zoekklik&quot; en &quot;weergaveindruk&quot;). In elke rij wordt één gebeurtenispatroon weergegeven, inclusief de eerste gebeurtenis in het pad en de laatste gebeurtenis die tot conversies heeft geleid (zelfs als de laatste gebeurtenis zich buiten de opgegeven padgrootte bevindt). Standaard staan de rijen in oplopende volgorde met het aantal gebeurtenissen in het pad.
 
@@ -33,7 +35,7 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | Aangepast | De waarde voor een aangepaste metrische waarde die u hebt gemaakt en die wordt berekend op basis van bestaande metriek. |
 | \[Advertiser-specifieke transactieeigenschappen\] | Aangepast | Het aantal omzettingen voor een gespecificeerde transactiebezit of metrisch van de plaatsovereenkomst. |
 | [!UICONTROL % of Total] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportinstellingen, maar automatisch opgenomen in de rapportuitvoer voor elke transactie-eigenschap inbegrepen) Het percentage van uw totale conversies over portfolio&#39;s die zijn toegewezen aan het gebeurtenispatroon. |
-| [!UICONTROL 6th Event] tot [!UICONTROL 30th Event] | Aangepast | De zesde tot en met de dertigste gebeurtenistypen in het conversiepad die binnen de adverteerders zijn opgetreden [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
+| [!UICONTROL 6th Event] tot [!UICONTROL 30th Event] | Aangepast | De zesde tot en met de dertigste gebeurtenistypen in het conversiepad die binnen de adverteerders [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL Avg. Conv. Latency (First Channel To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportinstellingen maar automatisch opgenomen in de rapportuitvoer voor elke transactie-eigenschap inbegrepen) De gemiddelde vertraging in dagen vanaf de eerste gebeurtenis tot een conversie. |
 | [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportinstellingen maar automatisch opgenomen in de rapportuitvoer) De gemiddelde vertraging in dagen vanaf de laatste gebeurtenis tot een conversie. |
 | [!UICONTROL Path Frequency] | Aangepast | Het aantal keren dat het pad voor deze rij is opgetreden vóór de conversie. |
@@ -46,4 +48,4 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 >* [De [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
 >* [De [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
 >* [Rapportinstellingen voor assistentie](assist-report-settings.md)
->* [Een rapport voor Help genereren](assist-report-generate.md)
+>* [Een rapport voor assistentie genereren](assist-report-generate.md)

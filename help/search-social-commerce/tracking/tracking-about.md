@@ -1,7 +1,9 @@
 ---
 title: Over het volgen voor Zoeken, Sociale Zaken en Handel
 description: Meer informatie over opties voor Zoeken, Sociale Zaken en Handel.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0a26f67c-8b3b-4fa1-ac24-a8461624cfc5
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '767'
 ht-degree: 0%
@@ -20,15 +22,15 @@ Als u campagnes wilt volgen op advertentienetwerken waarmee Onderzoek, Sociale, 
 
 ### Labels voor bijhouden van klikken
 
-Uw implementatieteam voor Zoeken, Sociale Zaken en Handel stelt kliktracking in door de tracingsjablonen en doel-URL&#39;s voor advertenties, trefwoorden, plaatsingen, productgroepen en sitelink-extensies bij te werken in uw gesynchroniseerde advertentiecampagnes, zodat deze een unieke id-tekenreeks voor bijhouden en een Adobe Advertising-omleiding bevatten. Ze voegen ook het bijhouden van de achtervoegsels voor de landpagina (laatste URL-achtervoegsels) toe aan uw [!DNL Google Ads] en [!DNL Microsoft Advertising] accounts en campagnes.
+Uw implementatieteam voor Zoeken, Sociale Zaken en Handel stelt klikvolgen in door de volgende sjablonen en doel-URL&#39;s voor advertenties, trefwoorden, plaatsingen, productgroepen en sitelink-extensies bij te werken in uw gesynchroniseerde advertentiecampagnes, zodat deze een unieke id-tekenreeks voor het bijhouden en een omleiding van de Adobe Advertising bevatten. Ze voegen ook het bijhouden van de achtervoegsels voor de landpagina (laatste URL-achtervoegsels) toe aan uw [!DNL Google Ads] en [!DNL Microsoft Advertising] accounts en campagnes.
 
-Met behulp van de volgende parameters kunnen Adobe-advertenties klikken bijhouden op een afzonderlijk trefwoordniveau (zoekcampagnes) of variatieniveau (zoekcampagnes met inhoud of doellocatie, weergavecampagnes en sociale campagnes). Telkens wanneer een gebruiker een weergave/inhoud bekijkt en of op een van uw advertenties klikt, verzendt het advertentienetwerk de gebeurtenis naar de Adobe Advertising pixelservers met behulp van een kliktrackingtag die aan het trefwoord of de advertentie is gekoppeld. Voor klikken:
+Met de volgende parameters kan de Adobe Advertising klikken bijhouden op een afzonderlijk trefwoordniveau (zoekcampagnes) of op variatieniveau (zoekcampagnes met inhoud of doellocatie, weergavecampagnes en sociale campagnes). Telkens wanneer een gebruiker een weergave/inhoud bekijkt en of op een van uw advertenties klikt, verzendt het advertentienetwerk de gebeurtenis naar de pixelservers van de Adobe Advertising met behulp van een kliktrackingtag die aan het trefwoord of de advertentie is gekoppeld. Voor klikken:
 
-* Voor advertenties in Google Ads en Microsoft op browsers die parallelle tracering ondersteunen, stuurt het advertentienetwerk de klik eerst naar uw website en vervolgens naar de Adobe Advertising-pixelservers, die vervolgens een cookie op de computer van de gebruiker plaatsen, als er nog geen cookie is.
+* Voor advertenties van Google Ads en Microsoft op browsers die parallelle tracering steunen, verzendt het advertentienetwerk de klik eerst naar uw website en dan naar de Adobe Advertising pixelservers, die dan een koekje op de computer van de gebruiker plaatsen, als men niet reeds bestaat.
 
-* In alle andere gevallen verzendt het advertentienetwerk de klik rechtstreeks naar de Adobe Advertising pixelservers. De pixelserver plaatst een cookie op de computer van de gebruiker (als deze nog niet bestaat) en leidt de gebruiker vervolgens om naar de relevante URL op uw website. De algemene ervaring voor de eindgebruiker is hetzelfde als zonder omleiding.
+* In alle andere gevallen verzendt het advertentienetwerk de klik rechtstreeks naar de pixelservers van de Adobe Advertising. De pixelserver plaatst een cookie op de computer van de gebruiker (als deze nog niet bestaat) en leidt de gebruiker vervolgens om naar de relevante URL op uw website. De algemene ervaring voor de eindgebruiker is hetzelfde als zonder omleiding.
 
-Het cookie wordt ingesteld in het dialoogvenster [!DNL Adobe] domain (`everesttech.net`) als een eersteklas cookie. Na een omleiding bevindt de gebruiker zich in het domein van de adverteerder en wordt het cookie vervolgens behandeld als een cookie van een derde. Raadpleeg voor meer informatie over Adobe-advertentiecookies &quot;[Adobe Reclamecookies](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html).&quot;
+Het cookie wordt ingesteld in het dialoogvenster [!DNL Adobe] domain (`everesttech.net`) als een eersteklas cookie. Na een omleiding bevindt de gebruiker zich in het domein van de adverteerder en wordt het cookie vervolgens behandeld als een cookie van een derde. Voor meer informatie over Adobe Advertising koekjes, zie &quot;[Cookies Adoben Advertising](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html).&quot;
 
 ## Conversiegegevens
 
@@ -40,8 +42,8 @@ De adverteerder speelt een rol bij het leveren van de conversiegegevens voor all
 
 U kunt [conversietags van verschillende leveranciers](/help/search-social-commerce/tracking/conversion-tracking-about.md).
 
-Wanneer u een conversietag voor Adobe-reclame gebruikt en een gebruiker een geslaagde transactie voltooit en op een pagina met succesmeldingen landt, controleert de Adobe Advertising pixelserver of het cookie op de computer van de gebruiker aanwezig is, die was ingesteld op het moment dat de klik werd omgeleid. Wanneer het een koekje vindt, wordt de informatie over de transactiegebeurtenis overgegaan gebruikend de ef_transid parameter, en de transactie wordt erkend als omzetting en aan de voorafgaande en klik of vertoningsindruk gecrediteerd.
+Wanneer u een conversietag van de Adobe Advertising gebruikt en een gebruiker een succesvolle transactie voltooit en op een &quot;succes&quot;pagina landt, controleert de de pixelserver van de Adobe Advertising op het bestaan van het koekje op de computer van de gebruiker, die op het tijdstip van de klik redirect werd geplaatst. Wanneer het een koekje vindt, wordt de informatie over de transactiegebeurtenis overgegaan gebruikend de ef_transid parameter, en de transactie wordt erkend als omzetting en aan de voorafgaande en klik of vertoningsindruk gecrediteerd.
 
-Als de gebruiker op meerdere van uw advertenties heeft geklikt, krijgt de Adobe-advertentie een creditering van de transactie met de uiteindelijke advertentie of klikt (voor weergave- of videocampagnes) de uiteindelijke advertentie, tenzij u anders opgeeft. Uw [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen nadat een betaalde klik of een vertoning/video indruk (respectievelijk) voorkomt waarin de gebeurtenis aan een omzetting kan worden toegeschreven.
+Als de gebruiker op meer dan een advertentie heeft geklikt, geeft de Adobe Advertising de transactie door aan de eindgebruiker en klikt (voor weergave- of videocampagnes) de laatste advertentie, tenzij u een andere advertentie opgeeft. Uw [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen nadat een betaalde klik of een vertoning/video indruk (respectievelijk) voorkomt waarin de gebeurtenis aan een omzetting kan worden toegeschreven.
 
-Het Adobe Advertising Implementation-team werkt samen met de adverteerder om de indeling van de conversietags te bepalen die de adverteerder moet implementeren, de webpagina&#39;s te identificeren waarop elke conversietag moet worden ingevoegd en vervolgens de conversietags te leveren die moeten worden geïmplementeerd.
+Het Adobe Advertising-implementatieteam werkt samen met de adverteerder om de indeling van de conversietags te bepalen die de adverteerder moet implementeren, de webpagina&#39;s te identificeren waarop elke conversietag moet worden ingevoegd en vervolgens de conversietags te leveren die moeten worden geïmplementeerd.

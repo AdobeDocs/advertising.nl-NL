@@ -1,7 +1,9 @@
 ---
 title: Info [!DNL Google Ads] callout-extensies
 description: Meer informatie over [!DNL Google Ads] callout-extensies in Search, Social & Commerce.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 3d0d864b-35ea-48aa-a812-bba96359eb29
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -32,4 +34,3 @@ In [!DNL Google Ads]kunt u kosten zien en op gegevens klikken op de knop [!UICON
 >
 >* [Beheren [!DNL Google Ads] callout-extensies](callout-extension-manage.md)
 >* [Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen](callout-extension-associate.md)
-

@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Yandex] campagne-instellingen"
+title: '[!DNL Yandex] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Yandex] campagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 33e73b90-7a37-4be7-b96d-02ef8bfdb79e
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -16,7 +18,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Search Network Only]:* Hiermee geeft u tekstadvertenties weer op het zoeknetwerk. U moet trefwoorden opgeven voor elke advertentiegroep.
 
-* *[!UICONTROL Search and Display Network]:* Hiermee geeft u tekstadvertenties weer op het zoeknetwerk en de [!DNL Yandex Advertising Network]. Voor zoekopdrachten moet u zoektrefwoorden opgeven voor elke advertentiegroep. voor weergaveadvertenties moet u trefwoorden opgeven voor de websites waarop u voor elke advertentiegroep adverteert.
+* *[!UICONTROL Search and Display Network]:* Hiermee geeft u tekstadvertenties weer op het zoeknetwerk en de [!DNL Yandex Advertising Network]. Voor zoekadvertenties moet u zoektrefwoorden opgeven voor elke advertentiegroep. Voor weergaveadvertenties moet u voor elke advertentiegroep trefwoorden opgeven voor de websites waarop u wilt adverteren.
 
 * *[!UICONTROL Display Network Only]:* Hiermee worden tekstadvertenties weergegeven op de [!DNL Yandex Advertising Network]. Voor elke advertentiegroep moet u trefwoorden opgeven voor de websites waarop u wilt adverteren.
 
@@ -28,7 +30,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardinstelling voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
 
 ## [!UICONTROL Budget Options]
 
@@ -77,4 +79,3 @@ ht-degree: 0%
 >[!MORELIKETHIS]
 >
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-

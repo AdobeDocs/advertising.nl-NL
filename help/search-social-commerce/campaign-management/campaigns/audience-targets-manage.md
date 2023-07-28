@@ -1,14 +1,16 @@
 ---
 title: Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen
 description: Leer hoe te om publieksdoelstellingen voor uw te vormen en te beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0016a69c-7642-4060-8125-947ffef6fb03
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '761'
 ht-degree: 0%
 
 ---
 
-# De doelgroepen voor uw publiek beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen
+# De doelgroepen voor uw publiek beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad group
 
 *[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen*
 
@@ -40,12 +42,11 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
       1. (Optioneel) Klik op de naam van een campagne als u de onderliggende en onderliggende campagne wilt uitvouwen.
 
-      1. (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekstreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **[!UICONTROL Enter]** toets.
+      1. (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **[!UICONTROL Enter]** toets.
 
       1. Geef elk doel voor de campagne en groep voor het opgegeven advertentienetwerk op door op de lege cirkel naast de campagne te klikken, zodat een blauw vinkje (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")) wordt weergegeven.
 
       U kunt geen doel voor zowel een oudercampagne als een kind vormen ad groep (die automatisch het doel gebruikt).
-
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -59,8 +60,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
    * *0%:* Biedingen voor advertenties voor dit publiek niet aanpassen.
 
-   * /[*Overige waarden van -90% tot 900%*/]: Het bod voor advertenties voor dit publiek verhogen of verlagen. Als het bod op het trefwoordniveau bijvoorbeeld 1 USD is en de biedaanpassing voor een bepaald doelpubliek 50%, wordt het bod voor dat publiek verhoogd tot 1,50 USD.
-
+   * /[*Overige waarden van -90% tot 900%*/]: Als u het bod voor advertenties voor dit publiek wilt verhogen of verlagen. Als het bod op het trefwoordniveau bijvoorbeeld 1 USD is en de biedaanpassing voor een bepaald doelpubliek 50%, wordt het bod voor dat publiek verhoogd tot 1,50 USD.
 
 ## De biedingsoptie voor doelgroepen bewerken
 
@@ -92,14 +92,13 @@ U kunt de biedingsbepaling en de status van publieksdoelen wijzigen voor alle so
 
          * *0%:* Biedingen voor advertenties voor dit publiek niet aanpassen.
 
-         * /[*Overige waarden van -90% tot 900%*/]: Het bod voor advertenties voor dit publiek verhogen of verlagen. Als het bod op het trefwoordniveau bijvoorbeeld 1 USD is en de biedaanpassing voor een bepaald doelpubliek 50%, wordt het bod voor dat publiek verhoogd tot 1,50 USD.
+         * /[*Overige waarden van -90% tot 900%*/]: Als u het bod voor advertenties voor dit publiek wilt verhogen of verlagen. Als het bod op het trefwoordniveau bijvoorbeeld 1 USD is en de biedaanpassing voor een bepaald doelpubliek 50%, wordt het bod voor dat publiek verhoogd tot 1,50 USD.
 
          Voor meerdere doelen worden de wijzigingen toegepast op alle geselecteerde doelen.
 
       1. (Optioneel) Klik op **[!UICONTROL Additional Details]** en voert u desgewenst een projectnaam en beschrijving in.
 
       1. Klik op **[!UICONTROL Post]**.
-
 
 ## De status van doelgroepen wijzigen
 
@@ -117,14 +116,13 @@ U kunt ook een actief of gepauzeerd doel voor het zoekpubliek verwijderen.
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Als u de rijen wilt activeren, klikt u op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
+   * Klik op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
 
-   * Als u de rijen wilt pauzeren, klikt u op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
+   * Klik op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
 
-   * Als u de rijen wilt verwijderen, klikt u op ![Meer handelingen](/help/search-social-commerce/assets/more.png "Meer handelingen") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+   * Klik op ![Meer handelingen](/help/search-social-commerce/assets/more.png "Meer handelingen") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
 >* [Informatie over publiek](audience-about.md)
 >* [De uitsluiting van het publiek voor campagnes en ad-groepen beheren](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
-

@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Transaction Report]"
+title: '[!UICONTROL Transaction Report]'
 description: Meer informatie over de [!UICONTROL Transaction Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 879c6dc0-6667-4e63-8403-bc2f2ee5ba3c
+feature: Search Reports, Search Advanced Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '262'
 ht-degree: 0%
@@ -21,10 +23,9 @@ U kunt gegevens van de afgelopen 45 dagen bekijken.
 >* Als meerdere biedeenheden met verschillende typen overeenkomsten dezelfde transactie-id hebben, worden de inkomsten voor de id voor bijhouden opgesplitst volgens het aantal klikken op de opgegeven klikdatum.
 >* Als het rapport gegevens van advertentiegroepen bevat in zoekcampagnes waarvoor inhoud is ingeschakeld of in weergave- of sociale campagnes (die geen trefwoorden bevatten), wordt het dialoogvenster [!UICONTROL Keyword] in het ingevulde rapport staan de toepasselijke namen van advertentiegroepen, zoals &quot;(inhoud adgroup) Uw naam van advertentiegroep.&quot;
 
-
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Keyword]
 * [!UICONTROL Portfolio]
@@ -42,4 +43,3 @@ Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-adv
 >* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
 >* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
-

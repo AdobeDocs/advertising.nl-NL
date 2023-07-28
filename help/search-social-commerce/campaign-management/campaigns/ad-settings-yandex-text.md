@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Yandex] tekst en instellingen"
+title: '[!DNL Yandex] tekst en instellingen'
 description: Verwijs naar de instellingen voor [!DNL Yandex] tekstadvertenties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 762eca31-58f7-4a4e-bf6a-1c2132c6529f
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -36,10 +38,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De URL kan ook de [`{param1}` en `{param2}`](https://yandex.com/support/direct/statistics/url-tags.html) substitutievariabelen. Wanneer u ze gebruikt, worden de variabelen vervangen door de `{param1}` en `{param2}` waarden die zijn gedefinieerd voor het trefwoord dat wordt gebruikt om de advertentie weer te geven.
+>De URL kan ook de [`{param1}` en `{param2}`](https://yandex.com/support/direct/statistics/url-tags.html) substitutievariabelen. Wanneer u ze gebruikt, worden de variabelen vervangen door de `{param1}` en `{param2}` waarden die zijn gedefinieerd voor het trefwoord waarmee de advertentie wordt weergegeven.
 
 >[!MORELIKETHIS]
 >
 >* [Over advertenties](ad-about.md)
 >* [Advertenties beheren](ad-manage.md)
-

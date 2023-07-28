@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL AdWords Search Query Report]"
+title: '[!UICONTROL AdWords Search Query Report]'
 description: Meer informatie over de [!UICONTROL AdWords Search Query Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 085f6a46-ce7e-4b68-b03d-edfbb6834284
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -20,7 +22,7 @@ De [!UICONTROL AdWords Search Query Report] omvat kosten, klik, indruk, en (naar
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Account Name]
 * [!UICONTROL Start Date]
@@ -37,7 +39,7 @@ Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-column
 * [!UICONTROL CPC]
 
 >[!MORELIKETHIS]
+>
 * [Speciale rapporten](specialty-report-about.md)
 * [Een speciaal rapport genereren](specialty-report-generate.md)
 * [Instellingen voor speciale rapporten](specialty-report-settings.md)
-

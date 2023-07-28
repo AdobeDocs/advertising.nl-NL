@@ -1,7 +1,9 @@
 ---
 title: Gegevensfilters toepassen vanuit een kolomkopmenu
 description: Leer hoe u de paginagegevens filtert vanuit een kolomkopmenu.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: ad745599-fd98-4f34-b181-085070adb685
+feature: Search Common Tasks, Search Custom Data Views
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '211'
 ht-degree: 0%
@@ -20,10 +22,9 @@ U kunt zoveel filters toepassen als u wilt in een kolom, één voor één. Alle 
 
    * (Filters met invoervelden) Selecteer een operator in het tweede menu, voer de toepasselijke waarde in en klik op ![Filter bijwerken](/help/search-social-commerce/assets/select.png "Filter bijwerken").
 
-      Als u bijvoorbeeld &quot;[!UICONTROL Clicks]&quot; kolom en alleen rijen met meer dan 100 klikken wilt retourneren. Selecteer vervolgens *[!UICONTROL greater than]*&quot; en voer `100` in het invoerveld Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]*, of *[!UICONTROL no date].*
+     Als u bijvoorbeeld &quot;[!UICONTROL Clicks]&quot; kolom en alleen rijen met meer dan 100 klikken wilt retourneren. Selecteer vervolgens *[!UICONTROL greater than]*&quot; en voer `100` in het invoerveld Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]*, of *[!UICONTROL no date].*
 
-      >[!NOTE]
-      >
-      >* Tekstwaarden zijn niet hoofdlettergevoelig. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
-      >* U kunt slechts één eenvoudig numeriek filter toepassen (zoals [!UICONTROL Impressions] \> 100) per kolom.
-
+     >[!NOTE]
+     >
+     >* Tekstwaarden zijn niet hoofdlettergevoelig. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
+     >* U kunt slechts één eenvoudig numeriek filter toepassen (zoals [!UICONTROL Impressions] \> 100) per kolom.

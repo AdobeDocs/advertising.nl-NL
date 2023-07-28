@@ -1,7 +1,9 @@
 ---
 title: Winkelproductgroepen beheren
 description: Leer hoe u in winkelcampagnes winkelgroepen kunt maken en beheren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 25912abd-1ddb-443f-a16d-7efe57093677
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '720'
 ht-degree: 0%
@@ -46,7 +48,7 @@ Als je ten minste een allesomvattende &quot;[!UICONTROL All Products]&quot; groe
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]**.
 
-1. (Optioneel) Als u een productgroep en de onderliggende productgroepknooppunten wilt weergeven in de structuurweergave, houdt u de cursor boven de naam van de productgroep en klikt u op ![Menupictogram](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menupictogram")en selecteer vervolgens **[!UICONTROL Tree View]**.
+1. (Optioneel) Als u een productgroep en de onderliggende productgroepknooppunten wilt weergeven in de structuurweergave, houdt u de cursor boven de productgroepnaam en klikt u op ![Menupictogram](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menupictogram")en selecteer vervolgens **[!UICONTROL Tree View]**.
 
 1. Houd de cursor boven de naam van de productgroep en klik op ![Pijl-vervolgmenu](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Pijl-vervolgmenu")en selecteer vervolgens **[!UICONTROL + Add Node]**.
 
@@ -60,7 +62,7 @@ U kunt de bied- en trackingsjabloon voor knooppunten van de groep eenheidsproduc
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]**.
 
-1. (Optioneel) Als u een productgroep en de onderliggende productgroepknooppunten wilt weergeven in de structuurweergave, houdt u de cursor boven de naam van de productgroep en klikt u op ![Menupictogram](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menupictogram")en selecteer vervolgens **[!UICONTROL Tree View]**.
+1. (Optioneel) Als u een productgroep en de onderliggende productgroepknooppunten wilt weergeven in de structuurweergave, houdt u de cursor boven de productgroepnaam en klikt u op ![Menupictogram](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menupictogram")en selecteer vervolgens **[!UICONTROL Tree View]**.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -102,11 +104,10 @@ U kunt elke productgroep verwijderen, met uitzondering van de groep &quot;Alles 
 
       1. Klik op de werkbalk op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**.
 
-      1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+      1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
 >* [Over winkelproductgroepen](product-group-about.md)
 >* [[!DNL Google Ads] productgroepinstellingen](product-group-settings-google.md)
 >* [[!DNL Microsoft Advertising] productgroepinstellingen](product-group-settings-microsoft.md)
-

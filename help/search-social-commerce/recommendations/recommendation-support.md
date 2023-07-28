@@ -2,7 +2,8 @@
 title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
-source-git-commit: de1b0b3ffbb8cbc3113e4e707b8ee2d647f60ca3
+feature: Search Recommendations
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '501'
 ht-degree: 0%
@@ -19,17 +20,17 @@ ht-degree: 0%
 
 * Elk [!DNL Google Ads] Deze aanbeveling biedt aangepaste suggesties voor verschillende prestatiesaspecten van een campagne — van het toevoegen van middelen tot het verhogen van het budget — op basis van de prestatiegeschiedenis van uw account, uw campagnemontages en trends over [!DNL Google Ads].
 
-* Elk [!DNL Microsoft® Advertising] het prestatiesinzicht waarschuwt u aan een significante schommeling in een managerrekening, een adverteerderrekening, of een campagne; identificeert de mogelijke oorzaken en stelt acties voor om de prestaties te optimaliseren.
+* Elk [!DNL Microsoft® Advertising] met prestatiegegevens wordt u gewaarschuwd voor een aanzienlijke fluctuatie in een beheerdersaccount, adverteerderaccount of -campagne; geeft de mogelijke oorzaken aan en stelt u acties voor om de prestaties te optimaliseren.
 
 ## De [!UICONTROL Recommendations & Publisher Insights] weergave
 
 Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights]kunt u:
 
-* Bekijk in één oogopslag alle ondersteunde aanbevelingen waaraan nog niet eerder is gewerkt [!DNL Google Ads] account of alle prestatieinzichten die in de laatste 30 dagen voor een [Microsoft® Advertising] account. De informatie voor elke vermelding omvat de aanbevelingen/inzichten en de betrokken entiteiten. Voor [!DNL Google Ads] accounts, voorspelde verhogingen van metriek worden groen gemarkeerd.
+* Bekijk in één oogopslag alle ondersteunde aanbevelingen waaraan nog niet eerder is gehandeld [!DNL Google Ads] account of alle prestatieinzichten die in de laatste 30 dagen voor een [Microsoft® Advertising] account. De informatie voor elke vermelding omvat de aanbevelingen/inzichtelijke gegevens en de betrokken entiteiten. Voor [!DNL Google Ads] accounts, voorspelde verhogingen van metriek worden groen gemarkeerd.
 
-  ![Recommendations-gebruikersinterface](/help/search-social-commerce/assets/recommendations-ui.png "Recommendations-gebruikersinterface")
+  ![RECOMMENDATIONS UI](/help/search-social-commerce/assets/recommendations-ui.png "RECOMMENDATIONS UI")
 
-  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Als u de gegevens wilt vernieuwen, klikt u op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png "Vernieuwen") linksonder op de pagina.
+  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Klik op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png "Vernieuwen") linksonder op de pagina.
 
 * Voor [!DNL Google Ads] accounts:
 
@@ -37,7 +38,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
    * Bekijk een logboek van elke aanbeveling die voor de rekening, met inbegrip van de beïnvloede entiteiten werd toegepast, die de aanbeveling toepaste, en de tijdstempel.
 
-* Voor [Microsoft® Advertising] accounts, opent u de [!DNL Microsoft® Advertising] redacteur, waarvan u op een specifiek inzicht kunt handelen.
+* Voor [Microsoft® Advertising] accounts, opent u [!DNL Microsoft® Advertising] redacteur, waarvan u op een specifiek inzicht kunt handelen.
 
 >[!NOTE]
 >
@@ -75,7 +76,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!MORELIKETHIS]
 >
->* [Bekijk uw uitgeversaanbevelingen en prestatiesinzichten](recommendation-view.md)
+>* [Bekijk uw uitgeversaanbevelingen en prestatieinzicht](recommendation-view.md)
 >* [Een [!DNL Google Ads] aanbeveling](google-recommendation-apply-dismiss.md)
 >* [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](google-recommendation-view-log.md)
 >* [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](recommendation-best-practices.md)

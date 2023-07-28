@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Campaign Daily Impression Share Report]"
+title: '[!UICONTROL Campaign Daily Impression Share Report]'
 description: Meer informatie over de [!UICONTROL Campaign Daily Impression Share Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 85243fd0-0c39-4e73-b798-48710f887985
+feature: Search Reports, Search Specialty Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -18,7 +20,7 @@ Metriek voor het delen van indrukken is de vorige dag om 13:00 uur beschikbaar i
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Start Date]
 * [!UICONTROL End Date]
@@ -44,4 +46,3 @@ Zie &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-column
 >* [Speciale rapporten](specialty-report-about.md)
 >* [Een speciaal rapport genereren](specialty-report-generate.md)
 >* [Instellingen voor speciale rapporten](specialty-report-settings.md)
-

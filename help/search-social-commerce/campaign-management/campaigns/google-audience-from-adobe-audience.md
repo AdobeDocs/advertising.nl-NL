@@ -1,7 +1,9 @@
 ---
 title: Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek
 description: Leer hoe u creeert [!DNL Google Ads] klanten komen hetzelfde publiek aan als uw bestaande Adobe Analytics- en Audience Manager-publiek.
-source-git-commit: 7089f7fe75b551953026ac6cca4ac7aafa06ba7b
+exl-id: 17cf0729-bc13-4ec3-918e-039ecdc91a41
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -16,7 +18,7 @@ ht-degree: 0%
 
 Geopende adverteerders kunnen [!DNL Google Ads] klant stemt publiek overeen gebruikend gebruiker - identiteitskaart van a) [!DNL Analytics] segmenten die worden gedeeld met Adobe Experience Cloud en b) de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben, met inbegrip van [!DNL Analytics] segmenten die worden gepubliceerd naar Adobe Experience Cloud en segmenten die worden gemaakt met de Adobe Experience Cloud Audience Library. Met Zoeken, Sociaal en Handel wordt automatisch een [!DNL Google] URL bijhouden naar elke URL [!DNL Analytics] of Audience Manager, zodat [!DNL Google] kan het publiek volgen.
 
-Elk [!DNL Adobe] het publiek kan slechts voor één worden gebruikt [!DNL Google] publiek.
+Elk [!DNL Adobe] publiek kan slechts voor één worden gebruikt [!DNL Google] publiek.
 
 Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Adobe] publiek. [!DNL Google] bepaalt hoe groot de doelgroep moet zijn.
 
@@ -30,7 +32,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
 1. Vul de vereiste vereisten naar wens in:
 
-   1. (Als u een publiek wilt maken met een vervolgkeuzelijst voor gebruikers-id&#39;s) Een [!DNL Adobe] de beheerder gebruiker of de rekeningsmanager moet de adverteerder-vlakke plaatsen selecteren om klant gelijke publiek toe te laten. De instellingen verschillen tussen adverteerders met Audience Manager en adverteerders met [!DNL Analytics] alleen.
+   1. (Als u een publiek wilt maken met een vervolgkeuzelijst voor gebruikers-id) Een [!DNL Adobe] de beheerder gebruiker of de rekeningsmanager moet de adverteerder-vlakke plaatsen selecteren om klant gelijke publiek toe te laten. De instellingen verschillen tussen adverteerders met Audience Manager en adverteerders met [!DNL Analytics] alleen.
 
    1. Implementeer de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) versie 2.0 of hoger.
 
@@ -52,7 +54,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
    1. In de **[!UICONTROL Data Source]** menu, selecteert u **[!UICONTROL Adobe Audience]**.
 
-   1. Selecteer [!UICONTROL Adobe Audience] waarop de [!DNL Google] publiek.
+   1. Selecteer de [!UICONTROL Adobe Audience] waarop de [!DNL Google] publiek.
 
       >[!NOTE]
       >
@@ -62,7 +64,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
       Als u meerdere [!DNL Adobe] publiek, vervolgens een aparte [!DNL Google] het publiek wordt voor elk gecreeerd.
 
-   1. Selecteer **[!UICONTROL Audience Type]** maken: **[!UICONTROL Customer List_User ID]**.
+   1. Selecteer de **[!UICONTROL Audience Type]** maken: **[!UICONTROL Customer List_User ID]**.
 
       De adverteerders [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [hermarketing van gebruikersnaam](https://support.google.com/google-ads/answer/9199250).
 
@@ -70,7 +72,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
    1. Geef het aantal **[!UICONTROL Membership Days]**, dit is het aantal dagen dat de cookie van een gebruiker in het publiek blijft.
 
-      Gebruik de tijdsduur waarvan u verwacht dat uw advertentie relevant is voor de gebruiker. De lijsten van het opmerken hebben een maximumduur van 540 dagen. Klantlijsten hebben geen maximale duur; Voer 10000 in om aan te geven dat het cookie nooit verloopt.
+      Gebruik de tijdsduur waarvan u verwacht dat uw advertentie relevant is voor de gebruiker. De lijsten van het opmerken hebben een maximumduur van 540 dagen. De lijsten van de klant hebben geen maximumduur; om erop te wijzen dat het koekje nooit verloopt, ga 10000 in.
 
    1. Klik op **[!UICONTROL Post]**.
 

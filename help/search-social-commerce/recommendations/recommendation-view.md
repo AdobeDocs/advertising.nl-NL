@@ -1,14 +1,15 @@
 ---
 title: Uitgeversaanbevelingen en prestatieinzicht weergeven
 description: Leer hoe u de [!DNL Google Ads] aanbevelingen en [!DNL Microsoft® Advertising] prestatiesinzichten voor uw rekeningen van het advertentienetwerk.
-source-git-commit: de1b0b3ffbb8cbc3113e4e707b8ee2d647f60ca3
+feature: Search Recommendations
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-# Bekijk uw uitgeversaanbevelingen en prestatiesinzichten
+# Bekijk uw uitgeversaanbevelingen en prestatieinzicht
 
 *[!DNL Google Ads]en [!DNL Microsoft® Advertising] rekeningen*
 
@@ -20,7 +21,7 @@ ht-degree: 0%
 
 1. Bekijk de aanbevolen acties:
 
-   * ([!DNL Google Ads] rekeningen) [!UICONTROL Actions] kolom voor de rij, klik **[!UICONTROL View]**. Als de aanbeveling subaanbevelingen heeft, klikt u op **[!UICONTROL View]** naast de subaanbeveling.
+   * ([!DNL Google Ads] (in de [!UICONTROL Actions] kolom voor de rij, klik **[!UICONTROL View]**. Als de aanbeveling subaanbevelingen heeft, klikt u op **[!UICONTROL View]** naast de subaanbeveling.
 
      U kunt desgewenst [aanvragen of afwijzen](google-recommendation-apply-dismiss.md) de aanbevelingen van het advertentienetwerk .
 

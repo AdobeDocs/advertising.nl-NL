@@ -1,21 +1,23 @@
 ---
 title: Negatieve plaatsingen maken
 description: Leer hoe u negatieve plaatsingen kunt maken voor [!DNL Google Ads] campagnes en ad-hocgroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 8bddfc12-de95-46c3-aa2d-bcce2a5e0de9
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# Maken voor [!DNL Google Ads] negatieve stages
+# Maken voor [!DNL Google Ads] negatieve plaatsingen
 
 *[!DNL Google Ads]alleen accounts*
 
 U kunt voor een [!DNL Google Ads] ad-groep in een campagne die zich richt op het weergavenetwerk. Negatieve plaatsingen zijn sites in het weergavenetwerk die geen advertenties activeren.
 
 >[!NOTE]
->U kunt ook negatieve plaatsingen maken en bewerken in het dialoogvenster [groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
+>U kunt ook negatieve plaatsingen maken en bewerken in het dialoogvenster [groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
 
 >[!TIP]
 >Als u veel negatieve plaatsingen tegelijk wilt maken, gebruikt u [brochures](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
@@ -30,7 +32,7 @@ U kunt voor een [!DNL Google Ads] ad-groep in een campagne die zich richt op het
 
    Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in. Geldige indelingen zijn:
 
-   * Een website: Voer een geldige URL in, bijvoorbeeld www.example.com. Zie de toegestane formaten in &quot;hoe te om uw uitsluiting URLs toe te voegen&quot;in https://support.google.com/google-ads/answer/2454012.
+   * Een website: voer een geldige URL in, bijvoorbeeld www.example.com. Zie de toegestane formaten in &quot;hoe te om uw uitsluiting URLs toe te voegen&quot;in https://support.google.com/google-ads/answer/2454012.
 
    * Een onderwerp, categorie of document verticaal. Zie [[!DNL Google Ads] richtlijnen](https://support.google.com/google-ads/editor/answer/30517) en [lijst van alle hoekpunten](https://developers.google.com/adwords/api/docs/appendix/verticals). Voorbeeld: `category::Industries > Energy & Utilities > Oil & Gas`.
 
@@ -41,4 +43,3 @@ U kunt voor een [!DNL Google Ads] ad-groep in een campagne die zich richt op het
 >* [Informatie over plaatsingen](placement-about.md)
 >* [Biedeerbare plaatsingen beheren](placement-manage.md)
 >* [De status van stages en negatieve stages wijzigen](placement-status-edit.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Over deze handleiding
 description: Leer wat in elk hoofdstuk van deze gids wordt behandeld.
-source-git-commit: b857bae4ea175c446072f5dacf82db3845993a45
+exl-id: fb47db6f-d579-472f-a0e3-7bbc92ceb9e5
+feature: Search Introduction
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 0%
@@ -14,7 +16,7 @@ De informatie over specifieke groepen taken en andere informatie is beschikbaar 
 
 * &quot;Inleiding&quot; introduceert de belangrijkste functies van Zoeken in advertenties, Sociale &amp; Handel.
 
-* &quot;Aan de slag&quot; legt uit wat de belangrijkste taken zijn die een adverteerderimplementatie met zich meebrengt, van het opzetten voor de eerste introductie tot het uitvoeren van lopende beheertaken; en hoe de gebruikersinterface is georganiseerd.
+* &quot;Aan de slag&quot; legt uit wat de belangrijkste taken zijn die een adverteerderimplementatie met zich meebrengt, van het instellen van de eerste introductie tot het uitvoeren van lopende beheertaken en hoe de gebruikersinterface is georganiseerd.
 
 * &quot;Algemene taken&quot; legt uit hoe u de verschillende weergaven van de prestatiegegevens kunt configureren op basis van uw informatiebehoeften en -voorkeuren, hoe u aangepaste metriek kunt beheren, hoe u labelclassificaties en biedbeperkingen kunt beheren en hoe u andere veelvoorkomende taken kunt uitvoeren.
 
@@ -26,7 +28,7 @@ De informatie over specifieke groepen taken en andere informatie is beschikbaar 
 
 * &quot;Tools&quot; legt uit hoe u uw wachtwoord kunt wijzigen, gereedschappen kunt gebruiken om kliktracking- en conversietags te genereren en de conversiemetriek kunt uploaden naar [!DNL Google Ads] en uw portfoliodoelstellingen naar de advertentienetwerken voor hybride optimalisering, uploadmeetgegevens voor het volgen van campagnes, en repliceer uw [!DNL Google Ads] campagnes in uw [!DNL Microsoft Advertising] rekeningen.
 
-* &quot;Beheer&quot; legt uit hoe adverteerdergegevens moeten worden beheerd, met inbegrip van de transactieeigenschappen die worden verzameld en de data die van portefeuilleprognoses moeten worden uitgesloten; synchroniseer de conversiemetriek via een [!DNL Google Analytics] rekening; diverse instellingen op adverteerderniveau te configureren; en (sommige rollen) beheert gebruikers-, agentschappen- en adverteerderaccounts.
+* &quot;Beheer&quot; legt uit hoe u adverteerdergegevens beheert, inclusief de transactieeigenschappen die worden verzameld en de datums die worden uitgesloten van portfolioprognoses; synchroniseer uw conversiemetriek van een [!DNL Google Analytics] account; configureren van verschillende instellingen op adverteerderniveau en (sommige rollen) beheren van gebruikers-, agentschappen- en adverteerderaccounts.
 
 >[!NOTE]
 >

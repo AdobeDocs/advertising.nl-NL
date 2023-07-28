@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft® Advertising] responsieve ad-instellingen"
+title: '[!DNL Microsoft® Advertising] responsieve ad-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] responsieve advertenties.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: bbe06bdb-c765-4d30-a609-03f476c4ee54
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '208'
 ht-degree: 0%
@@ -52,4 +54,3 @@ Voor publieksadvertenties: [!DNL Microsoft® Advertising] Deze afbeelding wordt 
 >* [[!DNL Microsoft® Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
 >* [[!DNL Microsoft® Advertising] product en instellingen](ad-settings-microsoft-product.md)
 >* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
-

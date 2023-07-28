@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon onderbreken
 description: Leer hoe u een actieve waarschuwingssjabloon pauzeert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: a588ac21-7f77-4254-a773-a6f68c9f1090
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -18,9 +20,9 @@ U kunt actieve waarschuwingssjablonen pauzeren.
 
    * (Als u één sjabloon wilt pauzeren) Klik in de sjabloonrij in de [!UICONTROL Status] kolom en selecteer *[!UICONTROL Paused]*.
 
-   * (Als u een of meer sjablonen wilt pauzeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt pauzeren. Klik op de werkbalk op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren") Klik in het dialoogvenster op **[!UICONTROL Pause]**.
+   * (Als u een of meer sjablonen wilt pauzeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt pauzeren. Klik op de werkbalk op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren") Klik op **[!UICONTROL Pause]**.
 
-      Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+     Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 >[!MORELIKETHIS]
 >
@@ -32,4 +34,3 @@ U kunt actieve waarschuwingssjablonen pauzeren.
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

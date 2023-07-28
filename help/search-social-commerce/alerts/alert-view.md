@@ -1,7 +1,9 @@
 ---
 title: Aangepaste waarschuwing weergeven
 description: Leer hoe je waarschuwingsberichten kunt weergeven.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: a2ba2a8c-7334-4a6e-9873-8a4f59b9717c
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 0%
@@ -28,19 +30,19 @@ Als u de campagnes of de campagneentiteiten wilt bewerken die in een waarschuwin
 
       * (Optioneel) Als u een gefilterde weergave van de entiteiten in de relevante campagnebeheerweergave wilt openen, klikt u op **[!UICONTROL Live View]**.
 
-         Voor een waarschuwing op campagnereniveau opent deze handeling bijvoorbeeld het dialoogvenster [!UICONTROL Campaigns] een lijst met campagnes weergeven die aan de waarschuwingscriteria voldoen.
+        Voor een waarschuwing op campagnereniveau opent deze handeling bijvoorbeeld het dialoogvenster [!UICONTROL Campaigns] een lijst met campagnes weergeven die aan de waarschuwingscriteria voldoen.
 
-         >[!NOTE]
-         >
-         >Als Onderzoek, Sociale, &amp; Handel opbrengstupdates heeft ontvangen of het advertentienetwerk verkeersmetriek heeft bijgewerkt aangezien het alarm werd teweeggebracht, dan kunnen de metrische waarden in de mening van het campagnebeheer van de metrische waarden in het originele alarm verschillend zijn.
+        >[!NOTE]
+        >
+        >Als Onderzoek, Sociale, &amp; Handel opbrengstupdates heeft ontvangen of het advertentienetwerk verkeersmetriek heeft bijgewerkt aangezien het alarm werd teweeggebracht, dan kunnen de metrische waarden in de mening van het campagnebeheer van de metrische waarden in het originele alarm verschillend zijn.
 
-      * (Optioneel) Klik op **[!UICONTROL Download]** en selecteert u de bestandsindeling.
+      * (Optioneel) Als u het waarschuwingsrapport wilt downloaden, klikt u op **[!UICONTROL Download]** en selecteert u de bestandsindeling.
 
 ## Een waarschuwing weergeven in de betreffende entiteitsweergave
 
 1. (Binnen de relevante entiteitsweergave) Open de campagnebeheerweergave voor het type entiteit ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Ads], of [!UICONTROL Product Groups]).
 
-1. Klik in de rechterbovenhoek van de pagina op ![Meldingen](/help/search-social-commerce/assets/notifications-panel.png "Meldingen")
+1. Klik rechtsboven op de pagina op ![Meldingen](/help/search-social-commerce/assets/notifications-panel.png "Meldingen")
 
 1. In de [!UICONTROL Notifications] klik op de knop **[!UICONTROL Alerts]** tab.
 
@@ -54,13 +56,13 @@ Als u de campagnes of de campagneentiteiten wilt bewerken die in een waarschuwin
 
       * (Optioneel) Als u een gefilterde weergave wilt openen van de entiteiten in de relevante campagnebeheerweergave, waarmee u kunt communiceren met de entiteitsrecords, klikt u op **[!UICONTROL Live View]**.
 
-         Voor een waarschuwing op campagnereniveau opent deze handeling bijvoorbeeld het dialoogvenster [!UICONTROL Campaigns] een lijst met campagnes weergeven die aan de waarschuwingscriteria voldoen.
+        Voor een waarschuwing op campagnereniveau opent deze handeling bijvoorbeeld het dialoogvenster [!UICONTROL Campaigns] een lijst met campagnes weergeven die aan de waarschuwingscriteria voldoen.
 
-         >[!NOTE]
-         >
-         >Als Onderzoek, Sociale, &amp; Handel opbrengstupdates heeft ontvangen of het advertentienetwerk verkeersmetriek heeft bijgewerkt aangezien het alarm werd teweeggebracht, dan kunnen de metrische waarden in de mening van het campagnebeheer van de metrische waarden in het originele alarm verschillend zijn.
+        >[!NOTE]
+        >
+        >Als Onderzoek, Sociale, &amp; Handel opbrengstupdates heeft ontvangen of het advertentienetwerk verkeersmetriek heeft bijgewerkt aangezien het alarm werd teweeggebracht, dan kunnen de metrische waarden in de mening van het campagnebeheer van de metrische waarden in het originele alarm verschillend zijn.
 
-      * (Optioneel) Klik op **[!UICONTROL Download]** en selecteert u de bestandsindeling.
+      * (Optioneel) Als u het waarschuwingsrapport wilt downloaden, klikt u op **[!UICONTROL Download]** en selecteert u de bestandsindeling.
 
 
 >[!MORELIKETHIS]
@@ -73,4 +75,3 @@ Als u de campagnes of de campagneentiteiten wilt bewerken die in een waarschuwin
 >* [Een aangepaste waarschuwingssjabloon verwijderen](alert-template-delete.md)
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Adobe Analytics-conversie bijhouden
 description: Meer informatie over het bijhouden van Adobe Analytics-conversies voor je campagnes in Adobe Advertising.
-source-git-commit: a9e23de134274d8f5004a908853c4132300b84e8
+exl-id: 0ed1d059-829a-4090-950d-41cbcc27b3ac
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # Adobe Analytics-conversie bijhouden
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
+*Adverteerders die alleen Adobe Advertising-Adobe Analytics-integratie hebben*
 
 Voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie kan Advertising Cloud uw advertenties en indrukkingen verbinden met de betrokkenheids- en conversiemetriek van de site die worden bijgehouden door [!DNL Analytics] wanneer u een omleiding gebruikt met een token (`ef_id` parameter) in uw klik-volgende URLs voor uw klik [biedingseenheden](/help/search-social-commerce/glossary.md#a-b). De [!DNL Analytics] gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
 
@@ -24,7 +26,7 @@ Zie &quot;[Overzicht van [!DNL Analytics for Advertising]](https://experiencelea
 
 1. In [!DNL Analytics], wijzigt uw de implementatieteam van het Onderzoek, Sociale, &amp; van de Handel de volgende configuratiemontages voor elke rapportreeks:
 
-   * De vervaldatum voor de `ef_id` De eVar wordt gewijzigd zodat deze overeenkomt met het terugkijkvenster van de adverteerder voor Adobe-reclame.
+   * De vervaldatum voor de `ef_id` De eVar wordt gewijzigd zodat deze overeenkomt met het venster voor het terugzoeken van adverteerders naar de Adobe Advertising.
 
    * De gebruikers-id van de Adobe Advertising.
 

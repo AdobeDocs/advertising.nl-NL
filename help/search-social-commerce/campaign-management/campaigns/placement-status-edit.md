@@ -1,7 +1,9 @@
 ---
 title: De status van stages en negatieve stages wijzigen
 description: Leer hoe u de status van stages en negatieve stages wijzigt voor [!DNL Google Ads].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 7f025ba2-e71f-40bf-9057-f7d7abbea5da
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -24,15 +26,14 @@ U kunt ook een actieve of gepauzeerde plaatsing of een negatieve plaatsing verwi
 
 1. Klik op de statusknop op de werkbalk:
 
-   * (Alleen schuifbare plaatsen) Als u de rijen wilt activeren, klikt u op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
+   * (Alleen schuifbare plaatsen) Klik op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
 
-   * (Alleen schuifbare plaatsen) Als u de rijen wilt pauzeren, klikt u op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
+   * (Alleen schuifbare plaatsen) Klik op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
 
-   * Als u de rijen wilt verwijderen, klikt u op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+   * Klik op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
 >* [Informatie over plaatsingen](placement-about.md)
 >* [Biedeerbare plaatsingen beheren](placement-manage.md)
 >* [Negatieve plaatsingen maken](placement-negative-create.md)
-

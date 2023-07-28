@@ -1,7 +1,9 @@
 ---
 title: Op cookie gebaseerde klik bijhouden instellen
-description: Leer hoe u klikspatiëringstags instelt en valideert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+description: Leer hoe u kliktrackinglabels instelt en valideert.
+exl-id: 340aec08-a1a5-4aa5-b666-9c819c1709d0
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 0%
@@ -44,7 +46,7 @@ Voor Onderzoek, Sociale, &amp; Handel om kliks te volgen, moeten de volgende ele
 
    1. Houd de cursor boven de naam van de campagne en klik op ![Menupictogram](/help/search-social-commerce/assets/arrow-dropdown-menu.png "Menupictogram")en selecteer vervolgens **[!UICONTROL Edit]**.
 
-   1. Klik op **[!UICONTROL Set Campaign Tracking]**. Selecteer vervolgens de optie die u wilt **[!UICONTROL Override Account Tracking]**.
+   1. Klik op **[!UICONTROL Set Campaign Tracking]**. Selecteer vervolgens de optie om **[!UICONTROL Override Account Tracking]**.
 
    1. Voor de [!UICONTROL Tracking Type] instellen, selecteren **[!UICONTROL EF Redirect]**.
 
@@ -66,7 +68,7 @@ Valideer dat de juiste landingspagina wordt geopend voor de URL voor het bijhoud
 
    1. Zoek de cookie in de opgeslagen cookies van uw browser.
 
-   1. Voltooi een transactie op de parkeerplaats, en verifieer dat de succespagina het correcte pixel in brand steekt. De werkelijke parameters die door de pixel worden bijgehouden, variëren per adverteerder en URL bijhouden. In het volgende voorbeeld wil de adverteerder het aantal nieuwe toepassingen en het bedrag van nieuwe inkomsten bijhouden:
+   1. Voltooi een transactie op de testsite en controleer of de succespagina de juiste pixel in werking stelt. De werkelijke parameters die door de pixel worden bijgehouden, variëren per adverteerder en URL bijhouden. In het volgende voorbeeld wil de adverteerder het aantal nieuwe toepassingen en het bedrag van nieuwe inkomsten bijhouden:
 
       Voor een nieuwe eindgebruiker (met een vers cookie) moet de volgende pixel worden geactiveerd:
 
@@ -81,9 +83,8 @@ Valideer dat de juiste landingspagina wordt geopend voor de URL voor het bijhoud
 
 1. Herhaal Stap 1 voor elk domein, gebruikend een verschillende het landen pagina dienovereenkomstig.
 
-1. Bevestig zo nodig dat Search, Social en Commerce de pixels voor de transactie-id&#39;s kunnen zien (`ev_transid`) gegenereerd tijdens de test.
+1. Bevestig zo nodig dat Search, Social en Commerce de pixels voor de transactie-id&#39;s kunnen zien (`ev_transid`) die tijdens de test worden gegenereerd.
 
 >[!MORELIKETHIS]
 >
 >* [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
-

@@ -1,16 +1,18 @@
 ---
-title: De weergave van [!UICONTROL Change History] verslag
+title: De weergave [!UICONTROL Change History] verslag
 description: Leer hoe u recente wijzigingen in het account van adverteerders kunt bekijken.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 822fa5eb-b7b4-4f32-9cee-984f4e96b978
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 0%
 
 ---
 
-# De weergave van [!UICONTROL Change History] verslag
+# De weergave [!UICONTROL Change History] verslag
 
-De [!UICONTROL Change History] het rapport bevat een logboek met wijzigingen die in de afgelopen 31 dagen in het adverteerderaccount zijn aangebracht. Dit kan wijzigingen in de volgende typen objecten bevatten: gebruikers (adverteerders), portfolio&#39;s, campagnes, advertentiegroepen, advertenties, trefwoorden, plaatsingen en productdoelen. Standaard worden wijzigingen twee dagen geleden weergegeven.
+De [!UICONTROL Change History] het rapport bevat een logboek met wijzigingen die in de afgelopen 31 dagen in het adverteerderaccount zijn aangebracht. Het kan wijzigingen in de volgende typen objecten omvatten: gebruikers (adverteerders), portfolio&#39;s, campagnes, advertentiegroepen, advertenties, trefwoorden, plaatsingen en productdoelen. Standaard worden wijzigingen twee dagen geleden weergegeven.
 
 U kunt de gegevens in elke kolom sorteren en filteren.
 
@@ -20,13 +22,14 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
    * (U kunt kolommen weergeven of verbergen) Klik op ![Pijl-omlaag](/help/search-social-commerce/assets/arrow-down-expand.png "Pijl-omlaag") aan de rechterkant van elke kolomkop, markeren **[!UICONTROL Columns]** en schakel vervolgens het selectievakje naast elke kolom in om het selectievakje naast elke kolom die u wilt uitsluiten, in te voegen en te wissen.
 
-      De kolomconfiguratie wordt toegepast op uw mening over al uw adverteerders.
+     De kolomconfiguratie wordt toegepast op uw mening over al uw adverteerders.
 
    * (Voer een van de volgende handelingen uit om de gegevens te filteren op kolomwaarde:
 
       * [Een filter toepassen met de opdracht **[!UICONTROL Add Filter]** link](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
       * [Een filter toepassen vanuit een kolomkopmenu](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
+
    * (Ga als volgt te werk om het datumbereik voor het rapport te wijzigen:
 
       1. Klik boven de gegevenstabel op het huidige datumbereik.
@@ -37,10 +40,9 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
          * (Voor een specifiek bereik) — Selecteer **[!UICONTROL Custom Date Range]** en geeft u vervolgens de begindatum en de einddatum op.
 
-            Voer datums in in de notatie DD-MM-JJJJ of DD-MM-JJJJ, of klik op ![Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") naast elk veld om de kalender te openen en een datum te selecteren. U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
+           Voer datums in in de notatie DD-MM-JJJJ of DD-MM-JJJJ, of klik op ![Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") naast elk veld om de kalender te openen en een datum te selecteren. U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
+
       1. Klik op **[!UICONTROL Apply]**.
-
-
 
 1. (Optioneel) Download een kopie van het rapport:
 

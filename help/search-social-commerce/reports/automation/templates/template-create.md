@@ -1,7 +1,9 @@
 ---
 title: Een rapportsjabloon maken
-description: Leer hoe te om een herbruikbare rapportmalplaatje tot stand te brengen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+description: Leer hoe u een herbruikbare rapportsjabloon maakt.
+exl-id: cd734539-ab01-4106-9998-e2ed994209b2
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '170'
 ht-degree: 0%
@@ -14,7 +16,7 @@ U kunt veelvoudige rapportmalplaatjes voor om het even welk type van prestatiesr
 
 * Voer een van de volgende twee handelingen uit om een geheel nieuwe sjabloon te maken:
 
-   * Van de [!UICONTROL Reports] , maakt u een rapport en schakelt u het selectievakje naast **[!UICONTROL Save as template]**, die naast de rapportnaam staat.
+   * Van de [!UICONTROL Reports] een rapport maken en het selectievakje naast **[!UICONTROL Save as template]**, die naast de rapportnaam staat.
 
    * Van de [!UICONTROL Templates] tab:
 
@@ -26,7 +28,7 @@ U kunt veelvoudige rapportmalplaatjes voor om het even welk type van prestatiesr
 
       * Geef de rapportinstellingen op.
 
-         De &quot;[!UICONTROL Save as Template]&quot; instelling wordt automatisch geselecteerd.
+        De &quot;[!UICONTROL Save as Template]&quot; instelling wordt automatisch geselecteerd.
 
 * Een sjabloon maken op basis van een bestaande sjabloon:
 
@@ -44,4 +46,3 @@ U kunt veelvoudige rapportmalplaatjes voor om het even welk type van prestatiesr
 >* [Een rapportsjabloon bewerken](template-edit.md)
 >* [Een rapportsjabloon weergeven](template-view.md)
 >* [Rapportsjablonen verwijderen](template-delete.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Gegevens exporteren voor aangepaste waarschuwingen
 description: Leer hoe u gegevens voor een getriggerde waarschuwing naar een bestand exporteert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: c6c3d977-8ee8-4393-a6c7-8f7b9ca5c913
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -16,11 +18,11 @@ U kunt gegevens voor een getriggerde waarschuwing of gegevens voor de meest rece
 
    * (Als u gegevens wilt exporteren voor de laatst getriggerde waarschuwing voor een waarschuwingssjabloon) klikt u in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]**, die wordt geopend in de weergave Waarschuwingssjablonen.
 
-   * (Als u gegevens wilt exporteren voor een specifieke getriggerde waarschuwing) Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]**. Klik in het submenu op **[!UICONTROL Triggered Alerts]**.
+   * (Om gegevens voor een specifieke teweeggebrachte alarm te exporteren) In het belangrijkste menu, klik **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]**. Klik in het submenu op **[!UICONTROL Triggered Alerts]**.
 
 1. In de [!UICONTROL Export] Klik op de naam van een indeling naast de sjabloon of de rapportnaam en open of sla het bestand op volgens de normale procedure van uw browser:
 
-   * **[!UICONTROL XLS]** — Voor een [!DNL Excel] werkboek met één enkel aantekenvel (XLS). Het rapport bevat één werkblad, bovenaan gelabeld met de parameters, met één rij voor elke opgenomen component wanneer gegevens voor de component beschikbaar zijn. Rijen zonder gegevens worden weggelaten. Basisrapporten bevatten een totaal voor elke numerieke kolom.
+   * **[!UICONTROL XLS]** — Voor een [!DNL Excel] werkboek met één enkel aantekenvel (XLS). Het rapport bevat één werkblad, bovenaan gelabeld met de parameters, met één rij voor elke opgenomen component wanneer gegevens voor de component beschikbaar zijn. Rijen zonder gegevens worden weggelaten. De basisrapporten omvatten een totaal voor elke numerieke kolom.
 
    * **[!UICONTROL TSV]** — Voor een TSV-bestand. Het rapport bevat de parameters en één rij voor elke opgenomen component.
 
@@ -36,4 +38,3 @@ U kunt gegevens voor een getriggerde waarschuwing of gegevens voor de meest rece
 >* [Een aangepaste waarschuwingssjabloon verwijderen](alert-template-delete.md)
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
-

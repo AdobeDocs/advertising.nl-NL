@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Yandex] trefwoordinstellingen"
+title: '''[!DNL Yandex] trefwoordinstellingen'
 description: Verwijs naar de instellingen voor [!DNL Yandex] trefwoorden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 276f991b-f604-445c-8dd0-481b6eaee3d2
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -25,7 +27,6 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >* Een [!DNL Yandex] het bestaande trefwoord of het overeenkomende type wordt verwijderd en er wordt een nieuw trefwoord gemaakt.
 >* Elke Yandex en groep kan maximaal 200 trefwoorden bevatten.
 
-
 **[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
 
 ## [!UICONTROL Bids]
@@ -36,11 +37,10 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]** **[!UICONTROL Param2]:** De waarde van de `{param1}` en `{param2}` substitutievariabelen, die in de plaats komen van {param1} en {param2} in de basis-URL voor advertenties en sitelinks wanneer het trefwoord wordt gebruikt om de advertentie weer te geven. De maximumlengte is 255 bytes.
+**[!UICONTROL Param1]** **[!UICONTROL Param2]:** De waarde van `{param1}` en `{param2}` vervangende variabelen, die in de plaats komen van {param1} en {param2} in de basis-URL voor advertenties en sitelinks wanneer het trefwoord wordt gebruikt om de advertentie weer te geven. De maximumlengte is 255 bytes.
 
 Speciale tekens worden automatisch gecodeerd in UTF-8. Als de gekoppelde advertentie bijvoorbeeld een basis-URL heeft van &quot;http://www.example.com/{param1} en de waarde op trefwoordniveau van {param1} is &quot;shoes/flats.html&quot;, dan leidt de advertentie naar http://www.example.com/shoes%2Fflats.html.
 
 >[!MORELIKETHIS]
 >
 >* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
-

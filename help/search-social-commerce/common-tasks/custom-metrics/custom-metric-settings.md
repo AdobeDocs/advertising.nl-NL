@@ -1,7 +1,9 @@
 ---
 title: Aangepaste metrische instellingen
 description: Verwijs naar de montages voor douanemetriek, die van standaardmetriek worden berekend.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: f4b8c44e-ecb3-46dc-9a68-c079188e1d75
+feature: Search Common Tasks, Search Custom Metrics
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '613'
 ht-degree: 0%
@@ -36,4 +38,3 @@ Aangepaste metrische instellingen verschillen enigszins in verschillende delen v
 >* [Een aangepaste metrische waarde maken](custom-metric-create.md)
 >* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
 >* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
-

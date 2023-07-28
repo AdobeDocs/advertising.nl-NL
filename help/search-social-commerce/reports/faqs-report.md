@@ -2,7 +2,8 @@
 title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
-source-git-commit: 18d7ec2254dda9e5f94270e13476a521006ec686
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '3919'
 ht-degree: 0%
@@ -28,7 +29,7 @@ Wanneer u omzettingen door klikdatum rapporteert, omvatten de gegevens transacti
 +++Wat gebeurt als ik het venster van de klikraadpleging of het venster van de imitatieraadpleging verander?
 (Adverteerders met alleen de service Pixels-based conversion Tracking voor advertenties) Gegevens voor gebeurtenissen die het resultaat zijn van de eerste klik worden gedurende een langere of kortere periode verzameld.
 
-Een adverteerder [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen nadat een betaalde klik of een vertoningsindruk (respectievelijk) voorkomt waarin de gebeurtenis aan een omzetting kan worden toegeschreven. Het kan belangrijk zijn om een waarde te wijzigen in een langere of kortere periode voor adverteerders met bijzonder korte of lange &#39;click-to-Revenue&#39;-periodes of &#39;shadow-to-Revenue&#39;-periodes.
+Een adverteerder [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen nadat een betaalde klik of een vertoningsindruk (respectievelijk) voorkomt waarin de gebeurtenis aan een omzetting kan worden toegeschreven. Het kan belangrijk zijn om een waarde te wijzigen in een langere of kortere periode voor adverteerders met bijzonder korte of lange &#39;click-to-Revenue&#39;-periodes of &#39;shadow-to-Revenue&#39;-perioden.
 
 **Beste praktijken:** Zorg ervoor dat de terugkijkvensters langer zijn dan de klik-aan-opbrengst en vertoning beeld-aan-opbrengst tijden voor de meeste van uw sleutelwoorden of advertenties. Wanneer zij korter zijn, worden sommige omzettingen niet geassocieerd met de aanvankelijke klik of de indruk.
 +++
@@ -40,7 +41,7 @@ U kunt zien welke omzettingen het resultaat zijn van een klik op een [!DNL Googl
 
 * Sitelinks worden weergegeven als `sl:<Sitelink text>`, zoals `sl:See Current Offers`.
 
-  U kunt ook een sitelink identificeren als u de [!UICONTROL Tracking URL] in het rapport. De [!UICONTROL Tracking URL] voor een sitelink bevat het kenmerk `&ev_ltx=sl:<link-name>`.
+  U kunt ook een sitelink identificeren als u de optie [!UICONTROL Tracking URL] in het rapport. De [!UICONTROL Tracking URL] voor een sitelink bevat het kenmerk `&ev_ltx=sl:<link-name>`.
 
 >[!NOTE]
 >
@@ -48,7 +49,7 @@ U kunt zien welke omzettingen het resultaat zijn van een klik op een [!DNL Googl
 
 +++
 
-+++De &quot;[!UICONTROL Keyword]&quot; de kolom in mijn rapport bevat de waarde &quot;(adgroup content) &lt;*naam van advertentiegroep*>.&quot;
++++De &quot;[!UICONTROL Keyword]&quot; de kolom in mijn rapport bevat de waarde &quot;(adgroup content) &lt;*naam van groep*>.&quot;
 Wanneer de rij gegevens bevat voor zoekcampagnes waarvoor inhoud is ingeschakeld, weergavecampagnes of sociale campagnes — die geen trefwoorden bevatten — wordt de rij [!UICONTROL Keyword] in plaats daarvan wordt de toepasselijke naam van de advertentiegroep weergegeven.
 +++
 
@@ -65,7 +66,7 @@ Als u bijvoorbeeld een [!UICONTROL Keyword Report] die de [!UICONTROL Ad Group] 
 
 >[!NOTE]
 >
->U kunt deze functie niet gebruiken om gegevens te aggregeren op basis van labelclassificaties. Alle kolommen met labelclassificatie in het rapport worden weggelaten. Gebruik in plaats daarvan de [Rapport voor labelclassificatie](/help/search-social-commerce/reports/management/basic-advanced/label-classification-report.md).
+>U kunt deze functie niet gebruiken om gegevens te aggregeren op basis van labelclassificaties. Alle kolommen met labelclassificatie in het rapport worden weggelaten. Gebruik in plaats daarvan de opdracht [Rapport voor labelclassificatie](/help/search-social-commerce/reports/management/basic-advanced/label-classification-report.md).
 
 +++
 
@@ -140,7 +141,7 @@ De twee systemen meten verschillende gegevens, zodat zou u moeten verwachten om 
 
 * Met Zoeken, Sociaal en Handel (en Google Ads) kunt u klikken, terwijl [!DNL Google Analytics] controleert bezoeken per 30 minieme browser zitting. Als een gebruiker bijvoorbeeld eenmaal op uw advertentie klikt, vervolgens op de knop Terug klikt en vervolgens opnieuw op de advertentie klikt, wordt met Zoeken, Sociale en Handel twee keer geklikt, maar [!DNL Google Analytics] registreert één bezoek.
 
-* [!DNL Google Analytics] toont alle verkeersgegevens, terwijl Zoeken, Sociaal, &amp; Handel (en [!DNL Google Ads]) ongeldige kliks (zoals bovenmatige, herhaalde kliks).
+* [!DNL Google Analytics] toont alle verkeersgegevens, terwijl Zoeken, Sociaal, &amp; Handel (en [!DNL Google Ads]) ongeldige kliks (zoals bovenmatige, herhaalde klikken).
 
 * [!DNL Google Analytics] bevat klikgegevens en inkomstengegevens voor alle klikken. Met Zoeken, Sociaal en Handel kunt u geen klik- en inkomstengegevens bijhouden voor advertenties en trefwoorden met onjuiste of ontbrekende URL&#39;s.
 +++
@@ -171,9 +172,9 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag zo nodig uw accountteam van Adobe om een testtransactie te maken voor elke toepasselijke conversietag en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
 
-1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociale en Koophandel bevat en klik op Doorsturen voor elke sjabloon. Uw Adobe Account Team kan een intern rapport uitvoeren om te zien of klikken-volgende URLs (het volgen malplaatjes of bestemmingsURLs) mist of misvormd.
+1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociale en Koophandel bevat en klik op Doorsturen voor elke sjabloon. Uw Adobe Account Team kan een intern rapport uitvoeren om te zien of klikken-volgende URLs (het volgen van malplaatjes of bestemmingsURLs) mist of misvormd.
 
-   Indien nodig, genereert u tekstspatiëring door een bulksbladbestand met de juiste URL&#39;s te maken en het bestand naar de juiste account te posten met de opdracht **URL&#39;s voor bijhouden genereren** optie.
+   Indien nodig, genereert u tekstspatiëring door een bulksbladbestand met de juiste URL&#39;s te maken en het bestand naar de juiste account te posten met de opdracht **URL&#39;s voor bijhouden genereren** -optie.
 
    De doel-URL moet beginnen met &quot;http://pixel.everesttech.net&quot; of &quot;https://pixel.everesttech.net&quot;.
 
@@ -185,7 +186,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oorzaken:*
 
-* Het voederbestand werd niet afgeleverd, het werd niet volledig geparseerd, of het voer bevatte verweesde transacties.
+* Het voederbestand werd niet afgeleverd, het werd niet volledig geparseerd, of het voer bevatte transacties met wezen.
 
 * De relevante transactieeigenschappen worden uitgesloten van rapporten en zijn daarom niet zichtbaar.
 
@@ -209,12 +210,12 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 +++
 
 +++Sommige geavanceerde rapporten bevatten geen omzettingsgegevens die door een adverteerdervoer worden verstrekt.
-De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service Adobe Advertising en die alleen voor adverteerders met de service kunnen worden gegenereerd. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
+De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gegevens te gebruiken die zijn vastgelegd via de service voor het bijhouden van Adoben Advertising en die alleen kunnen worden gegenereerd voor adverteerders met de service. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
 +++
 
 +++inkomstengegevens verschillen van de eigen inkomstengegevens van de adverteerder.
 
-**Adverteerders die Adobe-conversietags gebruiken**
+**Adverteerders die conversietags voor Adoben Advertising gebruiken**
 
 *Mogelijke oorzaken:*
 
@@ -230,7 +231,7 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
 1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat de relevante het volgen van omzettingen markering op alle toepasselijke webpagina&#39;s wordt uitgevoerd en niet uitgegeven tenzij uw Team van de Rekening van de Adobe u adviseert om dit te doen. Een tag ontbreekt of wordt gewijzigd als de website onlangs is bijgewerkt.
 
-   Zoek, Sociaal, &amp; Handel verwacht goed gevormde URLs (met parameters in naam-waarde paren) binnen `ef_transaction_properties` en binnen de `src` van het `img` tag.
+   Zoek, Sociaal, &amp; Handel verwacht goed gevormde URLs (met parameters in naam-waarde paren) binnen `ef_transaction_properties` en binnen de `src` element van het `img` -tag.
 
 1. Als u het probleem niet kunt bepalen en oplossen, dan [Contact opnemen met de klantenservice](/help/search-social-commerce/get-help.md).
 
@@ -260,7 +261,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
    De klantenservice controleert op fouten bij het parseren van gegevens en [verweesde transacties](/help/search-social-commerce/glossary.md#o-p).
 
-**Adverteerders met andere soorten conversiegegevensfeeds**
+**Adverteerders met andere soorten conversiegegevens**
 
 *Mogelijke oorzaken:*
 
@@ -305,7 +306,7 @@ De [!UICONTROL Portfolio Report] toont gegevens voor slechts de campagnes die aa
 +++
 
 +++How is [!UICONTROL Model Accuracy] > [!UICONTROL Forecast Accuracy Report] anders dan op portefeuilleniveau [!UICONTROL Model Accuracy Report]?
-(Alleen accountmanager van het Bureau, accountmanager van de Adobe en gebruikers van de beheerder) De [!UICONTROL Forecast Accuracy Report] beschikbaar via [!UICONTROL Reports] > [!UICONTROL Model Accuracy] verstrekt de zelfde gegevens zoals het portefeuilleniveau [!UICONTROL Model Accuracy Report] behalve dat u het over veelvoudige portefeuilles kunt in werking stellen en u kunt de attributieregel veranderen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen. Bovendien [!UICONTROL Forecast Accuracy Report] nauwkeuriger is dan het verslag op portefeuilleniveau uit het verleden, omdat het de juistheid van de opbrengsten evalueert aan de hand van de historische doelstellingen voor de portefeuille in plaats van de huidige doelstelling, en het nauwkeuriger gegevens voor de toepasselijke tijdzone vertegenwoordigt.
+(Alleen accountmanager van het Bureau, accountmanager van de Adobe en beheerders) De [!UICONTROL Forecast Accuracy Report] beschikbaar via [!UICONTROL Reports] > [!UICONTROL Model Accuracy] verstrekt de zelfde gegevens zoals het portefeuilleniveau [!UICONTROL Model Accuracy Report] behalve dat u het over veelvoudige portefeuilles kunt in werking stellen en u kunt de attributieregel veranderen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen. Bovendien [!UICONTROL Forecast Accuracy Report] nauwkeuriger is dan het verslag op portefeuilleniveau uit het verleden, omdat het de juistheid van de opbrengsten evalueert aan de hand van de historische doelstellingen voor de portefeuille in plaats van de huidige doelstelling, en het nauwkeuriger gegevens voor de toepasselijke tijdzone vertegenwoordigt.
 +++
 
 +++Gegevens op advertentieniveau zijn niet beschikbaar voor [!DNL Google Ads] dynamic search ad (DSA), performance max, smart shopping en [!DNL YouTube] campagnes.
@@ -317,7 +318,7 @@ In een transactierapport, kunt u vertellen of een inbegrepen transactiebezit doo
 +++
 
 +++De gegevens in mijn [!UICONTROL Transaction Report] komt niet overeen met de gegevens in mijn [!UICONTROL Keyword Report].
-Wanneer u beide rapporten genereert op portfolio, zijn de gegevens anders als u de [!UICONTROL Keyword Report] het gebruiken van historische gegevens (dat wil zeggen, gebaseerd op de portefeuilleconfiguratie tijdens de gespecificeerde data) eerder dan het gebruiken van gegevens voor de huidige campagnes. Wanneer u de [!UICONTROL Transaction Report] per portfolio bevat het gegevens voor de huidige campagnes in het portfolio.
+Wanneer u beide rapporten genereert op portfolio, zijn de gegevens anders als u de [!UICONTROL Keyword Report] het gebruiken van historische gegevens (d.w.z., gebaseerd op de portefeuilleconfiguratie tijdens de gespecificeerde data) eerder dan het gebruiken van gegevens voor de huidige campagnes. Wanneer u de [!UICONTROL Transaction Report] per portfolio bevat het gegevens voor de huidige campagnes in het portfolio.
 +++
 
 ## Werkbladfeeds
@@ -331,11 +332,11 @@ Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u dagelijk
 +++A-spreadsheetfeed resulteert in een interne fout.
 Deze fout kan voorkomen als u de kolommen in het rapportmalplaatje verandert maar niet bijwerkt [!DNL Microsoft® Excel] dienovereenkomstig template.
 
-Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u de nieuwe kolommen in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Zie voor meer informatie &quot;[Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
+Als u het probleem wilt verhelpen, werkt u de spreadsheetfeed bij en voegt u de nieuwe kolommen in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Zie voor meer informatie &quot;[Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
 +++
 
 +++Wanneer ik een spreadsheetfeed probeer te openen in [!DNL Excel], [!DNL Excel] meldt een fout met betrekking tot &quot;onleesbare inhoud&quot; en er worden gegevens uit de herstelde inhoud verwijderd.
-Wanneer de [!DNL Microsoft® Excel] de sjabloon sorteert gegevens niet op begindatum in oplopende volgorde, de spreadsheetfeed kan lege rijen bevatten. Met name: [!DNL Excel] meldt de fout &quot;Excel found unreadable content in &#39;&lt;*rapportnaam*>.xlsx.&#39; Wilt u de inhoud van het werkboek terugkrijgen? Als u de bron van dit werkboek vertrouwt, klik ja.&quot; Als u op &quot;Ja&quot; klikt, wordt het volgende bericht weergegeven: &quot;Verwijderde records: Celgegevens van /xl/worksheets/sheet1.xml-onderdeel&quot; en de spreadsheetfeed bevat lege rijen.
+Wanneer de [!DNL Microsoft® Excel] de sjabloon sorteert gegevens niet op begindatum in oplopende volgorde, de spreadsheetfeed kan lege rijen bevatten. Met name: [!DNL Excel] meldt de fout &quot;Excel found unreadable content in &#39;&lt;*rapportnaam*>.xlsx.&#39; Wilt u de inhoud van het werkboek terugkrijgen? Als u de bron van dit werkboek vertrouwt, klik ja.&quot; Als u &quot;ja klikt,&quot;krijgt u het volgende bericht: &quot;Verwijderd Verslagen: De informatie van de cel van /xl/worksheets/sheet1.xml deel,&quot;en de spreadsheetvoer omvat lege rijen.
 
 Als u het probleem wilt verhelpen, bewerkt u de [!DNL Excel] sjabloon gekoppeld aan feed om gegevens te sorteren op [!DNL Start date in Ascending (Oldest to Newest) order]en uploadt u de bijgewerkte sjabloon via de instellingen voor spreadsheetfeed. Zie voor meer informatie &quot;[Werkbladrapportfeeds bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
 +++

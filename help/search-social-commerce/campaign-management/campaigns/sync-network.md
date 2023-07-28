@@ -1,7 +1,9 @@
 ---
 title: Netwerkgegevens handmatig synchroniseren
 description: Leer hoe u de synchronisatie van uw campagnestructuur en campagneentiteiten voor ondersteunde advertentienetwerken handmatig kunt activeren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: da437f37-800a-4c56-b5c1-7c985ddd45c8
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '390'
 ht-degree: 0%
@@ -18,13 +20,13 @@ Zoek, Sociale, &amp; Handel synchroniseert (synchroniseert) automatisch met uw r
 
 U kunt handmatig verzoeken om synchronisatie van alle actieve en gepauzeerde campagnes in opgegeven accounts of in specifieke actieve en gepauzeerde campagnes. Deze taak verzamelt entiteiten op het advertentienetwerk die nieuw of veranderd zijn.
 
-Voor campagnes met de &quot;[!UICONTROL Auto Upload]&quot;, genereert de synchronisatiebewerking ook trackingcodes die ontbreken of moeten worden gewijzigd in de trackingsjablonen of doel-URL&#39;s. De URL&#39;s worden gegenereerd volgens de parameters in de instellingen voor bijhouden van de accountinstellingen of campagne. Als er URL&#39;s voor het bijhouden van de relevante items bestaan, worden deze niet opnieuw gegenereerd, tenzij er nieuwe URL&#39;s nodig zijn (bijvoorbeeld als het trefwoordtype, de creatieve tekst of de trackingparameters van de account zijn gewijzigd).
+Voor campagnes met de &quot;[!UICONTROL Auto Upload]&quot;, genereert de synchronisatiebewerking ook trackingcodes die ontbreken of moeten worden gewijzigd in de trackingsjablonen of doel-URL&#39;s. De URL&#39;s worden gegenereerd volgens de parameters in de instellingen voor bijhouden van de accountinstellingen of campagne. Als er URL&#39;s voor het bijhouden van de relevante items bestaan, worden deze niet opnieuw gegenereerd, tenzij er nieuwe URL&#39;s nodig zijn (bijvoorbeeld als het trefwoordtype, de creatieve tekst of de parameters voor het bijhouden van de account zijn gewijzigd).
 
 >[!NOTE]
 >
 >Altijd [een werkblad maken](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)U kunt desgewenst synchroniseren met het advertentienetwerk voordat het bulksblad wordt gemaakt.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]>[!UICONTROL Campaigns]**. Selecteer in het submenu een van de volgende opties **[!UICONTROL Accounts]** om alle campagnes in specifieke rekeningen te synchroniseren of **[!UICONTROL Campaigns]** om specifieke campagnes te synchroniseren.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]>[!UICONTROL Campaigns]**. Selecteer in het submenu een van de **[!UICONTROL Accounts]** om alle campagnes in specifieke rekeningen te synchroniseren of **[!UICONTROL Campaigns]** specifieke campagnes synchroniseren.
 
 1. (Optioneel) Filter de lijst om specifieke accounts of campagnes op te nemen.
 
@@ -37,4 +39,3 @@ U kunt de status van de synchronisatietaak volgen in het dialoogvenster [!UICONT
 >[!MORELIKETHIS]
 >
 >* [Een bulkbladbestand downloaden/maken](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
-

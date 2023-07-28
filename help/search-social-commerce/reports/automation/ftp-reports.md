@@ -1,7 +1,9 @@
 ---
 title: FTP-toegang tot rapporten
 description: Leer hoe u rapporten ontvangt op een alleen-lezen FTP-locatie.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 69850b68-0309-4f07-b4cb-c14488219a4b
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # FTP-toegang tot rapporten
 
-U kunt optioneel rapporten ontvangen op een alleen-lezen FTP-locatie, waar u de bestanden kunt ophalen voor extra geautomatiseerde processen (bijvoorbeeld om de gegevens te parseren met een ander programma). Alle basisverslagen behalve [!UICONTROL Search Engine Account Report] en alle geavanceerde rapporten kunnen op een FTP-locatie worden geleverd als gecomprimeerde TSV-bestanden (de standaardinstelling) of CSV-bestanden, met de bestandsextensie .ZIP. Alle TSV- of CSV-bestandsheaders worden opgenomen en kunnen niet worden onderdrukt.
+U kunt optioneel rapporten ontvangen op een alleen-lezen FTP-locatie, waar u de bestanden kunt ophalen voor extra geautomatiseerde processen (bijvoorbeeld om de gegevens te parseren met een ander programma). Alle basisverslagen behalve [!UICONTROL Search Engine Account Report] en alle geavanceerde rapporten kunnen aan een plaats van FTP als gecomprimeerde TSV- dossiers (het gebrek) of Csv- dossiers, met een .ZIP dossieruitbreiding worden geleverd. Alle TSV- of CSV-bestandsheaders worden opgenomen en kunnen niet worden onderdrukt.
 
 FTP-toegang tot rapporten vereist toegang tot een opgegeven FTP-account en u moet rapportsjablonen instellen met een specifieke naamgevingsconventie en een schema.
 
@@ -18,7 +20,7 @@ FTP-toegang tot rapporten vereist toegang tot een opgegeven FTP-account en u moe
 
 * Neem contact op met het accountteam van Adobe om een FTP-account in te stellen voor toegang tot rapporten.
 
-   Het team zal u van uw gebruikersbenaming en wachtwoord voorzien.
+  Het team zal u van uw gebruikersbenaming en wachtwoord voorzien.
 
 ## Rapportsjablonen instellen voor FTP-levering
 
@@ -39,6 +41,7 @@ Als u rapporten wilt genereren in uw aangewezen FTP-map, maakt u een [rapportsja
       * `[SDATE]` — Opnemen van de begindatum van het bereik van de rapportdatum.
 
       * `[EDATE]` — Opnemen van de einddatum van het bereik van de rapportdatum.
+
    * (Optioneel) `[CSV]` (in hoofdletters en tussen haakjes) om bestanden in CSV-indeling te maken in plaats van in de standaard-TSV-indeling.
 
    Voorbeeld: `[TODAY]-Portfolio-FTP-[SDATE]-[EDATE]-[CSV]` zou een bestand maken zoals 202305051656-Portfolio-FTP-20230428-20110504.csv.
@@ -51,7 +54,6 @@ Als u rapporten wilt genereren in uw aangewezen FTP-map, maakt u een [rapportsja
 >
 >* Als u voltooide rapporten per e-mail wilt verzenden, voert u gewoon de adressen van alle e-mailontvangers in wanneer u het rapport of de sjabloon genereert.
 >* Rapporten worden volgens de opgegeven schema&#39;s uitgevoerd en worden binnen een uur na voltooiing van de rapporten aan de FTP-account geleverd.
-
 
 ## Rapporten openen in een FTP-opslagplaats
 
@@ -68,4 +70,3 @@ Als u toegang wilt krijgen tot uw rapporten, maakt u verbinding met een van de v
 >[!MORELIKETHIS]
 >
 >* [Een rapportsjabloon maken](/help/search-social-commerce/reports/automation/templates/template-create.md)
-

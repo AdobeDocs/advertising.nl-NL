@@ -1,9 +1,11 @@
 ---
 title: Tekst en responsieve zoek- en sjablooninstellingen voor voorraadfeeds
 description: Verwijs naar de montages voor tekst en ontvankelijke onderzoek en malplaatjes voor inventarisvoer.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: ee3956f9-4367-40e4-bdb3-f04a8da9a5f1
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '3317'
 ht-degree: 0%
 
 ---
@@ -16,7 +18,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >* De volgende tekens zijn gereserveerd voor het aangeven van kolomnamen en wijzigingsnamen in de sjabloon en zijn daarom niet toegestaan als tekst in alle kenmerkvelden:  `[ ] < > `
->* In [!DNL Yandex templates]kunt u de dynamische parameters gebruiken `{param1}` en `{param2}` alleen in URL&#39;s, en u kunt geen dynamische prijstoevoeging in beschrijvingen van advertenties gebruiken.
+>* In [!DNL Yandex templates], kunt u de dynamische parameters gebruiken `{param1}` en `{param2}` alleen in URL&#39;s, en u kunt geen dynamische prijstoevoeging in beschrijvingen van advertenties gebruiken.
 
 ## \[Boven alle tabbladen\]
 
@@ -48,7 +50,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/inventory-feed-template-campaign.md}}
 
-**[!UICONTROL Map Only]:** (Optioneel) Hiermee kunt u alle nieuwe advertentiegroepen toewijzen (niet beschikbaar voor [!DNL Yandex]), trefwoorden en advertenties aan bestaande campagnes in plaats van campagnes te maken. Als u deze optie inschakelt, selecteert u de toewijzingsmethode.
+**[!UICONTROL Map Only]:** (Optioneel) Hiermee kunt u alle nieuwe advertentiegroepen toewijzen (niet beschikbaar voor [!DNL Yandex]), trefwoorden en advertenties aan bestaande campagnes in plaats van campagnes te maken. Selecteer de toewijzingsmethode als u deze optie inschakelt.
 
 Gebruiken [!UICONTROL Map Only] op campagnereniveau is een bestaande accountstructuur vereist die nauw verbonden is met de producttaxonomie en eenvoudig kan worden toegewezen aan de gegevensinvoer .
 
@@ -58,13 +60,13 @@ Gebruiken [!UICONTROL Map Only] op campagnereniveau is een bestaande accountstru
 
 * *[!UICONTROL Contains Exactly]:* Hiermee worden gegevens toegevoegd aan een bestaande campagne waarvan de naam de opgegeven tekenreeks bevat, als deze bestaat.
 
-* *[!UICONTROL Exactly Matches]* (de standaardinstelling): Hiermee voegt u gegevens toe aan een bestaande campagne met dezelfde naam, als deze bestaat.
+* *[!UICONTROL Exactly Matches]* (standaard): voegt gegevens toe aan een bestaande campagne met dezelfde naam, als deze bestaat.
 
 Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne genegeerd. Als er meerdere overeenkomende campagnes zijn gevonden, worden de trefwoorden en advertenties aan alle toegewezen.
 
-**[!UICONTROL Campaign Tracking Template]:** (Alleen accounts met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon voor bijhouden op campagnereniveau, waarmee alle parameters voor omleiding en tekstspatiëring buiten het landingsdomein worden opgegeven en de laatste URL in een parameter wordt ingesloten. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
+**[!UICONTROL Campaign Tracking Template]:** (Accounts met alleen final/advanced URLs; optioneel) The campagne-level tracking template, that specifies all off-landing domain redirects and tracking parameters and embed the final URL in a parameter. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
 
-* Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
+* Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 * De uiteindelijke URL insluiten:
 
@@ -108,7 +110,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
   ([!DNL Google Ads] campagnes) Biedingen opnemen in aanbiedingen voor [!DNL Google Ads] zoekpartners, schakel het selectievakje in naast **[!UICONTROL Search partners]**.
 
-* *[!UICONTROL Content]:* Biedt voor plaatsingen op (weergave)netwerklijsten met inhoud. **Opmerking:** U kunt geen plaatsingen tot stand brengen gebruikend het malplaatje. Wanneer u deze optie selecteert, maakt u plaatsingen voor elke advertentiegroep en geeft u op welke pagina&#39;s in het weergavenetwerk u als doel voor elke advertentiegroep instelt met behulp van <!-- insert link --> bolletjes of de <!-- insert links --> en groep- en plaatsingsinstellingen in het dialoogvenster [!UICONTROL Search] > [!UICONTROL Campaigns] weergaven.
+* *[!UICONTROL Content]:* Biedt voor plaatsingen op (weergave)netwerklijsten met inhoud. **Opmerking:** U kunt geen plaatsingen tot stand brengen gebruikend het malplaatje. Wanneer u deze optie selecteert, maakt u plaatsingen voor elke advertentiegroep en geeft u op welke pagina&#39;s in het weergavenetwerk u als doel voor elke advertentiegroep instelt met behulp van <!-- insert link --> bolletjes of <!-- insert links --> en groepeer en plaatsingsmontages in [!UICONTROL Search] > [!UICONTROL Campaigns] weergaven.
 
 **[!UICONTROL Languages]:** ([!DNL Google Ads] (alleen zoeken en weergeven in netwerken) Een of meer doeltalen voor advertenties in de campagne.
 
@@ -134,7 +136,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 **[!UICONTROL Ad Group Tracking Template]:** (Alleen accounts met definitieve/geavanceerde URL&#39;s) De sjabloon voor reeksspatiëring op advertentieniveau, die alle parameters voor het omleiden en volgen van domeinen opgeeft en de laatste URL in een parameter insluit.
 
-Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
+Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de landingspagina aangeven:
 
@@ -166,39 +168,39 @@ Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische paramet
 
 * Voor [!DNL Google Ads], [!DNL Microsoft® Advertising], en [!DNL Yahoo! Japan Ads] sjablonen:
 
-   * Voor dynamische parameters: Brede overeenkomst = `[keyword]`, Brede matchmodifier voor de eerste term in de [!UICONTROL Keyword] kolom (bijvoorbeeld +blue suede schoenen) = `+[keyword]`, Brede overeenkomst Modifier voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`, Phrase Match = `"[keyword]"`, Exacte overeenkomst = `[[keyword]]`
+   * Voor dynamische parameters: brede overeenkomst = `[keyword]`, Brede matchmodifier voor de eerste term in de [!UICONTROL Keyword] kolom (bijvoorbeeld +blue suede schoenen) = `+[keyword]`, Brede overeenkomst Modifier voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`, Phrase Match = `"[keyword]"`, Exacte overeenkomst = `[[keyword]]`
 
-   * Voor statische trefwoorden: Brede overeenkomst = `keyword`, Brede overeenkomende modifier = `+keyword`, of Phrase Match = `"keyword"`
+   * Voor statische trefwoorden: brede overeenkomst = `keyword`, Brede overeenkomende modifier = `+keyword`, of Phrase Match = `"keyword"`
 
      U kunt hier geen statische trefwoorden invoeren die exact overeenkomen met de standaard overeenkomende syntaxis omdat ze tussen haakjes staan (`[]`), zoals dynamische parameters.
 
 * Voor [!DNL Yandex] sjablonen:
 
-   * Voor dynamische parameters: Voeg de kolomnaam in, bijvoorbeeld `[keyword]`. Als u overeenkomende typen wilt aangeven, gebruikt u de opdracht [[!DNL Yandex]-specifieke syntaxis](https://yandex.com/support/direct/keywords/symbols-and-operators.html). **Opmerking:** Gebruik de volgende syntaxis voor algemene overeenkomende termen: Brede overeenkomst Modifier voor de eerste termijn in de kolom van het Sleutelwoord (zoals +blue suede schoenen) = `+[keyword]`, Brede overeenkomst Modifier voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`
+   * Voor dynamische parameters: voeg de kolomnaam in, zoals `[keyword]`. Als u overeenkomende typen wilt aangeven, gebruikt u de opdracht [[!DNL Yandex]-specifieke syntaxis](https://yandex.com/support/direct/keywords/symbols-and-operators.html). **Opmerking:** Gebruik voor brede overeenkomsten de volgende syntaxis: Brede overeenkomst Modifier voor de eerste term in de kolom Trefwoord (zoals +blue suede schoenen) = `+[keyword]`, Brede overeenkomst Modifier voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`
 
-   * Voor statische trefwoorden: Alleen zoektrefwoorden worden ondersteund. Gebruik de [[!DNL Yandex]-specifieke syntaxis](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor het trefwoord. Haakjes (`[]`) om de woordvolgorde aan te geven, wordt niet ondersteund.
+   * Voor statische trefwoorden: alleen zoektrefwoorden worden ondersteund. Gebruik de [[!DNL Yandex]-specifieke syntaxis](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor het trefwoord. Haakjes (`[]`) om de woordvolgorde aan te geven, wordt niet ondersteund.
 
 >[!NOTE]
 >
 >* U kunt handmatig meerdere wijzigingwaarden opnemen in het veld Trefwoorden door met komma&#39;s gescheiden waarden tussen haakjes in te sluiten voor of na een trefwoordparameter (maar niet op beide plaatsen). Bijvoorbeeld: `(cheap, discount, affordable)[product]` produceert drie afzonderlijke advertenties voor elk product.
 >* Als u geen overeenkomend type specificeert, dan wordt het standaard gelijke type &quot;breed&quot;gebruikt.
 * Negatieve overeenkomsten worden niet ondersteund.
-* Google-trefwoorden voor brede overeenkomsten hebben nu hetzelfde gedrag als woordcombinaties die overeenkomen voor bepaalde talen en u kunt geen nieuwe trefwoorden voor uitgebreide overeenkomsten maken. Zie de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/10286719) voor meer informatie .
+* Google-trefwoorden voor brede overeenkomsten hebben nu hetzelfde gedrag als woordcombinaties die overeenkomen voor bepaalde talen en u kunt geen nieuwe trefwoorden voor brede overeenkomsten maken. Zie de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/10286719) voor meer informatie .
 
 **[!UICONTROL Map Only]:** Hiermee voegt u nieuwe advertenties toe aan advertentiegroepen (of aan campagnes voor [!DNL Yandex] accounts) waarin de opgegeven trefwoorden worden gevonden, in plaats van nieuwe trefwoorden te maken. Schakel het selectievakje in om deze optie in te schakelen. Wanneer deze optie wordt toegelaten, zijn om het even welk Param 1 en Paragraaf 2 variabelen in de gespecificeerde sleutelwoorden niet van toepassing omdat de sleutelwoorden bestaan.
 
-**[!UICONTROL Keyword Final URL]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De URL van de bestemmingspagina waarnaar netwerkgebruikers worden geleid wanneer zij op uw advertentie klikken. De URL moet hetzelfde domein bevatten als de URL van de weergave en alle parameters in de uiteindelijke URL moeten overeenkomen met de parameters in de URL van de bestemmingspagina na de advertentie. Het kan omleidingen binnen het landende paginadomein of subdomain bevatten maar geen omleidingen buiten het landende paginadomein.
+**[!UICONTROL Keyword Final URL]:** (Accounts met final/advanced URLs; optioneel) De bestemmingspagina-URL waarnaar netwerkgebruikers worden geleid wanneer zij op uw advertentie klikken. De URL moet hetzelfde domein bevatten als de URL van de weergave en alle parameters in de uiteindelijke URL moeten overeenkomen met de parameters in de URL van de bestemmingspagina na de advertentie. Het kan omleidingen binnen het landende paginadomein of subdomain bevatten maar geen omleidingen buiten het landende paginadomein.
 
 Als u een [!DNL Google Merchant Center] Geef deze waarde op in het veld &quot;[!DNL Link]&quot;, en voeg dan die kolom op dit gebied in.
 
 >[!NOTE]
 >
 * Als u het volgen URLs produceert wanneer u gegevens die door het malplaatje worden verspreid post, worden het volgen parameters toegevoegd aan deze waarde die op de rekening het volgen montages wordt gebaseerd.
-* ([!DNL Google Ads] accounts) Vermijd het gebruik van macro&#39;s, die niet worden vervangen door klikken van bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het accountteam van Adobe samenwerken met de klantenondersteuning of het implementatieteam om deze toe te voegen.
+* ([!DNL Google Ads] accounts) Vermijd het gebruik van macro&#39;s, die niet worden vervangen door klikken van bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe-accountteam samenwerken met Klantenondersteuning of het implementatieteam om deze toe te voegen.
 
-**[!UICONTROL Keyword Tracking Template]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon tracking, die alle parameters voor het omleiden en volgen van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter insluit. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
+**[!UICONTROL Keyword Tracking Template]:** (Accounts met final/advanced URLs; optional) The tracking template, that specifies all off-landing domain redirects and tracking parameters and embed the final URL in a parameter. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
 
-* Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
+* Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 * U kunt desgewenst omleidingen en reeksspatiëring van derden invoeren.
 
@@ -212,17 +214,17 @@ Als u een [!DNL Google Merchant Center] Geef deze waarde op in het veld &quot;[!
 
 Als u een van beide parameters gebruikt, kunt u de parameter alleen op nieuwe trefwoorden toepassen of de waarden van bestaande trefwoorden bijwerken die niet op basis van de sjabloon zijn gemaakt:
 
-* **[!UICONTROL Do Not Apply to Existing Keywords]** (de standaardinstelling): Hiermee voegt u eenvoudig de waarde van de parameter in voor nieuwe trefwoorden die met de sjabloon worden gemaakt.
+* **[!UICONTROL Do Not Apply to Existing Keywords]** (de standaardwaarde): voegt eenvoudig de waarde van de parameter in voor nieuwe trefwoorden die met de sjabloon worden gemaakt.
 
-* **[!UICONTROL Apply to Existing Keywords: Constant]:** Naast het creëren van nieuwe sleutelwoorden van het voer, werkt het Onderzoek, Sociale, &amp; Handel ook de waarde van de parameter voor alle bestaande sleutelwoorden in de ad groep bij die niet gebruikend het malplaatje werden gecreeerd. Voer één numerieke waarde in die voor al deze trefwoorden wordt gebruikt. De sjabloon moet minstens één trefwoord bevatten.
+* **[!UICONTROL Apply to Existing Keywords: Constant]:** Naast het creëren van nieuwe sleutelwoorden van het voer, werkt het Onderzoek, Sociale, &amp; Handel ook de waarde van de parameter voor alle bestaande sleutelwoorden in de ad groep bij die niet gebruikend het malplaatje werden gecreeerd. Voer één numerieke waarde in die voor al deze trefwoorden wordt gebruikt. De sjabloon moet ten minste één trefwoord bevatten.
 
-* **[!UICONTROL Apply to Existing Keywords: Min]:** Naast het creëren van nieuwe sleutelwoorden van het voer, werkt het Onderzoek, Sociale, &amp; Handel ook de waarde van de parameter voor alle bestaande sleutelwoorden in de ad groep bij die niet gebruikend het malplaatje werden gecreeerd zolang het voederdossier numerieke waarden voor de parameter, met maximaal één decimaalteken maar zonder komma&#39;s, muntsymbolen of codes, of andere karakters bevat. De minimumwaarde voor de parameter in het feed-bestand wordt gebruikt voor alle bestaande trefwoorden. Als het feed-bestand bijvoorbeeld [!UICONTROL Param1] waarden van 21500 en 22000, dan [!UICONTROL Param1] De waarden voor de bestaande trefwoorden worden gewijzigd in 21500. De sjabloon moet minstens één trefwoord bevatten. **Tip:** Gebruik deze optie alleen als u strak georiënteerde ad-hocgroepen hebt, zodat het logisch is dat trefwoorden dezelfde waarde hebben.
+* **[!UICONTROL Apply to Existing Keywords: Min]:** Naast het creëren van nieuwe sleutelwoorden van het voer, werkt het Onderzoek, Sociale, &amp; Handel ook de waarde van de parameter voor alle bestaande sleutelwoorden in de ad groep bij die niet gebruikend het malplaatje werden gecreeerd zolang het voederdossier numerieke waarden voor de parameter, met maximaal één decimaalteken maar zonder komma&#39;s, muntsymbolen of codes, of andere karakters bevat. De minimumwaarde voor de parameter in het feed-bestand wordt gebruikt voor alle bestaande trefwoorden. Als het feed-bestand bijvoorbeeld [!UICONTROL Param1] waarden van 21500 en 22000, dan [!UICONTROL Param1] De waarden voor de bestaande trefwoorden worden gewijzigd in 21500. De sjabloon moet ten minste één trefwoord bevatten. **Tip:** Gebruik deze optie alleen als u strak georiënteerde ad-hocgroepen hebt, zodat het logisch is dat trefwoorden dezelfde waarde hebben.
 
 De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen alleen bestaan uit numerieke gegevens met de volgende niet-numerieke tekens:
 
 * (Wanneer u &quot;[!UICONTROL Apply to Existing Keywords: Min]&quot; parameter) Alleen tot één decimaalteken.
 
-* (Wanneer u niet &quot;[!UICONTROL Apply to Existing Keywords: Min]&quot;parameter):
+* (Wanneer u niet de &quot;[!UICONTROL Apply to Existing Keywords: Min]&quot;parameter):
 
    * De waarde kan worden voorafgegaan of toegevoegd met een valutasymbool of -code. Zo zijn £ 2.000,00 en GBP 2000 geldig.
 
@@ -232,11 +234,11 @@ De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen a
 
    * Twee getallen kunnen worden ingesloten met een slash. 4/1 en 0.95/0.45 zijn bijvoorbeeld geldig.
 
-**[!UICONTROL Param 2]\[[!DNL Microsoft® Advertising] sjablonen\]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param2}` dynamische substitutiereeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van het advertentie-element waarin u het element gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
+**[!UICONTROL Param 2]\[[!DNL Microsoft® Advertising] sjablonen\]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param2}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van het advertentie-element waarin u het element gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
-**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param3}` dynamische substitutiereeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van het advertentie-element waarin u het element gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
+**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param3}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van het advertentie-element waarin u het element gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
-**[!UICONTROL Initial Bid (&lt;Match Type or Ad Type>)]:** Het eerste bod voor elk trefwoord met het opgegeven overeenkomende type of advertentietype.
+**[!UICONTROL Initial Bid (<Match Type or Ad Type>)]:** Het eerste bod voor elk trefwoord met het opgegeven overeenkomende type of advertentietype.
 
 ## [!UICONTROL Ads]
 
@@ -250,13 +252,13 @@ De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen a
 
 Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere titels vastzet op dezelfde positie, bevat de laatste en altijd een van deze titels op de opgegeven positie. Titels die op positie 3 zijn vastgezet, worden mogelijk niet met de advertentie weergegeven.
 
-**[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]**, **[!UICONTROL Headline 3]:** (Alleen voor responsieve zoekadvertenties) De titels van de advertentie (koppen). Elke variatie in advertentie moet ten minste drie, en ten hoogste 15, en titels bevatten. Het advertentienetwerk toont advertenties met maximaal drie koppen. De maximumlengte voor elke titel is 30 tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).
+**[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]**, **[!UICONTROL Headline 3]:** (Alleen voor responsieve zoekopdrachten) De titels van de advertentie (koppen). Elke variatie in advertentie moet ten minste drie, en ten hoogste 15, en titels bevatten. Het advertentienetwerk toont advertenties met maximaal drie koppen. De maximumlengte voor elke titel is 30 tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).
 
 <!-- using a snippet for the note instead of an include because this is used multiple times on the page, which ExL doesn't support for includes -->
 
 {{inventory-feed-template-insert-ad-customizer}}
 
-**[!UICONTROL Ad Title]:** (Alleen bestaande Microsoft® Advertising Standard Text Advertising; alleen-lezen) De titel, of eerste regel, van een advertentie. Microsoft® Advertising heeft het maken en bewerken van standaard tekstadvertenties vervangen.
+**[!UICONTROL Ad Title]:** (Bestaande Microsoft® Advertising Standard text ads only; read-only) De titel, of eerste regel, van een advertentie. Microsoft® Advertising heeft het maken en bewerken van standaard tekstadvertenties vervangen.
 
 **[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]:** ([!DNL Google Ads] en [!DNL Yahoo! Japan Ads] (alleen uitgevouwen/uitgebreide tekst en sjablonen) De kop van een advertentie. De maximumlengte voor elke regel (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
 
@@ -264,7 +266,7 @@ Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere t
 
 {{inventory-feed-template-insert-dynamic-parameter}}
 
-**[!UICONTROL Headline 3]:** ([!DNL Google Ads] alleen uitgevouwen tekst en sjablonen; (optioneel) Een derde kopregel voor een advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
+**[!UICONTROL Headline 3]:** ([!DNL Google Ads] alleen uitgevouwen tekst en sjablonen; optioneel) Een derde kopregel voor een advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
 
 **[!UICONTROL Title]:** ([!DNL Yandex] alleen) De titel, of eerste regel, van een advertentie. Het maximum aantal tekens is 33.
 
@@ -278,7 +280,7 @@ Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere t
 
 ### [!UICONTROL Descriptions]
 
-**[!UICONTROL Description]:** Het lichaam van de advertentie.
+**[!UICONTROL Description]:** De hoofdtekst van de advertentie.
 
 * (Google voegt uitgebreide tekst en sjablonen toe) De maximumlengte (nadat eventuele dynamische parameters zijn vervangen) is 90 tekens of 45 double-byte tekens.
 
@@ -294,17 +296,17 @@ Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere t
 
 Als u meerdere beschrijvingen op dezelfde positie vastzet, wordt in de laatste en altijd een van deze beschrijvingen op de opgegeven positie geplaatst. Beschrijvingen die op positie 2 zijn vastgezet, mogen niet met de advertentie worden getoond.
 
-**[!UICONTROL Description 1]**, **[!UICONTROL Description 2]:** (Alleen responsieve zoekadvertenties) De beschrijvingen van de advertentie. Elke advertentievariatie moet ten minste twee en maximaal vier beschrijvingen bevatten. Het advertentienetwerk toont advertenties met maximaal twee beschrijvingen; Voer ten minste twee in. De maximale lengte voor elke beschrijving is 90 tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).
+**[!UICONTROL Description 1]**, **[!UICONTROL Description 2]:** (Alleen responsieve zoekadvertenties) De beschrijvingen van de advertentie. Elke advertentievariatie moet ten minste twee en maximaal vier beschrijvingen bevatten. Het advertentienetwerk toont advertenties met maximaal twee beschrijvingen; ga minstens twee in. De maximale lengte voor elke beschrijving is 90 tekens, inclusief alle dynamische tekst (zoals de waarden van trefwoorden en adverteerders).
 
 <!-- using a snippet for the note instead of an include because this is used multiple times on the page, which ExL doesn't support for includes -->
 
 {{inventory-feed-template-insert-ad-customizer}}
 
-**[!UICONTROL Description 2]:** (Alleen uitgebreide tekst en sjablonen in Google; (optioneel) Een tweede regel van de advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 90 tekens of 45 double-byte tekens.
+**[!UICONTROL Description 2]:** (Google heeft alleen tekst en sjablonen uitgevouwen; optioneel) Een tweede regel van de advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 90 tekens of 45 double-byte tekens.
 
 ### [!UICONTROL Path]
 
-**[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** (Alleen uitgebreide tekst en responsieve zoekopdrachten; (optioneel) Een of twee URL-paden die achtereenvolgens na de basis-URL moeten worden opgenomen. Zij zouden het product of de dienst in de advertentie meer in detail moeten beschrijven. Als u bijvoorbeeld een [!UICONTROL Display Path 1] van &quot;Shoes&quot; en [!UICONTROL Display Path 2] van &quot;Outdoor&quot; naar de basis-URL www.example.com, is de URL www.example.com/Shoes/Outdoor. De maximumlengte (nadat dynamische parameters zijn vervangen) voor elk veld is 15 tekens of 7 double-byte tekens.
+**[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** (Alleen uitgevouwen tekst en responsieve zoekopdrachten; optioneel) Een of twee URL-paden die na de basis-URL worden ingevoegd. Zij zouden het product of de dienst in de advertentie meer in detail moeten beschrijven. Als u bijvoorbeeld een [!UICONTROL Display Path 1] van &quot;Shoes&quot; en [!UICONTROL Display Path 2] van &quot;Outdoor&quot; naar de basis-URL www.example.com, is de URL www.example.com/Shoes/Outdoor. De maximumlengte (nadat dynamische parameters zijn vervangen) voor elk veld is 15 tekens of 7 double-byte tekens.
 
 Voor responsieve zoekadvertenties voegt u een advertentieklanker in met de volgende indelingen, waarbij `Default text` is een optionele waarde die moet worden ingevoegd wanneer uw feed geen geldige waarde bevat:
 
@@ -312,7 +314,7 @@ Voor responsieve zoekadvertenties voegt u een advertentieklanker in met de volge
 
 * [!DNL Microsoft® Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`
 
-**[!UICONTROL Display URL]:** (Bestaande [!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] alleen standaardtekstadvertenties; (alleen-lezen) De URL die wordt weergegeven in een advertentie.
+**[!UICONTROL Display URL]:** (Bestaande [!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] alleen standaardtekstadvertenties; alleen-lezen) De URL die in een advertentie wordt weergegeven.
 
 [!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] hebben het maken en bewerken van standaardtekstadvertenties vervangen.
 
@@ -329,9 +331,9 @@ Als u een [!DNL Google Merchant] De feed centreren en deze waarde opnemen in het
 * Als u het volgen URLs produceert wanneer u gegevens die door het malplaatje worden verspreid post, dan worden het volgen parameters toegevoegd aan deze waarde die op de rekening het volgen montages wordt gebaseerd.
 * ([!DNL Google Ads] accounts ) Gebruik geen macro&#39;s, die niet worden vervangen door klikken op bronnen die parallelle tracking mogelijk maken. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe Account Team met de Klantenondersteuning of het implementatieteam samenwerken om deze toe te voegen.
 
-**[!UICONTROL Tracking Template]:** (Rekeningen met definitieve/geavanceerde URL&#39;s; (optioneel) De sjabloon tracking, die alle parameters voor het omleiden en volgen van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter insluit. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
+**[!UICONTROL Tracking Template]:** (Accounts met final/advanced URLs; optional) The tracking template, that specifies all off-landing domain redirects and tracking parameters and embed the final URL in a parameter. De volgende malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelige) treedt waarden op alle andere niveaus met voeten.
 
-Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
+Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel voegt automatisch omleiding en volgende code toe wanneer u sparen het verslag.
 
 Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de landingspagina aangeven:
 

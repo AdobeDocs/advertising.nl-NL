@@ -3,7 +3,8 @@ title: Een [!DNL Google Analytics] weergeven als gegevensbron
 description: Leer hoe te om een gegevensbron van een te vormen [!DNL Google Analytics] weergeven.
 role: User, Admin
 exl-id: 583cf9aa-861c-4faf-a707-1def4e983b93
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+feature: Search Admin, Search Data Sources
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -34,17 +35,17 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
 
       1. Voer de numerieke id in voor de [!DNL Google Analytics] account.
 
-      1. Voer het e-mailadres in dat u wilt gebruiken voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet zijn geregistreerd bij een [!DNL Google] -account en beschikken over &quot;Lezen en analyseren&quot;-machtigingen voor de [!DNL Google Analytics] account. Zie de [instructies voor het toewijzen van gebruikersmachtigingen in [!DNL Google Analytics]](https://support.google.com/analytics/answer/9305587).
+      1. Voer het e-mailadres in dat u wilt gebruiken voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet bij een [!DNL Google] -account en beschikken over &quot;Lezen en analyseren&quot;-machtigingen voor de [!DNL Google Analytics] account. Zie de [instructies voor het toewijzen van gebruikersmachtigingen in [!DNL Google Analytics]](https://support.google.com/analytics/answer/9305587).
 
          >[!TIP]
          >
-         >Alleen specifieke [!DNL Google Analytics] In Adobe Advertising zijn eigenschappen en weergaven beschikbaar. Meld u aan met een e-mailadres dat alleen die eigenschappen en weergaven kan gebruiken.
+         >Alleen specifieke [!DNL Google Analytics] De eigenschappen en de meningen zijn beschikbaar binnen Adobe Advertising, login gebruikend een e-mailadres dat toegang tot slechts die eigenschappen en meningen heeft.
 
          >[!NOTE]
          >
          >Als u het wachtwoord voor deze e-mailaccount later wijzigt, worden alle open verbindingen met de e-mailaccount gesloten. Als u het synchroniseren van gegevens wilt hervatten, gaat u terug naar deze pagina en [opnieuw verifiëren](data-source-reauthenticate.md).
 
-      1. Schakel het selectievakje in om Adobe-advertenties toegang te geven tot cijfers voor het account.
+      1. Schakel het selectievakje in om Adobe Advertising toegang te geven tot gegevens voor de account.
 
       1. Klik op **[!UICONTROL Authenticate]**.
 
@@ -56,13 +57,13 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
 
       >[!WARNING]
       >
-      >[!DNL Google Analytics] staat maximaal 10 metriek in één enkele gegevensvoer toe. Zoeken, sociale zaken en handel kunnen maximaal twee feeds met in totaal 20 metriek ondersteunen, maar door een tweede feed te gebruiken worden uw API-aanroepen verdubbeld tot [!DNL Google Analytics]. Als u veel metriek hebt, selecteer slechts de metriek die u in doelstellingen voor optimalisering wilt gebruiken. Meer informatie over [quota&#39;s en oproeplimieten voor API-aanvragen voor [!DNL Google Analytics]](https://developers.google.com/analytics/devguides/reporting/core/v4/limits-quotas).
+      >[!DNL Google Analytics] staat maximaal 10 metriek in één enkele gegevensvoer toe. Zoeken, sociale zaken en handel kunnen maximaal twee feeds met in totaal 20 metriek ondersteunen, maar door een tweede feed te gebruiken worden uw API-aanroepen verdubbeld naar [!DNL Google Analytics]. Als u veel metriek hebt, selecteer slechts de metriek die u in doelstellingen voor optimalisering wilt gebruiken. Meer informatie over [quota&#39;s en oproeplimieten voor API-aanvragen voor [!DNL Google Analytics]](https://developers.google.com/analytics/devguides/reporting/core/v4/limits-quotas).
 
    1. In de [!UICONTROL Metric Tag] de naam van de tag in die u aan elke metrische waarde voor de gegevensbron wilt toevoegen.
 
-1. Klik in de rechterbovenhoek op **[!UICONTROL Post]**.
+1. Klik rechtsboven op **[!UICONTROL Post]**.
 
-   De gegevensbron krijgt de naam &quot;AccountName > PropertyName > ViewName&quot; en wordt automatisch geactiveerd. Als u de gegevensbron wilt pauzeren, raadpleegt u &quot;[Een feed onderbreken vanuit een gegevensbron](data-source-pause.md).&quot;
+   De gegevensbron krijgt de naam &quot;AccountName > PropertyName > ViewName&quot; en wordt automatisch geactiveerd. Als u de gegevensbron wilt onderbreken, raadpleegt u &quot;[Een feed onderbreken vanuit een gegevensbron](data-source-pause.md).&quot;
 
    De metriek zijn beschikbaar de volgende dag na voltooiing van de dagelijkse gegevenssynchronisatie, die om 05:00 in de tijdzone van de adverteerder begint. Zodra de metriek beschikbaar zijn, zijn zij zichtbaar in [[!UICONTROL Admin] > [!UICONTROL Transaction Properties]](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md). Elke nieuwe transactieeigenschap krijgt de naam &quot;`ga:backEndMetricName_propertyID_viewID`,&quot; waarbij &quot;backEndMetricName&quot; de metrische naam is die door de API wordt gebruikt. De vertoningsnaam voor elk nieuw transactiebezit is &quot;`friendlyMetricName_ga:MetricTag`,&quot; waarbij &quot;VriendelijkeMetricName&quot; de metrische naam is die wordt weergegeven in [!DNL Google Analytics] en &quot;MetricTag&quot; is de [!UICONTROL Metric Tag] gedefinieerd in de gegevensbroninstellingen.
 

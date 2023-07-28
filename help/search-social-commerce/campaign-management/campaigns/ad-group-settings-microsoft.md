@@ -1,22 +1,24 @@
 ---
-title: "[!DNL Microsoft Advertising] ad group settings"
+title: '[!DNL Microsoft Advertising] ad group settings'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] ad groepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 5dfa766d-2a42-455d-a340-e72e11a38032
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '574'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Advertising] groepsinstellingen
+# [!DNL Microsoft Advertising] groepsinstellingen toevoegen
 
 ## [!UICONTROL Adgroup Details]
 
 **[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die uniek is in de campagne. De maximumlengte is 128 tekens.
 
-**[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardinstelling voor nieuwe advertentiegroepen is *Actief*.
+**[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiegroepen is *Actief*.
 
-**[!UICONTROL Ad Language]:** De doeltaal voor advertenties.<!-- Which campaign types? Not there for audience image-based ad groups. -->
+**[!UICONTROL Ad Language]:** The target language for ads.<!-- Which campaign types? Not there for audience image-based ad groups. -->
 
 <!-- **[!UICONTROL Start Date]:** -->
 
@@ -32,7 +34,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
 
-* *[!UICONTROL Only Microsoft Advertising and Yahoo! syndicated search partners]:* Biedingen voor advertenties plaatsen op gesynchroniseerde partnersites.
+* *[!UICONTROL Only Microsoft Advertising and Yahoo! syndicated search partners]:* Biedt voor advertenties op gesynchroniseerde partnersites.
 
 * *[!UICONTROL Content network]:* Vervangen
 
@@ -62,7 +64,7 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 {{$include /help/_includes/devices.md}}
 
-**[!UICONTROL Gender]:** (Publiek en groepen; (facultatief) specifieke geslachten die als doel moeten worden opgenomen of uitgesloten: *[!UICONTROL Male]*, *[!UICONTROL Female]*, en *[!UICONTROL Unknown]*. Standaard zijn alle genders gericht. Uitsluitingen hebben altijd voorrang op insluitingen.
+**[!UICONTROL Gender]:** (Publiek en groepen; facultatief) specifieke geslachten om als doel op te nemen of uit te sluiten: *[!UICONTROL Male]*, *[!UICONTROL Female]*, en *[!UICONTROL Unknown]*. Standaard worden alle genders als doelgroep gebruikt. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
@@ -70,7 +72,7 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 * Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
-**[!UICONTROL Age]:** (Publiek en groepen; (facultatief) specifieke leeftijdscategorieën die als streefcijfers moeten worden opgenomen of uitgesloten: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]*, en *[!UICONTROL Unknown]*. Standaard worden alle leeftijden als doelgroep gebruikt. Uitsluitingen hebben altijd voorrang op insluitingen.
+**[!UICONTROL Age]:** (Publiek en groepen; facultatief) specifieke leeftijdscategorieën die als streefcijfers moeten worden opgenomen of uitgesloten: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]*, en *[!UICONTROL Unknown]*. Standaard worden alle leeftijden als doelgroep gebruikt. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
@@ -78,7 +80,7 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 * Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
-**[!UICONTROL Industry]:** (Publiek en groepen; (facultatief) specifieke industrieën om als streefcijfers op te nemen of uit te sluiten. Standaard zijn alle industrieën gericht. Uitsluitingen hebben altijd voorrang op insluitingen.
+**[!UICONTROL Industry]:** (Publiek en groepen; facultatief) specifieke bedrijfstakken om als streefcijfers op te nemen of uit te sluiten. Standaard zijn alle industrieën gericht. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
@@ -86,7 +88,7 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 * Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
-**[!UICONTROL Job Function Targets]:** (Publiek en groepen; (facultatief) specifieke functies om als doelstellingen op te nemen of uit te sluiten. Standaard worden alle functies geactiveerd. Uitsluitingen hebben altijd voorrang op insluitingen.
+**[!UICONTROL Job Function Targets]:** (Publiek en groepen; facultatief) specifieke functies om als doelen op te nemen of uit te sluiten. Standaard worden alle functies geactiveerd. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
@@ -116,11 +118,10 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 ## [!UICONTROL Negative Websites]
 
-**[!UICONTROL Negative Websites]:** (Alleen campagnes op het display/native netwerk; (optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
+**[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
 Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advertising op &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Advertentiegroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
-
+>* [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

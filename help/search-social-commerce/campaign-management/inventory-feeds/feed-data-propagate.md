@@ -1,7 +1,9 @@
 ---
 title: Gegevens over voorraadfeed doorgeven via sjablonen
 description: Meer informatie over het doorgeven van gegevens uit uw voorraad via advertentiesjablonen om de accountstructuur te beheren en dynamische advertenties te leveren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 40de75e8-8440-48f4-9fa7-1aeb2ae392c5
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '874'
 ht-degree: 0%
@@ -14,7 +16,7 @@ ht-degree: 0%
 
 Nadat u een ad-netwerkspecifieke voedermalplaatje creeert en een voederdossier of een [!DNL Google] of [!DNL Microsoft®] handelaarscentrum-account met dit account, kunt u dynamisch advertenties maken door de voedergegevens via de sjabloon door te geven volgens de [gegevensinstellingen van feed](feed-settings-manage.md). Tijdens propagatie, worden de kolomnamen in het malplaatje vervangen met gegevenswaarden in het voer, en de geproduceerde campagnes en hun componenten hebben de standaardmontages tenzij het malplaatje anders specificeert. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Handel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties of wijst u de advertenties toe aan de bestaande accountstructuur.
 
-Wanneer nieuwe feed-gegevens nieuwe gegevenswaarden voor een item bevatten of de sjabloon is gewijzigd, worden bestaande advertenties verwijderd en worden nieuwe advertenties gemaakt. Als de enige wijziging de aanwijzing van [!DNL Google Ads] Param 1 en Paragraaf 2, dan slechts worden die waarden bijgewerkt. Er worden nooit dubbele advertenties gemaakt (dezelfde pagina voor kopiëren en landen).
+Wanneer nieuwe feed-gegevens nieuwe gegevenswaarden voor een item bevatten of de sjabloon is gewijzigd, worden bestaande advertenties verwijderd en worden nieuwe advertenties gemaakt. Als de enige wijziging de aanwijzing van [!DNL Google Ads] Param 1 en Param 2, dan slechts worden die waarden bijgewerkt. Er worden nooit dubbele advertenties gemaakt (dezelfde pagina voor kopiëren en landen).
 
 Wanneer u gegevens verspreidt, kunt u naar keuze voorproef de geproduceerde gegevens binnen een mening van de campagnehiërarchie, een bulksbladdossier voor overzicht produceren, of een bulksbladdossier voor directe post aan het ad netwerk produceren. Wanneer elke propagatieactie wordt voltooid, wordt een propagatiesamenvatting toegevoegd aan het lusje van Verspreidingen, die op het aantal van elk entiteittype wijzen dat werd of zou worden gecreeerd, gepauzeerd, of geschrapt gebaseerd op de propagatie. Als u de gegevens niet meteen plaatst, kunt u deze voorvertonen en later posten.
 
@@ -30,12 +32,13 @@ Wanneer u gegevens verspreidt, kunt u naar keuze voorproef de geproduceerde gege
 
    * **[!UICONTROL Propagate and Preview]:** Een bestand met een opsommingsteken maken (met de naam &quot;`<feed file name>_<template name>`&quot;), die beschikbaar is in de [!UICONTROL Bulksheets] mening voor overzicht (maar niet op [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs). U kunt het bestand met de opsommingstekens later plaatsen vanuit het dialoogvenster [!UICONTROL Bulksheets] weergeven.
 
-      Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten.
+     Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten.
 
    * **[!UICONTROL Propagate and Post to SE]:** Een bestand met een opsommingsteken maken (met de naam &quot;`<feed file name>_<template name>`&quot;) die onmiddellijk voor het posten aan het advertentienetwerk een rij wordt gevormd. Het bestand met de opsommingstekens is beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] wordt weergegeven, maar is niet beschikbaar op [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs.
 
-      Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling.
-   De &quot;laatste eigenschap. In de kolom Status wordt de taakstatus voor de toepasselijke sjablonen weergegeven.
+     Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling.
+
+   De &quot;laatste prop. In de kolom Status wordt de taakstatus voor de toepasselijke sjablonen weergegeven.
 
    Wanneer elke propagatieactie wordt voltooid, wordt een propagatiesamenvatting toegevoegd aan [!UICONTROL Propagations] tab, die het aantal van elk entiteittype aangeeft dat is gemaakt, gepauzeerd of verwijderd op basis van de propagatie. De schatting omvat geen veranderingen die van binnen de eigen ad redacteur van het advertentienetwerk worden aangebracht.
 
@@ -53,11 +56,11 @@ Wanneer u gegevens verspreidt, kunt u naar keuze voorproef de geproduceerde gege
 
    * **[!UICONTROL Propagate and Preview]:** Een bestand met een opsommingsteken maken (met de naam &quot;`<feed file name>_<template name>`&quot;), die beschikbaar is in de [!UICONTROL Bulksheets] mening voor overzicht (maar niet op [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs). U kunt het bestand met de opsommingstekens later plaatsen vanuit het dialoogvenster [!UICONTROL Bulksheets] weergeven.
 
-      Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten.
+     Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten.
 
    * **[!UICONTROL Propagate and Post to SE]:** Een bestand met een opsommingsteken maken (met de naam &quot;`<feed file name>_<template name>`&quot;) die onmiddellijk voor het posten aan het advertentienetwerk een rij wordt gevormd. Het bestand met de opsommingstekens is beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] wordt weergegeven, maar is niet beschikbaar op [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs.
 
-      Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling.
+     Als het resulterende bulksheet-bestand groter is dan 2 MB, heeft het bestand de ZIP-indeling.
 
 1. Selecteer in het pop-upvenster het selectievakje naast elke sjabloon waardoor u gegevens uit het feed-bestand wilt doorgeven en klik vervolgens op **[!UICONTROL Propagate Feed]**.
 
@@ -92,4 +95,3 @@ U kunt een propagatietaak voor de gegevens van de inventarisfeed stoppen terwijl
 >* [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](propagated-data-post.md)
 >* [Een publicatietaak voor de gegevens van de inventarisfeed stoppen](stop-job.md)
 >* [Statussen van gegevens die zijn gegenereerd uit feeds](propagated-data-status.md)
-

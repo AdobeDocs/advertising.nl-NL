@@ -1,7 +1,9 @@
 ---
 title: Een datum opgeven met de kalender
 description: Leer hoe u datums selecteert met de kalender.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: b07c0db5-4b7a-4b60-9383-ca07b99404de
+feature: Search Common Tasks
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -22,7 +24,8 @@ ht-degree: 0%
 
    * Klik op de datum.
 
-   * (Klik op **`<`** of **`>`**, respectievelijk.
+   * (Als u een maand vooruit of terug wilt gaan, klikt u op **`<`** of **`>`**, respectievelijk.
 
    * (Als u een andere maand of een ander jaar wilt selecteren) Klik op de naam van de maand of het jaar en klik vervolgens op de maand of het jaar.
+
    (Klik op **[!UICONTROL Today]**.

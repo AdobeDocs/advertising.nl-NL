@@ -1,7 +1,9 @@
 ---
 title: Wijzigingsopties beheren
 description: Leer hoe u modifiers voor uw advertentiesjablonen voor de invoer van inventarisgegevens configureert en beheert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: ade1472d-10e3-454e-8095-c579b48cfc01
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -62,7 +64,7 @@ Elke wijziginggroep kan zoveel opties bevatten als u wilt. Elke sjabloon kan sle
 
 1. Klik boven de lijst met wijziginggroepen op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 1. (Indien nodig) [Verwijzingen naar de optie verwijderen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md) van alle toepasselijke sjablonen.
 
@@ -70,4 +72,3 @@ Elke wijziginggroep kan zoveel opties bevatten als u wilt. Elke sjabloon kan sle
 >
 >* [Informatie over voorraadfeeds](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
 >* [Advertentiesjablonen beheren](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md)
-

@@ -1,7 +1,8 @@
 ---
 title: Elementen maken en uploaden
 description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
-source-git-commit: 004f1c41578f0c046ccb81f17fbf812959433c87
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -22,7 +23,7 @@ ht-degree: 0%
 
 1. Geef elk elementtype op:
 
-   1. Selecteer **[!UICONTROL Asset Type]**.
+   1. Selecteer de **[!UICONTROL Asset Type]**.
 
    1. Het element uploaden of invoeren:
 
@@ -46,18 +47,18 @@ ht-degree: 0%
 
             1. Klik op **[!UICONTROL Proceed]**.
 
-      * Voer voor video-elementen de URL in voor een [!DNL YouTube] video die minstens 10 seconden lang is. Klik op **+ Toevoegen** en voer een andere URL in.
+      * Voer voor video-elementen de URL in voor een [!DNL YouTube] video die minstens 10 seconden lang is. Als u nog een video-element wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere URL in.
 
         U kunt maximaal 10 video-URL&#39;s tegelijk posten.
 
-      * Voer bij tekstelementen de tekstreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
+      * Voer bij tekstelementen de tekenreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
 
         Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
 
-        U kunt de tekstelementen later gebruiken voor alle advertentie-elementen van uw keuze (zoals een kop of korte beschrijving), mits deze voldoen aan de tekenlimieten voor dat advertentie-element.
+        U kunt de tekstelementen later gebruiken voor alle advertentie-elementen van uw keuze (zoals een kop of korte beschrijving), zolang deze voldoen aan de tekenlimieten voor dat advertentie-element.
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [Over het [!UICONTROL Asset Library]](asset-library-about.md)
+>* [Informatie over de [!UICONTROL Asset Library]](asset-library-about.md)

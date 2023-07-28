@@ -2,7 +2,8 @@
 title: De gegevens die voor rapporten worden gebruikt
 description: Leer meer over de verschillende typen gegevens die beschikbaar zijn in gegevensweergaven en aangepaste rapporten.
 exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
-source-git-commit: 3aad445fc1a5a0e2210209f181b9756047f44999
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -31,7 +32,7 @@ De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u 
 
    * **[!UICONTROL Estimated Clicks]:** (Opgenomen in geavanceerde rapporten voor adverteerders met alleen de service Adobe Advertising converteren) Het totale aantal geschatte klikken voor een stad of domeinnaam van een verwijzende website. Dit kunnen gegevens zijn voor advertentienetwerken waarvoor een adverteerder geen advertentieaccount heeft.
 
-* **Conversiemetriek:** Het totale aantal omzettingen voor elk van de adverteerders [transactieeigenschappen](/help/search-social-commerce/glossary.md#s-t)of transactiegegevens die naar een conversietype worden bijgehouden. Dit kan conversie- en plaatsingsmetriek omvatten, maar niet berekende metriek en geavanceerde berekende metriek, die van Adobe Analytics worden gesynchroniseerd.
+* **Omzettingscijfers:** Het totale aantal omzettingen voor elk van de adverteerders [transactieeigenschappen](/help/search-social-commerce/glossary.md#s-t)of transactiegegevens die naar een conversietype worden bijgehouden. Dit kan conversie- en plaatsingsmetriek omvatten, maar niet berekende metriek en geavanceerde berekende metriek, die van Adobe Analytics worden gesynchroniseerd.
 
   Dit kan ook [[!DNL Google Ads]-trackconversies](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) en [[!DNL Google Analytics]-trackconversies](/help/search-social-commerce/admin/data-sources/data-source-about.md) die worden gesynchroniseerd voor het adverteerderaccount.
 
@@ -59,5 +60,5 @@ Afhankelijk van de attributieregel u voor het rapport specificeert, zijn de gege
 
 >[!MORELIKETHIS]
 >
->* [Over rapporten](report-about.md)
+>* [Informatie over rapporten](report-about.md)
 >* [Eerste instellingstaken voor rapporten](initial-setup.md)

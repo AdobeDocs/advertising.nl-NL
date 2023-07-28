@@ -1,7 +1,9 @@
 ---
 title: Informatie over het automatiseren en beheren van voorraden
 description: Leer meer over geavanceerd campagnebeheer, waarmee u automatisch de accountstructuur kunt beheren en dynamische advertenties kunt leveren op basis van gegevens over uw product- of servicevoorraad.
-source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
+exl-id: 2cbf08ce-728e-4d5b-b0a4-01aa244a6e29
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '836'
 ht-degree: 0%
@@ -14,22 +16,22 @@ ht-degree: 0%
 
 De [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] Dankzij de weergave voor geavanceerd campagnebeheer kunt u automatisch een structuur van een netwerkaccount maken en bijwerken en dynamische advertenties leveren op basis van gegevens over uw product- of servicevoorraad. U kunt nieuwe bestanden uploaden met productgegevens dagelijks of zo vaak als u wilt, of rechtstreeks koppelen naar een [!DNL Google] of [!DNL Microsoft®] zakelijke rekening. Met deze functie kunt u:
 
-* Nieuwe campagnes maken op basis van geordende gegevensbronnen.
+* Nieuwe campagnes bouwen van geordende gegevensbronnen.
 
 * Tekst en responsieve zoekopdrachten dynamisch bijwerken, [!DNL Google Ads] winkeladvertenties, of [!DNL Microsoft® Advertising] winkeladvertenties wanneer nieuwe gegevens worden verwerkt, met behulp van dynamische variabelen voor veranderbare gegevenselementen (zoals de prijs of de hoeveelheid). Elke keer dat u de gegevens wijzigt, worden de bestaande advertenties verwijderd en worden er nieuwe gemaakt.
 
 * Pauzeert of verwijdert automatisch ad groepen, sleutelwoorden, en advertenties wanneer de voorraad onder een specifiek niveau, volgens een gespecificeerde einddatum daalt, of wanneer een bestaande component wordt weggelaten uit inputgegevens.
 
-Als u uw advertenties wilt instellen, maakt u een voorraadfeed-sjabloon met variabelen (plaatsaanduidingen) en vervangt u de variabelen door de feitelijke gegevenskolommen uit een geüpload bestand of een [Google of Microsoft® Business Center-account dat wordt gesynchroniseerd](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De variabelen kunnen ook wijzigingsgroepen bevatten die u hebt ingesteld in een bestand of afzonderlijke rijen in het bestand om meerdere advertenties, trefwoorden, campagnes of ad-groepen te maken voor elke toepasselijke rij in het gegevensbestand. Als u bijvoorbeeld een modifier-groepsvariabele in een advertentiekop gebruikt en de modifier-groep twee modifiers bevat (&quot;voor goedkoop&quot; en &quot;tegen een korting&quot;), worden twee aparte advertenties gemaakt voor elk product — één voor elke modifier. Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] dynamische zoekopdrachten kunt u ook waarden voor adverteerders opnemen.
+Als u uw advertenties wilt instellen, maakt u een voorraadfeed-sjabloon met variabelen (plaatsaanduidingen) en vervangt u de variabelen door de feitelijke gegevenskolommen uit een geüpload bestand of een [Google of Microsoft® Business Center-account gesynchroniseerd](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De variabelen kunnen ook wijzigingsgroepen bevatten die u hebt ingesteld in een bestand of afzonderlijke rijen in het bestand om meerdere advertenties, trefwoorden, campagnes of ad-groepen te maken voor elke toepasselijke rij in het gegevensbestand. Als u bijvoorbeeld een modifier-groepsvariabele in een advertentiekop gebruikt en de modifier-groep twee modifiers bevat (&quot;voor goedkoop&quot; en &quot;tegen een korting&quot;), worden twee aparte advertenties gemaakt voor elk product — één voor elke modifier. Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] dynamische zoekopdrachten kunt u ook waarden voor adverteerders opnemen.
 
 | [!UICONTROL Ad Variation] Sjabloonsectie | Modifiers in Search, Social &amp; Commerce | Voederinhoud | Resulterende advertenties |
 |----|----|----|----|
-| Titel: Kopen op hoog niveau \{<i>Productcategorie</i>\} &lt;<i>CheapList</i>>.<br><br>Omschrijving 1: Uitgebreide inventarisatie van \{<i>Productnaam</i>\}.<br><br>Omschrijving 2: Beschikbaar op \{<i>Discontopercentage</i>\}% korting. | Waarden voor wijzigingsgroep &quot;CheapList&quot;:<br><br>&quot;voor goedkoop&quot;<br><br>&quot;tegen een korting&quot; | Productcategorie,productnaam,kortingspercentage<br>elektronica,iPods,10<br><br>kledingstuk,Hemden,15<br><br><b>Opmerking:</b> U kunt waarden scheiden met komma&#39;s of tabs. | <u>Koop geavanceerde elektronica voor goedkope producten.</u><br>Grote voorraad tabletten. Beschikbaar met 10% korting.<br><br><u>Koop geavanceerde elektronica tegen een korting.</u><br>Grote voorraad tabletten. Beschikbaar met 10% korting.<br><br><u>Koop hoogwaardige kleding voor goedkope producten.</u><br>Enorme inventarisatie van overhemden. Beschikbaar met 15% korting.<br><br><u>Koop hoogwaardige kleding tegen een korting.</u><br>Enorme inventarisatie van overhemden. Beschikbaar met 15% korting. |
+| Titel: koop high-end \{<i>Productcategorie</i>\} &lt;<i>CheapList</i>>.<br><br>Beschrijving 1: Grote inventaris van \{<i>Productnaam</i>\}.<br><br>Beschrijving 2: Beschikbaar op \{<i>Korting percentage</i>\}% korting. | Waarden voor wijzigingsgroep &quot;CheapList&quot;:<br><br>&quot;voor goedkoop&quot;<br><br>&quot;tegen een korting&quot; | Productcategorie,productnaam,kortingspercentage<br>elektronica,iPods,10<br><br>kledingstuk,Hemden,15<br><br><b>Opmerking:</b> U kunt waarden scheiden met komma&#39;s of tabs. | <u>Koop geavanceerde elektronica voor goedkope producten.</u><br>Grote voorraad tabletten. Beschikbaar met 10% korting.<br><br><u>Koop geavanceerde elektronica tegen een korting.</u><br>Grote voorraad tabletten. Beschikbaar met 10% korting.<br><br><u>Koop hoogwaardige kleding voor goedkope producten.</u><br>Enorme inventarisatie van overhemden. Beschikbaar met 15% korting.<br><br><u>Koop hoogwaardige kleding tegen een korting.</u><br>Enorme inventarisatie van overhemden. Beschikbaar met 15% korting. |
 
 Nadat u de advertenties hebt gegenereerd, kunt u deze desgewenst reviseren en vervolgens op het advertentienetwerk plaatsen.
 
 >[!NOTE]
->Zie &quot;[Campagnegegevens beheren met behulp van bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).&quot;
+>Als u campagnegegevens bulksgewijs wilt maken of bewerken met spreadsheetbestanden, raadpleegt u &quot;[Campagnegegevens beheren met behulp van bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).&quot;
 
 ## Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds
 
@@ -59,9 +61,9 @@ Als u bestanden handmatig wilt uploaden, kunt u wachten totdat u een sjabloon ma
 
 1. (Optioneel) [De uitvoer voorvertonen](propagated-data-view.md) in de [!UICONTROL Advanced (ACM)] en eventueel een overzicht bekijken van de gegevenswijzigingen in het dialoogvenster [!UICONTROL Propagations] tab.
 
-1. [Gegevens verzenden](propagated-data-post.md) aan de relevante advertentienetwerkrekeningen.
+1. [De gegevens verzenden](propagated-data-post.md) aan de relevante advertentienetwerkrekeningen.
 
-1. (Als u uw gegevens uploadt met FTP of een bedrijfscentrum-account; (optioneel) Nadat u de uitvoer van het eerste feed-bestand hebt gevalideerd, [de parameters bewerken](feed-settings-manage.md#feed-data-settings) om verdere gegevens door de bijbehorende malplaatjes automatisch te verspreiden en het te posten aan relevante ad netwerken.
+1. (Als u uw gegevens uploadt met FTP of een bedrijfscentrum-account; optioneel) Nadat u de uitvoer van het eerste feed-bestand hebt gevalideerd, [de parameters bewerken](feed-settings-manage.md#feed-data-settings) om verdere gegevens door de bijbehorende malplaatjes automatisch te verspreiden en het te posten aan relevante ad netwerken.
 
 1. (Wanneer u nieuwe gegevensdossiers hebt) zonodig, upload nieuwe dossiers, verspreidt de gegevens door malplaatjes, en post de gegevens aan het relevante ad netwerk. U kunt de gegevens desgewenst in één stap verspreiden en plaatsen.
 

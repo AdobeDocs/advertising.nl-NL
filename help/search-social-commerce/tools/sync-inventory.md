@@ -1,7 +1,9 @@
 ---
 title: Aanvullende inventarissynchronisatie inschakelen
 description: Leren synchroniseren [!DNL YouTube] campagnes en [!DNL Google Ads] en [!DNL Microsoft® Advertising] slimme winkelcampagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 217c4677-828c-43ee-afeb-e100780c5494
+feature: Search Tools
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -24,11 +26,10 @@ Deze soorten campagnes worden het zelfde als andere types van campagnes gefactur
 
    *[!UICONTROL Enable Smart Shopping]:* ([!DNL Google Ads] campagnes; bèta voor [!DNL Microsoft® Advertising] campagnes) om slimme winkelcampagnes te synchroniseren. Deze optie is standaard ingeschakeld.
 
-   *[!UICONTROL Enable [!DNL YouTube]]:* ([!DNL Google Ads] alleen campagnes) om te synchroniseren [!DNL YouTube] campagnes. Deze optie is standaard uitgeschakeld.
+   *[!UICONTROL Enable [!DNL YouTube]]:* ([!DNL Google Ads] alleen campagnes) voor synchronisatie [!DNL YouTube] campagnes. Deze optie is standaard uitgeschakeld.
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
 >* [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
-

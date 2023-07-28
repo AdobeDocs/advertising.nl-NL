@@ -1,20 +1,22 @@
 ---
-title: De omzettingstag voor Adobe-reclame
+title: De tag voor het omzetten van Adoben Advertising
 description: Leer over de op JavaScript-Gebaseerde omzettingstoewijzingstag voor ITP 2.2, die Adobe Advertising toestaat om een omzettingsgebeurtenis te volgen die op een pagina voorkomt die niet de landende pagina is.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6e2515da-2552-4f19-8344-1dee96cbf706
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
 
 ---
 
-# De conversietoewijzingstag voor JavaScript-Adobe-reclame
+# De JavaScript-conversietoewijzingstag Adobe Advertising
 
-*Adverteerders met alleen het bijhouden van Adobe-advertenties*
+*Adverteerders die alleen de conversie van Adoben Advertising bijhouden*
 
-Met de conversietoewijzingstag voor Adobe-advertenties op JavaScript-basis kunt u, wanneer deze wordt gebruikt in aanvulling op de conversietag voor Adobe Advertising JavaScript v2 of v3, Adobe-advertenties een conversiegebeurtenis bijhouden die plaatsvindt op een pagina die niet de landingspagina is. De ITP 2.2-oplossing slaat het cookie van een gebruiker lokaal op in een iFrame dat eigendom is van een adverteerder. De lokale opslag kan dan de koekjeswaarde van de klik stroomafwaarts aan de omzettingspagina voortzetten.
+Met de conversietoewijzingstag op basis van JavaScript voor Adobe Advertising kunt u, wanneer deze wordt gebruikt in aanvulling op de Adobe Advertising van JavaScript v2- of v3-conversietag, een conversiegebeurtenis bijhouden die plaatsvindt op een pagina die niet de landingspagina is. De ITP 2.2-oplossing slaat het cookie van een gebruiker lokaal op in een iFrame dat eigendom is van een adverteerder. De lokale opslag kan dan de koekjeswaarde van de klik stroomafwaarts aan de omzettingspagina voortzetten.
 
-Gebruik de conversietoewijzingstag om ervoor te zorgen dat Adobe-advertenties alle conversies kunnen bijhouden die in Apple Safari- en Mozilla Firefox-browsers plaatsvinden, waardoor de persistentie van cookies van andere bedrijven wordt beperkt. <!-- For all requirements to track conversions from Safari, see "Track Conversions from Apple Safari Browsers." -->
+Gebruik de conversietoewijzingstag om ervoor te zorgen dat de Adobe Advertising alle omzettingen kan volgen die binnen de browsers van Apple Safari en Mozilla Firefox voorkomen, die de persistentie van eersteklas koekjes beperken. <!-- For all requirements to track conversions from Safari, see "Track Conversions from Apple Safari Browsers." -->
 
 De conversietoewijzingstag gebruiken:
 
@@ -32,15 +34,15 @@ De conversietoewijzingstag gebruiken:
 
 * Als uw organisatie gebruikmaakt van één organisatie-id, die wordt gebruikt voor uw account Zoeken, Sociale zaken en Handel, gebruikt u de volgende tag:
 
-   `<script src="//www.everestjs.net/static/amo-conversion-mapper.js" userid="{AMO User ID}"></script>`
+  `<script src="//www.everestjs.net/static/amo-conversion-mapper.js" userid="{AMO User ID}"></script>`
 
-   waar u vervangt `{AMO User ID}` met de unieke gebruikersnaam voor je account voor Zoeken, Sociale Zaken en Handel.
+  vervangen `{AMO User ID}` met de unieke gebruikersnaam voor je account voor Zoeken, Sociale Zaken en Handel.
 
 * Als uw organisatie meerdere organisatie-id&#39;s gebruikt, gebruikt u de volgende tag:
 
-   `<script src="//www.everestjs.net/static/amo-conversion-mapper.js" imsorgid="{xxxxxx@AdobeOrg}" userid="{AMO User ID}"></script>`
+  `<script src="//www.everestjs.net/static/amo-conversion-mapper.js" imsorgid="{xxxxxx@AdobeOrg}" userid="{AMO User ID}"></script>`
 
-   waarbij:
+  waarbij:
 
    * vervangt u de waarde `{xxxxxx@AdobeOrg}` met de organisatie-id waarvoor de conversies van de pagina worden bijgehouden. Gebruik dezelfde organisatie-id voor alle conversiepagina&#39;s.
 
@@ -48,36 +50,36 @@ De conversietoewijzingstag gebruiken:
 
 * Als u een systeem voor tagbeheer gebruikt dat het toevoegen van `imsorgid` gebruikt in plaats daarvan de volgende code:
 
-   *Als uw organisatie één organisatie-id gebruikt:
+  *Als uw organisatie één organisatie-id gebruikt:
 
-   ```
-   <script>
-   window.ad_cloud = window.ad_cloud || {};
-   window.ad_cloud.userid = "{AMO User ID}"
-   </script>
-   <script src="//www.everestjs.net/static/amo-conversionmapper.js"></script>
-   ```
+  ```
+  <script>
+  window.ad_cloud = window.ad_cloud || {};
+  window.ad_cloud.userid = "{AMO User ID}"
+  </script>
+  <script src="//www.everestjs.net/static/amo-conversionmapper.js"></script>
+  ```
 
-   waar u vervangt `{AMO User ID}` met de unieke gebruikersnaam voor je account voor Zoeken, Sociale Zaken en Handel.
+  vervangen `{AMO User ID}` met de unieke gebruikersnaam voor je account voor Zoeken, Sociale Zaken en Handel.
 
    * Als uw organisatie meerdere organisatie-id&#39;s gebruikt:
 
-      ```
-      <script>
-      window.ad_cloud = window.ad_cloud || {};
-      window.ad_cloud.imsorgid = "{xxxxxx@AdobeOrg}"
-      window.ad_cloud.userid = "{AMO User ID}"
-      </script>
-      <script src="//www.everestjs.net/static/amo-conversionmapper.js"></script>
-      ```
+     ```
+     <script>
+     window.ad_cloud = window.ad_cloud || {};
+     window.ad_cloud.imsorgid = "{xxxxxx@AdobeOrg}"
+     window.ad_cloud.userid = "{AMO User ID}"
+     </script>
+     <script src="//www.everestjs.net/static/amo-conversionmapper.js"></script>
+     ```
 
-      waarbij:
+     waarbij:
 
       * vervangt u de waarde `{xxxxxx@AdobeOrg}` met de organisatie-id waarvoor de conversies van de pagina worden bijgehouden. Gebruik dezelfde organisatie-id voor alle conversiepagina&#39;s.
 
       * vervangt u `{AMO User ID}` met de unieke gebruikersnaam voor je account voor Zoeken, Sociale Zaken en Handel.
 
-Als u de waarde van uw organisatie-id of uw gebruikersnaam voor Zoeken, Sociale en Handel niet kent, vraagt u de accountmanager van Adobe.
+Als u de waarde van uw organisatie-id of uw gebruikersnaam voor Zoeken, Sociale en Handel niet kent, vraagt u dan naar de accountmanager van Adobe.
 
 ### Voorbeelden
 
@@ -96,7 +98,7 @@ window.ad_cloud.userid = "99999"
 
 ### Waar moet de tag worden toegevoegd?
 
-Voeg de tag toe aan elke pagina die een openingspagina kan zijn van een zoekklik (idealiter op alle pagina&#39;s, omdat de bestemmingspagina&#39;s na verloop van tijd kunnen veranderen). Deze moet worden geladen voordat de conversietag JavaScript v3-conversie voor advertenties wordt geplaatst.
+Voeg de tag toe aan elke pagina die een openingspagina kan zijn van een zoekklik (idealiter op alle pagina&#39;s, omdat de bestemmingspagina&#39;s na verloop van tijd kunnen veranderen). Deze moet worden geladen voordat de JavaScript v3-conversietag voor Adobe Advertising wordt bijgehouden.
 
 Als het binnen een iframe- of containertag is geplaatst, dan:
 

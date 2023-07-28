@@ -1,7 +1,9 @@
 ---
 title: Geüploade bulksbladen en foutbestanden verwijderen
 description: Leer hoe u de bulksheet-bestanden en foutbestanden verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: d4769ae4-f39c-4d33-b8c7-66e97e63a56f
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 0%
@@ -29,4 +31,3 @@ U kunt handmatig werkbladbestanden, bestanden met validatiefouten van de pagina 
 >* [Campagnegegevens beheren met behulp van bulksbladen](bulksheet-about.md)
 >* [Een bulkbladtaak onderbreken](bulksheet-stop-job.md)
 >* [Een gegenereerd of geüpload bulksbladbestand exporteren](bulksheet-export.md)
-

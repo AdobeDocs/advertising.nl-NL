@@ -1,9 +1,11 @@
 ---
 title: Bestanden voor de invoer van voorraadgegevens beheren
 description: Leer hoe te om de montages te vormen die controleren hoe de voedergegevens worden verwerkt.
-source-git-commit: a0cdc0de763feeafdea57e4233b48a2c39449e1f
+exl-id: 73d372de-2673-4190-94cf-2f07f4ce2493
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1242'
 ht-degree: 0%
 
 ---
@@ -20,11 +22,11 @@ Als u uw eigen feed-gegevens verzendt, moet u bestanden met uw productgegevens u
 
 U kunt gegevensdoorvoerbestanden op een van de volgende manieren uploaden en verwerken:
 
-* **Automatisch FTP gebruiken:** U kunt bestanden rechtstreeks uploaden naar een FTP-map; de voederdienst controleert om de twee uur op nieuwe dossiers. Nadat u een dossier voor het eerst uploadt, kunt u het met een ad netwerk-specifieke malplaatje associëren. Later worden alle bestanden die u met dezelfde naam uploadt, automatisch aan dezelfde sjabloon gekoppeld. Afhankelijk van hoe u [de instellingen voor de feed-gegevens configureren](feed-settings-manage.md), kan Zoeken, Sociaal, &amp; Handel de voedergegevens automatisch verspreiden door alle toepasselijke malplaatjes en naar keuze de resulterende campagne en advertentiegegevens aan de relevante advertentienetwerken posten.
+* **Automatisch FTP gebruiken:** U kunt bestanden rechtstreeks uploaden naar een FTP-map. De service controleert elke twee uur of er nieuwe bestanden zijn. Nadat u een dossier voor het eerst uploadt, kunt u het met een ad netwerk-specifieke malplaatje associëren. Later worden alle bestanden die u met dezelfde naam uploadt, automatisch aan dezelfde sjabloon gekoppeld. Afhankelijk van hoe u [de instellingen voor de feed-gegevens configureren](feed-settings-manage.md), kan Zoeken, Sociaal, &amp; Handel de voedergegevens automatisch verspreiden door alle toepasselijke malplaatjes en naar keuze de resulterende campagne en advertentiegegevens aan de relevante advertentienetwerken posten.
 
-   Neem contact op met het Adobe-accountteam als u een FTP-map wilt instellen voor het opslaan en automatisch verwerken van gegevensbestanden.
+  Neem contact op met het Adobe-accountteam als u een FTP-map wilt instellen voor het opslaan en automatisch verwerken van gegevensbestanden.
 
-* **Handmatige verwerking:** U kunt handmatig [feed-bestanden uploaden](#feed-file-upload) van de [!UICONTROL Advanced] (ACM). Nadat u een feed-bestand aan een of meer ad-netwerkspecifieke bestanden hebt gekoppeld [sjablonen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md), kunt u campagne- en advertentiegegevens genereren door [het verspreiden van de voedergegevens door de malplaatjes](feed-data-propagate.md) volgens de [gegevensinstellingen van feed](feed-settings-manage.md). U kunt naar keuze voorproef de geproduceerde gegevens binnen de meningen van de campagnehiërarchie, een bulksbladdossier voor overzicht produceren, of een bulksbladdossier voor directe post aan het ad netwerk produceren. Als u de gegevens niet onmiddellijk plaatst, kunt u [voorvertonen](propagated-data-view.md) en [plaatsen](propagated-data-post.md) later. U kunt het later [het bestaande feed-bestand vervangen door een nieuw bestand](#feed-file-replace) zonder bestaande sjabloonkoppelingen te verliezen.
+* **Handmatige verwerking:** U kunt handmatig [feed-bestanden uploaden](#feed-file-upload) van de [!UICONTROL Advanced] (ACM). Nadat u een feed-bestand aan een of meer ad-netwerkspecifieke bestanden hebt gekoppeld [sjablonen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md), kunt u campagne- en advertentiegegevens genereren door [het verspreiden van de voedergegevens door de malplaatjes](feed-data-propagate.md) volgens de [gegevensinstellingen van feed](feed-settings-manage.md). U kunt naar keuze voorproef de geproduceerde gegevens binnen de meningen van de campagnehiërarchie, een bulksbladdossier voor overzicht produceren, of een bulksbladdossier voor directe post aan het ad netwerk produceren. Als u de gegevens niet onmiddellijk plaatst, kunt u [voorvertonen](propagated-data-view.md) en [plaatsen](propagated-data-post.md) later. U kunt [het bestaande feed-bestand vervangen door een nieuw bestand](#feed-file-replace) zonder bestaande sjabloonkoppelingen te verliezen.
 
 ## Vereisten voor een bestand met feed
 
@@ -32,7 +34,7 @@ Er zijn geen specifieke gegevensvelden vereist in een afzonderlijk bestand, maar
 
 * De eerste regel in het bestand moet kolomnamen bevatten (ook wel *koppen*), die overeenkomen met de dynamische parameters in de bijbehorende sjablonen. De overige regels moeten gegevens bevatten die overeenkomen met de kolomnamen. Elke gegevensregel (rij) mag slechts op één accountcomponent betrekking hebben, zoals één campagne of één advertentie. De waarden op alle regels moeten door tabs of komma&#39;s van elkaar worden gescheiden. Zie de [CSV-voorbeeldbestand](#example-csv-feed-file) en [CSV-voorbeeldbestand](#example-tsv-feed-file) hieronder.
 
-* Het bestand kan elke grootte hebben, maar moet een van de volgende bestandsextensies hebben: `.tsv` (voor door tabs gescheiden waarden), `.txt` (for [!DNL Unicode]-compatibele ASCII-tekst), `.csv` (voor door komma&#39;s gescheiden waarden), of `.zip` (voor één bestand in gecomprimeerde ZIP-indeling dat wordt uitgepakt naar een TSV-bestand).
+* Het bestand kan elke grootte hebben, maar moet een van de volgende bestandsextensies hebben: `.tsv` (voor tabgescheiden waarden), `.txt` (for [!DNL Unicode]-compatibele ASCII-tekst), `.csv` (voor door komma&#39;s gescheiden waarden), of `.zip` (voor één bestand in gecomprimeerde ZIP-indeling dat wordt uitgepakt naar een TSV-bestand).
 
 * De bestandsnaam is hoofdlettergevoelig en kan de volgende tekens niet bevatten: `# % & * | \ : " < > . ? /`
 
@@ -122,6 +124,7 @@ Wanneer u een feed-bestand vervangt — zelfs als het nieuwe bestand een andere 
    * In de [!UICONTROL Feed] kolom voor een toepasselijke sjabloon, klikt u op ![Meer opties](/help/search-social-commerce/assets/options.png "Meer opties") en selecteert u **[!UICONTROL Re-upload]**.
 
    * Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Feeds]**. Schakel in de lijst met feed-bestanden het selectievakje naast de bestaande bestandsnaam in. Klik boven de gegevenstabel op **[!UICONTROL Upload]**.
+
    >[!NOTE]
    >
    >De bron van het feed-bestand (&quot;[!UICONTROL FTP]&quot; of &quot;&amp;mdash&quot; voor handmatig geüploade bestanden) is opgenomen in de [!UICONTROL Source] kolom.
@@ -146,7 +149,7 @@ U kunt alle feed-bestanden verwijderen die handmatig of via FTP zijn geüpload. 
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >
@@ -157,4 +160,3 @@ U kunt alle feed-bestanden verwijderen die handmatig of via FTP zijn geüpload. 
 >* [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](propagated-data-post.md)
 >* [Een publicatietaak voor de gegevens van de inventarisfeed stoppen](stop-job.md)
 >* [Statussen van gegevens die zijn gegenereerd uit feeds](propagated-data-status.md)
-

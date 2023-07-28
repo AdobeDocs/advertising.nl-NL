@@ -1,16 +1,18 @@
 ---
 title: Een URL voor het bijhouden van klikken decoderen
 description: Leer hoe u code voor het bijhouden van klikken op Zoeken, Sociale media en Handel verwijdert uit een basis-URL.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: e6567cfa-317f-405f-92fc-61ac9274a317
+feature: Search Tools, Search Tracking
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociaal en Handel
+# Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociale media en Handel
 
-*Adverteerders met alleen het bijhouden van Adobe-advertenties*
+*Adverteerders die alleen de conversie van Adoben Advertising bijhouden*
 
 U kunt zien waar een doel-URL een gebruiker daadwerkelijk verzendt door de code voor Zoeken, Sociale Zaken en Handel in de basis-URL te verwijderen.
 
@@ -21,7 +23,6 @@ U kunt zien waar een doel-URL een gebruiker daadwerkelijk verzendt door de code 
 >* Met deze functie verandert u het pad van de basis-URL in het desbetreffende advertentieaccount niet.
 >
 >* U kunt zoveel URL&#39;s tegelijk decoderen als u wilt, maar de prestaties zijn afhankelijk van de browser die u gebruikt.
-
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Decode Tracking URLs]**.
 
@@ -35,4 +36,3 @@ U kunt zien waar een doel-URL een gebruiker daadwerkelijk verzendt door de code 
 >
 >* [Over de gereedschappen voor het maken en decoderen van trackingcodes](tracking-tools-about.md)
 >* [Een URL voor het bijhouden van klikken op Zoeken, Sociale media en Handel genereren met het gereedschap URL&#39;s bijhouden](click-tracking-url-generate.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Effectieve tekst schrijven en kopiëren
 description: Meer informatie over de beste praktijken voor het schrijven van effectieve e-mails.
-source-git-commit: c31c8615ecbd24b03c47563aee499fc1d865ea36
+exl-id: 17feba02-e49a-4550-aca8-d9b06d427a7e
+feature: Search Best Practices
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '578'
 ht-degree: 0%
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 * Alle brede tekens en double-bytetekens verminderen het aantal tekens dat per regel is toegestaan.
 
-* U mag de eerste letter van elk woord van uw advertentie in hoofdletters plaatsen. Maar een woord kan niet in alle hoofdletters voorkomen om de aandacht te vestigen tenzij dat is hoe een term gemerkt is. &#39;MAC&#39; is bijvoorbeeld toegestaan voor een advertentie van het merk MAC, maar &#39;NEW&#39; is niet toegestaan.
+* U mag de eerste letter van elk woord van uw advertentie in hoofdletters plaatsen. Maar een woord kan niet in alle hoofdletters voorkomen om de aandacht te vestigen tenzij dat is hoe een term gemerkt is. &#39;MAC&#39; is bijvoorbeeld toegestaan voor advertenties van het merk MAC, maar &#39;NEW&#39; is niet toegestaan.
 
 * Uitroeptekens zijn niet toegestaan in koppen/titels, maar wel in beschrijvende regels. Er is slechts één toegestaan in de beschrijving.
 
@@ -38,7 +40,7 @@ ht-degree: 0%
 
 * Onjuiste taal is verboden.
 
-## Recommendations voor effectieve advertenties
+## Recommendations for effective ads
 
 * Schrijf krachtige koppen om potentiële klanten aan te trekken.
 
@@ -50,7 +52,7 @@ ht-degree: 0%
 
 * Neem het product, de service en andere details (zoals promoties) op in de beschrijving/het lichaam.
 
-* Ga snel naar het punt: de meest relevante informatie over het bedrijf eerst te verstrekken.
+* Ga snel aan het punt: neem eerst de meest relevante informatie over de zaken op.
 
 * Laat je advertentie los op aanbiedingen die op de bestemmingspagina staan om gebruikers te helpen de verkoopcyclus te voltooien.
 
@@ -60,13 +62,13 @@ ht-degree: 0%
 
 * Gebruik indien mogelijk het trefwoord zowel in de kop/titel als in beide regels van de beschrijving/hoofdtekst. [1]
 
-* Neem altijd een oproep tot actie op in de tekst, zoals &quot;Weergave&quot;, &quot;Uitchecken&quot;, &quot;Volgorde&quot; of &quot;Aanmelden&quot; om de doorklikfrequentie te verhogen. Neem voor afbeeldingsadvertenties de aanroep naar actie op een knop die aan uw website is gekoppeld. voor advertenties met rijke media neemt u de oproep tot actie in een vroeg stadium op.
+* Neem altijd een oproep tot actie op in de tekst, zoals &quot;Weergave&quot;, &quot;Uitchecken&quot;, &quot;Volgorde&quot; of &quot;Aanmelden&quot; om de doorklikfrequentie te verhogen. Neem voor afbeeldingsadvertenties de aanroep naar actie op een knop die aan uw website is gekoppeld. Neem voor rich media-advertenties de aanroep naar actie in een vroeg frame op.
 
 * Houd rekening met de manier waarop de adverteerder zijn merk wil zien. Een adverteerder wil bijvoorbeeld niet dat het woord &quot;goedkoop&quot; in zijn advertenties verschijnt.
 
 * Onderzoek wat uw concurrenten doen. Bekijk de bovenste advertenties voor een spatie (op sites als www.spyfu.com) en probeer te begrijpen welke advertenties werken.
 
-[1]: Als u sleutelwoordtoevoeging gebruikt, gebruik het correcte hoofdlettergebruik voor de toevoegingscode:
+[1]: Als u trefwoordinvoeging gebruikt, gebruikt u de juiste hoofdletters voor de invoegcode:
 
 `{keyword:default}` = grasmaaiers
 

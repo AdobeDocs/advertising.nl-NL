@@ -3,7 +3,8 @@ title: Synchronisatie van een gegevensbron pauzeren
 description: Leer hoe u een gegevensbron pauzeert om synchronisatie te stoppen.
 role: User, Admin
 exl-id: 5495ea13-8700-4e8a-9325-062c9ed8f4f4
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+feature: Search Admin, Search Data Sources
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -22,7 +23,7 @@ Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron 
 
 1. Klik op de werkbalk boven de tabel met gegevens op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Pause]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Pause]**.
 
 >[!MORELIKETHIS]
 >

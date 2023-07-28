@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten en instellingen"
+title: '''[!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten en instellingen"'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 73ac6cca-717e-46d2-a060-f1eafd754245
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%
@@ -14,7 +16,7 @@ Uitgebreide dynamische zoekopdrachten (eDSA&#39;s) zijn alleen beschikbaar in dy
 
 ## [!UICONTROL Expanded Dynamic Search Ad Details]
 
-**[!UICONTROL Description Line 1]:** Het lichaam van de advertentie. De maximumlengte is 90 single-byte karakters of 45 dubbel-byte karakters.
+**[!UICONTROL Description Line 1]:** De hoofdtekst van de advertentie. De maximumlengte is 90 single-byte karakters of 45 dubbel-byte karakters.
 
 <!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
 
@@ -40,4 +42,3 @@ Uitgebreide dynamische zoekopdrachten (eDSA&#39;s) zijn alleen beschikbaar in dy
 >* [[!DNL Microsoft® Advertising] product en instellingen](ad-settings-microsoft-product.md)
 >* [[!DNL Microsoft® Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
 >* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
-

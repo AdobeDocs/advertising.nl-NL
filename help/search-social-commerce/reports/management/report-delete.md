@@ -1,7 +1,9 @@
 ---
 title: Rapporten verwijderen
 description: Leer hoe u gegenereerde rapporten verwijdert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 63e10552-e0a9-4957-b18b-e62bd150bef5
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -22,10 +24,9 @@ U kunt een rapport manueel schrappen dat of nog lopend is. Rapporten worden auto
 
 1. Klik op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >
->* [Over rapporten](/help/search-social-commerce/reports/report-about.md)
+>* [Informatie over rapporten](/help/search-social-commerce/reports/report-about.md)
 >* [Een rapport weergeven of opslaan](/help/search-social-commerce/reports/management/report-view-save.md)
-

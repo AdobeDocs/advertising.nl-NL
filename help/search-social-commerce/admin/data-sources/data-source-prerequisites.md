@@ -3,7 +3,8 @@ title: Vereisten voor het configureren van een [!DNL Google Analytics] gegevensb
 description: Leer over de stappen die u moet voltooien alvorens u vormt een [!DNL Google Analytics] gegevensbron.
 role: User, Admin
 exl-id: cbb2ad6d-8494-4fa4-928c-238b25bda3a6
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+feature: Search Admin, Search Data Sources
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '417'
 ht-degree: 0%
@@ -12,11 +13,11 @@ ht-degree: 0%
 
 # Vereisten voor het configureren van een [!DNL Google Analytics] gegevensbron
 
-Voordat u een [!DNL Google Analytics] gegevensbron, moet u de de vraagkoordparameter van het Onderzoek, Sociale, &amp; van de Handel &quot;ef_id&quot;als primaire sleutel vestigen om gegevens van over te gaan [!DNL Google Analytics] om te zoeken, sociale zaken en handel. De primaire sleutel instellen voor elke [!DNL Google Analytics] de combinatie van account en eigenschap waarvoor u gegevens wilt synchroniseren. Het kan zijn dat andere personen in uw organisatie deze taken moeten uitvoeren. zie hieronder voor meer informatie .
+Voordat u een [!DNL Google Analytics] gegevensbron, moet u de de vraagkoordparameter van het Onderzoek, Sociale, &amp; van de Handel &quot;ef_id&quot;als primaire sleutel vestigen om gegevens van over te gaan [!DNL Google Analytics] om te zoeken, sociale zaken en handel. De primaire sleutel instellen voor elke [!DNL Google Analytics] de combinatie van account en eigenschap waarvoor u gegevens wilt synchroniseren. Andere personen in uw organisatie moeten deze taken mogelijk uitvoeren. Zie hieronder voor meer informatie.
 
 Als de bestemmingspagina-URL&#39;s voor uw advertenties of trefwoorden nog geen omleidingen voor Zoeken, Sociale Zaken en Handel bevatten, voegt u deze eerst toe.
 
-## Vereiste 1: Een token voor Zoeken, Sociale media en Handel (&quot;ef_id&quot;-queryreeks-parameter) implementeren in de URL&#39;s van de bestemmingspagina voor alle toepasselijke advertentierekeningen
+## Vereiste 1: implementeer een token voor Zoeken, Sociale media en Handel (&quot;ef_id&quot;-queryreeks parameter) in de URL&#39;s van de bestemmingspagina voor alle toepasselijke advertentierekeningen
 
 Klik bij elke betaalde zoekopdracht op de relevante campagnes, een unieke `ef_id` moet worden gegenereerd en aan de URL van de bestemmingspagina worden toegevoegd als een queryreeks, zoals `https://www.adobe.com?someParam=123&ef_id=abcde:123456789:s`, waarbij `&ef_id=abcde:123456789:s` het toevoegsymbool is; `ef_id` sleutel, en `ef_id` waarde. Om een ef_id op te nemen, moeten de relevante rekeningen en de campagnes van de advertentienetwerken [!UICONTROL Tracking Type] &quot;[!UICONTROL EF Redirect]&quot; en de [!UICONTROL Redirect Type] &quot;[!UICONTROL Token].&quot;
 
@@ -26,7 +27,7 @@ Als de ef_id niet is opgenomen, vraagt u uw Adobe-accountteam om assistentie.
 
 Wanneer alle voorwaarden worden voltooid, `ef_id` wordt gebruikt als primaire sleutel voor het doorgeven van gegevens van [!DNL Google Analytics] om te zoeken, sociale zaken en handel.
 
-## Vereiste 2: Leg het token Search, Social &amp; Commerce (&quot;ef_id&quot;-parameter voor queryreeksen) vast in een aangepaste dimensie voor elk relevant item [!DNL Google Analytics] eigenschap
+## Vereiste 2: leg het token Search, Social &amp; Commerce (&quot;ef_id&quot;-queryreeks parameter) vast in een aangepaste dimensie voor elke relevante parameter [!DNL Google Analytics] eigenschap
 
 Herhaal de volgende taken voor elk [!DNL Google Analytics] de combinatie van account en eigenschap waarvoor u gegevens wilt synchroniseren. Zie [[!DNL Google Analytics] documentatie over het maken en implementeren van aangepaste afmetingen](https://support.google.com/analytics/answer/2709829?hl=en#zippy=%2Cin-this-article) voor hulp bij deze taken.
 

@@ -1,7 +1,9 @@
 ---
 title: Gedeelde sitelinks koppelen aan accounts, campagnes en ad-groepen
 description: Leer hoe u gedeelde sitelink-extensies kunt toewijzen aan accounts, campagnes en advertentiegroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: c7bd92ab-3768-4b6e-988a-32e644c3d583
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -25,16 +27,16 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 1. Voer de extensie-instellingen voor sitelink in:
 
    1. In de [!UICONTROL Sitelinks] selecteert u de toepasselijke sitelinks in een lijst met alle sitelinks in uw bibliotheek.
+
    Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
    1. In de [!UICONTROL Assignment] selecteert u de accounts, campagnes en advertentiegroepen waaraan de geselecteerde sitelinks zijn toegewezen:
+
    * (Optioneel) Als u een account wilt uitbreiden om de bijbehorende campagne weer te geven, klikt u op de accountnaam. Op dezelfde manier om een campagne uit te breiden om zijn kind en groepen te bekijken, klik de campagnenaam.
 
-   * (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekstreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **Enter** toets.
+   * (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **Enter** toets.
 
    * Selecteer de cirkel (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")) naast elke entiteit waaraan de sitelinks zijn toegewezen.
-
-
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -42,4 +44,3 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 >
 >* [Extensies voor sitelink](sitelink-extension-about.md)
 >* [Gedeelde sitelink-extensies beheren](sitelink-extension-manage.md)
-

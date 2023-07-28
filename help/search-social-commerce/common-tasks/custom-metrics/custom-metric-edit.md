@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste metrische waarde bewerken
 description: Leer hoe u aangepaste metriek kunt bewerken. Deze worden berekend op basis van standaardmeetwaarden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 7b0c18d3-e4ed-49ad-aef7-d05b2a67ba2e
+feature: Search Common Tasks, Search Custom Metrics
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '264'
 ht-degree: 1%
@@ -40,7 +42,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
 1. Klik op **[!UICONTROL Submit]**.
 
-## Een aangepaste metrische waarde bewerken vanuit de [!UICONTROL Portfolios] views
+## Een aangepaste metrische waarde bewerken in het menu [!UICONTROL Portfolios] views
 
 1. Klik boven de gegevenstabel op ![Geselecteerde weergave bewerken](/help/search-social-commerce/assets/view-settings.png "Geselecteerde weergave bewerken").
 
@@ -53,8 +55,8 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 1. Klik op **[!UICONTROL Submit]**.
 
 >[!MORELIKETHIS]
+>
 * [Informatie over aangepaste metriek](custom-metric-about.md)
 * [Een aangepaste metrische waarde maken](custom-metric-create.md)
 * [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
 * [Aangepaste metrische instellingen](custom-metric-settings.md)
-

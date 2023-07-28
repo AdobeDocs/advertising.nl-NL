@@ -1,7 +1,9 @@
 ---
 title: Advertentiesjablonen beheren voor voorraadfeeds
 description: Meer informatie over het beheren van advertentiesjablonen waarmee je voorraadgegevens kunnen worden verwerkt om de accountstructuur te beheren en dynamische advertenties te leveren.
-source-git-commit: f8d17ba787496917f4011f9dcbcb5587fe5c83cb
+exl-id: b26fc32a-76bc-470a-8ce5-fbaad4b3ca71
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '1415'
 ht-degree: 0%
@@ -36,11 +38,11 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
 
       1. Schakel het selectievakje in naast de sjabloon die u wilt kopiëren.
 
-      1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Create/Clone]** en selecteer vervolgens het toepasselijke advertentienetwerk.
+      1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Create/Clone]** en selecteert u vervolgens het toepasselijke advertentienetwerk.
 
    * (Als u een bestaande sjabloon wilt bewerken) Klik naast de sjabloonnaam op ![Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Instellingen weergeven/bewerken").
 
-1. Geef de instellingen op voor de [tekst en sjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] winkeladvertentiesjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft® Advertising] winkeladvertentiesjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
+1. Geef de instellingen op voor de [tekst en sjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft® Advertising] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
 
    1. Geef boven aan het venster met sjablooninstellingen de naam van de sjabloon en het toepasselijke account op.
 
@@ -48,7 +50,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
 
    1. (Optioneel) Geef in de linkerkolom het bestand met de productfeed of de zakelijke account op waarvan de gegevens via de sjabloon worden doorgegeven:
 
-      * (Voor bestanden met productfeed) Als u een eerder geüpload bestand wilt selecteren, klikt u op ![Pijl-omlaag](/help/search-social-commerce/assets/arrow-down-dropdown.png "Pijl-omlaag") en selecteer een bestand in de lijst met beschikbare feed-bestanden. Als u een nieuw bestand wilt uploaden, geeft u het bestand op door het volledige pad en de volledige bestandsnaam in te voeren of door op **[!UICONTROL Browse]** om het bestand op uw apparaat of netwerk te zoeken en klik vervolgens op **[!UICONTROL Upload]**.
+      * (Voor bestanden met productfeed) Als u een eerder geüpload bestand wilt selecteren, klikt u ![Pijl-omlaag](/help/search-social-commerce/assets/arrow-down-dropdown.png "Pijl-omlaag") en selecteer een bestand in de lijst met beschikbare feed-bestanden. Als u een nieuw bestand wilt uploaden, geeft u het bestand op door het volledige pad en de volledige bestandsnaam in te voeren of door op **[!UICONTROL Browse]** om het bestand op uw apparaat of netwerk te zoeken en klik vervolgens op **[!UICONTROL Upload]**.
 
       * (Voor een gesynchroniseerde zakelijke account) Selecteer de naam van de account.
 
@@ -105,7 +107,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
                >* Als het origineel en de kopie voldoen aan de lengtevereisten van het zoekprogramma, wordt de alternatieve advertentiekopie verwijderd.
                >* U kunt maximaal vier alternatieven opgeven voor elk veld voor een advertentie-kopie.
 
-         * Als u een advertentievariatie wilt verwijderen, klikt u op **[!UICONTROL Remove ETA Variation]** (voor uitgebreide/uitgebreide tekstadvertenties) of **[!UICONTROL Remove RSA Variation]** (voor responsieve zoekopdrachten) naast de advertentie, al naar gelang het geval.
+         * Om een advertentievariatie te verwijderen, klik **[!UICONTROL Remove ETA Variation]** (voor uitgebreide/uitgebreide tekstadvertenties) of **[!UICONTROL Remove RSA Variation]** (voor responsieve zoekopdrachten) naast de advertentie, al naar gelang het geval.
 
    1. (Alleen winkelsjablonen) Klik op de knop **[!UICONTROL Product Groups]** en geeft u vervolgens informatie op over de productgroepen waarvoor u wilt kiezen.
 
@@ -149,7 +151,7 @@ U kunt elke gepauzeerde sjabloon voor gegevensinvoer activeren of een actieve sj
 
 1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 >[!MORELIKETHIS]
 >

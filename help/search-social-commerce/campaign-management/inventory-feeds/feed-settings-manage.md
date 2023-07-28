@@ -1,7 +1,9 @@
 ---
 title: Instellingen voor voedergegevens configureren
 description: Leer hoe te om de montages te vormen die controleren hoe de voedergegevens worden verwerkt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: fc72d1bc-aac7-4280-80c6-4fc53a96a49f
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '1147'
 ht-degree: 0%
@@ -36,7 +38,7 @@ U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden 
 
 * *[!UICONTROL Keywords Only]:* Alleen verouderde trefwoorden en productgroepen.
 
-* *[!UICONTROL Ad Variations Only]* (de standaardinstelling): Alleen verouderde advertenties.
+* *[!UICONTROL Ad Variations Only]* (de standaardwaarde): alleen verouderde advertenties.
 
 * *[!UICONTROL Keywords and Ad Variations]:* Zowel verouderde trefwoorden/productdoelen/productgroepen als verouderde advertenties.
 
@@ -45,10 +47,9 @@ U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden 
 >* Voor [!DNL Google Ads] advertentiespots, alleen de laagste productgroep wordt beïnvloed.
 >* Voor [!DNL Yandex] accounts, verouderde automatische verwerkingstaken voor items worden altijd uitgevoerd op en variaties, ongeacht deze instelling.
 
-
 **[!UICONTROL When the Scheduled End Date is reached]:** (Alleen handmatig geposte gegevens) Wat moet u doen met regelitems in een feed-bestand die met een opgegeven einddatum en tijd worden gepost zodra de eindtijd aankomt:
 
-* *[!UICONTROL Delete]* (de standaardinstelling): Verwijder alle relevante componenten wanneer de opgegeven eindtijd aankomt. U kunt deze bewerking niet omkeren.
+* *[!UICONTROL Delete]* (de standaardwaarde): verwijder alle relevante componenten wanneer de opgegeven eindtijd aankomt. U kunt deze bewerking niet omkeren.
 
 * *[!UICONTROL Pause]:* Pauzeren alle relevante componenten wanneer de gespecificeerde eindtijd aankomt. U kunt de componenten later desgewenst opnieuw activeren.
 
@@ -60,15 +61,15 @@ U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden 
 
 * *[!UICONTROL Pause]:* Onderbreek de bestaande componenten. Ze worden opnieuw geactiveerd als een nieuw feed-bestand dezelfde lijstitems bevat en ze behouden hun historie- en kwaliteitsscores. **Opmerking:** Als alle onderliggende productgroepen voor een bovenliggende productgroep ontbreken, wordt de bovenliggende productgroep verwijderd omdat u de productgroepen niet kunt onderbreken.
 
-* *[!UICONTROL None]* (de standaardinstelling): Wijzig de bestaande componenten niet.
+* *[!UICONTROL None]* (de standaardwaarde): wijzig de bestaande componenten niet.
 
-**[!UICONTROL Missing line items in an FTP feed/GMC account]:** Wat te doen met bestaande punten wanneer 1) zij niet inbegrepen a) in een nieuw voederdossier zijn dat aan een folder van FTP of b) in een handelaarscentrale rekening werd geupload de volgende keer dat Onderzoek, Sociale, &amp; Handel met het synchroniseert, of 2) wanneer zij niet aan bestaande campagnes of ad groepen per [!UICONTROL Map Only] instellingen in de sjabloon.
+**[!UICONTROL Missing line items in an FTP feed/GMC account]:** Wat te doen met bestaande punten wanneer 1) zij niet inbegrepen a) in een nieuw voederdossier zijn dat aan een folder van FTP of b) in een handelscentrale rekening werd geupload de volgende keer dat Onderzoek, Sociale, &amp; Handel met het synchroniseert, of 2) wanneer zij niet aan bestaande campagnes of ad groepen per [!UICONTROL Map Only] instellingen in de sjabloon.
 
 * *[!UICONTROL Delete]:* Verwijder de bestaande componenten.
 
-* *[!UICONTROL Pause]:* Onderbreek de bestaande componenten. Ze worden opnieuw geactiveerd als nieuwe gegevens dezelfde regelitems bevatten en hun geschiedenis en kwaliteitsscore behouden. **Opmerking:** Als alle onderliggende productgroepen voor een bovenliggende productgroep ontbreken, wordt de bovenliggende productgroep verwijderd omdat u de productgroepen niet kunt onderbreken.
+* *[!UICONTROL Pause]:* Onderbreek de bestaande componenten. Ze worden opnieuw geactiveerd als nieuwe gegevens dezelfde lijstitems bevatten en hun geschiedenis en kwaliteitsscore behouden. **Opmerking:** Als alle onderliggende productgroepen voor een bovenliggende productgroep ontbreken, wordt de bovenliggende productgroep verwijderd omdat u de productgroepen niet kunt onderbreken.
 
-* *[!UICONTROL None]* (de standaardinstelling): Wijzig de bestaande componenten niet.
+* *[!UICONTROL None]* (de standaardwaarde): wijzig de bestaande componenten niet.
 
 **[!UICONTROL When a numeric stock level reaches N units, or where a text-based value is 'out of stock']:** Wat te doen met lijnpunten die een voorraadniveau omvatten wanneer:
 
@@ -80,7 +81,7 @@ Selecteer de actie voor beide gevallen:
 
 * *[!UICONTROL Delete]* (standaard) Verwijder de componenten.
 
-* *[!UICONTROL Pause]:* Pauze de componenten. Wanneer de gegevens worden bijgewerkt, worden de componenten opnieuw geactiveerd als de numerieke voorraadwaarden boven de opgegeven hoeveelheid komen of als de [!UICONTROL Availability] is &quot;[!UICONTROL in stock]&quot; of &quot;[!UICONTROL preorder]&quot;. De componenten behouden hun geschiedenis en kwaliteitsscore.
+* *[!UICONTROL Pause]:* Pauzeer de componenten. Wanneer de gegevens worden bijgewerkt, worden de componenten opnieuw geactiveerd als de numerieke voorraadwaarden boven de opgegeven hoeveelheid komen of als de [!UICONTROL Availability] is &quot;[!UICONTROL in stock]&quot; of &quot;[!UICONTROL preorder]&quot;. De componenten behouden hun geschiedenis en kwaliteitsscore.
 
 Het voorraadniveau voor elk lijnitem komt uit een kolom in het voederbestand, zoals gespecificeerd in &quot;[!UICONTROL Stock Level]&quot; veld voor elke sjabloon.
 
@@ -88,7 +89,6 @@ Het voorraadniveau voor elk lijnitem komt uit een kolom in het voederbestand, zo
 >
 >* Voor producten of de diensten die u verwacht om beschikbaarheid te hervoorraden of te verhogen voor, zou u ad groepen, sleutelwoorden, en advertenties eerder dan hen te schrappen en hen te ontspannen. Door te pauzeren kunnen ze hun kwaliteitsscores behouden.
 >* Als u verouderde automatische verwerking voor advertentiegroepen inschakelt en nieuwe gegevens een voorraadniveau voor de advertentiegroep bevatten, is het zinvol om de advertentiegroep alleen te verwijderen of te pauzeren wanneer het opgegeven voorraadniveau zich op categorieniveau bevindt in plaats van op het merk/artikelniveau. Als u bijvoorbeeld een ad-groep &quot;convertibles&quot; hebt, moet het voorraadniveau voor de ad-groep het totaal zijn voor alle afzonderlijke converteerbare modellen die in de ad-groep worden vertegenwoordigd.
-
 
 **[!UICONTROL Propagate feed data through all applicable templates]:** (Adverteerders die gegevensbestanden uploaden via FTP of een bedrijfscentrum account) verspreiden automatisch nieuwe gegevens via de toepasselijke sjablonen. De optie is standaard geselecteerd. Als u de optie uitschakelt, kunt u nog steeds handmatig gegevens doorgeven voor een feed-bestand of -account, of voor een sjabloon.
 
@@ -98,14 +98,13 @@ Het voorraadniveau voor elk lijnitem komt uit een kolom in het voederbestand, zo
 >* Voor zakelijke accounts synchroniseert Search, Social &amp; Commerce dagelijks met het account om ongeveer 6:00 uur in de tijdzone van de adverteerder. Met deze optie verwerkt u alle gegevens die zijn bijgewerkt sinds de laatste synchronisatie.
 >* Doorgeven gegevens zijn beschikbaar via de [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs totdat de gegevens naar het advertentienetwerk of naar het [!UICONTROL Bulksheets] weergeven.
 
-
 **[!UICONTROL Post to the SE]:** (Adverteerders die gegevensbestanden uploaden via FTP of een bedrijfscentrum-account) maken automatisch bulksbladbestanden in de juiste indelingen voor de relevante advertentienetwerken nadat nieuwe gegevens zijn doorgegeven via de toepasselijke sjablonen. Met deze optie verwijdert u ook de gegevens uit het dialoogvenster [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] tabs, tenzij subcomponenten fouten bevatten.
 
 Deze optie is standaard uitgeschakeld. Als u deze optie wilt inschakelen, schakelt u het selectievakje in en geeft u op of u bladbestanden met opsommingstekens wilt posten op de advertentienetwerken:
 
-* *[!UICONTROL Immediately]* (de standaardinstelling): Post de bulkbladdossiers aan de relevante advertentienetwerken nadat het gegeven door de malplaatjes wordt verspreid. De bulksbladbestanden blijven beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] weergegeven gedurende 30 dagen.
+* *[!UICONTROL Immediately]* (het gebrek): Post de bulkbladdossiers aan de relevante advertentienetwerken nadat het gegeven door de malplaatjes wordt verspreid. De bulksbladbestanden blijven beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] weergegeven gedurende 30 dagen.
 
-* *[!UICONTROL Preview in Bulksheet Management area only, post later]:** Plaatst de bulkbladbestanden niet op de relevante advertentienetwerken, maar vermeldt deze in het dialoogvenster [!UICONTROL Bulksheets] bekijken, waaruit u ze later kunt posten. De bulksbladbestanden blijven beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] weergegeven gedurende 30 dagen. Als het bestand met de opsommingstekens groter is dan 10 MB maar kleiner dan 2 GB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten. **Tip:** Als u uw bestemmingspagina&#39;s niet eerder hebt bevestigd, dan gebruik deze optie zodat kunt u hen van bevestigen [!UICONTROL Bulksheets] bekijk alvorens u de gegevens aan het ad netwerk post.
+* *[!UICONTROL Preview in Bulksheet Management area only, post later]:** Plaatst de bulkbladbestanden niet op de relevante advertentienetwerken, maar vermeldt deze in het dialoogvenster [!UICONTROL Bulksheets] bekijken, waaruit u ze later kunt posten. De bulksbladbestanden blijven beschikbaar in het dialoogvenster [!UICONTROL Bulksheets] weergegeven gedurende 30 dagen. Wanneer het bulksbladbestand groter is dan 10 MB maar kleiner dan 2 GB, heeft het bestand de ZIP-indeling. U hoeft het bestand niet uit te pakken om het te posten. **Tip:** Als u uw bestemmingspagina&#39;s niet eerder hebt bevestigd, dan gebruik deze optie zodat kunt u hen van bevestigen [!UICONTROL Bulksheets] bekijk alvorens u de gegevens aan het ad netwerk post.
 
 **[!UICONTROL Exclude keywords from posting when keyword length is greater than]:** Voorkomt het posten van sleutelwoorduitdrukkingen met meer dan een gespecificeerd aantal woorden aan het advertentienetwerk. Als deze optie is geselecteerd, worden trefwoordwoordwoordgroepen met meer dan het maximale aantal woorden doorgegeven en weergegeven op de [!UICONTROL Keywords] , maar deze worden niet gepost wanneer u de gegevens probeert te posten.
 
@@ -116,4 +115,3 @@ Deze optie is standaard uitgeschakeld, zodat alle trefwoorden worden gepost, ong
 >* [Informatie over voorraadfeeds](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
 >* [Doorvoergegevens doorgeven via sjablonen](/help/search-social-commerce/campaign-management/inventory-feeds/feed-data-propagate.md)
 >* [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](propagated-data-post.md)
-

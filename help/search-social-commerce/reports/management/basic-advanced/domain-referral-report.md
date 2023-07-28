@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Domain Referral Report]"
+title: '[!UICONTROL Domain Referral Report]'
 description: Meer informatie over de [!UICONTROL Domain Referral Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: a5233a09-1dd6-43d0-bef7-b8cf8c905e13
+feature: Search Reports, Search Advanced Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '266'
 ht-degree: 0%
@@ -26,11 +28,11 @@ U kunt gegevens van de vorige twee (2) maanden plus de huidige maand bekijken.
 >
 >Gebruik de resultaten om de netwerkinstellingen voor uw campagnes te verfijnen. Als advertenties op partnersites van een advertentienetwerk of op een specifieke website bijvoorbeeld nooit conversies veroorzaken, kunt u advertenties uitsluiten van het uitvoeren op die sites. Wees echter voorzichtig bij het uitsluiten van sites van uw campagnes, omdat de inhoud en de markt de waarde van het verkeer van een site snel kunnen wijzigen.
 
-[^1]: De klikgegevens (of klik-door) voor deze rapporten worden voorgesteld als ramingen eerder dan daadwerkelijke gegevens omdat Onderzoek, Sociale, &amp; Handel verschillende algoritmen kunnen gebruiken dan de diverse advertentienetwerken doen om geldige kliks te ontdekken, en omdat Onderzoek, Sociale, &amp; Handel geen sleutelwoorden tellen waarvoor geen kliks in de vorige week werd geregistreerd. Het systeem voor het bijhouden van conversies kan ook gegevens bevatten voor netwerkaccounts waarmee Zoeken, Sociale media en Handel niet worden gesynchroniseerd.
+[^1]: De klikgegevens (of klik-door) voor deze rapporten worden voorgesteld als ramingen eerder dan daadwerkelijke gegevens omdat Onderzoek, Sociale, &amp; Handel verschillende algoritmen kunnen gebruiken dan de diverse advertentienetwerken doen om geldige kliks te ontdekken, en omdat Onderzoek, Sociale, &amp; Handel geen sleutelwoorden tellen waarvoor geen kliks in de vorige week werd geregistreerd. Het systeem voor het bijhouden van conversies kan ook gegevens bevatten voor netwerkaccounts waarmee Zoeken, Sociaal en Handel niet synchroniseert.
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Domain]
 * [!UICONTROL Site]
@@ -45,4 +47,3 @@ Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-adv
 >* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
 >* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
-

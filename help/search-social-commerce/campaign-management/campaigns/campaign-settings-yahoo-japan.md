@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Yahoo! Japan Ads] campagne-instellingen"
+title: '[!DNL Yahoo! Japan Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Yahoo! Japan Ads] campagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: f728a880-27d8-478a-8480-a00b0fcab293
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '116'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kunt u advertenties plaatsen: de enige optie is *[!UICONTROL Search Network Only]* om tekstadvertenties op het zoeknetwerk weer te geven.
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kan ik advertenties plaatsen? De enige optie is *[!UICONTROL Search Network Only]* om tekstadvertenties op het zoeknetwerk weer te geven.
 
 ## [!UICONTROL Campaign Details]
 
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardinstelling voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
 
 <!-- **[!UICONTROL End date]:** -->
 
@@ -93,4 +95,3 @@ Als u deze campagne toewijst aan een portfolio waarvoor de begrotingslimieten vo
 >[!MORELIKETHIS]
 >
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-

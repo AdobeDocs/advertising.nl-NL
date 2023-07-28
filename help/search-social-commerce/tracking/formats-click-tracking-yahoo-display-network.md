@@ -1,7 +1,9 @@
 ---
 title: Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Display Network]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Yahoo! Display Network] rekeningen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 62ea592c-9138-4a8e-9616-c8f2475fea26
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -20,15 +22,13 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
 >
 >* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
 >
 >* `<the landing page>` is een variabele die de URL op uw site vertegenwoordigt waarnaar eindgebruikers worden geleid.
 
-
 >[!MORELIKETHIS]
 >
->* [Over het bijhouden van klikken op URL-indelingen voor de service voor het bijhouden van Adobe-advertenties](formats-click-tracking-about.md)
+>* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
 >* [Opmaak voor de s\_kwcid-trackingcode](skwcid-tracking-parameter.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon verwijderen
 description: Leer hoe je waarschuwingssjablonen kunt verwijderen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 7044ee80-ad90-4fad-8443-300f5ff0cee7
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -18,7 +20,7 @@ U kunt alleen de waarschuwingssjablonen verwijderen die u hebt gemaakt.
 
 1. Klik op de werkbalk op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
 
-1. Klik in het dialoogvenster op **[!UICONTROL Delete]**.
+1. Klik op **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
@@ -30,4 +32,3 @@ U kunt alleen de waarschuwingssjablonen verwijderen die u hebt gemaakt.
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

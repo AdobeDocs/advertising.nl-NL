@@ -1,7 +1,9 @@
 ---
 title: Campagnes verwijderen uit een portfolio
 description: Leer hoe u campagnes uit een portfolio kunt verwijderen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: f86ebc10-650c-42ef-b3df-cd707a863c70
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 0%
@@ -24,7 +26,7 @@ Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociale &amp; Handel, vo
 
 1. Klik in het linkermenu op **[!UICONTROL Campaigns]** en verwijder vervolgens de campagnes:
 
-   * Als u alle toegewezen campagnes wilt verwijderen, klikt u op ![Alle campagnes uit portfolio verwijderen](/help/search-social-commerce/assets/arrow-remove-all.png "Alle campagnes uit portfolio verwijderen").
+   * Om alle toegewezen campagnes te verwijderen, klik ![Alle campagnes uit portfolio verwijderen](/help/search-social-commerce/assets/arrow-remove-all.png "Alle campagnes uit portfolio verwijderen").
 
    * Als u een afzonderlijke campagne wilt verwijderen, klikt u op de campagne en sleept u de campagne naar de [!UICONTROL Available Campaigns] lijst of klik op ![Campagne verwijderen uit portfolio](/help/search-social-commerce/assets/arrow-remove.png "Campagne verwijderen uit portfolio") .
 
@@ -33,4 +35,3 @@ Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociale &amp; Handel, vo
 >[!MORELIKETHIS]
 >
 >* [Campagnes toewijzen aan een portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md)
-

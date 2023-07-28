@@ -2,7 +2,8 @@
 title: Conversiemetriek uploaden naar [!DNL Google Ads]
 description: Leer hoe u de conversiemetriek Zoeken, Sociaal en Handel uploadt naar [!DNL Google Ads].
 exl-id: 88db66c2-12db-41cf-b6c4-ed821cb3b8ea
-source-git-commit: 00f9e5e3892be305f5d7c69161bdb7609f13f1bf
+feature: Search Tools
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Adverteerders met [!DNL Google Ads] Alleen accounts*
 
-Zoeken, sociale zaken en handel kunnen optioneel worden geüpload naar [!DNL Google Ads] alle omzettingsmetriek die het voor [!DNL Google Ads] campagnes die de Adobe Advertising conversie volgende dienst en omzettingsmetriek gebruiken die van Adobe Analytics worden gesynchroniseerd. Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u de Adobe-omzettingen wilt gebruiken voor hybride optimalisatie, raadpleegt u &quot;[Uploaden van doelstellingen naar en netwerken inschakelen](objective-upload-to-networks.md).&quot;
+Zoeken, sociale zaken en handel kunnen optioneel worden geüpload naar [!DNL Google Ads] alle omzettingsmetriek het volgt voor [!DNL Google Ads] campagnes die de Adobe Advertising conversie volgende dienst en omzettingsmetriek gebruiken die van Adobe Analytics worden gesynchroniseerd. Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u de Adobe-omzettingen wilt gebruiken voor hybride optimalisatie, raadpleegt u &quot;[Uploaden van doelstellingen naar en netwerken inschakelen](objective-upload-to-networks.md).&quot;
 
 Dagelijkse uploads inclusief bijgehouden `gclid` waarde, de omzettingswaarde die gebruikend het adverteerderniveau attributiemodel wordt bepaald, en timestamp. Als het attributiemodel wordt bijgewerkt, dan gebruikt volgende uploadt het nieuwe model, maar het verleden gegevens wordt niet bijgewerkt om het nieuwe model te gebruiken.
 

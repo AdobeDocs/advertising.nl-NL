@@ -1,7 +1,9 @@
 ---
 title: Een melding markeren als gelezen of ongelezen
 description: Klik hier als je wilt weten of je een bericht hebt gelezen of niet.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 333173a0-7e3a-4fb6-a80c-a9a1f5714fbf
+feature: Search Notifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '139'
 ht-degree: 0%
@@ -30,4 +32,3 @@ Meldingen gemarkeerd als *lezen* bevinden zich in een lichtere tekst, maar blijv
 >* [Uw meldingsinstellingen bewerken](notification-edit.md)
 >* [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
 >* [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](notification-app-install-uninstall.md)
-

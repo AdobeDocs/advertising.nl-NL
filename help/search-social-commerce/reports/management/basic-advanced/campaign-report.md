@@ -1,7 +1,9 @@
 ---
-title: "[!UICONTROL Campaign Report]"
+title: '[!UICONTROL Campaign Report]'
 description: Meer informatie over de [!UICONTROL Campaign Report].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: a241535a-d32a-4f84-9e0e-addb68d75496
+feature: Search Reports, Search Basic Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -18,7 +20,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 ## Standaardkolommen
 
-Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Campaign]
 * [!UICONTROL Portfolio]
@@ -40,4 +42,3 @@ Zie &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-adv
 >* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
 >* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
 >* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
-

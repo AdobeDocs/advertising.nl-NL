@@ -1,7 +1,9 @@
 ---
 title: Opmaak voor het bijhouden van klikken voor [!DNL Yandex]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Yandex] rekeningen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: cf1d6c4b-9bcd-4b82-919f-c14dbaff9a76
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -20,7 +22,7 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
 >
 >* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
 >
@@ -34,9 +36,7 @@ Voorbeeld:
 >
 >* `position_type` is het blok waarin de advertentie is weergegeven [!DNL Yandex]. Mogelijke waarden: &quot;premium&quot; (bovenste blok), &quot;other&quot; (rechterblok) of &quot;none&quot; (niet-zoekverkeer).
 
-
 >[!MORELIKETHIS]
 >
->* [Over het bijhouden van klikken op URL-indelingen voor de service voor het bijhouden van Adobe-advertenties](formats-click-tracking-about.md)
+>* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
 >* [Opmaak voor de s\_kwcid-trackingcode](skwcid-tracking-parameter.md)
-

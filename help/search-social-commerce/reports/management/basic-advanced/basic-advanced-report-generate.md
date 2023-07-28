@@ -1,7 +1,9 @@
 ---
 title: Een basisrapport of geavanceerd rapport genereren
 description: Leer hoe u een aangepast basis- of geavanceerd rapport kunt genereren.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: cad5183c-cd21-439a-ab3e-033b2bb187ec
+feature: Search Reports, Search Basic Reports, Search Advanced Reports
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 0%
@@ -18,7 +20,7 @@ ht-degree: 0%
 
    1. (Optioneel) Voer een aangepaste naam in voor het rapport en voor de sjabloon (als u het rapport opslaat als een sjabloon).
 
-   1. (Optioneel) Schakel het selectievakje naast **[!UICONTROL Save as template]**.
+   1. (Optioneel) Als u de rapportinstellingen als een sjabloon wilt opslaan, schakelt u het selectievakje naast **[!UICONTROL Save as template]**.
 
    1. (Optioneel) Op de **[!UICONTROL Basic Settings]** selecteert u een bestaande rapportsjabloon om de standaardbasisinstellingen voor het rapport te gebruiken of te wijzigen.
 
@@ -34,7 +36,7 @@ ht-degree: 0%
 
    1. (Optioneel) Klik op de knop **[!UICONTROL Scheduling and Delivery]** en wijzigt u de standaardopties voor planning en levering.
 
-1. (Optioneel, indien beschikbaar) Als u een voorvertoning van de eerste 50 regels van het rapport wilt weergeven, klikt u op **[!UICONTROL Preview]**. Als u klaar bent, klikt u op **[!UICONTROL Back]** om op de pagina van rapportmontages terug te komen.
+1. (Optioneel, indien beschikbaar) Als u de eerste 50 regels van het rapport wilt bekijken, klikt u op **[!UICONTROL Preview]**. Klik op **[!UICONTROL Back]** om op de pagina van rapportmontages terug te komen.
 
    >[!NOTE]
    >
@@ -42,7 +44,7 @@ ht-degree: 0%
 
 1. Klik op **[!UICONTROL Create]**.
 
-Als u geen rapportprogramma specificeerde, dan wordt het rapport onmiddellijk in werking gesteld; anders, wordt het gelopen volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] weergave](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan [[!UICONTROL Templates] weergave](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. sjablonen zijn direct beschikbaar.
+Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] weergave](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan [[!UICONTROL Templates] weergave](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
 
 Als u een e-mailadres hebt ingevoerd voor een melding, ontvangt elke ontvanger een melding wanneer de rapporttaak is voltooid of mislukt, op basis van de [geconfigureerde meldingsinstellingen](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
 
@@ -52,4 +54,3 @@ Als u een e-mailadres hebt ingevoerd voor een melding, ontvangt elke ontvanger e
 >* [Standaard en geavanceerde rapportinstellingen](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
 >* [Kolommen rapporteren voor basis- en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
 >* [Rapporten verwijderen](/help/search-social-commerce/reports/management/report-delete.md)
-

@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds"
+title: '''[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds"'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] winkelen en sjablonen voor voorraadfeeds.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: c154e1b3-70eb-437d-80f6-abf6ac192697
+feature: Search Inventory Feeds
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -56,7 +58,7 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 **[!UICONTROL Campaign Tracking Template]:** (Optioneel voor sjablonen voor clientfeed-bestanden) De sjabloon voor bijhouden op campagnereniveau, waarmee alle niet-landende domein-omleidingen en volgparameters worden opgegeven en de uiteindelijke URL wordt ingesloten in een parameter. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
 
-Voor het bijhouden van reclame-conversies voor Adobe, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; gebruikt u de [Sjabloonformaat voor winkelen in Google Ads volgen](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
+Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; gebruikt u de [Sjabloonformaat voor winkelen in Google Ads volgen](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -114,7 +116,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 **[!UICONTROL Ad Group Tracking Template]:** (Optioneel) Een sjabloon voor reeksspatiëring op advertentieniveau, waarmee alle parameters voor het omleiden en bijhouden van domeinen worden opgegeven en de laatste URL wordt ingesloten in een parameter. Deze waarde overschrijft de instellingen op account- en campagnereniveau, maar sjablonen bijhouden op meer granulaire niveaus overschrijven deze waarde.
 
-Voor het bijhouden van reclame-conversies voor Adobe hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
+Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -134,9 +136,9 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 {{$include /help/_includes/inventory-feed-template-row-level-value.md}}
 
-**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; (optioneel) De sjabloon voor bijhouden van gegevens voor de productgroep, die alle parameters voor omleiding en tekstspatiëring buiten het landingsdomein opgeeft en de laatste URL in een [!DNL ValueTrack] parameter. Deze sjabloon negeert sjablonen op hogere niveaus.
+**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; optioneel) De sjabloon voor bijhouden voor de productgroep, die alle omleidingen en volgparameters van een extern domein opgeeft en de laatste URL in een [!DNL ValueTrack] parameter. Deze sjabloon negeert sjablonen op hogere niveaus.
 
-Voor het bijhouden van reclame-conversies voor Adobe hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
+Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 

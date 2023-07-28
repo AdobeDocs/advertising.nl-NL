@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Google Ads] trefwoordinstellingen"
+title: '''[!DNL Google Ads] trefwoordinstellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] trefwoorden.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 8834e852-214b-4b2c-9a95-4b1c802e800d
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '197'
 ht-degree: 0%
@@ -28,7 +30,6 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
 >* Een [!DNL Google Ads] het bestaande trefwoord of het overeenkomende type wordt verwijderd en er wordt een nieuw trefwoord gemaakt.
 
-
 **[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
 
 ## [!UICONTROL Bids]
@@ -39,9 +40,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param1}`](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks.
+**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param1}`](https://support.google.com/google-ads/answer/6305348) dynamische vervangingsreeks.
 
-**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param2}`](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks.
+**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param2}`](https://support.google.com/google-ads/answer/6305348) dynamische vervangingsreeks.
 
 ## URL-opties
 
@@ -60,4 +61,3 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 >[!MORELIKETHIS]
 >
 >* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
-

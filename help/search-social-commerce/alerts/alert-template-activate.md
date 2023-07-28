@@ -1,7 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon activeren
 description: Leer hoe u een gepauzeerde waarschuwingssjabloon activeert.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 6cf9ef6b-9f71-462c-b81e-a604d33c4fb7
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -18,9 +20,9 @@ U kunt pauzesjablonen activeren.
 
    * (Als u één sjabloon wilt activeren) Klik in de sjabloonrij op de knop [!UICONTROL Status] kolom en selecteer *[!UICONTROL Active]*.
 
-   * (Als u een of meer sjablonen wilt activeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt activeren. Klik op de werkbalk op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren"). Klik in het dialoogvenster op **[!UICONTROL Activate]**.
+   * (Als u een of meer sjablonen wilt activeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt activeren. Klik op de werkbalk op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren"). Klik op **[!UICONTROL Activate]**.
 
-      Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+     Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 >[!MORELIKETHIS]
 >
@@ -32,4 +34,3 @@ U kunt pauzesjablonen activeren.
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

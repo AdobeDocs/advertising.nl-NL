@@ -1,7 +1,9 @@
 ---
 title: Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]
 description: Leer hoe u pushmeldingen kunt in- en uitschakelen vanuit [!UICONTROL Notification Center].
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 71d115d0-6190-4052-a299-d5e8cde8e46c
+feature: Search Notifications
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 0%
@@ -30,7 +32,7 @@ U kunt pushmeldingen uitschakelen volgens de standaardprocedure van de browser.
 
 2. Klik in de rechteronderhoek op ![Pushmeldingen inschakelen](/help/search-social-commerce/assets/notifications-push.png "Pushmeldingen inschakelen").
 
-3. Klik in het bevestigingsbericht op **[!UICONTROL Enable]**.
+3. Klik in het bevestigingsbericht **[!UICONTROL Enable]**.
 
 4. De browser configureren om meldingen toe te staan van [!UICONTROL Notification Center] om`https://alert-center-ui-na.efrontier.com`.
 
@@ -54,4 +56,3 @@ Zie de instructies in de Help van de browser.
 >* [Een melding verwijderen](notification-delete.md)
 >* [Uw meldingsinstellingen bewerken](notification-edit.md)
 >* [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](notification-app-install-uninstall.md)
-

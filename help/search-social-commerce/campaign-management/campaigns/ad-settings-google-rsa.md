@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Google Ads] responsieve zoekopdrachten en instellingen"
+title: '[!DNL Google Ads] responsieve zoekfunctie en instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] responsieve zoekopdrachten.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: e3c76f22-780d-4631-bcf2-af68d12810e2
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 0%
@@ -10,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Google Ads] responsieve zoekopdrachten en instellingen
 
-[!DNL Google Ads] dynamisch samenstellen [responsieve zoekadvertenties](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
+[!DNL Google Ads] dynamisch samenstellen [responsieve zoekopdrachten](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
 
 >[!NOTE]
 >
@@ -52,4 +54,3 @@ Zie de [!DNL Google Ads] hulp voor [advertentiegrenzen per account](https://supp
 >* [Advertenties beheren](ad-manage.md)
 >* [[!DNL Google Ads] alleen-aanroepbare advertentie-instellingen](ad-settings-google-call.md)
 >* [[!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-google-dsa.md)
-

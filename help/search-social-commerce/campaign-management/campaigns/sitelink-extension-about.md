@@ -1,7 +1,9 @@
 ---
 title: Extensies voor sitelink
 description: Meer informatie over sitelink-extensies.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: bf4ef112-7a9f-4e8a-8f04-06ed123c862a
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -18,7 +20,7 @@ U maakt tekst en instellingen voor gedeelde sitelink, waaronder datums waarop de
 
 ## De [!UICONTROL Sitelinks] en [!UICONTROL Associations] views
 
-De [!UICONTROL Extensions] > [!UICONTROL Sitelinks] bibliotheek in [!UICONTROL Campaigns] > [!UICONTROL Campaigns] bevat een lijst met al uw sitelinks op accountniveau en u kunt uw gedeelde sitelinks daar maken en beheren. Raadpleeg de Help van het advertentienetwerk voor het maximale aantal advertentie-extensies per [[!DNL Google Ads] account](https://support.google.com/google-ads/answer/6372658) en per [[!DNL Microsoft® Advertising] account](https://help.ads.microsoft.com/#apex/3/en/52001). Sitelinks in uw bibliotheek worden pas gebruikt bij advertenties als u deze toewijst aan accountentiteiten.
+De [!UICONTROL Extensions] > [!UICONTROL Sitelinks] bibliotheek in [!UICONTROL Campaigns] > [!UICONTROL Campaigns] bevat een lijst met al uw sitelinks op accountniveau en u kunt uw gedeelde sitelinks daar maken en beheren. Raadpleeg de Help van het advertentienetwerk voor het maximale aantal advertentieversies per [[!DNL Google Ads] account](https://support.google.com/google-ads/answer/6372658) en per [[!DNL Microsoft® Advertising] account](https://help.ads.microsoft.com/#apex/3/en/52001). Sitelinks in uw bibliotheek worden pas gebruikt bij advertenties als u deze toewijst aan accountentiteiten.
 
 Van de [!UICONTROL Extensions] > [!UICONTROL Associations] kunt u een van uw sitelinks zo mogelijk extensies toewijzen aan alle advertenties op accountniveau ([!DNL Google Ads] alleen), op campagnereniveau of op advertentieniveau ([!DNL Google Ads] alleen).
 
@@ -32,4 +34,3 @@ In [!DNL Google Ads] en [!DNL Microsoft® Advertising]kunt u kosten zien en op g
 >
 >* [Gedeelde sitelink-extensies beheren](sitelink-extension-manage.md)
 >* [Gedeelde sitelink-extensies koppelen aan campagnes of ad-groups](sitelink-extension-associate.md)
-

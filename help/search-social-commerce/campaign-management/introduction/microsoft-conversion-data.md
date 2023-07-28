@@ -1,7 +1,8 @@
 ---
 title: '[!DNL Microsoft Advertising] conversiegegevens'
 description: Meer informatie over de typen [!DNL Microsoft Advertising]-tracked conversion data available in Search, Social, & Commerce.
-source-git-commit: 0d7a7b63b31f85b3befb3217fc43bcb229b370f0
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '645'
 ht-degree: 0%
@@ -18,7 +19,7 @@ Alle metriek zijn automatisch beschikbaar in uw weergaven voor campagnebeheer en
 
 Met Zoeken, Sociaal en Handel worden gegevens gesynchroniseerd voor conversies waarvoor &quot;[!DNL Include in 'Conversions']&quot; optie is ingeschakeld, waarbij de gegevens de laatste 35 dagen worden opgehaald en vervolgens dagelijks wijzigingen in de gegevens worden doorgevoerd tegen 09:00-10:00 in de tijdzone van de adverteerder. Historische gegevens kunnen van dag tot dag veranderen aangezien de nieuwe omzettingen voor elke klik worden gevolgd.
 
-Twee transactieeigenschappen voor elk [[!DNL Microsoft Advertising]-trackconversie](https://help.ads.microsoft.com/apex/index/3/en-us/n5012) (die u hebt ingesteld in [!DNL Microsoft Advertising]) automatisch beschikbaar zijn in Zoeken, Sociale Zaken, &amp; Handel, gebruikend de omzettingsnamen die in worden gevormd [!DNL Microsoft Advertising]. De transactieeigenschappen voor elke omzetting omvatten:
+Twee transactieeigenschappen voor elk [[!DNL Microsoft Advertising]-trackconversie](https://help.ads.microsoft.com/apex/index/3/en-us/n5012) (die u hebt ingesteld in [!DNL Microsoft Advertising]) automatisch beschikbaar zijn in Zoeken, Sociale Zaken, &amp; Handel, gebruikend de omzettingsnamen binnen [!DNL Microsoft Advertising]. De transactieeigenschappen voor elke omzetting omvatten:
 
 * `<conversion-name>` — De conversiewaarde voor het trefwoord (zoals Aankoop).
 
@@ -34,7 +35,7 @@ Twee transactieeigenschappen voor elk [[!DNL Microsoft Advertising]-trackconvers
 
 De gegevens zijn beschikbaar op basis van de kliktijd en gebaseerd op de conversie-/transactietijd vanaf de datum waarop de functie voor de account is ingeschakeld.
 
-[!DNL Microsoft Advertising] registreert elke omzetting door [biedingseenheid](/help/search-social-commerce/glossary.md#a-b), apparaat en klik op datum (geen omzettingsdatum). Attributie is gebaseerd op de standaardattributie-instelling voor elke metrische waarde in [!DNL Microsoft Advertising]; De attributie van de Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
+[!DNL Microsoft Advertising] registreert elke omzetting door [biedingseenheid](/help/search-social-commerce/glossary.md#a-b), apparaat en klik op datum (geen omzettingsdatum). Attributie is gebaseerd op de standaardattributie-instelling voor elke metrische waarde in [!DNL Microsoft Advertising]; Adobe Advertising-toewijzing wordt niet in aanmerking genomen omdat gegevens op gebeurtenisniveau niet beschikbaar zijn.
 
 >[!NOTE]
 >
@@ -59,15 +60,15 @@ In Onderzoek, Sociale, &amp; Handel, gebruik de mening of rapportoptie om omzett
 
 1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Create Report]**, houd de cursor boven **[!UICONTROL Basic Reports]** en klik vervolgens op **[!UICONTROL Search Engine Account Report]**.
 
-1. In de [!UICONTROL Report Settings] Geef de volgende rapportinstellingen op:
+1. In de [!UICONTROL Report Settings] Geef de volgende rapportinstellingen op in het venster:
 
-   1. In de **[!UICONTROL Conversions Based]** in sectie selecteert u **[!UICONTROL Click date]**.
+   1. In de **[!UICONTROL Conversions Based]** in de sectie selecteert u **[!UICONTROL Click date]**.
 
    1. Geef hetzelfde datumbereik op als dat u hebt gebruikt voor het dialoogvenster [!DNL Microsoft Advertising] verslag.
 
    1. In de **[!UICONTROL Search/Content]** sectie, selecteert u **[!UICONTROL Search Only]**.
 
-   1. In de **[!UICONTROL Search Engine Hierarchy]** in, vouwt u de [!UICONTROL Microsoft Advertising] en selecteer de account.
+   1. In de **[!UICONTROL Search Engine Hierarchy]** sectie, breid de [!UICONTROL Microsoft Advertising] en selecteer de account.
 
    1. Open de [!UICONTROL Columns] en voegt u de [!DNL Microsoft Advertising] maatstaven die u wilt vergelijken.
 

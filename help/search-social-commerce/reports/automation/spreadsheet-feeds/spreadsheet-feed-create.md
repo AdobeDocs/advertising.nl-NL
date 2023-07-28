@@ -1,7 +1,9 @@
 ---
 title: Een feed voor een spreadsheetrapport maken
 description: Leer hoe u werkbladfeeds instelt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: ed793de5-0df1-4fc3-be59-29adec4959f7
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 *Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
 
-Spreadsheetfeeds instellen met speciaal geformatteerde [!DNL Excel] spreadsheetsjablonen die u maakt op basis van gewone rapportsjablonen.
+Spreadsheetfeeds instellen met speciaal geformatteerde [!DNL Excel] werkbladsjablonen die u maakt op basis van gewone rapportsjablonen.
 
 1. [Maak de [!DNL Excel] malplaatje om met de rapportgegevens te bevolken](spreadsheet-feed-create-excel-template.md).
 
@@ -39,8 +41,7 @@ Spreadsheetfeeds instellen met speciaal geformatteerde [!DNL Excel] spreadsheets
 >* [Info over werkbladrapportfeeds](spreadsheet-feed-about.md)
 >* [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](spreadsheet-feed-create-excel-template.md)
 >* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Instellingen voor werkbladrapportfeed](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor spreadsheetrapporten weergeven of opslaan](spreadsheet-feed-view-or-save.md)
+>* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
+>* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
 >* [Werkbladrapportfeeds handmatig vernieuwen](spreadsheet-feed-refresh.md)
 >* [feeds voor spreadsheetrapporten verwijderen](spreadsheet-feed-delete.md)
-

@@ -1,14 +1,15 @@
 ---
 title: "Over de [!UICONTROL Asset Library]"
 description: Leer meer over de elementenbibliotheek voor uw advertentie-elementen.
-source-git-commit: 004f1c41578f0c046ccb81f17fbf812959433c87
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
-# Over het [!UICONTROL Asset Library]
+# Informatie over de [!UICONTROL Asset Library]
 
 <!-- Combine with "Create" page into one page? -->
 

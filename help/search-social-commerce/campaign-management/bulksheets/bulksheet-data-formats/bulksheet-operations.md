@@ -1,7 +1,9 @@
 ---
 title: Bewerkingen die u kunt uitvoeren in bulksbladen
 description: Verwijs naar algemene informatie over het toevoegen, bewerken en verwijderen van campagnegegevens met behulp van bulksbladen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 82969bb8-dff8-48e7-b37d-1446a2a90072
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -12,7 +14,7 @@ ht-degree: 0%
 
 U kunt campagnegegevens toevoegen, bewerken en verwijderen via bulksbladen voor [ondersteunde advertentienetwerken](../bulksheet-about.md#bulksheet-functionality-by-network).
 
-Neem een aparte gegevensregel op voor elke campagnecomponent (campagne, advertentiegroep, trefwoord of advertentie) die u wilt toevoegen, bewerken of verwijderen. of waarvan u de eigenschappen wilt toevoegen, bewerken of verwijderen. Als u bijvoorbeeld een campagne wilt maken met één advertentiegroep, één trefwoord en één advertentie (in totaal vier componenten), hebt u vier aparte gegevensregels nodig. Als u de opdracht [!UICONTROL Ad Group Name] voor een advertentiegroep (één component) hebt u echter slechts één regel nodig. Op dezelfde manier hebt u slechts één regel nodig als u vier verschillende eigenschappen voor één advertentiegroep (één component) wilt bewerken.
+Neem een aparte gegevensregel op voor elke campagnecomponent (campagne, groep, trefwoord of tekstadvertentie) die u wilt toevoegen, bewerken of verwijderen, of voor de eigenschappen die u wilt toevoegen, bewerken of verwijderen. Als u bijvoorbeeld een campagne wilt maken met één advertentiegroep, één trefwoord en één advertentie (in totaal vier componenten), hebt u vier aparte gegevensregels nodig. Als u de opdracht [!UICONTROL Ad Group Name] voor een advertentiegroep (één component) hebt u echter slechts één regel nodig. Op dezelfde manier hebt u slechts één regel nodig als u vier verschillende eigenschappen voor één advertentiegroep (één component) wilt bewerken.
 
 De volgende regels zijn van toepassing op het werken met campagnecomponenten en hun eigenschappen.
 
@@ -24,7 +26,7 @@ De volgende regels zijn van toepassing op het werken met campagnecomponenten en 
 
 * Als u een eigenschap voor een bestaande component wilt bewerken, neemt u alle velden op die vereist zijn om die component te bewerken, plus het veld voor de eigenschap.
 
-   Als u het eigenschapveld leeg laat, blijft de bestaande waarde behouden.
+  Als u het eigenschapveld leeg laat, blijft de bestaande waarde behouden.
 
 * Verwijderen:
 
@@ -32,7 +34,7 @@ De volgende regels zijn van toepassing op het werken met campagnecomponenten en 
 
    * ([!UICONTROL Param1], [!UICONTROL Param2], en [!UICONTROL Param3] Alleen waarden) Een bestaande [!DNL paramN] waarde voor een trefwoord, alle velden opnemen die nodig zijn om het trefwoord te bewerken en ook de bestaande [!DNL paramN] waarde door de waarde in te voeren `[delete]` (inclusief de haakjes) in het desbetreffende veld.
 
-   * (Toegestane eigenschapsvelden) Als u een bestaande eigenschapswaarde voor een component wilt verwijderen, neemt u alle velden op die nodig zijn om die component te bewerken en verwijdert u ook de eigenschapswaarde door de waarde in te voeren `[delete]` (met inbegrip van de haakjes). Toegestane velden zijn:
+   * (Toegestane eigenschapsvelden) Als u een bestaande eigenschapswaarde voor een component wilt verwijderen, neemt u alle velden op die nodig zijn om die component te bewerken en verwijdert u ook de eigenschapswaarde door de waarde in te voeren `[delete]` (inclusief de haakjes). Toegestane velden zijn:
 
       * ([!UICONTROL Google Ads] alleen) [!UICONTROL Description Line 1], [!UICONTROL Description Line 2]
 
@@ -48,4 +50,3 @@ De volgende regels zijn van toepassing op het werken met campagnecomponenten en 
 >* [Ondersteunde bestandsindelingen voor bulksbladen](bulksheet-file-formats.md)
 >* [Bijlage - Fouten in bladbladen](../bulksheet-errors.md)
 >* [Een bulkbladbestand downloaden/maken](../bulksheet-download.md)
-

@@ -1,7 +1,9 @@
 ---
 title: Aangepaste waarschuwingen
 description: Leer meer over aangepaste waarschuwingen, zoals hoe u waarschuwingssjablonen maakt en wanneer waarschuwingen worden geactiveerd.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: d5264837-797c-4528-afbb-78e3a95a5b59
+feature: Search Alerts
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '273'
 ht-degree: 0%
@@ -34,4 +36,3 @@ Binnen de [!UICONTROL Custom Alerts] de [!UICONTROL Alert Templates] In deze wee
 >* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
 >* [Aangepaste waarschuwingen weergeven](alert-view.md)
 >* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
-

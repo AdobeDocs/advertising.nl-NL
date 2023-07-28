@@ -1,7 +1,9 @@
 ---
 title: Informatie over publiek
 description: Meer informatie over opties voor bijhouden, maken en beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] publiek.
-source-git-commit: 0b77c54ee9214021c841b4c1cca0b3439ea71f6f
+exl-id: 34169650-9820-4b7d-9ae6-09ff8a8c6f2e
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -12,15 +14,15 @@ ht-degree: 0%
 
 *[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen*
 
-In de bibliotheek Soorten publiek worden alle [!DNL Google Ads] op gegevens gebaseerde, op de markt verkrijgbare en vergelijkbare doelgroepen en uw [!DNL Microsoft® Advertising] remarketing en dynamische remarketing, douane, klantengelijke, in-markt, en gelijkaardige publiek. U kunt elk van de [!DNL Google Ads] publiek als [!DNL Google Ads] op campagnereniveau en op groepsniveau, doelen en uitsluitingen, en u kunt om het even welke [!DNL Microsoft® Advertising] publiek als [!DNL Microsoft® Advertising] streefcijfers op campagnereniveau en op groepsniveau en (alleen voor dynamisch hermarketingpubliek) uitsluitingen. U kunt een biedaanpassing toevoegen of bewerken voor elk doelpubliek.
+In de bibliotheek Soorten publiek worden alle [!DNL Google Ads] op gegevens gebaseerde, op de markt verkrijgbare en vergelijkbare doelgroepen en uw [!DNL Microsoft® Advertising] remarketing en dynamische remarketing, douane, klantengelijke, in-markt, en gelijkaardige publiek. U kunt elk van de [!DNL Google Ads] publiek als [!DNL Google Ads] op campagnereniveau en op groepsniveau, doelen en uitsluitingen, en u kunt om het even welk van [!DNL Microsoft® Advertising] publiek als [!DNL Microsoft® Advertising] streefcijfers op campagnereniveau en op groepsniveau en (alleen voor dynamisch hermarketingpubliek) uitsluitingen. U kunt een biedaanpassing toevoegen of bewerken voor elk doelpubliek.
 
 U kunt publiek tot stand brengen en leiden gebruikend segmenten of e-maillijsten van uw bestaand publiek van Adobe Experience Cloud en van diverse soorten klantengegevens van uw systeem van het het relatiebeheer van de klant (CRM):
 
-* **Adobe publiekssegmenten:** Adverteerders met geopteerde Adobe Audience Manager- of Adobe Analytics-accounts kunnen [!DNL Google Ads] klant stemt publiek van hun [!DNL Adobe] segmenten:
+* **Adobe-publiekssegmenten:** Adverteerders met geopteerde Adobe Audience Manager- of Adobe Analytics-accounts kunnen [!DNL Google Ads] klant stemt publiek van hun [!DNL Adobe] segmenten:
 
    * (Adverteerders met [!DNL Analytics] accounts die geen Audience Manager hebben) U kunt [!DNL Google Ads] klant stemt publiek overeen met gebruiker-id&#39;s van [!DNL Analytics] segmenten die met Adobe Experience Cloud worden gedeeld.
 
-   * (Adverteerders met een Audience Manager-account) U kunt [!DNL Google Ads] klanten passen publiek aan gebruikend gebruikers IDs van de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben. Dit kunnen Adobe Analytics-segmenten omvatten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die zijn gemaakt met de Audience Library van Adobe Experience Cloud.
+   * (Adverteerders met een Audience Manager-account) U kunt [!DNL Google Ads] klanten passen publiek aan gebruikend gebruiker - identiteitskaarts van de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben. Dit kunnen Adobe Analytics-segmenten omvatten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die zijn gemaakt met de Audience Library van Adobe Experience Cloud.
 
   Als u een publiek wilt maken dat aansluit bij de overeenkomst, [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250). Ook, moet de adverteerderrekening in Onderzoek, Sociale, &amp; Handel worden gevormd om de verwezenlijking van klantengelijkenissen toe te staan.<!-- For Analytics audiences: Analytics Only Integration. For Audience Manager, Enable CM/CRM option) -->
 

@@ -1,7 +1,9 @@
 ---
 title: De parameter s_kwcid tracking
 description: Meer informatie over de parameter tracking die wordt gebruikt om Adobe Advertising-gegevens te delen met Adobe Analytics.
-source-git-commit: a9e23de134274d8f5004a908853c4132300b84e8
+exl-id: 3f739f1c-3cb7-40d0-86ab-cf66afe6a06f
+feature: Search Tracking
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '400'
 ht-degree: 0%
@@ -10,17 +12,17 @@ ht-degree: 0%
 
 # De parameter s_kwcid tracking
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
+*Adverteerders die alleen Adobe Advertising-Adobe Analytics-integratie hebben*
 
 <!-- Where should this go? It probably belongs in the Analytics integration chapter, but I'll need to fit it in/create context around it/explain more about implementation and how this works.  SPECIFICALLY, I'll need to update the second section that explains when/where to add the code for DSP clients. -->
 
-Adobe Advertising deelt gegevens over je campagnes met Adobe Analytics via `s_kwcid` voeg parameter toe, die uit ad-channel en ad-network-specific elementen bestaat. De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
+Adobe Advertising deelt gegevens over uw campagnes met Adobe Analytics via de `s_kwcid` voeg parameter toe, die uit ad-channel en ad-network-specific elementen bestaat. De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
 
-* (Aanbevolen)<!--; the only option for Advertising DSP-->) De functie s_kwcid aan de serverzijde is geïmplementeerd.
+* (Aanbevolen<!--; the only option for Advertising DSP-->) De functie s_kwcid aan de serverzijde is geïmplementeerd.
 
   Voor [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] de pixelserver die voor de account of campagne is ingeschakeld, voegt de parameter s_kwcid automatisch toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie klikt <!-- click a search ad or views a display ad --> met de Adobe Advertising pixel.
 
-  voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] Als u uitgeschakelde instellingen instelt, voegt u de parameter handmatig toe aan de toevoegingsparameters op accountniveau, die u vervolgens toevoegt aan de basis-URL&#39;s.
+  voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen bij de [!UICONTROL Auto Upload] Als u uitgeschakelde instellingen instelt, voegt u de parameter handmatig toe aan de toevoegingsparameters op accountniveau, die deze toevoegen aan de basis-URL&#39;s.
 
 * <!-- (Search, Social, & Commerce only) -->De server-kant s_kwcid eigenschap wordt niet uitgevoerd, en u moet de s_kwcid parameter aan uw manueel toevoegen ([!DNL Google Ads] en [!DNL Microsoft Advertising]) het landen pagina achtervoegsels of (andere ad netwerken) rekening-vlakke toevoegingsparameters.
 
@@ -46,7 +48,7 @@ De parameters variëren per advertentienetwerk, maar de volgende parameters zijn
 
 * `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
 
-* `{sid}` wordt vervangen door de numerieke id van de advertentienetwerkaccount van de adverteerder: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (afgekeurd), of *106* for [!DNL Pinterest] (afgekeurd).
+* `{sid}` wordt vervangen door de numerieke id van de advertentienetwerkaccount van de adverteerder: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (afgekeurd), of *106* for [!DNL Pinterest] (vervangen).
 
 ### [!DNL Baidu]
 
@@ -68,7 +70,7 @@ Hieronder vallen ook boodschappencampagnes die [!DNL Google Merchant Center].
 >
 >* Voor dynamische zoekopdrachten {keyword} wordt gevuld met het automatische doel.
 >* Wanneer u tekstspatiëring genereert voor [!DNL Google] winkeladvertenties, een product-id-parameter, `{adwords_producttargetid}`, wordt ingevoegd vóór de trefwoordparameter. De parameter product-id wordt niet weergegeven in het dialoogvenster [!DNL Google Ads] parameters voor het bijhouden op accountniveau en op campagnereniveau.
->* Ga naar &quot;[De s_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md).&quot;
+>* Als u de nieuwste s_kwcid-trackingcode wilt gebruiken, raadpleegt u &quot;[De s_kwcid-trackingcode bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md).&quot;
 
 <!--
 

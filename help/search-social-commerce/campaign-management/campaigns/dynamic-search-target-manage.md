@@ -1,7 +1,9 @@
 ---
 title: Beheren [!DNL Google Ads] dynamische zoekdoelen
 description: Leer hoe u creeert en beheert [!DNL Google Ads] dynamische zoekdoelen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 85b1455a-dda1-4bb9-b4be-d6e0a837fd9d
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '677'
 ht-degree: 0%
@@ -85,12 +87,12 @@ U kunt ook elk dynamisch doel verwijderen.
    * Ga als volgt te werk om een of meer dynamische doelen te verwijderen:
 
       1. Schakel het selectievakje in naast elk dynamisch doel dat u wilt verwijderen.
-      Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+
+     Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
       1. Klik op de werkbalk op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**.
 
-      1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
-
+      1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 ## [!DNL Google Ads] dynamische zoekdoelinstellingen {#dynamic-search-target-settings}
 
@@ -98,7 +100,7 @@ U kunt ook elk dynamisch doel verwijderen.
 
 **[!UICONTROL Auto-targets]:** (Vereist als u geen websitedomein en taal opgeeft in de campagne [!UICONTROL DSA Options] sectie; alleen-lezen voor bestaande doelen) Dynamische zoekdoelen voor de advertentiegroep:
 
-* *[!UICONTROL All Targets]* (de standaardinstelling): Hiermee worden alle geïndexeerde pagina&#39;s bedoeld.
+* *[!UICONTROL All Targets]* (standaard): hiermee worden alle geïndexeerde pagina&#39;s als doel opgegeven.
 
 * *\[Specifieke doelen\]:* Hiermee worden maximaal drie criteria voor de geïndexeerde pagina&#39;s aangegeven. Wanneer u dit selecteert, moet u de criteria specificeren door informatiecategorieën en specifieke waarden te specificeren waarvoor om advertenties te richten (bijvoorbeeld, &quot;URL bevat schoenen.voorbeeld.com&quot;). Als u meerdere criteria wilt opgeven, klikt u op **[!UICONTROL + And]**. Doelcriteria zijn:
 
@@ -112,11 +114,11 @@ U kunt ook elk dynamisch doel verwijderen.
 
 **Status:** De status van de doelinstellingen:
 
-* *[!UICONTROL Active]* (de standaardinstelling): Hiermee kunt u bieden.
+* *[!UICONTROL Active]* (de standaardinstelling): Schakelt biedingen in.
 
 * *[!UICONTROL Paused]:* Schakelt biedingen uit.
 
-* *[!UICONTROL Deleted]* (alleen bestaande streefcijfers): Hiermee verwijdert u de doelinstellingen.
+* *[!UICONTROL Deleted]* (alleen bestaande doelen): hiermee verwijdert u de doelinstellingen.
 
 ### [!UICONTROL Bids]
 
@@ -129,4 +131,3 @@ U kunt ook elk dynamisch doel verwijderen.
 >[!MORELIKETHIS]
 >
 >* [Info [!DNL Google Ads] dynamische zoekdoelen](dynamic-search-target-about.md)
-

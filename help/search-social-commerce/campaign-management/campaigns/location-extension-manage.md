@@ -1,7 +1,9 @@
 ---
 title: Beheren [!DNL Google Ads] locatie-extensies
 description: Leer hoe u creeert en beheert [!DNL Google Ads] locatie-extensies.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 1a1aeb51-563e-453e-bd6f-ea1fa31b8f37
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
@@ -32,7 +34,7 @@ Het advertentienetwerk wijst de klikken op een plaatsuitbreiding aan het sleutel
 
    * In de [!UICONTROL Location Settings] , geeft u de locaties op.
 
-   * In de [!UICONTROL Assignment] selecteert u de campagnes en advertentiegroepen waarvoor de locatie-instellingen van toepassing zijn.
+   * In de [!UICONTROL Assignment] selecteert u de campagnes en advertentiegroepen waarvoor de locatie-instellingen gelden.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -48,7 +50,7 @@ Het advertentienetwerk wijst de klikken op een plaatsuitbreiding aan het sleutel
 
    * In de [!UICONTROL Location Settings] sectie, selecteert u **[!UICONTROL Disable Locations]**.
 
-   * In de [!UICONTROL Assignment] selecteert u de campagnes en advertentiegroepen waarvoor de locatie-instellingen van toepassing zijn.
+   * In de [!UICONTROL Assignment] selecteert u de campagnes en advertentiegroepen waarvoor de locatie-instellingen gelden.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -72,6 +74,6 @@ Welke bedrijfslocaties voor een [gekoppelde Google Mijn Business-account](https:
 
 * Als u de onderliggende entiteiten voor een campagne wilt weergeven, klikt u op de naam van de campagne.
 
-* Als u een lijst met campagnes of groepen wilt filteren op een tekstreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **Enter** toets.
+* Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **Enter** toets.
 
-* Als u een entiteit wilt selecteren, klikt u op de cirkel naast de entiteit (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")).
+* Om een entiteit te selecteren, klik de cirkel naast het (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")).

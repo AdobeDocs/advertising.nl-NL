@@ -1,7 +1,9 @@
 ---
 title: Openingspagina's in bulkbladbestanden valideren
 description: Leer hoe u de doel-URL's valideert in een bulksheet-bestand voor één account.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: cf703687-1151-46f6-9540-12a83d41dfc8
+feature: Search Bulksheets
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '529'
 ht-degree: 0%
@@ -22,7 +24,6 @@ U kunt het bestand later downloaden, de fouten corrigeren en het gecorrigeerde b
 >
 >* Deze functie valideert geen waarden in de kolom Basis-URL/Definitieve URL.
 >* U kunt bladbestanden met opsommingstekens plaatsen terwijl deze worden gevalideerd, of zelfs als er fouten worden gevonden.
-
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]**.
 
@@ -47,7 +48,6 @@ Wanneer de taak begint, wordt een nieuwe rij toegevoegd aan [!UICONTROL Bulkshee
 >* Het duurt langer om grote bestanden te valideren.
 >* Bulksheet-bestanden voor meerdere campagnes kunnen maximaal 500.000 gegevensrijen bevatten. Als u gegevens voor veelvoudige campagnes produceert en de gecombineerde gegevens uit meer dan 500.000 rijen bestaan, dan worden de gegevens verdeeld door campagne in twee of meer dossiers genoemd `<bulksheet name>_1.tsv`, `<bulksheet name>_2.tsv`, enzovoort.
 
-
 >[!MORELIKETHIS]
 >
 >* [Campagnegegevens beheren met behulp van bulksbladen](bulksheet-about.md)
@@ -56,4 +56,3 @@ Wanneer de taak begint, wordt een nieuwe rij toegevoegd aan [!UICONTROL Bulkshee
 >* [Een bulkbladtaak onderbreken](bulksheet-stop-job.md)
 >* [Upload een bulksheet of een gecorrigeerd foutbestand](bulksheet-upload.md)
 >* [Een gegenereerd of geüpload bulksbladbestand exporteren](bulksheet-export.md)
-

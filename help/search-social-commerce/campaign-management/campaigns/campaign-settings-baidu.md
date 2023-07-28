@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Baidu] campagne-instellingen"
+title: '[!DNL Baidu] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Baidu] campagnes.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 842df637-e7dc-4493-bcdb-a29b478cd350
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -21,11 +23,11 @@ ht-degree: 0%
 **[!UICONTROL Ad Serving]:**
 Hoe vaak levert de zoekmachine uw actieve advertenties in verhouding tot elkaar binnen een advertentiegroep:
 
-* *[!UICONTROL Rotate]* (de standaardinstelling voor nieuwe campagnes): Elk van je advertenties heeft dezelfde kans om de advertentieveiling in te voeren.
+* *[!UICONTROL Rotate]* (de standaardinstelling voor nieuwe campagnes): elk van je advertenties heeft dezelfde kans om de advertentieveiling in te voeren.
 
-* *[!UICONTROL Optimize]:*  Het advertentienetwerk begunstigt advertenties die beter presteren. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
+* *[!UICONTROL Optimize]:*  Het advertentienetwerk bevordert advertenties die beter presteren. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardinstelling voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
 
 ## [!UICONTROL Budget Options]
 
@@ -82,4 +84,3 @@ Hoe vaak levert de zoekmachine uw actieve advertenties in verhouding tot elkaar 
 >[!MORELIKETHIS]
 >
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-

@@ -1,7 +1,9 @@
 ---
-title: "[!DNL Microsoft® Advertising] productgroepinstellingen"
+title: '[!DNL Microsoft® Advertising] instellingen productgroep'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] winkelgroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: a34511ef-f5bc-4d93-a56e-90348f670ad6
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -30,7 +32,7 @@ Als u een productgroep hebt gemaakt voor specifieke productafmetingen (dus niet 
 
 Voor een lijst met beschikbare productafmetingen raadpleegt u &quot;[Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de campagne [!UICONTROL Inventory Filter] instellen.
 
-**[!UICONTROL Excluded]:** (Optioneel voor nieuwe productgroepen; alleen-lezen voor bestaande productgroepen) Hiermee sluit u biedingen op advertenties voor overeenkomende producten uit.
+**[!UICONTROL Excluded]:** (Optioneel voor nieuwe productgroepen; alleen-lezen voor bestaande productgroepen) Biedt geen biedingen op advertenties voor overeenkomende producten.
 
 **[!UICONTROL Bid]:** (Alleen inbegrepen productgroepen) De maximale kosten per klik (CPC). Dit is het hoogste bedrag dat voor een advertentie wordt betaald. Deze waarde wordt alleen gebruikt voor eenheden zonder onderliggende productgroepen en wordt gebruikt in plaats van de waarde op ad-groepsniveau.
 
@@ -51,4 +53,3 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 >* [Winkelproductgroepen beheren](product-group-manage.md)
 >* [Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
 >* [Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
-

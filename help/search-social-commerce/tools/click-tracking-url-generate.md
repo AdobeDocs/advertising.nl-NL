@@ -1,7 +1,9 @@
 ---
 title: Een URL voor het bijhouden van klikken genereren
 description: Leer hoe u handmatig een URL voor het bijhouden van zoekopdrachten, sociale berichten en handel genereert.
-source-git-commit: a59b477a6f8a616851d85bf89b58434d4d56cd83
+exl-id: d22a472a-a562-4812-a067-fbd407cd7d00
+feature: Search Tools, Search Tracking
+source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -22,7 +24,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
 1. Selecteer de netwerkaccount voor advertenties in de lijst.
 
-   ([!DNL Google Ads] trefwoorden; tekst, mobiele app-installatie en dynamische zoekopdrachten; stages; sitelinkt; en productgroepen) Er worden codes voor het bijhouden van sjablonen weergegeven. Zij omvatten geen rekening-vlakke toevoegingsparameters. Ga verder met stap 4.
+   ([!DNL Google Ads] Trefwoorden; tekst, installatie van mobiele apps en dynamische zoekopdrachten; plaatsaanduidingen, sitelinks en productgroepen) Tags voor het trackingsjabloonveld worden weergegeven. Zij omvatten geen rekening-vlakke toevoegingsparameters. Ga verder met stap 4.
 
    Voor alle andere typen tags voert u de invoergegevens in om een tag te genereren.
 
@@ -34,13 +36,13 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
          * (Creatieve producten, standaardadvertenties) `**landing_page**`
 
-           waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: http://www.example.com/travel.html
 
          * ([!DNL Microsoft® Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
 
-           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: `Careers <tab> ** <tab> http://www.example.com/careers.html`
 
@@ -48,7 +50,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
          * ([!DNL Google Merchant Center] productgroepen en [Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
 
-           waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: `Acme PR208 <tab> ** <tab> http://www.example.com/travel.html`
 
@@ -58,19 +60,19 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
          * (Creatieve producten, standaardadvertenties) `landing_page`
 
-           waar `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: http://www.example.com/travel.html
 
          * ([!DNL Microsoft® Advertising] sitelinks) `sitelink**landing_page`
 
-           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: `Careers**http://www.example.com/careers.html`
 
          * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft® Advertising] productadvertenties) `product name**landing_page`
 
-           waar `product name` de productnaam en `landing_page` is een geldige bestemmingspagina-URL of basis-URL.
+           waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: Acme PR208**http://www.example.com/travel.html
 
@@ -86,4 +88,4 @@ Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het ju
 >
 >* [Over de gereedschappen voor het maken en decoderen van trackingcodes](tracking-tools-about.md)
 >* [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
->* [Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociaal en Handel](click-tracking-url-decode.md)
+>* [Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociale media en Handel](click-tracking-url-decode.md)

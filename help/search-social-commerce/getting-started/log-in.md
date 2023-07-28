@@ -1,7 +1,9 @@
 ---
 title: Aanmelden
-description: Leer manieren om u aan te melden.
-source-git-commit: 5691766a5e3acca4e94f93f5a4d5c9a7007734b5
+description: Leer manieren aan login.
+exl-id: b4359852-ed2a-4c97-864c-4a456fe57648
+feature: Search Getting Started
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '127'
 ht-degree: 0%
@@ -28,13 +30,12 @@ U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, 
 
 1. [Aanmelden bij Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
 
-1. Selecteer in het bovenste menu de optie ![oplossingskiezer](/help/search-social-commerce/assets/menu-icon.png "oplossingskiezer").
+1. Selecteer in het bovenste menu ![oplossingskiezer](/help/search-social-commerce/assets/menu-icon.png "oplossingskiezer").
 
-1. Selecteer in het submenu de optie **[!UICONTROL Advertising Cloud]**.
+1. Selecteer in het submenu **[!UICONTROL Advertising Cloud]**.
 
 >[!MORELIKETHIS]
 >
 >* [Afmelden](log-out.md)
 >* [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
 >* [De indeling van de gebruikersinterface](user-interface.md)
-

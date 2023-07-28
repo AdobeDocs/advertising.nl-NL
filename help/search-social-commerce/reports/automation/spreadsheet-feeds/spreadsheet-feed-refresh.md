@@ -1,7 +1,9 @@
 ---
 title: Werkbladrapportfeeds handmatig vernieuwen
 description: Leer hoe u de gegevens in spreadsheetfeeds handmatig vernieuwt.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 2929d6a6-8823-4f2e-94b4-5348d6f7672a
+feature: Search Reports
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
@@ -22,7 +24,7 @@ ht-degree: 0%
 
 1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Refresh]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
 
 1. (Optioneel) Eenmaal een diervoeder [!UICONTROL Update Status] is *[!UICONTROL Finished]*, klikt u op **[!UICONTROL XLSX]** naast de feed en open of sla het bestand op volgens de normale procedure van uw browser.
 
@@ -32,7 +34,6 @@ ht-degree: 0%
 >* [Een feed voor een spreadsheetrapport maken](spreadsheet-feed-create.md)
 >* [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](spreadsheet-feed-create-excel-template.md)
 >* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Instellingen voor werkbladrapportfeed](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor spreadsheetrapporten weergeven of opslaan](spreadsheet-feed-view-or-save.md)
+>* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
+>* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
 >* [feeds voor spreadsheetrapporten verwijderen](spreadsheet-feed-delete.md)
-

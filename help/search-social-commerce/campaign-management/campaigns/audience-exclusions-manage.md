@@ -1,14 +1,16 @@
 ---
 title: De uitsluiting van het publiek voor campagnes en ad-groepen beheren
 description: Leer hoe u publieksuitsluitingen voor uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen.
-source-git-commit: cd461f73f4a70a5647844a6075ba1c65d64a9b04
+exl-id: 0b05d980-d736-4b44-8317-c90de687dbd4
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '353'
 ht-degree: 0%
 
 ---
 
-# De uitsluiting van uw publiek beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen
+# De publieksuitsluitingen voor uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad group
 
 *[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen*
 
@@ -42,7 +44,7 @@ U kunt ook publieksuitsluitingen verwijderen.
 
       1. (Optioneel) Als u een campagne wilt uitvouwen om de onderliggende en onderliggende groepen ervan weer te geven, klikt u op de naam van de campagne.
 
-      1. (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekstreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop [!UICONTROL Enter] toets.
+      1. (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop [!UICONTROL Enter] toets.
 
       1. Voer een van de volgende handelingen uit:
 
@@ -64,10 +66,9 @@ U kunt ook publieksuitsluitingen verwijderen.
 
 1. Klik op de werkbalk op ![Meer handelingen](/help/search-social-commerce/assets/more.png "Meer handelingen") en selecteert u **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
 >* [Informatie over publiek](audience-about.md)
 >* [Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
-

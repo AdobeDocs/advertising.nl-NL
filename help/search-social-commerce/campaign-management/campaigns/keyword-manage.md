@@ -1,7 +1,9 @@
 ---
 title: Biedeerbare trefwoorden beheren
 description: Leer hoe u trefwoorden voor zoekopdrachten en groepen maakt en beheert.
-source-git-commit: 77069de8ff3367a3ffa6f84583b4a69f37aab88b
+exl-id: c52364bf-a55a-444e-bde8-88d46c2f4813
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '412'
 ht-degree: 0%

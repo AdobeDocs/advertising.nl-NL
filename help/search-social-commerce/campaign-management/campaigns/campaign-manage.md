@@ -2,7 +2,8 @@
 title: Campagnes beheren
 description: Leer advertentiecampagnes te maken en te beheren.
 exl-id: 9406e4bd-d5a2-4744-ab71-fc52428e3af6
-source-git-commit: 7c4f3b5b7745f846817c85364006a67fd644bd3b
+feature: Search Campaign Management
+source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -28,11 +29,11 @@ Eenmaal [een advertentienetwerkaccount toegankelijk maken](/help/search-social-c
 
 1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
 
-1. Selecteer het advertentienetwerk, de rekening, en het campagetype, en klik dan **[!UICONTROL Continue]**.
+1. Selecteer het advertentienetwerk, de rekening, en het campagneretype, en klik dan **[!UICONTROL Continue]**.
 
-   Voor de beschrijvingen van elk campagneretype, zie [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google-advertenties](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
+   Voor de beschrijvingen van elk campagneretype, zie [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
 
-1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google-advertenties](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
+1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
 
    Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], en [!UICONTROL (Google) DSA Options]. Instellingen configureren voor [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], of [!UICONTROL Asset Groups] (indien beschikbaar) klikt u op **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Set Campaign Goals]**, of **[!UICONTROL Manage Asset Groups]**, respectievelijk.
 
@@ -62,7 +63,7 @@ U kunt instellingen voor afzonderlijke campagnes bewerken. U kunt ook bepaalde v
 
       * Klik op de werkbalk boven de tabel met gegevens op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
 
-1. Bewerk de [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google-advertenties](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
+1. Bewerk de [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
 
    Voor meerdere campagnes kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], en [!UICONTROL URL Options], afhankelijk van de advertentienetwerken. U kunt alleen de velden bewerken die worden gebruikt voor alle geselecteerde campagnes en uw wijzigingen worden toegepast op alle geselecteerde campagnes. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
@@ -92,11 +93,11 @@ U kunt ook elke actieve of gepauzeerde zoekcampagne verwijderen. Verwijderde cam
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Als u de rijen wilt activeren, klikt u op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
+   * Klik op ![Activeren](/help/search-social-commerce/assets/activate.png "Activeren").
 
-   * Als u de rijen wilt pauzeren, klikt u op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
+   * Klik op ![Pauzeren](/help/search-social-commerce/assets/pause.png "Pauzeren").
 
-   * Als u de rijen wilt verwijderen, klikt u op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]**.
+   * Klik op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
 
 >[!MORELIKETHIS]
 >
