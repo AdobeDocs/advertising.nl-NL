@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: d0b5107363336d5c946f4011e56dc83d2165397d
+source-git-commit: 7ffdd97387815098994f85c4368e60b2b44838dd
 workflow-type: tm+mt
-source-wordcount: '3606'
+source-wordcount: '3603'
 ht-degree: 0%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 0%
 | [!UICONTROL Network Ad Group ID] | De id van de advertentiegroep die door het netwerk is toegewezen. |
 | [!UICONTROL Network Campaign ID] | De campagne-id die door het netwerk is toegewezen. |
 | [!UICONTROL Objective Name] | De doelstelling van de portefeuille. |
-| [!UICONTROL Objective Value] | De totale gewogen omrekeningen zoals berekend volgens de huidige doelstelling van de portefeuille. Zie &quot;[objectieve waarde](/help/search-social-commerce/glossary.md#o-p).&quot; |
+| [!UICONTROL Objective Value] | De totale gewogen omrekeningen zoals berekend volgens de huidige doelstelling van de portefeuille. |
 | [!UICONTROL Objective Value Calculation] | De berekening die wordt gebruikt om de objectieve waarde af te leiden. |
 | [!UICONTROL Outbound Clicks] | ([!DNL Meta] advertenties) Het aantal klikken op koppelingen in advertenties waarmee mensen worden uitgeschakeld [!DNL Meta]eigendommen in eigendom. |
 | [!UICONTROL Parent Product Groupings] | De volledige hiërarchie van de bovenliggende productgroepen, met `>>` tussen lagen, zoals `All Products>>CategoryL1=Animals`), indien van toepassing. |
