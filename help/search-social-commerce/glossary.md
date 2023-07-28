@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
 feature: Search Introduction
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 2ea9830c24ec7bdc10c3774b9a97c659b6ea1747
 workflow-type: tm+mt
-source-wordcount: '2025'
+source-wordcount: '2073'
 ht-degree: 0%
 
 ---
@@ -106,6 +106,8 @@ ht-degree: 0%
 
 **marginale kosten:** De wijziging van de totale kosten wanneer de hoeveelheid met één eenheid verandert.
 
+**marginale kosten/objectieve waarde:** De kostenwijziging die nodig is om de objectieve waarde met één (1) te verhogen. Dit heeft de zelfde waarde zoals de erfeniskolom &quot;Marginale Kosten-aan-Opbrengst.&quot;
+
 **type overeenkomst:** Een optie waarmee wordt opgegeven hoe zoektermen worden vergeleken met advertenties. De opties variëren per advertentienetwerk.
 
 **minimumbod:** 1) Het minimumbedrag dat per impressie of per 1000 impressies moet worden betaald. 2) Voor zoektrefwoorden: het minimale bod dat voor een bepaald trefwoord is vereist op basis van de kwaliteitsscore. Het minimumbod is meestal het kleinste bedrag dat je per klik kunt betalen als je trefwoord advertenties moet weergeven.
@@ -113,6 +115,14 @@ ht-degree: 0%
 ## O-P {#o-p}
 
 **doel:** (Adverteerders met portefeuilles) Een doelstelling die een cliënt voor een specifieke portefeuille of een vertoningscampagne vaststelt om zijn bedrijfsdoelstelling te verwezenlijken, zoals het maximaliseren van winsten of het bereiken van een specifiek verkoopdoel. Een doel bestaat uit de conversiemetriek (ook wel transactieeigenschappen genoemd) die voor de portefeuille moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
+
+**objectieve waarde:** (Adverteerders met portefeuilles) De totale gewogen conversies zoals berekend op basis van de huidige doelstelling van de portefeuille, waaronder:
+
+* alle omzettingen, rekening houdend met a) de gewichten die aan elke conversie in de objectieve functie van de portefeuille zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor doorkijkcijfers.
+
+* alle klikken, die de optimaliseringscapaciteit één enkele omzetting beschouwt en volgens de klikwaarde voor het doel gewogen is.
+
+Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **optimalisatiefunctie:** (Advertisers met portfolio&#39;s) Zoek-, sociale en commerciële trefwoordbiedtechnologie, die de optimale strategie voor biedingen en begrotingsbeheer voor een portfolio bepaalt op basis van zijn bedrijfsdoelstelling.
 
@@ -178,11 +188,7 @@ ht-degree: 0%
 
 ## W-X {#w-x}
 
-**gewogen ontvangsten:** (Adverteerders met portefeuilles) De totale opbrengsten, die omvatten:
-
-* alle opbrengsten, rekening houdend met a) de gewichten die in de doelstelling van de portefeuille aan elke eigenschap van een transactie zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor de doorlichting/sociale doorlichting.
-
-* alle klikken, die het optimaliseringsvermogen één enkele transactiebezit beschouwt en volgens de klikwaarde voor het doel gewogen is.
+**gewogen ontvangsten:** Zie &quot;objectieve waarde&quot;.
 
 **XLS** of **XLSX**: Een binaire bestandsindeling voor [!DNL Microsoft Office Excel] werkboeken.
 
