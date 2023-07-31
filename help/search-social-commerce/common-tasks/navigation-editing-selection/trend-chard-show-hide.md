@@ -3,7 +3,7 @@ title: Een trenddiagram weergeven en verbergen
 description: Leer hoe te om een trendgrafiek voor de gegevens in sommige meningen van het campagnebeheer te bekijken en te verbergen.
 exl-id: 9360e0c1-a326-4b1f-8c80-a4a5049ff024
 feature: Search Common Tasks
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Standaard toont het diagram het aantal klikken tegenover kosten tijdens het gese
 
    1. Rechtsboven in het diagram geeft u de cijfers op die moeten worden vergeleken en (indien van toepassing) de valuta waarvoor gegevens moeten worden opgenomen.
 
-      Wanneer u rekeningen met meerdere valuta&#39;s hebt, worden alle valuta&#39;s voor de desbetreffende rekeningen vermeld; wanneer u de valuta wijzigt, worden alleen gegevens weergegeven voor de rekeningen die die valuta gebruiken. Alle standaardmetriek, adverteerder-specifieke transactieeigenschappen, en douanemetriek u uit bestaande metriek hebt afgeleid zijn vermeld.
+      Wanneer u rekeningen met meerdere valuta&#39;s hebt, worden alle valuta&#39;s voor de desbetreffende rekeningen vermeld; wanneer u de valuta wijzigt, worden alleen gegevens weergegeven voor de rekeningen die die valuta gebruiken. Alle standaardmetriek, adverteerderspecifieke omzettingsmetriek, en douanemetriek u uit bestaande metriek hebt afgeleid zijn vermeld.
 
    1. Klikken ![Opslaan](/help/search-social-commerce/assets/save-checkmark.png "Opslaan").
 

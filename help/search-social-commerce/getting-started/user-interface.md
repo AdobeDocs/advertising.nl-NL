@@ -3,7 +3,7 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: a1574502-70a4-4705-8ae6-0de590e1342b
 feature: Search Getting Started
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '516'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Onder de [!UICONTROL Search] ziet u de volgende submenu&#39;s. De beschikbare op
 
 * **[!UICONTROL Tools]** — Dit menu bevat opties voor het wijzigen van het wachtwoord van uw account, het genereren van codes om conversies van websitepagina&#39;s bij te houden, het genereren en decoderen van URL&#39;s voor het bijhouden van klikken en het uploaden van metriek voor campagnes voor het bijhouden van zoekopdrachten.
 
-* **[!UICONTROL Admin]** — De [!UICONTROL Admin] bevat opties voor het wijzigen van de weergavenamen van de transactie-eigenschappen van een adverteerder in datatabellen en -rapporten, het configureren van instellingen voor synchronisatie met een Adobe Audience Manager-account en het synchroniseren van conversiemetriek voor een specifieke [!DNL Google Analytics] account, eigenschap en weergavecombinatie. Afhankelijk van uw rol, kan het u toestaan om adverteerderrekeningen, agentschapsrekeningen, gebruikersrollen, en gebruikersrekeningen te beheren.
+* **[!UICONTROL Admin]** — De [!UICONTROL Admin] bevat opties voor het wijzigen van de weergavenamen van conversiemetriek van een adverteerder in datatabellen en -rapporten, het configureren van instellingen voor synchronisatie met een Adobe Audience Manager-account en het synchroniseren van conversiemetriek voor een specifieke [!DNL Google Analytics] account, eigenschap en weergavecombinatie. Afhankelijk van uw rol, kan het u toestaan om adverteerderrekeningen, agentschapsrekeningen, gebruikersrollen, en gebruikersrekeningen te beheren.
 
 ## Andere taak- en informatiemenu&#39;s aan de rechterkant
 

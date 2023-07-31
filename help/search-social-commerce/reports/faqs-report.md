@@ -3,9 +3,9 @@ title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
-source-wordcount: '3919'
+source-wordcount: '3920'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ De optimaliseringscapaciteit bouwt zijn opbrengstmodellen voor elke biedingseenh
 Als u niet wilt dat de gegevens voor de periode toekomstige biedingen beïnvloeden, dan kunt u verkiezen om die datums van het model uit te sluiten. Neem contact op met het accountteam van uw Adobe om de datums uit te sluiten.
 +++
 
-+++Kan ik een rapport maken over een bepaalde eigenschap, zoals [!UICONTROL Device] of [!UICONTROL Objective Name]?
++++Kan ik een rapport maken over een specifieke accounteigenschap, zoals [!UICONTROL Device] of [!UICONTROL Objective Name]?
 Voor verslagen van campagneentiteiten ([!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], [!UICONTROL Ad Variation Report], [!UICONTROL Keyword Report], en [!UICONTROL Product Group Report]), worden de metriekgegevens dynamisch samengevoegd door de bezitskolommen u in het rapport omvat. U kunt naar keuze de belangrijkste kolom voor het rapport verwijderen en slechts de bezitskolommen omvatten waarvoor u gegevens wilt samenvoegen.
 
 Als u bijvoorbeeld een [!UICONTROL Keyword Report] die de [!UICONTROL Ad Group] en  De kolommen van het apparaat, dan, door gebrek, aggregeert het rapport metriek voor elk sleutelwoord door ad groep en apparatentype. Als u echter de [!UICONTROL Keyword] kolom alvorens u het rapport produceert, dan produceert het rapport dynamisch metriek voor de gespecificeerde ad groepen door apparatentype.
@@ -107,7 +107,7 @@ Problemen met inkomstengegevens kunnen optreden als gevolg van een probleem met 
 Standaard worden alle monetaire gegevens in rapporten weergegeven in de notatie voor Amerikaanse dollars (zoals 1.000,00). Als u de waarde wilt weergeven in de juiste valutanotatie (maar zonder valutasymbolen in CSV- en TSV-notaties), voegt u &quot;[!UICONTROL Currency]&quot;. Als het rapport gegevens bevat voor rekeningen met verschillende valuta&#39;s, dan kan &quot;[!UICONTROL Total]&quot; monetaire waarden zijn gewoon de som van alle getallen in de kolom, ongeacht de valuta.
 +++
 
-+++Waarom zie ik decimale waarden voor een transactiebezit dat een natuurlijk aantal (1, 2, etc.) zou moeten zijn?
++++Waarom zie ik decimale waarden voor omzettings metrisch die een natuurlijk aantal (1, 2, etc.) zouden moeten zijn?
 In de volgende gevallen kunt u decimale waarden zien:
 
 * Als u het rapport met een andere parameter van de omzettingsattributieregel dan [!UICONTROL Last Event] of [!UICONTROL First Event]Vervolgens kunnen de inkomsten worden opgesplitst tussen meerdere gebeurtenissen in het conversiepad.
@@ -162,13 +162,13 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 * De tag voor het bijhouden van conversies wordt niet correct geïmplementeerd op alle toepasselijke webpagina&#39;s of is bewerkt.
 
-* De transactieeigenschappen die Search, Social, &amp; Commerce volgen zijn uitgesloten van rapporten en daarom niet zichtbaar.
+* De omzettingsmetriek die Onderzoek, Sociale, &amp; Handel volgen zijn uitgesloten van rapporten en daarom niet zichtbaar.
 
 * De inkomstenparser voor de cliënt werd niet uitgevoerd.
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [stelt de transactieeigenschappen ter beschikking van rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag zo nodig uw accountteam van Adobe om een testtransactie te maken voor elke toepasselijke conversietag en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
 
@@ -188,7 +188,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 * Het voederbestand werd niet afgeleverd, het werd niet volledig geparseerd, of het voer bevatte transacties met wezen.
 
-* De relevante transactieeigenschappen worden uitgesloten van rapporten en zijn daarom niet zichtbaar.
+* De relevante omzettingsmetriek worden uitgesloten van rapporten en daarom niet zichtbaar.
 
 >[!NOTE]
 >
@@ -196,7 +196,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [stelt de transactieeigenschappen ter beschikking van rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Voer de [!UICONTROL Portfolio Report]. Als het leeg is, voert u de [!UICONTROL Campaign Report] en [!UICONTROL Search Engine Report] om na te gaan of de ontvangsten in deze verslagen voorkomen. Als dat het geval is, worden de campagnes mogelijk niet toegewezen aan de juiste portefeuille.
 
@@ -313,8 +313,8 @@ De [!UICONTROL Portfolio Report] toont gegevens voor slechts de campagnes die aa
 De advertentienetwerken verstrekken niet het herkenningsteken noodzakelijk om opbrengst aan een individuele advertentie voor die campagnes toe te schrijven. Daarom zijn er geen prestatiegegevens op ad-niveau beschikbaar voor die typen campagnes in het dialoogvenster [!UICONTROL Ads] of in de [!UICONTROL Ad Variation Report]. Verwacht discrepanties tussen de totale ad-level gegevens voor een campagne en de totale gegevens voor de campagne.
 +++
 
-+++In de [!UICONTROL Transaction Report], hoe weet ik welke transactie-eigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de Adobe Advertising trackingpixel?
-In een transactierapport, kunt u vertellen of een inbegrepen transactiebezit door de Adobe Advertising volgende pixel werd gevolgd als u de douanekolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met &quot;`http://pixel.everesttech.net`.&quot;
++++In de [!UICONTROL Transaction Report], hoe weet ik welke omzettingsmetrische waarde afkomstig is van een gegevenstoevoer of wordt bijgehouden door de Adobe Advertising die pixel volgt?
+In een transactierapport kunt u zien of een inbegrepen metrisch omzettingspunt door de Adobe Advertising volgpixel werd gevolgd als u de douanekolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met &quot;`http://pixel.everesttech.net`.&quot;
 +++
 
 +++De gegevens in mijn [!UICONTROL Transaction Report] komt niet overeen met de gegevens in mijn [!UICONTROL Keyword Report].

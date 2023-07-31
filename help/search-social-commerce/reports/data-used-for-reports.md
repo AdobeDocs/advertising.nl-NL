@@ -3,7 +3,7 @@ title: De gegevens die voor rapporten worden gebruikt
 description: Leer meer over de verschillende typen gegevens die beschikbaar zijn in gegevensweergaven en aangepaste rapporten.
 exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Search, Social &amp; Commerce bevat een uitgebreide reeks prestatierapporten die zijn gebaseerd op klik- en conversiegegevens. U kunt elementaire prestatiegegevens voor de verschillende componenten van een portfolio of advertentieaccount bekijken via het tabblad [!UICONTROL Portfolios] en [!UICONTROL Campaigns] en door verschillende basis - en geavanceerd - rapporten op te stellen .
 
-Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [transactie, eigenschap](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het Adobe Account Team heeft toegang tot alle rapporten.
+Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [omzettingsmetrisch](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het Adobe Account Team heeft toegang tot alle rapporten.
 
 De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u wilt zien. De volgende standaardmetriek is beschikbaar in de meeste rapporten en op het advertentieniveau berekend:
 
@@ -32,7 +32,7 @@ De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u 
 
    * **[!UICONTROL Estimated Clicks]:** (Opgenomen in geavanceerde rapporten voor adverteerders met alleen de service Adobe Advertising converteren) Het totale aantal geschatte klikken voor een stad of domeinnaam van een verwijzende website. Dit kunnen gegevens zijn voor advertentienetwerken waarvoor een adverteerder geen advertentieaccount heeft.
 
-* **Omzettingscijfers:** Het totale aantal omzettingen voor elk van de adverteerders [transactieeigenschappen](/help/search-social-commerce/glossary.md#s-t)of transactiegegevens die naar een conversietype worden bijgehouden. Dit kan conversie- en plaatsingsmetriek omvatten, maar niet berekende metriek en geavanceerde berekende metriek, die van Adobe Analytics worden gesynchroniseerd.
+* **Omzettingscijfers:** Het totale aantal omzettingen voor elk van de omzettingsmetriek van de adverteerder, of transactiegegevens die in de richting van omzettingsmetrisch worden gevolgd. Dit kan conversie- en plaatsingsmetriek omvatten, maar niet berekende metriek en geavanceerde berekende metriek, die van Adobe Analytics worden gesynchroniseerd.
 
   Dit kan ook [[!DNL Google Ads]-trackconversies](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) en [[!DNL Google Analytics]-trackconversies](/help/search-social-commerce/admin/data-sources/data-source-about.md) die worden gesynchroniseerd voor het adverteerderaccount.
 

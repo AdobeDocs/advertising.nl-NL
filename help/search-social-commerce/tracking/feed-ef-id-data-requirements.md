@@ -3,7 +3,7 @@ title: Gegevensvereisten voor gegevensfeeds die gebruikmaken van EF-id's
 description: Verwijs naar de gegevensvereisten voor gegevensfeeds die gebruikmaken van EF-id's.
 exl-id: 15e76f3a-c376-4e7b-b3c8-ca76fd427002
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '259'
 ht-degree: 0%
@@ -27,7 +27,7 @@ Hieronder vindt u de koptekstvelden en de bijbehorende gegevensvelden die zijn v
 
 ## Voorbeeld
 
-Het volgende voorbeeldbestand bevat gegevens voor twee transactie-eigenschappen (Product en Opbrengst).
+Het volgende voorbeeldbestand bevat gegevens voor twee conversiemetriek (Product en Opbrengst).
 
 ```
 EF ID,Client Transaction ID, Transaction Date,Product,Revenue

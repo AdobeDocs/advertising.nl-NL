@@ -3,9 +3,9 @@ title: Gegevensvereisten voor gegevensfeeds met een transactie-id
 description: Verwijs naar de gegevensvereisten voor gegevensvoer gebruikend een transactie ID.
 exl-id: 67e1cadd-b607-465c-9db6-ca76d8ca84c5
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
-source-wordcount: '296'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Hieronder vindt u de koptekstvelden en de bijbehorende gegevensvelden die zijn v
 
 | Koptekstveld/kolomnaam | Type | Beschrijving |
 | ---- | ---- | ---- |
-| Transactie-id (ev_transid) | Hoofdlettergevoelige tekenreeks | De door de adverteerder gegenereerde id die aan de transactie is gekoppeld. Omdat de conversie-volgende markering van de Adobe Advertising voor de online gedeelten van de transactie wordt gebruikt, moet dit het zelfde als transactie identiteitskaart (ev_transid) zijn die Adobe Advertising voor het vroegere deel van de transactie verstrekte. Dit betekent dat de conversietag voor het online gedeelte van de transactie een bezit voor een unieke transactie-identiteitskaart moet omvatten.<br><br>**Opmerking:** De Adobe Advertising gebruikt identiteitskaart om van de oude transactiegegevens de plaats te bepalen en het bij te werken volgens een overeengekomen-op toevoegingswijze (bijvoorbeeld, om de bestaande gegevens te vervangen of het met de nieuwe gegevens te verhogen). |
+| Transactie-id (ev_transid) | Hoofdlettergevoelige tekenreeks | De door de adverteerder gegenereerde id die aan de transactie is gekoppeld. Omdat de conversie-volgende markering van de Adobe Advertising voor de online gedeelten van de transactie wordt gebruikt, moet dit het zelfde als transactie identiteitskaart (ev_transid) zijn die Adobe Advertising voor het vroegere deel van de transactie verstrekte. Dit betekent dat de omzettingsmarkering voor het online gedeelte van de transactie omzettings metrisch voor een unieke transactie-identiteitskaart moet omvatten.<br><br>**Opmerking:** De Adobe Advertising gebruikt identiteitskaart om van de oude transactiegegevens de plaats te bepalen en het bij te werken volgens een overeengekomen-op toevoegingswijze (bijvoorbeeld, om de bestaande gegevens te vervangen of het met de nieuwe gegevens te verhogen). |
 | Transactiedatum | DateTime | De datum van de transactie. De indeling moet consistent zijn voor elke transactie. |
 | Clientspecifieke conversie | String | Een conversie die wordt bijgehouden (zoals het transactietype of het bedrag). Bespreek de omzettingen die met het de implementatieteam van de Adobe Advertising moeten worden omvat alvorens het voer te beginnen. |
 
 ## Voorbeeld
 
-Het volgende voorbeeldbestand bevat gegevens voor twee transactie-eigenschappen (Product en Opbrengst).
+Het volgende voorbeeldbestand bevat gegevens voor twee conversiemetriek (Product en Opbrengst).
 
 ```
 Transaction ID,Transaction Date,Product,Revenue

@@ -3,7 +3,7 @@ title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
 exl-id: 5cc98781-588b-4bf3-8978-a7966009fa51
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '2280'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 | Kolom | Beschrijving |
 |----|----|
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | De waarde voor een aangepaste metrische waarde die u hebt gemaakt en die wordt berekend op basis van bestaande metriek. |
-| \[Advertiser-specifieke transactieeigenschappen\] | Het aantal omzettingen voor een gespecificeerde transactiebezit of metrisch van de plaatsovereenkomst. |
+| \[Specifieke conversiemetriek voor adverteerders\] | Het aantal omzettingen voor een gespecificeerde metrische of metrische plaatsbepaling van de omzetting. |
 | [!UICONTROL Account Name] | De accountnaam. |
 | [!UICONTROL Account Number] | ([!UICONTROL MSA Ad Extension] rapporten) De account-id die door het advertentienetwerk is toegewezen. |
 | [!UICONTROL Account Status] | ([!UICONTROL MSA Ad Extension] rapporten) De rekeningstatus: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, of *[!UICONTROL Inactive]*. |

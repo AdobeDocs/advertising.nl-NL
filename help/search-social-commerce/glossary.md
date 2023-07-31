@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
 feature: Search Introduction
-source-git-commit: 2ea9830c24ec7bdc10c3774b9a97c659b6ea1747
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
-source-wordcount: '2073'
+source-wordcount: '2017'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 **beperking:** (Adverteerders met portefeuilles; alleen van toepassing op biedingseenheden in standaardportefeuilles) Een regel voor het bieden op een bepaald trefwoord of een specifieke advertentie. Hiermee worden eventuele limieten op portefeuilleniveau en de aanbevolen biedstrategie genegeerd.
 
-**conversie:** De voltooiing van een actie nadat een eindgebruiker een advertentie klikt, gewoonlijk gevangen als metrisch; voorbeelden omvatten registraties of aankopen. Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
+**conversie:** De voltooiing van een actie nadat een eind - gebruiker een advertentie klikt, gewoonlijk gevangen als metrisch. Voorbeelden zijn registraties en aankopen, en kunnen tellingen of geldelijke bedragen vertegenwoordigen. Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
 
 **conversie bijhouden:** Bij conversietracering worden cookies gebruikt om a) de advertenties van een adverteerder op de advertentienetwerken bij te houden en b) de resulterende transacties op de website van de adverteerder.
 
@@ -114,7 +114,7 @@ ht-degree: 0%
 
 ## O-P {#o-p}
 
-**doel:** (Adverteerders met portefeuilles) Een doelstelling die een cliënt voor een specifieke portefeuille of een vertoningscampagne vaststelt om zijn bedrijfsdoelstelling te verwezenlijken, zoals het maximaliseren van winsten of het bereiken van een specifiek verkoopdoel. Een doel bestaat uit de conversiemetriek (ook wel transactieeigenschappen genoemd) die voor de portefeuille moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
+**doel:** (Adverteerders met portefeuilles) Een doelstelling die een cliënt voor een specifieke portefeuille of een vertoningscampagne vaststelt om zijn bedrijfsdoelstelling te verwezenlijken, zoals het maximaliseren van winsten of het bereiken van een specifiek verkoopdoel. Een doel bestaat uit de conversiemetriek die voor het portfolio moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
 
 **objectieve waarde:** (Adverteerders met portefeuilles) De totale gewogen conversies zoals berekend op basis van de huidige doelstelling van de portefeuille, waaronder:
 
@@ -138,9 +138,9 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **PPC:** Zie Betalen per klik.
 
-**eigenschap:** Zie &quot;transactie-eigenschap&quot;.
+**eigenschap:** Zie &#39;metrische conversie&#39;.
 
-**eigenschapstijd:** Het tijdstip waarop een individuele transactie plaatsvindt. Wanneer een transactie gerelateerde vervolgtransacties omvat (zoals een klant die zich eerst registreert voor een gratis proefperiode en die later op een betaalde service abonneert), heeft elke transactie zijn eigen eigenschapstijd.
+**eigenschapstijd:** Het tijdstip waarop een individuele conversiegebeurtenis plaatsvindt. Wanneer een gebeurtenis gerelateerde follow-upgebeurtenissen bevat (zoals een klant die zich eerst registreert voor een gratis proefversie en die zich later abonneert op een betaalde service), heeft elke gebeurtenis zijn eigen eigenschapstijd.
 
 ## Q-R {#q-r}
 
@@ -174,7 +174,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **transactie-id:** Een door de adverteerder opgegeven id die een transactie identificeert. Wanneer een transactie meerdere gebeurtenissen bevat, hebben deze allemaal dezelfde transactie-id.
 
-**transactie-eigenschap:** Een kenmerk van een transactie, zoals het type transactie/conversie, het dollarbedrag van een verkoop, of een type verkocht product (bijvoorbeeld &quot;Verkoopleads&quot;, &quot;Bedrag van verkoop&quot; of &quot;1-Yr. Registraties,&quot; respectievelijk). In Zoeken, Sociaal, &amp; Handel, worden de transactieeigenschappen gemeten voor het doel van een portefeuille en geïdentificeerd in het volgen identiteitskaart De termen &quot;transactie-eigenschap&quot; en &quot;conversie&quot;<!-- type-->&quot; vaak onderling verwisselbaar zijn.
+**transactie-eigenschap:** Zie &quot;conversie&quot;.
 
 **transactietijd:** Het tijdstip waarop een klik of indruk in een transactie wordt omgezet. Wanneer een transactie uit meerdere transactiegebeurtenissen bestaat (zoals wanneer een klant zich voor het eerst voor een gratis proefperiode registreert en later op een betaalde service abonneert), is de transactietermijn afkomstig van de eerste gebeurtenis in de keten (registratie voor de gratis proefversie).
 

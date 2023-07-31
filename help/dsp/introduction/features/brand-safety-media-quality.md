@@ -3,7 +3,7 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 09ccb4790906e64834e52fb28956fe41997cbd1b
 workflow-type: tm+mt
 source-wordcount: '1354'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Reclame DSP biedt een reeks functies voor merkbescherming om ervoor te zorgen da
 
 Ons team voor toezicht op fraude werkt nauw samen met toonaangevende partners uit de industrie, zoals de [!DNL Interactive Advertising Bureau], [!DNL Trust and Accountability Group] [!DNL (TAG)], en [!DNL WhiteOps]om de inventarisatie op ons platform zorgvuldig te beheren. Door ons aanbod proactief te beheren, zorgt DSP ervoor dat alle adverteerders op het platform beschermd zijn tegen niet-menselijk verkeer (bots, crawlers, datacenterverkeer en fraude) en alleen in merkveilige contexten leveren.
 
-Naast centraal kwaliteitsbeheer geloven we in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. DSP biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
+Naast centraal kwaliteitsbeheer geloven wij in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. DSP biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud], en [!DNL Peer39], waarbij elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
 
 ## Kwaliteitsinitiatieven
 
@@ -34,7 +34,7 @@ U kunt de standaardinstelling instellen [!DNL ads.txt] besturingselementen voor 
 
 * Alleen bij geautoriseerde directe verkopers en wederverkopers van een domein voorraad kopen
 
-* Prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers van een domein
+* prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers van een domein
 
 * Winkelvoorraad kopen van alle verkopers
 
@@ -54,17 +54,17 @@ Het in kaart brengen van de inventaris is het gedetailleerde overzicht en het aa
 
    * Brand-veiligheid
 
-   * Typecontrole toevoegen
+   * Typegoedkeuring van advertentie
 
    * Algemene inhoud, dubbele domeinen en nagemaakte advertentie
 
 * **Lagen:** We onderzoeken holistisch de aanwezigheid van merken in het totale ecosysteem om inventarisatie over verschillende niveaus te classificeren. U kunt [uw plaatsing als doel instellen](/help/dsp/campaign-management/placements/placement-settings.md) op deze niveaus voor het gewenste bereik:
 
-   * **[!UICONTROL T1]** - Merknaam, internationaal herkenbare sites
+   * **[!UICONTROL T1]** — Merknaam, internationaal herkenbare sites
 
-   * **[!UICONTROL T2]** - Uitstekende sites die actueel, up-to-date zijn, geen door gebruikers gegenereerde inhoud bevatten en die gewoonlijk geen wereldwijde herkenning hebben
+   * **[!UICONTROL T2]** — Geweldige sites die actueel, up-to-date zijn, geen door de gebruiker gegenereerde inhoud bevatten en die gewoonlijk geen wereldwijde herkenning hebben
 
-   * **[!UICONTROL T3]** - Door de gebruiker gegenereerde inhoud en niche-inhoud
+   * **[!UICONTROL T3]** — Door de gebruiker gegenereerde inhoud en niche-inhoud
 
 * **Indeling van de site:** Om ervoor te zorgen dat inhoud eenvoudig wordt toegewezen en geblokkeerd, labelen we elke eigenschap met een DSP gedefinieerde sitecategorie op basis van de inhoud van de eigenschap. U kunt [Deze sitecategorieën voor elke plaatsing opgeven of uitsluiten](/help/dsp/campaign-management/placements/placement-settings.md) op basis van de plaatsingsdoelstellingen.
 
@@ -82,7 +82,7 @@ Wanneer u een site in de lijst met wereldwijd geblokkeerde sites opneemt als pla
 
 >[!NOTE]
 >
->U kunt optioneel de algemene lijst met geblokkeerde sites omzeilen voor standaard weergaveadvertenties die zijn gekoppeld aan een vertrouwde persoonlijke deal door de optie &quot;[!UICONTROL Allow unscreened sites]&quot; in de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md). Indien nodig, kan het Team van de Rekening van de Adobe naar keuze plaats ook onbruikbaar maken die voor een openbare (veiling-niveau) overeenkomst in de uitgeversmontages voor de overeenkomst blokkeert.
+>U kunt optioneel de algemene lijst met geblokkeerde sites omzeilen voor standaard weergaveadvertenties die zijn gekoppeld aan een vertrouwde persoonlijke deal door de optie &quot;[!UICONTROL Allow unscreened sites]&quot; in het dialoogvenster [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md). Indien nodig, kan het Team van de Rekening van de Adobe naar keuze plaats ook onbruikbaar maken die voor een openbare (veiling-niveau) overeenkomst in de uitgeversmontages voor de overeenkomst blokkeert.
 
 #### Geblokkeerde sitelijsten op accountniveau en op advertentieniveau
 
@@ -120,11 +120,11 @@ U kunt standaardweergavefilters instellen voor elke adverteerder<!-- [default pr
 
 DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partners te leveranteren [!DNL Comscore] en [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
 
-Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct tot stand te brengen met [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
+Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct met te creëren [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
 
 Aangepaste onderwerpsegmenten maken:
 
-* Als u een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] om [https://agents.comscore.com](https://agents.comscore.com). Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
+* Een [!DNL Comscore] account en maak aangepaste segmenten, kunt u een aanmeldingsnaam aanvragen voor [!DNL Activation Segment Manager] om [https://agents.comscore.com](https://agents.comscore.com). Zie de [[!DNL Comscore] helpcentrum](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor het instellen van aangepaste segmenten. De kosten voor aangepaste segmenten zijn zichtbaar in [!DNL Segment Manager] als u ze maakt.
 
 * Aan de slag met [!DNL Oracle Data Cloud], contact [!DNL Oracle Data Cloud] of uw Adobe-accountteam.
 
@@ -145,5 +145,4 @@ Voor meer informatie over functionaliteit, contacteer [!DNL DoubleVerify] of nee
 >[!MORELIKETHIS]
 >
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
 <!-- >* [Advertiser Account Settings](/help/dsp/admin/advertiser-settings.md) -->

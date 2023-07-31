@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
-source-wordcount: '3603'
+source-wordcount: '3598'
 ht-degree: 0%
 
 ---
@@ -16,8 +16,8 @@ ht-degree: 0%
 | ---- | ---- |
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | De waarde voor een [aangepaste metrisch hebt u gecreeerd](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md) wordt berekend op basis van bestaande meetwaarden. |
 | \[Advertiser-specifieke labelclassificaties\] | Eventuele labelclassificaties die momenteel op entiteitsniveau op de entiteit worden toegepast. Classificaties met meerdere labels worden gescheiden met komma&#39;s (,). |
-| \[Advertiser-specifieke transactieeigenschappen\] | Het aantal omzettingen voor een gespecificeerde transactiebezit of metrisch van de plaatsovereenkomst. |
-| \[Google-bijgehouden conversies/transactieeigenschappen\] | Zie de vermelding voor &quot;GGL\*, GGL_CT\*, and GGL_XD_CT\*.&quot; |
+| \[Specifieke conversiemetriek voor adverteerders\] | Het aantal omzettingen voor een gespecificeerde metrische of metrische plaatsbepaling van de omzetting. |
+| \[Google-bijgehouden conversies\] | Zie de vermelding voor &quot;GGL\*, GGL_CT\*, and GGL_XD_CT\*.&quot; |
 | [!UICONTROL 7-Day Click Accuracy] | ([!UICONTROL Portfolio Report]) De gemiddelde nauwkeurigheid van de klikprognoses voor de afgelopen zeven dagen, exclusief de huidige dag (en niet voor de gespecificeerde datumschaal van het rapport), uitgedrukt als een percentage. |
 | [!UICONTROL 7-Day Cost Accuracy] | ([!UICONTROL Portfolio Report]) De gemiddelde nauwkeurigheid van de kostenprognose voor de afgelopen zeven dagen, exclusief de huidige dag (en niet voor de gespecificeerde datummarge van het verslag), uitgedrukt als een percentage. |
 | [!UICONTROL 7-Day Revenue Accuracy] | ([!UICONTROL Portfolio Report]) De gemiddelde nauwkeurigheid van de geraamde ontvangsten voor de voorgaande zeven dagen, exclusief de huidige dag (en niet voor de gespecificeerde datummarge van het verslag), uitgedrukt als een percentage. |
@@ -106,7 +106,7 @@ ht-degree: 0%
 | [!UICONTROL Estimated Impressions] | (Alleen weergavecampagnes) Het geschatte aantal advertenties dat door Search, Social &amp; Commerce is bijgehouden. Deze waarde kan verschillen van de waarde voor de [!UICONTROL Impressions] kolom (indien beschikbaar), die de waarde toont die door de advertentienetwerken wordt verstrekt. |
 | [!UICONTROL Exclude (yes/no)] | Of biedingen zijn uitgesloten (<i>[!UICONTROL Yes]</i>) of het bieden is toegestaan (<i>[!UICONTROL No]</i>) voor advertenties voor overeenkomende producten. |
 | [!UICONTROL First Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die op de eerste pagina met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
-| `GGL*`, `GGL_CT*`, en `GGL_XD_CT*` [[!DNL Google Ads]-trackomzettingen/transactieeigenschappen] | ([!DNL Google Ads] campagnes op de zoek - en winkelnetwerken ) [!DNL Google Ads]-tracked conversions, met maximaal drie afzonderlijke transactieeigenschappen voor elke conversie:<ul><li>`GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals GL Purchase).</li><li>`GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).</li><li>`GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door [!DNL Google Ads] beginnen met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GL_XD_CT_Purchase).</li></ul><br>Elke conversie wordt vastgelegd door de biedingseenheid en de klikdatum. De conversie is niet beschikbaar op het niveau van de gebeurtenis. Voor meer informatie over [!DNL Google Ads]-tracked conversies, zie &quot;[[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).&quot; |
+| `GGL*`, `GGL_CT*`, en `GGL_XD_CT*` [[!DNL Google Ads]-bijgehouden conversies] | ([!DNL Google Ads] campagnes op de zoek - en winkelnetwerken ) [!DNL Google Ads]-tracked conversies, met maximaal drie verschillende meetwaarden voor elke conversie:<ul><li>`GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals GL Purchase).</li><li>`GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).</li><li>`GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door [!DNL Google Ads] beginnen met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GL_XD_CT_Purchase).</li></ul><br>Elke conversie wordt vastgelegd door de biedingseenheid en de klikdatum. De conversie is niet beschikbaar op het niveau van de gebeurtenis. Voor meer informatie over [!DNL Google Ads]-tracked conversies, zie &quot;[[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).&quot; |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] alleen) Het percentage van uw advertenties dat wordt weergegeven als de eerste advertentie boven de organische zoekresultaten. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] (alleen) Het percentage van uw advertenties dat boven de resultaten van de organische zoekopdracht wordt weergegeven. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
@@ -152,7 +152,7 @@ ht-degree: 0%
 | [!UICONTROL Product Group ID] | De numerieke id die het advertentienetwerk toewijst aan de productgroep. |
 | [!UICONTROL Product Groupings] | De bovenliggende productgroep. |
 | [!UICONTROL Product ID] | ([!UICONTROL Keyword Report]; [!DNL Google Ads] advertenties voor productaanbiedingen) De product-id van het product dat met de advertentie wordt weergegeven.<br><br><b>Opmerking:</b> De id wordt alleen vastgelegd wanneer de parameter tracking in de productlijst is opgenomen `ev_plx=<GMC product ID>`, die u moet toevoegen binnen [!DNL Google Merchant Center]. |
-| [!UICONTROL Raw Transaction Data] | ([!UICONTROL Transaction Report]) De opbrengsten voor de transactieeigenschap (bijvoorbeeld 1 voor één registratie of 12 voor een order van 12 USD). Als meerdere biedingseenheden dezelfde transactie-id hebben, worden de inkomsten voor de tracking-id gesplitst volgens het aantal klikken op de opgegeven klikdatum (wanneer klikgegevens beschikbaar zijn). |
+| [!UICONTROL Raw Transaction Data] | ([!UICONTROL Transaction Report]) De inkomsten voor de omrekeningsnorm (zoals 1 voor één registratie of 12 voor een bestelling van 12 USD). Als meerdere biedingseenheden dezelfde transactie-id hebben, worden de inkomsten voor de tracking-id gesplitst volgens het aantal klikken op de opgegeven klikdatum (wanneer klikgegevens beschikbaar zijn). |
 | [!UICONTROL Reach] | ([!DNL Meta] advertenties) Het aantal mensen dat uw advertenties minstens één keer heeft gezien. Opmerking: [!DNL Meta] dedupliceert bereik dagelijks voor gebruikersprofielen, zodat de aantallen door worden gemeld [!DNL Meta] en door Zoeken, Sociale Zaken &amp; Handel kunnen verschillen. |
 | [!UICONTROL Region] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) Een gebied of een staat V.S./Canada waarvoor de beelden of kliks voortvloeiden. Het wordt bepaald van het IP van de gebruiker adres. |
 | [!UICONTROL SE Creative ID] | De advertentie-id die door het netwerk is toegewezen. |
@@ -176,8 +176,8 @@ ht-degree: 0%
 | [!UICONTROL Through Plays] | ([!DNL Meta] advertenties) Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Top of Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die boven aan de pagina&#39;s met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
 | [!UICONTROL Tracking URL] | (Alleen zoektrefwoorden) De trackingsjabloon of de doel-URL die is ingesloten met (indien van toepassing) code voor het bijhouden van zoekopdrachten, sociale gegevens en handel. |
-| [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) De advertentiespecifieke transactieeigenschap waaraan de transactie wordt gecrediteerd. |
-| [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) Het tijdstip waarop de opgegeven transactieeigenschap is gecrediteerd. |
+| [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) De advertentiespecifieke omzettingsnorm waaraan de transactie wordt gecrediteerd. |
+| [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) Het tijdstip waarop de opgegeven omzettingsmaatstaf is gecrediteerd. |
 | [!UICONTROL User Account Type] | Achterhaald |
 | [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. |
 | [!UICONTROL Video Average Play Time] | ([!DNL Meta] advertenties) De gemiddelde tijd dat een video is afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één indruk. |

@@ -3,7 +3,7 @@ title: Veelgestelde vragen over bijhouden
 description: Leer antwoorden op algemene vragen over het volgen, met inbegrip van het oplossen van problemenkwesties.
 exl-id: f559b977-dd44-4d29-b49e-c41c6fb783d1
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '1191'
 ht-degree: 0%
@@ -37,11 +37,11 @@ Er kunnen dubbele transacties plaatsvinden wanneer een gebruiker de bevestigings
 
 Hieronder volgt de deduplicatielogica van de Adobe Advertising:
 
-* **Wanneer een client een waarde verzendt voor de `ev_transid` kenmerk:** Volgende pixelaanvragen worden beschouwd als duplicaten van de vorige aanvraag als de volgende twee aanvragen hetzelfde zijn: de `ev_transid`; de volgende ID voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing; en de waarde voor een specifieke transactieeigenschap.
+* **Wanneer een client een waarde verzendt voor de `ev_transid` kenmerk:** Volgende pixelaanvragen worden beschouwd als duplicaten van de vorige aanvraag als de volgende twee aanvragen hetzelfde zijn: de `ev_transid`; de tracking-id voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing en de waarde voor een specifieke omzettingsmethode.
 
   Bijvoorbeeld, als de veelvoudige leningstoepassingen zelfde toepassings identiteitskaart en leningsbedrag voor het zelfde sleutelwoord op een specifiek advertentienetwerk hebben, dan worden zij beschouwd als duplicaten, en slechts wordt de eerste leningstoepassing geteld.
 
-* **Wanneer een client geen waarde verzendt voor de `ev_transid` kenmerk:** Volgende transacties worden beschouwd als duplicaten van de vorige als ze een tracking-id delen voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing en dezelfde waarde voor een specifieke transactie-eigenschap.
+* **Wanneer een client geen waarde verzendt voor de `ev_transid` kenmerk:** Volgende transacties worden beschouwd als duplicaten van de vorige als ze een tracking-id delen voor hetzelfde trefwoord, dezelfde advertentie of dezelfde plaatsing en dezelfde waarde voor een specifieke omzettingstabel.
 
   Als bijvoorbeeld meerdere leningaanvragen dezelfde trefwoordid en hetzelfde bedrag voor de lening hebben, worden ze als duplicaten beschouwd en wordt alleen de eerste leningaanvraag geteld.
 +++
@@ -57,9 +57,9 @@ Wijzig in de account of campagne de methode voor bijhouden in &quot;[!UICONTROL 
 
 ## Gegevensvragen
 
-+++Hoe weet ik welke transactieeigenschap afkomstig is van een gegevensfeed of wordt bijgehouden door de trackingtag voor conversie van Adobe Advertising?
++++Hoe weet ik welke omzettings metrische waarde van een gegevensvoer is of door de Adobe Advertising omzettingsvolgmarkering wordt gevolgd?
 
-In een [!UICONTROL Transaction Report], kunt u zien of een opgenomen transactieeigenschap is bijgehouden door de volgende pixel van de conversie van de Adobe Advertising als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met `http://pixel.everesttech.net`.
+In een [!UICONTROL Transaction Report]kunt u zien of een opgenomen omzettingsmetrische waarde is bijgehouden door de volgende pixel van de omzetting van de Adobe Advertising als u de aangepaste kolom &quot;[!UICONTROL Tracking URL].&quot; URL&#39;s bijhouden met de pixel voor het bijhouden van de Adobe Advertising begint met `http://pixel.everesttech.net`.
 +++
 
 +++Wat zijn verweesde transacties?

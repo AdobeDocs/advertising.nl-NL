@@ -3,7 +3,7 @@ title: '[!UICONTROL Campaign Assist Report]'
 description: Meer informatie over de [!UICONTROL Campaign Assist Report].
 exl-id: 7fbc9c17-c77d-485b-8d51-5e5a153d7a2b
 feature: Search Reports, Search Assist Reports
-source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '849'
 ht-degree: 0%
@@ -39,11 +39,11 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 | [!UICONTROL First Campaign] | Standaard | De eerste campagne in het conversiepad. |
 | [!UICONTROL Last Campaign] | Standaard | De laatste campagne die in omzettingen resulteerde (zelfs als het laatste sleutelwoord buiten de gespecificeerde weggrootte is.)<br><br>Als u een van de rapportopties hebt opgenomen om het advertentienetwerk, de accountnaam of het gebeurtenistype na de entiteitsnaam aan te geven, wordt die informatie opgenomen na de naam van de campagne (zoals `"<"campaign name> [Google] [Account1] [impression]`&quot;). |
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | Aangepast | De waarde voor een aangepaste metrische waarde die u hebt gemaakt en die wordt berekend op basis van bestaande metriek. |
-| \[Advertiser-specifieke transactieeigenschappen\] | Aangepast | Het aantal omzettingen voor een gespecificeerde transactiebezit of metrisch van de plaatsovereenkomst. |
-| [!UICONTROL % of Total] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elk inbegrepen transactiebezit) Het aantal omzettingen voor een gespecificeerde transactiebezit dat uit het campagnetatroon resulteerde. |
+| \[Specifieke conversiemetriek voor adverteerders\] | Aangepast | Het aantal omzettingen voor een gespecificeerde metrische of metrische plaatsbepaling van de omzetting. |
+| [!UICONTROL % of Total] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elke inbegrepen omzettingsmetriek) Het aantal omzettingen voor gespecificeerde omzettings metrisch die uit het campagnerepatroon voortkwam. |
 | [!UICONTROL 6th Campaign] tot [!UICONTROL 20th Campaign] | Aangepast | De zesde tot en met de twintigste campagne in het conversiepad dat binnen de adverteerders [klik terugkijkvenster](/help/search-social-commerce/glossary.md#c-d) en [terugkijkvenster van indruk](/help/search-social-commerce/glossary.md#i-j).<br><br>Als u een van de rapportopties hebt opgenomen om het advertentienetwerk, de accountnaam of het gebeurtenistype na de entiteitsnaam aan te geven, wordt die informatie opgenomen na de naam van de campagne (zoals `"<"campaign name> [Baidu] [Account1] [click]`&quot;). |
-| [!UICONTROL Avg. Conv. Latency (First Campaign To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elke inbegrepen transactiebezit) De gemiddelde vertraging in dagen van de eerste gebeurtenis (in de eerste campagne) aan een omzetting. |
-| [!UICONTROL Avg. Conv. Latency (Last Campaign To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportinstellingen maar automatisch opgenomen in de rapportuitvoer) De gemiddelde vertraging in dagen vanaf de laatste gebeurtenis (in de laatste campagne) tot een conversie. |
+| [!UICONTROL Avg. Conv. Latency (First Campaign To Conversion)] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elke inbegrepen omzettings metrisch) De gemiddelde vertraging in dagen van de eerste gebeurtenis (in de eerste campagne) aan een omzetting. |
+| [!UICONTROL Avg. Conv. Latency (Last Campaign To Conversion)] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportinstellingen maar automatisch opgenomen in de rapportuitvoer) De gemiddelde vertraging in dagen vanaf de laatste gebeurtenis (in de laatste campagne) tot een conversie. |
 | [!UICONTROL EF Campaign ID] | Aangepast | De numerieke id die Search, Social &amp; Commerce toewijst aan de campagne. |
 | [!UICONTROL EF Portfolio Group ID] | Aangepast | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL EF Search Engine ID] | Aangepast | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft® Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd), of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (vervangen). |

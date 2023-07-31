@@ -3,9 +3,9 @@ title: Een conversietag voor Adoben Advertising genereren
 description: Leer hoe u een conversietag voor Adoben Advertising maakt om uw conversiegebeurtenissen bij te houden.
 exl-id: 617cd808-c4ba-4413-89e4-0f52cb44f44b
 feature: Search Tools, Search Tracking
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '672'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Maak een aparte conversietag voor elke set metriek die u wilt bijhouden en geef 
 
 >[!NOTE]
 >
->Elke metrische waarde in de nieuwe conversietag wordt automatisch vermeld in [!UICONTROL Admin] > [!UICONTROL Transaction Properties], zelfs als het niet wordt uitgevoerd of de webpagina&#39;s het op heeft geen kliks ontvangen. Dit gedrag verschilt van het gedrag van metriek in manueel of elders gemaakte markeringen, die niet in worden vermeld [!UICONTROL Admin] > [!UICONTROL Transaction Properties] totdat een van de webpagina&#39;s waarop het staat een klik heeft ontvangen. In alle gevallen, echter, is elke metrisch aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en meningen tot u hen uitdrukkelijk ter beschikking stelt. Alvorens u de metriek aan portefeuilledoelstellingen toevoegt, echter, overweeg eerst het ter beschikking stellen van de metriek en het toevoegen van hen aan rapporten om te verifiëren wanneer zij klikken ontvangen.
+>Elke metrische waarde in de nieuwe conversietag wordt automatisch vermeld in [!UICONTROL Admin] > [!UICONTROL Conversions], zelfs als het niet wordt uitgevoerd of de webpagina&#39;s het op heeft geen kliks ontvangen. Dit gedrag verschilt van het gedrag van metriek in manueel of elders gemaakte markeringen, die niet in worden vermeld [!UICONTROL Admin] > [!UICONTROL Conversions] totdat een van de webpagina&#39;s waarop het staat een klik heeft ontvangen. In alle gevallen, echter, is elke metrisch aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en meningen tot u hen uitdrukkelijk ter beschikking stelt. Alvorens u de metriek aan portefeuilledoelstellingen toevoegt, echter, overweeg eerst het ter beschikking stellen van de metriek en het toevoegen van hen aan rapporten om te verifiëren wanneer zij klikken ontvangen.
 
 ## Instellingen voor conversietag Adoben Advertising {#conversion-tag-settings}
 
@@ -46,13 +46,13 @@ Maak een aparte conversietag voor elke set metriek die u wilt bijhouden en geef 
 
 Raadpleeg voor meer informatie over de verschillen tussen de verschillende tagtypen &quot;[Veelgestelde vragen over tags voor conversie van Adoben Advertising en het bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
 
-**[!UICONTROL Tag Properties]:** Een of meer transactieeigenschappen (metriek) die moeten worden bijgehouden wanneer een eindgebruiker een pagina met de conversietag weergeeft. Als u metrische gegevens aan de lijst wilt toevoegen, voert u de naam van de metrische waarde in het veld &quot;[!UICONTROL Add new property]&quot; veld en klik op **[!UICONTROL Add]**.
+**[!UICONTROL Tag Properties]:** Een of meer conversiemetriek die moet worden bijgehouden wanneer een eindgebruiker een pagina met de conversietag weergeeft. Als u metrische gegevens aan de lijst wilt toevoegen, voert u de naam van de metrische waarde in het veld &quot;[!UICONTROL Add new property]&quot; veld en klik op **[!UICONTROL Add]**.
 
 Wanneer de veelvoudige metriek wordt gevolgd, worden zij aangesloten bij door ampersand (`&`) in de tag, zoals `ev_Property1=<Property1>&ev_Property2=<Property2>`.
 
 >[!NOTE]
 >
->Metrische gegevens die aan deze lijst zijn toegevoegd, worden nergens opgeslagen of geïntegreerd met de client [!UICONTROL Transaction Properties] op de lijst [!UICONTROL Admin] tab. Metrische gegevens worden echter toegevoegd aan de [!UICONTROL Transaction Properties] lijst automatisch als de Adobe Advertising gegevens daadwerkelijk verzamelt voor metrisch, wat gebeurt wanneer de omzettingsmarkering op een pagina wordt uitgevoerd en een eind - gebruiker een transactie voltooit die die pagina opent.
+>Metrische gegevens die aan deze lijst zijn toegevoegd, worden nergens opgeslagen of geïntegreerd met de client [!UICONTROL Conversions] op de lijst [!UICONTROL Admin] tab. Metrische gegevens worden echter toegevoegd aan de [!UICONTROL Conversions] lijst automatisch als de Adobe Advertising gegevens daadwerkelijk verzamelt voor metrisch, wat gebeurt wanneer de omzettingsmarkering op een pagina wordt uitgevoerd en een eind - gebruiker een transactie voltooit die die pagina opent.
 
 **[!UICONTROL Include unique transaction IDs]:** (Optioneel) Bevat een transactie-id-eigenschap (`ev_transid=<transid>`) in de tag. De optie is standaard geselecteerd.
 
@@ -81,4 +81,4 @@ Zie &quot;[Veelgestelde vragen over tags voor conversie van Adoben Advertising e
 >* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Opmaak van trackingtags voor afbeeldingsconversie](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 >* [De JavaScript-conversietoewijzingstag Adobe Advertising](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [Informatie over het beheren van de transactieeigenschappen van een adverteerder](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
+>* [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)

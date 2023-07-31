@@ -3,7 +3,7 @@ title: Veelgestelde vragen over campagnes
 description: Zie antwoorden op vragen over campagnebeheer en de mening van campagnegegevens.
 exl-id: b5975869-4bc3-461d-8cb7-eeefab157137
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
 workflow-type: tm+mt
 source-wordcount: '1472'
 ht-degree: 0%
@@ -67,7 +67,7 @@ Afhankelijk van de [gegevensinstellingen van feed](/help/search-social-commerce/
 
 ++([!DNL Google Ads] campagnes) Veranderingen in de vertoningsnamen voor mijn [!DNL Google]-tracked conversies werden teruggedraaid.
 
-Als u de vertoningsnamen van de transactieeigenschappen in Onderzoek, Sociale, &amp; Handel verandert, worden uw veranderingen beschreven met de namen die binnen worden gevormd [!DNL Google Ads]. Wijzig namen in [!DNL Google Ads].
+Als u de vertoningsnamen van de omzettingsmetriek in Onderzoek, Sociale, &amp; Handel verandert, worden uw veranderingen beschreven met de namen die binnen worden gevormd [!DNL Google Ads]. Wijzig namen in [!DNL Google Ads].
 +++
 
 +++ (Google Ads-campagnes) Kan ik een gedeeld budget gebruiken voor campagnes in portfolio&#39;s?
