@@ -3,7 +3,7 @@ title: Een conversietag voor Adoben Advertising genereren
 description: Leer hoe u een conversietag voor Adoben Advertising maakt om uw conversiegebeurtenissen bij te houden.
 exl-id: 617cd808-c4ba-4413-89e4-0f52cb44f44b
 feature: Search Tools, Search Tracking
-source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
+source-git-commit: b730716565dfae9cb32556eaede1c3f29f316ac7
 workflow-type: tm+mt
 source-wordcount: '672'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Maak een aparte conversietag voor elke set metriek die u wilt bijhouden en geef 
 
 >[!NOTE]
 >
->Elke metrische waarde in de nieuwe conversietag wordt automatisch vermeld in [!UICONTROL Admin] > [!UICONTROL Conversions], zelfs als het niet wordt uitgevoerd of de webpagina&#39;s het op heeft geen kliks ontvangen. Dit gedrag verschilt van het gedrag van metriek in manueel of elders gemaakte markeringen, die niet in worden vermeld [!UICONTROL Admin] > [!UICONTROL Conversions] totdat een van de webpagina&#39;s waarop het staat een klik heeft ontvangen. In alle gevallen, echter, is elke metrisch aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en meningen tot u hen uitdrukkelijk ter beschikking stelt. Alvorens u de metriek aan portefeuilledoelstellingen toevoegt, echter, overweeg eerst het ter beschikking stellen van de metriek en het toevoegen van hen aan rapporten om te verifiëren wanneer zij klikken ontvangen.
+>Elke metrische waarde in de nieuwe conversietag wordt automatisch vermeld in [!UICONTROL Admin] > [!UICONTROL Transaction Properties], zelfs als het niet wordt uitgevoerd of de webpagina&#39;s het op heeft geen kliks ontvangen. Dit gedrag verschilt van het gedrag van metriek in manueel of elders gemaakte markeringen, die niet in worden vermeld [!UICONTROL Admin] > [!UICONTROL Transaction Properties] totdat een van de webpagina&#39;s waarop het staat een klik heeft ontvangen. In alle gevallen, echter, is elke metrisch aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en meningen tot u hen uitdrukkelijk ter beschikking stelt. Alvorens u de metriek aan portefeuilledoelstellingen toevoegt, echter, overweeg eerst het ter beschikking stellen van de metriek en het toevoegen van hen aan rapporten om te verifiëren wanneer zij klikken ontvangen.
 
 ## Instellingen voor conversietag Adoben Advertising {#conversion-tag-settings}
 
@@ -81,4 +81,4 @@ Zie &quot;[Veelgestelde vragen over tags voor conversie van Adoben Advertising e
 >* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
 >* [Opmaak van trackingtags voor afbeeldingsconversie](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 >* [De JavaScript-conversietoewijzingstag Adobe Advertising](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [Informatie over het beheren van de transactieeigenschappen van een adverteerder](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
