@@ -3,7 +3,7 @@ title: '[!UICONTROL Keyword Assist Report]'
 description: Meer informatie over de [!UICONTROL Keyword Assist Report].
 exl-id: 07de2880-111b-498f-9f7f-ec15f89230ae
 feature: Search Reports, Search Assist Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '778'
 ht-degree: 0%
@@ -43,8 +43,6 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 | [!UICONTROL Avg. Conv. Latency (First Channel To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elk inbegrepen transactiebezit) De gemiddelde vertraging in dagen van de eerste gebeurtenis (op het eerste sleutelwoord of de plaatsing) aan een omzetting. |
 | [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[eigenschap transactie\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput) De gemiddelde latentie in dagen van de laatste gebeurtenis (op het laatste sleutelwoord of de plaatsing) aan een omzetting. |
 | [!UICONTROL Path Frequency] | Aangepast | Het aantal keren dat het pad voor deze rij is opgetreden vóór de conversie. |
-
-<table style="table-layout:auto">
 
 >[!MORELIKETHIS]
 >

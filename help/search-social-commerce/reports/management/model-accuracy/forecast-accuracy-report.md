@@ -3,7 +3,7 @@ title: '[!UICONTROL Forecast Accuracy Report]'
 description: Leer over het Rapport van de Nauwkeurigheid van de Vooruitzichten, met inbegrip van de gegevenskolommen.
 exl-id: 2bb36728-ae14-441b-bcda-fa457f5cf664
 feature: Search Reports, Search Model Accuracy Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 0%
@@ -48,8 +48,6 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 | [!UICONTROL EF Portfolio Group ID] | Standaard | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL Portfolio Group Name] | Standaard | De naam van de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL Portfolio ID] | Standaard | De numerieke portefeuille-id. |
-
-<table style="table-layout:auto">
 
 >[!MORELIKETHIS]
 >

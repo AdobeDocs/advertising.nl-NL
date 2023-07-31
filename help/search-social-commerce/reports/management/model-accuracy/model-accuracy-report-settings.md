@@ -3,7 +3,7 @@ title: Instellingen van modelnauwkeurigheidsrapporten
 description: Meer informatie over de vereiste en optionele instellingen voor de rapporten over de nauwkeurigheid van modellen.
 exl-id: 0d0e6ace-3cb3-4cf4-8cbf-3dd5a356f35e
 feature: Search Reports, Search Model Accuracy Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '1782'
 ht-degree: 0%
@@ -31,8 +31,6 @@ ht-degree: 0%
 | [!UICONTROL Scheduling and Delivery] | [!UICONTROL Report Schedule] | (Optioneel; alleen beschikbaar als &quot;[!UICONTROL Save as template]&quot;optie is geselecteerd) Wanneer wordt het rapport uitgevoerd: <i>[!UICONTROL Now]</i> (om het rapport eenmaal uit te voeren; het gebrek), <i>[!UICONTROL Daily]</i>, <i>[!UICONTROL Weekly on] [Dag van de week]</i>, of <i>[!UICONTROL Every Month] [Dag van de maand]</i>. Voor alle tijdsperiodes, behalve <i>[!UICONTROL Now]</i>selecteert u het uur in de tijdzone van de adverteerder, te beginnen met 9:00. |
 |  | [!UICONTROL Email Recipients] | <b>Opmerking:</b>  Deze instelling wordt alleen gebruikt wanneer e-mailmeldingen voor [!UICONTROL Reports] zijn [enabled binnen [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-edit.md).<br><br>E-mailadressen van geregistreerde gebruikers voor Zoeken, Sociale Zaken en Handel waarnaar meldingen moeten worden verzonden wanneer het rapport wordt voltooid of vanwege fouten wordt geannuleerd. Standaard wordt het adres van uw gebruikersaccount ingevoerd. Als u meerdere adressen wilt opgeven, scheidt u deze met komma&#39;s, spaties of nieuwe regels. Wanneer het rapport is gepland om herhaaldelijk te lopen, wordt een bericht verzonden telkens als een rapport wordt voltooid. |
 |  | [!UICONTROL Email Notification] | <b>Opmerking:</b>  Deze instelling wordt alleen gebruikt wanneer e-mailmeldingen voor [!UICONTROL Reports] zijn [enabled binnen [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notification-edit.md).<br><br>(Wanneer [!UICONTROL Email Recipients] (opgegeven) Wat moet u opnemen in e-mailberichten naar opgegeven adressen:<ul><li><i>[!UICONTROL Notification Only]</i> (standaard): alleen een melding verzenden van de voltooiing of mislukking van het rapport, zonder bijlagen. Het bericht bevat tijdelijke downloadkoppelingen voor alle rapportindelingen.</li><li><i>[!UICONTROL XLS Attachment]:</i> Een kopie van het voltooide rapport opnemen in de XLS-indeling als het bestand kleiner is dan ongeveer 10 MB. Bestanden groter dan 1 MB worden gecomprimeerd.</li><li><i>[!UICONTROL TSV Attachment]:</i> Een kopie van het voltooide rapport opnemen in de TSV-indeling als het bestand kleiner is dan ongeveer 10 MB. Bestanden groter dan 1 MB worden gecomprimeerd.</li><li><i>[!UICONTROL CSV Attachment]:</i> Een kopie van het voltooide rapport in CSV-indeling opnemen als het bestand kleiner is dan ongeveer 10 MB. Bestanden groter dan 1 MB worden gecomprimeerd. |
-
-<table style="table-layout:auto">
 
 >[!MORELIKETHIS]
 >

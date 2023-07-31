@@ -3,7 +3,7 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 20ce9519-4a13-4175-bf7c-26f1dc4c9bd1
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 7ffdd97387815098994f85c4368e60b2b44838dd
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '3603'
 ht-degree: 0%
@@ -186,8 +186,6 @@ ht-degree: 0%
 | [!UICONTROL View Rate] | (Videoadvertenties) Het aantal weergaven of opdrachten gedeeld door het aantal keren dat de advertentie (video- en miniatuurafbeeldingen) werd weergegeven. |
 | [!UICONTROL Views] | (Videoadvertenties) Het aantal keren dat mensen naar uw advertentie keken of zich met uw advertentie bezighouden. |
 | [!UICONTROL ViewThroughConversions] | (Adds op het publieksnetwerk) Het aantal omzettingen die uit één of meerdere beelden resulteerden maar geen kliks. |
-
-<table style="table-layout:auto">
 
 <!-- HOW IS MARKET TYPE DIFFERENT FROM CHANNEL TYPE? And what are all possible values for each? -->
 

@@ -3,7 +3,7 @@ title: Werkbladgegevens voor [!DNL Yahoo! Japan] rekeningen
 description: Verwijs naar de kopbalgebieden en gegevensgebieden in gedownloade bulksbladen voor [!DNL Yahoo! Japan] rekeningen.
 exl-id: b68edbc1-0054-4dac-be3f-4df3c4e00ba9
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '2581'
 ht-degree: 1%
@@ -68,8 +68,6 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 | [!UICONTROL AMO ID] | n.v.t. maken<br><br>Optioneel: bewerken of verwijderen | n.v.t. maken<br><br>Optioneel: bewerken of verwijderen | n.v.t. maken<br><br>Optioneel: bewerken of verwijderen | n.v.t. maken<br><br>Optioneel: bewerken of verwijderen | nvt | (In gegenereerde opsommingstekens) en [!DNL Adobe]-generated unique identifier for a synced entity. Voor responsieve zoekadvertenties kunt u de opdracht [!UICONTROL AMO ID] is vereist om advertenties te bewerken of te verwijderen, tenzij u de [!UICONTROL Ad ID]. Gegevens bewerken voor alle andere eenheidstypen met een [!UICONTROL AMO ID]de [!UICONTROL AMO ID] is vereist om de gegevens te bewerken of te verwijderen, tenzij u de id van de entiteit en de bovenliggende entiteit-id opneemt.<br><br>Zoek, Sociaal, &amp; Handel gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 | [!UICONTROL EF Error Message] | nvt | nvt | nvt | nvt | nvt | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van Zoeken, Sociale Zaken en Handel met betrekking tot gegevens in de rij; foutberichten worden opgenomen in [!UICONTROL EF Errors] bestanden. Deze waarde wordt niet naar het advertentienetwerk gepost. |
 | [!UICONTROL SE Error Message] | nvt | nvt | nvt | nvt | nvt | (Opgenomen in gegenereerde bulksbladen ter informatie) Tijdelijke aanduiding voor het weergeven van foutberichten van het advertentienetwerk met betrekking tot gegevens in de rij; foutberichten worden opgenomen in [!UICONTROL SE Errors] bestanden. Deze waarde wordt niet naar het advertentienetwerk gepost. |
-
-<table style="table-layout:auto">
 
 [^1]: Excel zet grote aantallen in wetenschappelijke aantekening (zoals 2.12E+09 voor 2115585666) om wanneer het dossier opent. Als u cijfers in de standaardnotatie wilt weergeven, selecteert u een willekeurige cel in de kolom en klikt u in de formulebalk.
 

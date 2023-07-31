@@ -3,7 +3,7 @@ title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
 exl-id: 25e2ccf1-4de3-4b0d-a8ef-df7001c77733
 feature: Search Introduction
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
 workflow-type: tm+mt
 source-wordcount: '2371'
 ht-degree: 0%
@@ -50,8 +50,6 @@ Hier volgt een overzicht van de ondersteunde advertentienetwerken, campagnetypen
 | [!DNL Yahoo Native] (Ondersteuning voor synchronisatie is beëindigd in 2022) | Systeemeigen netwerk | Oorspronkelijk | Tekst | —<br><br>Informatie over verouderde accounts tot en met 10 maart 2022 is alleen-lezen. | — | — | — | —<br><br>Oudere gegevens op ad-niveau, gesynchroniseerd tot 10 maart 2022. | Analysegegevens voor Zoeken, Sociale &amp; Handel, maar niet andersom |
 | [!DNL Yandex] | Zoeken in netwerk | Zoeken | Tekst | Automatisch via API | Gebruiken [campagneremanagementweergaven](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md), [bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), en [voorraadbeheervoorzieningen](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) | Ja | Campagnes met alleen CPC-biedstrategie | Gegevens op advertentieniveau | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
 | | Netwerk weergeven | Weergeven/Inhoud | Tekst | Automatisch via API | Gebruiken [campagneremanagementweergaven](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md), [bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), en [voorraadbeheervoorzieningen](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) | Ja | Campagnes met alleen CPC-biedstrategie | Gegevens op advertentieniveau | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
-
-<table style="table-layout:auto">
 
 [^1]: Voor de meeste advertentienetwerken en campagneretypes, wanneer u &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload]&quot; het volgen montages voor een actieve campagne (of die op het campagnereniveau wordt geplaatst of van de rekeningsmontages wordt geërft), leidt het Onderzoek, Sociale, &amp; Handel automatisch het volgen URLs voor de componenten van de advertentiegroep tot het advertentienetwerk wanneer het met het synchroniseert. Anders moet u URL&#39;s voor bijhouden genereren en toevoegen aan de instellingen voor account, campagne of campagnecomponent. Zie &quot;[Wanneer en hoe te om klik-volgende URLs door netwerk en voorwerp te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md).&quot;
 
