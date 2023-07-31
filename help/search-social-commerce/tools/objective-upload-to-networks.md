@@ -3,7 +3,7 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft® Advertising].
 exl-id: 75a1a804-ad6a-4dbc-9cde-30fe54476162
 feature: Search Tools
-source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
+source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
@@ -36,5 +36,5 @@ Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone va
 
 >[!MORELIKETHIS]
 >
->* [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [Informatie over het beheren van de transactieeigenschappen van een adverteerder](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
 >* [Conversiemetriek uploaden naar [!DNL Google Ads]](conversion-metrics-upload-to-google.md)

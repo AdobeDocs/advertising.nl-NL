@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: c71fc077131b1366980e53b13f0a6a94b6dcae44
+source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
 workflow-type: tm+mt
 source-wordcount: '1720'
 ht-degree: 2%
@@ -404,10 +404,10 @@ ht-degree: 2%
       + [Een [!DNL Google Analytics] gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md)
       + [[!DNL Google Analytics] gegevensbroninstellingen](/help/search-social-commerce/admin/data-sources/data-source-settings.md)
       + [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](/help/search-social-commerce/admin/data-sources/data-source-ga-metrics.md)
-   + De conversiemetriek van een adverteerder beheren{#conversion-metrics}
-      + [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
-      + [De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
-      + [De conversiemetriek wijzigen die beschikbaar is in beheerweergaven en -rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
-      + [De weergavenaam wijzigen voor een metrische omzetting](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
+   + De transactieeigenschappen van een adverteerder beheren{#transaction-properties}
+      + [Informatie over het beheren van de transactieeigenschappen van een adverteerder](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md)
+      + [De transactieeigenschappen weergeven die voor een adverteerder zijn bijgehouden](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
+      + [Wijzig de transactieeigenschappen die beschikbaar zijn in de beheerweergaven en -rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)
+      + [De weergavenaam van een transactie-eigenschap wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md)
 + [Hulp vragen](get-help.md)
 + [Verklarende woordenlijst](glossary.md)
