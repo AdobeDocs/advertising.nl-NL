@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor Adobe Advertising-advertenties in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: f68aa3a48ff9676fec8c38af920cff1c3a7d6caa
+source-git-commit: 7b5d8b20e7efa3178f9c43c806f37b85d8ae3f62
 workflow-type: tm+mt
-source-wordcount: '1638'
+source-wordcount: '1550'
 ht-degree: 0%
 
 ---
@@ -85,87 +85,71 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
 1. Vorm een segment van de Audience Manager van de gegevens van de DSP:
 
-   1. Ga naar **Audience Manager** > **Poortgegevens** > **Signalen** en selecteert u vervolgens de **Zoeken** linksboven.
+   1. Controleer of segmentgegevens beschikbaar zijn:
 
-   1. Voer de **Sleutel** en **Waarde** voor het signaal dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd. Een [ondersteunde toets](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) met een waarde die overeenkomt met een macro die u hebt toegevoegd aan de Audience Manager-imitatiepixel.
+      1. [Zoeken naar het signaal](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-signals-search.html) voor de [sleutelwaardepaar](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-search-pairs.html) dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd.
 
-      Als u bijvoorbeeld gebruikers voor een bepaalde plaatsing wilt groeperen, gebruikt u de opdracht `d_placement` toets. Voor de waarde gebruikt u een numerieke plaatsing-id (zoals 2501853 in het hierboven opgenomen scherm) die door de DSP macro wordt vastgelegd `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
+         Een [ondersteunde toets](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html) met een waarde die overeenkomt met een macro die u hebt toegevoegd aan de Audience Manager-imitatiepixel.
 
-      Als het veld Totaal aantal gebruikers tellen voor het sleutelwaardepaar, wat aangeeft dat de pixel correct is geplaatst en dat de gegevens stromen, kunt u doorgaan naar de volgende stap.
+         Als u bijvoorbeeld gebruikers voor een bepaalde plaatsing wilt groeperen, gebruikt u de opdracht `d_placement` toets. Voor de waarde gebruikt u een numerieke plaatsing-id (zoals 2501853) die door de DSP macro wordt vastgelegd `${TM_PLACEMENT_ID_NUM}`. <!-- Explain where to find the placement ID, other than in a custom report. -->
 
-   ![Zoeken in signalen](/help/integrations/assets/target-am-signals.png)
+         Als de onderzoeksresultaten gebruikertellingen voor het zeer belangrijk-waardepaar tonen, dat erop wijst dat de pixel correct werd geplaatst en de gegevens stromen, dan ga aan de volgende stap verder.
 
-1. [Een op regels gebaseerd kenmerk maken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) voor het maken van segmenten in Audience Manager.
+   1. [Een op regels gebaseerd kenmerk maken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) voor het maken van segmenten in Audience Manager.
 
-   1. Geef de eigenschap een naam, zodat deze binnen de testactiviteiten gemakkelijk kan worden herkend. Sla de eigenschap op in de gewenste map.
+      * Geef de eigenschap een naam, zodat deze binnen de testactiviteiten gemakkelijk kan worden herkend. Sla de eigenschap op in de gewenste map.
 
-   1. Van de **Gegevensbron** vervolgkeuzelijst, selecteert u **Ad Cloud**.
+      * Selecteren `Ad Cloud` als de **Gegevensbron**.
 
-   1. Voeg binnen de expressiebouwer `d_event` in het veld Sleutel en `imp` in de **Waarde** veld, selecteren **Regel toevoegen** en sla de eigenschap op.
+      * Voor de expressie trait gebruikt u `d_event` als de **Sleutel** en `imp` als de **Waarde**.
 
-   ![Screenshot van een op regels gebaseerde eigenschap](/help/integrations/assets/target-am-trait.png)
-
-1. Stel een testsegment in Audience Manager in:
-
-   1. Ga boven aan de pagina naar **Poortgegevens** > **Treinen** en zoek naar de volledige naam van het kenmerk. Schakel het selectievakje naast de naam van de eigenschap in en klik op **Segment maken**.
-
-   1. Geef het segment een naam, selecteer `Ad Cloud` als de **Gegevensbron** en sla het segment op.
+   1. [Een testsegment instellen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) voor het nieuwe kenmerk in de Audience Manager selecteert u `Ad Cloud` als de **Gegevensbron**.
 
       De Audience Manager splitst automatisch het segment in een controlegroep die de standaard het landen paginaervaring en een testgroep ontvangt die een gepersonaliseerde onplaatservaring ontvingen.
-
-   ![Screenshot van een testsegment](/help/integrations/assets/target-am-segment.png)
 
 ## Stap 3: Een &quot;A/B Test&quot;-activiteit instellen in het doel
 
 <!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
-In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeerd. Voor volledige instructies raadpleegt u &quot;[Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html)&quot;.
+In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeerd. Zie &quot;&quot; voor volledige instructies.
 
 1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
-1. Van de **Activiteiten** lijst, klik **Activiteit maken** > **A/B-test**.
+1. [Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-   ![Een A/B-testactiviteit maken](/help/integrations/assets/target-create-ab.png)
+   1. In de **URL voor activiteit invoeren** Voer de URL van de bestemmingspagina voor de test in.
 
-1. In de **URL voor activiteit invoeren***, voert u de URL van de bestemmingspagina voor de test in.
+      >[!NOTE]
+      >
+      >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
-   ![Veld ActiviteitenURL invoeren](/help/integrations/assets/target-create-ab-url.png)
+   1. In de **Goal** voert u de succesmetrische waarde voor de test in.
 
-   >[!NOTE]
-   >
-   >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
+      >[!NOTE]
+      >
+      >Controleer of [!DNL Analytics] is ingeschakeld als gegevensbron binnen [!DNL Target]en dat de juiste rapportsuite is geselecteerd.
 
-1. In de **Goal** voert u de succesmetrische waarde voor de test in.
+   1. Stel de **Prioriteit** tot `High` of `999` om conflicten te voorkomen wanneer gebruikers in het testsegment een onjuiste ervaring op locatie ontvangen.
 
-   >[!NOTE]
-   >
-   >Controleer of [!DNL Analytics] is ingeschakeld als gegevensbron binnen [!DNL Target]en dat de juiste rapportsuite is geselecteerd.
+   1. Within **Rapportinstellingen**, selecteert u de **Bedrijfsnaam** en **Rapportsuite** is verbonden met uw DSP account.
 
-1. Stel de **Prioriteit** tot `High` of `999` om conflicten te voorkomen wanneer gebruikers in het testsegment een onjuiste ervaring op locatie ontvangen.
+      Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html).&quot;
 
-1. Within **Rapportinstellingen**, selecteert u de **Bedrijfsnaam** en **Rapportsuite** is verbonden met uw DSP account.
+   1. In de **Datumbereik** Voer de juiste begin- en einddatum voor de test in.
 
-   Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html).&quot;
+   1. Soorten publiek toevoegen aan de activiteit:
 
-1. In de **Datumbereik** Voer de juiste begin- en einddatum voor de test in.
+      1. Kies de optie [segment dat u eerder in Audience Manager creeerde om mening door publiek te testen](#view-through-framework).
 
-1. Soorten publiek toevoegen aan de activiteit:
+      1. Selecteren **Sitepagina&#39;s** > **Openingspagina** > **Query** en voert u de DSP plaatsingssleutel in het dialoogvenster **Waarde** veld voor gebruik van de parameters van de doelqueryreeks voor doorklikken.
 
-   1. Kies de optie [segment dat u eerder in Audience Manager creeerde om mening door publiek te testen](#view-through-framework).
+   1. Voor de **Methode voor verkeerstoewijzing**, selecteert u **Handmatig (standaard)** en splitst het publiek 50/50.
 
-      ![Soorten publiek toevoegen aan de activiteit](/help/integrations/assets/target-create-ab-audiences.png)
-
-   1. Selecteren **Sitepagina&#39;s** > **Openingspagina** > **Query** en voert u de DSP plaatsingssleutel in het dialoogvenster **Waarde** veld voor gebruik van de parameters van de doelqueryreeks voor doorklikken.
-
-      ![Screenshot van een doelklikpubliek](/help/integrations/assets/target-click-audience.jpg)
-
-1. Voor de **Methode voor verkeerstoewijzing**, selecteert u **Handmatig (standaard)** en splitst het publiek 50/50.
-
-1. Sla de activiteit op.
+   1. Sla de activiteit op.
 
 1. Gebruiken [!DNL Target] [Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) om ontwerpwijzigingen aan te brengen in de sjabloon voor de landingspagina van de A/B-test.
 
-   * Ervaar A: Bewerk niet omdat dit de standaardeigenschap van de bestemmingspagina zonder personalisatie is.
+   * Ervaar A: Bewerk niet omdat het de standaard/controle landende paginaervaring zonder personalisatie is.
 
    * Ervaring B: De [!DNL Target] gebruikersinterface om de landingspagina-sjabloon aan te passen op basis van de elementen die in de test zijn opgenomen (zoals kopregels, kopiëren, knopplaatsing en creatieve elementen).
 
@@ -179,7 +163,7 @@ In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeer
 
 [!DNL Analytics for Target] (A4T) is een integratie tussen oplossingen die adverteerders in staat stelt [!DNL Target] activiteiten op basis van [!DNL Analytics] conversiemetriek en publiekssegmenten en meet de resultaten vervolgens met [!DNL Analytics] als de bron van de rapportage. Alle rapportage en segmentering voor die activiteit zijn gebaseerd op [!DNL Analytics] gegevensverzameling.
 
-Voor meer informatie over [!DNL Analytics for Target], inclusief een koppeling naar de implementatieinstructies, zie &quot;[Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)&quot;.
+Voor meer informatie over [!DNL Analytics for Target], met inbegrip van een koppeling naar de uitvoeringsinstructies, zie &quot;[Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)&quot;.
 
 ### Stel de [!DNL Analytics for Target] Deelvenster
 
