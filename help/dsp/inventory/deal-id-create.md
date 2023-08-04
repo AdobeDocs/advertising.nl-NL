@@ -3,9 +3,9 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 9dd60e9892b02cb3d19479b007ee1a7d70a1987d
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ ht-degree: 0%
 
       U kunt het afvangen van gewaarborgde overeenkomsten volgen door de &quot;Pacing van de Impressie Pacing&quot;uitgavenkolom van PG in de Inventaris > de mening van Overeenkomsten te omvatten.
 
-   1. (Alleen gebruikers van beheerders; (optioneel) In de [!UICONTROL Technical] de standaardinstellingen naar wens bewerken.
+   1. (Alleen gebruikers van beheerder; optioneel) In het dialoogvenster [!UICONTROL Technical] de standaardinstellingen naar wens bewerken.
 
    1. Klik op **[!UICONTROL Save]**.
 
-1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst te gebruiken en een standaard programmatic gegarandeerde plaatsing (PG) tot stand te brengen.
+1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst (of een 1x1 pixel voor uitgever beheerde advertenties) moeten gebruiken en creeer een standaard programmatic gewaarborgde plaatsing (PG).
 
    De standaardPG plaatsingen zorgen ervoor dat uw overeenkomst altijd een bod voor elke biedingsverzoek terugkeert. Als u geen standaardplaatsing van PG creeert, dan om het even welke plaatsen die de overeenkomst richten plaatsen geen biedingen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] weergave, standaard-PG-plaatsingen hebben een [!UICONTROL Sub-type] kolomwaarde van &quot;[!UICONTROL PG Default].&quot;
 
@@ -38,18 +38,19 @@ ht-degree: 0%
 
       1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie om voor de overeenkomst te gebruiken.
 
+      1. Voor door uitgevers beheerde advertenties wordt automatisch een pixel voor 1x1-tracking toegepast nadat de adverteerder en de campagne zijn geselecteerd.
+
       1. Klik op **[!UICONTROL Apply]**.
+
    1. In het scherm met plaatsingsinstellingen:
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Optioneel) Bewerk de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md), met inbegrip van het overschrijven van het standaardbod, dat automatisch wordt gevuld met de CPM-waarde van de transactie; het wijzigen van het datumbereik; of meer advertenties toevoegen.
+      1. (Optioneel) Bewerk de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md), inclusief het overschrijven van het standaardbod, dat automatisch wordt gevuld met de CPM-waarde van de overeenkomst, het wijzigen van het datumbereik of het toevoegen van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
       1. Klik op **[!UICONTROL Create placement]**.
-
-
 
 Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor veelvoudige plaatsen gebruiken.
 
@@ -63,13 +64,10 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 >
 >* Als de levering onderaan of overpakking is, contacteer uw uitgever om aan te passen hoeveel volume het door de overeenkomst verzendt.
 
-
 >[!MORELIKETHIS]
 >
 >* [Instellingen voor handmatige deal-id](deal-id-settings.md)
 >* [Opstelling een Programma Gegarandeerde Overeenkomst](programmatic-guaranteed-set-up.md)
 >* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
 >* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
-
-   <!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
-
+<!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
