@@ -3,9 +3,9 @@ title: Opstelling een Programma Gegarandeerde Overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: b1a772acbd9b934f2b4679d1111d56e1059e0cca
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Nadat u een programmatic gewaarborgde (PG) overeenkomst met een gesteunde uitgev
 >
 > Voor PG-deals verwerkt de uitgever alle budgettaire mogelijkheden, budgetplafonds en doelframes. Alle SSPs die PG door DSP toestaan bevestigen dat de uitgever begroting het begrenzen kan plaatsen.
 >
-> Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL FreeWheel]](freewheel-overview.md)&quot; voor meer informatie .
+> Door middel van programmacode gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL FreeWheel]](freewheel-overview.md)&quot; voor meer informatie .
 
 ## Opstelling een Programmatic Gegarandeerde Overeenkomst Gebruikend [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
@@ -28,13 +28,13 @@ De volgende methode heeft de voorkeur voor [!DNL FreeWheel], [!DNL Google Author
 
 1. [Accepteer de deal](deal-id-inbox-accept.md).
 
-1. Nadat u de overeenkomst opslaat, selecteer de advertenties die voor de overeenkomst zullen worden gebruikt en tot een programmatic gewaarborgde (PG) standaardplaatsing, zoals ertoe aangezet.
+1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever beheerde advertenties) die voor de overeenkomst zullen worden gebruikt en tot een programmatic gewaarborgde standaardplaatsing (PG) leiden, zoals ertoe aangezet.
 
    Het creëren van een standaardplaatsing van PG voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 
    * Als u één enkele overeenkomst goedkeurt, wordt u automatisch opnieuw gericht aan het werkschema van de de creatie van de plaatsing van PG gebrek.
 
-      Alles [!DNL FreeWheel] overeenkomsten worden voorgesteld als één enkele overeenkomst .
+     Alles [!DNL FreeWheel] overeenkomsten worden voorgesteld als één enkele overeenkomst .
 
    * Als u een voorstel met veelvoudige PG deal IDs goedkeurt, dan identificeer elke PG standaardplaatsing u moet creëren. Wanneer u alle vereiste plaatsingen hebt gemaakt, wordt de knop Doorgaan ingeschakeld.
 
@@ -48,7 +48,7 @@ Gebruik deze methode voor alle andere SSPs.
 
 1. [Handmatig de details van de deal-id instellen](deal-id-create.md).
 
-1. Nadat u sparen de overeenkomst, de advertenties selecteert die voor de overeenkomst zullen worden gebruikt en een PG standaardplaatsing, zoals ertoe aangezet creëren.
+1. Nadat u sparen de overeenkomst, de advertenties (of 1x1 het volgen pixel voor uitgever beheerde advertenties) selecteert die voor de overeenkomst zullen worden gebruikt en tot een standaardplaatsing van PG, zoals ertoe aangezet zullen leiden.
 
    Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 
@@ -65,4 +65,3 @@ Gebruik deze methode voor alle andere SSPs.
 >* [Handmatig details van deal-id maken](deal-id-create.md)
 >* [SSP-partners](ssp-partners.md)
 >* [Overzicht van voorraadfuncties](inventory-overview.md)
-
