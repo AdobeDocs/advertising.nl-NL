@@ -3,9 +3,9 @@ title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
 description: Leer hoe u een persoonlijke deal accepteert die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) die identiteitskaart Inbox van de Overeenkomst gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 7c681ab7-3051-451d-ab83-fc75bdd6eaad
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: c4816e7cebe9db2a344f7268ed5615bb672f387d
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Gebruik de [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te ke
 
 >[!NOTE]
 >
->Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)&quot; voor meer informatie .
+>Door middel van programmacode gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)&quot; voor meer informatie .
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -44,7 +44,7 @@ Gebruik de [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te ke
 
    1. Klik op **[!UICONTROL Save]**.
 
-1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
+1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie, of 1x1 het volgen pixel voor uitgever beheerde advertenties, voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
 
 Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in elke plaatsing [!UICONTROL Inventory Targeting] sectie.
 
@@ -55,4 +55,3 @@ Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID in
 >* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
 >* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
 >* [Overzicht van voorraadfuncties](inventory-overview.md)
-
