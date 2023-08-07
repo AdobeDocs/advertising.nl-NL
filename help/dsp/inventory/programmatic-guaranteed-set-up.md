@@ -3,9 +3,9 @@ title: Opstelling een Programma Gegarandeerde Overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
-source-git-commit: d5a291c8d1f464e1c22777512d29f4e041bb7988
+source-git-commit: f887524a22dd5d665dcfc38b1a4ce2a1242638d7
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Gebruik deze methode voor alle andere SSPs.
 
 1. [Handmatig de details van de deal-id instellen](deal-id-create.md).
 
-1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever-beheerde advertenties) die voor de overeenkomst zullen worden gebruikt en tot een standaardplaatsing van PG, zoals ertoe aangezet zullen leiden.
+1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 die pixel voor uitgever-beheerde advertenties volgen) die voor de overeenkomst zullen worden gebruikt en tot een standaardplaatsing van PG, zoals ertoe aangezet zullen leiden.
 
    Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 
