@@ -3,9 +3,9 @@ title: Opstelling een Programma Gegarandeerde Overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
-source-git-commit: 60676d8ef022d2ed61467d7254405695d5f106b3
+source-git-commit: d5a291c8d1f464e1c22777512d29f4e041bb7988
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ De volgende methode heeft de voorkeur voor [!DNL FreeWheel], [!DNL Google Author
 
 1. [Accepteer de deal](deal-id-inbox-accept.md).
 
-1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever beheerde advertenties) die voor de overeenkomst zullen worden gebruikt en tot een programmatic gewaarborgde standaardplaatsing (PG) leiden, zoals ertoe aangezet.
+1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever-beheerde advertenties) die voor de overeenkomst zullen worden gebruikt en tot een programmatic gewaarborgde standaardplaatsing (PG) leiden, zoals ertoe aangezet.
 
    Het creëren van een standaardplaatsing van PG voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 
@@ -48,7 +48,7 @@ Gebruik deze methode voor alle andere SSPs.
 
 1. [Handmatig de details van de deal-id instellen](deal-id-create.md).
 
-1. Nadat u sparen de overeenkomst, de advertenties (of 1x1 het volgen pixel voor uitgever beheerde advertenties) selecteert die voor de overeenkomst zullen worden gebruikt en tot een standaardplaatsing van PG, zoals ertoe aangezet zullen leiden.
+1. Nadat u de overeenkomst bewaart, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever-beheerde advertenties) die voor de overeenkomst zullen worden gebruikt en tot een standaardplaatsing van PG, zoals ertoe aangezet zullen leiden.
 
    Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
 

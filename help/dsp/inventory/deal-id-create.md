@@ -3,9 +3,9 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: 60676d8ef022d2ed61467d7254405695d5f106b3
+source-git-commit: d5a291c8d1f464e1c22777512d29f4e041bb7988
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    1. Klik op **[!UICONTROL Save]**.
 
-1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst (of 1x1 pixel voor uitgever beheerde advertenties) moeten gebruiken en creeer een standaard programmatic gewaarborgde plaatsing (PG).
+1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties die voor de overeenkomst (of 1x1 pixel voor uitgever-beheerde advertenties) moeten gebruiken en creeer een standaard programmatic gewaarborgde plaatsing (PG).
 
    De standaardPG plaatsingen zorgen ervoor dat uw overeenkomst altijd een bod voor elke biedingsverzoek terugkeert. Als u geen standaardplaatsing van PG creeert, dan om het even welke plaatsen die de overeenkomst richten plaatsen geen biedingen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] weergave, standaard-PG-plaatsingen hebben een [!UICONTROL Sub-type] kolomwaarde van &quot;[!UICONTROL PG Default].&quot;
 

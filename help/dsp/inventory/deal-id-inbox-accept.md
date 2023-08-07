@@ -3,9 +3,9 @@ title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
 description: Leer hoe u een persoonlijke deal accepteert die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) die identiteitskaart Inbox van de Overeenkomst gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 7c681ab7-3051-451d-ab83-fc75bdd6eaad
-source-git-commit: 60676d8ef022d2ed61467d7254405695d5f106b3
+source-git-commit: d5a291c8d1f464e1c22777512d29f4e041bb7988
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '310'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Gebruik de [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te ke
 
    1. Klik op **[!UICONTROL Save]**.
 
-1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie (of een 1x1 het volgen pixel voor uitgever beheerde advertenties) voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
+1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie (of een 1x1 het volgen pixel voor uitgever-beheerde advertenties) voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
 
 Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in elke plaatsing [!UICONTROL Inventory Targeting] sectie.
 
