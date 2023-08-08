@@ -3,9 +3,9 @@ title: Campagnes toewijzen aan een portfolio
 description: Leer hoe u campagnes opneemt in portfolio's voor optimalisatie.
 exl-id: ecf9f45f-5e90-4acb-a880-21fd8c96499d
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: a041b44550b56a01d817d8e1bc9d91a025a4e721
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '478'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Als u een campagne toewijst aan een geoptimaliseerde portfolio, kunt u met Zoeken, Sociaal en Handel biedingen en campagnebudgetten voor trefwoorden en advertenties in de campagne optimaliseren. U kunt campagnes toewijzen aan een portfolio vanuit het dialoogvenster [!UICONTROL Campaigns] weergeven, wanneer u het portfolio maakt of door de instellingen van een portfolio te bewerken.
 
-Niet alle campagneretypen en advertentienetwerken komen in aanmerking voor optimalisatie; zie een lijst van [ondersteunde typen campagne](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portfolio kunt opnemen. Bovendien verifieer de optimalisatiesteun voor elke strategie van de campagnebieding door &quot;In aanmerking komende Types van Portfolio door de Strategie van het Bod van de Campagne&quot;in het hoofdstuk van de Gids van de Optimalisering over &quot;het Beheren van Portfolio,&quot;te raadplegen die binnen Onderzoek, Sociale, &amp; Handel beschikbaar is.<!-- verify convention for referencing Optimization Guide here -->
+Niet alle campagneretypen en advertentienetwerken komen in aanmerking voor optimalisatie; zie een lijst van [ondersteunde typen campagne](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portfolio kunt opnemen. Bovendien verifieert u de optimalisatieondersteuning voor elke strategie voor campagneaanbiedingen door &quot;In aanmerking komende Portfolio types door strategie voor campagnebod&quot; te raadplegen in het hoofdstuk over &quot;Portfolio&quot; in de Optimalisatiegids, dat beschikbaar is vanuit Zoeken, Sociaal, &amp; Handel.<!-- verify convention for referencing Optimization Guide here -->
 
 >[!NOTE]
 >

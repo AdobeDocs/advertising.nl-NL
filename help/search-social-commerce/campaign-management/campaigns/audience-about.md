@@ -3,7 +3,7 @@ title: Informatie over publiek
 description: Meer informatie over opties voor bijhouden, maken en beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] publiek.
 exl-id: 34169650-9820-4b7d-9ae6-09ff8a8c6f2e
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 9f30518efbbe29f976298fe1fcd962182285679f
 workflow-type: tm+mt
 source-wordcount: '534'
 ht-degree: 0%
@@ -24,7 +24,7 @@ U kunt publiek tot stand brengen en leiden gebruikend segmenten of e-maillijsten
 
    * (Adverteerders met een Audience Manager-account) U kunt [!DNL Google Ads] klanten passen publiek aan gebruikend gebruiker - identiteitskaarts van de segmenten van de Audience Manager die Onderzoek, Sociale, &amp; Handel als bestemming hebben. Dit kunnen Adobe Analytics-segmenten omvatten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die zijn gemaakt met de Audience Library van Adobe Experience Cloud.
 
-  Als u een publiek wilt maken dat aansluit bij de overeenkomst, [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250). Ook, moet de adverteerderrekening in Onderzoek, Sociale, &amp; Handel worden gevormd om de verwezenlijking van klantengelijkenissen toe te staan.<!-- For Analytics audiences: Analytics Only Integration. For Audience Manager, Enable CM/CRM option) -->
+  Als u een publiek wilt maken dat aansluit bij de overeenkomst, [!DNL Google Ads] account moet [in aanmerking komend voor aangepaste match](https://support.google.com/adspolicy/answer/6299717) en heeft ervoor gekozen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250). Ook, moet de adverteerderrekening in Onderzoek, Sociale, &amp; Handel worden gevormd om de verwezenlijking van klantengelijkenissen toe te staan.
 
   [!DNL Adobe] gesegmenteerde gegevens en koekjessynchronisatiedossiers voor klant op gegevens-gebaseerd publiek worden gesynchroniseerd aan [!DNL Google Ads] dagelijks.
 

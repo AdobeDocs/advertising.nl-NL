@@ -3,9 +3,9 @@ title: Informatie over campagnebeheer in Zoeken, Sociale Zaken en Handel
 description: Meer informatie over functies voor campagnebeheer in Zoeken, Sociale media en Handel.
 exl-id: e6fca48d-1f6c-4d36-a10d-e1a5db859a37
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d23b5a3c56c35fc5abbeafde681b9f584bf1c905
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '805'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over te
 
 Voor [ondersteunde advertentienetwerken en campagneretypen](/help/search-social-commerce/introduction/supported-inventory.md), kunt u uw campagnes groeperen in portefeuilles, elk met een specifiek bedrijfsdoel en een specifiek begroting of prestatiesdoel. In standaardportfolio&#39;s optimaliseert Search, Social en Commerce CPC-trefwoordbiedingen en campagnebudgetten. Hybride portefeuilles combineren optimalisatietechnologieën van Onderzoek, Sociale, &amp; Handel en uw advertentienetwerken.
 
-Zie het hoofdstuk Optimalisatiegids over &quot;Portfolio beheren&quot;, dat beschikbaar is in Zoeken, Sociale &amp; Handel, voor meer informatie over de beschikbare portfolioopties en hoe u portfolio&#39;s kunt instellen.<!-- verify convention for referencing Optimization Guide here -->
+Zie het hoofdstuk Optimalisatiegids over &quot;Portfolio&quot;, dat beschikbaar is in Zoeken, Sociale &amp; Handel, voor meer informatie over de beschikbare portfolioopties en hoe u portfolio&#39;s kunt instellen.<!-- verify convention for referencing Optimization Guide here -->
 
 ## Weergaven van het campagnebeheer
 
