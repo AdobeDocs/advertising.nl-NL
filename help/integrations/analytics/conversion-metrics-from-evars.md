@@ -1,19 +1,19 @@
 ---
-title: Conversiemetriek maken van Adobe Analytics Vars en props
-description: Configureer aangepaste succesgebeurtenismetriek met behulp van gegevens op eVar- en prop-niveau.
+title: "Conversie-metriek maken van Adobe Analytics [!DNL eVars] en props"
+description: "Configureer aangepaste succesgebeurtenismetriek met [!DNL eVar]- en [!DNL prop]-level data."
 feature: Integration with Adobe Analytics, Conversions
-source-git-commit: d4f439ad23fc386bc85d95cc1291ec668ecf1cd2
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '410'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
-# Conversiemetriek maken van Adobe Analytics Vars en props
+# Conversie-metriek maken vanuit Adobe Analytics [!DNL eVars] en [!DNL props]
 
 *Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
 
-U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en handelscampagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt de metriek van de gebeurtenis van het douanesucces vormen gebaseerd op uw bestaand [!DNL Analytics] [eVars](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [props](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) door gegevens op eVar- en propniveau in een gebeurtenis te fungeren. Overige [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Handel.
+U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en handelscampagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt maatstaven voor aangepaste succesgebeurtenissen configureren op basis van [uw bestaande [!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [uw [!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) door middel van fundering [!DNL eVar]- en [!DNL prop]-level gegevens in een gebeurtenis. Overige [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Handel.
 
 ![Gebruiksvoorbeeld](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Gebruiksvoorbeeld")
 
@@ -43,17 +43,17 @@ De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytic
 
    1. [Een verwerkingsregel maken](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules.html?lang=en), met de volgende configuratie:
 
-      * Geef voor de voorwaarde waaraan moet worden voldaan, de vereiste eVars of props op.
+      * Geef voor de voorwaarde waaraan moet worden voldaan, de vereiste [!DNL eVars] of [!DNL props].
 
         U kunt zo nodig aanvullende niveaus van granulariteit configureren om ervoor te zorgen dat de meest nauwkeurige gebeurtenissen worden gemaakt.
 
         >[!TIP]
         >
-        >De beste manier is om slechts één eVar of rekwisiet te gebruiken.
+        >De beste manier is om slechts één [!DNL eVar] of [!DNL prop].
 
       * Selecteer bij de handeling **Gebeurtenis instellen** en selecteert u de gebeurtenis placeholder.
 
-   1. In [!DNL Analytics] [!DNL Analysis Workspace], [een project maken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) en trek de nieuwe gebeurtenis in een vrije vormlijst om ervoor te zorgen dat de gegevens voor eVar of pro metrisch bevolken.
+   1. In [!DNL Analytics] [!DNL Analysis Workspace], [een project maken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) en trek de nieuwe gebeurtenis in een vrije-vormlijst om ervoor te zorgen dat de gegevens voor [!DNL eVar] of [!DNL prop] metrisch.
 
 1. Neem contact op met het accountteam van Adobe om de nieuwe-waarde in Adobe Advertising te synchroniseren.
 

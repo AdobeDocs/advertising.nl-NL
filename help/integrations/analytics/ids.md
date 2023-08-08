@@ -1,53 +1,53 @@
 ---
-title: Adobe advertentie-id's gebruikt door [!DNL Analytics]
-description: Adobe advertentie-id's gebruikt door [!DNL Analytics]
+title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
+description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '1183'
+source-wordcount: '1180'
 ht-degree: 0%
 
 ---
 
-# Adobe advertentie-id&#39;s gebruikt door [!DNL Analytics]
+# Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]
 
-*Adverteerders met een Adobe Advertising-Adobe Analytics Integration Only*
+*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
 
 *Van toepassing op DSP en[!DNL Advertising Search, Social, & Commerce]*
 
-In advertentie voor Adobe worden twee id&#39;s gebruikt voor het on-site bijhouden van prestaties: de *EF-id* en de *AMO-id*.
+Adobe Advertising gebruikt twee id&#39;s voor het on-site bijhouden van prestaties: de *EF-id* en de *AMO-id*.
 
-Wanneer een advertentie-imitatie optreedt, maakt Adobe Advertising de AMO-id- en EF-id-waarden en worden deze opgeslagen. Wanneer een bezoeker die een advertentie heeft gezien, de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van de Reclame van de Adobe door [!DNL Analytics for Advertising] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `s_kwcid` en `ef_id` querytekenreeksparameters.
+Wanneer een advertentie-impositie optreedt, maakt Adobe Advertising de waarden voor AMO-id en EF-id en slaat deze op. Wanneer een bezoeker die een advertentie heeft gezien, de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van Adobe Advertising door [!DNL Analytics for Advertising] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `s_kwcid` en `ef_id` querytekenreeksparameters.
 
-Bij reclame in Adobe wordt een onderscheid gemaakt tussen een doorklikvermelding of een doorkijkitem op de website aan de hand van de volgende criteria:
+Bij de Adobe Advertising wordt aan de hand van de volgende criteria onderscheid gemaakt tussen een doorklikitem of een doorkijkitem op de website:
 
 * Een view-through ingang wordt gevangen wanneer een gebruiker de plaats na het bekijken van een advertentie bezoekt maar niet het klikt. [!DNL Analytics] registreert een mening-door als twee voorwaarden worden voldaan:
    * De bezoeker heeft geen doorklikken voor een [!DNL DSP] of [!DNL Search, Social, & Commerce] advertentie tijdens de [klik terugkijkvenster](#lookback-a4adc).
    * De bezoeker heeft minstens één [!DNL DSP] advertentie tijdens de [terugkijkvenster van indruk](#lookback-a4adc). De laatste indruk wordt doorgegeven als de doorkijkhoek.
 * Een doorklikitem wordt vastgelegd wanneer een sitebezoeker op een advertentie klikt voordat hij de site betreedt. [!DNL Analytics] vangt een klik-door wanneer één van beiden van de volgende voorwaarden voorkomt:
-   * De URL bevat een EF-id en een AMO-id die door Adobe Advertising aan de URL van de bestemmingspagina zijn toegevoegd.
-   * De URL bevat geen volgcodes, maar de JavaScript-code voor reclame van Adobe detecteert een klik in de laatste twee minuten.
+   * De URL bevat een EF-id en een AMO-id die via Adobe Advertising aan de URL van de bestemmingspagina zijn toegevoegd.
+   * De URL bevat geen volgcodes, maar de JavaScript-code van de Adobe Advertising detecteert een klik binnen de laatste twee minuten.
 
-![Op weergave gebaseerde Adobe-advertentie [!DNL Analytics] integratie](/help/integrations/assets/a4adc-view-through-process.png)
+![Op weergave gebaseerde Adobe Advertising [!DNL Analytics] integratie](/help/integrations/assets/a4adc-view-through-process.png)
 
-*Afbeelding 1: Op weergave gebaseerde Adobe-advertentie [!DNL Analytics] integratie*
+*Afbeelding 1: Op weergave gebaseerde Adobe Advertising [!DNL Analytics] integratie*
 
 ![Adobe Advertising klikken op URL [!DNL Analytics] integratie](/help/integrations/assets/a4adc-click-through-process.png)
 
 *Afbeelding 2: Adobe Advertising klikken op URL [!DNL Analytics] integratie*
 
-## EF-id&#39;s voor reclame Adobe
+## Adobe Advertising EF-id&#39;s
 
-De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. De EF-id wordt opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar (gereserveerde eVar) dimensie (Adobe Advertising EF ID) en houdt elke advertentie of belichting op het niveau van de afzonderlijke browser of het apparaat bij. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden [!DNL Analytics] gegevens aan Adobe Advertising voor rapportage en Bodoptimalisatie binnen Adobe Advertising.
+De EF-id is een unieke token die de Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. De EF-id wordt opgeslagen in [een [!DNL Analytics] [!DNL eVar]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of [!DNL rVar] (voorbehouden) [!DNL eVar]) (Adobe Advertising EF-id) en houdt elke muisklik of belichting op het niveau van de afzonderlijke browser of het apparaat bij. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden [!DNL Analytics] gegevens aan Adobe Advertising voor rapportage en optimalisering van biedingen binnen de Adobe Advertising.
 
 ### EF-id-indeling
 
 >[!NOTE]
 >
->EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] de implementatie dwingt URL-tracking tot kleine letters, waarna Adobe Advertising de EF-id niet herkent. Dit heeft gevolgen voor de Adobe-advertentiebiedingen en -rapportage, maar heeft geen invloed op de Adobe Advertising Reporting [!DNL Analytics].
+>EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] de implementatie forceert URL-tracking naar kleine letters en de Adobe Advertising herkent de EF-id dan niet. Dit heeft gevolgen voor de Adobe Advertising van biedingen en rapportage, maar heeft geen invloed op de rapportage van Adoben Advertising binnen [!DNL Analytics].
 
-#### [!DNL Google Ads] zoekadvertenties
+#### [!DNL Google Ads] zoekopdrachten
 
 ```
 {gclid}:G:s
@@ -77,7 +77,7 @@ waarbij:
 
 waarbij:
 
-* &lt;*Adobe ID advertentiebezoeker*> is een unieke id per bezoeker (zoals EhKVaAABCkJ0mDt). Wordt ook de *surfer-id*.
+* &lt;*Adobe Advertising-bezoeker-id*> is een unieke id per bezoeker (zoals EhKVaAABCkJ0mDt). Wordt ook de *surfer-id*.
 
 * &lt;*tijdstempel*> is de tijd in de notatie YYYYMMDDHHMMSS (zoals 20190821192533 voor 2019, maand 08, dag 21, tijd 19):25:33).
 
@@ -85,23 +85,23 @@ waarbij:
 
    * `d` voor een klik op een DSP (klik-door tonen)
    * `i` voor een indruk van een DSP (display view-through)
-   * `s` voor een klik op een zoekadvertentie (doorzoeken door te klikken).
+   * `s` voor een klik op een zoekadvertentie (doorzoekklik).
 
 Voorbeeld `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
 
-### De EF ID Dimension in [!DNL Analytics]
+### De EF ID-Dimension in [!DNL Analytics]
 
-In [!DNL Analytics] rapporten, kunt u EF-ID-gegevens vinden door te zoeken naar de [!UICONTROL EF ID] dimensie en het gebruik van de [!UICONTROL EF ID Instance] metrisch.
+In [!DNL Analytics] rapporten, kunt u EF-ID gegevens vinden door naar [!UICONTROL EF ID] dimensie en het gebruik van de [!UICONTROL EF ID Instance] metrisch.
 
 Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken in Analysis Workspace. Zodra de waarde van 500 k is bereikt, worden alle nieuwe volgcodes gerapporteerd onder de titel van één regel-item &quot;[!UICONTROL Low Traffic].&quot; Omdat het mogelijk is dat de rapportbetrouwbaarheid ontbreekt, worden de EF-id&#39;s niet geclassificeerd en mag u deze niet gebruiken voor segmenten of voor rapportage in [!DNL Analytics].
 
-## AMO-id&#39;s voor reclame Adobe
+## AMO-id&#39;s Adoben Advertising
 
 De AMO-id volgt elke unieke advertentiecombinatie op een minder granulair niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. De AMO-id is opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of de rVar-dimensie (AMO-id) en wordt uitsluitend gebruikt voor rapportage in [!DNL Analytics].
 
 De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DNL the squid].&quot;
 
-### AMO ID-indeling voor [!DNL DSP]
+### AMO-id-indeling voor [!DNL DSP]
 
 ```
 <Channel ID>!<Ad ID>!<Placement ID>
@@ -109,18 +109,18 @@ De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DN
 
 waarbij:
 
-* &lt;*Kanaal-id*> kan:
+* &lt;*Kanaal-id*> kan zijn:
 
    * `AC` = DSP
    * `AL` for [!DNL Advertising Search, Social, & Commerce]
 
-* &lt;*ID advertentie*> wordt gebruikt als unieke id voor een advertentie die is gegenereerd door Adobe Advertising. Het dient als sleutel voor het omzetten van metagegevens van Adobe Advertising entity in leesbaar [!DNL Analytics] afmetingen.
+* &lt;*ID advertentie*> wordt gebruikt als door de Adobe Advertising gegenereerde unieke id voor een advertentie. Het dient als sleutel voor het omzetten van de meta-gegevens van de Adobe Advertising entiteit in leesbaar [!DNL Analytics] afmetingen.
 
-* &lt;*Plaatsing-id*> is een unieke id die door advertenties van Adobe wordt gegenereerd voor een plaatsing. Het dient als sleutel voor het omzetten van metagegevens van Adobe Advertising entity in leesbaar [!DNL Analytics] afmetingen.
+* &lt;*Plaatsing-id*> is een door de Adobe Advertising gegenereerde unieke id voor een plaatsing. Het dient als sleutel voor het omzetten van de meta-gegevens van de Adobe Advertising entiteit in leesbaar [!DNL Analytics] afmetingen.
 
 Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO ID-indeling voor [!DNL Search, Social, & Commerce]
+### AMO-id-indeling voor [!DNL Search, Social, & Commerce]
 
 AMO-id&#39;s voor [!DNL Search, Social, & Commerce] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
 
@@ -131,12 +131,12 @@ AL!{userid}!{sid}
 waarbij:
 
 * `AL` is de kanaal-id voor het advertentienetwerk.
-* `{userid}` is de unieke numerieke gebruikersnaam die door Adobe Advertising aan de adverteerder wordt toegewezen.
+* `{userid}` Dit is de unieke numerieke gebruikersnaam die door de Adobe Advertising aan de adverteerder wordt toegewezen.
 * `{sid}` is de numerieke id die Adobe Advertising gebruikt voor het opgegeven advertentienetwerk, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
 
 Hieronder vindt u de volledige AMO-id-indelingen voor een aantal advertentienetwerken. Neem contact op met het accountteam van Adobe voor AMO ID-indelingen voor andere advertentienetwerken.
 
-AMO ID-indeling voor [!DNL Google Ads]:
+AMO-id-indeling voor [!DNL Google Ads]:
 
 ```
 AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
@@ -150,7 +150,7 @@ waarbij:
 * `{network}` Hiermee wordt het netwerk aangegeven vanwaar de klik heeft plaatsgevonden:  `g` for [!DNL Google] zoeken (alleen voor advertenties die op trefwoorden zijn gericht), `s` voor een zoekpartner (alleen voor advertenties die op trefwoorden zijn gericht), of `d` voor het Netwerk van de Vertoning (voor of sleutelwoord-gericht of plaatsing-gerichte advertenties).
 * `{keyword}` is of het specifieke sleutelwoord dat uw advertentie (op onderzoeksplaatsen) of het best-passende sleutelwoord (op inhoudsplaatsen) teweegbracht.
 
-AMO ID-indeling voor [!DNL Microsoft Advertising]:
+AMO-id-indeling voor [!DNL Microsoft Advertising]:
 
 ```
 AL!{userid}!{sid}!{AdId}!{OrderItemId}
@@ -169,10 +169,9 @@ Voor elke rapportage of controle binnen [!DNL Analytics]De beste manier is om de
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], [classificatie](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert RAW Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Type advertentie of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor de rapportage van Adobe-reclame in [!DNL Analytics] en kan worden gebruikt met de AMO-metriek, zoals [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions], en [!UICONTROL AMO Clicks]en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], en [!UICONTROL Revenue].
+In [!DNL Analytics], [classificatie](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. De Adobe Advertising categoriseert ruwe gegevens van de Adobe Advertising gebruikend classificaties zodat u de gegevens op verschillende manieren (zoals door het Type van Advertentie of Campagne) kunt tonen wanneer u rapporten produceert. Classificaties vormen de basis voor de rapportage van Adoben Advertising in [!DNL Analytics] en kan worden gebruikt met de AMO-metriek, zoals [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions], en [!UICONTROL AMO Clicks]en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], en [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >
 >* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
->* [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe-reclame](data-variances.md)
-
+>* [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising](data-variances.md)

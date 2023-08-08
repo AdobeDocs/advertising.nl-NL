@@ -3,9 +3,9 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: b730716565dfae9cb32556eaede1c3f29f316ac7
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '1196'
+source-wordcount: '1194'
 ht-degree: 0%
 
 ---
@@ -45,13 +45,13 @@ Primaire voordelen:
 
 Te gebruiken [!DNL Analytics] uw organisatie heeft als betaalmiddel voor mediarapportage een Experience Cloud-aanmelding met toegang tot Analysis Workspace nodig. Uw team van de Adobe Advertising zal u helpen om uw gegevens van de Adobe Advertising aan individuele rapportreeksen in Analysis Workspace in kaart te brengen. U kunt de gegevens van de Adobe Advertising naar om het even welke rapportreeks verzenden, maar u zou van de rapportsuites op de hoogte moeten zijn die aan Adobe Advertising en die in kaart zijn gebracht die niet hebben. Afhankelijk van de rapportsuite kunnen de gerapporteerde gegevens hierdoor worden gewijzigd.
 
-[Adobe Advertising-id&#39;s binnen [!DNL Analytics]](ids.md) werkt zoals andere eVars, met een aangepaste, blijvende vervaldatum. Standaard wordt het terugzoekvenster voor toewijzing ingesteld op 60 dagen tijdens de implementatie van de Adobe Advertising. U kunt deze instelling wijzigen door met het accountteam van uw Adobe te werken.
+[Adobe Advertising-id&#39;s binnen [!DNL Analytics]](ids.md) werken zoals andere [!DNL eVars], met een aangepaste, blijvende vervaldatum. Standaard wordt het terugzoekvenster voor toewijzing ingesteld op 60 dagen tijdens de implementatie van de Adobe Advertising. U kunt deze instelling wijzigen door met het accountteam van uw Adobe te werken.
 
 De afmetingen van de Adobe Advertising worden toegevoegd met het achtervoegsel &quot;(AMO-id)&quot; (zoals &quot;Advertentietype (AMO-id)&quot;). Zie &quot;[Adoben Advertising in Analysis Workspace](advertising-metrics-in-analytics.md)&quot; voor een lijst van de beschikbare afmetingen.
 
 >[!NOTE]
 >
-> Wanneer u de gegevens van de Adobe Advertising (of om het even welke gegevensreeks) binnen bekijkt [!DNL Analytics], moet u er rekening mee houden dat metriek en rapporten zijn gebaseerd op de regels die zijn ingesteld binnen [!DNL Analytics]. De gegevens kunnen anders zijn dan wat u ziet in andere rapportsystemen, zoals advertentierapporten. [!DNL DSP] rapporten of rapporten van zoekmachines. Om inzicht te krijgen in de gegevensverschillen in [!DNL Analytics]Bovendien moet u weten wanneer de gegevens van de eVar verlopen, wat een bezoek bepaalt, wat als laatste aanraakattributie tegenover totale persisterende attributie wordt beschouwd, en andere factoren. Zie voor meer informatie [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising](data-variances.md).
+> Wanneer u de gegevens van de Adobe Advertising (of om het even welke gegevensreeks) binnen bekijkt [!DNL Analytics], moet u er rekening mee houden dat metriek en rapporten zijn gebaseerd op de regels die zijn ingesteld binnen [!DNL Analytics]. De gegevens kunnen anders zijn dan wat u ziet in andere rapportsystemen, zoals advertentierapporten. [!DNL DSP] rapporten of rapporten van zoekmachines. Om inzicht te krijgen in de gegevensverschillen in [!DNL Analytics], moet u weten wanneer [!DNL eVar] gegevens verlopen, wat een bezoek bepaalt, wat als laatste aanraking tegenover totale persisterende attributie wordt beschouwd, en andere factoren. Zie voor meer informatie [Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising](data-variances.md).
 
 ## Analyses gebruiken voor Power Adobe Advertising-campagnes en -Portfolio
 
@@ -84,7 +84,7 @@ Zie &quot;[Analytische gegevens in Adobe Advertising](analytics-data-in-advertis
 
 Adobe Advertising kan worden opgenomen [!DNL Analytics] segmenten voor het opnieuw in de handel brengen van DSP en [!DNL Search, Social, & Commerce] advertenties die gebruikmaken van de native Experience Cloud-publieksintegratie tussen [!DNL Analytics] en Experience Cloud.
 
-Als u toegang wilt krijgen tot [!DNL Analytics] segmenten, moet een adverteerderaccount de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) ingeschakeld. Wanneer de Dienst van identiteitskaart wordt toegelaten, alle segmenten van Experience Cloud (met inbegrip van segmenten die in worden gecreeerd [!DNL Analytics] en gepubliceerd naar Experience Cloud, in Adobe Audience Manager gemaakte segmenten, in Experience Cloud gemaakte segmenten met behulp van de [!DNL People core service]en segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden), worden in de Adobe Advertising beschikbaar zodra ze worden verwerkt.
+Als u toegang wilt krijgen tot [!DNL Analytics] segmenten, moet een adverteerderaccount de [Experience Cloud ID-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) ingeschakeld. Wanneer de Dienst van identiteitskaart wordt toegelaten, alle segmenten van Experience Cloud (met inbegrip van segmenten die in worden gecreeerd [!DNL Analytics] en gepubliceerd naar Experience Cloud, segmenten die in Adobe Audience Manager zijn gemaakt, segmenten die in Experience Cloud zijn gemaakt met de [!DNL People core service]en segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden), worden in de Adobe Advertising beschikbaar zodra ze worden verwerkt.
 
 [!DNL Analytics] segmenten zijn binnen 24 uur beschikbaar en worden dagelijks bijgewerkt.
 

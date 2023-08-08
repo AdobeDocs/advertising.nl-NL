@@ -3,9 +3,9 @@ title: '''[!DNL Analytics] Gegevens in Adobe Advertising"'
 description: '''[!DNL Analytics] Gegevens in Adobe Advertising"'
 feature: Integration with Adobe Analytics
 exl-id: e11b0617-44e3-4f28-a065-aa9f6cf3eb5d
-source-git-commit: b382184072af88273570fc045d0bcebe24ed81fb
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '341'
+source-wordcount: '335'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 
 >[!NOTE]
 >
->* [!DNL Analytics] geeft gebeurtenissen voor de EF-id-eVar door aan Adobe Advertising.  De standaardintegratie ondersteunt niet het verzenden van berekende metriek of andere dimensies (eVars) naar Adobe Advertising. Als de berekende metrisch volledig in een douanegebeurtenis kan worden gevangen, echter, dan kan de Adobe Advertising de douanegebeurtenis opnemen.
+>* [!DNL Analytics] geeft gebeurtenissen door voor de EF-id [!DNL eVar] in Adobe Advertising.  De standaardintegratie ondersteunt niet het verzenden van berekende metriek of andere dimensies ([!DNL eVars]) in de Adobe Advertising. Als de berekende metrisch volledig in een douanegebeurtenis kan worden gevangen, echter, dan kan de Adobe Advertising de douanegebeurtenis opnemen.
 >* [!DNL Analytics] geeft gegevens door aan Adobe Advertising uur.
 
 * [!UICONTROL Timespent_secs_1stvisit]: Het aantal seconden dat de bezoeker tijdens zijn eerste bezoek aan de site heeft doorgebracht.
@@ -56,9 +56,9 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 
 Deze metriek is specifiek voor de rapportreeks, zodat variëren de beschikbare metriek voor elke klant en rapportreeks.
 
-### Aangepaste omzettingsmaatstaven gemaakt op basis van eVars en Props
+### Aangepaste omzettingsstatistieken gemaakt van [!DNL eVars] en [!DNL Props]
 
-De beschikbare meetgegevens variëren per klant. Zie &quot;[Conversiemetriek maken van Adobe Analytics Vars en props](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
+De beschikbare meetgegevens variëren per klant. Zie &quot;[Conversiemetriek maken van Adobe Analytics [!DNL eVars] en [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
 
 ### Gereserveerde omzettingsstatistieken
 

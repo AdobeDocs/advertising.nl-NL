@@ -4,9 +4,9 @@ user-guide-description: Meer informatie over de integratie van DSP en advertenti
 breadcrumb-title: Integraties met Experience Cloud
 role: User, Developer
 index: true
-source-git-commit: 6f486ac4664ff58813d55c9c09a2d59b6bd47473
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '203'
 ht-degree: 12%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 12%
       + [Adobe Advertising-id&#39;s gebruiken om te maken [!DNL Marketing Channels] Verwerkingsregels](/help/integrations/analytics/marketing-channels/mc-ids.md)
       + [Gebruiken [!DNL Marketing Channels] met Adobe Advertising-gegevens](/help/integrations/analytics/marketing-channels/mc-ac-data.md)
       + [Waarom kanaalgegevens kunnen variëren tussen Adobe Advertising en [!DNL Marketing Channels]](/help/integrations/analytics/marketing-channels/mc-data-variances.md)
-   + [Conversiemetriek maken van Adobe Analytics Vars en props](/help/integrations/analytics/conversion-metrics-from-evars.md)
+   + [Conversiemetriek maken van Adobe Analytics [!DNL eVars] en [!DNL props]](/help/integrations/analytics/conversion-metrics-from-evars.md)
 + Integratie met Adobe Audience Manager {#audience-manager}
    + [Integratie van Adobe Advertising met Adobe Audience Manager](/help/integrations/audience-manager/overview.md)
    + [Segmenten Audience Manager importeren naar Adobe Advertising](/help/integrations/audience-manager/import-audiences.md)

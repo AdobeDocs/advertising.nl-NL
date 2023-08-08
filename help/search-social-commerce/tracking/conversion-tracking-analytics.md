@@ -3,9 +3,9 @@ title: Adobe Analytics-conversie bijhouden
 description: Meer informatie over het bijhouden van Adobe Analytics-conversies voor je campagnes in Adobe Advertising.
 exl-id: 0ed1d059-829a-4090-950d-41cbcc27b3ac
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Zie &quot;[Overzicht van [!DNL Analytics for Advertising]](https://experiencelea
 
 1. In [!DNL Analytics], wijzigt uw de implementatieteam van het Onderzoek, Sociale, &amp; van de Handel de volgende configuratiemontages voor elke rapportreeks:
 
-   * De vervaldatum voor de `ef_id` De eVar wordt gewijzigd zodat deze overeenkomt met het venster voor het terugzoeken van adverteerders naar de Adobe Advertising.
+   * De vervaldatum voor de `ef_id` [!DNL eVar] wordt gewijzigd zodat deze overeenkomt met het venster voor terugzoeken van adverteerders voor Adobe Advertising.
 
    * De gebruikers-id van de Adobe Advertising.
 
