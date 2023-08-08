@@ -2,9 +2,9 @@
 title: "Conversie-metriek maken van Adobe Analytics [!DNL eVars] en props"
 description: "Configureer aangepaste succesgebeurtenismetriek met [!DNL eVar]- en [!DNL prop]-level data."
 feature: Integration with Adobe Analytics, Conversions
-source-git-commit: f6f3e0b3cc867b817ce40c7ba06c76885948edbe
+source-git-commit: 71ffd021b31154a2ed2a522049f656a13d364d00
 workflow-type: tm+mt
-source-wordcount: '397'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 *Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
 
-U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en handelscampagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt maatstaven voor aangepaste succesgebeurtenissen configureren op basis van [uw bestaande [!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [[!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) door middel van fundering [!DNL eVar]- en [!DNL prop]-level gegevens in een gebeurtenis. Overige [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Handel.
+U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en handelscampagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt de metriek van de gebeurtenis van het douanesucces vormen gebaseerd op uw bestaand [[!DNL Analytics] [!DNL eVars]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [[!DNL props]](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) door middel van fundering [!DNL eVar]- en [!DNL prop]-level gegevens in een gebeurtenis. Overige [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Handel.
 
 ![Gebruiksvoorbeeld](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Gebruiksvoorbeeld")
 
@@ -35,7 +35,7 @@ De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytic
 
    U hoeft de nieuwe gebeurtenis niet te implementeren op de website van uw merk omdat er bestaande gegevens worden gebruikt die al zijn vastgelegd.
 
-1. Een verwerkingsregel maken in [!DNL Analytics]:
+1. Een verwerkingsregel maken en valideren in [!DNL Analytics]:
 
    >[!NOTE]
    >
