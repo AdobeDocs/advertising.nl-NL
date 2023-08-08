@@ -2,7 +2,7 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: 201eb485e196dc0823dd6d592f67f62122c214b1
 workflow-type: tm+mt
 source-wordcount: '870'
 ht-degree: 0%
@@ -31,32 +31,32 @@ ht-degree: 0%
 
 Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke id van de organisatie voor Experience Cloud. U kunt specifieke productintegratie configureren in de [!UICONTROL Integrations] sectie.
 
-**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben gekregen via een Experience Cloud-account met meerdere adverteerders; (optioneel) De Experience Cloud-organisatie-id van de adverteerder.
+**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben via een Experience Cloud-account met meerdere adverteerders; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met rechtstreekse licenties voor extra Experience Cloud-producten; (optioneel) De Experience Cloud-organisatie-id van de adverteerder.
+**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met directe licenties voor extra Experience Cloud-producten; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
 ### [!UICONTROL Integrations]
 
-(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP account. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
+(Optioneel) Aanvullende Experience Cloud-producten die aan de DSP-account zijn gekoppeld. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
 
 **[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising conversiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
-**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders bij Adobe Analytics; facultatief; alleen van toepassing op gegevens die zijn verzameld met behulp van codes voor het bijhouden van Adoben Advertising die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders met Adobe Analytics; optioneel; alleen van toepassing op gegevens die zijn verzameld met tags voor het bijhouden van Adoben Advertising die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
 
-Om de gegevens in de rapportsuites te verschijnen, [!DNL Search, Social, & Commerce] instelling op adverteerderniveau op &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Bovendien [!DNL Analytics] account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
+Voor de gegevens die in de rapportagesets moeten worden opgenomen, moet [!DNL Search, Social, & Commerce] De instelling op adverteerderniveau moet zijn ingeschakeld. Bovendien is de adverteerder [!DNL Analytics] account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
 
 >[!WARNING]
 >
 >Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP geen gegevens meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
 
-Meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
+Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
-**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; (optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
 
-* Audience Manager-segmenten
+* Audience Managers
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
 * Segmenten die zijn gemaakt met de Adobe Experience Cloud [!DNL Audience Library]
-* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising worden verzonden
+* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden
 
 De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-time gesynchroniseerd met een vertraging van 1 tot 2 seconden.
 <!-- I don't think this is true anymore:
@@ -82,7 +82,7 @@ U kunt naar keuze standaarddoelstellingen voor de nieuwe plaatsen van de adverte
 
 #### [!UICONTROL Contextual Filtering]
 
-Typen [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. U kunt de instellingen op adverteerderniveau overschrijven in het dialoogvenster [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md).
+Typen [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] contextuele filters die moeten worden toegepast. U kunt de instellingen op adverteerderniveau overschrijven in het dialoogvenster [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md).
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-context}
 
@@ -122,21 +122,21 @@ Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en v
 
 #### [!UICONTROL Ads.text]
 
-**[!UICONTROL Ads.txt Filtering]:** Standaard, welk niveau van [[!DNL Ads.txt] filteren vóór bod](https://iabtechlab.com/ads-txt-about/) te gebruiken door gebruik te maken van de [!DNL Authorized Digital Sellers] lijst:
+**[!UICONTROL Ads.txt Filtering]:** Standaard, welk niveau van [[!DNL Ads.txt] filteren vóór bod](https://iabtechlab.com/ads-txt-about/) te gebruiken door gebruik te maken van elke uitgever [!DNL Authorized Digital Sellers] lijst:
 * *[!UICONTROL Opt out of ads.txt (default)]*: Winkel kopen van alle verkopers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: Prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers in een domein.
-* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers en wederverkopers in een domein.
-* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers van een domein.
+* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
+* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen van geautoriseerde directe verkopers van een domein.
 
 U kunt de instelling op adverteerderniveau overschrijven in het dialoogvenster [plaatsingsniveau](/help/dsp/campaign-management/placements/placement-settings.md).
 
 #### [!UICONTROL Safe Site Block]
 
-**[!UICONTROL Enable Site Safety Block]:** Door gebrek, laat een filter in real time, post-bieder toe om ervoor te zorgen dat de advertenties op de plaatsen dienen die de adverteerder richt. <!-- Can remove this: Users can enable or disable the feature for each placement. I don't see this option, but I should probably verify. If this can't be edited at placement level, then remove "By default." If it can, say that you can override at placement level. -->
+**[!UICONTROL Enable Site Safety Block]:** Hiermee wordt standaard een filter in real time en na het bieden ingeschakeld, zodat advertenties worden gebruikt op de sites waarop de adverteerder zich richt. <!-- Can remove this: Users can enable or disable the feature for each placement. I don't see this option, but I should probably verify. If this can't be edited at placement level, then remove "By default." If it can, say that you can override at placement level. -->
 
 #### [!UICONTROL DoubleVerify Authentic Brand Safety]
 
-**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] alleen klanten; (facultatief) De merkveiligheidssegment-id verbonden aan de organisatie [!DNL DoubleVerify] account.
+**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] alleen klanten; facultatief) De merkveiligheidssegment-id die aan de organisatie is gekoppeld [!DNL DoubleVerify] account.
 
 **[!UICONTROL Enable Authentic Brand Safety]:** (Optioneel) Schakelt standaard [!DNL DoubleVerify] Authentic Brand Safety, die indrukkingen na het bieden blokkeert met behulp van de aangepaste merkveiligheidsregels die voor de opgegeven segment-id zijn geconfigureerd. DSP uw account aan voor gebruik van de segment-id.
 
