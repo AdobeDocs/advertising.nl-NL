@@ -2,9 +2,9 @@
 title: Hulp vragen
 description: Leer hoe u de online Help en gemeenschapsbronnen kunt bekijken en hoe u technische ondersteuning kunt krijgen.
 exl-id: 956117ea-9e3e-4ee0-b6cf-67ee5f2bc77a
-source-git-commit: e0bcead14a3638ee013925336b38382ab205d69d
+source-git-commit: 56d6c890616c23ec64234705d84dddb41442eb87
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '262'
 ht-degree: 0%
 
 ---
@@ -29,15 +29,14 @@ U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem 
 
 Zoek naar antwoorden op uw vragen in de [Forums van de Adobe Advertising](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising-cloud/ct-p/adobe-advertising-cloud-community).
 
-## Contact Adobe
+## Contact [!DNL Adobe]
 
-| Voor.. | Contact opnemen op |
-| ---- | ---- |
-| Problemen met producten of accounts voor zoeken, sociale zaken en handel | Neem contact op met het accountteam van uw Adobe. |
-| Feedback op Zoeken, Sociale Zaken en Handel | Klik in het bovenste menu op ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, voer uw bericht in en klik op **[!UICONTROL Send Feedback]**. |
+Voer een van de volgende twee handelingen uit voor problemen met producten of accounts in het vak Zoeken, Sociaal en Handel:
 
-### Informatie die moet worden opgenomen voor productkwesties
+* Neem contact op met het accountteam van uw Adobe.
 
-Geef gedetailleerde stappen op om het probleem te reproduceren, de naam en de versie van de browser, relevante gegevens en informatie over voorlopige probleemoplossing die u hebt uitgevoerd.
+* Klik in het bovenste menu op ![Help](/help/search-social-commerce/assets/help-main-menu.png "Help") > **[!UICONTROL Provide Feedback]**, voer uw bericht in en klik op **[!UICONTROL Send Feedback]**. |
+
+Geef gedetailleerde stappen op om het probleem te reproduceren, relevante gegevens en informatie over voorlopige probleemoplossing die u hebt uitgevoerd. Als u het probleem aan uw Adobe Account Team meldt, omvat ook de browser naam en versie.
 
 Voor rapportkwesties, schrap niet het rapport, en verstrek de rapportnaam en URL.
