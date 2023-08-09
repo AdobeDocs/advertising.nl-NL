@@ -3,7 +3,7 @@ title: Integratie met Adobe Experience Cloud-oplossingen en -services
 description: Leer over de integratie van Zoeken, Sociale Zaken & Handel met de oplossingen en de diensten van Adobe Experience Cloud.
 exl-id: e8b521f5-f426-4c50-9df4-361a047c9ff0
 feature: Search Introduction
-source-git-commit: b730716565dfae9cb32556eaede1c3f29f316ac7
+source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Zoeken naar advertenties, sociale zaken en handel is geïntegreerd met het volge
 
      >[!NOTE]
      >
-     >Standaard worden de [!DNL Analytics] metriek zijn niet zichtbaar in de schermen Zoeken, Sociale Zaken en Handel. U moet expliciet [stelt de metriek beschikbaar in de meningen, de portefeuilles, en de rapporten van het campagnebeheer](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) na de [!DNL Adobe] Het implementatieteam heeft geselecteerde standaard- of aangepaste gebeurtenissen geconfigureerd om over te gaan naar de Adobe Advertising. U kunt de weergegeven metrische namen desgewenst wijzigen (zonder ze te wijzigen in [!DNL Analytics]). U kunt metriek viewable in UI maken en metriek anders noemen van [!UICONTROL Admin] > [!UICONTROL Transaction Properties].
+     >Standaard worden de [!DNL Analytics] metriek zijn niet zichtbaar in de schermen Zoeken, Sociale Zaken en Handel. U moet expliciet [stelt de metriek beschikbaar in de meningen, de portefeuilles, en de rapporten van het campagnebeheer](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) na de [!DNL Adobe] Het implementatieteam heeft geselecteerde standaard- of aangepaste gebeurtenissen geconfigureerd om over te gaan naar de Adobe Advertising. U kunt de weergegeven metrische namen desgewenst wijzigen (zonder ze te wijzigen in [!DNL Analytics]). U kunt metriek viewable in UI maken en metriek anders noemen van [!UICONTROL Admin] > [!UICONTROL Conversions].
 
    * Adverteerders met [!DNL Analytics] maar Audience Manager kan niet [maken [!DNL Google Ads] publiek klantovereenkomst](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) van [!DNL Analytics] segmenten die met Adobe Experience Cloud worden gedeeld. Om in aanmerking te komen moet een adverteerder de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) en implementeert u een tag op de websites. Vervolgens kunt u het publiek gebruiken in [!DNL Google Ads] campagnes op campagneniveau of op groepsniveau [streefdoelen](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md) of [uitsluitingen](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md).
 

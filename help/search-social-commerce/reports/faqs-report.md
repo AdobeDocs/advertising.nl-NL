@@ -3,7 +3,7 @@ title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
 feature: Search Reports
-source-git-commit: 68fb5d737b76e7b388f15a2fdd1f57ce9cd6a3e2
+source-git-commit: 2903bf783969b3e2d59c0933629cbb170c0a314c
 workflow-type: tm+mt
 source-wordcount: '3912'
 ht-degree: 0%
@@ -168,7 +168,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag zo nodig uw accountteam van Adobe om een testtransactie te maken voor elke toepasselijke conversietag en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
 
@@ -196,7 +196,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Voer de [!UICONTROL Portfolio Report]. Als het leeg is, voert u de [!UICONTROL Campaign Report] en [!UICONTROL Search Engine Report] om na te gaan of de ontvangsten in deze verslagen voorkomen. Als dat het geval is, worden de campagnes mogelijk niet toegewezen aan de juiste portefeuille.
 

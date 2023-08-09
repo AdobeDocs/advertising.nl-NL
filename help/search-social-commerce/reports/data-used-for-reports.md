@@ -3,7 +3,7 @@ title: De gegevens die voor rapporten worden gebruikt
 description: Leer meer over de verschillende typen gegevens die beschikbaar zijn in gegevensweergaven en aangepaste rapporten.
 exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
 feature: Search Reports
-source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
+source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Search, Social &amp; Commerce bevat een uitgebreide reeks prestatierapporten die zijn gebaseerd op klik- en conversiegegevens. U kunt elementaire prestatiegegevens voor de verschillende componenten van een portfolio of advertentieaccount bekijken via het tabblad [!UICONTROL Portfolios] en [!UICONTROL Campaigns] en door verschillende basis - en geavanceerd - rapporten op te stellen .
 
-Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [omzettingsmetrisch](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het Adobe Account Team heeft toegang tot alle rapporten.
+Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [omzettingsmetrisch](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het Adobe Account Team heeft toegang tot alle rapporten.
 
 De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u wilt zien. De volgende standaardmetriek is beschikbaar in de meeste rapporten en op het advertentieniveau berekend:
 

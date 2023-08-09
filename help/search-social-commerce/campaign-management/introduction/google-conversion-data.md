@@ -2,10 +2,10 @@
 title: '[!DNL Google Ads] conversiegegevens'
 description: Meer informatie over de typen [!DNL Google Ads]-tracked conversion data available in Search, Social, & Commerce.
 exl-id: a7ee8e72-aa7d-4e90-b765-b7b01308762d
-feature: Search Campaign Management
-source-git-commit: b730716565dfae9cb32556eaede1c3f29f316ac7
+feature: Search Campaign Management, Conversions
+source-git-commit: af32aea1c50edb6b22b0b15c920cb8c2dcdc37e9
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '668'
 ht-degree: 0%
 
 ---
@@ -22,6 +22,16 @@ Met Zoeken, Sociaal en Handel worden gegevens gesynchroniseerd voor conversies w
 
 Tot drie metriek voor elk [[!DNL Google Ads]-trackconversie](https://support.google.com/google-ads/answer/4677036) (die u hebt ingesteld in [!DNL Google Ads]) automatisch beschikbaar zijn in Zoeken, Sociale Zaken, &amp; Handel, gebruikend de omzettingsnamen binnen [!DNL Google Ads]. De meetgegevens voor elke omzetting omvatten:
 
+<!--
+
+* `<conversion-name>` &mdash; (When you track it) The conversion value for the keyword, beginning with the "GGL" prefix (such as GGL Purchase).
+
+`CT_<conversion-name>` &mdash; The number (count) of conversions, beginning with the "GGL_CT" prefix (such as GGL_CT_Purchase).
+
+* `XD_<conversion-name>` &mdash; (When available for the conversion type, when you track them) The number (count) of cross-device conversions, as measured by Google, beginning with the "GGL_XD_CT_" prefix (such as GGL_XD_CT_Purchase).
+
+-->
+
 * `GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals GL Purchase).
 
 * `GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).
@@ -32,7 +42,7 @@ Tot drie metriek voor elk [[!DNL Google Ads]-trackconversie](https://support.goo
 
 >[!NOTE]
 >
->* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in de Adobe Advertising. Als dit gebeurt, [de weergavenaam wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) voor een van de dubbele meetwaarden in [!UICONTROL Admin] > [!UICONTROL Transaction Properties]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
+>* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in de Adobe Advertising. Als dit gebeurt, [de weergavenaam wijzigen](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md voor een van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
 >* Gegevens op inschrijvingsniveau komen overeen met gegevens in [!DNL Google Ads] op hetzelfde niveau. Maar [!DNL Google Ads]De eigen omzettingsgegevens voor hogere niveaus kunnen extra omzettingen omvatten die niet aan de eenheden van het kindbod worden toegeschreven. Gegevens in Zoeken, Sociaal, &amp; Handel worden altijd opgevoerd vanaf het niveau van de biedingseenheid, zodat bijvoorbeeld een campagnerapport mogelijk niet dezelfde totalen heeft als een campagnerapport in Google Ads.
 >* De variantie van gegevens is typisch minder na de ochtendsynchronisatie dan het later op de dag is, wanneer de extra omzettingen nog niet zijn gesynchroniseerd. We raden u aan &#39;s ochtends gegevens te valideren.
 >* Conversiegegevens zijn niet beschikbaar voor [!DNL Google Display Network], [!DNL Gmail], [!DNL Mobile App], en [!DNL YouTube] advertenties. Filter deze soorten advertenties uit wanneer u gegevens vergelijkt in [!DNL Google Ads] met gegevens in Zoeken, Sociaal, &amp; Handel.
@@ -94,4 +104,5 @@ In Onderzoek, Sociale, &amp; Handel, gebruik de mening of rapportoptie om omzett
 >
 >* [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](campaign-implemention-overview.md)
 >* [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](monitor-performance-campaigns.md)
->* [De transactieeigenschappen weergeven die voor een adverteerder zijn bijgehouden](/help/search-social-commerce/admin/transaction-properties/transaction-property-view-tracked.md)
+>* [De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [Een conversietag maken voor [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)

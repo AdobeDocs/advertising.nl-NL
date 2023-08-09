@@ -4,7 +4,7 @@ description: Leer hoe te om een gegevensbron van een te vormen [!DNL Google Anal
 role: User, Admin
 exl-id: 583cf9aa-861c-4faf-a707-1def4e983b93
 feature: Search Admin, Search Data Sources
-source-git-commit: b730716565dfae9cb32556eaede1c3f29f316ac7
+source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -65,7 +65,7 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
 
    De gegevensbron krijgt de naam &quot;AccountName > PropertyName > ViewName&quot; en wordt automatisch geactiveerd. Als u de gegevensbron wilt onderbreken, raadpleegt u &quot;[Een feed onderbreken vanuit een gegevensbron](data-source-pause.md).&quot;
 
-   De metriek zijn beschikbaar de volgende dag na voltooiing van de dagelijkse gegevenssynchronisatie, die om 05:00 in de tijdzone van de adverteerder begint. Zodra de metriek beschikbaar zijn, zijn zij zichtbaar in [[!UICONTROL Admin] > [!UICONTROL Transaction Properties]](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md). Elke nieuwe omzettingsmetrische waarde krijgt de naam &quot;`ga:backEndMetricName_propertyID_viewID`,&quot; waarbij &quot;backEndMetricName&quot; de metrische naam is die door de API wordt gebruikt. De weergavenaam van elke nieuwe omzettingsmetrische waarde is &quot;`friendlyMetricName_ga:MetricTag`,&quot; waarbij &quot;VriendelijkeMetricName&quot; de metrische naam is die wordt weergegeven in [!DNL Google Analytics] en &quot;MetricTag&quot; is de [!UICONTROL Metric Tag] gedefinieerd in de gegevensbroninstellingen.
+   De metriek zijn beschikbaar de volgende dag na voltooiing van de dagelijkse gegevenssynchronisatie, die om 05:00 in de tijdzone van de adverteerder begint. Zodra de metriek beschikbaar zijn, zijn zij zichtbaar in [[!UICONTROL Admin] > [!UICONTROL Conversions]](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md). Elke nieuwe omzettingsmetrische waarde krijgt de naam &quot;`ga:backEndMetricName_propertyID_viewID`,&quot; waarbij &quot;backEndMetricName&quot; de metrische naam is die door de API wordt gebruikt. De weergavenaam van elke nieuwe omzettingsmetrische waarde is &quot;`friendlyMetricName_ga:MetricTag`,&quot; waarbij &quot;VriendelijkeMetricName&quot; de metrische naam is die wordt weergegeven in [!DNL Google Analytics] en &quot;MetricTag&quot; is de [!UICONTROL Metric Tag] gedefinieerd in de gegevensbroninstellingen.
 
    U kunt de metriek aan campagnebeheer en portefeuillebeheermeningen, rapporten, en optimaliseringsdoelstellingen direct toevoegen.
 

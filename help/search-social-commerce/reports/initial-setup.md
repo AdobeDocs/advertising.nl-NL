@@ -3,9 +3,9 @@ title: De eerste instellingstaken voor rapporten
 description: Leer hoe u metriek beschikbaar maakt in rapporten en hoe u rapporten automatiseert.
 exl-id: 0f55aae9-6898-4967-a377-190a13dff6fd
 feature: Search Reports
-source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
+source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Nieuwe gebruikers moeten de volgende initiële instellingstaken uitvoeren:
 
-* De conversiemetriek maken die de Adobe Advertising volgt voor een adverteerder [beschikbaar voor rapporten en andere weergaven](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-available.md)en optioneel [naam van conversiewaarden wijzigen](/help/search-social-commerce/admin/transaction-properties/transaction-property-edit-display-name.md) die worden weergegeven in kolomkoppen voor leesbaarheid.
+* De conversiemetriek maken die de Adobe Advertising volgt voor een adverteerder [beschikbaar voor rapporten en andere weergaven](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)en optioneel [naam van conversiewaarden wijzigen](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md die in kolomrubrieken voor leesbaarheid worden getoond.
 
   De eigenschappen van transacties zijn niet beschikbaar voor rapporten tenzij u specifiek hen ter beschikking stelt.
 

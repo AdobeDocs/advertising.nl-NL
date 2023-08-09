@@ -3,7 +3,7 @@ title: Overzicht van het uitvoeren van en netwerkrekeningen en campagnes
 description: Leer over de taken betrokken bij vestiging, het synchroniseren, en het beheren van uw rekeningen van het advertentienetwerk.
 exl-id: 401c5ebb-258c-4614-96e8-ca604fc698c0
 feature: Search Campaign Management
-source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
+source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
 workflow-type: tm+mt
 source-wordcount: '978'
 ht-degree: 0%
@@ -76,7 +76,7 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
    Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociale &amp; Handel, voor meer informatie over portfolio&#39;s.<!-- verify convention for referencing Optimization Guide here -->
 
-1. (Als er nieuwe omzettingen worden bijgehouden voor de adverteerder) [De conversies beschikbaar maken](/help/search-social-commerce/admin/transaction-properties/transaction-property-about.md) voor rapporten, campagnebeheerweergaven en portfoliodoelstellingen.
+1. (Als er nieuwe omzettingen worden bijgehouden voor de adverteerder) [De conversies beschikbaar maken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) voor rapporten, campagnebeheerweergaven en portfoliodoelstellingen.
 
 1. Voor elke campagne, verifieer dat Onderzoek, Sociale, &amp; Handel klikgegevens van het advertentienetwerk ontvangt, en de opbrengstgegevens bevestigt die in Onderzoek, Sociale, &amp; Handel met de eigen inkomstengegevens van adverteerders worden getoond.
 
