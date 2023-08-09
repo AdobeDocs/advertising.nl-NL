@@ -3,9 +3,9 @@ title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
 description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
 exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
 feature: Search Tools
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f857da54ff75ba7b8065b8c08d6d28eb54445b48
 workflow-type: tm+mt
-source-wordcount: '962'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ U kunt de volgende typen campagnes en de bijbehorende campagnestructuur replicer
 
 * [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft® Advertising] publiekscampagnes over het Microsoft® Audience Network.
 
-  Als u boodschappencampagnes op basis van feed wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
+  Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
 
 * [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] slimme winkelcampagnes.
 
@@ -110,7 +110,7 @@ U kunt alle voltooide of mislukte importtaken weergeven, inclusief de begintijd,
 
 **[!UICONTROL Credential ID]:** Een id die [!DNL Microsoft® Advertising] gebruikers om uw te vertegenwoordigen [!DNL Google Ads] referenties.
 
-Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] beperkingen. Neem contact op met de technische ondersteuning van de Adobe of met uw Adobe-accountteam. Deze medewerkers genereren de gegevens en geven u de id.
+Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] beperkingen. Neem contact op met het accountteam van de Adobe en de gegevens worden gegenereerd en geef u de id.
 
 **[!UICONTROL Target Microsoft® Ads account]:** De gesynchroniseerde [!DNL Microsoft® Advertising] rekening waarin campagnegegevens worden ingevoerd.
 

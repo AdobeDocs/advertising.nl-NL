@@ -3,9 +3,9 @@ title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
 feature: Search Reports
-source-git-commit: 82023f8c0fc72cc7993c238116fff3c0b4180221
+source-git-commit: 68fb5d737b76e7b388f15a2fdd1f57ce9cd6a3e2
 workflow-type: tm+mt
-source-wordcount: '3920'
+source-wordcount: '3912'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Dit zijn algemene redenen voor het ontbreken van klikgegevens.
 
 | Oorzaak | Detectie/analyse | Resolutie |
 |---|---|---|
-| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Contact opnemen met de Klantenondersteuning op &lt;*je gebruikersaccount voor Zoeken, Sociale zaken en Handel*>@support\.efrontier\.com.<!-- Escaped periods and using HTML code for angle brackets --><br><br>Als de gegevens meer dan 24 uur ontbreken, worden deze data van de kostenprognoses uitgesloten totdat de gegevens worden opgehaald. Uw Adobe-accountteam kan de datums uitsluiten. |
+| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Neem contact op met het accountteam van uw Adobe.<br><br>Als de gegevens meer dan 24 uur ontbreken, worden deze data van de kostenprognoses uitgesloten totdat de gegevens worden opgehaald. Uw Adobe-accountteam kan de datums uitsluiten. |
 | Een factureringsprobleem tussen de adverteerder en het advertentienetwerk voorkomt dat de advertentierekening uitgaven. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt. | Als u weet dat een advertentierekening niet kon uitgeven wegens een factureringskwestie, dan sluit die data van de kostenramingen uit. Uw Adobe-accountteam kan de datums uitsluiten. |
 +++
 
