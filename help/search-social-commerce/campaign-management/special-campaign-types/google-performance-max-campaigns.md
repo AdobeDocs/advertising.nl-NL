@@ -3,7 +3,7 @@ title: Implementeren [!DNL Google Ads] maximale prestatiecampagnes
 description: Meer informatie over de workflow voor het instellen van [!DNL Google Ads] maximale prestaties.
 exl-id: afad96b2-d4a6-41ee-ad84-38aa1306d73e
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
 workflow-type: tm+mt
 source-wordcount: '285'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 In [!DNL Google Ads] geen opmaakcampagnes voor advertenties, advertenties of trefwoorden. In plaats daarvan geeft u binnen de instellingen voor de campagne een of meer elementgroepen op, waaronder koppen, beschrijvingen en geüploade afbeeldingen, logo&#39;s en [!DNL YouTube videos]. [!DNL Google Ads] combineert automatisch de elementen om advertenties te bedienen op basis van het kanaal (zoals [!DNL YouTube], [!DNL Gmail], of [!DNL Search]).
 
-U kunt uw bestaande prestaties maximumcampagnes, met prestatiesgegevens in lijst en tendensen grafiekformaat bekijken, in [!DNL Campaigns] weergave; gegevens zijn niet beschikbaar op lagere niveaus. Gegevens over de prestaties op campagnereniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [Integratie van analysemogelijkheden](/help/integrations/analytics/overview.md). Om prestatiesgegevens voor prestaties te bekijken maximumcampagnes in [!DNL Analytics]moet de campagne de [bijgewerkte s_kwcid-trackingcode](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) (voor het bijhouden van de campagne-id en de advertentie-ID).
+U kunt uw bestaande prestaties maximumcampagnes, met prestatiesgegevens in lijst en tendensen grafiekformaat bekijken, in [!DNL Campaigns] weergave; gegevens zijn niet beschikbaar op lagere niveaus. Gegevens over de prestaties op campagnereniveau zijn ook beschikbaar in rapporten en in Adobe Analytics (voor adverteerders met een [Integratie van analysemogelijkheden](/help/integrations/analytics/overview.md). Om prestatiesgegevens voor prestaties te bekijken maximumcampagnes in [!DNL Analytics]moet de campagne de [bijgewerkte code voor het bijhouden van AMO-id](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) (voor het bijhouden van de campagne-id en de advertentie-ID).
 
 >[!NOTE]
 >

@@ -3,9 +3,9 @@ title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
 exl-id: fd8b38bd-24d0-488c-9e57-a516f5ae67ac
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c296766697903d7cb95ca59ca6b4c375629ddd2b
 workflow-type: tm+mt
-source-wordcount: '2079'
+source-wordcount: '2085'
 ht-degree: 0%
 
 ---
@@ -168,7 +168,7 @@ Voor [!DNL Microsoft Advertising] accounts, alleen [!DNL oAuth]- geoorloofde log
 
 Voorbeeld: `param1=value1&param2=value2`
 
-Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` voor Google) in het achtervoegsel. Accounts met een Adobe Analytics-integratie moeten de `s_kwcid` parameter. Als de account een s\_kwcid-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie de [vereiste achtervoegselformaten voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [vereiste achtervoegselformaten voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` voor Google) in het achtervoegsel. Accounts met een Adobe Analytics-integratie moeten de AMO ID-parameter gebruiken (te beginnen met `s_kwcid`). Als de account een AMO-id-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie de [vereiste achtervoegselformaten voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [vereiste achtervoegselformaten voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
 >[!NOTE]
 >
@@ -240,15 +240,15 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 {{$include /help/_includes/append-parameters.md}}
 
-* **S\_kwcid-indeling** - (Bestaande [!DNL Google Ads] accounts voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie en waarvoor de s\_kwcid nog niet is gemigreerd)
+* **S\_kwcid-indeling** - (Bestaande [!DNL Google Ads] accounts voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie en waarvoor de AMO-id (s\_kwcid) nog niet is gemigreerd)
 
-Dit account gebruikt de oudere indeling voor de s\_kwcid-trackingcode, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. De [nieuwste indeling](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) bevat parameters voor campagne-id en groep-id, die nodig zijn om nauwkeurig te rapporteren op campagne- en advertentieniveau voor [!DNL Google Ads] maximaal presterende campagnes en concepten en experimentatiecampagnes in Analytics:
+Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. De [nieuwste indeling](/help/search-social-commerce/tracking/skwcid-tracking-parameter.md) bevat parameters voor campagne-id en groep-id, die nodig zijn om nauwkeurig te rapporteren op campagne- en advertentieniveau voor [!DNL Google Ads] maximaal presterende campagnes en concepten en experimentatiecampagnes in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
 Als dit account op campagne- en advertentieniveau moet rapporteren, klikt u op de knop [!UICONTROL Edit] (potlood) en vervolgens **[!UICONTROL Migrate to new s\_kwcid format]** wijzigen in de nieuwe indeling. Voor accounts die deze typen campagnes niet bevatten, is het migreren naar de nieuwe indeling optioneel, maar aanbevolen.
 
-Voor volledige instructies raadpleegt u &quot;[De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md).&quot;
+Voor volledige instructies raadpleegt u &quot;[De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot;
 
 **Namen van rapportsuite** - (Alleen voor EF-omleiding met token; adverteerders met een Adobe Advertising-Adobe Analytics-integratie; optioneel) Een of meer Analytics-rapportreeksen waarnaar Search, Social &amp; Commerce gegevens verzendt die deze verzamelt via het advertentienetwerk, waaronder entiteitsclassificaties en klik op gegevens voor de account. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
@@ -258,4 +258,4 @@ Om de gegevens in de rapportreeksen te verschijnen, of a) moet de server-kant s\
 >
 >* [Informatie over netwerkaccounts](ad-network-account-about.md)
 >* [Zakelijke accounts beheren](merchant-account-manage.md)
->* [De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](update-skwcid-google.md)
+>* [De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](update-amo-id-google.md)

@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Google Ads] rekeningen.
 exl-id: 68f6da43-3430-4c0a-9369-937fa52c071a
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
 workflow-type: tm+mt
-source-wordcount: '539'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -70,11 +70,11 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel een van de volgende elementen bevatten:
 
-   * [!DNL Google Ads] accounts die gebruikmaken van de meest recente `s_kwcid` formaat, dat campagne-en ad groep-vlakke rapportering voor prestaties maximumcampagnes en concepten en experimentatiecampagnes steunt:
+   * [!DNL Google Ads] accounts die gebruikmaken van de nieuwste indeling voor AMO ID (beginnend bij `s_kwcid`), dat ondersteuning biedt voor rapportage op campagne- en groepsniveau voor maximaal presterende campagnes en concepten en experimentatiecampagnes:
 
      `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-     Als voor de account een s_kwcid-implementatie aan de serverzijde en de account- of campagne-instelling &quot;[!UICONTROL Auto Upload]&quot; is ingeschakeld, wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen.
+     Als de account een AMO-id-implementatie op de server heeft en de account- of campagne-instelling &quot;[!UICONTROL Auto Upload]&quot; is ingeschakeld, wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen.
 
    * Alle andere [!DNL Google Ads] accounts:
 
@@ -88,9 +88,9 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 >
 >* Achtervoegsels op lagere niveaus van de bestemmingspagina hebben voorrang op het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de advertentiegroep of lager te vormen, gebruik de redacteur van het advertentienetwerk.
 >
->* (Dynamische zoekadvertenties; adverteerders met Adobe Analytics en zonder tracking op de server) Als u tracering voor de reverse feed van Adobe Advertising naar Analytics wilt opnemen, voegt u het volgende toe `s_kwcid` volgcode tot het einde van het achtervoegsel van de landingspagina op accountniveau.
+>* (Dynamische zoekadvertenties; adverteerders met Adobe Analytics en zonder tracking op de server) Als u het bijhouden van de gegevens voor de reverse feed wilt opnemen van Adobe Advertising naar Analytics, voegt u de trackingcode voor de AMO-id toe aan het einde van het achtervoegsel van de landingspagina op accountniveau.
 
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de s\_kwcid-trackingcode](skwcid-tracking-parameter.md)
+>* [Opmaak voor de trackingcode van de AMO-id](skwcid-tracking-parameter.md)

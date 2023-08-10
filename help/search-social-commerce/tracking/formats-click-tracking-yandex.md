@@ -3,7 +3,7 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Yandex]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Yandex] rekeningen.
 exl-id: cf1d6c4b-9bcd-4b82-919f-c14dbaff9a76
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -39,4 +39,4 @@ Voorbeeld:
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de s\_kwcid-trackingcode](skwcid-tracking-parameter.md)
+>* [Opmaak voor de trackingcode van de AMO-id](skwcid-tracking-parameter.md)

@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 8cb7e92d674466653b67ed5502883630ad633eb2
+source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
 workflow-type: tm+mt
 source-wordcount: '1728'
 ht-degree: 2%
@@ -112,7 +112,7 @@ ht-degree: 2%
       + Nettoaccounts toevoegen {#ad-network-accounts}
          + [Informatie over netwerkaccounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
          + [Netwerkaccounts beheren](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
-         + [De s\_kwcid volgcode voor een bijwerken [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-skwcid-google.md)
+         + [De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
       + [Zakelijke accounts beheren](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
    + [Implementeren [!DNL Naver] accounts met alleen traceren](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
    + Campagnes beheren {#management}
