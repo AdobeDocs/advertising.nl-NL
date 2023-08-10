@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
+source-git-commit: 6e5d79eb9c04a12813c42e33a2228c69f2adbaae
 workflow-type: tm+mt
-source-wordcount: '3267'
+source-wordcount: '3268'
 ht-degree: 0%
 
 ---
@@ -160,7 +160,7 @@ In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Anal
 Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
 ```
 
-[!UICONTROL AMO ID Instances] staat voor het aantal keren dat AMO-id&#39;s (`s_kwcid` parameters) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een `s_kwcid` parameter wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
+[!UICONTROL AMO ID Instances] geeft het aantal keren weer dat [AMO-id&#39;s](ids.md) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een AMO-id (`s_kwcid`) wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
 
 In rapporten van de Adobe Advertising, kunt u klikken aan instanties op dezelfde manier vergelijken gebruikend &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 

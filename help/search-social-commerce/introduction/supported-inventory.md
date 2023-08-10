@@ -3,7 +3,7 @@ title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
 exl-id: 25e2ccf1-4de3-4b0d-a8ef-df7001c77733
 feature: Search Introduction
-source-git-commit: c296766697903d7cb95ca59ca6b4c375629ddd2b
+source-git-commit: 703cda43e96dfa9d80bbce2d64192fc461d5dbae
 workflow-type: tm+mt
 source-wordcount: '2373'
 ht-degree: 0%
@@ -57,4 +57,4 @@ Hier volgt een overzicht van de ondersteunde advertentienetwerken, campagnetypen
 
 [^3]: Vereist integratie met Adobe Analytics. Zie &quot;[Overzicht van Analytics voor Adobe Advertising](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html).&quot;
 
-[^4]: [!DNL Analytics] gegevens worden naar Zoeken, Sociaal, &amp; Handel verzonden met behulp van de verbeterde parameter voor het bijhouden van AMO-id&#39;s (s_kwcid), ongeacht de indeling van de AMO-id die u gewoonlijk voor de account gebruikt. Als u normaal gesproken de oudere versie van de AMO-id gebruikt, raden we u aan een upgrade naar de nieuwe AMO-id-indeling uit te voeren voor de beste ervaring. Maar zelfs als uw klik-/kostengegevens en inkomstengegevens worden bijgehouden met behulp van verschillende AMO-id&#39;s, worden beide gegevenssets volledig geclassificeerd en samengevoegd in dezelfde campagne en account.
+[^4]: [!DNL Analytics] gegevens worden naar Zoeken, Sociaal, &amp; Handel verzonden met behulp van de verbeterde parameter voor het bijhouden van AMO-id&#39;s (beginnend bij `s_kwcid`), ongeacht de indeling van de AMO-id die u gewoonlijk voor de account gebruikt. Als u normaal gesproken de oudere versie van de AMO-id gebruikt, raden we u aan een upgrade naar de nieuwe AMO-id-indeling uit te voeren voor de beste ervaring. Maar zelfs als uw klik-/kostengegevens en inkomstengegevens worden bijgehouden met behulp van verschillende AMO-id&#39;s, worden beide gegevenssets volledig geclassificeerd en samengevoegd in dezelfde campagne en account.

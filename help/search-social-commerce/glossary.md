@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
 feature: Search Introduction
-source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
+source-git-commit: 6e5d79eb9c04a12813c42e33a2228c69f2adbaae
 workflow-type: tm+mt
-source-wordcount: '2017'
+source-wordcount: '2024'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,8 @@ ht-degree: 0%
 **advertentiegroep:** Een set advertenties en de bijbehorende trefwoorden, plaatsingen en productgroepen voor een campagne.
 
 **ad variatie:** Elke advertentie binnen een advertentiegroep of advertentiestrategie.
+
+**AMO-id:** Een volgcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
 
 **biedeenheid:** Een zoekterm, term voor sociale zaken en handel voor een eenheid waarop biedingen worden geplaatst. Voor de meeste campagnes op de meeste netwerken, is dit een sleutelwoord en zijn gelijkenis voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
 
@@ -166,7 +168,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **uitgavenstrategie:** (Advertisers met portfolio&#39;s) De geselecteerde strategie voor het optimaliseren van trefwoorden/advertenties voor een portfolio.
 
-**`s_kwcid`:** Een volgcode waarmee Adobe Advertising gegevens over zoekcampagnes kan delen met Adobe Analytics.
+**`s_kwcid`:** Zie &quot;AMO-id&quot;.
 
 **URL bijhouden:** Een trackingsjabloon of een doel-URL met extra parameters die worden toegevoegd om informatie over klikken op de advertentie bij te houden. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
 
