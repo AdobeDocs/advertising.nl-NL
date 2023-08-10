@@ -2,7 +2,7 @@
 title: Een conversietag maken voor [!DNL Google Ads]
 description: Leer hoe u een [!DNL Google Ads] conversietag.
 feature: Conversions
-source-git-commit: 8f08151013ec63df14843733a0c83badcceba4c3
+source-git-commit: 395421c69214c3b0370523909047a924af23ea55
 workflow-type: tm+mt
 source-wordcount: '379'
 ht-degree: 0%
@@ -45,7 +45,7 @@ Nadat u de tags aan uw website hebt toegevoegd en deze hebt geactiveerd, [!DNL G
 
 **[!UICONTROL Conversion Name]:** Een unieke naam voor de metrische conversie.
 
-**\[Doelcategorie\]:** De conversiecategorie. De beschikbare categorieën variëren per conversietype. Voor *[!UICONTROL Calls to a phone number on your website]* en *[!UICONTROL Clicks to your number on your mobile website]*, &quot;[!UICONTROL Phone Call Lead]&quot; is standaard geselecteerd.
+**\[Categorie omzetten\]:** De conversiecategorie. De beschikbare categorieën variëren per conversietype. Voor *[!UICONTROL Calls to a phone number on your website]* en *[!UICONTROL Clicks to your number on your mobile website]*, &quot;[!UICONTROL Phone Call Lead]&quot; is standaard geselecteerd.
 
 **\[Type handeling\]:** Of het doel een *[!UICONTROL Primary action used for bidding optimization]* of *[!UICONTROL Secondary action not used for bidding optimization]*.
 
