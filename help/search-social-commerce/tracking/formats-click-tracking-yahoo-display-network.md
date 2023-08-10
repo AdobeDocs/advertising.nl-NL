@@ -3,7 +3,7 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Display Network]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Yahoo! Display Network] rekeningen.
 exl-id: 62ea592c-9138-4a8e-9616-c8f2475fea26
 feature: Search Tracking
-source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
+source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -31,4 +31,4 @@ Voorbeeld:
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de trackingcode van de AMO-id](skwcid-tracking-parameter.md)
+>* [Opmaak voor de trackingcode van de AMO-id](amo-id-tracking-parameter.md)
