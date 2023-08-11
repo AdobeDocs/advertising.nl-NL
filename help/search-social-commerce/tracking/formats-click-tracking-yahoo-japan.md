@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Japan Ads]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Yahoo! Japan Ads] rekeningen.
 exl-id: 4584f2c4-8090-4931-bd44-0df42f350755
 feature: Search Tracking
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '100'
 ht-degree: 0%
 
 ---
@@ -35,4 +35,4 @@ Voorbeeld:
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de trackingcode van de AMO-id](amo-id-tracking-parameter.md)
+>* [AMO ID-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)

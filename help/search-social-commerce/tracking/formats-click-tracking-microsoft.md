@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Microsoft Advertising] rekeningen.
 exl-id: 725981db-1b9a-4c89-b95d-98d07ec99756
 feature: Search Tracking
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
-source-wordcount: '584'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -107,4 +107,4 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de trackingcode van de AMO-id](amo-id-tracking-parameter.md)
+>* [AMO ID-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)

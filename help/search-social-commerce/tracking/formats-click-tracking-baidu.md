@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Baidu]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Baidu] rekeningen.
 exl-id: a57ff0cf-0bcf-4d55-9a86-7551db8a08e7
 feature: Search Tracking
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -33,4 +33,4 @@ Voorbeeld:
 >[!MORELIKETHIS]
 >
 >* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [Opmaak voor de trackingcode van de AMO-id](amo-id-tracking-parameter.md)
+>* [AMO-id-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)

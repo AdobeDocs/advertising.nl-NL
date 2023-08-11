@@ -3,9 +3,9 @@ title: De trackingparameter voor AMO-id's (s_kwcid)
 description: Meer informatie over de parameter tracking die wordt gebruikt om Adobe Advertising-gegevens te delen met Adobe Analytics.
 exl-id: 3f739f1c-3cb7-40d0-86ab-cf66afe6a06f
 feature: Search Tracking
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: a150a55fd8d97db83cc269c787a1c67d557b7e3a
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -32,91 +32,12 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
 Als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen, neemt u contact op met het accountteam van Adobe.
 
-## AMO ID-indeling voor advertenties DSP advertenties
-
-`s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
-
-waarbij:
-
-* `AC` Hiermee wordt het weergavekanaal aangegeven.
-
-* `{TM_AD_ID}` is de alfanumerieke ad-toets.
-
-* `{TM_PLACEMENT_ID}` is de alfanumerieke plaatsingssleutel.
-
-## AMO ID-indelingen voor advertenties voor zoeken, sociale media en handel
-
-De parameters variëren per advertentienetwerk, maar de volgende parameters zijn gemeenschappelijk voor allen:
-
-* `AL` Hiermee wordt het zoekkanaal aangegeven. <!-- what about social/Facebook, and display ads on Google (like Gmail, YouTube)? -->
-
-* `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
-
-* `{sid}` wordt vervangen door de numerieke id van de advertentienetwerkaccount van de adverteerder: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (afgekeurd), of *106* for [!DNL Pinterest] (vervangen).
-
-### [!DNL Baidu]
-
-`s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
-
-### [!DNL Google Ads]
-
-Hieronder vallen ook boodschappencampagnes die [!DNL Google Merchant Center].
-
-* Accounts die gebruikmaken van de nieuwste AMO ID-indeling, die rapportage op campagne- en groepsniveau voor maximale prestaties ondersteunt voor campagnes en concepten en experimentatiecampagnes:
-
-  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
-
-* Alle overige rekeningen:
-
-  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
-
->[!NOTE]
->
->* Voor dynamische zoekopdrachten {keyword} wordt gevuld met het automatische doel.
->* Wanneer u tekstspatiëring genereert voor [!DNL Google] winkeladvertenties, een product-id-parameter, `{adwords_producttargetid}`, wordt ingevoegd vóór de trefwoordparameter. De parameter product-id wordt niet weergegeven in het dialoogvenster [!DNL Google Ads] parameters voor het bijhouden op accountniveau en op campagnereniveau.
->* Als u de nieuwste trackingcode voor de AMO-id wilt gebruiken, raadpleegt u &quot;[De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot; <!-- Update terminology there too. -->
-
-<!--
-
-### [!DNL Meta]
-
-`s_kwcid=AL!{userid}!{sid}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
-
-where:
-
-* `{{ad.id}}` is the unique numeric ID for the ad/creative.
-
-* `{{campaign.id}}` is the unique ID for the campaign.
-
-* `{{adset.id}}` is the unique ID for the ad set.
-
--->
-
-### [!DNL Microsoft Advertising]
-
-* Zoekcampagnes:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
-
-* Winkelcampagnes (gebruiken [!DNL Microsoft Merchant Center]):
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
-
-* Campagnes van het netwerk van het publiek:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}`
-
-### [!DNL Yahoo! Japan Ads]
-
-`s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
-
-### [!DNL Yandex]
-
-`s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
+Voor de AMO-id-indelingen voor DSP en Zoeken, Sociaal en Handel raadpleegt u &quot;[Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id).&quot;
 
 >[!MORELIKETHIS]
 >
 >* [Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
+>* [Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"}
 >* [Netwerkaccounts beheren](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
 >* [Instellingen voor Baidu-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
 >* [Instellingen voor Google Ads-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)

@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
-source-wordcount: '1180'
+source-wordcount: '1426'
 ht-degree: 0%
 
 ---
@@ -95,71 +95,135 @@ In [!DNL Analytics] rapporten, kunt u EF-ID gegevens vinden door naar [!UICONTRO
 
 Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken in Analysis Workspace. Zodra de waarde van 500 k is bereikt, worden alle nieuwe volgcodes gerapporteerd onder de titel van één regel-item &quot;[!UICONTROL Low Traffic].&quot; Omdat het mogelijk is dat de rapportbetrouwbaarheid ontbreekt, worden de EF-id&#39;s niet geclassificeerd en mag u deze niet gebruiken voor segmenten of voor rapportage in [!DNL Analytics].
 
-## AMO-id&#39;s Adoben Advertising
+## AMO-id&#39;s Adoben Advertising {#amo-id}
 
 De AMO-id volgt elke unieke advertentiecombinatie op een minder granulair niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. De AMO-id is opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of de rVar-dimensie (AMO-id) en wordt uitsluitend gebruikt voor rapportage in [!DNL Analytics].
 
 De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DNL the squid].&quot;
 
-### AMO-id-indeling voor [!DNL DSP]
+### AMO-id-indelingen {#amo-id-formats}
 
-```
-<Channel ID>!<Ad ID>!<Placement ID>
-```
+#### AMO-id-indeling voor [!DNL DSP]
+
+`s_kwcid=AC!${TM_AD_ID}!${TM_PLACEMENT_ID}`
 
 waarbij:
 
-* &lt;*Kanaal-id*> kan zijn:
+* `AC` Hiermee wordt het weergavekanaal aangegeven.
 
-   * `AC` = DSP
-   * `AL` for [!DNL Advertising Search, Social, & Commerce]
+* `{TM_AD_ID}` is de door de Adobe Advertising gegenereerde alfanumerieke advertentietoets. De id wordt gebruikt als een unieke id voor een advertentie en fungeert als sleutel voor het omzetten van metagegevens van een Adobe Advertising-entiteit in leesbaar [!DNL Analytics] afmetingen.
 
-* &lt;*ID advertentie*> wordt gebruikt als door de Adobe Advertising gegenereerde unieke id voor een advertentie. Het dient als sleutel voor het omzetten van de meta-gegevens van de Adobe Advertising entiteit in leesbaar [!DNL Analytics] afmetingen.
-
-* &lt;*Plaatsing-id*> is een door de Adobe Advertising gegenereerde unieke id voor een plaatsing. Het dient als sleutel voor het omzetten van de meta-gegevens van de Adobe Advertising entiteit in leesbaar [!DNL Analytics] afmetingen.
+* `{TM_PLACEMENT_ID}` is de door de Adobe Advertising gegenereerde alfanumerieke plaatsingssleutel. Het gebruikt een unieke herkenningsteken voor een plaatsing en dient als sleutel voor het omzetten van de meta-gegevens van de Adobe Advertising entiteit in leesbaar [!DNL Analytics] afmetingen.
 
 Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-### AMO-id-indeling voor [!DNL Search, Social, & Commerce]
+#### AMO ID-indelingen voor advertenties voor zoeken, sociale media en handel
 
-AMO-id&#39;s voor [!DNL Search, Social, & Commerce] voor elk zoekprogramma een aparte indeling gebruiken. De indeling voor alle zoekmachines begint met het volgende:
+De parameters variëren per advertentienetwerk, maar de volgende parameters zijn gemeenschappelijk voor allen:
 
-```
-AL!{userid}!{sid}
-```
+* `AL` Hiermee wordt het zoekkanaal aangegeven. <!-- what about social/Facebook, and display ads on Google (like Gmail, YouTube)? -->
+
+* `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
+
+* `{sid}` wordt vervangen door de numerieke id van de advertentienetwerkaccount van de adverteerder: *3* for [!DNL Google Ads], *10* for [!DNL Microsoft Advertising], *45* for [!DNL Meta], *86* for [!DNL Yahoo! Display Network], *87* for [!DNL Naver], *88* for [!DNL Baidu], *90* for [!DNL Yandex], *94* for [!DNL Yahoo! Japan Ads], *105* for [!DNL Yahoo Native] (afgekeurd), of *106* for [!DNL Pinterest] (vervangen).
+
+##### [!DNL Baidu]
+
+`s_kwcid=AL!{userid}!{sid}!{creative}!{placement}!{keywordid}`
+
+waarbij:
+
+* `{creative}` Dit is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
+* `{placement}` is de website waarop op de advertentie is geklikt.
+* `{keywordid}` Dit is de unieke numerieke id van het advertentienetwerk voor het trefwoord dat de advertentie activeerde.
+
+##### [!DNL Google Ads]
+
+Hieronder vallen ook boodschappencampagnes die [!DNL Google Merchant Center].
+
+* Accounts die gebruikmaken van de nieuwste AMO ID-indeling, die rapportage op campagne- en groepsniveau voor maximale prestaties ondersteunt voor campagnes en concepten en experimentatiecampagnes:
+
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+
+* Alle overige rekeningen:
+
+  `s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 waarbij:
 
-* `AL` is de kanaal-id voor het advertentienetwerk.
-* `{userid}` Dit is de unieke numerieke gebruikersnaam die door de Adobe Advertising aan de adverteerder wordt toegewezen.
-* `{sid}` is de numerieke id die Adobe Advertising gebruikt voor het opgegeven advertentienetwerk, zoals `3` for [!DNL Google Ads] of `10` for [!DNL Microsoft Advertising].
-
-Hieronder vindt u de volledige AMO-id-indelingen voor een aantal advertentienetwerken. Neem contact op met het accountteam van Adobe voor AMO ID-indelingen voor andere advertentienetwerken.
-
-AMO-id-indeling voor [!DNL Google Ads]:
-
-```
-AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
-```
-
-waarbij:
+<!-- VERIFY CREATIVE description. Also, are there more networks now (audience and shopping?) -->
 
 * `{creative}` is de [!DNL Google Ads] unieke numerieke id voor creatieve doeleinden.
 * `{matchtype}` is het matchype van het sleutelwoord dat de advertentie teweegbracht: `e` voor exact, `p` voor woordgroep, of `b` voor het algemeen.
 * `{placement}` Dit is de domeinnaam van de website waarop op de advertentie is geklikt. Er is een waarde beschikbaar voor advertenties in op plaatsing gerichte campagnes en voor advertenties in op trefwoorden gerichte campagnes die op inhoudssites worden weergegeven.
-* `{network}` Hiermee wordt het netwerk aangegeven vanwaar de klik heeft plaatsgevonden:  `g` for [!DNL Google] zoeken (alleen voor advertenties die op trefwoorden zijn gericht), `s` voor een zoekpartner (alleen voor advertenties die op trefwoorden zijn gericht), of `d` voor het Netwerk van de Vertoning (voor of sleutelwoord-gericht of plaatsing-gerichte advertenties).
+* `{network}` Hiermee wordt het netwerk aangegeven vanwaar de klik heeft plaatsgevonden: `g` for [!DNL Google] zoeken (alleen voor advertenties die op trefwoorden zijn gericht), `s` voor een zoekpartner (alleen voor advertenties die op trefwoorden zijn gericht), of `d` voor het weergavenetwerk (voor ofwel doeltrefwoorden ofwel plaatsingsadvertenties).
+* `{product_partition_id}` Dit is de unieke numerieke id van het advertentienetwerk voor de productgroep die wordt gebruikt met productadvertenties.
 * `{keyword}` is of het specifieke sleutelwoord dat uw advertentie (op onderzoeksplaatsen) of het best-passende sleutelwoord (op inhoudsplaatsen) teweegbracht.
+* `{campaignid}` Dit is de unieke numerieke id van het advertentienetwerk voor de campagne.
+* `{adgroupid}` Dit is de unieke numerieke id van het advertentienetwerk voor de advertentiegroep.
 
-AMO-id-indeling voor [!DNL Microsoft Advertising]:
+>[!NOTE]
+>
+>* Voor dynamische zoekopdrachten {keyword} wordt gevuld met het automatische doel.
+>* Wanneer u tekstspatiëring genereert voor [!DNL Google] winkeladvertenties, een product-id-parameter, `{adwords_producttargetid}`, wordt ingevoegd vóór de trefwoordparameter. De parameter product-id wordt niet weergegeven in het dialoogvenster [!DNL Google Ads] parameters voor het bijhouden op accountniveau en op campagnereniveau.
+>* Als u de nieuwste trackingcode voor de AMO-id wilt gebruiken, raadpleegt u &quot;[De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot; <!-- Update terminology there too. -->
 
-```
-AL!{userid}!{sid}!{AdId}!{OrderItemId}
-```
+<!--
+
+##### [!DNL Meta]
+
+`s_kwcid=AL!{userid}!{sid}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
+
+where:
+
+* `{{ad.id}}` is the unique numeric ID for the ad/creative.
+
+* `{{campaign.id}}` is the unique ID for the campaign.
+
+* `{{adset.id}}` is the unique ID for the ad set.
+
+-->
+
+##### [!DNL Microsoft Advertising]
+
+* Zoekcampagnes:
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
+
+* Winkelcampagnes (gebruiken [!DNL Microsoft Merchant Center]):
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+
+* Campagnes van het netwerk van het publiek:
+
+  `s_kwcid=AL!{userid}!{sid}!{AdId}`
 
 waarbij:
 
-* `{AdId}` is de [!DNL Microsoft Advertising] unieke numerieke id voor creatieve doeleinden.
-* `{OrderItemId}` is de [!DNL Microsoft Advertising] numerieke id voor het trefwoord.
+* `{AdId}` Dit is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
+* `{OrderItemId}` is de numerieke id van het advertentienetwerk voor het trefwoord.
+* `{CriterionId}` is de numerieke id van het advertentienetwerk voor de productgroep die wordt gebruikt met productadvertenties.
+
+##### [!DNL Yahoo! Japan Ads]
+
+`s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{network}!{keyword}`
+
+waarbij:
+
+* `{creative}` Dit is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
+* `{matchtype}` is het matchype van het sleutelwoord dat de advertentie teweegbracht: `be` voor exact, `bp` voor woordgroep, of `bb` voor het algemeen.
+* `{network}` Hiermee wordt het netwerk aangegeven vanwaar de klik heeft plaatsgevonden: `n` voor native of `s` voor zoekopdracht.
+* `{keyword}` Dit is het trefwoord dat de advertentie heeft geactiveerd.
+
+##### [!DNL Yandex]
+
+`s_kwcid=AL!{userid}!{sid}!{ad_id}!{source_type}!!!{phrase_id}`
+
+waarbij:
+
+* `{ad_id}` Dit is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
+* `{source_type}` is het type site waarop de advertentie is weergegeven: *b* voor zoekopdrachten, *c* voor context (inhoud), of *ct* voor categorie.
+* `{phrase_id}` is de numerieke id van het advertentienetwerk voor het trefwoord.
 
 ### AMO ID-Dimension in [!DNL Analytics]
 

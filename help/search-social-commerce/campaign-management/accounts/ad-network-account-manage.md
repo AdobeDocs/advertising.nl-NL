@@ -3,7 +3,7 @@ title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
 exl-id: fd8b38bd-24d0-488c-9e57-a516f5ae67ac
 feature: Search Campaign Management
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
 source-wordcount: '2086'
 ht-degree: 0%
@@ -242,7 +242,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * **S_linksom-indeling** - (Bestaande [!DNL Google Ads] accounts voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie en waarvoor de AMO-id (s_kwcid) nog niet is gemigreerd)
 
-Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. De [nieuwste indeling](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) bevat parameters voor campagne-id en groep-id, die nodig zijn om nauwkeurig te rapporteren op campagne- en advertentieniveau voor [!DNL Google Ads] maximaal presterende campagnes en concepten en experimentatiecampagnes in Analytics:
+Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. De [nieuwste indeling](/help/integrations/analytics/ids.md#amo-id-formats) bevat parameters voor campagne-id en groep-id, die nodig zijn om nauwkeurig te rapporteren op campagne- en advertentieniveau voor [!DNL Google Ads] maximaal presterende campagnes en concepten en experimentatiecampagnes in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 

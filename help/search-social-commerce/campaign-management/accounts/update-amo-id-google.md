@@ -3,7 +3,7 @@ title: De trackingcode van de AMO-id (s_kwcid) bijwerken voor een [!DNL Google A
 description: Leer hoe u overschakelt naar de nieuwste trackingcode voor AMO-id's voor een [!DNL Google Ads] account.
 exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
 feature: Search Campaign Management
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
 source-wordcount: '465'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-De oudere indeling voor de [Code voor bijhouden AMO-id](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md) voor bestaande [!DNL Google Ads] accounts bieden geen ondersteuning voor bepaalde functies in Analytics, zoals rapportage op campagne- en advertentieniveau voor [!DNL Google Ads] maximale prestaties voor campagnes, concepten en experimentatiecampagnes en andere gebruiksgevallen waarin dezelfde combinatie van het type ad+keyword+match in meerdere campagnes bestaat.
+De oudere indeling voor de [Code voor bijhouden AMO-id](/help/integrations/analytics/ids.md#amo-id-formats) voor bestaande [!DNL Google Ads] accounts bieden geen ondersteuning voor bepaalde functies in Analytics, zoals rapportage op campagne- en advertentieniveau voor [!DNL Google Ads] maximale prestaties voor campagnes, concepten en experimentatiecampagnes en andere gebruiksgevallen waarin dezelfde combinatie van het type ad+keyword+match in meerdere campagnes bestaat.
 
 De meest recente indeling bevat parameters voor campagne-id en groep-id:
 
@@ -58,7 +58,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe indeling 
 
    * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor bijhouden, Zoeken, Sociale zaken en Handel werkt automatisch de code voor bijhouden bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
 
-   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is niet ingeschakeld en u gebruikt de [AMO ID-functie aan serverzijde](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)Vervolgens moet u de parameter AMO ID handmatig bijwerken in de instellingen voor het achtervoegsel van de bestemmingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
+   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is niet ingeschakeld en u gebruikt de [AMO ID-functie aan serverzijde](/help/integrations/analytics/ids.md#amo-id-formats)Vervolgens moet u de parameter AMO ID handmatig bijwerken in de instellingen voor het achtervoegsel van de bestemmingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
 
    * Als u de AMO-id opneemt in de Basis-URL-instelling voor een campagnecomponent, verplaatst u deze naar de desbetreffende instelling voor het achtervoegsel van de bestemmingspagina.
 
@@ -67,5 +67,5 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe indeling 
 >[!MORELIKETHIS]
 >
 >* [Netwerkaccounts beheren](ad-network-account-manage.md)
->* [De parameter voor het bijhouden van AMO-id&#39;s](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
+>* [Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Overzicht van [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}

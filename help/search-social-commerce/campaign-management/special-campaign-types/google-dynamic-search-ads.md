@@ -3,7 +3,7 @@ title: Implementeren [!DNL Google Ads] dynamische zoekopdrachten
 description: Meer informatie over de workflow voor het instellen van [!DNL Google Ads] dynamische zoekopdrachten.
 exl-id: 4c806824-b582-46dc-8d88-85c73bfb0944
 feature: Search Campaign Management
-source-git-commit: ca9425333731ada692c68f08b20f070265eb3409
+source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
 workflow-type: tm+mt
 source-wordcount: '612'
 ht-degree: 0%
@@ -40,7 +40,7 @@ U kunt dynamische zoekopdrachten afzonderlijk instellen of met behulp van bulksb
 
    1. (Optioneel) Configureer een sjabloon voor bijhouden op campagneniveau, dat de sjabloon voor bijhouden op accountniveau overschrijft, maar op lagere niveaus kan worden overschreven.
 
-      (Adverteerders met Adobe Analytics zonder server-side tracking) Als u tracering wilt opnemen voor de reverse feed van Zoeken, Sociale &amp; Handel naar Analytics, voegt u de trackingcode voor AMO-id&#39;s toe aan de parameters voor toevoegen op accountniveau, waarmee de code wordt toegevoegd aan de uiteindelijke URL. Zie &quot;[De parameter voor het bijhouden van AMO-id&#39;s](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md).&quot;
+      (Adverteerders met Adobe Analytics zonder server-side tracking) Als u tracering wilt opnemen voor de reverse feed van Zoeken, Sociale &amp; Handel naar Analytics, voegt u de trackingcode voor AMO-id&#39;s toe aan de parameters voor toevoegen op accountniveau, waarmee de code wordt toegevoegd aan de uiteindelijke URL. Zie &quot;[Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md).&quot;
 
 1. [Een advertentiegroep maken](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) binnen de campagne, met inbegrip van de volgende stappen:
 
