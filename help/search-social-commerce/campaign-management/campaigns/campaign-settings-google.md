@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: d16ef1a9-f943-494c-8655-975383707f3c
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 1dbe8da7122b38dd11a242c453d71a832b31eee8
 workflow-type: tm+mt
-source-wordcount: '2024'
+source-wordcount: '2025'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
   **Opmerkingen:**
 
-   * Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij [!DNL Google Ads] editor.
+   * Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij de [!DNL Google Ads] editor.
 
    * Koppelingen naar [!DNL Google Merchant Center] productfeeds worden niet ondersteund.
 

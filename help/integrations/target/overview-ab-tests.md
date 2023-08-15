@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor Adobe Advertising-advertenties in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 7b5d8b20e7efa3178f9c43c806f37b85d8ae3f62
+source-git-commit: 1dbe8da7122b38dd11a242c453d71a832b31eee8
 workflow-type: tm+mt
-source-wordcount: '1550'
+source-wordcount: '1551'
 ht-degree: 0%
 
 ---
@@ -57,13 +57,13 @@ Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergeg
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
-Werk de doorklikURL voor elke advertentie handmatig bij in Campagne Flash Talk of Google Campagne Manager 360 om de macro&#39;s op te nemen die nodig zijn om AMO ID-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
+Werk binnen het spreken van Flash of Google Campagne Manager 360, manueel klik-door URL voor elke advertentie bij om de macro&#39;s te omvatten die worden vereist om de variabelen van identiteitskaart van AMO te vangen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
 
 * [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)
 
 * [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
 
-Neem contact op met uw accountteam van Adobe en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
+Neem contact op met het accountteam van de Adobe en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
 
 ## Stap 2: Opstelling het Kader View-through Gebruikend Audience Manager {#view-through-framework}
 
@@ -155,7 +155,7 @@ In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeer
 
    >[!NOTE]
    >
-   >Neem bijvoorbeeld contact op met uw Adobe-accountteam voor creatieve testdoeleinden.
+   >Neem bijvoorbeeld contact op met het accountteam van uw Adobe voor creatieve testdoeleinden.
 
 ## Stap 4: Stel uw [!DNL Analytics for Target] Analysis Workspace in [!DNL Analytics]
 
@@ -177,7 +177,7 @@ In Analysis Workspace configureert u de [!DNL Analytics for Target panel] om uw 
 
 * Begrijp dat de samengevoegde media metriek van Adobe Advertising (zoals impressies, kliks, en kosten) niet aan de metriek van het Doel kan worden aangepast.
 
-#### Dimension
+#### Dimensionen
 
 De volgende afmetingen hebben betrekking op [!DNL Analytics for Target]:
 
