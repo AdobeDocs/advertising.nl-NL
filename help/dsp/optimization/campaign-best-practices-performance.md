@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: eda0459472c1e4a8297daf69454de0fcb3d4f8ca
 workflow-type: tm+mt
-source-wordcount: '1248'
+source-wordcount: '1255'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Raadpleeg de volgende aanbevolen procedures voor prestatiecampagnes:
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om te begrijpen of het doel van de campagne het hoogst mogelijke ROAS of het laagst mogelijke CPA is te bereiken. Voor elk pakket in de campagne, zult u het objectieve doel dienovereenkomstig als of specificeren *[!UICONTROL Highest ROAS - Custom Goal]* of *[!UICONTROL Lowest CPA - Custom Goal]*.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) daartoe &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;). Voor elk pakket in de campagne, zult u het objectieve doel dienovereenkomstig specificeren.
 
 ![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
 
@@ -47,7 +47,7 @@ Pakketten met bovengrondse treinen bevatten plaatsingen met een zeer brede doelg
    * Contextafhankelijke doelframes.
    * Doellocatie/categorie.
 
-* Het gebruik van looppas van netwerk (RON) richtend: Het is belangrijk om een looppas van netwerkplaatsing te omvatten zonder doelgericht publiek en met brede inventarisgericht. Hierdoor wordt de [!DNL Adobe Sensei] algoritme om waardevolle gebruikers te vinden die nieuwere cookies kunnen hebben die nog niet in een publiek zijn gecategoriseerd.
+* Gebruik RON (RON)-doelframes: het is belangrijk dat u een runtime voor netwerkplaatsing opneemt zonder doelgroepen en met een brede inventarisdoelgerichtheid. Dit maakt het mogelijk [!DNL Adobe Sensei] algoritme om waardevolle gebruikers te vinden die nieuwere cookies kunnen hebben die nog niet in een publiek zijn gecategoriseerd.
 
 ### Strategieën opnieuw rangschikken
 
@@ -61,7 +61,7 @@ Lagere treintpakketten bevatten plaatsingen die bedoeld zijn voor gebruikers die
 
 ## Stap 3 - Pakketten maken
 
-De beste praktijk is het maken van afzonderlijke pakketten voor de prospectie van de bovenste trechter en voor de herbestemming van de ondertrechter. Optimalisatie vindt plaats op pakketniveau, zodat de prestatiegegevens van alle plaatsen binnen een pakket worden samengevoegd. Daarom groepeert plaatsing in pakketten met vergelijkbare verwachte prestaties.
+De beste praktijk is het maken van afzonderlijke pakketten voor de prospectie van de bovenste trechter en voor de herbestemming van de ondertrechter. Optimalisatie vindt plaats op pakketniveau, zodat de prestatiegegevens van alle plaatsen binnen een pakket worden samengevoegd. Daarom groepeert u plaatsingen in pakketten met vergelijkbare verwachte prestaties.
 
 ![voorbeeld van afzonderlijke pakketten voor prospectie en heroriëntering](/help/dsp/assets/p-r.png)
 
@@ -73,9 +73,9 @@ Gebruik ook de volgende instellingen.
 
 * **Vluchtdatums:** (Pakketten met vooruitzichten) Als uw campagne langer dan 25 dagen wordt uitgevoerd, kunt u de opdracht [!UICONTROL Activate Custom Flighting] gebruiken. Stel eerst een aangepaste vlucht voor de eerste 10 dagen in op ongeveer 75% van de dagelijkse begroting die nodig is om de uitgaven tijdens de *leerfase*. Stel vervolgens een tweede aangepaste vlucht in voor de rest van de begroting.
 
-   Als u bijvoorbeeld $100.000 wilt besteden in 30 dagen, stelt u het budget voor vlucht 1 (dagen 1-10) in op $25.000 (75% x $100.000/30 dagen = $2.500 per dag). Gebruik het resterende budget van $75.000 voor Vlucht 2 (Dagen 11-30).
+  Als u bijvoorbeeld $100.000 wilt besteden in 30 dagen, stelt u het budget voor vlucht 1 (dagen 1-10) in op $25.000 (75% x $100.000/30 dagen = $2.500 per dag). Gebruik het resterende budget van $75.000 voor Vlucht 2 (Dagen 11-30).
 
-* **Begroting:** DSP zal altijd proberen om 100% van de pakketbegroting gelijkelijk over alle plaatsen in een pakket te verdelen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te wijzen aan stages met schaal. 24-48 uur toestaan voor begrotingswijzigingen.
+* **Begroting:** DSP zal altijd proberen om 100% van de pakketbegroting gelijkelijk over alle plaatsen in een pakket te verdelen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te staan om aan stages met schaal toe te wijzen. 24-48 uur toestaan voor begrotingswijzigingen.
 
 * **Optimalisatiedoelstellingen:** Gebruik een van de twee optimalisatiedoelen voor prestaties. *[!UICONTROL Highest ROAS]* of *[!UICONTROL Lowest CPA]*, afhankelijk van het pakketdoel. Met deze doelen wordt het pakket automatisch geoptimaliseerd in de richting van respectievelijk de beste ROAS- of laagste CPA-plaatsing.
 
@@ -85,9 +85,9 @@ Gebruik ook de volgende instellingen.
 
 * **Tussenruimte voor vluchten en intradayafstand:** Selecteer voor beide typen spatiëring de optie *[!UICONTROL Even]* om uw prestatiedoelstellingen te maximaliseren door uniform door elke dag en door de volledige vlucht te passen.
 
-   >[!CAUTION]
-   >
-   >Gebruiken *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* voor de vluchtfrequentie en *[!UICONTROL ASAP]* het plaatsen voor intraday het verpakken slechts wanneer u volledig aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatief uw gewenste prestaties KPIs kunnen beïnvloeden.
+  >[!CAUTION]
+  >
+  >Gebruiken *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* voor de vluchtfrequentie en *[!UICONTROL ASAP]* het plaatsen voor intraday het verpakken slechts wanneer u volledig aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatief uw gewenste prestaties KPIs kunnen beïnvloeden.
 
 ## Stap 4 - Plaatsingsstructuur maken
 
@@ -144,7 +144,7 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 
 * **[!UICONTROL Device Targeting]**:
    * Inclusief [!UICONTROL Computer], [!UICONTROL Mobile], en [!UICONTROL Tablet].
-   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met uw Adobe-accountteam voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
+   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met het accountteam van de Adobe voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
    * Als u mobiel webverkeer als doel instelt, schakelt u alle mobiele browsers uit, behalve [!UICONTROL Chrome] en [!UICONTROL Edge].
 
 ### Merk, veiligheid en mediakwaliteit
@@ -165,4 +165,3 @@ Contextafhankelijke filtering, blokkering van voorbiedingsfraude en/of [!UICONTR
 >* [Optimalisatiedoelstellingen en hoe deze te gebruiken](optimization-goals.md)
 >* [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](optimization-pre-bid-filters.md)
 >* [Controlelijst voor starten van campagne](/help/dsp/campaign-management/campaign-launch-checklist.md)
-

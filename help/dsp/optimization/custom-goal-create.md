@@ -3,9 +3,9 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 81b0acfa-085d-495b-9516-576b952b1307
-source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
+source-git-commit: eda0459472c1e4a8297daf69454de0fcb3d4f8ca
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt aangepaste doelen maken als *doelstellingen* binnen [!DNL Advertising Search, Social, & Commerce].
 
-Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search, Social, & Commerce] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search, Social, & Commerce] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search, Social, & Commerce] account, neemt u contact op met uw Adobe-accountteam.
+Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een [!DNL Search, Social, & Commerce] account met dezelfde Adobe Experience Cloud-organisatie-id, van binnen de [!DNL Search, Social, & Commerce] clientinstellingen. Als uw DSP niet is gekoppeld aan een [!DNL Search, Social, & Commerce] account, neemt u contact op met uw accountteam van de Adobe.
 
 >[!TIP]
 >
@@ -64,7 +64,7 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
 
       1. Klik onder aan de instellingen op **[!UICONTROL Save]**.
 
-Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een DSP pakket wanneer het optimalisatiedoel &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot; of &quot;[!UICONTROL Lowest CPA - Custom Goal].&quot;
+Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een DSP pakket wanneer het optimalisatiedoel eindigt met &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;).
 
 >[!TIP]
 >
