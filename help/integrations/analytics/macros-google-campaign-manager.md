@@ -3,7 +3,7 @@ title: Toevoegen [!DNL Analytics for Advertising] Macro's naar [!DNL Google Camp
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising] macro's voor uw [!DNL Google Campaign Manager 360] advertentietags
 feature: Integration with Adobe Analytics
 exl-id: 89cd4e1d-277a-4a43-9c38-ae6641302e09
-source-git-commit: 703cda43e96dfa9d80bbce2d64192fc461d5dbae
+source-git-commit: aa41ba08ba83bfacbc2541c0f0d90336b3c36305
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
@@ -43,7 +43,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 >[!NOTE]
 >
 >>* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de URL `amo` vóór het hashsymbool.
->* Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld:`https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
+>* Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 ### URL-achtervoegsel van bestemmingspagina op advertentieniveau configureren
 

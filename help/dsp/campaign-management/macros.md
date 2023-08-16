@@ -1,16 +1,16 @@
 ---
-title: Reclame DSP macro's
+title: Reclame DSP Macro's
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: bb404dd1ff2fda5e37435ac892e2a0f6beba0b33
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '940'
 ht-degree: 0%
 
 ---
 
-# Reclame DSP macro&#39;s
+# Reclame DSP Macro&#39;s
 
 Een macro is een korte opdracht of korte opdracht voor een instructie en volgt doorgaans de indeling `${MACRO_NAME}`. Macro&#39;s die zijn opgenomen in creatieve code of doorklikken-URL&#39;s, worden uitgebreid naar een langere codereeks die de advertentieserver kan begrijpen. De DSP en server voeren macro&#39;s uit wanneer de advertentie wordt aangeboden of wanneer op de advertentie wordt geklikt.
 
@@ -39,11 +39,11 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 | `${TM_PLACEMENT_ID_NUM}` | De plaatsing-id. | integer |
 | `${TM_RANDOM}` | Cachebuster: een willekeurig getal tussen 1 en 1000000. | lang |
 | `${TM_SESSION_ID}` | De id van de sessie, die overeenkomt met één ophaalbewerking van de advertentietag. | string |
-| `${TM_SITE_DOMAIN_URLENC}` | Het subdomein van de pagina dat wordt geparseerd vanaf de URL in de biedaanvraag. URL-gecodeerd. Niet ondersteund voor in-banner, klik-om-af te spelen advertenties. | string |
+| `${TM_SITE_DOMAIN_URLENC}` | Het subdomein van de pagina dat vanuit de URL in de biedaanvraag is geparseerd; URL-gecodeerd. Niet ondersteund voor in-banner, klik-aan-spel advertenties. | string |
 | ` ${TM_SITE_NAME}` | De sitenaam voor de plaatsing. | string |
-| `${TM_SITE_URL_URLENC}` | De URL die in de biedaanvraag is doorgegeven; URL-gecodeerd. Niet ondersteund voor in-banner, klik-om-af te spelen advertenties. | string |
+| `${TM_SITE_URL_URLENC}` | De URL die in de biedaanvraag is doorgegeven; URL-gecodeerd. Niet ondersteund voor in-banner, klik-aan-spel advertenties. | string |
 | `${TM_SITE_ID_NUM}` | De site-id voor de plaatsing. | integer |
-| `${TM_TIMESTAMP}` | De Unix-tijdstempel die het aantal seconden aangeeft dat is verstreken sinds middernacht (00:00 UTC) op 1 januari 1970. | lang |
+| `${TM_TIMESTAMP}` | De Unix-tijdstempel die aangeeft hoeveel seconden zijn verstreken sinds middernacht (00:00 UTC) op 1 januari 1970. | lang |
 | ` ${TM_VIDEO_DURATION}` | De duur van de advertentievideo in seconden. | integer |
 
 {style="table-layout:auto"}
@@ -56,20 +56,20 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 
 | Macro | Beschrijving van vervanging | Type |
 | ----- | ----------------------- | ---- |
-| `${CS_PLATFORM_ID}` | ([!DNL ComScore]) De platform-id, die overeenkomt met het besturingssysteem van het apparaat:<ul><li>`ios` = [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` als het platform geen van de bovenstaande platformen is</li></ul> | varchar(50) |
+| `${CS_PLATFORM_ID}` | ([!DNL ComScore]) De platform-id, die overeenkomt met het besturingssysteem van het apparaat:<ul><li>`ios` = [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` als het platform geen van bovenstaande items is</li></ul> | varchar(50) |
 | `${CS_DEVICE_MODEL}` | ([!DNL ComScore]) De naam van het apparaatmodel, URL-gecodeerd. | string |
 | `${CS_IMPLEMENTATION_TYPE}` | ([!DNL ComScore]) De omgeving waarin de advertentie is bediend:<ul><li>`a` = mobiele toepassing</li><li>`b` = mobiele website</li></ul> | string (`a` of `b`) |
-| `${NS_PLATFORM_ID}` | ([!DNL Nielsen]) De platform-id, die overeenkomt met het besturingssysteem van het apparaat:<ul><li>`ios`= [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` als het platform geen van de bovenstaande platformen is</li></ul> | string |
+| `${NS_PLATFORM_ID}` | ([!DNL Nielsen]) De platform-id, die overeenkomt met het besturingssysteem van het apparaat:<ul><li>`ios`= [!DNL Apple iOS]</li><li>`android` = [!DNL Google Android]</li><li>`windows` = [!DNL Windows Mobile]</li><li>`blackberry` = [!DNL Blackberry]</li> <li>`other` als het platform geen van bovenstaande items is</li></ul> | string |
 | `${NS_DEVICE_GROUPING}` | ([!DNL Nielsen]) Het apparaattype waarop de advertentie viewer was:<ul><li>`TAB` = tablet</li><li>`PHN` = mobiel</li><li>`computer` = computer</li></ul> | string |
 | `${UOO}` | ([!DNL Nielsen]) Of de gebruiker al dan niet heeft gekozen voor het volgen van advertenties:<ul><li>`1` (DNT-markering = 1) = de gebruiker heeft de advertentie niet bijgehouden</li><li>`0` (DNT-markering = 0) = de gebruiker heeft zich aangemeld voor het bijhouden van advertenties</li></ul> | integer (`0` of `1`) |
 | `${TM_BUNDLE}` | De [!DNL iOS] of [!DNL Android] bundel-id van app store. Voorbeelden: com.zynga.wwf2.free of id804379658 | string |
-| `gdpr=${GDPR_ENFORCED}&gdpr_consent=${GDPR_CONSENT}` | `gdpr=${GDPR_ENFORCED}` geeft aan of de bieder bepaalt dat het bod afkomstig is uit de Europese Unie en dat de GDPR-handhaving vereist:<ul><li>`1` = GDPR moet worden afgedwongen</li><li>`0` = GDPR dient niet te worden afgedwongen</li></ul>`gdpr_consent=${GDPR_CONSENT}` is de waarde van de instemming die door de leverancier in het binnenkomende biedverzoek is doorgegeven:<ul><li>In de meeste gevallen is dit een base64url-gecodeerde toestemmingskoord, of madeliefje (voorbeeld: BN5lERiOMYEdiAKAWXEND1HoSBE6CAFAApAMgBkIDIgM0AgOJxAnQA)</li><li>`0` = geen toestemming</li><li>`1` = toestemming</li></ul> | madeliefje of geheel getal |
+| `gdpr=${GDPR_ENFORCED}&gdpr_consent=${GDPR_CONSENT}` | `gdpr=${GDPR_ENFORCED}` geeft aan of de bieder bepaalt dat het bod afkomstig is uit de Europese Unie en dat de GDPR-handhaving vereist:<ul><li>`1` = GDPR moet worden afgedwongen</li><li>`0` = GDPR dient niet te worden afgedwongen</li></ul>`gdpr_consent=${GDPR_CONSENT}` is de waarde van de instemming die door de leverancier in het binnenkomende biedverzoek is doorgegeven:<ul><li>In de meeste gevallen is dit een basis64url-gecodeerde toestemmingskoord, of madeliefje (voorbeeld: BN5lERiOMYEdiAKAWXEND1HoSBE6CAFAApAMBkIDIgM0AgOJxAnQA)</li><li>`0` = geen toestemming</li><li>`1` = toestemming</li></ul> | desybit of integer |
 
 {style="table-layout:auto"}
 
 ## Klik op Macro&#39;s voor externe weergaveadvertenties
 
-Als u kliks voor advertenties op nauwkeurige wijze wilt bijhouden met behulp van externe weergavetags, DSP is een klikmacro voor weergave vereist. Er is slechts één versie van de macro vereist; de desbetreffende macro is afhankelijk van het type tag.
+Als u kliks voor advertenties op nauwkeurige wijze wilt bijhouden met behulp van externe weergavetags, DSP is een klikmacro voor de weergave vereist. Er is slechts één versie van de macro vereist; de relevante macro is afhankelijk van het type code.
 
 | Macro | Beschrijving van vervanging | Type |
 | ----- | ----------------------- | ---- |
@@ -84,6 +84,10 @@ DSP voegt automatisch de weergave van klikmacro&#39;s in een externe weergavetag
 * Bulkupload [!DNL Flashtalking] of [!DNL Google DoubleClick for Advertisers] tags rechtstreeks in DSP plaatsen
 
 Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, DSP toont een waarschuwingsbericht, die u ertoe aanzet om de aangewezen vertoning manueel op te nemen klikt macro in het correcte gebied van de markering.
+
+## [!DNL Analytics for Advertising] Macros
+
+Voor extra macro&#39;s die specifiek beschikbaar zijn voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)&quot; en &quot;[Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
 ## Problemen met macrofouten oplossen
 
@@ -103,4 +107,3 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 >* [Instellingen voor eigen advertentie](/help/dsp/campaign-management/ads/ad-settings-native.md)
 >* [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
 >* [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
-
