@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: 426f6e25f0189221986cc42d186bfa60f5268ef1
 workflow-type: tm+mt
-source-wordcount: '1426'
+source-wordcount: '1653'
 ht-degree: 0%
 
 ---
@@ -18,15 +18,20 @@ ht-degree: 0%
 
 Adobe Advertising gebruikt twee id&#39;s voor het on-site bijhouden van prestaties: de *EF-id* en de *AMO-id*.
 
-Wanneer een advertentie-impositie optreedt, maakt Adobe Advertising de waarden voor AMO-id en EF-id en slaat deze op. Wanneer een bezoeker die een advertentie heeft gezien, de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van Adobe Advertising door [!DNL Analytics for Advertising] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `s_kwcid` en `ef_id` querytekenreeksparameters.
+Wanneer een advertentie-impositie optreedt, maakt Adobe Advertising de waarden voor AMO-id en EF-id en slaat deze op. Wanneer een bezoeker die een advertentie heeft gezien, de site betreedt zonder op een advertentie te klikken, [!DNL Analytics] roept deze waarden van Adobe Advertising door [!DNL Analytics for Advertising] JavaScript-code. Voor doorkijkverkeer, [!DNL Analytics] Hiermee wordt een aanvullende id gegenereerd (`SDID`), dat wordt gebruikt om de EF-id en de AMO-id in te voegen [!DNL Analytics]. Voor doorklikverkeer worden deze id&#39;s opgenomen in de URL van de bestemmingspagina met behulp van de `ef_id` en `s_kwcid` (voor de AMO ID) query string parameters.
 
 Bij de Adobe Advertising wordt aan de hand van de volgende criteria onderscheid gemaakt tussen een doorklikitem of een doorkijkitem op de website:
 
 * Een view-through ingang wordt gevangen wanneer een gebruiker de plaats na het bekijken van een advertentie bezoekt maar niet het klikt. [!DNL Analytics] registreert een mening-door als twee voorwaarden worden voldaan:
+
    * De bezoeker heeft geen doorklikken voor een [!DNL DSP] of [!DNL Search, Social, & Commerce] advertentie tijdens de [klik terugkijkvenster](#lookback-a4adc).
+
    * De bezoeker heeft minstens één [!DNL DSP] advertentie tijdens de [terugkijkvenster van indruk](#lookback-a4adc). De laatste indruk wordt doorgegeven als de doorkijkhoek.
+
 * Een doorklikitem wordt vastgelegd wanneer een sitebezoeker op een advertentie klikt voordat hij de site betreedt. [!DNL Analytics] vangt een klik-door wanneer één van beiden van de volgende voorwaarden voorkomt:
+
    * De URL bevat een EF-id en een AMO-id die via Adobe Advertising aan de URL van de bestemmingspagina zijn toegevoegd.
+
    * De URL bevat geen volgcodes, maar de JavaScript-code van de Adobe Advertising detecteert een klik binnen de laatste twee minuten.
 
 ![Op weergave gebaseerde Adobe Advertising [!DNL Analytics] integratie](/help/integrations/assets/a4adc-view-through-process.png)
@@ -89,7 +94,7 @@ waarbij:
 
 Voorbeeld `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
 
-### De EF ID-Dimension in [!DNL Analytics]
+### Het EF-id-Dimension in [!DNL Analytics]
 
 In [!DNL Analytics] rapporten, kunt u EF-ID gegevens vinden door naar [!UICONTROL EF ID] dimensie en het gebruik van de [!UICONTROL EF ID Instance] metrisch.
 
@@ -100,6 +105,38 @@ Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken i
 De AMO-id volgt elke unieke advertentiecombinatie op een minder granulair niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. De AMO-id is opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of de rVar-dimensie (AMO-id) en wordt uitsluitend gebruikt voor rapportage in [!DNL Analytics].
 
 De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DNL the squid].&quot;
+
+### Manieren om de AMO-id te implementeren
+
+De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
+
+* (Aanbevolen) De invoegfunctie aan de serverzijde is geïmplementeerd.
+
+   * DSP klanten: De pixelserver voegt automatisch de parameter s_kwcid aan uw het landen paginaachtervoegsels toe wanneer een eind - gebruiker een vertoningsadvertentie met de Adobe Advertising pixel bekijkt.
+
+   * Zoek-, sociale en commerciële klanten:
+
+      * Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] Wanneer de pixelserver de voor de account of campagne ingeschakelde instelling instelt, voegt deze automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising pixel klikt.
+
+      * voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] Als u uitgeschakelde instellingen instelt, voegt u de parameter handmatig toe aan de toevoegingsparameters op accountniveau, die deze toevoegen aan de basis-URL&#39;s.
+
+* De invoegfunctie aan de serverzijde is niet geïmplementeerd:
+
+   * DSP klanten:
+
+      * Voor [!DNL Flashtalking] ad-tags, voeg handmatig extra macro&#39;s in per &quot;[Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md).&quot;
+
+      * Voor [!DNL Google Campaign Manager 360] ad-tags, voeg handmatig extra macro&#39;s in per &quot;[Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+
+  <!--  * For all other ads, XXXX. -->
+
+   * Zoek-, sociale en commerciële klanten:
+
+      * Voor ([!DNL Google Ads] en [!DNL Microsoft® Advertising]), voegt u handmatig de parameter AMO ID toe aan de achtervoegsels van de bestemmingspagina.
+
+      * Voor advertenties op alle andere advertentienetwerken voegt u handmatig de parameter AMO ID toe aan de parameters op accountniveau om deze toe te voegen aan uw basis-URL&#39;s.
+
+Als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen, neemt u contact op met het accountteam van de Adobe.
 
 ### AMO-id-indelingen {#amo-id-formats}
 
