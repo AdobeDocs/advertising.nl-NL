@@ -3,7 +3,7 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
 feature: Search Introduction
-source-git-commit: 6e5d79eb9c04a12813c42e33a2228c69f2adbaae
+source-git-commit: 11aaafc7f6b888a2cf341cbd7416c609450324fb
 workflow-type: tm+mt
 source-wordcount: '2024'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **ad variatie:** Elke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**AMO-id:** Een volgcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
+**[AMO-id](/help/integrations/analytics/ids.md#amo-id):** Een volgcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
 
 **biedeenheid:** Een zoekterm, term voor sociale zaken en handel voor een eenheid waarop biedingen worden geplaatst. Voor de meeste campagnes op de meeste netwerken, is dit een sleutelwoord en zijn gelijkenis voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
 
@@ -164,7 +164,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 ## S-T {#s-t}
 
-**simulatie:** (Advertisers met portefeuilles) Portfolio modellering die het aantal klikpogingen en omzettingen schat dat een portefeuille voor verschillende uitgavenniveaus en overeenkomstige dagbegrotingen kan verwachten, gebruikend historische gegevens.
+**simulatie:** (Adverteerders met portefeuilles) Portfolio modellering die het aantal klikken en omzettingen schat dat een portefeuille voor verschillende uitgavenniveaus en overeenkomstige dagbegrotingen kan verwachten, gebruikend historische gegevens.
 
 **uitgavenstrategie:** (Advertisers met portfolio&#39;s) De geselecteerde strategie voor het optimaliseren van trefwoorden/advertenties voor een portfolio.
 
