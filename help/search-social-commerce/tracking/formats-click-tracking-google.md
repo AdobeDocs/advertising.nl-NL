@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Google Ads] rekeningen.
 exl-id: 68f6da43-3430-4c0a-9369-937fa52c071a
 feature: Search Tracking
-source-git-commit: 0c2603303dd9401b2d6fad2893f5a84cb457ed3a
+source-git-commit: ceb2fc07eb5116b3a2bb01cf72fd779f78bba1f0
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '547'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 
      `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-     Als de account een AMO-id-implementatie op de server heeft en de account- of campagne-instelling &quot;[!UICONTROL Auto Upload]&quot; is ingeschakeld, wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;Manieren om de AMO-id te implementeren&quot; in &quot;[Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement).&quot;
+     Als de account een AMO-id-implementatie op de server heeft en de account- of campagne-instelling &quot;[!UICONTROL Auto Upload]&quot; is ingeschakeld, wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement).&quot;
 
    * Alle andere [!DNL Google Ads] accounts:
 
