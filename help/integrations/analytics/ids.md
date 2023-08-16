@@ -3,7 +3,7 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 336664e00f626a7841c328b53b8f5cea1444f3d7
+source-git-commit: d5c894f4eaae5aaec72ca6f525ed625d08c9420d
 workflow-type: tm+mt
 source-wordcount: '1667'
 ht-degree: 0%
@@ -118,7 +118,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
       * Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] Wanneer de pixelserver de voor de account of campagne ingeschakelde instelling instelt, voegt deze automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising pixel klikt.
 
-      * voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] instellen uitgeschakeld, handmatig [voeg de parameter aan uw rekening-vlakke toevoegingsparameters toe](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, die deze toevoegen aan uw basis-URL&#39;s.
+      * voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] het plaatsen onbruikbaar maakt, voeg manueel de parameter aan uw toe [toevoegingsparameters op accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, die deze toevoegen aan uw basis-URL&#39;s.
 
 * De invoegfunctie aan de serverzijde is niet geïmplementeerd:
 
@@ -134,7 +134,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
       * Voor ([!DNL Google Ads] en [!DNL Microsoft® Advertising]), handmatig de parameter AMO ID toevoegen aan de achtervoegsels van de bestemmingspagina, idealiter op de [accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij afzonderlijke onderdelen van een account anders moeten worden getraceerd.
 
-      * Voor advertenties op alle andere advertentienetwerken, handmatig [voeg de parameter AMO ID toe aan de toevoegingsparameters op accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, die deze toevoegen aan uw basis-URL&#39;s.
+      * Voor advertenties op alle andere advertentienetwerken voegt u handmatig de AMO-id-parameter toe aan uw [toevoegingsparameters op accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, die deze toevoegen aan uw basis-URL&#39;s.
 
 Als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen, neemt u contact op met het accountteam van de Adobe.
 
