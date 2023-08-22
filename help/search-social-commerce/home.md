@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 8b90bb13-9fc1-4671-b16e-15c1d80aec6e
-source-git-commit: 846c85525059d1cbd2e61b6a494fb62f88db0096
+source-git-commit: 53c2712ff63aabf26b2f9a292ba62e068bf9db22
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 0%
@@ -18,7 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 15 augustus 2023 | Omzettingsmetriek | [!UICONTROL Admin] > [!DNL Transaction Properties] bevat nu een &quot;[!UICONTROL Source]&quot; kolom, die de bron van elke metrische waarde aangeeft, zoals [!UICONTROL Adobe Advertising], [!UICONTROL Adobe Analytics], [!UICONTROL Google Ads], of [!UICONTROL Custom Feed]. | Zie &quot;[De conversiemetriek voor een adverteerder bekijken](conversion-metric-view-tracked.md).&quot; |
+| 15 augustus 2023 | Omzettingsmetriek | [!UICONTROL Admin] > [!DNL Transaction Properties] bevat nu een &quot;[!UICONTROL Source]&quot; kolom, die de bron van elke metrische waarde aangeeft, zoals [!UICONTROL Adobe Advertising], [!UICONTROL Adobe Analytics], [!UICONTROL Google Ads], of [!UICONTROL Custom Feed]. | Zie &quot;[De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md).&quot; |
 | 9 augustus 2023 | Omzettingsmetriek | [!UICONTROL Admin] > [!DNL Transaction Properties] naam gewijzigd [!UICONTROL Conversions]. | Zie &quot;[Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot; |
 |  | [!DNL Google] tags voor bijhouden van conversie | Een bijgewerkt scherm om te maken [!DNL Google] tags voor bijhouden van conversie zijn beschikbaar via [!UICONTROL Admin] > [!UICONTROL Conversions]. Het oudere scherm op [!UICONTROL Tools] > [!UICONTROL Google Ads Conversion Tags] wordt in de toekomst verwijderd. | Zie &quot;[Een conversietag maken voor [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md).&quot; |
 |  | [!DNL Google] tags voor bijhouden van conversie | Wanneer u een [!DNL Google] trackingtag voor conversie, kunt u nu een conversiecategorie opgeven die u wilt bijhouden. | Zie &quot;[Een conversietag maken voor [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md).&quot; |
