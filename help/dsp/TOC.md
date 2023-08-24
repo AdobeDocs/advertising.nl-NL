@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: b505a40d04fc57fce245d111f58a614bd6756c65
+source-git-commit: 99f580547f4f0463418dfca52481e58927339169
 workflow-type: tm+mt
 source-wordcount: '902'
 ht-degree: 5%
@@ -63,7 +63,7 @@ ht-degree: 5%
       + [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
       + [Instellingen voor sleutelplaatsing snel bewerken](/help/dsp/campaign-management/placements/placement-quick-edit.md)
       + [Een plaatsing dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
-      + [Advertentie aan een Plaatsing vastmaken](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+      + [Een advertentie aan een plaatsing koppelen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Het advertentieschema voor een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)
       + [Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md)
@@ -78,7 +78,7 @@ ht-degree: 5%
       + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [Advertentie aan een Plaatsing vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [Een advertentie aan een plaatsing koppelen](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -93,7 +93,7 @@ ht-degree: 5%
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
    + Campagnerapporten {#campaign-reports}
-      + [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+      + [Over rapporten op het platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
@@ -107,8 +107,8 @@ ht-degree: 5%
       + [Gegevensvisualisatie beheren](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
    + Plaatsingsinstellingen corrigeren met behulp van werkbladen {#qa-spreadsheet}
       + [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
-      + [Plaatsingsinstellingen voor een campagne downloaden](/help/dsp/campaign-management/qa/qa-sheet-download.md)
-      + [Plaatsingsinstellingen voor een campagne uploaden](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
+      + [Plaatsingsinstellingen downloaden in een werkblad](/help/dsp/campaign-management/qa/qa-sheet-download.md)
+      + [Plaatsingsinstellingen uploaden naar een werkblad](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
       + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
@@ -125,7 +125,7 @@ ht-degree: 5%
    + [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md)
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
-   + [Over Audience Management](/help/dsp/audiences/audience-about.md)
+   + [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
    + Segmenten {#segments}
       + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
       + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
@@ -133,7 +133,7 @@ ht-degree: 5%
          + [Een [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
          + [Ophalen [!UICONTROL Consumer Opt-Out-of-Sale] Rapporten](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
       + [Segmentinformatie bewerken](/help/dsp/audiences/segment-edit.md)
-      + [Delen of Stoppen met delen van een segment](/help/dsp/audiences/segment-share.md)
+      + [Een segment delen of delen stoppen](/help/dsp/audiences/segment-share.md)
       + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
       + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Soorten publiek {#reusable-audiences}
@@ -145,7 +145,7 @@ ht-degree: 5%
       + [Een herbruikbaar publiek exporteren](/help/dsp/audiences/reusable-audience-export.md)
       + [Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord](/help/dsp/audiences/reusable-audience-clipboard.md)
       + [Een herbruikbaar publiek verwijderen](/help/dsp/audiences/reusable-audience-delete.md)
-      + [Instellingen publiek](/help/dsp/audiences/audience-settings.md)
+      + [Instellingen voor publiek](/help/dsp/audiences/audience-settings.md)
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Bronnen {#sources}
       + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
@@ -171,7 +171,7 @@ ht-degree: 5%
       + [Informatie over privé-voorraad](/help/dsp/inventory/private-inventory-about.md)
       + Deal IDs {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
-            + [Over het [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
+            + [Informatie over de [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
             + [Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
          + Handmatig ingevoerde deal-id&#39;s {#manual}
             + [Handmatig maken [!UICONTROL Deal ID] Details](/help/dsp/inventory/deal-id-create.md)
@@ -214,7 +214,7 @@ ht-degree: 5%
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
-+ Beheer {#admin}
++ Administratie {#admin}
    + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
    + Gebruikers {#users}
       + [Nieuwe gebruiker uitnodigen](/help/dsp/admin/user-invite.md)

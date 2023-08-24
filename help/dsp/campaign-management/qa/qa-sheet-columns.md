@@ -1,24 +1,24 @@
 ---
 title: Kolommen in gedownloade/geüploade werkbladen
-description: Verwijs naar de kolommen in gedownloade en geupload de spreadsheets van Excel QA.
+description: Verwijs naar de plaatsingsinstellingskolommen in gedownloade en geüploade spreadsheets.
 feature: DSP Placements
 exl-id: 698c0d86-cb2e-4d76-89c7-5584b6cdb542
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: ad0b5826e6639675f374837a04f9877fd05dd0c7
 workflow-type: tm+mt
-source-wordcount: '779'
+source-wordcount: '1010'
 ht-degree: 0%
 
 ---
 
-# Kolommen in gedownloade/geüploade werkbladen
-
-<!-- rename -- not specific enough - I think you can download Excel files of other things too -->
+# Plaatsingsinstellingskolommen in gedownloade/geüploade werkbladen
 
 <!-- see notes within the table about descriptions that need to be edited -->
 
 >[!TIP]
 >
 > In een gedownloade spreadsheet worden alle bewerkbare kolommen in blauw gemarkeerd.
+
+## Spreadsheets op campagnereniveau
 
 | Sectie | Kolom | Beschrijving | Bewerkbaar? |
 |---------|--------|-------------|-----------|
@@ -46,7 +46,7 @@ ht-degree: 0%
 | [!UICONTROL Goals] | [!UICONTROL Frequency Cap Interval] | Het interval voor de primaire frequentiedop: *[!UICONTROL Day]*, *[!UICONTROL Week]*, of *[!UICONTROL Month]*. | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap] | De secundaire frequentiedop voor de plaatsing tijdens de opgegeven [!UICONTROL Secondary Frequency Cap Interval] | Ja |
 | [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval] | Het type interval voor de secundaire frequentiedop: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]*, of *[!UICONTROL Minute]*. Het toepasselijke aantal weken, dagen, uren of minuten wordt aangegeven door de [!UICONTROL Secondary Frequency Cap Interval Value]. | Ja |
-| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval Value] | Het aantal weken, dagen, uren of minuten waarvoor de [!UICONTROL Secondary Frequency Cap] van toepassing. Als de secundaire dop bijvoorbeeld drie indrukken per zes uur heeft, is de waarde hier <b>6&lt;/>. | Ja |
+| [!UICONTROL Goals] | [!UICONTROL Secondary Frequency Cap Interval Value] | Het aantal weken, dagen, uren of minuten waarvoor de [!UICONTROL Secondary Frequency Cap] van toepassing. Als de secundaire dop bijvoorbeeld drie indrukkingen per zes uur heeft, is de waarde hier `6`. | Ja |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included #] | het aantal beoogde geografische locaties; *[!UICONTROL All]*, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Included] | de beoogde geografische locaties, gescheiden door puntkomma&#39;s, of *[!UICONTROL All Locations]*. | — |
 | [!UICONTROL Audience Location] | [!UICONTROL Audience Location - Excluded #] | Het aantal uitgesloten geografische locaties of *[!UICONTROL None]*. | — |
@@ -56,7 +56,7 @@ ht-degree: 0%
 | [!UICONTROL Inventory] | [!UICONTROL Private Inventory - Included #] | het aantal beoogde transacties in de particuliere inventaris, indien van toepassing, *[!UICONTROL All]*, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Inventory] | [!UICONTROL Private Inventory - Excluded #] | het aantal eventuele uitgesloten transacties in de particuliere inventaris, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Inventory] | [!UICONTROL On Demand Inventory - Included #] | Het aantal doelgroepen [!UICONTROL On-Demand Inventory] transacties, indien gespecificeerd; *[!UICONTROL All]*, of *[!UICONTROL None]*. | — |
-| [!UICONTROL Inventory] | [!UICONTROL On Demand Inventory - Excluded #] | het aantal eventueel gespecificeerde uitgesloten transacties in de inventarisatie op aanvraag, of *[!UICONTROL None]*. | — |
+| [!UICONTROL Inventory] | [!UICONTROL On Demand Inventory - Excluded #] | het aantal uitgesloten transacties in de inventarisatie op aanvraag, indien van toepassing, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Sites] | [!UICONTROL Traffic Type] | Het beoogde type verkeer: *[!UICONTROL Website]* en/of *[!UICONTROL Apps]* | — |
 | [!UICONTROL Sites] | [!UICONTROL Exclude out-stream] | Of de het Targeteren optie van de Inventaris om stroomafwaarts verkeer uit te sluiten is &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />* of *[!UICONTROL OFF]*.[!UICONTROL >ON]<br>Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in de eigen ervaring) weergegeven in plaats van als gewone videobanden in een videospeler. | — |
 | [!UICONTROL Sites] | [!UICONTROL Site Tier] | De kwaliteit van de sites waarop u zich wilt richten: *[!UICONTROL Tier 1]*, *[!UICONTROL Tier 2]*, *[!UICONTROL Tier 3]*, of *[!UICONTROL All Sites]*. | — |
@@ -84,14 +84,32 @@ ht-degree: 0%
 | [!UICONTROL Tracking] | [!UICONTROL Conversion Pixels #] | Het aantal conversiepixels dat aan de plaatsing is gekoppeld, of *[!UICONTROL None]*. | — |
 | [!UICONTROL Tracking] | [!UICONTROL 3rd-party fees] | Een statisch tarief van een vergoeding van derden dat moet worden bijgehouden als niet-factureerbare kosten per 1000 impressies, indien van toepassing. | — |
 | [!UICONTROL Ads] | [!UICONTROL # of Ads Attached] | het aantal advertenties dat aan de plaatsing is gekoppeld, indien aanwezig, of *[!UICONTROL None]*. | — |
-| [!UICONTROL Ads] | [!UICONTROL Ad Names] | de namen van de advertenties die aan de plaatsing zijn gekoppeld, indien van toepassing, of *[!UICONTROL None]*. | — |
+| [!UICONTROL Ads] | [!UICONTROL Ad Names] | de namen van advertenties die aan de plaatsing zijn gekoppeld, of *[!UICONTROL None]*. | — |
+| [!UICONTROL Ads] | [!UICONTROL Attached Ad ID] | De unieke, DSP gegenereerde advertentie-id&#39;s van advertenties die aan de plaatsing zijn gekoppeld, gescheiden door puntkomma&#39;s. Een lijst met advertentienamen en bijbehorende advertentie-id&#39;s downloaden van de [!UICONTROL Ads] een aangepaste weergave maken die de [!UICONTROL Ad ID] metrisch, en dan [de gegevens exporteren](/help/dsp/campaign-management/reports/campaign-export-data.md). | Ja |
 
-{style="table-layout:auto"}
+## Werkbladen op plaatsingsniveau
+
+| Kolom | Beschrijving | Bewerkbaar? |
+|--------|-------------|-----------|
+| [!UICONTROL Placement ID] | De numerieke id van de plaatsing. | — |
+| [!UICONTROL Placement Name] | De naam van de plaatsing. | Ja |
+| [!UICONTROL Package Name] | De naam van het bovenliggende pakket, indien van toepassing. | — |
+| [!UICONTROL Start Date] | De begindatum van de plaatsing. | — |
+| [!UICONTROL End Date] | De einddatum van de plaatsing. | — |
+| [!UICONTROL Status] | De plaatsingsstatus: *[!UICONTROL active]* of *[!UICONTROL inactive]*. | — |
+| [!UICONTROL Max Bid] | Het maximumbod voor de plaatsing. | Ja |
+| [!UICONTROL Budget] | Het budget voor plaatsing, als dat er is. | Ja |
+| [!UICONTROL Budget Interval] | Het begrotingsinterval: &lt;i span=&quot;&quot; id=&quot;0&quot; translate=&quot;no&quot; />*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, of *[!UICONTROL All Time]*.[!UICONTROL >Daily] | Ja |
+| [!UICONTROL Primary Frequency Cap] | De primaire frequentiedop voor de plaatsing tijdens de opgegeven [!UICONTROL Primary Frequency Cap Interval]. | Ja |
+| [!UICONTROL Primary Frequency Cap Interval] | Het interval voor de primaire frequentiedop: *[!UICONTROL Day]*, *[!UICONTROL Week]*, of *[!UICONTROL Month]*. | Ja |
+| [!UICONTROL Secondary Frequency Cap] | De secundaire frequentiedop voor de plaatsing tijdens de opgegeven [!UICONTROL Secondary Frequency Cap Interval] | Ja |
+| [!UICONTROL Secondary Frequency Cap Interval] | Het type interval voor de secundaire frequentiedop: *[!UICONTROL Week]*, *[!UICONTROL Day]*, *[!UICONTROL Hour]*, of *[!UICONTROL Minute]*. Het toepasselijke aantal weken, dagen, uren of minuten wordt aangegeven door de [!UICONTROL Secondary Frequency Cap Interval Value]. | Ja |
+| [!UICONTROL Secondary Frequency Cap Interval Value] | Het aantal weken, dagen, uren of minuten waarvoor de [!UICONTROL Secondary Frequency Cap] van toepassing. Als de secundaire dop bijvoorbeeld drie indrukkingen per zes uur heeft, is de waarde hier `6`. | Ja |
+| [!UICONTROL Attached Ad ID] | De unieke, DSP gegenereerde advertentie-id&#39;s van advertenties die aan de plaatsing zijn gekoppeld, gescheiden door puntkomma&#39;s. Een lijst met advertentienamen en bijbehorende advertentie-id&#39;s downloaden van de [!UICONTROL Ads] een aangepaste weergave maken die de [!UICONTROL Ad ID] metrisch, en dan [de gegevens exporteren](/help/dsp/campaign-management/reports/campaign-export-data.md). | Ja |
 
 >[!MORELIKETHIS]
 >
->* [Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](qa-about.md)
->* [Plaatsingsinstellingen voor een campagne downloaden](qa-sheet-download.md)
->* [Plaatsingsinstellingen voor een campagne uploaden](qa-sheet-upload.md)
+>* [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](qa-about.md)
+>* [Plaatsingsinstellingen downloaden in een werkblad](qa-sheet-download.md)
+>* [Plaatsingsinstellingen uploaden naar een werkblad](qa-sheet-upload.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-

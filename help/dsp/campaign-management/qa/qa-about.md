@@ -1,18 +1,18 @@
 ---
-title: Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets
-description: Leer hoe u belangrijke plaatsingsinstellingen voor een campagne kunt bekijken en bewerken met Excel QA-werkbladen.
+title: Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets
+description: Leer hoe u de instellingen voor toetsplaatsing kunt bekijken en bewerken met spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 99f580547f4f0463418dfca52481e58927339169
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '139'
 ht-degree: 0%
 
 ---
 
-# Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets
+# Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets
 
-Met de functie QA-spreadsheet kunt u de plaatsingsinstellingen voor een campagne downloaden in de indeling XLSX (Excel-spreadsheet) voor revisie. Met deze functie kunt u snel details bekijken zoals:
+U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne downloaden in de XLSX-indeling (Excel-spreadsheet) voor revisie. Met deze functie kunt u snel details bekijken zoals:
 
 * Dit publiek past de campagnedoelen toe.
 * Wanneer de plaatsingen beginnen te leveren, en wanneer zullen zij ophouden.
@@ -22,11 +22,10 @@ Vervolgens kunt u wijzigingen aanbrengen om velden te selecteren en deze weer in
 
 >[!TIP]
 >
->Als u uitgebreidere wijzigingen wilt aanbrengen in de plaatsingsinstellingen, gebruikt u de functie voor het bulksgewijs bewerken.<!-- add link once we have help on it -->
+>Als u uitgebreidere wijzigingen wilt aanbrengen in de plaatsingsinstellingen, gebruikt u de opdracht [bulkbewerkingsfunctie](/help/dsp/campaign-management/placements/placement-edit.md).
 
 >[!MORELIKETHIS]
 >
->* [Plaatsingsinstellingen voor een campagne downloaden](qa-sheet-download.md)
->* [Plaatsingsinstellingen voor een campagne uploaden](qa-sheet-upload.md)
+>* [Plaatsingsinstellingen downloaden in een werkblad](qa-sheet-download.md)
+>* [Plaatsingsinstellingen uploaden naar een werkblad](qa-sheet-upload.md)
 >* [Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)
-

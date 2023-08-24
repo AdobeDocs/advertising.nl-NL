@@ -1,20 +1,22 @@
 ---
-title: Plaatsingsinstellingen voor een campagne downloaden
-description: Leer hoe te om de plaatsingsmontages voor een campagne te downloaden gebruikend de spreadsheets van Excel QA.
+title: Plaatsingsinstellingen downloaden in een werkblad
+description: Leer hoe u de plaatsingsinstellingen in spreadsheets kunt downloaden.
 feature: DSP Placements
 exl-id: dd65eec8-9616-4eca-b6b9-b904b3e65141
-source-git-commit: 735bbe90e313dfe93408d72875654830d96f0889
+source-git-commit: d8c59b2c39a4c0f7c9dca92cdc8081de7debf629
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '228'
 ht-degree: 0%
 
 ---
 
-# Plaatsingsinstellingen voor een campagne downloaden
+# Plaatsingsinstellingen downloaden in een werkblad
 
-U kunt de plaatsingsinstellingen voor een campagne downloaden in de XLSX-indeling (Excel-spreadsheet).
+U kunt plaatsingsinstellingen downloaden in de XLSX-indeling (Excel-spreadsheet).
 
 Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in het gedownloade bestand en [uploaden de wijzigingen](qa-sheet-upload.md) tot DSP.
+
+## Instellingen downloaden voor alle locaties in een campagne
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -34,9 +36,23 @@ Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in h
 
    Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)&quot; voor een lijst van de opgenomen kolommen.
 
+## Downloadinstellingen voor een of meer locaties
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+
+1. Klik op de naam van de campagne.
+
+1. Klik in het submenu op **[!UICONTROL Placements]**.
+
+1. Schakel het selectievakje in naast elke plaatsing waarvan u de instellingen wilt downloaden.
+
+1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]**.
+
+Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)&quot; voor een lijst van de opgenomen kolommen.
+
 >[!MORELIKETHIS]
 >
->* [Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](qa-about.md)
->* [Plaatsingsinstellingen voor een campagne uploaden](qa-sheet-upload.md)
+>* [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](qa-about.md)
+>* [Plaatsingsinstellingen uploaden naar een werkblad](qa-sheet-upload.md)
 >* [Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)

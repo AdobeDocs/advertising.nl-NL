@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
+source-git-commit: 99f580547f4f0463418dfca52481e58927339169
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '274'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 
    1. Kies de instelling in de lijst.
 
-   1. Selecteer **[!UICONTROL Edit Mode]**.
+   1. Selecteer de **[!UICONTROL Edit Mode]**.
 
       De opties variëren per instelling, maar kunnen het volgende omvatten:
 
@@ -71,8 +71,8 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
       * **Pauzeren** (om advertenties te pauzeren)
 
       * **Verwijderen** (opgegeven waarden verwijderen)
-   1. Bewerk de [plaatsingsinstelling](placement-settings.md).
 
+   1. Bewerk de [plaatsingsinstelling](placement-settings.md).
 
 1. Klik op **[!UICONTROL Submit]**.
 
@@ -87,6 +87,5 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Informatie over het corrigeren van plaatsingsinstellingen voor een campagne met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
+>* [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
 >* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
-
