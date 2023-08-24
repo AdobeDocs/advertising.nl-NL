@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 095af9bbf0b4f69e626a44cf3afe35d50b3e0b81
+source-git-commit: 237b37a03664abab00c9fd4b68a564a0f57cdc5c
 workflow-type: tm+mt
-source-wordcount: '1443'
+source-wordcount: '1553'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 23 augustus 2023 | [!UICONTROL Placements] | U kunt nu snel meerdere advertenties aan plaatsen koppelen door een spreadsheetbestand te downloaden voor een campagne of voor een of meer plaatsen, het bestand te bewerken om waarden op te nemen in het nieuwe &quot;[!UICONTROL Attached Ad ID]&quot; en uploadt u het bewerkte bestand. Gebruik de kolom om advertenties aan de plaatsing toe te voegen maar hen niet te verwijderen.<br><br>Een lijst met advertentienamen en bijbehorende namen downloaden [!UICONTROL Ad ID]s, ga naar [!UICONTROL Ads] een aangepaste weergave maken die de [!UICONTROL ID] metrisch, en voert dan de gegevens uit. | Zie &quot;[Plaatsingsinstellingen downloaden in een werkblad](/help/dsp/campaign-management/qa/qa-sheet-download.md),&quot; &quot;[Plaatsingsinstellingskolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md),&quot; en &quot;[Plaatsingsinstellingen uploaden naar een werkblad](/help/dsp/campaign-management/qa/qa-sheet-upload.md).&quot;<br><br>Zie ook &quot;[Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md).&quot; |
 | 19 juli 2023 | Inventaris | U kunt nu door uitgevers beheerde advertenties uitvoeren voor door het programma gegarandeerde deals met door Google geautoriseerde kopers SSP. Door uw advertenties rechtstreeks bij de uitgever te hosten in plaats van in DSP, kunt u gebruikmaken van aangepaste rijke media en indelingen. Aangepaste advertentievormen worden doorgaans uitgevoerd via directe reserveringen, zodat u met de mogelijkheid om door de uitgever beheerde advertenties in DSP te selecteren ook uw directe reserveringsbudgetten kunt verschuiven naar het programmatische ecosysteem. | Zie &quot;[Ongeveer Programma Gegarandeerde Overeenkomsten](/help/dsp/inventory/programmatic-guaranteed-about.md)&quot; en &quot;[Opstelling een Programma Gegarandeerde Overeenkomst](/help/dsp/inventory/programmatic-guaranteed-set-up.md).&quot; |
 | 19 juli 2023 | Rapportage | De nieuwe [!UICONTROL Household Conversions Report] toont mening-door omzettingen op het niveau van het huishouden die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. | Zie &quot;[Over rapporten](/help/dsp/reports/report-about.md)&quot; en &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md).&quot; |
 | 29 mei 2023 | [!UICONTROL Campaigns] | U kunt nu campagnes, pakketten en advertenties pauzeren of activeren. U kunt plaatsing al pauzeren en activeren. | Zie &quot;[Een campagne onderbreken of activeren](/help/dsp/campaign-management/campaigns/campaign-pause-activate.md),&quot; &quot;[Een pakket onderbreken of activeren](/help/dsp/campaign-management/packages/package-pause-activate.md),&quot; en &quot;[Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md).&quot; |
