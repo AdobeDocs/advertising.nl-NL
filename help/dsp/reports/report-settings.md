@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: fbe955795e6c451313f80056ca65ad210f752ddf
+source-git-commit: a2712e16a54c7108e5999cb1b8db46e507a9ed55
 workflow-type: tm+mt
-source-wordcount: '1170'
+source-wordcount: '1249'
 ht-degree: 0%
 
 ---
@@ -126,11 +126,13 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 * *[!UICONTROL sFTP]:* Om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL FTP]:* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL FTP SSL](Momenteel in bèta):* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden SSL, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
-* *[!UICONTROL Email]:* E-mailadres(sen) opgeven waarnaar ingevulde rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd. Als u meerdere adressen wilt opgeven, scheidt u deze met komma&#39;s of spaties.
+* *[!UICONTROL Email]:* E-mailadres(sen) opgeven waarnaar ingevulde rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
 >[!NOTE]
 >
 > U kunt niet het bestemmingstype veranderen zodra u het rapport opslaat.
+
+**[!UICONTROL Email]:** (Alleen type e-mailbestemming) Voer voor elk adres het adres in en klik op **+**.
 
 **[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de rapportbestemmingen waarnaar het douanerapport zal worden verzonden.
 
@@ -148,9 +150,13 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Frequency]:** (Voor elke [!UICONTROL Destination Name]) Hoe vaak moet het rapport naar de bestemming worden gestuurd: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, of *[!UICONTROL Monthly]*.
 
+**[!UICONTROL Start Day]:** (Voor elke [!UICONTROL Destination Name] met een [!UICONTROL Frequency] van *[!UICONTROL Weekly]* of *[!UICONTROL Monthly]*) Welke dag waarop het rapport moet worden opgesteld. Selecteer de dag van de week voor wekelijkse rapporten. Selecteer de numerieke dag van de maand voor maandelijkse rapporten.
+
 ## [!UICONTROL Save Report] Sectie
 
-**[!UICONTROL Send & Save]:** Wanneer het rapport wordt verzonden: *[!UICONTROL On Schedule]* of *[!UICONTROL Run Now]*. Geplande rapporten worden geleverd tegen 9.00 uur in de tijdzone van de account.
+**[!UICONTROL When to Generate]:** Wanneer om het rapport te produceren: *[!UICONTROL On Schedule]* of *[!UICONTROL Run Now]*. Geplande rapporten worden geleverd tegen 9.00 uur in de tijdzone van de account.
+
+**[!UICONTROL End Date]:** De vervaldatum van het rapport, die tot vier maanden kan zijn over. Voordat een rapport verloopt, ontvangen alle opgegeven e-mailontvangers zeven dagen en één dag vóór de vervaldatum een e-mailwaarschuwing. Om het rapport langer te houden, verander de vervaldatum in de rapportmontages.
 
 >[!NOTE]
 >
