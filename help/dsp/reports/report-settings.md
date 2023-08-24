@@ -3,7 +3,7 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 54e60a47c54eaac687fd0b385a94b25818b66b71
+source-git-commit: fbe955795e6c451313f80056ca65ad210f752ddf
 workflow-type: tm+mt
 source-wordcount: '1170'
 ht-degree: 0%
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 * **[!UICONTROL Previous N days]:** Bevat gegevens voor een specifiek aantal dagen vóór vandaag.
 
-* **[!UICONTROL Custom]:** Bevat gegevens tussen specifieke begin- en einddatums. Selecteer **[!UICONTROL Present]**.
+* **[!UICONTROL Custom]:** Bevat gegevens tussen specifieke begin- en einddatums. Als u gegevens tot en met de vorige dag wilt rapporteren, selecteert u **[!UICONTROL Present]**.
 
 * **[!UICONTROL Last Calendar Month]:** Bevat gegevens voor de vorige kalendermaand.
 
 **[!UICONTROL Add Filters]:** (Optioneel) Aanvullende afmetingen waarmee de gegevens kunnen worden gefilterd, ongeacht of de afmetingen als kolommen in het rapport zijn opgenomen. De beschikbare filters variëren per rapporttype en kunnen omvatten: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]*, en *[!UICONTROL Video Duration]*.
 
-\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor wordt gevormd [cross-account rapportage](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met het accountteam van Adobe voor meer informatie over cross-account rapportage.
+\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor wordt gevormd [cross-account rapportage](report-about.md#cross-account-reporting):  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met het accountteam van de Adobe voor meer informatie over het melden van overschrijvingen.
 
 Ga als volgt te werk om een of meer filters toe te passen:
 
@@ -42,7 +42,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 ## [!UICONTROL Build Your Report] Sectie
 
-**[!UICONTROL Select To Add As Report Headers]:**  De gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. De beschikbare gegevenscategorieën zijn:
+**[!UICONTROL Select To Add As Report Headers]:**  De gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. De beschikbare gegevenscategorieën zijn onder meer:
 
 * [!UICONTROL Dimensions]
 
@@ -72,13 +72,13 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Attribution Rule Settings]:** De instellingen variëren per rapporttype:
 
-* **\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
+* **\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met de conversie van de Adobe Advertising slechts volgen) binnen het rapport, hoe te om omzettingsgegevens in een reeks gebeurtenissen toe te schrijven die tot een omzetting leiden:
 
    * *[!UICONTROL Unique]:* (De standaardwaarde) Telt het aantal keren dat een waarde voor de dimensie (zoals een apparaat of plaatsing) zich op het pad naar de conversie bevond.
 
    * *[!UICONTROL Multi-Touch Attribution (MTA)]:*  Verdeelt het krediet van elke omzetting op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
 
-* **\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+* **\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen Adobe Advertising conversie) In het rapport wordt uitgelegd hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
 
   >[!NOTE]
   >
@@ -102,7 +102,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
   <!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
 
-* **Opzoeken:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport: het maximumaantal dagen na een impressiegebeurtenis waarin een conversiegebeurtenis aan het rapport kan worden toegeschreven. De standaardwaarde is *[!UICONTROL 30 days]*, en het maximum is 92 dagen.
+* **Opzoeken:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen Adobe Advertising conversie) In het rapport: het maximumaantal dagen na een impressiegebeurtenis waarin een conversiegebeurtenis aan het kan worden toegeschreven. De standaardwaarde is *[!UICONTROL 30 days]*, en het maximum is 92 dagen.
 
 **[!UICONTROL Paths as Columns]:**  (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment], en [!UICONTROL Site] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) Welke soorten omzettingen om te melden wanneer de vroegere gebeurtenissen op het zelfde apparaat voorkwamen. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)], of [!UICONTROL (vt)]):
 
@@ -122,7 +122,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Destination Type]:** Kies een van de volgende doeltypen:
 
-* *[!UICONTROL S3]:* Om het voltooide rapport naar één of meerdere te verzenden [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) locaties, die u opgeeft in het dialoogvenster **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL S3]:* Om het voltooide rapport naar één of meerdere te verzenden [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen, die u in **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL sFTP]:* Om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL FTP]:* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL FTP SSL](Momenteel in bèta):* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden SSL, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
@@ -134,7 +134,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de rapportbestemmingen waarnaar het douanerapport zal worden verzonden.
 
-* Als u een bestaand doel wilt opgeven, selecteert u een doelnaam in de lijst. U kunt meerdere doelnamen afzonderlijk selecteren.
+* Selecteer een doelnaam in de lijst om een bestaand doel op te geven. U kunt meerdere doelnamen afzonderlijk selecteren.
 
 * Een nieuw doel maken:
 
@@ -146,7 +146,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
       De nieuwe bestemming is nu beschikbaar van de lijst van bestaande bestemmingen, en u kunt naar keuze het aan het rapport toevoegen.
 
-**[!UICONTROL Frequency]:** (Voor elke [!UICONTROL Destination Name] Hoe vaak om het rapport naar de bestemming te verzenden: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, of *[!UICONTROL Monthly]*.
+**[!UICONTROL Frequency]:** (Voor elke [!UICONTROL Destination Name]) Hoe vaak moet het rapport naar de bestemming worden gestuurd: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, of *[!UICONTROL Monthly]*.
 
 ## [!UICONTROL Save Report] Sectie
 
@@ -154,7 +154,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 >[!NOTE]
 >
->U kunt [een aangepast rapport op elk gewenst moment uitvoeren](report-run-now.md) van de [!UICONTROL Reports] weergeven.
+>U kunt [een aangepast rapport altijd uitvoeren](report-run-now.md) van de [!UICONTROL Reports] weergeven.
 
 >[!MORELIKETHIS]
 >

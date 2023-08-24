@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen voor een campagne downloaden
 description: Leer hoe te om de plaatsingsmontages voor een campagne te downloaden gebruikend de spreadsheets van Excel QA.
 feature: DSP Placements
 exl-id: dd65eec8-9616-4eca-b6b9-b904b3e65141
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 735bbe90e313dfe93408d72875654830d96f0889
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -22,16 +22,17 @@ Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in h
 
    * Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
 
-   * Klik op de naam van de campagne om de details van de campagne weer te geven. Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
+   * Klik op de naam van de campagne om de details van de campagne weer te geven. Klik rechtsboven op **[!UICONTROL ...]** > **[!UICONTROL Download Excel QA sheet]**.
 
    Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in het meldingsbericht op **[!UICONTROL Download].**
+   * Klik in het bericht op **[!UICONTROL Download].**
 
    * Klik rechts van de bovenste menubalk op ![Taken](/help/dsp/assets/downloads.png). Klikken **[!UICONTROL Download]** naast de taak.
-   Het bestand wordt opgeslagen in de downloadmap van de browser. Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)&quot; voor een lijst van de opgenomen kolommen.
+
+   Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)&quot; voor een lijst van de opgenomen kolommen.
 
 >[!MORELIKETHIS]
 >
@@ -39,4 +40,3 @@ Indien nodig kunt u later bewerken [velden selecteren](qa-sheet-columns.md) in h
 >* [Plaatsingsinstellingen voor een campagne uploaden](qa-sheet-upload.md)
 >* [Kolommen in gedownloade/geüploade werkbladen](qa-sheet-columns.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
