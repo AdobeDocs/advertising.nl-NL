@@ -3,18 +3,16 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: eda0459472c1e4a8297daf69454de0fcb3d4f8ca
+source-git-commit: ce35295fcb003b1cc0a171d171317601eadf6288
 workflow-type: tm+mt
-source-wordcount: '1255'
+source-wordcount: '1238'
 ht-degree: 0%
 
 ---
 
 # Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 
-DSP kunnen uw prestatiegerichte campagnes voor plaatsing met de laagste kosten per aanschaf (CPA) of het hoogste rendement op advertentie (ROAS) optimaliseren.
-
-Raadpleeg de volgende aanbevolen procedures voor prestatiecampagnes:
+DSP kan uw prestatiegerichte campagnes optimaliseren. Raadpleeg de volgende aanbevolen procedures voor prestatiecampagnes:
 
 * Stap 1 - Bepaal uw Doel
 * Stap 2 - Definieer uw strategie
@@ -24,7 +22,7 @@ Raadpleeg de volgende aanbevolen procedures voor prestatiecampagnes:
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) daartoe &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;). Voor elk pakket in de campagne, zult u het objectieve doel dienovereenkomstig specificeren.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) daartoe &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;). Voor elk pakket in de campagne, zult u het optimalisatiedoel dienovereenkomstig specificeren.
 
 ![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
 
