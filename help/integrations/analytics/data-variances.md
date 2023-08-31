@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 6e5d79eb9c04a12813c42e33a2228c69f2adbaae
+source-git-commit: e564ea441e5ea0d25ee7f99962e72192750c5c40
 workflow-type: tm+mt
-source-wordcount: '3268'
+source-wordcount: '3265'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ Als een terugkijkvenster of attributenmodel van het rapport in één product en 
 
 >[!IMPORTANT]
 >
->De beste praktijken moeten de zelfde raadplegingsvensters en attributenmodel in zowel Adobe Advertising als gebruiken [!DNL Analytics]. Werk zo nodig samen met het accountteam van Adobe om de huidige instellingen te identificeren en de te synchroniseren.
+>De beste praktijken moeten de zelfde raadplegingsvensters en attributenmodel in zowel Adobe Advertising als gebruiken [!DNL Analytics]. Werk zo nodig samen met het accountteam van de Adobe om de huidige instellingen te identificeren en de configuraties synchroon te houden.
 
 Deze zelfde concepten zijn op een andere gelijkaardige kanalen van toepassing die verschillende raadplegingsvensters of attributiemodellen gebruiken.
 
@@ -154,15 +154,15 @@ De [!DNL Paid Search Detection] Met rapporten kunt u natuurlijk zoekverkeer in h
 
 Voor uw integratie moet u uw doorklikgegevens valideren om ervoor te zorgen dat alle pagina&#39;s op uw site de doorklikbewerkingen correct bijhouden.
 
-In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] Bij het bijhouden moet u klikken met instanties vergelijken met de berekende metrische waarde &quot;Klikken op AMO ID-instanties&quot;, die als volgt wordt berekend:
+In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] het volgen moet kliks aan instanties vergelijken gebruikend &quot;klikt aan [!UICONTROL AMO ID Instances]&quot; berekende metrische waarde, die als volgt wordt berekend:
 
 ```
-Clicks to AMO ID Instances = (AMO ID Instances / AMO Clicks)
+Clicks to [!UICONTROL AMO ID Instances] = ([!UICONTROL AMO ID Instances] / Adobe Advertising Clicks)
 ```
 
 [!UICONTROL AMO ID Instances] geeft het aantal keren weer dat [AMO-id&#39;s](ids.md) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een AMO-id (`s_kwcid`) wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
 
-In rapporten van de Adobe Advertising, kunt u klikken aan instanties op dezelfde manier vergelijken gebruikend &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
+In rapporten van de Adobe Advertising, kunt u klikken aan instanties op een vergelijkbare manier vergelijken gebruikend &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 
 ```
 Clicks to [EF ID Instances = (ef_id_instances / Clicks)
@@ -198,7 +198,7 @@ waarbij de EF-id &quot;`test_ef_id`&quot; en de AMO-id &quot;`test_amo_id#redire
 
 In dit voorbeeld worden door het toevoegen van de ankertag onverwachte tekens aan de AMO-id toegevoegd. Dit leidt tot een waarde die Analytics niet herkent. Deze AMO-id zou niet geclassificeerd worden en conversies die eraan gekoppeld zijn, vallen onder &quot;[!UICONTROL unspecified]&quot; of &quot;[!UICONTROL none]&quot; in [!DNL Analytics] rapporten.
 
-Gelukkig, terwijl de kwesties als dit gemeenschappelijk zijn, resulteren zij typisch niet in een hoog percentage van discrepantie. Als u echter een grote discrepantie tussen AMO-id&#39;s constateert in [!DNL Analytics] en EF-id&#39;s in Adobe Advertising, neemt u contact op met uw Adobe-accountteam voor hulp.
+Gelukkig, terwijl de kwesties als dit gemeenschappelijk zijn, resulteren zij typisch niet in een hoog percentage van discrepantie. Als u echter een grote discrepantie tussen AMO-id&#39;s constateert in [!DNL Analytics] en EF IDs in Adobe Advertising, contacteer uw Team van de Rekening van de Adobe voor hulp.
 
 ## Andere metrische overwegingen
 
@@ -230,25 +230,25 @@ Klikken en doorklikken kunnen sterk verschillen als gevolg van een ongeluk en kl
 
 Sites die op mobiele apparaten worden geladen, zullen ook minder vaak een doorklik tot gevolg hebben vanwege een lagere bandbreedte of een lagere verwerkingscapaciteit, waardoor het langer duurt om bestemmingspagina&#39;s te laden. Het is niet ongebruikelijk voor 50-70% van kliks om niet in klikproductie te resulteren. In mobiele omgevingen kan het verschil oplopen tot 90% vanwege de combinatie van een langzamere browser en de hogere kans dat de gebruiker per ongeluk op de advertentie klikt terwijl de pagina wordt doorgeschoven of de advertentie wordt gesloten.
 
-De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app gaan) niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met mening-door JavaScript benadering, browsers die derdecookies blokkeren zal klikken volgen, maar niet kliks-door). Een belangrijke reden dat Adobe aanbeveelt om zowel de aanpak voor het bijhouden van klikken op URL&#39;s als de aanpak voor het bijhouden van JavaScript-weergaven te implementeren, is het maximaliseren van de dekking van doorklikbare doorklikbewerkingen.
+De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app gaan) niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met mening-door JavaScript benadering, browsers die derdecookies blokkeren zal klikken volgen, maar niet kliks-door). Een zeer belangrijke reden dat de Adobe aanbeveelt zowel de klik URL het volgen als mening-door JavaScript het volgen benaderingen op te stellen is dekking van volgbare klikthrough te maximaliseren.
 
-### Het gebruiken van de Metriek van het Verkeer van de Adobe Advertising voor niet-Adobe Advertising Dimension
+### Het gebruiken van de Metriek van het Verkeer van de Adobe Advertising voor Dimensionen niet van de Adobe Advertising
 
 Adobe Advertising biedt Analytics met [reclamespecifieke verkeersmaatstaven en de daarmee verband houdende afmetingen van [!DNL DSP] en [!DNL Search, Social, & Commerce]](advertising-metrics-in-analytics.md). De Adobe Advertising-verstrekte metriek is van toepassing slechts op de gespecificeerde afmetingen van de Adobe Advertising, en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
 
-Als u bijvoorbeeld de [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] metriek door Rekening, die een dimensie van de Adobe Advertising is, dan zult u het totaal zien [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] per rekening.
+Als u bijvoorbeeld de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door Rekening, die een dimensie van de Adobe Advertising is, dan zult u het totaal zien [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] per rekening.
 
 ![Voorbeeld van Adobe Advertising metriek in een rapport gebruikend een dimensie van de Adobe Advertising](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
-Als u echter de [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] metriek door een op-pagina afmeting (zoals Pagina), waarvoor de Adobe Advertising geen gegevens verstrekt, toen [!UICONTROL AMO Clicks] en [!UICONTROL AMO Cost] voor elke pagina is dit nul (0).
+Als u echter de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door een op-pagina afmeting (zoals Pagina), waarvoor de Adobe Advertising geen gegevens verstrekt, toen [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] voor elke pagina is dit nul (0).
 
 ![Voorbeeld van meetgegevens voor Adoben Advertising in een rapport met een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 
-### Gebruiken [!UICONTROL AMO ID Instances] als plaatsvervanger voor Klikken met Dimension van niet-Adobe Advertising
+### Gebruiken [!UICONTROL AMO ID Instances] als plaatsvervanger voor Klikken met Dimensionen zonder Adobe Advertising
 
-Omdat u het niet kunt gebruiken [!UICONTROL AMO Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] komt niet overeen [!UICONTROL AMO Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Gegevensvalidatie voor [!DNL Analytics for Advertising]](#data-validation).&quot;
+Omdat u het niet kunt gebruiken [!UICONTROL Adobe Advertising Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] komt niet overeen [!UICONTROL Adobe Advertising Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Gegevensvalidatie voor [!DNL Analytics for Advertising]](#data-validation).&quot;
 
-![Voorbeeld van [!UICONTROL AMO ID Instances] in plaats van [!UICONTROL AMO Clicks] voor een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-amo-id-instances.png)
+![Voorbeeld van [!UICONTROL AMO ID Instances] in plaats van [!UICONTROL Adobe Advertising Clicks] voor een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-amo-id-instances.png)
 
 >[!MORELIKETHIS]
 >

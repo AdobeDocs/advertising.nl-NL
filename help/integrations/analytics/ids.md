@@ -3,7 +3,7 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 7433c2b0e0f61c2c72b27fb026202a76875c6b7e
+source-git-commit: e564ea441e5ea0d25ee7f99962e72192750c5c40
 workflow-type: tm+mt
 source-wordcount: '1693'
 ht-degree: 0%
@@ -262,13 +262,13 @@ waarbij:
 
 ### AMO ID-Dimension in [!DNL Analytics]
 
-In analyserapporten kunt u zoeken naar AMO ID-gegevens [!UICONTROL AMO ID] dimensie en het gebruik van de [!UICONTROL AMO ID Instance] metrisch. De [!UICONTROL AMO ID] dimensie bevat alle vastgelegde AMO-id-waarden, terwijl de [!UICONTROL AMO ID Instance] De metrische waarde geeft aan hoe vaak een AMO-id-waarde door de site is vastgelegd. Als bijvoorbeeld vier keer op dezelfde zoekopdracht is geklikt, maar Analytics zeven sitems heeft bijgehouden, [!UICONTROL AMO ID Instance] zou zeven (7) zijn en [!UICONTROL Clicks] zou vier (4) zijn.
+In analyserapporten kunt u zoeken naar AMO ID-gegevens [!UICONTROL AMO ID] dimensie en het gebruik van de [!UICONTROL AMO ID Instances] metrisch. De [!UICONTROL AMO ID] dimensie bevat alle vastgelegde AMO-id-waarden, terwijl de [!UICONTROL AMO ID Instances] De metrische waarde geeft aan hoe vaak een AMO-id-waarde door de site is vastgelegd. Als bijvoorbeeld vier keer op dezelfde zoekopdracht is geklikt, maar Analytics zeven sitems heeft bijgehouden, [!UICONTROL AMO ID Instances] zou zeven (7) zijn en [!UICONTROL Clicks] zou vier (4) zijn.
 
 Voor elke rapportage of controle binnen [!DNL Analytics]De beste manier is om de AMO-id samen met het bijbehorende exemplaar te gebruiken. Zie voor meer informatie &quot;[Gegevensvalidatie voor [!DNL Analytics for Advertising]](data-variances.md#data-validation)&quot; in &quot;Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising.&quot;
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], [classificatie](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. De Adobe Advertising categoriseert ruwe gegevens van de Adobe Advertising gebruikend classificaties zodat u de gegevens op verschillende manieren (zoals door het Type van Advertentie of Campagne) kunt tonen wanneer u rapporten produceert. Classificaties vormen de basis voor de rapportage van Adoben Advertising in [!DNL Analytics] en kan worden gebruikt met de AMO-metriek, zoals [!UICONTROL AMO Cost], [!UICONTROL AMO Impressions], en [!UICONTROL AMO Clicks]en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], en [!UICONTROL Revenue].
+In [!DNL Analytics], [classificatie](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) is een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. De Adobe Advertising categoriseert ruwe gegevens van de Adobe Advertising gebruikend classificaties zodat u de gegevens op verschillende manieren (zoals door het Type van Advertentie of Campagne) kunt tonen wanneer u rapporten produceert. Classificaties vormen de basis voor de rapportage van Adoben Advertising in [!DNL Analytics] en kan worden gebruikt met de AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost], [!UICONTROL Adobe Advertising Impressions], en [!UICONTROL AMO Clicks]en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits], [!UICONTROL Leads], [!UICONTROL Orders], en [!UICONTROL Revenue].
 
 >[!MORELIKETHIS]
 >
