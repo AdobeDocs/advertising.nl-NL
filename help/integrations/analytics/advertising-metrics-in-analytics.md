@@ -1,55 +1,52 @@
 ---
-title: Adobe Advertising Metrics in Analysis Workspace
-description: Adobe Advertising Metrics in Analysis Workspace
+title: Adoben Advertising in Analysis Workspace
+description: Adoben Advertising in Analysis Workspace
 feature: Integration with Adobe Analytics
 exl-id: da5e5704-4504-4fc5-93d2-db7d28f0c349
-source-git-commit: 5dd3772de945660e76321dac935de5ebcab5979a
+source-git-commit: da69280679a4e0c5ce04f55ee94ce984745395ff
 workflow-type: tm+mt
-source-wordcount: '450'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Metrics in Analysis Workspace
+# Adoben Advertising in Analysis Workspace
 
-*Adverteerders met een Adobe Advertising-Adobe Analytics Integration Only*
-
->[!NOTE]
->
->* Adobe Adverteren geeft verkeersmaatstaven en -afmetingen door aan [!DNL Analytics] dagelijks.
->* [!DNL Analytics] Hiermee legt u doorklikbewerkingen voor Adobe-advertenties en doorzoekingen in real-time vast.
-   > Voor [!DNL Search, Social, & Commerce], wordt deze functie ondersteund voor de meeste advertentienetwerken en campagneretypen. Zie &quot;Ondersteunde voorraad&quot; in het dialoogvenster [!DNL Search, Social, & Commerce] Voor meer informatie.<!-- add link when that's published in ExL -->
-
-
-## Verkeersmetriek van Adobe-reclame
+*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
 
 >[!NOTE]
 >
->Alle Adobe Advertising Traffic Metrics in [!DNL Analytics] beginnen met &quot;AMO.&quot;
+>* Adobe Advertising gaat verkeersmetriek en dimensies tot over [!DNL Analytics] dagelijks.
+>* [!DNL Analytics] vangt Adobe Advertising klikdoorhalingen en mening-doorvoer in echt - tijd.
+>* Voor [!DNL Search, Social, & Commerce], wordt deze functie ondersteund voor de meeste advertentienetwerken en campagneretypen. Zie &quot;[Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)&quot; in de [!DNL Search, Social, & Commerce] Voor meer informatie.
 
-| Verkeersmetrisch | Beschrijving |
+## Verkeersmetriek van Adobe Advertising
+
+Adobe Advertising verkeersmetriek in [!DNL Analytics] begint gewoonlijk met &quot;Adobe Advertising&quot;, behalve &quot;[!UICONTROL AMO ID Instances].&quot; Voor klanten op lange termijn die een aangepaste gebeurtenis (in plaats van een gereserveerde gebeurtenis) gebruikten om metriek voor kliks, kosten, en beelden oorspronkelijk tot stand te brengen, beginnen die metriek nog met &quot;AMO.&quot;
+
+| Verkeersmeter | Beschrijving |
 | -------------- | ----------- |
-| [!UICONTROL AMO Impressions] | Het aantal Adobe-advertenties. |
-| [!UICONTROL AMO Clicks] | Het aantal geklikte Adobe-advertenties. |
-| [!UICONTROL AMO Cost] | De Adobe-advertentie wordt uitgegeven in de valuta van de rapportsuite. |
-| [!UICONTROL AMO ID Instance] | Het aantal keren dat de Adobe-advertentie-id is ingesteld. |
-| [!UICONTROL AMO Minutes Viewed] | Het aantal minuten dat een Adobe-advertentievideo is weergegeven. |
-| [!UICONTROL AMO Views] | Het aantal weergaven op een advertentie. Een weergave wordt geteld wanneer de viewer de Adobe-advertentievideo start. |
-| [!UICONTROL AMO Views 25% Complete] | Het aantal weergaven waarvoor ten minste 25% van een Adobe-advertentievideo werd bekeken. |
-| [!UICONTROL AMO Views 50% Complete] | Het aantal weergaven waarvoor ten minste 50% van een Adobe-advertentievideo is bekeken. |
-| [!UICONTROL AMO Views 75% Complete] | Het aantal weergaven waarvoor ten minste 75% van een Adobe-advertentievideo werd bekeken. |
-| [!UICONTROL AMO Views 100% Complete] | Het aantal weergaven waarvoor 100% van een Adobe-advertentievideo werd bekeken. |
-| [!UICONTROL AMO Viewable Impressions] | Het aantal indrukkingen dat is gemeten om te kunnen worden weergegeven volgens de plaatsingsconfiguratie. |
-| [!UICONTROL AMO Not Viewable Impressions] | Het aantal indrukkingen waarvan is vastgesteld dat ze niet kunnen worden weergegeven. Deze waarde wordt berekend als ([!UICONTROL AMO Measurable Impressions] - [!UICONTROL AMO Viewable]). |
-| [!UICONTROL AMO Measurable Impressions] | Het aantal indrukkingen waarvoor de viewability instrumentatie met succes werd geïnitialiseerd. Deze waarde wordt berekend als (geïndexeerde indrukken - het aantal niet-meetbare indrukken). |
+| [!UICONTROL Adobe Advertising Clicks] of (sommige verouderde klanten) [!UICONTROL AMO Clicks] | Het aantal klikken van de totale Adobe Advertising. |
+| [!UICONTROL Adobe Advertising Cost] of (sommige verouderde klanten) [!UICONTROL AMO Cost] | De Adobe Advertising besteedt in de valuta van de rapportenreeks. |
+| [!UICONTROL Adobe Advertising Impressions] of (sommige verouderde klanten) [!UICONTROL AMO Impressions] | Het aantal Adobe Advertising-impressies. |
+| [!UICONTROL Adobe Advertising Measurable Impressions] | Het aantal indrukkingen waarvoor de viewability instrumentatie met succes werd geïnitialiseerd. Deze waarde wordt berekend als (geïndexeerde indrukken - het aantal niet-meetbare indrukken). |
+| [!UICONTROL Adobe Advertising Minutes Viewed] | Het aantal minuten dat een video van de Adobe Advertising is bekeken. |
+| [!UICONTROL Adobe Advertising Not Viewable Impressions] | Het aantal indrukkingen waarvan is vastgesteld dat ze niet kunnen worden weergegeven. Deze waarde wordt berekend als ([!UICONTROL Adobe Advertising Measurable Impressions] - [!UICONTROL Adobe Advertising Viewable]). |
+| [!UICONTROL Adobe Advertising Viewable Impressions] | Het aantal indrukkingen dat is gemeten om te kunnen worden weergegeven volgens de plaatsingsconfiguratie. |
+| [!UICONTROL Adobe Advertising Views] | Het aantal weergaven op een advertentie. Een weergave wordt geteld wanneer de viewer de Adobe Advertising-video start. |
+| [!UICONTROL Adobe Advertising Views 25% Complete] | Het aantal weergaven waarvoor ten minste 25% van een Adobe Advertising video is bekeken. |
+| [!UICONTROL Adobe Advertising Views 50% Complete] | Het aantal weergaven waarvoor ten minste 50% van een Adobe Advertising video is bekeken. |
+| [!UICONTROL Adobe Advertising Views 75% Complete] | Het aantal weergaven waarvoor ten minste 75% van een Adobe Advertising video is bekeken. |
+| [!UICONTROL Adobe Advertising Views 100% Complete] | Het aantal weergaven waarvoor 100% van een Adobe Advertising video is bekeken. |
+| [!UICONTROL AMO ID Instances] | Het aantal keren dat de [!UICONTROL AMO ID] is ingesteld. |
 
-## Adobe Advertentie-Dimension
+## Dimensionen Adobe Advertising
 
 >[!NOTE]
 >
->Alle Adobe-advertentiedimensies in [!DNL Analytics] worden gevolgd door &quot;(AMO-id)&quot;.
+>Alle afmetingen van de Adobe Advertising in [!DNL Analytics] worden gevolgd door &quot;[!DNL (AMO ID)].&quot;
 
-| Dimension | Toepasselijke Adobe-advertentiegegevens | Beschrijving |
+| Dimension | Toepasselijke Adobe Advertising | Beschrijving |
 | ----------- | ---------- | ---------- |
 | [!UICONTROL Ad Platform (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Reclame-DSP of naam van de zoekmachine |
 | [!UICONTROL Account (AMO ID] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | De accountnaam. |
@@ -69,18 +66,17 @@ ht-degree: 0%
 | [!UICONTROL Landing Type (AMO ID)] | [!DNL DSP] en [!DNL Search, Social, & Commerce] data | Hiermee wordt aangegeven of het item van de openingspagina een doorkijkeffect of een doorklikeffect heeft. |
 | [!UICONTROL Product Target (AMO ID)] | [!DNL Search, Social, & Commerce] data | Het productdoel voor een advertentie voor een productaanbieding. |
 
-## Nuttige aangepaste berekende cijfers voor Adobe-advertenties
+## Nuttige aangepaste berekende cijfers voor Adobe Advertising
 
-Overweeg de volgende meetgegevens voor uw Adobe-advertentiegegevens te maken.
+U kunt de volgende meetgegevens voor de Adobe Advertising maken.
 
-* Klikt op instantie Landing Page ([!UICONTROL AMO ID Instances] / [!UICONTROL AMO Clicks]): Dit is het percentage mensen dat op de advertentie klikte en deze naar de landingspagina maakte.
-* Meetbare snelheid ([!UICONTROL AMO Viewable Impressions] / [!UICONTROL AMO Impressions] * 100)
-* Weergavegraad van de depressie ([!UICONTROL AMO Viewable Impressions] / [!UICONTROL AMO Measureable Impressions] * 100)
-* Kosten per weergave ([!UICONTROL AMO Cost] / [!UICONTROL AMO Views])
-* Kosten per klik ([!UICONTROL AMO Cost] / [!UICONTROL AMO Clicks])
+* Klikt op instantie van bestemmingspagina ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks]): Dit is het percentage mensen dat op de advertentie heeft geklikt en deze op de landingspagina heeft gezet.
+* Meetbare snelheid ([!UICONTROL Adobe Advertising Viewable Impressions] / [!UICONTROL Adobe Advertising Impressions] * 100)
+* Weergavegraad van de depressie ([!UICONTROL Adobe Advertising Viewable Impressions] / [!UICONTROL Adobe Advertising Measureable Impressions] * 100)
+* Kosten per weergave ([!UICONTROL Adobe Advertising Cost] / [!UICONTROL Adobe Advertising Views])
+* Kosten per klik ([!UICONTROL Adobe Advertising Cost] / [!UICONTROL Adobe Advertising Clicks])
 
 >[!MORELIKETHIS]
 >
 >* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
->* [[!DNL Analytics] Gegevens in Adobe-reclame](/help/integrations/analytics/analytics-data-in-advertising.md)
-
+>* [[!DNL Analytics] Gegevens in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
