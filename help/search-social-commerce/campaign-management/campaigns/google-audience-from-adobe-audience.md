@@ -3,9 +3,9 @@ title: Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek
 description: Leer hoe u creeert [!DNL Google Ads] klanten komen hetzelfde publiek aan als uw bestaande Adobe Analytics- en Audience Manager-publiek.
 exl-id: 17cf0729-bc13-4ec3-918e-039ecdc91a41
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: aa913130d0f611c4164ef8bdca57983d8c6c0405
 workflow-type: tm+mt
-source-wordcount: '587'
+source-wordcount: '576'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
 1. Vul de vereiste vereisten naar wens in:
 
-   1. (Als u een publiek wilt maken met een vervolgkeuzelijst voor gebruikers-id) Een [!DNL Adobe] de beheerder gebruiker of de rekeningsmanager moet de adverteerder-vlakke plaatsen selecteren om klant gelijke publiek toe te laten. De instellingen verschillen tussen adverteerders met Audience Manager en adverteerders met [!DNL Analytics] alleen.
+   1. (Als u een publiek wilt maken met een vervolgkeuzelijst voor gebruikers-id) Een [!DNL Adobe] de beheerder gebruiker of de rekeningsmanager moet de adverteerder-vlakke plaatsen selecteren om klant gelijke publiek toe te laten.
 
    1. Implementeer de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) versie 2.0 of hoger.
 
@@ -40,7 +40,9 @@ Elke nieuwe [!DNL Google] publiek heeft dezelfde naam als het origineel [!DNL Ad
 
       `<script src="//pixel.everesttech.net/rlsa/<Advertising_Cloud_UserID>" type="text/javascript"> </script>`
 
-      waar `Advertising_Cloud_UserID` Dit is de unieke gebruikersnaam die aan de adverteerder is toegewezen. Voorbeeld:  `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
+      waar `Advertising_Cloud_UserID` Dit is de unieke numerieke gebruikersnaam die aan de adverteerder is toegewezen.
+
+      Voorbeeld: `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
 
    1. (Indien nog niet voltooid) Een geautoriseerde gebruiker moet de account van de adverteerder configureren naar [synchroniseren met de organisatieaccount van de adverteerder in Adobe Experience Cloud](/help/search-social-commerce/admin/sync-adobe-audiences.md).
 
