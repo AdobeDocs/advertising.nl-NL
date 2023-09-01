@@ -3,9 +3,9 @@ title: De Placement Diagnostic Reports weergeven
 description: Leer hoe u problemen kunt diagnosticeren met de plaatsingsinstellingen en -pakking.
 feature: DSP Placements
 exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 622d971a0c583cfde8610025f0a83481c4ae2188
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -25,26 +25,26 @@ De volgende gereedschappen kunnen u helpen bij het diagnosticeren van problemen 
       1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
       1. Klik op de naam van de campagne en klik vervolgens op **[!UICONTROL Placements]**.
       1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
-   1. Klik in de rechterbovenhoek op ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png) of **[!UICONTROL Diagnostic]**.
+   1. Klik rechtsboven op ![Placement Diagnostics](/help/dsp/assets/placement-diagnostics.png).
 1. Voer een van de volgende handelingen uit:
-   * Het wijzigingslogboek weergeven:
+   * U kunt als volgt het wijzigingslogboek weergeven:
       1. Klik op **[!UICONTROL Change Log]**.
       1. (Optioneel) Filter de rapportresultaten:
          * Wijzig in het datummenu de rapportperiode van de standaard Laatste 14 dagen in een andere periode (*[!UICONTROL Last 30 days],* *[!UICONTROL Last 60 days],* *[!UICONTROL Last 90 days],* of *[!UICONTROL Last 1 year]*).
          * In het linkermenu, filter het rapport door een specifieke gebruikersbenaming.
          * Filter het rapport in het rechtermenu met een specifieke plaatsingsinstelling.
    * U kunt als volgt de status van advertenties weergeven:
-      1. Klik in de rechterbovenhoek op **[!UICONTROL Ad Approvals]**.
+      1. Klik rechtsboven op **[!UICONTROL Ad Approvals]**.
       1. (Optioneel) Als u de advertentie wilt pauzeren of activeren, klikt u op de statusschakelaar (![Statusschakelaar](/help/dsp/assets/status-switch.png)) in de kolom Advertentie).
-      1. (Optioneel) Als u de instellingen voor een advertentie wilt openen, klikt u op **[!UICONTROL View Ad]** naast de advertentie.
+      1. (Optioneel) Klik op **[!UICONTROL View Ad]** naast de advertentie.
    * Om te zien waarom DSP niet op de plaatsing heeft geboden:
-      1. Klik in de rechterbovenhoek op **[!UICONTROL Non Bids]**.
+      1. Klik rechtsboven op **[!UICONTROL Non Bids]**.
       1. (Optioneel) Als u het datumbereik wilt wijzigen, klikt u in het datumveld en selecteert u een andere datum of een ander datumbereik.
 
 <!-- Later, add link to >* Definitions for NBRs (Reading No Bid Reports (NBRs)) -->
 
 >[!MORELIKETHIS]
 >
->* [Over rapporten in Platform](campaign-reports-about.md)
+>* [Over rapporten op het platform](campaign-reports-about.md)
+>* [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
