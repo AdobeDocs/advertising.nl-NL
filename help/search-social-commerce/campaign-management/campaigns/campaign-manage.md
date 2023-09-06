@@ -3,7 +3,7 @@ title: Campagnes beheren
 description: Leer advertentiecampagnes te maken en te beheren.
 exl-id: 9406e4bd-d5a2-4744-ab71-fc52428e3af6
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 8521d686c9bd499dbe89b5acf27595c381041b44
 workflow-type: tm+mt
 source-wordcount: '751'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Eenmaal [een advertentienetwerkaccount toegankelijk maken](/help/search-social-c
 
 1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md) campagne-instellingen.
 
-   Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], en [!UICONTROL (Google) DSA Options]. Instellingen configureren voor [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], of [!UICONTROL Asset Groups] (indien beschikbaar) klikt u op **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Set Campaign Goals]**, of **[!UICONTROL Manage Asset Groups]**, respectievelijk.
+   Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], en [!UICONTROL (Google) DSA Options]. Aanvullende instellingen configureren, indien beschikbaar, voor [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], [!UICONTROL Asset Groups], of [!UICONTROL Campaign Goals], klikt u op **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Manage Asset Groups]**, of **[!UICONTROL Set Campaign Goals]**, respectievelijk.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -67,7 +67,7 @@ U kunt instellingen voor afzonderlijke campagnes bewerken. U kunt ook bepaalde v
 
    Voor meerdere campagnes kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], en [!UICONTROL URL Options], afhankelijk van de advertentienetwerken. U kunt alleen de velden bewerken die worden gebruikt voor alle geselecteerde campagnes en uw wijzigingen worden toegepast op alle geselecteerde campagnes. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
-   Voor afzonderlijke campagnes kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], en [!UICONTROL (Google) DSA Options]. Instellingen configureren voor [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], of [!UICONTROL Asset Groups] (indien beschikbaar) klikt u op **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Set Campaign Goals]**, of **[!UICONTROL Manage Asset Groups]**, respectievelijk.
+   Voor afzonderlijke campagnes kunnen de instellingen worden gegroepeerd in [!UICONTROL Campaign Details], [!UICONTROL Budget Options], [!UICONTROL Shopping Settings], [!UICONTROL Campaign Targeting], [!UICONTROL Conversion Goals], [!UICONTROL Advanced Device Options], [!UICONTROL URL Options], en [!UICONTROL (Google) DSA Options]. Aanvullende instellingen configureren, indien beschikbaar, voor [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], [!UICONTROL Campaign Tracking], [!UICONTROL Asset Groups], of [!UICONTROL Campaign Goals], klikt u op **[!UICONTROL Add Negative Keywords]**, **[!UICONTROL Add Negative Websites]**, **[!UICONTROL Set Campaign Tracking]**, **[!UICONTROL Manage Asset Groups]**, of **[!UICONTROL Set Campaign Goals]**, respectievelijk.
 
 1. Sla de gegevens op:
 
@@ -102,7 +102,7 @@ U kunt ook elke actieve of gepauzeerde zoekcampagne verwijderen. Verwijderde cam
 >[!MORELIKETHIS]
 >
 >* [Instellingen voor Baidu-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-baidu.md)
->* [Instellingen voor Google Ads-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
 >* [Instellingen voor Microsoft-advertentiecampagnes](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
 >* [Yahoo! Campagne voor Japan Adds](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
 >* [Instellingen voor Yandex-campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)

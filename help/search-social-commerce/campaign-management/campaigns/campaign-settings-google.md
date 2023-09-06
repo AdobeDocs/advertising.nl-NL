@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: d16ef1a9-f943-494c-8655-975383707f3c
 feature: Search Campaign Management
-source-git-commit: 1dbe8da7122b38dd11a242c453d71a832b31eee8
+source-git-commit: 7588e82bc64eb1c3eda0b04cabfc6510ee3c06c3
 workflow-type: tm+mt
-source-wordcount: '2025'
+source-wordcount: '2309'
 ht-degree: 0%
 
 ---
@@ -254,43 +254,59 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Tot vijftien afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads] afbeeldingsspecificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). Afbeeldingen uploaden:
+**[!UICONTROL Images]:** Tot vijftien afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads] afbeeldingsspecificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
-1. Klikken **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+* Afbeeldingen uploaden:
 
-1. Voor elke afbeelding:
+   1. Op de [!UICONTROL Upload from computer] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
-   1. Selecteer de hoogte-breedteverhouding.
+   1. Voor elke afbeelding:
 
-   1. Sleep het uitsnijdvak naar de gewenste plaats om het zichtbare gedeelte van de afbeelding te selecteren en wijzig zo nodig de grootte van het zichtbare gedeelte van de afbeelding.
+      1. Selecteer de hoogte-breedteverhouding.
 
-   1. (Optioneel) Selecteer aanvullende hoogte-breedteverhoudingen en wijzig desgewenst de positie en de grootte van de afbeelding voor elke geselecteerde hoogte-breedteverhouding.
+      1. Sleep het uitsnijdvak naar de gewenste plaats om het zichtbare gedeelte van de afbeelding te selecteren en wijzig zo nodig de grootte van het zichtbare gedeelte van de afbeelding.
 
-      Er wordt één element gemaakt voor elke geselecteerde hoogte-breedteverhouding.
+      1. (Optioneel) Selecteer aanvullende hoogte-breedteverhoudingen en wijzig desgewenst de positie en de grootte van de afbeelding voor elke geselecteerde hoogte-breedteverhouding.
 
-   1. Klik op **[!UICONTROL Proceed]**.
+         Er wordt één element gemaakt voor elke geselecteerde hoogte-breedteverhouding.
 
-1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
+      1. Klik op **[!UICONTROL Proceed]**.
 
-**[!UICONTROL Logos]:** Ten minste één vierkant (1:1) logo en één landschaps (4:1) logo. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads] logo-specificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). Afbeeldingen uploaden:
+   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
 
-1. Klikken **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+* Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-1. Voor elke afbeelding:
+**[!UICONTROL Logos]:** Ten minste één vierkant (1:1) logo en één landschaps (4:1) logo. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads] logo-specificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
-   1. Selecteer de hoogte-breedteverhouding.
+* Afbeeldingen uploaden:
 
-   1. Sleep het uitsnijdvak naar de gewenste plaats om het zichtbare gedeelte van de afbeelding te selecteren en wijzig zo nodig de grootte van het zichtbare gedeelte van de afbeelding.
+   1. Op de [!UICONTROL Upload from computer] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
-   1. (Optioneel) Selecteer aanvullende hoogte-breedteverhoudingen en wijzig desgewenst de positie en de grootte van de afbeelding voor elke geselecteerde hoogte-breedteverhouding.
+   1. Voor elke afbeelding:
 
-      Er wordt één element gemaakt voor elke geselecteerde hoogte-breedteverhouding.
+      1. Selecteer de hoogte-breedteverhouding.
 
-   1. Klik op **[!UICONTROL Proceed]**.
+      1. Sleep het uitsnijdvak naar de gewenste plaats om het zichtbare gedeelte van de afbeelding te selecteren en wijzig zo nodig de grootte van het zichtbare gedeelte van de afbeelding.
 
-1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
+      1. (Optioneel) Selecteer aanvullende hoogte-breedteverhoudingen en wijzig desgewenst de positie en de grootte van de afbeelding voor elke geselecteerde hoogte-breedteverhouding.
 
-**[!UICONTROL Videos]:** (Optioneel) De URL voor ten minste één en maximaal vijf, [!DNL YouTube] video&#39;s moeten minstens 10 seconden lang zijn.
+         Er wordt één element gemaakt voor elke geselecteerde hoogte-breedteverhouding.
+
+      1. Klik op **[!UICONTROL Proceed]**.
+
+   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
+
+* Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
+
+**[!UICONTROL Videos]:** (Optioneel) Ten minste één en ten hoogste vijf, [!DNL YouTube] video&#39;s die minstens 10 seconden lang zijn.  U kunt URL&#39;s invoeren of ze selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+
+* URL&#39;s invoeren:
+
+   1. Op de [!UICONTROL Upload from computer] voert u een URL in.
+
+   1. (Optioneel) Als u nog een URL wilt toevoegen, klikt u op [!UICONTROL + Add]** en voer de URL in.
+
+* Om video&#39;s van uw te selecteren [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteer de video&#39;s.
 
 **[!UICONTROL Headlines]:** Minimaal drie en maximaal vijf korte kopregels met elk maximaal 30 tekens. Ten minste één kop moet ten minste 15 tekens lang zijn. Als de optie op campagnereniveau om de uiteindelijke uitbreiding van URL in te schakelen is ingesteld binnen [!DNL Google Ads]vervolgens [!DNL Google Ads] vervangt deze waarde door een aangepaste kop op basis van de inhoud van de bestemmingspagina.
 
@@ -302,7 +318,24 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 **[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters.
 
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+
+>[!NOTE]
+>De signalen van het publiek zijn verschillend van [doelgroepen op campagnereniveau en op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+
 **[!UICONTROL Add new asset group]:** Hiermee kunt u een andere elementgroep opgeven.
+
+## [!UICONTROL Conversion Goals]
+
+**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u ervoor kiest om omzettingsdoelstellingen voor de campagne te specificeren, dan uitgezochte standaarddoelstellingen en/of creeer een douanedoel voor de campagne.
+
+De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de bestaande doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [de netwerkgegevens van de advertentie handmatig synchroniseren](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+
+Als u een aangepast conversiedoel wilt maken, klikt u op **[!UICONTROL + Add custom goal]**, voert u de naam van het aangepaste doel in en selecteert u [conversiehandelingen](https://support.google.com/google-ads/answer/6032150) om in het douanedoel te omvatten, en dan te klikken **[!UICONTROL Save]**. **Opmerking:** Elke campagne kan slechts één aangepast doel hebben.
+
+>[!TIP]
+>
+>Als de campagne deel uitmaakt van een portfolio, gebruikt u dezelfde conversiedoelstellingen als de doelstelling van de portfolio. Het gebruik van verschillende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 
 >[!MORELIKETHIS]
 >
