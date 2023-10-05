@@ -3,7 +3,7 @@ title: Optimalisatiedoelstellingen en hoe deze te gebruiken
 description: Verwijs naar de beschikbare optimalisatiedoelstellingen en zie wanneer om hen te gebruiken.
 feature: DSP Optimization
 exl-id: ad684c99-7ae5-48eb-abfe-d48fd3d34cd0
-source-git-commit: 900a8e876e99b3d826c8934a266a3c4e1b226a1c
+source-git-commit: 42f10200bb28f4509a04ac69d415e7254537b769
 workflow-type: tm+mt
 source-wordcount: '1664'
 ht-degree: 0%
@@ -34,6 +34,7 @@ ht-degree: 0%
 | [!UICONTROL Lowest vCPM (Moat - MRC)] | Bij optimalisatie op pakketniveau wordt bij de begrotingstoewijzing prioriteit gegeven aan plaatsen met de laagste vCPM&#39;s.<br><br>Bij de beoordeling van veilingen krijgt vCPM prioriteit. Als de uitgavendoelstellingen worden verwezenlijkt, dan DSP pogingen om het verminderen van CPMs met het verhogen van viewability in evenwicht te brengen. | Type campagne: branding<br><br>Benchmark: Efficiënte CPM &amp; hoogste vCPM<br><br>Toesteltypen: Pre-roll, Display<br><br><b>Opmerking:</b> Gebruik dit doel om het best mogelijke vCPM te bereiken.<br><br>Om een maximum CPM te waarborgen, gebruik het als MaximumBod voor de plaatsing.<br><br>Deze instelling werkt het beste als gegevens van derden [!DNL Moat] informeert het algoritme. Gebruik dit doel slechts wanneer u hebt toegelaten [!DNL Moat] integratie voor de campagne . |
 | [!UICONTROL Always Max Bid and Maximize Reach] | Met dit doel wordt gepoogd een maximaal bereik voor het huishouden te bereiken met een bepaald aantal indrukken, waarbij altijd het maximumaantal biedingen op plaatsingsniveau wordt gebruikt. Als de uitgavendoelstellingen worden verwezenlijkt, dan wordt de DSP selectiever en biedingen voor een veiling slechts wanneer er een kans is om het stijgende unieke bereik te bereiken. | Type campagne: branding<br><br>benchmark: Bereik maximaliseren<br><br>Toesteltypen: Pre-roll, Display, CTV, Native, Audio en Universal Video |
 | [!UICONTROL Lowest Cost per Reach] | Met dit doel wordt gepoogd om met een bepaalde begroting een zo groot mogelijk bereik voor huishoudens te bereiken. Als de uitgavendoelstellingen worden verwezenlijkt, dan varieert de DSP biedingen afhankelijk van de kans om stijgende uniek bereik te bereiken. | Type campagne: branding<br><br>Benchmark: Effectieve kosten per Bereik<br><br>Toesteltypen: Pre-roll, Display, CTV, Native, Audio en Universal Video |
+
 {style="table-layout:auto"}
 
 >[!MORELIKETHIS]
