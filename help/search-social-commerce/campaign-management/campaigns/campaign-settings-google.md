@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
-exl-id: d16ef1a9-f943-494c-8655-975383707f3c
+exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 7588e82bc64eb1c3eda0b04cabfc6510ee3c06c3
+source-git-commit: 60988223d584741675e44fca2a50a228e4a3da91
 workflow-type: tm+mt
-source-wordcount: '2309'
+source-wordcount: '2449'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer, die [!DNL Google] wordt automatisch gegenereerd op basis van uw producten in [!DNL Google Merchant Center] op [!DNL Google Shopping], het gebied naast [!DNL Google] zoekresultaten (apart van tekstadvertenties) en (optioneel) zoekpartnerwebsites. Voor elke advertentiegroep in de campagne kunt u productgroepen opgeven die u wilt adverteren.
 
-* *[!UICONTROL Display Network Only]:* Toont advertenties op het weergavenetwerk. Voor elke advertentiegroep moet u plaatsingen opgeven en optioneel trefwoorden opgeven.
+* *[!UICONTROL Display Network Only]:* Toont advertenties op het weergavenetwerk. Voor elke advertentiegroep moet u plaatsingen specificeren en kunt naar keuze sleutelwoorden specificeren.
 
 * *[!UICONTROL Performance Max]:* (De functie Bèta) toont en optimaliseert omzettingen voor uw advertenties over kanalen gebruikend [!DNL Google Ads] slim bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, kopregels, beschrijvingen, optionele video&#39;s en publiekssignalen. [!DNL Google Ads] combineert automatisch de elementen om advertenties te bedienen op basis van het kanaal (zoals [!DNL YouTube], [!DNL Gmail], of [!DNL Search]).
 
@@ -88,7 +88,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
-  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversions] strategie met behulp van een [!UICONTROL Target CPA] waarde. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken, zodat de strategie in de [!UICONTROL Maximize Conversions] strategie met behulp van de opgegeven [!UICONTROL Target CPA] waarde.
+  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversions] strategie met behulp van een [!UICONTROL Target CPA] waarde. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversions] strategie met behulp van de opgegeven [!UICONTROL Target CPA] waarde.
 
 * *[!UICONTROL Target Impression Share]:* (Zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om een doel te bereiken die de indruk deelt en toevoegt positie. Voer desgewenst een **[!UICONTROL Target Impression Share]** als een percentage **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in portfolio&#39;s.
 
@@ -96,7 +96,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
-  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversion Value] strategie met behulp van een [!UICONTROL Target Return on Ad Spend value]. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken, zodat de strategie in de [!UICONTROL Maximize Conversion Value] strategie met behulp van de opgegeven [!UICONTROL Target Return on Ad Spend] waarde.
+  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversion Value] strategie met behulp van een [!UICONTROL Target Return on Ad Spend value]. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversion Value] strategie met behulp van de opgegeven [!UICONTROL Target Return on Ad Spend] waarde.
 
 * *[!UICONTROL Viewable CPM]:* (Bestaand, alleen-lezen) [!DNL Gmail] alleen campagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — biedt alleen biedingen op advertenties die zijn gemeten als zichtbaar. **Opmerking:** Optimalisatie voor deze strategie wordt in geen enkel type portfolio ondersteund.
 
@@ -254,11 +254,11 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Tot vijftien afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads] afbeeldingsspecificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Images]:** Tot 15 afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads] afbeeldingsspecificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * Afbeeldingen uploaden:
 
-   1. Op de [!UICONTROL Upload from computer] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+   1. Op de [!UICONTROL Upload from Device] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
    1. Voor elke afbeelding:
 
@@ -280,7 +280,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 * Afbeeldingen uploaden:
 
-   1. Op de [!UICONTROL Upload from computer] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+   1. Op de [!UICONTROL Upload from Device] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
    1. Voor elke afbeelding:
 
@@ -298,21 +298,47 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 * Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Videos]:** (Optioneel) Ten minste één en ten hoogste vijf, [!DNL YouTube] video&#39;s die minstens 10 seconden lang zijn.  U kunt URL&#39;s invoeren of ze selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Videos]:** (Optioneel) Ten minste één en ten hoogste vijf, [!DNL YouTube] video&#39;s die minstens 10 seconden lang zijn. U kunt URL&#39;s invoeren of ze selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * URL&#39;s invoeren:
 
-   1. Op de [!UICONTROL Upload from computer] voert u een URL in.
+   1. Op de [!UICONTROL Enter Video Url] voert u een URL in.
 
-   1. (Optioneel) Als u nog een URL wilt toevoegen, klikt u op [!UICONTROL + Add]** en voer de URL in.
+   1. (Optioneel) Als u nog een URL wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voer de URL in.
 
 * Om video&#39;s van uw te selecteren [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteer de video&#39;s.
 
 **[!UICONTROL Headlines]:** Minimaal drie en maximaal vijf korte kopregels met elk maximaal 30 tekens. Ten minste één kop moet ten minste 15 tekens lang zijn. Als de optie op campagnereniveau om de uiteindelijke uitbreiding van URL in te schakelen is ingesteld binnen [!DNL Google Ads]vervolgens [!DNL Google Ads] vervangt deze waarde door een aangepaste kop op basis van de inhoud van de bestemmingspagina.
 
-**[!UICONTROL Long Headlines]:** Minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk.
+U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
-**[!UICONTROL Descriptions]:** Ten minste twee, en maximaal vier, beschrijvingen met elk maximaal 90 tekens. Ten minste één beschrijving moet ten minste 30 tekens lang zijn.
+* U voert als volgt tekst in:
+
+   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
+
+   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
+
+* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
+
+**[!UICONTROL Long Headlines]:** Minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+
+* U voert als volgt tekst in:
+
+   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
+
+   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
+
+* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
+
+**[!UICONTROL Descriptions]:** Ten minste twee, en maximaal vier, beschrijvingen met elk maximaal 90 tekens. Ten minste één beschrijving moet ten minste 30 tekens lang zijn. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+
+* U voert als volgt tekst in:
+
+   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
+
+   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
+
+* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
 **[!UICONTROL Call to Action]:** De oproep tot actie om op te nemen in de advertentie. Standaard, *[!UICONTROL Automated]* is geselecteerd, en [!DNL Google Ads] Hiermee selecteert u de aanroep van de handeling. U kunt desgewenst een andere actie kiezen.
 
