@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 8f17f930-cfad-465f-992f-8b966d27ff36
-source-git-commit: 4c851ce01c69460b3d1f1c7357af377718eb8488
+source-git-commit: b431d7e0a1c2a5c254adb399a9008ebadad11913
 workflow-type: tm+mt
-source-wordcount: '846'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
 | 7 oktober 2023 | [!UICONTROL Campaigns], [!UICONTROL Optimization], [!UICONTROL Reports] | Twee nieuwe speciale rapporten voor [!DNL Microsoft Advertising] accounts geven prestaties op campagnereniveau weer via advertentie-distributie (zoeken of publiek) en/of netwerk (zoals [!DNL Microsoft] sites en selecteer verkeer of publiek):<ul><li>[!UICONTROL MSA Network Performance Report]: Omvat basisverkeersmetriek (kosten, kliks, beelden), omzettingen, en opbrengst.</li><li>[!UICONTROL MSA Network Impression Share Report]: Deze groep bevat meetgegevens voor het delen van de indruk en standaardmeetgegevens voor het verkeer (kosten, klikken, afbeeldingen).</li></ul> | — |
-| 14 september 2023 | [!UICONTROL Campaigns] | ([!DNL Google Ads] maximale prestaties) In de elementgroepen van een campagne kunt u nu bestaande tekstelementen in uw [!UICONTROL Asset Library]. U kunt ook nieuwe tekstelementen uploaden. | — |
+| 14 september 2023 | [!UICONTROL Campaigns] | ([!DNL Google Ads] maximale prestaties) In de elementgroepen van een campagne kunt u nu bestaande tekstelementen in uw [!UICONTROL Asset Library]. U kunt ook nieuwe tekstelementen uploaden. | Zie &quot;[[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).&quot; |
 | 5 september 2023 | Campagnes | ([!DNL Google Ads] (campagnes) Voor alle beschikbare campagneretypes, kunt u bestaande omzetdoelstellingen kiezen, of nieuwe, binnen campagnemontages creëren.</li> | Zie &quot;[[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).&quot; |
 | | Campagnes | ([!DNL Google Ads] (maximale prestaties) Met nieuwe functies kunt u:<ul><li>Kies bestaande omzettingsdoelstellingen of creeer nieuwe voor een campagne, zoals hierboven vermeld.</li><li>Maak een keuze uit de bestaande elementen in uw [!UICONTROL Asset Library] voor afbeeldingen, logo&#39;s en video&#39;s binnen de maximale prestaties voor de campagne. U kunt nog steeds nieuwe elementen uploaden.</li><li>(Optioneel) Geef publiekssignalen voor maximale prestatiegerichte groepen met elementen door [!DNL Google Ads] publiek. [!DNL Google Ads] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. **Opmerking:** De signalen van het publiek zijn verschillend van [doelgroepen op campagnereniveau en op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).</li></ul> | Zie &quot;[[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).&quot; |
 | 15 augustus 2023 | Omzettingsmetriek | [!UICONTROL Admin] > [!DNL Transaction Properties] bevat nu een &quot;[!UICONTROL Source]&quot; kolom, die de bron van elke metrische waarde aangeeft, zoals [!UICONTROL Adobe Advertising], [!UICONTROL Adobe Analytics], [!UICONTROL Google Ads], of [!UICONTROL Custom Feed]. | Zie &quot;[De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md).&quot; |
