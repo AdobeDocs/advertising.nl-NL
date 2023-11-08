@@ -1,17 +1,18 @@
 ---
 title: Elementen maken en uploaden
-description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] assenbibliotheek op accountniveau.
+description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen maakt en deze uploadt naar uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] assetbibliotheken op accountniveau.
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
+source-git-commit: 68c082131378974bf95534050b8ddf2db0ae394b
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
 
 # Elementen maken en uploaden
 
-*Voor [!DNL Google Ads] alleen accounts*
+*Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen accounts*
 
 *bètafunctie openen*
 
@@ -51,7 +52,7 @@ ht-degree: 0%
 
         U kunt maximaal 10 video-URL&#39;s tegelijk posten.
 
-      * Voer bij tekstelementen de tekenreeks in. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
+      * ([!DNL Google Ads] alleen accounts) Voer de tekenreeks in voor tekstelementen. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
 
         Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
 
