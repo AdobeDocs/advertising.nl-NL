@@ -1,9 +1,9 @@
 ---
 title: De gegevens die voor rapporten worden gebruikt
 description: Leer meer over de verschillende typen gegevens die beschikbaar zijn in gegevensweergaven en aangepaste rapporten.
-exl-id: 3e1f2967-5034-46bc-8473-63cffeeeecba
+exl-id: ba808b21-4421-4de5-9293-a20ec67cc81c
 feature: Search Reports
-source-git-commit: 5141c332fc00e9eae62ef507d215dd435e86e8ba
+source-git-commit: 840c7f6295b73a784725c301a78ae89c827fd45e
 workflow-type: tm+mt
 source-wordcount: '576'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Search, Social &amp; Commerce bevat een uitgebreide reeks prestatierapporten die zijn gebaseerd op klik- en conversiegegevens. U kunt elementaire prestatiegegevens voor de verschillende componenten van een portfolio of advertentieaccount bekijken via het tabblad [!UICONTROL Portfolios] en [!UICONTROL Campaigns] en door verschillende basis - en geavanceerd - rapporten op te stellen .
 
-Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [omzettingsmetrisch](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het Adobe Account Team heeft toegang tot alle rapporten.
+Adverteerders die de service Adobe Advertising converteren volgen gebruiken, kunnen ook het aantal klikken voor een geografische locatie of domeinnaam van een verwijzende website identificeren, de manier waarop advertenties in elk kanaal en de verschillende gebeurtenissen die tot een conversie leiden, bijdragen aan de algemene conversiekoers en de distributie van conversies voor één enkele website [omzettingsmetrisch](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) via het marketingkanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het team van de Rekening van de Adobe heeft toegang tot alle rapporten.
 
 De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u wilt zien. De volgende standaardmetriek is beschikbaar in de meeste rapporten en op het advertentieniveau berekend:
 
@@ -53,7 +53,7 @@ Afhankelijk van de attributieregel u voor het rapport specificeert, zijn de gege
 | [!UICONTROL Assist Reports] | Alles | De voorafgaande 18 maanden. |
 | [!UICONTROL Specialty Reports] | [!UICONTROL AdWords Audience Target Report] | Het voorgaande jaar. |
 | | [!UICONTROL RSA Assets Report] | Vanaf 10 augustus 2022. |
-| | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report] | De laatste 180 dagen. |
+| | [!UICONTROL MSA Ad Extension by Ad Report], [!UICONTROL MSA Ad Extension by Keyword Report], [!UICONTROL MSA Ad Extension Detail Report], [!UICONTROL MSA Network Impression Share Report], [!UICONTROL MSA Network Performance Report] | De laatste 180 dagen. |
 | | Alle andere [!UICONTROL Specialty Reports] | De twee voorgaande (2) maanden. |
 | [!UICONTROL Model Accuracy Reports] | [!UICONTROL Forecast Accuracy Report] | De voorafgaande 18 maanden. |
 | [!UICONTROL Change History Report] | — | De voorafgaande 31 dagen. |
