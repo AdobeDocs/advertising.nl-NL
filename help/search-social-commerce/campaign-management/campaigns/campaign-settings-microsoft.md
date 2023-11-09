@@ -1,26 +1,36 @@
 ---
-title: '[!DNL Microsoft Advertising] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
+title: '[!DNL Microsoft® Advertising] campagne-instellingen'
+description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: c6d86fb8-48b0-40fd-bcfc-c4afdccd5283
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 236224a1d8e38862f70db63b3762b763f5703623
 workflow-type: tm+mt
-source-wordcount: '992'
+source-wordcount: '1116'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Advertising] campagne-instellingen
+# [!DNL Microsoft® Advertising] campagne-instellingen
 
 ## \[Scherm Campagne maken\]
 
 **[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kunt u advertenties plaatsen en welke advertentietypes de campagne kan bevatten:
 
-* *[!UICONTROL Search and Display Network]:* Hiermee geeft u alleen tekstadvertenties weer op het zoeknetwerk.
+* *[!UICONTROL Search]:* Geeft tekstadvertenties weer op het zoeknetwerk.
 
-* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer — voor uw producten in uw [!DNL Microsoft Merchant Center] productcatalogus — op het winkelnetwerk
+* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer — voor uw producten in uw [!DNL Microsoft® Merchant Center] productcatalogus — op het winkelnetwerk.
 
-* *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
+* *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft® Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
+
+* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta eigenschap) bevordert uw producten door verbonden detailhandelaren over het onderzoek en publieksnetwerken. U kunt onderliggende en productgroepen en productgroepen (apps voor de promotie) voor de campagne maken, en [!DNL Microsoft® Advertising] maakt automatisch advertenties voor de productgroepen.
+
+* *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta-functie) Hiermee promoot u uw apps en games die beschikbaar zijn in de [!DNL Microsoft® Store]. U kunt onderliggende en productgroepen voor de campagne maken, en [!DNL Microsoft® Advertising] maakt automatisch advertenties voor de productgroepen.
+
+* *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont videoadvertenties op het publieksnetwerk.
+
+* *[!UICONTROL Audience Video]:* (Bètafunctie) Hiermee kunt u aangesloten tv-videobanden (CTV) weergeven op het publieksnetwerk.
+
+* *[!UICONTROL Performance Max]:* Toont veelvoudige advertentietypes over alle netwerken.
 
 ## [!UICONTROL Campaign Details]
 
@@ -48,21 +58,25 @@ ht-degree: 0%
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Enhanced CPC]:* (Campagnes op het publiek, onderzoek, en het winkelen netwerken) gebruikt het verbeterde kosten-per-klikmodel van het advertentienetwerk (eCPC), dat het advertentienetwerk toestaat om de kosten-per-klikbieding (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzetting(s) binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Handel) worden gespecificeerd, terwijl het proberen om te houden onder uw gemiddelde CPC CPC.
+* *[!UICONTROL CPV]* (Alleen CTV-videocampagnes van het publiek) Gebruikt het model voor de kosten per weergave (CPV). <!-- Campaigns with this bid strategy aren't optimized when they're included in portfolios. -->
 
-Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Onderzoek, Sociale, &amp; Handel, optimaliseert Onderzoek, Sociale, &amp; Handel de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan het Onderzoek, Sociale, &amp; Commerce-Gegenereerde bod op het tijdstip van de gebruikersvraag veranderen die op merkgebonden gegevens en inzichten wordt gebaseerd. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling.
+* *[!UICONTROL Enhanced CPC]:* (Campagnes op het publiek, onderzoek, en het winkelen netwerken) gebruikt het verbeterde kosten-per-klikmodel van het advertentienetwerk (eCPC), dat het advertentienetwerk toestaat om de kosten-per-klikbieding (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzettingen binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Handel) worden gespecificeerd, terwijl het proberen om te houden uw gemiddelde CPC onder uw maximum CPC.
 
-* *[!UICONTROL Manual CPC]* (de standaardwaarde): (Vervangen door [!DNL Microsoft Advertising] (2021) Gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
+  Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Onderzoek, Sociale, &amp; Handel, optimaliseert Onderzoek, Sociale, &amp; Handel de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan het Onderzoek, Sociale, &amp; Commerce-Gegenereerde bod op het tijdstip van de gebruikersvraag veranderen die op merkgebonden gegevens en inzichten wordt gebaseerd. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling.
+
+* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft Store Ads] campagnes; vervangen door [!DNL Microsoft® Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
 
    * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van &quot;[!UICONTROL Enhanced CPC]&quot;.
 
-* *[!UICONTROL Manual CPM]* (Campagnes op het publieksnetwerk slechts) gebruikt het kosten-per-duizend-impressies (CPM) model, waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
+* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
 
-* *[!UICONTROL Maximize Clicks]:* (Zoeken en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Handel — optimaliseert biedingen om de klikmogelijkheden te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
+* *[!UICONTROL Manual CPM]* (De campagnes van het publiek en de campagnes van de publieksvideo slechts) gebruiken het kosten-per-duizend-impressies (CPM) model, waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Zoeken en winkelen/smart shopping-netwerken) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Clicks]:* (Zoeken en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Handel — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
 
-* *[!UICONTROL Maximize Conversions]:* (Campagnes op het onderzoeksnetwerk <!-- future: and audience network -->) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om omzettingen te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPC]** (kosten per klik)<!-- future: ; for audience campaigns, you can also enter an optional [!UICONTROL Target CPA] (cost per acquisition) -->. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversion Value]:* (Zoeken en winkelen/smart shopping-netwerken, maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+
+* *[!UICONTROL Maximize Conversions]:* (Campagnes op het onderzoeksnetwerk <!-- future: and audience network -->, maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om conversies te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPC]** (kosten per klik)<!-- future: ; for audience campaigns, you can also enter an optional [!UICONTROL Target CPA] (cost per acquisition) -->. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
 * *[!UICONTROL Target CPA]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen die op facultatief worden gebaseerd **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
 
@@ -70,7 +84,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 * *[!UICONTROL Target Impression Share]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen om een doelimitatieaandeel en een advertentiepositie te bereiken. Voer desgewenst een **[!UICONTROL Target Impression Share]** als percentage, de **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in hybride portfolio&#39;s.
 
-* *[!UICONTROL Target Return on Ad Spend]:*  (Campagnes op de zoek en het winkelen netwerken) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen op basis van uw **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
+* *[!UICONTROL Target Return on Ad Spend]:*  (Campagnes op de zoek en het winkelen netwerken) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen op basis van uw **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
@@ -80,7 +94,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 <!-- **[!UICONTROL Campaign Priority]:** -->
 
-**[!UICONTROL Link with Microsoft Merchant Center]:** (Alleen campagnes van het publiek; optioneel) Koppelt de campagne aan een specifieke winkel voor automatische advertenties op basis van feed in plaats van responsieve advertenties. Wanneer u deze optie selecteert, geeft u de opdracht [!UICONTROL Merchant ID] en [!UICONTROL Products]. U moet advertentiegroepen maken voor de campagne, maar u hoeft geen advertenties te maken.
+**[!UICONTROL Link with Microsoft® Merchant Center]:** (Alleen campagnes van het publiek; optioneel) Koppelt de campagne aan een specifieke winkel voor automatische advertenties op basis van feed in plaats van responsieve advertenties. Wanneer u deze optie selecteert, geeft u de opdracht [!UICONTROL Merchant ID] en [!UICONTROL Products]. U moet advertentiegroepen maken voor de campagne, maar u hoeft geen advertenties te maken.
 
 Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt opgeslagen, kunt u deze optie niet meer wijzigen.
 
@@ -145,7 +159,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 **[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advertising voor &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
+Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advertising voor &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 ## [!UICONTROL Campaign Tracking]
 
