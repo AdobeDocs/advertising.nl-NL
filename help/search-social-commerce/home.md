@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 8f17f930-cfad-465f-992f-8b966d27ff36
-source-git-commit: b431d7e0a1c2a5c254adb399a9008ebadad11913
+source-git-commit: 9b103745ef8b09c46049a9a89b676825311db4f2
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '892'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 8 november 2023 | [!UICONTROL Asset Library] | (bètafunctie openen; [!DNL Microsoft® Advertising] accounts) in [!UICONTROL Campaigns] > [!UICONTROL Asset Library]kunt u herbruikbare afbeeldings- en video-elementen maken en deze uploaden naar uw [!DNL Microsoft® Advertising] assenbibliotheek op accountniveau. U kunt de geüploade elementen toevoegen aan de toepasselijke campagnetypen in het dialoogvenster [!DNL Microsoft® Advertising] editor. | Zie &quot;[Informatie over de [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)&quot; en &quot;[Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md).&quot; |
 | 7 oktober 2023 | [!UICONTROL Campaigns], [!UICONTROL Optimization], [!UICONTROL Reports] | Twee nieuwe speciale rapporten voor [!DNL Microsoft Advertising] accounts geven prestaties op campagnereniveau weer via advertentie-distributie (zoeken of publiek) en/of netwerk (zoals [!DNL Microsoft] sites en selecteer verkeer of publiek):<ul><li>[!UICONTROL MSA Network Performance Report]: Omvat basisverkeersmetriek (kosten, kliks, beelden), omzettingen, en opbrengst.</li><li>[!UICONTROL MSA Network Impression Share Report]: Deze groep bevat meetgegevens voor het delen van de indruk en standaardmeetgegevens voor het verkeer (kosten, klikken, afbeeldingen).</li></ul> | — |
 | 14 september 2023 | [!UICONTROL Campaigns] | ([!DNL Google Ads] maximale prestaties) In de elementgroepen van een campagne kunt u nu bestaande tekstelementen in uw [!UICONTROL Asset Library]. U kunt ook nieuwe tekstelementen uploaden. | Zie &quot;[[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).&quot; |
 | 5 september 2023 | Campagnes | ([!DNL Google Ads] (campagnes) Voor alle beschikbare campagneretypes, kunt u bestaande omzetdoelstellingen kiezen, of nieuwe, binnen campagnemontages creëren.</li> | Zie &quot;[[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md).&quot; |
