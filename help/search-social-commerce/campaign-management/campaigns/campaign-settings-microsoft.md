@@ -3,9 +3,9 @@ title: '[!DNL Microsoft® Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: c6d86fb8-48b0-40fd-bcfc-c4afdccd5283
 feature: Search Campaign Management
-source-git-commit: 1a4f802c51f29b2d7811ff21a9c7f0f20feb30ba
+source-git-commit: 7ea5289ba3a6ef3306903d1cec56f81152433064
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1132'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta-functie) Hiermee promoot u uw apps en games die beschikbaar zijn in de [!DNL Microsoft® Store]. U kunt onderliggende en optionele productgroepen, productgroepen en advertenties voor de campagne maken. [!DNL Microsoft® Advertising] maakt automatisch advertenties voor de productgroepen.
 
-* *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont videoadvertenties op het publieksnetwerk.
+* *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont standaardvideoadvertenties op het publieksnetwerk.
 
 * *[!UICONTROL Audience Video]:* (Bètafunctie) Hiermee kunt u aangesloten tv-videobanden (CTV) weergeven op het publieksnetwerk.
 
