@@ -1,9 +1,9 @@
 ---
 title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
 description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
-exl-id: 1bb0d915-bf33-4c50-88a5-268d4de5ccff
+exl-id: e7714d3d-4a8e-44ef-a3a7-e5198c091660
 feature: Search Tools
-source-git-commit: f857da54ff75ba7b8065b8c08d6d28eb54445b48
+source-git-commit: 877333330df84ff5c8bd7ee1bfc837de492877fb
 workflow-type: tm+mt
 source-wordcount: '958'
 ht-degree: 0%
@@ -20,9 +20,9 @@ U kunt de volgende typen campagnes en de bijbehorende campagnestructuur replicer
 
 * [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft® Advertising] publiekscampagnes over het Microsoft® Audience Network.
 
-  Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
+  Als u boodschappencampagnes op basis van feed wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
 
-* [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] slimme winkelcampagnes.
+* [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] maximale prestaties.
 
 U kunt ervoor kiezen de campagnes eenmaal bij te werken, dagelijks wekelijks of maandelijks, of volgens [!DNL Microsoft® Advertising]aanbevolen schema. U kunt meldingen desgewenst configureren telkens wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft® Advertising]kunt u de status van de importtaak controleren, eventuele foutlogboeken controleren, een importtaak handmatig uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
 
@@ -110,7 +110,7 @@ U kunt alle voltooide of mislukte importtaken weergeven, inclusief de begintijd,
 
 **[!UICONTROL Credential ID]:** Een id die [!DNL Microsoft® Advertising] gebruikers om uw te vertegenwoordigen [!DNL Google Ads] referenties.
 
-Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] beperkingen. Neem contact op met het accountteam van de Adobe en de gegevens worden gegenereerd en geef u de id.
+Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] beperkingen. Neem contact op met het accountteam van de Adobe. Vervolgens worden de gegevens gegenereerd en krijgt u de id.
 
 **[!UICONTROL Target Microsoft® Ads account]:** De gesynchroniseerde [!DNL Microsoft® Advertising] rekening waarin campagnegegevens worden ingevoerd.
 
