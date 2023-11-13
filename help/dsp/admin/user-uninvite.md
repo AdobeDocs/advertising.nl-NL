@@ -1,9 +1,9 @@
 ---
 title: Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken
 description: Leer hoe u een uitnodiging in behandeling intrekt.
-role: User, Admin
+role: Admin
 exl-id: 62a5d50c-b836-4a15-ba5a-6eb7a0f26570
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: 97e91adf4edf7ac482e949d3e1d4be6c883a589c
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,7 +22,7 @@ U kunt de uitnodiging aan een gebruiker in behandeling opheffen. Wanneer een geb
 
    * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]**.
 
-1. In de **[!UICONTROL Invitations]** sectie, klikt u op **[!UICONTROL X]** naast de uitnodiging.
+1. In de **[!UICONTROL Invitations]** sectie, klikken **[!UICONTROL X]** naast de uitnodiging.
 
 >[!MORELIKETHIS]
 >
