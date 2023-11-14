@@ -3,9 +3,9 @@ title: Met de [!DNL Last Event Service] JavaScript-bibliotheek met [!DNL Web SDK
 description: Leer de stappen om over te schakelen van het gebruiken van [!DNL Analytics] [!DNL visitorAPI] aan de [!DNL Experience Platform] [!DNL Web SDK] bibliotheek voor [!DNL Analytics for Advertising] uitvoering.
 feature: Integration with Adobe Analytics
 exl-id: 764724a2-536a-43b9-955d-28d6146db29a
-source-git-commit: 687f146b27765d59f172284e4cff7ab5c0e57b50
+source-git-commit: 7501c1f8f6477a4ee6de64c64d52b1aafaf16994
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ In de [!DNL Analytics for Advertising] [!DNL Last Event Service] -tag die u gebr
 ```
 <script>
      if("undefined" != typeof AdCloudEvent) 
-          stitchId = AdCloudEvent('IMS ORG Id''rsid').generateRandomId();
+          stitchId = AdCloudEvent('IMS ORG Id','rsid').generateRandomId();
 </script>
 ```
 
