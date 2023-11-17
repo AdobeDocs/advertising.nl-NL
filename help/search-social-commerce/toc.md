@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: fb95be48fae44a4ca365fe501253c185e76d64be
+source-git-commit: cdb86533b46b196fe7a3394ab9e4fc8209a3df69
 workflow-type: tm+mt
-source-wordcount: '1732'
+source-wordcount: '1729'
 ht-degree: 2%
 
 ---
@@ -189,7 +189,6 @@ ht-degree: 2%
                + [Info [!DNL Google Ads] callout-extensies](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
                + [Beheren [!DNL Google Ads] callout-extensies](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
                + [Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-associate.md)
-            + [Beheren [!DNL Google Ads] locatie-extensies](/help/search-social-commerce/campaign-management/campaigns/location-extension-manage.md)
             + Sitelink-extensies {#sitelinks}
                + [Extensies voor sitelink](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-about.md)
                + [Gedeelde sitelinks beheren](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-manage.md)
