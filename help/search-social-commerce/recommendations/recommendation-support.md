@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: 30d7aeb970380e528096bfff2964901781a4e221
+source-git-commit: 250e6c7aaeb64c811b3648ac1aee2a7bd0a6f753
 workflow-type: tm+mt
-source-wordcount: '586'
+source-wordcount: '580'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Text ad] | Advertenties toevoegen |
 | [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Dynamische zoekadvertenties migreren naar maximale prestaties voor campagnes. |
 | | [!UICONTROL Dynamic image extension opt in] | Dynamische afbeeldingsextensies inschakelen voor de account, waardoor [!DNL Google Ads] computer leren om automatisch de meest relevante afbeeldingen van de landingspagina van uw advertentie aan uw advertentie toe te voegen. |
-| | [!UICONTROL Verbeter prestaties max en sterkte | Verbeter de sterkte van de groep met middelen van een maximale prestatiecampagne, zodat deze een &quot;Uitstekende&quot; classificatie heeft. |
+| | [!UICONTROL Improve performance max ad strength] | Verbeter de sterkte van de groep met middelen van een maximale prestatiecampagne, zodat deze een &quot;Uitstekende&quot; classificatie heeft. |
 | | [!UICONTROL Performance max opt in] | Kies voor maximale prestaties. |
 | | [!UICONTROL Upgrade local campaign to performance max] | Een oudere lokale campagne upgraden naar een maximale prestatiecampagne |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne |
