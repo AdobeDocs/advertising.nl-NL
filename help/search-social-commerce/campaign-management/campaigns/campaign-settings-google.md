@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 60988223d584741675e44fca2a50a228e4a3da91
+source-git-commit: 7b4818260fad61a773fb7261cbcdfd84bee84d42
 workflow-type: tm+mt
-source-wordcount: '2449'
+source-wordcount: '2387'
 ht-degree: 0%
 
 ---
@@ -147,8 +147,6 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
    * (Locaties bij een adres; alleen inbegrepen doelen) Klik **[!UICONTROL Radius Target]** (![Straal](/help/search-social-commerce/assets/radius-target.png "Straal")) en klik vervolgens op **[!UICONTROL Address]**. Ga het adres en de straal in mijl of kilometers rond het te richten adres in, en klik dan **[!UICONTROL Add]**.
 
    * (Locaties bij geografische coördinaten; alleen inbegrepen doelen) Klik **[!UICONTROL Radius Target]** (![Straal](/help/search-social-commerce/assets/radius-target.png "Straal")) en klik vervolgens op **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik vervolgens op **[!UICONTROL Add]**.
-
-   * (Locaties bij uw [!DNL My Business] locaties die beschikbaar zijn als locatie-extensies; alleen opgenomen doelen) Klik op **[!UICONTROL Location Group Target]** (![Locatiegroep](/help/search-social-commerce/assets/location-group.png "Locatiegroep")); naar keuze een land, staat, metropolitan gebied, of stad ingaan om de lijst van beschikbare plaatsen te verfijnen, en dan één of meerdere plaatsen van de lijst van te selecteren [!DNL Google My Business] locaties. Geef de straal in mijl of kilometers rond de locaties op die u wilt aanwijzen en klik vervolgens op **[!UICONTROL Add]**.
 
 * (Voer een waarde voor de bodaanpassing in voor een opgenomen doellocatie.)
 
