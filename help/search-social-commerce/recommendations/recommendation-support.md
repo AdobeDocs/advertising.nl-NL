@@ -1,11 +1,11 @@
 ---
 title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
-exl-id: 166c429a-043a-4e74-b1ee-5359cd483de5
+exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 30d7aeb970380e528096bfff2964901781a4e221
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '586'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!NOTE]
 >
->Terwijl en de aanbevelingen van het netwerk en prestatiesinzichten u helpen campagneprestaties verbeteren, kunnen sommige niet op uw bredere doelstellingen richten. Dientengevolge, is het best om met uw Team van de Rekening van de Adobe te raadplegen alvorens om het even welke aanbeveling of inzicht uit te voeren.
+>Terwijl en de aanbevelingen van het netwerk en prestatiesinzichten u helpen campagneprestaties verbeteren, kunnen sommige niet op uw bredere doelstellingen richten. Dientengevolge, is het best om uw Team van de Rekening van de Adobe te raadplegen alvorens om het even welke aanbeveling of inzicht uit te voeren.
 
 ## Ondersteunde aanbevelingen voor [!DNL Google Ads]
 
@@ -56,7 +56,11 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Responsive search improve ad strength] | Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie |
 | | [!UICONTROL Sitelink extension] | Voeg sitelink-extensies toe aan een campagne |
 | | [!UICONTROL Text ad] | Advertenties toevoegen |
-| [!UICONTROL Automated campaigns] | [!UICONTROL Upgrade local campaign to performance max] | Een oudere lokale campagne upgraden naar een maximale prestatiecampagne |
+| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Dynamische zoekadvertenties migreren naar maximale prestaties voor campagnes. |
+| | [!UICONTROL Dynamic image extension opt in] | Dynamische afbeeldingsextensies inschakelen voor de account, waardoor [!DNL Google Ads] computer leren om automatisch de meest relevante afbeeldingen van de landingspagina van uw advertentie aan uw advertentie toe te voegen. |
+| | [!UICONTROL Verbeter prestaties max en sterkte | Verbeter de sterkte van de groep met middelen van een maximale prestatiecampagne, zodat deze een &quot;Uitstekende&quot; classificatie heeft. |
+| | [!UICONTROL Performance max opt in] | Kies voor maximale prestaties. |
+| | [!UICONTROL Upgrade local campaign to performance max] | Een oudere lokale campagne upgraden naar een maximale prestatiecampagne |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne |
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Door de begroting beperkte campagnes corrigeren |
 | | [!UICONTROL Enhanced CPC opt in] | Bied met [!UICONTROL Enhanced CPC] |
@@ -68,6 +72,8 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Move unused budget] | Ongebruikte verplaatsen naar beperkte budgetten |
 | | [!UICONTROL Raise Target CPA bid too low] | De [!UICONTROL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn |
 | | [!UICONTROL Target CPA opt in] | Bied met [!UICONTROL Target CPA] |
+| | [!UICONTROL Target CPA raising] | De [!UICONTROL Target CPA] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen. |
+| | [!UICONTROL Target ROAS lowering] | Onder de [!UICONTROL Target ROAS] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen. |
 | | [!UICONTROL Target ROAS opt in] | Bied met [!UICONTROL Target ROAS] |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken |
 | | [!UICONTROL Keyword] | Nieuwe trefwoorden toevoegen |
