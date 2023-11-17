@@ -1,11 +1,11 @@
 ---
 title: Koppelingen met campagnes en ad-hocgroepen verwijderen en uitbreiden
 description: Leer hoe u extensies en extensies kunt loskoppelen van campagnes en advertentiegroepen.
-exl-id: 89aa556b-65fa-43de-989a-f58f0bbcf1f2
+exl-id: 123838fc-ebfb-477f-b33d-03d9e2d98789
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: bd7d7ed571ef281f534ab45dc92f20be9445b055
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '96'
 ht-degree: 0%
 
 ---
@@ -29,5 +29,4 @@ U kunt campagne- en advertentiesamenstellingen verwijderen met een willekeurige 
 >[!MORELIKETHIS]
 >
 >* [Beheren [!DNL Google Ads] callout-extensies](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
->* [Locatie-extensies beheren](location-extension-manage.md)
 >* [Sitemelink-extensies beheren](sitelink-extension-manage.md)
