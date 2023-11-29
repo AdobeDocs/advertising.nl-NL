@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 4e4d5ac29b7da2a93788d6faba30d243e3442805
+source-git-commit: dda4a3dcd8d2cb35269ffcb6c600efdde57f2c90
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -17,6 +17,10 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 >[!NOTE]
 >
 >Alle SSP-partnerschappen kunnen worden gewijzigd. Deze lijst weerspiegelt de huidige partnerschappen.
+
+>[!TIP]
+>
+>De volgende tabel is breed. Gebruik de schuifbalk onder aan de tabel om de volledige inhoud weer te geven.
 
 | SSP vermeld | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Video-desktop | Video mobiel | Video-tv | Bureaublad weergeven | Mobiele weergave | Oorspronkelijke weergave | Audio-desktop en mobiel |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
