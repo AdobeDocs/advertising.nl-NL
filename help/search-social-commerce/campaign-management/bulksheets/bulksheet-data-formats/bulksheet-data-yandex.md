@@ -1,18 +1,18 @@
 ---
 title: Vereiste gegevens voor het bulkwerkblad [!DNL Yandex] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Yandex] rekeningen.
-exl-id: c43ea56b-5435-4bbf-8764-beda1bb9b410
+exl-id: bf5a22dd-75c2-486d-85fd-e042bdb87de3
 feature: Search Bulksheets
-source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
+source-git-commit: 85a828367ebce0c9bdb851bd7b639cd2f870012a
 workflow-type: tm+mt
-source-wordcount: '1857'
+source-wordcount: '1905'
 ht-degree: 1%
 
 ---
 
 # Aanhangsel - Vereiste gegevens voor het informatieblad voor [!DNL Yandex] rekeningen
 
-Om te creëren en bij te werken [!DNL Yandex] Campagne gegevens in bulk, kunt u Onderzoek, Sociale, &amp; de bulksbladdossiers van de Handel gebruiken die specifiek voor worden geformatteerd [!DNL Yandex] rekeningen. U kunt een van beide [bulkbladbestanden genereren voor bestaande accounts](../bulksheet-download.md) in de vereiste bestandsindeling of b) handmatig aanmaken (zie &quot;[Ondersteunde bestandsindelingen voor bulkbladbestanden](bulksheet-file-formats.md)&quot; voor algemene informatie over de ondersteunde bestandsindelingen).
+Om te creëren en bij te werken [!DNL Yandex] Campagne gegevens in bulk, kunt u Onderzoek, Sociale, &amp; het bulksbladdossiers van de Handel gebruiken die specifiek voor worden geformatteerd [!DNL Yandex] rekeningen. U kunt een van beide [bulkbladbestanden genereren voor bestaande accounts](../bulksheet-download.md) in de vereiste bestandsindeling of b) handmatig aanmaken (zie &quot;[Ondersteunde bestandsindelingen voor bulkbladbestanden](bulksheet-file-formats.md)&quot; voor algemene informatie over de ondersteunde bestandsindelingen).
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
@@ -29,6 +29,10 @@ Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Me
 ## Beschikbare gegevensvelden
 
 {{$include /help/_includes/bulksheet-appendices-intro-required-data.md}}
+
+>[!TIP]
+>
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave ook tijdelijk verbergen door op ![Inhoudsopgave verbergen](/help/search-social-commerce/assets/hide-toc.png "Inhoudsopgave verbergen") boven aan het linkervenster.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Sitelink | Beschrijving |
 |----|----|-----|-----|----|----|----|
