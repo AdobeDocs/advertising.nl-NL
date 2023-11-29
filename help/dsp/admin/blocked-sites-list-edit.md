@@ -3,9 +3,9 @@ title: Een lijst met geblokkeerde sites op accountniveau of op adverteerdernivea
 description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
 role: User, Admin
 exl-id: b2261b3a-ead2-4d88-a363-66c53653de1a
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: 0e771df5470c287702850a227f9ac20d5679b775
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '182'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
       1. Klikken **Plakken in sites/apps**.
 
-      1. Voer in het invoerveld één waarde per regel in of plak deze. Klik vervolgens op **Doorgaan**.
+      1. Typ of plak in het invoerveld één waarde per regel en klik vervolgens op **Doorgaan**.
 
       1. (Als een waarde ongeldig wordt genoemd) Klik op de knop **Plakken in sites en apps** , corrigeert u de waarden en klikt u op **Doorgaan**.
 
@@ -30,13 +30,13 @@ ht-degree: 0%
 
    * (Optioneel) Voer een van de volgende handelingen uit om een of meer waarden te verwijderen:
 
-      * Als u alle waarden wilt verwijderen, klikt u op **Alles wissen**. Klik in het bevestigingsbericht op **OK**.
+      * Klik op **Alles wissen**. Klik in het bevestigingsbericht **OK**.
 
       * Als u een of meer waarden wilt verwijderen, schakelt u het selectievakje naast elkaar in en klikt u op **Geselecteerde verwijderen**.
 
-      * Als u één waarde wilt verwijderen, klikt u op **X** naast de waarde.
+      * Om één enkele waarden te verwijderen, klik **X** naast de waarde.
 
-   * (Optioneel) Als u de lijst wilt exporteren naar een Microsoft Excel-werkblad in de indeling CV met door komma&#39;s gescheiden waarden, klikt u op **Exporteren**.
+   * (Optioneel) De lijst exporteren naar een [!DNL Microsoft Excel]  spreadsheet in komma-gescheiden waarden (CV) formaat, klik **Exporteren**.
 
 >[!MORELIKETHIS]
 >
