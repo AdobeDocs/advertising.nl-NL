@@ -3,9 +3,9 @@ title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
 exl-id: af88e63b-b64f-4772-bb43-ffd3b0ee1589
 feature: Search Introduction
-source-git-commit: 3bdc21ee649ddc16e144bfa15e16eeac27dfe5d0
+source-git-commit: 8540bfad431c82c52f54e17d7d82c0ac94213663
 workflow-type: tm+mt
-source-wordcount: '2662'
+source-wordcount: '2710'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Ondersteunde voorraad
 
 Hier volgt een overzicht van de ondersteunde advertentienetwerken, campagnetypen en advertentietypen en de functionaliteit die voor beide beschikbaar is.
+
+>[!TIP]
+>
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave ook tijdelijk verbergen door op ![Inhoudsopgave verbergen](/help/dsp/assets/hide-toc.png "Inhoudsopgave verbergen") boven aan het linkervenster.
 
 | Bron | Netwerk | Type campagne | Advertentietype | Synchroniseren en weergeven | Maken/bewerken | Track[^1] | Optimaliseren | Rapport[^2] | Adobe Analytics-ondersteuning[^3] |
 |----|----|----|----|----|----|----|----|----|----|
