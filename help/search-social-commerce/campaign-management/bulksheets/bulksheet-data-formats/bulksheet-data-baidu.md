@@ -3,9 +3,9 @@ title: Vereiste gegevens voor het bulkwerkblad [!DNL Baidu] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Baidu] rekeningen.
 exl-id: 9680cb37-50d4-4b4b-b359-ac54267cd5e6
 feature: Search Bulksheets
-source-git-commit: 255bdcd1e14bd1204b3b0a73034029ba7f4ef965
+source-git-commit: db4a7e2f2fa312a9091accda7d38197ac0efe015
 workflow-type: tm+mt
-source-wordcount: '1930'
+source-wordcount: '1932'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Location,Excluded IPs (Baidu), 
 
 >[!TIP]
 >
->De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave ook tijdelijk verbergen door op ![Inhoudsopgave verbergen](/help/search-social-commerce/assets/hide-toc.png "Inhoudsopgave verbergen") boven aan het linkervenster.
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Venster verbergen](/help/search-social-commerce/assets/hide-pane.png "Venster verbergen") boven aan het linker- of rechterdeelvenster.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Locatiedoel | Beschrijving |
 |----|----|----|----|----|----|----|
