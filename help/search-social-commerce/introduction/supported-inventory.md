@@ -3,9 +3,9 @@ title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
 exl-id: af88e63b-b64f-4772-bb43-ffd3b0ee1589
 feature: Search Introduction
-source-git-commit: db4a7e2f2fa312a9091accda7d38197ac0efe015
+source-git-commit: e15cc54f09f905ee4d3b448d7e766c1513f12afb
 workflow-type: tm+mt
-source-wordcount: '2714'
+source-wordcount: '2728'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Hieronder vindt u de ondersteunde advertentienetwerken, campagneretypen en adver
 
 >[!TIP]
 >
->De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Venster verbergen](/help/search-social-commerce/assets/hide-pane.png "Venster verbergen") boven aan het linker- of rechterdeelvenster.
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Linkervenster verbergen](/help/search-social-commerce/assets/hide-left-pane.png "Linkervenster verbergen") boven aan het linkervenster of ![Rechtervenster verbergen](/help/search-social-commerce/assets/hide-right-pane.png "Rechtervenster verbergen") boven aan het rechterdeelvenster.
 
 | Bron | Netwerk | Type campagne | Advertentietype | Synchroniseren en weergeven | Maken/bewerken | Track[^1] | Optimaliseren | Rapport[^2] | Adobe Analytics-ondersteuning[^3] |
 |----|----|----|----|----|----|----|----|----|----|

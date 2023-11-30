@@ -3,9 +3,9 @@ title: Werkbladgegevens voor [!DNL Yahoo! Japan] rekeningen
 description: Verwijs naar de kopbalgebieden en gegevensgebieden in gedownloade bulksbladen voor [!DNL Yahoo! Japan] rekeningen.
 exl-id: 78eb41ce-3854-454c-adf2-ba0339e2aef7
 feature: Search Bulksheets
-source-git-commit: db4a7e2f2fa312a9091accda7d38197ac0efe015
+source-git-commit: e15cc54f09f905ee4d3b448d7e766c1513f12afb
 workflow-type: tm+mt
-source-wordcount: '2631'
+source-wordcount: '2645'
 ht-degree: 1%
 
 ---
@@ -28,7 +28,7 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 
 >[!TIP]
 >
->De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Venster verbergen](/help/search-social-commerce/assets/hide-pane.png "Venster verbergen") boven aan het linker- of rechterdeelvenster.
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Linkervenster verbergen](/help/search-social-commerce/assets/hide-left-pane.png "Linkervenster verbergen") boven aan het linkervenster of ![Rechtervenster verbergen](/help/search-social-commerce/assets/hide-right-pane.png "Rechtervenster verbergen") boven aan het rechterdeelvenster.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Doel campagnelocatie | Beschrijving |
 |----|----|----|----|----|----|----|

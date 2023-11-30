@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: db4a7e2f2fa312a9091accda7d38197ac0efe015
+source-git-commit: e15cc54f09f905ee4d3b448d7e766c1513f12afb
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 >[!TIP]
 >
->De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Venster verbergen](/help/dsp/assets/hide-pane.png "Venster verbergen") boven aan het linker- of rechterdeelvenster.
+>De volgende tabel is breed. Gebruik indien nodig de schuifbalk onder aan de tabel om de volledige inhoud weer te geven. U kunt de inhoudsopgave of het rechterdeelvenster ook tijdelijk verbergen door op ![Linkervenster verbergen](/help/dsp/assets/hide-left-pane.png "Linkervenster verbergen") boven aan het linkervenster of ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") boven aan het rechterdeelvenster.
 
 | SSP vermeld | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Video-desktop | Video mobiel | Video-tv | Bureaublad weergeven | Mobiele weergave | Oorspronkelijke weergave | Audio-desktop en mobiel |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
