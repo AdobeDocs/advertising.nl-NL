@@ -4,10 +4,10 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 7d5f3028f3f8ff23a97274c182c37477a69c3f48
+source-git-commit: 72ee396019d5a444bd326fe659ce68eb3490a439
 workflow-type: tm+mt
-source-wordcount: '907'
-ht-degree: 5%
+source-wordcount: '931'
+ht-degree: 3%
 
 ---
 
@@ -31,8 +31,8 @@ ht-degree: 5%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [Ondersteuning voor consumentenprivacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [Beleid en richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Steun voor Consumentenprivacy](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Beleid en richtsnoeren](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campaign Management {#campaign-management}
    + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -215,6 +215,15 @@ ht-degree: 5%
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
++ Planner {#planner}
+   + [Informatie over het gereedschap DSP](/help/dsp/planner/planner-about.md)
+   + [Een aangesloten tv-bereikplan maken](/help/dsp/planner/planner-create.md)
+   + [Een aangesloten tv-bereikabonnement dupliceren](/help/dsp/planner/planner-duplicate.md)
+   + [Een aangesloten tv-bereikabonnement bewerken](/help/dsp/planner/planner-edit.md)
+   + [Instellingen voor aangesloten tv-bereikprogramma&#39;s](/help/dsp/planner/planner-settings.md)
+   + [Een voorspelling exporteren voor een aangesloten tv-bereikplan](/help/dsp/planner/planner-export.md)
+   + [De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren](/help/dsp/planner/planner-forecast.md)
+   + [Een aangesloten tv-bereikabonnement archiveren](/help/dsp/planner/planner-archive.md)
 + Administratie {#admin}
    + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
    + Gebruikers {#users}
@@ -227,6 +236,6 @@ ht-degree: 5%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [Integraties met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [Integratie met Adobe Experience Cloud](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Klantenondersteuning](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
-+ [Aanvullende informatie over Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [Opmerkingen bij de release van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
