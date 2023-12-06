@@ -4,9 +4,9 @@ user-guide-description: Meer informatie over de integratie van DSP en advertenti
 breadcrumb-title: Integraties met Experience Cloud
 role: User, Developer
 index: true
-source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
+source-git-commit: 676b7bb7303369a8e212a27cec99c0e1f88da9ae
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '198'
 ht-degree: 12%
 
 ---
@@ -44,6 +44,6 @@ ht-degree: 12%
       + [Overzicht van het verzenden van gegevens over DSP mediablootstelling naar Adobe Audience Manager](/help/integrations/audience-manager/media-data-integration/overview.md)
       + [Verzamel Indrukking en klik Gegevens van DSP Campagnes](/help/integrations/audience-manager/media-data-integration/collect.md)
       + [Gevallen gebruiken](/help/integrations/audience-manager/media-data-integration/use-cases.md)
-   + [Adobe Audience Analytics voor klanten die adverteren](/help/integrations/audience-manager/audience-analytics.md)
-+ [A/B-tests configureren in Adobe Target voor DSP advertenties](/help/integrations/target/overview-ab-tests.md)
+   + [Audience Analytics Adobe voor adverteerders](/help/integrations/audience-manager/audience-analytics.md)
++ [A/B-tests configureren in Adobe Target voor DSP advertenties](/help/integrations/target/ab-tests-dsp.md)
 + [Video&#39;s Tutorials over Adobe Advertising-integratie](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)<!-- rename if the tutorials TOC structure changes -->
