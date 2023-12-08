@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: e564ea441e5ea0d25ee7f99962e72192750c5c40
+source-git-commit: fb0634643e40b67e50461823f976a93129e2f038
 workflow-type: tm+mt
-source-wordcount: '3265'
+source-wordcount: '3217'
 ht-degree: 0%
 
 ---
@@ -246,7 +246,7 @@ Als u echter de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Adver
 
 ### Gebruiken [!UICONTROL AMO ID Instances] als plaatsvervanger voor Klikken met Dimensionen zonder Adobe Advertising
 
-Omdat u het niet kunt gebruiken [!UICONTROL Adobe Advertising Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] komt niet overeen [!UICONTROL Adobe Advertising Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Gegevensvalidatie voor [!DNL Analytics for Advertising]](#data-validation).&quot;
+Omdat u het niet kunt gebruiken [!UICONTROL AMO Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] komt niet overeen [!UICONTROL AMO Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Doorklikgegevens valideren voor [!DNL Analytics for Advertising]](#data-validation).&quot;
 
 ![Voorbeeld van [!UICONTROL AMO ID Instances] in plaats van [!UICONTROL Adobe Advertising Clicks] voor een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-amo-id-instances.png)
 
