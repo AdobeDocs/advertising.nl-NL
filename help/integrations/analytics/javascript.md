@@ -3,22 +3,20 @@ title: JavaScript-code voor [!DNL Analytics for Advertising]
 description: JavaScript-code voor [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
-source-git-commit: 8689bc2b5532b0e75ebf3cee14a42fa733d5ded5
+source-git-commit: 9158ed3fc8b35b5f79f217b619c2ff8e596895ab
 workflow-type: tm+mt
-source-wordcount: '939'
+source-wordcount: '921'
 ht-degree: 0%
 
 ---
 
 # JavaScript-code voor [!DNL Analytics for Advertising]
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
-
 *Adverteerders DSP alleen reclame*
 
-Voor DSP [!DNL Analytics for Advertising] de integratie houdt mening-door en klik-door plaatsinteractie. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s; de [!DNL Analytics] De parameters AMO ID en EF ID worden in de URL van de bestemmingspagina vastgelegd en in hun respectieve gereserveerde eVars bijgehouden. U kunt doorkijkbezoeken volgen door een JavaScript-fragment in uw webpagina&#39;s te implementeren.
+Voor DSP [!DNL Analytics for Advertising] de integratie houdt mening-door en klik-door plaatsinteractie. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s; de [!DNL Analytics] code legt de parameters AMO ID en EF ID vast in de URL van de landingspagina en houdt deze bij in hun respectievelijke gereserveerde waarden [!DNL eVars]. U kunt doorkijkbezoeken volgen door een JavaScript-fragment in uw webpagina&#39;s te implementeren.
 
-In de eerste paginaweergave van een bezoek aan de site controleert de JavaScript-code van de Adobe Advertising of de bezoeker eerder een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet via een doorklikverbinding heeft betreden tijdens het [klik terugkijkvenster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) ingesteld binnen de Adobe Advertising, gebruikt de JavaScript-code voor Adobe Advertising of a) de [Experience Cloud-id-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id te genereren (`SDID`) of b) gebruikt de Adobe Experience Platform [!DNL Web SDK] `generateRandomID` methode om een `[!DNL StitchID]`. Een van beide id&#39;s wordt gebruikt om gegevens van de Adobe Advertising aan te sluiten op de Adobe Analytics-hit van de bezoeker. Adobe Analytics vraagt vervolgens om Adobe Advertising voor de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectieve eVars ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
+In de eerste paginaweergave van een bezoek aan de site controleert de JavaScript-code van de Adobe Advertising of de bezoeker eerder een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en de site niet via een doorklikverbinding heeft betreden tijdens het [klik terugkijkvenster](/help/integrations/analytics/prerequisites.md#lookback-a4adc) ingesteld binnen de Adobe Advertising, gebruikt de JavaScript-code voor Adobe Advertising of a) de [Experience Cloud-id-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een aanvullende id te genereren (`SDID`) of b) gebruikt de Adobe Experience Platform [!DNL Web SDK] `generateRandomID` methode om een `[!DNL StitchID]`. Een van beide id&#39;s wordt gebruikt om gegevens van de Adobe Advertising aan te sluiten op de Adobe Analytics-hit van de bezoeker. Adobe Analytics vraagt vervolgens om Adobe Advertising voor de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectievelijke [!DNL eVars]. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
 
 [!DNL Analytics] verzendt de metriek van het plaatsverkeer (zoals paginameningen, bezoeken, en bestede tijd) en om het even welk [!DNL Analytics] aangepaste of standaardgebeurtenissen naar Adobe Advertising-uur, met de EF-id als sleutel. Deze [!DNL Analytics] De metriek loopt dan door het systeem van de attributie van de Adobe Advertising om de omzettingen aan de klik en de blootstellingsgeschiedenis aan te sluiten.
 
@@ -107,8 +105,8 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
 1. Open de [[!DNL Adobe Experience Cloud Debugger]](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) op je homepage.
 1. Ga naar de [!UICONTROL Network] tab.
 1. In de [!UICONTROL Solutions Filter] werkbalk, klikt u op [!UICONTROL Adobe Advertising] en [!UICONTROL Analytics].
-1. In de [!UICONTROL Request URL – Hostname] parameterrij, zoeken `lasteventf-tm.everesttech.net`.
-1. In de [!UICONTROL Request – Parameters] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
+1. In de [!UICONTROL Request URL - Hostname] parameterrij, zoeken `lasteventf-tm.everesttech.net`.
+1. In de [!UICONTROL Request - Parameters] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
    * (Implementaties die gebruikmaken van de Experience Cloud Identity Service `visitorAPI.js` code) Controleer of de `Sdid` parameter komt overeen met `Supplemental Data ID` in het Adobe Analytics-filter.
    * (Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code) Controleer of de waarde van de `advertisingStitchID` parameter komt overeen met `Sdid` naar het Experience Platform Edge Network verzonden.
    * Als de code niet genereert, controleert u of de Adobe Advertising-cookie is verwijderd in het dialoogvenster [!UICONTROL Application] tab. Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.

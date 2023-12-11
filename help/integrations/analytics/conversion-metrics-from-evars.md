@@ -1,10 +1,11 @@
 ---
-title: "Conversie-metriek maken van Adobe Analytics [!DNL eVars] en props"
-description: "Configureer aangepaste succesgebeurtenismetriek met [!DNL eVar]- en [!DNL prop]-level data."
+title: Conversie-metriek maken vanuit Adobe Analytics [!DNL eVars] en props
+description: Metrische gegevens van aangepaste succesgebeurtenissen configureren met [!DNL eVar]- en [!DNL prop]-level gegevens.
 feature: Integration with Adobe Analytics, Conversions
-source-git-commit: 71ffd021b31154a2ed2a522049f656a13d364d00
+exl-id: 7717d10c-76ca-4ba9-9fbb-e34ad006619c
+source-git-commit: 686ca84a34117bcb4f4d5f295ed27bb308e6f287
 workflow-type: tm+mt
-source-wordcount: '399'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en handelscam
 
 ![Gebruiksvoorbeeld](/help/integrations/assets/a4adc-conversion-evar-example.jpg "Gebruiksvoorbeeld")
 
-De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytics] beheerder of andere gebruiker. Als u hulp nodig hebt, neemt u contact op met (DSP gebruikers) het DSP technische ondersteuningsteam op `adcloud_support@adobe.com` of (zoek gebruikers van de Sociale, &amp; Handel) uw Adobe Account Team.
+De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytics] beheerder of andere gebruiker. Als u hulp nodig hebt, neemt u contact op met (DSP gebruikers) het DSP technische ondersteuningsteam op `adcloud_support@adobe.com` of (zoek gebruikers van de Sociale, &amp; Handel) uw Team van de Rekening van de Adobe.
 
 1. In [!DNL Analytics], [een placeholder succesgebeurtenis maken](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-events/success-event.html?lang=en).
 
@@ -55,15 +56,13 @@ De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytic
 
    1. In [!DNL Analytics] [!DNL Analysis Workspace], [een project maken](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) en trek de nieuwe gebeurtenis in een vrije-vormlijst om ervoor te zorgen dat de gegevens voor [!DNL eVar] of [!DNL prop] metrisch.
 
-1. Neem contact op met het accountteam van Adobe om de nieuwe-waarde in Adobe Advertising te synchroniseren.
+1. Neem contact op met het accountteam van de Adobe om de nieuwe metrische gegevens te synchroniseren naar de Adobe Advertising.
 
-Nadat metrisch beschikbaar is, kan het gebruiken om een doel tot stand te brengen, dat u dan aan een portefeuille van het Onderzoek, Sociale, &amp; Handel of gebruik als [aangepast doel](/help/dsp/optimization/custom-goal-about.md) voor een DSP pakket.
+Nadat metrisch beschikbaar is, kunt u het gebruiken om een doel tot stand te brengen, dat u dan aan een portefeuille van het Onderzoek, Sociale, &amp; Handel of gebruik als [aangepast doel](/help/dsp/optimization/custom-goal-about.md) voor een DSP pakket.
 
 Voor meer informatie over het creëren van doelstellingen, zie het hoofdstuk van de Gids van de Optimalisering over &quot;Doelstellingen,&quot;dat van binnen Onderzoek, Sociale, &amp; Handel beschikbaar is.
 
 >[!MORELIKETHIS]
 >
 >* [[!DNL Analytics] Gegevens in Adobe Advertising](/help/integrations/analytics/analytics-data-in-advertising.md)
-<!--
->* [](/help/search-social-commerce/admin/conversion-metrics/ ????????)
--->
+>* [De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
