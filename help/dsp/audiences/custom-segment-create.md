@@ -3,20 +3,20 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 67b59f4f066d25f323620b83b5a0cb49beb3ee04
 workflow-type: tm+mt
-source-wordcount: '342'
+source-wordcount: '343'
 ht-degree: 0%
 
 ---
 
 # Een aangepast segment maken en implementeren
 
-U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP segment te creëren en uit te voeren. U kunt het segment gebruiken om a) gebruikers te volgen die aan advertenties van Desktop, mobiele apparaten, en apparaten CTV en b) gebruikers worden blootgesteld die specifieke webpagina&#39;s bezoeken. U kunt gebruikers in het segment later opnieuw richten met extra advertenties of gebruikers in het segment verhinderen extra advertenties te ontvangen.
+U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP segment te creëren en uit te voeren. U kunt het segment gebruiken om a) gebruikers te volgen die aan advertenties van Desktop en mobiele apparaten worden blootgesteld en b) gebruikers die specifieke webpagina&#39;s bezoeken. U kunt gebruikers in het segment later opnieuw richten met extra advertenties of gebruikers in het segment verhinderen extra advertenties te ontvangen.
 
 >[!NOTE]
 >
->Als u gebruikers-id&#39;s wilt bijhouden van een aanvraag voor een opt-out-of-verkoop voor een consument op uw website, maakt u een [CCPA opt-out of-of-sales segment](ccpa-opt-out-segment-create.md).
+>Als u gebruikers-id&#39;s wilt bijhouden van een aanvraag voor een opt-out-of-verkoop voor een consument op uw website, maakt u op basis van de California Consumer Privacy Act (CCPA) een [CCPA opt-out of-of-sales segment](ccpa-opt-out-segment-create.md).
 
 1. Maak het segment:
 
@@ -47,10 +47,10 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
          1. Geef de tag door aan de adverteerder of websitecontactpersoon voor implementatie.
 
             De IT-afdeling of andere groep van de adverteerder moet mogelijk de implementatie van de tag plannen of hierover worden geïnformeerd.
-      * Om gebruikers te volgen die aan een advertentie-eenheid op Desktop, mobiele, of apparaten CTV worden blootgesteld:
+
+      * Om gebruikers te volgen die aan een advertentie-eenheid op Desktop of mobiele apparaten worden blootgesteld:
 
          1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads].&quot;
-
 
 1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
@@ -62,13 +62,12 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 
 >[!MORELIKETHIS]
 >
->* [Over Audience Management](audience-about.md)
+>* [Informatie over Audience Management](audience-about.md)
 >* [Segmentinformatie bewerken](segment-edit.md)
 >* [Een segment verwijderen](segment-delete.md)
 >* [Trackingpixels voor een segment weergeven](segment-view-pixels.md)
->* [Delen of Stoppen met delen van een segment](segment-share.md)
+>* [Een segment delen of delen stoppen](segment-share.md)
 >* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Een herbruikbaar publiek maken](reusable-audience-create.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
