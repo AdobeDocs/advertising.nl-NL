@@ -3,9 +3,9 @@ title: Instellingen voor sleutelplaatsing snel bewerken
 description: Leer hoe u de instellingen voor toetsplaatsing snel kunt wijzigen.
 feature: DSP Placements
 exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 
 >[!TIP]
 >
-> Zie &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
+> Als u een plaatsingsinstelling wilt bewerken, raadpleegt u &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
@@ -33,9 +33,8 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing bewerken](placement-edit.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
->* [Het advertentieschema voor een plaatsing bewerken](placement-edit-ad-schedule.md)
+>* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)
-

@@ -3,10 +3,10 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 28a328b1-0839-442e-a245-f586a7042f41
-source-git-commit: c86493663b096854ab3ac2e07244619459ac004c
+source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
 workflow-type: tm+mt
-source-wordcount: '669'
-ht-degree: 1%
+source-wordcount: '673'
+ht-degree: 0%
 
 ---
 
@@ -76,7 +76,7 @@ ht-degree: 1%
 
       * Een nieuwe advertentie maken:
 
-         1. Klik op **[!UICONTROL Create a New Ad].**
+         1. Klikken **[!UICONTROL Create a New Ad].**
 
          1. Geef de advertentie-instellingen op voor [audioadvertenties](/help/dsp/campaign-management/ads/ad-settings-audio.md), [aangesloten tv](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [advertenties weergeven](/help/dsp/campaign-management/ads/ad-settings-display.md), [mobiele advertenties](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [native advertenties](/help/dsp/campaign-management/ads/ad-settings-native.md), [pre-rol advertenties](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [universele videobanden](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
@@ -136,7 +136,7 @@ ht-degree: 1%
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing bewerken](placement-edit.md)
->* [Het advertentieschema voor een plaatsing bewerken](placement-edit-ad-schedule.md)
+>* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)

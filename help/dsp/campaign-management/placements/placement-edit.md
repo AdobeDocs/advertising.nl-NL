@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: e0bd3d4ff50b32dd44ba413b83445866de6f3a75
+source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [Instellingen voor sleutelplaatsing snel bewerken](placement-quick-edit.md)
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
->* [Het advertentieschema voor een plaatsing bewerken](placement-edit-ad-schedule.md)
+>* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)

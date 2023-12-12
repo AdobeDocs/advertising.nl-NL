@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 72ee396019d5a444bd326fe659ce68eb3490a439
+source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '930'
 ht-degree: 3%
 
 ---
@@ -64,7 +64,7 @@ ht-degree: 3%
       + [Instellingen voor sleutelplaatsing snel bewerken](/help/dsp/campaign-management/placements/placement-quick-edit.md)
       + [Een plaatsing dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
       + [Een advertentie aan een plaatsing koppelen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
-      + [Het advertentieschema voor een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+      + [Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)
       + [Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md)
       + [Een plaatsing pauzeren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)

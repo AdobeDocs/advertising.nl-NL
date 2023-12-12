@@ -1,16 +1,16 @@
 ---
-title: Advertentie aan een Plaatsing vastmaken
+title: Een advertentie aan een plaatsing koppelen
 description: Leer hoe u een advertentie aan een plaatsing koppelt.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 1f35711c5543974f97ce2a9c35427636c1e5a6a9
+source-git-commit: 796af195bf935fa6ad9d83d9aa17931b9a640855
 workflow-type: tm+mt
-source-wordcount: '543'
+source-wordcount: '549'
 ht-degree: 1%
 
 ---
 
-# Advertentie aan een Plaatsing vastmaken
+# Een advertentie aan een plaatsing koppelen
 
 >[!NOTE]
 >
@@ -33,9 +33,10 @@ ht-degree: 1%
       1. Klik op **[!UICONTROL Create New Placement]**.
 
       1. Voer de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)en klik vervolgens op **[!UICONTROL Create Placement]**.
+
    * De advertentie toevoegen aan een of meer bestaande plaatsingen:
 
-      1. Klik op **[!UICONTROL Select a Placement].**
+      1. Klikken **[!UICONTROL Select a Placement].**
 
       1. Voer een van de volgende handelingen uit:
 
@@ -44,6 +45,7 @@ ht-degree: 1%
             1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
 
             1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach to Other Placement]**. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
+
          * De advertentie aan maximaal 20 plaatsen tegelijk koppelen:
 
             1. Schakel het selectievakje naast **Bulk selecteren in.&quot;
@@ -51,14 +53,12 @@ ht-degree: 1%
             1. Schakel het selectievakje in naast elke plaatsing waaraan u de advertentie wilt koppelen.
 
             1. Klik op **[!UICONTROL Attach]**.
+
       1. Selecteer op het tabblad Voltooien en revisie een van de volgende opties:
 
          * Als u wilt terugkeren naar de weergave Advertenties, klikt u op **[!UICONTROL I'm done for now]**.
 
          * Als u de advertentie aan een andere plaatsing wilt koppelen, klikt u op **[!UICONTROL Attach To Other Placement]**.
-
-
-
 
 ## Voeg een nieuwe of bestaande advertentie toe vanuit de [!UICONTROL Placements] Weergave
 
@@ -85,9 +85,10 @@ ht-degree: 1%
          >[!NOTE]
          >
          >Uw advertentie zal slechts worden gediend als zowel DSP als het SSP creatief hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
+
    * Bestaande advertenties selecteren:
 
-      1. Klik op **[!UICONTROL Select an Ad].**
+      1. Klikken **[!UICONTROL Select an Ad].**
 
       1. Geef de advertenties op:
 
@@ -96,6 +97,7 @@ ht-degree: 1%
             1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
 
             1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Add Another Ad]**. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
+
          * U kunt maximaal 20 advertenties tegelijk toevoegen:
 
             1. Schakel het selectievakje in naast **[!UICONTROL Bulk Select]**.&quot;
@@ -103,13 +105,14 @@ ht-degree: 1%
             1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
 
             1. Klik op **[!UICONTROL Attach]**.
+
       1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
 
          1. Klik op **[!UICONTROL Custom Schedule Ads]**.
 
          1. Voer een van de volgende handelingen uit:
 
-            * Als u een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
+            * Om een vlucht toe te voegen, klik **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
 
             * Als u een bestaande vlucht wilt toevoegen aan een advertentie, klikt u op **[!UICONTROL +]** in de rij ad voor de vluchtkolom.
 
@@ -117,16 +120,13 @@ ht-degree: 1%
 
             * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie, en voert vervolgens het relatieve gewicht in waarmee elke advertentie moet worden geroteerd, als percentage.
 
-               De totale gewichten moeten gelijk zijn aan 100.
-         1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]**.
+              Het totale gewicht moet 100 zijn.
+
+         1. Klik rechtsboven op **[!UICONTROL Continue]**.
 
          1. Bekijk de vlieggegevens en klik vervolgens op **[!UICONTROL Save & Finish]**.
+
       1. Klik op **[!UICONTROL I'm done for now]**.
-
-
-
-
-
 
 >[!MORELIKETHIS]
 >
@@ -135,6 +135,5 @@ ht-degree: 1%
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie bewerken](ad-edit.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Het advertentieschema voor een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
 >* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
-
