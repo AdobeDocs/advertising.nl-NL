@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 649cdfa0-e6f2-4881-9f9d-8217e2547d99
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 0e82baca53d27dea4207cb2eef3f4be7a9f99fb5
+source-git-commit: 2a4920bc8a9b45061fb0b3773e5a90954ce2dff5
 workflow-type: tm+mt
-source-wordcount: '3598'
+source-wordcount: '3755'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,8 @@ ht-degree: 0%
 | [!UICONTROL Ad Group Type] | Het type advertentiegroep, zoals <i>[!UICONTROL Audience]</i> (alleen voor publiekscampagnes), <i>[!UICONTROL Discovery]</i> (alleen voor opsporingscampagnes), <i>[!UICONTROL Display]</i> (alleen voor weergavecampagnes) <i>[!UICONTROL Search Dynamic]</i> (alleen voor dynamische zoekopdrachten), <i>[!UICONTROL Search Standard]</i> (alleen voor responsieve zoekadvertenties en bestaande uitgebreide tekstadvertenties), <i>[!UICONTROL Shopping Showcase]</i>, <i>[!UICONTROL Shopping Product]</i> (alleen voor standaardwinkelcampagnes), of <i>[!UICONTROL Shopping Smart]</i> (voor slimme winkelcampagnes). Voor sommige campagneretypen kan één campagne veelvoudige advertentietypes omvatten. |
 | [!UICONTROL Ad Groups] | Het aantal advertentiegroepen waaraan de labelwaarde wordt toegewezen. |
 | [!UICONTROL AD Name] | De naam van de advertentiegroep; dezelfde waarde als [!UICONTROL Ad Group]. |
+| [!UICONTROL Ad Recall Lift] | ([!DNL Meta] alleen campagnes) Het geschatte aantal mensen dat je advertentie binnen twee dagen zal onthouden. |
+| [!UICONTROL Ad Recall Rate] | ([!DNL Meta] Alleen campagnes) Het geschatte aantal personen dat je advertentie binnen twee dagen zal onthouden gedeeld door het aantal personen dat je hebt bereikt, als percentage. |
 | [!UICONTROL Ad Size] | De afmetingen van de advertentie. |
 | [!UICONTROL AD Strength] | ([!DNL Google Ads] responsieve zoekopdrachten) De doeltreffendheid van de advertentie: <i>[!UICONTROL average]</i>, <i>[!UICONTROL excellent]</i>, <i>[!UICONTROL good]</i>, <i>[!UICONTROL no_ads]</i>, <i>[!UICONTROL pending]</i>, <i>[!UICONTROL poor]</i>, <i>[!UICONTROL unknown]</i>, of <i>[!UICONTROL unspecified]</i>. |
 | [!UICONTROL Adgroup MBA] | ([!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yahoo! Japan Ads] campagnes) De huidige aanpassing van de mobiele bied op groepsniveau, die bepaalt hoe biedingen worden aangepast wanneer de advertentie op een mobiel apparaat wordt weergegeven. |
@@ -46,6 +48,7 @@ ht-degree: 0%
 | [!UICONTROL Campaign] | De campagne. |
 | [!UICONTROL Campaign Budget] | Het campagnebudget. |
 | [!UICONTROL Campaign MBA] | ([!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yahoo! Japan Ads] (campagnes) De huidige aanpassing voor mobiele biedingen op campagnereniveau, die bepaalt hoe biedingen worden aangepast wanneer de advertentie op een mobiel apparaat wordt weergegeven. |
+| [!UICONTROL Campaign Product Scope Filter] | (Campagnes die het winkelnetwerk slechts gebruiken) De producten in uw handelaarrekening waarvoor productadvertenties voor de campagne kunnen worden gecreeerd. |
 | [!UICONTROL Campaign Start Date] | De eerste dag waarop biedingen voor de campagne werden/worden geplaatst. |
 | [!UICONTROL Campaign Status] | De status van de campagne: <i>[!UICONTROL Active]</i>, <i>[!UICONTROL Paused]</i>, <i>[!UICONTROL Ended]</i>, of <i>[!UICONTROL Deleted]</i>. |
 | [!UICONTROL Campaign Type] | Het type campagne, zoals <i>[!UICONTROL Audience (Ctv Video)]</i><i>[!UICONTROL Audience (Feed)]</i>, <i>[!UICONTROL Audience (Image)]</i>, <i>[!UICONTROL Audience (Video)]</i>, <i>[!UICONTROL Brand Shopping]</i>, <i>[!UICONTROL Discovery]</i>, <i>[!UICONTROL Search and Display]</i>, <i>[!UICONTROL Standard Display]</i>, <i>[!UICONTROL Standard Performance Max]</i>, <i>[!UICONTROL Standard Search]</i>, <i>[!UICONTROL Standard Shopping]</i>, <i>[!UICONTROL Store Ad]</i>, <i>[!UICONTROL Video]</i>, of <i>[!UICONTROL Others]</i>. |
@@ -106,6 +109,7 @@ ht-degree: 0%
 | [!UICONTROL Estimated Impressions] | (Alleen weergavecampagnes) Het geschatte aantal advertenties dat door Search, Social &amp; Commerce is bijgehouden. Deze waarde kan verschillen van de waarde voor de [!UICONTROL Impressions] kolom (indien beschikbaar), die de waarde toont die door de advertentienetwerken wordt verstrekt. |
 | [!UICONTROL Exclude (yes/no)] | Of biedingen zijn uitgesloten (<i>[!UICONTROL Yes]</i>) of het bieden is toegestaan (<i>[!UICONTROL No]</i>) voor advertenties voor overeenkomende producten. |
 | [!UICONTROL First Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die op de eerste pagina met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
+| [!UICONTROL Frequency] | ([!DNL Meta] alleen campagnes) Het gemiddelde aantal keren dat iemand je advertentie zag. |
 | `GGL*`, `GGL_CT*`, en `GGL_XD_CT*` [[!DNL Google Ads]-bijgehouden conversies] | ([!DNL Google Ads] campagnes op de zoek - en winkelnetwerken ) [!DNL Google Ads]-tracked conversies, met maximaal drie verschillende meetwaarden voor elke conversie:<ul><li>`GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals GL Purchase).</li><li>`GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).</li><li>`GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door [!DNL Google Ads] beginnen met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GL_XD_CT_Purchase).</li></ul><br>Elke conversie wordt vastgelegd door de biedingseenheid en de klikdatum. De conversie is niet beschikbaar op het niveau van de gebeurtenis. Voor meer informatie over [!DNL Google Ads]-tracked conversies, zie &quot;[[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).&quot; |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] alleen) Het percentage van uw advertenties dat wordt weergegeven als de eerste advertentie boven de organische zoekresultaten. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] (alleen) Het percentage van uw advertenties dat boven de resultaten van de organische zoekopdracht wordt weergegeven. |
@@ -127,16 +131,17 @@ ht-degree: 0%
 | [!UICONTROL Market Type] | Het markttype:  <i>[!UICONTROL search]</i> of <i>[!UICONTROL social]</i> |
 | [!UICONTROL Max Spend % Target] | (Campagnes in portefeuilles met [!UICONTROL ROI], [!UICONTROL CPT], of [!UICONTROL Marginal Cost per Transaction] uitgavenstrategieën) De maximale dagelijkse begrotingsdoelstelling voor de portefeuille. |
 | [!UICONTROL Max Spend (%)] | ([!UICONTROL Network Constraint Report]) Het maximumpercentage van de uitgaven van de portefeuille die voor het advertentienetwerk wordt gevormd. Voor portfolio&#39;s met het type beperking &quot;[!UICONTROL Min-Max],&quot; is dit [!UICONTROL Max %] waarde. Voor portfolio&#39;s met het type beperking &quot;[!UICONTROL Target Spend],&quot; is dit [!UICONTROL Target Spend] waarde. |
-| [!UICONTROL Method ID] | ([!UICONTROL Portfolio Report])  <!-- ???????? Insert value --> |
+| [!UICONTROL Method ID] | ([!UICONTROL Portfolio Report]) |
 | [!UICONTROL Metro Code] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) Een numerieke metro-code waarvan de beelden of kliks (zoals us-751 voor Denver) voortvloeiden. Het wordt bepaald van het IP van de onderzoeksgebruiker adres. |
 | [!UICONTROL Min Spend (%)] | ([!UICONTROL Network Constraint Report]) Het minimumpercentage van de uitgaven van de portefeuille die voor het advertentienetwerk wordt gevormd. Voor portfolio&#39;s met het type beperking &quot;[!UICONTROL Min-Max],&quot; is dit [!UICONTROL Min %] waarde, als een [!UICONTROL Min %] is geconfigureerd. Voor portfolio&#39;s met het type beperking &quot;[!UICONTROL Target Spend],&quot; is dit [!UICONTROL Target Spend] waarde. |
 | [!UICONTROL Network Account ID] | De account-id die door het netwerk is toegewezen. |
 | [!UICONTROL Network Ad Group ID] | De id van de advertentiegroep die door het netwerk is toegewezen. |
 | [!UICONTROL Network Campaign ID] | De campagne-id die door het netwerk is toegewezen. |
+| [!UICONTROL Network Campaign Objective] | ([!DNL Meta] (alleen campagnes) Het doel van de campagne. |
 | [!UICONTROL Objective Name] | De doelstelling van de portefeuille. |
 | [!UICONTROL Objective Value] | De totale gewogen omrekeningen zoals berekend volgens de huidige doelstelling van de portefeuille. |
 | [!UICONTROL Objective Value Calculation] | De berekening die wordt gebruikt om de objectieve waarde af te leiden. |
-| [!UICONTROL Outbound Clicks] | ([!DNL Meta] advertenties) Het aantal klikken op koppelingen in advertenties waarmee mensen worden uitgeschakeld [!DNL Meta]eigendommen in eigendom. |
+| [!UICONTROL Outbound Clicks] | ([!DNL Meta] alleen campagnes) Het aantal klikken op koppelingen binnen advertenties die mensen van de grond halen [!DNL Meta]eigendommen in eigendom. |
 | [!UICONTROL Parent Product Groupings] | De volledige hiërarchie van de bovenliggende productgroepen, met `>>` tussen lagen, zoals `All Products>>CategoryL1=Animals`), indien van toepassing. |
 | [!UICONTROL Partition Type] | Soort product: <i>[!UICONTROL Sub-Division]</i> (moederproductgroepen) of <i>[!UICONTROL Unit]</i> (het laagste niveau van onderliggende productgroepen waarop een bod is uitgebracht). |
 | [!UICONTROL Path Position] | ([!UICONTROL Transaction Report]) De positie van de gebeurtenis binnen het conversiepad. |
@@ -150,10 +155,12 @@ ht-degree: 0%
 | [!UICONTROL Portfolio Target] | ([!UICONTROL Portfolio Report]) Het dagelijkse streefcijfer voor de uitgavenstrategie van de portefeuille. Voor dagelijkse/maandelijkse en dag van week/maand strategieën, wordt het doel van de huidige dag getoond. |
 | [!UICONTROL Preferred Devices] | ([!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yahoo! Japan Ads] campagnes) Of de advertentie-instellingen de voorkeur geven aan <i>[!UICONTROL Mobile ads]</i> of aan <i>[!UICONTROL All ads]</i>. |
 | [!UICONTROL Product Group ID] | De numerieke id die het advertentienetwerk toewijst aan de productgroep. |
+| [!UICONTROL Product Group Name] | De naam van de productgroep. |
+| [!UICONTROL Product Group Status] | De status van de productgroep. |
 | [!UICONTROL Product Groupings] | De bovenliggende productgroep. |
 | [!UICONTROL Product ID] | ([!UICONTROL Keyword Report]; [!DNL Google Ads] advertenties voor productaanbiedingen) De product-id van het product dat met de advertentie wordt weergegeven.<br><br><b>Opmerking:</b> De id wordt alleen vastgelegd wanneer de parameter tracking in de productlijst is opgenomen `ev_plx=<GMC product ID>`, die u moet toevoegen binnen [!DNL Google Merchant Center]. |
 | [!UICONTROL Raw Transaction Data] | ([!UICONTROL Transaction Report]) De inkomsten voor de omrekeningsnorm (zoals 1 voor één registratie of 12 voor een bestelling van 12 USD). Als meerdere biedingseenheden dezelfde transactie-id hebben, worden de inkomsten voor de tracking-id gesplitst volgens het aantal klikken op de opgegeven klikdatum (wanneer klikgegevens beschikbaar zijn). |
-| [!UICONTROL Reach] | ([!DNL Meta] advertenties) Het aantal mensen dat uw advertenties minstens één keer heeft gezien. Opmerking: [!DNL Meta] dedupliceert bereik dagelijks voor gebruikersprofielen, zodat de aantallen door worden gemeld [!DNL Meta] en door Zoeken, Sociale Zaken &amp; Handel kunnen verschillen. |
+| [!UICONTROL Reach] | ([!DNL Meta] alleen campagnes) Het aantal mensen dat uw advertenties minstens één keer heeft gezien. Opmerking: [!DNL Meta] dedupliceert bereik dagelijks voor gebruikersprofielen, zodat de aantallen door worden gemeld [!DNL Meta] en door Zoeken, Sociale Zaken &amp; Handel kunnen verschillen. |
 | [!UICONTROL Region] | ([!UICONTROL Geo Distribution Report], [!UICONTROL Keyword Report]) Een gebied of een staat V.S./Canada waarvoor de beelden of kliks voortvloeiden. Het wordt bepaald van het IP van de gebruiker adres. |
 | [!UICONTROL SE Creative ID] | De advertentie-id die door het netwerk is toegewezen. |
 | [!UICONTROL Search (Abs. Top) IS] | ([!DNL Google Ads] en [!DNL Microsoft Advertising]) De beelden die u hebt ontvangen op de absolute bovenste locatie (de eerste advertentie boven de resultaten van de organische zoekopdracht) gedeeld door het geschatte aantal indrukken dat u in aanmerking kwam voor opname op de bovenste locatie. Percentages onder 10% worden aangeduid als &quot;`<10%`&quot; of &quot;`0.0999`.&quot; |
@@ -173,15 +180,17 @@ ht-degree: 0%
 | [!UICONTROL Start Date] | De eerste dag die werd gerapporteerd. |
 | [!UICONTROL State] | (Geo Distribution Report, [!UICONTROL Keyword Report]) Een staat van waaruit de transactie afkomstig is. Het wordt bepaald van het IP van de gebruiker adres. |
 | [!UICONTROL Surfer ID] | ([!UICONTROL Transaction Report]) De id van de gebruiker die de transactie heeft voltooid. |
-| [!UICONTROL Through Plays] | ([!DNL Meta] advertenties) Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Thru Plays] | ([!DNL Meta] (alleen campagnes) Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Top of Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die boven aan de pagina&#39;s met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
 | [!UICONTROL Tracking URL] | (Alleen zoektrefwoorden) De trackingsjabloon of de doel-URL die is ingesloten met (indien van toepassing) code voor het bijhouden van zoekopdrachten, sociale gegevens en handel. |
 | [!UICONTROL Transaction Property Name] | ([!UICONTROL Transaction Report]) De advertentiespecifieke omzettingsnorm waaraan de transactie wordt gecrediteerd. |
 | [!UICONTROL Transaction Time] | ([!UICONTROL Transaction Report]) Het tijdstip waarop de opgegeven omzettingsmaatstaf is gecrediteerd. |
+| [!UICONTROL Two Second Continuous Video Plays] | ([!DNL Meta] (alleen campagnes) Het aantal keren dat de video gedurende minstens twee ononderbroken seconden is afgespeeld. |
 | [!UICONTROL User Account Type] | Achterhaald |
 | [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. |
-| [!UICONTROL Video Average Play Time] | ([!DNL Meta] advertenties) De gemiddelde tijd dat een video is afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één indruk. |
-| [!UICONTROL Video Plays] | ([!DNL Meta] advertenties) Het aantal keren dat uw video begint met afspelen, exclusief het aantal keren dat de video wordt afgespeeld. |
+| [!UICONTROL Video Average Play Time] | ([!DNL Meta] (alleen campagnes) De gemiddelde tijd dat een video werd afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één enkele indruk. |
+| [!UICONTROL Video Plays] | ([!DNL Meta] (alleen campagnes) Het aantal keren dat uw video begint met afspelen, exclusief het aantal keren dat de video wordt afgespeeld. |
+| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], en [!UICONTROLVVideo geplakt op 100 procent aantal] | (Videoadvertenties) Het aantal video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
 | [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], en [!UICONTROL VideoQuartile100Rate] | (Videoadvertenties) Het percentage video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
 | [!UICONTROL View Rate] | (Videoadvertenties) Het aantal weergaven of opdrachten gedeeld door het aantal keren dat de advertentie (video- en miniatuurafbeeldingen) werd weergegeven. |
 | [!UICONTROL Views] | (Videoadvertenties) Het aantal keren dat mensen naar uw advertentie keken of zich met uw advertentie bezighouden. |
