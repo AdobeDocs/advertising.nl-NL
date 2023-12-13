@@ -1,24 +1,30 @@
 ---
 title: '[!DNL Microsoft® Advertising] responsieve ad-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] responsieve advertenties.
-exl-id: bbe06bdb-c765-4d30-a609-03f476c4ee54
+exl-id: 29404500-d929-4683-be71-150ea8ab805d
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: dae8d3726b48240a2cad7d3e188694f72934295f
 workflow-type: tm+mt
-source-wordcount: '208'
+source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
 # [!DNL Microsoft® Advertising] responsieve (publiek) en instellingen
 
-De responsieve advertentievorm is beschikbaar voor op afbeeldingen gebaseerde publieksadvertenties op de [!DNL Microsoft® Audience Network]. Het advertentienetwerk assembleert dynamisch responsieve advertenties met behulp van de meest effectieve combinaties van advertentie-elementen.
+De responsieve advertentievorm is beschikbaar voor op afbeeldingen gebaseerde, op video gebaseerde en aangesloten tv-publieksadvertenties op de [!DNL Microsoft® Audience Network]. Het advertentienetwerk assembleert dynamisch responsieve advertenties met behulp van de meest effectieve combinaties van advertentie-elementen.
+
+## [!UICONTROL Ad Settings] (voor videoadvertenties) en [!UICONTROL Audience CTV Video Ad Details]
+
+**[!UICONTROL Videos]:** De URL van één videopad.
+
+**[!UICONTROL Status]:** De advertentiestatus.
+
+## [!UICONTROL Responsive Ad Details] (voor afbeeldingsadvertenties)
 
 >[!NOTE]
 >
 >Het advertentienetwerk leidt automatisch tot advertenties voor publiekscampagnes die met een winkelcentrum worden verbonden gebruikend de het productinformatie van de opslag en gebruiker op het niveau van de advertentie richten. U hoeft niet handmatig advertenties te maken.
-
-## [!UICONTROL Responsive Ad Details]
 
 **[!UICONTROL Images]:** Maximaal 15 JPEG- of PNG-afbeeldingen voor de advertentie. Neem minstens één afbeelding op met een hoogte-breedteverhouding van 1,91:1. Zie de toegestane verhoudingen en afmetingen voor [publiek en afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
 
