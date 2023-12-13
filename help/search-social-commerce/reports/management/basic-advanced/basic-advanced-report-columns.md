@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 649cdfa0-e6f2-4881-9f9d-8217e2547d99
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 2a4920bc8a9b45061fb0b3773e5a90954ce2dff5
+source-git-commit: 6b820606208b662eaa1f5c4d2e63bb08f1ac5885
 workflow-type: tm+mt
-source-wordcount: '3755'
+source-wordcount: '3749'
 ht-degree: 0%
 
 ---
@@ -190,7 +190,7 @@ ht-degree: 0%
 | [!UICONTROL User SE Account ID] | De numerieke id die Search, Social &amp; Commerce toewijst aan het advertentienetwerk. |
 | [!UICONTROL Video Average Play Time] | ([!DNL Meta] (alleen campagnes) De gemiddelde tijd dat een video werd afgespeeld, inclusief de tijd die is besteed aan het opnieuw afspelen van de video, voor één enkele indruk. |
 | [!UICONTROL Video Plays] | ([!DNL Meta] (alleen campagnes) Het aantal keren dat uw video begint met afspelen, exclusief het aantal keren dat de video wordt afgespeeld. |
-| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], en [!UICONTROLVVideo geplakt op 100 procent aantal] | (Videoadvertenties) Het aantal video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
+| [!UICONTROL Video Played at 25 Percent Count], [!UICONTROL Video Played at 50 Percent Count], [!UICONTROL Video Played at 75 Percent Count], en [!UICONTROL Video Played at 100 Percent Count] | (Videoadvertenties) Het aantal video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
 | [!UICONTROL VideoQuartile25Rate], [!UICONTROL VideoQuartile50Rate], [!UICONTROL VideoQuartile75Rate], en [!UICONTROL VideoQuartile100Rate] | (Videoadvertenties) Het percentage video&#39;s dat 25%, 50%, 75% of 100% van de doortocht heeft afgespeeld. |
 | [!UICONTROL View Rate] | (Videoadvertenties) Het aantal weergaven of opdrachten gedeeld door het aantal keren dat de advertentie (video- en miniatuurafbeeldingen) werd weergegeven. |
 | [!UICONTROL Views] | (Videoadvertenties) Het aantal keren dat mensen naar uw advertentie keken of zich met uw advertentie bezighouden. |
