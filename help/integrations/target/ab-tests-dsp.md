@@ -1,21 +1,15 @@
 ---
-title: A/B-tests configureren voor Adobe Advertising-advertenties in Adobe Target
+title: A/B-tests configureren voor Adobe Advertising DSP-advertenties in Adobe Target
 description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw DSP advertenties.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 48f755b6f3ac00a69086fe4c7ce69d320946635b
+source-git-commit: 7ffa5d3e9f1aae0f9d66d87c74807e491e818daa
 workflow-type: tm+mt
-source-wordcount: '1427'
+source-wordcount: '1384'
 ht-degree: 0%
 
 ---
 
 # A/B-tests configureren in Adobe Target voor advertenties DSP advertenties
-
-<!-- In title and Heading1:  DSP and [!DNL Advertising Search, Social, & Commerce] Ads -->
-
-<!-- Add [!UICONTROL and [!DNL tags throughout as needed. -->
-
-<!-- Break into sub-files, or just leave as one? -->
 
 *Adverteerders DSP alleen reclame*
 
@@ -23,7 +17,7 @@ Adobe Advertising en Adobe Target maken het nog eenvoudiger voor marketers om ee
 
 * Verlaag de mate van verschuiving van de site door de advertenties van klanten te koppelen van DSP campagnes aan hun ervaringen ter plaatse.
 
-* A/B-tests uitvoeren door de ervaringen ter plaatse met reclameberichten te weerspiegelen met behulp van Adobe Audience Manager-blootstellingsgegevens en klik-naar-feed doelpubliek.
+* A/B-tests maken door de ervaringen ter plaatse met reclameberichten te weerspiegelen met behulp van Adobe Audience Manager-blootstellingsgegevens en klik-naar-feed [!DNL Target] publiek.
 
 * Meet het effect van verenigde overseinen op een onsite objectieve lift met eenvoudige visualisaties in Adobe Analytics voor [!DNL Target].
 
@@ -45,8 +39,6 @@ Voor dit gebruiksgeval zijn de volgende producten en integraties vereist:
 
 ## Stap 1: Opstelling het Click-through Kader {#click-through-framework}
 
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
-
 ![Doorklikframework](/help/integrations/assets/target-ct-framework.png)
 
 Wanneer u DSP macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de openingspagina bereikt), DSP automatisch de plaatsingssleutel vastleggen door `${TM_PLACEMENT_ID}` in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
@@ -66,8 +58,6 @@ Werk binnen het spreken van Flash of Google Campagne Manager 360, manueel klik-d
 Neem contact op met het accountteam van de Adobe en de groep Advertising Solutions (aac-advertising-solutions-group@adobe.com) om de vereiste plaatsingssleutel op te halen en de installatie te voltooien en om ervoor te zorgen dat elke doorklikURL wordt gevuld met de plaatsingssleutel.
 
 ## Stap 2: Opstelling het Kader View-through Gebruikend Audience Manager {#view-through-framework}
-
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
 
 ![Doorkijkkader](/help/integrations/assets/targetr-vt-framework.png)
 
@@ -99,55 +89,53 @@ Door een Audience Manager imitatiepixel toe te voegen in uw advertentietags en p
 
       * Geef de eigenschap een naam, zodat deze binnen de testactiviteiten gemakkelijk kan worden herkend. Sla de eigenschap op in de gewenste map.
 
-      * Selecteren `Ad Cloud` als de **Gegevensbron**.
+      * Selecteren `Ad Cloud` als de **[!UICONTROL Data Source]**.
 
-      * Voor de expressie trait gebruikt u `d_event` als de **Sleutel** en `imp` als de **Waarde**.
+      * Voor de expressie trait gebruikt u `d_event` als de **[!UICONTROL Key]** en `imp` als de **[!UICONTROL Value]**.
 
-   1. [Een testsegment instellen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) voor het nieuwe kenmerk in de Audience Manager selecteert u `Ad Cloud` als de **Gegevensbron**.
+   1. [Een testsegment instellen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html) voor het nieuwe kenmerk in de Audience Manager selecteert u `Ad Cloud` als de **[!UICONTROL Data Source]**.
 
       De Audience Manager splitst automatisch het segment in een controlegroep die de standaard het landen paginaervaring en een testgroep ontvangt die een gepersonaliseerde onplaatservaring ontvingen.
 
-## Stap 3: Een &quot;A/B Test&quot;-activiteit instellen in het doel
+## Stap 3: Een testactiviteit A/B instellen in [!DNL Target] voor DSP
 
-<!-- [If separate page, add "Adobe" before first-use of product names.] -->
-
-In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeerd. Zie &quot;&quot; voor volledige instructies.
+In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeerd.
 
 1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
 1. [Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
 
-   1. In de **URL voor activiteit invoeren** Voer de URL van de bestemmingspagina voor de test in.
+   1. In de **[!UICONTROL Enter Activity URL]** Voer de URL van de bestemmingspagina voor de test in.
 
       >[!NOTE]
       >
       >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Zie voor meer informatie &quot;[Meerdere pagina&#39;s](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html).&quot; U kunt de bovenste items gemakkelijk herkennen aan de hand van de pagina-URL door een [Rapport over sitetoegang](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/integrations/ad-cloud/create-advertising-cloud-site-entry-reports.html) in Analytics.
 
-   1. In de **Goal** voert u de succesmetrische waarde voor de test in.
+   1. In de **[!UICONTROL Goal]** voert u de succesmetrische waarde voor de test in.
 
       >[!NOTE]
       >
       >Controleer of [!DNL Analytics] is ingeschakeld als gegevensbron binnen [!DNL Target]en dat de juiste rapportsuite is geselecteerd.
 
-   1. Stel de **Prioriteit** tot `High` of `999` om conflicten te voorkomen wanneer gebruikers in het testsegment een onjuiste ervaring op locatie ontvangen.
+   1. Stel de **[!UICONTROL Priority]** tot `High` of `999` om conflicten te voorkomen wanneer gebruikers in het testsegment een onjuiste ervaring op locatie ontvangen.
 
-   1. Within **Rapportinstellingen**, selecteert u de **Bedrijfsnaam** en **Rapportsuite** is verbonden met uw DSP account.
+   1. Within **[!UICONTROL Reporting Settings]**, selecteert u de **[!UICONTROL Company Name]** en **[!UICONTROL Report Suite]** is verbonden met uw DSP account.
 
       Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html).&quot;
 
-   1. In de **Datumbereik** Voer de juiste begin- en einddatum voor de test in.
+   1. In de **[!UICONTROL Date Range]** Voer de juiste begin- en einddatum voor de test in.
 
    1. Soorten publiek toevoegen aan de activiteit:
 
       1. Kies de optie [segment dat u eerder in Audience Manager creeerde om mening door publiek te testen](#view-through-framework).
 
-      1. Selecteren **Sitepagina&#39;s** > **Openingspagina** > **Query** en voert u de DSP plaatsingssleutel in het dialoogvenster **Waarde** veld voor gebruik van de parameters van de doelqueryreeks voor doorklikken.
+      1. Selecteren **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]** en voert u de DSP plaatsingssleutel in het dialoogvenster **[!UICONTROL Value]** veld voor gebruik van de parameters van de doelqueryreeks voor doorklikken.
 
-   1. Voor de **Methode voor verkeerstoewijzing**, selecteert u **Handmatig (standaard)** en splitst het publiek 50/50.
+   1. Voor de **[!UICONTROL Traffic Allocation Method]**, selecteert u **[!UICONTROL Manual (Default)]** en splitst het publiek 50/50.
 
    1. Sla de activiteit op.
 
-1. Gebruiken [!DNL Target] [Visual Experience Composer](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) om ontwerpwijzigingen aan te brengen in de sjabloon voor de landingspagina van de A/B-test.
+1. Gebruiken [Composer visuele doelervaring](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) om ontwerpwijzigingen aan te brengen in de sjabloon voor de landingspagina van de A/B-test.
 
    * Ervaar A: Bewerk niet omdat het de standaard/controle landende paginaervaring zonder personalisatie is.
 
@@ -171,31 +159,31 @@ In Analysis Workspace configureert u de [!DNL Analytics for Target panel] om uw 
 
 #### Metrisch
 
-* Maak een deelvenster in de werkruimte dat specifiek is voor de Adobe Advertising-campagne, het -pakket of de -plaatsing waarvoor de test is uitgevoerd. De summiere visualisaties van het gebruik om Adobe Advertising metriek in het zelfde rapport te tonen zoals de de testprestaties van het Doel.
+* Maak een deelvenster in de werkruimte dat specifiek is voor de Adobe Advertising-campagne, het -pakket of de -plaatsing waarvoor de test is uitgevoerd. De summiere visualisaties van het gebruik om Adobe Advertising metriek in het zelfde rapport te tonen zoals [!DNL Target] testprestaties.
 
 * Prioriteit geven aan het gebruik van onsite metriek (zoals bezoeken en conversies) om de prestaties te meten.
 
-* Begrijp dat de samengevoegde media metriek van Adobe Advertising (zoals impressies, kliks, en kosten) niet aan de metriek van het Doel kan worden aangepast.
+* Begrijp dat de samengevoegde media metriek van Adobe Advertising (zoals impressies, kliks, en kosten) niet kan worden aangepast aan [!DNL Target] metriek.
 
 #### Dimensionen
 
 De volgende afmetingen hebben betrekking op [!DNL Analytics for Target]:
 
-* **Doelactiviteiten**: Naam van de A/B-test
+* **[!UICONTROL Target Activities]**: Naam van de A/B-test
 
-* **Doelervaringen**: Namen van ervaringen met landingspagina&#39;s die binnen de activiteit worden gebruikt
+* **[!UICONTROL Target Experiences]**: Namen van ervaringen met landingspagina&#39;s die binnen de activiteit worden gebruikt
 
-* **Doelactiviteit** > **Ervaring**: De naam van de activiteit en de ervaring in dezelfde rij
+* **[!UICONTROL Target Activity]** > **[!UICONTROL Experience]**: De naam van de activiteit en de ervaring in dezelfde rij
 
 ### Analyses voor probleemoplossing voor [!DNL Target] Gegevens
 
 Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens minimaal of niet vullen, doet u het volgende:
 
-* Controleer of dezelfde SDID (Supplemental Data ID) wordt gebruikt voor zowel Doel als Analytics. U kunt de waarden van SDID verifiëren door [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) op de landingspagina waarop de campagne de gebruikers drijft.
+* Controleren of hetzelfde [!UICONTROL Supplemental Data ID] (SDID) wordt voor beide gebruikt [!DNL Target] en [!DNL Analytics]. U kunt de waarden van SDID verifiëren door [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) op de landingspagina waarop de campagne de gebruikers drijft.
 
 [Aanvullende waarden voor de gegevens-id (SDID) in de Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
-* Controleer op dezelfde landingspagina of a) de hostnaam in de Adobe Debugger onder Oplossingen > Doel overeenkomt met b) de trackingserver die wordt weergegeven in [!DNL Target] voor de activiteit (onder Doelstellingen en instellingen > Rapportinstellingen).
+* Controleer op dezelfde landingspagina of a) de [!UICONTROL Hostname] in de Adobe Debugger [!UICONTROL Solutions] > [!UICONTROL Target] overeenkomsten b) de [!UICONTROL Tracking Server] getoond in [!DNL Target] voor de activiteit (onder [!UICONTROL Goals & Settings] > [!UICONTROL Reporting Settings]).
 
   [!DNL Analytics For Target] vereist een [!DNL Analytics] volgende server die in vraag van moet worden verzonden [!DNL Target] aan de [!DNL Modstats] gegevensverzamelingsserver voor Analytics.<!-- just "to Analytics?"-->
 
@@ -205,14 +193,12 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 ## Verdere lezing
 
-* [Doel integreren met analyse](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html)- Verklaart hoe te opstelling de Rapportering van het Doel in Analysis Workspace.
+* [Doel integreren met analyse](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Verklaart hoe te opstelling [!DNL Target] rapporteren in Analysis Workspace.
 * [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met DSP advertenties kunt gebruiken.
 * [Ervaringen en aanbiedingen](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html) - Verklaringen [!DNL Target] hulpmiddelen om de inhoud ter plaatse te bepalen waaraan DSP testgebruikers worden blootgesteld.
 * [Signalen, Traits en Segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html) - Hiermee definieert u een aantal Audience Managers die u kunnen helpen bij DSP doorkijktests.
 * [Overzicht van analytische gegevens voor reclame](/help/integrations/analytics/overview.md) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
 
-<!-- 
 >[!MORELIKETHIS]
 >
->* 
--->
+>* [A/B-tests configureren in Adobe Target voor advertenties, zoek-, sociale en commerciële advertenties](ab-tests-search.md)
