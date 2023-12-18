@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: e15cc54f09f905ee4d3b448d7e766c1513f12afb
+source-git-commit: bb8e99e94a1425cf86afc848bae8f2f92b4d487d
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | SSP vermeld | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Video-desktop | Video mobiel | Video-tv | Bureaublad weergeven | Mobiele weergave | Oorspronkelijke weergave | Audio-desktop en mobiel |
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 | [!DNL AdColony] (eerder [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | Nee | Algemeen | USD | x | x |  | x | x |  |  |
-| [!DNL AdsWizz] | [!DNL Sirius XM (Pandora)] | Adobe Advertising | Nee | Algemeen | USD, EUR, GBP |  |  |  |  |  |  | x |
+| [!DNL AdsWizz] | [!DNL Sirius XM (Pandora)] | Adobe Advertising | Ja | Algemeen | USD, EUR, GBP |  |  |  |  |  |  | x |
 | [!DNL AppNexus] | [!DNL Xandr] | Video-licentie-id: 9094<br>Licentie-id weergeven: 3939 | Nee | Algemeen | USD | x | x | x | x | x |  |  |
 | [!DNL DailyMotion] |  | [!DNL TubeMogul] of Adobe Advertising | Nee | VS + EMEA | USD, EUR | x | x | x | x | x |  |  |
 | [!DNL EMX Digital] | [!DNL Cadent] | Adobe Advertising | Nee | VS/CA | USD | x | x | x | x | x |  |  |
