@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: e1ae2bb601bc00dad8c611a00cb6ba88c9c57dee
+source-git-commit: 6b2ed619b5f902207720b646693253244cd7b567
 workflow-type: tm+mt
-source-wordcount: '1836'
+source-wordcount: '1893'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 21 december 2023 | [!UICONTROL Audiences] | Documentatie is nu beschikbaar voor het delen van gegevens van de eerste partij via de [!DNL Tealium] klantgegevensplatform met DSP [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten richten gebruikend [!DNL RampIDs]. Binnen plaatsingsinstellingen voor [!UICONTROL Audience Targeting], zijn de gedeelde segmenten beschikbaar in de [!UICONTROL First Party Segments] lijst. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)&quot; en &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot; |
 | 6 december 2023 | Planner | (Beta-functie) Met het nieuwe planningsprogramma kunt u het unieke bereik op het niveau van het huishouden van aangesloten tv-uitzendingen (CTV-uitzendingen) voorspellen op basis van gespecificeerde budgettaire en doelgerichte criteria. Nadat u veelvoudige plannen evalueert, kunt u pakketten en plaatsen uitvoeren die zich het best richten op de gewenste resultaten. | Zie &quot;[Informatie over het gereedschap DSP](/help/dsp/planner/planner-about.md).&quot; |
 |  | Optimalisatie | Alle gebruikers hebben twee nieuwe, op klikken gebaseerde optimalisatiedoelstellingen: **[!UICONTROL Highest ROAS (click focused) - Custom Goal]** en **[!UICONTROL Lowest CPA (click focused) - Custom Goal]**. | Zie &quot;[Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md)&quot; en &quot;[Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).&quot; |
 | 27 september 2023 | Optimalisatie | Twee nieuwe, op bereik gebaseerde optimalisatiedoelstellingen, **[!UICONTROL Always Max Bid and Maximize Reach]** en **[!UICONTROL Lowest Cost per Reach]**, helpt u zoveel mogelijk unieke huishoudens te bereiken met hetzelfde niveau van indrukken of uitgaven. Beide doelstellingen zijn beschikbaar op zowel pakketniveau als plaatsingsniveau. | Zie &quot;[Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).&quot; |

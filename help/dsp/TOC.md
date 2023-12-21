@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
+source-git-commit: eb4db7c91d98cd14e9006f0647f964cdf054962f
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '949'
 ht-degree: 3%
 
 ---
@@ -150,7 +150,11 @@ ht-degree: 3%
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
    + Bronnen {#sources}
       + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
-      + [Activeer Erkende Segmenten van de Duurzame partners van identiteitskaart](/help/dsp/audiences/sources/source-durable-id.md)
+      + Workflows door het gegevensplatform van de klant {#sources-workflows}
+         + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
+            + [Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+            + [Activeer Erkende Segmenten van de Universele Partners van identiteitskaart](/help/dsp/audiences/sources/source-universal-id.md)
+         + [Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
       + [Creeer een Bron van het Publiek om Eerste Publiek te activeren](/help/dsp/audiences/sources/source-create.md)
       + [Broninstellingen voor publiek](/help/dsp/audiences/sources/source-settings.md)
    + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)

@@ -3,7 +3,7 @@ title: Over het beheer van het publiek in DSP
 description: Meer informatie over de functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: 67b59f4f066d25f323620b83b5a0cb49beb3ee04
+source-git-commit: 0979032c6dff9cfe7b5fb7deb10f53114efffb7e
 workflow-type: tm+mt
 source-wordcount: '1021'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Er zijn ook extra publiekstypen beschikbaar voor plaatsing als doel.
 
 DSP kunnen uw eigen gegevenssegmenten van de eerste partij van uw gegevensbeheerplatform (DMP) invoeren en hen verstrekken aan om het even welke reeks adverteerders, zoals nodig.
 
-DSP is een geïntegreerde bestemming voor [de [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), zodat u geverifieerde first-party-segmenten kunt delen met goedgekeurde adverteerders en gebruikers voor activering van de campagne. Voor meer informatie over de integratie van Real-Time CDP raadpleegt u de [Bronsectie](/help/dsp/audiences/sources/source-about.md).
+DSP is een geïntegreerde bestemming voor [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), zodat u geverifieerde first-party-segmenten kunt delen met goedgekeurde adverteerders en gebruikers voor activering van de campagne. Voor meer informatie over de integratie van Real-Time CDP raadpleegt u de [Bronsectie](/help/dsp/audiences/sources/source-about.md).
 
 DSP kunnen ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 

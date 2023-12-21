@@ -3,43 +3,45 @@ title: Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het
 description: Leer over het opnemen van eerste-partijsegmenten van een platform van klantengegevens.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
-source-git-commit: 68095fc77659826fae43f2453d17022ef1880807
+source-git-commit: e3e8753db31bc835c49eb2037fdcd7696a895a8c
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
 
 # Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek
 
-<!-- Doesn't specifically explain what you can do in our UI -->
+DSP kan eerste-partijsegmenten samenvoegen die uit gehakt e-mailIDs of universele IDs worden samengesteld binnen een platform van klantengegevens (CDP). U kunt de opgenomen segmenten als doelen voor uw plaatsingen gebruiken.
 
-DSP kan eerste-partijsegmenten samenvoegen die van voor authentiek verklaarde signalen worden samengesteld die binnen een platform van klantengegevens (CDP) worden gebouwd. U kunt de opgenomen segmenten als doelen voor uw plaatsingen gebruiken.
+De volgende CDPs heeft schakelaars gevestigd, maar de DSP kan ook met om het even welke CDP verbinden gebruikend partij, het stromen, of op API-Gebaseerde gegevens het delen. Neem contact op met het accountteam van de Adobe als u wilt integreren met een nieuwe CDP.
 
-## [!DNL Adobe Real-Time Customer Data Profile]
+## [!DNL Adobe Real-Time Customer Data Platform]
 
-DSP is geïntegreerd met de [de [!DNL Adobe Real-Time Customer Data Profile (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), die deel uitmaakt van de Adobe Experience Platform.
+DSP is geïntegreerd met [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), die deel uitmaakt van de Adobe Experience Platform.
 
-In [!DNL Real-time CDP], *bestemmingen* zijn verbindingen met externe gegevensplatforms die naadloze gegevensactivering toestaan. U kunt bijvoorbeeld bestemmingen gebruiken om uw bekende klantenrelaties (zoals gehashte e-mailadressen) te activeren voor gerichte reclame in digitale indelingen die door DSP worden ondersteund.
+In [!DNL Real-Time CDP], *bestemmingen* zijn verbindingen met externe gegevensplatforms die naadloze gegevensactivering toestaan. U kunt bijvoorbeeld bestemmingen gebruiken om uw bekende klantenrelaties (zoals gehashte e-mailadressen) te activeren voor gerichte reclame in digitale indelingen die door DSP worden ondersteund. Voor meer informatie over bestemmingen, zie het Experience Platform [Doelgids](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), inclusief een overzicht van het product, instructies voor [doelwerkruimten maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) en [doelverbindingen maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), en [gegevens activeren voor doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
-Voor meer informatie over bestemmingen, zie het Experience Platform [Doelgids](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), inclusief een overzicht van het product, instructies voor [doelwerkruimten maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) en [doelverbindingen maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), en [gegevens activeren voor doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
+Zie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md).&quot;
 
-### Workflow voor het gebruik van de DSP integratie met [!DNL Real-time CDP] {#workflow-sources}
+## [!DNL ActionIQ]
 
-1. [DSP toestaan om klantgegevenssegmenten te vertalen in [!DNL LiveRamp RampIDs]](source-durable-id.md) die herkenbaar zijn in een biedbare omgeving.<!-- I don't think I need this here: This requires DSP account-level and campaign-level settings to enable segment sharing with [!DNL LiveRamp], which will translate customer data to [!DNL RampIDs] to create targetable segments. Your Adobe Account Team will perform this configuration. -->
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Action IQ] klantgegevensplatform met DSP. U kunt uw DSP plaatsen aan de segmenten dan richten gebruikend [!DNL RampIDs] of [!DNL Unified IDs 2.0].
 
-1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount.
+Deze integratie vereist aanpassing. Neem contact op met het accountteam van de Adobe voor meer informatie.
 
-1. [Een [!DNL Real-Time CDP] doelverbinding in Experience Platform](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).
+## [!DNL Tealium]
 
-Neem voor extra ondersteuning contact op met uw Adobe-accountteam of `adcloud-support@adobe.com`.
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Tealium] klantgegevensplatform met [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten dan richten gebruikend [!DNL RampIDs]. Zie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [Activeer Erkende Segmenten van de Duurzame Partners van identiteitskaart](source-durable-id.md)
+>* [Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
 >* [Creeer een Bron van het Publiek om Eerste Publiek te activeren](source-create.md)
 >* [Broninstellingen voor publiek](source-settings.md)
->* [Adobe Adverteren DSP Verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* Adobe Experience Platform [Overzicht van de doelcatalogus](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
->* [Over Audience Management](/help/dsp/audiences/audience-about.md)
+>* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
 
+<!--
+>* [Workflow for Using the DSP Integration with [!DNL ActionIQ]](/help/dsp/audiences/sources/source-actioniq.md)
+-->
