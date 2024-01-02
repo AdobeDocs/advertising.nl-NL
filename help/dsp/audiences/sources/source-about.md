@@ -3,9 +3,9 @@ title: Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het
 description: Leer over het opnemen van eerste-partijsegmenten van een platform van klantengegevens.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
-source-git-commit: e3e8753db31bc835c49eb2037fdcd7696a895a8c
+source-git-commit: f01cfbf22628cec0510f4a860ad927b333d5946a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ DSP is geïntegreerd met [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]
 
 In [!DNL Real-Time CDP], *bestemmingen* zijn verbindingen met externe gegevensplatforms die naadloze gegevensactivering toestaan. U kunt bijvoorbeeld bestemmingen gebruiken om uw bekende klantenrelaties (zoals gehashte e-mailadressen) te activeren voor gerichte reclame in digitale indelingen die door DSP worden ondersteund. Voor meer informatie over bestemmingen, zie het Experience Platform [Doelgids](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html), inclusief een overzicht van het product, instructies voor [doelwerkruimten maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html) en [doelverbindingen maken](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html), en [gegevens activeren voor doelen](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html).
 
-Zie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md).&quot;
+Zie voor meer informatie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md).&quot;
 
 ## [!DNL ActionIQ]
 
@@ -32,7 +32,7 @@ Deze integratie vereist aanpassing. Neem contact op met het accountteam van de A
 
 ## [!DNL Tealium]
 
-U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Tealium] klantgegevensplatform met [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten dan richten gebruikend [!DNL RampIDs]. Zie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot;
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Tealium] klantgegevensplatform met [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten dan richten gebruikend [!DNL RampIDs]. Zie voor meer informatie &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot;
 
 >[!MORELIKETHIS]
 >
