@@ -3,9 +3,9 @@ title: Advertentieschema's voor plaatsingen bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die bij plaatsingen horen.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
-source-git-commit: a001d7fbde6ef1346383925db9179d824eb7bb78
+source-git-commit: bc45e96cf091cba3872b20f6ea691e369b29982f
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die z
 
       * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u `[!UICONTROL Even]`.
 
-      * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage. Het totale gewicht van de vlucht moet gelijk zijn aan 100.
+      * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage (bijvoorbeeld `40` voor 40%). Het totale gewicht van de vlucht moet gelijk zijn aan 100.
 
 1. Upload de bewerkte sjabloon voor advertentieschema:
 
