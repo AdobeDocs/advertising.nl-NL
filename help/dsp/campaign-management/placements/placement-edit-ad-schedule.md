@@ -3,7 +3,7 @@ title: Advertentieschema's voor plaatsingen bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die bij plaatsingen horen.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
-source-git-commit: 042cd16591869668339a27fa36de57aa1825dd51
+source-git-commit: a001d7fbde6ef1346383925db9179d824eb7bb78
 workflow-type: tm+mt
 source-wordcount: '436'
 ht-degree: 0%
@@ -32,13 +32,13 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die z
 
 1. Open het gedownloade bestand, bewerk de vluchtinformatievelden voor elke advertentierij die u in de vlucht wilt opnemen en sla het bijgewerkte bestand op:
 
-   **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (zoals [!UICONTROL Flight 1 Start Date] en [!UICONTROL Flight 1 End Date]): De eerste en laatste vluchtdata. Gebruik de notatie YYYY-MM-DD voor elke datum. Alle advertenties met lege vliegdatumvelden worden behandeld als niet-deelnemende advertenties.
+   * **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (zoals [!UICONTROL Flight 1 Start Date] en [!UICONTROL Flight 1 End Date]): De eerste en laatste vluchtdata. Gebruik de notatie YYYY-MM-DD voor elke datum. Alle advertenties met lege vliegdatumvelden worden behandeld als niet-deelnemende advertenties.
 
-   **[!UICONTROL Flight N Weight]** (zoals [!UICONTROL Flight 1 Weight]): Hoe draait u de advertenties voor een vlucht. Voer een waarde in:
+   * **[!UICONTROL Flight N Weight]** (zoals [!UICONTROL Flight 1 Weight]): Hoe draait u de advertenties voor een vlucht. Voer een waarde in:
 
-   * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u &quot;**[!UICONTROL Even]**&quot;.
+      * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u `[!UICONTROL Even]`.
 
-   * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage. Het totale gewicht van de vlucht moet gelijk zijn aan 100.
+      * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage. Het totale gewicht van de vlucht moet gelijk zijn aan 100.
 
 1. Upload de bewerkte sjabloon voor advertentieschema:
 
