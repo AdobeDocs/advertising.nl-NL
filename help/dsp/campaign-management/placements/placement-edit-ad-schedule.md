@@ -3,9 +3,9 @@ title: Advertentieschema's voor plaatsingen bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die bij plaatsingen horen.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
-source-git-commit: d993ffe4a7dceed36ecbae85642e82de271432cd
+source-git-commit: 042cd16591869668339a27fa36de57aa1825dd51
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '436'
 ht-degree: 0%
 
 ---
@@ -30,19 +30,15 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die z
 
    ![Klaar-melding downloaden](/help/dsp/assets/download-ready.png "Klaar-melding downloaden")
 
-1. Open het gedownloade bestand, bewerk de vluchtinformatie naar wens en sla het bijgewerkte bestand op:
+1. Open het gedownloade bestand, bewerk de vluchtinformatievelden voor elke advertentierij die u in de vlucht wilt opnemen en sla het bijgewerkte bestand op:
 
-   * Als u een vlucht wilt toevoegen, geeft u de vluchtdata op voor elke advertentierij die in de vlucht moet worden opgenomen met behulp van de **[!UICONTROL Flight N Start Date]** en **[!UICONTROL Flight N End Date]** kolommen. Gebruik de notatie YYYY-MM-DD voor elke datum.
+   **[!UICONTROL Flight N Start Date]** / **[!UICONTROL Flight N End Date]** (zoals [!UICONTROL Flight 1 Start Date] en [!UICONTROL Flight 1 End Date]): De eerste en laatste vluchtdata. Gebruik de notatie YYYY-MM-DD voor elke datum. Alle advertenties met lege vliegdatumvelden worden behandeld als niet-deelnemende advertenties.
 
-     Voor advertenties in de eerste vlucht voert u bijvoorbeeld waarden in in het dialoogvenster [!UICONTROL Flight 1 Start Date] en [!UICONTROL Flight 1 End Date] velden. Als de rijen voor de advertentie nog niet in het bestand zijn opgenomen, voert u de vereiste gegevens in nieuwe rijen in.
+   **[!UICONTROL Flight N Weight]** (zoals [!UICONTROL Flight 1 Weight]): Hoe draait u de advertenties voor een vlucht. Voer een waarde in:
 
-     Alle advertenties met lege vliegdatumvelden worden behandeld als niet-deelnemende advertenties.
+   * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u &quot;**[!UICONTROL Even]**&quot;.
 
-   * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u &quot;**[!UICONTROL Even]**&quot; in de desbetreffende **[!UICONTROL Flight N Weight]** velden (zoals [!UICONTROL Flight 1 Weight]).
-
-   * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie, als percentage, in het betreffende **[!UICONTROL Flight N Weight]** velden (zoals [!UICONTROL Flight 1 Weight]).
-
-     Het totale gewicht van elke vlucht moet gelijk zijn aan 100.
+   * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage. Het totale gewicht van de vlucht moet gelijk zijn aan 100.
 
 1. Upload de bewerkte sjabloon voor advertentieschema:
 
