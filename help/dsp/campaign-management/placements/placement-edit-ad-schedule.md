@@ -3,44 +3,52 @@ title: Advertentieschema's voor plaatsingen bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die bij plaatsingen horen.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
-source-git-commit: 0b89d346aa7d1443e50605e1300a6a3645fe9b21
+source-git-commit: d993ffe4a7dceed36ecbae85642e82de271432cd
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
 
 # Advertentieschema&#39;s voor plaatsingen bewerken
 
-<!--
+## Advertentieschema&#39;s voor een of meer plaatsen bewerken
 
-## Edit the Ad Schedules for One or More Placements
+U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die zijn gekoppeld aan meerdere plaatsen met behulp van een [!DNL Microsoft Excel] spreadsheet. Elke advertentie kan actief zijn tijdens meerdere vluchten.
 
-You can change the scheduled flight dates and ad rotation for the ads attached to multiple placements using a [!DNL Microsoft Excel] spreadsheet. Each ad can be active during multiple flights.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
-1. In the main menu, click **[!UICONTROL Campaigns]**.
+1. Klik op de naam van de campagne.
 
-1. Click the name of the campaign.
+1. Klik in het submenu op **[!UICONTROL Placements]**.
 
-1. In the submenu, click **[!UICONTROL Placements]**.
+1. Schakel het selectievakje in naast elke plaatsing waarvan u de advertentiegegevens wilt downloaden.
 
-1. Select the check box next to each placement whose ad data you want to download.
+1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Download Custom Ad Schedule Sheet]**.
 
-1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Download Custom Ad Schedule Sheet]**.
+1. Klik op **[!UICONTROL Download]** in het bericht boven aan de browserpagina om een werkbladbestand (in XLSX-indeling) te downloaden volgens de normale procedure van uw browser.
 
-1. When the file is available, click **[!UICONTROL Download]** in the notification at the top of the browser page to download a worksheet file (in XLSX format) according to your browser's normal procedure..
+   ![Klaar-melding downloaden](/help/dsp/assets/download-ready.png "Klaar-melding downloaden")
 
-   ![Download Ready notification](/help/dsp/assets/download-ready.png "Download Ready notification")
+1. Open het gedownloade bestand, bewerk de vluchtinformatie naar wens en sla het bijgewerkte bestand op:
 
-1. Open the downloaded file and edit the flight dates as needed.
+   * Als u een vlucht wilt toevoegen, geeft u de vluchtdata op voor elke advertentierij die in de vlucht moet worden opgenomen met behulp van de **[!UICONTROL Flight N Start Date]** en **[!UICONTROL Flight N End Date]** kolommen. Gebruik de notatie YYYY-MM-DD voor elke datum.
 
-1. Upload the edited ad schedule template:
+     Voor advertenties in de eerste vlucht voert u bijvoorbeeld waarden in in het dialoogvenster [!UICONTROL Flight 1 Start Date] en [!UICONTROL Flight 1 End Date] velden. Als de rijen voor de advertentie nog niet in het bestand zijn opgenomen, voert u de vereiste gegevens in nieuwe rijen in.
 
-   1. Select the check box next to each applicable placement.
+     Alle advertenties met lege vliegdatumvelden worden behandeld als niet-deelnemende advertenties.
 
-   1. In the bulk actions toolbar, click **[!UICONTROL ...]** > **[!UICONTROL Upload Custom Ad Schedule Sheet]**, and specify the file to upload.
+   * Als u de advertenties voor een vlucht gelijkmatig wilt roteren, voert u &quot;**[!UICONTROL Even]**&quot; in de desbetreffende **[!UICONTROL Flight N Weight]** velden (zoals [!UICONTROL Flight 1 Weight]).
 
--->
+   * Als u de advertenties voor een vlucht ongelijk wilt roteren, voert u het relatieve gewicht in waarmee u elke advertentie, als percentage, in het betreffende **[!UICONTROL Flight N Weight]** velden (zoals [!UICONTROL Flight 1 Weight]).
+
+     Het totale gewicht van elke vlucht moet gelijk zijn aan 100.
+
+1. Upload de bewerkte sjabloon voor advertentieschema:
+
+   1. Schakel het selectievakje naast elke toepasselijke plaatsing in.
+
+   1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Upload Custom Ad Schedule Sheet]** en geeft u het bestand op dat u wilt uploaden.
 
 ## Het advertentieschema voor één plaatsing bewerken
 
