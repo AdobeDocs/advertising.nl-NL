@@ -1,11 +1,11 @@
 ---
 title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
-exl-id: a1574502-70a4-4705-8ae6-0de590e1342b
+exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
+source-git-commit: de3c12275d5a6f05e52a8c080c26d93e837d9f71
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,6 @@ ht-degree: 0%
 Boven aan elke pagina staan het hoofdmenu en andere op taak en informatie gebaseerde menu&#39;s.
 
 ## Het hoofdmenu
-
-De belangrijkste menuopties op hoofdniveau zijn gebaseerd op de beschikbare reclamekanalen. U ziet alleen de reclamekanalen die op u van toepassing zijn:
-
-* **[!UICONTROL DSP]** — (Wanneer u toegang hebt tot Adobe Advertising DSP (Demand Side Platform)) Uw beeldscherm en aangesloten tv-reclame beheren. Een afzonderlijk [DSP](https://experienceleague.adobe.com/docs/advertising/dsp/home.html) is beschikbaar.
-
-* **[!UICONTROL Creative]** — (Wanneer u toegang hebt tot Adobe Advertising Creative) U kunt uw advertenties in real-time automatiseren, op maat gesneden en optimaliseren op creatief elementniveau. In Creative Cloud kunt u apart hulp bieden.
 
 * **[!UICONTROL Search]** — Je advertentienetwerkaccounts beheren in Zoeken, Sociale Zaken en Handel, inclusief accounts waarvoor Zoeken, Sociale Zaken en Handel volgen maar geen biedingen uitbrengen.
 
@@ -48,7 +42,7 @@ Onder de [!UICONTROL Search] ziet u de volgende submenu&#39;s. De beschikbare op
 
 * ![Waarschuwingsmeldingen](/help/search-social-commerce/assets/notifications-panel.png "Waarschuwingsmeldingen") Een deelvenster met je meldingen voor Zoeken, Sociale Zaken en Handel.
 
-  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md)in dit deelvenster worden uw meldingen van Experience Cloud weergegeven.
+  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md)in dit deelvenster worden uw meldingen van het Experience Cloud weergegeven.
 
 * ![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help") Een Help-menu dat koppelingen naar documentatie en andere informatie bevat.
 
@@ -56,7 +50,7 @@ Onder de [!UICONTROL Search] ziet u de volgende submenu&#39;s. De beschikbare op
 
 * ![Gebruikersprofiel](/help/search-social-commerce/assets/user-profile.png "Gebruikersprofiel") Een koppeling naar uw profiel, waaruit u zich kunt afmelden.
 
-  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md), kunt u uw profiel van de Experience Cloud ook uitgeven, met inbegrip van uw wachtwoord van de Experience Cloud en berichtmontages.
+  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md), kunt u ook het profiel van uw Experience Cloud bewerken, inclusief het wachtwoord voor het Experience Cloud en de meldingsinstellingen.
 
 >[!MORELIKETHIS]
 >
