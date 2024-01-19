@@ -1,18 +1,18 @@
 ---
 title: Negatieve trefwoorden maken
 description: Leer hoe u negatieve trefwoorden maakt voor zoekcampagnes en advertentiegroepen.
-exl-id: 683e5395-cb65-4d7f-a981-7fc9f84d4192
+exl-id: afe786bf-eda8-4590-b471-3fb696c420de
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: '272'
 ht-degree: 0%
 
 ---
 
 # Negatieve trefwoorden maken
 
-*[!DNL Baidu], [!DNL Google Ads] en [!DNL Microsoft® Advertising], en [!DNL Yahoo! Japan Ads] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads]en bestaande [!DNL Baidu] alleen accounts*
 
 U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne tot stand brengen die het onderzoek of de vertoning of het inheemse netwerk richten. Negatieve trefwoorden activeren geen advertenties.
 

@@ -1,18 +1,18 @@
 ---
 title: Campagnes beheren
 description: Leer advertentiecampagnes te maken en te beheren.
-exl-id: 9406e4bd-d5a2-4744-ab71-fc52428e3af6
+exl-id: 7654a01c-39de-4df4-a7ea-963cfc8b05f2
 feature: Search Campaign Management
-source-git-commit: 8521d686c9bd499dbe89b5acf27595c381041b44
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '751'
+source-wordcount: '752'
 ht-degree: 0%
 
 ---
 
 # Campagnes beheren
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 Een campagne is de primaire component van een rekening van het advertentienetwerk. Voor de meeste soorten campagnes bestaat deze uit een set ad-groups of ad-sets. De campagnemontages omvatten de parameters van het campagnebudget, ad doelstellingen, en facultatieve het volgen parameters voor alle advertenties in de campagne. Campagne-vlak het volgen parameters treedt de rekening-vlakke parameters met voeten maar kunnen zelf op een lager niveau worden met voeten.
 

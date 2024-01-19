@@ -1,18 +1,18 @@
 ---
 title: Advertenties beheren
 description: Leer hoe u advertenties kunt maken en beheren.
-exl-id: 9108bbfd-61e7-49fa-90ba-4eb276eb0897
+exl-id: 5ec410cd-9dff-41e6-9ecc-d6ceee84755e
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '745'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
 
 # Advertenties beheren
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 U kunt advertenties maken, bewerken en de status van advertenties wijzigen via het menu [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Ads] weergeven.
 

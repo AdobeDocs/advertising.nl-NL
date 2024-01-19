@@ -1,18 +1,18 @@
 ---
 title: Adroepen beheren
 description: Leer hoe u advertentiegroepen maakt en beheert.
-exl-id: b86ea2e9-0d4b-4885-9cc9-b62d2c784017
+exl-id: 66900a1f-f915-497d-9053-9d393845af08
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '687'
 ht-degree: 0%
 
 ---
 
 # Adroepen beheren
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 Een advertentiegroep bevat een set advertenties en de bijbehorende trefwoorden. Een advertentiegroep in een campagne die het vertoningsnetwerk richt kan plaatsingen ook omvatten, die plaatsen op het vertoningsnetwerk zijn waarin uw advertenties kunnen verschijnen. De groepsinstellingen van de advertenties, die van toepassing zijn op alle componenten van de advertentiegroep, variëren per ad-netwerk.
 

@@ -1,11 +1,11 @@
 ---
 title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
-exl-id: fd8b38bd-24d0-488c-9e57-a516f5ae67ac
+exl-id: 4038d03b-63e2-4953-89df-37f7b5f68652
 feature: Search Campaign Management
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '2086'
+source-wordcount: '2082'
 ht-degree: 0%
 
 ---
@@ -14,15 +14,18 @@ ht-degree: 0%
 
 Hieronder vindt u instructies voor het maken en bewerken van gegevens van een netwerkaccount en het vernieuwen van de [!DNL oAuth] token voor een account en accounts uitschakelen.
 
+Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md).&quot;
+
 ## Gegevens van een advertentienetwerkaccount maken {#create-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
-Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u een corresponderend accountrecord maken met de toegangsgegevens van de account en de opties voor het bijhouden van de account en met de status *actief*. Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md).&quot;
+Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u een corresponderend accountrecord maken met de toegangsgegevens van de account en de opties voor het bijhouden van de account en met de status *actief*.
 
 >[!NOTE]
 >
->Ga naar de website van het advertentienetwerk om een werkelijke account op het advertentienetwerk te maken.
+>* Ondersteuning is niet beschikbaar voor nieuwe [!DNL Baidu] rekeningen.
+>* Ga naar de website van het advertentienetwerk om een werkelijke account op het advertentienetwerk te maken.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
@@ -38,7 +41,7 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
 
       1. Voer de **[!UICONTROL Login]** waarde voor de account, voert u desgewenst het wachtwoord in en klikt u op **[!UICONTROL Authenticate]**.
 
-         De beste manier is om de aanmelding voor API-toegang tot de account te gebruiken. Voer het wachtwoord in wanneer u het wilt versleutelen en opslaan, zodat het accountteam van Adobe tokens naar wens kan vernieuwen.
+         De beste manier is om de aanmelding voor API-toegang tot de account te gebruiken. Voer het wachtwoord in wanneer u het wilt versleutelen en opslaan, zodat het accountteam van de Adobe tokens naar wens kan vernieuwen.
 
       1. (Als u niet bent aangemeld bij de account van de adverteerder) Meld u aan bij de advertentieaccount. De beste manier is om de referenties te gebruiken voor API-toegang tot de account.
 
@@ -56,7 +59,7 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
 
 ## Gegevens van netwerkaccounts bewerken {#edit-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
 Als de verificatiegegevens van de account veranderen, wilt u de standaardparameters voor bijhouden van een account wijzigen. Als u activiteiten van een account wilt in- of uitschakelen, bewerkt u de accountgegevens.
 
@@ -82,11 +85,11 @@ Als de verificatiegegevens van de account veranderen, wilt u de standaardparamet
 
 ## Tokens voor automatische toegang tot zoekaccounts vernieuwen {#refresh-oauth-tokens}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
 Als Zoeken, Sociaal en Handel toegang heeft tot de account met de [OAuth-autorisatieprotocol](https://oauth.net/2/) en de geloofsbrieven van de rekening veranderen, of als extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Handel te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
 
-Uw Adobe Account Team zal u informeren als de nieuwe eigenschappen een nieuw teken vereisen.
+Uw accountteam van de Adobe zal u informeren als nieuwe functies een nieuw token vereisen.
 
 1. (Als u bent aangemeld bij een andere account voor hetzelfde advertentienetwerk in dezelfde browsertoepassing) Afmelden bij een andere account dan die van de adverteerder.
 
@@ -108,7 +111,7 @@ Uw Adobe Account Team zal u informeren als de nieuwe eigenschappen een nieuw tek
 
 ## Enable or disable ad network accounts {#enable-disable-account}
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
 Wanneer u een advertentienetwerkaccount inschakelt, synchroniseert u met Zoeken, Sociale Zaken en Handel campagnegegevens met de account (indien ondersteund) en voert u geautomatiseerde biedingen en/of campagnebudgetten voor campagnes in portfolio&#39;s uit.Wanneer u een advertentienetwerkaccount uitschakelt, stopt u met Zoeken, Sociaal en Handel alle activiteiten op de account. Gegevens die zijn verzameld terwijl de account actief was, worden nog opgeslagen, maar de weergaven en rapporten voor het campagnebeheer bevatten geen gegevens voor de periode waarin de account is uitgeschakeld. U kunt de account later weer inschakelen om de activiteiten met de account te hervatten.
 
@@ -138,13 +141,13 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseert u met Zoeken,
 
 >[!NOTE]
 >
->De rekeningen van de Adnetwork manager worden hier niet gesteund. Een beheerdersaccount identificeren voor [!DNL Microsoft Advertising] of [!DNL Yandex], gebruikt u het veld Master account-id of MCC-account. Naar [aanmeldingsgegevens instellen voor een [!DNL Google Ads] beheeraccount](/help/search-social-commerce/admin/manager-accounts.md), ga naar [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
+>De rekeningen van de Adnetwork manager worden hier niet gesteund. Een beheerdersaccount identificeren voor [!DNL Microsoft Advertising] of [!DNL Yandex], gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Naar [aanmeldingsgegevens instellen voor een [!DNL Google Ads] beheeraccount](/help/search-social-commerce/admin/manager-accounts.md), ga naar [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
 
 **[!UICONTROL Account Name]:** De naam die moet worden weergegeven voor het account in Zoeken, Sociale media en Handel.
 
 >[!NOTE]
 >
->Als u de integratie Search, Social &amp; Commerce-Adobe Analytics hebt en de naam van de zoekaccount wijzigt, stuurt u een melding naar uw Adobe-accountteam zodat deze de toewijzing kan bijwerken.
+>Als u de integratie Search, Social &amp; Commerce-Adobe Analytics hebt en de naam van de zoekaccount wijzigt, stuurt u een melding naar het accountteam van de Adobe zodat deze de toewijzing kan bijwerken.
 
 **[!UICONTROL Login Details]: \[Aanmeldingstype\]** - ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt toestaan met:
 
@@ -156,11 +159,11 @@ Voor [!DNL Microsoft Advertising] accounts, alleen [!DNL oAuth]- geoorloofde log
 
 **[!UICONTROL Login Details]: [!UICONTROL Login]:** (Alle advertentienetwerken behalve [!DNL Naver]) De aanmeldnaam of -id om API-toegang tot het account in te schakelen.
 
-**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled en alle andere netwerken behalve [!DNL Baidu], [!DNL Meta], en [!DNL Yandex]) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
+**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth]-enabled en alle andere netwerken behalve [!DNL Meta] en [!DNL Yandex]) De token van de account voor het autoriseren van aanmeldingen met de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/).
 
-**[!UICONTROL Login Details]: [!UICONTROL Password]:** (Alle advertentienetwerken behalve [!DNL Naver]) Het wachtwoord voor de account. Voor accounts waarvoor wachtwoorden zijn ingeschakeld: [!DNL Baidu], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex], is dit veld vereist. Voor [!DNL oAuth]-enabled rekeningen, is dit gebied facultatief; gebruik het wanneer u het wachtwoord wilt coderen en opslaan zodat de rekeningsmanager tokens kan verfrissen zoals nodig.
+**[!UICONTROL Login Details]: [!UICONTROL Password]:** (Alle advertentienetwerken behalve [!DNL Naver]) Het wachtwoord voor de account. Voor accounts waarvoor wachtwoorden zijn ingeschakeld: [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex], is dit veld vereist. Voor [!DNL oAuth]-enabled rekeningen, is dit gebied facultatief; gebruik het wanneer u het wachtwoord wilt coderen en opslaan zodat de rekeningsmanager tokens kan verfrissen zoals nodig.
 
-**[!UICONTROL Login Details]: [!UICONTROL Access Key]:** ([!DNL Baidu] en [!DNL Yandex] alleen accounts) De toegangstoets voor de ontwikkelaarsaccount die moet worden gebruikt.
+**[!UICONTROL Login Details]: [!UICONTROL Access Key]:** ([!DNL Yandex] alleen accounts) De toegangstoets voor de ontwikkelaarsaccount die moet worden gebruikt.
 
 **[!UICONTROL Currency]:** De afkorting van de voor de rekening gebruikte valuta. Dit veld kan worden bewerkt voor nieuwe [!DNL Naver] rekeningen. Voor alle andere onderzoeksnetwerken, wordt de waarde automatisch gevuld met de munt die voor de rekening op het advertentienetwerk wordt gevormd zodra u sparen het verslag.
 
@@ -198,7 +201,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 >[!NOTE]
 >
->* Voor [!DNL Google Ads], vermijd het gebruiken van macro&#39;s, die niet voor kliks van bronnen substitueren die parallel volgen toelaten. Als de adverteerder macro&#39;s moet gebruiken, moet het Adobe Account Team met de Klantenondersteuning of het implementatieteam samenwerken om deze toe te voegen.
+>* Voor [!DNL Google Ads], vermijd het gebruiken van macro&#39;s, die niet voor kliks van bronnen substitueren die parallel volgen toelaten. Als de adverteerder macro&#39;s moet gebruiken, moet het accountteam van de Adobe samenwerken met de klantenondersteuning of het implementatieteam om deze toe te voegen.
 >* De volgende sjabloon op het meest granulaire niveau overschrijft de waarden op alle hogere niveaus. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast.
 >* Als u een trackingsjabloon bijwerkt op advertentie-, sitelink- of trefwoordniveau, worden de relevante advertenties opnieuw verzonden voor revisie. U kunt de trackingsjablonen op account-, campagne- of advertentieniveau bijwerken zonder uw advertenties opnieuw ter goedkeuring in te dienen.
 
@@ -252,7 +255,7 @@ Voor volledige instructies raadpleegt u &quot;[De trackingcode van de AMO-id bij
 
 **Namen van rapportsuite** - (Alleen voor EF-omleiding met token; adverteerders met een Adobe Advertising-Adobe Analytics-integratie; optioneel) Een of meer Analytics-rapportreeksen waarnaar Search, Social &amp; Commerce gegevens verzendt die deze verzamelt via het advertentienetwerk, waaronder entiteitsclassificaties en klik op gegevens voor de account. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
-Voor de gegevens die in de rapportreeksen moeten verschijnen, of a) moet de server-side eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of b) adverteerder-niveau die aan &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Daarnaast moet de account Analytics van de adverteerder zo zijn geconfigureerd dat gegevens van Search, Social &amp; Commerce worden ontvangen. Neem voor meer informatie contact op met uw Adobe-accountmanager.
+Voor de gegevens die in de rapportreeksen moeten verschijnen, of a) moet de server-side eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of b) adverteerder-niveau die aan &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Daarnaast moet de account Analytics van de adverteerder zo zijn geconfigureerd dat gegevens van Search, Social &amp; Commerce worden ontvangen. Neem voor meer informatie contact op met de accountmanager van de Adobe.
 
 >[!MORELIKETHIS]
 >

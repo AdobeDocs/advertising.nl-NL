@@ -1,11 +1,11 @@
 ---
 title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
-exl-id: 906acea8-731d-4a3c-929b-9d63e8e1eafe
+exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 11aaafc7f6b888a2cf341cbd7416c609450324fb
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '2024'
+source-wordcount: '2040'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 ## C-D {#c-d}
 
-**campagne:** Een set advertentiegroepen in één advertentierekening die een begroting, tijdspanne, het richten, en andere montages delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Onderzoek, Sociale, &amp; Handel leidt pseudo-campagnes voor elke reeks verwante advertentiegroepen in [!DNL Baidu] die worden gesynchroniseerd binnen Zoeken, Sociale Zaken, &amp; Handel.
+**campagne:** Een set advertentiegroepen in één advertentierekening die een begroting, tijdspanne, het richten, en andere montages delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Onderzoek, Sociale, &amp; Handel leidt pseudo-campagnes voor elke reeks verwante en groepen in bestaand [!DNL Baidu] accounts die worden gesynchroniseerd in Zoeken, Sociale media en Handel.
 
 **hoofdlettergevoelig veld:** Een hoofdlettergevoelig veld of query behandelt hoofdletters (zoals C) anders dan kleine letters (zoals c). Auto wordt bijvoorbeeld beschouwd als een andere waarde dan auto.
 

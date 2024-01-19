@@ -1,24 +1,24 @@
 ---
 title: Informatie over netwerkaccounts
 description: Leer over ad netwerkrekeningen in Onderzoek, Sociale, & Handel.
-exl-id: fca469f1-502c-415a-897d-03b6e6ba34e8
+exl-id: cb3e650d-721f-48ec-ada3-50bdd7c0375b
 feature: Search Campaign Management
-source-git-commit: f80d05aa40fd4114e9585220fe747ca7d36a19bb
+source-git-commit: b2d578d0e15e647a57353dbfbde666b5e72d79f2
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '418'
 ht-degree: 0%
 
 ---
 
 # Informatie over netwerkaccounts
 
-*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adobe-accounts*
+*Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
 Met Zoeken, Sociaal en Handel kunt u de accounts van adverteerders bijhouden op ondersteunde advertentienetwerken. Als u het bijhouden van een account wilt inschakelen, moet u een corresponderende accountrecord maken. U moet accountgegevens instellen voor elk type account, ongeacht of Search, Social &amp; Commerce hiermee synchroniseert of biedingen en budgetten op advertenties optimaliseert.
 
 ## Accounts gesynchroniseerd via API&#39;s
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising] (voorheen) [!DNL Bing Ads]), [!DNL Yahoo! Display Network], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] rekeningen*
+*[!DNL Google Ads], [!DNL Microsoft Advertising] (voorheen) [!DNL Bing Ads]), [!DNL Yahoo! Display Network], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] rekeningen*
 
 Zoeken, sociale zaken en handel synchroniseren (*syncs*) met ondersteunde netwerkaccounts voor advertenties, zodat u de prestaties voor uw advertenties kunt bijhouden, rapporteren en visualiseren. Voor alle advertentienetwerken behalve [!DNL Yahoo! Display Network], kunt u optioneel de campagnes voor uw account beheren in Zoeken, Sociale Zaken en Handel; [!DNL Yahoo! Display Network]campagnes zijn alleen-lezen. Voor alle advertentienetwerken, kunt u het optimaliseringsvermogen toestaan om biedingen op advertenties in beheerde rekeningen te optimaliseren door hen aan portefeuilles toe te voegen.
 

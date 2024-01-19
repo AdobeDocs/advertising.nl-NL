@@ -1,9 +1,9 @@
 ---
 title: Trefwoorden
 description: Meer weten over opties voor biedbare en negatieve trefwoorden?
-exl-id: f9216251-e0ab-43c1-81da-30503ee9f54e
+exl-id: d94c6f3f-0ea3-4792-8a6d-78f3a2af80e8
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Trefwoorden
 
-*[!DNL Baidu], [!DNL Google Ads] en [!DNL Microsoft® Advertising], en [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads]en [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 Een trefwoord is een woord of uitdrukking dat aan een advertentie is gekoppeld. De montages van het sleutelwoord omvatten het type van sleutelwoordgelijke, de maximumbiedingen die moeten worden gebruikt wanneer uw advertentie door het sleutelwoord wordt teweeggebracht, en (sommige ad netwerken) facultatieve het volgen parameters. Instellingen op trefwoordniveau overschrijven de instellingen voor de advertentiegroep of campagne.
 

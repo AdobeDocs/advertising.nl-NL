@@ -1,18 +1,18 @@
 ---
 title: Advertenties beheren
 description: Meer informatie over advertenties in Zoeken, Sociale Zaken en Handel, inclusief de beschikbare advertentietypen.
-exl-id: 92ae631a-c35a-40ec-9d40-ebce13e3311b
+exl-id: 01bd211d-fe6b-4329-90e1-0e54d626c125
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: b2d578d0e15e647a57353dbfbde666b5e72d79f2
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '883'
 ht-degree: 0%
 
 ---
 
 # Over advertenties
 
-*[!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 Een advertentie kan worden weergegeven op een doelwebsite (voor inhoud of op plaatsing gerichte campagnes); wanneer een gebruiker naar een van de trefwoorden in de advertentiegroep zoekt (voor zoekcampagnes) of naar inhoud op uw website (dynamische zoekadvertenties in [!DNL Google Ads] (alleen-zoekcampagnes); of wanneer een gebruiker een zoekopdracht uitvoert die relevant is voor een van de items in uw [!DNL Google Merchant Center] of [!DNL Microsoft® Merchant Center] productfeed (winkeladvertenties in [!DNL Google Ads] of productadvertenties in [!DNL Microsoft® Advertising] campagnes).
 

@@ -1,18 +1,18 @@
 ---
 title: Biedeerbare trefwoorden beheren
 description: Leer hoe u trefwoorden voor zoekopdrachten en groepen maakt en beheert.
-exl-id: c52364bf-a55a-444e-bde8-88d46c2f4813
+exl-id: 79ae5347-8625-4d31-a9fe-f476c041a063
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
 
 # Biedeerbare trefwoorden beheren
 
-*[!DNL Baidu], [!DNL Google Ads] en [!DNL Microsoft® Advertising], en [!DNL Yahoo! Japan Ads], en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads]en [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 U kunt trefwoorden voor zoekopdrachten en groepen maken en bewerken in [ondersteunde typen campagne](/help/search-social-commerce/introduction/supported-inventory.md) die gericht zijn op het zoeken en de vertoning/inheemse netwerken binnen een [gesynchroniseerde netwerkaccount](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
 

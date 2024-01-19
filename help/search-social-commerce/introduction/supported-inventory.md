@@ -3,9 +3,9 @@ title: Ondersteunde voorraad
 description: Verwijs de gesteunde advertentienetwerken, campagneretypes, en advertentietypes.
 exl-id: af88e63b-b64f-4772-bb43-ffd3b0ee1589
 feature: Search Introduction
-source-git-commit: e15cc54f09f905ee4d3b448d7e766c1513f12afb
+source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
 workflow-type: tm+mt
-source-wordcount: '2728'
+source-wordcount: '2758'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Hieronder vindt u de ondersteunde advertentienetwerken, campagneretypen en adver
 
 | Bron | Netwerk | Type campagne | Advertentietype | Synchroniseren en weergeven | Maken/bewerken | Track[^1] | Optimaliseren | Rapport[^2] | Adobe Analytics-ondersteuning[^3] |
 |----|----|----|----|----|----|----|----|----|----|
-| [!DNL Baidu] | Zoeken in netwerk | Handmatig | Tekst | Automatisch via API | Gebruiken [campagneremanagementweergaven](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md) en [bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Ja | Campagnes met alleen de strategie voor handmatig bieden via CPC | Gegevens op advertentieniveau | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
+| [!DNL Baidu]: Alleen bestaande accounts in Zoeken, Sociaal en Handel; geen ondersteuning voor nieuwe accounts | Zoeken in netwerk | Handmatig | Tekst | Automatisch via API | Bewerken en verwijderen met [campagneremanagementweergaven](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md) en [bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Ja | Campagnes met alleen de strategie voor handmatig bieden via CPC | Gegevens op advertentieniveau | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
 | [!DNL Google Ads] | Alles [!DNL Google] feeds | Detectie (bètafunctie) | Detectie (advertenties met één afbeelding)<br><br>Detectiescarrousel (carrouseladvertenties met meerdere afbeeldingen) | Automatisch via API | — | Ja | Alleen in hybride portefeuilles<br><br>De biedingen en de doelstellingen van de biedingsstrategie worden vastgesteld op het campagneniveau, samen met de campagnebegrotingen, zoals van toepassing voor het optimalisatietype. | Gegevens op advertentieniveau | Gegevens op advertentieniveau voor zoeken, sociale zaken en handel [de bijgewerkte trackingcode voor AMO-id&#39;s gebruiken](/help/integrations/analytics/ids.md#amo-id-formats)[^4]<br><br>Gegevens op advertentieniveau, van Zoeken, Sociale &amp; Handel tot Analytics |
 | | Alles | Maximale standaardprestaties (bètafunctie) | Alle typen | Automatisch via API | Campagne maken/bewerken en advertentiemiddelen uploaden binnen de instellingen voor de campagne in [!UICONTROL Campaigns] > [!UICONTROL Campaigns]<br><br>Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij [!DNL [!DNL Google Ads] Advertentie]-editor. | Ja | Alleen in hybride portefeuilles<br><br>De doelstellingen van de biedstrategie worden vastgesteld op het campagneniveau, samen met de campagnebegrotingen. | Gegevens op campagneniveau<br><br>Gegevens voor lijstgroepen zijn niet beschikbaar, en het ad-level netwerk verstrekt geen gegevens op ad-niveau. | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op campagnereniveau, van Zoeken, Sociaal en Handel tot Analytics. Vereist de upgrade [Code voor bijhouden AMO-id](/help/integrations/analytics/ids.md#amo-id-formats). |
 | | Netwerk weergeven | Standaardweergave | Afbeelding | Automatisch via API | URL en status alleen bewerken met [bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) | Ja, wanneer u handmatig klikt op trackingtags om sjablonen te volgen binnen het advertentienetwerk | — | Gegevens op advertentieniveau, maar geen doorkijkgegevens | Analysegegevens voor zoeken, sociale zaken en handel<br><br>Gegevens op advertentieniveau, van Zoeken, Sociaal en Handel tot Analytics, maar geen doorkijkgegevens |
