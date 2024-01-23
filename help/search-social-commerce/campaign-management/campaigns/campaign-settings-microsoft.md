@@ -3,9 +3,9 @@ title: '[!DNL Microsoft® Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 22fd10dec43c43c6f03860e6e4839a8bb8d56017
+source-git-commit: 0b68db50d7f4c40eb2742c3906b79c5347c05f66
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1155'
 ht-degree: 0%
 
 ---
@@ -76,7 +76,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Maximize Conversion Value]:* (Zoeken en winkelen/smart shopping-netwerken, maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
-* *[!UICONTROL Maximize Conversions]:* (Campagnes op het onderzoeksnetwerk <!-- future: and audience network -->, maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om conversies te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPC]** (kosten per klik)<!-- future: ; for audience campaigns, you can also enter an optional [!UICONTROL Target CPA] (cost per acquisition) -->. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversions]:* (Prestatiecampagnes en campagnes op het onderzoeksnetwerk of publieksnetwerk (maar niet kijkvideo&#39;s of aangesloten TV) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen om omzettingen te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPC]** (kosten per klik). Voor publiekscampagnes kunt u ook een optionele **[!UICONTROL Target CPA]** (kosten per overname). **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
 * *[!UICONTROL Target CPA]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen die op facultatief worden gebaseerd **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
 
