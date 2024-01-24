@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: b013270066876069d4c548bc821dc9d932f0f0d7
+source-git-commit: 48c37e0c85f34ec462631055dd207c1133809065
 workflow-type: tm+mt
-source-wordcount: '1949'
+source-wordcount: '1967'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 24 januari 2024 | [!UICONTROL Placements] en [!UICONTROL Ads] | De workflow voor het bijvoegen van advertenties bij plaatsingen is opnieuw ontworpen. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 | 10 januari 2024 | [!UICONTROL Placements] | Met behulp van een spreadsheet kunt u nu snel meerdere plaatsen aanpassen en plannen:<ul><li>U kunt een sjabloon voor een advertentieschema downloaden voor plaatsingen. U kunt de vluchtdatums en de rotatie van de advertentie naar wens bewerken in het gedownloade bestand.</li><li>Vervolgens kunt u de bewerkte sjabloon voor advertentieschema uploaden.</li></ul> | Zie &quot;[Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md).&quot; |
 | 21 december 2023 | [!UICONTROL Audiences] | Documentatie is nu beschikbaar voor het delen van gegevens van de eerste partij via de [!DNL Tealium] klantgegevensplatform met DSP [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten richten gebruikend [!DNL RampIDs]. Binnen plaatsingsinstellingen voor [!UICONTROL Audience Targeting], zijn de gedeelde segmenten beschikbaar in de [!UICONTROL First Party Segments] lijst. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)&quot; en &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot; |
 | 6 december 2023 | Planner | (Beta-functie) Met het nieuwe planningsprogramma kunt u het unieke bereik op het niveau van het huishouden van aangesloten tv-uitzendingen (CTV-uitzendingen) voorspellen op basis van gespecificeerde budgettaire en doelgerichte criteria. Nadat u veelvoudige plannen evalueert, kunt u pakketten en plaatsen uitvoeren die zich het best richten op de gewenste resultaten. | Zie &quot;[Informatie over het gereedschap DSP](/help/dsp/planner/planner-about.md).&quot; |

@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
+source-git-commit: c64d53949b8655f6b7efeaf4d10407a26cf9e9e8
 workflow-type: tm+mt
-source-wordcount: '272'
+source-wordcount: '268'
 ht-degree: 0%
 
 ---
@@ -55,8 +55,6 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
    1. Selecteer de **[!UICONTROL Edit Mode]**.
 
       De opties variëren per instelling, maar kunnen het volgende omvatten:
-
-      * **Toevoegen** (om advertenties toe te voegen)
 
       * **Toevoegen** (om de bestaande waarden te behouden en nieuwe waarden toe te voegen)
 

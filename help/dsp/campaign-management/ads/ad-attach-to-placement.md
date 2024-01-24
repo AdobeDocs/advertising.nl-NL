@@ -1,132 +1,80 @@
 ---
-title: Een advertentie aan een plaatsing koppelen
-description: Leer hoe u een advertentie aan een plaatsing koppelt.
+title: Advertenties toevoegen aan plaatsingen
+description: Leer hoe u advertenties aan plaatsingen koppelt.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 796af195bf935fa6ad9d83d9aa17931b9a640855
+source-git-commit: 2690117dd4edb66a1bdbdca307bc4f91b0efc059
 workflow-type: tm+mt
-source-wordcount: '549'
-ht-degree: 1%
+source-wordcount: '434'
+ht-degree: 0%
 
 ---
 
-# Een advertentie aan een plaatsing koppelen
+# Advertenties toevoegen aan plaatsingen
 
 >[!NOTE]
 >
 >Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-## Een nieuwe advertentie toevoegen vanuit de [!UICONTROL Ads] Weergave
+## Advertenties toevoegen aan plaatsingen {#attach-ads-campaign}
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
 1. Klik op de naam van de campagne.
 
-1. Klik in het submenu op **[!UICONTROL Ads]**.
+1. Open de [!UICONTROL Ad Tools] op een van de volgende manieren te bekijken:
 
-1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+   * (Vanaf de [!UICONTROL Packages] , [!UICONTROL Placements], of [!UICONTROL Ads] weergave) Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-1. Voer een van de volgende handelingen uit in het scherm Plaatsen en toevoegen:
+   * (Vanaf de [!UICONTROL Placements] (weergave) Naast de plaatsingsnaam klikt u op  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
 
-   * Een nieuwe plaatsing maken voor de advertentie:
+   * (Vanaf de [!UICONTROL Ads] (weergave) Naast de naam van de advertentie klikt u op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
-      1. Klik op **[!UICONTROL Create New Placement]**.
+1. In de [!UICONTROL Edit] Ga als volgt te werk voor elke groep advertenties die u aan plaatsingen wilt koppelen:
 
-      1. Voer de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)en klik vervolgens op **[!UICONTROL Create Placement]**.
+   1. (Optioneel) Zoek op een van de volgende manieren specifieke plaatsen en advertenties:
 
-   * De advertentie toevoegen aan een of meer bestaande plaatsingen:
+      * Klik boven de tabellen op ![Filter](/help/dsp/assets/filter.png) en filtert u de lijsten op plaatsingstype, plaatsingsstatus, type advertentie of status toevoegen.
 
-      1. Klikken **[!UICONTROL Select a Placement].**
+      * Zoek in de rechter- en linkertabellen naar specifieke tekstreeksen in de plaatsings- en advertentienamen.
 
-      1. Voer een van de volgende handelingen uit:
+   1. Schakel in de linkertabel het selectievakje in naast elke plaatsing waaraan u de advertenties wilt koppelen.
 
-         * Eén advertentie tegelijk toevoegen:
+   1. Selecteer in de rechtertabel het selectievakje naast elke advertentie die u aan de geselecteerde plaatsingen wilt koppelen.
 
-            1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
+      Alleen advertenties die van toepassing zijn op het plaatsingstype en die nog niet aan de geselecteerde plaatsingen zijn gekoppeld, kunnen worden geselecteerd.
 
-            1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach to Other Placement]**. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
+   1. Klik in de rechteronderhoek op  **[!UICONTROL Attach]**.
 
-         * De advertentie aan maximaal 20 plaatsen tegelijk koppelen:
+1. (Optioneel) Klik op ![Terug naar map](/help/dsp/assets/breadcrumb-return.png "Terug naar map") links van [!UICONTROL Ad Tools] en selecteert u de naam van de campagne.
 
-            1. Schakel het selectievakje naast **Bulk selecteren in.&quot;
+## Advertenties weergeven die zijn gekoppeld aan plaatsingen {#view-ads-campaign}
 
-            1. Schakel het selectievakje in naast elke plaatsing waaraan u de advertentie wilt koppelen.
-
-            1. Klik op **[!UICONTROL Attach]**.
-
-      1. Selecteer op het tabblad Voltooien en revisie een van de volgende opties:
-
-         * Als u wilt terugkeren naar de weergave Advertenties, klikt u op **[!UICONTROL I'm done for now]**.
-
-         * Als u de advertentie aan een andere plaatsing wilt koppelen, klikt u op **[!UICONTROL Attach To Other Placement]**.
-
-## Voeg een nieuwe of bestaande advertentie toe vanuit de [!UICONTROL Placements] Weergave
+<!-- should be a separate page, combined with "List the Placements Associated with an Ad" (although that pertains to a single ad only), or maybe just rename this topic -->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
 1. Klik op de naam van de campagne.
 
-1. Klik in het submenu op **[!UICONTROL Placements]**.
+1. Open de [!UICONTROL Ad Tools] op een van de volgende manieren te bekijken:
 
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+   * (Vanaf de [!UICONTROL Packages] , [!UICONTROL Placements], of [!UICONTROL Ads] weergave) Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
 
-1. In de [!UICONTROL Add Ad to Placement] scherm, voer een van de volgende handelingen uit:
+   * (Als u advertenties wilt zien die aan een specifieke plaatsing zijn gekoppeld), klikt u in het submenu op **[!UICONTROL Placements]**. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
 
-   * Een nieuwe advertentie maken:
+   * (Als u de plaatsen wilt zien waaraan een advertentie kan of kan worden gekoppeld), klikt u in het submenu op **[!UICONTROL Ads]**. Klik naast een advertentienaam op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
 
-      1. Klik op **[!UICONTROL Create a New Ad]**.
+1. Schakel over naar de **[!UICONTROL View]** rechtsboven.
 
-      1. Voer de advertentie-instellingen in voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), of [pre-rol advertenties](ad-settings-pre-roll.md).
+1. (Optioneel) Zoek zo nodig specifieke plaatsen en advertenties:
 
-      1. Klik op **[!UICONTROL Save & Submit for Review]**.
+   * Filter boven de linkertabel de lijsten op plaatsingstype, plaatsingsstatus, advertentietype of advertentiestatus.
 
-         De [advertentie bekijken](ad-about.md) voor de nieuwe advertentie duurt 24 tot 48 uur en bevat controles op gevoelige categorieën, klik op URL-functionaliteit en voorvertoning van rendering. De [!UICONTROL Status] de kolom geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
+   * Zoek in de rechter- en linkertabellen naar specifieke tekstreeksen in de plaatsings- of advertentienaam.
 
-         >[!NOTE]
-         >
-         >Uw advertentie zal slechts worden gediend als zowel DSP als het SSP creatief hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
+1. Klik op een plaatsingsrij in de linkertabel om de bijgevoegde advertenties in de rechtertabel weer te geven.
 
-   * Bestaande advertenties selecteren:
-
-      1. Klikken **[!UICONTROL Select an Ad].**
-
-      1. Geef de advertenties op:
-
-         * Eén advertentie tegelijk toevoegen:
-
-            1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
-
-            1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Add Another Ad]**. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
-
-         * U kunt maximaal 20 advertenties tegelijk toevoegen:
-
-            1. Schakel het selectievakje in naast **[!UICONTROL Bulk Select]**.&quot;
-
-            1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
-
-            1. Klik op **[!UICONTROL Attach]**.
-
-      1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
-
-         1. Klik op **[!UICONTROL Custom Schedule Ads]**.
-
-         1. Voer een van de volgende handelingen uit:
-
-            * Om een vlucht toe te voegen, klik **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
-
-            * Als u een bestaande vlucht wilt toevoegen aan een advertentie, klikt u op **[!UICONTROL +]** in de rij ad voor de vluchtkolom.
-
-            * Als u een bestaande vlucht uit een advertentie wilt verwijderen, klikt u op **[!UICONTROL x]** in de rij ad voor de vluchtkolom.
-
-            * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie, en voert vervolgens het relatieve gewicht in waarmee elke advertentie moet worden geroteerd, als percentage.
-
-              Het totale gewicht moet 100 zijn.
-
-         1. Klik rechtsboven op **[!UICONTROL Continue]**.
-
-         1. Bekijk de vlieggegevens en klik vervolgens op **[!UICONTROL Save & Finish]**.
-
-      1. Klik op **[!UICONTROL I'm done for now]**.
+1. (Optioneel) Als u meer advertenties wilt toevoegen aan de plaatsing van de campagne, schakelt u over op de knop **[!UICONTROL Edit]** in de rechterbovenhoek. Zie Stap 4 in de vorige procedure. &quot;[Advertenties toevoegen aan plaatsingen](#attach-ads-campaign),&quot; voor instructies.
 
 >[!MORELIKETHIS]
 >
