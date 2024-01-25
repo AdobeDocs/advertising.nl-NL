@@ -1,16 +1,16 @@
 ---
-title: Over rapporten in Platform
+title: Over rapporten op het platform
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 833e3d3a15546518ec627f859d601285e30381b7
 workflow-type: tm+mt
-source-wordcount: '940'
+source-wordcount: '941'
 ht-degree: 0%
 
 ---
 
-# Over rapporten in Platform
+# Over rapporten op het platform
 
 <!-- rename "About Performance Reports in Campaign Management Views?" -->
 De meningen van het campagnebeheer omvatten uitvoerige rapportgegevens. De beschikbare rapporten helpen u om de pakketten en de plaatsen te identificeren die goed presteren en die die uw aandacht vereisen. Met de knoppen voor snelle actie kunt u bovendien productiever werken.
@@ -37,13 +37,17 @@ Standaard bevat elke campagnerij cijfers voor het plaatsen en leveren. Metrische
 
 U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren en [de zichtbare gegevens filteren](campaign-data-filter.md).
 
+<!--
+An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
+-->
+
 Klik op de naam van de campagne als u een campagne gedetailleerder wilt weergeven.
 
 ## Single Campaign Reporting {#single-campaign-reporting}
 
 Binnen een campagne kunt u gegevens filteren op basis van de campagneentiteit: [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads]. U kunt [de zichtbare gegevens filteren](campaign-data-filter.md) om alleen de pakketten, plaatsen of advertenties op te nemen die u wilt zien.
 
-![Tabbladen voor campagneentiteiten](/help/dsp/assets/campaign-subtabs.png)
+![Tabbladen Campagne-entiteiten](/help/dsp/assets/campaign-subtabs.png)
 
 ### Grafiekweergave
 
@@ -55,19 +59,23 @@ Zie de [De sectie van de &quot;Mening van de Grafiek&quot;op dwars-campagnemetri
 
 Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](column-view-change.md) of zelfs [een aangepaste kolomweergave maken](column-view-create.md) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
 
+<!--
+An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
+-->
+
 ### Plaatsing [!UICONTROL Inspector] {#placement-inspector}
 
 Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](placement-details-view.md), die de volgende gedetailleerde gegevens bevat:
 
 * **[!UICONTROL Sites]:** Alle sites waarop de plaatsing indrukt.
 
-   De [!UICONTROL Sites] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en een [!UICONTROL Exclude] in elke rij zodat u een site snel van de plaatsing kunt uitsluiten.
+  De [!UICONTROL Sites] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en een [!UICONTROL Exclude] in elke rij zodat u een site snel van de plaatsing kunt uitsluiten.
 
 * **[!UICONTROL Ads]:** Alle advertenties in de plaatsing.
 
-   De [!UICONTROL Ads] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals [!UICONTROL Pause] (zodat u snel een advertentie kunt pauzeren).
+  De [!UICONTROL Ads] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals [!UICONTROL Pause] (zodat u snel een advertentie kunt pauzeren).
 
-* **[!UICONTROL Frequency]:** Gegevens voor elk ad-frequentieniveau voor de plaatsing, met inbegrip van:
+* **[!UICONTROL Frequency]:** Gegevens voor elk ad-frequentieniveau voor de plaatsing, waaronder:
    * het ad-frequentieniveau (bijvoorbeeld &quot;1&quot; voor alle gevallen waarin gebruikers een advertentie één keer zagen)
    * het geschatte unieke aantal apparaten/browsers of personen (afhankelijk van het opgegeven aantal [!UICONTROL Cross Device Level] voor de campagne) die indrukken hebben gekregen op het opgegeven frequentieniveau
    * het geschatte aantal indrukkingen op het opgegeven frequentieniveau
@@ -75,21 +83,21 @@ Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](p
 
 * **[!UICONTROL Inventory]:** Informatie over alle overeenkomsten waarop de plaatsing betrekking heeft.
 
-   De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate]. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en knoppen voor snelle actie in elke rij, waaronder [!UICONTROL Edit], [!UICONTROL View Report], en [[!UICONTROL Auction Insights] voor verdere probleemoplossing](/help/dsp/inventory/private-deal-auction-insights.md).
+  De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate]. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en knoppen voor snelle actie in elke rij, waaronder [!UICONTROL Edit], [!UICONTROL View Report], en [[!UICONTROL Auction Insights] voor verdere probleemoplossing](/help/dsp/inventory/private-deal-auction-insights.md).
 
 #### Probleeminventarisatie
 
 | Probleem | Mogelijke oorzaak | Te nemen handelingen |
 | -----------| ---------- | ---------- |
-| [!UICONTROL Zero Auctions] | De uitgever is niet begonnen met het verzenden van biedingsaanvragen. | Contacteer de uitgever om de overeenkomst te activeren. |
-|  | De overeenkomst werd opstelling verkeerd, zoals door een onjuiste externe overeenkomstenidentiteitskaart in te gaan. | Bevestig de overeenkomstendetails en geef de overeenkomst uit. |
+| [!UICONTROL Zero Auctions] | De uitgever is niet begonnen met het verzenden van biedaanvragen. | Contacteer de uitgever om de overeenkomst te activeren. |
+| | De overeenkomst werd opstelling verkeerd, zoals door een onjuiste externe overeenkomstenidentiteitskaart in te gaan. | Bevestig de overeenkomstendetails en geef de overeenkomst uit. |
 | [!UICONTROL Auctions but no Bids] | De plaatsing richt zich niet op de inkomende biedingsverzoeken voor de overeenkomst. <br><br> Bijvoorbeeld, zou een plaatsing zich op een geografie kunnen richten die niet voor de overeenkomst in aanmerking komt. | Bewerk indien nodig de plaatsingsdoelen om te voorkomen dat problemen bij de plaatsing onder de aandacht worden gebracht. |
-|  | De plaatsing heeft geen actieve advertentie met het vereiste media type voor de overeenkomst. | Maak een advertentie met het juiste mediatype en koppel deze aan de plaatsing. |
-|  | De plaatsing heeft geen toereikend budget. | Verhoog het budget voor plaatsing zodat u op inkomende aanvragen kunt bieden. |
-|  | De datums van de plaatsingsvlucht overlappen niet met de data van de beeldlevering voor de overeenkomst. | Bewerk indien nodig de vluchtdatums van de plaatsing. |
+| | De plaatsing heeft geen actieve advertentie met het vereiste media type voor de overeenkomst. | Maak een advertentie met het juiste mediatype en koppel deze aan de plaatsing. |
+| | De plaatsing heeft geen toereikend budget. | Verhoog het budget voor plaatsing zodat u op inkomende aanvragen kunt bieden. |
+| | De datums van de plaatsingsvlucht overlappen niet met de data van de beeldlevering voor de overeenkomst. | Bewerk indien nodig de vluchtdatums van de plaatsing. |
 | [!UICONTROL Low Win Rate] | Het maximumbod van de plaatsing (ondergrens of vast) is lager dan het minimum dat door de transactie wordt vereist. | De plaatsing verhogen [!UICONTROL Max Bid] indien nodig. |
-|  | De plaatsing gebruikt vooraf geboden filters die het bieden beperken. | Verlaag de drempelwaarden van de filters vóór het bod om meer biedingen mogelijk te maken. |
-|  | De doelgerichtheid van het publiek voor de plaatsing is te restrictief. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers hebben en vouw zo mogelijk het publiek uit. |
+| | De plaatsing gebruikt vooraf geboden filters die het bieden beperken. | Verlaag de drempelwaarden van de filters vóór het bod om meer biedingen mogelijk te maken. |
+| | De doelgerichtheid van het publiek voor de plaatsing is te beperkt. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers hebben en vouw zo mogelijk het publiek uit. |
 
 ![Plaatsingscontrole](/help/dsp/assets/placement-inspector.png)
 
@@ -108,4 +116,3 @@ Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op ca
 >* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
 >* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
-

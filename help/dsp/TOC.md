@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 4e620124d066e048ffffd8025cb98058f46ff42a
+source-git-commit: ec7c6fbced3ba1133da9212bedcb929410f0b6da
 workflow-type: tm+mt
 source-wordcount: '945'
 ht-degree: 3%
