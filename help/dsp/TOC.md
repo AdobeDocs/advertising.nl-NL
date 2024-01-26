@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: ec7c6fbced3ba1133da9212bedcb929410f0b6da
+source-git-commit: 6c117e57471d85fc044a7b814a231037ce89d90c
 workflow-type: tm+mt
-source-wordcount: '945'
+source-wordcount: '927'
 ht-degree: 3%
 
 ---
@@ -92,20 +92,13 @@ ht-degree: 3%
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
-   + Campagnerapporten {#campaign-reports}
-      + [Over rapporten op het platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+   + Prestatierapporten in Campaign Management-weergaven {#campaign-reports}
+      + [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
-      + Gegevensweergaven beheren {#data-views}
-         + [Informatie over de weergaven van Campagnegegevens](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
-         + [De kolomweergave wijzigen](/help/dsp/campaign-management/reports/column-view-change.md)
-         + [Een aangepaste kolomweergave maken](/help/dsp/campaign-management/reports/column-view-create.md)
-         + [Een aangepaste kolomweergave bewerken](/help/dsp/campaign-management/reports/column-view-edit.md)
-         + [Campagnegegevens filteren](/help/dsp/campaign-management/reports/campaign-data-filter.md)
-         + [Een kolom sorteren](/help/dsp/campaign-management/reports/campaign-data-sort.md)
-      + [Gegevensvisualisatie beheren](/help/dsp/campaign-management/reports/campaign-data-visualization-manage.md)
+      + [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
    + Plaatsingsinstellingen corrigeren met behulp van werkbladen {#qa-spreadsheet}
       + [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
       + [Plaatsingsinstellingen downloaden in een werkblad](/help/dsp/campaign-management/qa/qa-sheet-download.md)

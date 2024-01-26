@@ -3,9 +3,9 @@ title: De Placement Diagnostic Reports weergeven
 description: Leer hoe u problemen kunt diagnosticeren met de plaatsingsinstellingen en -pakking.
 feature: DSP Placements
 exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
-source-git-commit: 622d971a0c583cfde8610025f0a83481c4ae2188
+source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -45,6 +45,6 @@ De volgende gereedschappen kunnen u helpen bij het diagnosticeren van problemen 
 
 >[!MORELIKETHIS]
 >
->* [Over rapporten op het platform](campaign-reports-about.md)
+>* [Prestatierapporten in Campaign Management-weergaven](campaign-reports-about.md)
 >* [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)

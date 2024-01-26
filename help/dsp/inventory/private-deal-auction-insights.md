@@ -3,9 +3,9 @@ title: Inzichten in veilingen weergeven voor een persoonlijke deal
 description: Leer hoe te om veilinginzichten te gebruiken om de overeenkomstensamenstelling van privé overeenkomst te analyseren.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '259'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u to
 
 Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
-* **Advertentietype:** Het advertentietype dat is aangevraagd in de veiling (zoals Weergave of Audio).
+* **Type advertentie:** Het advertentietype dat is aangevraagd in de veiling (zoals Weergave of Audio).
 
 * **Browser:** De browser van waaruit de veiling is gestart (zoals Chrome of Firefox).
 
-* **OS:** Het besturingssysteem (OS) van waaruit de veiling is gestart (zoals Android of iOS).
+* **Besturingssysteem:** Het besturingssysteem (OS) van waaruit de veiling is gestart (zoals Android of iOS).
 
 * **Apparaattype:** Het apparaat waarvan de veiling is gestart (zoals mobiele telefoon of bureaublad).
 
@@ -38,7 +38,7 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
 * **Beveiligen:** Geeft aan of de veiling beveiligde HTTPS URL-creatieve middelen vereist. Waarden: <i>Beveiligen</i> of <i>Niet-beveiligd</i>.
 
-* **MIME-type:** Het ad creative MIME-type dat in de veiling is aangevraagd (zoals mp4 of mov).
+* **MIME-type:** Het ad creative MIME-type dat is aangevraagd in de veiling (zoals mp4 of mov).
 
 ![veilinginzichten](/help/dsp/assets/auction-insights.png)
 
@@ -51,5 +51,4 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 >* [Informatie over privé-voorraad](private-inventory-about.md)
 >* [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](deal-id-attach-placements.md)
 >* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](deal-view-report.md)
->* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-
+>* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)

@@ -3,9 +3,9 @@ title: Overzicht van Campaign Management in DSP
 description: Meer informatie over de hiërarchie en componenten van het campagnebeheer.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: 8eb7b4a5-4a31-4637-858f-202392dfac98
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,6 @@ DSP campagnes hebben de volgende hiërarchie:
    * Pakket(s)
       * Plaatsing(en)
          * Advertentie(s)
-
 <!-- Do clients think in terms of insertion orders? If yes, then work in the following info.:
 In Advertising DSP, an insertion order is represented as a campaign, and line items are represented as packages. Each package will include placements, which can use different strategies and tactics to deliver the line item requirements.
 -->
@@ -55,7 +54,6 @@ Alle actieve, goedgekeurde advertenties in een actieve plaatsing in een actieve 
 >* [Over Advertentiebeheer](/help/dsp/campaign-management/ads/ad-about.md)
 >* [Controlelijst voor starten van campagne](/help/dsp/campaign-management/campaign-launch-checklist.md)
 >* [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md)
->* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [Informatie over de weergaven van Campagnegegevens](/help/dsp/campaign-management/reports/campaign-data-views-about.md)
->* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
-
+>* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [Video: DSP accountstructuur en gebruikersinterface](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)

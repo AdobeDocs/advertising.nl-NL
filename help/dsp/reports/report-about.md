@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 085e2c40ae65a5bb93c3d1a13036342d2670226b
+source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '755'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
      >
      >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
 
-   * **[!UICONTROL Conversion]:** Met dit rapport krijgt u inzicht in de manier waarop uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adobe-advertenties. Dit rapport bevat multi-touchattributie.
+   * **[!UICONTROL Conversion]:** Gebruik dit rapport om te begrijpen hoe uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adoben Advertising. Dit rapport bevat multi-touchattributie.
 
    * **[!UICONTROL Device]:** Gebruik deze vooraf ingevulde sjabloon om belangrijke metriek per apparaat-gerelateerde afmetingen te bekijken.
 
@@ -78,7 +78,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
-Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met het accountteam van Adobe om deze functie in te schakelen en te configureren.
+Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met het accountteam van de Adobe om deze functie in te schakelen en te configureren.
 
 Als de functie is ingeschakeld voor uw organisatie, kunt u [filter](report-settings.md) om het even welke volgende rapporttypes door rekening:  [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
@@ -89,6 +89,6 @@ Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de and
 >* [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
 >* [Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)
->* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
 >* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

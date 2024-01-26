@@ -1,18 +1,17 @@
 ---
-title: Over rapporten op het platform
+title: Prestatierapporten in Campaign Management-weergaven
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
-source-git-commit: 833e3d3a15546518ec627f859d601285e30381b7
+source-git-commit: 3f1095fe08e6bc6bf9c942b70295ac06d64ff852
 workflow-type: tm+mt
-source-wordcount: '941'
+source-wordcount: '937'
 ht-degree: 0%
 
 ---
 
-# Over rapporten op het platform
+# Prestatierapporten in Campaign Management-weergaven
 
-<!-- rename "About Performance Reports in Campaign Management Views?" -->
 De meningen van het campagnebeheer omvatten uitvoerige rapportgegevens. De beschikbare rapporten helpen u om de pakketten en de plaatsen te identificeren die goed presteren en die die uw aandacht vereisen. Met de knoppen voor snelle actie kunt u bovendien productiever werken.
 
 ## Alle campagnes weergeven
@@ -21,7 +20,7 @@ De [!UICONTROL Campaigns] wordt geopend voor een set gegevensgrafieken over de p
 
 ### Grafiekweergave {#chart-view}
 
-U kunt [trendgrafieken voor tijdreeksen aanpassen](campaign-data-visualization-manage.md) voor alle campagnes met behulp van drie cijfers. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen. Om uurgegevens in de grafieken van de tijdreekstrendtrend toe te laten, verander uw datumselectie in één enkele dag ([!UICONTROL Today], [!UICONTROL Yesterday], of een specifieke dag).
+U kunt [trendgrafieken voor tijdreeksen aanpassen](campaign-data-views-manage.md#data-visualizations-manage) voor alle campagnes met behulp van drie cijfers. Standaard, gegevens voor [!UICONTROL Net Spend], [!UICONTROL Impressions], en [!UICONTROL Net CPM] zijn opgenomen in afzonderlijke grafieken ( trellis - grafieken ) . U kunt de maatstaven desgewenst wijzigen. Om uurgegevens in de grafieken van de tijdreekstrendtrend toe te laten, verander uw datumselectie in één enkele dag ([!UICONTROL Today], [!UICONTROL Yesterday], of een specifieke dag).
 
 ![afzonderlijke trendgrafieken voor drie metriek](/help/dsp/assets/trend-chart-separate.png)
 
@@ -33,9 +32,9 @@ U kunt desgewenst ook de drie metriek bedekken, zodat u op eenvoudige wijze anom
 
 ![Lijst met campagnes](/help/dsp/assets/campaigns-list.png)
 
-Standaard bevat elke campagnerij cijfers voor het plaatsen en leveren. Metrische gegevens voor paginering zijn inclusief [!UICONTROL Gross Spend (Lifetime)], die een raming bevat van de werkelijke doeluitgaven in vergelijking met de verwachte doeluitgaven voor alle pakketten in de campagne, zodat u in één oogopslag ondermaatse campagnes kunt identificeren. U kunt desgewenst [de kolomweergave wijzigen](column-view-change.md) of zelfs [een aangepaste kolomweergave maken](column-view-create.md).
+Standaard bevat elke campagnerij cijfers voor het plaatsen en leveren. Metrische gegevens voor paginering zijn inclusief [!UICONTROL Gross Spend (Lifetime)], die een raming bevat van de werkelijke doeluitgaven in vergelijking met de verwachte doeluitgaven voor alle pakketten in de campagne, zodat u in één oogopslag ondermaatse campagnes kunt identificeren. U kunt desgewenst [de kolomweergave wijzigen](campaign-data-views-manage.md#column-view-change) of zelfs [een aangepaste kolomweergave maken](campaign-data-views-manage.md#column-view-create).
 
-U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren en [de zichtbare gegevens filteren](campaign-data-filter.md).
+U kunt [de gegevenstabellen aanpassen](campaign-data-views-manage.md#data-tables-manage) op aanvullende manieren en [de zichtbare gegevens filteren](campaign-data-views-manage.md#filter-data-tables).
 
 <!--
 An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
@@ -45,19 +44,19 @@ Klik op de naam van de campagne als u een campagne gedetailleerder wilt weergeve
 
 ## Single Campaign Reporting {#single-campaign-reporting}
 
-Binnen een campagne kunt u gegevens filteren op basis van de campagneentiteit: [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads]. U kunt [de zichtbare gegevens filteren](campaign-data-filter.md) om alleen de pakketten, plaatsen of advertenties op te nemen die u wilt zien.
+Binnen een campagne kunt u gegevens filteren op basis van de campagneentiteit: [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads]. U kunt [de zichtbare gegevens filteren](campaign-data-views-manage.md#filter-data-tables) om alleen de pakketten, plaatsen of advertenties op te nemen die u wilt zien.
 
 ![Tabbladen Campagne-entiteiten](/help/dsp/assets/campaign-subtabs.png)
 
 ### Grafiekweergave
 
-Voor elke campagne kunt u [trendgrafieken voor tijdreeksen aanpassen](campaign-data-visualization-manage.md) met drie metriek, die in elke entiteitmening beschikbaar zijn. Dezelfde cijfers blijven behouden in alle trenddiagrammen voor de campagne.
+Voor elke campagne kunt u [trendgrafieken voor tijdreeksen aanpassen](campaign-data-views-manage.md#data-visualizations-manage) met drie metriek, die in elke entiteitmening beschikbaar zijn. Dezelfde cijfers blijven behouden in alle trenddiagrammen voor de campagne.
 
 Zie de [De sectie van de &quot;Mening van de Grafiek&quot;op dwars-campagnemetriek](#chart-view) voor meer informatie .
 
 ### Tabelweergave
 
-Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](column-view-change.md) of zelfs [een aangepaste kolomweergave maken](column-view-create.md) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-about.md) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
+Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](campaign-data-views-manage.md#column-view-change) of zelfs [een aangepaste kolomweergave maken](campaign-data-views-manage.md#column-view-create) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-manage.md#data-tables-manage) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
 
 <!--
 An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
@@ -110,9 +109,6 @@ Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op ca
 >[!MORELIKETHIS]
 >
 >* [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](placement-details-view.md)
->* [Informatie over de weergaven van Campagnegegevens](campaign-data-views-about.md)
->* [Een aangepaste kolomweergave maken](column-view-create.md)
->* [De kolomweergave wijzigen](column-view-change.md)
->* [Gegevensvisualisatie beheren](campaign-data-visualization-manage.md)
+>* [De weergave van uw Campagnegegevens beheren](campaign-data-views-manage.md)
 >* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)

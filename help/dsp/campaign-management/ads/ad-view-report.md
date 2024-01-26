@@ -3,9 +3,9 @@ title: Een gedetailleerd rapport voor een advertentie weergeven
 description: Leer hoe u een rapport op ad-level niveau opent met gegevens over overzicht, geografische ligging en weergavemogelijkheden.
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: 61e964af-b133-4c86-9672-27167ac6bad1
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '78'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,5 @@ De <!--legacy --> rapport op ad-level-niveau bevat [!UICONTROL Overview], [!UICO
 >
 >* [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [Over rapporten in Platform](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Aangepaste rapporten](/help/dsp/reports/report-about.md)
-
