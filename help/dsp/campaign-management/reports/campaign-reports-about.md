@@ -1,16 +1,16 @@
 ---
-title: Prestatierapporten in Campaign Management-weergaven
+title: Typen prestatierapporten in Campaign Management-weergaven
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
-source-git-commit: 3f1095fe08e6bc6bf9c942b70295ac06d64ff852
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '937'
+source-wordcount: '537'
 ht-degree: 0%
 
 ---
 
-# Prestatierapporten in Campaign Management-weergaven
+# Typen prestatierapporten in Campaign Management-weergaven
 
 De meningen van het campagnebeheer omvatten uitvoerige rapportgegevens. De beschikbare rapporten helpen u om de pakketten en de plaatsen te identificeren die goed presteren en die die uw aandacht vereisen. Met de knoppen voor snelle actie kunt u bovendien productiever werken.
 
@@ -62,49 +62,26 @@ Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebr
 An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
 -->
 
-### Plaatsing [!UICONTROL Inspector] {#placement-inspector}
-
-Voor elke plaatsing kunt u [openen a (detailweergave) [!UICONTROL Inspector])](placement-details-view.md), die de volgende gedetailleerde gegevens bevat:
-
-* **[!UICONTROL Sites]:** Alle sites waarop de plaatsing indrukt.
-
-  De [!UICONTROL Sites] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en een [!UICONTROL Exclude] in elke rij zodat u een site snel van de plaatsing kunt uitsluiten.
-
-* **[!UICONTROL Ads]:** Alle advertenties in de plaatsing.
-
-  De [!UICONTROL Ads] tab bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, zoals [!UICONTROL Pause] (zodat u snel een advertentie kunt pauzeren).
-
-* **[!UICONTROL Frequency]:** Gegevens voor elk ad-frequentieniveau voor de plaatsing, waaronder:
-   * het ad-frequentieniveau (bijvoorbeeld &quot;1&quot; voor alle gevallen waarin gebruikers een advertentie één keer zagen)
-   * het geschatte unieke aantal apparaten/browsers of personen (afhankelijk van het opgegeven aantal [!UICONTROL Cross Device Level] voor de campagne) die indrukken hebben gekregen op het opgegeven frequentieniveau
-   * het geschatte aantal indrukkingen op het opgegeven frequentieniveau
-   * de geschatte gemiddelde frequentie voor het gespecificeerde frequentieniveau. Deze waarde is gelijk aan (Geschatte Impressies)/(Geschatte Uniques).
-
-* **[!UICONTROL Inventory]:** Informatie over alle overeenkomsten waarop de plaatsing betrekking heeft.
-
-  De [!UICONTROL Inventory] het lusje laat snelle het oplossen van problemen door prestatiesstatistieken te tonen, zoals [!UICONTROL Auctions], [!UICONTROL Bids], en [!UICONTROL Win Rate]. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en knoppen voor snelle actie in elke rij, waaronder [!UICONTROL Edit], [!UICONTROL View Report], en [[!UICONTROL Auction Insights] voor verdere probleemoplossing](/help/dsp/inventory/private-deal-auction-insights.md).
-
-#### Probleeminventarisatie
-
-| Probleem | Mogelijke oorzaak | Te nemen handelingen |
-| -----------| ---------- | ---------- |
-| [!UICONTROL Zero Auctions] | De uitgever is niet begonnen met het verzenden van biedaanvragen. | Contacteer de uitgever om de overeenkomst te activeren. |
-| | De overeenkomst werd opstelling verkeerd, zoals door een onjuiste externe overeenkomstenidentiteitskaart in te gaan. | Bevestig de overeenkomstendetails en geef de overeenkomst uit. |
-| [!UICONTROL Auctions but no Bids] | De plaatsing richt zich niet op de inkomende biedingsverzoeken voor de overeenkomst. <br><br> Bijvoorbeeld, zou een plaatsing zich op een geografie kunnen richten die niet voor de overeenkomst in aanmerking komt. | Bewerk indien nodig de plaatsingsdoelen om te voorkomen dat problemen bij de plaatsing onder de aandacht worden gebracht. |
-| | De plaatsing heeft geen actieve advertentie met het vereiste media type voor de overeenkomst. | Maak een advertentie met het juiste mediatype en koppel deze aan de plaatsing. |
-| | De plaatsing heeft geen toereikend budget. | Verhoog het budget voor plaatsing zodat u op inkomende aanvragen kunt bieden. |
-| | De datums van de plaatsingsvlucht overlappen niet met de data van de beeldlevering voor de overeenkomst. | Bewerk indien nodig de vluchtdatums van de plaatsing. |
-| [!UICONTROL Low Win Rate] | Het maximumbod van de plaatsing (ondergrens of vast) is lager dan het minimum dat door de transactie wordt vereist. | De plaatsing verhogen [!UICONTROL Max Bid] indien nodig. |
-| | De plaatsing gebruikt vooraf geboden filters die het bieden beperken. | Verlaag de drempelwaarden van de filters vóór het bod om meer biedingen mogelijk te maken. |
-| | De doelgerichtheid van het publiek voor de plaatsing is te beperkt. | Controleer of de opgegeven doelgroepen voldoende actieve gebruikers hebben en vouw zo mogelijk het publiek uit. |
-
-![Plaatsingscontrole](/help/dsp/assets/placement-inspector.png)
-
-U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], of [!UICONTROL Frequency] naar de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
-
 ### Andere types van campagne-vlakke Rapportering
 
-Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md). De <!--legacy --> rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
+Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op campagnereniveau](/help/dsp/campaign-management/campaigns/campaign-view-report.md). Het rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], en [!UICONTROL Audience Performance] gegevens.
+
+### Overige soorten rapportage op plaatsingsniveau
+
+Voor andere gegevensbrainstormsessies, weergave [de rapportagepagina&#39;s op plaatsingsniveau](/help/dsp/campaign-management/placements/placement-view-report.md). Het rapport bevat secties over [!UICONTROL Geography], [!UICONTROL Device], [!UICONTROL Viewability], [!UICONTROL Audience Performance], [!UICONTROL Notifications], en [!UICONTROL Ads] gegevens.
+
+Bovendien kunt u de volgende gegevens weergeven binnen de plaatsingsinstellingen:
+
+* [A (detailweergave) [!UICONTROL Inspector])](placement-details-view.md), waarin alle beoogde sites, advertenties, frequentiegegevens en overeenkomsten voor plaatsing worden weergegeven.
+
+* A [rapport voor plaatsingsprognose](/help/dsp/campaign-management/reports/placement-forecast.md)
+
+* [Plaatsingsdiagnoseverslagen](/help/dsp/campaign-management/reports/placement-diagnostics.md).
+
+
+### Andere typen rapportage op ad-niveau
+
+Voor andere gegevensbrainstormsessies, weergave [de informatiepagina&#39;s op ad-niveau](/help/dsp/campaign-management/ads/ad-view-report.md). Het verslag bevat [!UICONTROL Overview], [!UICONTROL Geography], en [!UICONTROL Viewability] gegevens.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '755'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,6 @@ Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] a) de and
 >* [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
 >* [Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)
->* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
 >* [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)

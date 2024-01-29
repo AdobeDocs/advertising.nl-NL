@@ -3,9 +3,9 @@ title: Inzichten in veilingen weergeven voor een persoonlijke deal
 description: Leer hoe te om veilinginzichten te gebruiken om de overeenkomstensamenstelling van privé overeenkomst te analyseren.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
-source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '259'
+source-wordcount: '260'
 ht-degree: 0%
 
 ---
@@ -51,4 +51,4 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 >* [Informatie over privé-voorraad](private-inventory-about.md)
 >* [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](deal-id-attach-placements.md)
 >* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](deal-view-report.md)
->* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)

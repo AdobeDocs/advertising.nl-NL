@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 6c117e57471d85fc044a7b814a231037ce89d90c
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '929'
 ht-degree: 3%
 
 ---
@@ -93,9 +93,9 @@ ht-degree: 3%
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
    + Prestatierapporten in Campaign Management-weergaven {#campaign-reports}
-      + [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+      + [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
-      + [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](/help/dsp/campaign-management/reports/placement-details-view.md)
+      + [Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

@@ -3,9 +3,9 @@ title: Een aangepast rapport maken
 description: Leer hoe u een aangepast rapport maakt.
 feature: DSP Custom Reports
 exl-id: f895529b-dc69-4c74-bca6-3f7617f41ceb
-source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '55'
 ht-degree: 3%
 
 ---
@@ -24,5 +24,5 @@ ht-degree: 3%
 >* [Een aangepast rapport bewerken](/help/dsp/reports/report-edit.md)
 >* [Een aangepast rapport verwijderen](/help/dsp/reports/report-delete.md)
 >* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
->* [Prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)

@@ -2,9 +2,9 @@
 title: De weergave van uw Campagnegegevens beheren
 description: Leer hoe u uw gegevensweergaven kunt aanpassen voor campagnes, pakketten, plaatsingen en advertenties.
 feature: DSP Campaign Data Views
-source-git-commit: 61ca25565e09bbce505d6f5cb0e5e8b7214eb1e0
+source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
 workflow-type: tm+mt
-source-wordcount: '914'
+source-wordcount: '915'
 ht-degree: 0%
 
 ---
@@ -171,7 +171,7 @@ Rechtsonder op elke pagina, naast **[!UICONTROL Items per page]** , selecteert u
 
 >[!MORELIKETHIS]
 >
->* [Prestatierapporten in Campaign Management-weergaven](campaign-reports-about.md)
+>* [Typen prestatierapporten in Campaign Management-weergaven](campaign-reports-about.md)
 >* [De sites, advertenties en frequentiedetails voor een plaatsing weergeven](placement-details-view.md)
 >* [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [De Placement Diagnostic Reports weergeven](placement-diagnostics.md)
