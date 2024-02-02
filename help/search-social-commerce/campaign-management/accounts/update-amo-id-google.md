@@ -1,11 +1,11 @@
 ---
 title: De trackingcode van de AMO-id (s_kwcid) bijwerken voor een [!DNL Google Ads] account
 description: Leer hoe u overschakelt naar de nieuwste trackingcode voor AMO-id's voor een [!DNL Google Ads] account.
-exl-id: 82168ee6-43bb-4b8d-882d-5254a1abcb09
+exl-id: 4dfd9ea6-f639-4b9a-aaa5-13f574e3961b
 feature: Search Campaign Management
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: 515c049a45d795fd973b5fcead5f96e71dbf844a
 workflow-type: tm+mt
-source-wordcount: '465'
+source-wordcount: '462'
 ht-degree: 0%
 
 ---
@@ -16,21 +16,21 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-De oudere indeling voor de [Code voor bijhouden AMO-id](/help/integrations/analytics/ids.md#amo-id-formats) voor bestaande [!DNL Google Ads] accounts bieden geen ondersteuning voor bepaalde functies in Analytics, zoals rapportage op campagne- en advertentieniveau voor [!DNL Google Ads] maximale prestaties voor campagnes, concepten en experimentatiecampagnes en andere gebruiksgevallen waarin dezelfde combinatie van het type ad+keyword+match in meerdere campagnes bestaat.
+De erfenis (vóór oktober 2019) voor de [Code voor bijhouden AMO-id](/help/integrations/analytics/ids.md#amo-id-formats) voor bestaande [!DNL Google Ads] accounts bieden geen ondersteuning voor bepaalde functies in Analytics, zoals rapportage op campagne- en advertentieniveau voor [!DNL Google Ads] maximale prestaties voor campagnes, concepten en experimentatiecampagnes en andere gebruiksgevallen waarin dezelfde combinatie van het type ad+keyword+match in meerdere campagnes bestaat.
 
-De meest recente indeling bevat parameters voor campagne-id en groep-id:
+De huidige indeling bevat parameters voor campagne-id en groep-id:
 
 ```
 s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}
 ```
 
-U kunt de nieuwe indeling wijzigen voor al uw bestaande accounts of voor al uw bestaande accounts afzonderlijk. Als u geen prestatiesmaximum campagnes of concepten en experimentatiecampagnes hebt, is het migreren dan aan het nieuwe formaat facultatief.
+U kunt de huidige indeling wijzigen voor al uw bestaande accounts of voor al uw bestaande accounts afzonderlijk. Als u geen prestatiesmaximum campagnes of concepten en experimentatiecampagnes hebt, is het migreren dan aan het nieuwe formaat facultatief.
 
-Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de nieuwe indeling voor AMO-id.
+Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling voor AMO-id.
 
 >[!NOTE]
 >
->Nadat u een account hebt gemigreerd, worden alle klikgegevens, kosten en impliciete gegevens correct gerapporteerd na de wijziging, maar eventuele doorklikgegevens die vóór de migratie zijn opgetreden, worden nog steeds toegewezen aan conversiegegevens die zijn gebaseerd op de oude indeling voor AMO-id.
+>Nadat u een account hebt gemigreerd, worden alle klikgegevens, kosten en impliciete gegevens correct gerapporteerd na de wijziging. De doorklikgegevens die vóór de migratie zijn opgetreden, worden echter nog steeds toegewezen aan conversiegegevens die zijn gebaseerd op de oude indeling voor AMO-id.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 

@@ -4,9 +4,9 @@ user-guide-description: Meer informatie over de integratie van DSP en advertenti
 breadcrumb-title: Integraties met Experience Cloud
 role: User, Developer
 index: true
-source-git-commit: 5b72ac7dccfd72a1173347e91fe582a55d58fd7b
+source-git-commit: 41029d46df032a7fdf5b215df1c9413b4ae08a8c
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '216'
 ht-degree: 11%
 
 ---
@@ -22,9 +22,9 @@ ht-degree: 11%
    + [Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
    + Implementatie plannen {#planning}
       + [Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md)
-      + [JavaScript-code voor [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
+      + [(DSP) JavaScript-code voor [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
       + [Met de [!DNL Last Event Service] JavaScript-bibliotheek met Adobe Experience Platform [!DNL Web SDK]](/help/integrations/analytics/web-sdk.md)
-      + Macro&#39;s voor advertentietags {#macros}
+      + (DSP) Macro&#39;s voor advertentietags {#macros}
          + [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen](/help/integrations/analytics/macros-flashtalking.md)
          + [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
    + Gegevens uitgewisseld {#data}

@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 3e6c90c1fc36ffc8fd404b5fe589f1f79f69a096
+source-git-commit: 0d48ceda77783cd8b5fd9e609da424dcfa94f278
 workflow-type: tm+mt
-source-wordcount: '1686'
+source-wordcount: '1688'
 ht-degree: 0%
 
 ---
@@ -110,7 +110,7 @@ De AMO-id wordt ook wel de `s_kwcid`, die soms wordt uitgesproken als &quot;[!DN
 
 De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
 
-* (Aanbevolen) De invoegfunctie aan de serverzijde is geïmplementeerd.
+* (Aanbevolen) Wanneer de invoegfunctie op de server is geïmplementeerd.
 
    * DSP klanten: De pixelserver voegt automatisch de parameter s_kwcid aan uw het landen paginaachtervoegsels toe wanneer een eind - gebruiker een vertoningsadvertentie met de Adobe Advertising pixel bekijkt.
 
@@ -120,7 +120,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
       * voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] het plaatsen onbruikbaar maakt, voeg manueel de parameter aan uw toe [toevoegingsparameters op accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"}, die deze toevoegen aan uw basis-URL&#39;s.
 
-* De invoegfunctie aan de serverzijde is niet geïmplementeerd:
+* Wanneer de invoegfunctie op de server niet is geïmplementeerd:
 
    * DSP klanten: [JavaScript-code](javascript.md) registreert automatisch klik-door en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
 
@@ -152,7 +152,7 @@ waarbij:
 
 Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-#### AMO ID-indelingen voor advertenties voor zoeken, sociale media en handel
+#### AMO ID-indelingen voor advertenties voor zoeken, sociale media en handel {#amo-id-format-search}
 
 De parameters variëren per advertentienetwerk, maar de volgende parameters zijn gemeenschappelijk voor allen:
 
