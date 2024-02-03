@@ -3,9 +3,9 @@ title: Adroepen beheren
 description: Leer hoe u advertentiegroepen maakt en beheert.
 exl-id: 66900a1f-f915-497d-9053-9d393845af08
 feature: Search Campaign Management
-source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
+source-git-commit: 06febcd91ff8576c8bf93c8e74475b297e0415bf
 workflow-type: tm+mt
-source-wordcount: '687'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ U kunt advertentiegroepen maken vanuit Zoeken, Sociale Zaken en Handel voor een 
 
 1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) instellingen van advertentiegroep.
 
-   Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], en [!UICONTROL URL Options]. Instellingen configureren voor [!UICONTROL Negative Keywords] of [!UICONTROL Negative Websites], klikt u op **[!UICONTROL Add Negative Keywords]** of **[!UICONTROL Add Negative Websites]**, respectievelijk.
+   Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], en [!UICONTROL URL Options]. Instellingen configureren voor [!UICONTROL Adgroup Frequency Cap Settings], [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], klikt u op **[!UICONTROL Add Frequency Cap Settings]**, **[!UICONTROL Add Negative Keywords]**, of **[!UICONTROL Add Negative Websites]**, respectievelijk.
 
 1. Klik op **[!UICONTROL Post]**.
 

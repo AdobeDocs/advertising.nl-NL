@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Microsoft Advertising] ad group settings'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] ad groepen.
-exl-id: 5dfa766d-2a42-455d-a340-e72e11a38032
+exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: a31179383fa9c1c9f6eb697d0aa3dd3301d41823
 workflow-type: tm+mt
-source-wordcount: '574'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiegroepen is *Actief*.
 
-**[!UICONTROL Ad Language]:** The target language for ads.<!-- Which campaign types? Not there for audience image-based ad groups. -->
+**[!UICONTROL Ad Language]:** (Zoekcampagnes) De doeltaal voor advertenties.
 
 <!-- **[!UICONTROL Start Date]:** -->
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Networks]
 
-**[!UICONTROL Networks]:** Hoe en waar u advertenties in de advertentiegroep plaatst:
+**[!UICONTROL Networks]:** (Zoekadvertenties) Hoe en waar u advertenties in de advertentiegroep plaatst:
 
 * *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
 
@@ -105,6 +105,8 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 <!-- **[!UICONTROL Custom Parameters]:** -->
 
 {{$include /help/_includes/custom-parameters.md}}
+
+**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optioneel) Het aantal keren dat een klant advertenties van de advertentiegroep ontvangt. Voer een waarde in en selecteer de tijdeenheid (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, of *[!UICONTROL Week]*).
 
 ## [!UICONTROL Negative Keywords]
 
