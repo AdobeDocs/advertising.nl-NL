@@ -3,9 +3,9 @@ title: Advertenties toevoegen aan plaatsingen
 description: Leer hoe u advertenties aan plaatsingen koppelt.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 2690117dd4edb66a1bdbdca307bc4f91b0efc059
+source-git-commit: 55a9dd36d64fa42b7ff21714bae6e5afd04d1389
 workflow-type: tm+mt
-source-wordcount: '434'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 
 1. (Optioneel) Zoek zo nodig specifieke plaatsen en advertenties:
 
-   * Filter boven de linkertabel de lijsten op plaatsingstype, plaatsingsstatus, advertentietype of advertentiestatus.
+   * Filter boven de linkertabel de lijsten op pakket, plaatsingstype, plaatsingsstatus, advertentietype of advertentiestatus.
 
    * Zoek in de rechter- en linkertabellen naar specifieke tekstreeksen in de plaatsings- of advertentienaam.
 

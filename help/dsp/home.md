@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 523bc488bf586901eb7302d9c03dda3cd1f98f2b
+source-git-commit: b0a8cf0784340ebe0fc495ef300aa40036455823
 workflow-type: tm+mt
-source-wordcount: '1967'
+source-wordcount: '1982'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 7 februari 2024 | [!UICONTROL Placements] en [!UICONTROL Ads] | De [!UICONTROL Ads Tool] heeft nu een pakketfilter. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 | 24 januari 2024 | [!UICONTROL Placements] en [!UICONTROL Ads] | De workflow voor het bijvoegen van advertenties bij plaatsingen is opnieuw ontworpen. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 | 10 januari 2024 | [!UICONTROL Placements] | Met behulp van een spreadsheet kunt u nu snel meerdere plaatsen aanpassen en plannen:<ul><li>U kunt een sjabloon voor een advertentieschema downloaden voor plaatsingen. U kunt de vluchtdatums en de rotatie van de advertentie naar wens bewerken in het gedownloade bestand.</li><li>Vervolgens kunt u de bewerkte sjabloon voor advertentieschema uploaden.</li></ul> | Zie &quot;[Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md).&quot; |
 | 21 december 2023 | [!UICONTROL Audiences] | Documentatie is nu beschikbaar voor het delen van gegevens van de eerste partij via de [!DNL Tealium] klantgegevensplatform met DSP [!DNL Amazon Web Services]. U kunt uw DSP plaatsen aan de segmenten richten gebruikend [!DNL RampIDs]. Binnen plaatsingsinstellingen voor [!UICONTROL Audience Targeting], zijn de gedeelde segmenten beschikbaar in de [!UICONTROL First Party Segments] lijst. | Zie &quot;[Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)&quot; en &quot;[Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md).&quot; |
