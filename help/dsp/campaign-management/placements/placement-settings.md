@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 0836206b41789749a92bd9557a984896e710ec3a
+source-git-commit: 820fbfb2b572df628976b03d186e5704ecd092a9
 workflow-type: tm+mt
-source-wordcount: '3433'
+source-wordcount: '3511'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ In douanerapporten, wijst de plaatsing-vlakke dimensie &quot;het Milieu van het 
 
 ## Doelen
 
-**[!UICONTROL Package]:** (Optioneel) Een pakket waaraan de plaatsing is toegewezen. Klikken ![Bewerken](/help/dsp/assets/edit.png) om een bestaand pakket te selecteren of te maken. Wanneer u de plaatsing aan een pakket toewijst, [!UICONTROL Goals] wordt bijgewerkt met de vluchtdata, de leveringsdoelstelling en het budget uit het pakket.
+**[!UICONTROL Package]:** (Optioneel) Een pakket waaraan de plaatsing is toegewezen. Klikken ![Bewerken](/help/dsp/assets/edit.png) om een bestaand pakket te selecteren of een pakket te maken. Wanneer u de plaatsing aan een pakket toewijst, [!UICONTROL Goals] wordt bijgewerkt met de vluchtdata, de leveringsdoelstelling en het budget uit het pakket.
 
 **[!UICONTROL Flight Dates]:** De begindatum en einddatum voor de plaatsing. Goedgekeurde advertenties komen in aanmerking om tijdens de vlucht te worden uitgevoerd wanneer de plaatsing actief is en wordt toegewezen aan een actief pakket of een actieve campagne.
 
@@ -56,13 +56,16 @@ De datums voor het pakket (indien van toepassing) of de campagne worden standaar
 >
 >* De vluchtdata moeten worden opgenomen in de campagnevluchtdata en de pakketvliegdata.
 
-
 ### Plaatsen die aan Pakketten met pakket-vlakke Tussenruimte worden toegewezen
 
-**[!UICONTROL Placement Funding]:** Hoe te om voor de plaatsing te begroten:
+**[!UICONTROL Placement Funding]:** Hoe begroten we de plaatsing?
 
 * *[!UICONTROL Optimize based on performance]:* Beheert de begroting op pakketniveau.
-* *[!UICONTROL Set a fixed budget cap]:* Hiermee kunt u een budget voor dagelijkse, wekelijkse, maandelijkse of volledige plaatsing instellen. Voer een waarde en de duur in (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+* *[!UICONTROL Set a Fixed Minimum or Maximum Budget]:* Hiermee kunt u een minimum- en/of maximumbudget voor plaatsing instellen. Geef ten minste één soort begroting op:
+
+   * *[!UICONTROL Maximum Budget]*: Voer een waarde en de duur in (*[!UICONTROL All time]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*).
+
+   * *[!UICONTROL Minimum Budget]*: De minimumbegroting als percentage van de begroting van het pakket. Wanneer een intervalmaximum wordt gespecificeerd, wordt de minimumbegrotingswaarde altijd berekend als percentage van het intervalmaximum. Anders wordt het berekend als een percentage van de pakketbegroting.
 
 **[!UICONTROL Max Bid]:** Het maximum dat voor 1000 beelden moet worden betaald.
 
@@ -73,7 +76,7 @@ De datums voor het pakket (indien van toepassing) of de campagne worden standaar
    * Een filter toevoegen:
       1. Klik op **[!UICONTROL Add Filter]**.
       1. Volgende tot **[!UICONTROL Only bid if]** selecteert u een metrische waarde en voert u een waarde in.
-   * Als u een filter wilt verwijderen, klikt u op **[!UICONTROL X]** in de filterrij.
+   * Klik op **[!UICONTROL X]** in de filterrij.
 1. Klik op **[!UICONTROL Save]**.
 
 Zie de beschrijvingen van elk vooraf biedende filter op &quot;[Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](/help/dsp/optimization/optimization-pre-bid-filters.md).&quot;
@@ -92,7 +95,7 @@ Zie de beschrijvingen van elk vooraf biedende filter op &quot;[Filters op plaats
 >
 >Dit veld is alleen een benchmark en wordt niet gebruikt voor beslissingen.
 
-**[!UICONTROL Pace on]:** Waarop wordt de pakketindeling gebaseerd:
+**[!UICONTROL Pace on]:** De basis voor het plaatsen:
 
 * **[!UICONTROL Budget goal]:** (Standaardinstelling) Met deze optie krijgt u zoveel mogelijk indruk binnen het toegewezen budget.
 
@@ -114,11 +117,11 @@ Zie de beschrijvingen van elk vooraf biedende filter op &quot;[Filters op plaats
 
 * *[!UICONTROL Even]:* (De standaardinstelling) Schaalt de levering op basis van de beschikbaarheid van de voorraad. Over het algemeen worden meer advertenties overdag per uur geleverd, wanneer het veilingsvolume hoger is en er minder advertenties &#39;s ochtends en &#39;s avonds worden geleverd.
 
-* *[!UICONTROL ASAP]:* (De standaardwaarde) versnelt de levering tot tweemaal de snelheid van *Even*.
+* *[!UICONTROL ASAP]:* (De standaardwaarde) versnelt de levering tot tweemaal de snelheid van *Gelijk*.
 
-   >[!CAUTION]
-   >
-   >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
+  >[!CAUTION]
+  >
+  >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
 
 **[!UICONTROL Placement Pre-bid Filters]:** (Optioneel) Maximaal vijf filters waaraan moet worden voldaan om te kunnen bieden. U kunt voorbiedingsfilters gebruiken als optimalisatietechniek, maar houd er rekening mee dat elke regel de mogelijkheden waarop deze plaatsing kan bieden, kan beperken. Filters toevoegen of bewerken:
 
@@ -127,7 +130,7 @@ Zie de beschrijvingen van elk vooraf biedende filter op &quot;[Filters op plaats
    * Een filter toevoegen:
       1. Klik op **[!UICONTROL Add Filter]**.
       1. Volgende tot **[!UICONTROL Only bid if]** selecteert u een metrische waarde en voert u een waarde in.
-   * Als u een filter wilt verwijderen, klikt u op **[!UICONTROL X]** in de filterrij.
+   * Klik op **[!UICONTROL X]** in de filterrij.
 1. Klik op **[!UICONTROL Save]**.
 
 ## [!UICONTROL Geo-Targeting]
@@ -158,7 +161,7 @@ Locaties opgeven:
       1. Voer maximaal 1000 postcodes in of plak deze.
 Neem één postcode per regel op of voer meerdere waarden in, gescheiden door komma&#39;s of tabs.
       1. Klikken *[!UICONTROL Include All]* om alle locaties op te nemen als doelen of *[!UICONTROL Exclude All]* om alle locaties als doelen uit te sluiten.
-   * Een locatie verwijderen uit het dialoogvenster [!UICONTROL Included] of [!UICONTROL Excluded] lijst, klikt u op **[!UICONTROL X]** naast de locatie in de rechterkolom.
+   * Een locatie verwijderen uit het dialoogvenster [!UICONTROL Included] of [!UICONTROL Excluded] lijst, klik **[!UICONTROL X]** naast de locatie in de rechterkolom.
 1. Klik op **[!UICONTROL Done]**.
 
 >[!NOTE]
@@ -166,22 +169,25 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 >* Niet alle landen hebben de locatie Staat, de plaats of de postcode.
 >* DMA (aangewezen marktgebied), Federal Legislative Districts, en de Wetgevende Districten van de Staat zijn beschikbaar voor de plaatsen van de V.S. slechts.
 
-
 ## [!UICONTROL Inventory Targeting]
 
 **[!UICONTROL Inventory Sources]:** Inventarisatiebronnen die als doel moeten worden opgenomen of uitgesloten. Voor de meeste plaatsingstypen worden alle voorraadtypen en alle bronnen voor elk type standaard opgenomen. Voor [!DNL Roku] U moet het voorraadtype en de bronnen opgeven. U kunt uit de volgende soorten inventaris kiezen:
 
-* [!UICONTROL Public]: (Alle plaatsingstypen behalve Roku) Alle open uitwisselingsvoorraden waartoe DSP toegang heeft. U kunt openbare voorraad opnemen en uitsluiten.
+* [!UICONTROL Public]: (Alle plaatsingstypen behalve Roku) Alle open uitwisselingsinventaris waartoe DSP toegang heeft. U kunt openbare voorraad opnemen en uitsluiten.
 
-   U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst weergeeft op basis van feed, kunt u zoeken op naam van de feed, op basis van de feed of op basis van een geselecteerde kenmerkende tag.
+  U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst weergeeft op basis van feed, kunt u zoeken op naam van de feed, op basis van de feed of op basis van een geselecteerde kenmerkende tag.
 
-* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande privé overeenkomsten (of bestaande privé [!DNL Roku] deals voor [!DNL Roku] plaatsen) bij uitgevers die u in DSP hebt ingesteld. U kunt een openbare voorraad opnemen, maar niet uitsluiten.
+* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande persoonlijke deals (of bestaande persoonlijke transacties) [!DNL Roku] deals voor [!DNL Roku] plaatsen) bij uitgevers die u in DSP hebt ingesteld. U kunt een openbare voorraad opnemen, maar niet uitsluiten.
 
-   U kunt de lijst zoeken op trefwoord, sleutel, deal-id of aangepaste tag.
+  U kunt de lijst zoeken op trefwoord, sleutel, deal-id of aangepaste tag.
+
+   * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optioneel) Overschrijft het algoritme voor de biedprijs om ten minste de vaste en de laagste prijs voor transacties te bieden.
 
 * [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: Alles [premie, niet gegarandeerd [!UICONTROL On Demand] voorraad](/help/dsp/inventory/on-demand-inventory-about.md) (of [!UICONTROL On Demand] [!DNL Roku] deals voor [!DNL Roku] plaatsen) waarop u zich hebt geabonneerd [!DNL DSP]. U kunt opnemen en uitsluiten [!UICONTROL On Demand] voorraad.
 
-   U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst op feed weergeeft, kunt u zoeken op naam van feed, feed-sleutel of een geselecteerd uitgeversgebied, een categorietag of een kenmerkende tag.
+  U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst op feed weergeeft, kunt u zoeken op naam van feed, feed-sleutel of een geselecteerd uitgeversgebied, een categorietag of een kenmerkende tag.
+
+   * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optioneel) Overschrijft het algoritme voor de biedprijs om ten minste de vaste en de laagste prijs voor transacties te bieden.
 
 Opgeven welke inventarisdoelen worden gebruikt:
 
@@ -198,12 +204,12 @@ Opgeven welke inventarisdoelen worden gebruikt:
             * Als u alle voorraad in een deal wilt opnemen, klikt u op **[!UICONTROL Include all]** naast de overeenkomstennaam.
             * Om een individuele inventarisbron te omvatten, breid de overeenkomstennaam uit, en klik dan het controlevakje naast de bronnaam.
          * Een [!UICONTROL Public] of [!UICONTROL On source], klikt u op **[!UICONTROL Exclude]** naast de bronnaam.
-   1. (Optioneel) Als u een CSV-bestand met de doelgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Save & Export]**.
+   1. (Optioneel) Klik op **[!UICONTROL Save & Export]**.
    1. Klik op **[!UICONTROL Save]**.
 
 >[!TIP]
 >
->Als u zich hebt geabonneerd op [!UICONTROL On Demand] inventariseren, maar de uitgevers of deals kunnen niet worden gevonden als doel, en vervolgens de status van de deals controleren. Voor meer informatie over statussen raadpleegt u [Info [!DNL On Demand] Premium-voorraad](/help/dsp/inventory/on-demand-inventory-about.md).
+>Als u zich hebt geabonneerd op [!UICONTROL On Demand] inventariseren, maar de uitgevers of deals kunnen niet worden gevonden als doel, en vervolgens de status van de deals controleren. Zie voor meer informatie over statussen [Info [!DNL On Demand] Premium-voorraad](/help/dsp/inventory/on-demand-inventory-about.md).
 
 **[!UICONTROL Exclude out-stream]:** (Alleen videoplaatsingen) Hiermee sluit u het stroomafwaartse verkeer uit.
 
@@ -216,8 +222,11 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 **[!UICONTROL Site tier]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) De kwaliteit van de sites waarop u zich wilt richten. Tiers 1-3 zijn allemaal merkveilig en zijn gecontroleerd en goedgekeurd door het DSP-kaartteam.
 
 * *[!UICONTROL Tier 1]:* Premiumsites en -toepassingen die nationaal herkenbaar zijn.
+
 * *[!UICONTROL Tier 2]:* Streefcijfers voor Niveau 1 en kwaliteitsites en toepassingen die minder bekend zijn dan Niveau 1.
-* *[!UICONTROL Tier 3]:* Doeltips 1-2 en legitieme en brandveilige sites en toepassingen die geschikt zijn voor een nichepubliek. Gebruik Niveau 3 voor bereik of gegevens die op aankopen gericht zijn.
+
+* *[!UICONTROL Tier 3]:* Doeltips 1-2 plus legitieme en brandveilige sites en toepassingen die geschikt zijn voor een nichepubliek. Gebruik Niveau 3 voor bereik of gegevens die op aankopen gericht zijn.
+
 * *[!UICONTROL All Sites]:* Doeltips 1-3 en nieuwe voorraad die niet is gescreend of gecategoriseerd en die u kunt gebruiken om te bereiken.
 
 >[!NOTE]
@@ -228,7 +237,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 >
 >Voor prestatiecampagnes moet u *[!UICONTROL All Sites]*.
 
-**[!UICONTROL Site Categories]:** (facultatief; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitecategorieën binnen de geselecteerde siteniveaus om deze als doelen op te nemen of uit te sluiten (maar niet beide). Maak een keuze uit verticale sitelijsten die DSP toegewezen op basis van het onderwerp van de site:
+**[!UICONTROL Site Categories]:** (Optioneel; beschikbaar indien **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sitecategorieën binnen de geselecteerde siteniveaus om deze als doelen op te nemen of uit te sluiten (maar niet beide). Maak een keuze uit verticale sitelijsten die DSP op basis van het onderwerp is toegewezen:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Geef de sitecategorieën op die u wilt opnemen of uitsluiten:
@@ -238,10 +247,10 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
    * Sitecategorieën uitsluiten:
       1. Klik op **[!UICONTROL Exclude categories]**.
       1. Schakel het selectievakje naast elke categorie in die u wilt uitsluiten.
-1. (Optioneel) Als u een CSV-bestand met de doelgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Export]**.
+1. (Optioneel) Klik op **[!UICONTROL Export]**.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites]:** (facultatief; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites die moeten worden uitgesloten. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
+**[!UICONTROL Exclude Sites]:** (Optioneel; beschikbaar indien **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) Sites die moeten worden uitgesloten. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Geef de sites op:
@@ -250,7 +259,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
       1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
       1. Selecteer in de zoekresultaten de sites die u wilt uitsluiten:
          * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje naast de site in.
-         * (Als er meer dan 50 resultaten beschikbaar zijn) Als u de eerste 50 resultaten wilt uitsluiten, klikt u op **[!UICONTROL Exclude these 50]**. Als u alle zoekresultaten wilt uitsluiten, klikt u op **[!UICONTROL Exclude these \<*NN *\>]**.
+         * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Exclude these 50]**. Klik op **[!UICONTROL Exclude these \<*NN *\>]**.
    * Domeinnamen invoeren:
       1. Klik op **[!UICONTROL Paste]**.
       1. Voer een of meer domeinnamen op afzonderlijke regels in.
@@ -260,14 +269,13 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 >[!NOTE]
 >
 >* Naast de DSP worden ook lijsten met geblokkeerde sites op accountniveau en door adverteerders gebruikt [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md), waaronder plaatsen die onveilig worden geacht voor advertenties.
->* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
-
+>* Geblokkeerde sitelijsten overschrijven altijd de doelsitelijsten. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
 **[!UICONTROL Language]:** (Optioneel) Eén taal waarop u zich wilt richten.
 
 **[!UICONTROL Site List Preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites voor de plaatsing.
 
-U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en open of sla het bestand op volgens de normale procedure van uw browser.
+U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Klik op **[!UICONTROL Export full site list]** en open of sla het bestand op volgens de normale procedure van uw browser.
 
 **[!UICONTROL Allow unscreened sites]:** (Alleen standaardpresentaties) Hiermee kunt u levering en levering op niet-gecontroleerde sites mogelijk maken. Wanneer de plaatsing privé-inventarisatie als doel heeft, kan deze optie advertenties op geblokkeerde sites leveren.
 
@@ -282,7 +290,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
       1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
       1. Selecteer in de zoekresultaten de sites die u wilt opnemen:
          * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje naast de site in.
-         * (Als er meer dan 50 resultaten beschikbaar zijn) Als u de eerste 50 resultaten wilt opnemen, klikt u op **[!UICONTROL Include these 50]**. Als u alle zoekresultaten wilt opnemen, klikt u op **[!UICONTROL Include these \<*NN *\>]**.
+         * (Als er meer dan 50 resultaten beschikbaar zijn) Als u de eerste 50 resultaten wilt opnemen, klikt u op **[!UICONTROL Include these 50]**. Klik op **[!UICONTROL Include these \<*NN *\>]**.
    * Domeinnamen invoeren:
       1. klikken **[!UICONTROL Paste]**.
       1. Voer een of meer domeinnamen op afzonderlijke regels in.
@@ -291,26 +299,26 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 ## [!UICONTROL Audience Targeting]
 
-**[!UICONTROL Included Audiences]:** Alle publieksdoelen voor de plaatsing, inclusief [segmenten van derden, segmenten van eerste bedrijven, Adobe-segmenten, aangepaste segmenten en opgeslagen doelgroepen](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle geselecteerde segmenten en opgeslagen doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren, een nieuw publiek maken dat u later opnieuw kunt gebruiken of specifieke publiekssegmenten selecteren:
+**[!UICONTROL Included Audiences]:** Alle publieksdoelen voor de plaatsing, inclusief [segmenten van derden, eerste-partijsegmenten, Adobe-segmenten, aangepaste segmenten en opgeslagen doelgroepen](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle geselecteerde segmenten en opgeslagen doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren, een publiek maken dat u later opnieuw kunt gebruiken of specifieke publiekssegmenten selecteren:
 
-* Als u een bestaand publiek wilt selecteren, klikt u op ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences]en selecteer vervolgens het publiek.
-* Als u een nieuw publiek wilt maken, klikt u op ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences]en selecteer vervolgens **[!UICONTROL + Create Audience]**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), te beginnen met Stap 3.
-* Om specifieke publiekssegmenten te selecteren, klik **[!UICONTROL Select segments for this placement only]**. Selecteer de segmentlogica. voor instructies, zie Stap 6 in &quot;[Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md).&quot; Als u klaar bent, klikt u op **Opslaan**.
+* Om een bestaand publiek te selecteren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences]en selecteer vervolgens het publiek.
+* Om een publiek te creëren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences]en selecteer vervolgens **[!UICONTROL + Create Audience]**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), vanaf stap 3.
+* Om specifieke publiekssegmenten te selecteren, klik **[!UICONTROL Select segments for this placement only]**. Selecteer de segmentlogica; zie voor instructies Stap 6 in &quot;[Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md).&quot; Als u klaar bent, klikt u **Opslaan**.
 
-**[!UICONTROL Excluded Audiences]:** Alle soorten publiek die voor de plaatsing moeten worden uitgesloten, inclusief publiek met [segmenten van derden, segmenten van eerste bedrijven, Adobe-segmenten, aangepaste segmenten en opgeslagen doelgroepen](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
+**[!UICONTROL Excluded Audiences]:** Alle soorten publiek die voor de plaatsing moeten worden uitgesloten, inclusief publiek met [segmenten van derden, eerste-partijsegmenten, Adobe-segmenten, aangepaste segmenten en opgeslagen doelgroepen](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
 
-* Als u een bestaand publiek wilt selecteren, klikt u op ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens het publiek.
-* Als u een nieuw publiek wilt maken, klikt u op ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens **+ Publiek maken**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), te beginnen met Stap 3.
+* Om een bestaand publiek te selecteren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens het publiek.
+* Om een publiek te creëren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens **+ Publiek maken**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), vanaf stap 3.
 
-**[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn momenteel alleen beschikbaar in Noord-Amerika.
+**[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
 
 **[!UICONTROL Placement Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level] voor de campagne ) worden advertenties aangeboden vanaf de plaatsing . Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >
-> U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
+> U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP respecteert de strengste frequentiegrens in de campagnehiërarchie.
 
-**[!UICONTROL Secondary Cap]:** (facultatief; beschikbaar wanneer u een numerieke waarde toevoegt [!UICONTROL Placement Cap]) Een extra beperking binnen de grenzen van de primaire plaatsingsdop. Selecteer het aantal afbeeldingen en de tijdsperiode (bijvoorbeeld 3 per 12 uur).
+**[!UICONTROL Secondary Cap]:** (Optioneel; beschikbaar wanneer u een numerieke waarde toevoegt [!UICONTROL Placement Cap]) Een extra beperking binnen de grenzen van de primaire plaatsingsdop. Selecteer het aantal afbeeldingen en de tijdsperiode (bijvoorbeeld 3 per 12 uur).
 
 **[!UICONTROL Day Parting]:** (Optioneel) Specifieke dagen van de week en het tijdstip van de dag waarop advertenties kunnen worden uitgevoerd. De zomerintervallen opgeven:
 
@@ -321,7 +329,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (facultatief; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met het accountteam van Adobe om deze functie en de onderdelen van het installatieonderwerp te activeren.
+**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
 
 Onderwerpgerichte onderwerpen opgeven:
 
@@ -329,7 +337,7 @@ Onderwerpgerichte onderwerpen opgeven:
 1. Geef de gewenste segmenten op:
    1. Selecteer in de linkerkolom de partner (*[!UICONTROL Comscore]* of *[!UICONTROL Grapeshot]*).
    1. Voer in het invoerveld de segmentnamen of segment-id&#39;s in.
-1. (Optioneel) Als u een CSV-bestand met de onderwerpgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Export]**.
+1. (Optioneel) Klik op de knop **[!UICONTROL Export]**.
 1. Klik op **[!UICONTROL Save]**.
 
 >[!TIP]
@@ -338,7 +346,6 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Stel eventuele negatieve doelen in binnen het segment op [!DNL Comscore] of [!DNL Grapeshot].
 
-
 **[!UICONTROL Device Targeting]:** (Optioneel) Specifieke apparaatinformatie, zoals apparaattypen, fabrikanten, besturingssystemen, browsers en connectiviteitstypen, om deze op te nemen en uit te sluiten als doel. Apparaatdoelframes opgeven:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
@@ -346,7 +353,7 @@ Onderwerpgerichte onderwerpen opgeven:
    1. Selecteer de categorie in de linkerkolom.
    1. Doelstelling opgeven:
       * Als u een waarde wilt opnemen, klikt u op **[!UICONTROL Include]** naast de naam van de waarde.
-      * Als u een waarde wilt uitsluiten, klikt u op **[!UICONTROL Exclude]** naast de naam van de waarde.
+      * Als u een waarde wilt uitsluiten, klikt u **[!UICONTROL Exclude]** naast de naam van de waarde.
 1. (Optioneel) Als u een CSV-bestand met de doelgegevens van het apparaat wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Export]**.
 1. Klik op **[!UICONTROL Save]**.
 
@@ -367,7 +374,7 @@ Onderwerpgerichte onderwerpen opgeven:
 
 ## [!UICONTROL Brand Safety and Media Targeting]
 
-**[!UICONTROL Contextual filtering]:** Typen [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
+**[!UICONTROL Contextual filtering]:** Typen [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] contextuele filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
 * [!UICONTROL DoubleVerify]:
 
@@ -391,28 +398,28 @@ Onderwerpgerichte onderwerpen opgeven:
 
 * [!UICONTROL DoubleVerify]:
 
-   * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** Door gebrek, blokkeert al 100% ongeldig verkeer, met inbegrip van verkeer op benadrukte apparaten, voor nieuwe plaatsen. Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** Door gebrek, blokkeert al 100% ongeldig verkeer, met inbegrip van verkeer op gekaapte apparaten, voor nieuwe plaatsen. Er kunnen extra kosten van toepassing zijn.
 
-   * **[!UICONTROL Also block sites with]:** (Optioneel) Een extra niveau van fraude en ongeldig verkeer waardoor DSP standaard advertenties blokkeert:  *[!UICONTROL None]* (het gebrek, dat geen extra verkeer blokkeert), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, of *[!UICONTROL >25% Average Fraud/IVT levels]*. Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Also block sites with]:** (Optioneel) Een extra niveau van fraude en ongeldig verkeer waardoor DSP advertenties standaard blokkeert:  *[!UICONTROL None]* (het gebrek, dat geen extra verkeer blokkeert), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, of *[!UICONTROL >25% Average Fraud/IVT levels]*. Er kunnen extra kosten van toepassing zijn.
 
 * [!UICONTROL Peer 39]:
 
-   * **[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP standaard advertenties blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, en/of *[!UICONTROL Fraud: Zero Ads]*. Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP advertenties standaard blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, en/of *[!UICONTROL Fraud: Zero Ads]*. Er kunnen extra kosten van toepassing zijn.
 
 * [!UICONTROL Integral Ad Science]:
 
-   * **[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP standaard advertenties blokkeert: *[!UICONTROL None]* (de standaardwaarde, die geen advertenties blokkeert op basis van verdachte activiteit), *[!UICONTROL Suspicious Activity - High Risk]*, of *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeren: *[!UICONTROL None]* (de standaardwaarde, die geen advertenties blokkeert op basis van verdachte activiteit), *[!UICONTROL Suspicious Activity - High Risk]*, of *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Er kunnen extra kosten van toepassing zijn.
 
 **[!UICONTROL Ads.txt filtering]:**
 
-Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór bieden om te gebruiken door gebruik te maken van de lijst met geautoriseerde digitale verkopers van elke uitgever. De standaardinstelling op advertentieniveau is geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
+Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór bieden om te gebruiken door de lijst met geautoriseerde digitale verkopers van elke uitgever toe te passen. De standaardinstelling op advertentieniveau is geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
 * *[!UICONTROL Opt out of ads.txt (default)]*: Winkel kopen van alle verkopers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: Prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers in een domein.
-* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers en wederverkopers in een domein.
-* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers van een domein.
+* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
+* *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen van geautoriseerde directe verkopers van een domein.
 
-**[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Adverteerders geconfigureerd met de [!UICONTROL DoubleVerify Authentic Brand Safety] optie) Inschakelen [!DNL DoubleVerify Authentic Brand Safety], die indrukkingen na het bieden blokkeert met de aangepaste merkveiligheidsregels die voor de opgegeven segment-id zijn geconfigureerd. DSP uw account aan voor gebruik van de segment-id die in de adverteerderinstellingen is opgegeven.
+**[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Adverteerders geconfigureerd met de [!UICONTROL DoubleVerify Authentic Brand Safety] optie) Inschakelen [!DNL DoubleVerify Authentic Brand Safety], die indrukkingen na het bieden blokkeert met behulp van de aangepaste merkveiligheidsregels die voor de opgegeven segment-id zijn geconfigureerd. DSP uw account aan voor gebruik van de segment-id die in de adverteerderinstellingen is opgegeven.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
@@ -420,12 +427,12 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 >
 >([!DNL Roku] plaatsingen) Verkopers van trackingservices van derden die zijn goedgekeurd door [!DNL Roku] include [!DNL Acxiom], [!DNL comScore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], en [!DNL Research Now].
 
-**[!UICONTROL Event Pixels]:** (Optioneel) Pixels voor het bijhouden van gebeurtenissen van derden die standaard worden gekoppeld aan alle nieuwe advertenties in de plaatsing. Gebeurtenispixels opgeven:
+**[!UICONTROL Event Pixels]:** (Optioneel) Pixels voor het bijhouden van gebeurtenissen van derden worden standaard gekoppeld aan alle nieuwe advertenties in de plaatsing. Gebeurtenispixels opgeven:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Voer een van de volgende handelingen uit:
    * Als u een bestaande pixel wilt selecteren, schakelt u het selectievakje in de pixelrij in.
-   * Een nieuwe pixel maken:
+   * Een pixel maken:
       1. Klik op **[!UICONTROL Create]**.
       1. Voer de volgende gegevens in:
          * **[!UICONTROL Pixel name]:** De pixelnaam; de maximumlengte is 500 tekens. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
@@ -435,12 +442,12 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
       1. Klik op **[!UICONTROL Create and attach]**.
    1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Conversion Pixels]:** (Optioneel) Pixels voor het bijhouden van de conversie die standaard worden gekoppeld aan alle nieuwe advertenties in de plaatsing. Omzetpixels opgeven:
+**[!UICONTROL Conversion Pixels]:** (Optioneel) Zet pixels bij het bijhouden van de conversie standaard om deze toe te voegen aan alle nieuwe advertenties in de plaatsing. Omzetpixels opgeven:
 
 1. Klikken ![Bewerken](/help/dsp/assets/edit.png).
 1. Voer een van de volgende handelingen uit:
    * Als u een bestaande pixel wilt selecteren, schakelt u het selectievakje in de pixelrij in.
-   * Een nieuwe pixel maken:
+   * Een pixel maken:
       1. Klik op **[!UICONTROL Create]**.
       1. Voer de volgende gegevens in:
          * **[!UICONTROL Conversion pixel name]:** De pixelnaam; de maximumlengte is 500 tekens. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
@@ -471,4 +478,3 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
 >* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
-
