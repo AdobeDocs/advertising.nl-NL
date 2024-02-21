@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 59270088af96acd5f65b8af10251308123af3faa
+source-git-commit: 0a8bf1a457ecfa84164fb5ee4ff75aa95487edd2
 workflow-type: tm+mt
-source-wordcount: '1982'
+source-wordcount: '2221'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,8 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 21 februari 2024 | [!UICONTROL Alerts] for [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], [!UICONTROL Ads], en [!UICONTROL Deals] | A [!UICONTROL Pulse Panel] in het deelvenster [!UICONTROL Campaigns], [!UICONTROL Packages] en verpakkingsgegevens, [!UICONTROL Placements], en [!UICONTROL Ads] weergaven geven of er waarschuwingen beschikbaar zijn voor items in de weergave. U kunt het deelvenster openen om elke waarschuwing weer te geven en optioneel de toepasselijke weergave openen (bijvoorbeeld [!UICONTROL Placements] bekijken met de toepasselijke plaatsing vermeld) zodat u de montages kunt uitgeven zoals nodig om de kwestie op te lossen. U kunt ook een waarschuwing desgewenst negeren.<br><br>Bovendien [!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements], en [!UICONTROL Ads] weergaven bevatten een &quot;[!UICONTROL Alerts]&quot;, kolom die aangeeft wanneer een item of een van de componenten ervan een uitgave heeft.<br><br>De alarm zijn beschikbaar op de campagne, het pakket, de plaatsing, en overeenkomstenniveaus. | Zie &quot;[Waarschuwingen en meldingen weergeven](/help/dsp/campaign-management/reports/campaign-alerts.md).&quot; |
+|  | [!UICONTROL Placements] | Met de nieuwe plaatsingsinstellingen kunt u a) een minimumbudget voor plaatsing opgeven om de begrotingstoewijzing op pakketniveau te overschrijven wanneer er voldoende budget beschikbaar is, en b) het algoritme voor biedprijs overschrijven om ten minste de vaste prijs en de laagste prijs voor deals te bieden:<ul><li>In de instellingen voor plaatsen die bij pakketten horen, kunt u nu een minimumbudget opgeven als een percentage van het pakketbudget. Als u de functie wilt gebruiken, selecteert u de optie voor het financieren van de plaatsing op &quot;[!UICONTROL Set a Fixed Minimum or Maximum Budget]&quot; (voorheen &quot;[!UICONTROL Set a fixed budget cap]&quot;). U kunt een [!UICONTROL Maximum Budget] in USD (zoals u dat vroeger kon voor het begrotingsplafond), en u kunt ook een [!UICONTROL Minimum Budget] als percentage van de pakketbegroting. Voor bestaande plaatsingen, worden uw bestaande montages behouden gebruikend de nieuwe gebiedsnamen.</li><li>In de [!UICONTROL Inventory Targeting] instellingen, een nieuwe optie voor [!UICONTROL On Demand] door middel van voorraad en privé-voorraad kunt u &quot;[!UICONTROL Ensure Fixed or Floor Price for the bid].&quot;</li></ul> | Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 7 februari 2024 | [!UICONTROL Placements] en [!UICONTROL Ads] | De [!UICONTROL Ads Tool] heeft nu een pakketfilter. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 | 24 januari 2024 | [!UICONTROL Placements] en [!UICONTROL Ads] | De workflow voor het bijvoegen van advertenties bij plaatsingen is opnieuw ontworpen. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 | 10 januari 2024 | [!UICONTROL Placements] | Met behulp van een spreadsheet kunt u nu snel meerdere plaatsen aanpassen en plannen:<ul><li>U kunt een sjabloon voor een advertentieschema downloaden voor plaatsingen. U kunt de vluchtdatums en de rotatie van de advertentie naar wens bewerken in het gedownloade bestand.</li><li>Vervolgens kunt u de bewerkte sjabloon voor advertentieschema uploaden.</li></ul> | Zie &quot;[Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md).&quot; |
