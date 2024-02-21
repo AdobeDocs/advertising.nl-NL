@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
+source-git-commit: 1e5dee912a4c3cdbab5c389725b9d48a354d0b7d
 workflow-type: tm+mt
-source-wordcount: '929'
+source-wordcount: '931'
 ht-degree: 3%
 
 ---
@@ -98,6 +98,7 @@ ht-degree: 3%
       + [Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+      + [Waarschuwingen weergeven](/help/dsp/campaign-management/reports/campaign-alerts.md)
       + [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
    + Plaatsingsinstellingen corrigeren met behulp van werkbladen {#qa-spreadsheet}
       + [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)

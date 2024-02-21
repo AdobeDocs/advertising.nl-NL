@@ -3,9 +3,9 @@ title: Typen prestatierapporten in Campaign Management-weergaven
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
-source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
+source-git-commit: c7860d98edbf44b71d97c3800edf47a409606b74
 workflow-type: tm+mt
-source-wordcount: '537'
+source-wordcount: '652'
 ht-degree: 0%
 
 ---
@@ -36,11 +36,13 @@ Standaard bevat elke campagnerij cijfers voor het plaatsen en leveren. Metrische
 
 U kunt [de gegevenstabellen aanpassen](campaign-data-views-manage.md#data-tables-manage) op aanvullende manieren en [de zichtbare gegevens filteren](campaign-data-views-manage.md#filter-data-tables).
 
-<!--
-An "Alerts" column indicates when a campaign (or any child entity under it) has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
--->
-
 Klik op de naam van de campagne als u een campagne gedetailleerder wilt weergeven.
+
+#### Waarschuwingsindicatoren
+
+*Beta, functie*
+
+Een &quot;[!UICONTROL Alerts]&quot; de kolom geeft aan wanneer een campagne, of een onderliggende entiteit eronder, een probleem heeft. A [!UICONTROL Pulse Panel] aan de rechterkant van de werkbalk geeft ook aan of er waarschuwingen beschikbaar zijn voor de vermelde entiteiten. Zie &quot;[Waarschuwingen weergeven](campaign-alerts.md)&quot; voor meer informatie .
 
 ## Single Campaign Reporting {#single-campaign-reporting}
 
@@ -58,9 +60,11 @@ Zie de [De sectie van de &quot;Mening van de Grafiek&quot;op dwars-campagnemetri
 
 Op elk entiteitlusje, omvat elke rij het afvangen en leveringsmetriek, door gebrek, maar u kunt [de kolomweergave wijzigen](campaign-data-views-manage.md#column-view-change) of zelfs [een aangepaste kolomweergave maken](campaign-data-views-manage.md#column-view-create) om toe te passen op alle subtabbladen voor de campagne. U kunt [de gegevenstabellen aanpassen](campaign-data-views-manage.md#data-tables-manage) op aanvullende manieren. Elke gegevenstabel bevat een [!UICONTROL Subtotals] rij, die of de som of de gemiddelde waarde van elke metrisch over alle zichtbare rijen toont.
 
-<!--
-An "Alerts" column indicates when a package, placement, or ad &mdash; or any child entity under a package or placement &mdash; has an issue. Alert indicators include "Critical" (![Critical](/help/dsp/assets/indicator-critical.png "Critical")) and "Warning" (![Warning](/help/dsp/assets/indicator-warning.png "Warning")). See "[View Alerts and Notifications](campaign-alerts.md) for more information.
--->
+#### Waarschuwingsindicatoren
+
+*Beta, functie*
+
+Een &quot;[!UICONTROL Alerts]&quot; de kolom geeft aan wanneer een pakket, plaatsing of advertentie — of een onderliggende entiteit onder een pakket of plaatsing — een probleem heeft. Een &quot;[!UICONTROL Alerts]&quot; de kolom geeft aan wanneer een campagne, of een onderliggende entiteit eronder, een probleem heeft. A [!UICONTROL Pulse Panel] aan de rechterkant van de werkbalk geeft ook aan of er waarschuwingen beschikbaar zijn voor de vermelde entiteiten. Zie &quot;[Waarschuwingen weergeven](campaign-alerts.md)&quot; voor meer informatie .
 
 ### Andere types van campagne-vlakke Rapportering
 
@@ -89,3 +93,4 @@ Voor andere gegevensbrainstormsessies, weergave [de informatiepagina&#39;s op ad
 >* [De weergave van uw Campagnegegevens beheren](campaign-data-views-manage.md)
 >* [Gegevens exporteren uit een Campaign Management-weergave](campaign-export-data.md)
 >* [Gedetailleerd rapport voor een campagne weergeven](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [Waarschuwingen weergeven](campaign-alerts.md)

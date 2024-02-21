@@ -3,9 +3,9 @@ title: Over pakketbeheer in DSP voor advertenties
 description: Meer informatie over pakketbeheer.
 feature: DSP Packages
 exl-id: 26985635-c03a-471e-8372-fd33e89a30e9
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 2b0513691e5db2db28222d4cf7edf8bca2f014ca
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Gebruik pakketten om plaatsingen voor levering aan een vastgestelde begroting, prestatiesdoel, en de strategie van het douanepakket te groeperen. DSP optimaliseert pakketten door budgetten te verschuiven naar de best presterende locaties in het pakket. U kunt pakketten ordenen op plaatsingsindeling, voorraadtype, gegevensaanbieder, persona of andere onderscheidbare kenmerken. Pakketten zijn optioneel.
 
-U kunt pakketten handmatig maken of bestaande pakketten dupliceren. U kunt ook plaatsen bewerken en aan om het even welk pakket vastmaken.
+U kunt pakketten handmatig maken of bestaande pakketten dupliceren. U kunt ook plaatsen bewerken en toevoegen aan een willekeurig pakket.
 
 ## De [!UICONTROL Packages] Dashboard
 
@@ -30,7 +30,7 @@ Het toont ook het verpakken en leveringsmetriek door pakket, door gebrek. U kunt
 >
 >U kunt de inhoud en levering van pakketrapporten verder aanpassen via [aangepaste rapporten](/help/dsp/reports/report-about.md).
 
-Als u alle plaatsen in een pakket wilt zien, klikt u op de pakketnaam.
+Als u alle plaatsen in een pakket en de vluchtdatums voor het pakket wilt zien, klikt u op de pakketnaam.
 
 >[!MORELIKETHIS]
 >
@@ -39,4 +39,3 @@ Als u alle plaatsen in een pakket wilt zien, klikt u op de pakketnaam.
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Pakketinstellingen](package-settings.md)
-
