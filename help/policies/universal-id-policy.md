@@ -4,7 +4,7 @@ description: Zie het beleid voor het gebruik van universele id's.
 feature: Policies, DSP Ads
 hide: true
 hidefromtoc: true
-source-git-commit: e809a521efc35442b912375cda19516b6be7e90b
+source-git-commit: 90c4e8055b8438e7375968980f5344d7497fbc8f
 workflow-type: tm+mt
 source-wordcount: '647'
 ht-degree: 0%
@@ -43,7 +43,7 @@ Als u na de effectieve gegevens de optie Weigeren ontvangt, gebruikt u niet lang
 
 U mag de Services niet gebruiken om discriminatie te plegen in strijd met de wet, onder meer door zich ten onrechte te richten op specifieke groepen mensen voor reclame, ten onrechte bepaalde groepen mensen uit te sluiten van advertenties of door discriminerende inhoud in advertenties te vertonen. U bent verantwoordelijk voor het verantwoord gebruiken van de Diensten om discriminatie tegen beschermde klassen te vermijden, met inbegrip van maar niet beperkt tot het verzekeren dat uw Advertenties geen ongelijke invloed op beschermde klassen hebben.
 
-## EXHIBIT A: VERBODEN LANDEN {#prohibited-countries}
+## Exhibit A: Verboden landen {#prohibited-countries}
 
 ### EU-landen
 
