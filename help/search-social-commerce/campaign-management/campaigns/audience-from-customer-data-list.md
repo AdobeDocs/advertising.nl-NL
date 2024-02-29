@@ -3,7 +3,7 @@ title: Beheer klanten gelijke soorten publiek gebruikend de lijsten van klanteng
 description: Leer maken en bewerken [!DNL Google Ads] en [!DNL Microsoft® Advertising] klant past publiek van uw lijsten van klantengegevens aan.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
-source-git-commit: 588b6b5887903e5912fc68a18ef142d908026870
+source-git-commit: e8eabf7e4aa7c9201cd8198aae32d325b2858f2b
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
@@ -66,7 +66,7 @@ Voor [!DNL Microsoft® Advertising] -accounts, kan het bestand e-mailadressen be
 
       1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het dialoogvenster [!DNL Adobe] en voegt beleid van de netwerkprivacy toe.
 
-      1. (Adverteerders maken [!DNL Google Ads] publiek dat zaken doet in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK) (facultatief) Als u van gebruikers in de EER en het VK toestemming hebt gekregen om hun gegevens voor reclamedoeleinden te uploaden, selecteert u het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+      1. (Adverteerders maken [!DNL Google Ads] publiek dat zaken doet in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK) (facultatief) Als u toestemming van EER en VK gebruikers hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, dan selecteer het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
 
       [!DNL Google Ads] gegevens voor gebruikers in de EER en het Verenigd Koninkrijk met een niet-gespecificeerde toestemmingsstatus worden genegeerd. Dit kan leiden tot verschillen in gegevens en prestatieproblemen.
 

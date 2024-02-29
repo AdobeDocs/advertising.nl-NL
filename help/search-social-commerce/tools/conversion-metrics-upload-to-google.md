@@ -3,7 +3,7 @@ title: Conversiemetriek uploaden naar [!DNL Google Ads]
 description: Leer hoe u de conversiemetriek Zoeken, Sociaal en Handel uploadt naar [!DNL Google Ads].
 exl-id: 976792ae-135c-4790-82cf-9503edb93fb1
 feature: Search Tools
-source-git-commit: a004f5025ee94c6a40c24124a9cb134a4e1668ce
+source-git-commit: e8eabf7e4aa7c9201cd8198aae32d325b2858f2b
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Dagelijkse uploads inclusief bijgehouden `gclid` waarde, de omzettingswaarde die
 
 1. Schakel het selectievakje in naast **[!UICONTROL Upload Conversions to Google Ads]**.
 
-1. (Adverteerders die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u van gebruikers in de EER en het VK toestemming hebt gekregen om hun gegevens voor reclamedoeleinden te uploaden, dan selecteer de controledoos naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+1. (Adverteerders die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u toestemming van EER en VK gebruikers hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, selecteer dan het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
 
 1. Klik op **[!UICONTROL Save]**.
 
