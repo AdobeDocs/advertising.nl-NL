@@ -1,11 +1,11 @@
 ---
 title: Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens
 description: Leer maken en bewerken [!DNL Google Ads] en [!DNL Microsoft® Advertising] klant past publiek van uw lijsten van klantengegevens aan.
-exl-id: 734d8cb1-3915-410f-a0cc-0669d6575eab
+exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 588b6b5887903e5912fc68a18ef142d908026870
 workflow-type: tm+mt
-source-wordcount: '807'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -65,6 +65,10 @@ Voor [!DNL Microsoft® Advertising] -accounts, kan het bestand e-mailadressen be
       1. In de [!UICONTROL Select File] veld, klikken **[!UICONTROL Choose File]** en selecteer het bestand op uw netwerk of apparaat.
 
       1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het dialoogvenster [!DNL Adobe] en voegt beleid van de netwerkprivacy toe.
+
+      1. (Adverteerders maken [!DNL Google Ads] publiek dat zaken doet in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK) (facultatief) Als u van gebruikers in de EER en het VK toestemming hebt gekregen om hun gegevens voor reclamedoeleinden te uploaden, selecteert u het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+
+      [!DNL Google Ads] gegevens voor gebruikers in de EER en het Verenigd Koninkrijk met een niet-gespecificeerde toestemmingsstatus worden genegeerd. Dit kan leiden tot verschillen in gegevens en prestatieproblemen.
 
       1. Klik op **[!UICONTROL Upload File]**.
 
