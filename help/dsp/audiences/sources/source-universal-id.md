@@ -3,9 +3,9 @@ title: Activeer Erkende Segmenten van de Universele partners van identiteitskaar
 description: Leer over het activeren van voor authentiek verklaard publiek door een universele oplossing van identiteitskaart
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
-source-git-commit: e9ff454428d0256402a2ef2fa74f8bd45bd7592f
+source-git-commit: 5d031fe746dc5051320e5d2092f9148b5a8a1bd5
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '284'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Als u geverifieerde doelgroepen wilt activeren via een oplossing met een univers
 
 1. Voor beide opties neemt u contact op met `adcloud-support@adobe.com` om de volgende montages in DSP toe te laten, die u zal toestaan om voor authentiek verklaarde segmenten in DSP campagnes te richten [alle stappen in de activeringsworkflow zijn voltooid](source-adobe-rtcdp.md):
 
-   1. [!DNL LiveRamp] [!DNL RampID] campagneconfiguratie voorafgaand aan segment delen van [!DNL Real-Time CDP].
+   * [!DNL LiveRamp] [!DNL RampID] campagneconfiguratie voor segmentdelen van [!DNL Real-Time CDP]
 
-   1. Het rekeningniveau &quot;[!UICONTROL LiveRamp segments]&quot;.
+   * Het rekeningniveau &quot;[!UICONTROL LiveRamp segments]&quot;, optie
 
 1. (Gebruikers delen geverifieerde segmenten handmatig via [!DNL LiveRamp]) Voer de volgende stappen uit in het dialoogvenster [!DNL LiveRamp] [!DNL Connect] dashboard:
 
