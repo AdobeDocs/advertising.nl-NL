@@ -3,7 +3,7 @@ title: Gegevens van de post campagne die van voer aan advertentienetwerken worde
 description: Leer hoe te om gegevens te posten die van de voer van inventarisgegevens aan advertentienetwerken worden geproduceerd.
 exl-id: 7d66c52b-f761-4be2-a1d9-2c63887d7cb7
 feature: Search Inventory Feeds
-source-git-commit: 6b3c876f17d0e30dcce69048bb4041fc8cd29902
+source-git-commit: c27665b979ad8e37fd4f92385bb7339af4354d5f
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -52,7 +52,7 @@ Alle advertentiegroepen moeten aan campagnes worden toegewezen, alle trefwoorden
 
             * **[!UICONTROL End Time]:** Een datum en tijdstip in de toekomst waarop de geposte advertenties kunnen worden gepauzeerd of verwijderd op basis van de [gegevensinstelling feed](feed-settings-manage.md#feed-data-settings) for &quot;[!UICONTROL When the Scheduled End Date is reached].&quot; Standaard is de eindtijd 30 dagen na vandaag om 00:00 (12:00 uur). Selecteren **[!UICONTROL None]** om de gegevens voor onbepaalde tijd actief te houden (of tot u nieuwe gegevens voor het malplaatje) verspreidt, of een datum en een tijd te specificeren.
 
-              Als u een datum wilt opgeven, gebruikt u de notatie DD/MM/JJJJ of D/M/JJJJ of klikt u op [Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") de kalender te openen en [selecteer een datum](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md). Als u een tijd wilt wijzigen, voert u de tijd in in de 24-uursnotatie HH/MM of H/M of selecteert u een tijd (met intervallen van 30 minuten) in de lijst.
+              Als u een datum wilt opgeven, gebruikt u de notatie DD/MM/JJJJ of D/M/JJJJ of klikt u op ![Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") de kalender te openen en [selecteer een datum](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md). Als u een tijd wilt wijzigen, voert u de tijd in in de 24-uursnotatie HH/MM of H/M of selecteert u een tijd (met intervallen van 30 minuten) in de lijst.
 
          * **[!UICONTROL Preview in Bulksheet Management Area only, post later]:** Hiermee maakt u een bulkbladbestand dat beschikbaar is in het dialoogvenster [!UICONTROL Search] > [!UICONTROL Bulksheets] weergeven. U kunt het bestand desgewenst van daaruit posten.
 
