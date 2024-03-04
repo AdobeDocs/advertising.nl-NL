@@ -4,7 +4,7 @@ description: Zie het beleid voor het gebruik van universele id's.
 feature: Policies, DSP Ads
 hide: true
 hidefromtoc: true
-source-git-commit: b870d2cb7d8c6304016af0c7fbec1e56511bdac1
+source-git-commit: 2a77177ea7fb563835731fbbaa5447df94c211e9
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 <!-- In TOC, but hidden from TOC and both external and internal search -->
 
-Laatst bijgewerkt: 1 maart 2024
+Laatst bijgewerkt: 29 februari 2024
 
 In dit beleid voor universele id-vereisten (&quot;beleid&quot;) worden de vereisten voor het gebruik van universele id&#39;s in verband met advertenties die via [!DNL Adobe's] On-demand services voor Adobe Advertising (&quot;services&quot;). Dit beleid is opgenomen in de Overeenkomst tussen [!DNL Adobe] en de Klant (&quot;u&quot;) die de On-demand Services gebruikt. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
 
