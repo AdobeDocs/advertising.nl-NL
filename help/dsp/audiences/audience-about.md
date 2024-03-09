@@ -3,9 +3,9 @@ title: Over het beheer van het publiek in DSP
 description: Meer informatie over de functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: 0979032c6dff9cfe7b5fb7deb10f53114efffb7e
+source-git-commit: e2387f7e373e69c72e97ee83eff8f6a7ce9ceed5
 workflow-type: tm+mt
-source-wordcount: '1021'
+source-wordcount: '1029'
 ht-degree: 0%
 
 ---
@@ -30,11 +30,11 @@ Er zijn ook extra publiekstypen beschikbaar voor plaatsing als doel.
 
 ## Eerste partij en gegevenssegmenten van derden importeren
 
-DSP kunnen uw eigen gegevenssegmenten van de eerste partij van uw gegevensbeheerplatform (DMP) invoeren en hen verstrekken aan om het even welke reeks adverteerders, zoals nodig.
+DSP kan uw eerste-partijsegmenten omzetten in universele id&#39;s voor een ongekende doelversie en u kunt deze beschikbaar stellen aan elke adverteerder of account. DSP heeft connectors voor [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html) en andere CDP&#39;s. Zie de klasse [Bronsectie](/help/dsp/audiences/sources/source-about.md).
 
-DSP is een geïntegreerde bestemming voor [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), zodat u geverifieerde first-party-segmenten kunt delen met goedgekeurde adverteerders en gebruikers voor activering van de campagne. Voor meer informatie over de integratie van Real-Time CDP raadpleegt u de [Bronsectie](/help/dsp/audiences/sources/source-about.md).
+DSP kunnen ook uw andere gegevenssegmenten van de eerste partij rechtstreeks vanuit uw gegevensbeheerplatform (DMP) importeren en deze aan elke set adverteerders doorgeven, indien nodig.
 
-DSP kunnen ook aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
+Daarnaast kunnen DSP aangepaste segmenten van derden importeren, waaronder complexe combinaties van segmenten van derden. U kunt de segmenten desgewenst aan elke set adverteerders aanbieden.
 
 Neem contact op met het accountteam van de Adobe voor meer informatie.
 
