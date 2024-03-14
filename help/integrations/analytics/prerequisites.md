@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
-source-git-commit: 73cdb171523b55f48b5ae5c5b2b4843f542336a6
+source-git-commit: e7773c31c1834b05731b4711ae237cde481e5639
 workflow-type: tm+mt
-source-wordcount: '839'
+source-wordcount: '845'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,10 @@ Controleer de volgende informatie voordat u Adobe Advertising met Adobe Analytic
 
 * een van de volgende twee handelingen:
    * Adobe Experience Platform Web SDK: `alloy.js`
-   * Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.0 of hoger
+   * Identiteitsdienst Experience Cloud: `visitorAPI.js` versie 2.0 of hoger
 * Elke versie van Adobe Analytics (inclusief [!DNL Prime], [!DNL Premium], of [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` versie 2.1 of hoger
+* (Reclame DSP klanten) en [Adverteren DSP JavaScript-fragment](javascript.md) geïmplementeerd op uw webpagina&#39;s om doorkijkbezoeken bij te houden.
 
 >[!TIP]
 >
@@ -30,7 +31,7 @@ Controleer de volgende informatie voordat u Adobe Advertising met Adobe Analytic
 
 ## Vereisten voor het delen van analysesegmenten met Adobe Advertising
 
-* Experience Cloud-identiteitsdienst: `visitorAPI.js` versie 2.1 of hoger
+* Identiteitsdienst Experience Cloud: `visitorAPI.js` versie 2.1 of hoger
 * Adobe Analytics: `appMeasurement.js` versie 1.8 of hoger
 
 ## Voorschriften voor rapportage [!DNL Analytics] Gegevens in Adobe Advertising
@@ -38,11 +39,11 @@ Controleer de volgende informatie voordat u Adobe Advertising met Adobe Analytic
 Geef het volgende door aan het implementatieteam van de Adobe Advertising:
 
 * De [!DNL Analytics] rapportsuite-id die wordt gebruikt voor rapportage over betaalde mediaconcentraties en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Adobe Advertising
-* De Experience Cloud Organisatie-id van het bedrijf (Org ID).
+* De organisatie-id (Org ID) van het Experience Cloud van het bedrijf.
 
 U kunt beide id&#39;s vinden op het tabblad [Tabblad Overzicht van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).
 
-![Experience Cloud Debugger Samenvattingsscherm](/help/integrations/assets/a4adc-debugger-summary.png)
+![Samenvattingsscherm Experience Cloud Debugger](/help/integrations/assets/a4adc-debugger-summary.png)
 
 ## [!DNL Analytics] Gegevens in Adobe Advertising {#lookback-a4adc}
 
@@ -61,7 +62,7 @@ De [!DNL Analytics for Advertising] JavaScript gebruikt deze instellingen om te 
 
 ## Gegevens Adobe Advertising in [!DNL Analytics]
 
-[!DNL Analytics] stelt Adobe Advertising-id&#39;s (AMO-id&#39;s) in in de treffer Analytics, afhankelijk van het [!DNL eVar] persistentie-instelling, die van toepassing is op zowel doorklikken als doorzoeken. De persistentie-instelling wordt geconfigureerd op de back-end van de Adobe Advertising en uw Adobe-accountteam kan deze wijzigen.
+[!DNL Analytics] stelt Adobe Advertising-id&#39;s (AMO-id&#39;s) in in de treffer Analytics, afhankelijk van het [!DNL eVar] persistentie-instelling, die van toepassing is op zowel doorklikken als doorzoeken. De persistentie die wordt geplaatst wordt gevormd op het achtereind van de Adobe Advertising, en uw Team van de Rekening van de Adobe kan het veranderen.
 
 * [!DNL Analytics for Advertising] [!DNL eVar] verlopen: standaard 60 dagen voor AMO-id&#39;s
 
@@ -77,7 +78,7 @@ De [!DNL Analytics for Advertising] JavaScript gebruikt deze instellingen om te 
 * Online video
 * Oorspronkelijk
 
-Neem contact op met uw Adobe-accountteam voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
+Neem contact op met het accountteam van de Adobe voor de meest recente ondersteunde advertentieomgevingen in elk kanaal.
 
 ## Wat u moet weten voordat u gaat implementeren
 
@@ -89,7 +90,7 @@ Neem contact op met uw Adobe-accountteam voor de meest recente ondersteunde adve
 
 * De integratie gaat alleen over [!DNL Analytics] standaard- en aangepaste evenementen voor Adobe Advertising voor het optimaliseren van biedingen voor latere betaalde media- en advertentietechnieken. Het gaat niet door [!DNL Analytics] segmenten, berekende metriek en [!DNL eVars] naar Adobe Advertising voor Bodoptimalisatie.
 
-* Adobe Advertising maakt permanente id&#39;s binnen [!DNL Analytics] op basis van de laatste advertentie die is aangeklikt of bekeken voordat de gebruiker de site betreedt, op basis van de [klik en mening-door raadplegingsvensters](#lookback-a4adc) geconfigureerd in Adobe Advertising. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel zou hebben en de klik zich binnen de terugzoekperiode bevindt, zou de doorklikeid van de bezoeker de doorkijkID voor site-rapportage overschrijven.
+* Adobe Advertising maakt permanente id&#39;s binnen [!DNL Analytics] op basis van de laatste advertentie die is aangeklikt of bekeken voordat de gebruiker de site betreedt, op basis van de [klik en mening-door raadplegingsvensters](#lookback-a4adc) geconfigureerd in Adobe Advertising. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel heeft en de klik zich binnen de terugzoekperiode bevindt, overschrijft de doorklikeid van de bezoeker de weergave-via-id voor siterapportage.
 
 * [!DNL Analytics for Advertising] Voor het bijhouden van conversies in Adobe Analytics wordt een configureerbaar terugzoekvenster (standaard 60 dagen) gebruikt. De rapporten van de Adobe Advertising weerspiegelen plaatsomzettingen en betrokkenheid door het eind van dit het volgen raadplegingsvenster.
 
@@ -105,7 +106,7 @@ Neem contact op met uw Adobe-accountteam voor de meest recente ondersteunde adve
 
 ### Aanvullende id
 
-Zodra de Dienst van de Identiteit van de Experience Cloud voor een plaats wordt uitgevoerd, klappen die gegevens van bevatten [!DNL Analytics] of Adobe Advertising bevat een aanvullende id.
+Zodra de Dienst van de Identiteit van het Experience Cloud voor een plaats wordt uitgevoerd, klappen die gegevens van bevatten [!DNL Analytics] of Adobe Advertising bevat een aanvullende id.
 
 Voorbeeld: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
