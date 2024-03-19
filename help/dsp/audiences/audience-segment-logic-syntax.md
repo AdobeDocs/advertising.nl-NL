@@ -3,7 +3,7 @@ title: Syntaxis voor Audience Segment Logic
 description: Verwijs naar de syntaxis u kunt gebruiken om de logica voor publiekssegmenten te bepalen.
 feature: DSP Audiences
 exl-id: fb73f35f-1f65-463b-b93c-90804a8d19a9
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 97f5e8913afb2f71505512bf8e4ab5bf56c1d7f8
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 0%
@@ -24,7 +24,6 @@ Wanneer u herbruikbare soorten publiek maakt, kunt u de segmentlogica handmatig 
 >* Alle gespecificeerde segmentgroepen zijn inbegrepen tenzij zij door worden voorafgegaan ! (exclusief deze).
 >* U kunt [zoek segmentidentiteitskaart voor een publiek](reusable-audience-clipboard.md) van [!UICONTROL Audiences] > [!UICONTROL All audiences].
 
-
 De volgende logica:
 
 ```
@@ -44,8 +43,7 @@ means (in normale Engelse taal)
 >[!MORELIKETHIS]
 >
 >* [Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord](reusable-audience-clipboard.md)
->* [Over Audience Management](audience-about.md)
+>* [Informatie over Audience Management](audience-about.md)
 >* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Instellingen publiek](audience-settings.md)
+>* [Instellingen voor publiek](audience-settings.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
-

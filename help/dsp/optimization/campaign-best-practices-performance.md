@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: ce35295fcb003b1cc0a171d171317601eadf6288
+source-git-commit: efd169f5e1e191f7635abf5b7a325e3483395165
 workflow-type: tm+mt
-source-wordcount: '1238'
+source-wordcount: '1276'
 ht-degree: 0%
 
 ---
@@ -151,8 +151,8 @@ Contextafhankelijke filtering, blokkering van voorbiedingsfraude en/of [!UICONTR
 
 ## Stap 5 - De juiste Creative Assets gebruiken
 
-* De beste manier is om zoveel mogelijk unieke advertentiegrootten op te nemen om het bereik te maximaliseren. Met de universele weergavesjabloon kunt u elke standaardweergave en -grootte uploaden.
-* Zorg ervoor dat alle plaatsen bevatten *ten minste* alle primaire schermen en formaten (300x250, 728x90, 160x600, 300x600, 320x50 en 300x50).
+* De beste manier is om zoveel mogelijk unieke advertentiegrootten op te nemen om het bereik te maximaliseren. Met de universele weergavesjabloon kunt u elke standaardweergave en -grootte uploaden.
+* Zorg ervoor dat alle plaatsen bevatten *ten minste* alle primaire schermen en formaten (300x250, 728x90, 160x600, 300x600, 320x50 en 300x50).
 * Werk creatieve middelen regelmatig bij om creatieve vermoeidheid te voorkomen.
 
 >[!MORELIKETHIS]
