@@ -2,16 +2,15 @@
 title: De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren
 description: Leer hoe u een nieuwe prognose maakt voor een bereik van verbonden tv.
 feature: DSP Planner
-source-git-commit: 72ee396019d5a444bd326fe659ce68eb3490a439
+exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
+source-git-commit: 8574d76fd322cb1cbc6aaaf316e7ad2f961a9f6c
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
 
 # De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren
-
-*Beta, functie*
 
 U kunt de voorspelling voor een bereik van een aangesloten tv opnieuw genereren op basis van de meest recente waargenomen gegevens.
 

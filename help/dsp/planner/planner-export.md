@@ -2,16 +2,15 @@
 title: Een voorspelling exporteren voor een aangesloten tv-bereikplan
 description: Leer hoe u de voorspelling voor een bereik van een verbonden tv exporteert.
 feature: DSP Planner
-source-git-commit: 72ee396019d5a444bd326fe659ce68eb3490a439
+exl-id: f4bad569-1b56-439a-8c41-92a24a710476
+source-git-commit: 8574d76fd322cb1cbc6aaaf316e7ad2f961a9f6c
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '94'
 ht-degree: 0%
 
 ---
 
 # Een voorspelling exporteren voor een aangesloten tv-bereikplan
-
-*Beta, functie*
 
 U kunt de opdracht [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft® Excel] spreadsheet** met [!UICONTROL Budget] en [!UICONTROL Reach] kolommen.
 
