@@ -4,9 +4,9 @@ description: Meer informatie over ondersteuning voor het vastleggen van aanvrage
 feature: CCPA
 role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: 1dbe8da7122b38dd11a242c453d71a832b31eee8
+source-git-commit: 7613d49698bf303afad521e94471c11cd2a3e556
 workflow-type: tm+mt
-source-wordcount: '1005'
+source-wordcount: '988'
 ht-degree: 0%
 
 ---
@@ -59,9 +59,9 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
 
    U moet de bibliotheek implementeren op de webpagina van waaruit uw klanten aanvragen voor een opt-out-of--verkoop kunnen indienen, zoals het privacyportaal van uw bedrijf. Met de bibliotheek kunt u Adobe cookies ophalen (naamruimte-id: `gsurferID`), zodat u deze identiteiten kunt verzenden als onderdeel van een &quot;opt-out&quot;-aanvraag via de Adobe Experience Platform Privacy Service API.
 
-1. Identificeer uw organisatie-id van het Experience Cloud en zorg ervoor het met uw rekeningen van de Adobe Advertising verbonden is.
+1. Identificeer uw organisatie-ID van het Experience Cloud en zorg ervoor dat het met uw rekeningen van de Adobe Advertising verbonden is.
 
-   Een organisatie-id voor een Experience Cloud is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met &quot;@AdobeOrg&quot;. De meeste klanten van het Experience Cloud zijn toegewezen een organisatieidentiteitskaart Als uw marketingteam of de beheerder van het systeem voor interne Adobe uw organisatie-id niet kent of niet zeker weet of deze is ingericht, neemt u contact op met de klantenservice van de Adobe op gdprsupport@adobe.com. U hebt de organisatie-id nodig om aanvragen in te dienen bij de privacy-API met behulp van de `imsOrgID` naamruimte.
+   Een organisatie-id voor een Experience Cloud is een alfanumerieke tekenreeks van 24 tekens die wordt toegevoegd met &quot;@AdobeOrg&quot;. De meeste klanten van het Experience Cloud zijn toegewezen een organisatieidentiteitskaart Als uw marketing team of interne beheerder van het systeem van de Adobe uw organisatie identiteitskaart niet kent, of niet zeker als het provisioned is, dan contacteer uw Team van de Rekening van de Adobe. U hebt de organisatie-id nodig om aanvragen in te dienen bij de privacy-API met behulp van de `imsOrgID` naamruimte.
 
    >[!IMPORTANT]
    >
@@ -73,7 +73,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
 
    >[!NOTE]
    >
-   Als uw bedrijf veelvoudige Experience Cloud organisatie IDs heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
+   >Als uw bedrijf veelvoudige Experience Cloud organisatie IDs heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
 Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
@@ -90,7 +90,7 @@ U kunt koppelingen opvragen naar de maandelijkse rapporten die in de afgelopen d
 
 ### Methode 2: Rapporten over het niet-verkopen van consumenten ophalen met behulp van de DSP [!DNL Trafficking API]
 
-Deze functie is beschikbaar voor organisaties die de [!DNL Trafficking API]. Zie de documentatie voor de [!DNL Trafficking API] voor meer informatie .
+Deze functie is beschikbaar voor organisaties die de [!DNL Trafficking API]. Zie de documentatie voor de [!DNL Trafficking API] voor meer informatie .<!-- Add link to API doc once it's published. -->
 
 Als uw organisatie de opdracht [!DNL Trafficking API] maar u hebt meer informatie nodig. Neem contact op met het accountteam van uw Adobe.
 
