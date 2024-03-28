@@ -4,7 +4,7 @@ description: Meer informatie over ondersteuning voor het vastleggen van aanvrage
 feature: CCPA
 role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: 7613d49698bf303afad521e94471c11cd2a3e556
+source-git-commit: 7378ea6e6907aa4067bd3e73160a8e71c925ec9d
 workflow-type: tm+mt
 source-wordcount: '988'
 ht-degree: 0%
@@ -121,17 +121,17 @@ curl -X POST \
             "type": "standard"
           },
           {
-            "namespace": "AdCloud",
+            "namespace": "adCloud",
             "type": "standard",
             "value":  "Wqersioejr-wdg",
           }
     ],
-    "include": ["AdCloud"],
+    "include": ["adCloud"],
     "regulation": "ccpa"
 }'
 ```
 
 waarbij:
 
-* `"namespace": "AdCloud"` Hiermee wordt de `AdCloud` koekjesruimte, en de overeenkomstige waarde is de koekjesidentiteitskaart van de klant zoals die van wordt teruggewonnen `AdobePrivacy.js`
-* `"include": ["AdCloud"]` geeft aan dat het verzoek van toepassing is op Adobe Advertising
+* `"namespace": "adCloud"` Hiermee wordt de `adCloud` koekjesruimte, en de overeenkomstige waarde is de koekjesidentiteitskaart van de klant zoals die van wordt teruggewonnen `AdobePrivacy.js`
+* `"include": ["adCloud"]` geeft aan dat het verzoek van toepassing is op Adobe Advertising
