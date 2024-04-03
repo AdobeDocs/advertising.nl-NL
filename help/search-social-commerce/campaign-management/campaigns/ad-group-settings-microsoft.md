@@ -1,16 +1,16 @@
 ---
-title: '[!DNL Microsoft Advertising] ad group settings'
-description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] ad groepen.
+title: '[!DNL Microsoft® Advertising] ad group settings'
+description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] ad groepen.
 exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
-source-git-commit: a31179383fa9c1c9f6eb697d0aa3dd3301d41823
+source-git-commit: 29401370d18a5d1c7d5c28cb90a109ea5134ac00
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '597'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft Advertising] groepsinstellingen toevoegen
+# [!DNL Microsoft® Advertising] groepsinstellingen toevoegen
 
 ## [!UICONTROL Adgroup Details]
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 **[!UICONTROL Networks]:** (Zoekadvertenties) Hoe en waar u advertenties in de advertentiegroep plaatst:
 
-* *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
+* *[!UICONTROL Only Microsoft® Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
 
-* *[!UICONTROL Only Microsoft Advertising and Yahoo! syndicated search partners]:* Biedt voor advertenties op gesynchroniseerde partnersites.
+* *[!UICONTROL Only Microsoft® Advertising and Yahoo! syndicated search partners]:* Biedt voor advertenties op gesynchroniseerde partnersites.
 
 * *[!UICONTROL Content network]:* Vervangen
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/location-targets.md}}
 
-Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifiers voor plaatsdoelstellingen worden niet geoptimaliseerd in standaardportefeuilles met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
+Voor [!DNL Microsoft® Advertising] en groepen in het publieksnetwerk, biodmodifiers voor plaatsdoelstellingen worden niet geoptimaliseerd in standaardportefeuilles met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
 
 <!-- **[!UICONTROL Devices]:** -->
 
@@ -122,7 +122,7 @@ Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifie
 
 **[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advertising op &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
+Voor informatie over beschikbaarheid, zie [!DNL Microsoft® Advertising] Help bij &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 >[!MORELIKETHIS]
 >

@@ -1,11 +1,11 @@
 ---
 title: Over het volgen voor Zoeken, Sociale Zaken en Handel
 description: Meer informatie over opties voor Zoeken, Sociale Zaken en Handel.
-exl-id: 0a26f67c-8b3b-4fa1-ac24-a8461624cfc5
+exl-id: f0fd367a-dd5a-46ec-a3d6-9b491860aae8
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: aeb5f9a903290926afc27fe32c32646561850cc1
 workflow-type: tm+mt
-source-wordcount: '767'
+source-wordcount: '756'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ Als u campagnes wilt volgen op advertentienetwerken waarmee Onderzoek, Sociale, 
 
 ### Labels voor bijhouden van klikken
 
-Uw implementatieteam voor Zoeken, Sociale Zaken en Handel stelt klikvolgen in door de volgende sjablonen en doel-URL&#39;s voor advertenties, trefwoorden, plaatsingen, productgroepen en sitelink-extensies bij te werken in uw gesynchroniseerde advertentiecampagnes, zodat deze een unieke id-tekenreeks voor het bijhouden en een omleiding van de Adobe Advertising bevatten. Ze voegen ook het bijhouden van de achtervoegsels voor de landpagina (laatste URL-achtervoegsels) toe aan uw [!DNL Google Ads] en [!DNL Microsoft Advertising] accounts en campagnes.
+Uw implementatieteam voor Zoeken, Sociale Zaken en Handel stelt klikvolgen in door de volgende sjablonen en doel-URL&#39;s voor advertenties, trefwoorden, plaatsingen, productgroepen en sitelink-extensies bij te werken in uw gesynchroniseerde advertentiecampagnes, zodat deze een unieke id-tekenreeks voor het bijhouden en een omleiding van de Adobe Advertising bevatten. Ze voegen ook het bijhouden van de achtervoegsels voor de landpagina (laatste URL-achtervoegsels) toe aan uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] accounts en campagnes.
 
 Met de volgende parameters kan de Adobe Advertising klikken bijhouden op een afzonderlijk trefwoordniveau (zoekcampagnes) of op variatieniveau (zoekcampagnes met inhoud of doellocatie, weergavecampagnes en sociale campagnes). Telkens wanneer een gebruiker een weergave/inhoud bekijkt en of op een van uw advertenties klikt, verzendt het advertentienetwerk de gebeurtenis naar de pixelservers van de Adobe Advertising met behulp van een kliktrackingtag die aan het trefwoord of de advertentie is gekoppeld. Voor klikken:
 
-* Voor advertenties van Google Ads en Microsoft op browsers die parallelle tracering steunen, verzendt het advertentienetwerk de klik eerst naar uw website en dan naar de Adobe Advertising pixelservers, die dan een koekje op de computer van de gebruiker plaatsen, als men niet reeds bestaat.
+* Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] advertenties op browsers die parallelle tracering ondersteunen, stuurt het advertentienetwerk de klik eerst naar uw website en vervolgens naar de pixelservers van de Adobe Advertising, die vervolgens een cookie op de computer van de gebruiker plaatsen als deze nog niet bestaat.
 
 * In alle andere gevallen verzendt het advertentienetwerk de klik rechtstreeks naar de pixelservers van de Adobe Advertising. De pixelserver plaatst een cookie op de computer van de gebruiker (als deze nog niet bestaat) en leidt de gebruiker vervolgens om naar de relevante URL op uw website. De algemene ervaring voor de eindgebruiker is hetzelfde als zonder omleiding.
 

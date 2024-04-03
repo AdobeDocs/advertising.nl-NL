@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: cdb86533b46b196fe7a3394ab9e4fc8209a3df69
+source-git-commit: 198dc41ba0ae1cd55e18c34e04cd2ea2297aa127
 workflow-type: tm+mt
-source-wordcount: '1729'
+source-wordcount: '1698'
 ht-degree: 2%
 
 ---
@@ -163,8 +163,8 @@ ht-degree: 2%
          + Productgroepen {#product-groups}
             + [Productgroepen](/help/search-social-commerce/campaign-management/campaigns/product-group-about.md)
             + [Productgroepen beheren](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md)
-            + [Instellingen voor Google Ads-productgroepen](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
-            + [Microsoft-instellingen voor productgroepen voor advertenties](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
+            + [[!DNL Google Ads] productgroepinstellingen](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
+            + [[!DNL Microsoft Advertising] productgroepinstellingen](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
             + [Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
          + Plaatsen {#placements}
             + [Informatie over plaatsingen](/help/search-social-commerce/campaign-management/campaigns/placement-about.md)
