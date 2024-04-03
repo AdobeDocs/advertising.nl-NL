@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: efd169f5e1e191f7635abf5b7a325e3483395165
+source-git-commit: 6aa81fe4fd5ea6cb188b7f18b1574c26ddfcbb92
 workflow-type: tm+mt
-source-wordcount: '1276'
+source-wordcount: '1273'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ DSP kan uw prestatiegerichte campagnes optimaliseren. Raadpleeg de volgende aanb
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) daartoe &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;). Voor elk pakket in de campagne, zult u het optimalisatiedoel dienovereenkomstig specificeren.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben de [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Voor elk pakket in de campagne, zult u het optimalisatiedoel dienovereenkomstig specificeren.
 
 ![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
 

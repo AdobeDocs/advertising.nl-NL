@@ -3,9 +3,9 @@ title: Een aangepast doel maken
 description: Een aangepast doel maken
 feature: DSP Optimization
 exl-id: 81b0acfa-085d-495b-9516-576b952b1307
-source-git-commit: 1dbe8da7122b38dd11a242c453d71a832b31eee8
+source-git-commit: 6aa81fe4fd5ea6cb188b7f18b1574c26ddfcbb92
 workflow-type: tm+mt
-source-wordcount: '515'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
 
       1. Klik onder aan de instellingen op **[!UICONTROL Save]**.
 
-Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een DSP pakket wanneer het optimalisatiedoel eindigt met &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;).
+Wanneer u een doel hebt gemaakt, kunt u het als aangepast doel toewijzen aan een DSP pakket wanneer het optimalisatiedoel: &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot;
 
 >[!TIP]
 >

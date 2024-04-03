@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 32d74703d9aecbddc5a5f3e0526a2cefbf1f2266
+source-git-commit: 0606614cc4fca842b800c089afa0303b67ecba5f
 workflow-type: tm+mt
-source-wordcount: '797'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Facultatieve vergoedingen worden weerspiegeld in de [!UICONTROL Net CPM] metrisch.
+>
 * **[!UICONTROL CPM]:** De kosten per 1000 impressies (CPM).
 
 * **[!UICONTROL CPM Description]:** Een beschrijving van de CPM-vergoeding.
@@ -33,9 +34,9 @@ U kunt de instelling op pakketniveau overschrijven in het dialoogvenster [plaats
 
 **[!UICONTROL Pacing & Capping]:** (Alleen-lezen voor bestaande pakketten) Op welk niveau moet de plaatsing van de verpakking worden geplaatst en gelimiteerd:
 
-* **[!UICONTROL Package level pacing]:** Deze pakketstrategie werkt door alle inbegrepen plaatsingen als een pakket te plaatsen en te begrenzen *groep*. Deze strategie zorgt ervoor dat alle plaatsingen binnen een bepaald pakket holistisch worden geoptimaliseerd, waarbij uitgaven op basis van prestaties en schaal worden verdeeld naar geselecteerde prestatiekernindicatoren (KPI&#39;s).
+* **[!UICONTROL Package level pacing]:** Deze pakketstrategie werkt door alle inbegrepen plaatsingen als een pakket te plaatsen en te begrenzen *groep*. Deze strategie zorgt ervoor dat alle plaatsingen binnen een bepaald pakket holistisch worden geoptimaliseerd, waarbij uitgaven op basis van prestaties en schaal worden verdeeld naar geselecteerde prestatiekernindicatoren (KPI&#39;s).
 
-* **[!UICONTROL Placement level pacing]:**  Deze pakketstrategie werkt door alle meegeleverde plaatsingen te plaatsen en te begrenzen *individueel*. De beste praktijk is om deze strategie alleen te gebruiken om gegarandeerde transacties op de particuliere markt uit te voeren.
+* **[!UICONTROL Placement level pacing]:**  Deze pakketstrategie werkt door alle meegeleverde plaatsingen te plaatsen en te begrenzen *individueel*. De beste praktijk is om deze strategie alleen te gebruiken om gegarandeerde transacties op de particuliere markt uit te voeren.
 
 **[!UICONTROL Flight Dates]:** De begindatum en einddatum van het pakket.
 
@@ -46,7 +47,6 @@ Selecteer *[!UICONTROL *Activate Custom Flighting]** en zet aangepaste vluchten 
 >* De vluchtdata moeten worden opgenomen in de vluchtdata voor de campagne. Bovendien moeten de vluchtdata voor alle plaatsen die aan dit pakket zijn toegewezen, binnen deze data worden opgenomen.
 > * U kunt de begindatum van het pakket niet bewerken wanneer aangepaste flighting wordt geactiveerd.
 
-
 **[!UICONTROL Budget]:** (Pakketten met alleen pakketniveau) Het bruto-begrotingsmaximum en het begrotingsinterval.
 
 Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL All time]*. Geef voor pakketten zonder aangepaste markering de budgetinterval op: *[!UICONTROL All time],* *[!UICONTROL Daily],* *[!UICONTROL Monthly],* of *[!UICONTROL Weekly]*.
@@ -55,7 +55,11 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 **[!UICONTROL Optimization Goal]:** (Pakketten met alleen pakketniveau) Het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel op [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).
 
-**[!UICONTROL Custom Goals]:** (Pakketten met alleen aangepaste optimalisatiedoelen) De [aangepast doel](/help/dsp/optimization/custom-goal-about.md) voor het pakket. Voor meer informatie over de beste praktijken voor douanedoelstellingen en campagnes die hen gebruiken, zie  [Beste praktijken voor het Bouwen van een Doel van de Douane](/help/dsp/optimization/custom-goal-best-practices.md) en [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).
+**[!UICONTROL Custom Goal for Model Learning]:** (Verpakt met &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;uitsluitend optimalisatiedoelstellingen&quot; A [aangepast doel](/help/dsp/optimization/custom-goal-about.md) die de opbrengsten of conversiegebeurtenissen omvat die worden gebruikt om de metrische waarde van de CPA of ROAS te berekenen. Het aangepaste doel kan desgewenst extra gewogen gebeurtenissen met de bovenste funnel (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-metrische gegevens voor pakketoptimalisatie worden gebruikt. Voor meer informatie over de beste praktijken voor douanedoelstellingen en campagnes die hen gebruiken, zie  [Beste praktijken voor het Bouwen van een Doel van de Douane](/help/dsp/optimization/custom-goal-best-practices.md) en [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).
+
+**[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]De &quot;optimalisatiedoelstellingen slechts) vertelt het optimalisatiemodel om slechts van op klik-gebaseerde omzettingen te leren. Anders leert het optimalisatiemodel van zowel klik- als op indruk gebaseerde omzettingen.
+
+**[!UICONTROL Conversion Metric]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;alleen optimalisatiedoelstellingen) De laatste conversiegebeurtenis (zoals abonnementen) of het bedrag aan inkomstengebeurtenis/verkoop (zoals aankoop- en aankoopwaarden) die moet worden gebruikt voor het berekenen van het rendement op advertentie-uitgaven of de kosten per aankoop. Maak een keuze in de lijst met alle gebeurtenissen die zijn toegewezen aan het geselecteerde aangepaste doel.
 
 **[!UICONTROL Package Goal Type]:** (Pakketten met alleen aangepaste optimalisatiedoelen) Het doel van het pakket. Met deze instelling kunt u bepalen hoe het pakket moet worden geoptimaliseerd:
 
@@ -81,7 +85,6 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 >* De beste praktijken zijn het vaststellen van frequentiecappen voor zowel prospectie als herbestemming op pakketniveau.
 > * Hogere frequentiecaps resulteren in hogere uitgaven en indrukken, maar in een lager bereik. Lagere frequentiecaps resulteren in minder uitgaven en indrukken, maar in een hoger bereik.
 
-
 **[!UICONTROL Pace on]:** (Pakketten met alleen pakketniveau) Waarop de verpakking is gebaseerd:
 
 * *[!UICONTROL Budget]:* (Standaard) Met deze optie krijgt u zoveel mogelijk indruk binnen het toegewezen pakketbudget.
@@ -102,11 +105,11 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 * *[!UICONTROL Even]:* (De standaardinstelling) Schaalt de levering op basis van de beschikbaarheid van de voorraad. Over het algemeen worden meer advertenties overdag per uur geleverd, wanneer het veilingsvolume hoger is en er minder advertenties &#39;s ochtends en &#39;s avonds worden geleverd.
 
-* *[!UICONTROL ASAP]:* Versnelt levering aan tweemaal de snelheid van *Even*.
+* *[!UICONTROL ASAP]:* Versnelt levering aan tweemaal de snelheid van *Gelijk*.
 
-   >[!CAUTION]
-   >
-   >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
+  >[!CAUTION]
+  >
+  >Deze optie kan de prestaties negatief beïnvloeden. Gebruik dit alleen als u volledige prioriteit geeft aan levering en meer geld besteedt aan optimalisatie van prestaties.
 
 ## [!UICONTROL Flighting]
 
@@ -122,4 +125,3 @@ Voer voor elke vlucht de startdatum, de einddatum en het doelaantal indrukkingen
 >* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
-

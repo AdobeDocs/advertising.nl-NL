@@ -3,9 +3,9 @@ title: Beste praktijken voor het Bouwen van een Doel van de Douane
 description: Leer de beste praktijken voor het bouwen van douanedoelstellingen om uw succesgebeurtenissen te bepalen.
 feature: DSP Optimization, DSP Best Practices
 exl-id: 8b1247cd-083d-4c8c-8588-9e8c03c4cc67
-source-git-commit: 2c2f65f45fb7515068cee36493f514ce2e456e75
+source-git-commit: 6aa81fe4fd5ea6cb188b7f18b1574c26ddfcbb92
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '604'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 De volgende voorbeelden tonen hoe u doelstellingen zou kunnen vormen die één enkele metrische omzetting richten.
 
-### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;Optimalisatiedoelstelling
+### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)]&quot;Optimalisatiedoelstelling
 
-Als het doel van uw campagne inkomsten is ([!UICONTROL Highest ROAS - Custom Goal]), bevat uw aangepaste doel (doel) de &quot;[!UICONTROL Revenue]&quot; metriek met een gewicht van 1 (1).
+Als het doel van uw campagne inkomsten is ([!UICONTROL Highest Return on Ad Spend (ROAS)]), bevat uw aangepaste doel (doel) de &quot;[!UICONTROL Revenue]&quot; metriek met een gewicht van 1 (1).
 
 ![voorbeeld van een ROAS douanedoel met één enkele metrische omzetting](/help/dsp/assets/custom-goal-roas.png)
 
@@ -28,7 +28,7 @@ Als het doel van uw campagne inkomsten is ([!UICONTROL Highest ROAS - Custom Goa
 >
 > Een conversie van € 250 met een gewicht van één wordt bijvoorbeeld gerapporteerd als $250. Als de omzettingsmetrische waarde een gewicht van 0.5 wordt toegewezen, dan wordt $250 omzetting gemeld als $125 in Adobe Advertising ($250 Omzetting * 0.5) [!UICONTROL Property Weight] = $ 125).
 
-### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Lowest CPA - Custom Goal]&quot;Optimalisatiedoelstelling
+### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot;Optimalisatiedoelstelling
 
 Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts één succesgebeurtenis vereist, dan zult u dat één metrisch (in het volgende voorbeeld, &quot;Toepassing voorleggen&quot;) omvatten. De beste manier is om het gewicht in te stellen als één (1).
 
@@ -52,7 +52,7 @@ Er zijn twee scenario&#39;s waarin u veelvoudige eigenschappen in een douanedoel
 
   Wanneer u ondersteunende eigenschappen toevoegt aan een aangepast doel, kunt u deze afwegen op hun relatieve belang voor de belangrijkste succesgebeurtenis en de hoeveelheid gegevenspunten in gedachten houden. Hierdoor kan het Adobe Sensei-algoritme meerdere eigenschappen in balans brengen en optimaliseren naar uw doel.
 
-  De volgende voorbeelddoelstelling omvat drie eigenschappen, elk met een verschillend gewicht: de Toepassing legt = 1, het Begin van de Toepassing = 0.1, en Advertiser het Landing Pagina = 0.01 voor. Dit betekent dat elke omzetting van de Toepassing voorlegt de zelfde waarde aan uw zaken zoals gemiddeld 10 omzettingen van het Begin van de Toepassing en 100 Advertiser het Landing Page omzettingen heeft.
+  De volgende voorbeelddoelstelling omvat drie eigenschappen, elk met een verschillend gewicht: de Toepassing legt = 1, het Begin van de Toepassing = 0.1, en Advertiser het Landing Pagina = 0.01 voor. Dit betekent dat elke omzetting van de Toepassing voorlegt de zelfde waarde aan uw zaken zoals gemiddeld 10 omzettingen van het Begin van de Toepassing en 100 Advertiser het Landing van de Pagina omzettingen heeft.
 
   ![voorbeeld van een aangepast doel met meerdere eigenschappen](/help/dsp/assets/custom-goal-multiple-properties2.png)
 

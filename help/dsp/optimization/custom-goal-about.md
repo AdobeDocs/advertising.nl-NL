@@ -3,16 +3,16 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: 806450b9-ce32-4f5c-a2ac-ba8e435ce36d
-source-git-commit: eda0459472c1e4a8297daf69454de0fcb3d4f8ca
+source-git-commit: 6aa81fe4fd5ea6cb188b7f18b1574c26ddfcbb92
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---
 
 # Aangepaste doelen
 
-De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat een optimalisatiedoel gebruikt dat eindigt met &quot;[!UICONTROL - Custom Goal]&quot; (zoals &quot;[!UICONTROL Highest ROAS - Custom Goal]&quot;) moet een aangepast doel bevatten dat het algemene optimalisatiedoel helpt te bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce].
+De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat het optimalisatiedoel gebruikt &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot; moet een aangepast doel bevatten dat zal helpen het algemene optimalisatiedoel te bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce].
 
 ![aangepaste doelen](/help/dsp/assets/objective-goals.png)
 
