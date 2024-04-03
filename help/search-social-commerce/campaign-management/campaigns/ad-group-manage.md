@@ -3,16 +3,16 @@ title: Adroepen beheren
 description: Leer hoe u advertentiegroepen maakt en beheert.
 exl-id: 66900a1f-f915-497d-9053-9d393845af08
 feature: Search Campaign Management
-source-git-commit: 06febcd91ff8576c8bf93c8e74475b297e0415bf
+source-git-commit: 3f9380076389d00c87efbcdbbb2112352cbe173c
 workflow-type: tm+mt
-source-wordcount: '686'
+source-wordcount: '677'
 ht-degree: 0%
 
 ---
 
 # Adroepen beheren
 
-*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads], [!DNL Yandex]en bestaande [!DNL Baidu] alleen accounts*
 
 Een advertentiegroep bevat een set advertenties en de bijbehorende trefwoorden. Een advertentiegroep in een campagne die het vertoningsnetwerk richt kan plaatsingen ook omvatten, die plaatsen op het vertoningsnetwerk zijn waarin uw advertenties kunnen verschijnen. De groepsinstellingen van de advertenties, die van toepassing zijn op alle componenten van de advertentiegroep, variëren per ad-netwerk.
 
@@ -30,7 +30,7 @@ U kunt advertentiegroepen maken vanuit Zoeken, Sociale Zaken en Handel voor een 
 
 1. Selecteer het advertentienetwerk, de rekening, en de campagne, en klik dan **[!UICONTROL Continue]**.
 
-1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) instellingen van advertentiegroep.
+1. Voer de [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft® Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) instellingen van advertentiegroep.
 
    Afhankelijk van het advertentienetwerk kunnen de instellingen worden gegroepeerd in [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], en [!UICONTROL URL Options]. Instellingen configureren voor [!UICONTROL Adgroup Frequency Cap Settings], [!UICONTROL Negative Keywords], [!UICONTROL Negative Websites], klikt u op **[!UICONTROL Add Frequency Cap Settings]**, **[!UICONTROL Add Negative Keywords]**, of **[!UICONTROL Add Negative Websites]**, respectievelijk.
 
@@ -60,7 +60,7 @@ U kunt instellingen voor afzonderlijke advertentiegroepen bewerken. U kunt ook b
 
       * Klik op de werkbalk boven de tabel met gegevens op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
 
-1. Bewerk de [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) instellingen van advertentiegroep.
+1. Bewerk de [Baidu](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md), [Microsoft® Advertising](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md), of [Yandex](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md) instellingen van advertentiegroep.
 
    Voor meerdere advertentiegroepen kunnen de instellingen in [!UICONTROL Ad Group Details], [!UICONTROL Budget Options], [!UICONTROL Ad Group Targeting], en [!UICONTROL URL Options], afhankelijk van het advertentienetwerk. U kunt alleen de velden bewerken die worden gebruikt voor alle geselecteerde advertentiegroepen. De wijzigingen worden toegepast op alle geselecteerde advertentiegroepen. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
@@ -95,8 +95,8 @@ U kunt ook elke actieve of gepauzeerde zoekopdracht en groep verwijderen. Verwij
 
 >[!MORELIKETHIS]
 >
->* [Baidu-instellingen en groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
->* [Google Ads en groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
->* [Microsoft-instellingen voor advertentie en groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
->* [Yahoo! Japanse advertenties en groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
->* [Yandex- en groepsinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
+>* [[!DNL Baidu] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
+>* [[!DNL Google Ads] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
+>* [[!DNL Microsoft® Advertising] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
+>* [[!DNL Yahoo! Japan Ads] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
+>* [[!DNL Yandex] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
