@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: fed8daa79688d65d1b64ae8145cc1d1d0d84f11a
+source-git-commit: c06cbb80d9215ef7ce93d801520369ae8e316189
 workflow-type: tm+mt
-source-wordcount: '608'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -39,9 +39,9 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
   Begrijp hoe publiek en tactiek elkaar op een persoonniveau overlappen, met inbegrip van blootstelling over veelvoudige digitale milieu&#39;s, zoals Desktop, mobiel, inheems, en audio.
 
-* **Op personen gebaseerde zoekopdracht voor verschillende id&#39;s**
+   * **Op personen gebaseerde zoekopdracht voor verschillende id&#39;s**
 
-  Kwaneer het unieke bereik en de overlapping tussen koekjes en RampIDs, evenals de kosten per metriek door type van identiteitskaart. De effectiviteit van het testen van RampID&#39;s aantonen bij het zoeken naar incrementeel bereik in verhouding tot op cookies gebaseerde segmenten in meerdere digitale omgevingen, zoals desktopcomputers, mobiele apparaten, native apparaten en audio.
+     Kwaneer het unieke bereik en de overlapping tussen koekjes en RampIDs, evenals de kosten per metriek door type van identiteitskaart. De effectiviteit van het testen van RampID&#39;s aantonen bij het zoeken naar incrementeel bereik in verhouding tot op cookies gebaseerde segmenten in meerdere digitale omgevingen, zoals desktopcomputers, mobiele apparaten, native apparaten en audio.
 
 * **[!DNL Dynata]Op deelvensters gebaseerde enquêtes**
 
@@ -76,10 +76,6 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
    * Meting van Bereik, frequentie en omrekening in huishoudens
 
      Elke client die op zoek is naar inzicht in bereik/incrementele bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken
-
-   * Op personen gebaseerde zoekopdracht voor verschillende id&#39;s
-
-     Elke client die het unieke bereik en de overlapping tussen cookies en RampID&#39;s wil kwantificeren en de kosten per metrische waarde per id-type voor meerdere digitale tactieken
 
    * Meting van Bereik, Frequentie en Omzetting op verschillende schermen
 
