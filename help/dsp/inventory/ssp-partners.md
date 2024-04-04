@@ -3,7 +3,7 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: c9ec713dbd95e9be717d957ebeac57eeeae02634
+source-git-commit: 222dd3c9c4ebf807a224162628184ccfc861ac41
 workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL DailyMotion] |  | [!DNL TubeMogul] of Adobe Advertising | Nee | VS + EMEA | USD, EUR | x | x | x | x | x |  |  |
 | [!DNL EMX Digital] | [!DNL Cadent] | Adobe Advertising | Nee | VS/CA | USD | x | x | x | x | x |  |  |
 | [!DNL FreeWheel] (voorheen) [!DNL StickyAds]) | [!DNL Comcast] | [!DNL TubeMogul] of Adobe Advertising | Ja | Algemeen | USD, EUR, AUD, GBP | x | x | x |  |  |  |  |
-| [!DNL Google Authorized Buyers] (voorheen) [!DNL Google AdX]) | [!DNL Google] | Adobe NA - 44912714<br>Adobe APAC en EMEA - 89185975 | Ja | Algemeen | USD, BRL | x | x | x | x | x |  | x |
+| [!DNL Google Authorized Buyers] (voorheen) [!DNL Google AdX]) | [!DNL Google] | Adobe NA - 44912714<br>Adobe APAC en EU - 89185975 | Ja | Algemeen | USD, BRL | x | x | x | x | x |  | x |
 | [!DNL GumGum] |  | Adobe Advertising | Nee | VS/CA | USD | x | x |  | x | x |  |  |
 | [!DNL Index] | [!DNL Index] | [!DNL Adobe Display]<br>[!DNL Adobe Video] | Nee | Algemeen | USD | x | x | x | x | x | | |
 | [!DNL Magnite (Streaming) CTV] | [!DNL Magnite] (voorheen) [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising | Ja | Algemeen | AUD, USD | x | x | x |  |  |  |  |
