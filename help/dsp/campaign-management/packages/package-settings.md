@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 0606614cc4fca842b800c089afa0303b67ecba5f
+source-git-commit: cb57ada624bdc810a0d6921e89deba832a2b16d9
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '959'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]De &quot;optimalisatiedoelstellingen slechts) vertelt het optimalisatiemodel om slechts van op klik-gebaseerde omzettingen te leren. Anders leert het optimalisatiemodel van zowel klik- als op indruk gebaseerde omzettingen.
 
-**[!UICONTROL Conversion Metric]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;alleen optimalisatiedoelstellingen) De laatste conversiegebeurtenis (zoals abonnementen) of het bedrag aan inkomstengebeurtenis/verkoop (zoals aankoop- en aankoopwaarden) die moet worden gebruikt voor het berekenen van het rendement op advertentie-uitgaven of de kosten per aankoop. Maak een keuze in de lijst met alle gebeurtenissen die zijn toegewezen aan het geselecteerde aangepaste doel.
+**[!UICONTROL Conversion Metric]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;alleen optimalisatiedoelstellingen) De laatste conversiegebeurtenis (zoals abonnementen) of het bedrag aan inkomstengebeurtenis/verkoop (zoals aankoop- en aankoopwaarden) die moet worden gebruikt voor het berekenen van het rendement op advertentie-uitgaven of de kosten per aankoop. Selecteer een optie in de lijst met alle primaire gebeurtenissen (&quot;doelmetriek&quot;) die aan het geselecteerde aangepaste doel zijn toegewezen. Als de lijst leeg is, dan geef het douanedoel uit om minstens één van de onderliggende gebeurtenissen als doel metrisch te omvatten.
 
 **[!UICONTROL Package Goal Type]:** (Pakketten met alleen aangepaste optimalisatiedoelen) Het doel van het pakket. Met deze instelling kunt u bepalen hoe het pakket moet worden geoptimaliseerd:
 
