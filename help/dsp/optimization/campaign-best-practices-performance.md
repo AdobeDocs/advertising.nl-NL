@@ -3,7 +3,7 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: b3a03aa34bbdcf668a71d6810362d735c21961d7
+source-git-commit: c2c2ddb18b100dc0592d07af3ed1d9f030178eca
 workflow-type: tm+mt
 source-wordcount: '1273'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken v
 
 ![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
 
-U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel zullen leiden en dienovereenkomstig douanedoelstellingen creëren. Voor elk pakket, zult u een douanedoel specificeren dat met het algemene optimalisatiedoel voor rapportering en algoritmische optimalisering moet worden gebruikt [!DNL Adobe Sensei]. Voor meer informatie over het creëren van douanedoelstellingen, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](custom-goal-best-practices.md).
+U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel zullen leiden en dienovereenkomstig douanedoelstellingen creëren. Voor elk pakket, zult u een douanedoel specificeren dat met het algemene optimalisatiedoel voor rapportering en algoritmische optimalisering moet worden gebruikt [!DNL Adobe Sensei]. Voor meer informatie over het creëren van douanedoelstellingen, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](custom-goal.md#custom-goal-best-practices).
 
 ![aangepaste doelen](/help/dsp/assets/objective-goals.png)
 

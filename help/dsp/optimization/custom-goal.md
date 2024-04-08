@@ -2,7 +2,7 @@
 title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
-source-git-commit: f05d0f909cda6248260eaafd2fd24a8eca7f47e5
+source-git-commit: c5973ac62ea6925252438dbd67d934303a23ccf3
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 0%
@@ -57,11 +57,11 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
       >* [!DNL Analytics] aangepaste gebeurtenissen volgen deze naamgevingsconventie: `custom_event_[*event #*]_[*Analytics report suite ID*]`. Voorbeeld: `custom_event_16_examplersid`
       >* [!DNL Analytics] de afmetingen en de segmenten zijn niet beschikbaar voor Adobe Advertising optimalisering.
 
-In de DSP pakketinstellingen voor pakketten die het optimalisatiedoel gebruiken &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)],&quot; wordt de objectieve naam nu opgenomen in de [!UICONTROL Custom Goals] lijst. Wanneer u het doel selecteert als het aangepaste doel voor een pakket, wordt het [!UICONTROL Conversion Metric] de lijst bevat alle streefcijfers voor het doel .
+      >[!TIP]
+      >
+      >Voor optimale prestaties, moeten de gecombineerde metriek in het douanedoel (doelstelling) minstens tien omzettingen per dag in totaal omvatten. Als dat niet het geval is, kunt u het beste aanvullende ondersteunende conversiemetriek, zoals productpagina&#39;s of het starten van de toepassing, aan het doel toevoegen. Zie [Beste praktijken voor het Bouwen van een Doel van de Douane](#custom-goal-best-practices) voor richtsnoeren.
 
->[!TIP]
->
->Voor optimale prestaties, moeten de gecombineerde metriek in het douanedoel (doelstelling) minstens tien omzettingen per dag in totaal omvatten. Als dat niet het geval is, kunt u het beste aanvullende ondersteunende conversiemetriek, zoals productpagina&#39;s of het starten van de toepassing, aan het doel toevoegen. Zie [Beste praktijken voor het Bouwen van een Doel van de Douane](custom-goal-best-practices.md) voor richtsnoeren.
+In de DSP pakketinstellingen voor pakketten die het optimalisatiedoel gebruiken &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)],&quot; wordt de objectieve naam nu opgenomen in de [!UICONTROL Custom Goals] lijst. Wanneer u het doel selecteert als het aangepaste doel voor een pakket, wordt het [!UICONTROL Conversion Metric] de lijst bevat alle streefcijfers voor het doel .
 
 ## Beste praktijken voor het Bouwen van een Doel van de Douane [#custom-target-best-practices]
 

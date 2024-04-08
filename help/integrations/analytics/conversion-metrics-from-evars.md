@@ -3,7 +3,7 @@ title: Conversie-metriek maken vanuit Adobe Analytics [!DNL eVars] en props
 description: Metrische gegevens van aangepaste succesgebeurtenissen configureren met [!DNL eVar]- en [!DNL prop]-level gegevens.
 feature: Integration with Adobe Analytics, Conversions
 exl-id: 7717d10c-76ca-4ba9-9fbb-e34ad006619c
-source-git-commit: 686ca84a34117bcb4f4d5f295ed27bb308e6f287
+source-git-commit: a0d5bc1791f5d05e2cbdeab58e1943f4d494b53f
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -58,7 +58,7 @@ De meeste van de volgende taken moeten worden uitgevoerd door een [!DNL Analytic
 
 1. Neem contact op met het accountteam van de Adobe om de nieuwe metrische gegevens te synchroniseren naar de Adobe Advertising.
 
-Nadat metrisch beschikbaar is, kunt u het gebruiken om een doel tot stand te brengen, dat u dan aan een portefeuille van het Onderzoek, Sociale, &amp; Handel of gebruik als [aangepast doel](/help/dsp/optimization/custom-goal-about.md) voor een DSP pakket.
+Nadat metrisch beschikbaar is, kunt u het gebruiken om een doel tot stand te brengen, dat u dan aan een portefeuille van het Onderzoek, Sociale, &amp; Handel of gebruik als [aangepast doel](/help/dsp/optimization/custom-goal.md) voor een DSP pakket.
 
 Voor meer informatie over het creëren van doelstellingen, zie het hoofdstuk van de Gids van de Optimalisering over &quot;Doelstellingen,&quot;dat van binnen Onderzoek, Sociale, &amp; Handel beschikbaar is.
 

@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 1e5dee912a4c3cdbab5c389725b9d48a354d0b7d
+source-git-commit: 1b58c38858532dc41a467fd86a6a28e3383386be
 workflow-type: tm+mt
-source-wordcount: '931'
+source-wordcount: '918'
 ht-degree: 3%
 
 ---
@@ -113,10 +113,7 @@ ht-degree: 3%
    + [Hoe [!DNL DSP] Optimaliseert uw campagnes](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
    + [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md)
    + [Voorbiedingsfilters op plaatsingsniveau en hoe deze te gebruiken](/help/dsp/optimization/optimization-pre-bid-filters.md)
-   + Aangepaste doelen {#custom-goals}
-      + [Aangepaste doelen](/help/dsp/optimization/custom-goal-about.md)
-      + [Een aangepast doel maken](/help/dsp/optimization/custom-goal-create.md)
-      + [Aangepaste procedures voor het samenstellen van aangepaste doelen](/help/dsp/optimization/custom-goal-best-practices.md)
+   + [Aangepaste doelen](/help/dsp/optimization/custom-goal.md)
    + [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md)
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
