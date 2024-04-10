@@ -2,7 +2,7 @@
 title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
-source-git-commit: 6dba85185789c365bd72787eb0fa16ef90bf6b9e
+source-git-commit: 7b9926d0bbba12728ed6a42e56115e8df708587b
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 0%
