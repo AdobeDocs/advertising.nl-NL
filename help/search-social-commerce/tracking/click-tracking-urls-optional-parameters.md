@@ -3,9 +3,9 @@ title: Optionele trackingparameters voor URL's die klikken en volgen
 description: Leer over facultatieve het volgen parameters van het Onderzoek, Sociale, & van de Handel en en netwerk-specifieke het volgen parameters die u aan uw klik-volgende URLs kunt toevoegen.
 exl-id: df53bb8c-63ad-47f9-af44-57bd4bd58d71
 feature: Search Tracking
-source-git-commit: 3460011a707608c172920801196837f7a278e2c0
+source-git-commit: cc312009303f86a2f9eddcc98f33d7e2c22fcb85
 workflow-type: tm+mt
-source-wordcount: '1100'
+source-wordcount: '1110'
 ht-degree: 0%
 
 ---
@@ -66,12 +66,16 @@ Zie [https://support.google.com/google-ads/answer/2375447](https://support.googl
 
 Zie [https://help.bingads.microsoft.com/#apex/3/en/51091/2](https://help.bingads.microsoft.com/#apex/3/en/51091/2).
 
+&lt;&lt;&lt;&lt;&lt;&lt; Bijgewerkte upstream
 ## [!DNL Yahoo Native] dynamische tracking-parameters
 
 Zie [https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters](https://developer.yahoo.com/nativeandsearch/guide/resources/dynamic-parameters).
 
 ## [!DNL Yahoo! Japan Ads] dynamische tracking-parameters
-
+=======
+## Yahoo! Japan voegt dynamische volgende parameters toe
+>>>>>>>>>>Stashed-wijzigingen
+> 
 Zie [https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US](https://ads-help.yahoo-net.jp/s/article/H000044463?language=en_US).
 
 ## [!DNL Yandex] dynamische tracking-parameters
@@ -80,4 +84,4 @@ Zie [https://yandex.com/support/direct/statistics/url-tags.html](https://yandex.
 
 >[!MORELIKETHIS]
 >
->* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](/help/search-social-commerce/tracking/formats-click-tracking-about.md)
+* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](/help/search-social-commerce/tracking/formats-click-tracking-about.md)
