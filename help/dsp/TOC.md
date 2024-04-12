@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 1b58c38858532dc41a467fd86a6a28e3383386be
+source-git-commit: 79de03696624146d7c82e8658229d19059dc1713
 workflow-type: tm+mt
 source-wordcount: '918'
 ht-degree: 3%
@@ -118,16 +118,6 @@ ht-degree: 3%
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
    + [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
-   + Segmenten {#segments}
-      + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
-      + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
-         + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
-         + [Een [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-         + [Ophalen [!UICONTROL Consumer Opt-Out-of-Sale] Rapporten](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
-      + [Segmentinformatie bewerken](/help/dsp/audiences/segment-edit.md)
-      + [Een segment delen of delen stoppen](/help/dsp/audiences/segment-share.md)
-      + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
-      + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Soorten publiek {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
@@ -139,6 +129,16 @@ ht-degree: 3%
       + [Een herbruikbaar publiek verwijderen](/help/dsp/audiences/reusable-audience-delete.md)
       + [Instellingen voor publiek](/help/dsp/audiences/audience-settings.md)
       + [Syntaxis voor Audience Segment Logic](/help/dsp/audiences/audience-segment-logic-syntax.md)
+   + Segmenten {#segments}
+      + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
+      + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
+         + [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
+         + [Een [!UICONTROL CCPA Opt-out-of-Sale] Segment](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+         + [Ophalen [!UICONTROL Consumer Opt-Out-of-Sale] Rapporten](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+      + [Segmentinformatie bewerken](/help/dsp/audiences/segment-edit.md)
+      + [Een segment delen of delen stoppen](/help/dsp/audiences/segment-share.md)
+      + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
+      + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Bronnen {#sources}
       + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
       + Workflows door het gegevensplatform van de klant {#sources-workflows}
