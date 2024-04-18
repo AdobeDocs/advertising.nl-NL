@@ -2,9 +2,9 @@
 title: Bodmultiplicatoren voor plaatsen beheren
 description: Meer informatie over het maken en bewerken van biedingsvermenigvuldigers voor opgegeven plaatsingsdoelen.
 feature: DSP Placements
-source-git-commit: 6994a15af080057889607c0e28dd519a1ddb28de
+source-git-commit: b3932c066e0ecd29e57152f0654ee4b0d9e0dda1
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: '409'
 ht-degree: 2%
 
 ---
@@ -49,7 +49,7 @@ U kunt biedingsbepalingen alleen configureren voor opgenomen doelen, niet voor u
 
 * **Doelstellingen voor het publiek:** segmenten, onderdelen en onderwerpen
 
-* **ads.txt-doelen:** (Als u de optie Advertentie.txt uitschakelt), worden alleen advertenties.txt-verkopers, rechtstreekse verkopers en verkopers van advertenties.txt plus sites zonder advertenties.txt.
+* **ads.txt-doelen:** (Als je advertenties.txt afsluit, waardoor je voorraad bij alle verkopers kunt kopen), alleen advertenties.txt-verkopers, directe verkopers van advertenties.txt en verkopers van advertenties.txt plus sites zonder advertenties.txt <!-- bid multipliers for the different subsets of inventory; not available when the placement targets only one subset -->
 
 ## Maximum aantal biedvermenigvuldigers per doeltype {#bid-multiplier-limits-by-target}
 
