@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 79de03696624146d7c82e8658229d19059dc1713
+source-git-commit: c5f26fba0dcf26e0017d881b5ccd9101f98ff43f
 workflow-type: tm+mt
-source-wordcount: '918'
+source-wordcount: '923'
 ht-degree: 3%
 
 ---
@@ -63,6 +63,7 @@ ht-degree: 3%
       + [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
       + [Instellingen voor sleutelplaatsing snel bewerken](/help/dsp/campaign-management/placements/placement-quick-edit.md)
       + [Een plaatsing dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
+      + [Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
       + [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
       + [Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)

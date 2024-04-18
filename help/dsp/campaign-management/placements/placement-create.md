@@ -3,9 +3,9 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 28a328b1-0839-442e-a245-f586a7042f41
-source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
+source-git-commit: 3071e4ef8d0c4262483937cf70ed5747bae568c9
 workflow-type: tm+mt
-source-wordcount: '673'
+source-wordcount: '678'
 ht-degree: 0%
 
 ---
@@ -136,6 +136,7 @@ ht-degree: 0%
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing bewerken](placement-edit.md)
+>* [Bodmultiplicatoren voor plaatsen beheren](placement-manage-bid-multipliers.md)
 >* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)

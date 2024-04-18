@@ -3,20 +3,20 @@ title: Informatie over Plaatsingsbeheer in DSP
 description: Meer informatie over plaatsingsbeheer.
 feature: DSP Placements
 exl-id: 903ba200-6bb3-4c31-b7a9-03ada3de5451
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 6233ba0b0cb779ed848cb921427543cea8586700
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Informatie over Plaatsingsbeheer in DSP
 
-Een plaatsing omvat het richten van parameters voor één of meerdere advertenties van het zelfde advertentietype. U kunt een plaatsing maken voor één campagne of pakket en er vervolgens advertenties aan toewijzen. Elke campagne of plaatsing kan veelvoudige plaatsen, met een gespecificeerde en omwenteling omvatten. Standaard worden advertenties gelijkmatig geroteerd.
+Een plaatsing omvat het richten van parameters voor één of meerdere advertenties van het zelfde advertentietype. U kunt een plaatsing maken voor één campagne of pakket en er vervolgens advertenties aan toewijzen. Elke campagne of plaatsing kan veelvoudige plaatsen, met een gespecificeerde en omwenteling omvatten. Standaard worden advertenties gelijkmatig geroteerd. U kunt biedvermenigvuldigingsfactoren voor verschillende doeltypen voor plaatsing afzonderlijk configureren.
 
 Nadat u een actieve plaatsing hebt toegewezen aan een actief pakket of een actieve campagne, kunnen alle actieve, goedgekeurde advertenties in de plaatsing worden uitgevoerd op basis van de parameters voor plaatsing die als doel hebben.
 
-U kunt een plaatsing manueel tot stand brengen of door bestaande te dupliceren. U kunt ook plaatsingssjablonen maken die u handmatig of op basis van een bestaande plaatsing wilt hergebruiken. U kunt aanvullende advertenties aan elke plaatsing koppelen. U kunt ook afzonderlijke plaatsingen bewerken, pauzeren of archiveren of het gereedschap voor het bewerken van grote hoeveelheden gebruiken om wijzigingen aan te brengen.
+U kunt een plaatsing handmatig maken of een bestaande plaatsing dupliceren. U kunt ook plaatsingssjablonen maken die u handmatig of op basis van een bestaande plaatsing wilt hergebruiken. U kunt aanvullende advertenties aan elke plaatsing koppelen. U kunt ook afzonderlijke plaatsingen bewerken, pauzeren of archiveren of het gereedschap voor het bewerken van grote hoeveelheden gebruiken om wijzigingen aan te brengen.
 
 ## Beschikbare plaatsingstypen
 
@@ -38,7 +38,7 @@ Het dashboard bevat een aanpasbare trendgrafiek op hoog niveau met drie cijfers.
 
 Het dashboard toont ook het plaatsen en leveringsmetriek door plaatsing, door gebrek. U kunt naar keuze prestatiesmetriek voor de plaatsen bekijken, en douanekolom reeksen tot stand brengen. U kunt de volledige gegevenslijst aan de standaarddownloadomslag van uw browser als rapport in XLSM (macro-toegelaten spreadsheet van Excel) formaat downloaden.
 
-Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), waaronder prestatiewaarden, maatstaven voor aflevering en aflevering, en aangepaste kolomsets per site, advertentie en inventarisatie; en ook frequentiemetriek. U kunt ook snel actie ondernemen op de opgenomen sites, advertenties en voorraad, zoals het uitsluiten van een site, het pauzeren van een advertentie of het bewerken van een deal. Om de Inspecteur te openen, houd de curseur over de plaatsingsrij, klik **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** of **[!UICONTROL Inventory]**. U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency], of [!UICONTROL Inventory]  naar de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
+Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/campaign-reports-about.md)), waaronder prestatiewaarden, maatstaven voor plaatsing en levering, en aangepaste kolomsets per site, advertentie en inventaris, en ook frequentiemetriek. U kunt ook snel actie ondernemen op de opgenomen sites, advertenties en voorraad, zoals het uitsluiten van een site, het pauzeren van een advertentie of het bewerken van een deal. Om de Inspecteur te openen, houd de curseur over de plaatsingsrij, klik **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Sites]**, **[!UICONTROL Ads]**, **[!UICONTROL Frequency]** of **[!UICONTROL Inventory]**. U kunt de gegevens in de [!UICONTROL Sites], [!UICONTROL Ads], [!UICONTROL Frequency], of [!UICONTROL Inventory]  naar de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
 
 >[!NOTE]
 >
@@ -47,7 +47,7 @@ Voor elke plaatsing kunt u een gedetailleerde weergave openen ([de [!UICONTROL I
 >[!MORELIKETHIS]
 >
 >* [Een plaatsing maken](placement-create.md)
+>* [Bodmultiplicatoren voor plaatsen beheren](placement-manage-bid-multipliers.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
-
