@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 7b4818260fad61a773fb7261cbcdfd84bee84d42
+source-git-commit: 66f6f659e46d2a08e0f7b958be8f60ba5e9720b3
 workflow-type: tm+mt
-source-wordcount: '2387'
+source-wordcount: '2378'
 ht-degree: 0%
 
 ---
@@ -70,35 +70,35 @@ ht-degree: 0%
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Enhanced CPC]:* (Niet beschikbaar voor maximale of bestaande prestaties, alleen-lezen [!DNL Gmail] campagnes) Gebruikt het verbeterde kosten-per-klik (eCPC) model van het advertentienetwerk, dat het advertentienetwerk toestaat om de kosten-per-klikbod (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzetting(en) binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Handel), terwijl het proberen om uw gemiddelde CPC onder uw maximum te houden.
+* *[!UICONTROL Enhanced CPC]:* (Niet beschikbaar voor maximale of bestaande prestaties, alleen-lezen [!DNL Gmail] campagnes) Gebruikt het verbeterde kosten-per-klik (eCPC) model van het advertentienetwerk, dat het advertentienetwerk toestaat om de kosten-per-klikbod (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzetting(en) binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Commerce), terwijl het proberen om uw gemiddelde CPC onder uw maximum te houden.
 
-Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Onderzoek, Sociale, &amp; Handel, optimaliseert Onderzoek, Sociale, &amp; Handel de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan het Onderzoek, Sociale, &amp; Commerce-Gegenereerde bod op het tijdstip van de gebruikersvraag veranderen die op merkgebonden gegevens en inzichten wordt gebaseerd. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
+Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Zoeken, Sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
 
 * *[!UICONTROL Manual CPC]* (standaard): (Niet beschikbaar voor maximale prestatiecampagnes) Gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
 
    * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van &quot;[!UICONTROL Enhanced CPC]&quot;.
 
-* *[!UICONTROL Maximize Clicks]:* (Zoeken, weergeven en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
+* *[!UICONTROL Maximize Clicks]:* (Zoeken, weergeven en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om klikmogelijkheden te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Zoeken, maximale prestaties en slimme winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversion Value]:* (Zoeken, maximale prestaties en slimme winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
-* *[!UICONTROL Maximize Conversions]:* (Zoek, vertoning, en prestaties maximumcampagnes) Het advertentienetwerk — niet Onderzoek, Sociale, &amp; Handel — optimaliseert biedingen om omzettingen te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPA]** (kosten per overname). **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversions]:* (Zoek-, weergave- en maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om conversies te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPA]** (kosten per overname). **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
-* *[!UICONTROL Target CPA]:* (Weergavecampagnes; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen op basis van een optionele **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
+* *[!UICONTROL Target CPA]:* (Weergavecampagnes; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van een optionele **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
   Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversions] strategie met behulp van een [!UICONTROL Target CPA] waarde. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversions] strategie met behulp van de opgegeven [!UICONTROL Target CPA] waarde.
 
-* *[!UICONTROL Target Impression Share]:* (Zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — optimaliseert biedingen om een doel te bereiken die de indruk deelt en toevoegt positie. Voer desgewenst een **[!UICONTROL Target Impression Share]** als een percentage **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in portfolio&#39;s.
+* *[!UICONTROL Target Impression Share]:* (Zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, en Commerce — optimaliseert biedingen om een doel te bereiken dat de indruk wordt gedeeld en geplaatst. Voer desgewenst een **[!UICONTROL Target Impression Share]** als een percentage **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in portfolio&#39;s.
 
-* *[!UICONTROL Target Return on Ad Spend]:*  (Weergeven en winkelen; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Handel — optimaliseert biedingen op basis van een opgegeven **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
+* *[!UICONTROL Target Return on Ad Spend]:*  (Weergeven en winkelen; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van een opgegeven **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
   Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversion Value] strategie met behulp van een [!UICONTROL Target Return on Ad Spend value]. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversion Value] strategie met behulp van de opgegeven [!UICONTROL Target Return on Ad Spend] waarde.
 
-* *[!UICONTROL Viewable CPM]:* (Bestaand, alleen-lezen) [!DNL Gmail] alleen campagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Handel — biedt alleen biedingen op advertenties die zijn gemeten als zichtbaar. **Opmerking:** Optimalisatie voor deze strategie wordt in geen enkel type portfolio ondersteund.
+* *[!UICONTROL Viewable CPM]:* (Bestaand, alleen-lezen) [!DNL Gmail] alleen campagnes) Het advertentienetwerk — niet Zoeken, Sociaal, en Commerce — biedt alleen biedingen op advertenties die zijn gemeten als zichtbaar. **Opmerking:** Optimalisatie voor deze strategie wordt in geen enkel type portfolio ondersteund.
 
 ## [!UICONTROL Shopping Settings]
 
@@ -156,7 +156,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 **Opmerking:**
 
-* Zoeken, Sociaal en Handel biedt geen automatische correcties voor biedingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] voorziet in het toewijzen van locaties aan locatiedoelen:
+* Zoeken, sociaal en Commerce biedt geen automatische correcties voor biedingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] voorziet in het toewijzen van locaties aan locatiedoelen:
 
    * Straal
 

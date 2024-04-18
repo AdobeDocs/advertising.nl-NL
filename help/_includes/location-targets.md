@@ -1,13 +1,15 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: 6b4dd1b8912703a5d45ffa872fe0231716cfb9a5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '151'
 ht-degree: 0%
 
 ---
 # Locatiedoelveld in sommige campagnemontages en in de instellingen van de lidstaten en de groep
 
-**[!UICONTROL Location Targets]:** Specifieke geografische locaties van gebruikers die moeten worden opgenomen in of uitgesloten als doelen. Standaard zijn alle locaties aangewezen. U kunt gebruikers in om het even welke combinatie plaatsen omvatten en uitsluiten. Uitsluitingen hebben altijd voorrang op insluitingen.
+<!-- MS performance max campaigns, MSA ad groups, Baidu campaigns, YJP campaigns -->
+
+**[!UICONTROL Location Targets]:** (Indien beschikbaar) Specifieke geografische locaties voor gebruikers die als doel moeten worden opgenomen of uitgesloten. Standaard zijn alle locaties aangewezen. U kunt gebruikers in om het even welke combinatie plaatsen omvatten en uitsluiten. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen locaties om alle locaties als doel in te stellen.
 
