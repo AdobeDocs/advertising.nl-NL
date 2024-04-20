@@ -3,7 +3,7 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 66f6f659e46d2a08e0f7b958be8f60ba5e9720b3
+source-git-commit: 7b31fb7939f44aa99826bea3f183897683189eae
 workflow-type: tm+mt
 source-wordcount: '2378'
 ht-degree: 0%
@@ -342,7 +342,7 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] â
 
 **[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters.
 
-**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] computerleermodellen gebruiken het publiek om gelijkaardige Web surfers aan doel te vinden en kunnen ook advertenties aan publiek tonen die niet als signalen worden gespecificeerd om u te helpen uw prestatiesdoelstellingen ontmoeten. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
 >De signalen van het publiek zijn verschillend van [doelgroepen op campagnereniveau en op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
@@ -364,3 +364,4 @@ Als u een aangepast conversiedoel wilt maken, klikt u op **[!UICONTROL + Add cus
 >[!MORELIKETHIS]
 >
 >* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+

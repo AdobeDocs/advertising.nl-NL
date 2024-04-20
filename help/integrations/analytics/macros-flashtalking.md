@@ -3,7 +3,7 @@ title: Toevoegen [!DNL Analytics for Advertising] Macro's naar [!DNL Flashtalkin
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising] macro's voor uw [!DNL Flashtalking] advertentietags
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
-source-git-commit: ca8260e643f24787f7918249906f3f38f3bbef6d
+source-git-commit: 7b31fb7939f44aa99826bea3f183897683189eae
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -65,3 +65,4 @@ Voorbeelden:
 >* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
 >* [Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
 >* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
+
