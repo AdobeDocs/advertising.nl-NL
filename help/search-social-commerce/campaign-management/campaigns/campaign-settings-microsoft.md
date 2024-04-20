@@ -3,9 +3,9 @@ title: '[!DNL Microsoft® Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 96ff5244c5baedf009c1bac05b609611607bd867
+source-git-commit: cfac578e173e82ffeffcbd5094304c1132b5f177
 workflow-type: tm+mt
-source-wordcount: '1904'
+source-wordcount: '1912'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont standaardvideoadvertenties op het publieksnetwerk.
 
-* *[!UICONTROL Performance Max]:* (De eigenschap van Bèta) toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
+* *[!UICONTROL Performance Max]:* (De eigenschap van Bèta) toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft® Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
 
 ## [!UICONTROL Campaign Details]
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Cost per Sale]:* (Alleen winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van de **[!UICONTROL Target CPS]** (kosten per verkoop). Je betaalt alleen wanneer je op je product klikt en de transactie binnen 24 uur plaatsvindt. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.<!-- Verify all -->
+* *[!UICONTROL Cost per Sale]:* (Alleen winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van de **[!UICONTROL Target CPS]** (kosten per verkoop). Je betaalt alleen wanneer je op je product klikt en de transactie binnen 24 uur plaatsvindt. **Opmerking:** Plaats geen campagnes met deze biedstrategie in portfolio&#39;s. Optimalisatie voor zoeken, sociale media en Commerce is niet beschikbaar voor campagnes met deze biedstrategie.
 
   Als je eenmaal een winkelcampagne voor merken hebt opgeslagen met deze biedstrategie, kun je de biedstrategie niet meer wijzigen. Voor andere soorten winkelcampagnes is deze strategie alleen beschikbaar voor nieuwe campagnes.
 
@@ -68,15 +68,15 @@ ht-degree: 0%
 
   Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Zoeken, Sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling.
 
-* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft Store Ads] campagnes; vervangen door [!DNL Microsoft® Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
+* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft® Store Ads] campagnes; vervangen door [!DNL Microsoft® Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
 
-   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van &quot;[!UICONTROL Enhanced CPC]&quot;.
+   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): deze optie is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;.
 
-* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
+* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft® Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
 
 * *[!UICONTROL Manual CPM]* (De campagnes van het publiek en de campagnes van de publieksvideo slechts) gebruiken het kosten-per-duizend-impressies (CPM) model, waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
 
-* *[!UICONTROL Maximize Clicks]:* (Zoeken en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om de klikmogelijkheden te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
+* *[!UICONTROL Maximize Clicks]:* (Zoeken en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om de klikmogelijkheden te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, kunt u met het gewicht van de klik (en niet met het doel van het portfolio) biedingen uitbrengen.
 
 * *[!UICONTROL Maximize Conversion Value]:* (Zoeken en winkelen/slim winkelen, maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Target Impression Share]:* (Campagnes op het onderzoeksnetwerk) Het advertentienetwerk — niet Onderzoek, Sociaal, &amp; Commerce — optimaliseert biedingen om een doelimitatieaandeel en een advertentiepunten te bereiken. Voer desgewenst een **[!UICONTROL Target Impression Share]** als percentage, de **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in hybride portfolio&#39;s.
 
-* *[!UICONTROL Target Return on Ad Spend]:*  (Campagnes op de zoek- en winkelnetwerken) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van uw **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
+* *[!UICONTROL Target Return on Ad Spend]:* (Campagnes op de zoek- en winkelnetwerken) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van uw **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
@@ -116,7 +116,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 ## [!UICONTROL Campaign Targeting]
 
-**[!UICONTROL Languages]:** (Alleen prestatiecampagnes) De taal van de advertentie, die moet overeenkomen met de taal van de sites waarop de advertentie wordt weergegeven. [!DNL Microsoft Advertising] bepaalt de taal van een gebruiker van diverse signalen, met inbegrip van de vraag van de gebruiker, het land van de uitgever, en de taal die van de gebruiker plaatsen.
+**[!UICONTROL Languages]:** (Alleen prestatiecampagnes) De taal van de advertentie, die moet overeenkomen met de taal van de sites waarop uw advertentie kan worden weergegeven. [!DNL Microsoft® Advertising] bepaalt de taal van een gebruiker van diverse signalen, met inbegrip van de vraag van de gebruiker, het land van de uitgever, en de taal die van de gebruiker plaatsen.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
@@ -206,7 +206,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep.
 
-**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising] richtlijnen voor afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft® Advertising] richtlijnen voor afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * Afbeeldingen uploaden:
 
@@ -228,7 +228,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 * Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** Ten minste één logo. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising] richtlijnen voor elementen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Logos]:** Ten minste één logo. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft® Advertising] richtlijnen voor elementen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * Afbeeldingen uploaden:
 
@@ -284,7 +284,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 **[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters. Het kan geen manuscripten, HTML, of andere prijsverhogingstaal bevatten.
 
-**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft Advertising] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft® Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft® Advertising] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
 >De signalen van het publiek zijn verschillend van [doelgroepen op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
