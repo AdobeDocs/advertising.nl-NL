@@ -3,7 +3,7 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: 9fc4c123fb682bbc2aee0ae72931c63d31f020be
+source-git-commit: fcce2b2ba7ab9717e83b05ddf8f22399f6b2e28e
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
@@ -30,7 +30,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
    1. Voeg de volgende parameter toe aan uw webpagina&#39;s voor of binnen de [JavaScript-code vereist voor [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) — ergens voordat de laatste gebeurtenisservice wordt geïnitialiseerd.
 
-      `window.id5PartnerId=Your_ID5_PartnerID;`
+      ```window.id5PartnerId=Your_ID5_PartnerID;```
 
       Voorbeeld:
 
