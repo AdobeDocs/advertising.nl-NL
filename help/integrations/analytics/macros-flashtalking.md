@@ -3,7 +3,7 @@ title: Toevoegen [!DNL Analytics for Advertising] Macro's naar [!DNL Flashtalkin
 description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising] macro's voor uw [!DNL Flashtalking] advertentietags
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
-source-git-commit: 2a124481f98a5b5f17d613becacb0bdfa6935836
+source-git-commit: c6a7d99875d54d7ff807f94b8fdd7a903c05b6e5
 workflow-type: tm+mt
 source-wordcount: '368'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Binnen de [!DNL Flashtalking] voeg de volgende macro toe aan het einde van de do
 [ftqs:[AdobeAMO]]
 ```
 
-Het is de eerste of enige querytekenreeks na de basis-URL en scheidt deze vervolgens van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
+Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
 
 Voorbeelden:
 
@@ -52,7 +52,7 @@ Binnen de [!DNL Flashtalking] voeg de volgende macro toe aan het einde van de do
 [%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
 ```
 
-Het is de eerste of enige querytekenreeks na de basis-URL en scheidt deze vervolgens van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
+Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
 
 Voorbeelden:
 
