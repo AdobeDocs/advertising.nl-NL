@@ -3,7 +3,7 @@ title: '[!DNL Microsoft® Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: c7821f112757f695a6ab9da1fffb014b822e1ff3
+source-git-commit: 8d1ff29322799ff7905ee808703e00f5190ae8af
 workflow-type: tm+mt
 source-wordcount: '1912'
 ht-degree: 0%
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Cost per Sale]:* (Alleen winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van de **[!UICONTROL Target CPS]** (kosten per verkoop). Je betaalt alleen wanneer je op je product klikt en de transactie binnen 24 uur plaatsvindt. **Opmerking:** Plaats geen campagnes met deze biedstrategie in portfolio&#39;s. Optimalisatie voor zoeken, sociale media en Commerce is niet beschikbaar voor campagnes met deze biedstrategie.
+* *[!UICONTROL Cost per Sale]:* (Alleen winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van de [!UICONTROL Target CPS] (kosten per verkoop). Je betaalt alleen wanneer je op je product klikt en de transactie binnen 24 uur plaatsvindt. **Opmerking:** Plaats geen campagnes met deze biedstrategie in portfolio&#39;s. Optimalisatie voor zoeken, sociale media en Commerce is niet beschikbaar voor campagnes met deze biedstrategie.
 
   Als je eenmaal een winkelcampagne voor merken hebt opgeslagen met deze biedstrategie, kun je de biedstrategie niet meer wijzigen. Voor andere soorten winkelcampagnes is deze strategie alleen beschikbaar voor nieuwe campagnes.
 
