@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 198dc41ba0ae1cd55e18c34e04cd2ea2297aa127
+source-git-commit: c53d79bd185630fb535c44bc05a4e0b7582f14ca
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 2%
@@ -103,7 +103,7 @@ ht-degree: 2%
    + [Veelgestelde vragen over bijhouden](/help/search-social-commerce/tracking/faqs-tracking.md)
 + Campagnebeheer {#campaign-management}
    + Inleiding {#campaign-management-intro}
-      + [Informatie over campagnebeheer in Zoeken, Sociale Zaken en Handel](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
+      + [Informatie over campagnebeheer in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
       + [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
       + [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
       + [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
@@ -374,9 +374,9 @@ ht-degree: 2%
    + Recommendations- en uitgeversinzichten {#recommendations}
       + [Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers](/help/search-social-commerce/recommendations/recommendation-support.md)
       + [Bekijk uw uitgeversaanbevelingen en prestatieinzicht](/help/search-social-commerce/recommendations/recommendation-view.md)
-      + [Een [!DNL Google Ads] aanbeveling](/help/search-social-commerce/recommendations/google-recommendation-apply-dismiss.md)
-      + [Bekijk het aanbevelingen logboek voor een [!DNL Google Ads] account](/help/search-social-commerce/recommendations/google-recommendation-view-log.md)
-      + [Aanbevolen procedures voor het gebruik van aanbevelingen en inzichten van uitgevers met portfolio&#39;s](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
+      + [Een aanbeveling voor een uitgever toepassen of verwijderen](/help/search-social-commerce/recommendations/recommendation-apply-dismiss.md)
+      + [Logbestand met aanbevelingen voor uitgevers weergeven voor een account](/help/search-social-commerce/recommendations/recommendation-view-log.md)
+      + [Aanbevolen procedures voor het gebruik van aanbevelingen voor uitgevers met portfolio&#39;s](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Gereedschappen {#tools}
    + [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
    + Gereedschappen voor het maken en decoderen van trackingcodes{#tracking}
