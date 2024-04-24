@@ -3,7 +3,7 @@ title: Logbestand met aanbevelingen voor uitgevers weergeven voor een account
 description: Leer hoe te om een logboek van elke aanbeveling te bekijken die voor werd toegepast [!DNL Google Ads] of [!DNL Microsoft Advertising] account.
 exl-id: a963c1cd-e785-470d-8f16-8d770baf2aa7
 feature: Search Recommendations
-source-git-commit: c53d79bd185630fb535c44bc05a4e0b7582f14ca
+source-git-commit: 93e9a36cd479e0f076f72661f0983a5bd856806a
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
