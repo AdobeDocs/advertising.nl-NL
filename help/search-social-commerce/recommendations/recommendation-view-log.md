@@ -3,7 +3,7 @@ title: Logbestand met aanbevelingen voor uitgevers weergeven voor een account
 description: Leer hoe te om een logboek van elke aanbeveling te bekijken die voor werd toegepast [!DNL Google Ads] of [!DNL Microsoft Advertising] account.
 exl-id: a963c1cd-e785-470d-8f16-8d770baf2aa7
 feature: Search Recommendations
-source-git-commit: 93e9a36cd479e0f076f72661f0983a5bd856806a
+source-git-commit: 2e1544658804afb298bf2c1a46f197d36ef6854e
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -32,3 +32,4 @@ De ontslagen aanbevelingen zijn niet beschikbaar bij het ad netwerk.
 >* [Bekijk uw uitgeversaanbevelingen en prestatieinzicht](recommendation-view.md)
 >* [Een aanbeveling voor een uitgever toepassen of verwijderen](recommendation-apply-dismiss.md)
 >* [Aanbevolen procedures voor het gebruik van aanbevelingen voor uitgevers met portfolio&#39;s](recommendation-best-practices.md)
+

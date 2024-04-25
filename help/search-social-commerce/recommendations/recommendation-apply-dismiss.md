@@ -3,7 +3,7 @@ title: Een aanbeveling voor een uitgever toepassen of verwijderen
 description: Leer hoe u een aanbeveling voor een uitgever kunt weergeven, toepassen of negeren.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
-source-git-commit: 93e9a36cd479e0f076f72661f0983a5bd856806a
+source-git-commit: 2e1544658804afb298bf2c1a46f197d36ef6854e
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -48,3 +48,4 @@ Bekijk de aanbevolen acties en een uitleg van de voordelen van de acties voor ee
 >* [Bekijk uw uitgeversaanbevelingen en prestatieinzicht](recommendation-view.md)
 >* [Logbestand met aanbevelingen voor uitgevers weergeven voor een account](recommendation-view-log.md)
 >* [Aanbevolen procedures voor het gebruik van aanbevelingen voor uitgevers met portfolio&#39;s](recommendation-best-practices.md)
+
