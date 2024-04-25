@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: 7f45a89dbff37592eec9991c47ade3094ca024a8
+source-git-commit: 331b11620d99f9e43b9eb69db04aac4e1149d64f
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
   De gegevens zijn beschikbaar in real time wanneer u de mening opent. Klik op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png "Vernieuwen") linksonder op de pagina.
 
-* Voor [DNL Microsoft® Advertising] accounts, zie in een oogopslag elk prestatieinzicht dat in de afgelopen 30 dagen is gegenereerd voor een [DNL Microsoft® Advertising] account. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elk inzicht omvat de datum, een beschrijving van de kwestie, de beïnvloede entiteit, de worteloorzaak (die verbindingen aan meer details kan omvatten), en de voorgestelde actie met een verbinding om de Reclame redacteur te openen Microsoft®, waarvan u op het specifieke inzicht kunt handelen.
+* Voor [!DNL Microsoft® Advertising] accounts, zie in een oogopslag elk prestatieinzicht dat in de afgelopen 30 dagen is gegenereerd voor een [!DNL Microsoft® Advertising] account. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elk inzicht omvat de datum, een beschrijving van de kwestie, de beïnvloede entiteit, de worteloorzaak (die verbindingen aan meer details kunnen omvatten), en de voorgestelde actie met een verbinding om te openen [!DNL Microsoft® Advertising] redacteur, waarvan u op het specifieke inzicht kunt handelen.
 
 * Bekijk details over een aanbeveling en pas de aanbeveling rechtstreeks toe of verwerp deze.
 
