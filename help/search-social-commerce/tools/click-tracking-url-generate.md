@@ -1,16 +1,16 @@
 ---
 title: Een URL voor het bijhouden van klikken genereren
-description: Leer hoe u handmatig een URL voor het bijhouden van zoekopdrachten, sociale berichten en handel genereert.
-exl-id: d22a472a-a562-4812-a067-fbd407cd7d00
+description: Leer hoe u handmatig een URL voor het bijhouden van klikken in Zoeken, Sociaal en Commerce genereert.
+exl-id: 43a36869-146a-4c5f-b4f2-eddfb856480b
 feature: Search Tools, Search Tracking
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 0da23a2756fc7ed4d2ef8fb739d94a91ac6400ba
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
 
-# Een URL voor het bijhouden van klikken op Zoeken, Sociale media en Handel genereren met het gereedschap URL&#39;s bijhouden
+# Een URL voor het bijhouden van klikken via Zoeken in sociale en Commerce genereren met het gereedschap URL&#39;s bijhouden
 
 *Adverteerders die alleen de conversie van Adoben Advertising bijhouden*
 
@@ -48,7 +48,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
            Het bestand kan maximaal 10.000 regels bevatten.
 
-         * ([!DNL Google Merchant Center] productgroepen en [Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
+         * ([!DNL Google Merchant Center] productgroepen en [DNL Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
 
            waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
@@ -88,4 +88,4 @@ Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het ju
 >
 >* [Over de gereedschappen voor het maken en decoderen van trackingcodes](tracking-tools-about.md)
 >* [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
->* [Een URL decoderen voor het bijhouden van klikken op Zoeken, Sociale media en Handel](click-tracking-url-decode.md)
+>* [Een URL voor het bijhouden van klikken in een zoekopdracht, sociaal profiel en Commerce decoderen](click-tracking-url-decode.md)
