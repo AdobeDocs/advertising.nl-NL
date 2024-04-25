@@ -3,9 +3,9 @@ title: Een URL voor het bijhouden van klikken genereren
 description: Leer hoe u handmatig een URL voor het bijhouden van klikken in Zoeken, Sociaal en Commerce genereert.
 exl-id: 43a36869-146a-4c5f-b4f2-eddfb856480b
 feature: Search Tools, Search Tracking
-source-git-commit: 0da23a2756fc7ed4d2ef8fb739d94a91ac6400ba
+source-git-commit: a4d892b413dde26a96f03c797991c4df17da7562
 workflow-type: tm+mt
-source-wordcount: '461'
+source-wordcount: '458'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
            Het bestand kan maximaal 10.000 regels bevatten.
 
-         * ([!DNL Google Merchant Center] productgroepen en [DNL Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
+         * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
 
            waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
