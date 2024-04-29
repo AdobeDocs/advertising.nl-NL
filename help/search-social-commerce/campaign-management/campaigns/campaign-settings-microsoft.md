@@ -3,9 +3,9 @@ title: '[!DNL Microsoft® Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 8d1ff29322799ff7905ee808703e00f5190ae8af
+source-git-commit: ce17567bbf1a409cc2894e48188235b7473b914c
 workflow-type: tm+mt
-source-wordcount: '1912'
+source-wordcount: '1967'
 ht-degree: 0%
 
 ---
@@ -299,7 +299,15 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 **[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Opmerking:** De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [de netwerkgegevens van de advertentie handmatig synchroniseren](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
-Als de campagne deel uitmaakt van een portfolio, gebruikt u dezelfde conversiedoelstellingen als de doelstelling van de portfolio. Het gebruik van verschillende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
+>[!TIP]
+>
+>Voor hybride portefeuilles waarvoor u doelstellingen aan het advertentienetwerk uploadt, is de beste praktijk om campagne-vlakke doelstellingen te gebruiken die de omzettingsdoelstellingen in de doelstelling van de portefeuille aanpassen. Als de campagnedoelstellingen echter conversies bevatten die door de [!DNL Microsoft Advertising] Universal Event tracking (UET)-tag, en voeg deze vervolgens toe binnen de [!DNL Microsoft Advertising] editor omdat ze niet opnieuw worden geüpload naar het advertentienetwerk met het doel. Daarnaast moet de [!DNL Microsoft Advertising] editor, verwijder de omzettingsacties van de campagne als standaarddoelstellingen van de account door de optie &quot;opnemen in conversies&quot; uit te schakelen.
+
+<!-- Check on this:
+>If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>
+>The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
+-->
 
 >[!MORELIKETHIS]
 >

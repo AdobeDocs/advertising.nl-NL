@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: c7821f112757f695a6ab9da1fffb014b822e1ff3
+source-git-commit: ce17567bbf1a409cc2894e48188235b7473b914c
 workflow-type: tm+mt
-source-wordcount: '2378'
+source-wordcount: '2431'
 ht-degree: 0%
 
 ---
@@ -359,7 +359,13 @@ Als u een aangepast conversiedoel wilt maken, klikt u op **[!UICONTROL + Add cus
 
 >[!TIP]
 >
->Als de campagne deel uitmaakt van een portfolio, gebruikt u dezelfde conversiedoelstellingen als de doelstelling van de portfolio. Het gebruik van verschillende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
+>Voor campagnes in hybride portefeuilles waarvoor u doelstellingen aan het advertentienetwerk uploadt, is de beste praktijk om campagne-vlakke doelstellingen te gebruiken die de omzettingsdoelstellingen in de doelstelling van de portefeuille aanpassen. Als de campagnedoelstellingen echter [!DNL Google]-tracked omzettingen, dan voeg hen binnen toe [!DNL Google Ads] editor omdat ze niet opnieuw worden geüpload naar het advertentienetwerk met het doel. Daarnaast moet de [!DNL Google Ads] redacteur, verwijder de de omzettingsacties van de campagne als rekening standaarddoelstellingen door hen als secundaire (niet primaire) doelstellingen te merken.
+
+<!-- Check on this:
+>If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>
+>The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
+-->
 
 >[!MORELIKETHIS]
 >
