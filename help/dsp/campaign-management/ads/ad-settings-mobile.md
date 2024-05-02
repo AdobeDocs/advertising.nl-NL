@@ -3,7 +3,7 @@ title: Instellingen voor mobiele advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor mobiele advertenties.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: f521cf26d9d3945bdf1abe4577bb37d732432c87
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
@@ -26,15 +26,15 @@ ht-degree: 0%
 
 ## [!UICONTROL Ad Options]
 
-### [!UICONTROL Basic]: Mobiele weergaveadvertenties
+### [!UICONTROL Basic]: mobiele weergaveadvertenties
 
 **[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld.
 
-**[!UICONTROL Ad Name]:** De naam van de advertentie. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
+**[!UICONTROL Ad Name]:** De advertentienaam. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
 
 >[!TIP]
 >
-> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in de mening van Advertenties, en in rapporten vastmaakt. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 300 x 250 gamer&quot;).
+> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in de mening van Advertenties, en in rapporten vastmaakt. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 300 x 250 gamer).
 
 **\[Bron toevoegen\]**: (Alleen-lezen) *[!UICONTROL 3rd party]*.
 
@@ -42,15 +42,15 @@ ht-degree: 0%
 
 **[!UICONTROL Final Display Code]:** De URL voor het creatieve middel van derden, met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
-### [!UICONTROL Basic]: Videoadvertenties
+### [!UICONTROL Basic]: Video-advertenties
 
 **[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld.
 
-**[!UICONTROL Ad Name]:** De naam van de advertentie. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
+**[!UICONTROL Ad Name]:** De advertentienaam. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
 
 >[!TIP]
 >
-> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in de mening van Advertenties, en in rapporten vastmaakt. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: Phone Preroll&quot;).
+> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in de mening van Advertenties, en in rapporten vastmaakt. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 30 seconden telefoonpreroll&quot;).
 
 **[!UICONTROL Width]| [!UICONTROL Ad Unit Width]:** De breedte van de gehele advertentie-eenheid. Deze optie is mogelijk vergrendeld, afhankelijk van het type advertentie-eenheid dat u hebt geselecteerd.
 
@@ -68,15 +68,15 @@ Dit is hetzelfde als **[!UICONTROL Width]** veld.
 
 Dit is hetzelfde als **[!UICONTROL Height]** veld.
 
-**[!UICONTROL Show Controls]:** Waar moeten videobesturingselementen voor de advertentie worden opgenomen: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, of *[!UICONTROL None]* (de standaardinstelling).
+**[!UICONTROL Show Controls]:** Waar moeten videobesturingselementen voor de advertentie worden opgenomen: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, of *[!UICONTROL None]* (de standaardwaarde).
 
 **[!UICONTROL Preserve Aspect Ratio]:** Of de breedte- en hoogteverhouding van de video behouden moet blijven (*[!UICONTROL Yes]*) of om de video uit te rekken tot de beschikbare ruimte (*[!UICONTROL No]*).
 
 **[!UICONTROL Close Button Delay]:** (Sommige advertenties) Het aantal seconden dat nodig is om de weergave van de sluitknop te vertragen.
 
-**[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; (alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve middel.
+**[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve element.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; (alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve middel met het vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve element met het vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Wmode]:** (Sommige advertentietypen) De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*.
 
@@ -94,7 +94,7 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 
 **[!UICONTROL Pixel Name]:** De pixelnaam. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
 
-**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, of *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, of *[!UICONTROL IAS]*.
 
 ### [!UICONTROL Sharing]
 
@@ -105,6 +105,5 @@ Vervangen
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Advertentiespecificaties](ad-specs.md)
+>* [Ad-specificaties](ad-specs.md)
 >* [DSP Macros](/help/dsp/campaign-management/macros.md)
-

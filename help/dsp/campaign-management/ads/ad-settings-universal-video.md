@@ -3,7 +3,7 @@ title: Instellingen voor Universal Video Add
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor universele videoadvertenties.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
-source-git-commit: d4af504a84d8fb356b2aca6d324e20fc0fb8fbbe
+source-git-commit: f521cf26d9d3945bdf1abe4577bb37d732432c87
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -34,19 +34,19 @@ ht-degree: 0%
 
 **[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld.
 
-**[!UICONTROL Ad Name]:** De naam van de advertentie. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
+**[!UICONTROL Ad Name]:** De advertentienaam. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
 
 >[!TIP]
 >
-> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing koppelt, in [!UICONTROL Ads] en in rapporten. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 30 sec Universal Video&quot;).
+> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in [!UICONTROL Ads] en in rapporten. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 30 sec Universal Video&quot;).
 
-**[!UICONTROL Show Controls]:** Waar moeten videobesturingselementen voor de advertentie worden opgenomen: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, of *[!UICONTROL None]* (de standaardinstelling).
+**[!UICONTROL Show Controls]:** Waar moeten videobesturingselementen voor de advertentie worden opgenomen: *[!UICONTROL Under]*, *[!UICONTROL Over]*, *[!UICONTROL Bottom]*, of *[!UICONTROL None]* (de standaardwaarde).
 
 **[!UICONTROL Preserve Aspect Ratio]:** Of de breedte- en hoogteverhouding van de video behouden moet blijven (*[!UICONTROL Yes]*) of om de video uit te rekken tot de beschikbare ruimte (*[!UICONTROL No]*).
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u als advertentiebron hebt opgegeven, beschikt over de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
 **[!UICONTROL Wmode]:** De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*. Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Gebruiken [!UICONTROL VAST], die geen meting van de weergavekwaliteit toestaat, wanneer u zich richt op aangesloten tv of inventaris die uitsluitend VAST-indeling vereist (gewoonlijk van leveringsbronnen zoals Google Ad Manager, Appnexus, SpotX en Freewiel). Gebruik deze optie ook voor voorraad die eerder compatibel was met de standaardinstellingen voor Pre-roll (VAST) of Phone + Tablet Standard Pre-roll (VAST).
 
-**[!UICONTROL Clock Number]**: (Alleen gebruikt in het Verenigd Koninkrijk; (alleen beschikbaar voor gebruikers met toestemming) Een unieke id die wordt gebruikt om ervoor te zorgen dat de juiste advertentie wordt uitgezonden. Laat deze instelling leeg als deze niet van toepassing is.
+**[!UICONTROL Clock Number]**: (Wordt alleen gebruikt in het Verenigd Koninkrijk; alleen beschikbaar voor gebruikers met toestemming) Een unieke id die wordt gebruikt om ervoor te zorgen dat de rechteradvertentie wordt uitgezonden. Laat deze instelling leeg als deze niet van toepassing is.
 
 ### [!UICONTROL Pixel]
 
@@ -70,7 +70,7 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 
 **[!UICONTROL Pixel Name]:** De pixelnaam. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
 
-**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, of *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, of *[!UICONTROL IAS]*.
 
 >[!MORELIKETHIS]
 >
@@ -78,6 +78,5 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Advertentiespecificaties](ad-specs.md)
+>* [Ad-specificaties](ad-specs.md)
 >* [DSP Macros](/help/dsp/campaign-management/macros.md)
-

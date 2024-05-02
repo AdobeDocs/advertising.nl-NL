@@ -3,9 +3,9 @@ title: Instellingen voor eigen weergave
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor native weergaveadvertenties.
 feature: DSP Ads
 exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: f521cf26d9d3945bdf1abe4577bb37d732432c87
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '318'
 ht-degree: 0%
 
 ---
@@ -18,17 +18,17 @@ ht-degree: 0%
 
 **[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld.
 
-**[!UICONTROL Ad Name]:** De naam van de advertentie. Het advertentietype wordt standaard gebruikt, maar u kunt de naam wijzigen.
+**[!UICONTROL Ad Name]:** De advertentienaam. Het advertentietype wordt standaard gebruikt, maar u kunt de naam wijzigen.
 
 >[!TIP]
 >
-> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in [!UICONTROL Ads] en in rapporten. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 15 sec. standaard&quot;).
+> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing vastmaakt, in [!UICONTROL Ads] en in rapporten. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 15 seconden standaard).
 
 **[!UICONTROL Native Creative]:** Een afbeelding van 1200 x 627 om de levering op mobiele voorraad te maximaliseren. Klikken **[!UICONTROL Browse]** en zoek het bestand op uw apparaat of netwerk en klik vervolgens op **[!UICONTROL Upload]**.
 
 **[!UICONTROL Title]:** Een opvallende titel voor het inschakelen van kijkers.
 
-**[!UICONTROL Description]:** Het lichaam van de advertentie. De maximumlengte is 100 tekens.
+**[!UICONTROL Description]:** De hoofdtekst van de advertentie. De maximumlengte is 100 tekens.
 
 **[!UICONTROL Landing Page]:** De URL waarop de viewer landt wanneer deze op de advertentie klikt.
 
@@ -54,13 +54,12 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 
 **[!UICONTROL Pixel Name]:** De pixelnaam. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
 
-**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Nielsen]*, of *[!UICONTROL Comscore]*.
+**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, of *[!UICONTROL IAS]*.
 
 >[!MORELIKETHIS]
 >
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Eén advertentie maken](ad-create.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [Advertentiespecificaties](ad-specs.md)
+>* [Ad-specificaties](ad-specs.md)
 >* [DSP Macros](/help/dsp/campaign-management/macros.md)
-
