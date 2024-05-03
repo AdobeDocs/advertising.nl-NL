@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 3071e4ef8d0c4262483937cf70ed5747bae568c9
+source-git-commit: caab8c3163a7ffdbc0b5ef28176b2ee73f83b6e8
 workflow-type: tm+mt
-source-wordcount: '3516'
+source-wordcount: '3540'
 ht-degree: 0%
 
 ---
@@ -309,6 +309,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 * Om een bestaand publiek te selecteren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens het publiek.
 * Om een publiek te creëren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens **+ Publiek maken**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), vanaf stap 3.
+* Om specifieke publiekssegmenten te selecteren, klik **[!UICONTROL Select segments for this placement only]**. Selecteer de segmentlogica; zie voor instructies Stap 6 in &quot;[Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md).&quot; Als u klaar bent, klikt u **Opslaan**.
 
 **[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
 
