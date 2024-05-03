@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: f352af0ffd5bfeab08f6592b4f3af56a9668feaa
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '901'
 ht-degree: 3%
 
 ---
@@ -60,8 +60,8 @@ ht-degree: 3%
    + Plaatsen {#placements}
       + [Info over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
       + [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
-      + [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
-      + [Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](/help/dsp/campaign-management/placements/placement-qa.md)
+      + [Plaatsingsinstellingen controleren en bewerken met werkbladen](/help/dsp/campaign-management/placements/placement-qa.md)
+      + [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
       + [Een plaatsing dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
       + [Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
       + [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
@@ -77,6 +77,7 @@ ht-degree: 3%
       + [Eén advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
       + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-multiple.md)
       + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
+      + [Advertentie-instellingen met behulp van spreadsheets bekijken](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
       + [Advertenties toevoegen aan plaatsingen](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->

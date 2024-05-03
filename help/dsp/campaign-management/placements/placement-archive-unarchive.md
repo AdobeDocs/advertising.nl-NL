@@ -1,11 +1,11 @@
 ---
 title: Een plaatsing archiveren of archiveren
-description: Leer hoe u een plaatsing archiveert of het archief ervan opheft.
+description: Leer hoe u een plaatsing archiveert of decodeert.
 feature: DSP Placements
 exl-id: 4304452d-4573-46b3-892e-299950a75d4f
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '155'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Archive]**.
-1. Klik in het bevestigingsbericht op **[!UICONTROL Archive]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Archive]**.
 
 >[!NOTE]
 >
@@ -36,11 +36,10 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]**.
 1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
-1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]**.
+1. Klik in het bevestigingsbericht **[!UICONTROL Unarchive]**.
 
 >[!MORELIKETHIS]
 >
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
-

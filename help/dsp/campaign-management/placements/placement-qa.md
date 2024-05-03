@@ -1,16 +1,16 @@
 ---
-title: Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen
+title: Plaatsingsinstellingen controleren en bewerken met werkbladen
 description: Leer hoe u de instellingen voor toetsplaatsing kunt bekijken en bewerken met spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
-source-git-commit: f352af0ffd5bfeab08f6592b4f3af56a9668feaa
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '1435'
+source-wordcount: '1433'
 ht-degree: 0%
 
 ---
 
-# Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen
+# Plaatsingsinstellingen controleren en bewerken met werkbladen
 
 U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne downloaden in de XLSX-indeling (Excel-spreadsheet) voor revisie. Met deze functie kunt u snel details bekijken zoals:
 
@@ -22,7 +22,7 @@ Vervolgens kunt u wijzigingen aanbrengen in de geselecteerde velden en deze weer
 
 >[!TIP]
 >
->Als u uitgebreidere wijzigingen wilt aanbrengen in de plaatsingsinstellingen, gebruikt u de opdracht [bulkbewerkingsfunctie](/help/dsp/campaign-management/placements/placement-edit.md).
+>Als u meer velden voor een of meer plaatsen wilt bewerken, raadpleegt u &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 ## Instellingen downloaden voor alle locaties in een campagne
 
@@ -193,5 +193,5 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 
 >[!MORELIKETHIS]
 >
->* [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)

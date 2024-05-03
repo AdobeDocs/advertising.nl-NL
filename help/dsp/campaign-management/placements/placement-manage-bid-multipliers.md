@@ -2,9 +2,10 @@
 title: Bodmultiplicatoren voor plaatsen beheren
 description: Meer informatie over het maken en bewerken van biedingsvermenigvuldigers voor opgegeven plaatsingsdoelen.
 feature: DSP Placements
-source-git-commit: b3932c066e0ecd29e57152f0654ee4b0d9e0dda1
+exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '409'
+source-wordcount: '407'
 ht-degree: 2%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 2%
 
 Met deze functie kun je de biedvermenigvuldigingsfactoren voor je bestaande plaatsingsdoelen wijzigen. Je kunt de biedvermenigvuldigingsfactoren voor één plaatsing tegelijk beheren.<!-- remove that line once we can edit multiple -->
 
-Als u de geselecteerde doelen voor uw plaatsing wilt wijzigen, raadpleegt u &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
+Als u de geselecteerde doelen voor uw plaatsing wilt wijzigen, raadpleegt u &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 <!-- 
 ## Manage the Bid Multipliers for a Single Placement
@@ -73,6 +74,6 @@ U kunt biedvermenigvuldigingsfactoren (met andere waarden dan 1,00) instellen vo
 >[!MORELIKETHIS]
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)

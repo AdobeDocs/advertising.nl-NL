@@ -3,9 +3,9 @@ title: Een plaatsing pauzeren of activeren
 description: Leer hoe u een plaatsing pauzeert of activeert.
 feature: DSP Placements
 exl-id: cd58d8f7-8dd0-433b-9272-a4fc1e3e98d9
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,5 @@ Pauzeer een actieve plaatsing, of activeer een gepauzeerde plaatsing wanneer het
 >[!MORELIKETHIS]
 >
 >* [Een plaatsing archiveren of archiveren](placement-archive-unarchive.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
-

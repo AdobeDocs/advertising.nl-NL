@@ -3,9 +3,9 @@ title: Plaatsen dupliceren
 description: Leer hoe u een of meer stages dupliceert.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '304'
 ht-degree: 0%
 
 ---
@@ -43,11 +43,11 @@ Zie &quot;[Wat is niet gedupliceerd](#placement-not-duplicated)&quot; voor een l
 
    1. (Enkele plaatsen) Voer de nieuwe plaatsingsnaam in.
 
-   1. In de **[!UICONTROL Choose Package (Required)]** selecteert u het bovenliggende pakket of **[!UICONTROL No package]*.
+   1. In de **[!UICONTROL Choose Package (Required)]** het bovenliggende pakket of **[!UICONTROL No package]*.
 
    1. (Optioneel) Wijzig de standaardinstellingen.
 
-   De instellingen gelden voor alle geselecteerde plaatsingen.
+   De instellingen zijn van toepassing op alle geselecteerde plaatsingen.
 
    De nieuwe plaatsingen zijn standaard bedoeld voor het oorspronkelijke advertentietype, worden toegewezen aan de oorspronkelijke adverteerders en campagnes, hebben vluchtschema&#39;s die op de huidige dag beginnen, worden gepauzeerd en bevatten niet de originele advertenties.
 
@@ -73,7 +73,6 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing maken](placement-create.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Het Wijzigingslogboek voor een plaatsing weergeven](placement-change-log.md)
 >* [Plaatsingsinstellingen](placement-settings.md)
-

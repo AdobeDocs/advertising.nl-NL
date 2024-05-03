@@ -3,9 +3,9 @@ title: Sneltoetsen
 description: Verwijs naar de sneltoetsen die beschikbaar zijn binnen de plaatsingsinstellingen.
 feature: DSP Placements
 exl-id: d1711166-8f20-4641-a1f5-c865a40ad387
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '98'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -35,6 +35,5 @@ Gebruik sneltoetsen om snel door de plaatsingsinstellingen te navigeren<!-- and 
 >[!MORELIKETHIS]
 >
 >* [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
->* [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-

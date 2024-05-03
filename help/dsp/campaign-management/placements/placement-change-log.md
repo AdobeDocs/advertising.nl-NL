@@ -3,9 +3,9 @@ title: Een wijzigingslogboek voor plaatsing weergeven
 description: Leer hoe u de wijzigingen in de plaatsing kunt bekijken.
 feature: DSP Placements
 exl-id: d9fc6ead-0a0e-415d-8352-284db12dde1b
-source-git-commit: d1e1a8507b08a64bdc582c2967964b869c7d5bc7
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '213'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ U kunt de gegevens sorteren op de kolom Type, Gewijzigd door of Datum gewijzigd.
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing maken](placement-create.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
 >* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
 >* [Een plaatsing pauzeren of activeren](placement-pause-activate.md)

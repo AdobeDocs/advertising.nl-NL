@@ -1,16 +1,16 @@
 ---
-title: Een plaatsing bewerken
+title: Plaatsen bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: e794f6ee4731479cd1961201ac479d66216a3200
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
 
-# Een plaatsing bewerken
+# Plaatsen bewerken
 
 U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk bewerken.
 
@@ -18,7 +18,7 @@ U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk b
 
 >[!NOTE]
 >
->U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in een beperkte subset van sleutelvelden en deze weer uploaden naar alles tegelijk. Zie &quot;[Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](placement-qa.md).&quot;
+>U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in een beperkte subset van sleutelvelden en deze weer uploaden naar alles tegelijk. Zie &quot;[Plaatsingsinstellingen controleren en bewerken met werkbladen](placement-qa.md).&quot;
 
 ## Instellingen voor sleutelplaatsing snel bewerken {#placement-quick-edit}
 
@@ -92,7 +92,7 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >[!MORELIKETHIS]
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
->* [Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](placement-qa.md)
+>* [Plaatsingsinstellingen controleren en bewerken met werkbladen](placement-qa.md)
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
 >* [Bodmultiplicatoren voor plaatsen beheren](placement-manage-bid-multipliers.md)

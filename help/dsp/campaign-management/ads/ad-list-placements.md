@@ -3,9 +3,9 @@ title: De aan een advertentie gekoppelde plaatsen weergeven
 description: Leer hoe u de plaatsingen kunt zien die aan een advertentie zijn gekoppeld.
 feature: DSP Ads
 exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
-source-git-commit: c3844b70aee5102e47dc8676064ea5a1e6cacaac
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
@@ -25,5 +25,5 @@ Zie ook &quot;[Advertenties weergeven die zijn gekoppeld aan plaatsingen](/help/
 >
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Een advertentie bewerken](ad-edit.md)
->* [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
+>* [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
 >* [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)

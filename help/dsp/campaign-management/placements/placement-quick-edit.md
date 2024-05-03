@@ -3,9 +3,9 @@ title: Instellingen voor sleutelplaatsing snel bewerken
 description: Leer hoe u de instellingen voor toetsplaatsing snel kunt wijzigen.
 feature: DSP Placements
 exl-id: b5f83573-112a-4fa1-9f7f-f0fea8e3d079
-source-git-commit: 3071e4ef8d0c4262483937cf70ed5747bae568c9
+source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '119'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 
 >[!TIP]
 >
-> Als u een plaatsingsinstelling wilt bewerken, raadpleegt u &quot;[Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
+> Als u een plaatsingsinstelling wilt bewerken, raadpleegt u &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 1. Klik op de naam van de campagne.
@@ -31,7 +31,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
 >* [Een plaatsing maken](placement-create.md)
->* [Een plaatsing bewerken](placement-edit.md)
+>* [Plaatsen bewerken](placement-edit.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
 >* [Bodmultiplicatoren voor plaatsen beheren](placement-manage-bid-multipliers.md)
 >* [Advertentieschema&#39;s voor plaatsingen bewerken](placement-edit-ad-schedule.md)
