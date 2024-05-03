@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 17635ae4b61913d631ccb2a875ee550602831178
+source-git-commit: 01cc40d455b0f1b95d3cfe4b93e862627e2025d3
 workflow-type: tm+mt
 source-wordcount: '2771'
 ht-degree: 0%
@@ -15,10 +15,7 @@ ht-degree: 0%
 # Nieuwe functies
 
 De volgende functies zijn nieuw of onlangs gewijzigd.
-<!--
-|  | Ads, Pixels |  |  | 
--->
->>
+
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
 | 2 mei 2024 | Advertenties, pixels | U kunt de instellingen voor alle advertenties in een campagne in de XLSX-indeling (Excel-spreadsheet) voor revisie downloaden vanuit de [!UICONTROL Ad Tools] weergeven. | Zie &quot;[Advertentie-instellingen met behulp van spreadsheets bekijken](/help/dsp/campaign-management/ads/ad-qa.md).&quot; |
