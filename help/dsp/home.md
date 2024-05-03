@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 17635ae4b61913d631ccb2a875ee550602831178
 workflow-type: tm+mt
-source-wordcount: '2744'
+source-wordcount: '2771'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,8 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 >>
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 2 mei 2024 | Advertenties, pixels | De [!UICONTROL Ad Tools] Weergave > [!UICONTROL Attach Pixels] worden de pixels weergegeven die door derden worden bijgehouden en die aan uw advertenties zijn gekoppeld. Het tabblad bevat een nieuwe workflow voor het koppelen van pixels aan een of meer advertenties en voor het ontkoppelen van bestaande pixels. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
+| 2 mei 2024 | Advertenties, pixels | U kunt de instellingen voor alle advertenties in een campagne in de XLSX-indeling (Excel-spreadsheet) voor revisie downloaden vanuit de [!UICONTROL Ad Tools] weergeven. | Zie &quot;[Advertentie-instellingen met behulp van spreadsheets bekijken](/help/dsp/campaign-management/ads/ad-qa.md).&quot; |
+| |  | De [!UICONTROL Ad Tools] Weergave > [!UICONTROL Attach Pixels] worden de pixels weergegeven die door derden worden bijgehouden en die aan uw advertenties zijn gekoppeld. Het tabblad bevat een nieuwe workflow voor het koppelen van pixels aan een of meer advertenties en voor het ontkoppelen van bestaande pixels. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 |  | Plaatsen, publiek | U kunt nu afzonderlijke publiekssegmenten of onherbruikbare doelgroepen uitsluiten van plaatsing via gereedschappen voor bulkbewerking of de plaatsingseditor. | Zie &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 18 april 2024 | Plaatsen | U kunt nu biedingsmodifiers maken en beheren, waarmee een bod wordt vermenigvuldigd om het bod te verhogen of te verlagen, voor opgegeven doeltypen voor een plaatsing. De standaard bodoptie is 1,00, wat geen verhoging of daling betekent; de waarden kunnen zich van 0.10 tot 10.00 variëren. Een biedwijziging van 0,50 verlaagt bijvoorbeeld een bod van USD 6 naar USD 3 (0,50 x 6). Wanneer een veiling in aanmerking komt voor meerdere biedmodifiers, worden alle toepasselijke biedmodifiers vermenigvuldigd. Met biedopties wordt het bod nooit hoger dan het maximumbod. | Zie &quot;[Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md).&quot; |
 | 3 april 2024 | Inventarispartners | De Adobe Advertising EU-zetel voor [!DNL Google Authorized Buyers] is samengevoegd met de bestaande APAC-licentie. | Zie &quot;[SSP-partners](/help/dsp/inventory/ssp-partners.md).&quot; |
