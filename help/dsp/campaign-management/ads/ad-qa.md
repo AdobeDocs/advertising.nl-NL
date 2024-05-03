@@ -2,9 +2,9 @@
 title: Advertentie-instellingen met behulp van spreadsheets bekijken
 description: Leer hoe u de instellingen en instellingen kunt controleren met behulp van spreadsheets.
 feature: DSP Ads
-source-git-commit: c67e0c83ba8836462ce83fad24721cd1b27de318
+source-git-commit: ba940f8476463a6804f024b1597be74ffc5a6c0c
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -43,5 +43,4 @@ U kunt de instellingen voor alle advertenties in een campagne downloaden in de X
 >[!MORELIKETHIS]
 >
 >* [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Advertentie-instellingen](/help/dsp/campaign-management/ads/ad-settings.md)
 >* [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
