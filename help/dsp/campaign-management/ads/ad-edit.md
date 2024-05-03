@@ -3,14 +3,18 @@ title: Een advertentie bewerken
 description: Leer hoe u een advertentie kunt bewerken.
 feature: DSP Ads
 exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: c97fcf61f444ab3363d9d55398402ec9f162be99
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '190'
 ht-degree: 0%
 
 ---
 
 # Een advertentie bewerken
+
+>[!TIP]
+>
+>Als u de pixels voor het bijhouden van derden voor meerdere advertenties tegelijk wilt wijzigen, raadpleegt u &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -32,7 +36,7 @@ ht-degree: 0%
 
    >[!NOTE]
    >
-   >Uw advertentie zal slechts worden gediend als zowel DSP als het SSP creatief hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
+   >Uw advertentie kan alleen worden aangeboden als zowel DSP als het SSP de creatieve advertentie hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
 
 >[!MORELIKETHIS]
 >
@@ -41,5 +45,4 @@ ht-degree: 0%
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie dupliceren](ad-duplicate.md)
 >* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Advertentiespecificaties](ad-specs.md)
-
+>* [Ad-specificaties](ad-specs.md)
