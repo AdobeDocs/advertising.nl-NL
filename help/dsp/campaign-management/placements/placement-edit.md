@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: 787bf675c24fe22a5ca3c9fd599135f81ddd5296
+source-git-commit: df89207a61235ccf83d2c4b898ac60598f8e2877
 workflow-type: tm+mt
-source-wordcount: '321'
+source-wordcount: '368'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,10 @@ ht-degree: 0%
 # Een plaatsing bewerken
 
 U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk bewerken.
+
+>[!NOTE]
+>
+>U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in een subset van velden en deze weer uploaden naar alles tegelijk. Zie &quot;[Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](placement-qa.md).&quot;
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
