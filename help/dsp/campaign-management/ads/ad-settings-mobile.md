@@ -3,9 +3,9 @@ title: Instellingen voor mobiele advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor mobiele advertenties.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
-source-git-commit: f521cf26d9d3945bdf1abe4577bb37d732432c87
+source-git-commit: 2f137b17deea4cd02ae19494a306ff37c7002423
 workflow-type: tm+mt
-source-wordcount: '616'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -82,7 +82,7 @@ Dit is hetzelfde als **[!UICONTROL Height]** veld.
 
 ### [!UICONTROL Pixel]
 
-Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie.
+Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Tip:** De volgende pixels van derden voor meerdere advertenties tegelijk bewerken met de opdracht [!UICONTROL Ad Tools] bekijken, zie &quot;[Pixels van derden bijvoegen bij advertenties in een plaatsing](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads).&quot;
 
 De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerkt.
 
