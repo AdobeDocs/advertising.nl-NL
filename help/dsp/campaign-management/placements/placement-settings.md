@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: caab8c3163a7ffdbc0b5ef28176b2ee73f83b6e8
+source-git-commit: 9586b743df5af61db81f781224bed28b02e0c4a8
 workflow-type: tm+mt
 source-wordcount: '3540'
 ht-degree: 0%
@@ -308,7 +308,9 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 **[!UICONTROL Excluded Audiences]:** Alle soorten publiek die voor de plaatsing moeten worden uitgesloten, inclusief publiek met [segmenten van derden, eerste-partijsegmenten, Adobe-segmenten, aangepaste segmenten en opgeslagen doelgroepen](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
 
 * Om een bestaand publiek te selecteren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens het publiek.
+
 * Om een publiek te creëren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens **+ Publiek maken**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), vanaf stap 3.
+
 * Om specifieke publiekssegmenten te selecteren, klik **[!UICONTROL Select segments for this placement only]**. Selecteer de segmentlogica; zie voor instructies Stap 6 in &quot;[Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md).&quot; Als u klaar bent, klikt u **Opslaan**.
 
 **[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
