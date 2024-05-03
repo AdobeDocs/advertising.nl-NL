@@ -3,9 +3,9 @@ title: Een plaatsing bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: 3071e4ef8d0c4262483937cf70ed5747bae568c9
+source-git-commit: 787bf675c24fe22a5ca3c9fd599135f81ddd5296
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '321'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,24 @@ U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk b
 
 <!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 
+## Instellingen voor sleutelplaatsing snel bewerken {#placement-quick-edit}
+
+<!-- Some placements don't have this option. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
+
+U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonder de volledige plaatsingsinstellingen te openen.
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik op de naam van de campagne.
+1. Klik in het submenu op **[!UICONTROL Placements]**.
+1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Quick Edit]**.
+1. Bewerk de beschikbare opties [plaatsingsinstellingen](placement-settings.md):  **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, en **[!UICONTROL Budget]**.
+1. Klik op **[!UICONTROL Apply]**.
+
 ## Eén plaatsing bewerken
 
 >[!TIP]
 >
-> Als u alleen de plaatsingsnaam, de status, het maximumbod en het budget wilt bewerken, raadpleegt u &quot;[Instellingen voor sleutelplaatsing snel bewerken](/help/dsp/campaign-management/placements/placement-quick-edit.md).&quot;
+> Als u alleen de plaatsingsnaam, de status, het maximumbod en het budget wilt bewerken, raadpleegt u &quot;[Instellingen voor sleutelplaatsing snel bewerken](#placement-quick-edit).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -77,7 +90,7 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >[!MORELIKETHIS]
 >
 >* [Info over Plaatsingsbeheer](placement-about.md)
->* [Instellingen voor sleutelplaatsing snel bewerken](placement-quick-edit.md)
+>* [Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](placement-qa.md)
 >* [Een plaatsing maken](placement-create.md)
 >* [Een plaatsing dupliceren](placement-duplicate.md)
 >* [Bodmultiplicatoren voor plaatsen beheren](placement-manage-bid-multipliers.md)
@@ -87,5 +100,4 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [Plaatsingsinstellingen](placement-settings.md)
 >* [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
 >* [Video: Plaatsen bewerken met Bulk bewerkingsgereedschappen](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html)

@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: c5f26fba0dcf26e0017d881b5ccd9101f98ff43f
+source-git-commit: f352af0ffd5bfeab08f6592b4f3af56a9668feaa
 workflow-type: tm+mt
-source-wordcount: '923'
+source-wordcount: '897'
 ht-degree: 3%
 
 ---
@@ -61,7 +61,7 @@ ht-degree: 3%
       + [Info over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
       + [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
       + [Een plaatsing bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
-      + [Instellingen voor sleutelplaatsing snel bewerken](/help/dsp/campaign-management/placements/placement-quick-edit.md)
+      + [Plaatsingsinstellingen controleren en corrigeren met behulp van werkbladen](/help/dsp/campaign-management/placements/placement-qa.md)
       + [Een plaatsing dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
       + [Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
       + [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
@@ -101,11 +101,6 @@ ht-degree: 3%
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
       + [Waarschuwingen weergeven](/help/dsp/campaign-management/reports/campaign-alerts.md)
       + [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
-   + Plaatsingsinstellingen corrigeren met behulp van werkbladen {#qa-spreadsheet}
-      + [Informatie over het corrigeren van plaatsingsinstellingen met behulp van spreadsheets](/help/dsp/campaign-management/qa/qa-about.md)
-      + [Plaatsingsinstellingen downloaden in een werkblad](/help/dsp/campaign-management/qa/qa-sheet-download.md)
-      + [Plaatsingsinstellingen uploaden naar een werkblad](/help/dsp/campaign-management/qa/qa-sheet-upload.md)
-      + [Kolommen in gedownloade/geüploade werkbladen](/help/dsp/campaign-management/qa/qa-sheet-columns.md)
    + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
    + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
