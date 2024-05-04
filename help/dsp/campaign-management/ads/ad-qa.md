@@ -2,9 +2,9 @@
 title: Advertentie-instellingen met behulp van spreadsheets bekijken
 description: Leer hoe u de instellingen en instellingen kunt controleren met behulp van spreadsheets.
 feature: DSP Ads
-source-git-commit: ba940f8476463a6804f024b1597be74ffc5a6c0c
+source-git-commit: 24e6339d7217c02c993702e203acda362c25fd0e
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 U kunt de instellingen voor alle advertenties in een campagne downloaden in de XLSX-indeling (Excel-spreadsheet) voor revisie.<!-- Clarify once I can get this to work: Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? And does it include all possible settings, or just a subset?  -->
 
->[!TIP]
+>[!NOTE]
 >
->*Als u uw advertentie-instellingen wilt bewerken, gebruikt u de [bulkbewerkingsfunctie](/help/dsp/campaign-management/ads/ad-edit.md).
+>*Als u uw advertentie-instellingen wilt bewerken, raadpleegt u [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md).
 >*Raadpleeg &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
