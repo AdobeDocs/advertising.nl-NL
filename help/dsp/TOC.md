@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 08f177d0cc05b9a4e6c240ba78dcb903587a1bfa
 workflow-type: tm+mt
 source-wordcount: '901'
 ht-degree: 3%
@@ -77,7 +77,7 @@ ht-degree: 3%
       + [Eén advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
       + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-multiple.md)
       + [Advertenties maken met [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-      + [Advertentie-instellingen met behulp van spreadsheets bekijken](/help/dsp/campaign-management/ads/ad-qa.md)
+      + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
       + [Advertenties toevoegen aan plaatsingen](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)<!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
