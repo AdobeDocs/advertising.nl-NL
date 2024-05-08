@@ -3,16 +3,16 @@ title: Advertentiegegevens controleren met behulp van spreadsheets
 description: Leer hoe u met behulp van spreadsheets de advertentie-instellingen en bijbehorende plaatsingen kunt bekijken en details kunt bekijken.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
-source-git-commit: 64a1d623bd505764d1fb320e95706e0f702b1d23
+source-git-commit: b469ce7db2bddb99062b32aef25e3e5ae524fa61
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
 # Advertentiegegevens controleren met behulp van spreadsheets
 
-U kunt details over alle advertenties in een campagne in XLSX (Excel spreadsheet) formaat voor overzicht downloaden. De details omvatten de advertentie-instellingen en bijbehorende plaatsingen.<!-- Do these include all ads in the campaign, only active ads in live or pending campaigns, or what? -->
+U kunt details over alle advertenties in een campagne in XLSX (Excel spreadsheet) formaat voor overzicht downloaden. De details omvatten één lusje met de montages en bijbehorende plaatsen voor elke advertentie en een ander lusje met elke pixel die voor advertenties in de campagne wordt gebruikt.
 
 >[!NOTE]
 >
