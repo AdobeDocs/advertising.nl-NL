@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: fb0634643e40b67e50461823f976a93129e2f038
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '3217'
+source-wordcount: '3216'
 ht-degree: 0%
 
 ---
@@ -120,7 +120,7 @@ Het terugzoekvenster voor [!DNL Marketing Channels] kan worden aangepast. In Ado
 
 Adobe Advertising rapporteert dat alleen betaalde media die via Adobe Advertising worden verhandeld (betaalde zoekopdracht naar [!DNL Advertising Search, Social, & Commerce] advertenties en display voor advertenties DSP advertenties), terwijl [!DNL Marketing Channels] in rapporten kunnen alle digitale kanalen worden bijgehouden . Dit kan tot een discrepantie in het kanaal leiden waarvoor een omzetting wordt toegeschreven.
 
-Betaalde zoekopdrachten en natuurlijke zoekkanalen hebben bijvoorbeeld vaak een symbiotische relatie, waarbij elk kanaal het andere kanaal helpt. De [!DNL Marketing Channels] rapport zal sommige omzettingen aan natuurlijk onderzoek toeschrijven die de Adobe Advertising niet zal omdat het geen natuurlijk onderzoek volgt.
+Betaalde zoekopdrachten en natuurlijke zoekkanalen hebben bijvoorbeeld vaak een symbiotische relatie, waarbij elk kanaal het andere kanaal helpt. De [!DNL Marketing Channels] het rapport kenmerkt sommige omzettingen aan natuurlijk onderzoek die de Adobe Advertising niet omdat het geen natuurlijk onderzoek volgt.
 
 Neem bijvoorbeeld ook een klant die een advertentie weergeeft, op een betaalde zoekadvertentie klikt, in een e-mailbericht klikt en vervolgens een bestelling van 30 USD plaatst. Zelfs als Adobe Advertising en [!DNL Marketing Channels] beide methoden maken gebruik van het laatste aanraakattributiemodel en de conversie wordt nog steeds anders toegewezen aan beide. Adobe Advertising heeft geen toegang tot de [!UICONTROL Email] kanaal, zodat zou het betaalde onderzoek naar de omzetting crediteren. [!DNL Marketing Channels]heeft echter toegang tot alle drie de kanalen, zodat het krediet [!UICONTROL Email] voor de conversie.
 

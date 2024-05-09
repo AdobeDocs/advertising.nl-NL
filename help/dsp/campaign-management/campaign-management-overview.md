@@ -3,9 +3,9 @@ title: Overzicht van Campaign Management in DSP
 description: Meer informatie over de hiërarchie en componenten van het campagnebeheer.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: 8eb7b4a5-4a31-4637-858f-202392dfac98
-source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ A [plaatsing](/help/dsp/campaign-management/placements/placement-about.md) Hierm
 
 [Adds](/help/dsp/campaign-management/ads/ad-about.md) inclusief creatieve elementen en URL&#39;s bijhouden. U kunt tags van derden en voedingen afzonderlijk of in bulk uploaden met behulp van tag-bladen van partners of de sjabloon voor bulktags. U kunt ook handmatig eigen weergaveadvertenties maken die u DSP kunt gebruiken.
 
-Als je advertenties eenmaal zijn ingesteld, moet je elke advertentie aan een plaatsing koppelen. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
+Als uw advertenties eenmaal zijn ingesteld, moet u elke advertentie aan een plaatsing koppelen om de advertentie uit te voeren. U kunt één advertentie aan een of meerdere plaatsen vastmaken.
 
 Alle actieve, goedgekeurde advertenties in een actieve plaatsing in een actieve campagne kunnen worden uitgevoerd op basis van de parameters voor plaatsing als doel.
 

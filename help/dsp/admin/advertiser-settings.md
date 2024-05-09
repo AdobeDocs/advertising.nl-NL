@@ -2,9 +2,9 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: 201eb485e196dc0823dd6d592f67f62122c214b1
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '867'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Als u *[!UICONTROL Other]*, dan zal de adverteerder geen toegang hebben tot DSP [!DNL On Demand Inventory].
+>Als u *[!UICONTROL Other]*, dan heeft de adverteerder geen toegang tot DSP [!DNL On Demand Inventory].
 
 **[!UICONTROL Advertiser URL]:** De homepage of URL van de hoofdwebsite van de adverteerder (begint met `http://` of `https://`).
 
@@ -31,13 +31,13 @@ ht-degree: 0%
 
 Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke id van de organisatie voor Experience Cloud. U kunt specifieke productintegratie configureren in de [!UICONTROL Integrations] sectie.
 
-**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben via een Experience Cloud-account met meerdere adverteerders; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
+**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra producten van het Experience Cloud die door een rekening van het Experience Cloud met veelvoudige adverteerders worden toegelaten; facultatief) De de organisatie identiteitskaart van de Experience Cloud van de adverteerder.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met directe licenties voor extra Experience Cloud-producten; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
+**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met directe licenties voor aanvullende producten van Experiencen Cloud; optioneel) De organisatie-id van het Experience Cloud van de adverteerder.
 
 ### [!UICONTROL Integrations]
 
-(Optioneel) Aanvullende Experience Cloud-producten die aan de DSP-account zijn gekoppeld. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor Experience Cloud die in het [!UICONTROL Adobe IMS IDs] sectie.
+(Optioneel) Aanvullende producten uit de Experience Cloud die aan de DSP-account zijn gekoppeld. De producten moeten worden gekoppeld aan dezelfde organisatie-id van het Experience Cloud als in het [!UICONTROL Adobe IMS IDs] sectie.
 
 **[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising conversiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens zal uitwisselen.
 
@@ -51,7 +51,7 @@ Voor de gegevens die in de rapportagesets moeten worden opgenomen, moet [!DNL Se
 
 Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
-**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle Adobe-gebruikers van de adverteerder ophalen. Dit omvat gegevens voor:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle gebruikers van de Adobe van de adverteerder ophalen. Dit omvat gegevens voor:
 
 * Audience Managers
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd

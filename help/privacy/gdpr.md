@@ -4,9 +4,9 @@ description: Meer informatie over de ondersteunde typen gegevensaanvragen, de ve
 feature: GDPR
 role: User, Developer
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
-source-git-commit: 80072930c0506a017a927ce53eaad900a2642e92
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '1002'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken u
 
 ## Vereiste opstelling om Verzoeken om Adobe Advertising te verzenden
 
-Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u moeten:
+Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, moet u:
 
 1. Implementeer een JavaScript-bibliotheek om de cookies van het gegevenssubject op te halen en te verwijderen. Dezelfde bibliotheek, `AdobePrivacy.js`, wordt gebruikt voor alle Adobe Experience Cloud-oplossingen.
 
@@ -73,7 +73,7 @@ Om tot gegevens voor Adobe Advertising toegang te hebben en te schrappen, zult u
    >
    >Als uw bedrijf veelvoudige Experience Cloud organisatie IDs heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
-Al deze stappen zijn nodig voor Adobe Advertising. Voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service, en waar u de benodigde items kunt vinden, raadpleegt u &quot;[Overzicht van Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).&quot;
+Al deze stappen zijn nodig voor Adobe Advertising. Voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service, en waar u de benodigde items moet vinden, raadpleegt u &quot;[Overzicht van Privacy Service](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).&quot;
 
 ## Vereiste veldwaarden in JSON-verzoeken voor Adobe Advertising
 

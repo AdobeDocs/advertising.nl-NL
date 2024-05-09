@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: e5874077-d2a8-43bb-ad4e-55547442c8a4
-source-git-commit: f6b23b79d2a7f8d743849efc9182198ef5b39b4a
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '445'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -18,8 +18,8 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
-| 16 december 2023 | Help | In een nieuw document wordt uitgelegd hoe u A/B-tests kunt instellen in [!DNL Target] voor doorklikverkeer van advertenties in Zoeken, Sociaal, &amp; Handel, evenals tips voor het meten en visualiseren van uw tests in [!DNL Analytics]. | Zie &quot;[A/B-tests configureren in Adobe Target voor zoek-, sociale en handelsadvertenties](/help/integrations/target/ab-tests-search.md).&quot; |
-| 8 augustus 2023 | [!DNL Analytics for Advertising] | Sommige [!DNL Analytics] De metriek van de succesgebeurtenis, met inbegrip van norm, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en in Onderzoek, Sociale, &amp; Handel. Nu kunt u nu ook uw eigen succesmaatstaven configureren op basis van uw bestaande [!DNL Analytics] [!DNL eVars] en [!DNL props] door middel van fundering [!DNL eVar]- en [!DNL prop]-level gegevens in een douane succesgebeurtenis. | Zie &quot;[Conversiemetriek maken van Adobe Analytics [!DNL eVars] en [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot; |
+| 16 december 2023 | Help | In een nieuw document wordt uitgelegd hoe u A/B-tests kunt instellen in [!DNL Target] voor doorklikverkeer van advertenties in Zoeken, Sociaal, &amp; Commerce en tips voor het meten en visualiseren van uw tests in [!DNL Analytics]. | Zie &quot;[A/B-tests configureren in Adobe Target voor zoek-, sociale en Commerce-advertenties](/help/integrations/target/ab-tests-search.md).&quot; |
+| 8 augustus 2023 | [!DNL Analytics for Advertising] | Sommige [!DNL Analytics] Metrische gegevens over succesgebeurtenissen, zoals standaard, aangepaste en gereserveerde conversiemetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en in Zoeken, Sociaal en Commerce. Nu kunt u nu ook uw eigen succesmaatstaven configureren op basis van uw bestaande [!DNL Analytics] [!DNL eVars] en [!DNL props] door middel van fundering [!DNL eVar]- en [!DNL prop]-level gegevens in een douane succesgebeurtenis. | Zie &quot;[Conversiemetriek maken van Adobe Analytics [!DNL eVars] en [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot; |
 | 13 juli 2023 | Rapportage | (DSP gebruikers met [!DNL Analytics for Advertising]) Doorkijkconversies voor aangesloten tv-plaatsingen (CTV) worden nu opgenomen in conversiegegevens die beschikbaar zijn in Adobe Analytics. | Zie de sectie over &quot;Voorbeelden van hoe te om de Integratie&quot;te gebruiken in &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md#integration-examples).&quot; |
 | 1 november 2022 | Help | In een nieuw document wordt uitgelegd hoe u doorklikken en doorzien van signalen kunt implementeren tussen Advertising DSP en Adobe Target, en hoe u een A/B-testactiviteit kunt instellen in [!DNL Target] voor uw DSP advertenties en hoe u Adobe Analytics Analysis Workspace instelt om de testgegevens weer te geven. | Zie &quot;[A/B-tests configureren in Adobe Target voor advertenties DSP advertenties](/help/integrations/target/ab-tests-dsp.md).&quot; |
 | 17 augustus 2022 | Help | In een nieuw hoofdstuk worden alle manieren beschreven waarop Adobe Advertising met Adobe Audience Manager is geïntegreerd. | Zie het hoofdstuk over &quot;Integratie met Adobe Audience Manager&quot;, inclusief een overzicht van &quot;[Integratie van Adobe Advertising met Adobe Audience Manager](/help/integrations/audience-manager/overview.md).&quot; |

@@ -3,9 +3,9 @@ title: Creeer een Bron van het Publiek om Eerste Publiek te activeren
 description: Leer hoe u een bron kunt maken voor het importeren van soorten publiek naar uw account of een adverteerderaccount.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 6c918b387067237de5d1eae42ae8ad253884d761
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '157'
 ht-degree: 1%
 
 ---
@@ -40,7 +40,7 @@ Voor extra die stappen worden vereist om segmenten van specifieke platforms van 
 
 >[!NOTE]
 >
->Nadat u een bron voor uw platform van klantengegevens creeert, zult u extra stappen moeten voltooien. Zie de [activeringsworkflow voor [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> en de [activeringsworkflow voor [!DNL Tealium]](source-tealium.md).
+>Nadat u een bron voor uw platform van klantengegevens creeert, moet u extra stappen voltooien. Zie de [activeringsworkflow voor [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> en de [activeringsworkflow voor [!DNL Tealium]](source-tealium.md).
 
 >[!MORELIKETHIS]
 >

@@ -4,9 +4,9 @@ description: Meer informatie over ondersteuning voor het vastleggen van aanvrage
 feature: CCPA
 role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: 7378ea6e6907aa4067bd3e73160a8e71c925ec9d
+source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '987'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
    >
    >Als uw bedrijf veelvoudige Experience Cloud organisatie IDs heeft, dan moet u afzonderlijke API verzoeken voor elk verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ([!DNL Search, Social, & Commerce], [!DNL Creative], [!DNL DSP], en [!DNL DCO]), met één rekening per suboplossing.
 
-Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Ga voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service en waar u de benodigde items kunt vinden naar [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
+Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken die u moet uitvoeren met de Adobe Experience Platform Privacy Service, en waar u de benodigde items moet vinden, raadpleegt u [https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html).
 
 ## Rapporten ophalen van consumenten die verzoeken om niet-te verkopen hebben ingediend
 
