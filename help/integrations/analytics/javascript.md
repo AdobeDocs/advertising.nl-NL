@@ -3,9 +3,9 @@ title: JavaScript-code voor [!DNL Analytics for Advertising]
 description: JavaScript-code voor [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
-source-git-commit: d591388a956adf41882b0bfdd5f74c5a07837657
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '921'
+source-wordcount: '920'
 ht-degree: 0%
 
 ---
@@ -75,7 +75,7 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
    * De eerste rij is de aanroep naar de JavaScript-bibliotheek en krijgt de naam `last-event-tag-latest.min.js`.
    * De tweede rij is de vraag die het verzoek naar Adobe Advertising verzendt. Het begint als volgt: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
 
-     Als u niet de vraag aan Adobe Advertising ziet, dan zou het niet de eerste paginamening van uw bezoek kunnen zijn. Voor testdoeleinden kunt u de cookie verwijderen zodat de volgende aanroep de eerste paginaweergave voor het bijbehorende bezoek wordt:
+     Als u niet de vraag aan Adobe Advertising ziet, dan zou het niet de eerste paginamening van uw bezoek kunnen zijn. Voor testdoeleinden kunt u het cookie verwijderen zodat de volgende aanroep de eerste paginaweergave voor het bijbehorende bezoek is:
 
    1. Zoek op het tabblad Toepassing naar het tabblad `adcloud` cookie, en controleer of de cookie `_les_v` (laatste bezoek) met een waarde van `y` en een tijdstempel voor UTC-tijdperk die over 30 minuten verloopt.
       1. Verwijder de `adcloud` cookie maken en de pagina vernieuwen
@@ -84,11 +84,11 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
 
    ![Filteren op `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
-1. (Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code) Filter op `/interact` om te verifiëren dat de verzoeklading aan het Netwerk van Edge bevat `advertisingStitchID`.
+1. (Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code) Filter op `/interact` om te verifiëren dat de verzoeklading aan de Edge Network bevat `advertisingStitchID`.
 
    ![Filteren op `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
 
-1. Vergelijk de id-waarden tussen de twee treffers. Alle waarden worden opgenomen in parameters van queryreeksen, behalve de id van de rapportsuite in de hit Analytics. Dit is het URL-pad dat onmiddellijk volgt `/b/ss/`.
+1. Vergelijk de id-waarden tussen de twee treffers. Alle waarden moeten in parameters van het vraagkoord behalve rapportreeks identiteitskaart in de Bevolking van Analytics zijn, die de weg URL onmiddellijk na is `/b/ss/`.
 
    | ID | Parameter Analytics | Edge Network | Parameter Adobe Advertising |
    | --- | --- | --- | --- |
@@ -108,7 +108,7 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
 1. In de [!UICONTROL Request URL - Hostname] parameterrij, zoeken `lasteventf-tm.everesttech.net`.
 1. In de [!UICONTROL Request - Parameters] rij, controleer de geproduceerde signalen, gelijkend op Stap 3 in &quot;[De code bevestigen met [!DNL Chrome Developer Tools]](#validate-js-chrome).&quot;
    * (Implementaties die gebruikmaken van de Experience Cloud Identity Service `visitorAPI.js` code) Controleer of de `Sdid` parameter komt overeen met `Supplemental Data ID` in het Adobe Analytics-filter.
-   * (Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code) Controleer of de waarde van de `advertisingStitchID` parameter komt overeen met `Sdid` naar het Experience Platform Edge Network verzonden.
+   * (Implementaties die het Experience Platform gebruiken [!DNL Web SDK] `alloy.js`code) Controleer of de waarde van de `advertisingStitchID` parameter komt overeen met `Sdid` verzonden naar de Edge Network van het Experience Platform.
    * Als de code niet genereert, controleert u of de Adobe Advertising-cookie is verwijderd in het dialoogvenster [!UICONTROL Application] tab. Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.
 
    ![Controle [!DNL Analytics for Advertising] JavaScript-code in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)

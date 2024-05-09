@@ -1,26 +1,26 @@
 ---
-title: Klik- en indrukgegevens verzamelen uit DSP advertenties
+title: Klik- en indrukgegevens verzamelen van advertentie- DSP campagnes
 description: Leer hoe u op cookies gebaseerde beelden vastlegt en op gebeurtenissen klikt in advertenties DSP advertenties met Audience Managers pixels
 feature: Integration with Adobe Audience Manager
 exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '1056'
+source-wordcount: '1000'
 ht-degree: 0%
 
 ---
 
-# Blootstellingsgegevens van media verzamelen van reclame DSP campagnes
+# Blootstellingsgegevens van media verzamelen van advertenties DSP campagnes
 
 *Adverteerders DSP alleen reclame*
 
-*Adverteerders met een Adobe Advertising-Adobe Audience Manager Integration Only*
+*Adverteerders met alleen Adobe Advertising-Adobe Audience Manager-integratie*
 
 In dit document wordt uitgelegd hoe u advertenties DSP advertenties kunt voorzien van labels om op cookies gebaseerde beelden vast te leggen en op gebeurtenissen kunt klikken met pixels van Audience Managers en extra taken om de gegevens te kunnen gebruiken.
 
 De gebeurtenispixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookie, zoals mobiele apps en aangesloten tv (CTV).
 
-## Stap 1: Een gegevensbron instellen in Audience Manager {#set-up-data-source}
+## Stap 1: Opstelling een Gegevensbron in Audience Manager {#set-up-data-source}
 
 Maak in de Audience Manager een [gegevensbron](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html) voor de DSP en klik op gegevens. De gegevensbron-id opnemen [in elke gebeurtenistag](#implement-dsp-pixels) zodat alle bijgehouden gebeurtenissen worden toegewezen aan de gegevensbron.
 
@@ -51,7 +51,7 @@ with [optionele aanvullende parameters](#parameters) voorgefixeerd met `&`
 
 with [optionele aanvullende parameters](#parameters) voorgefixeerd met `&`
 
-Waar:
+Waarbij:
 
 * `[Audience Manager customer domain]` is de domeinnaam waarnaar de indruk wordt gewekt of waarop klikgebeurtenissen worden verzonden [!DNL Adobe].
 
@@ -75,9 +75,9 @@ Waar:
     
     Voorbeeld: `&amp;d_placement=${TM_PLACEMENT_ID_NUM}`
 
-Beide typen pixels kunnen aanvullende parameters bevatten als *sleutelwaardeparen* om eigenschappen te verzamelen of campagnemetagegevens (zoals een plaatsingsnaam of een campagnenaam) voor andere rapporten te verstrekken. Een sleutelwaardepaar bestaat uit twee gerelateerde elementen: a *key*, dat een constante is die de gegevensset definieert, en een *value*, een variabele die tot de set behoort.
+Beide typen pixels kunnen aanvullende parameters bevatten als *sleutelwaardeparen* om eigenschappen te verzamelen of campagnemetagegevens (zoals een plaatsingsnaam of een campagnenaam) voor andere rapporten te verstrekken. Een sleutelwaardepaar bestaat uit twee gerelateerde elementen: a *key*, een constante die de gegevensset definieert, en een *value*, een variabele die tot de set behoort.
 
-In het sleutelwaardepaar, kan de waardevariabele of hard - gecodeerde identiteitskaart of zijn *macro* Dit is een kleine eenheid op zichzelf staande code die dynamisch wordt vervangen door de bijbehorende waarden wanneer de tag ad wordt geladen voor het bijhouden van campagnes en gebruikers. Voor campagneparameters kunt u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) in plaats van Audience Manager macros om campagnerekenmerken samen met de overeenkomstige indruk te verzenden of gegevens aan Audience Manager te klikken, gebruikend één enkele pixel over alle advertenties. De DSP macro&#39;s die u in uw gebeurtenispixels invoegt, moeten de juiste waarden zijn voor de sleutelwaardeparen die u in de pixels opneemt. Bijvoorbeeld voor `d_placement` sleutel, zou u de DSP macro gebruiken `${TM_PLACEMENT_ID_NUM}` als de waarde voor het vastleggen van plaatsings-id&#39;s die zijn gegenereerd door de Adobe-advertentiemacro.
+In het sleutelwaardepaar, kan de waardevariabele of hard - gecodeerde identiteitskaart of zijn *macro* Dit is een kleine eenheid op zichzelf staande code die dynamisch wordt vervangen door de bijbehorende waarden wanneer de tag ad wordt geladen voor het bijhouden van campagnes en gebruikers. Voor campagneparameters kunt u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) in plaats van Audience Manager macros om campagnerekenmerken samen met de overeenkomstige indruk te verzenden of gegevens aan Audience Manager te klikken, gebruikend één enkele pixel over alle advertenties. De DSP macro&#39;s die u in uw gebeurtenispixels invoegt, moeten de juiste waarden zijn voor de sleutelwaardeparen die u in de pixels opneemt. Bijvoorbeeld voor `d_placement` sleutel, zou u de DSP macro gebruiken `${TM_PLACEMENT_ID_NUM}` als de waarde voor het vastleggen van plaatsings-id&#39;s die zijn gegenereerd door de Adobe Advertising-macro.
 
 Raadpleeg &quot;[Vastleggen van Campagne-indrukgegevens via pixelaanroepen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
 
@@ -86,10 +86,9 @@ Voor een lijst met macro&#39;s die Audience Manager ondersteunt voor click-gebeu
 >[!TIP]
 >
 >* De beste manier is om de campagne, plaatsing, creatieve (advertentie) en site-id&#39;s op te nemen, zodat u de campagnerekenmerken kunt gebruiken om Audience Manager-eigenschappen te maken.
->* Voor het maken van Audience Optimization-rapporten zijn aanvullende parameters vereist.
->* Vervang de waarden in de sleutelwaardeparen door de relevante [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) zodat u in alle campagnes één pixel kunt gebruiken voor alle advertenties. Bijvoorbeeld, wijzigen `d_campaign=[%campaignID%]`tot `d_campaign=${TM_CAMPAIGN_ID_NUM}` om campagne-id&#39;s vast te leggen die zijn gegenereerd door de Adobe Advertising macro.
+>* Voor het maken van rapporten over Audiencen Optimization zijn aanvullende parameters vereist.
+>* Vervang de waarden in de sleutelwaardeparen door de relevante [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) zodat u in alle campagnes één pixel kunt gebruiken voor alle advertenties. Bijvoorbeeld, wijzigen `d_campaign=[%campaignID%]`tot `d_campaign=${TM_CAMPAIGN_ID_NUM}` om campagne-id&#39;s vast te leggen die zijn gegenereerd door de Adobe Advertising-macro.
 >* Indien nodig kunt u uw eigen parameters met gecodeerde waarden maken. Voorbeeld: `d_DSP=AdCloud`
-
 
 Voorbeeld van een pixel van een impressiegebeurtenis:
 
@@ -121,7 +120,7 @@ Als uw gegevens zich op de servers van de Audience Manager bevinden, moet u een 
 
 ### Audience Managers en segmenten maken
 
-Uw gebeurtenisgegevens stromen in Audience Manager als [ongebruikte signalen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Handmatig maken [op regels gebaseerde kenmerken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) van de opgenomen gegevens, en creeer dan [segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) gebruik deze kenmerken voordat u de gegevens in rapporten kunt gebruiken.
+Uw gebeurtenisgegevens stromen in Audience Manager als [ongebruikte signalen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Handmatig maken [op regels gebaseerde kenmerken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) van de opgenomen gegevens en maak vervolgens [segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) gebruik deze kenmerken voordat u de gegevens in rapporten kunt gebruiken.
 
 Voorbeeld dat gegevens op gebruikersniveau vult voor gebruikers die worden blootgesteld aan een bepaalde creatieve functie in DSP:
 
@@ -135,4 +134,3 @@ Voorbeeld dat gegevens op gebruikersniveau vult voor gebruikers die worden bloot
 >* [DSP Macros](/help/dsp/campaign-management/macros.md)
 >* [Overzicht van het verzenden van gegevens over DSP mediablootstelling naar Adobe Audience Manager](overview.md)
 >* [Gevallen gebruiken](use-cases.md)
-

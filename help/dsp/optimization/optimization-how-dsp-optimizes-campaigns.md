@@ -3,32 +3,32 @@ title: Hoe DSP uw campagnes optimaliseert
 description: Leer hoe DSP de pakketten in uw campagnes optimaliseert.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '679'
 ht-degree: 0%
 
 ---
 
 # Hoe reclame uw campagnes DSP optimaliseren
 
-Deze pagina beschrijft hoe de DSP optimaliseringsmotor, die door wordt aangedreven [!DNL Adobe Sensei], optimaliseert de pakketten in uw campagnes. Neem voor tips en trucs voor het handmatig optimaliseren van uw campagnes contact op met het accountteam van Adobe. <!-- add link to trading playbook if we add it to help -->
+Deze pagina beschrijft hoe de DSP optimaliseringsmotor, die door wordt aangedreven [!DNL Adobe Sensei], optimaliseert de pakketten in uw campagnes. Neem voor tips en trucs voor het handmatig optimaliseren van uw campagnes contact op met het accountteam van de Adobe. <!-- add link to trading playbook if we add it to help -->
 
 De optimalisatiedoelstellingen van het pakket werken op twee niveaus:
 
 * Voor elk pakket: DSP wijst budget toe aan elke plaatsing binnen het pakket op basis van de prestaties van de plaatsing ten opzichte van de geselecteerde KPI.
 
-* Voor elke plaatsing/veiling in het pakket: DSP berekent de economische PKI-waarde in real time voor elke veiling per plaatsing en gebruikt deze waarde vervolgens om het bod te bepalen.
+* Voor elke plaatsing/veiling in het pakket: DSP berekent de real-time economische PKI-waarde voor elke veiling per plaatsing en gebruikt deze waarde vervolgens om het bod te bepalen.
 
-   >[!NOTE]
-   >
-   >De economische waarde kan zwaar worden gewogen op basis van hoe goed een plaatsing uitgaven. Als een plaatsing achter zijn uitgavendoel staat, dan zal het worden toegestaan veilingen van lagere kwaliteit te kopen. Als een plaatsing gemakkelijk zijn uitgavendoel bereikt, dan zal het zich op hogere kwaliteitsveilingen concentreren.
+  >[!NOTE]
+  >
+  >De economische waarde kan zwaar worden gewogen op basis van hoe goed een plaatsing uitgaven. Als een plaatsing achter zijn uitgavendoel ligt, dan is het toegestaan veilingen van lagere kwaliteit te kopen. Als een plaatsing gemakkelijk zijn uitgavendoel bereikt, dan verschuift de nadruk naar hogere kwaliteit veilingen.
 
 ## Pakketoptimalisatie
 
 DSP kan uw levering op twee fundamentele manieren optimaliseren, met 20 beschikbare variaties om zich aan uw specifiek prestatiesdoel te richten. U kunt kiezen:
 
-* Prioriteit geven aan de prestatiesnelheid
+* Prioriteit geven aan de prestatiessnelheid
 
 * Prioriteit geven aan kostenefficiëntie voor balancering met prestatiesnelheid
 
@@ -42,7 +42,7 @@ Deze optimalisatiemodus werkt goed als:
 
 * U kent reeds het effectieve/aanvaardbare CPM niveau (bijvoorbeeld, een historische benchmark).
 
-* U bent bereid om manueel aan te passen [!UICONTROL Max Bid] voor elke plaatsing als u uitdagingen met het schrapen ervaart.
+* U bent bereid handmatig de [!UICONTROL Max Bid] voor elke plaatsing als u met schalen wordt geconfronteerd.
 
 * U geeft prioriteit aan schaal boven efficiëntie.
 
@@ -50,7 +50,7 @@ Deze optimalisatiemodus werkt goed als:
 
 * Als de uitgaven op tijd zijn, wordt het bieden selectiever, zodat je alleen op veilingen biedt die hoge prestatietarieven zullen hebben.
 
-* Als de bestedingen achterblijven, wordt het bieden minder selectief, zodat je op veilingen kunt bieden die lagere prestatietarieven zullen hebben om de pakketdoelstelling te halen.
+* Als de bestedingen achterblijven, wordt het bieden minder selectief, zodat je op veilingen kunt bieden waarvan wordt verwacht dat ze lagere prestatietarieven zullen hebben om de pakketdoelstelling te halen.
 
 #### Prijs/biedarcering wissen {#clearing-price-performance}
 
@@ -74,7 +74,7 @@ Nadat de prijsbepalingslogica is uitgevoerd, voert DSP het voorgestelde bod uit 
 
 ## Plaatsing optimaliseren
 
-Plaatsingsfilters voor voorbiedingen zijn de strengste manier om goede prestaties te garanderen. DSP gebruikt voorbiedingsfilters strategisch voor verschillende advertentietypen om prestatiedoelen te bereiken voor verschillende plaatsen binnen elk pakket. U kunt voorbiedingsfilters gebruiken in combinatie met optimalisatie op pakketniveau of onafhankelijk van elkaar.
+Plaatsingsfilters voor voorbiedingen zijn de strengste manier om goede prestaties te garanderen. DSP gebruikt voorbiedingsfilters strategisch voor verschillende advertentietypen om prestatiedoelen te bereiken voor verschillende plaatsen binnen elk pakket. U kunt voorbiedingsfilters tegelijk met optimalisatie op pakketniveau of onafhankelijk gebruiken.
 
 >[!NOTE]
 >
@@ -89,4 +89,3 @@ Zie [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](opt
 >* [Optimalisatiedoelstellingen en hoe deze te gebruiken](optimization-goals.md)
 >* [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](optimization-pre-bid-filters.md)
 >* [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
-

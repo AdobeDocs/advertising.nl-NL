@@ -3,9 +3,9 @@ title: Instellingen voor mobiele advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor mobiele advertenties.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
-source-git-commit: 2f137b17deea4cd02ae19494a306ff37c7002423
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '643'
 ht-degree: 0%
 
 ---

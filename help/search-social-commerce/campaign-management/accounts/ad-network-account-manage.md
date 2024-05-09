@@ -3,9 +3,9 @@ title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
 exl-id: 4038d03b-63e2-4953-89df-37f7b5f68652
 feature: Search Campaign Management
-source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '2082'
+source-wordcount: '2079'
 ht-degree: 0%
 
 ---
@@ -37,7 +37,7 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
 
    1. In de **[!UICONTROL Account Details]** Voer de accountgegevens in.
 
-      Voor advertentienetwerken die het type van login vergunning gebruiken &quot;[!UICONTROL oAuth],&quot; staat Search, Social &amp; Commerce toe om toegang te krijgen tot de account via de [OAuth-autorisatieprotocol](https://oauth.net/2/):
+      Voor advertentienetwerken die het type van login vergunning gebruiken &quot;[!UICONTROL oAuth],&quot; staat Search, Social &amp; Commerce toe toegang te krijgen tot het account via de [OAuth-autorisatieprotocol](https://oauth.net/2/):
 
       1. Voer de **[!UICONTROL Login]** waarde voor de account, voert u desgewenst het wachtwoord in en klikt u op **[!UICONTROL Authenticate]**.
 
@@ -55,7 +55,7 @@ Als u het synchroniseren of bijhouden van een account wilt inschakelen, moet u e
 
 1. Klik op **[!UICONTROL Post]**.
 
-   Recente kosten en klik op gegevens voor alle campagnes in de account zijn binnen 24 uur beschikbaar in Zoeken, Sociale Zaken en Handel. Standaard zijn gegevens beschikbaar gedurende de laatste 5-10 dagen, afhankelijk van het advertentienetwerk. Indien nodig, echter, kan het team van de projectlancering gegevens voor maximaal de laatste 60 dagen terugwinnen.
+   Recente kosten en klik op gegevens voor alle campagnes in de account zijn binnen 24 uur beschikbaar in Zoeken, Sociaal en Commerce. Standaard zijn gegevens beschikbaar gedurende de laatste 5-10 dagen, afhankelijk van het advertentienetwerk. Indien nodig, echter, kan het team van de projectlancering gegevens voor maximaal de laatste 60 dagen terugwinnen.
 
 ## Gegevens van netwerkaccounts bewerken {#edit-account}
 
@@ -81,13 +81,13 @@ Als de verificatiegegevens van de account veranderen, wilt u de standaardparamet
 
    >[!NOTE]
    >
-   >Zoek, Sociaal, &amp; Handel moet de nieuwe rekeningsgegevens met die op het advertentienetwerk synchroniseren. Dit gebeurt automatisch één keer per dag, of vaker wanneer Onderzoek, Sociale, &amp; Handel veranderingen op het advertentienetwerk ontdekt.
+   >Zoeken, Sociaal en Commerce moeten de nieuwe accountgegevens synchroniseren met de gegevens op het advertentienetwerk. Dit gebeurt automatisch één keer per dag, of vaker wanneer Zoeken, Sociaal en Commerce wijzigingen op het advertentienetwerk detecteert.
 
 ## Tokens voor automatische toegang tot zoekaccounts vernieuwen {#refresh-oauth-tokens}
 
 *Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
-Als Zoeken, Sociaal en Handel toegang heeft tot de account met de [OAuth-autorisatieprotocol](https://oauth.net/2/) en de geloofsbrieven van de rekening veranderen, of als extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Handel te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
+Als Zoeken, Sociaal en Commerce toegang heeft tot het account met het dialoogvenster [OAuth-autorisatieprotocol](https://oauth.net/2/) en de accountgegevens veranderen, of als aanvullende toegang vereist is voor de ondersteuning van nieuwe functies in Zoeken, Sociaal en Commerce, moet u een nieuw toegangstoken voor het account krijgen.
 
 Uw accountteam van de Adobe zal u informeren als nieuwe functies een nieuw token vereisen.
 
@@ -113,7 +113,7 @@ Uw accountteam van de Adobe zal u informeren als nieuwe functies een nieuw token
 
 *Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
-Wanneer u een advertentienetwerkaccount inschakelt, synchroniseert u met Zoeken, Sociale Zaken en Handel campagnegegevens met de account (indien ondersteund) en voert u geautomatiseerde biedingen en/of campagnebudgetten voor campagnes in portfolio&#39;s uit.Wanneer u een advertentienetwerkaccount uitschakelt, stopt u met Zoeken, Sociaal en Handel alle activiteiten op de account. Gegevens die zijn verzameld terwijl de account actief was, worden nog opgeslagen, maar de weergaven en rapporten voor het campagnebeheer bevatten geen gegevens voor de periode waarin de account is uitgeschakeld. U kunt de account later weer inschakelen om de activiteiten met de account te hervatten.
+Wanneer u een advertentienetwerkaccount inschakelt, synchroniseren Zoeken, Sociaal en Commerce campagnegegevens met de account (indien ondersteund) en worden geautomatiseerde biedingen en/of campagnebudgetten voor campagnes in portfolio&#39;s geactiveerd.Wanneer u een advertentienetwerkaccount uitschakelt, stopt Zoeken, Sociaal en Commerce alle activiteiten op de account. Gegevens die zijn verzameld terwijl de account actief was, worden nog opgeslagen, maar de weergaven en rapporten voor het campagnebeheer bevatten geen gegevens voor de periode waarin de account is uitgeschakeld. U kunt de account later weer inschakelen om de activiteiten met de account te hervatten.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]**. Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]**.
 
@@ -143,11 +143,11 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseert u met Zoeken,
 >
 >De rekeningen van de Adnetwork manager worden hier niet gesteund. Een beheerdersaccount identificeren voor [!DNL Microsoft Advertising] of [!DNL Yandex], gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Naar [aanmeldingsgegevens instellen voor een [!DNL Google Ads] beheeraccount](/help/search-social-commerce/admin/manager-accounts.md), ga naar [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
 
-**[!UICONTROL Account Name]:** De naam die moet worden weergegeven voor het account in Zoeken, Sociale media en Handel.
+**[!UICONTROL Account Name]:** De naam die moet worden weergegeven voor het account in Zoeken, Sociaal en Commerce.
 
 >[!NOTE]
 >
->Als u de integratie Search, Social &amp; Commerce-Adobe Analytics hebt en de naam van de zoekaccount wijzigt, stuurt u een melding naar het accountteam van de Adobe zodat deze de toewijzing kan bijwerken.
+>Als u de integratie Zoeken, Sociaal en Commerce-Adobe Analytics hebt en de naam van de zoekaccount wijzigt, stuurt u een melding naar het accountteam van de Adobe zodat deze de toewijzing kan bijwerken.
 
 **[!UICONTROL Login Details]: \[Aanmeldingstype\]** - ([!DNL Microsoft Advertising]/[!DNL Microsoft Merchant Center] alleen) Of u aanmeldingsgegevens voor de account wilt toestaan met:
 
@@ -178,12 +178,12 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 >* Dit veld wordt niet bijgewerkt door de [!UICONTROL Auto Upload] instelling voor tekstspatiëring.
 >* De laatste URL-achtervoegsels op lagere niveaus overschrijven het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de advertentiegroep of lager te vormen, gebruik de redacteur van het advertentienetwerk.
 
-**Tijdzone:** (Alle advertentienetwerken behalve [!DNL Baidu] en [!DNL Yahoo! Display Network]) De tijdzone van de adverteerder. Dit veld kan worden bewerkt en optioneel voor nieuwe [!DNL Naver] rekeningen. Voor alle andere onderzoeksnetwerken, wordt de waarde automatisch gevuld met de tijdzone die voor de rekening van het Onderzoek, Sociale, &amp; van de Handel van de adverteerder wordt gevormd zodra u het verslag opslaat.
+**Tijdzone:** (Alle advertentienetwerken behalve [!DNL Baidu] en [!DNL Yahoo! Display Network]) De tijdzone van de adverteerder. Dit veld kan worden bewerkt en optioneel voor nieuwe [!DNL Naver] rekeningen. Voor alle andere zoeknetwerken wordt de waarde automatisch gevuld met de tijdzone die is geconfigureerd voor de account Zoeken, Sociaal en Commerce van de adverteerder wanneer u de record opslaat.
 
-**Status:** De rekeningstatus in Zoeken, Sociale &amp; Handel:
+**Status:** De accountstatus in Zoeken, Sociaal en Commerce:
 
-* *Ingeschakeld:* Met Zoeken, Sociale media en Handel worden campagnegegevens gesynchroniseerd met de account (indien ondersteund) en worden geautomatiseerde biedingen en/of campagnebudgetten voor campagnes in portfolio&#39;s onder de aandacht gebracht.
-* *Uitgeschakeld:* Met Zoeken, Sociaal en Handel stopt u alle activiteiten op de account. Gegevens die zijn verzameld terwijl de account actief was, worden nog opgeslagen, maar de weergaven en rapporten voor het campagnebeheer bevatten geen gegevens voor de periode waarin de account is gepauzeerd. U kunt het account later opnieuw activeren om de activiteiten met het account te hervatten.
+* *Ingeschakeld:* Met Zoeken, Sociaal en Commerce worden campagnegegevens gesynchroniseerd met de account (indien ondersteund) en worden geautomatiseerde biedingen en/of campagnebudgetten voor campagnes in portfolio&#39;s opgehaald.
+* *Uitgeschakeld:* Zoeken, Sociaal en Commerce stopt alle activiteiten op het account. Gegevens die zijn verzameld terwijl de account actief was, worden nog opgeslagen, maar de weergaven en rapporten voor het campagnebeheer bevatten geen gegevens voor de periode waarin de account is gepauzeerd. U kunt het account later opnieuw activeren om de activiteiten met het account te hervatten.
 
 **Sjabloon voor bijhouden** - ([!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yahoo! Japan Ads] alleen accounts; optioneel) De standaard volgsjabloon voor de account, die alle omleidingen en volgparameters van het niet-landende domein opgeeft en ook de URL van de laatste/bestemmingspagina in een parameter insluit. Voorbeeld: `{lpurl}?source={network}&id=5` of `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` om een omleiding op te nemen.
 
@@ -197,7 +197,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen.
 
-* Wanneer de campagne-instellingen &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Handel vooraf fixeert automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.
+* Wanneer de campagne-instellingen &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; Onderzoek, Sociale, &amp; Commerce prefixeert automatisch zijn eigen omleiding en volgcode wanneer u sparen het verslag.
 
 >[!NOTE]
 >
@@ -211,7 +211,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 **[!UICONTROL Application ID]:** ([!DNL Yandex] alleen accounts) De ontwikkelaarstoken die voor de account moet worden gebruikt. Hetzelfde token wordt gebruikt voor alles [!DNL Yandex] rekeningen.
 
-**[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts met de instelling Gedeelde account alleen uitgeschakeld; optioneel) De numerieke id voor de campagne die wordt gebruikt om alle advertentiecampagnes in de account te betalen.
+**[!UICONTROL Purse Campaign ID]:** ([!DNL Yandex] accounts met de instelling Gedeelde account alleen uitgeschakeld; optioneel) De numerieke id van de campagne die wordt gebruikt om voor alle advertentiecampagnes in de account te betalen.
 
 **[!UICONTROL Finance Token]:** ([!DNL Yandex] accounts met de instelling Gedeelde account zijn alleen uitgeschakeld; optioneel) De ontwikkelaarstoken die wordt gebruikt voor API-aanroepen die betrekking hebben op financiering, zoals voor het opnieuw toewijzen van geld uit de portemonnee tussen de campagnes van de adverteerder als dit nodig is voor het optimaliseren van het portfolio.
 
@@ -253,9 +253,9 @@ Als dit account op campagne- en advertentieniveau moet rapporteren, klikt u op d
 
 Voor volledige instructies raadpleegt u &quot;[De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot;
 
-**Namen van rapportsuite** - (Alleen voor EF-omleiding met token; adverteerders met een Adobe Advertising-Adobe Analytics-integratie; optioneel) Een of meer Analytics-rapportreeksen waarnaar Search, Social &amp; Commerce gegevens verzendt die deze verzamelt via het advertentienetwerk, waaronder entiteitsclassificaties en klik op gegevens voor de account. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
+**Namen van rapportsuite** - (Alleen voor EF-omleiding met token; adverteerders met een Adobe Advertising-Adobe Analytics-integratie; optioneel) Een of meer Analytics-rapportreeksen waarnaar Search, Social &amp; Commerce gegevens verzendt die zij van het advertentienetwerk verzamelt, waaronder entiteitsclassificaties en klik op gegevens voor de account. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
-Voor de gegevens die in de rapportreeksen moeten verschijnen, of a) moet de server-side eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of b) adverteerder-niveau die aan &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Daarnaast moet de account Analytics van de adverteerder zo zijn geconfigureerd dat gegevens van Search, Social &amp; Commerce worden ontvangen. Neem voor meer informatie contact op met de accountmanager van de Adobe.
+Voor de gegevens die in de rapportreeksen moeten verschijnen, of a) moet de server-side eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of b) adverteerder-niveau die aan &quot;[!UICONTROL Enable tracking for SAINT feeds]&quot; moet zijn ingeschakeld. Daarnaast moet het account Analytics van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met de accountmanager van de Adobe.
 
 >[!MORELIKETHIS]
 >

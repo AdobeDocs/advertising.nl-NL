@@ -3,9 +3,9 @@ title: Eén advertentie maken
 description: Leer hoe u één externe advertentie kunt maken.
 feature: DSP Ads
 exl-id: fdfb02c0-9aec-4faf-b374-0f03c7a3fa98
-source-git-commit: 4af30f6fa6a81ce7f1a6879244178c84580caa0f
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
-1. Klik op de naam van de campagne waarin de advertentie wordt opgenomen.
+1. Klik op de naam van de campagne waarin u de advertentie wilt opnemen.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Ad Types] in het menu klikt u op de knop [advertentietype](ad-about.md#ad-types).
+1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Ad Types] klikt u op de knop [advertentietype](ad-about.md#ad-types).
 
 1. Geef de advertentie-instellingen op voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), [pre-rol advertenties](ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md):
 
@@ -40,7 +40,7 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 
       1. (Optioneel) Op de [!UICONTROL Pixel] , geeft u eventuele pixels op die door derden worden bijgehouden en die u aan de advertentie wilt koppelen.
 
-1. Wanneer de advertentie is voltooid, klikt u op **[!UICONTROL Save & Submit for Review]**.
+1. Klik op wanneer de advertentie is voltooid **[!UICONTROL Save & Submit for Review]**.
 
    De [advertentie bekijken](ad-about.md) neemt 24-48 uur in beslag en bevat controles op gevoelige categorieën, klik op URL-functionaliteit en voorvertoning van rendering. De kolom Status geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
 
@@ -53,6 +53,5 @@ Als u meerdere advertenties van derden tegelijk wilt maken, raadpleegt u [Meerde
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Meerdere externe advertenties maken](ad-create-multiple.md)
 >* [Een advertentie bewerken](ad-edit.md)
->* [Advertentiespecificaties](ad-specs.md)
+>* [Ad-specificaties](ad-specs.md)
 >* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
-

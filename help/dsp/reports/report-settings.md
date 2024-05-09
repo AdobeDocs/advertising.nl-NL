@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: a2712e16a54c7108e5999cb1b8db46e507a9ed55
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '1249'
+source-wordcount: '1257'
 ht-degree: 0%
 
 ---
@@ -114,9 +114,9 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Conversion Reporting Based On]:**  Conversiegegevens rapporteren:
 
-* *[!UICONTROL Conversion Timestamp]:* (De standaardwaarde) Conversies worden gekoppeld aan de conversiedatum.
+* *[!UICONTROL Conversion Timestamp]:* (De standaardwaarde) Conversies zijn gekoppeld aan de conversiedatum.
 
-* *[!UICONTROL Event Timestamp]:* Conversies worden gerapporteerd op basis van de datum van de indruk of klik die de conversie heeft veroorzaakt, zoals bepaald door het opgegeven [!UICONTROL Attribution Rule Settings].
+* *[!UICONTROL Event Timestamp]:* Conversies worden gerapporteerd op basis van de datum van de indruk of klik die de conversie heeft veroorzaakt, zoals bepaald door de opgegeven [!UICONTROL Attribution Rule Settings].
 
 ## [!UICONTROL Add Report Destinations] Sectie
 
@@ -134,7 +134,7 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 
 **[!UICONTROL Email]:** (Alleen type e-mailbestemming) Voer voor elk adres het adres in en klik op **+**.
 
-**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de rapportbestemmingen waarnaar het douanerapport zal worden verzonden.
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de rapportbestemmingen waarnaar het douanerapport wordt verzonden.
 
 * Selecteer een doelnaam in de lijst om een bestaand doel op te geven. U kunt meerdere doelnamen afzonderlijk selecteren.
 

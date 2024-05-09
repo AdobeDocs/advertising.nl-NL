@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: 4085c1b21c0fe84653978e449321868921841367
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '928'
+source-wordcount: '933'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 **[!UICONTROL Name]:** De naam van de campagne.
 
-**[!UICONTROL Advertiser]:** (Alleen-lezen voor bestaande campagnes) De toepasselijke adverteerder (merk). Selecteer een bestaande adverteerder of maak een nieuwe.
+**[!UICONTROL Advertiser]:** (Alleen-lezen voor bestaande campagnes) De toepasselijke adverteerder (merk). Selecteer een bestaande adverteerder of maak een nieuwe adverteerder.
 
 **[!UICONTROL Advertiser URL]:** De officiële pagina van de adverteerder. Dit veld versnelt het goedkeuringsproces voor advertenties met inventarispartners.
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Campaign Goals]
 
-**[!UICONTROL Margin Management]:** Of marges voor de campagne moeten worden beheerd: *[!UICONTROL Yes]* of *[!UICONTROL No]* (de standaardinstelling).
+**[!UICONTROL Margin Management]:** Of marges voor de campagne moeten worden beheerd: *[!UICONTROL Yes]* of *[!UICONTROL No]* (de standaardwaarde).
 
 Wanneer u *[!UICONTROL Yes],* het type en het bedrag van de marge specificeren:
 
@@ -40,7 +40,7 @@ Wanneer u *[!UICONTROL Yes],* het type en het bedrag van de marge specificeren:
 
 * **[!UICONTROL Fixed Margin %]:** (Alleen campagnes met vaste marges) De standaardmarkering voor elke invoegvolgorde <!-- impression? -->, als percentage. Dit bedrag wordt in mindering gebracht op het [!UICONTROL Gross Budget] de begroting van de nettocampagne vaststellen.
 
-* **[!UICONTROL Budget Reserve %]:** (Campagnes met alleen vaste marges; (optioneel) Reserveert een bepaald percentage van de [!UICONTROL Gross Budget] als vrijwaringsmaatregel. Dit bedrag wordt in mindering gebracht op het [!UICONTROL Gross Budget] de begroting van de nettocampagne vaststellen.
+* **[!UICONTROL Budget Reserve %]:** (Campagnes met alleen vaste marges; optioneel) Reserveert een bepaald percentage van de [!UICONTROL Gross Budget] als vrijwaringsmaatregel. Dit bedrag wordt in mindering gebracht op het [!UICONTROL Gross Budget] de begroting van de nettocampagne vaststellen.
 
 **[!UICONTROL Gross Budget]:** (Campagnes met uitsluitend margebeheer) De begroting voor het bruto-prijsbeleid, vóór de opgegeven marginale aanpassingen worden toegepast.
 
@@ -78,22 +78,21 @@ Belastingen die moeten worden ingehouden ramen:
 >
 >* U kunt deze waarden ook configureren in de instellingen voor accountkosten.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
+**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn gemaakt; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn gemaakt) Het niveau waarop DSP zich richt op advertenties en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten.
 
-**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn opgezet; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn opgezet) Het niveau waarop DSP zich richt op advertenties en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten.
-
-**[!UICONTROL Device Graph]:** (Alleen-lezen voor bestaande campagnes; campagnes met alleen op personen gebaseerde cross-device gerichte doelgroepen) De apparaatgrafiek die moet worden gebruikt voor apparaatgerichte toepassingen en frequentiebeheer:
+**[!UICONTROL Device Graph]:** (Alleen-lezen voor bestaande campagnes; campagnes met alleen op personen gebaseerde cross-device focus) De apparaatgrafiek die moet worden gebruikt voor apparaatbesturing en frequentiebeheer:
 
 * *[!UICONTROL LiveRamp - U.S. only]:* Beschikbaar aan alle adverteerders voor dwars-apparaat richtend bij $0.35 CPM voor beelden die door te gebruiken worden geleverd [!DNL LiveRamp] apparaatgrafiek (dat wil zeggen voor apparaten die niet worden gevonden binnen de doelpubliekssegmenten). U kunt een apparaatmarkering instellen op plaatsingsniveau.
 
-   Deze optie is ook beschikbaar voor alle adverteerders, zonder vergoedingen, voor frequentiebeheer en attributiemeting.
+  Deze optie is ook beschikbaar voor alle adverteerders, zonder vergoedingen, voor frequentiebeheer en attributiemeting.
 
-**[!UICONTROL Frequency Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level]) zal uit de campagne advertenties ontvangen. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
+**[!UICONTROL Frequency Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level]) kan uit de campagne worden aangeboden. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >
 > U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
 
-**[!UICONTROL Packages]:** De [pakketten](/help/dsp/campaign-management/packages/package-about.md) in de campagne op te nemen. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten maakt, raadpleegt u beschrijvingen over de [pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie .
+**[!UICONTROL Packages]:** De [pakketten](/help/dsp/campaign-management/packages/package-about.md) in de campagne op te nemen. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten maakt, raadpleegt u de beschrijvingen over de [pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie .
 
 ## [!UICONTROL Campaign Measurement]
 
@@ -105,17 +104,17 @@ Belastingen die moeten worden ingehouden ramen:
 
 #### [!UICONTROL Viewability, Fraud, & Brand Safety]
 
-**[!UICONTROL IAS]:** (Optioneel) Inschakelen [!DNL IAS] meting en rapportage van gezichtsvermogen, fraude, merkveiligheid en publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
+**[!UICONTROL IAS]:** (Optioneel) Inschakelen [!DNL IAS] meting en rapportage van gezichtsvermogen, fraude, merkveiligheid en verificatie van het publiek, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
 * **[!UICONTROL Measure On]:** De inventaris waarop wordt gemeten: *[!UICONTROL Display and VPAID video inventory]* (de standaardwaarde) of *[!UICONTROL Display, VPAID & VAST video inventory]*.
 
-   >[!NOTE]
-   >
-   >De videoviewability is meetbaar op VPAID slechts inventaris.
+  >[!NOTE]
+  >
+  >De videoviewability is meetbaar op VPAID slechts inventaris.
 
-* **[!UICONTROL IAS Account ID (AnID)]:** (Adverteerders [!DNL IAS] rekeningen; (facultatief) [!DNL IAS] account-id, die [!DNL IAS] rechtstreeks factureren voor gebruik.
+* **[!UICONTROL IAS Account ID (AnID)]:** (Adverteerders [!DNL IAS] accounts; optioneel) De organisatie [!DNL IAS] account-id, die [!DNL IAS] rechtstreeks factureren voor gebruik.
 
-* **[!UICONTROL IAS Team ID]:** (Adverteerders [!DNL IAS] rekeningen; (optioneel) De team-id voor de organisatie [!DNL IAS] account, welke [!DNL IAS] rechtstreeks factureren voor gebruik. <!-- verify -->
+* **[!UICONTROL IAS Team ID]:** (Adverteerders [!DNL IAS] accounts; optioneel) De team-id voor de organisatie [!DNL IAS] account, welke [!DNL IAS] rechtstreeks factureren voor gebruik. <!-- verify -->
 
 **[!UICONTROL MOAT]:** (Optioneel) Inschakelen [!DNL MOAT] meting en rapportage van gezichtsvermogen, fraude, merkveiligheid en verificatie van het publiek. Er zijn extra kosten van toepassing.
 
@@ -139,7 +138,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 ### [!UICONTROL 1st Party Metrics]
 
-**[!UICONTROL Viewability sensitivity]:** Hiermee worden metingen en rapportage van de gezichtsvermogen door de eerste partij mogelijk gemaakt met behulp van de [!DNL IAB Open Video Viewability (OpenVV)] technologie, gebaseerd op het gespecificeerde gevoeligheidsniveau:
+**[!UICONTROL Viewability sensitivity]:** Hiermee worden metingen en rapportage van de gezichtsvermogen door de eerste partij mogelijk gemaakt [!DNL IAB Open Video Viewability (OpenVV)] technologie, gebaseerd op het gespecificeerde gevoeligheidsniveau:
 
 * *[!UICONTROL Standard (50% of ad in view for two consecutive seconds)]*
 
@@ -151,4 +150,3 @@ Belastingen die moeten worden ingehouden ramen:
 >* [Een campagne maken](campaign-create.md)
 >* [Een campagne bewerken](campaign-edit.md)
 >* [Het Wijzigingslogboek voor een campagne weergeven](campaign-change-log.md)
-

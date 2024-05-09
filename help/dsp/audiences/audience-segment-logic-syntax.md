@@ -3,9 +3,9 @@ title: Syntaxis voor Audience Segment Logic
 description: Verwijs naar de syntaxis u kunt gebruiken om de logica voor publiekssegmenten te bepalen.
 feature: DSP Audiences
 exl-id: fb73f35f-1f65-463b-b93c-90804a8d19a9
-source-git-commit: 97f5e8913afb2f71505512bf8e4ab5bf56c1d7f8
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ means (in normale Engelse taal)
 
 >[!NOTE]
 >
->In plaatsingsmontages, kunt u opgeslagen publiek of als publiek gebruiken om uitdrukkelijk te richten of als afzonderlijke publiek om van het richten uit te sluiten. Zorg ervoor uw segmentlogica het doel weerspiegelt waarvoor u het publiek zult gebruiken.
+>In plaatsingsmontages, kunt u opgeslagen publiek of als publiek gebruiken om uitdrukkelijk te richten of als afzonderlijke publiek om van het richten uit te sluiten. Zorg ervoor uw segmentlogica het doel voor het gebruiken van het publiek weerspiegelt.
 
 >[!MORELIKETHIS]
 >

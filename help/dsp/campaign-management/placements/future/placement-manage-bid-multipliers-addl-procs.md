@@ -2,9 +2,9 @@
 title: Bodmultiplicatoren voor plaatsen beheren
 description: Meer informatie over het maken en bewerken van biedingsvermenigvuldigers voor opgegeven plaatsingsdoelen.
 feature: DSP Placements
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Voor alle geselecteerde plaatsen, kunt u of manueel waarden uitgeven of een spre
 
    * Als u de waarden voor de bodvermenigvuldiger handmatig wilt aanpassen, gaat u naar elk doelspecifiek tabblad ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en[!UICONTROL Brand Safety]) en bewerkt u de bestaande waarden voor de plaatsingsdoelen.
 
-   Dezelfde wijzigingen worden aangebracht op alle geselecteerde plaatsen.
+   Dezelfde wijzigingen gelden voor alle geselecteerde plaatsen.
 
    * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden waarmee de bestaande waarden worden overschreven:
 

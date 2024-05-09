@@ -3,9 +3,9 @@ title: Instellingen voor aangesloten tv-advertentie
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor aangesloten tv-advertenties.
 feature: DSP Ads
 exl-id: d8e47f7e-7480-400f-8ffa-ecf41ce2ebfb
-source-git-commit: 2f137b17deea4cd02ae19494a306ff37c7002423
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '523'
+source-wordcount: '522'
 ht-degree: 0%
 
 ---

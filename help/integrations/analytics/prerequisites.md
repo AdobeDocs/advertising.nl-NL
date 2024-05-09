@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
-source-git-commit: e7773c31c1834b05731b4711ae237cde481e5639
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '845'
+source-wordcount: '843'
 ht-degree: 0%
 
 ---
@@ -38,7 +38,7 @@ Controleer de volgende informatie voordat u Adobe Advertising met Adobe Analytic
 
 Geef het volgende door aan het implementatieteam van de Adobe Advertising:
 
-* De [!DNL Analytics] rapportsuite-id die wordt gebruikt voor rapportage over betaalde mediaconcentraties en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Adobe Advertising
+* De [!DNL Analytics] rapportsuite-id die moet worden gebruikt voor rapportage over betaalde mediaactiviteiten en voor het uitvoeren van siteactiviteiten voor optimalisatie en rapportage in Adobe Advertising
 * De organisatie-id (Org ID) van het Experience Cloud van het bedrijf.
 
 U kunt beide id&#39;s vinden op het tabblad [Tabblad Overzicht van de Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html).

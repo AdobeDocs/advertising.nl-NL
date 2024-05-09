@@ -3,9 +3,9 @@ title: Het rapport Placement Forecast weergeven
 description: Bekijk het aantal indrukkingen, uitgaven en het optimale maximumbod dat is voorspeld voor een bepaalde doelstrategie voor een plaatsing.
 feature: DSP Placements
 exl-id: 6ff228b2-b656-493e-a299-98c7a68a0f51
-source-git-commit: 2ecf1eacb2a47c20e0c05f9ff62386869b644ba6
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ De prognose bevat de volgende informatie:
 
    * De plaatsing gebruikt een nieuw advertentietype voor de campagne.
 
-     Een plaatsing is gewoonlijk een inzameling van veelvoudige advertentiesjablonen zoals die door levering-zijplatforms worden bepaald. Dus zelfs als de plaatsing al lange tijd bestaat, kan de onderliggende advertentiesjabloon nieuw zijn, en het voorspellingsinstrument zal niet kunnen voorspellen.
+     Een plaatsing is gewoonlijk een inzameling van veelvoudige advertentiesjablonen zoals die door levering-zijplatforms worden bepaald. Dus zelfs als de plaatsing al lange tijd bestaat, als de onderliggende advertentiesjabloon nieuw is, dan kan het voorspellingsinstrument geen prognose maken.
 
 ## Het rapport Placement Forecast openen
 

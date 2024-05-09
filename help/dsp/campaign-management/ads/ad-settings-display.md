@@ -3,9 +3,9 @@ title: Ad-instellingen weergeven
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor weergaveadvertenties.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
-source-git-commit: 2f137b17deea4cd02ae19494a306ff37c7002423
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '471'
+source-wordcount: '469'
 ht-degree: 0%
 
 ---

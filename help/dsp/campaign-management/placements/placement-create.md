@@ -3,9 +3,9 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 28a328b1-0839-442e-a245-f586a7042f41
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '676'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
-1. Klik op de naam van de campagne waarin de plaatsing wordt opgenomen.
+1. Klik op de naam van de campagne waarin u de plaatsing wilt opnemen.
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Create]**. In de [!UICONTROL Placement Types] klikt u op het plaatsingstype.
 

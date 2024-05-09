@@ -3,9 +3,9 @@ title: Plaatsingen en advertenties voor een persoonlijke deal opgeven
 description: Leer hoe u een persoonlijke deal met extra plaatsingen en advertenties kunt gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 09119471-429d-413e-8033-e29e1558abb0
-source-git-commit: d6d295119bc974a87840e757877c1507237a6fa2
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ U kunt [advertenties koppelen aan plaatsingen](/help/dsp/campaign-management/ads
 
        1. Selecteer de adverteerder, de campagne en het type advertentie. Selecteer desgewenst een advertentiestatus waarmee de advertenties moeten worden gefilterd.
        
-       1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie die voor de overeenkomst zal worden gebruikt.
+       1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie om voor de overeenkomst te gebruiken.
        
        1. Klikken **[!UICONTROL Apply]**.
    
@@ -46,7 +46,7 @@ U kunt [advertenties koppelen aan plaatsingen](/help/dsp/campaign-management/ads
 
       1. Klik op **[!UICONTROL Create placement]**.
 
-De plaatsing zal beginnen lopend nadat de uitgever uw PG overeenkomst ID activeert.
+De plaatsing begint lopend nadat de uitgever uw PG overeenkomst ID activeert.
 
 >[!NOTE]
 >

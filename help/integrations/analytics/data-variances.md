@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
-source-wordcount: '3216'
+source-wordcount: '3212'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ In het volgende voorbeeld, veronderstel een bezoeker een advertentie op Dag 1 we
 
 ![Voorbeeld van een doorkijkconversie die wordt toegewezen in [!DNL Analytics] maar geen Adobe Advertising](/help/integrations/assets/a4adc-viewthrough-example.png)
 
-Een andere oorzaak van discrepanties is dat, in Adobe Advertising, u mening-door omzettingen een douane kunt toewijzen *doorkijkgewicht* die gerelateerd is aan het gewicht dat wordt toegewezen aan een klikconversie. Het standaardgewicht van de weergave-door is 40%. Dit betekent dat een doorkijkconversie wordt geteld als 40% van de waarde van een klikconversie. [!DNL Analytics] geen dergelijke weging van doorkijkomzettingen biedt. Zo wordt bijvoorbeeld een inkooporder van 100 dollar opgenomen in [!DNL Analytics] wordt gedisconteerd tot 40 USD in Adobe Advertising als je het standaard view-through gewicht gebruikt, een verschil van 60 USD.
+Een andere oorzaak van discrepanties is dat, in Adobe Advertising, u mening-door omzettingen een douane kunt toewijzen *doorkijkgewicht* die gerelateerd is aan het gewicht dat wordt toegewezen aan een klikconversie. Het standaardgewicht van de weergave-door is 40%. Dit betekent dat een doorkijkconversie wordt geteld als 40% van de waarde van een klikconversie. [!DNL Analytics] geen dergelijke weging van doorkijkomzettingen biedt. Zo wordt bijvoorbeeld een inkooporder van 100 dollar opgenomen in [!DNL Analytics] wordt verdisconteerd tot 40 USD in Adobe Advertising als je het standaard view-through gewicht gebruikt — een verschil van 60 USD.
 
 Houd rekening met deze verschillen bij het vergelijken van doorkijkconversies tussen Adobe Advertising en [!DNL Analytics] rapporten.
 
@@ -96,7 +96,7 @@ Als u bent aangemeld [!DNL Search, Social, & Commerce], kunt u een lijst vinden
 
 #### Attributie van gebeurtenisdatum in Adobe Advertising
 
-In Adobe Advertising, kunt u omzettingsgegevens of door de bijbehorende klikdatum/gebeurtenisdatum (de datum van de klik of de impliciete gebeurtenis) of door de transactiedatum (omzettingsdatum) melden. Het concept van click/gebeurtenisdatumrapportage bestaat niet in [!DNL Analytics]; alle omzettingen bijgehouden in [!DNL Analytics] per transactiedatum worden gerapporteerd. Dientengevolge kan dezelfde conversie met verschillende data in Adobe Advertising worden gerapporteerd en [!DNL Analytics]. Neem bijvoorbeeld een gebruiker die op 1 januari op een advertentie klikt en deze op 5 januari omzet. Als u de conversiegegevens op gebeurtenisdatum in Adobe Advertising weergeeft, wordt de conversie op 1 januari gerapporteerd, wanneer de klik plaatsvond. In [!DNL Analytics], dezelfde conversie zou worden gerapporteerd op 5 januari.
+In Adobe Advertising, kunt u omzettingsgegevens of door de bijbehorende klikdatum/gebeurtenisdatum (de datum van de klik of de impliciete gebeurtenis) of door de transactiedatum (omzettingsdatum) melden. Het concept van click/gebeurtenisdatumrapportage bestaat niet in [!DNL Analytics]; alle omzettingen bijgehouden in [!DNL Analytics] per transactiedatum worden gerapporteerd. Dientengevolge kan dezelfde conversie met verschillende data in Adobe Advertising worden gerapporteerd en [!DNL Analytics]. Neem bijvoorbeeld een gebruiker die op 1 januari op een advertentie klikt en deze op 5 januari omzet. Als u de omzettingsgegevens door gebeurtenisdatum in Adobe Advertising bekijkt, dan wordt de omzetting gemeld op 1 Januari, toen de klik voorkwam. In [!DNL Analytics], wordt dezelfde conversie gerapporteerd op 5 januari.
 
 ![Voorbeeld van een conversie die aan verschillende datums wordt toegeschreven](/help/integrations/assets/a4adc-conversions-based-on.png)
 
@@ -240,7 +240,7 @@ Als u bijvoorbeeld de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe
 
 ![Voorbeeld van Adobe Advertising metriek in een rapport gebruikend een dimensie van de Adobe Advertising](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
-Als u echter de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door een op-pagina afmeting (zoals Pagina), waarvoor de Adobe Advertising geen gegevens verstrekt, toen [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] voor elke pagina is dit nul (0).
+Als u echter de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door een op-pagina afmeting (zoals Pagina), waarvoor de Adobe Advertising geen gegevens verstrekt, toen [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] voor elke pagina is nul (0).
 
 ![Voorbeeld van meetgegevens voor Adoben Advertising in een rapport met een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-traffic-unsupported-dimension.png)
 

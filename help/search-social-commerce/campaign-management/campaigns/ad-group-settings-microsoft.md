@@ -3,7 +3,7 @@ title: '[!DNL Microsoft® Advertising] ad group settings'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] ad groepen.
 exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
-source-git-commit: 2407d29fb4061e6b3181b86c335c52a8384c4ca3
+source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
 workflow-type: tm+mt
 source-wordcount: '667'
 ht-degree: 0%
@@ -114,7 +114,7 @@ De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en h
 
 {{$include /help/_includes/custom-parameters.md}}
 
-**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optioneel) Het aantal keren dat een klant advertenties van de advertentiegroep ontvangt. Voer een waarde in en selecteer de tijdeenheid (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, of *[!UICONTROL Week]*).
+**[!UICONTROL Adgroup Frequency Cap Settings]:** (Optioneel) Het aantal keren dat een klant advertenties van de advertentiegroep kan ontvangen. Voer een waarde in en selecteer de tijdeenheid (*[!UICONTROL Hour]*, *[!UICONTROL Day]*, of *[!UICONTROL Week]*).
 
 ## [!UICONTROL Negative Keywords]
 
