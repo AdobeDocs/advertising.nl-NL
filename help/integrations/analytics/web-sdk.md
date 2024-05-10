@@ -3,9 +3,9 @@ title: Met de [!DNL Last Event Service] JavaScript-bibliotheek met [!DNL Web SDK
 description: Leer de stappen om over te schakelen van het gebruiken van [!DNL Analytics] [!DNL visitorAPI] aan de [!DNL Experience Platform] [!DNL Web SDK] bibliotheek voor [!DNL Analytics for Advertising] uitvoering.
 feature: Integration with Adobe Analytics
 exl-id: 764724a2-536a-43b9-955d-28d6146db29a
-source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -42,7 +42,7 @@ In de [!DNL Analytics for Advertising] [!DNL Last Event Service] -tag die u gebr
 
 ## Stap 2: gebruik [!DNL Web SDK] om de [!DNL StitchID] als XDM-gegevens voor [!DNL Analytics]
 
-Voeg de volgende eigenschap in uw [!DNL Web SDK] `sendEvent` opdracht om de [!DNL StitchID] tot [!DNL Experience Edge] als [!DNL Experience Data Model] (XDM) gegevens voor [!DNL Analytics].<!-- The library will send the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] gebruikt de waarde als een `SDID`.
+Voeg de volgende eigenschap in uw [!DNL Web SDK] `sendEvent` opdracht om de [!DNL StitchID] tot [!DNL Experience Edge] als [!DNL Experience Data Model] (XDM) gegevens voor [!DNL Analytics].<!-- The library sends the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] gebruikt de waarde als een `SDID`.
 
 **Toe te voegen eigenschap:**
 

@@ -3,9 +3,9 @@ title: Ad-instellingen weergeven
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor weergaveadvertenties.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '469'
+source-wordcount: '444'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 **[!UICONTROL Final Display Code]:** (Alleen externe advertenties) De URL voor het creatieve middel van derden, met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
 
-**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet een [ondersteunde standaardweergave en -grootte](ad-specs.md). U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code]. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen. De advertentie wordt niet opgeslagen als de afmetingen zich niet in de standaardweergave bevinden als grootten, bijvoorbeeld 301x250 in plaats van 300x250 bij het formaat.
+**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet een [ondersteunde standaardweergave en -grootte](ad-specs.md). U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code]. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
 
 >[!IMPORTANT]
 >

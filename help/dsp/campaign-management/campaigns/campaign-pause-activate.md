@@ -2,9 +2,10 @@
 title: Een campagne onderbreken of activeren
 description: Leer hoe u een live campagne kunt onderbreken of activeren.
 feature: DSP Campaigns
-source-git-commit: bd02a305083a52ada68ea4a3f83b308687273968
+exl-id: ed199864-8532-411b-b8ea-443ee1c149a2
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '105'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 Pauzeer een levende campagne of activeer een gepauzeerde campagne wanneer het binnen het gevormde vliegprogramma is.
 
-Alle plaatsingen die zijn gepauzeerd voordat een campagne wordt gepauzeerd, blijven gepauzeerd tijdens activering van de campagne.
+Alle plaatsingen die zijn gepauzeerd voordat een campagne wordt gepauzeerd, blijven gepauzeerd tijdens de activering van de campagne.
 
 ## Een campagne onderbreken
 

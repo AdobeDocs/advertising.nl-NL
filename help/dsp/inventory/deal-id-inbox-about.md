@@ -1,16 +1,16 @@
 ---
-title: Over het [!UICONTROL Deal ID Inbox]
+title: Informatie over de [!UICONTROL Deal ID Inbox]
 description: Meer informatie over de [!UICONTROL Deal ID inbox] functie, waarmee u persoonlijke deals kunt accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '491'
 ht-degree: 0%
 
 ---
 
-# Over het [!UICONTROL Deal ID Inbox]
+# Informatie over de [!UICONTROL Deal ID Inbox]
 
 De DSP [!UICONTROL Deal ID inbox] staat u toe om opstellingsovereenkomsten snel te plaatsen die DSP van uitgevers door leveringszijplatforms (SSPs) heeft ingevoerd zodat moet u niet elke overeenkomst manueel opstelling. U kunt de gegarandeerde en niet-gegarandeerde privé-voorraadtransacties accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox].
 
@@ -37,9 +37,9 @@ DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST.
 >
 >Voor programmatiegarandeerde deals via [!DNL Google Authorized Buyers], moet u ten minste 90% van uw budget leveren, anders verliest uw account de toegang tot [!DNL Google] in de [!UICONTROL Deal ID inbox].
 
-## De [!UICONTROL Deal ID Inbox]
+## De uitvoering van [!UICONTROL Deal ID Inbox]
 
-Als u uw deals wilt ontvangen in de [!UICONTROL Deal ID inbox], moeten uw SSP rekeningen de DSP van uw organisatie aan uw SSP rekening in kaart brengen. DSP zal de de rekeningsnamen van de organisatie met relevante SSPs delen. Neem voor instructies contact op met het accountteam van uw Adobe.
+Als u uw deals wilt ontvangen in het dialoogvenster [!UICONTROL Deal ID inbox], moeten uw SSP rekeningen de DSP van uw organisatie aan uw SSP rekening in kaart brengen. DSP kan de de rekeningsnamen van de organisatie met relevante SSPs delen. Neem voor instructies contact op met het accountteam van de Adobe.
 
 Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de koper in plaats van aan de bovenliggende DSP. De overeenkomstenherkenningsteken kan een naam of een identiteitskaart, afhankelijk van SSP zijn.
 
@@ -75,4 +75,3 @@ De overeenkomstendetails omvatten de reden dat de overeenkomst niet beschikbaar 
 >
 >* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
 >* [Overzicht van voorraadfuncties](inventory-overview.md)
-

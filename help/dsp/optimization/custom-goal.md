@@ -2,16 +2,17 @@
 title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
-source-git-commit: 7b9926d0bbba12728ed6a42e56115e8df708587b
+exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
 
 # Aangepaste doelen
 
-De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat het optimalisatiedoel gebruikt &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot; moet een aangepast doel bevatten dat zal helpen het algemene optimalisatiedoel te bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce].
+De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat het optimalisatiedoel gebruikt &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot; moet een aangepast doel bevatten om het algemene optimalisatiedoel te helpen bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce].
 
 <!-- update image or omit it
 
@@ -103,7 +104,7 @@ Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts é�
 
 Er zijn twee scenario&#39;s waarin u veelvoudige metriek in een douanedoel zou gebruiken:
 
-* Uw campagnedoel heeft meerdere succesgebeurtenissen. U maakt bijvoorbeeld reclame voor meer dan één onsite actie (downloaden van PDF, contact met ons en aanmelden via e-mail) en al deze acties dragen bij aan uw CPA-doel. Als het doel de drie verschillende meeteenheden omvat, elk met een (1) niet-mobiel en mobiel gewicht, [!DNL Adobe Sensei] algoritme zal elk van de metriek en de types van gebruikersapparaat met gelijk belang behandelen. Als de verschillende metriek en apparatentypes variërende kosten of belang hebben, dan past u hun relatieve gewichten dienovereenkomstig aan.
+* Uw campagnedoel heeft meerdere succesgebeurtenissen. U maakt bijvoorbeeld reclame voor meer dan één onsite actie (downloaden van PDF, contact met ons en aanmelden via e-mail) en al deze acties dragen bij aan uw CPA-doel. Als het doel de drie verschillende meeteenheden omvat, elk met een (1) niet-mobiel en mobiel gewicht, dan [!DNL Adobe Sensei] het algoritme behandelt elk van de metriek en de types van gebruikersapparaat met gelijk belang. Als de verschillende metriek en apparatentypes variërende kosten of belang hebben, dan past u hun relatieve gewichten dienovereenkomstig aan.
 
 <!-- update image or delete it and adjust the wording above
 

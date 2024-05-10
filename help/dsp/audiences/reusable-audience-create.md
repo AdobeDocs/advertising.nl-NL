@@ -3,9 +3,9 @@ title: Een herbruikbaar publiek maken
 description: Leer hoe u een herbruikbaar publiek kunt maken dat bestaat uit doelsegmenten en andere opgeslagen soorten publiek.
 feature: DSP Audiences
 exl-id: 5f4a0abb-c285-4452-a6c3-a91d5281df9b
-source-git-commit: eb3ce7d8bcddf52844b50797a95cb3b5aec13684
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
 1. (Optioneel) Schakel de optie uit om **[!UICONTROL Share with all advertisers in my account]**.
 
-   Wanneer u een publiek deelt, wordt het publiek beschikbaar als doel of uitsluiting voor alle adverteerders binnen de account. De afzonderlijke segmenten in het publiek zijn echter alleen beschikbaar voor gebruikers waarop de segmenten worden gedeeld. Als u bijvoorbeeld een publiek deelt dat Adobe Analytics-segmenten bevat, met een adverteerder die niet aan dezelfde groep is toegewezen [!DNL Analytics] dan zal het segment geen voorvertoning voor die adverteerder in dat publiek weergeven. Alleen de segmenten die voor die adverteerder beschikbaar zijn, worden in het publiek voorvertoond.
+   Wanneer u een publiek deelt, wordt het publiek beschikbaar als doel of uitsluiting voor alle adverteerders binnen de account. De afzonderlijke segmenten in het publiek zijn echter alleen beschikbaar voor gebruikers waarop de segmenten worden gedeeld. Bijvoorbeeld, als u een publiek deelt dat de segmenten van Adobe Analytics met een adverteerder bevat die niet aan het zelfde in kaart wordt gebracht [!DNL Analytics] -account, dan wordt het segment niet voorvertoond in dat publiek voor die adverteerder. Alleen de segmenten die voor die adverteerder beschikbaar zijn, worden in het publiek voorvertoond.
 
 1. Klik op **[!UICONTROL Save]**.
 

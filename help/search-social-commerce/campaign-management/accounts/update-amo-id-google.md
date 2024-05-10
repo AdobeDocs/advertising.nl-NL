@@ -3,9 +3,9 @@ title: De trackingcode van de AMO-id (s_kwcid) bijwerken voor een [!DNL Google A
 description: Leer hoe u overschakelt naar de nieuwste trackingcode voor AMO-id's voor een [!DNL Google Ads] account.
 exl-id: 4dfd9ea6-f639-4b9a-aaa5-13f574e3961b
 feature: Search Campaign Management
-source-git-commit: 515c049a45d795fd973b5fcead5f96e71dbf844a
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '462'
+source-wordcount: '461'
 ht-degree: 0%
 
 ---
@@ -52,11 +52,11 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 
    >[!NOTE]
    >
-   >Alle klikdoorhalingen die voorkwamen alvorens de migratie nog omzettingsgegevens zal melden die op het oude formaat worden gebaseerd.
+   >Alle klikdoorhalingen die voorkwamen alvorens de migratie nog omzettingsgegevens rapporteerde die op het oude formaat worden gebaseerd.
 
 1. Nadat u de migratie hebt gestart, werkt u desgewenst de instellingen voor het achtervoegsel van de bestemmingspagina (het zogenaamde &quot;laatste URL-achtervoegsel&quot; in sommige advertentienetwerken) bij:
 
-   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor bijhouden, Zoeken, Sociale zaken en Handel werkt automatisch de code voor bijhouden bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
+   * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is ingeschakeld in de instellingen voor reeksspatiëring, Zoeken, Sociaal en Commerce en werkt automatisch de trackingcode bij in het achtervoegsel Landing Page voor dit account en de bijbehorende campagnes. Je hoeft niets te doen.
 
    * Wanneer de [!UICONTROL Auto Upload]De functie &quot; is niet ingeschakeld en u gebruikt de [AMO ID-functie aan serverzijde](/help/integrations/analytics/ids.md#amo-id-formats)Vervolgens moet u de parameter AMO ID handmatig bijwerken in de instellingen voor het achtervoegsel van de bestemmingspagina. U kunt achtervoegsels op account- en campagnereniveau handmatig wijzigen in de account- en campagne-instellingen of door wijzigingen te uploaden in een bulksheet. Om een achtervoegsel op het niveau van de ad groep of lager te vormen, gebruik [!DNL Google Ads] editor.
 

@@ -3,9 +3,9 @@ title: Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen
 description: Verwijs naar de vereiste kopbalgebieden en gegevensgebieden in bulksbladen voor [!DNL Google Ads] rekeningen.
 exl-id: 756b77fe-f95d-469f-9ae0-7424c2fad0b1
 feature: Search Bulksheets
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '7860'
+source-wordcount: '7855'
 ht-degree: 0%
 
 ---
@@ -147,8 +147,8 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | [!UICONTROL Delivery Method] | Vereist om een campagne te maken. |
 | [!UICONTROL Channel Type] | Vereist om een campagne te maken. |
 | [!UICONTROL Networks] | Vereist om een campagne te maken. |
-| [!UICONTROL DSA Domain Name] | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
-| [!UICONTROL DSA Domain Language] | Vereist om een campagne op het onderzoeksnetwerk tot stand te brengen die dynamische onderzoeksadvertenties zal hebben. |
+| [!UICONTROL DSA Domain Name] | Vereist om een campagne met dynamische onderzoeksadvertenties op het onderzoeksnetwerk tot stand te brengen. |
+| [!UICONTROL DSA Domain Language] | Vereist om een campagne met dynamische onderzoeksadvertenties op het onderzoeksnetwerk tot stand te brengen. |
 | [!UICONTROL Campaign Priority] | Vereist voor het maken van een winkelcampagne. |
 | [!UICONTROL Merchant ID] | Vereist voor het maken van een winkelcampagne. |
 | [!UICONTROL Sales Country] | Vereist voor het maken van een winkelcampagne. |
@@ -410,7 +410,7 @@ Voor een beschrijving van elk gegevensveld raadpleegt u &quot;[Alle beschikbare 
 | [!UICONTROL Sitelink Status] | Alleen vereist om een sitelink te verwijderen. |
 | [!UICONTROL Campaign ID] | Optioneel |
 | [!UICONTROL Ad Group ID] | Optioneel |
-| [!UICONTROL Sitelink ID] | Dit is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van beide opties opneemt [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID]  en de bezitskolommen passen veelvoudige sitelinks aan, dan zal de status voor slechts één van de sitelinks veranderen.<br><br><b>Opmerking:</b> Als u eigenschapkolommen sitelink bewerkt, behalve [!UICONTROL Status] voor een bestaande sitelink, en u omvat noch [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID], wordt er een nieuwe sitelink gemaakt en de bestaande sitelink wordt niet gewijzigd. |
+| [!UICONTROL Sitelink ID] | Dit is alleen vereist wanneer u de sitelink wijzigt of verwijdert, tenzij de rij a) voldoende eigenschapskolommen bevat om de sitelink te identificeren of b) en &quot;[!UICONTROL AMO ID].&quot; Als u echter geen van beide opties opneemt [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID]  en de eigenschapskolommen overeenkomen met meerdere sitelinks. De status voor slechts een van de sitelinks wordt dan gewijzigd.<br><br><b>Opmerking:</b> Als u eigenschapkolommen sitelink bewerkt, behalve [!UICONTROL Status] voor een bestaande sitelink, en u omvat noch [!UICONTROL Sitelink ID] noch [!UICONTROL AMO ID], wordt er een nieuwe sitelink gemaakt en de bestaande sitelink wordt niet gewijzigd. |
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br>Zoeken, Sociaal en Commerce gebruikt de waarde om te bepalen welke identiteit moet worden bewerkt, maar plaatst de id niet op het advertentienetwerk. |
 
 ### Locatiedoel

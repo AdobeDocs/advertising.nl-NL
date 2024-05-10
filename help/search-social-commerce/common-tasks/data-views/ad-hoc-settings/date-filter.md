@@ -1,11 +1,11 @@
 ---
 title: Gegevens filteren op datumbereik
 description: Leer hoe u het globale datumbereikfilter gebruikt.
-exl-id: e67e843a-1a73-4ab1-9ef7-c97afeb999f6
+exl-id: 35c0f63f-84ae-4e8e-8a48-acae7ff24498
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '395'
+source-wordcount: '396'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dezelfde globale datumbereikfilter wordt toegepast op de meeste weergaven van uw campagnegegevens voor al uw adverteerders, behalve voor de standaardweergaven en aangepaste weergaven waarvoor u specifieke datumbereiken hebt opgeslagen. Het standaarddatumbereik van het systeem voor weergaven voor campagnebeheer is &quot;Gisteren&quot;.
 
-De instellingen voor het datumbereik worden opgeslagen in een browserspecifieke cookie. Wijzigingen in het datumbereikfilter worden dus voor alle adverteerders gebruikt wanneer u zich aanmeldt met dezelfde browsertoepassing totdat u het filter wijzigt of het cookie verwijdert. Elke browsertoepassing die u gebruikt, slaat de filterinstellingen voor het datumbereik op in een ander cookie.
+De instellingen voor het datumbereik worden opgeslagen in een browserspecifieke cookie. Wijzigingen in het datumbereikfilter worden dus voor alle adverteerders gebruikt wanneer u zich aanmeldt met dezelfde browsertoepassing totdat u het filter wijzigt of het cookie verwijdert. In elke browsertoepassing die u gebruikt, worden de filterinstellingen voor het datumbereik in een ander cookie opgeslagen.
 
 Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangepaste weergave, wordt dat bereik toegepast wanneer u de weergave toepast, ongeacht de browsertoepassing die u gebruikt.
 

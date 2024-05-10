@@ -1,18 +1,18 @@
 ---
 title: Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]
 description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Microsoft Advertising] rekeningen.
-exl-id: 725981db-1b9a-4c89-b95d-98d07ec99756
+exl-id: 4970ac33-4978-4768-8701-6fdd3252bbd1
 feature: Search Tracking
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '584'
 ht-degree: 0%
 
 ---
 
 # Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]
 
-Hieronder vindt u de basissjabloon voor bijhouden en de achtervoegsels van de landingspagina (het laatste URL-achtervoegsel) waarvoor Zoeken, Sociale zaken en Handel vereist zijn [!DNL Microsoft Advertising].
+Hieronder vindt u de sjabloon voor het bijhouden van de basis en de achtervoegsels van de bestemmingspagina (laatste URL-achtervoegsel), waarvoor Zoeken, Sociaal en Commerce vereist is [!DNL Microsoft Advertising].
 
 ## Sjabloonindelingen bijhouden
 
@@ -72,7 +72,7 @@ Voorbeeld:
 >
 >* `{TargetId}` vertegenwoordigt identiteitskaart van a) of het sleutelwoord of b) het sleutelwoord en remarketing lijst (publiek) die de advertentie teweegbracht (bijvoorbeeld, &quot;kwd-123:aud-456&quot;voor zowel een sleutelwoord als een remarketing lijst of &quot;kwd-123&quot;voor slechts sleutelwoord).
 >
->* (Optioneel) In plaats van trackingsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor bijhouden toevoegen aan de productgegevens in het dialoogvenster [!DNL Microsoft Merchant Center] account. Hiervoor neemt u de URL voor tekstspatiëring op, samen met de waarde in het veld &quot;`link`&quot; of &quot;`mobile_link`&quot;veld, naar gelang van het geval, in een aangepaste kolom &quot;[bingads_redirect](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot; in het voer van het product. De waarde in het veld &quot;`bingads_redirect`&quot; wordt vervangen door de waarden in &quot;`link`&quot; en &quot;`mobile_link`&quot;. URL&#39;s die met deze methode worden gegenereerd, bevatten geen traceerparameters die zijn opgegeven in de account- of campagnemontages Zoeken, Sociaal en Handel.
+>* (Optioneel) In plaats van trackingsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor bijhouden toevoegen aan de productgegevens in het dialoogvenster [!DNL Microsoft Merchant Center] account. Hiervoor neemt u de URL voor tekstspatiëring op, samen met de waarde in het veld &quot;`link`&quot; of &quot;`mobile_link`&quot;veld, naar gelang van het geval, in een aangepaste kolom &quot;[bingads_redirect](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot; in het voer van het product. De waarde in het veld &quot;`bingads_redirect`&quot; worden de waarden in &quot;`link`&quot; en &quot;`mobile_link`&quot;. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
 
 ## Opmaak voor het achtervoegsel van de landingspagina (laatste URL-achtervoegsel)
 

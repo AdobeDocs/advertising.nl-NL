@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1257'
+source-wordcount: '1261'
 ht-degree: 0%
 
 ---
@@ -123,9 +123,9 @@ Zie &quot;[Beschikbare rapportkolommen](report-columns.md)&quot; voor beschrijvi
 **[!UICONTROL Destination Type]:** Kies een van de volgende doeltypen:
 
 * *[!UICONTROL S3]:* Om het voltooide rapport naar één of meerdere te verzenden [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen, die u in **[!UICONTROL Destination Name]** veld.
-* *[!UICONTROL sFTP]:* Om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
-* *[!UICONTROL FTP]:* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
-* *[!UICONTROL FTP SSL](Momenteel in bèta):* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden SSL, die u in zult specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL sFTP]:* Om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u in moet specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL FTP]:* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u in moet specificeren **[!UICONTROL Destination Name]** veld.
+* *[!UICONTROL FTP SSL](Momenteel in bèta):* Om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden SSL, die u in moet specificeren **[!UICONTROL Destination Name]** veld.
 * *[!UICONTROL Email]:* E-mailadres(sen) opgeven waarnaar ingevulde rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
 >[!NOTE]

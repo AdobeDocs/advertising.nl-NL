@@ -1,9 +1,9 @@
 ---
 title: FTP-toegang tot rapporten
 description: Leer hoe u rapporten ontvangt op een alleen-lezen FTP-locatie.
-exl-id: 69850b68-0309-4f07-b4cb-c14488219a4b
+exl-id: eca9f033-5b1b-4afa-926b-b4c31e2dede3
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '428'
 ht-degree: 0%
@@ -18,9 +18,9 @@ FTP-toegang tot rapporten vereist toegang tot een opgegeven FTP-account en u moe
 
 ## Een FTP-account instellen voor toegang tot rapporten
 
-* Neem contact op met het accountteam van Adobe om een FTP-account in te stellen voor toegang tot rapporten.
+* Neem contact op met het accountteam van de Adobe om een FTP-account in te stellen voor toegang tot rapporten.
 
-  Het team zal u van uw gebruikersbenaming en wachtwoord voorzien.
+  Het team voorziet u van uw gebruikersbenaming en wachtwoord.
 
 ## Rapportsjablonen instellen voor FTP-levering
 

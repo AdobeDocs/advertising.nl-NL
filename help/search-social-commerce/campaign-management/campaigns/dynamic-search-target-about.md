@@ -1,11 +1,11 @@
 ---
 title: Info [!DNL Google Ads] dynamische zoekdoelen
 description: Meer informatie over [!DNL Google Ads] dynamische zoekdoelen.
-exl-id: 3936455b-926a-4a3f-b3df-54e92cdfdc99
+exl-id: e6a8a426-5848-4161-99f3-1140aa3e4b9f
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '192'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-Dynamische zoekdoelen bepalen of het advertentienetwerk alle pagina&#39;s of een subset van de pagina&#39;s in uw website zal gebruiken om uw dynamische zoekopdrachten te activeren. Vorm dynamische onderzoeksdoelstellingen op het niveau van de advertentiegroep; zij zijn op alle dynamische onderzoeksadvertenties in de zelfde ad groep van toepassing.
+Met dynamische zoekdoelen wordt gedefinieerd of het advertentienetwerk alle pagina&#39;s of een subset van de pagina&#39;s in uw website gebruikt om uw dynamische zoekopdrachten als doel in te stellen. Vorm dynamische onderzoeksdoelstellingen op het niveau van de advertentiegroep; zij zijn op alle dynamische onderzoeksadvertenties in de zelfde ad groep van toepassing.
 
 Afhankelijk van uw campagnemontages, kunnen de dynamische onderzoeksdoelstellingen worden vereist of facultatief:
 

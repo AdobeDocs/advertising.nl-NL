@@ -3,7 +3,7 @@ title: Een rapportdoel maken
 description: Leer hoe u een bestemming maakt voor de levering van aangepaste rapporten.
 feature: DSP Custom Reports
 exl-id: 2a8d6cef-9c33-4483-ac1e-93778a231962
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 2%
@@ -22,7 +22,7 @@ ht-degree: 2%
 
 >[!NOTE]
 >
-> Als het rapport is geconfigureerd voor levering aan elk type FTP of [!DNL Amazon S3] locatie, ontvangt u geen meldingen als het rapport wordt geannuleerd vanwege fouten. Als u niet de rapporten ontvangt die u verwacht, dan contacteer uw Team van de Rekening van de Adobe om te weten te komen waarom.
+> Als het rapport voor levering aan om het even welk type van FTP wordt gevormd of [!DNL Amazon S3] locatie, ontvangt u geen meldingen als het rapport is geannuleerd vanwege fouten. Als u niet de rapporten ontvangt die u verwacht, dan contacteer uw Team van de Rekening van de Adobe om te weten te komen waarom.
 
 >[!MORELIKETHIS]
 >
@@ -30,4 +30,3 @@ ht-degree: 2%
 >* [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
-

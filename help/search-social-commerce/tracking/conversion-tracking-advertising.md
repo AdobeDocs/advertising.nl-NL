@@ -1,11 +1,11 @@
 ---
 title: Tags voor conversie naar Adobe Advertising bijhouden
 description: Meer informatie over het gebruik van conversie-trackingtags voor Adoben Advertising.
-exl-id: 07403d60-6db2-47e7-977b-4b59c8797c3d
+exl-id: 8194d5eb-9a5d-4c4e-bb02-e578ffb84d18
 feature: Search Tracking
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '497'
+source-wordcount: '500'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ Raadpleeg voor meer informatie over de verschillen tussen de verschillende tagty
 >[!NOTE]
 >
 >* Deze functie voegt geen afbeeldingstags of JavaScript-tags toe aan de webpagina&#39;s van de adverteerder. De tags moeten worden toegevoegd volgens de normale procedure van de adverteerder voor het bijwerken van webpagina&#39;s.
->* Zorg ervoor dat u rekening houdt met de tijd die nodig is om de tags te implementeren. Afhankelijk van het beleid van het bedrijf kan de implementatie weken of zelfs maanden duren.
+>* Denk na over de tijd die nodig is om de tags te implementeren. Afhankelijk van het beleid van het bedrijf kan de implementatie weken of zelfs maanden duren.
 
 ## Functies van de conversietags voor Adoben Advertising
 

@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen controleren en bewerken met werkbladen
 description: Leer hoe u de instellingen voor toetsplaatsing kunt bekijken en bewerken met spreadsheets.
 feature: DSP Placements
 exl-id: 2de4407d-eb3b-44ff-893c-9fdf6921d4b3
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1433'
+source-wordcount: '1432'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne downloaden in de XLSX-indeling (Excel-spreadsheet) voor revisie. Met deze functie kunt u snel details bekijken zoals:
 
 * Dit publiek past de campagnedoelen toe.
-* Wanneer de plaatsingen beginnen te leveren, en wanneer zullen zij ophouden.
+* Wanneer de plaatsingen beginnen te leveren, en wanneer zij ophouden.
 * Welke advertenties zijn gekoppeld aan de plaatsingen.
 
 Vervolgens kunt u wijzigingen aanbrengen in de geselecteerde velden en deze weer uploaden naar DSP allemaal tegelijk. Bewerkbare velden bevatten de plaatsingsnamen, statussen, biedingen, budgetten, pacingstrategieën en frequentiecaps.

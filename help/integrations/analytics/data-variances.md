@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '3212'
+source-wordcount: '3205'
 ht-degree: 0%
 
 ---
@@ -28,17 +28,17 @@ De [!DNL Analytics for Advertising] integratie gebruikt twee variabelen ([!DNL e
 
 Nochtans, zijn de raadplegingsvensters en attribuutmodellen configureerbaar in beide Analytics (via [!DNL eVars]) en in Adobe Advertising. Verder is het attributiemodel in Adobe Advertising niet alleen op adverteerderniveau (voor optimalisatie van biedingen), maar ook in afzonderlijke gegevensweergaven en -rapporten (alleen voor rapportagedoeleinden) configureerbaar. Een organisatie kan bijvoorbeeld de voorkeur geven aan het toewijzingsmodel voor gelijkmatige distributie voor optimalisatie, maar de laatste aanraakkenmerk gebruiken voor rapporten in DSP of [!DNL Advertising Search, Social, & Commerce]. Als u toewijzingsmodellen wijzigt, wordt het aantal toegewezen conversies gewijzigd.
 
-Als een terugkijkvenster of attributenmodel van het rapport in één product en niet in andere wordt gewijzigd, dan zullen de zelfde rapporten van elk systeem verschillende gegevens tonen:
+Als een terugkijkvenster of attributenmodel van het rapport in één product en niet in andere wordt gewijzigd, dan tonen de zelfde rapporten van elk systeem verschillende gegevens:
 
 * **Voorbeeld van verschillen die worden veroorzaakt door verschillende terugkijkvensters:**
 
-  Stel dat de Adobe Advertising een terugkijkvenster van 60 dagen heeft klikken en [!DNL Analytics] heeft een terugkijkvenster van 30 dagen. En stel dat een gebruiker naar de site komt via een advertentie, bladeren en vervolgens terugkeren op dag 45 en converteert. De Adobe Advertising zal de omzetting aan het aanvankelijke bezoek wegens de omzetting binnen het 60 dagraadplegingsvenster toeschrijven. [!DNL Analytics], nochtans, kan niet de omzetting aan het aanvankelijke bezoek toeschrijven omdat de omzetting voorkwam nadat het terugkijkvenster van 30 dagen was verlopen. In dit voorbeeld zou Adobe Advertising een hoger aantal omzettingen rapporteren dan [!DNL Analytics] zou.
+  Stel dat de Adobe Advertising een terugkijkvenster van 60 dagen heeft klikken en [!DNL Analytics] heeft een terugkijkvenster van 30 dagen. En stel dat een gebruiker naar de site komt via een advertentie, bladeren en vervolgens terugkeren op dag 45 en converteert. De Adobe Advertising kenmerkt de omzetting aan het aanvankelijke bezoek omdat de omzetting binnen het 60 dagraadplegingsvenster voorkwam. [!DNL Analytics], nochtans, kan niet de omzetting aan het aanvankelijke bezoek toeschrijven omdat de omzetting voorkwam nadat het terugkijkvenster van 30 dagen was verlopen. In dit voorbeeld rapporteert Adobe Advertising een hoger aantal conversies dan [!DNL Analytics] wel.
 
   ![Voorbeeld van een conversie die wel in Adobe Advertising maar niet [!DNL Analytics]](/help/integrations/assets/a4adc-lookback-example.png)
 
 * **Voorbeeld van discrepanties veroorzaakt door verschillende attributiemodellen:**
 
-  Veronderstel een gebruiker met drie verschillende Adobe Advertising advertenties alvorens om te zetten, met opbrengst als omzettingstype in wisselwerking staat. Als een rapport van de Adobe Advertising een gelijk distributiemodel voor attributie gebruikt, dan zal het de opbrengst gelijkelijk over alle advertenties toeschrijven. Indien [!DNL Analytics] gebruikt echter het laatste aanraakattributiemodel, dan wordt de opbrengst aan de laatste advertentie toegewezen. In het volgende voorbeeld kent de Adobe Advertising een zelfs 10 USD van de 30 USD aan inkomsten toe die aan elk van de drie advertenties worden opgenomen, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Adobe Advertising en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
+  Veronderstel een gebruiker met drie verschillende Adobe Advertising advertenties alvorens om te zetten, met opbrengst als omzettingstype in wisselwerking staat. Als een rapport van de Adobe Advertising een gelijk distributiemodel voor attributie gebruikt, dan attributen het de opbrengst gelijkelijk over alle advertenties. Indien [!DNL Analytics] gebruikt het laatste aanraakattributiemodel, maar geeft de opbrengst aan de laatste advertentie. In het volgende voorbeeld kent de Adobe Advertising een zelfs 10 USD van de 30 USD aan inkomsten toe die aan elk van de drie advertenties worden opgenomen, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Adobe Advertising en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
 
   ![Verschillende aan Adoben Advertising toegerekende opbrengsten en [!DNL Analytics] op basis van verschillende toerekeningsmodellen](/help/integrations/assets/a4adc-attribution-example.png)
 
@@ -110,7 +110,7 @@ In Adobe Advertising, kunt u omzettingsgegevens of door de bijbehorende klikdatu
 
 ### Mogelijke verschillen in Attributiemodellen in [!DNL Marketing Channels]
 
-Meeste [!DNL Marketing Channels] rapporten worden gevormd met [!UICONTROL Last Touch] attributie, waarvoor het laatst ontdekte marketingkanaal 100% van de omzetwaarde krijgt toegewezen. Verschillende toewijzingsmodellen gebruiken voor de [!DNL Marketing Channels] rapporten en Adobe Advertising - verslagen zullen leiden tot discrepanties in toegeschreven omzettingen .
+Meeste [!DNL Marketing Channels] rapporten worden gevormd met [!UICONTROL Last Touch] attributie, waarvoor het laatst ontdekte marketingkanaal 100% van de omzetwaarde krijgt toegewezen. Verschillende toewijzingsmodellen gebruiken voor de [!DNL Marketing Channels] rapporten en verslagen van de Adobe Advertising leiden tot discrepanties in toegeschreven omzettingen.
 
 ### Een potentieel verschillend Lookback Venster in [!DNL Marketing Channels]
 
@@ -230,13 +230,13 @@ Klikken en doorklikken kunnen sterk verschillen als gevolg van een ongeluk en kl
 
 Sites die op mobiele apparaten worden geladen, zullen ook minder vaak een doorklik tot gevolg hebben vanwege een lagere bandbreedte of een lagere verwerkingscapaciteit, waardoor het langer duurt om bestemmingspagina&#39;s te laden. Het is niet ongebruikelijk voor 50-70% van kliks om niet in klikproductie te resulteren. In mobiele omgevingen kan het verschil oplopen tot 90% vanwege de combinatie van een langzamere browser en de hogere kans dat de gebruiker per ongeluk op de advertentie klikt terwijl de pagina wordt doorgeschoven of de advertentie wordt gesloten.
 
-De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app gaan) niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met mening-door JavaScript benadering, browsers die derdecookies blokkeren zal klikken volgen, maar niet kliks-door). Een zeer belangrijke reden dat de Adobe aanbeveelt zowel de klik URL het volgen als mening-door JavaScript het volgen benaderingen op te stellen is dekking van volgbare klikthrough te maximaliseren.
+De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app gaan) niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met mening-door JavaScript benadering, browsers die derdekoekjes houden klikken, maar niet klikken-door) opstelde. Een zeer belangrijke reden dat de Adobe aanbeveelt zowel de klik URL het volgen als mening-door JavaScript het volgen benaderingen op te stellen is dekking van volgbare klikthrough te maximaliseren.
 
 ### Het gebruiken van de Metriek van het Verkeer van de Adobe Advertising voor Dimensionen niet van de Adobe Advertising
 
 Adobe Advertising biedt Analytics met [reclamespecifieke verkeersmaatstaven en de daarmee verband houdende afmetingen van [!DNL DSP] en [!DNL Search, Social, & Commerce]](advertising-metrics-in-analytics.md). De Adobe Advertising-verstrekte metriek is van toepassing slechts op de gespecificeerde afmetingen van de Adobe Advertising, en de gegevens zijn niet beschikbaar voor andere dimensies in [!DNL Analytics].
 
-Als u bijvoorbeeld de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door Rekening, die een dimensie van de Adobe Advertising is, dan zult u het totaal zien [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] per rekening.
+Als u bijvoorbeeld de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] metriek door Rekening, die een dimensie van de Adobe Advertising is, dan het totaal [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Advertising Cost] worden per account weergegeven.
 
 ![Voorbeeld van Adobe Advertising metriek in een rapport gebruikend een dimensie van de Adobe Advertising](/help/integrations/assets/a4adc-traffic-supported-dimension.png)
 
@@ -246,7 +246,7 @@ Als u echter de [!UICONTROL Adobe Advertising Clicks] en [!UICONTROL Adobe Adver
 
 ### Gebruiken [!UICONTROL AMO ID Instances] als plaatsvervanger voor Klikken met Dimensionen zonder Adobe Advertising
 
-Omdat u het niet kunt gebruiken [!UICONTROL AMO Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] komt niet overeen [!UICONTROL AMO Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Doorklikgegevens valideren voor [!DNL Analytics for Advertising]](#data-validation).&quot;
+Omdat u het niet kunt gebruiken [!UICONTROL AMO Clicks] met onsite afmetingen, wilt u misschien een equivalent aan klikken. Mogelijk bent u geneigd Visit te gebruiken als een vervanging, maar dit is niet de beste optie, omdat elke bezoeker meerdere bezoeken kan hebben. (Zie &quot;[Het verschil tussen klikken en bezoeken](#clicks-vs-visits).&quot; In plaats daarvan raden we u aan [!UICONTROL AMO ID Instances], dit is het aantal keren dat de AMO-id wordt vastgelegd. while [!UICONTROL AMO ID Instances] niet overeenkomen [!UICONTROL AMO Clicks] zij zijn precies de beste optie om klikverkeer op de plaats te meten. Zie voor meer informatie &quot;[Doorklikgegevens valideren voor [!DNL Analytics for Advertising]](#data-validation).&quot;
 
 ![Voorbeeld van [!UICONTROL AMO ID Instances] in plaats van [!UICONTROL Adobe Advertising Clicks] voor een niet-ondersteunde dimensie](/help/integrations/assets/a4adc-amo-id-instances.png)
 

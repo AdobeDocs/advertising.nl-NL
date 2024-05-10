@@ -1,11 +1,11 @@
 ---
 title: Advertentiesjablonen beheren voor voorraadfeeds
 description: Meer informatie over het beheren van advertentiesjablonen waarmee je voorraadgegevens kunnen worden verwerkt om de accountstructuur te beheren en dynamische advertenties te leveren.
-exl-id: b26fc32a-76bc-470a-8ce5-fbaad4b3ca71
+exl-id: b0e540cf-8735-4812-9df5-58f488a25ba5
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1415'
+source-wordcount: '1421'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor of nadat u gegevens hebt geüpload, kunt u specifieke advertentiesjablonen maken voor de zoekmachine waarmee uw gegevens kunnen worden verwerkt. U kunt sjablonen maken voor tekstadvertenties en uitgebreide/uitgebreide tekstadvertenties. [!DNL Google Ads] en [!DNL Microsoft® Advertising] responsieve zoekopdrachten en voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] winkeladvertenties.
 
-U kunt elke sjabloon aan één feed-bestand koppelen. [!DNL Google Merchant Center] rekening, of [!DNL Microsoft® Merchant Center] en u kunt meerdere sjablonen koppelen aan hetzelfde feed-bestand of dezelfde account. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen kunnen de variabelen ook [een wijziginggroep](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) als u meerdere advertenties, trefwoorden, campagnes of advertentiegroepen voor elke toepasselijke rij in het gegevensbestand wilt maken. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
+U kunt elke sjabloon aan één feed-bestand koppelen. [!DNL Google Merchant Center] rekening, of [!DNL Microsoft® Merchant Center] en u kunt meerdere sjablonen koppelen aan hetzelfde feed-bestand of dezelfde account. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen kunnen de variabelen ook [een wijziginggroep](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) als u in Zoeken, Sociaal en Commerce meerdere advertenties, trefwoorden, campagnes of ad-groepen voor elke toepasselijke rij in het gegevensbestand wilt maken. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
 
 U kunt optioneel nieuwe sjablonen maken door bestaande sjablonen te klonen en bestaande sjablonen te bewerken.
 
@@ -86,7 +86,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
             >[!NOTE]
             >
             >* Als de [!UICONTROL Prefill] is geselecteerd, worden de alternatieve velden vooraf ingevuld met de oorspronkelijke velden en kunt u deze naar wens bewerken.
-            >* Alleen de velden voor het kopiëren van de advertentie die de maximale lengte overschrijden, worden vervangen door de alternatieve waarde. Als bijvoorbeeld alleen een originele kop of titel te lang is, gebruiken de gegenereerde en de variatie de alternatieve kop of titel en de oorspronkelijke beschrijvingen. Zorg er daarom voor dat de alternatieve advertentie-kopie zin heeft wanneer deze wordt gecombineerd met het origineel en de kopie.
+            >* Alleen de velden voor het kopiëren van de advertentie die de maximale lengte overschrijden, worden vervangen door de alternatieve waarde. Als bijvoorbeeld alleen een originele kop of titel te lang is, gebruiken de gegenereerde en de variatie de alternatieve kop of titel en de oorspronkelijke beschrijvingen. Zorg er daarom voor dat de alternatieve advertentie-kopie zinvol is wanneer deze wordt gecombineerd met het origineel en de kopie.
             >* Als het origineel en de kopie voldoen aan de lengtevereisten van het zoekprogramma, wordt de alternatieve advertentiekopie verwijderd.
             >* U kunt maximaal vier alternatieven opgeven voor elk veld voor een advertentie-kopie.
 
@@ -103,7 +103,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
                >[!NOTE]
                >
                >* Als de [!UICONTROL Prefill] is geselecteerd, worden de alternatieve velden vooraf ingevuld met de oorspronkelijke velden en kunt u deze naar wens bewerken.
-               >* Alleen de velden voor het kopiëren van de advertentie die de maximale lengte overschrijden, worden vervangen door de alternatieve waarde. Als bijvoorbeeld alleen een originele kop of titel te lang is, gebruiken de gegenereerde en de variatie de alternatieve kop of titel en de oorspronkelijke beschrijvingen. Zorg er daarom voor dat de alternatieve advertentie-kopie zin heeft wanneer deze wordt gecombineerd met het origineel en de kopie.
+               >* Alleen de velden voor het kopiëren van de advertentie die de maximale lengte overschrijden, worden vervangen door de alternatieve waarde. Als bijvoorbeeld alleen een originele kop of titel te lang is, gebruiken de gegenereerde en de variatie de alternatieve kop of titel en de oorspronkelijke beschrijvingen. Zorg er daarom voor dat de alternatieve advertentie-kopie zinvol is wanneer deze wordt gecombineerd met het origineel en de kopie.
                >* Als het origineel en de kopie voldoen aan de lengtevereisten van het zoekprogramma, wordt de alternatieve advertentiekopie verwijderd.
                >* U kunt maximaal vier alternatieven opgeven voor elk veld voor een advertentie-kopie.
 

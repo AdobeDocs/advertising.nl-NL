@@ -2,9 +2,9 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: 724b4ff772fa7d6dc0640d35a968d664707ceae6
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '867'
+source-wordcount: '859'
 ht-degree: 0%
 
 ---
@@ -39,19 +39,19 @@ Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over be
 
 (Optioneel) Aanvullende producten uit de Experience Cloud die aan de DSP-account zijn gekoppeld. De producten moeten worden gekoppeld aan dezelfde organisatie-id van het Experience Cloud als in het [!UICONTROL Adobe IMS IDs] sectie.
 
-**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising conversiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens zal uitwisselen.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising conversiepixels gebruiken) A [!DNL Search, Social, & Commerce] account waarmee DSP toewijzingsgegevens uitwisselen.
 
-**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders met Adobe Analytics; optioneel; alleen van toepassing op gegevens die zijn verzameld met tags voor het bijhouden van Adoben Advertising die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, zal verzenden. Analytics zal ook de gegevens verzenden het van de plaats van de cliënt aan DSP verzamelt.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Adverteerders met Adobe Analytics; optioneel; alleen van toepassing op gegevens die zijn verzameld met tags voor het bijhouden van Adoben Advertising die een [!DNL EF Redirect] en alleen token) Een of meer [!DNL Analytics] de rapporteereeksen waaraan DSP de gegevens die het bij uitgevers en leveranciers verzamelt, verzendt. Analytics verzendt ook de gegevens die het van de plaats van de cliënt aan DSP verzamelt.
 
 Voor de gegevens die in de rapportagesets moeten worden opgenomen, moet [!DNL Search, Social, & Commerce] De instelling op adverteerderniveau moet zijn ingeschakeld. Bovendien is de adverteerder [!DNL Analytics] account moet geconfigureerd zijn om gegevens van Adobe Advertising te ontvangen.
 
 >[!WARNING]
 >
->Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP geen gegevens meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
+>Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP gegevens niet meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
 
 Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[Overzicht van [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
-**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens voor alle gebruikers van de Adobe van de adverteerder ophalen. Dit omvat gegevens voor:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Adverteerders bij Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP gegevens van segmenten, hiërarchische gegevens en unieke publieksgegevens ophaalt voor alle gebruikers van de Adobe van de adverteerder. Dit omvat gegevens voor:
 
 * Audience Managers
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
@@ -110,15 +110,15 @@ Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en v
 
 **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** Door gebrek, blokkeert al 100% ongeldig verkeer, met inbegrip van verkeer op gekaapte apparaten, voor nieuwe plaatsen. Er kunnen extra kosten van toepassing zijn.
 
-**[!UICONTROL Also block sites with]:** (Optioneel) Een extra niveau van fraude en ongeldig verkeer waardoor DSP standaard advertenties blokkeert:  *[!UICONTROL None]* (het gebrek, dat geen extra verkeer blokkeert), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, of *[!UICONTROL >25% Average Fraud/IVT levels]*. Er kunnen extra kosten van toepassing zijn.
+**[!UICONTROL Also block sites with]:** (Optioneel) Een extra niveau van fraude en ongeldig verkeer waardoor DSP advertenties standaard blokkeert:  *[!UICONTROL None]* (het gebrek, dat geen extra verkeer blokkeert), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]*, of *[!UICONTROL >25% Average Fraud/IVT levels]*. Er kunnen extra kosten van toepassing zijn.
 
 ##### [!UICONTROL Peer 39] {#peer-39-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP standaard advertenties blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, en/of *[!UICONTROL Fraud: Zero Ads]*. Er kunnen extra kosten van toepassing zijn.
+**[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP advertenties standaard blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]*, en/of *[!UICONTROL Fraud: Zero Ads]*. Er kunnen extra kosten van toepassing zijn.
 
 ##### [!UICONTROL Integral Ad Science] {#ias-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP standaard advertenties blokkeert: *[!UICONTROL None]* (de standaardwaarde, die geen advertenties blokkeert op basis van verdachte activiteit), *[!UICONTROL Suspicious Activity - High Risk]*, of *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Er kunnen extra kosten van toepassing zijn.
+**[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeren: *[!UICONTROL None]* (de standaardwaarde, die geen advertenties blokkeert op basis van verdachte activiteit), *[!UICONTROL Suspicious Activity - High Risk]*, of *[!UICONTROL Suspicious Activity - High or Moderate Risk]*. Er kunnen extra kosten van toepassing zijn.
 
 #### [!UICONTROL Ads.text]
 

@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: fcce2b2ba7ab9717e83b05ddf8f22399f6b2e28e
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '648'
 ht-degree: 0%
 
 ---
@@ -59,13 +59,13 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
       Het standaardvenster is 45 dagen. Voer een waarde tussen 1 en 365 in.
 
-   1. Klikken **[!UICONTROL Advanced]** om de geavanceerde montages uit te breiden, en dan de types van gebruikers herkenningstekens te selecteren die de segmentmarkering zal volgen:
+   1. Klikken **[!UICONTROL Advanced]** om de geavanceerde montages uit te breiden, en dan de types van gebruikers herkenningstekens te selecteren die de segmentmarkering volgt:
 
-      * *[!UICONTROL Cookies]:* (De standaardinstelling) De segmenttag volgt cookies.
+      * *[!UICONTROL Cookies]:* (De standaardinstelling) De segmenttag houdt cookies bij.
 
       * [!UICONTROL Universal IDs (Beta)]:
 
-         * *[!UICONTROL ID5]:* De segmenttag wordt bijgehouden [!DNL ID5] ID&#39;s. Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
+         * *[!UICONTROL ID5]:* De segmenttagtracks [!DNL ID5] ID&#39;s. Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
 
         **[!UICONTROL Terms of Service]:** De serviceovereenkomst voor het gebruik van universele id&#39;s. Je of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat je universele id&#39;s voor een nieuw type id kunt gebruiken. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Als u de voorwaarden wilt lezen, klikt u op **>**. Als u de voorwaarden wilt accepteren, schuift u naar de onderkant van de voorwaarden en klikt u op **[!UICONTROL Accept]**.
 

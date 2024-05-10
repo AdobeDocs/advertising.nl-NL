@@ -1,5 +1,5 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -7,7 +7,7 @@ ht-degree: 0%
 ---
 # Websitedomein-veld in instellingen voor GGL- en MS-zoekcampagne
 
-**[!UICONTROL Website Domain]:** (Alleen netwerk zoeken; (alleen van toepassing op uitgebreide dynamische zoekadvertenties) Het hoofddomein (zoals example.com) of subdomein (zoals schoenen.voorbeeld.com) van de website waarvan de inhoud door het advertentienetwerk wordt gebruikt om uw dynamische zoekadvertenties te activeren.
+**[!UICONTROL Website Domain]:** (Alleen netwerk zoeken; alleen van toepassing op uitgebreide dynamische zoekadvertenties) Het hoofddomein (zoals example.com) of subdomein (zoals shoes.example.com) van de website waarvan de inhoud door het advertentienetwerk moet worden gebruikt om uw dynamische zoekadvertenties als doel in te stellen.
 
 **Opmerkingen:**
 

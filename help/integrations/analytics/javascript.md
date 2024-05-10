@@ -3,9 +3,9 @@ title: JavaScript-code voor [!DNL Analytics for Advertising]
 description: JavaScript-code voor [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 18bfb32d-2754-44b2-86c1-d102836cc08c
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '920'
+source-wordcount: '919'
 ht-degree: 0%
 
 ---
@@ -98,7 +98,7 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles], [!DN
    | Analyserapportsuite | De waarde na `/b/ss/` | | `_les_rsid` |
    | Bezoeker-id Experience Cloud | midden |  | `_les_mid` |
 
-   Als de id-waarden overeenkomen, wordt de JavaScript-implementatie bevestigd. Adobe Advertising zal de [!DNL Analytics] eventuele doorklikgegevens of doorlopende trackinggegevens op de server te plaatsen.
+   Als de id-waarden overeenkomen, wordt de JavaScript-implementatie bevestigd. Adobe Advertising verzendt de [!DNL Analytics] eventuele doorklikgegevens of doorlopende trackinggegevens op de server te plaatsen.
 
 #### De code bevestigen met [!DNL Adobe Experience Cloud Debugger]
 

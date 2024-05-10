@@ -3,9 +3,9 @@ title: Gebruiken [!DNL Roku] Inventaris
 description: Meer informatie over DSP partnerschap met [!DNL Roku], inclusief inventarisopties, goedgekeurde leveranciers van trackingservices van derden en aanbevolen procedures voor [!DNL Roku]-specifieke stages.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '519'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Reclame DSP biedt unieke kenmerken voor advertenties op [!DNL Roku].
 
 ## De DSP en [!DNL Roku] Partnerschap
 
-Roku en DSP hebben een uniek partnerschap dat overeenkomt met uw [!DNL DSP] publiek naar [!DNL Roku] ID&#39;s voor deterministische doelgroepen van 1:1 die zich richten op [!DNL Roku] voorraad.
+Roku en DSP hebben een uniek partnerschap dat overeenkomt met uw [!DNL DSP] publiek naar [!DNL Roku] Id&#39;s voor deterministische doelgroep voor 1:1 [!DNL Roku] voorraad.
 
 Buiten Roku&#39;s eigen DSP (OneView) heeft DSP alleen toegang tot deze doelfuncties. DSP is ook de enige DSP met toestemming [!DNL Roku] levering naast alle andere voorraad van de aangesloten tv (CTV). Omdat [!DNL Roku] deelt niet alle standaard RTB- en pixelsignalen, geen andere DSP kan zich richten of meten over de door Roku verkochte CTV-apparatuur.
 
@@ -28,12 +28,12 @@ U kunt of a) opstelling privé deal IDs direct met [!DNL Roku] en ga dan de gege
 >
 >[!DNL Roku] voorraad is niet beschikbaar in open markten en beurzen.
 
-* Voor uw persoonlijke deals, [opstelling informatie over de overeenkomst IDs in DSP](/help/dsp/inventory/deal-id-create.md) en vervolgens &quot;[!UICONTROL Roku Network – Audience]&quot; en &quot;[!UICONTROL The Roku Channel – Audience]&quot; binnen [!DNL Roku] stages.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals will show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
+* Voor uw persoonlijke deals, [opstelling informatie over de overeenkomst IDs in DSP](/help/dsp/inventory/deal-id-create.md) en vervolgens &quot;[!UICONTROL Roku Network – Audience]&quot; en &quot;[!UICONTROL The Roku Channel – Audience]&quot; binnen [!DNL Roku] plaatsingen.<!-- Or do you target the deal ID?? I see those strings for Roku On Demand inventory. Clarify if all Roku private deals show up as one or the other of these in Roku Private inventory in Roku placement settings. -->
 
-* U kunt [abonneren op het volgende [!DNL Roku] voorraad binnen de [!DNL On Demand] Galerie](/help/dsp/inventory/on-demand-inventory-subscribe.md)en richt dan om het even welke goedgekeurde overeenkomsten binnen [!DNL Roku] plaatsingen:
+* U kunt [abonneren op het volgende [!DNL Roku] inventarisatie binnen de [!DNL On Demand] Galerie](/help/dsp/inventory/on-demand-inventory-subscribe.md)en richt dan om het even welke goedgekeurde overeenkomsten binnen [!DNL Roku] plaatsingen:
 
    * &quot;[!UICONTROL Roku Network – Audience]&quot; voor inventarisatie in de gehele [!DNL Roku] ecosysteem met partners met premiuminhoud, zoals [!DNL The CW], [!DNL ABC], en [!DNL ESPN].
-   * &quot;[!UICONTROL The Roku Channel – Audience]&quot; for [!DNL Roku] app-inhoud (O&amp;O) in eigendom en in gebruik.
+   * &quot;[!UICONTROL The Roku Channel – Audience]&quot; for [!DNL Roku] app-inhoud (O&amp;O) in eigendom.
 
 ### Voordelen van het Aanpassen van Privémarkten met [!DNL Roku]
 
@@ -53,7 +53,7 @@ De privé overeenkomsten staan u toe om de overeenkomstenparameters aan te passe
 
 Bij DSP campagnes [maken [!DNL Roku]-specifieke stages](/help/dsp/campaign-management/placements/placement-create.md) met het plaatsingstype &quot;[!UICONTROL Connected TV (Roku)].&quot; Inclusief [!DNL Roku] plaatsingen in [!DNL Roku]-specific pakketten met bepaalde doelstellingen.
 
-Elk [!DNL Roku] de plaatsing moet minstens één richten [!DNL Roku] deal of bron. De unieke publieksovereenkomst van DSP gebruiken met [!DNL Roku]omvat u een of meer publiekssegmenten die met de [!DNL Roku] (opted-in) deterministische gegevensset.
+Elk [!DNL Roku] de plaatsing moet minstens één richten [!DNL Roku] deal of bron. De unieke publieksovereenkomst van DSP gebruiken met [!DNL Roku]omvat u een of meer publiekssegmenten die u kunt vergelijken met de [!DNL Roku] (opted-in) deterministische gegevensset.
 
 ### [!DNL Roku]-Goedgekeurde leveranciers van tracking van derden
 
@@ -83,4 +83,3 @@ Op maximale schaal:
 >* [Handmatig details van deal-id maken](/help/dsp/inventory/deal-id-create.md)
 > * [Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-inventaristransacties](/help/dsp/inventory/on-demand-inventory-subscribe.md)
 >* [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
-

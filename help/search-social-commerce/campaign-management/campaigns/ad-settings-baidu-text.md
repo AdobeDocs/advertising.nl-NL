@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Baidu] tekst en instellingen'
 description: Verwijs naar de instellingen voor [!DNL Baidu] tekstadvertenties.
-exl-id: 68165d1f-a7ef-4b2a-ae5d-36190fb49d77
+exl-id: 1c914e8a-e39b-477e-9c19-919ffedc30c7
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **[!UICONTROL Display URL]:** De URL die in een advertentie wordt weergegeven. De maximale lengte is 35 single-byte tekens.
 
-**[!UICONTROL Mobile Preferred]:** (Optioneel) Hiermee kan het netwerk proberen de advertentie- of advertentieextensie weer te geven aan gebruikers van mobiele apparaten in plaats van aan gebruikers van desktops of tablets. De optie is standaard niet ingeschakeld en de advertentie wordt op elk apparaattype weergegeven.
+**[!UICONTROL Mobile Preferred]:** (Optioneel) Hiermee kan het netwerk proberen de advertentie- of advertentieextensie weer te geven aan gebruikers van mobiele apparaten in plaats van aan gebruikers van desktops of tablets. De optie is standaard niet ingeschakeld en de advertentie kan op elk apparaattype worden weergegeven.
 
 >[!NOTE]
 >

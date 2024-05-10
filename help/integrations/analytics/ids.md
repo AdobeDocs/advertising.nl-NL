@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 9374f5ef6aaff1f638022bc878c7af190e31888f
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1686'
+source-wordcount: '1684'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ De EF-id is een unieke token die de Adobe Advertising gebruikt om activiteit te 
 
 >[!NOTE]
 >
->EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] de implementatie forceert URL-tracking naar kleine letters en de Adobe Advertising herkent de EF-id dan niet. Dit heeft gevolgen voor de Adobe Advertising van biedingen en rapportage, maar heeft geen invloed op de rapportage van Adoben Advertising binnen [!DNL Analytics].
+>EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] de implementatie forceert URL-tracking naar kleine letters en de Adobe Advertising herkent de EF-id niet. Dit is van invloed op biedingen en verslaglegging door Adoben Advertising, maar heeft geen invloed op de rapportage van Adoben Advertising binnen [!DNL Analytics].
 
 #### [!DNL Google Ads] zoekopdrachten
 
@@ -114,7 +114,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
    * DSP klanten: De pixelserver voegt automatisch de parameter s_kwcid aan uw het landen paginaachtervoegsels toe wanneer een eind - gebruiker een vertoningsadvertentie met de Adobe Advertising pixel bekijkt.
 
-   * Zoek-, sociale en commerciële klanten:
+   * Zoek-, sociale en Commerce-klanten:
 
       * Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] rekeningen bij de [!UICONTROL Auto Upload] Wanneer de pixelserver de voor de account of campagne ingeschakelde instelling instelt, voegt deze automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising pixel klikt.
 
@@ -128,7 +128,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
       * Voor [!DNL Google Campaign Manager 360] ad-tags, voeg handmatig extra macro&#39;s in per &quot;[Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
-   * Zoek-, sociale en commerciële klanten:
+   * Zoek-, sociale en Commerce-klanten:
 
       * Voor ([!DNL Google Ads] en [!DNL Microsoft® Advertising]), handmatig de parameter AMO ID toevoegen aan de achtervoegsels van de bestemmingspagina, idealiter op de [accountniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij afzonderlijke onderdelen van een account anders moeten worden getraceerd.
 
@@ -152,7 +152,7 @@ waarbij:
 
 Voorbeeld-AMO-id: AC!iIMvXqlOa6Nia2lDvtgw!GrVv6o2oV2qQLjQiXLC7
 
-#### AMO ID-indelingen voor advertenties voor zoeken, sociale media en handel {#amo-id-format-search}
+#### AMO-id-indelingen voor advertenties op zoek, op sociaal gebied en in Commerce {#amo-id-format-search}
 
 De parameters variëren per advertentienetwerk, maar de volgende parameters zijn gemeenschappelijk voor allen:
 

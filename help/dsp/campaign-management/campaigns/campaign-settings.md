@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -90,7 +90,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 >[!NOTE]
 >
-> U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP zal de strengste frequentiegrens in de campagnehiërarchie respecteren.
+> U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP respecteert de strengste frequentiegrens in de campagnehiërarchie.
 
 **[!UICONTROL Packages]:** De [pakketten](/help/dsp/campaign-management/packages/package-about.md) in de campagne op te nemen. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten maakt, raadpleegt u de beschrijvingen over de [pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie .
 
@@ -126,7 +126,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 * **[!UICONTROL Target Age]:** Het leeftijdsbereik dat moet worden nagestreefd. Gebruik de linker- en rechterschuifregelaars om het bereik zo nodig te verkleinen.
 
-* **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Nielsen] zullen alleen de indrukken meten die in de gesteunde landen worden bediend.
+* **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Nielsen] maatregelen die alleen in de gesteunde landen worden genomen.
 
 **[!UICONTROL comScore vCE]:** (Optioneel) Inschakelen [!DNL Comscore validated Campaign Essentials (vCE)] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
@@ -134,7 +134,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 * **[!UICONTROL Target Age]:** Het leeftijdsbereik dat moet worden nagestreefd. Gebruik de linker- en rechterschuifregelaars om het bereik zo nodig te verkleinen.
 
-* **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Comscore] zullen alleen de indrukken meten die in de gesteunde landen worden bediend.
+* **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Comscore] maatregelen die alleen in de gesteunde landen worden genomen.
 
 ### [!UICONTROL 1st Party Metrics]
 

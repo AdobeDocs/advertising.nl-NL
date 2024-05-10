@@ -3,9 +3,9 @@ title: Speciale rapporten
 description: Meer informatie over speciale rapporten.
 exl-id: fd2bcd97-70dd-4160-8209-6cdf9c9a6d62
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 879cc2fa13475c90e92367b9fa0a9fa3d6203d7d
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ De meeste specialiteitrapporten bestaan slechts uit gegevens die door de adverte
 
 >[!NOTE]
 >
->Voor de meeste speciale rapporten, worden de gegevens getrokken voor de vorige dag om 23:00 (11:00) elke dag. Op 18 juni om 23.00 uur zal het bijvoorbeeld gegevens verzamelen voor 17 juni. Als je het rapport uitvoert op 19 juni om 9.00 uur — voordat gegevens voor 18 juni worden verzameld — dan bevat het rapport gegevens tot 17 juni om 23.00 uur. Deze gegevenssynchronisatie is van toepassing op alle [!DNL Google Ads] speciale verslagen en de [!UICONTROL Bing Ads Geo Report] en [!UICONTROL Bing Ads Search Query Report].
+>Voor de meeste speciale rapporten, worden de gegevens getrokken voor de vorige dag om 23:00 (11:00) elke dag. Zo worden bijvoorbeeld om 23.00 uur op 18 juni gegevens voor 17 juni opgehaald. Als je het rapport uitvoert op 19 juni om 9.00 uur — voordat gegevens voor 18 juni worden verzameld — dan bevat het rapport gegevens tot 17 juni om 23.00 uur. Deze gegevenssynchronisatie is van toepassing op alle [!DNL Google Ads] speciale verslagen en de [!UICONTROL Bing Ads Geo Report] en [!UICONTROL Bing Ads Search Query Report].
 
 ## Typen speciale rapporten
 
@@ -52,6 +52,6 @@ De meeste specialiteitrapporten bestaan slechts uit gegevens die door de adverte
 
 >[!MORELIKETHIS]
 >
-* [Een speciaal rapport genereren](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
-* [Instellingen voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
-* [Kolommen rapporteren voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
+>* [Een speciaal rapport genereren](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
+>* [Instellingen voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [Kolommen rapporteren voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)

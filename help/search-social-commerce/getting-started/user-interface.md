@@ -3,9 +3,9 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: de3c12275d5a6f05e52a8c080c26d93e837d9f71
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '433'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ Boven aan elke pagina staan het hoofdmenu en andere op taak en informatie gebase
 
 ## Het hoofdmenu
 
-* **[!UICONTROL Search]** — Je advertentienetwerkaccounts beheren in Zoeken, Sociale Zaken en Handel, inclusief accounts waarvoor Zoeken, Sociale Zaken en Handel volgen maar geen biedingen uitbrengen.
+* **[!UICONTROL Search]** — Uw advertentienetwerkaccounts beheren in Zoeken, Sociaal en Commerce, inclusief accounts waarvoor Zoeken, Sociaal en Commerce bijhoudt, maar geen bod uitbrengt.
 
 ## [!UICONTROL Search] menu
 
-Onder de [!UICONTROL Search] ziet u de volgende submenu&#39;s. De beschikbare opties worden bepaald door uw rol:
+De [!UICONTROL Search] bevat de volgende submenu&#39;s. De beschikbare opties worden bepaald door uw rol:
 
 * **[!UICONTROL Campaigns]** — Dit menu bevat opties voor het weergeven en beheren van informatie over de advertentieraccounts en campagnes die u beheert of volgt. Afhankelijk van het advertentienetwerk en uw rol, kunt u rekeningen en campagnes en hun componenten tot stand brengen en uitgeven. U kunt ook labelclassificaties beheren, die u kunt toewijzen aan verschillende accountcomponenten.
 
@@ -40,7 +40,7 @@ Onder de [!UICONTROL Search] ziet u de volgende submenu&#39;s. De beschikbare op
 
 * (Indien van toepassing) Een selecteerbare lijst met adverteerders die u beheert.
 
-* ![Waarschuwingsmeldingen](/help/search-social-commerce/assets/notifications-panel.png "Waarschuwingsmeldingen") Een deelvenster met je meldingen voor Zoeken, Sociale Zaken en Handel.
+* ![Waarschuwingsmeldingen](/help/search-social-commerce/assets/notifications-panel.png "Waarschuwingsmeldingen") Een paneel waarin je zoekopdrachten, sociale berichten en Commerce-meldingen worden weergegeven.
 
   Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md)in dit deelvenster worden uw meldingen van het Experience Cloud weergegeven.
 

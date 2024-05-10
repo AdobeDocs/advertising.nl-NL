@@ -3,9 +3,9 @@ title: Over winkelproductgroepen
 description: Meer informatie over het winkelen van productgroepen tijdens winkelcampagnes.
 exl-id: ae270935-1464-4393-8b8c-745fee077522
 feature: Search Campaign Management
-source-git-commit: 4ed0d225dafcb07e8a563ef7e723cd247da5e1a9
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '721'
 ht-degree: 0%
 
 ---
@@ -42,15 +42,15 @@ U kunt productgroepen en onderliggende productgroepen maken en bewerken in de [!
 
 ## Traceergegevens en prestatiegegevens voor winkelproductgroepen
 
-(Rekeningen/campagnes met &quot;[!UICONTROL EF Redirect]&quot;optie voor bijhouden&quot;) Als u Zoeken, Sociale Zaken en Handel wilt toestaan om conversies voor productgroepen bij te houden, [URL&#39;s voor bijhouden genereren voor productgroepen met het gereedschap URL&#39;s bijhouden](/help/search-social-commerce/tools/click-tracking-url-generate.md)en voer vervolgens een van de volgende handelingen uit:
+(Rekeningen/campagnes met &quot;[!UICONTROL EF Redirect]&quot;optie voor bijhouden) Als u Zoeken, Sociaal en Commerce wilt toestaan conversies voor productgroepen te volgen, [URL&#39;s voor bijhouden genereren voor productgroepen met het gereedschap URL&#39;s bijhouden](/help/search-social-commerce/tools/click-tracking-url-generate.md)en voer vervolgens een van de volgende handelingen uit:
 
 * (Vereist voor [!DNL Google Ads]; beste praktijken voor [!DNL Microsoft® Advertising]) Voeg de URL voor bijhouden toe aan de [!DNL Tracking Template] in de account-, campagne- of productgroepinstelling. Voeg deze op het hoogst mogelijke niveau toe om het onderhoud te vereenvoudigen. Om het even welke toevoegingsparameters die voor de rekening of de campagne worden gespecificeerd zijn niet inbegrepen.
 
   >[!CAUTION]
   >
-  >([!DNL Microsoft® Advertising]Gebruik deze optie alleen als u URL&#39;s voor het bijhouden van zoekopdrachten, sociale gegevens en handel niet opneemt in een aangepaste kolom in de productfeed. Als u beide instelt, bevatten de URL&#39;s twee omleidingen en worden de koppelingen verbroken.
+  >([!DNL Microsoft® Advertising]Gebruik deze optie alleen als u URL&#39;s voor het bijhouden van zoekopdrachten, sociale gegevens en Commerce niet opneemt in een aangepaste kolom in de productfeed. Als u beide doet, bevatten de URL&#39;s twee omleidingen en worden koppelingen verbroken.
 
-* ([!DNL Microsoft® Advertising] alleen) Voeg de URL voor bijhouden toe aan de productgegevens in het dialoogvenster [!DNL Microsoft® Merchant Center] account. Hiervoor neemt u de URL voor bijhouden op, samen met de waarde in het dialoogvenster `link` of `mobile_link` in een aangepaste kolom met de naam [`bingads_redirect`](https://help.ads.microsoft.com/#apex/3/en/51084/0) in het diervoeder. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de account- of campagnemontages in Zoeken, Sociaal en Handel.
+* ([!DNL Microsoft® Advertising] alleen) Voeg de URL voor bijhouden toe aan de productgegevens in het dialoogvenster [!DNL Microsoft® Merchant Center] account. Hiervoor neemt u de URL voor bijhouden op, samen met de waarde in het dialoogvenster `link` of `mobile_link` in een aangepaste kolom met de naam [`bingads_redirect`](https://help.ads.microsoft.com/#apex/3/en/51084/0) in het diervoeder. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de account- of campagne-instellingen in Zoeken, Sociaal en Commerce.
 
 U kunt gegevens over productgroepen weergeven in [de [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/product-group-report.md).
 

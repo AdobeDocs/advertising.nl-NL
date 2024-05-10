@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: c2c2ddb18b100dc0592d07af3ed1d9f030178eca
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1273'
+source-wordcount: '1268'
 ht-degree: 0%
 
 ---
@@ -22,11 +22,11 @@ DSP kan uw prestatiegerichte campagnes optimaliseren. Raadpleeg de volgende aanb
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben de [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Voor elk pakket in de campagne, zult u het optimalisatiedoel dienovereenkomstig specificeren.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben de [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Geef voor elk pakket in de campagne dienovereenkomstig het optimalisatiedoel op.
 
 ![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
 
-U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel zullen leiden en dienovereenkomstig douanedoelstellingen creëren. Voor elk pakket, zult u een douanedoel specificeren dat met het algemene optimalisatiedoel voor rapportering en algoritmische optimalisering moet worden gebruikt [!DNL Adobe Sensei]. Voor meer informatie over het creëren van douanedoelstellingen, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](custom-goal.md#custom-goal-best-practices).
+U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel leiden en dienovereenkomstig aangepaste doelen maken. Geef voor elk pakket een aangepast doel op dat moet worden gebruikt met het algemene optimalisatiedoel voor rapportage en algoritmische optimalisatie met behulp van [!DNL Adobe Sensei]. Voor meer informatie over het creëren van douanedoelstellingen, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](custom-goal.md#custom-goal-best-practices).
 
 ![aangepaste doelen](/help/dsp/assets/objective-goals.png)
 
@@ -73,7 +73,7 @@ Gebruik ook de volgende instellingen.
 
   Als u bijvoorbeeld $100.000 wilt besteden in 30 dagen, stelt u het budget voor vlucht 1 (dagen 1-10) in op $25.000 (75% x $100.000/30 dagen = $2.500 per dag). Gebruik het resterende budget van $75.000 voor Vlucht 2 (Dagen 11-30).
 
-* **Begroting:** DSP zal altijd proberen om 100% van de pakketbegroting gelijkelijk over alle plaatsen in een pakket te verdelen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te staan om aan stages met schaal toe te wijzen. 24-48 uur toestaan voor begrotingswijzigingen.
+* **Begroting:** DSP probeert altijd 100% van de pakketbegroting gelijkmatig over alle plaatsen in een pakket te verdelen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te staan om aan stages met schaal toe te wijzen. 24-48 uur toestaan voor begrotingswijzigingen.
 
 * **Optimalisatiedoelstellingen:** Gebruik een van de twee optimalisatiedoelen voor prestaties. *[!UICONTROL Highest Return on Ad Spend]* of *[!UICONTROL Lowest Cost per Acquisition]*, afhankelijk van het pakketdoel. Met deze doelen wordt het pakket automatisch geoptimaliseerd in de richting van respectievelijk de beste ROAS- of laagste CPA-plaatsing.
 
@@ -97,7 +97,7 @@ Hieronder vindt u de aanbevolen plaatsingsinstellingen voor prestatiecampagnes.
 
 ### Doelen
 
-U zult CPA of ROAS optimalisering op het pakketniveau vormen (zie Stap 3 - creeer Pakketten), maar u kunt extra plaatsing-vlakke montages toevoegen.
+U moet CPA of ROAS optimalisering op het pakketniveau vormen (zie Stap 3 - creeer Pakketten), maar u kunt extra plaatsing-vlakke montages toevoegen.
 
 * **Maximumbod:**
    * Gebruik een laag maximumbod ($5) voor het zoeken naar plaatsen.
@@ -105,7 +105,7 @@ U zult CPA of ROAS optimalisering op het pakketniveau vormen (zie Stap 3 - creee
 
 * **Filters vóór bod:** Minimaliseer of vermijd bij voorkeur het instellen van agressieve voorbiedingsfilters, die voorkomen dat de plaatsing schaalbaar wordt. De beste praktijken omvatten het volgende:
 
-   * Gebruik één (1) voorbiedingsfilter per plaatsing. Voor meerdere filters voor vooraf bieden moet aan beide worden voldaan, waardoor de schaal afneemt.
+   * Gebruik één (1) voorbiedingsfilter per plaatsing. Wanneer u meerdere filters voor een voorbod gebruikt, moet aan beide voorwaarden worden voldaan, waardoor de schaal afneemt.
 
    * U kunt minder strikte voorbiedingsfilters instellen in gevallen waarin extra doelframes (zoals publiek, geo en doellocatie) worden toegepast.
 
@@ -132,7 +132,7 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 
 >[!NOTE]
 >
->Uw advertenties presteren het best als een gebruiker slechts door één plaatsing kan worden bereikt. Een aanzienlijke overlapping van gebruikers tussen verschillende plaatsen kan concurrentie veroorzaken, wat een cyclus van voortdurend stijgende biedingen oplevert, waardoor de kosten per gebruiker stijgen. Daarom als u veelvoudige publiek omvat, zorg ervoor zij niet uit overlappende gebruikers/publieksleden bestaan.
+>Uw advertenties presteren het best als een gebruiker door slechts één plaatsing kan worden bereikt. Een aanzienlijke overlapping van gebruikers tussen verschillende plaatsen kan concurrentie veroorzaken, wat een cyclus van voortdurend stijgende biedingen oplevert, waardoor de kosten per gebruiker stijgen. Daarom als u veelvoudige publiek omvat, zorg ervoor zij niet uit overlappende gebruikers/publieksleden bestaan.
 >
 > U kunt overlappende soorten publiek voorkomen door uw publiek in lagen te maken, zodat u de hogere, meer inclusieve lagen van plaatsingen desgewenst kunt onderdrukken.
 
@@ -147,7 +147,7 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
 
 ### Merk, veiligheid en mediakwaliteit
 
-Contextafhankelijke filtering, blokkering van voorbiedingsfraude en/of [!UICONTROL Ads.txt] het filtreren zal de schaal van uw plaatsen beperken, maar gebruik hen indien nodig.
+Contextafhankelijke filtering, blokkering van voorbiedingsfraude en/of [!UICONTROL Ads.txt] het filtreren beperkt de schaal van uw plaatsingen, maar gebruik hen indien nodig.
 
 ## Stap 5 - De juiste Creative Assets gebruiken
 

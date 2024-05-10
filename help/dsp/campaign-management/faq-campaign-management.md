@@ -3,9 +3,9 @@ title: Veelgestelde vragen over Campaign Management
 description: Meer informatie over campagnebeheer, waaronder de latentieperiode voor wijzigingen en wat er gebeurt wanneer u budgetwijzigingen aanbrengt tijdens een vlucht.
 feature: DSP Packages, DSP Placements
 exl-id: 8a443543-ebb1-4273-a007-afef07d32d8c
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
   Wijzigingen in instellingen worden gewoonlijk onmiddellijk van kracht, maar kunnen tot 12 uur in beslag nemen.
 
-  Als het de laatste dag van levering is, breng veranderingen vroeg in de dag aan zodat DSP genoeg tijd heeft om het pakket opnieuw te kalibreren dat op de veranderingen wordt gebaseerd. Als u bijvoorbeeld overschakelt van plaatsing naar vooraf laden, moet DSP opnieuw beoordelen hoe de uitgaven gedurende de rest van de vlucht worden verdeeld. Breng dat soort verandering niet aan als je maar één uur over hebt om op de laatste dag van de vlucht te leveren.
+  Als het de laatste dag van levering is, breng veranderingen vroeg in de dag aan zodat DSP genoeg tijd heeft om het pakket opnieuw te kalibreren dat op de veranderingen wordt gebaseerd. Als u bijvoorbeeld overschakelt van plaatsing naar vooraf laden, moet DSP opnieuw beoordelen hoe u de uitgaven gedurende de rest van de vlucht kunt verdelen. Breng dat soort verandering niet aan als je maar één uur over hebt om op de laatste dag van de vlucht te leveren.
 
 ## Tussentijdse begrotingsupdates
 

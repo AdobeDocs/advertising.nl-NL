@@ -3,7 +3,7 @@ title: Info [!UICONTROL Report Destinations]
 description: Meer informatie over het beheren van leveringslocaties voor uw aangepaste rapporten.
 feature: DSP Custom Reports
 exl-id: f1cc7a0d-13cb-4a27-816b-897f373984a6
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '166'
 ht-degree: 0%
@@ -33,7 +33,7 @@ U kunt nieuwe bestemmingen tot stand brengen, en bestaande bestemmingen uitgeven
 
 >[!NOTE]
 >
->Het bijwerken van de geloofsbrieven voor uw bestaande rapportbestemmingen zal rapportlevering niet onderbreken, zolang de geloofsbrieven geldig zijn.
+>Het bijwerken van de geloofsbrieven voor uw bestaande rapportbestemmingen onderbreekt rapportlevering niet zolang de geloofsbrieven geldig zijn.
 
 ![Doelen rapporteren](/help/dsp/assets/report-destinations.png)
 
@@ -43,4 +43,3 @@ U kunt nieuwe bestemmingen tot stand brengen, en bestaande bestemmingen uitgeven
 >* [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
 >* [Een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
-

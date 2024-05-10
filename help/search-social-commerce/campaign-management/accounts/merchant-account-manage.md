@@ -3,9 +3,9 @@ title: Zakelijke accounts beheren
 description: Leer hoe u accountgegevens voor een bedrijfscentrum instelt en beheert.
 exl-id: 7d940e45-ea49-470b-98d0-0196593228cb
 feature: Search Campaign Management
-source-git-commit: 35a27d075d5de7c3526cd6522376671954b608db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '790'
+source-wordcount: '789'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
-Met Zoeken, Sociale media en Handel kunt u elke dag productgegevens downloaden en weergeven voor de accounts van Google Merchant Center of Microsoft Merchant Center van een adverteerder. Bovendien kan met Zoeken, Sociaal en Handel een advertentie worden geautomatiseerd op basis van de inhoud van de zakelijke account. Als u rechtstreeks met productgegevens wilt werken in Zoeken, Sociaal en Handel, moet u een corresponderend accountrecord maken met de toegangsreferenties van de account en met toegang *enabled*.
+Met Zoeken, Sociaal en Commerce kunt u elke dag productgegevens downloaden en weergeven voor Google Merchant Center- of Microsoft Merchant Center-accounts van adverteerders. Bovendien kunnen met Zoeken, Sociaal en Commerce advertenties worden geautomatiseerd op basis van de inhoud van het zakelijke account. Als u rechtstreeks wilt werken met productgegevens in Zoeken, Sociaal en Commerce, moet u een corresponderend accountrecord maken met de toegangsreferenties van uw account en met toegang *enabled*.
 
 >[!NOTE]
 >
@@ -46,7 +46,7 @@ Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor ee
    
    -->
 
-   1. (Vereist voor [!DNL Google Ads] accounts; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdracht, sociale zaken en handel toestaan om toegang te krijgen tot de account via de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/):
+   1. (Vereist voor [!DNL Google Ads] accounts; optioneel voor [!DNL Microsoft Advertising] accounts) Zoekopdrachten, sociale gegevens en Commerce toegang geven tot het account via de [[!DNL OAuth] machtigingsprotocol](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] alleen accounts) Selecteren **[!UICONTROL oAuth]**.
 
@@ -62,7 +62,7 @@ Als u productgegevens wilt weergeven en trackingsjablonen wilt genereren voor ee
 
 1. Klik op **[!UICONTROL Save]**.
 
-   Kenmerkgegevens voor alle producten in de account zijn na het volgende dagelijkse synchronisatieproces beschikbaar in Zoeken, Sociaal en Handel (ongeveer 6:00 in de lokale tijdzone van de gebruiker). Vervolgens kunt u de productgegevens gebruiken om het maken en maken te automatiseren met behulp van voorraadfeeds.
+   Kenmerkgegevens voor alle producten in de account zijn beschikbaar in Zoeken, Sociaal en Commerce na het volgende dagelijkse synchronisatieproces (ongeveer 6:00 in de lokale tijdzone van de gebruiker). Vervolgens kunt u de productgegevens gebruiken om het maken en maken te automatiseren met behulp van voorraadfeeds.
 
 ## Details handelsaccount bewerken {#edit-merchant-account}
 
@@ -84,13 +84,13 @@ Als de accountgegevens veranderen of als u niet langer gegevens voor een zakelij
 
 >[!NOTE]
 >
->Zoek, Sociale, &amp; Handel moet de nieuwe rekeningsgegevens met die op het commerciële netwerk synchroniseren. Dit gebeurt automatisch één keer per dag bij ongeveer 06:00 in de lokale tijdzone van de gebruiker.
+>Zoeken, Sociaal en Commerce moeten de nieuwe accountgegevens synchroniseren met die op het bedrijfsnetwerk. Dit gebeurt automatisch één keer per dag bij ongeveer 06:00 in de lokale tijdzone van de gebruiker.
 
 ## Toegang tot een zakelijke account uitschakelen {#disable-merchant-account}
 
 *Accountmanager, accountmanager en alleen gebruikersrollen voor beheerders van Adoben*
 
-Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en haalt u daarom geen bijgewerkte productgegevens op. De gegevens die zijn verzameld terwijl de account was ingeschakeld, worden nog opgeslagen en bestaande advertenties die zijn gemaakt met productgegevens, worden niet bijgewerkt, gepauzeerd of verwijderd volgens de instellingen van de voedersjabloon en de voedergegevens.
+Wanneer u een zakelijke account uitschakelt, worden via Zoeken, Sociaal zoeken en Commerce niet aangemeld bij de account en worden de bijgewerkte productgegevens daarom niet opgehaald. De gegevens die zijn verzameld terwijl de account was ingeschakeld, worden nog opgeslagen en bestaande advertenties die zijn gemaakt met productgegevens, worden niet bijgewerkt, gepauzeerd of verwijderd volgens de instellingen van de voedersjabloon en de voedergegevens.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]** , die voor de [!UICONTROL Accounts] tab.
 
@@ -118,7 +118,7 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 
 **[!UICONTROL Access Key]:** ([!DNL Microsoft Merchant Center] alleen) De toegangstoets voor de ontwikkelaarsaccount die moet worden gebruikt.
 
-**[!UICONTROL Account Name]:** De naam die voor de account wordt weergegeven in Zoeken, Sociale media en Handel.
+**[!UICONTROL Account Name]:** De naam die voor het account wordt weergegeven in Zoeken, Sociaal en Commerce.
 
 **[!UICONTROL Login]:** De aanmeldingsnaam of id voor het account.
 
@@ -126,15 +126,15 @@ Als u een zakelijke account uitschakelt, meldt u zich niet aan bij de account en
 
 **[!UICONTROL Confirm Password]:** Het wachtwoord voor de account.
 
-**[!UICONTROL EF Account Type]:** Of Search, Social &amp; Commerce toegang krijgt tot het account:
+**[!UICONTROL EF Account Type]:** Of Search, Social &amp; Commerce toegang heeft tot de account:
 
-* *[!UICONTROL Enabled]* (de standaardwaarde): met Zoeken, Sociaal en Handel kunt u zich aanmelden bij de account om de productgegevens op te halen.
+* *[!UICONTROL Enabled]* (standaard): met Zoeken, Sociaal en Commerce kunt u zich aanmelden bij de account om de productgegevens op te halen.
 
 * *[!UICONTROL Disabled]:* Search, Social &amp; Commerce meldt zich niet aan bij de account en haalt daarom geen bijgewerkte productgegevens op. De gegevens die zijn verzameld terwijl de account was ingeschakeld, worden nog opgeslagen en bestaande advertenties die zijn gemaakt met productgegevens, worden niet bijgewerkt, gepauzeerd of verwijderd volgens de instellingen van de voedersjabloon en de voedergegevens.
 
 **[!UICONTROL Account ID]:** De zakelijke account-id. Als u slechts één account met de opgegeven aanmeldingsgegevens hebt, is deze waarde optioneel.
 
-**[!UICONTROL Time Zone]:** De tijdzone van de adverteerder. Gebruik dezelfde tijdzone die is geconfigureerd voor de accountgegevens voor zoeken, sociale zaken en handel van de adverteerder (die wordt ingesteld wanneer de account wordt gemaakt). U kunt de waarde van een bestaand account niet wijzigen.
+**[!UICONTROL Time Zone]:** De tijdzone van de adverteerder. Gebruik dezelfde tijdzone die is geconfigureerd voor de accountgegevens van de adverteerder voor zoeken, sociaal en Commerce (die wordt ingesteld wanneer het account wordt gemaakt). U kunt de waarde van een bestaand account niet wijzigen.
 
 >[!MORELIKETHIS]
 >

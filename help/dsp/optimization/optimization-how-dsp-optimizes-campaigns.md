@@ -3,7 +3,7 @@ title: Hoe DSP uw campagnes optimaliseert
 description: Leer hoe DSP de pakketten in uw campagnes optimaliseert.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
@@ -32,7 +32,7 @@ DSP kan uw levering op twee fundamentele manieren optimaliseren, met 20 beschikb
 
 * Prioriteit geven aan kostenefficiëntie voor balancering met prestatiesnelheid
 
-Zie [Optimalisatiedoelstellingen en hoe deze te gebruiken](optimization-goals.md) om te bepalen welke optimalisatiedoelstelling u zal helpen uw KPI(s) te bereiken.
+Zie [Optimalisatiedoelstellingen en hoe deze te gebruiken](optimization-goals.md) om te bepalen welke optimalisatiedoelstelling u kan helpen uw KPI(s) te bereiken.
 
 ### Pakketten die de Tarief van Prestaties voorrang geven
 
@@ -50,7 +50,7 @@ Deze optimalisatiemodus werkt goed als:
 
 * Als de uitgaven op tijd zijn, wordt het bieden selectiever, zodat je alleen op veilingen biedt die hoge prestatietarieven zullen hebben.
 
-* Als de bestedingen achterblijven, wordt het bieden minder selectief, zodat je op veilingen kunt bieden waarvan wordt verwacht dat ze lagere prestatietarieven zullen hebben om de pakketdoelstelling te halen.
+* Als de bestedingen achterblijven, wordt het bieden minder selectief, zodat je op veilingen biedt waarvan wordt verwacht dat ze lagere prestatietarieven zullen hebben om de pakketdoelstelling te halen.
 
 #### Prijs/biedarcering wissen {#clearing-price-performance}
 
@@ -80,7 +80,7 @@ Plaatsingsfilters voor voorbiedingen zijn de strengste manier om goede prestatie
 >
 >De beschikbare filters voor voorbiedingen variëren per advertentietype. Voor een standaardplaatsing van het beeldscherm kunt u bijvoorbeeld filteren op doorklikfrequentie en gezichtsvermogen, maar niet op voltooiingsfrequentie.
 
-Zie [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](optimization-pre-bid-filters.md) om te bepalen met welk filter voor het vooraf bieden je de PKI(s) kunt behalen.
+Zie [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](optimization-pre-bid-filters.md) om te bepalen welk filter voor het vooraf bieden je kan helpen je PKI(s) te bereiken.
 
 >[!MORELIKETHIS]
 >

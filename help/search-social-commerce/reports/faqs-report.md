@@ -1,11 +1,11 @@
 ---
 title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
-exl-id: 85707666-7c0f-4aa3-8c91-fb73ef6a5061
+exl-id: 1232efce-25eb-48d8-a3fb-f57711fa14e5
 feature: Search Reports
-source-git-commit: 2903bf783969b3e2d59c0933629cbb170c0a314c
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '3912'
+source-wordcount: '3922'
 ht-degree: 0%
 
 ---
@@ -53,10 +53,10 @@ U kunt zien welke omzettingen het resultaat zijn van een klik op een [!DNL Googl
 Wanneer de rij gegevens bevat voor zoekcampagnes waarvoor inhoud is ingeschakeld, weergavecampagnes of sociale campagnes — die geen trefwoorden bevatten — wordt de rij [!UICONTROL Keyword] in plaats daarvan wordt de toepasselijke naam van de advertentiegroep weergegeven.
 +++
 
-+++Vanwege seizoensgebonden of marktveranderingen worden in mijn rapporten atypische gegevens weergegeven. Zal dit gevolgen hebben voor biedingen als de omstandigheden veranderen?
++++Vanwege seizoensgebonden of marktveranderingen worden in mijn rapporten atypische gegevens weergegeven. Heeft dit gevolgen voor biedingen als de omstandigheden veranderen?
 De optimaliseringscapaciteit bouwt zijn opbrengstmodellen voor elke biedingseenheid dagelijks om ervoor te zorgen dat het identificeert en onmiddellijk op trends reageert, en de modellen omvatten historische gegevens op lange termijn om seizoensgebonden prestaties te helpen voorspellen. De halfwaardetijd van het inkomstenmodel van de portefeuille<!-- add link to glossary? --> bepaalt ook hoe zwaar recente inkomstengegevens worden gewogen. De beste praktijk is om de halfwaardetijd tijdens een periode van atypische prestaties te verminderen maar te verhogen nadat het inkomstenmodel is aangepast. Als u vragen hebt over of het aanpassen van de halfwaardetijd noodzakelijk is, contacteer uw Team van de Rekening van de Adobe.
 
-Als u niet wilt dat de gegevens voor de periode toekomstige biedingen beïnvloeden, dan kunt u verkiezen om die datums van het model uit te sluiten. Neem contact op met het accountteam van uw Adobe om de datums uit te sluiten.
+Als u niet wilt dat de gegevens voor de periode toekomstige biedingen beïnvloeden, dan kunt u verkiezen om die datums van het model uit te sluiten. Neem contact op met het accountteam van de Adobe om de datums uit te sluiten.
 +++
 
 +++Kan ik een rapport maken over een specifieke accounteigenschap, zoals [!UICONTROL Device] of [!UICONTROL Objective Name]?
@@ -81,7 +81,7 @@ Als u een rapport veelvoudige tijden gebruikend de zelfde rapportparameters maar
 
 * Bij de selectie van het portfoliofilter worden enkele gebeurtenissen die tot de conversie leiden, uitgesloten.
 
-  Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- toewijzingsregel, dan moet Portfolio_1 worden opgenomen om de conversie in het rapport op te nemen. Als het rapport echter de toewijzingsregel &quot;Laatste gebeurtenis&quot; gebruikt, moet Portfolio_2 worden opgenomen.
+  Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als in het rapport de waarde &quot;[!UICONTROL First Event]&quot;- toewijzingsregel, dan moet Portfolio_1 worden opgenomen om de conversie in het rapport op te nemen. Nochtans, als het rapport de &quot;Laatste gebeurtenisattributieregel&quot;gebruikt, dan moet Portfolio_2 worden omvat.
 
 >[!TIP]
 >
@@ -98,9 +98,9 @@ Deze situatie kan zich voordoen wanneer de metrische formaten gehelen gebruiken:
 +++
 
 +++Wanneer klik of de opbrengstgegevens ontbreken, hoe ik het verhinderen toekomstige biedingen te beïnvloeden?
-Klik op gegevensproblemen als Zoeken, Sociaal en Handel niet synchroon is met het advertentienetwerk. Neem contact op met het accountteam van uw Adobe om de account handmatig te synchroniseren. Als klikgegevens een hele dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de kostenmodellen uit te sluiten.
+Klik op gegevensproblemen als Zoeken, Sociaal en Commerce niet synchroon is met het advertentienetwerk. Neem contact op met het accountteam van de Adobe om de account handmatig te synchroniseren. Als klikgegevens een hele dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de kostenmodellen uit te sluiten.
 
-Problemen met inkomstengegevens kunnen optreden als gevolg van een probleem met het bijhouden of doorvoeren van een bestand. Neem contact op met uw accountteam van Adobe om het probleem te onderzoeken. Als de opbrengstgegevens voor een volledige dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de opbrengstmodellen uit te sluiten.
+Problemen met inkomstengegevens kunnen optreden als gevolg van een probleem met het bijhouden of doorvoeren van een bestand. Neem contact op met het accountteam van de Adobe om het probleem te onderzoeken. Als de opbrengstgegevens voor een volledige dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de opbrengstmodellen uit te sluiten.
 +++
 
 +++Monetaire gegevens worden in het verkeerde formaat weergegeven.
@@ -122,28 +122,28 @@ Dit zijn algemene redenen voor het ontbreken van klikgegevens.
 
 | Oorzaak | Detectie/analyse | Resolutie |
 |---|---|---|
-| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Neem contact op met het accountteam van uw Adobe.<br><br>Als de gegevens meer dan 24 uur ontbreken, worden deze data van de kostenprognoses uitgesloten totdat de gegevens worden opgehaald. Uw Adobe-accountteam kan de datums uitsluiten. |
-| Een factureringsprobleem tussen de adverteerder en het advertentienetwerk voorkomt dat de advertentierekening uitgaven. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt. | Als u weet dat een advertentierekening niet kon uitgeven wegens een factureringskwestie, dan sluit die data van de kostenramingen uit. Uw Adobe-accountteam kan de datums uitsluiten. |
+| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Neem contact op met het accountteam van de Adobe.<br><br>Als de gegevens meer dan 24 uur ontbreken, worden deze data van de kostenprognoses uitgesloten totdat de gegevens worden opgehaald. Uw accountteam van de Adobe kan de datums uitsluiten. |
+| Een factureringsprobleem tussen de adverteerder en het advertentienetwerk voorkomt dat de advertentierekening uitgaven. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt. | Als u weet dat een advertentierekening niet kon uitgeven wegens een factureringskwestie, dan sluit die data van de kostenramingen uit. Uw accountteam van de Adobe kan de datums uitsluiten. |
 +++
 
 +++Prestatiegegevens zijn verschillend van gegevens in de ad netwerkredacteur.
-Wanneer het advertentienetwerk updates naar vorige gegevens verzendt (vaak omdat zij klikfraude aan sommige kliks hebben toegeschreven), werkt het Onderzoek, Sociale, &amp; Handel niet de gegevens bij tenzij er meer dan een 5% discrepantie is en het Team van de Rekening van Adobe een verzoek indient.
+Wanneer het advertentienetwerk updates naar vorige gegevens verzendt (vaak omdat zij klikfraude aan sommige kliks hebben toegeschreven), werkt het Onderzoek, Sociale, &amp; Commerce niet de gegevens bij tenzij er meer dan een 5% discrepantie is en het Team van de Rekening van de Adobe een verzoek indient.
 
-Wanneer u de indruk vergelijkt die gegevens deelt die over een datumbereik zijn samengevoegd, kunnen de gegevens die in de rapporten Zoeken, Sociale Zaken en Handel worden vermeld, afwijken van de gegevens die in het advertentienetwerk worden gerapporteerd. Dit verschil is omdat de gegevens door API van het advertentienetwerk worden gemeld, die Onderzoek, Sociale, &amp; Handel gebruikt om gegevens in te trekken. Bijvoorbeeld: [!DNL Google Ads] gegevens:
+Wanneer u de indruk vergelijkt dat gedeelde gegevens over een datumbereik zijn samengevoegd, kunnen de gegevens die door de rapporten Zoeken, Sociaal en Commerce worden gerapporteerd, afwijken van de gegevens die door het advertentienetwerk worden gerapporteerd. Dit verschil is te wijten aan de manier waarop de gegevens worden gerapporteerd door de API van het advertentienetwerk, die door Search, Social &amp; Commerce wordt gebruikt om gegevens aan te trekken. Bijvoorbeeld: [!DNL Google Ads] gegevens:
 
 * Voor het grootste deel van de indruk delen metriek, [!DNL Google Ads] Hiermee wordt het lage of het hoge uiteinde van de waarden aangegeven voor waarden die kleiner zijn dan 10% of groter dan 90%. Gegevens worden gerapporteerd als 0,0999 voor &lt;10% en 0,9001 voor >90%
 
-* Als er een combinatie is van geplafonneerde en niet-geplafonneerde gegevens binnen het datumbereik, worden bij de imitatie bij Zoeken, Sociaal en Handel gegevens gedeeld met de waarden die ongewijzigd in de API worden verzonden. Bij rijen met &lt; 10% en 0,9001 bij rijen met >90% wordt 0,0999 gebruikt. Deze aggregatie kan resulteren in een afwijking van de [!DNL Google Ads] vooraf geaggregeerde gegevens omdat [!DNL Google Ads] U kunt werkelijke percentagewaarden gebruiken, zoals 7% of 97%.
+* Wanneer er een combinatie van geplafonneerde en niet-geplafonneerde gegevens binnen het datumbereik is, worden bij de indruk Zoeken, Sociaal en Commerce gegevens gedeeld met de waarden die ongewijzigd in de API worden verzonden. Bij rijen met &lt; 10% en 0,9001 wordt 0,0999 gebruikt voor rijen met > 90%. Deze aggregatie kan resulteren in een afwijking van de [!DNL Google Ads] vooraf geaggregeerde gegevens omdat [!DNL Google Ads] U kunt werkelijke percentagewaarden gebruiken, zoals 7% of 97%.
 +++
 
 +++Prestatiegegevens in rapporten zijn anders dan gegevens in [!DNL Google Analytics].
 De twee systemen meten verschillende gegevens, zodat zou u moeten verwachten om verschillende gegevens te zien. Bijvoorbeeld:
 
-* Met Zoeken, Sociaal en Handel (en Google Ads) kunt u klikken, terwijl [!DNL Google Analytics] controleert bezoeken per 30 minieme browser zitting. Als een gebruiker bijvoorbeeld eenmaal op uw advertentie klikt, vervolgens op de knop Terug klikt en vervolgens opnieuw op de advertentie klikt, wordt met Zoeken, Sociale en Handel twee keer geklikt, maar [!DNL Google Analytics] registreert één bezoek.
+* Met Zoeken, Sociaal en Commerce (en Google Ads) kunt u klikken, terwijl [!DNL Google Analytics] controleert bezoeken per 30 minieme browser zitting. Als een gebruiker bijvoorbeeld eenmaal op uw advertentie klikt, vervolgens op de knop Terug klikt en vervolgens opnieuw op de advertentie klikt, worden twee klikken vastgelegd in Zoeken, Sociaal en Commerce, maar [!DNL Google Analytics] registreert één bezoek.
 
-* [!DNL Google Analytics] toont alle verkeersgegevens, terwijl Zoeken, Sociaal, &amp; Handel (en [!DNL Google Ads]) ongeldige kliks (zoals bovenmatige, herhaalde klikken).
+* [!DNL Google Analytics] toont alle verkeersgegevens, terwijl Zoeken, Sociaal, &amp; Commerce (en [!DNL Google Ads]) ongeldige kliks (zoals bovenmatige, herhaalde klikken).
 
-* [!DNL Google Analytics] bevat klikgegevens en inkomstengegevens voor alle klikken. Met Zoeken, Sociaal en Handel kunt u geen klik- en inkomstengegevens bijhouden voor advertenties en trefwoorden met onjuiste of ontbrekende URL&#39;s.
+* [!DNL Google Analytics] bevat klikgegevens en inkomstengegevens voor alle klikken. Zoeken, sociale media en Commerce kunnen klikgegevens en inkomstengegevens voor advertenties en trefwoorden met onjuiste of ontbrekende URL&#39;s niet bijhouden.
 +++
 
 ## Omzettingsmetriek
@@ -158,21 +158,21 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oorzaken:*
 
-* Trefwoorden of advertenties zijn toegevoegd zonder het voorvoegsel voor het bijhouden van de klik op Zoeken, Sociaal en Handel vooraf in te stellen op de trackingsjablonen of doel-URL&#39;s, of het voorvoegsel voor bijhouden is onjuist.
+* Trefwoorden of advertenties zijn toegevoegd zonder het voorvoegsel voor het bijhouden van de zoekopdracht, sociaal en Commerce-klik toe te voegen aan de trackingsjablonen of doel-URL&#39;s, of het voorvoegsel voor bijhouden is onjuist.
 
 * De tag voor het bijhouden van conversies wordt niet correct geïmplementeerd op alle toepasselijke webpagina&#39;s of is bewerkt.
 
-* De omzettingsmetriek die Onderzoek, Sociale, &amp; Handel volgen zijn uitgesloten van rapporten en daarom niet zichtbaar.
+* De omzettingsmetriek die Onderzoek, Sociaal, &amp; Commerce volgt zijn uitgesloten van rapporten en daarom niet zichtbaar.
 
 * De inkomstenparser voor de cliënt werd niet uitgevoerd.
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van de Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
-1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag zo nodig uw accountteam van Adobe om een testtransactie te maken voor elke toepasselijke conversietag en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
+1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag indien nodig uw accountteam van de Adobe om een testtransactie voor elke toepasselijke conversietag te maken en de transactiegegevens vast te leggen, zoals de `transactionid` en gegevens uit de cookie (zoals de `trackingid`, `clickid`, enzovoort).
 
-1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociale en Koophandel bevat en klik op Doorsturen voor elke sjabloon. Uw Adobe Account Team kan een intern rapport uitvoeren om te zien of klikken-volgende URLs (het volgen van malplaatjes of bestemmingsURLs) mist of misvormd.
+1. Als de [!UICONTROL Auto Upload] Deze optie is uitgeschakeld voor de campagne en u hebt trefwoorden of advertenties toegevoegd. Zorg er vervolgens voor dat u een trackingsjabloon of een doel-URL hebt gegenereerd die Zoeken, Sociaal zoeken en Commerce op Omleiden voor elke tag bevat. Het accountteam van uw Adobe kan een intern rapport uitvoeren om te controleren of een klik-volgende URL&#39;s (trackingsjablonen of doel-URL&#39;s) ontbreken of onjuist zijn geformuleerd.
 
    Indien nodig, genereert u tekstspatiëring door een bulksbladbestand met de juiste URL&#39;s te maken en het bestand naar de juiste account te posten met de opdracht **URL&#39;s voor bijhouden genereren** -optie.
 
@@ -180,7 +180,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 1. Als geen van deze stappen het probleem oplost, dan [Contact opnemen met de klantenservice](/help/search-social-commerce/get-help.md).
 
-   Als de client niet is gestart of pas is gestart, controleert de klantenservice of er een inkomstenparser is ingesteld. Als de parser opstelling is, dan verifiëren zij als Onderzoek, Sociale, &amp; Handel om het even welke pixelomzettingen ontvangt en de kwestie problemen oplossen.
+   Als de client niet is gestart of pas is gestart, controleert de klantenservice of er een inkomstenparser is ingesteld. Als de parser is ingesteld, verifiëren ze of Search, Social en Commerce pixelomzettingen ontvangen en het probleem oplossen.
 
 **Adverteerders die gegevens voor conversie verzenden**
 
@@ -196,7 +196,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of oplossing:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van de Adobe [de conversiemetriek beschikbaar stellen voor rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Voer de [!UICONTROL Portfolio Report]. Als het leeg is, voert u de [!UICONTROL Campaign Report] en [!UICONTROL Search Engine Report] om na te gaan of de ontvangsten in deze verslagen voorkomen. Als dat het geval is, worden de campagnes mogelijk niet toegewezen aan de juiste portefeuille.
 
@@ -206,7 +206,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 1. Als het bestand is verzonden, [Contact opnemen met de klantenservice](/help/search-social-commerce/get-help.md).
 
-   De klantenservice controleert of het bestand is ontvangen en geparseerd. Als het bestand zonder fouten is verwerkt, wordt gecontroleerd op verweesde transacties.
+   De klantenservice controleert of het bestand is ontvangen en geparseerd. Als het bestand zonder fouten is verwerkt, controleren ze op verweesde transacties.
 +++
 
 +++Sommige geavanceerde rapporten bevatten geen omzettingsgegevens die door een adverteerdervoer worden verstrekt.
@@ -219,7 +219,7 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
 *Mogelijke oorzaken:*
 
-* Bij zoeken, Sociale media en Handel worden inkomsten genegeerd wanneer de cookie verlopen of verwijderd is, maar de adverteerder kan dit als geldige inkomsten beschouwen.
+* Zoeken, Sociaal en Commerce negeert inkomsten wanneer de cookie verlopen of verwijderd is, maar de adverteerder beschouwt deze mogelijk als geldige inkomsten.
 
 * Het verkeer naar de pagina van de adverteerder kwam van een referentie of een organische onderzoek in plaats van van van een advertentie.
 
@@ -227,11 +227,11 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
 *Mogelijke oplossing of oplossing:*
 
-1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de gegevens van de adverteerder.
+1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce heeft ontvangen met de gegevens van de adverteerder.
 
-1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat de relevante het volgen van omzettingen markering op alle toepasselijke webpagina&#39;s wordt uitgevoerd en niet uitgegeven tenzij uw Team van de Rekening van de Adobe u adviseert om dit te doen. Een tag ontbreekt of wordt gewijzigd als de website onlangs is bijgewerkt.
+1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat de relevante het volgen van omzettingsmarkering op alle toepasselijke webpagina&#39;s wordt uitgevoerd en niet werd uitgegeven tenzij uw Team van de Rekening van de Adobe u adviseerde dit te doen. Een tag ontbreekt of wordt gewijzigd als de website onlangs is bijgewerkt.
 
-   Zoek, Sociaal, &amp; Handel verwacht goed gevormde URLs (met parameters in naam-waarde paren) binnen `ef_transaction_properties` en binnen de `src` element van het `img` -tag.
+   Zoeken, Sociaal en Commerce verwacht goed gevormde URL&#39;s (met parameters in naam-waardeparen) binnen de `ef_transaction_properties` en binnen de `src` element van het `img` -tag.
 
 1. Als u het probleem niet kunt bepalen en oplossen, dan [Contact opnemen met de klantenservice](/help/search-social-commerce/get-help.md).
 
@@ -245,7 +245,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 *Mogelijke oorzaken:*
 
-* Bij zoeken, Sociaal en Handel worden inkomsten genegeerd wanneer het cookie verloopt of wordt verwijderd, maar de adverteerder kan dit als geldige inkomsten beschouwen.
+* Zoeken, Sociaal en Commerce negeert inkomsten wanneer de cookie vervalt of wordt verwijderd, maar de adverteerder kan dit als geldige inkomsten beschouwen.
 
 * Het verkeer naar de pagina van de adverteerder kwam van een referentie of een organische onderzoek in plaats van van van een advertentie.
 
@@ -253,7 +253,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 *Mogelijke oplossing of oplossing:*
 
-1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de de voedergegevens van de adverteerder.
+1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce heeft ontvangen met de voedergegevens van de adverteerder.
 
 1. Als een transactie in het feed-bestand ontbreekt in het rapport, controleert u of er een online transactie met dezelfde transactie-id (bijgehouden via de pixel) heeft plaatsgevonden vóór de offline conversie.
 
@@ -265,13 +265,13 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 *Mogelijke oorzaken:*
 
-* Bij zoeken, Sociale media en Handel worden inkomsten genegeerd wanneer de cookie verlopen of verwijderd is, maar de adverteerder kan dit als geldige inkomsten beschouwen.
+* Zoeken, Sociaal en Commerce negeert inkomsten wanneer de cookie verlopen of verwijderd is, maar de adverteerder beschouwt deze mogelijk als geldige inkomsten.
 
 * Het verkeer naar de pagina van de adverteerder kwam van een referentie of een organische onderzoek in plaats van van van een advertentie.
 
-* Er zijn [verweesde transacties](/help/search-social-commerce/glossary.md#o-p)Zoekopdrachten, sociale zaken en handel tellen dus niet alle inkomsten die het verdient.
+* Er zijn [verweesde transacties](/help/search-social-commerce/glossary.md#o-p)Zoekopdrachten, sociale zaken en Commerce tellen dus niet alle inkomsten die het verdient.
 
-* De adverteerder heeft een zoek-, sociaal en handelrapport gevalideerd op basis van een andere set gegevens dan die welke in de feed zijn verzonden.
+* De adverteerder heeft een zoek-, sociaal en Commerce-rapport gevalideerd op basis van een andere set gegevens dan die welke in de feed zijn verzonden.
 
 * De transactie-id&#39;s (`ev_transid` waarden) zijn niet verzonden, zijn niet uniek of zijn onjuist.
 
@@ -279,11 +279,11 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 * Er zijn fouten opgetreden bij het parseren van het bestand.
 
-* De deduping-logica van de adverteerder verschilt van de zoeklogica, de logica van sociale zaken en handel.
+* De deduping-logica van de adverteerder verschilt van de zoeklogica, de sociale logica en de Commerce-logica.
 
 *Mogelijke oplossing of oplossing:*
 
-1. Ga naar **[!UICONTROL Insights]&amp;[!UICONTROL Reports > Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce hebben ontvangen met de gegevens van de adverteerder.
+1. Ga naar **[!UICONTROL Insights]&amp;[!UICONTROL Reports > Reports]** en een [!UICONTROL Transaction Report]. Vergelijk de transacties die Search, Social &amp; Commerce heeft ontvangen met de gegevens van de adverteerder.
 
 1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat a) het voederdossier alle vereiste transactie IDs en geen dubbele het volgen IDs bevat en b) de transactie IDs uniek en correct is.
 

@@ -3,9 +3,9 @@ title: Klik- en indrukgegevens verzamelen van advertentie- DSP campagnes
 description: Leer hoe u op cookies gebaseerde beelden vastlegt en op gebeurtenissen klikt in advertenties DSP advertenties met Audience Managers pixels
 feature: Integration with Adobe Audience Manager
 exl-id: d827fbb8-b61a-4601-a42a-1ea60e4f36b7
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '1000'
+source-wordcount: '997'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Waarbij:
 
 * `[Audience Manager customer domain]` is de domeinnaam waarnaar de indruk wordt gewekt of waarop klikgebeurtenissen worden verzonden [!DNL Adobe].
 
-* `[source id]` is de id voor de [gegevensbron](#set-up-data-source) waarin u DSP indruk zult volgen en gegevens zult klikken.
+* `[source id]` is de id voor de [gegevensbron](#set-up-data-source) waarin u DSP indruk bijhoudt en op gegevens klikt.
 
 * `[redirect URL]` is de dubbele gecodeerde omleidings-URL. Als u een online coderingsprogramma gebruikt, zoals www.urlencoder.org, voert u de tekenreeks uit via de codeermodule en codeert u het resultaat opnieuw.
 
@@ -112,7 +112,7 @@ Voeg in de advertentieserver de pixel van de klikgebeurtenis in (met de gecodeer
 
 ## Stap 3: Taken na de implementatie
 
-Zodra de gebeurtenismarkeringen worden uitgevoerd, zullen de gegevens in de servers van de de gegevensinzameling van de Audience Manager stromen. Voer de volgende taken uit voordat u de gegevens in rapporten kunt gebruiken.
+Zodra de gebeurtenislabels worden uitgevoerd, stromen de gegevens in de servers van de de gegevensinzameling van de Audience Manager. Voer de volgende taken uit voordat u de gegevens in rapporten kunt gebruiken.
 
 ### Een [!DNL Amazon S3] Emmertje en gegevensbron
 

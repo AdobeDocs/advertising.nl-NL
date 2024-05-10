@@ -1,11 +1,11 @@
 ---
 title: Beheren [!DNL Microsoft Advertising] dynamisch hermarketingpubliek
 description: Leer hoe u creeert en beheert [!DNL Microsoft Advertising] dynamisch hermarketingpubliek.
-exl-id: 6f0cb6a0-36cc-4a07-82a8-247191b6c4f5
+exl-id: 52faab75-e723-4e59-aac6-b4d0c4c1cf60
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
 workflow-type: tm+mt
-source-wordcount: '517'
+source-wordcount: '508'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Microsoft Advertising]alleen accounts*
 
-U kunt een [!DNL Microsoft Advertising] het dynamische publiek voor opnieuw op de markt brengen wanneer u de conversie-en publiek-volgende markering van JavaScript van het onderzoeksmotor op uw webpagina&#39;s gebruikt. Elk publiek wordt gemaakt met een opgegeven tag die wordt opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen. U kunt meerdere soorten publiek maken met dezelfde tag voor bijhouden. U kunt ook de naam en de gegevensbron voor bestaande doelgroepen wijzigen of bestaande doelgroepen verwijderen.
+U kunt een [!DNL Microsoft Advertising] het dynamische publiek voor opnieuw op de markt brengen wanneer u de conversie-en publiek-volgende markering van JavaScript van het onderzoeksmotor op uw webpagina&#39;s gebruikt. Elk publiek wordt gemaakt met een opgegeven tag die wordt opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek vormen. U kunt meerdere soorten publiek maken met dezelfde tag voor bijhouden. U kunt ook de naam en de gegevensbron voor bestaande doelgroepen wijzigen of bestaande doelgroepen verwijderen.
 
 Dynamisch hermarketingpubliek heeft het Audience Type &quot;[!UICONTROL Dynamic Remarketing] \&lt;visitor type=&quot;&quot;>&quot; (zoals &quot;Dynamische opmerkingverleden kopers&quot;).
 
@@ -42,7 +42,7 @@ Zie voor meer informatie over dynamische remarketing en het implementeren van de
 
    1. Voer de **[!UICONTROL Audience Name]**.
 
-   1. Selecteer de naam van de [!DNL Microsoft Advertising] De tag UET die is opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen.
+   1. Selecteer de naam van de [!DNL Microsoft Advertising] De tag UET die is opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek vormen.
 
    1. Selecteer het type bezoeker voor het publiek, dat is gebaseerd op acties van bezoekers op de relevante webpagina&#39;s: *[!UICONTROL General Visitors]*, *[!UICONTROL Product Searchers]*, *[!UICONTROL Product Viewers]*, *[!UICONTROL Past Buyers]*, of *[!UICONTROL Shopping Cart Abandoners]*.
 
@@ -72,7 +72,7 @@ U kunt de naam en de gegevensbron wijzigen voor een [!DNL Microsoft Advertising]
 
    1. (Optioneel) Wijzig de instelling **[!UICONTROL Audience Name]**.
 
-   1. (Optioneel) Wijzig de naam van de [!DNL Microsoft Advertising] De tag UET die is opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek zullen vormen.
+   1. (Optioneel) Wijzig de naam van de [!DNL Microsoft Advertising] De tag UET die is opgenomen in de webpagina&#39;s waarvan de gebruikers het publiek vormen.
 
    1. (Optioneel) Wijzig het type bezoeker voor het publiek, dat is gebaseerd op acties van bezoekers op de relevante webpagina&#39;s: *[!UICONTROL General Visitors]*, *[!UICONTROL Product Searchers]*, *[!UICONTROL Product Viewers]*, *[!UICONTROL Past Buyers]*, of *[!UICONTROL Shopping Cart Abandoners]*.
 
