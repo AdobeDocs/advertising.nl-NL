@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '3539'
+source-wordcount: '3535'
 ht-degree: 0%
 
 ---
@@ -258,7 +258,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
       1. Klik op **[!UICONTROL Search]**.
       1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
       1. Selecteer in de zoekresultaten de sites die u wilt uitsluiten:
-         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje naast de site in.
+         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje ernaast in.
          * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Exclude these 50]**. Klik op **[!UICONTROL Exclude these \<*NN *\>]**.
    * Domeinnamen invoeren:
       1. Klik op **[!UICONTROL Paste]**.
@@ -289,7 +289,7 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
       1. Klik op **[!UICONTROL Search]**.
       1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
       1. Selecteer in de zoekresultaten de sites die u wilt opnemen:
-         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje naast de site in.
+         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje ernaast in.
          * (Als er meer dan 50 resultaten beschikbaar zijn) Als u de eerste 50 resultaten wilt opnemen, klikt u op **[!UICONTROL Include these 50]**. Klik op **[!UICONTROL Include these \<*NN *\>]**.
    * Domeinnamen invoeren:
       1. klikken **[!UICONTROL Paste]**.

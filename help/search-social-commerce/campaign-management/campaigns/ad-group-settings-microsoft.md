@@ -3,9 +3,9 @@ title: '[!DNL Microsoft® Advertising] ad group settings'
 description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] ad groepen.
 exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '667'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -76,33 +76,33 @@ De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en h
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Als u een waarde wilt opnemen, klikt u eenmaal op de cirkel naast de waarde, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt het aantal biedingen optioneel verhogen of verlagen met een bepaald percentage voor elk van de beoogde geslachten.
+* Als u een waarde wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt het aantal biedingen optioneel verhogen of verlagen met een bepaald percentage voor elk van de beoogde geslachten.
 
-* Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+* Als u een waarde wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 **[!UICONTROL Age]:** (Publiek en groepen; facultatief) specifieke leeftijdscategorieën die als streefcijfers moeten worden opgenomen of uitgesloten: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]*, en *[!UICONTROL Unknown]*. Standaard worden alle leeftijden als doelgroep gebruikt. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Als u een waarde wilt opnemen, klikt u eenmaal op de cirkel naast de waarde, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt het aantal biedingen voor elke beoogde leeftijd optioneel met een bepaald percentage verhogen of verlagen.
+* Als u een waarde wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt het aantal biedingen voor elke beoogde leeftijd optioneel met een bepaald percentage verhogen of verlagen.
 
-* Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+* Als u een waarde wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 **[!UICONTROL Industry]:** (Publiek en groepen; facultatief) specifieke bedrijfstakken om als streefcijfers op te nemen of uit te sluiten. Standaard zijn alle industrieën gericht. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Als u een waarde wilt opnemen, klikt u eenmaal op de cirkel naast de waarde, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt biedingen voor elke beoogde sector optioneel met een bepaald percentage verhogen of verlagen.
+* Als u een waarde wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt biedingen voor elke beoogde sector optioneel met een bepaald percentage verhogen of verlagen.
 
-* Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+* Als u een waarde wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 **[!UICONTROL Job Function Targets]:** (Publiek en groepen; facultatief) specifieke functies om als doelen op te nemen of uit te sluiten. Standaard worden alle functies geactiveerd. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Als u een waarde wilt opnemen, klikt u eenmaal op de cirkel naast de waarde, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt de biedingen optioneel met een bepaald percentage verhogen of verlagen voor elke betreffende taakfunctie.
+* Als u een waarde wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt de biedingen optioneel met een bepaald percentage verhogen of verlagen voor elke betreffende taakfunctie.
 
-* Als u een waarde wilt uitsluiten, klikt u tweemaal op de cirkel naast de waarde, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+* Als u een waarde wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 ## [!UICONTROL URL Options]
 

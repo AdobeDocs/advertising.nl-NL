@@ -1,11 +1,11 @@
 ---
 title: Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen
 description: Leer hoe te om publieksdoelstellingen voor uw te vormen en te beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen.
-exl-id: 0016a69c-7642-4060-8125-947ffef6fb03
+exl-id: 9a496d15-082d-44e1-a0a3-71356e24b932
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '761'
+source-wordcount: '771'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
       1. (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter") , typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **[!UICONTROL Enter]** toets.
 
-      1. Geef elk doel voor de campagne en groep voor het opgegeven advertentienetwerk op door op de lege cirkel naast de campagne te klikken, zodat een blauw vinkje (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")) wordt weergegeven.
+      1. Geef elk doel voor campagne en groep voor het opgegeven advertentienetwerk op door op de aangrenzende lege cirkel te klikken, zodat een blauw vinkje (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")) wordt weergegeven.
 
       U kunt geen doel voor zowel een oudercampagne als een kind vormen ad groep (die automatisch het doel gebruikt).
 
@@ -68,7 +68,7 @@ U kunt de biedingsbepaling en de status van publieksdoelen wijzigen voor alle so
 
 >[!NOTE]
 >
->Met Zoeken, Sociaal en Handel wordt de optie voor biedingen automatisch geoptimaliseerd wanneer de bovenliggende campagne de CPC-biedstrategie gebruikt en zich in een portfolio bevindt die is geconfigureerd voor automatische optimalisatie van de waarden voor biedingsaanpassingen voor doelgroepen.
+>Met Zoeken, Sociaal en Commerce wordt de optie voor biedingen automatisch geoptimaliseerd wanneer de bovenliggende campagne de CPC-biedstrategie gebruikt en zich in een portfolio bevindt die is geconfigureerd voor automatische optimalisatie van de waarden voor biedingsaanpassingen voor doelgroepen.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Targets]**.
 

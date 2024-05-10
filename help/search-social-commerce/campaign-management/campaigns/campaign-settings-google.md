@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '2430'
+source-wordcount: '2426'
 ht-degree: 0%
 
 ---
@@ -136,9 +136,9 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
    * (Landen, staten, metropolitane gebieden of steden) Klik op **[!UICONTROL Location Target]** (![Locatiedoel](/help/search-social-commerce/assets/location-target.png "Locatiedoel")) en zoek de locaties die u wilt opnemen en uitsluiten:
 
-      * Als u een locatie en de onderliggende locaties wilt opnemen, klikt u eenmaal op de cirkel naast de locatie zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven.
+      * Als u een locatie en de onderliggende locaties wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven.
 
-      * Als u een locatie wilt uitsluiten, klikt u tweemaal op de cirkel naast de locatie, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+      * Als u een locatie wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
       * Als u een locatie wilt uitbreiden naar de subcomponenten (zoals de staten, metropolitane gebieden of steden in de VS), klikt u op de naam van de locatie.
 

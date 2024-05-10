@@ -1,11 +1,11 @@
 ---
 title: Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen
 description: Leer hoe u kunt toewijzen [!DNL Google Ads] gedeelde callout-extensies voor campagnes of advertentiegroepen.
-exl-id: 17ee3de7-562e-4ed4-bf03-3b5e728d8a68
+exl-id: 9b3b8454-da14-4506-a92c-6796dd5fe903
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '226'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Wijs ten minste twee callouts per campagne of advertentiegroep toe zodat uw adve
 
       * (Optioneel) Als u een lijst met campagnes of groepen wilt filteren op een tekenreeks die in de naam is opgenomen, klikt u op ![Filter](/help/search-social-commerce/assets/filter.png "Filter"), typt of plakt u de tekstreeks in het invoerveld en drukt u vervolgens op de knop **Enter** toets.
 
-      * Om een entiteit te selecteren, klik de cirkel naast het (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")).
+      * Als u een entiteit wilt selecteren, klikt u op de aangrenzende cirkel (![Selecteren](/help/search-social-commerce/assets/include.png "Selecteren")).
 
    1. Klik op **[!UICONTROL Post]**.
 

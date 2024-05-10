@@ -1,11 +1,11 @@
 ---
 title: De uitsluiting van het publiek voor campagnes en ad-groepen beheren
 description: Leer hoe u publieksuitsluitingen voor uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen.
-exl-id: 0b05d980-d736-4b44-8317-c90de687dbd4
+exl-id: 8bebc1fe-aad8-40f2-9dca-e4065a0c4990
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '349'
 ht-degree: 0%
 
 ---
@@ -48,9 +48,9 @@ U kunt ook publieksuitsluitingen verwijderen.
 
       1. Voer een van de volgende handelingen uit:
 
-         * Geef elke uitsluiting van een advertentiegroep op door op de cirkel naast de uitsluiting te klikken, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+         * Geef elke uitsluiting van een advertentiegroep op door op de aangrenzende cirkel te klikken, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
-         * Geef elke campagne-uitsluiting op door op de cirkel naast de uitsluiting te klikken, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+         * Geef elke campagne-uitsluiting op door op de aangrenzende cirkel te klikken, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 1. Klik op **[!UICONTROL Post]**.
 

@@ -1,7 +1,7 @@
 ---
-source-git-commit: 6b4dd1b8912703a5d45ffa872fe0231716cfb9a5
+source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
 workflow-type: tm+mt
-source-wordcount: '151'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---
@@ -13,9 +13,9 @@ ht-degree: 0%
 
 * Selecteer geen locaties om alle locaties als doel in te stellen.
 
-* Als u een locatie en de onderliggende locaties wilt opnemen, klikt u eenmaal op de cirkel naast de locatie zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt biedingen desgewenst met een bepaald percentage verhogen of verlagen voor elke beoogde locatie.
+* Als u een locatie en de onderliggende locaties wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven. U kunt biedingen desgewenst met een bepaald percentage verhogen of verlagen voor elke beoogde locatie.
 
-* Als u een locatie wilt uitsluiten, klikt u tweemaal op de cirkel naast de locatie, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+* Als u een locatie wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
 
 * Als u een locatie wilt uitbreiden naar subcomponenten (zoals frames, prefecturen, regio&#39;s of steden), klikt u op de naam van de locatie.
 
