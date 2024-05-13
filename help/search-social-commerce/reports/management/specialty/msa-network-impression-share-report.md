@@ -3,22 +3,22 @@ title: De [!UICONTROL MSA Network Impression Share Report]
 description: Meer informatie over de [!UICONTROL MSA Network Impression Share Report].
 feature: Search Reports, Search Specialty Reports
 exl-id: 274f7bac-5eea-4e21-bcdb-ebf6250c4959
-source-git-commit: 22fd10dec43c43c6f03860e6e4839a8bb8d56017
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '156'
+source-wordcount: '157'
 ht-degree: 0%
 
 ---
 
 # De [!UICONTROL MSA Network Impression Share Report]
 
-*[!DNL Microsoft® Advertising]alleen accounts*
+*[!DNL Microsoft Advertising]alleen accounts*
 
-Dit rapport toont campagne-vlakke indruk deelmetriek en basisverkeersmetriek (kosten, klikken, beelden) door ad distributie (onderzoek of publiek) en netwerk (zoals [!DNL Microsoft] sites en selecteer verkeer of publiek) voor opgegeven [!DNL Microsoft® Advertising] rekeningen.
+Dit rapport toont campagne-vlakke indruk deelmetriek en basisverkeersmetriek (kosten, klikken, beelden) door ad distributie (onderzoek of publiek) en netwerk (zoals [!DNL Microsoft] sites en selecteer verkeer of publiek) voor opgegeven [!DNL Microsoft Advertising] rekeningen.
 
 Wanneer u een rapport met slechts metrische kolommen en geen dimensies in werking stelt, dan bevat het geproduceerde rapport twee dubbele rijen: met samengevoegde gegevens en andere met alle metriek.
 
-U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Handel worden de gegevens opgehaald van [!DNL Microsoft Advertising] in real time, en het kan verscheidene notulen vergen om rapporten met groter gegevensvolume te produceren.
+U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Commerce worden de gegevens opgehaald van [!DNL Microsoft Advertising] in real time, en het kan verscheidene notulen vergen om rapporten met groter gegevensvolume te produceren.
 
 >[!NOTE]
 >

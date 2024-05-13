@@ -1,9 +1,9 @@
 ---
 title: Statussen van gegevens die zijn gegenereerd uit feeds
 description: Meer informatie over de status van gegevens die zijn gegenereerd op basis van de invoer van inventarisgegevens.
-exl-id: 8e5e7649-a16b-4634-896a-7c216185b367
+exl-id: 45c93fb2-0ed2-4336-9883-e150c292a7a5
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Statussen van gegevens die zijn gegenereerd uit feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Elke component kan een van de volgende statussen hebben:
 
@@ -24,7 +24,7 @@ Elke component kan een van de volgende statussen hebben:
 
 * *[!UICONTROL Paused]:* De component is al gepauzeerd op het advertentienetwerk, en u kunt zijn montages hier niet uitgeven. Gepauzeerde componenten kunnen subcomponenten bevatten die [!UICONTROL New], die kunnen worden gepost als de gegevens geldig zijn.
 
-* *[!UICONTROL Deleted]:* De component is reeds geschrapt op het advertentienetwerk, en u kunt zijn montages hier niet uitgeven. Verwijderde componenten kunnen subcomponenten bevatten die [!UICONTROL New], die kunnen worden gepost als de gegevens geldig zijn.
+* *[!UICONTROL Deleted]:* De component werd reeds geschrapt op het advertentienetwerk, en u kunt zijn montages hier niet uitgeven. Verwijderde componenten kunnen subcomponenten bevatten die [!UICONTROL New], die kunnen worden gepost als de gegevens geldig zijn.
 
 >[!MORELIKETHIS]
 >

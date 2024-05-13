@@ -1,16 +1,16 @@
 ---
-title: '[!DNL Microsoft® Advertising] multimedia en instellingen'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] multimediadagen.
-exl-id: b7ce413c-ee7a-420a-8791-e2666cc33eba
+title: '[!DNL Microsoft Advertising] multimedia en instellingen'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] multimediadagen.
+exl-id: 920ecb8d-e179-4946-be60-64f00bbabb70
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] multimedia en instellingen
+# [!DNL Microsoft Advertising] multimedia en instellingen
 
 Multimedia-advertenties zijn beschikbaar op het zoeknetwerk. In het advertentienetwerk worden multimediadaden dynamisch samengesteld met behulp van de meest effectieve combinaties van advertentie-elementen.
 
@@ -54,7 +54,7 @@ Zie de toegestane verhoudingen en afmetingen voor [multimedia-advertenties](http
 >
 >* [Over advertenties](ad-about.md)
 >* [Advertenties beheren](ad-manage.md)
->* [[!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] product en instellingen](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft® Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
+>* [[!DNL Microsoft Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] product en instellingen](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)

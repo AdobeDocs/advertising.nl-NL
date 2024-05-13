@@ -1,20 +1,20 @@
 ---
-title: '''[!DNL Microsoft® Advertising] product en instellingen"'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] productadvertenties.
-exl-id: 6a2d0549-d8fc-4ec8-bdec-7e49a43aeb7b
+title: '''[!DNL Microsoft Advertising] product en instellingen"'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] productadvertenties.
+exl-id: 93601b75-1de8-4f97-8f5e-5ab442510827
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] product en instellingen
+# [!DNL Microsoft Advertising] product en instellingen
 
-De hoofdtekst van de advertentie wordt automatisch gemaakt op basis van de productinformatie in [!DNL Microsoft® Merchant Center], op basis van de productgroepen waarop de advertentiegroep gericht is. U kunt optioneel promotielijnen maken die u kunt opnemen in productadvertenties in campagnes die gebruikmaken van het winkelnetwerk.
+De hoofdtekst van de advertentie wordt automatisch gemaakt op basis van de productinformatie in [!DNL Microsoft Merchant Center], op basis van de productgroepen waarop de advertentiegroep gericht is. U kunt optioneel promotielijnen maken die u kunt opnemen in productadvertenties in campagnes die gebruikmaken van het winkelnetwerk.
 
-Voor meer informatie over [!DNL Microsoft® Advertising] productadvertenties, zie [Microsoft® Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
+Voor meer informatie over [!DNL Microsoft Advertising] productadvertenties, zie [Microsoft Advertising-documentatie](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 ## [!UICONTROL Product Ad]
 
@@ -30,7 +30,7 @@ De promotielijn kan op verschillende plaatsen ten opzichte van de advertentie ve
 >
 >* [Over advertenties](ad-about.md)
 >* [Advertenties beheren](ad-manage.md)
->* [[!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft® Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
+>* [[!DNL Microsoft Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)

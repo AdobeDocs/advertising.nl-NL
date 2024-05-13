@@ -3,7 +3,7 @@ title: Negatieve trefwoorden maken
 description: Leer hoe u negatieve trefwoorden maakt voor zoekcampagnes en advertentiegroepen.
 exl-id: afe786bf-eda8-4590-b471-3fb696c420de
 feature: Search Campaign Management
-source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '272'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Negatieve trefwoorden maken
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads]en bestaande [!DNL Baidu] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads]en bestaande [!DNL Baidu] alleen accounts*
 
 U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne tot stand brengen die het onderzoek of de vertoning of het inheemse netwerk richten. Negatieve trefwoorden activeren geen advertenties.
 
@@ -30,7 +30,7 @@ U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne 
 
 1. Voer de negatieve trefwoorden in. Gebruik de volgende syntaxis, zonder een minteken (`-`):
 
-   * Negatieve brede overeenkomst: `keyword` (wordt niet ondersteund door [!DNL Microsoft® Advertising])
+   * Negatieve brede overeenkomst: `keyword` (wordt niet ondersteund door [!DNL Microsoft Advertising])
 
    * Negatieve woordovereenkomst: `"keyword"`
 
@@ -38,7 +38,7 @@ U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne 
 
    Scheid meerdere waarden met komma&#39;s of voer deze op afzonderlijke regels in. U kunt maximaal 2000 negatieve trefwoorden in één bewerking invoeren of plakken. Zie ook de volgende vereisten en beperkingen:
 
-   * Maximale tekenlengte: [!DNL Baidu]: 30 single-byte of 15 double-byte; [!DNL Microsoft® Advertising]: 100 single-byte of 50 double-byte; [!DNL Google Ads] en [!DNL Yahoo! Japan Ads]: 80 single-byte of 40 double-byte.
+   * Maximale tekenlengte: [!DNL Baidu]: 30 single-byte of 15 double-byte; [!DNL Microsoft Advertising]: 100 single-byte of 50 double-byte; [!DNL Google Ads] en [!DNL Yahoo! Japan Ads]: 80 single-byte of 40 double-byte.
 
    * [!DNL Baidu] staat slechts één gelijke type per sleutelwoord per advertentiegroep toe. Groep 1 toevoegen kan bijvoorbeeld niet beide opnemen `"keyword"` en `[keyword]`.
 

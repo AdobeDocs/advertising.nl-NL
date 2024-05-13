@@ -1,18 +1,18 @@
 ---
 title: Fouten in werkbladen
 description: Verwijzing naar mogelijke redenen voor elke fout in het werkblad.
-exl-id: 0a259aca-2e9a-4e24-b4db-f8d0249d25d4
+exl-id: dc3559b0-05c0-4896-b9e9-67084f56ab80
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '1141'
+source-wordcount: '1137'
 ht-degree: 0%
 
 ---
 
 # Fouten in werkbladen
 
-Met Zoeken, Sociaal en Handel worden twee typen foutbestanden gegenereerd tijdens bewerkingen in bulksheet:
+Met Zoeken, Sociaal en Commerce worden twee typen foutbestanden gegenereerd tijdens bewerkingen met bulksheet:
 
 * **SE-fouten:** Wanneer een bestand wordt gepost maar het ad-netwerk niet alle gegevens accepteert, wordt een foutbestand met de naam `<uploaded file name>_se_errors.<extension used for the bulksheet>` wordt gemaakt. Wanneer sommige maar niet alle rijen werden goedgekeurd, toont het foutendossier de rijen die niet werden gepost en een verklaring van elke fout zodat kunt u het verbeteren. De fouten worden opgenomen in het gedeelte &quot;[!UICONTROL SE Error Message]&quot; kolom.
 
@@ -34,24 +34,24 @@ De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in [!UICONTROL EF Er
 
 | Categorie | Bericht | Beschrijving |
 |----|----|----|
-| Algemeen | [!UICONTROL Internal Error: Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | De bewerking is volledig mislukt als gevolg van een niet-gecategoriseerde of niet-afgehandelde fout. Neem contact op met het accountteam van Adobe als het probleem zich blijft voordoen. |
-| | [!UICONTROL Pre-Sync Failed. Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | Search, Social &amp; Commerce kon niet synchroniseren met het advertentienetwerk voordat het bulksheet werd gemaakt. Er is dus geen bulksheet gemaakt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
+| Algemeen | [!UICONTROL Internal Error: Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | De bewerking is volledig mislukt als gevolg van een niet-gecategoriseerde of niet-afgehandelde fout. Als het probleem aanhoudt, contacteer uw Team van de Rekening van de Adobe om de oorzaak te onderzoeken. |
+| | [!UICONTROL Pre-Sync Failed. Please Try Creating the bulksheet Again. If Problem Persists Contact Technical Support] | Search, Social &amp; Commerce kon niet synchroniseren met het advertentienetwerk voordat het bulksblad werd gemaakt. Er is dus geen bulksheet gemaakt. Neem contact op met het accountteam van de Adobe als het probleem zich blijft voordoen. |
 
 ### Uploadfouten
 
 | Categorie | Bericht | Beschrijving |
 |----|----|----|
-| Algemeen | [!UICONTROL Internal Error: Please Try Uploading the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
+| Algemeen | [!UICONTROL Internal Error: Please Try Uploading the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met het accountteam van de Adobe als het probleem zich blijft voordoen. |
 | Alle entiteiten | [!UICONTROL Invalid Fields.] \[ongeldige velden en fout\] | De opgegeven gegevens ontbreken of zijn ongeldig. |
-|  | [!UICONTROL Invalid Reference Given] | De id van de entiteit op het advertentienetwerk of de id van een bovenliggende entiteit (zoals de account-id) komt niet overeen met een entiteit in Zoeken, Sociale Zaken en Handel. Dit kan voorkomen wanneer u identiteitskaart in het bulksblad uitgeeft. |
+|  | [!UICONTROL Invalid Reference Given] | De id van de entiteit op het advertentienetwerk of de id van een bovenliggende entiteit (zoals de account-id) komt niet overeen met een entiteit in Zoeken, Sociaal en Commerce. Dit kan voorkomen wanneer u identiteitskaart in het bulksblad uitgeeft. |
 |  | [!UICONTROL <Entity> is deleted or expired] | De entiteit is verlopen of verwijderd en u kunt de eigenschappen ervan niet wijzigen. De entiteit kan worden verwijderd wanneer iemand de status handmatig heeft bewerkt. |
 |  | [!UICONTROL <Entity> status should be Active or Paused] | (Nieuwe entiteiten) Een nieuwe entiteit kan alleen &quot;Actief&quot; of &quot;Gepauzeerd&quot; zijn. |
 |  | [!UICONTROL Duplicate Entries are present] | Voor dezelfde entiteit worden meerdere rijen opgenomen, met verschillende kenmerken in elke rij. U kunt de wijzigingen in één rij samenvoegen. |
 |  | [!UICONTROL Invalid AMO ID given] | De AMO-id voor de rij bestaat niet. Dit kan voorkomen als u identiteitskaart in het bulksblad uitgeeft. |
 |  | [!UICONTROL Invalid row given] | De rij bevat niet genoeg informatie om het entiteitstype te bepalen. Bewerk de rij om alle vereiste velden voor het eenheidstype op te nemen. |
 | Accounts | [!UICONTROL Provide Valid Account Details] | (Opsommingstekens voor meerdere accounts) Account-id&#39;s worden niet in alle rijen opgenomen. Voer waarden in voor een van de volgende combinaties van kolommen voor elke rij: a) &quot;[!UICONTROL AMO ID]&quot; of b) &quot;[!UICONTROL Account Name]&quot; en &quot;[!UICONTROL Platform].&quot; |
-|  | [!UICONTROL Account is disabled. Disabled Accounts cannot be processed] | Zoekopdrachten, sociale zaken en handel hebben geen toegang tot de advertentienetwerkaccount, zodat u geen campagnegegevens kunt maken of bewerken. Controleer of de gegevens voor de zoekaccount correct zijn en of de account is ingeschakeld. |
-| Campagne | [!UICONTROL Invalid Shopping Country specified] | (Winkelcampagnes) De waarde in &quot;[!UICONTROL Sales Country]&quot; veld is ongeldig. Een lijst met geldige landen bekijken [for [!DNL Google Ads]](https://support.google.com/merchants/answer/160637#countrytable) en [for [!DNL Microsoft® Advertising]](https://help.ads.microsoft.com/#apex/3/en/51083). |
+|  | [!UICONTROL Account is disabled. Disabled Accounts cannot be processed] | Search, Social &amp; Commerce heeft geen toegang tot de advertentienetwerkaccount, dus u kunt geen campagnegegevens maken of bewerken. Controleer of de gegevens voor de zoekaccount correct zijn en of de account is ingeschakeld. |
+| Campagne | [!UICONTROL Invalid Shopping Country specified] | (Winkelcampagnes) De waarde in &quot;[!UICONTROL Sales Country]&quot; veld is ongeldig. Een lijst met geldige landen bekijken [for [!DNL Google Ads]](https://support.google.com/merchants/answer/160637#countrytable) en [for [!DNL Microsoft Advertising]](https://help.ads.microsoft.com/#apex/3/en/51083). |
 | Alle campagneonderdelen | [!UICONTROL Campaign creation failed] | De bovenliggende campagne is niet gemaakt, dus deze entiteit is niet gemaakt. Zorg ervoor dat alle bovenliggende entiteiten alle vereiste velden bevatten. |
 | Advertentiegroep | [!UICONTROL Campaign Row missing] | De opgegeven bovenliggende campagne bestaat niet, dus de ad-groep is niet gemaakt. Maak de bovenliggende campagne in een nieuwe rij. |
 |  | [!UICONTROL New adgroup has both keywords and placement] | Een advertentiegroep kan trefwoorden of plaatsingen bevatten, maar niet beide. Maak aparte ad-hocgroepen voor trefwoorden en plaatsingen. |
@@ -82,8 +82,8 @@ De volgende fouten treden op in [!UICONTROL EF Errors] alleen bestanden. De mees
 
 | Categorie | Bericht | Beschrijving |
 |----|----|----|
-| Algemeen | [!UICONTROL Internal Error: Please Try Posting the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
-| Alle entiteiten | [!UICONTROL Entity] is gepost aan advertentienetwerk | De entiteit werd gepost aan het advertentienetwerk, maar het werd niet tegelijkertijd gesynchroniseerd aan Onderzoek, Sociale, &amp; Handel, zodat zijn de entiteitgegevens niet onmiddellijk beschikbaar in Onderzoek, Sociale, &amp; Handel. Het synchronisatieproces wordt nu automatisch geactiveerd.<br><br>Wanneer grote hoeveelheden gegevens worden gesynchroniseerd, zijn de gegevens mogelijk enkele uren of langer niet beschikbaar in Zoeken, Sociale Zaken en Handel. |
+| Algemeen | [!UICONTROL Internal Error: Please Try Posting the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met het accountteam van de Adobe als het probleem zich blijft voordoen. |
+| Alle entiteiten | [!UICONTROL Entity] is gepost aan advertentienetwerk | De entiteit werd op het advertentienetwerk geplaatst, maar werd niet tegelijkertijd gesynchroniseerd met Search, Social, &amp; Commerce, zodat zijn de entiteitgegevens niet onmiddellijk beschikbaar in Zoeken, Sociale, &amp; Commerce. Het synchronisatieproces wordt nu automatisch geactiveerd.<br><br>Wanneer grote hoeveelheden gegevens worden gesynchroniseerd, zijn de gegevens mogelijk enkele uren of langer niet beschikbaar in Zoeken, Sociale media en Commerce. |
 | | [!UICONTROL Skipping <ENTITY> creation since <PARENT ENTITY> creation failed.] | De bovenliggende entiteit kon niet worden gemaakt, dus deze onderliggende entiteit is niet gemaakt. |
 
 >[!MORELIKETHIS]

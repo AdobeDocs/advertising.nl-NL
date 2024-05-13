@@ -1,20 +1,20 @@
 ---
 title: '[!UICONTROL AdWords and Bing Audience Target Report]'
 description: Meer informatie over de [!UICONTROL AdWords and Bing Audience Target Report].
-exl-id: 02c12266-f11b-4478-a511-8ee464dbb061
+exl-id: 083a5316-e4ec-45f5-a9ae-901cf5eecef4
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '205'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL AdWords and Bing Audience Target Report]
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen accounts*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
-De [!UICONTROL AdWords and Bing Audience Target Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens door publieksdoel ([!DNL Google Ads] op gegevens gebaseerde, op de markt verkrijgbare en vergelijkbare doelgroepen en uw [!DNL Microsoft® Advertising] hermarketing, douane, klantengelijke, gelijkaardige, en in-markt publiek) voor één of meerdere advertentiegroepen of campagnes. Standaard bevatten de gegevens één rij voor elk publiek dat ten minste één indruk heeft gekregen of klik voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik. De rijen worden oplopend gerangschikt op naam van de advertentiegroep en dan door publiek door gebrek. Het rapport bevat conversiegegevens die worden bijgehouden door [!DNL Adobe] uitsluitend voor streefcijfers voor de lijst van herverhandelbare producten.
+De [!UICONTROL AdWords and Bing Audience Target Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens door publieksdoel ([!DNL Google Ads] op gegevens gebaseerde, op de markt verkrijgbare en vergelijkbare doelgroepen en uw [!DNL Microsoft Advertising] hermarketing, douane, klantengelijke, gelijkaardige, en in-markt publiek) voor één of meerdere advertentiegroepen of campagnes. Standaard bevatten de gegevens één rij voor elk publiek dat ten minste één indruk heeft gekregen of klik voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik. De rijen worden oplopend gerangschikt op naam van de advertentiegroep en dan door publiek door gebrek. Het rapport bevat conversiegegevens die worden bijgehouden door [!DNL Adobe] uitsluitend voor streefcijfers voor de lijst van herverhandelbare producten.
 
 U kunt gegevens weergeven voor maximaal het voorgaande jaar.
 
@@ -42,6 +42,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
-* [Speciale rapporten](specialty-report-about.md)
-* [Een speciaal rapport genereren](specialty-report-generate.md)
-* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [Speciale rapporten](specialty-report-about.md)
+>* [Een speciaal rapport genereren](specialty-report-generate.md)
+>* [Instellingen voor speciale rapporten](specialty-report-settings.md)

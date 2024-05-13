@@ -1,11 +1,11 @@
 ---
 title: Een labelclassificatie maken
 description: Leer hoe u een labelclassificatie kunt maken om uw accountcomponenten te groeperen.
-exl-id: a7f6ca43-e829-4295-96bc-27ce8858227a
+exl-id: 227f44d7-c422-4baa-94ff-6deafcddf920
 feature: Search Label Classifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '179'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Elke adverteerder kan maximaal 30 labelindelingen hebben.
 
 1. Voer een unieke labelclassificatienaam in en klik vervolgens op **[!UICONTROL Save]**.
 
-   De naam moet uniek zijn voor het adverteerderaccount en moet bestaan uit [ASCII-tekens 32-126](https://www.asciitable.com/)en de maximumlengte is 27 single-byte tekens. De naam kan niet aan de naam van een bestaande rapportkolom of een bestaande bulksbladkolom identiek zijn. Zie de namen van kolommen met opsommingstekens voor [Baidu](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [Microsoft® Advertising](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [Naver](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), [Yahoo! Netwerk weergeven](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), en [Yandex](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md).
+   De naam moet uniek zijn voor het adverteerderaccount en moet bestaan uit [ASCII-tekens 32-126](https://www.asciitable.com/)en de maximumlengte is 27 single-byte tekens. De naam kan niet aan de naam van een bestaande rapportkolom of een bestaande bulksbladkolom identiek zijn. Zie de namen van kolommen met opsommingstekens voor [Baidu](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [Google Adds](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [Microsoft Advertising](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [Naver](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [Yahoo! Japan Adds](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), [Yahoo! Netwerk weergeven](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), en [Yandex](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md).
 
 Als u een labelclassificatie hebt gemaakt, kunt u specifieke labelwaarden maken voor de classificatie en de labelwaarden toewijzen aan accountentiteiten vanuit het menu [campagneremanagementweergaven](classification-values-assign-campaign-management.md) of [gebruiken van bulksbladen](classification-values-assign-bulksheets.md).
 

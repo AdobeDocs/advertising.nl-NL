@@ -2,13 +2,13 @@
 title: Informatie over het gereedschap DSP
 description: Leer meer over het plannerhulpmiddel om het unieke bereik voor online-tv-plaatsingen (CTV) te voorspellen volgens gespecificeerde budget- en doelcriteria.
 feature: DSP Planner
-source-git-commit: 9799ff5464d48e6258026ec997c5d5091576b9c6
+exl-id: b25d4ac5-e85f-4a38-8765-6c5261987668
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '546'
 ht-degree: 0%
 
 ---
-
 
 # Informatie over het gereedschap DSP
 
@@ -69,7 +69,7 @@ De planner genereert prognoses op basis van de meest recente waargenomen gegeven
 
 +++Kan ik de verwachte uitvoer van de planner opslaan?
 
-Ja, u kunt een voorspelling exporteren naar een [!DNL Microsoft® Excel] spreadsheet door te klikken **[!UICONTROL ...]** > **[!UICONTROL Export]** rechtsboven. De spreadsheet vangt de informatie die in de kromme van het bereikbudget gebruikend twee gegevenskolommen wordt getoond: [!UICONTROL Budget] en [!UICONTROL Reach].
+Ja, u kunt een voorspelling exporteren naar een [!DNL Microsoft Excel] spreadsheet door te klikken **[!UICONTROL ...]** > **[!UICONTROL Export]** rechtsboven. De spreadsheet vangt de informatie die in de kromme van het bereikbudget gebruikend twee gegevenskolommen wordt getoond: [!UICONTROL Budget] en [!UICONTROL Reach].
 
 >[!MORELIKETHIS]
 >

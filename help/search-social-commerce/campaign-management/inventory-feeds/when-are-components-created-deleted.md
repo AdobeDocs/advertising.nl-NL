@@ -1,18 +1,18 @@
 ---
 title: Wanneer worden accountcomponenten gemaakt of verwijderd door voorraadfeeds?
 description: Leer welke situaties accountcomponenten maken en verwijderen wanneer u voorraadfeeds plaatst.
-exl-id: 93b31996-15dd-4215-ae9d-39327910f712
+exl-id: 39a3cc2c-f956-4a89-a69d-687a27a38a1e
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '847'
+source-wordcount: '853'
 ht-degree: 0%
 
 ---
 
 # Wanneer worden accountcomponenten gemaakt of verwijderd door voorraadfeeds?
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Wanneer een dossier van de inventarisvoer door een malplaatje wordt verspreid, worden de rekeningscomponenten gecreeerd en als volgt geschrapt.
 
@@ -23,9 +23,9 @@ Wanneer een dossier van de inventarisvoer door een malplaatje wordt verspreid, w
 | Scenario | Voorbeeld | Handeling |
 |----|----|----|
 | De gegevens van het voer omvatten een nieuwe waarde voor een kolom die in een campagnenaam, een groepsnaam, een sleutelwoord, of een productgroep wordt gebruikt. | Vorige bestanden:<br>Campaign=Hats<br>Campaign=Ghandschoenen<br><br>Nieuw bestand:<br>Campaign=Shoes | Er wordt een nieuwe campagne, advertentiegroep, trefwoord of productgroep gemaakt als deze niet bestaat op het advertentienetwerk. |
-| Diervoedergegevens bevatten een nieuwe waarde voor een kolom die in een advertentie wordt gebruikt. | Vorig bestand: een advertentie inclusief prijs=20<br><br>Nieuw bestand: voor dezelfde advertentie is price=10 | Wanneer de advertentie wordt gekopieerd voor [!DNL Microsoft® Advertising] uitgebreide tekstadvertenties, [!DNL Yahoo! Japan ads], of [!DNL Yandex] advertenties worden gewijzigd, de bestaande advertentie wordt verwijderd en er wordt een nieuwe advertentie gemaakt.<br><br>Wanneer een advertentiekopie wordt gewijzigd voor andere advertentietypes of wanneer de toepasselijke kolom voor een [!DNL Google Ads] ad, parameter ({param1} of {param2}) in een advertentie, wordt de bestaande advertentie bijgewerkt. |
+| Diervoedergegevens bevatten een nieuwe waarde voor een kolom die in een advertentie wordt gebruikt. | Vorig bestand: een advertentie inclusief prijs=20<br><br>Nieuw bestand: voor dezelfde advertentie is price=10 | Wanneer de advertentie wordt gekopieerd voor [!DNL Microsoft Advertising] uitgebreide tekstadvertenties, [!DNL Yahoo! Japan ads], of [!DNL Yandex] advertenties worden gewijzigd, de bestaande advertentie wordt verwijderd en er wordt een nieuwe advertentie gemaakt.<br><br>Wanneer een advertentiekopie wordt gewijzigd voor andere advertentietypes of wanneer de toepasselijke kolom voor een [!DNL Google Ads] ad, parameter ({param1} of {param2}) in een advertentie, wordt de bestaande advertentie bijgewerkt. |
 | De malplaatjemontages voor de campagne, en de groep, het sleutelwoord, of de productgroep veranderden sinds de laatste propagatie. | Vorige instelling:Trefwoord=[Trefwoord]<br><br>Nieuwe instelling: Trefwoord=&lt;color>[Trefwoord] | Er wordt een nieuwe campagne, advertentiegroep, trefwoord of productgroep gemaakt als deze niet bestaat op het advertentienetwerk. |
-| De malplaatjemontages voor een advertentie veranderden sinds de laatste propagatie. | Vorige instelling: beschrijving toevoegen=&quot;Kopen [categorie] nu.&quot;<br><br>Nieuwe instelling: beschrijving toevoegen=&quot;Kopen [merk] nu.&quot; | Wanneer de advertentie wordt gekopieerd voor [!DNL Microsoft® Advertising] uitgebreide tekstadvertenties, [!DNL Yahoo! Japan ads], of [!DNL Yandex] advertenties worden gewijzigd, de bestaande advertentie wordt verwijderd en er wordt een nieuwe advertentie gemaakt.<br><br>Wanneer een advertentiekopie wordt gewijzigd voor andere advertentietypes of wanneer de verandering op een verandering in kolom wijst die voor één wordt gebruikt [!DNL Google Ads] ad, parameter ({param1} of {param2}) in een advertentie, wordt de bestaande advertentie bijgewerkt. |
+| De malplaatjemontages voor een advertentie veranderden sinds de laatste propagatie. | Vorige instelling: beschrijving toevoegen=&quot;Kopen [categorie] nu.&quot;<br><br>Nieuwe instelling: beschrijving toevoegen=&quot;Kopen [merk] nu.&quot; | Wanneer de advertentie wordt gekopieerd voor [!DNL Microsoft Advertising] uitgebreide tekstadvertenties, [!DNL Yahoo! Japan ads], of [!DNL Yandex] advertenties worden gewijzigd, de bestaande advertentie wordt verwijderd en er wordt een nieuwe advertentie gemaakt.<br><br>Wanneer een advertentiekopie wordt gewijzigd voor andere advertentietypes of wanneer de verandering op een verandering in kolom wijst die voor één wordt gebruikt [!DNL Google Ads] ad, parameter ({param1} of {param2}) in een advertentie, wordt de bestaande advertentie bijgewerkt. |
 | Nieuwe voedergegevens omvatten geen rij voor een bestaande campagne of een advertentiegroep. | nvt | De bestaande campagnes en advertentiegroepen blijven ongewijzigd. |
 | Nieuwe feed-gegevens bevatten geen rij voor een bestaande advertentiegroep, advertentie, trefwoord of productgroep. | nvt | De bestaande advertentiegroep, advertentie, trefwoord of productgroep blijft &#39;as-is&#39;, wordt gepauzeerd of verwijderd volgens de instructies [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). |
 | Nieuwe voedergegevens voor een bestaande ouderproductgroep omvatten geen rijen voor zijn bestaande kindproductgroepen. | nvt | De bestaande bovenliggende productgroep blijft ongewijzigd of wordt verwijderd volgens de [gegevensinstellingen van feed](feed-settings-manage.md#feed-data-settings). <b>Opmerking:</b> Als de montages van voedergegevens worden gevormd om ontbrekende lijnpunten te pauzeren, dan wordt de ouderproductgroep nog geschrapt omdat u geen productgroepen kunt pauzeren. |

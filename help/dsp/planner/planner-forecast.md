@@ -3,7 +3,7 @@ title: De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren
 description: Leer hoe u een nieuwe prognose maakt voor een bereik van verbonden tv.
 feature: DSP Planner
 exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
-source-git-commit: 8574d76fd322cb1cbc6aaaf316e7ad2f961a9f6c
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -18,7 +18,7 @@ U kunt de voorspelling voor een bereik van een aangesloten tv opnieuw genereren 
 
 1. Houd de cursor boven de planrij en klik op **[!UICONTROL Forecast]**.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft® Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >

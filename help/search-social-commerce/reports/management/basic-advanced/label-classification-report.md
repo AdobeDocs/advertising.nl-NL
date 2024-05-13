@@ -3,7 +3,7 @@ title: '[!UICONTROL Label Classification Report]'
 description: Meer informatie over de [!UICONTROL Label Classification Report].
 exl-id: 847fa384-b9c6-446f-9ebf-da7679ed35ae
 feature: Search Reports, Search Basic Reports
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -18,7 +18,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 >[!NOTE]
 >
->* Rapportage op basis van labelclassificaties op ad-niveau is niet beschikbaar voor [!DNL Microsoft® Advertising] DSA-campagnes (dynamic search and and, dynamisch zoeken en zoeken).
+>* Rapportage op basis van labelclassificaties op ad-niveau is niet beschikbaar voor [!DNL Microsoft Advertising] DSA-campagnes (dynamic search and and, dynamisch zoeken en zoeken).
 >* Op dezelfde entiteit kunnen meerdere etiketteringsclassificaties van toepassing zijn, zodat het totaal voor elke meeteenheid hoger kan zijn dan het feitelijke totaal voor de entiteit. Stel dat een trefwoord &quot;suede schoenen&quot; twee labelwaarden heeft, &quot;suede&quot; en &quot;schoeisel&quot; en dat het trefwoord 100 klikken heeft gekregen. De kolom Klikken zou &quot;100&quot;voor elk van die etiketwaarden tonen, zodat zou het totaal voor beide rijen &quot;200 zijn.&quot;
 * Wijzigingen die u aanbrengt in de labelindelingen en de waarden van de onderliggende labels voor een entiteit zijn over ongeveer een uur zichtbaar.
 

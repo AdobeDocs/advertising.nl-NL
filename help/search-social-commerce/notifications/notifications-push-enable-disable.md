@@ -1,11 +1,11 @@
 ---
 title: Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]
 description: Leer hoe u pushmeldingen kunt in- en uitschakelen vanuit [!UICONTROL Notification Center].
-exl-id: 71d115d0-6190-4052-a299-d5e8cde8e46c
+exl-id: f0e91e76-eb1e-4ff0-9a52-e9bc587552a2
 feature: Search Notifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '258'
 ht-degree: 0%
 
 ---
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 *Bètaonderdeel*
 
-U kunt meldingen inschakelen in Zoeken, Sociaal en Handel, waarbij deze meldingen worden weergegeven volgens de meldingsconventies van de browser. Op apparaten die [!DNL Microsoft® Windows], worden meldingen weergegeven in de rechterbenedenhoek van het scherm (systeemvak). Aan [!DNL Apple Mac] apparaten, worden de berichten getoond in het juiste menu.
+U kunt meldingen inschakelen in Zoeken, Sociaal en Commerce, waar ze worden weergegeven volgens de meldingsconventies van de browser. Op apparaten die [!DNL Microsoft Windows], worden meldingen weergegeven in de rechterbenedenhoek van het scherm (systeemvak). Aan [!DNL Apple Mac] apparaten, worden de berichten getoond in het juiste menu.
 
 Pushmeldingen zijn beschikbaar in de volgende browsers:
 
 * [!DNL Google Chrome] 40 of hoger
 
-* [!DNL Microsoft® Edge] 17 en hoger
+* [!DNL Microsoft Edge] 17 en hoger
 
 * [!DNL Mozilla Firefox] 44 en hoger
 
@@ -36,9 +36,9 @@ U kunt pushmeldingen uitschakelen volgens de standaardprocedure van de browser.
 
 4. De browser configureren om meldingen toe te staan van [!UICONTROL Notification Center] om`https://alert-center-ui-na.efrontier.com`.
 
-   De standaardmeldingsinstellingen variëren per browser en u kunt a) automatisch de optie geven om meldingen toe te staan van [!UICONTROL Notification Center] of b) de meldingsinstellingen handmatig moeten beheren. Bijvoorbeeld in [!DNL Microsoft® Edge], kunt u meldingen toestaan van [!UICONTROL Notification Center] op de browserwerkbalk. Zie de instructies in de Help van de browser.
+   De standaardmeldingsinstellingen variëren per browser en u kunt a) automatisch de optie geven om meldingen toe te staan van [!UICONTROL Notification Center] of b) de meldingsinstellingen handmatig moeten beheren. Bijvoorbeeld in [!DNL Microsoft Edge], kunt u meldingen toestaan van [!UICONTROL Notification Center] op de browserwerkbalk. Zie de instructies in de Help van de browser.
 
-   ![Waar kan ik berichtinstellingen beheren in Microsoft Edge?](/help/search-social-commerce/assets/notifications-blocked-dialog.png "Waar kan ik berichtinstellingen beheren in Microsoft® Edge?")
+   ![Waar kan ik berichtinstellingen beheren in Microsoft Edge?](/help/search-social-commerce/assets/notifications-blocked-dialog.png "Waar kan ik berichtinstellingen beheren in Microsoft Edge?")
 
 5. In uw [meldingsinstellingen](notification-edit.md), enable [!UICONTROL Web] meldingen voor de typen waarschuwingen die u wilt verzenden.
 

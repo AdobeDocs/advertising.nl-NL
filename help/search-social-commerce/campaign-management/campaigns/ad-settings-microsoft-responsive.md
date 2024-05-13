@@ -1,18 +1,18 @@
 ---
-title: '[!DNL Microsoft® Advertising] responsieve ad-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] responsieve advertenties.
+title: '[!DNL Microsoft Advertising] responsieve ad-instellingen'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] responsieve advertenties.
 exl-id: 29404500-d929-4683-be71-150ea8ab805d
 feature: Search Campaign Management
-source-git-commit: dae8d3726b48240a2cad7d3e188694f72934295f
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] responsieve (publiek) en instellingen
+# [!DNL Microsoft Advertising] responsieve (publiek) en instellingen
 
-De responsieve advertentievorm is beschikbaar voor op afbeeldingen gebaseerde, op video gebaseerde en aangesloten tv-publieksadvertenties op de [!DNL Microsoft® Audience Network]. Het advertentienetwerk assembleert dynamisch responsieve advertenties met behulp van de meest effectieve combinaties van advertentie-elementen.
+De responsieve advertentievorm is beschikbaar voor op afbeeldingen gebaseerde, op video gebaseerde en aangesloten tv-publieksadvertenties op de [!DNL Microsoft Audience Network]. Het advertentienetwerk assembleert dynamisch responsieve advertenties met behulp van de meest effectieve combinaties van advertentie-elementen.
 
 ## [!UICONTROL Ad Settings] (voor videoadvertenties) en [!UICONTROL Audience CTV Video Ad Details]
 
@@ -28,7 +28,7 @@ De responsieve advertentievorm is beschikbaar voor op afbeeldingen gebaseerde, o
 
 **[!UICONTROL Images]:** Maximaal 15 JPEG- of PNG-afbeeldingen voor de advertentie. Neem minstens één afbeelding op met een hoogte-breedteverhouding van 1,91:1. Zie de toegestane verhoudingen en afmetingen voor [publiek en afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
 
-Voor publieksadvertenties: [!DNL Microsoft® Advertising] Deze afbeelding wordt automatisch uitgesneden voor alle mogelijke hoogte-breedteverhoudingen.
+Voor publieksadvertenties: [!DNL Microsoft Advertising] Deze afbeelding wordt automatisch uitgesneden voor alle mogelijke hoogte-breedteverhoudingen.
 
 <!-- Instructions -->
 
@@ -56,7 +56,7 @@ Voor publieksadvertenties: [!DNL Microsoft® Advertising] Deze afbeelding wordt 
 >
 >* [Over advertenties](ad-about.md)
 >* [Advertenties beheren](ad-manage.md)
->* [[!DNL Microsoft® Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft® Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft® Advertising] product en instellingen](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft® Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
+>* [[!DNL Microsoft Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising] multimedia en instellingen](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising] product en instellingen](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)

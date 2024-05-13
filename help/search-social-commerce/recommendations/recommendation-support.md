@@ -3,7 +3,7 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: d6808281dc3ba26a48ae33079c2f411705f43ddd
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '646'
 ht-degree: 0%
@@ -12,15 +12,15 @@ ht-degree: 0%
 
 # Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] rekeningen*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
 
-*Bètafunctie voor [!DNL Microsoft® Advertising] rekeningen*
+*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
-[!DNL Google Ads] en [!DNL Microsoft® Advertising] aanbevelingen en inzichten zijn suggesties van het ad netwerk helpen de prestaties en de efficiency van uw campagnes verbeteren:
+[!DNL Google Ads] en [!DNL Microsoft Advertising] aanbevelingen en inzichten zijn suggesties van het ad netwerk helpen de prestaties en de efficiency van uw campagnes verbeteren:
 
 * Elk [!DNL Google Ads] Deze aanbeveling biedt aangepaste suggesties voor verschillende prestatiesaspecten van een campagne — van het toevoegen van middelen tot het verhogen van het budget — op basis van de prestatiegeschiedenis van uw account, uw campagnemontages en trends over [!DNL Google Ads].
 
-* Elk [!DNL Microsoft® Advertising] inzicht in de prestaties en de aanbeveling suggereren wijzigingen om de campagneprestaties te optimaliseren op basis van computerleeralgoritmen en best practices.
+* Elk [!DNL Microsoft Advertising] inzicht in de prestaties en de aanbeveling suggereren wijzigingen om de campagneprestaties te optimaliseren op basis van computerleeralgoritmen en best practices.
 
 ## De [!UICONTROL Recommendations & Publisher Insights] weergave
 
@@ -32,7 +32,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
   De gegevens zijn beschikbaar in real time wanneer u de mening opent. Klik op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png "Vernieuwen") linksonder op de pagina.
 
-* Voor [!DNL Microsoft® Advertising] accounts, zie in een oogopslag elk prestatieinzicht dat in de afgelopen 30 dagen is gegenereerd voor een [!DNL Microsoft® Advertising] account. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elk inzicht omvat de datum, een beschrijving van de kwestie, de beïnvloede entiteit, de worteloorzaak (die verbindingen aan meer details kunnen omvatten), en de voorgestelde actie met een verbinding om te openen [!DNL Microsoft® Advertising] redacteur, waarvan u op het specifieke inzicht kunt handelen.
+* Voor [!DNL Microsoft Advertising] accounts, zie in een oogopslag elk prestatieinzicht dat in de afgelopen 30 dagen is gegenereerd voor een [!DNL Microsoft Advertising] account. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elk inzicht omvat de datum, een beschrijving van de kwestie, de beïnvloede entiteit, de worteloorzaak (die verbindingen aan meer details kunnen omvatten), en de voorgestelde actie met een verbinding om te openen [!DNL Microsoft Advertising] redacteur, waarvan u op het specifieke inzicht kunt handelen.
 
 * Bekijk details over een aanbeveling en pas de aanbeveling rechtstreeks toe of verwerp deze.
 

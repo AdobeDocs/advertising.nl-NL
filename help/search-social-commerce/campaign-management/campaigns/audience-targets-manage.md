@@ -1,20 +1,20 @@
 ---
 title: Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen
-description: Leer hoe te om publieksdoelstellingen voor uw te vormen en te beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad-hocgroepen.
+description: Leer hoe te om publieksdoelstellingen voor uw te vormen en te beheren [!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes en ad-hocgroepen.
 exl-id: 9a496d15-082d-44e1-a0a3-71356e24b932
 feature: Search Campaign Management
-source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '771'
 ht-degree: 0%
 
 ---
 
-# De doelgroepen voor uw publiek beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] campagnes en ad group
+# De doelgroepen voor uw publiek beheren [!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes en ad group
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen*
 
-[!DNL Google Ads] campagnes en ad-hocgroepen, en [!DNL Microsoft® Advertising] ad groepen, kan specifiek publiek van het zelfde advertentienetwerk richten. Het ad netwerk bepaalt hoe groot een publiek moet zijn om gericht te zijn.
+[!DNL Google Ads] campagnes en ad-hocgroepen, en [!DNL Microsoft Advertising] ad groepen, kan specifiek publiek van het zelfde advertentienetwerk richten. Het ad netwerk bepaalt hoe groot een publiek moet zijn om gericht te zijn.
 
 >[!NOTE]
 >

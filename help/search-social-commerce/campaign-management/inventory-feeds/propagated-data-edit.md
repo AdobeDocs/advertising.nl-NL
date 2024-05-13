@@ -1,9 +1,9 @@
 ---
 title: Uit feeds gegenereerde gegevens bewerken
 description: Leer hoe u gegevens kunt bewerken die zijn gegenereerd uit de invoer van inventarisgegevens.
-exl-id: 5f866557-e44b-4fd9-9683-f7fbaf6d308b
+exl-id: d43b593d-758d-4561-9cda-33b235099cc6
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '426'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Uit feeds gegenereerde gegevens bewerken
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Wanneer u voedergegevens verspreidt zonder het gelijktijdig te posten aan het advertentienetwerk, kunt u de gegevens op één van beide volgende manieren uitgeven. U kunt later desgewenst [postgegevens](propagated-data-post.md) van beide locaties naar de relevante advertentienetwerken:
 

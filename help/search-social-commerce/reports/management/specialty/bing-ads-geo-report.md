@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Bing Ads Geo Report]'
 description: Meer informatie over de [!UICONTROL Bing Ads Geo Report].
-exl-id: b14e5039-4af6-43de-925c-429f537dad6a
+exl-id: 8829ac72-d622-485d-abfb-310778f266b7
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Bing Ads Geo Report]
 
-*[!DNL Microsoft® Advertising]alleen accounts*
+*[!DNL Microsoft Advertising]alleen accounts*
 
 De [!UICONTROL Bing Ads Geo Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens door land/regio/metro code/stadcombinaties voor elke advertentiegroep in één of meerdere rekeningen. Standaard bevatten de gegevens één rij voor elke combinatie land/regio/metrocode/stad die ten minste één indruk heeft gekregen of voor elke toepasselijke ad-groep voor elke tijdseenheid in het opgegeven datumbereik heeft geklikt. De rijen worden in oplopende orde door campagnenaam en dan door land, gebied, metro code, stad, en toen ad groep, door gebrek. Het rapport bevat geen conversiegegevens die worden bijgehouden door [!DNL Microsoft Advertising] noch [!DNL Adobe].
 
@@ -48,6 +48,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
-* [Speciale rapporten](specialty-report-about.md)
-* [Een speciaal rapport genereren](specialty-report-generate.md)
-* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [Speciale rapporten](specialty-report-about.md)
+>* [Een speciaal rapport genereren](specialty-report-generate.md)
+>* [Instellingen voor speciale rapporten](specialty-report-settings.md)

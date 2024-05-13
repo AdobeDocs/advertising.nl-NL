@@ -1,9 +1,9 @@
 ---
 title: Een feed-bestand voor een spreadsheetrapport weergeven of opslaan
 description: Leer hoe u een werkbladfeed weergeeft en deze in een bestand opslaat.
-exl-id: 3f8af6fb-6652-4434-bd88-ef1a0e10efd1
+exl-id: b229ab9e-a48a-4487-8434-0fdcf7139d8f
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
 
-U kunt gegenereerde spreadsheetfeed weergeven of opslaan in een bestand. Werkbladfeed-bestanden bevinden zich in[!DNL Microsoft® Excel] XLSX-indeling.
+U kunt gegenereerde spreadsheetfeed weergeven of opslaan in een bestand. Werkbladfeed-bestanden bevinden zich in[!DNL Microsoft Excel] XLSX-indeling.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Spreadsheet Feeds]**.
 

@@ -1,9 +1,9 @@
 ---
 title: Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed
 description: Leer hoe u speciaal opgemaakte werkbladsjablonen maakt.
-exl-id: d675cb8c-b7a9-4d7b-8435-5dd662d151a3
+exl-id: 74bf3cdf-7d56-431a-8aff-11ed3840a7cd
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
 
-Als u spreadsheetfeeds wilt maken, moet u eerst speciaal opgemaakte feeds maken [!DNL Microsoft® Excel] spreadsheetsjablonen met behulp van gewone rapportsjablonen. U kunt desgewenst de [!DNL Excel] spreadsheet om extra kolommen en grafieken te omvatten.
+Als u spreadsheetfeeds wilt maken, moet u eerst speciaal opgemaakte feeds maken [!DNL Microsoft Excel] spreadsheetsjablonen met behulp van gewone rapportsjablonen. U kunt desgewenst de [!DNL Excel] spreadsheet om extra kolommen en grafieken te omvatten.
 
 1. In **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**, produceert het gewenste rapporttype gebruikend een [!UICONTROL Date Aggregation] eenheid van &quot;[!UICONTROL Daily]&quot; en met alle andere gegevensparameters wilt u, sparen het rapport als malplaatje.
 

@@ -1,16 +1,16 @@
 ---
-title: '[!DNL Microsoft® Advertising] instellingen productgroep'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] winkelgroepen.
-exl-id: a34511ef-f5bc-4d93-a56e-90348f670ad6
+title: '[!DNL Microsoft Advertising] instellingen productgroep'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] winkelgroepen.
+exl-id: ea3a4137-1396-430f-9d6c-8e1e1f1f52c2
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] productgroepinstellingen
+# [!DNL Microsoft Advertising] productgroepinstellingen
 
 ## &quot;Alle productgroepen&quot;
 
@@ -28,7 +28,7 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 
 **[!UICONTROL Condition/Value]:** (Alleen-lezen voor bestaande productgroepen) De productafmetingen waarop u zich wilt richten. Voor nieuwe productgroepen, ga de afmeting in waarmee om producten en het kwalificerende attribuut voor de geselecteerde informatiecategorie (zoals &quot;Acme&quot;wanneer u zich door merk richt, of &quot;Nieuw&quot;wanneer u door voorwaarde richt) te richten.
 
-Als u een productgroep hebt gemaakt voor specifieke productafmetingen (dus niet voor &quot;Alle producten&quot;), maakt u met Zoeken, Sociaal en Handel automatisch een productgroep voor &quot;Alles anders&quot;.
+Als u een productgroep voor specifieke productafmetingen hebt gemaakt (dus niet &quot;Alle producten&quot;), maakt u met Zoeken, Sociaal en Commerce automatisch een productgroep voor &quot;Alles anders&quot;.
 
 Voor een lijst met beschikbare productafmetingen raadpleegt u &quot;[Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de campagne [!UICONTROL Inventory Filter] instellen.
 
@@ -52,4 +52,4 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 >* [Over winkelproductgroepen](product-group-about.md)
 >* [Winkelproductgroepen beheren](product-group-manage.md)
 >* [Productfilters voor winkelcampagne](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
->* [Implementeren [!DNL Microsoft® Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+>* [Implementeren [!DNL Microsoft Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)

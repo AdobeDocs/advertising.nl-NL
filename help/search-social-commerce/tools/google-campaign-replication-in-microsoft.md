@@ -1,42 +1,42 @@
 ---
-title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
-description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] account.
+title: Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft Advertising]
+description: Leer hoe u uw gesynchroniseerde campagnes exporteert in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft Advertising] account.
 exl-id: e7714d3d-4a8e-44ef-a3a7-e5198c091660
 feature: Search Tools
-source-git-commit: 877333330df84ff5c8bd7ee1bfc837de492877fb
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '958'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
 
-# Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft® Advertising]
+# Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft Advertising]
 
-U kunt uw gesynchroniseerde campagnes exporteren in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft® Advertising] als verbeterde CPC-campagnes (eCPC). De bestaande biedingen en campagnebudgetten worden geschaald. Bestaande tracering van zoekopdrachten, sociale gegevens en handel wordt niet geïmporteerd.
+U kunt uw gesynchroniseerde campagnes exporteren in een [!DNL Google Ads] account direct in een gesynchroniseerd account [!DNL Microsoft Advertising] als verbeterde CPC-campagnes (eCPC). De bestaande biedingen en campagnebudgetten worden geschaald. Bestaande tracking van zoekopdrachten, sociale en Commerce-bestanden worden niet geïmporteerd.
 
 U kunt de volgende typen campagnes en de bijbehorende campagnestructuur repliceren:
 
-* [!DNL Google Ads] zoeken en campagnes weergeven in [!DNL Microsoft® Advertising] zoek- en weergavecampagnes.
+* [!DNL Google Ads] zoeken en campagnes weergeven in [!DNL Microsoft Advertising] zoek- en weergavecampagnes.
 
-* [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft® Advertising] publiekscampagnes over het Microsoft® Audience Network.
+* [!DNL Google Display Network] campagnes, waaronder afbeeldingen, in [!DNL Microsoft Advertising] publiekscampagnes over het Microsoft Audience Network.
 
-  Als u boodschappencampagnes op basis van feed wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft® Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
+  Als u boodschappencampagnes op basis van feed wilt herhalen, moet u eerst uw [!DNL Google Merchant Center] productaanbiedingen voor [!DNL Microsoft Merchant Center]. Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft Merchant Center] in Importopties opslaan om de winkel te koppelen aan uw doelgerichte campagnes.
 
-* [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft® Advertising] maximale prestaties.
+* [!DNL Google Ads] maximale prestatiecampagnes, inclusief lokale voorraadadvertenties, in [!DNL Microsoft Advertising] maximale prestaties.
 
-U kunt ervoor kiezen de campagnes eenmaal bij te werken, dagelijks wekelijks of maandelijks, of volgens [!DNL Microsoft® Advertising]aanbevolen schema. U kunt meldingen desgewenst configureren telkens wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft® Advertising]kunt u de status van de importtaak controleren, eventuele foutlogboeken controleren, een importtaak handmatig uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
+U kunt ervoor kiezen de campagnes eenmaal bij te werken, dagelijks wekelijks of maandelijks, of volgens [!DNL Microsoft Advertising]aanbevolen schema. U kunt meldingen desgewenst configureren telkens wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft Advertising]kunt u de status van de importtaak controleren, eventuele foutlogboeken controleren, een importtaak handmatig uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
 
-Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toevoegen aan uw [!DNL Microsoft® Advertising] campagnes. Voor meer informatie over welke gegevens worden ingevoerd, zie [!DNL Microsoft® Advertising] help over &quot;[Wat wordt geïmporteerd uit [!DNL Google Ads]](https://help.ads.microsoft.com/#apex/ads/en/50851).&quot; Omdat het zoeken, Sociale, &amp; het volgen van de Handel niet wordt ingevoerd, zou u het volgen binnen moeten ook toevoegen [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
+Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toevoegen aan uw [!DNL Microsoft Advertising] campagnes. Voor meer informatie over welke gegevens worden ingevoerd, zie [!DNL Microsoft Advertising] help over &quot;[Wat wordt geïmporteerd uit [!DNL Google Ads]](https://help.ads.microsoft.com/#apex/ads/en/50851).&quot; Omdat tracking met zoeken, sociaal en Commerce niet wordt geïmporteerd, moet u ook reeksspatiëring toevoegen in het dialoogvenster [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
 
 ## Repliceren [!DNL Google Ads] campagnes
 
 >[!NOTE]
 >
->Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst [repliceer uw [!DNL Google Merchant Center] productaanbiedingen in [!DNL Microsoft® Merchant Center]](https://help.ads.microsoft.com/apex/index/3/en/56870). Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft® Merchant Center] in de importopties opslaan om de winkel aan uw doelcampagnes te koppelen.
+>Als u winkelende, op feed gebaseerde weergavecampagnes wilt herhalen, moet u eerst [repliceer uw [!DNL Google Merchant Center] productaanbiedingen in [!DNL Microsoft Merchant Center]](https://help.ads.microsoft.com/apex/index/3/en/56870). Wanneer u de campagnes kopieert, selecteert u de [!DNL Microsoft Merchant Center] in de importopties opslaan om de winkel aan uw doelcampagnes te koppelen.
 
 Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500).
 
-1. Klik in het hoofdmenu Zoeken, Sociaal en Handel op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]**.
+1. Klik in het hoofdmenu Zoeken, Sociaal en Commerce op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]**.
 
 1. Klik op **[!UICONTROL +Import]**.
 
@@ -58,7 +58,7 @@ Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.m
 
 1. Klik op **[!UICONTROL Post]**.
 
-1. (Optioneel) Zoek-, sociale en handelstracering toevoegen in het dialoogvenster [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
+1. (Optioneel) Zoek-, sociale en Commerce-tracking toevoegen in het [account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [campagne](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ad-groep](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [advertentie](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) instellingen.
 
 ## Planningsinstellingen voor een importtaak voor een campagne bewerken
 
@@ -74,7 +74,7 @@ Zie [waaruit wordt geïmporteerd [!DNL Google Ads] campagnes](https://help.ads.m
 
 ## Uw campagne-importtaken weergeven
 
-U kunt alle importtaken weergeven, inclusief de bron [!DNL Google Ads] account, het doel [!DNL Microsoft® Advertising] -account, de importtijd of het -schema en de gebruiker die de taak heeft gemaakt. Wanneer u een importtaak meerdere keren uitvoert, ook tijdens regelmatig geplande importbewerkingen, wordt elk exemplaar weergegeven als een afzonderlijke taak.
+U kunt alle importtaken weergeven, inclusief de bron [!DNL Google Ads] account, het doel [!DNL Microsoft Advertising] -account, de importtijd of het -schema en de gebruiker die de taak heeft gemaakt. Wanneer u een importtaak meerdere keren uitvoert, ook tijdens regelmatig geplande importbewerkingen, wordt elk exemplaar weergegeven als een afzonderlijke taak.
 
 * Voer een van de volgende handelingen uit:
 
@@ -94,7 +94,7 @@ U kunt alle importtaken weergeven, inclusief de bron [!DNL Google Ads] account, 
 
 ## Logboeken weergeven voor importtaken voor uw campagne {#campaign-import-log}
 
-U kunt alle voltooide of mislukte importtaken weergeven, inclusief de begintijd, de bron [!DNL Google Ads] account, het doel [!DNL Microsoft® Advertising] -account, de gebruiker die de taak heeft gemaakt, het aantal geslaagde en mislukte bewerkingen en alle e-mailadressen die meldingen voor elke taak hebben ontvangen. U kunt meer details over de veranderingen van het doel bekijken [!DNL Microsoft® Advertising] de account die voor elke taak is opgetreden, inclusief het aantal toegevoegde, gesynchroniseerde, verwijderde items en de items die fouten op elk entiteitsniveau (zoals campagne of trefwoord) in de account hebben veroorzaakt.
+U kunt alle voltooide of mislukte importtaken weergeven, inclusief de begintijd, de bron [!DNL Google Ads] account, het doel [!DNL Microsoft Advertising] -account, de gebruiker die de taak heeft gemaakt, het aantal geslaagde en mislukte bewerkingen en alle e-mailadressen die meldingen voor elke taak hebben ontvangen. U kunt meer details over de veranderingen van het doel bekijken [!DNL Microsoft Advertising] de account die voor elke taak is opgetreden, inclusief het aantal toegevoegde, gesynchroniseerde, verwijderde items en de items die fouten op elk entiteitsniveau (zoals campagne of trefwoord) in de account hebben veroorzaakt.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]**.
 
@@ -108,17 +108,17 @@ U kunt alle voltooide of mislukte importtaken weergeven, inclusief de begintijd,
 
 **[!UICONTROL Source Google Ads account]:** De gesynchroniseerde [!DNL Google Ads] account waaruit campagnegegevens worden geëxporteerd.
 
-**[!UICONTROL Credential ID]:** Een id die [!DNL Microsoft® Advertising] gebruikers om uw te vertegenwoordigen [!DNL Google Ads] referenties.
+**[!UICONTROL Credential ID]:** Een id die [!DNL Microsoft Advertising] gebruikers om uw te vertegenwoordigen [!DNL Google Ads] referenties.
 
-Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft® Advertising] beperkingen. Neem contact op met het accountteam van de Adobe. Vervolgens worden de gegevens gegenereerd en krijgt u de id.
+Automatisch genereren van [!DNL Microsoft Advertising] referenties voor importeren zijn niet beschikbaar vanwege [!DNL Microsoft Advertising] beperkingen. Neem contact op met het accountteam van de Adobe. Vervolgens worden de gegevens gegenereerd en krijgt u de id.
 
-**[!UICONTROL Target Microsoft® Ads account]:** De gesynchroniseerde [!DNL Microsoft® Advertising] rekening waarin campagnegegevens worden ingevoerd.
+**[!UICONTROL Target Microsoft Ads account]:** De gesynchroniseerde [!DNL Microsoft Advertising] rekening waarin campagnegegevens worden ingevoerd.
 
 ### [!UICONTROL Select campaigns & ad groups]
 
 **\[Te importeren gegevens\]:** Geef de te importeren gegevens op:
 
-* *[!UICONTROL Import all new and existing campaigns]:* Gegevens importeren voor alle campagnes die al bestaan en campagnes die niet bestaan in [!DNL Microsoft® Advertising].
+* *[!UICONTROL Import all new and existing campaigns]:* Gegevens importeren voor alle campagnes die al bestaan en campagnes die niet bestaan in [!DNL Microsoft Advertising].
 
 * *[!UICONTROL Import specific campaigns and adgroups]:* Om specifieke campagnes en ad groepen te selecteren.
 
@@ -146,7 +146,7 @@ Automatisch genereren van [!DNL Microsoft® Advertising] referenties voor import
 
 **[!UICONTROL Import name]:** De naam van de importtaak.
 
-**[!UICONTROL When]:** Wanneer importeert u de opgegeven campagnes: *Automatisch* (aan [!DNL Microsoft® Advertising] een schema instellen om uw campagnes zo goed mogelijk te optimaliseren); *[!UICONTROL Now]* (om de taak uit te voeren wanneer u de taakinstellingen plaatst), *[!UICONTROL Once]* op een bepaald tijdstip *[!UICONTROL Daily]* op een bepaald tijdstip *[!UICONTROL Weekly]* op een bepaald tijdstip, of *[!UICONTROL Monthly]* op een opgegeven tijdstip.
+**[!UICONTROL When]:** Wanneer importeert u de opgegeven campagnes: *Automatisch* (aan [!DNL Microsoft Advertising] een schema instellen om uw campagnes zo goed mogelijk te optimaliseren); *[!UICONTROL Now]* (om de taak uit te voeren wanneer u de taakinstellingen plaatst), *[!UICONTROL Once]* op een bepaald tijdstip *[!UICONTROL Daily]* op een bepaald tijdstip *[!UICONTROL Weekly]* op een bepaald tijdstip, of *[!UICONTROL Monthly]* op een opgegeven tijdstip.
 
 **[!UICONTROL Receive email notifications]:** Als en wanneer u e-mailmeldingen over importtaken wilt verzenden naar de e-mailadressen in het veld Rapporten verzenden naar.
 

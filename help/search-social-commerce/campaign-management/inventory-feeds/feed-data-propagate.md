@@ -1,20 +1,20 @@
 ---
 title: Gegevens over voorraadfeed doorgeven via sjablonen
 description: Meer informatie over het doorgeven van gegevens uit uw voorraad via advertentiesjablonen om de accountstructuur te beheren en dynamische advertenties te leveren.
-exl-id: 40de75e8-8440-48f4-9fa7-1aeb2ae392c5
+exl-id: 9660af19-a517-4593-9a99-da600a0285a5
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '876'
 ht-degree: 0%
 
 ---
 
 # Gegevens over voorraadfeed doorgeven via sjablonen
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
-Nadat u een ad-netwerkspecifieke voedermalplaatje creeert en een voederdossier of een [!DNL Google] of [!DNL Microsoft®] handelaarscentrum-account met dit account, kunt u dynamisch advertenties maken door de voedergegevens via de sjabloon door te geven volgens de [gegevensinstellingen van feed](feed-settings-manage.md). Tijdens propagatie, worden de kolomnamen in het malplaatje vervangen met gegevenswaarden in het voer, en de geproduceerde campagnes en hun componenten hebben de standaardmontages tenzij het malplaatje anders specificeert. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Handel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties of wijst u de advertenties toe aan de bestaande accountstructuur.
+Nadat u een ad-netwerkspecifieke voedermalplaatje creeert en een voederdossier of een [!DNL Google] of [!DNL Microsoft] handelaarscentrum-account met dit account, kunt u dynamisch advertenties maken door de voedergegevens via de sjabloon door te geven volgens de [gegevensinstellingen van feed](feed-settings-manage.md). Tijdens propagatie, worden de kolomnamen in het malplaatje vervangen met gegevenswaarden in het voer, en de geproduceerde campagnes en hun componenten hebben de standaardmontages tenzij het malplaatje anders specificeert. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Commerce ofwel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties of wijst u de advertenties toe aan de bestaande accountstructuur.
 
 Wanneer nieuwe feed-gegevens nieuwe gegevenswaarden voor een item bevatten of de sjabloon is gewijzigd, worden bestaande advertenties verwijderd en worden nieuwe advertenties gemaakt. Als de enige wijziging de aanwijzing van [!DNL Google Ads] Param 1 en Param 2, dan slechts worden die waarden bijgewerkt. Er worden nooit dubbele advertenties gemaakt (dezelfde pagina voor kopiëren en landen).
 

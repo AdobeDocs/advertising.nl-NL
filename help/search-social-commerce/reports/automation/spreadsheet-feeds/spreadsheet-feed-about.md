@@ -1,11 +1,11 @@
 ---
 title: Info over werkbladrapportfeeds
 description: Leer hoe u gegevens over dagelijkse prestaties ophaalt in een spreadsheetindeling met aangepaste opmaak.
-exl-id: e497e81f-3936-428c-8910-0c4dffddf060
+exl-id: 559dde7a-17c3-4d94-b3b0-c8248c745258
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '223'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
 
-Spreadsheetfeeds verschaffen dagelijkse prestatiegegevens voor alle basisrapporten en modelnauwkeurigheidsrapporten in een aangepaste spreadsheetindeling in [!DNL Microsoft® Excel] XLSX. U kunt spreadsheetfeeds instellen met behulp van speciaal geformatteerde [!DNL Excel] werkbladsjablonen die u maakt op basis van gewone rapportsjablonen. Elke dag wordt de spreadsheet automatisch vernieuwd op een bepaald tijdstip met nieuwe, onbewerkte gegevens die dagelijks worden geaggregeerd. De onbewerkte gegevens vullen alle kolommen en grafieken die u in de spreadsheetsjabloon hebt opgenomen. Zodra een spreadsheetvoederdossier beschikbaar is, of als de dossiergeneratie ontbreekt, ontvangt elke e-mailontvanger in het rapportmalplaatje bericht, dat op de gevormde gebruiker wordt gebaseerd [meldingsinstellingen voor rapporten](/help/search-social-commerce/notifications/notification-about.md).
+Spreadsheetfeeds verschaffen dagelijkse prestatiegegevens voor alle basisrapporten en modelnauwkeurigheidsrapporten in een aangepaste spreadsheetindeling in [!DNL Microsoft Excel] XLSX. U kunt spreadsheetfeeds instellen met behulp van speciaal geformatteerde [!DNL Excel] werkbladsjablonen die u maakt op basis van gewone rapportsjablonen. Elke dag wordt de spreadsheet automatisch vernieuwd op een bepaald tijdstip met nieuwe, onbewerkte gegevens die dagelijks worden geaggregeerd. De onbewerkte gegevens vullen alle kolommen en grafieken die u in de spreadsheetsjabloon hebt opgenomen. Zodra een spreadsheetvoederdossier beschikbaar is, of als de dossiergeneratie ontbreekt, ontvangt elke e-mailontvanger in het rapportmalplaatje bericht, dat op de gevormde gebruiker wordt gebaseerd [meldingsinstellingen voor rapporten](/help/search-social-commerce/notifications/notification-about.md).
 
 U kunt de feed zo configureren dat deze tot de laatste 90 dagen met gegevens wordt vernieuwd. Alle vorige bestaande gegevens blijven behouden en worden verder verzameld.
 

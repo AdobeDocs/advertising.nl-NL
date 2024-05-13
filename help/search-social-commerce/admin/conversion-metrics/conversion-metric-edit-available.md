@@ -2,8 +2,8 @@
 title: De conversiemetriek wijzigen die beschikbaar is in beheerweergaven en -rapporten
 description: Leer hoe u conversiemetriek beschikbaar maakt in uw beheerweergaven en -rapporten.
 feature: Conversions
-exl-id: a8f3a2d6-4203-42db-96cd-faf02d20d247
-source-git-commit: af32aea1c50edb6b22b0b15c920cb8c2dcdc37e9
+exl-id: de3d288a-5fec-4479-92cf-7754390e21bb
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '506'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # De conversiemetriek wijzigen die beschikbaar is in beheerweergaven en -rapporten
 
-Wanneer de Adobe Advertising een [conversie](/help/search-social-commerce/glossary.md#c-d) Voor een adverteerder is deze functie aanvankelijk uitgesloten van portfoliodoelstellingen, rapporten en beheerweergaven. Om metrisch van de omzetting zichtbaar te maken, moet u het uitdrukkelijk ter beschikking stellen, en dan naar keuze veranderen de standaardvertoningsnaam, die de naam is die wordt getoond. De enige uitzondering is dat conversies worden bijgehouden door [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft® Advertising] universele labels voor het bijhouden van gebeurtenissen zijn automatisch beschikbaar en zichtbaar.
+Wanneer de Adobe Advertising een [conversie](/help/search-social-commerce/glossary.md#c-d) Voor een adverteerder is deze functie aanvankelijk uitgesloten van portfoliodoelstellingen, rapporten en beheerweergaven. Om metrisch van de omzetting zichtbaar te maken, moet u het uitdrukkelijk ter beschikking stellen, en dan naar keuze veranderen de standaardvertoningsnaam, die de naam is die wordt getoond. De enige uitzondering is dat conversies worden bijgehouden door [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft Advertising] universele labels voor het bijhouden van gebeurtenissen zijn automatisch beschikbaar en zichtbaar.
 
 Op dezelfde manier kunt u een omzettingsmetrisch van portefeuilledoelstellingen, rapporten, en beheersmeningen verbergen. Wanneer u omzettings metrisch verbergt die eerder zichtbaar was, wordt het verwijderd uit om het even welke afgeleide metriek die omzettings metrisch bevatten.
 
@@ -50,10 +50,10 @@ Van de lijst van omzettingsmetriek die beschikbaar zijn, kan elke gebruiker met 
 
 >[!NOTE]
 >
->Als de Adobe Advertising gegevens voor nieuwe omzettingsmetriek verzamelt, dan de nieuwe metriek — behalve omzettingen die door worden gevolgd [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft® Advertising] universele tags voor het bijhouden van gebeurtenissen — worden automatisch uitgesloten van de beheerweergaven en -rapporten totdat u deze opneemt. Nieuwe omzettingen bijgehouden door [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft® Advertising] universele labels voor het bijhouden van gebeurtenissen zijn altijd automatisch beschikbaar.
+>Als de Adobe Advertising gegevens voor nieuwe omzettingsmetriek verzamelt, dan de nieuwe metriek — behalve omzettingen die door worden gevolgd [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft Advertising] universele tags voor het bijhouden van gebeurtenissen — worden automatisch uitgesloten van de beheerweergaven en -rapporten totdat u deze opneemt. Nieuwe omzettingen bijgehouden door [!DNL Google Ads], [!DNL Google Analytics], en [!DNL Microsoft Advertising] universele labels voor het bijhouden van gebeurtenissen zijn altijd automatisch beschikbaar.
 
 >[!MORELIKETHIS]
 >
-* [Informatie over het beheren van conversiegegevens van adverteerders](conversion-metric-about.md)
-* [De conversiemetriek voor een adverteerder bekijken](conversion-metric-view-tracked.md)
-* [De weergavenaam wijzigen voor een metrische omzetting](conversion-metric-edit-display-name.md)
+>* [Informatie over het beheren van conversiegegevens van adverteerders](conversion-metric-about.md)
+>* [De conversiemetriek voor een adverteerder bekijken](conversion-metric-view-tracked.md)
+>* [De weergavenaam wijzigen voor een metrische omzetting](conversion-metric-edit-display-name.md)

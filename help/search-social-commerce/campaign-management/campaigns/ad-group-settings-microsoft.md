@@ -1,16 +1,16 @@
 ---
-title: '[!DNL Microsoft® Advertising] ad group settings'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] ad groepen.
+title: '[!DNL Microsoft Advertising] ad group settings'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] ad groepen.
 exl-id: 5d788e5b-ddf3-4f4e-8e8d-98e3235cb187
 feature: Search Campaign Management
-source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '651'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] groepsinstellingen toevoegen
+# [!DNL Microsoft Advertising] groepsinstellingen toevoegen
 
 ## [!UICONTROL Adgroup Details]
 
@@ -32,9 +32,9 @@ ht-degree: 0%
 
 **[!UICONTROL Networks]:** (Zoekadvertenties) Hoe en waar u advertenties in de advertentiegroep plaatst:
 
-* *[!UICONTROL Only Microsoft® Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
+* *[!UICONTROL Only Microsoft Advertising and Yahoo! websites]* (de standaardinstelling): Biedingen voor advertenties plaatsen op het zoeknetwerk.
 
-* *[!UICONTROL Only Microsoft® Advertising and Yahoo! syndicated search partners]:* Biedt voor advertenties op gesynchroniseerde partnersites.
+* *[!UICONTROL Only Microsoft Advertising and Yahoo! syndicated search partners]:* Biedt voor advertenties op gesynchroniseerde partnersites.
 
 * *[!UICONTROL Content network]:* Vervangen
 
@@ -58,7 +58,7 @@ ht-degree: 0%
 
 {{$include /help/_includes/location-targets.md}}
 
-Voor [!DNL Microsoft® Advertising] en groepen in het publieksnetwerk, biodmodifiers voor plaatsdoelstellingen worden niet geoptimaliseerd in standaardportefeuilles met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
+Voor [!DNL Microsoft Advertising] en groepen in het publieksnetwerk, biodmodifiers voor plaatsdoelstellingen worden niet geoptimaliseerd in standaardportefeuilles met &quot;[!UICONTROL Auto-optimize Bid Adjustment Values]&quot; instellen.
 
 **[!UICONTROL Genre]:** (Groepen toevoegen in [!UICONTROL Audience CTV Video] campagnes; beschikbaar in de V.S., CA, BR, MX, UK, DE, ES, FR, IT, AU, MY en TH<!-- Should that go in the campaign sub-type description instead, or is this applicable for this feature only? -->) De doelgenres, die de shows en kanalen bepalen waarop uw advertenties verschijnen:
 
@@ -130,7 +130,7 @@ De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en h
 
 **[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Voor informatie over beschikbaarheid, zie [!DNL Microsoft® Advertising] Help bij &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
+Voor informatie over beschikbaarheid, zie [!DNL Microsoft Advertising] Help bij &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 >[!MORELIKETHIS]
 >

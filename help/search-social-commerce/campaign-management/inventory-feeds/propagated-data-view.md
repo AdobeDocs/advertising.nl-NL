@@ -1,9 +1,9 @@
 ---
 title: Gegevens weergeven die zijn gegenereerd uit feeds
 description: Leer hoe u gegevens kunt bekijken die zijn gegenereerd uit de invoer van inventarisgegevens.
-exl-id: 961155ac-a9d3-42e4-904b-b968e9f3383b
+exl-id: ee48f0f1-65fb-4d27-8f59-0108835d70e5
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gegevens weergeven die zijn gegenereerd uit feeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertentienetwerk te posten, kunt u voorproef de gegevens op één van de volgende manieren. U kunt later desgewenst [postgegevens](propagated-data-post.md) van beide locaties naar de relevante advertentienetwerken.
 

@@ -1,9 +1,9 @@
 ---
 title: Bestanden voor de invoer van voorraadgegevens beheren
 description: Leer hoe te om de montages te vormen die controleren hoe de voedergegevens worden verwerkt.
-exl-id: 73d372de-2673-4190-94cf-2f07f4ce2493
+exl-id: 7d19ecc0-c939-4996-b22b-970ce8644b09
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '1242'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Bestanden voor de invoer van voorraadgegevens beheren
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Als u uw eigen feed-gegevens verzendt, moet u bestanden met uw productgegevens uploaden om op dynamische wijze op basis van uw productgegevens een campagnestructuur, advertenties en trefwoorden te maken. U kunt hen dan associëren met ad-netwerk-specifieke advertentiesjablonen en de gegevens door de malplaatjes verwerken, uiteindelijk het posten van de gegevens aan relevante ad netwerken. U kunt meerdere sjablonen aan een feed-bestand koppelen, maar elke sjabloon kan aan slechts één feed-bestand worden gekoppeld.
 
@@ -22,9 +22,9 @@ Als u uw eigen feed-gegevens verzendt, moet u bestanden met uw productgegevens u
 
 U kunt gegevensdoorvoerbestanden op een van de volgende manieren uploaden en verwerken:
 
-* **Automatisch FTP gebruiken:** U kunt bestanden rechtstreeks uploaden naar een FTP-map. De service controleert elke twee uur of er nieuwe bestanden zijn. Nadat u een dossier voor het eerst uploadt, kunt u het met een ad netwerk-specifieke malplaatje associëren. Later worden alle bestanden die u met dezelfde naam uploadt, automatisch aan dezelfde sjabloon gekoppeld. Afhankelijk van hoe u [de instellingen voor de feed-gegevens configureren](feed-settings-manage.md), kan Zoeken, Sociaal, &amp; Handel de voedergegevens automatisch verspreiden door alle toepasselijke malplaatjes en naar keuze de resulterende campagne en advertentiegegevens aan de relevante advertentienetwerken posten.
+* **Automatisch FTP gebruiken:** U kunt bestanden rechtstreeks uploaden naar een FTP-map. De service controleert elke twee uur of er nieuwe bestanden zijn. Nadat u een dossier voor het eerst uploadt, kunt u het met een ad netwerk-specifieke malplaatje associëren. Later worden alle bestanden die u met dezelfde naam uploadt, automatisch aan dezelfde sjabloon gekoppeld. Afhankelijk van hoe u [de instellingen voor de feed-gegevens configureren](feed-settings-manage.md), Search, Social &amp; Commerce kan de voedergegevens automatisch verspreiden via alle toepasselijke sjablonen en eventueel de resulterende campagne en advertentiegegevens naar de relevante advertentienetwerken posten.
 
-  Neem contact op met het Adobe-accountteam als u een FTP-map wilt instellen voor het opslaan en automatisch verwerken van gegevensbestanden.
+  Neem contact op met het accountteam van de Adobe als u een FTP-map wilt instellen voor het opslaan en automatisch verwerken van gegevensbestanden.
 
 * **Handmatige verwerking:** U kunt handmatig [feed-bestanden uploaden](#feed-file-upload) van de [!UICONTROL Advanced] (ACM). Nadat u een feed-bestand aan een of meer ad-netwerkspecifieke bestanden hebt gekoppeld [sjablonen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md), kunt u campagne- en advertentiegegevens genereren door [het verspreiden van de voedergegevens door de malplaatjes](feed-data-propagate.md) volgens de [gegevensinstellingen van feed](feed-settings-manage.md). U kunt naar keuze voorproef de geproduceerde gegevens binnen de meningen van de campagnehiërarchie, een bulksbladdossier voor overzicht produceren, of een bulksbladdossier voor directe post aan het ad netwerk produceren. Als u de gegevens niet onmiddellijk plaatst, kunt u [voorvertonen](propagated-data-view.md) en [plaatsen](propagated-data-post.md) later. U kunt [het bestaande feed-bestand vervangen door een nieuw bestand](#feed-file-replace) zonder bestaande sjabloonkoppelingen te verliezen.
 
@@ -109,7 +109,7 @@ Raadpleeg de online Help van uw browser voor meer informatie.
 
 1. Geef het te uploaden bestand op door het volledige pad en de bestandsnaam in te voeren of door te klikken op **[!UICONTROL Browse]** om het bestand op uw apparaat of netwerk te zoeken.
 
-1. Klik op **[!UICONTROL Upload].
+1. Klikken **[!UICONTROL Upload].
 
 Alle velden in het bestand worden gevalideerd. Items met een ongeldige veldlengte kunt u later pas posten nadat u de waarden hebt gecorrigeerd. Alle kolomnamen in het bestand worden beschikbaar in sjablonen als dynamische parameters.
 

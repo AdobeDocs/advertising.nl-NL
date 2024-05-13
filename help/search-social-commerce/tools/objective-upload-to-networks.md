@@ -1,9 +1,9 @@
 ---
 title: Uploaden van doelstellingen naar en netwerken inschakelen
-description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft® Advertising].
+description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising].
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Uploaden van doelstellingen naar en netwerken inschakelen
 
-*Adverteerders met [!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen accounts*
+*Adverteerders met [!DNL Google Ads] en [!DNL Microsoft Advertising] alleen accounts*
 
 *Adverteerders alleen ingeschakeld voor hybride optimalisatie*
 
-Met Zoeken, Sociaal en Commerce kunt u de doelstellingen voor de portfolio&#39;s van een advertentieaccount uploaden naar [!DNL Google Ads] en [!DNL Microsoft® Advertising] zodat kunt u ze gebruiken voor hybride optimalisatie. De geüploade doelstellingen zijn beschikbaar als conversieacties voor aangepaste conversiedoelstellingen op accountniveau en op campagnereniveau.
+Met Zoeken, Sociaal en Commerce kunt u de doelstellingen voor de portfolio&#39;s van een advertentieaccount uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising] zodat kunt u ze gebruiken voor hybride optimalisatie. De geüploade doelstellingen zijn beschikbaar als conversieacties voor aangepaste conversiedoelstellingen op accountniveau en op campagnereniveau.
 
 Als u deze optie inschakelt, wordt er automatisch een upload uitgevoerd naar doelstellingen in portfolio&#39;s die campagnes met slimme biedstrategieën bevatten. Met Zoeken, Sociaal en Commerce maakt u een conversie op het advertentienetwerk voor elke toepasselijke doelstelling. De conversie vertegenwoordigt alle gewogen conversiemetriek in het doel. Elke conversie heeft een van de volgende namen:
 
@@ -30,7 +30,7 @@ Als u deze optie inschakelt, wordt er automatisch een upload uitgevoerd naar doe
 
   Uw accountteam van de Adobe werkt met u samen om uw bestaande namen van conversieacties binnen het advertentienetwerk te migreren voordat de oude indeling wordt vervangen. Tijdens de migratieperiode worden zowel de oude als de nieuwe uploads parallel uitgevoerd. Modellering en optimalisatie worden niet beïnvloed omdat de nieuwe omzettingsacties aanvankelijk met &quot;secundaire&quot; (niet geoptimaliseerde) status en met 90 dagen backfill gegevens verschijnen.
 
-Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone van de adverteerder. Uploads naar [!DNL Microsoft® Advertising] komt dagelijks om 9.00 uur voor in de tijdzone van de adverteerder.
+Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone van de adverteerder. Uploads naar [!DNL Microsoft Advertising] komt dagelijks om 9.00 uur voor in de tijdzone van de adverteerder.
 
 >[!IMPORTANT]
 >

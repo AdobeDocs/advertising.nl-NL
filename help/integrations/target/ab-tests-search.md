@@ -1,21 +1,21 @@
 ---
-title: A/B-tests configureren voor Adobe Advertising Search, Social & Commerce Ads in Adobe Target
-description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw [!DNL Google Ads] en [!DNL Microsoft® Advertising] advertenties in Zoeken, Sociale Zaken en Handel.
+title: A/B-tests configureren voor Adobe Advertising zoeken, sociale hulpmiddelen en Commerce-advertenties in Adobe Target
+description: Leer hoe u een A/B-test instelt in [!DNL Target] voor uw [!DNL Google Ads] en [!DNL Microsoft Advertising] advertenties in Zoeken, Sociaal en Commerce.
 exl-id: 564c7d61-beec-40cf-ac68-83d1e87e3008
-source-git-commit: b94541bf8675d535b2f19b26c05235eb56bc6c0b
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '873'
 ht-degree: 0%
 
 ---
 
-# A/B-tests configureren in Adobe Target voor advertenties, zoek-, sociale en commerciële advertenties
+# A/B-tests configureren in Adobe Target voor zoek-, sociale en Commerce-advertenties
 
-*Adverteerders met alleen reclame, sociale zaken en handel*
+*Adverteerders met alleen Zoeken op advertenties, Sociaal en Commerce*
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen accounts*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
-Adobe Advertising en Adobe Target maken het gemakkelijk om landingspagina-ervaring A/B tests voor digitaal reclameverkeer op te zetten [!DNL Google Ads] en [!DNL Microsoft® Advertising] tot:
+Adobe Advertising en Adobe Target maken het gemakkelijk om landingspagina-ervaring A/B tests voor digitaal reclameverkeer op te zetten [!DNL Google Ads] en [!DNL Microsoft Advertising] tot:
 
 * Verbeteren van de omrekeningskoersen (CVR) en de maatregelen ter verbetering van de efficiëntie bij aankopen (zoals CPA, CPL en CAC).
 
@@ -23,13 +23,13 @@ Adobe Advertising en Adobe Target maken het gemakkelijk om landingspagina-ervari
 
 U kunt ook de native [[!DNL Analytics] voor reclame](/help/integrations/analytics/overview.md) en [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integratie rapporteringsdimensies die in Adobe Analytics zijn geïntegreerd om uw testgegevens te meten en te visualiseren met [!DNL Analytics] metriek en succesgebeurtenissen.
 
-Zie de volgende secties voor de voorwaarden, instructies voor het instellen van A/B-tests in [!DNL Target] voor doorklikverkeer van advertenties in Zoeken, Sociaal, &amp; Handel, en tips voor het meten en visualiseren van uw tests in [!DNL Analytics].
+Zie de volgende secties voor de voorwaarden, instructies voor het instellen van A/B-tests in [!DNL Target] voor doorklikverkeer van advertenties in Zoeken, Sociaal, &amp; Commerce en tips voor het meten en visualiseren van uw tests in [!DNL Analytics].
 
 ## Vereisten
 
 ### Vereiste producten
 
-* Zoeken, sociale zaken en handel
+* Zoeken, sociaal en Commerce
 * [!DNL Target]
 
 ### Aanbevolen producten en integratie
@@ -42,7 +42,7 @@ Zie de volgende secties voor de voorwaarden, instructies voor het instellen van 
 
 ## Stap 1: Een testactiviteit A/B maken in [!DNL Target] for Search, Social &amp; Commerce
 
-In de volgende instructies wordt informatie over de Gebruikszaak Zoeken, Sociale zaken en Handel gemarkeerd.
+In de volgende instructies wordt informatie over het gebruik van de optie Zoeken, Sociaal en Commerce gemarkeerd.
 
 1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
 
@@ -59,13 +59,13 @@ In de volgende instructies wordt informatie over de Gebruikszaak Zoeken, Sociale
    1. Stel de **[!UICONTROL Priority]** tot `High` of `999` om conflicten te voorkomen wanneer gebruikers in het testsegment een onjuiste ervaring op locatie ontvangen.
 
 
-   1. Within **[!UICONTROL Reporting Settings]**, selecteert u de **[!UICONTROL Company Name]** en **[!UICONTROL Report Suite]** verbonden met uw account voor Zoeken, Sociale Zaken en Handel.
+   1. Within **[!UICONTROL Reporting Settings]**, selecteert u de **[!UICONTROL Company Name]** en **[!UICONTROL Report Suite]** verbonden met uw account voor Zoeken, Sociaal en Commerce.
 
       Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html).&quot;
 
    1. In de **[!UICONTROL Date Range]** Voer de juiste begin- en einddatum voor de test in.
 
-   1. Selecteren **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]**. In de **[!UICONTROL Value]** veld, voert u de [!UICONTROL Network Account ID], [!UICONTROL Network Campaign ID], [!UICONTROL Network Adgroup ID], of [!UICONTROL Network Ad ID] voor de relevante netwerkentiteit in Search, Social, &amp; Commerce. Hierdoor kunt u de [!DNL Target] de parameters van het vraagkoord voor klik-door publiek voor de entiteit.
+   1. Selecteren **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]**. In de **[!UICONTROL Value]** veld, voert u de [!UICONTROL Network Account ID], [!UICONTROL Network Campaign ID], [!UICONTROL Network Adgroup ID], of [!UICONTROL Network Ad ID] voor de relevante advertentienetwerkentiteit in Search, Social, &amp; Commerce. Hierdoor kunt u de [!DNL Target] de parameters van het vraagkoord voor klik-door publiek voor de entiteit.
 
       U kunt de id vinden op [toevoegen van de desbetreffende kolom Id aan de entiteitsweergave](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
 
@@ -134,7 +134,7 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 ## Verdere lezing
 
 * [Doel integreren met analyse](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Verklaart hoe te opstelling [!DNL Target] rapporteren in Analysis Workspace.
-* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met Onderzoek, Sociale, &amp; de advertenties van de Handel kunt gebruiken.
+* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met Onderzoek, Sociale, &amp; advertenties van Commerce kunt gebruiken.
 * [Overzicht van analytische gegevens voor reclame](/help/integrations/analytics/overview.md) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
 
 >[!MORELIKETHIS]

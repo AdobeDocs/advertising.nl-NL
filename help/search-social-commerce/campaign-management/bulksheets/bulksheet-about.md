@@ -1,11 +1,11 @@
 ---
 title: Campagnegegevens beheren met behulp van bulksbladen
 description: Meer informatie over de functionaliteit van bulksheet die beschikbaar is in het advertentienetwerk, de werkstroom van het bulksblad en foutafhandeling.
-exl-id: 207cc08b-8650-4243-b9fd-1c920b81c1f9
+exl-id: 34a16ee3-9eba-4b8b-a5ca-65318f4ee6c5
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '772'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ Een bulksheet is een bestand dat campagnegegevens in een specifieke indeling bev
 
 U kunt opsommingstekens genereren met zoveel gegevens als u wilt, of u kunt deze desgewenst handmatig maken en uploaden (zie het hoofdstuk over &quot;Vereiste/Opgenomen gegevens in bulksbladen&quot;).
 
-Wanneer u een werkblad hebt gemaakt, kunt u eventuele gebroken bestemmingspagina&#39;s identificeren die moeten worden gecorrigeerd, of aanvullende gegevens die moeten worden toegevoegd of bewerkt. U kunt het dossier dan uitgeven en het uploaden aan Onderzoek, Sociale, &amp; Handel, naar keuze plannend het om aan het relevante advertentienetwerk onmiddellijk of later worden gepost. U kunt ook direct of later een beschikbaar bulksblad plaatsen.
+Wanneer u een werkblad hebt gemaakt, kunt u eventuele gebroken bestemmingspagina&#39;s identificeren die moeten worden gecorrigeerd, of aanvullende gegevens die moeten worden toegevoegd of bewerkt. U kunt het bestand vervolgens bewerken en uploaden naar Zoeken, Sociaal zoeken en Commerce. U kunt desgewenst plannen dat het bestand direct of later naar het relevante advertentienetwerk wordt gepost. U kunt ook direct of later een beschikbaar bulksblad plaatsen.
 
 U kunt optioneel bulkbladbestanden uploaden naar een opgegeven FTP-account voor opvragen en automatisch posten. De directory wordt elk uur gescand en nieuwe bestanden worden naar het zoeknetwerk gepost in de volgorde waarin ze zijn ontvangen.
 
@@ -24,11 +24,11 @@ Alle bulksbladen, bestanden met validatiefouten van de landingspagina en andere 
 
 ## Functionaliteit per ad-netwerk
 
-* **Downloaden, uploaden en posten:**  [!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft® Advertising], en [!DNL Yandex] rekeningen
+* **Downloaden, uploaden en posten:**  [!DNL Baidu], [!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yandex] rekeningen
 
 * **Alleen downloaden en uploaden:** [!DNL Naver] rekeningen
 
-  U kunt uploaden [!DNL Naver] gegevens voor gebruik binnen Onderzoek, Sociale, &amp; Handel maar kan het niet aan het advertentienetwerk posten. U kunt ook de bestaande (niet-gesynchroniseerde) gegevens downloaden.
+  U kunt uploaden [!DNL Naver] gegevens voor gebruik binnen Zoeken, Sociaal, &amp; Commerce maar kan het niet aan het advertentienetwerk posten. U kunt ook de bestaande (niet-gesynchroniseerde) gegevens downloaden.
 
 * **Alleen gegevens downloaden:**  [!DNL Pinterest], [!DNL Yahoo Native], en [!DNL Yahoo! Display Network] rekeningen
 
@@ -48,9 +48,9 @@ De standaardstappen voor het gebruik van bulksbladen voor gesynchroniseerde acco
 
 1. Wanneer u gegevens moet toevoegen of correcties moet aanbrengen:
 
-   1. [Het bestand exporteren](bulksheet-export.md) naar uw bureaublad en bewerk het in [!DNL Microsoft® Excel].
+   1. [Het bestand exporteren](bulksheet-export.md) naar uw bureaublad en bewerk het in [!DNL Microsoft Excel].
 
-   1. [Het bewerkte bestand handmatig uploaden](bulksheet-upload.md) om te zoeken, sociale zaken en handel, of [het bestand uploaden naar een opgegeven FTP-account](bulksheet-ftp-account.md) voor automatisch posten.
+   1. [Het bewerkte bestand handmatig uploaden](bulksheet-upload.md) om te zoeken, sociale zaken en Commerce, of [het bestand uploaden naar een opgegeven FTP-account](bulksheet-ftp-account.md) voor automatisch posten.
 
 1. (Voor bestanden die handmatig worden geüpload) [Het bestand verzenden](bulksheet-post.md) naar het advertentienetwerk wanneer u het uploadt of later.
 
@@ -58,7 +58,7 @@ De standaardstappen voor het gebruik van bulksbladen voor gesynchroniseerde acco
 
 ## Fouten beheren bij het uploaden en posten van campagnegegevens
 
-Met Zoeken, Sociaal zoeken en Handel uploadt en plaatst u zoveel rijen gegevens als u kunt op een bulkblad voor de campagne, inclusief de URL&#39;s die zo nodig worden gegenereerd.
+Met Zoeken, Sociaal zoeken en Commerce uploadt en plaatst u zoveel rijen gegevens als u maar kunt op een bulkpagina voor campagnes, inclusief de URL&#39;s die worden gegenereerd wanneer dat nodig is.
 
 Wanneer er fouten optreden tijdens het bewerken van een werkblad, wordt een van de volgende twee typen foutbestanden gegenereerd:
 

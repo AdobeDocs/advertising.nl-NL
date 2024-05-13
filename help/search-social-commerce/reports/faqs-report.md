@@ -3,7 +3,7 @@ title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 1232efce-25eb-48d8-a3fb-f57711fa14e5
 feature: Search Reports
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '3922'
 ht-degree: 0%
@@ -326,17 +326,17 @@ Wanneer u beide rapporten genereert op portfolio, zijn de gegevens anders als u 
 +++De output van het Rapport omvat een mengeling van datumwaaiers.
 U kunt verschillende datumbereiken zien als de feed gegevens aggregeert met een ander niveau van gegevensaggregatie dan &quot;[!UICONTROL Daily].&quot;
 
-Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u dagelijks geaggregeerde gegevens in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Microsoft® Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Zie voor meer informatie &quot;[Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
+Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u dagelijks geaggregeerde gegevens in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Microsoft Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Zie voor meer informatie &quot;[Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
 +++
 
 +++A-spreadsheetfeed resulteert in een interne fout.
-Deze fout kan voorkomen als u de kolommen in het rapportmalplaatje verandert maar niet bijwerkt [!DNL Microsoft® Excel] dienovereenkomstig template.
+Deze fout kan voorkomen als u de kolommen in het rapportmalplaatje verandert maar niet bijwerkt [!DNL Microsoft Excel] dienovereenkomstig template.
 
 Als u het probleem wilt verhelpen, werkt u de spreadsheetfeed bij en voegt u de nieuwe kolommen in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Zie voor meer informatie &quot;[Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
 +++
 
 +++Wanneer ik een spreadsheetfeed probeer te openen in [!DNL Excel], [!DNL Excel] meldt een fout met betrekking tot &quot;onleesbare inhoud&quot; en er worden gegevens uit de herstelde inhoud verwijderd.
-Wanneer de [!DNL Microsoft® Excel] de sjabloon sorteert gegevens niet op begindatum in oplopende volgorde, de spreadsheetfeed kan lege rijen bevatten. Met name: [!DNL Excel] meldt de fout &quot;Excel found unreadable content in &#39;&lt;*rapportnaam*>.xlsx.&#39; Wilt u de inhoud van het werkboek terugkrijgen? Als u de bron van dit werkboek vertrouwt, klik ja.&quot; Als u &quot;ja klikt,&quot;krijgt u het volgende bericht: &quot;Verwijderd Verslagen: De informatie van de cel van /xl/worksheets/sheet1.xml deel,&quot;en de spreadsheetvoer omvat lege rijen.
+Wanneer de [!DNL Microsoft Excel] de sjabloon sorteert gegevens niet op begindatum in oplopende volgorde, de spreadsheetfeed kan lege rijen bevatten. Met name: [!DNL Excel] meldt de fout &quot;Excel found unreadable content in &#39;&lt;*rapportnaam*>.xlsx.&#39; Wilt u de inhoud van het werkboek terugkrijgen? Als u de bron van dit werkboek vertrouwt, klik ja.&quot; Als u &quot;ja klikt,&quot;krijgt u het volgende bericht: &quot;Verwijderd Verslagen: De informatie van de cel van /xl/worksheets/sheet1.xml deel,&quot;en de spreadsheetvoer omvat lege rijen.
 
 Als u het probleem wilt verhelpen, bewerkt u de [!DNL Excel] sjabloon gekoppeld aan feed om gegevens te sorteren op [!DNL Start date in Ascending (Oldest to Newest) order]en uploadt u de bijgewerkte sjabloon via de instellingen voor spreadsheetfeed. Zie voor meer informatie &quot;[Werkbladrapportfeeds bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md).&quot;
 +++

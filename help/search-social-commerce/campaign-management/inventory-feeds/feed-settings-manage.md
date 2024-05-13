@@ -1,18 +1,18 @@
 ---
 title: Instellingen voor voedergegevens configureren
 description: Leer hoe te om de montages te vormen die controleren hoe de voedergegevens worden verwerkt.
-exl-id: fc72d1bc-aac7-4280-80c6-4fc53a96a49f
+exl-id: 7eaac751-ecdf-4e73-9eae-a961bd9b7360
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '1147'
+source-wordcount: '1155'
 ht-degree: 0%
 
 ---
 
 # Instellingen voor voedergegevens configureren
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden met feed-gegevens worden verwerkt, en hoe de gegevens in FTP-bestanden worden verwerkt, met name via de feed-instellingen.
 
@@ -63,7 +63,7 @@ U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden 
 
 * *[!UICONTROL None]* (de standaardwaarde): wijzig de bestaande componenten niet.
 
-**[!UICONTROL Missing line items in an FTP feed/GMC account]:** Wat te doen met bestaande punten wanneer 1) zij niet inbegrepen a) in een nieuw voederdossier zijn dat aan een folder van FTP of b) in een handelscentrale rekening werd geupload de volgende keer dat Onderzoek, Sociale, &amp; Handel met het synchroniseert, of 2) wanneer zij niet aan bestaande campagnes of ad groepen per [!UICONTROL Map Only] instellingen in de sjabloon.
+**[!UICONTROL Missing line items in an FTP feed/GMC account]:** Wat te doen met bestaande punten wanneer 1) zij niet inbegrepen a) in een nieuw voederdossier zijn dat aan een folder van FTP of b) in een handelscentrum rekening werd geupload de volgende keer dat Onderzoek, Sociale, &amp; Commerce met het synchroniseert, of 2) wanneer zij niet aan bestaande campagnes of advertentiegroepen per [!UICONTROL Map Only] instellingen in de sjabloon.
 
 * *[!UICONTROL Delete]:* Verwijder de bestaande componenten.
 

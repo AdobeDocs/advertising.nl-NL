@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Keyword Daily Impression Share Report]'
 description: Meer informatie over de [!UICONTROL Keyword Daily Impression Share Report].
-exl-id: 177f7c9e-407f-4200-90a6-57b2fd569cf4
+exl-id: 761864db-a6ef-4155-8959-6c2c90f14a6b
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Keyword Daily Impression Share Report]
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] alleen accounts*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
 De [!UICONTROL Keyword Daily Impression Share Report] omvat dagelijkse metriek van het imperiatieaandeel voor elk sleutelwoord, het overeenkomstige overeenkomende gelijketype, en het overeenkomstige apparatentype voor één of meerdere advertentiegroepen of campagnes. Standaard bevatten de gegevens één rij voor elk trefwoord, overeenkomend type en apparaat dat ten minste één indruk heeft gekregen of dat voor elke toepasselijke advertentiegroep voor elke dag in het opgegeven datumbereik klikt. De rijen staan standaard in oplopende volgorde op datum. Het rapport kan naar keuze gegevens omvatten die door worden gevolgd [!DNL Adobe] en afgeleide meetwaarden.
 

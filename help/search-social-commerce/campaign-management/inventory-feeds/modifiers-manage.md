@@ -1,9 +1,9 @@
 ---
 title: Wijzigingsopties beheren
 description: Leer hoe u modifiers voor uw advertentiesjablonen voor de invoer van inventarisgegevens configureert en beheert.
-exl-id: ade1472d-10e3-454e-8095-c579b48cfc01
+exl-id: 74c9a7c7-0979-4f78-9225-43bc6c94acd7
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Wijzigingstoetsen beheren
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Modifiers zijn adjectives of adverbs die kunnen worden toegevoegd aan of verwijderd uit een zin zonder de basisstructuur van de zin te wijzigen. U kunt groepen modifiers tot stand brengen om als variabelen in diverse gegevensgebieden in de malplaatjes van voedergegevens te gebruiken. Door wijzigingstoetsen op te nemen in de velden accountstructuur (campagne en advertentiegroep), trefwoorden, basis-URL&#39;s en advertenties, maakt u één waarde voor elke bijbehorende wijzigingwaarde. Als u bijvoorbeeld een modifier-groepsvariabele in een advertentiecoloptekst gebruikt en de modifier-groep drie wijzigingstoetsen bevat (&quot;goedkoop&quot;, &quot;korting&quot; en &quot;betaalbaar&quot;), worden er drie aparte advertenties gemaakt voor elke gegevensrij in de gegevensinvoer — één voor elke modifier. Als u een wijziginggroep met meerdere waarden opneemt in de basis-URL voor een advertentiegroep, wordt er één set trefwoorden gemaakt voor elk van de resulterende basis-URL&#39;s.
 

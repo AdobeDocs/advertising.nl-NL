@@ -3,7 +3,7 @@ title: Een aangesloten tv-bereikabonnement bewerken
 description: Leer hoe u de instellingen voor een bereik van een verbonden tv kunt bewerken.
 feature: DSP Planner
 exl-id: 675a09d1-9548-416d-bfa6-a6242149b255
-source-git-commit: 8574d76fd322cb1cbc6aaaf316e7ad2f961a9f6c
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Als u de planinstellingen bewerkt, wordt er een nieuwe voorspelling gegenereerd.
 
    Zodra u sparen het plan, de voorspelde output wordt getoond.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft® Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >

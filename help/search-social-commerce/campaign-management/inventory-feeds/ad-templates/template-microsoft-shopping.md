@@ -1,16 +1,16 @@
 ---
-title: '''[!DNL Microsoft® Ads] winkelen en sjablooninstellingen voor voorraadfeeds"'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Ads] winkelen en sjablonen voor voorraadfeeds.
-exl-id: 64d0092a-bd63-48f4-8e15-f5585f7a022a
+title: '''[!DNL Microsoft Ads] winkelen en sjablooninstellingen voor voorraadfeeds"'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Ads] winkelen en sjablonen voor voorraadfeeds.
+exl-id: a0dd6542-0516-406a-b8c5-2e102ec7ab3d
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '498'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Ads] winkelen en sjablooninstellingen voor voorraadfeeds
+# [!DNL Microsoft Ads] winkelen en sjablooninstellingen voor voorraadfeeds
 
 Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
@@ -61,7 +61,7 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 * Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; voer een van de volgende handelingen uit&quot;:
 
-   * (Aanbevolen) Gebruik de [Sjabloonformaat volgen voor Microsoft®-winkelcampagnes](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
+   * (Aanbevolen) Gebruik de [sjabloonindeling voor volgen van Microsoft-winkelcampagnes](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
 
    * Als u in plaats daarvan een waarde voor elk product in de feed opneemt met &quot;[!DNL bingads_redirect]&quot; kolom (met de [juiste indeling](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)), voert u vervolgens de parameter in `{lpurl}`. U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen aan de `{lpurl}` parameter.
 

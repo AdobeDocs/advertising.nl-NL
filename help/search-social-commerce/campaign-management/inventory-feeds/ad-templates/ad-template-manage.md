@@ -3,7 +3,7 @@ title: Advertentiesjablonen beheren voor voorraadfeeds
 description: Meer informatie over het beheren van advertentiesjablonen waarmee je voorraadgegevens kunnen worden verwerkt om de accountstructuur te beheren en dynamische advertenties te leveren.
 exl-id: b0e540cf-8735-4812-9df5-58f488a25ba5
 feature: Search Inventory Feeds
-source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '1423'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Advertentiesjablonen beheren voor voorraadfeeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
-Voor of nadat u gegevens hebt geüpload, kunt u specifieke advertentiesjablonen maken voor de zoekmachine waarmee uw gegevens kunnen worden verwerkt. U kunt sjablonen maken voor tekstadvertenties en uitgebreide/uitgebreide tekstadvertenties. [!DNL Google Ads] en [!DNL Microsoft® Advertising] responsieve zoekopdrachten en voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] winkeladvertenties.
+Voor of nadat u gegevens hebt geüpload, kunt u specifieke advertentiesjablonen maken voor de zoekmachine waarmee uw gegevens kunnen worden verwerkt. U kunt sjablonen maken voor tekstadvertenties en uitgebreide/uitgebreide tekstadvertenties. [!DNL Google Ads] en [!DNL Microsoft Advertising] responsieve zoekopdrachten en voor [!DNL Google Ads] en [!DNL Microsoft Advertising] winkeladvertenties.
 
-U kunt elke sjabloon aan één feed-bestand koppelen. [!DNL Google Merchant Center] rekening, of [!DNL Microsoft® Merchant Center] en u kunt meerdere sjablonen koppelen aan hetzelfde feed-bestand of dezelfde account. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen kunnen de variabelen ook [een wijziginggroep](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) als u in Zoeken, Sociaal en Commerce meerdere advertenties, trefwoorden, campagnes of ad-groepen voor elke toepasselijke rij in het gegevensbestand wilt maken. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
+U kunt elke sjabloon aan één feed-bestand koppelen. [!DNL Google Merchant Center] rekening, of [!DNL Microsoft Merchant Center] en u kunt meerdere sjablonen koppelen aan hetzelfde feed-bestand of dezelfde account. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen kunnen de variabelen ook [een wijziginggroep](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) als u in Zoeken, Sociaal en Commerce meerdere advertenties, trefwoorden, campagnes of ad-groepen voor elke toepasselijke rij in het gegevensbestand wilt maken. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
 
 U kunt optioneel nieuwe sjablonen maken door bestaande sjablonen te klonen en bestaande sjablonen te bewerken.
 
@@ -26,7 +26,7 @@ Elke sjabloon kan worden geactiveerd, gepauzeerd of verwijderd. De gegevens van 
 
 ## Een voedersjabloon maken, klonen of bewerken
 
-Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, responsieve zoekopdrachten, [!DNL Google Ads] winkeladvertenties, en [!DNL Microsoft® Advertising] winkeladvertenties.
+Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, responsieve zoekopdrachten, [!DNL Google Ads] winkeladvertenties, en [!DNL Microsoft Advertising] winkeladvertenties.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Advanced (ACM)]**, die voor de [!UICONTROL Templates] tab.
 
@@ -42,7 +42,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
 
    * (Als u een bestaande sjabloon wilt bewerken) Klik naast de sjabloonnaam op ![Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Instellingen weergeven/bewerken").
 
-1. Geef de instellingen op voor de [tekst en sjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft® Advertising] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
+1. Geef de instellingen op voor de [tekst en sjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft Advertising] winkelsjabloon](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
 
    1. Geef boven aan het venster met sjablooninstellingen de naam van de sjabloon en het toepasselijke account op.
 
@@ -158,5 +158,5 @@ U kunt elke gepauzeerde sjabloon voor gegevensinvoer activeren of een actieve sj
 >* [Informatie over het automatiseren en beheren van voorraden](../inventory-feeds-about.md)
 >* [Tekst en responsieve zoek- en sjablooninstellingen](template-text-rsa.md)
 >* [[!DNL Google Ads] winkelen en sjablooninstellingen](template-google-shopping.md)
->* [[!DNL Microsoft® Advertising] winkelen en sjablooninstellingen](template-microsoft-shopping.md)
+>* [[!DNL Microsoft Advertising] winkelen en sjablooninstellingen](template-microsoft-shopping.md)
 >* [Doorvoergegevens doorgeven via sjablonen](../feed-data-propagate.md)

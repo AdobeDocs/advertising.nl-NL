@@ -3,7 +3,7 @@ title: Tekst en responsieve zoek- en sjablooninstellingen voor voorraadfeeds
 description: Verwijs naar de montages voor tekst en ontvankelijke onderzoek en malplaatjes voor inventarisvoer.
 exl-id: bf57fbb5-b7b0-4bd6-9dd2-def3825a1da6
 feature: Search Inventory Feeds
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '3325'
 ht-degree: 0%
@@ -13,7 +13,7 @@ ht-degree: 0%
 # Tekst en responsieve zoek- en sjablooninstellingen voor voorraadfeeds
 
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] alleen) De parameter gebruiken `!{unescapedurl}` om de URL van de landingspagina aan te geven.
 
@@ -142,7 +142,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 * Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
-* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters die beschikbaar zijn voor Microsoft Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 Deze waarde negeert de instellingen op account- en campagnereniveau, maar het bijhouden van sjablonen op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijft deze waarde.
 
@@ -166,7 +166,7 @@ Deze waarde negeert de instellingen op account- en campagnereniveau, maar het bi
 
 Als u een kolomnaam of wijzigingengroep wilt invoegen als een dynamische parameter, klikt u in het invoerveld en vervolgens op een kolomnaam in de kolomlijst of een [wijzigingnaam](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de lijst Modifiers. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis voor het overeenkomende type met trefwoorden rond de kolomnaam om het overeenkomende type op te geven:
 
-* Voor [!DNL Google Ads], [!DNL Microsoft® Advertising], en [!DNL Yahoo! Japan Ads] sjablonen:
+* Voor [!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yahoo! Japan Ads] sjablonen:
 
    * Voor dynamische parameters: brede overeenkomst = `[keyword]`, Brede matchmodifier voor de eerste term in de [!UICONTROL Keyword] kolom (bijvoorbeeld +blue suede schoenen) = `+[keyword]`, Brede overeenkomst Modifier voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`, Phrase Match = `"[keyword]"`, Exacte overeenkomst = `[[keyword]]`
 
@@ -206,7 +206,7 @@ Als u een [!DNL Google Merchant Center] Geef deze waarde op in het veld &quot;[!
 
 * De URL van de landingspagina aangeven:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft® Advertising] alleen) [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] alleen) Voor een lijst met parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u ([!DNL Microsoft Advertising] alleen) [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] alleen) de &quot;Volgsjabloon alleen&quot;-parameters in de sectie &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] alleen) De parameter gebruiken `!{lpurl}` om de URL van de landingspagina aan te geven.
 
@@ -234,15 +234,15 @@ De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen a
 
    * Twee getallen kunnen worden ingesloten met een slash. 4/1 en 0.95/0.45 zijn bijvoorbeeld geldig.
 
-**[!UICONTROL Param 2]\[[!DNL Microsoft® Advertising] sjablonen\]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param2}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u de titel gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
+**[!UICONTROL Param 2]\[[!DNL Microsoft Advertising] sjablonen\]:** ([!DNL Microsoft Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param2}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u de titel gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
-**[!UICONTROL Param 3]:** ([!DNL Microsoft® Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param3}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u de titel gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
+**[!UICONTROL Param 3]:** ([!DNL Microsoft Advertising] (alleen sjablonen) De tekenreeks die als vervangingswaarde in een advertentie moet worden gebruikt als de titel, tekst, weergave-URL of laatste URL de waarde `{Param3}` dynamische vervangingsreeks. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u de titel gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
 **[!UICONTROL Initial Bid (<Match Type or Ad Type>)]:** Het eerste bod voor elk trefwoord met het opgegeven overeenkomende type of advertentietype.
 
 ## [!UICONTROL Ads]
 
-**[!UICONTROL Ad Type]:** ([!DNL Google Ads] en [!DNL Microsoft® Advertising] (alleen campagnes) Het type advertenties: *[!UICONTROL Expanded Search Ads]* of *[!UICONTROL Responsive Search Ads]*.
+**[!UICONTROL Ad Type]:** ([!DNL Google Ads] en [!DNL Microsoft Advertising] (alleen campagnes) Het type advertenties: *[!UICONTROL Expanded Search Ads]* of *[!UICONTROL Responsive Search Ads]*.
 
 **[!UICONTROL Prefill]:** (Optioneel) Hiermee worden alle alternatieve velden en kopieervelden vooraf gevuld met tekst uit de oorspronkelijke velden en de oorspronkelijke velden.
 
@@ -258,7 +258,7 @@ Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere t
 
 {{inventory-feed-template-insert-ad-customizer}}
 
-**[!UICONTROL Ad Title]:** (Bestaande Microsoft® Advertising Standard text ads only; read-only) De titel, of eerste regel, van een advertentie. Microsoft® Advertising heeft het maken en bewerken van standaard tekstadvertenties vervangen.
+**[!UICONTROL Ad Title]:** (Alleen bestaande Microsoft Advertising Standard Text Advertence; alleen-lezen) De titel, of eerste regel, van een advertentie. In Microsoft Advertising is het maken en bewerken van standaardtekstadvertenties vervangen.
 
 **[!UICONTROL Headline 1]**, **[!UICONTROL Headline 2]:** ([!DNL Google Ads] en [!DNL Yahoo! Japan Ads] (alleen uitgevouwen/uitgebreide tekst en sjablonen) De kop van een advertentie. De maximumlengte voor elke regel (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
 
@@ -270,13 +270,13 @@ Voor elke positie moet ten minste één titel beschikbaar zijn. Als u meerdere t
 
 **[!UICONTROL Title]:** ([!DNL Yandex] alleen) De titel, of eerste regel, van een advertentie. Het maximum aantal tekens is 33.
 
-**[!UICONTROL Title Part 1]**, **[!UICONTROL Title Part 2]:** (Alleen advertenties in Microsoft® Advertising Uitgebreide text) De kop van een advertentie. De maximumlengte voor elke regel (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
+**[!UICONTROL Title Part 1]**, **[!UICONTROL Title Part 2]:** (Alleen voor advertenties in Microsoft voor uitgevouwen tekstadvertenties) De kop van een advertentie. De maximumlengte voor elke regel (nadat dynamische parameters zijn vervangen) is 30 tekens of 15 double-byte tekens.
 
 <!-- using a snippet for the note instead of an include because this is used multiple times on the page, which ExL doesn't support for includes -->
 
 {{inventory-feed-template-insert-dynamic-parameter}}
 
-**[!UICONTROL Ad Text]:** (Alleen advertenties in Microsoft® Advertising Uitgebreide text) De hoofdtekst van een advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 80 tekens of 40 double-byte tekens (zoals Chinees, Japans en Koreaans).
+**[!UICONTROL Ad Text]:** (Microsoft Advertising extended text ads only) De hoofdtekst van een advertentie. De maximumlengte (nadat dynamische parameters zijn vervangen) is 80 tekens of 40 double-byte tekens (zoals Chinees, Japans en Koreaans).
 
 ### [!UICONTROL Descriptions]
 
@@ -312,11 +312,11 @@ Voor responsieve zoekadvertenties voegt u een advertentieklanker in met de volge
 
 * [!DNL Google Ads]: `{CUSTOMIZER.AdCustomizerName:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`
 
-* [!DNL Microsoft® Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`
+* [!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}`, zoals `{CUSTOMIZER.Discount:10%}`
 
-**[!UICONTROL Display URL]:** (Bestaande [!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] alleen standaardtekstadvertenties; alleen-lezen) De URL die in een advertentie wordt weergegeven.
+**[!UICONTROL Display URL]:** (Bestaande [!DNL Microsoft Advertising] en [!DNL Yahoo! Japan Ads] alleen standaardtekstadvertenties; alleen-lezen) De URL die in een advertentie wordt weergegeven.
 
-[!DNL Microsoft® Advertising] en [!DNL Yahoo! Japan Ads] hebben het maken en bewerken van standaardtekstadvertenties vervangen.
+[!DNL Microsoft Advertising] en [!DNL Yahoo! Japan Ads] hebben het maken en bewerken van standaardtekstadvertenties vervangen.
 
 **[!UICONTROL Base URL]:** (Accounts with destination URLs only) The page to which users are take. Het kan herrichtings- en volgcode van derden bevatten. Als u de service voor het bijhouden van Adoben Advertising voor conversie gebruikt en de instellingen voor de campagne het gebruik van de opdracht [!UICONTROL EF Redirect] en het volgen op advertentieniveau toevoegen, dan Onderzoek, Sociale, &amp; Commerce voegt automatisch zijn eigen redirection en het volgen code aan de advertentie toe.
 
@@ -339,7 +339,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 * Voor Yahoo! Japan Adds-accounts, parameter gebruiken {lpurl}.
 
-* Voor parameters die beschikbaar zijn voor Microsoft® Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters die beschikbaar zijn voor Microsoft Advertising- en Google Ads-accounts raadpleegt u de [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799) of de parameters van het &quot;Volgsjabloon slechts&quot;in de sectie over &quot;Beschikbaar [!DNL ValueTrack] Parameters&quot; in de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternatieve advertentievelden onder de oorspronkelijke advertentievelden\]:** (Optioneel) Een alternatieve set advertentiekopieën voor een advertentie, die kan worden gebruikt als een van de regels in het origineel en de kopie de maximaal toegestane lengte overschrijdt zodra dynamische parameters zijn ingevuld met gegevens tijdens de propagatie.
 

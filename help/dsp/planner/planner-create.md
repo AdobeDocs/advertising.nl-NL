@@ -3,7 +3,7 @@ title: Een aangesloten tv-bereikplan maken
 description: Leer hoe u een bereik-abonnement voor verbonden tv maakt.
 feature: DSP Planner
 exl-id: 88b1fb23-f856-44ed-a955-844a329efb98
-source-git-commit: 8574d76fd322cb1cbc6aaaf316e7ad2f961a9f6c
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    Zodra u sparen het plan, de voorspelde output wordt getoond.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft® Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >

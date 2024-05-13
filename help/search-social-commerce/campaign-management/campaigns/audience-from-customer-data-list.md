@@ -1,34 +1,34 @@
 ---
 title: Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens
-description: Leer maken en bewerken [!DNL Google Ads] en [!DNL Microsoft® Advertising] klant past publiek van uw lijsten van klantengegevens aan.
+description: Leer maken en bewerken [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek van uw lijsten van klantengegevens aan.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
-source-git-commit: e8eabf7e4aa7c9201cd8198aae32d325b2858f2b
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '842'
 ht-degree: 0%
 
 ---
 
-# Beheren [!DNL Google Ads] en [!DNL Microsoft® Advertising] klant past publiek aan gebruikend de lijsten van klantengegevens
+# Beheren [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek aan gebruikend de lijsten van klantengegevens
 
-U kunt [!DNL Google Ads] en [!DNL Microsoft® Advertising] klant past publiek van uw lijsten van klantengegevens aan. U kunt ook [!DNL Google Ads] of [!DNL Microsoft® Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek.
+U kunt [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek van uw lijsten van klantengegevens aan. U kunt ook [!DNL Google Ads] of [!DNL Microsoft Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek.
 
 ## Creeer een publiek van de klantengelijke van een lijst van klantengegevens
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] accounts die alleen in aanmerking komen voor overeenkomst met klanten*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] accounts die alleen in aanmerking komen voor overeenkomst met klanten*
 
-U kunt een [!DNL Google Ads] of [!DNL Microsoft® Advertising] op gegevens-gebaseerde lijst van de klant van een gegevensdossier dat u van uw systeem van het beheer van de klantenverhouding (CRM) produceert.
+U kunt een [!DNL Google Ads] of [!DNL Microsoft Advertising] op gegevens-gebaseerde lijst van de klant van een gegevensdossier dat u van uw systeem van het beheer van de klantenverhouding (CRM) produceert.
 
-Voor [!DNL Microsoft® Advertising] -accounts, kan het bestand e-mailadressen bevatten. Voor [!DNL Google Ads] Het bestand kan e-mailadressen, e-mailadressen of telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s van uw CRM bevatten.
+Voor [!DNL Microsoft Advertising] -accounts, kan het bestand e-mailadressen bevatten. Voor [!DNL Google Ads] Het bestand kan e-mailadressen, e-mailadressen of telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s van uw CRM bevatten.
 
 >[!NOTE]
 >
->Met Zoeken, Sociaal en Handel worden geen klantgegevens opgeslagen die u uploadt of via de [!DNL Adobe] segmenten die worden gebruikt voor het maken of bewerken van een [!DNL Google Ads] of [!DNL Microsoft® Advertising] publiek.
+>Met Zoeken, Sociaal en Commerce worden de klantgegevens die u uploadt, niet opgeslagen via de [!DNL Adobe] segmenten die worden gebruikt voor het maken of bewerken van een [!DNL Google Ads] of [!DNL Microsoft Advertising] publiek.
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling.
 
-   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft® Advertising] publiek, zie [!DNL Microsoft® Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft® Excel] sjabloon voor contactgegevens.
+   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft Advertising] publiek, zie [!DNL Microsoft Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] sjabloon voor contactgegevens.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]**.
 
@@ -85,13 +85,13 @@ Voor [!DNL Microsoft® Advertising] -accounts, kan het bestand e-mailadressen be
 
 ## Een publiek van de Aanpassing van de Klant uitgeven die een Lijst van de Gegevens van de Klant gebruikt
 
-U kunt elke [!DNL Google Ads] of [!DNL Microsoft® Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek. U kunt gegevens uploaden om toe te voegen, te schrappen, of alle bestaande gegevens voor het publiek te vervangen.
+U kunt elke [!DNL Google Ads] of [!DNL Microsoft Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek. U kunt gegevens uploaden om toe te voegen, te schrappen, of alle bestaande gegevens voor het publiek te vervangen.
 
 De gegevens moeten van hetzelfde type zijn als de oorspronkelijke lijst met klanten (e-mailadressen, e-mailadressen, telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s voor een specifieke toepassing op een specifiek mobiel besturingssysteem).
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling voor het bestaande gegevenstype.
 
-Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft® Advertising] publiek, zie [!DNL Microsoft® Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft® Excel] sjabloon voor contactgegevens.
+Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft Advertising] publiek, zie [!DNL Microsoft Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] sjabloon voor contactgegevens.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]**.
 

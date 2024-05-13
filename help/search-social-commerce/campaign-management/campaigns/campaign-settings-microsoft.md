@@ -1,16 +1,16 @@
 ---
-title: '[!DNL Microsoft® Advertising] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Microsoft® Advertising] campagnes.
+title: '[!DNL Microsoft Advertising] campagne-instellingen'
+description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '1966'
 ht-degree: 0%
 
 ---
 
-# [!DNL Microsoft® Advertising] campagne-instellingen
+# [!DNL Microsoft Advertising] campagne-instellingen
 
 ## \[Scherm Campagne maken\]
 
@@ -18,19 +18,19 @@ ht-degree: 0%
 
 * *[!UICONTROL Search]:* Geeft tekstadvertenties weer op het zoeknetwerk.
 
-* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer — voor uw producten in uw [!DNL Microsoft® Merchant Center] productcatalogus — op het winkelnetwerk.
+* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer — voor uw producten in uw [!DNL Microsoft Merchant Center] productcatalogus — op het winkelnetwerk.
 
-* *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft® Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
+* *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
 
-* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta eigenschap) bevordert uw producten door verbonden detailhandelaren over het onderzoek en publieksnetwerken. U kunt onderliggende en productgroepen en productgroepen maken (apps die u wilt promoten) en optionele productadvertenties voor de campagne maken. [!DNL Microsoft® Advertising] maakt automatisch advertenties voor de productgroepen. Gebruik de biedstrategie voor winkelcampagnes voor merken [!UICONTROL Manual CPC]; gebruik de biedstrategie voor het winkelen van merken [!UICONTROL Cost per Sale].
+* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta eigenschap) bevordert uw producten door verbonden detailhandelaren over het onderzoek en publieksnetwerken. U kunt onderliggende en productgroepen en productgroepen maken (apps die u wilt promoten) en optionele productadvertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen. Gebruik de biedstrategie voor winkelcampagnes voor merken [!UICONTROL Manual CPC]; gebruik de biedstrategie voor het winkelen van merken [!UICONTROL Cost per Sale].
 
-* *[!UICONTROL Microsoft® Store Ads Campaign]:* (Beta-functie) Hiermee promoot u uw apps en games die beschikbaar zijn in de [!DNL Microsoft® Store]. U kunt onderliggende en optionele productgroepen, productgroepen en advertenties voor de campagne maken. [!DNL Microsoft® Advertising] maakt automatisch advertenties voor de productgroepen.
+* *[!UICONTROL Microsoft Store Ads Campaign]:* (Beta-functie) Hiermee promoot u uw apps en games die beschikbaar zijn in de [!DNL Microsoft Store]. U kunt onderliggende en optionele productgroepen, productgroepen en advertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen.
 
 * *[!UICONTROL Audience CTV Video]:* (Bètafunctie) Hiermee kunt u aangesloten tv-videobanden (CTV) weergeven op het publieksnetwerk.
 
 * *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont standaardvideoadvertenties op het publieksnetwerk.
 
-* *[!UICONTROL Performance Max]:* (De eigenschap van Bèta) toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft® Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
+* *[!UICONTROL Performance Max]:* (De eigenschap van Bèta) toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
 
 ## [!UICONTROL Campaign Details]
 
@@ -68,11 +68,11 @@ ht-degree: 0%
 
   Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Zoeken, Sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling.
 
-* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft® Store Ads] campagnes; vervangen door [!DNL Microsoft® Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
+* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft Store Ads] campagnes; vervangen door [!DNL Microsoft Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
 
    * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): deze optie is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;.
 
-* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft® Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
+* *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
 
 * *[!UICONTROL Manual CPM]* (De campagnes van het publiek en de campagnes van de publieksvideo slechts) gebruiken het kosten-per-duizend-impressies (CPM) model, waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
 
@@ -98,7 +98,7 @@ ht-degree: 0%
 
 <!-- **[!UICONTROL Campaign Priority]:** -->
 
-**[!UICONTROL Link with Microsoft® Merchant Center]:** (Alleen campagnes van het publiek; optioneel) Koppelt de campagne aan een specifieke winkel voor automatische advertenties op basis van feed in plaats van responsieve advertenties. Wanneer u deze optie selecteert, geeft u de opdracht [!UICONTROL Merchant ID] en [!UICONTROL Products]. U moet advertentiegroepen maken voor de campagne, maar u hoeft geen advertenties te maken.
+**[!UICONTROL Link with Microsoft Merchant Center]:** (Alleen campagnes van het publiek; optioneel) Koppelt de campagne aan een specifieke winkel voor automatische advertenties op basis van feed in plaats van responsieve advertenties. Wanneer u deze optie selecteert, geeft u de opdracht [!UICONTROL Merchant ID] en [!UICONTROL Products]. U moet advertentiegroepen maken voor de campagne, maar u hoeft geen advertenties te maken.
 
 Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt opgeslagen, kunt u deze optie niet meer wijzigen.
 
@@ -116,7 +116,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 ## [!UICONTROL Campaign Targeting]
 
-**[!UICONTROL Languages]:** (Alleen prestatiecampagnes) De taal van de advertentie, die moet overeenkomen met de taal van de sites waarop uw advertentie kan worden weergegeven. [!DNL Microsoft® Advertising] bepaalt de taal van een gebruiker van diverse signalen, met inbegrip van de vraag van de gebruiker, het land van de uitgever, en de taal die van de gebruiker plaatsen.
+**[!UICONTROL Languages]:** (Alleen prestatiecampagnes) De taal van de advertentie, die moet overeenkomen met de taal van de sites waarop uw advertentie kan worden weergegeven. [!DNL Microsoft Advertising] bepaalt de taal van een gebruiker van diverse signalen, met inbegrip van de vraag van de gebruiker, het land van de uitgever, en de taal die van de gebruiker plaatsen.
 
 <!-- **[!UICONTROL Location Targets]:** -->
 
@@ -164,7 +164,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 **[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advertising voor &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
+Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advertising voor &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 ## [!UICONTROL Campaign Tracking]
 
@@ -206,7 +206,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep.
 
-**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft® Advertising] richtlijnen voor afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising] richtlijnen voor afbeeldingen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * Afbeeldingen uploaden:
 
@@ -228,7 +228,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 * Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** Ten minste één logo. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft® Advertising] richtlijnen voor elementen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Logos]:** Ten minste één logo. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising] richtlijnen voor elementen](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
 
 * Afbeeldingen uploaden:
 
@@ -284,7 +284,7 @@ Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft® Advert
 
 **[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters. Het kan geen manuscripten, HTML, of andere prijsverhogingstaal bevatten.
 
-**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft® Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft® Advertising] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft Advertising] In modellen voor machinaal leren wordt het publiek gebruikt om vergelijkbare surfers te zoeken die kunnen worden gebruikt en kunnen ook advertenties aan het publiek worden getoond die niet zijn opgegeven als signalen om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
 >De signalen van het publiek zijn verschillend van [doelgroepen op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).

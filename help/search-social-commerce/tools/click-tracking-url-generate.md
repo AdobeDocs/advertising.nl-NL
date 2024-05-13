@@ -3,7 +3,7 @@ title: Een URL voor het bijhouden van klikken genereren
 description: Leer hoe u handmatig een URL voor het bijhouden van klikken in Zoeken, Sociaal en Commerce genereert.
 exl-id: 43a36869-146a-4c5f-b4f2-eddfb856480b
 feature: Search Tools, Search Tracking
-source-git-commit: a4d892b413dde26a96f03c797991c4df17da7562
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '458'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
            Voorbeeld: http://www.example.com/travel.html
 
-         * ([!DNL Microsoft® Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
+         * ([!DNL Microsoft Advertising] sitelinks) `sitelink <tab> ** <tab> landing_page`
 
            waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
@@ -48,7 +48,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
            Het bestand kan maximaal 10.000 regels bevatten.
 
-         * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft® Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
+         * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft Advertising] productadvertenties) `product name <tab> ** <tab> landing_page`
 
            waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
@@ -64,13 +64,13 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
            Voorbeeld: http://www.example.com/travel.html
 
-         * ([!DNL Microsoft® Advertising] sitelinks) `sitelink**landing_page`
+         * ([!DNL Microsoft Advertising] sitelinks) `sitelink**landing_page`
 
            waar `sitelink` de naam van de sitelink is en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
            Voorbeeld: `Careers**http://www.example.com/careers.html`
 
-         * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft® Advertising] productadvertenties) `product name**landing_page`
+         * ([!DNL Google Merchant Center] productgroepen en [!DNL Microsoft Advertising] productadvertenties) `product name**landing_page`
 
            waar `product name` is de productnaam en `landing_page` is een geldige bestemmingspagina URL of basis URL.
 
@@ -82,7 +82,7 @@ Voor informatie over wanneer u een klik-volgende URL manueel moet produceren en 
 
 Voer voor accounts met doel-URL&#39;s de waarden in het juiste [!UICONTROL Base URL] velden.
 
-Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het juiste [!UICONTROL Tracking Template] veld. U moet een parameter voor de laatste URL toevoegen na de instelling `&url=` parameter (zoals `{lpurl}`). Voor [!DNL Yahoo! Japan Ads] accounts, gebruik de parameter `{lpurl}`. Voor een lijst met [!DNL Google Ads] en [!DNL Microsoft® Advertising] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348) (Zie de parameters &quot;Volgsjabloon alleen&quot; in het gedeelte over &quot;Beschikbaar&quot; [!DNL ValueTrack] Parameters&quot;) en de [[!DNL Microsoft® Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2).
+Voer voor accounts met uiteindelijke URL&#39;s de waarde op het scherm in het juiste [!UICONTROL Tracking Template] veld. U moet een parameter voor de laatste URL toevoegen na de instelling `&url=` parameter (zoals `{lpurl}`). Voor [!DNL Yahoo! Japan Ads] accounts, gebruik de parameter `{lpurl}`. Voor een lijst met [!DNL Google Ads] en [!DNL Microsoft Advertising] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen, raadpleegt u de [[!DNL Google Ads] documentatie](https://support.google.com/google-ads/answer/6305348) (Zie de parameters &quot;Volgsjabloon alleen&quot; in het gedeelte over &quot;Beschikbaar&quot; [!DNL ValueTrack] Parameters&quot;) en de [[!DNL Microsoft Advertising] documentatie](https://help.ads.microsoft.com/#apex/3/en/56799/2).
 
 >[!MORELIKETHIS]
 >

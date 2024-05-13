@@ -1,9 +1,9 @@
 ---
 title: Een publicatietaak voor de gegevens van de inventarisfeed stoppen
 description: Leer hoe u het posten van een taak voor de gegevens van de inventarisfeed kunt stoppen.
-exl-id: 995dd6f4-fb8c-4b3f-bdc5-1e80d1129f53
+exl-id: 06a10ec1-bfff-4384-b1c8-ba6b504c6888
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een publicatietaak voor de gegevens van de inventarisfeed stoppen
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 U kunt op de volgende manieren ophouden met het posten van campagnegegevens die zijn gegenereerd uit een feed.
 

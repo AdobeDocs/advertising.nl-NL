@@ -1,28 +1,28 @@
 ---
 title: Informatie over het automatiseren en beheren van voorraden
 description: Leer meer over geavanceerd campagnebeheer, waarmee u automatisch de accountstructuur kunt beheren en dynamische advertenties kunt leveren op basis van gegevens over uw product- of servicevoorraad.
-exl-id: 2cbf08ce-728e-4d5b-b0a4-01aa244a6e29
+exl-id: 46e78f32-96ef-4a23-bbe3-f18b84309463
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '836'
+source-wordcount: '838'
 ht-degree: 0%
 
 ---
 
 # Informatie over het automatiseren en beheren van voorraden
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
-De [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] Dankzij de weergave voor geavanceerd campagnebeheer kunt u automatisch een structuur van een netwerkaccount maken en bijwerken en dynamische advertenties leveren op basis van gegevens over uw product- of servicevoorraad. U kunt nieuwe bestanden uploaden met productgegevens dagelijks of zo vaak als u wilt, of rechtstreeks koppelen naar een [!DNL Google] of [!DNL Microsoft®] zakelijke rekening. Met deze functie kunt u:
+De [!UICONTROL Campaigns] > [!UICONTROL Advanced (ACM)] Dankzij de weergave voor geavanceerd campagnebeheer kunt u automatisch een structuur van een netwerkaccount maken en bijwerken en dynamische advertenties leveren op basis van gegevens over uw product- of servicevoorraad. U kunt nieuwe bestanden uploaden met productgegevens dagelijks of zo vaak als u wilt, of rechtstreeks koppelen naar een [!DNL Google] of [!DNL Microsoft] zakelijke rekening. Met deze functie kunt u:
 
 * Nieuwe campagnes bouwen van geordende gegevensbronnen.
 
-* Tekst en responsieve zoekopdrachten dynamisch bijwerken, [!DNL Google Ads] winkeladvertenties, of [!DNL Microsoft® Advertising] winkeladvertenties wanneer nieuwe gegevens worden verwerkt, met behulp van dynamische variabelen voor veranderbare gegevenselementen (zoals de prijs of de hoeveelheid). Elke keer dat u de gegevens wijzigt, worden de bestaande advertenties verwijderd en worden er nieuwe gemaakt.
+* Tekst en responsieve zoekopdrachten dynamisch bijwerken, [!DNL Google Ads] winkeladvertenties, of [!DNL Microsoft Advertising] winkeladvertenties wanneer nieuwe gegevens worden verwerkt, met behulp van dynamische variabelen voor veranderbare gegevenselementen (zoals de prijs of de hoeveelheid). Elke keer dat u de gegevens wijzigt, worden de bestaande advertenties verwijderd en worden er nieuwe gemaakt.
 
 * Pauzeert of verwijdert automatisch ad groepen, sleutelwoorden, en advertenties wanneer de voorraad onder een specifiek niveau, volgens een gespecificeerde einddatum daalt, of wanneer een bestaande component wordt weggelaten uit inputgegevens.
 
-Als u uw advertenties wilt instellen, maakt u een voorraadfeed-sjabloon met variabelen (plaatsaanduidingen) en vervangt u de variabelen door de feitelijke gegevenskolommen uit een geüpload bestand of een [Google of Microsoft® Business Center-account gesynchroniseerd](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De variabelen kunnen ook wijzigingsgroepen bevatten die u hebt ingesteld in een bestand of afzonderlijke rijen in het bestand om meerdere advertenties, trefwoorden, campagnes of ad-groepen te maken voor elke toepasselijke rij in het gegevensbestand. Als u bijvoorbeeld een modifier-groepsvariabele in een advertentiekop gebruikt en de modifier-groep twee modifiers bevat (&quot;voor goedkoop&quot; en &quot;tegen een korting&quot;), worden twee aparte advertenties gemaakt voor elk product — één voor elke modifier. Voor [!DNL Google Ads] en [!DNL Microsoft® Advertising] dynamische zoekopdrachten kunt u ook waarden voor adverteerders opnemen.
+Als u uw advertenties wilt instellen, maakt u een voorraadfeed-sjabloon met variabelen (plaatsaanduidingen) en vervangt u de variabelen door de feitelijke gegevenskolommen uit een geüpload bestand of een [Google- of Microsoft-account voor handelscentra gesynchroniseerd](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md). De variabelen kunnen ook wijzigingsgroepen bevatten die u hebt ingesteld in een bestand of afzonderlijke rijen in het bestand om meerdere advertenties, trefwoorden, campagnes of ad-groepen te maken voor elke toepasselijke rij in het gegevensbestand. Als u bijvoorbeeld een modifier-groepsvariabele in een advertentiekop gebruikt en de modifier-groep twee modifiers bevat (&quot;voor goedkoop&quot; en &quot;tegen een korting&quot;), worden twee aparte advertenties gemaakt voor elk product — één voor elke modifier. Voor [!DNL Google Ads] en [!DNL Microsoft Advertising] dynamische zoekopdrachten kunt u ook waarden voor adverteerders opnemen.
 
 | [!UICONTROL Ad Variation] Sjabloonsectie | Modifiers in Search, Social &amp; Commerce | Voederinhoud | Resulterende advertenties |
 |----|----|----|----|
@@ -35,11 +35,11 @@ Nadat u de advertenties hebt gegenereerd, kunt u deze desgewenst reviseren en ve
 
 ## Workflow voor het beheer van campagnegegevens met behulp van voorraadfeeds
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 Eerst test u ten minste één feed-bestand of -account en vervolgens kunt u het proces volledig automatiseren of het bij elke stap blijven beheren:
 
-1. (Optioneel) Neem contact op met uw Adobe-accountteam om een FTP-map in te stellen voor het opslaan van gegevensbestanden.
+1. (Optioneel) Neem contact op met het accountteam van de Adobe om een FTP-map in te stellen voor het opslaan van gegevensbestanden.
 
    Als u de FTP-map gebruikt, controleert de feed-service elke twee uur of er nieuwe bestanden zijn.
 
@@ -49,7 +49,7 @@ Eerst test u ten minste één feed-bestand of -account en vervolgens kunt u het 
 
    Als u FTP gebruikt, post automatisch geen gegevens aan de advertentienetwerken aanvankelijk. Nadat u de uitvoer van het eerste bestand hebt gecontroleerd en tevreden bent met het resultaat, kunt u de instellingen wijzigen.
 
-1. Upload een gegevensbestand naar de directory FTP. [een gegevensbestand handmatig uploaden](feed-files-manage.md) in de [!UICONTROL Advanced (ACM) view], of [toegang tot een Google- of Microsoft® Business Center-account mogelijk maken](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md).
+1. Upload een gegevensbestand naar de directory FTP. [een gegevensbestand handmatig uploaden](feed-files-manage.md) in de [!UICONTROL Advanced (ACM) view], of [toegang verlenen tot een Google- of Microsoft-zakelijke centrumaccount](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md).
 
 Als u bestanden handmatig wilt uploaden, kunt u wachten totdat u een sjabloon maakt waarin het gegevensbestand wordt gebruikt.
 
@@ -57,7 +57,7 @@ Als u bestanden handmatig wilt uploaden, kunt u wachten totdat u een sjabloon ma
 
 1. [Een of meer sjablonen maken](ad-templates/ad-template-manage.md) die de gegevenskolommen gebruiken om campagnes, ad groepen, sleutelwoorden, en/of exemplaren voor een specifieke ad netwerkrekening tot stand te brengen.
 
-1. [Doorvoergegevens doorgeven via de sjablonen](feed-data-propagate.md), waardoor de kolomnamen in de sjabloon worden vervangen door gegevens in het bestand of de account. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Handel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor advertenties met behulp van standaardinstellingen of wijst u de advertenties toe aan de bestaande accountstructuur.
+1. [Doorvoergegevens doorgeven via de sjablonen](feed-data-propagate.md), waardoor de kolomnamen in de sjabloon worden vervangen door gegevens in het bestand of de account. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Commerce ofwel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties met de standaardinstellingen of wijst u de advertenties toe aan de bestaande accountstructuur.
 
 1. (Optioneel) [De uitvoer voorvertonen](propagated-data-view.md) in de [!UICONTROL Advanced (ACM)] en eventueel een overzicht bekijken van de gegevenswijzigingen in het dialoogvenster [!UICONTROL Propagations] tab.
 

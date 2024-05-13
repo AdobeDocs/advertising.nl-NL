@@ -1,11 +1,11 @@
 ---
 title: Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing
 description: Leer hoe u de [!UICONTROL Notification Center] webtoepassing.
-exl-id: e1afc7c0-4bbb-44d6-9871-924580648fa9
+exl-id: e0a72907-3b5e-4678-b08b-95ed099f2dab
 feature: Search Notifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 *Bètaonderdeel*
 
-U kunt meldingen buiten uw browser ontvangen en beheren door een [!UICONTROL Notification Center] webtoepassing. De toepassing ziet er hetzelfde uit en heeft dezelfde functionaliteit als [!UICONTROL Notification Center] binnen Zoeken, Sociale &amp; Handel. De toepassing is beschikbaar voor [!DNL Google Chrome] 40 en hoger of [!DNL Microsoft® Edge] 17 en hoger.
+U kunt meldingen buiten uw browser ontvangen en beheren door een [!UICONTROL Notification Center] webtoepassing. De toepassing ziet er hetzelfde uit en heeft dezelfde functionaliteit als [!UICONTROL Notification Center] in Zoeken, Sociaal en Commerce. De toepassing is beschikbaar voor [!DNL Google Chrome] 40 en hoger of [!DNL Microsoft Edge] 17 en hoger.
 
 Wanneer u de [!UICONTROL Notification Center] wordt deze automatisch ingeschakeld in de toepassingsmanager van de browser en wordt deze geladen als een afzonderlijk venster waarvan de lay-out dynamisch wordt gerangschikt op basis van de venstergrootte. U kunt de toepassing openen en sluiten vanuit de toepassingsmanager van de browser of deze vastzetten op de taakbalk of het dock van het besturingssysteem. De toepassing wordt automatisch bijgewerkt.
 
-![Meldingscentrum-pictogram in Microsoft® Windows-taakbalk](/help/search-social-commerce/assets/windows-taskbar.png "Meldingscentrum-pictogram in Microsoft® Windows-taakbalk")
+![Meldingscentrum-pictogram in Microsoft Windows-taakbalk](/help/search-social-commerce/assets/windows-taskbar.png "Meldingscentrum-pictogram in Microsoft Windows-taakbalk")
 
 U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van de browser. Raadpleeg de Help van de browser voor meer informatie over het beheren van webtoepassingen.
 
@@ -32,9 +32,9 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
 1. In de Install App? bericht, klik **[!UICONTROL Install]**.
 
-## Installeer de [!UICONTROL Notification Center] webtoepassing voor [!DNL Microsoft® Edge]
+## Installeer de [!UICONTROL Notification Center] webtoepassing voor [!DNL Microsoft Edge]
 
-* Vanuit Zoeken, Sociale &amp; Handel:
+* Vanuit Zoeken, Sociaal en Commerce:
 
    1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
 
@@ -54,7 +54,7 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
 * In [!DNL Chrome], ga naar `chrome://apps`, klikt u met de rechtermuisknop **[!UICONTROL notification-center]** en klik vervolgens op **[!UICONTROL Remove from Chrome]**.
 
-## De installatie van de [!UICONTROL Notification Center] webtoepassing voor [!DNL Microsoft® Edge]
+## De installatie van de [!UICONTROL Notification Center] webtoepassing voor [!DNL Microsoft Edge]
 
 1. In de [!DNL Edge] browserwerkbalk, klikt u op **...** > **[!UICONTROL Apps]** > **[!UICONTROL Manage apps]**. Of ga naar `edge://apps`.
 

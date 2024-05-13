@@ -3,7 +3,7 @@ title: Veelgestelde vragen over campagnes
 description: Zie antwoorden op vragen over campagnebeheer en de mening van campagnegegevens.
 exl-id: 999e5aba-f556-4b34-bb92-5931d5e0dd72
 feature: Search Campaign Management
-source-git-commit: 295d576cff59f1313a317473db6e5f271d55e7da
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '1585'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Daarnaast [!DNL Google Ads] prestaties op campagnereniveau op het onderzoeksnetw
 
 >[!NOTE]
 >
->(Advertisers met portefeuilles) Verwacht dat de prestaties van nieuwe sleutelwoord en gelijke typecombinaties vluchtig zijn terwijl Onderzoek, Sociale, &amp; Handel gegevens verzamelt om modellen voor hen tot stand te brengen.
+>(Adverteerders met portfolio&#39;s) De prestaties van nieuwe trefwoorden en combinaties van overeenkomende typen zijn volatiel, terwijl Zoeken, Sociaal en Commerce gegevens verzamelen om modellen voor deze combinaties te maken.
 
 **Handelingen in de [!UICONTROL Search] > [!UICONTROL Campaigns] meningen, in het bulksheet het posten proces, en in de eigen redacteur van het ad netwerk:**
 
@@ -38,11 +38,11 @@ Het bestaande trefwoord of de bestaande advertentie wordt verwijderd en er wordt
 
 * ([!DNL Baidu], [!DNL Google Ads], en [!DNL Yandex]) U bewerkt een trefwoordnaam.
 
-* ([!DNL Google Ads], [!DNL Microsoft® Advertising], en [!DNL Yandex]) U wijzigt het type overeenkomst van een trefwoord.
+* ([!DNL Google Ads], [!DNL Microsoft Advertising], en [!DNL Yandex]) U wijzigt het type overeenkomst van een trefwoord.
 
 * U verplaatst een trefwoord tussen advertentiegroepen.
 
-* ([!DNL Google Ads] dynamische zoekopdrachten, [!DNL Microsoft® Advertising] uitgevouwen tekstadvertenties en alle soorten advertenties op andere ondersteunde advertentienetwerken) U bewerkt en kopieert (titel/titel of beschrijving) of een afbeelding van de advertentie.
+* ([!DNL Google Ads] dynamische zoekopdrachten, [!DNL Microsoft Advertising] uitgevouwen tekstadvertenties en alle soorten advertenties op andere ondersteunde advertentienetwerken) U bewerkt en kopieert (titel/titel of beschrijving) of een afbeelding van de advertentie.
 
 * U verplaatst een advertentie tussen advertentiegroepen.
 
@@ -67,12 +67,12 @@ Afhankelijk van de [gegevensinstellingen van feed](/help/search-social-commerce/
 
 ++([!DNL Google Ads] campagnes) Veranderingen in de vertoningsnamen voor mijn [!DNL Google]-tracked conversies werden teruggedraaid.
 
-Als u de vertoningsnamen van de omzettingsmetriek in Onderzoek, Sociale, &amp; Handel verandert, worden uw veranderingen beschreven met de namen die binnen worden gevormd [!DNL Google Ads]. Wijzig namen in [!DNL Google Ads].
+Als u de weergavenamen van de conversiemetriek wijzigt in Zoeken, Sociaal en Commerce, worden de wijzigingen overschreven met de namen die zijn geconfigureerd in [!DNL Google Ads]. Wijzig namen in [!DNL Google Ads].
 +++
 
 +++ (Google Ads-campagnes) Kan ik een gedeeld budget gebruiken voor campagnes in portfolio&#39;s?
 
-Voor de beste resultaten kunt u het beste de opdracht Niet toevoegen [!DNL Google Ads] campagnes [!DNL Google Ads] gedeelde begroting als zij in geoptimaliseerde portefeuilles zijn die aan &quot; worden gevormd[!UICONTROL Auto adjust campaign budget limits].&quot; Als u dat doet, [!DNL Google Ads] Hiermee overschrijft u de voor de campagne geoptimaliseerde budgetten voor Zoeken, Sociale Zaken en Handel, wat kan leiden tot inefficiënties bij biedingen.
+Voor de beste resultaten kunt u het beste de opdracht Niet toevoegen [!DNL Google Ads] campagnes [!DNL Google Ads] gedeelde begroting als zij in geoptimaliseerde portefeuilles zijn die aan &quot; worden gevormd[!UICONTROL Auto adjust campaign budget limits].&quot; Als u dat doet, [!DNL Google Ads] Hiermee overschrijft u de geoptimaliseerde campagnebudgetten voor Zoeken, Sociaal zoeken en Commerce, wat kan leiden tot inefficiënties bij biedingen.
 +++
 
 ++([!DNL Google Ads] campagnes) Kan ik mobiele en niet-mobiele gebruikers naar verschillende bestemmingspagina&#39;s sturen?
@@ -87,7 +87,7 @@ U kunt de [!DNL Google Ads] [!DNL ValueTrack] parameters `{ifmobile}` en `{ifnot
 
   Bijvoorbeeld: `http://www.example.{ifmobile:mobi}{ifnotmobile:com}` gaat mobiele gebruikers naar www.example.mobi en niet-mobiele gebruikers naar www.example.com.
 
-In beide gevallen bevatten de niet-gecodeerde basis-URL&#39;s met de URL&#39;s voor Zoeken, Sociaal en Handel `{}` tags en eventuele aanvullende parameters die aan de basis-URL zijn toegevoegd.
+In beide gevallen bevatten de niet-gecodeerde basis-URL&#39;s met de URL voor Zoeken, Sociaal en Commerce-tracking `{}` tags en eventuele aanvullende parameters die aan de basis-URL zijn toegevoegd.
 
 >[!NOTE]
 >
@@ -109,24 +109,24 @@ In de [!UICONTROL Campaigns] in beide [!UICONTROL Search] > [!UICONTROL Campaign
 
 +++Wat is het verschil tussen een het volgen malplaatje en een het landen paginaachtervoegsel?
 
-Gebruik het achtervoegsel van een bestemmingspagina alleen voor advertentienetwerken die parallelle tracking ondersteunen. In Onderzoek, Sociale, &amp; Handel, zowel zouden het volgen malplaatjes als het landen paginaachtervoegsels een klikherkenningsteken van het advertentienetwerk moeten omvatten, maar het volgen malplaatjes omvatten extra het volgen parameters.
+Gebruik het achtervoegsel van een bestemmingspagina alleen voor advertentienetwerken die parallelle tracking ondersteunen. In Zoeken, Sociaal, &amp; Commerce, zowel zouden het volgen malplaatjes als het landen van paginaaanvoegsels een klikherkenningsteken van het advertentienetwerk moeten omvatten, maar het volgen malplaatjes omvatten extra het volgen parameters.
 
 Zie de volgende veelgestelde vragen over [ondersteuning voor parallelle tracering](#parallel-tracking) voor meer informatie over hoe volgsjablonen en achtervoegsels van landingspagina&#39;s worden geladen wanneer een gebruiker op een advertentie klikt.
 
 +++
 
-++([!DNL Google Ads] en [!DNL Microsoft® Advertising]) Biedt via Search, Social &amp; Commerce ondersteuning voor parallelle tracering van advertenties in [!DNL Google Ads] of [!DNL Microsoft® Advertising]? {#parallel-tracking}
+++([!DNL Google Ads] en [!DNL Microsoft Advertising]) Biedt via Zoeken, Sociaal zoeken en Commerce ondersteuning voor parallelle tracering van advertenties in [!DNL Google Ads] of [!DNL Microsoft Advertising]? {#parallel-tracking}
 
 Parallel volgen verzendt klanten direct van uw advertentie naar uw definitieve URL, die toegevoegde parameters van een definitief achtervoegsel URL, of &quot;het landen paginaachtervoegsel&quot;kan omvatten. De URL van de trackingsjabloon (met extra parameters voor klikmeting) wordt afzonderlijk geladen op de achtergrond. Hierdoor wordt de landingspagina sneller geladen.
 
-Search, Social &amp; Commerce ondersteunt parallelle tracering voor zoek- en winkelcampagnes met behulp van de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft® Advertising]; `gclid` for [!DNL Google Ads]). Een [op rekeningniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) of [campagneniveau](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (wordt &quot;[!DNL final URL suffix]&quot; in de advertentienetwerken), die aan het landen van pagina URLs wordt toegevoegd om te volgen klikt op kindadvertenties van browsers die parallel volgen steunen. Zie de [vereiste achtervoegselformaten voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [vereiste achtervoegselformaten voor [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Zoeken, Sociaal en Commerce ondersteunt parallelle tracering voor zoek- en winkelcampagnes met de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads]). Een [op rekeningniveau](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) of [campagneniveau](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (wordt &quot;[!DNL final URL suffix]&quot; in de advertentienetwerken), die aan het landen van pagina URLs wordt toegevoegd om te volgen klikt op kindadvertenties van browsers die parallel volgen steunen. Zie de [vereiste achtervoegselformaten voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [vereiste achtervoegselformaten voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
-Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar de URL van de trackingsjabloon, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze worden doorgestuurd naar de laatste URL (die mogelijk aanvullende parameters bevat in het achtervoegsel van een bestemmingspagina). Alle het volgen malplaatjes voor een advertentienetwerkrekening zouden de zelfde klik herkenningsteken parameter moeten omvatten die u in gebruikt [!UICONTROL Landing Page Suffix]. Zie de [sjabloonindelingen bijhouden voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en de [sjabloonindelingen bijhouden voor [!DNL Microsoft® Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar de URL van de trackingsjabloon, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze worden doorgestuurd naar de laatste URL (die mogelijk aanvullende parameters bevat in het achtervoegsel van een bestemmingspagina). Alle het volgen malplaatjes voor een advertentienetwerkrekening zouden de zelfde klik herkenningsteken parameter moeten omvatten die u in gebruikt [!UICONTROL Landing Page Suffix]. Zie de [sjabloonindelingen bijhouden voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en de [sjabloonindelingen bijhouden voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
 +++Waarom worden URL&#39;s voor mijn advertenties bijgehouden met &quot;`&EV_HASH={<hash>}`?&quot;
 
-Wanneer u advertenties uploadt met een [productinventarisfeed](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor een account met de Pixelomleiding Zoeken, Sociale Zaken &amp; Handel en met het traceren van trefwoorden en creatief niveau, voegt Search, Social &amp; Commerce de hash-parameter en de waarde toe aan de trackingsjabloon of de doel-URL van de advertentie om te bepalen dat deze is gemaakt met de voorraadfeed-functie.
+Wanneer u advertenties uploadt met een [productinventarisfeed](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor een account met de Pixelomleiding Search, Social en Commerce en met de functie Trefwoord- en creatief bijhouden, voegt Search, Social en Commerce de hash-parameter en de waarde toe aan de trackingsjabloon of de doel-URL van de advertentie om te bepalen of deze is gemaakt met de voorraadfeed-functie.
 +++
 
 ## Voorraadvoeding

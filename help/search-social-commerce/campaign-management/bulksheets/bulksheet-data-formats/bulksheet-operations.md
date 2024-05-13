@@ -1,9 +1,9 @@
 ---
 title: Bewerkingen die u kunt uitvoeren in bulksbladen
 description: Verwijs naar algemene informatie over het toevoegen, bewerken en verwijderen van campagnegegevens met behulp van bulksbladen.
-exl-id: 82969bb8-dff8-48e7-b37d-1446a2a90072
+exl-id: 17ec9307-6dfd-45cb-b8bd-d0d7fcbf2d41
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
@@ -38,7 +38,7 @@ De volgende regels zijn van toepassing op het werken met campagnecomponenten en 
 
       * ([!UICONTROL Google Ads] alleen) [!UICONTROL Description Line 1], [!UICONTROL Description Line 2]
 
-      * ([!DNL Google Ads] en [!DNL Microsoft® Advertising] alleen) [!UICONTROL Product Scope Filter], [!UICONTROL Base URL/Final URL], [!UICONTROL Tracking Template]
+      * ([!DNL Google Ads] en [!DNL Microsoft Advertising] alleen) [!UICONTROL Product Scope Filter], [!UICONTROL Base URL/Final URL], [!UICONTROL Tracking Template]
 
 >[!NOTE]
 >
