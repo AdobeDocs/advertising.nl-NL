@@ -2,9 +2,9 @@
 title: Bodmultiplicatoren voor plaatsen beheren
 description: Meer xxx
 feature: DSP Placements
-source-git-commit: 85e1338b841cd9615f7d2881185487ae79743303
+source-git-commit: b6758541b59f1fd924a2fe83c769f5ba385409aa
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -27,11 +27,19 @@ ht-degree: 0%
 
      De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, al naar gelang van toepassing.
 
-   * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden om de bestaande waarden te overschrijven:
+   * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden om alle bestaande waarden te overschrijven:
 
       1. Klikken **[!UICONTROL CSV File Edit]** rechtsboven.
 
-      1. (a) klikken **[!UICONTROL Download Template]** en voert u de doelen in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de corresponderende waarden voor de bodvermenigvuldiger of b) bewerkt u een eerder gedownloade sjabloon met dezelfde informatie. Sla het bewerkte bestand op uw apparaat of netwerk op.
+      1. (a) klikken **[!UICONTROL Download Template]** en bewerk het bestand of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
+
+         Gedownloade sjablonen bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met andere waarden dan 1,0 worden opgenomen.
+
+         * Als u een bodvermenigvuldiger voor een bestaand doel wilt toevoegen, voert u het doel in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de bijbehorende bodvermenigvuldigingswaarde.
+
+         * Als u een biedwijziging wilt verwijderen, stelt u de vermenigvuldigingswaarde van het bod in op 1,0 of verwijdert u alle informatie voor de rij.
+
+         ![Voorbeeldrij in een spreadsheetbestand voor een bied-multiplier](/help/dsp/assets/bid-multiplier-spreadsheet.png "Voorbeeldrij in een spreadsheetbestand voor een bied-multiplier")
 
       1. Klikken **[!UICONTROL Next]** om naar [!UICONTROL Upload File] en a) sleep het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
 
@@ -59,17 +67,25 @@ ht-degree: 0%
 
    Dezelfde wijzigingen gelden voor alle geselecteerde plaatsen.
 
-   * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden waarmee de bestaande waarden worden overschreven:
+* U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden om alle bestaande waarden te overschrijven:
 
-     >[!NOTE]
-     >
-     >Als u een veld leeg laat, worden alle waarden voor dat doeltype verwijderd.<!-- Verify and re-word if needed. I'm not sure if you'll be able to have multiple data rows (one per placement) or if there only one data row is applicable for all. -->
+   1. Klikken **[!UICONTROL CSV File Edit]** rechtsboven.
 
-      1. Klikken **[!UICONTROL CSV Edit]** rechtsboven.
+   1. (a) klikken **[!UICONTROL Download Template]** en bewerk het bestand of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
 
-      1. (a) klikken **[!UICONTROL Download Template]** en bewerk de waarden voor de biedvermenigvuldiger of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
+      Gedownloade sjablonen bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met andere waarden dan 1,0 worden opgenomen.
 
-      1. (a) sleep het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
+      * Als u een bodvermenigvuldiger voor een bestaand doel wilt toevoegen, voert u het doel in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de bijbehorende bodvermenigvuldigingswaarde.
+
+      * Als u een biedwijziging wilt verwijderen, stelt u de vermenigvuldigingswaarde van het bod in op 1,0 of verwijdert u alle informatie voor de rij.
+
+      ![Voorbeeldrij in een spreadsheetbestand voor een bied-multiplier](/help/dsp/assets/bid-multiplier-spreadsheet.png "Voorbeeldrij in een spreadsheetbestand voor een bied-multiplier")
+
+   1. Klikken **[!UICONTROL CSV Edit]** rechtsboven.
+
+   1. (a) klikken **[!UICONTROL Download Template]** en bewerk de waarden voor de biedvermenigvuldiger of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
+
+   1. (a) sleep het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
 
    1. Klik op **[!UICONTROL Upload]**.
 
