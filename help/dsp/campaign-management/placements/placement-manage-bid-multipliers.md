@@ -3,10 +3,10 @@ title: Bodmultiplicatoren voor plaatsen beheren
 description: Leer hoe u de biedvermenigvuldigingsfactoren voor uw plaatsingsdoelen kunt maken en bewerken.
 feature: DSP Placements
 exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
-source-git-commit: 5f358bbc63a5767649f42551f05cfae9fdc2b445
+source-git-commit: c23da6494c6d4ce89735f3f63f89f5320ca02a40
 workflow-type: tm+mt
-source-wordcount: '554'
-ht-degree: 1%
+source-wordcount: '543'
+ht-degree: 2%
 
 ---
 
@@ -28,9 +28,11 @@ Deze functie werkt met uw bestaande plaatsingsdoelen. Als u de geselecteerde doe
 
 1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
 
-1. Pas de bodvermenigvuldigers voor het in aanmerking komende doel handmatig aan of door een CSV-bestand met doelwaarden te uploaden:
+1. Pas de biedvermenigvuldigingsfactoren voor in aanmerking komende doelen aan:
 
-   * Als u de waarden van de biedvermenigvuldiger handmatig wilt aanpassen, gaat u naar elke [doelspecifiek tabblad](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en bewerkt u de bestaande waarden voor de plaatsingsdoelen. De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, indien van toepassing.
+   * Als u de waarden van de biedvermenigvuldiger handmatig wilt aanpassen, gaat u naar elke [doelspecifiek tabblad](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en bewerkt u de bestaande waarden voor de plaatsingsdoelen.
+
+     De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, al naar gelang van toepassing.
 
    * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden om de bestaande waarden te overschrijven:
 
