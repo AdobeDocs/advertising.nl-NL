@@ -2,7 +2,7 @@
 title: Bodmultiplicatoren voor plaatsen beheren
 description: Meer xxx
 feature: DSP Placements
-source-git-commit: b6758541b59f1fd924a2fe83c769f5ba385409aa
+source-git-commit: c0dd18a3ce8759214813b7303c590a28febf1b37
 workflow-type: tm+mt
 source-wordcount: '550'
 ht-degree: 0%
@@ -33,7 +33,7 @@ ht-degree: 0%
 
       1. (a) klikken **[!UICONTROL Download Template]** en bewerk het bestand of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
 
-         Gedownloade sjablonen bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met andere waarden dan 1,0 worden opgenomen.
+         De gedownloade spreadsheets bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met waarden &lt; 1.0 of > 1.0 worden opgenomen.
 
          * Als u een bodvermenigvuldiger voor een bestaand doel wilt toevoegen, voert u het doel in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de bijbehorende bodvermenigvuldigingswaarde.
 
@@ -73,7 +73,7 @@ ht-degree: 0%
 
    1. (a) klikken **[!UICONTROL Download Template]** en bewerk het bestand of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
 
-      Gedownloade sjablonen bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met andere waarden dan 1,0 worden opgenomen.
+      De gedownloade spreadsheets bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met waarden &lt; 1.0 of > 1.0 worden opgenomen.
 
       * Als u een bodvermenigvuldiger voor een bestaand doel wilt toevoegen, voert u het doel in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de bijbehorende bodvermenigvuldigingswaarde.
 

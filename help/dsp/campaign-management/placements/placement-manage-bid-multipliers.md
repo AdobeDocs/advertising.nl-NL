@@ -3,7 +3,7 @@ title: Bodmultiplicatoren voor plaatsen beheren
 description: Leer hoe u de biedvermenigvuldigingsfactoren voor uw plaatsingsdoelen kunt maken en bewerken.
 feature: DSP Placements
 exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
-source-git-commit: 2c6e21dd63c5d0c8e0d0c82bcacd0851c56c6084
+source-git-commit: c0dd18a3ce8759214813b7303c590a28febf1b37
 workflow-type: tm+mt
 source-wordcount: '613'
 ht-degree: 1%
@@ -40,7 +40,7 @@ Deze functie werkt met uw bestaande plaatsingsdoelen. Als u de geselecteerde doe
 
       1. (a) klikken **[!UICONTROL Download Template]** en bewerk het bestand of b) bewerk een eerder gedownloade sjabloon. Sla het bewerkte bestand op uw apparaat of netwerk op.
 
-         Gedownloade sjablonen bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met andere waarden dan 1,0 worden opgenomen.
+         De gedownloade spreadsheets bevatten één blad voor elk doeltype (zoals Land, Bronnen en Sitecategorie). Alleen bestaande bodvermenigvuldigers met waarden &lt; 1.0 of > 1.0 worden opgenomen.
 
          * Als u een bodvermenigvuldiger voor een bestaand doel wilt toevoegen, voert u het doel in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de bijbehorende bodvermenigvuldigingswaarde.
 
