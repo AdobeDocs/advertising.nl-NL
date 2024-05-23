@@ -1,24 +1,24 @@
 ---
 title: Bodmultiplicatoren voor plaatsen beheren
-description: Meer informatie over het maken en bewerken van biedingsvermenigvuldigers voor opgegeven plaatsingsdoelen.
+description: Leer hoe u de biedvermenigvuldigingsfactoren voor uw plaatsingsdoelen kunt maken en bewerken.
 feature: DSP Placements
 exl-id: fbd44960-c9df-4713-94b7-13bcdb7e2568
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 5f358bbc63a5767649f42551f05cfae9fdc2b445
 workflow-type: tm+mt
-source-wordcount: '407'
-ht-degree: 2%
+source-wordcount: '554'
+ht-degree: 1%
 
 ---
 
 # Bodmultiplicatoren voor plaatsen beheren
 
-Met deze functie kun je de biedvermenigvuldigingsfactoren voor je bestaande plaatsingsdoelen wijzigen. Je kunt de biedvermenigvuldigingsfactoren voor één plaatsing tegelijk beheren.<!-- remove that line once we can edit multiple -->
+Je kunt biedvermenigvuldigers maken en beheren, waarmee een bod wordt vermenigvuldigd om het bod te verhogen of te verlagen, voor je bestaande plaatsingsdoelen van [in aanmerking komende doelsoorten](#bid-multiplier-by-target). U kunt de waarden van de biedvermenigvuldiger handmatig bewerken of een spreadsheet met waarden uploaden.
 
-Als u de geselecteerde doelen voor uw plaatsing wilt wijzigen, raadpleegt u &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
+Standaard is de biedvermenigvuldiger voor een doel 1,00, wat betekent dat het bod niet voor dat doel is aangepast. Waarden kunnen variëren van 0,10 tot 10,00. Een biedwijziging van 0,5 verlaagt bijvoorbeeld een bod van USD 6 naar USD 3 (0,5 x 6). Wanneer een veiling in aanmerking komt voor meerdere biedmodifiers, worden alle toepasselijke biedmodifiers vermenigvuldigd. Met biedopties wordt het bod nooit hoger dan het maximumbod.
 
-<!-- 
-## Manage the Bid Multipliers for a Single Placement
--->
+U kunt een berichtvermenigvuldiger (met andere waarden dan 1,00) instellen voor een [beperkt aantal streefcijfers](#bid-multiplier-limits-by-target).
+
+Deze functie werkt met uw bestaande plaatsingsdoelen. Als u de geselecteerde doelen voor uw plaatsing wilt wijzigen, raadpleegt u &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md).&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
 
@@ -28,15 +28,19 @@ Als u de geselecteerde doelen voor uw plaatsing wilt wijzigen, raadpleegt u &quo
 
 1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Bid Multiplier]**.
 
-1. Naar elke [doelspecifiek tabblad](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en bewerkt u de bestaande waarden voor de plaatsingsdoelen. De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, indien van toepassing.
+1. Pas de bodvermenigvuldigers voor het in aanmerking komende doel handmatig aan of door een CSV-bestand met doelwaarden te uploaden:
 
-   Standaard is de biedvermenigvuldiger voor een doel 1,00, wat betekent dat het bod niet voor dat doel is aangepast. Waarden kunnen variëren van 0,10 tot 10,00. Een biedwijziging van 0,5 verlaagt bijvoorbeeld een bod van USD 6 naar USD 3 (0,5 x 6). Met biedopties wordt het bod nooit hoger dan het maximumbod.
+   * Als u de waarden van de biedvermenigvuldiger handmatig wilt aanpassen, gaat u naar elke [doelspecifiek tabblad](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en bewerkt u de bestaande waarden voor de plaatsingsdoelen. De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, indien van toepassing.
 
-   Wanneer een veiling in aanmerking komt voor meerdere biedmodifiers, worden alle toepasselijke biedmodifiers vermenigvuldigd.
+   * U kunt als volgt een CSV-bestand met waarden voor de vermenigvuldigingsfactor van het bod uploaden om de bestaande waarden te overschrijven:
 
-   U kunt een berichtvermenigvuldiger (met andere waarden dan 1,00) instellen voor een [beperkt aantal streefcijfers](#bid-multiplier-limits-by-target).
+      1. Klikken **[!UICONTROL CSV File Edit]** rechtsboven.
 
-1. Klik rechtsboven op **[!UICONTROL Save]**.
+      1. (a) klikken **[!UICONTROL Download Template]** en voert u de doelen in met dezelfde syntaxis die zichtbaar is in de gebruikersinterface en de corresponderende waarden voor de bodvermenigvuldiger of b) bewerkt u een eerder gedownloade sjabloon met dezelfde informatie. Sla het bewerkte bestand op uw apparaat of netwerk op.
+
+      1. Klikken **[!UICONTROL Next]** om naar [!UICONTROL Upload File] en a) sleep het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
+
+      1. Controleer de geüploade gegevens in het dialoogvenster [!UICONTROL Review & Submit] en klik vervolgens op **[!UICONTROL Save]**.
 
 ## Doeltypen die in aanmerking komen voor biedvermenigvuldigingsfactoren {#bid-multiplier-by-target}
 
