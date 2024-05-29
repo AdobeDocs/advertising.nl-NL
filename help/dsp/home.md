@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 62ed2870c84a72662832bd21e0820a517f7c3d00
+source-git-commit: e5a927a4a96dc44db01e000feb67aad8b520adc5
 workflow-type: tm+mt
-source-wordcount: '2912'
+source-wordcount: '2915'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
 | 22 mei 2024 | Optimalisatie, aangesloten tv-advertenties | In pakketten met de optimalisatiedoelstellingen &quot;Laagste CPA&quot; en &quot;Hoogste ROAS&quot;, gebruiken de prestatiemodellen voor aangesloten tv-advertenties nu gegevens van meerdere aanraakpunten in het conversiepad voor sneller en robuuster leren van machines. Bestaande pakketten worden geüpgraded voor gebruik van multi-touchoptimalisatie en er is geen actie vereist. | — |
-| 20 mei 2024 | Aangesloten tv-advertenties, pixels, segmenten opnieuw rangschikken | (Open beta; alleen beschikbaar in de VS en AUS) U kunt doelsegmenten die zijn blootgesteld aan een CTV-campagne nu opnieuw richten met extra advertenties om de reclame voor verschillende kanalen te verbeteren:<ol><li>Stel een advertentiesegment in en kopieer de code voor het bijhouden van de indruk naar de gewenste plaatsing op de kleurentelevisie of de advertentie om het segment te volgen.</li><li>Selecteer bij Vervanging opnieuw richten het CTV-belichtingssegment in het dialoogvenster [!UICONTROL Audience Targeting] sectie.</li></ol> | Zie &quot;[Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
+| 20 mei 2024 | Aangesloten tv-advertenties, pixels, segmenten opnieuw rangschikken | (Open bèta; alleen beschikbaar in de VS en AUS) U kunt doelsegmenten die zijn blootgesteld aan een aangesloten tv-campagne nu opnieuw richten met extra advertenties om de reclame voor verschillende kanalen te verbeteren:<ol><li>Stel een advertentiesegment in en kopieer de code voor het bijhouden van de indruk naar de gewenste plaatsing van de aangesloten tv of de advertentie om het segment te volgen.</li><li>Selecteer bij Vervanging opnieuw richten het aangesloten TV-belichtingssegment in het dialoogvenster [!UICONTROL Audience Targeting] sectie.</li></ol> | Zie &quot;[Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |
 | 2 mei 2024 | Advertenties, pixels | U kunt de advertentie-instellingen en de plaatsingskoppelingen voor alle advertenties in een campagne in de XLSX-indeling (Excel-spreadsheet) downloaden voor revisie vanuit de [!UICONTROL Ad Tools] weergeven. | Zie &quot;[Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md).&quot; |
 | |  | De [!UICONTROL Ad Tools] Weergave > [!UICONTROL Attach Pixels] worden de pixels weergegeven die door derden worden bijgehouden en die aan uw advertenties zijn gekoppeld. Het tabblad bevat een nieuwe workflow voor het koppelen van pixels aan een of meer advertenties en voor het ontkoppelen van bestaande pixels. | Zie &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot; |
 |  | Plaatsen, publiek | U kunt nu afzonderlijke publiekssegmenten of onherbruikbare doelgroepen uitsluiten van plaatsing via gereedschappen voor bulkbewerking of de plaatsingseditor. | Zie &quot;[Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)&quot; en &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot; |

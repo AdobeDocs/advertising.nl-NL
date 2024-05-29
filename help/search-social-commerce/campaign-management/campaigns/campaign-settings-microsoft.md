@@ -3,9 +3,9 @@ title: '[!DNL Microsoft Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: 0f128b569f8c005c4f72a0c85ebf59e9fed53320
 workflow-type: tm+mt
-source-wordcount: '1966'
+source-wordcount: '1963'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 
   Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Zoeken, Sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling.
 
-* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft Store Ads] campagnes; vervangen door [!DNL Microsoft Advertising] in 2021 voor andere campagnetypen) Gebruikt het kosten-per-klikmodel (CPC). Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
+* *[!UICONTROL Manual CPC]*: (Winkelcampagnes voor merken; [!DNL Microsoft Store Ads] campagnes; afgekeurd voor andere campagneretypes) gebruikt het kosten-per-klik (CPC) model. Voor sommige advertentietypen kunt u desgewenst het advertentienetwerk toestaan om biedingen voor de campagne te wijzigen:
 
    * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): deze optie is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;.
 
