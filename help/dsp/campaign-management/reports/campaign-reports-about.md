@@ -3,7 +3,7 @@ title: Typen prestatierapporten in Campaign Management-weergaven
 description: Leer meer over de rapportgegevens die zijn opgenomen in de weergaven voor campagnebeheer.
 feature: DSP Campaign Data Views
 exl-id: 7af97704-2053-4862-a851-12db009e6776
-source-git-commit: c7860d98edbf44b71d97c3800edf47a409606b74
+source-git-commit: 4e82caa995286635b4a181f186d6a1fabb09847d
 workflow-type: tm+mt
 source-wordcount: '652'
 ht-degree: 0%
@@ -78,7 +78,7 @@ Bovendien kunt u de volgende gegevens weergeven binnen de plaatsingsinstellingen
 
 * [A (detailweergave) [!UICONTROL Inspector])](placement-details-view.md), waarin alle beoogde sites, advertenties, frequentiegegevens en overeenkomsten voor plaatsing worden weergegeven.
 
-* A [rapport voor plaatsingsprognose](/help/dsp/campaign-management/reports/placement-forecast.md)
+* A [rapport voor plaatsingsprognose](/help/dsp/campaign-management/reports/placement-forecast.md).
 
 * [Plaatsingsdiagnoseverslagen](/help/dsp/campaign-management/reports/placement-diagnostics.md).
 
