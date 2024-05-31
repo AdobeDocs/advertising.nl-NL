@@ -3,9 +3,9 @@ title: Overzicht van [!DNL Analytics for Advertising]
 description: Overzicht van [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: a0a3bb1e74ffc687118d0336a03dcc6164b67226
 workflow-type: tm+mt
-source-wordcount: '1149'
+source-wordcount: '1181'
 ht-degree: 0%
 
 ---
@@ -84,7 +84,7 @@ Zie &quot;[Analytische gegevens in Adobe Advertising](analytics-data-in-advertis
 
 Adobe Advertising kan worden opgenomen [!DNL Analytics] segmenten voor het opnieuw in de handel brengen van DSP en [!DNL Search, Social, & Commerce] advertenties die gebruikmaken van de integratie van het native Experience Cloud publiek tussen [!DNL Analytics] en Experience Cloud.
 
-Als u toegang wilt krijgen tot [!DNL Analytics] segmenten, moet een adverteerderaccount de [Experience Cloud-id-service](https://experienceleague.adobe.com/docs/id-service/using/home.html) ingeschakeld. Wanneer de Dienst van identiteitskaart wordt toegelaten, alle segmenten van het Experience Cloud (met inbegrip van segmenten die in worden gecreeerd [!DNL Analytics] en gepubliceerd naar Experience Cloud, segmenten gemaakt in Adobe Audience Manager, segmenten gemaakt in Experience Cloud met behulp van de [!DNL People core service]en segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden), worden in de Adobe Advertising beschikbaar zodra ze worden verwerkt.
+Als u toegang wilt krijgen tot [!DNL Analytics] segmenten, moet een adverteerderaccount de [Experience Cloud-id-service](https://experienceleague.adobe.com/docs/id-service/using/home.html). Wanneer de Dienst van identiteitskaart wordt toegelaten, alle segmenten van het Experience Cloud (met inbegrip van segmenten die in worden gecreeerd [!DNL Analytics] en gepubliceerd naar Experience Cloud, segmenten gemaakt in Adobe Audience Manager, segmenten gemaakt in Experience Cloud met behulp van de [!DNL People core service]en segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden), worden in de Adobe Advertising beschikbaar zodra ze worden verwerkt.
 
 [!DNL Analytics] segmenten zijn binnen 24 uur beschikbaar en worden dagelijks bijgewerkt.
 
@@ -135,6 +135,10 @@ Als u wilt weten hoe u de gegevens van uw Adobe Advertising kunt bijhouden op ba
 ### Gebruikend Adobe Advertising identiteitskaart voor de Analyse van de Ingang van de Plaats
 
 Om te zien hoe u een rapport van de de plaatsingang van de Adobe Advertising kunt creëren om dag-van-week, tijd-van-dag, browser, en geografische invloeden te controleren, zie de video &quot;[Rapporten over site-invoer voor Adobe Advertising maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html).&quot;
+
+## Hoe een [!DNL Analytics for Advertising] Implementatie
+
+Neem contact op met het accountteam van de Adobe, dat de initiële configuratie die nodig is om te beginnen, zal voltooien en u zal helpen uw implementatie en gegevensgebruik te plannen op basis van de behoeften van uw organisatie.
 
 >[!MORELIKETHIS]
 >
