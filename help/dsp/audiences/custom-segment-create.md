@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: b90e831d0fdd5f4f4f47381a2603a3adaea765b2
+source-git-commit: 99091cd673fd064908fec4a89e28d2ddb448e9a8
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -81,6 +81,20 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
          1. Kopieer de tag voor het bijhouden van de paginaweergave, die is gelabeld als &quot;[!UICONTROL Desktop or mobile websites].&quot;
 
+         1. (Tags voor segmenten die worden bijgehouden [!DNL ID5] Id&#39;s) Vervang in de gekopieerde tag `ID5_PARTNER_ID` met partneridentiteitskaart dat [!DNL ID5] toegewezen aan uw organisatie.
+
+            Bijvoorbeeld, als uw ID5 partner identiteitskaart is `abcde` en de gegenereerde segmenttag is
+
+            ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+
+            vervolgens vervangen `ID5_PARTNER_ID` with `abcde` binnen de tag om het volgende op te halen:
+
+            ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
+
+            Uw organisatie ontving partneridentiteitskaart toen het een overeenkomst met ondertekende [!DNL ID5]. Neem contact op met het accountteam van de Adobe als u uw partner-id niet kent.
+
+            Deze stap is niet nodig voor codes om te volgen [!DNL ID5] Id&#39;s voor gebruikers die worden blootgesteld aan een advertentie-eenheid op mobiele of desktopapparaten.
+
          1. Geef de tag door aan de adverteerder of websitecontactpersoon voor implementatie.
 
             De IT-afdeling of andere groep van de adverteerder moet mogelijk de implementatie van de tag plannen of hierover worden geïnformeerd.
@@ -89,21 +103,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
          1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads].&quot;
 
-   1. (Tags voor segmenten die worden bijgehouden [!DNL ID5] ID&#39;s voor desktopbezoekers en mobiele bezoekers van een webpagina) Vervang in de gekopieerde tag `ID5_PARTNER_ID` met partneridentiteitskaart dat [!DNL ID5] toegewezen aan uw organisatie.
-
-   Bijvoorbeeld, als uw ID5 partner identiteitskaart is `abcde` en de gegenereerde segmenttag is
-
-   ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
-
-   vervolgens vervangen `ID5_PARTNER_ID` with `abcde` binnen de tag om het volgende op te halen:
-
-   ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
-
-   Uw organisatie ontving partneridentiteitskaart toen het een overeenkomst met ondertekende [!DNL ID5]. Neem contact op met het accountteam van de Adobe als u uw partner-id niet kent.
-
-   Deze stap is niet nodig voor codes om te volgen [!DNL ID5] Id&#39;s voor gebruikers die worden blootgesteld aan een advertentie-eenheid op mobiele of desktopapparaten.
-
-1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
+         1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
 
