@@ -3,9 +3,9 @@ title: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics fo
 description: Vereisten en belangrijke Informatie voor het Uitvoeren [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 7c477900-ebb0-4c0e-811a-ab8bc6069599
-source-git-commit: 63b91d84118c6b84fe72ae1c3ac1a9f68d7201fc
+source-git-commit: 156e64af56e0aa95999210bd0cc8df38ce42690d
 workflow-type: tm+mt
-source-wordcount: '889'
+source-wordcount: '842'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,6 @@ Controleer de volgende informatie voordat u Adobe Advertising met Adobe Analytic
 * Elke versie van Adobe Analytics (inclusief [!DNL Prime], [!DNL Premium], of [!DNL Ultimate])
 * Adobe Analytics: `appMeasurement.js` versie 2.1 of hoger
 * (Reclame DSP klanten) en [Adverteren DSP JavaScript-fragment](javascript.md) geïmplementeerd op uw webpagina&#39;s om doorkijkbezoeken bij te houden.
-* De parameter van AMO-id in de URL&#39;s voor bijhouden van uw advertenties.
-
-  De parameter wordt in bepaalde gevallen automatisch toegevoegd aan URL&#39;s die worden bijgehouden, maar moet mogelijk handmatig worden toegevoegd. In &quot;Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]/help/integrations/analytics/ids.md,&quot; zie &quot;[Manieren om de AMO-id te implementeren](/help/integrations/analytics/ids.md#amo-id-implement).&quot;
 
 >[!TIP]
 >
