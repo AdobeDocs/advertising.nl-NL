@@ -4,10 +4,10 @@ description: Meer informatie over het beleid en de richtlijnen voor DSP voor adv
 index: true
 cloud: Experience Cloud
 product: advertising cloud
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 3d495d07a1f030d7c0c3a9752f405cbd73b26b3e
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 23%
+source-wordcount: '46'
+ht-degree: 21%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 23%
 
 Meer informatie over het beleid en de richtlijnen voor DSP voor advertenties en Zoeken in advertenties:
 
-* [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
-* [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
-* [Richtlijnen voor gegevensgebruik DSP](/help/policies/data-usage-guidelines.md)
++ [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
++ [Beleid voor Universal ID-vereisten](/help/policies/universal-id-policy.md)
++ [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)
++ [[!DNL DSP] Richtlijnen voor gegevensgebruik](/help/policies/data-usage-guidelines.md)

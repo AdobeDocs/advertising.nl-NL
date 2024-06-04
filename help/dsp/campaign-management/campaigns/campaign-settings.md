@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 5d07300ab49b96daf392cb51f8936fa4c0cd20ce
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '980'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ Belastingen die moeten worden ingehouden ramen:
 >
 >* U kunt deze waarden ook configureren in de instellingen voor accountkosten.<!--[fee settings](/help/dsp/admin/tax-withholdings.md). -->
 
-**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn gemaakt; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn gemaakt) Het niveau waarop DSP zich richt op advertenties en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten.
+**[!UICONTROL Cross Device Level]:** (Alleen-lezen voor bestaande campagnes die sinds 22 juni 2020 zijn gemaakt; niet beschikbaar voor campagnes die vóór 22 juni 2020 zijn gemaakt) Het niveau waarop DSP advertenties aanstuurt en frequentieplafonds toepast: *Zelfde apparaat* een apparaat of *Mensen* om een persoon over al hun bekende apparaten te richten. **Opmerking:** Ondersteuning voor verschillende apparaten is niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
 **[!UICONTROL Device Graph]:** (Alleen-lezen voor bestaande campagnes; campagnes met alleen op personen gebaseerde cross-device focus) De apparaatgrafiek die moet worden gebruikt voor apparaatbesturing en frequentiebeheer:
 
@@ -86,7 +86,9 @@ Belastingen die moeten worden ingehouden ramen:
 
   Deze optie is ook beschikbaar voor alle adverteerders, zonder vergoedingen, voor frequentiebeheer en attributiemeting.
 
-**[!UICONTROL Frequency Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level]) kan uit de campagne worden aangeboden. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
+  Ondersteuning voor verschillende apparaten is alleen van toepassing op plaatsen die oudere id&#39;s als doel hebben, maar niet op plaatsen die universele id&#39;s als doel hebben (inclusief [!DNL LiveRamps]). Het richten, frequentiebeheer, en de attributie voor universele IDs wordt toegepast slechts op het niveau van identiteitskaart.
+
+**[!UICONTROL Frequency Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat, een universele id of een persoon (afhankelijk van het opgegeven [!UICONTROL Cross Device Level] en de plaatsing [!UICONTROL Targeting] instellen) kan advertenties uit de campagne ontvangen. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >

@@ -3,16 +3,16 @@ title: Plaatsen bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: ae1a58bd0aed430cd2914146dfb2850bc8125025
+source-git-commit: 5d07300ab49b96daf392cb51f8936fa4c0cd20ce
 workflow-type: tm+mt
-source-wordcount: '368'
+source-wordcount: '378'
 ht-degree: 0%
 
 ---
 
 # Plaatsen bewerken
 
-U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk bewerken.
+U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk bewerken. Sommige instellingen kunnen niet worden gewijzigd als de plaatsing live is.
 
 <!-- Some placements don't have these options. Clarify which placement types aren't eligible -- is it PG placements, or all placements using private inventory? And anything else? -->
 

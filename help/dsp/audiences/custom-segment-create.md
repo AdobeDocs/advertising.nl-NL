@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: 99091cd673fd064908fec4a89e28d2ddb448e9a8
+source-git-commit: 2fe54fbcd9711e714246f074ede086910b538b80
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,8 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
                  AdCloudEvent('IMS ORG Id','rsid');
       </script>
       ```
+
+   1. Gebruik om het even welk browser het zuiveren hulpmiddel om te verifiëren dat elke vraag aan het domein in werking wordt gesteld `lasteventf-tm.everesttech.net` en bevat de parameter `_les_id5` met een gecodeerde ID5-id als waarde.
 
 ## Een aangepast segment maken en implementeren
 

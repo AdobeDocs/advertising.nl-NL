@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
+source-git-commit: 5d07300ab49b96daf392cb51f8936fa4c0cd20ce
 workflow-type: tm+mt
-source-wordcount: '3535'
+source-wordcount: '3789'
 ht-degree: 0%
 
 ---
@@ -311,11 +311,25 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 * Om een publiek te creëren, klik ![Selecteren](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences]en selecteer vervolgens **+ Publiek maken**. Zie voor instructies [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md), vanaf stap 3.
 
-* Om specifieke publiekssegmenten te selecteren, klik **[!UICONTROL Select segments for this placement only]**. Selecteer de segmentlogica; zie voor instructies Stap 6 in &quot;[Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md).&quot; Als u klaar bent, klikt u **Opslaan**.
+**[!UICONTROL Targeting]:** De typen gebruikers-id&#39;s waarop u wilt verwijzen. U kunt deze instelling niet wijzigen nadat de plaatsing live is (dus nadat de vlucht is gestart).
 
-**[!UICONTROL Cross Device Targeting]:** (Beschikbaar als u ten minste één segment of publiek selecteert en [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md). Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
+Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#39;s de voorkeur voor biedingen.
 
-**[!UICONTROL Placement Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat of een unieke persoon (afhankelijk van het opgegeven apparaat of de opgegeven persoon) [!UICONTROL Cross Device Level] voor de campagne ) worden advertenties aangeboden vanaf de plaatsing . Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
+* *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (De standaardinstelling) Hiermee wordt gericht op gebruikers op basis van hun cookies, mobiele advertentie-id&#39;s of aangesloten tv-id&#39;s (CTV). De id&#39;s worden geselecteerd op basis van de browser, in-app of CTV-inventaris.
+
+* *[!UICONTROL Universal ID Beta]*: Hiermee worden op de privacy gerichte id&#39;s van gebruikers bedoeld. Selecteer één id-type. De beschikbare opties worden bepaald door de geselecteerde geografische doelstellingen in de [!UICONTROL Geo-Targeting] sectie. Gebruiken met [[!DNL RampID] segmenten die rechtstreeks worden geïmporteerd in DSP](/help/dsp/audiences/sources/source-import-liveramp-segments.md), [segmenten waarvoor DSP uw PII in universele IDs omzet](/help/dsp/audiences/sources/source-about.md), of [aangepaste segmenten die universele id&#39;s bijhouden](/help/dsp/audiences/custom-segment-create.md).
+
+   * *[!UICONTROL ID5]*: doelstellingen [!DNL ID5] Id&#39;s zijn waarschijnlijk gemaakt op basis van e-mailadressen en andere signalen.<!-- What countries/geos are these available for? Everywhere?--> ID5-id&#39;s zijn gratis beschikbaar. **Opmerking:** Segmenten van derden [!DNL Eyeota] ID5-id&#39;s kunnen zijn.
+
+   * *[!UICONTROL RampID]*: doelstellingen [!DNL LiveRamp] [!DNL RampIDs] van gebruikers die zich op uw site hebben aangemeld via hun e-mailadres.<!-- Verify --> [!DNL RampIDs] zijn beschikbaar voor gebruikers in Noord-Amerika, Australië en Nieuw-Zeeland.
+
+   * *[!UICONTROL Unified ID2.0]*: doelstellingen [!DNL Unified ID2.0] (UID2) ID&#39;s van gebruikers die zich bij uw site hebben aangemeld via hun e-mailadres.<!-- Verify -->[!DNL UID2 IDs] zijn niet beschikbaar voor gebruikers in de Europese Economische Ruimte en enkele andere landen. Zie de [lijst van verboden landen](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+
+  **[!UICONTROL Terms of service]**: De serviceovereenkomst voor het gebruik van universele id&#39;s. U of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat u gegevens kunt converteren naar een nieuw id-type. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Als u de voorwaarden wilt lezen, klikt u op **>**. Als u de voorwaarden wilt accepteren, schuift u naar de onderkant van de voorwaarden en klikt u op **[!UICONTROL Accept]**.
+
+**[!UICONTROL Cross Device Targeting]:** (Beschikbaar als de [campagne is geconfigureerd voor apparaatspecifieke doelgroepen](/help/dsp/campaign-management/campaigns/campaign-settings.md), richt u erfenis slechts IDs (niet universele IDs), en u selecteert minstens één segment of publiek. Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
+
+**[!UICONTROL Placement Cap]:** (Optioneel) Het aantal keren dat een uniek apparaat, een universele id of een persoon (afhankelijk van het opgegeven [!UICONTROL Cross Device Level] voor de campagne en de plaatsing [!UICONTROL Targeting] (instellen) kan advertenties vanuit de plaatsing ontvangen. Opties omvatten *[!UICONTROL Unlimited]* of een specifiek bedrag per dag, week of maand.
 
 >[!NOTE]
 >

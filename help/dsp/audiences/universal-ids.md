@@ -2,9 +2,9 @@
 title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 56489cd226d4a46fa3b1548492b4a9c6fd7e0528
 workflow-type: tm+mt
-source-wordcount: '1160'
+source-wordcount: '1369'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ DSP ondersteunt universele id&#39;s op basis van personen voor koelapparaten, en
 
 * **[!DNL Analytics]rapporten:** Adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) die alle vereiste stappen hebben geïmplementeerd, kunnen doorkijkconversies via Universal ID-type bekijken in [!DNL Analytics].
 
+  >[!IMPORTANT]
+  >
+  >Voor een juiste conversie-toewijzing moet u ervoor zorgen dat de URL&#39;s waarop u klikt voor uw advertenties zowel de [EF-id en AMO-id](/help/integrations/analytics/ids.md).
+
 * **Segmentdetails:** Voor alle segmenttypes, omvatten de segmentdetails de publieksgrootte door universeel type van identiteitskaart en door het apparatentype dat door koekjes of apparaat IDs wordt gevolgd.
 
 ## Hoe te om een Universeel Publiek van identiteitskaart in Uw Plaatsen te richten
@@ -46,19 +50,25 @@ DSP ondersteunt universele id&#39;s op basis van personen voor koelapparaten, en
 
 Ga als volgt te werk in een nieuwe, geplande of gepauzeerde plaatsing:
 
-* In de [!UICONTROL Geo-Targeting] in de sectie, de geografische gebieden specificeren waarop de actie betrekking heeft. Elke partner van universele id staat gebruiker toe slechts gericht op specifieke geografische gebieden en slechts zijn de in aanmerking komende types van identiteitskaart beschikbaar in [!UICONTROL Targeting] instellingen.
+1. In de [!UICONTROL Geo-Targeting] in de sectie, de geografische gebieden specificeren waarop de actie betrekking heeft. Elke partner van universele id staat gebruiker toe slechts gericht op specifieke geografische gebieden en slechts zijn de in aanmerking komende types van identiteitskaart beschikbaar in [!UICONTROL Targeting] instellingen.
 
-* In de [!UICONTROL Audience Targeting] Ga als volgt te werk:
+1. In de [!UICONTROL Audience Targeting] Ga als volgt te werk:
 
-   * In de [!UICONTROL Included Audiences] Selecteer het segment waarvoor gebruikersgegevens zijn omgezet in universele id&#39;s.
+   1. In de [!UICONTROL Included Audiences] Selecteer het segment waarvoor gebruikersgegevens zijn omgezet in universele id&#39;s.
 
-     U kunt desgewenst aanvullende segmenten opnemen.
+      U kunt desgewenst aanvullende segmenten opnemen.
 
-   * In de [!UICONTROL Targeting] Selecteer het universele-id-type waarop u wilt wijzen.
+   1. In de [!UICONTROL Targeting] instellingen:
 
-     De instelling bevat de opties &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID], die de subopties kunnen omvatten &quot;[!UICONTROL ID5],&quot; &quot;[!UICONTROL RampID],&quot; en &quot;[!UICONTROL Unified ID2.0].&quot; De werkelijke subopties worden bepaald door de geselecteerde geografische doelstellingen.
+      1. Selecteer het universele-id-type waarop u wilt wijzen.
 
-     U kunt beide &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID],&quot; maar u kunt slechts één type universele id selecteren per plaatsing. Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#39;s de voorkeur voor biedingen.
+         De instelling bevat de opties &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID], die de subopties kunnen omvatten &quot;[!UICONTROL ID5],&quot; &quot;[!UICONTROL RampID],&quot; en &quot;[!UICONTROL Unified ID2.0].&quot; De werkelijke subopties worden bepaald door de geselecteerde geografische doelstellingen.
+
+         U kunt beide &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID],&quot; maar u kunt slechts één type universele id selecteren per plaatsing. Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#39;s de voorkeur voor biedingen.
+
+      1. (Indien nodig) Accepteer de serviceovereenkomst voor het gebruik van universele id&#39;s.
+
+         Voordat u gegevens kunt converteren naar een nieuw type id, moet een gebruiker in de DSP account de serviceovereenkomst accepteren. De voorwaarden moeten slechts eenmaal per ID-type per account worden geaccepteerd.
 
 Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md).&quot;
 
@@ -75,6 +85,8 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 * Kopieer de originele pakketten en plaatsingen, pas de budgetten aan op basis van de grootte van de test, wijzig het publiek dat u wilt gebruiken [!DNL RampID]-based segmenten (voor voor authentiek verklaarde gebruikers) of op ID5-Gebaseerde segmenten (voor niet voor authentiek verklaarde gebruikers), en verifieer dat de nieuwe pakketten en de plaatsen hun volledige begrotingen uitgeven.
 
    * Als u de prestaties van universele id-gebaseerde segmenten wilt vergelijken met de prestaties van plaatsingen voor andere publiek-id&#39;s, zoals cookies of mobiele advertentie-id&#39;s, maakt u een campagne met een aparte universele id-gebaseerde plaatsing en een oudere ID-gebaseerde plaatsing.
+
+     Voor een volledige het opnieuw richten test, doel zowel RampIDs voor voor authentiek verklaarde gebruikers als ID5s voor niet voor authentiek verklaarde gebruikers.
 
      De beste prestaties leveren zou niet de primaire vergelijking moeten zijn. Bepaal in plaats daarvan welke id&#39;s goed schalen, wat uw optimalisatie en begrotingstoewijzingen later kan beïnvloeden. Het langetermijndoel is het compenseren van verloren indrukken en plaatsverkeer wanneer de koekjes verouderd zijn.
 
@@ -97,6 +109,20 @@ Er zijn twee redenen voor variatie voor gehashte e-mailadressen waarnaar wordt v
 * A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. DSP krijgt echter geen toewijzingen tussen afgeleid en onderhouden [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
 
   Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoek de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
+
+## Problemen oplossen
+
+Als u het aantal gebruikers niet ziet, of uw publieksgrootte is laag, dan controleer het volgende:
+
+* Als u [!DNL Flashtalking] of [!DNL Google Campaign Manager 360] voegt u toe, controleert u vervolgens of de URL&#39;s waarop de advertenties klikken, de juiste macro&#39;s bevatten. Zie de macro&#39;s voor [[!DNL Flashtalking] advertenties](/help/integrations/analytics/macros-flashtalking.md) en [[!DNL Google Campaign Manager 360] advertenties](/help/integrations/analytics/macros-google-campaign-manager.md).
+
+* Zorg ervoor dat de juiste, universele id partnerspecifieke code op uw website wordt geïmplementeerd om gebeurtenissen en advertentieblootstellingen op locatie te laten overeenkomen. Werk met uw [!DNL LiveRamp] of [!DNL ID5] indien nodig.
+
+* (Voor [!DNL RampIDs] en [!DNL UID 2.0] Id&#39;s) Controleer of uw [DSP gegevensbron is correct geconfigureerd](/help/dsp/audiences/sources/source-settings.md)en dat de tellingen van de gebruiker worden gevuld voor de gegenereerde publiekssegmenten.
+
+* Als uw bereik kleiner is dan u verwacht, controleert u of de logica van het publiekssegment niet te korrelig is.
+
+Neem contact op met het accountteam van de Adobe als u het probleem niet kunt oplossen.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
+source-git-commit: 1d8f7c8a365b53a0345ef4155802802acbf3f027
 workflow-type: tm+mt
-source-wordcount: '756'
+source-wordcount: '792'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
 * Vooraf geconfigureerde rapportsjablonen
 
-   * **[!UICONTROL Billing]:** Gebruik dit rapport om belangrijke factureringsmetriek zoals uitgavenmetriek voor media het factureren door campagne te begrijpen.
+   * **[!UICONTROL Billing]:** Gebruik dit rapport om belangrijke factureringsmetriek zoals uitgavenmetriek voor media het factureren door campagne te begrijpen. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
      >[!NOTE]
      >
@@ -61,7 +61,7 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Geo]**: Gebruik deze vooraf ingevulde sjabloon om de belangrijkste metriek op geografische afmetingen weer te geven.
 
-   * **[!UICONTROL Margin]:** Gebruik dit rapport om belangrijke metriek zoals marge, winst, en andere uitgavenmetriek door campagne of plaatsing te zien.
+   * **[!UICONTROL Margin]:** Gebruik dit rapport om belangrijke metriek zoals marge, winst, en andere uitgavenmetriek door campagne of plaatsing te zien. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
    * **[!UICONTROL Segment]:** Gebruik dit vooraf ingevulde malplaatje om zeer belangrijke metriek door segment te zien.
 
@@ -72,9 +72,9 @@ U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maa
 
    * **[!UICONTROL Site]:** Standaard bevat dit standaard standaardcijfers, totale netto-uitgaven voor media en totale netto-uitgaven voor facturering per site.
 
-   * **[!UICONTROL Household Reach & Frequency]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+   * **[!UICONTROL Household Reach & Frequency]:** Met dit rapport kunt u indrukken, bereik en frequentie voor één dimensie in verschillende advertentievormen op het niveau van een huishouden bekijken, in plaats van op apparaat/cookie-niveau. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie . Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
-   * **[!UICONTROL Household Conversions]:** Gebruik dit rapport om mening-door omzettingen op het huisniveau te zien dat op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie .
+   * **[!UICONTROL Household Conversions]:** Gebruik dit rapport om mening-door omzettingen op het huisniveau te zien dat op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-household-report.md)&quot; voor meer informatie . Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 

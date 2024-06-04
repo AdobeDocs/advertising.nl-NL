@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 08f177d0cc05b9a4e6c240ba78dcb903587a1bfa
+source-git-commit: b579c0413400b0af697f06c272878c46cce8003e
 workflow-type: tm+mt
-source-wordcount: '901'
+source-wordcount: '903'
 ht-degree: 3%
 
 ---
@@ -115,7 +115,8 @@ ht-degree: 3%
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
    + [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
-   + Soorten publiek {#reusable-audiences}
+   + [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
+   + Herbruikbare soorten publiek {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
       + [Een herbruikbaar publiek bewerken](/help/dsp/audiences/reusable-audience-edit.md)
@@ -137,14 +138,13 @@ ht-degree: 3%
       + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
       + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Bronnen {#sources}
-      + [Ongeveer het Activeren van Authenticated Segmenten van de Bronnen van het Publiek](/help/dsp/audiences/sources/source-about.md)
+      + [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
       + Workflows door het gegevensplatform van de klant {#sources-workflows}
-         + [!DNL Adobe Real-Time CDP] {#sources-adobe-rt-cdp}
-            + [Workflow voor het gebruik van de DSP integratie met [!DNL Adobe Real-Time CDP]](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
-            + [Activeer Erkende Segmenten van de Universele Partners van identiteitskaart](/help/dsp/audiences/sources/source-universal-id.md)
-         + [Workflow voor het gebruik van de DSP integratie met [!DNL Tealium]](/help/dsp/audiences/sources/source-tealium.md)
-      + [Creeer een Bron van het Publiek om Eerste Publiek te activeren](/help/dsp/audiences/sources/source-create.md)
+         + [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+         + [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
+      + [Een doelbron maken om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-create.md)
       + [Broninstellingen voor publiek](/help/dsp/audiences/sources/source-settings.md)
+   + [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
    + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)
 + Inventaris {#inventory}
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
