@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: 06275b37fd5e9449cbf80bcff4f55aaaa8a99b55
+source-git-commit: 226b9a78b00f547da840c27663241f91dfca92d3
 workflow-type: tm+mt
-source-wordcount: '579'
+source-wordcount: '669'
 ht-degree: 0%
 
 ---
@@ -27,12 +27,24 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
   Begrijp het totale campagnebereik op het niveau van het huishouden, evenals de bijdrage van de individuele schermen. De rapportopties omvatten:
 
+   * Cross-ID Huishoudelijk Bereik, Frequentie, &amp; Omzetting (Koekeloos)
+
+      * Het unieke/incrementele bereik, de overlappingen en conversies op huishoudelijk niveau kwantificeren op basis van het type id zonder koeling (RampID, ID5) in meerdere omgevingen, inclusief aangesloten tv (CTV) en digitaal (desktop, mobiel, native en audio).
+
+      * Bewijs de doeltreffendheid van het testen van koelloze id&#39;s bij het vinden van incrementeel bereik in verhouding tot op cookies gebaseerde segmenten.
+
    * Gemiddelde tijd voor conversie
+
    * Conversiefrequentie
-   * Gekoppelde tv-rapportage (CTV)
+
+   * CTV-rapportage
+
    * Toename CTV-app
+
    * Rapportage op verschillende schermen (digitaal en CTV)
+
    * Cross-Screen Plus Reporting (Digital, CTV en TV)
+
    * Digitaal in-segment Bereik en Frequentie
 
 * **Op mensen gebaseerde Bereik en Omzettingen**
@@ -42,6 +54,11 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
    * **Op personen gebaseerde zoekopdracht voor verschillende id&#39;s**
 
      Kwaneer het unieke bereik en de overlapping tussen koekjes en RampIDs, evenals de kosten per metrisch door type van identiteitskaart. De effectiviteit van het testen van RampID&#39;s aantonen bij het zoeken naar incrementeel bereik in verhouding tot op cookies gebaseerde segmenten in meerdere digitale omgevingen, zoals desktopcomputers, mobiele apparaten, native apparaten en audio.
+
+* **Halo-effect op zoekrapportage**
+
+  Kwantificeer de impact van CTV en digitale advertentieblootstellingen op het drijven van onderzoek kliks, onderzoeksomzettingen, en ROAS op het niveau van het huishouden over CTV app, onderzoekssleutelwoord, onderzoeksmotor, en douanepubliek en tactische niveaus.
+
 
 * **[!DNL Dynata]Op deelvensters gebaseerde enquêtes**
 
@@ -79,7 +96,7 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
    * Meting van Bereik, Frequentie en Omzetting op verschillende schermen
 
-     Elke client die op zoek is naar inzicht in bereik/incrementele bereik en op kosten gebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken in verhouding tot lineaire tv-investeringen
+     Elke client die op zoek is naar inzicht in bereik/incrementeel bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken in verhouding tot lineaire tv-investeringen
 
    * Op het deelvenster Dynata gebaseerde enquêtes
 
