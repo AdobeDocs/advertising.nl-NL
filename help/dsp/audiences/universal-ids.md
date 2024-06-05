@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: 2d8edb7e5c32ba7077a7f4e6550ed22ec680b1fc
+source-git-commit: 503b1efbf95ac242a2c9e3db0764dc7b228137e0
 workflow-type: tm+mt
-source-wordcount: '1366'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -103,13 +103,17 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
 ## Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s {#universal-ids-data-variances}
 
-Er zijn twee redenen voor variatie voor gehashte e-mailadressen waarnaar wordt vertaald [!DNL RampIDs]:
+* Vertaalde e-mailadressen zijn vertaald naar id5:
 
-* Wanneer meerdere profielen dezelfde e-mailid gebruiken, kan het aantal DSP segmenten lager zijn dan het aantal profielen in het gegevensplatform van uw klant. In Adobe Photoshop kunt u bijvoorbeeld een bedrijfsaccount en een persoonlijke account maken met één e-mailadres. Maar als beide profielen tot hetzelfde segment behoren, worden de profielen toegewezen aan één e-mailid en aan één overeenkomstige e-mailid [!DNL RampID].
+  Het probabilistische model heeft een foutenvariantie van +/- 5%. Dit betekent dat het aantal kijkers met 5% kan worden overschat of onderschat.
 
-* A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. DSP krijgt echter geen toewijzingen tussen afgeleid en onderhouden [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
+* Vertaalde e-mailadressen naar [!DNL RampIDs]:
 
-  Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoekt de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
+   * Wanneer meerdere profielen dezelfde e-mailid gebruiken, kan het aantal DSP segmenten lager zijn dan het aantal profielen in het gegevensplatform van uw klant. In Adobe Photoshop kunt u bijvoorbeeld een bedrijfsaccount en een persoonlijke account maken met één e-mailadres. Maar als beide profielen tot hetzelfde segment behoren, worden de profielen toegewezen aan één e-mailid en aan één overeenkomstige e-mailid [!DNL RampID].
+
+   * A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. DSP krijgt echter geen toewijzingen tussen afgeleid en onderhouden [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
+
+     Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoekt de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
 
 ## Problemen oplossen
 
