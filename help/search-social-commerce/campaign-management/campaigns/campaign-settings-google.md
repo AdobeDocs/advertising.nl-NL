@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 0a858fb9437439d2755f1a9679b0849c614293b7
+source-git-commit: fd5a78a0eb2982ee85ca2d2b6a3cd79a0821d965
 workflow-type: tm+mt
-source-wordcount: '2426'
+source-wordcount: '2424'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Display Network Only]:* Toont advertenties op het weergavenetwerk. Voor elke advertentiegroep moet u plaatsingen specificeren en kunt naar keuze sleutelwoorden specificeren.
 
-* *[!UICONTROL Performance Max]:* (De functie Bèta) toont en optimaliseert omzettingen voor uw advertenties over kanalen gebruikend [!DNL Google Ads] slim bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, kopregels, beschrijvingen, optionele video&#39;s en publiekssignalen. [!DNL Google Ads] combineert automatisch de elementen om advertenties te bedienen op basis van het kanaal (zoals [!DNL YouTube], [!DNL Gmail], of [!DNL Search]).
+* *[!UICONTROL Performance Max]:* Hiermee toont en optimaliseert u omzettingen voor uw advertenties via kanalen [!DNL Google Ads] slim bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, kopregels, beschrijvingen, optionele video&#39;s en publiekssignalen. [!DNL Google Ads] combineert automatisch de elementen om advertenties te bedienen op basis van het kanaal (zoals [!DNL YouTube], [!DNL Gmail], of [!DNL Search]).
 
   **Opmerkingen:**
 
