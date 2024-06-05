@@ -2,9 +2,10 @@
 title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
-source-git-commit: bd0586516c2457e4dfcd1a23046707e8bf652e3b
+exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
+source-git-commit: 2d8edb7e5c32ba7077a7f4e6550ed22ec680b1fc
 workflow-type: tm+mt
-source-wordcount: '1369'
+source-wordcount: '1366'
 ht-degree: 0%
 
 ---
@@ -62,7 +63,7 @@ Ga als volgt te werk in een nieuwe, geplande of gepauzeerde plaatsing:
 
       1. Selecteer het universele-id-type waarop u wilt wijzen.
 
-         De instelling bevat de opties &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID], die de subopties kunnen omvatten &quot;[!UICONTROL ID5],&quot; &quot;[!UICONTROL RampID],&quot; en &quot;[!UICONTROL Unified ID2.0].&quot; De werkelijke subopties worden bepaald door de geselecteerde geografische doelstellingen.
+         De instelling bevat de opties &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID], die de subopties kunnen omvatten &quot;[!UICONTROL ID5],&quot; &quot;[!UICONTROL RampID],&quot; en &quot;[!UICONTROL Unified ID2.0].&quot; De geselecteerde geografische doelstellingen bepalen de beschikbare subopties.
 
          U kunt beide &quot;[!UICONTROL Legacy IDs]&quot; en &quot;[!UICONTROL Universal ID],&quot; maar u kunt slechts één type universele id selecteren per plaatsing. Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#39;s de voorkeur voor biedingen.
 
@@ -96,7 +97,7 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
      >[!NOTE]
      >
-     >De frequentietoewijzing is van toepassing op een individuele identiteitskaart. Wanneer een gebruiker veelvoudige types van identiteitskaart heeft, zou u die gebruiker kunnen bereiken meer dan u had verwacht.
+     >De frequentietoewijzing is van toepassing op een individuele identiteitskaart. Wanneer een gebruiker veelvoudige types van identiteitskaart heeft, zou u die gebruiker kunnen bereiken meer dan u verwacht.
 
 * Herinner dat het bereik voor voor authentiek verklaarde publiekssegmenten natuurlijk kleiner is dan het bereik voor op koekjes-gebaseerde segmenten, en dat het gebruiken van extra het richten opties uw bereik verder vermindert. Wees voorzichtig met het gebruik van korrelige doelen, vooral door meerdere doelen te verbinden met AND-instructies.
 
@@ -108,7 +109,7 @@ Er zijn twee redenen voor variatie voor gehashte e-mailadressen waarnaar wordt v
 
 * A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. DSP krijgt echter geen toewijzingen tussen afgeleid en onderhouden [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
 
-  Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoek de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
+  Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoekt de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
 
 ## Problemen oplossen
 
