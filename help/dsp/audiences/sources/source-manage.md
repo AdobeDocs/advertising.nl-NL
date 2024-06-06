@@ -1,16 +1,16 @@
 ---
-title: Bronnen voor publiek maken en beheren om universeel ID-publiek te activeren
+title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '715'
 ht-degree: 0%
 
 ---
 
-# Een doelbron maken om Universal ID-publiek te activeren
+# Bronnen voor publiek beheren om Universal ID-publiek te activeren
 
 *Beta, functie*
 
@@ -18,7 +18,17 @@ Creeer een bron in DSP voor elk eerste-partijpubliek in uw platform van klanteng
 
 Er zijn aanvullende stappen vereist om het publiek van elk klantgegevensplatform te kunnen innemen. Zie de opmerking aan het einde van de procedure.
 
+U kunt de Universal ID-typen wijzigen waarnaar het bronpubliek wordt vertaald, en een logboek met de wijzigingen weergeven.
+
+U kunt ook een bron verwijderen.
+
 ## Een doelbron maken
+
+<!-- Not sure about this
+
+You can create one source for each combination of universal ID partner and data visibility level.
+
+-->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
@@ -45,6 +55,15 @@ Er zijn aanvullende stappen vereist om het publiek van elk klantgegevensplatform
 >Nadat u een bron voor uw platform van klantengegevens creeert, zult u extra stappen moeten voltooien. Zie de [workflow voor het importeren van soorten publiek uit [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> en de [workflow voor het importeren van soorten publiek uit [!DNL Tealium]](source-tealium.md).
 
 ## Wijzig de types van identiteitskaart voor een Bron van het Publiek
+
+<!-- Clarify this:
+All changes to universal IDs translated from the source are applied after you save the the source record. For example, if a new ID is added, any hashed email addresses shared before making the changes aren't converted. Similarly, if an ID is removed, we don't delete any historical data from the segments shared through the source.
+
+OR 
+
+All changes to universal IDs translated from the source are applied after you save the the source record. For example, if you add a new ID type, then we convert hashed email addresses shared before making the changes to the new ID type. Similarly, if you remove an ID type, then we delete any historical IDs of that type from the segments shared through the source.
+
+-->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Sources]**.
 
@@ -82,9 +101,38 @@ U kunt details over veranderingen in een verslag van de publieksbron bekijken en
 
 1. (Optioneel) Als u het logbestand in een groter detailscherm wilt openen, houdt u de cursor boven de bronrij en klikt u op **[!UICONTROL View Details]**.
 
+## Broninstellingen voor publiek
+
+**[!UICONTROL Data Visibility Level]:** Of de segmenten beschikbaar zijn voor één adverteerder met toegang tot de account (*[!UICONTROL Advertiser]*) of aan alle adverteerders die toegang hebben tot de account *[!UICONTROL Account]*.
+
+**[!UICONTROL Advertiser]:** (Alleen de zichtbaarheid op advertentieniveau) De adverteerder voor wie de segmenten beschikbaar zijn. Selecteer een optie in de lijst met adverteerders die toegang hebben tot het account.
+
+**[!UICONTROL Enter IMS Org Id]:** ([!DNL Real-Time CDP] alleen bronnen) De Adobe Experience Cloud-organisatie-id voor de [!DNL Adobe Experience Platform] account.
+
+**[!UICONTROL Convert PII to the following IDs]:** De id-typen waarnaar u uw persoonlijk identificeerbare gegevens (PII) converteert. Als u meerdere typen selecteert, wordt het gegenereerde segment gevuld met waarden voor elk geselecteerd id-type (zoals een [!DNL RampID] en [!DNL Unified ID2.0] voor elk e-mailadres). Gegevensheffingen worden dienovereenkomstig toegepast.
+
+Voor [!DNL RampID] en [!DNL Unified ID2.0], zoekt de leverancier elk e-mailadres op om te zien of er al een id bestaat en zet het adres om in een overeenkomstige id, indien beschikbaar. Als er geen id voor het adres bestaat, wordt er een nieuwe id gemaakt.
+
+>[!NOTE]
+>
+>U kunt slechts één type id in één plaatsing als doel instellen. Prestaties testen op ID-type [een aparte plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md) voor elk type ID in het segment.
+
+* *[!DNL RampID]:* PII omzetten in een [!DNL RampID]. U kunt [!DNL RampIDs] voor het opnieuw richten van login gebruikers en voor [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) meting.
+
+* *[!DNL Unified ID2.0](Beta):* PII omzetten in een [Unified ID 2.0](https://unifiedid.com) ID voor het opnieuw richten van login gebruikers.
+
+<!-- Later
+* *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
+
+-->
+
+**[!UICONTROL Terms of Service]:** De serviceovereenkomst voor de conversie van PII naar universele id&#39;s. U of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat u gegevens kunt converteren naar een nieuw id-type. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Als u de voorwaarden wilt lezen, klikt u op **>**. Als u de voorwaarden wilt accepteren, schuift u naar de onderkant van de voorwaarden en klikt u op **[!UICONTROL Accept]**.
+
+**[!UICONTROL Source Key]:** (Alleen-lezen; automatisch gegenereerd) De bronsleutel die u kunt gebruiken om een doelverbinding te maken in het platform met klantgegevens om het publiek naar DSP te duwen. U kunt de waarde naar het klembord kopiëren en deze in de instellingen voor de doelverbinding of in een bestand plakken.
+
 >[!MORELIKETHIS]
 >
->* [Broninstellingen voor publiek](source-settings.md)
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
->* [Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+>* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)

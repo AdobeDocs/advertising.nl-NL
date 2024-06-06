@@ -2,9 +2,9 @@
 title: "Gebruikersnamen converteren van [!DNL ActionIQ] naar universele id's"
 description: "Leer hoe u DSP kunt inschakelen om uw [!DNL ActionIQ] eerste-partijsegmenten."
 feature: DSP Audiences
-source-git-commit: 729098f01fb9d076efb2b945be4011df9ab1c905
+source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,6 @@ Segmenten worden elke 24 uur vernieuwd.
 >
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Broninstellingen voor publiek](source-settings.md)
 >* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
 >* [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)

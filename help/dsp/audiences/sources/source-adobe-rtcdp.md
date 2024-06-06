@@ -3,9 +3,9 @@ title: Het gebruiken van de DSP Integratie met [!DNL Adobe] [!DNL Real-time CDP]
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
-source-git-commit: 729098f01fb9d076efb2b945be4011df9ab1c905
+source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
 workflow-type: tm+mt
-source-wordcount: '494'
+source-wordcount: '491'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,6 @@ Segmenten worden elke 24 uur vernieuwd. Opname in een segment verloopt echter na
 >[!MORELIKETHIS]
 >
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Broninstellingen voor publiek](source-settings.md)
 >* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* Adobe Experience Platform [Overzicht van de doelcatalogus](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
 >* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)

@@ -3,9 +3,9 @@ title: Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]
 description: Ervaar meer over het activeren van geverifieerde doelgroepen via [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
 workflow-type: tm+mt
-source-wordcount: '155'
+source-wordcount: '152'
 ht-degree: 0%
 
 ---
@@ -44,6 +44,5 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 >
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Broninstellingen voor publiek](source-settings.md)
 >* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
