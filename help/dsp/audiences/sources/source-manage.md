@@ -3,9 +3,9 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: e3b88a37bec68bd63a4a285b2d8c5cd028ed2659
+source-git-commit: 9411089703ce0b9502c1c2522cce999c3a5fafbf
 workflow-type: tm+mt
-source-wordcount: '715'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,7 @@ ht-degree: 0%
 
 *Beta, functie*
 
-Creeer een bron in DSP voor elk eerste-partijpubliek in uw platform van klantengegevens dat u in segmenten wilt omzetten die gespecificeerde universele types van identiteitskaart bevatten. U kunt de segmenten importeren naar de DSP van uw organisatie of naar een advertentieaccount. Gegevenskosten worden toegepast op basis van de geselecteerde Universal ID-typen.
-
-Er zijn aanvullende stappen vereist om het publiek van elk klantgegevensplatform te kunnen innemen. Zie de opmerking aan het einde van de procedure.
+Creeer een bron in DSP voor elk eerste-partijpubliek in uw platform van klantengegevens dat u in segmenten wilt omzetten die gespecificeerde universele types van identiteitskaart bevatten. U kunt de segmenten importeren naar de DSP van uw organisatie of naar een advertentieaccount. Gegevenskosten worden toegepast op basis van de geselecteerde Universal ID-typen. Zodra u een bron creeert, worden de extra stappen vereist om het publiek van elk platform van klantengegevens in te voeren. Zie de nota aan het eind van de procedure om een bron tot stand te brengen.
 
 U kunt de Universal ID-typen wijzigen waarnaar het bronpubliek wordt vertaald, en een logboek met de wijzigingen weergeven.
 
