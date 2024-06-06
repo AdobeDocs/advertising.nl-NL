@@ -3,7 +3,7 @@ title: Gegevens van de post campagne die van voer aan advertentienetwerken worde
 description: Leer hoe te om gegevens te posten die van de voer van inventarisgegevens aan advertentienetwerken worden geproduceerd.
 exl-id: 7d66c52b-f761-4be2-a1d9-2c63887d7cb7
 feature: Search Inventory Feeds
-source-git-commit: c27665b979ad8e37fd4f92385bb7339af4354d5f
+source-git-commit: 2cf15dbab3dc00ec88a41e4f7d8b5b3646b843e8
 workflow-type: tm+mt
 source-wordcount: '846'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd
 
-*[!DNL Google Ads], [!DNL Microsoft® Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
+*[!DNL Google Ads], [!DNL Microsoft Advertising], [!DNL Yahoo! Japan Ads] (alleen handelingen verwijderen), en [!DNL Yandex] alleen accounts*
 
 U kunt campagnegegevens posten die van een voer worden geproduceerd aangezien u de gegevens door de bijbehorende malplaatjes of als afzonderlijk proces verspreidt. Wanneer u gegevens hebt gepost, worden alle bestaande doorgegeven gegevens verwijderd uit de [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] lijsten.
 

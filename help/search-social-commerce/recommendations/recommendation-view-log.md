@@ -3,7 +3,7 @@ title: Logbestand met aanbevelingen voor uitgevers weergeven voor een account
 description: Leer hoe te om een logboek van elke aanbeveling te bekijken die voor werd toegepast [!DNL Google Ads] of [!DNL Microsoft Advertising] account.
 exl-id: a963c1cd-e785-470d-8f16-8d770baf2aa7
 feature: Search Recommendations
-source-git-commit: 2e1544658804afb298bf2c1a46f197d36ef6854e
+source-git-commit: d12b4905218b7c1057e7987f1a49a8691557455d
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # De uitgeversaanbevelingen voor een account weergeven
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] rekeningen*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
 
-*Bètafunctie voor [!DNL Microsoft® Advertising] rekeningen*
+*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
 U kunt een logboek van elke aanbeveling bekijken die voor een werd toegepast [!DNL Google Ads] of [!DNL Microsoft Advertising] account. De informatie omvat de aanbevelingscategorie, het type aanbeveling, de betrokken entiteiten, de gebruiker die de aanbeveling heeft toegepast, en de tijdstempel.
 

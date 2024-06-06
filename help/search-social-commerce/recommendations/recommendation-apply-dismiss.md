@@ -3,7 +3,7 @@ title: Een aanbeveling voor een uitgever toepassen of verwijderen
 description: Leer hoe u een aanbeveling voor een uitgever kunt weergeven, toepassen of negeren.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
-source-git-commit: 2e1544658804afb298bf2c1a46f197d36ef6854e
+source-git-commit: bd0c158ca27258fa7600553462bf4fedbabc9089
 workflow-type: tm+mt
 source-wordcount: '213'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Een aanbeveling voor een uitgever toepassen of verwijderen
 
-*[!DNL Google Ads]en [!DNL Microsoft® Advertising] rekeningen*
+*[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
 
-*Bètafunctie voor [!DNL Microsoft® Advertising] rekeningen*
+*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
 Bekijk de aanbevolen acties en een uitleg van de voordelen van de acties voor een aanbeveling van de uitgever. U kunt dan de aanbeveling toepassen wanneer het zich op uw bedrijfsdoelstellingen richt, en een aanbeveling ontslaan wanneer het niet doet.
 
@@ -26,7 +26,7 @@ Bekijk de aanbevolen acties en een uitleg van de voordelen van de acties voor ee
 
 1. Selecteer in de rechterbovenhoek het advertentienetwerk en de account.
 
-   Voor [!DNL Microsoft® Advertising] rekeningen, [!UICONTROL Recommendations] voor de account worden standaard weergegeven.
+   Voor [!DNL Microsoft Advertising] rekeningen, [!UICONTROL Recommendations] voor de account worden standaard weergegeven.
 
 1. (Optioneel) Filter de aanbevelingen op categorie en type.
 
