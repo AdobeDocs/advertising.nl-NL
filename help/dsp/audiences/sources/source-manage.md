@@ -3,7 +3,7 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 9411089703ce0b9502c1c2522cce999c3a5fafbf
+source-git-commit: f24aec0588f0298c5a3aa63226bd05bd4fa95f92
 workflow-type: tm+mt
 source-wordcount: '724'
 ht-degree: 0%
@@ -32,13 +32,13 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Klik op **[!UICONTROL Add Source]**.
 
-1. In de [!UICONTROL Select a Type] -menu, selecteert u uw klantgegevensplatform:
+1. In de [!UICONTROL Select a Type] selecteert u uw [klantgegevensplatform](source-about.md):
 
-   * *[!UICONTROL RT-CDP]*: [De [!DNL Adobe Real-Time Customer Data Platform]](source-about.md).
+   * *[!UICONTROL RT-CDP]*: De [!DNL Adobe Real-Time Customer Data Platform].
 
-   * *[!UICONTROL ActionIQ]*: De [[!DNL ActionIQ] klantgegevensplatform](source-about.md).
+   * *[!UICONTROL ActionIQ]*: De [!DNL ActionIQ] klantgegevensplatform.
 
-   * *[!UICONTROL Tealium CDP]*: (Alleen geconfigureerde gebruikers) De [[!DNL Tealium] klantgegevensplatform](source-about.md).
+   * *[!UICONTROL Tealium CDP]*: (Alleen geconfigureerde gebruikers) De [!DNL Tealium] klantgegevensplatform.
 
 1. Geef de [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* of *[!UICONTROL Account]*.
 
