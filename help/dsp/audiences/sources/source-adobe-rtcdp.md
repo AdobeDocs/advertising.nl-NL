@@ -3,7 +3,7 @@ title: Het gebruiken van de DSP Integratie met [!DNL Adobe] [!DNL Real-time CDP]
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: 729098f01fb9d076efb2b945be4011df9ab1c905
 workflow-type: tm+mt
 source-wordcount: '494'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Gebruik de DSP integratie met [de [!DNL Adobe Real-Time Customer Data Platform (
 
       * **Voor [!DNL RampIDs]:** U moet een extra JavaScript-tag op uw webpagina&#39;s implementeren om conversies van de id&#39;s in desktopbrowsers en mobiele webbrowsers (maar niet mobiele apps) aan te passen aan doorzoekacties. Neem contact op met het accountteam van de Adobe, dat u instructies geeft om u te registreren voor een [!DNL LiveRamp] [!DNL LaunchPad] tag van [!DNL LiveRamp] De Oplossingen van het Verkeer van de authentificatie. De registratie is gratis, maar u moet een overeenkomst ondertekenen. Nadat u zich hebt geregistreerd, genereert uw accountteam van de Adobe een unieke tag die uw organisatie op uw webpagina&#39;s kan implementeren.
 
-1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount. U kunt uw gebruikers-id&#39;s omzetten in een van de [beschikbare Universal ID-indelingen](source-about.md).
+1. [Een publieksbron maken](source-manage.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount. U kunt uw gebruikers-id&#39;s omzetten in een van de [beschikbare Universal ID-indelingen](source-about.md).
 
    De broninstellingen bevatten een automatisch gegenereerde bronsleutel die u in de volgende stap gebruikt.
 

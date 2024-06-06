@@ -3,7 +3,7 @@ title: Gebruikersnamen converteren van [!DNL Tealium] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Tealium] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: 729098f01fb9d076efb2b945be4011df9ab1c905
 workflow-type: tm+mt
 source-wordcount: '1109'
 ht-degree: 0%
@@ -44,7 +44,7 @@ E-mailadressen converteren naar [!DNL RampIDs] of [!DNL ID5] In id&#39;s moet u 
 
 ## Stap 2: Een publieksbron maken in DSP {#source-create}
 
-1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount. U kunt uw gebruikers-id&#39;s omzetten in een van de [beschikbare Universal ID-indelingen](source-about.md).
+1. [Een publieksbron maken](source-manage.md) om soorten publiek te importeren naar uw DSP of een adverteerderaccount. U kunt uw gebruikers-id&#39;s omzetten in een van de [beschikbare Universal ID-indelingen](source-about.md).
 
    De bronmontages zullen een auto-geproduceerde bronsleutel omvatten, die u zult gebruiken om de segment-afbeelding gegevens voor te bereiden.
 

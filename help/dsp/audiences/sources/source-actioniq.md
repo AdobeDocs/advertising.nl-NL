@@ -2,7 +2,7 @@
 title: "Gebruikersnamen converteren van [!DNL ActionIQ] naar universele id's"
 description: "Leer hoe u DSP kunt inschakelen om uw [!DNL ActionIQ] eerste-partijsegmenten."
 feature: DSP Audiences
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: 729098f01fb9d076efb2b945be4011df9ab1c905
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Er zijn <!-- NN --> stappen om gegevens te delen van [!DNL ActionIQ] met DSP:
 
 ## Stap 1: Een publieksbron maken in DSP {#source-create}
 
-1. [Een publieksbron maken](source-create.md) om soorten publiek te importeren naar uw DSP account of een advertentieaccount, met de [Universal ID-indelingen](source-about.md) waarnaar u de gebruikers-id&#39;s wilt converteren.
+1. [Een publieksbron maken](source-manage.md) om soorten publiek te importeren naar uw DSP account of een advertentieaccount, met de [Universal ID-indelingen](source-about.md) waarnaar u de gebruikers-id&#39;s wilt converteren.
 
 1. Nadat u de publieksbron creeert, deel de sleutel van de broncode met [!DNL ActionIQ] gebruiker.
 
