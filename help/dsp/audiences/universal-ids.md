@@ -3,7 +3,7 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: 295cc610a7e5e811fe555db69373a8bf5b4012f7
+source-git-commit: e3b88a37bec68bd63a4a285b2d8c5cd028ed2659
 workflow-type: tm+mt
 source-wordcount: '1387'
 ht-degree: 0%
@@ -118,7 +118,7 @@ Als u het aantal gebruikers niet ziet, of uw publieksgrootte is laag, dan contro
 
 * Zorg ervoor dat de juiste, universele id partnerspecifieke code op uw website wordt geïmplementeerd om gebeurtenissen en advertentieblootstellingen op locatie te laten overeenkomen. Werk met uw [!DNL LiveRamp] of [!DNL ID5] indien nodig.
 
-* (Voor [!DNL RampIDs] en [!DNL UID 2.0] Id&#39;s) Controleer of uw [DSP gegevensbron is correct geconfigureerd](/help/dsp/audiences/sources/source-settings.md)en dat de tellingen van de gebruiker worden gevuld voor de gegenereerde publiekssegmenten.
+* (Voor [!DNL RampIDs] en [!DNL UID 2.0] Id&#39;s) Controleer of uw [DSP gegevensbron is correct geconfigureerd](/help/dsp/audiences/sources/source-manage.md#source-settings)en dat de tellingen van de gebruiker worden gevuld voor de gegenereerde publiekssegmenten.
 
 * Als uw bereik kleiner is dan u verwacht, controleert u of de logica van het publiekssegment niet te korrelig is.
 

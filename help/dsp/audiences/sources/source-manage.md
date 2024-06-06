@@ -3,7 +3,7 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
+source-git-commit: e3b88a37bec68bd63a4a285b2d8c5cd028ed2659
 workflow-type: tm+mt
 source-wordcount: '715'
 ht-degree: 0%
@@ -44,7 +44,7 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Geef de [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* of *[!UICONTROL Account]*.
 
-1. Geef de resterende gegevens op [broninstellingen](source-settings.md).
+1. Geef de resterende gegevens op [broninstellingen](#source-settings).
 
    Bewaar een kopie van het dialoogvenster [!UICONTROL Source Key] dat wordt gegenereerd. U hebt de waarde later nodig.
 
@@ -69,7 +69,7 @@ All changes to universal IDs translated from the source are applied after you sa
 
 1. Plaats de cursor op de bronrij en klik op **[!UICONTROL Edit]**.
 
-1. Wijzig de [Id&#39;s geselecteerd voor de bron](source-settings.md).
+1. Wijzig de [Id&#39;s geselecteerd voor de bron](#source-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -101,7 +101,7 @@ U kunt details over veranderingen in een verslag van de publieksbron bekijken en
 
 1. (Optioneel) Als u het logbestand in een groter detailscherm wilt openen, houdt u de cursor boven de bronrij en klikt u op **[!UICONTROL View Details]**.
 
-## Broninstellingen voor publiek
+## Broninstellingen voor publiek {#source-settings}
 
 **[!UICONTROL Data Visibility Level]:** Of de segmenten beschikbaar zijn voor één adverteerder met toegang tot de account (*[!UICONTROL Advertiser]*) of aan alle adverteerders die toegang hebben tot de account *[!UICONTROL Account]*.
 
