@@ -1,22 +1,20 @@
 ---
 title: Referenties beheren voor accounts van ad-netwerkbeheerders
 description: Leer hoe u uw aanmeldingsgegevens kunt opgeven [!DNL Google Ads] beheeraccounts.
-exl-id: bde22f70-12a7-4eef-a141-dafeed9a7dc5
+exl-id: 95866a2e-4695-4b1d-ac23-844d3b9a0a74
 feature: Search Admin
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 4cf04fc7ea22e50b5f56cd278ad9a1aac724edf7
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '324'
 ht-degree: 1%
 
 ---
 
 # Referenties beheren voor accounts van ad-netwerkbeheerders
 
-*Bètaonderdeel*
-
 *[!DNL Google Ads]alleen accounts*
 
-Geef de referenties op voor uw [!DNL Google Ads] Beheerdersaccounts waarnaar u conversies van accounts op meerdere accounts wilt uploaden met de functie Zoeken, Sociaal en Handel. Gebruik deze functie als u een upload wilt uitvoeren [!DNL Adobe]-tracked, cross-account conversie metrics naar a [!DNL Google Ads] de rekening van de manager of b) uploadt portefeuilledoelstellingen die dwars-rekeningsomzettingen in [!DNL Google Ads] voor hybride optimalisatie.
+Geef de referenties op voor uw [!DNL Google Ads] Beheerdersaccounts waarnaar u conversies via verschillende accounts wilt uploaden via Zoeken, Sociaal en Commerce. Gebruik deze functie als u een upload wilt uitvoeren [!DNL Adobe]-tracked, cross-account conversie metrics naar a [!DNL Google Ads] de rekening van de manager of b) uploadt portefeuilledoelstellingen die dwars-rekeningsomzettingen in [!DNL Google Ads] voor hybride optimalisatie.
 
 <!-- [Maybe later: and c) sync conversion value rules for accounts that use cross-account conversion tracking with Google Ads.] -->
 
@@ -32,9 +30,9 @@ Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van 
 
 1. Geef aanmeldingsgegevens voor de beheerdersaccount op.
 
-   De **[!UICONTROL Manager Account ID]** en **[!UICONTROL Login Email]** zijn vereist. Met Zoeken, Sociaal en Handel wordt het accounttoken automatisch vastgelegd en opgeslagen voor verificatie.
+   De **[!UICONTROL Manager Account ID]** en **[!UICONTROL Login Email]** zijn vereist. Met Zoeken, Sociaal en Commerce wordt het accounttoken automatisch vastgelegd en opgeslagen voor verificatie.
 
-   U kunt desgewenst een **[!UICONTROL MCC Account Name]** voor identificatie binnen Search, Social, &amp; Commerce en de rekening **[!UICONTROL Password]**. Voer het wachtwoord in wanneer u het wilt versleutelen en sla het op zodat de accountmanager de tokens naar behoefte kan vernieuwen.
+   U kunt desgewenst een **[!UICONTROL MCC Account Name]** voor identificatie binnen Search, Social &amp; Commerce en de account **[!UICONTROL Password]**. Voer het wachtwoord in wanneer u het wilt versleutelen en sla het op zodat de accountmanager de tokens naar behoefte kan vernieuwen.
 
 1. Klik op **[!UICONTROL Authenticate]**.
 
@@ -50,9 +48,9 @@ Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van 
 
 1. Geef aanmeldingsgegevens voor de beheerdersaccount op.
 
-   De **[!UICONTROL Manager Account ID]** en **Aanmeldingsbericht** zijn vereist. Met Zoeken, Sociaal en Handel wordt het accounttoken automatisch vastgelegd en opgeslagen voor verificatie.
+   De **[!UICONTROL Manager Account ID]** en **Aanmeldingsbericht** zijn vereist. Met Zoeken, Sociaal en Commerce wordt het accounttoken automatisch vastgelegd en opgeslagen voor verificatie.
 
-   U kunt desgewenst een **[!UICONTROL MCC Account Name]** voor identificatie binnen Search, Social, &amp; Commerce en de rekening **[!UICONTROL Password]**. Voer het wachtwoord in wanneer u het wilt versleutelen en sla het op zodat de accountmanager de tokens naar behoefte kan vernieuwen.
+   U kunt desgewenst een **[!UICONTROL MCC Account Name]** voor identificatie binnen Search, Social &amp; Commerce en de account **[!UICONTROL Password]**. Voer het wachtwoord in wanneer u het wilt versleutelen en sla het op zodat de accountmanager de tokens naar behoefte kan vernieuwen.
 
 1. Klik op **[!UICONTROL Authenticate]**.
 

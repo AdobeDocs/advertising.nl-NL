@@ -3,9 +3,9 @@ title: '[!DNL Microsoft Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 0f128b569f8c005c4f72a0c85ebf59e9fed53320
+source-git-commit: 41feb7c717307bc716236517320bdfe7e98c45ab
 workflow-type: tm+mt
-source-wordcount: '1963'
+source-wordcount: '1953'
 ht-degree: 0%
 
 ---
@@ -22,15 +22,15 @@ ht-degree: 0%
 
 * *[!UICONTROL Audience]:* Geeft native/weergaveadvertenties weer op het tabblad [!DNL Microsoft Audience Network]. U kunt a) automatisch op feed gebaseerde advertenties genereren door de campagne te koppelen aan een winkelcentrum in het [!UICONTROL Shopping Settings] sectie of b) responsieve advertenties maken met tekstmiddelen en geüploade afbeeldingen. Voor beide opties moet u ad-hocgroepen maken waarvoor de gebruiker een doel instelt.
 
-* *[!UICONTROL Shopping Campaigns for Brands]:* (Beta eigenschap) bevordert uw producten door verbonden detailhandelaren over het onderzoek en publieksnetwerken. U kunt onderliggende en productgroepen en productgroepen maken (apps die u wilt promoten) en optionele productadvertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen. Gebruik de biedstrategie voor winkelcampagnes voor merken [!UICONTROL Manual CPC]; gebruik de biedstrategie voor het winkelen van merken [!UICONTROL Cost per Sale].
+* *[!UICONTROL Shopping Campaigns for Brands]:* Promoot uw producten door verbonden detailhandelaren over het onderzoek en publieksnetwerken. U kunt onderliggende en productgroepen en productgroepen maken (apps die u wilt promoten) en optionele productadvertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen. Gebruik de biedstrategie voor winkelcampagnes voor merken [!UICONTROL Manual CPC]; gebruik de biedstrategie voor het winkelen van merken [!UICONTROL Cost per Sale].
 
-* *[!UICONTROL Microsoft Store Ads Campaign]:* (Beta-functie) Hiermee promoot u uw apps en games die beschikbaar zijn in de [!DNL Microsoft Store]. U kunt onderliggende en optionele productgroepen, productgroepen en advertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen.
+* *[!UICONTROL Microsoft Store Ads Campaign]:* Promoot uw apps en games die beschikbaar zijn in de [!DNL Microsoft Store]. U kunt onderliggende en optionele productgroepen, productgroepen en advertenties voor de campagne maken. [!DNL Microsoft Advertising] maakt automatisch advertenties voor de productgroepen.
 
-* *[!UICONTROL Audience CTV Video]:* (Bètafunctie) Hiermee kunt u aangesloten tv-videobanden (CTV) weergeven op het publieksnetwerk.
+* *[!UICONTROL Audience CTV Video]:* Toont aangesloten TV (CTV) videoadvertenties op het publieksnetwerk.
 
-* *[!UICONTROL Audience Video]:* (De eigenschap van Bèta) toont standaardvideoadvertenties op het publieksnetwerk.
+* *[!UICONTROL Audience Video]:* Toont standaardvideoadvertenties op het publieksnetwerk.
 
-* *[!UICONTROL Performance Max]:* (De eigenschap van Bèta) toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
+* *[!UICONTROL Performance Max]:* Toont veelvoudige ad types over alle netwerken die [!DNL Microsoft Advertising] slim bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
 
 ## [!UICONTROL Campaign Details]
 
