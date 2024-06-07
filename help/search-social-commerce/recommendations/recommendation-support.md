@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d56df1f1bb36021ebeebaad0779f07461a85ccdd
 workflow-type: tm+mt
-source-wordcount: '646'
+source-wordcount: '642'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,6 @@ ht-degree: 0%
 # Informatie over aanbevelingen en ondersteuning voor inzichten van uitgevers
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
-
-*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
 [!DNL Google Ads] en [!DNL Microsoft Advertising] aanbevelingen en inzichten zijn suggesties van het ad netwerk helpen de prestaties en de efficiency van uw campagnes verbeteren:
 

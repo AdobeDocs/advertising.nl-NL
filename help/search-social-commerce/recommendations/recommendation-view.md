@@ -3,9 +3,9 @@ title: Uitgeversaanbevelingen en prestatieinzicht weergeven
 description: Leer hoe u de [!DNL Google Ads] aanbevelingen en [!DNL Microsoft Advertising] prestatiesinzichten voor uw rekeningen van het advertentienetwerk.
 feature: Search Recommendations
 exl-id: 8a9d99b1-c90b-4a1c-9516-85edc9024a7c
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d56df1f1bb36021ebeebaad0779f07461a85ccdd
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,6 @@ ht-degree: 0%
 # Bekijk uw uitgeversaanbevelingen en prestatieinzicht
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
-
-*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
 ## Aanbevelingen voor uitgevers weergeven
 

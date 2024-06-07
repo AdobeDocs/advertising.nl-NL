@@ -3,9 +3,9 @@ title: Een aanbeveling voor een uitgever toepassen of verwijderen
 description: Leer hoe u een aanbeveling voor een uitgever kunt weergeven, toepassen of negeren.
 exl-id: 794df5d5-fc7c-45f7-8a26-460b0a8f56b7
 feature: Search Recommendations
-source-git-commit: bd0c158ca27258fa7600553462bf4fedbabc9089
+source-git-commit: d56df1f1bb36021ebeebaad0779f07461a85ccdd
 workflow-type: tm+mt
-source-wordcount: '213'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -13,8 +13,6 @@ ht-degree: 0%
 # Een aanbeveling voor een uitgever toepassen of verwijderen
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] rekeningen*
-
-*Bètafunctie voor [!DNL Microsoft Advertising] rekeningen*
 
 Bekijk de aanbevolen acties en een uitleg van de voordelen van de acties voor een aanbeveling van de uitgever. U kunt dan de aanbeveling toepassen wanneer het zich op uw bedrijfsdoelstellingen richt, en een aanbeveling ontslaan wanneer het niet doet.
 
