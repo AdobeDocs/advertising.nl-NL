@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: bf7db19ab3ec8ea749e48b6a96c25a3c5cca5a71
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1694'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 + [Nieuwe functies](home.md)
 + [Over deze handleiding](help-about.md)
 + Inleiding {#intro}
-   + [Informatie over Adoben Advertising zoeken, sociale zaken en handel](/help/search-social-commerce/introduction/about.md)
+   + [Informatie over Adoben Advertising zoeken, sociale zaken en Commerce](/help/search-social-commerce/introduction/about.md)
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
@@ -249,9 +249,7 @@ ht-degree: 2%
       + [Waarden voor labelclassificatie verwijderen uit accountcomponenten](/help/search-social-commerce/campaign-management/label-classifications/classification-values-remove.md)
       + [Classificatiewaarden label verwijderen](/help/search-social-commerce/campaign-management/label-classifications/classification-values-delete.md)
       + [Labelclassificaties verwijderen](/help/search-social-commerce/campaign-management/label-classifications/classification-delete.md)
-   + Advertenties beheren {#assets}
-      + [Informatie over de [!UICONTROL Asset Library]](/help/search-social-commerce/campaign-management/asset-library/asset-library-about.md)
-      + [Elementen maken en uploaden](/help/search-social-commerce/campaign-management/asset-library/asset-create.md)
+   + [Advertentiemiddelen weergeven en maken](/help/search-social-commerce/campaign-management/asset-view-create.md)
    + Aanbevolen werkwijzen voor zoekcampagnes {#best-practices-search}
       + [Rapporten analyseren om uw trefwoorden en campagne-instellingen te verfijnen](/help/search-social-commerce/campaign-management/best-practices/best-practices-analyze.md)
       + [Effectieve tekst schrijven en kopiëren](/help/search-social-commerce/campaign-management/best-practices/best-practices-write.md)
