@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: d5f9bdf69bb68f302bc40d94413397ccd13357cc
+source-git-commit: 73cc45da72a48b844b4baa426331822b4e857245
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '714'
 ht-degree: 0%
 
 ---
@@ -42,18 +42,6 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 ## Ondersteunde aanbevelingen voor [!DNL Google Ads]
 
-<!--
-
--- Add to "Bidding and budget" section of table
-
-| | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
-
-| | [!UICONTROL Set Target CPA] | Set a target CPA for campaigns without one |
-
-| | [!UICONTROL Set ROAS Target] | Set a target ROAS for campaigns without one |
-
--->
-
 | Aanbeveling categorie | Type aanbeveling | Beschrijving |
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (nu opgevraagd &quot;[!DNL Ads and assets]&quot; in [!DNL Google Ads]) | [!UICONTROL Call extension] | Voeg vraaguitbreidingen aan een campagne toe |
@@ -74,6 +62,7 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Aanbevolen budget voor een campagne die momenteel wordt beperkt door de begroting |
 | | [!UICONTROL Enhanced CPC opt in] | Bied met [!UICONTROL Enhanced CPC] |
 | | [!UICONTROL Forecasting campaign budget] | Aanbevolen budget voor een campagne die naar verwachting in de toekomst beperkt zal worden door de begroting |
+| | [!UICONTROL Forecasting set Target CPA] | Een doel-CPA instellen voor campagnes zonder één gebeurtenis vóór een seizoensgebeurtenis die het verkeer moet doen toenemen |
 | | [!UICONTROL Forecasting set Target ROAS] | De begroting verhogen voor een seizoensgebonden gebeurtenis die het verkeer zal doen toenemen, en de biedstrategie wijzigen van [!UICONTROL Maximize Conversion Value] tot [!UICONTROL Target ROAS] |
 | | [!UICONTROL Marginal ROI campaign budget] | Campagnebudget aanpassen om ROI te verhogen |
 | | [!UICONTROL Maximize clicks opt in] | Wijzigen in de [!UICONTROL Maximize Clicks] biedstrategie |
@@ -81,6 +70,8 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Maximize conversions opt in] | Wijzigen in de [!UICONTROL Maximize Conversions] biedstrategie |
 | | [!UICONTROL Move unused budget] | Ongebruikt budget verplaatsen naar een beperkt budget |
 | | [!UICONTROL Raise Target CPA bid too low] | De [!UICONTROL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn |
+| | [!UICONTROL Set Target CPA] | Doel-CPA instellen voor campagnes zonder een |
+| | [!UICONTROL Set Target ROAS] | DoelROAS voor campagnes zonder één instellen |
 | | [!UICONTROL Target CPA opt in] | Wijzigen in de [!UICONTROL Target CPA] biedstrategie |
 | | [!UICONTROL Target CPA raising] | De [!UICONTROL Target CPA] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen |
 | | [!UICONTROL Target ROAS lowering] | Onder de [!UICONTROL Target ROAS] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen |
