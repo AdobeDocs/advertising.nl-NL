@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: d56df1f1bb36021ebeebaad0779f07461a85ccdd
+source-git-commit: d5f9bdf69bb68f302bc40d94413397ccd13357cc
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '681'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,18 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 ## Ondersteunde aanbevelingen voor [!DNL Google Ads]
 
+<!--
+
+-- Add to "Bidding and budget" section of table
+
+| | [!UICONTROL Forecasting set Target CPA] | Set a target CPA for campaigns without one before a seasonal event that's forecasted to increase traffic |
+
+| | [!UICONTROL Set Target CPA] | Set a target CPA for campaigns without one |
+
+| | [!UICONTROL Set ROAS Target] | Set a target ROAS for campaigns without one |
+
+-->
+
 | Aanbeveling categorie | Type aanbeveling | Beschrijving |
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (nu opgevraagd &quot;[!DNL Ads and assets]&quot; in [!DNL Google Ads]) | [!UICONTROL Call extension] | Voeg vraaguitbreidingen aan een campagne toe |
@@ -51,26 +63,28 @@ Within [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Responsive search ad asset] | Responsieve zoekopdrachten en middelen toevoegen aan een advertentie |
 | | [!UICONTROL Responsive search improve ad strength] | Suggesties voor het verbeteren van de advertentie voor een responsieve zoekfunctie |
 | | [!UICONTROL Sitelink extension] | Voeg sitelink-extensies toe aan een campagne |
-| | [!UICONTROL Text ad] | Advertenties toevoegen |
-| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Dynamische zoekadvertenties migreren naar maximale prestaties voor campagnes. |
-| | [!UICONTROL Dynamic image extension opt in] | Dynamische afbeeldingsextensies inschakelen voor de account, waardoor [!DNL Google Ads] computer leren om automatisch de meest relevante afbeeldingen van de landingspagina van uw advertentie aan uw advertentie toe te voegen. |
-| | [!UICONTROL Improve performance max ad strength] | Verbeter de sterkte van de groep met middelen van een maximale prestatiecampagne, zodat deze een &quot;Uitstekende&quot; classificatie heeft. |
-| | [!UICONTROL Performance max opt in] | Kies voor maximale prestaties. |
+| | [!UICONTROL Text ad] | Een nieuwe tekstadvertentie toevoegen |
+| [!UICONTROL Automated campaigns] | [!UICONTROL DSA to performance max migration] | Dynamische zoekopdrachten migreren naar maximale prestaties voor campagnes |
+| | [!UICONTROL Dynamic image extension opt in] | Dynamische afbeeldingsextensies inschakelen voor de account, waardoor [!DNL Google Ads] computer leren om automatisch de meest relevante afbeeldingen van de landingspagina van uw advertentie aan uw advertentie toe te voegen |
+| | [!UICONTROL Improve performance max ad strength] | Verbeter de kracht van een maximale prestatiecampagne voor de groep met middelen tot een &quot;Uitstekende&quot; classificatie |
+| | [!UICONTROL Performance max final URL opt in] | Zet definitieve uitbreiding URL voor uw prestaties maximumcampagnes aan |
+| | [!UICONTROL Performance max opt in] | Maximaal prestatiecampagnes |
 | | [!UICONTROL Upgrade local campaign to performance max] | Een oudere lokale campagne upgraden naar een maximale prestatiecampagne |
 | | [!UICONTROL Upgrade smart shopping campaign to performance max] | Een verouderde, slimme winkelcampagne upgraden naar een maximale prestatiecampagne |
-| [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Door de begroting beperkte campagnes corrigeren |
+| [!UICONTROL Bidding and budget] | [!UICONTROL Campaign budget] | Aanbevolen budget voor een campagne die momenteel wordt beperkt door de begroting |
 | | [!UICONTROL Enhanced CPC opt in] | Bied met [!UICONTROL Enhanced CPC] |
-| | [!UICONTROL Forecasting campaign budget] | Oplossen van campagnes die naar verwachting in de toekomst door de begroting zullen worden beperkt |
-| | [!UICONTROL Forecasting set Target ROAS] | De begroting verhogen vóór een seizoensgebeurtenis die naar verwachting het verkeer zal doen toenemen en de biedstrategie wijzigen van [!UICONTROL Maximize Conversion Value] tot [!UICONTROL Target ROAS] |
+| | [!UICONTROL Forecasting campaign budget] | Aanbevolen budget voor een campagne die naar verwachting in de toekomst beperkt zal worden door de begroting |
+| | [!UICONTROL Forecasting set Target ROAS] | De begroting verhogen voor een seizoensgebonden gebeurtenis die het verkeer zal doen toenemen, en de biedstrategie wijzigen van [!UICONTROL Maximize Conversion Value] tot [!UICONTROL Target ROAS] |
 | | [!UICONTROL Marginal ROI campaign budget] | Campagnebudget aanpassen om ROI te verhogen |
-| | [!UICONTROL Maximize clicks opt in] | Bied met [!UICONTROL Maximize Clicks] |
-| | [!UICONTROL Maximize conversions opt in] | Bied met [!UICONTROL Maximize Conversions] |
-| | [!UICONTROL Move unused budget] | Ongebruikte verplaatsen naar beperkte budgetten |
+| | [!UICONTROL Maximize clicks opt in] | Wijzigen in de [!UICONTROL Maximize Clicks] biedstrategie |
+| | [!UICONTROL Maximize conversion value opt in] | Wijzigen in de biedstrategie voor conversiewaarde maximaliseren |
+| | [!UICONTROL Maximize conversions opt in] | Wijzigen in de [!UICONTROL Maximize Conversions] biedstrategie |
+| | [!UICONTROL Move unused budget] | Ongebruikt budget verplaatsen naar een beperkt budget |
 | | [!UICONTROL Raise Target CPA bid too low] | De [!UICONTROL Target CPA] met een aanbevolen hoeveelheid wanneer het te laag is en er weinig of geen omzettingen zijn |
-| | [!UICONTROL Target CPA opt in] | Bied met [!UICONTROL Target CPA] |
-| | [!UICONTROL Target CPA raising] | De [!UICONTROL Target CPA] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen. |
-| | [!UICONTROL Target ROAS lowering] | Onder de [!UICONTROL Target ROAS] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen. |
-| | [!UICONTROL Target ROAS opt in] | Bied met [!UICONTROL Target ROAS] |
+| | [!UICONTROL Target CPA opt in] | Wijzigen in de [!UICONTROL Target CPA] biedstrategie |
+| | [!UICONTROL Target CPA raising] | De [!UICONTROL Target CPA] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen |
+| | [!UICONTROL Target ROAS lowering] | Onder de [!UICONTROL Target ROAS] gebaseerd op [!DNL Google Ads] voorspellingen, die worden berekend op basis van eerdere omzettingen |
+| | [!UICONTROL Target ROAS opt in] | Wijzigen in de [!UICONTROL Target ROAS] biedstrategie |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken |
 | | [!UICONTROL Keyword] | Nieuwe trefwoorden toevoegen |
 | | [!UICONTROL Search partners opt in] | Bereik uitbreiden met [!DNL Google] zoekpartners |
