@@ -3,9 +3,9 @@ title: Gebruikersnamen converteren van [!DNL Tealium] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Tealium] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
-source-git-commit: 096ca9b5fce101995ca620b78f2ad8abf40355cd
+source-git-commit: 2d045640b5bdf8dfba70d0f7da3ac012fd86e82e
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1098'
 ht-degree: 0%
 
 ---
@@ -27,8 +27,6 @@ Gebruik de DSP integratie met de [!DNL Tealium] gegevensplatform van de klant om
 1. [De bestaande connector dupliceren in [!DNL Tealium] segmenten blijven delen](#duplicate-connector).
 
 1. [Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen](#compare-id-count).
-
-De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden elke 24 uur vernieuwd.
 
 ## Stap 1: Tekstspatiëring instellen voor [!DNL Analytics] meting {#analytics-tracking}
 
@@ -142,7 +140,7 @@ U kunt slechts één schakelaar per segment en één segment per schakelaar hebb
 
 ## Stap 6: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
-Nadat u alle stappen hebt uitgevoerd, controleert u het bestand in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
+Nadat u alle stappen hebt uitgevoerd, moeten de segmenten binnen 24 uur DSP beschikbaar zijn. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
 
 De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%. Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze worden vertaald naar meer dan 90 universele id&#39;s. Een vertaalsnelheid van 90% of minder is een probleem. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 

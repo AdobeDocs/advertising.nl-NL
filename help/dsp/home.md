@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 048752e0f9a5d95c22bd9acb4b70034b5f833494
+source-git-commit: 8374fbedf8c209b6b2638cd16aa21b79e251486d
 workflow-type: tm+mt
-source-wordcount: '2973'
+source-wordcount: '3035'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 10 juni 2024 | [!UICONTROL Audiences] | (De functie Bèta) U kunt uw eerste-partijsegmenten nu omzetten vanuit de [!DNL Amperity] en [!DNL Optimizely] klantgegevensplatforms voor segmenten die bestaan uit [[!DNL LiveRamp] [!DNL RampIDs]] of [!DNL Unified ID 2.0 (UID2.0)] ID&#39;s. Binnen plaatsingsmontages voor het richten van het Publiek, zijn de gedeelde segmenten beschikbaar in de Eerste lijst van de Segmenten van de Partij. | Zie &quot;[Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s](/help/dsp/audiences/sources/source-amperity.md),&quot; &quot;[Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s](/help/dsp/audiences/sources/source-optimizely.md),&quot; en &quot;[Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md).&quot; |
 | 5 juni 2024 | Plaatsen | U kunt nu met behulp van een spreadsheet multipliers met biedingen voor meerdere plaatsingen tegelijk beheren. | Zie &quot;[Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md).&quot; |
 |  | Bronnen voor publiek | U kunt de universele id-typen wijzigen waarnaar het bronpubliek wordt vertaald en een logboek met de wijzigingen weergeven. | Zie &quot;[Bronnen voor publiek beheren om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-manage.md).&quot; |
 | 22 mei 2024 | Optimalisatie, aangesloten tv-advertenties | In pakketten met de optimalisatiedoelstellingen &quot;Laagste CPA&quot; en &quot;Hoogste ROAS&quot;, gebruiken de prestatiemodellen voor aangesloten tv-advertenties nu gegevens van meerdere aanraakpunten in het conversiepad voor sneller en robuuster leren van machines. Bestaande pakketten worden geüpgraded voor gebruik van multi-touchoptimalisatie en er is geen actie vereist. | — |

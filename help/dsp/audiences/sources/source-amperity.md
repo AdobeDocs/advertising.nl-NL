@@ -2,14 +2,16 @@
 title: Gebruikersnamen converteren van [!DNL Amperity] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Amperity] eerste-partijsegmenten.
 feature: DSP Audiences
-source-git-commit: 29fd744ba993e65b43cdf24a49b57208f0b06177
+source-git-commit: dab24efea38951373ec1ada571b10d9843409baf
 workflow-type: tm+mt
-source-wordcount: '680'
+source-wordcount: '682'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s
+
+*Beta, functie*
 
 Gebruik de DSP integratie met de [!DNL Amperity] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame.
 

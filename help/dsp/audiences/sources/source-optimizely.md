@@ -2,14 +2,16 @@
 title: Gebruikersnamen converteren van [!DNL Optimizely] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Optimizely] eerste-partijsegmenten.
 feature: DSP Audiences
-source-git-commit: 9b784b99051e33330ee7fbc736a9edbdf22066ca
+source-git-commit: 23d4dc50d1c6bf966148dab772e0e770087ac869
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s
+
+*Beta, functie*
 
 Gebruik de DSP integratie met de [!DNL Optimizely] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame.
 
