@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
+source-git-commit: b89da28d56cb80d105fd8bebd9c734dd5230c4c3
 workflow-type: tm+mt
-source-wordcount: '899'
+source-wordcount: '913'
 ht-degree: 3%
 
 ---
@@ -141,6 +141,8 @@ ht-degree: 3%
       + [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
       + Workflows door het gegevensplatform van de klant {#sources-workflows}
          + [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+         + [Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s](/help/dsp/audiences/sources/source-amperity.md)
+         + [Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s](/help/dsp/audiences/sources/source-optimizely.md)
          + [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
       + [Bronnen voor publiek beheren om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-manage.md)
    + [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)

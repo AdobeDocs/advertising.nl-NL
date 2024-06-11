@@ -3,9 +3,9 @@ title: Ongeveer de Bronnen van het Publiek van de Eerste Partij
 description: Leer over het omzetten van andere gebruikers herkenningstekens in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten.
 feature: DSP Audiences
 exl-id: ba056440-fa2b-4472-bbfd-16dd0af887f1
-source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
+source-git-commit: 78ee6ddbfb87915475bcf84bd7cd405a58eccf14
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,15 @@ Om DSP in te schakelen om uw [!DNL Adobe] [!DNL Real-time CDP] eerst-partijsegme
 
 ### [!DNL ActionIQ]
 
-U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Action IQ] gegevensplatform van klanten met DSP om uw gehashte e-mailadressen om te zetten in universele id&#39;s voor gerichte reclame in DSP. Deze integratie vereist aanpassing. Neem contact op met het accountteam van de Adobe voor meer informatie.
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL ActionIQ] gegevensplatform van klanten met DSP om uw gehashte e-mailadressen om te zetten in universele id&#39;s voor gerichte reclame in DSP. Deze integratie vereist aanpassing. Neem contact op met het accountteam van de Adobe voor meer informatie.
+
+### [!DNL Amperity]
+
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Amperity] gegevensplatform van klanten met DSP om uw gehashte e-mailadressen om te zetten in universele id&#39;s voor gerichte reclame in DSP. Zie voor meer informatie &quot;[Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s](/help/dsp/audiences/sources/source-amperity.md).&quot;
+
+### [!DNL Optimizely]
+
+U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Optimizely] gegevensplatform van klanten met DSP om uw gehashte e-mailadressen om te zetten in universele id&#39;s voor gerichte reclame in DSP. Zie voor meer informatie &quot;[Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s](/help/dsp/audiences/sources/source-optimizely.md).&quot;
 
 ### [!DNL Tealium]
 
@@ -88,13 +96,11 @@ U kunt de gegevens van de eerste partij van uw organisatie delen via de [!DNL Te
 
 >[!MORELIKETHIS]
 >
->* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
 >* [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
+>* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s](/help/dsp/audiences/sources/source-amperity.md)
+>* [Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->

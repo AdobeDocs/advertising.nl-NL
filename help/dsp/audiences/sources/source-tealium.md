@@ -3,9 +3,9 @@ title: Gebruikersnamen converteren van [!DNL Tealium] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Tealium] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
-source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
+source-git-commit: 096ca9b5fce101995ca620b78f2ad8abf40355cd
 workflow-type: tm+mt
-source-wordcount: '1106'
+source-wordcount: '1104'
 ht-degree: 0%
 
 ---
@@ -52,31 +52,31 @@ E-mailadressen converteren naar [!DNL RampIDs] of [!DNL ID5] In id&#39;s moet u 
 
 ## Stap 3: Voorbereiden en delen van segmenttoewijzingsgegevens {#map-data}
 
-1. De adverteerder moet segmenttoewijzingsgegevens voorbereiden en delen:
+De adverteerder moet segmenttoewijzingsgegevens voorbereiden en delen.
 
-   1. De adverteerder moet de gegevens binnen [!DNL Tealium]:
+1. De adverteerder moet de gegevens binnen [!DNL Tealium]:
 
-      1. Verberg de e-mailadressen voor het publiek van de adverteerder met behulp van het SHA-256-algoritme.
+   1. Verberg de e-mailadressen voor het publiek van de adverteerder met behulp van het SHA-256-algoritme.
 
-      1. Wijs de kolom met gehashte e-mailadressen toe aan het kenmerk van het type bezoeker-id.
+   1. Wijs de kolom met gehashte e-mailadressen toe aan het kenmerk van het type bezoeker-id.
 
-      1. Maak het publiek met de `Tealium_visitor_id` kenmerk. Pas de juiste verrijking toe om het publiek te activeren. Zie de [[!DNL Tealium] documentatie over kenmerken van bezoekersidentiteitskaart](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
+   1. Maak het publiek met de `Tealium_visitor_id` kenmerk. Pas de juiste verrijking toe om het publiek te activeren. Zie de [[!DNL Tealium] documentatie over kenmerken van bezoekersidentiteitskaart](https://docs.tealium.com/server-side/visitor-stitching/visitor-id-attribute/).
 
-   1. De adverteerder moet segment-kaartgegevens aan het Team van de Rekening van de Adobe geven om de segmenten in DSP tot stand te brengen. Gebruik de volgende kolomnamen en -waarden in een bestand met door komma&#39;s gescheiden waarden:
+1. De adverteerder moet segment-kaartgegevens aan het Team van de Rekening van de Adobe geven om de segmenten in DSP tot stand te brengen. Gebruik de volgende kolomnamen en -waarden in een bestand met door komma&#39;s gescheiden waarden:
 
-      * **Sleutel extern segment:** De externe segmentsleutel, die u later in de actiemontages voor de schakelaar binnen zult specificeren [!DNL Tealium]. De aanbevolen naamgevingsconventie is &quot;`<DSP source key>_<Tealium segment name>`,&quot; zoals &quot;57bf424dc10_koffiedrinkers.&quot; Voor de DSP bronsleutel gebruikt u de [!UICONTROL Source Key] uit de broninstellingen voor DSP publiek.
+   * **Sleutel extern segment:** De externe segmentsleutel, die u later in de actiemontages voor de schakelaar binnen zult specificeren [!DNL Tealium]. De aanbevolen naamgevingsconventie is &quot;`<DSP source key>_<Tealium segment name>`,&quot; zoals &quot;57bf424dc10_koffiedrinkers.&quot; Voor de DSP bronsleutel gebruikt u de [!UICONTROL Source Key] uit de broninstellingen voor DSP publiek.
 
-      * **Segmentnaam:** De segmentnaam.
+   * **Segmentnaam:** De segmentnaam.
 
-      * **Segmentbeschrijving:** Het doel of de regel van het segment, of allebei.
+   * **Segmentbeschrijving:** Het doel of de regel van het segment, of allebei.
 
-      * **Bovenliggende id:** Leeg houden
+   * **Bovenliggende id:** Leeg houden
 
-      * **Video CPM:** 0
+   * **Video CPM:** 0
 
-      * **CPM weergeven:** 0
+   * **CPM weergeven:** 0
 
-      * **Segmentvenster:** Het segment time-to-live.
+   * **Segmentvenster:** Het segment time-to-live.
 
 ## Stap 4: Maak connectors in [!DNL Tealium] segmentgegevens delen {#tealium-connector}
 
@@ -154,9 +154,5 @@ Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adclo
 >
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->

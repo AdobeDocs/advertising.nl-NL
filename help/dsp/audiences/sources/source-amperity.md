@@ -1,23 +1,25 @@
 ---
-title: Gebruikersnamen converteren van [!DNL Optimizely] naar universele id's
-description: Leer hoe u DSP kunt inschakelen om uw [!DNL Optimizely] eerste-partijsegmenten.
+title: Gebruikersnamen converteren van [!DNL Amperity] naar universele id's
+description: Leer hoe u DSP kunt inschakelen om uw [!DNL Amperity] eerste-partijsegmenten.
 feature: DSP Audiences
-source-git-commit: 9b784b99051e33330ee7fbc736a9edbdf22066ca
+source-git-commit: 29fd744ba993e65b43cdf24a49b57208f0b06177
 workflow-type: tm+mt
-source-wordcount: '614'
+source-wordcount: '680'
 ht-degree: 0%
 
 ---
 
-# Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s
+# Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s
 
-Gebruik de DSP integratie met de [!DNL Optimizely] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame.
+Gebruik de DSP integratie met de [!DNL Amperity] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame.
 
 1. (E-mailadressen converteren naar [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [Tekstspatiëring instellen om in te schakelen [!DNL Analytics] meting](#analytics-tracking).
 
 1. [Een publieksbron maken in DSP](#source-create).
 
-1. [De segmentgegevens voorbereiden en duwen](#push-data).
+1. [Segmenttoewijzingsgegevens voorbereiden en delen](#map-data).
+
+1. [Een gegevenspush aanvragen van [!DNL Amperity] naar DSP](#push-data).
 
 1. [Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen](#compare-id-count).
 
@@ -39,27 +41,39 @@ E-mailadressen converteren naar [!DNL RampIDs] of [!DNL ID5] In id&#39;s moet u 
 
    De bronmontages zullen een auto-geproduceerde bronsleutel omvatten, die u zult gebruiken om de segmentgegevens te duwen.
 
-1. Nadat u de publieksbron creeert, deel de sleutel van de broncode met [!DNL Optimizely] gebruiker.
+1. Nadat u de publieksbron creeert, deel de sleutel van de broncode met [!DNL Amperity] gebruiker.
 
-## Stap 3: De segmentgegevens voorbereiden en duwen {#push-data}
+## Stap 3: Voorbereiden en delen van segmenttoewijzingsgegevens {#map-data}
 
-De adverteerder moet de gegevens voorbereiden en onder druk zetten met behulp van hun [!DNL Optimizely] vertegenwoordiger.
+De adverteerder moet segmenttoewijzingsgegevens voorbereiden en delen.
 
-1. Within [!DNL Optimizely Data Platform], hash de e-mailadressen voor het publiek van de adverteerder met behulp van het SHA-256-algoritme.
+1. Within [!DNL Amperity], hash de e-mailadressen voor het publiek via het algoritme SHA-256.
 
-1. Neem contact op met de [!DNL Optimizely] representatief voor instructies om het segment aan DSP te duwen. Neem de volgende informatie op wanneer u op het segment drukt:
+1. De adverteerder moet segment-kaartgegevens aan het Team van de Rekening van de Adobe geven om de segmenten in DSP tot stand te brengen. Gebruik de volgende kolomnamen en -waarden in een bestand met door komma&#39;s gescheiden waarden:
 
-   * **Bronsleutel:** Dit is de bronsleutel die is gemaakt in [Stap 2](#source-create).
+   * **Sleutel extern segment:** De [!DNL Amperity] segmentsleutel die aan het segment is gekoppeld.
 
-   * **Accountcode:** Dit is de alfanumerieke DSP Account Code, die u kunt vinden in DSP op [!UICONTROL Settings] > [!UICONTROL Account].
+   * **Segmentnaam:** De segmentnaam.
 
-De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden vernieuwd zoals geconfigureerd voor de adverteerder. Ongeacht hoe vaak het segment wordt vernieuwd, verloopt de opname in een segment na 30 dagen om ervoor te zorgen dat de privacy wordt nageleefd. Vernieuw dus het publiek door het opnieuw vanaf te drukken [!DNL Optimizely] om de 30 dagen of minder.
+   * **Segmentbeschrijving:** Het doel of de regel van het segment, of allebei.
 
-<!--
-Are they using the Data Platform web services, another type of API, or a UI? Add a link to instructions, including how to designate DSP as the destination. And where will they input the DSP-specific fields?]
--->
+   * **Bovenliggende id:** Leeg houden
 
-## Stap 4: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
+   * **Video CPM:** 0
+
+   * **CPM weergeven:** 0
+
+   * **Segmentvenster:** Het segment time-to-live.
+
+## Stap 4: verzoek om een gegevenspush van [!DNL Amperity] naar DSP {#push-data}
+
+1. Nadat het segment binnen DSP is toegewezen, moet de adverteerder met hun [!DNL Amperity] representatief om de segmentgegevens aan DSP te verdelen.
+
+1. De adverteerder moet dan met het Team van de Rekening van de Adobe bevestigen dat de segmentgegevens werden ontvangen.
+
+De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden vernieuwd zoals geconfigureerd voor de adverteerder. Ongeacht hoe vaak het segment wordt vernieuwd, verloopt de opname in een segment na 30 dagen om ervoor te zorgen dat de privacy wordt nageleefd. Vernieuw dus het publiek door het opnieuw vanaf te drukken [!DNL Amperity] om de 30 dagen of minder.
+
+## Stap 5: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
 Nadat u alle stappen hebt uitgevoerd, controleert u het bestand in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment beschikbaar is en binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
 

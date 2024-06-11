@@ -3,9 +3,9 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: f24aec0588f0298c5a3aa63226bd05bd4fa95f92
+source-git-commit: 78b1a8a8e0567afb0c172c7bef1a639ab5b47bab
 workflow-type: tm+mt
-source-wordcount: '724'
+source-wordcount: '760'
 ht-degree: 0%
 
 ---
@@ -38,6 +38,10 @@ You can create one source for each combination of universal ID partner and data 
 
    * *[!UICONTROL ActionIQ]*: De [!DNL ActionIQ] klantgegevensplatform.
 
+   * *[!UICONTROL Amperity]*: De [!DNL Amperity] klantgegevensplatform.
+
+   * *[!UICONTROL Optimizely]*: De [!DNL Optimizely]: De [!DNL Amperity] klantgegevensplatform.
+
    * *[!UICONTROL Tealium CDP]*: (Alleen geconfigureerde gebruikers) De [!DNL Tealium] klantgegevensplatform.
 
 1. Geef de [!UICONTROL Data Visibility Level]: *[!UICONTROL Advertiser]* of *[!UICONTROL Account]*.
@@ -50,7 +54,7 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->Nadat u een bron voor uw platform van klantengegevens creeert, zult u extra stappen moeten voltooien. Zie de [workflow voor het importeren van soorten publiek uit [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md)<!-- the [activation workflow for [!DNL ActionIQ]](source-actioniq.md), --> en de [workflow voor het importeren van soorten publiek uit [!DNL Tealium]](source-tealium.md).
+>Nadat u een bron voor uw platform van klantengegevens creeert, zult u extra stappen moeten voltooien om uw publiek in te voeren. Zie de [workflow voor [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md),<!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> de [workflow voor [!DNL Amperity]](source-amperity.md)de [workflow voor [!DNL Optimizely]](source-optimizely.md)en de [workflow voor [!DNL Tealium]](source-tealium.md).
 
 ## Wijzig de types van identiteitskaart voor een Bron van het Publiek
 
@@ -131,6 +135,9 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0], zoekt de leverancier elk e-mailadres
 >[!MORELIKETHIS]
 >
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
->* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
+>* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
+>* [Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s](/help/dsp/audiences/sources/source-amperity.md)
+>* [Gebruikersnamen converteren van [!DNL Optimizely] naar universele id&#39;s](/help/dsp/audiences/sources/source-optimizely.md)
+>* [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)

@@ -3,9 +3,9 @@ title: Over het beheer van het publiek in DSP
 description: Meer informatie over de functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: 94c41ec311ed79897e1e26a650605c0213450071
+source-git-commit: f6c562a02cdca5eda8c0b8ec692e55e7ea656bb0
 workflow-type: tm+mt
-source-wordcount: '1316'
+source-wordcount: '1324'
 ht-degree: 0%
 
 ---
@@ -149,6 +149,7 @@ De vertaalde segmenten zijn beschikbaar om in herbruikbaar publiek en in plaatsi
 >* [Een aangepast segment maken en implementeren](custom-segment-create.md)
 >* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
+>* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
 >* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)

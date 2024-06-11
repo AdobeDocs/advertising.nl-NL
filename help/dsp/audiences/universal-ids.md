@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: e3b88a37bec68bd63a4a285b2d8c5cd028ed2659
+source-git-commit: 4b8dc6e691516d87e391802b54664b96ad603b75
 workflow-type: tm+mt
-source-wordcount: '1387'
+source-wordcount: '1377'
 ht-degree: 0%
 
 ---
@@ -126,14 +126,9 @@ Neem contact op met het accountteam van de Adobe als u het probleem niet kunt op
 
 >[!MORELIKETHIS]
 >
+>* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-manage.md)
->* [Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
->* [Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s](/help/dsp/audiences/sources/source-tealium.md)
 >* [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
 >* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
 >* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-
-<!--
->* [Convert User IDs from [!DNL Optimizely] to Universal IDs](/help/dsp/audiences/sources/source-optimizely.md)
--->
