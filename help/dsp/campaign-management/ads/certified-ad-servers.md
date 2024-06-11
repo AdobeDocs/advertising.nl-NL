@@ -3,9 +3,9 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
-source-git-commit: a0f078d93a5cbd408e3eba996ec29102d0422bc1
+source-git-commit: 8dc79126a63f2c20f8fdaa666c0197ec6583b78e
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,7 @@ ht-degree: 0%
 | [!DNL Pubmatic] | | | | X | Alleen VAST |
 | [!DNL RevJet] | | | | X | Alleen VAST |
 | [!DNL Seedtag] | | X | X | | |
+| [!DNL Sharethrough] | | | | | Alleen CTV, Native en Outstream |
 | [!DNL Sizmek] | X | X | | X | OLV en CTV</br></br>Als u de tags wilt renderen in de gebruikersinterface, plaatst u de tag tussen `<a>` -tags (aan het begin en het einde). Zie onderstaande voorbeeldtag:</br></br>`<a><script src="https://bs.serving-sys.com/Serving/adServer.bs?c=28&cn=display&pli=1074570064&w=900&h=550&ord=[timestamp]&ifrm=-1&z=0"></script> <noscript> <a href="https://bs.serving-sys.com/Serving/adServer.bs?cn=brd&pli=1074570064&Page=&Pos=-602368150" target="_blank"> <img src="https://bs.serving-sys.com/Serving/adServer.bs?c=8&cn=display&pli=1074570064&Page=&Pos=-602368150" border=0 width=900 height=550></a> </noscript><a>` |
 | [!DNL Spaceback] | | X | | | |
 | [!DNL Spirable] | | X | | | |
