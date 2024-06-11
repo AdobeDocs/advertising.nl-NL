@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: 226b9a78b00f547da840c27663241f91dfca92d3
+source-git-commit: f1d657960beb667001341e191daaddbe03d931b0
 workflow-type: tm+mt
-source-wordcount: '669'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -29,9 +29,9 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
    * Cross-ID Huishoudelijk Bereik, Frequentie, &amp; Omzetting (Koekeloos)
 
-      * Het unieke/incrementele bereik, de overlappingen en conversies op huishoudelijk niveau kwantificeren op basis van het type id zonder koeling (RampID, ID5) in meerdere omgevingen, inclusief aangesloten tv (CTV) en digitaal (desktop, mobiel, native en audio).
+     <!-- Hide for now * Quantify unique/incremental reach, overlap, and conversions at a household level by cookieless ID type (RampID, ID5) across multiple environments, including connected TV (CTV) and digital (desktop, mobile, native, and audio). -->
 
-      * Bewijs de doeltreffendheid van het testen van koelloze id&#39;s bij het vinden van incrementeel bereik in verhouding tot op cookies gebaseerde segmenten.
+     <!-- Hide for now * Prove the effectiveness of testing cookieless IDs in finding incremental reach relative to cookie-based segments. -->
 
    * Gemiddelde tijd voor conversie
 
@@ -51,9 +51,9 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
   Begrijp hoe publiek en tactiek elkaar op een persoonniveau overlappen, met inbegrip van blootstelling over veelvoudige digitale milieu&#39;s, zoals Desktop, mobiel, inheems, en audio.
 
-   * **Op personen gebaseerde zoekopdracht voor verschillende id&#39;s**
+  <!-- Hide for now * **Cross-ID People-Based Reach**
 
-     Kwaneer het unieke bereik en de overlapping tussen koekjes en RampIDs, evenals de kosten per metrisch door type van identiteitskaart. De effectiviteit van het testen van RampID&#39;s aantonen bij het zoeken naar incrementeel bereik in verhouding tot op cookies gebaseerde segmenten in meerdere digitale omgevingen, zoals desktopcomputers, mobiele apparaten, native apparaten en audio.
+      Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metric by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio. -->
 
 * **Halo-effect op zoekrapportage**
 
