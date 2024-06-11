@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: 4b8dc6e691516d87e391802b54664b96ad603b75
+source-git-commit: d3991123110617968ce858fd76c12fa039acc2d6
 workflow-type: tm+mt
-source-wordcount: '1377'
+source-wordcount: '1378'
 ht-degree: 0%
 
 ---
@@ -112,7 +112,7 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
 ## Problemen oplossen
 
-Als u het aantal gebruikers niet ziet, of uw publieksgrootte is laag, dan controleer het volgende:
+Als u het aantal gebruikers niet ziet, of als uw publieksgrootte laag is, dan controleer het volgende:
 
 * Als u [!DNL Flashtalking] of [!DNL Google Campaign Manager 360] voegt u toe, controleert u vervolgens of de URL&#39;s waarop de advertenties klikken, de juiste macro&#39;s bevatten. Zie de macro&#39;s voor [[!DNL Flashtalking] advertenties](/help/integrations/analytics/macros-flashtalking.md) en [[!DNL Google Campaign Manager 360] advertenties](/help/integrations/analytics/macros-google-campaign-manager.md).
 
