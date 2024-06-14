@@ -3,9 +3,9 @@ title: Het gebruiken van de DSP Integratie met [!DNL Adobe] [!DNL Real-time CDP]
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
-source-git-commit: 33766fc210da032102bdc07a0db4ce348b12fe92
+source-git-commit: 7963623d20686553629e2aa7ad76b4fd48403555
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Gebruik de DSP integratie met [de [!DNL Adobe Real-Time Customer Data Platform (
 
    Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adcloud-support@adobe.com`.
 
-Segmenten worden elke 24 uur vernieuwd. Opname in een segment verloopt echter na 30 dagen om ervoor te zorgen dat de privacy wordt gerespecteerd. Vernieuw daarom het publiek door ze om de 30 dagen opnieuw van Real-Time CDP te verdringen.
+Segmenten worden elke 24 uur vernieuwd. Nochtans, verloopt de opneming in een segment na 30 dagen door gebrek of na een klant-gespecificeerde vervalperiode. Vernieuw uw segmenten door deze vóór het verlopen opnieuw vanuit Real-Time CDP te duwen. Neem contact op met het accountteam van de Adobe om een vervaldatum van een aangepast segment aan te vragen.
 
 >[!MORELIKETHIS]
 >

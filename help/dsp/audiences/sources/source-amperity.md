@@ -2,9 +2,9 @@
 title: Gebruikersnamen converteren van [!DNL Amperity] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Amperity] eerste-partijsegmenten.
 feature: DSP Audiences
-source-git-commit: dab24efea38951373ec1ada571b10d9843409baf
+source-git-commit: 25bcc2eefa4dc7873ab8189122d43da336e3e046
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '696'
 ht-degree: 0%
 
 ---
@@ -73,7 +73,7 @@ De adverteerder moet segmenttoewijzingsgegevens voorbereiden en delen.
 
 1. De adverteerder moet dan met het Team van de Rekening van de Adobe bevestigen dat de segmentgegevens werden ontvangen.
 
-De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden vernieuwd zoals geconfigureerd voor de adverteerder. Ongeacht hoe vaak het segment wordt vernieuwd, verloopt de opname in een segment na 30 dagen om ervoor te zorgen dat de privacy wordt nageleefd. Vernieuw dus het publiek door het opnieuw vanaf te drukken [!DNL Amperity] om de 30 dagen of minder.
+De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden vernieuwd zoals geconfigureerd voor de adverteerder binnen [!DNL Amperity]. Ongeacht hoe vaak het segment wordt verfrist, verloopt de opneming in een segment na 30 dagen door gebrek of na een klant-gespecificeerde vervalperiode. Vernieuw de segmenten door ze te verplaatsen [!DNL Amperity] vóór de vervaldatum. Neem contact op met het accountteam van de Adobe om een vervaldatum van een aangepast segment aan te vragen.
 
 ## Stap 5: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
