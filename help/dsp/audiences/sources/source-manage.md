@@ -3,9 +3,9 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 78b1a8a8e0567afb0c172c7bef1a639ab5b47bab
+source-git-commit: 02ed538a48a4ba0323f9b75938ee6b007c6e0fd7
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '759'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ You can create one source for each combination of universal ID partner and data 
 
    * *[!UICONTROL Amperity]*: De [!DNL Amperity] klantgegevensplatform.
 
-   * *[!UICONTROL Optimizely]*: De [!DNL Optimizely]: De [!DNL Amperity] klantgegevensplatform.
+   * *[!UICONTROL Optimizely]*: De [!DNL Optimizely] klantgegevensplatform.
 
    * *[!UICONTROL Tealium CDP]*: (Alleen geconfigureerde gebruikers) De [!DNL Tealium] klantgegevensplatform.
 
