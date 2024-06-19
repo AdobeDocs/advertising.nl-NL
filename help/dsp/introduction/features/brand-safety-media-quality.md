@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: c8cad651585210d46cb0237e1843952e5e5cec3e
+source-git-commit: 9332a7e2dae7819d65d35c01a0e3fb71a1c4e992
 workflow-type: tm+mt
-source-wordcount: '1348'
+source-wordcount: '1425'
 ht-degree: 0%
 
 ---
@@ -115,6 +115,16 @@ Weergavefilters voor voorbiedingen van onze toonaangevende partners [!DNL Double
 U kunt standaardweergavefilters instellen voor elke adverteerder<!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [de instellingen voor elke plaatsing aanpassen](/help/dsp/campaign-management/placements/placement-settings.md). Er kunnen extra kosten van toepassing zijn wanneer u deze functie gebruikt.
 
 ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png) ![Reclamelogo oracle](/help/dsp/assets/oracle-advertising-logo.png) ![Integral Ad Science-logo](/help/dsp/assets/ias-logo.png)
+
+### Doelstelling en meting van aandacht
+
+[!DNL Adobe's] partnerschap met [!DNL Adelaide] biedt adverteerders ondersteuning voor de Adelaide-norm &quot;[!DNL Attention Units],&quot; waarmee de mediakwaliteit wordt gemeten op basis van oogwaarneming, belichting en resultaatgegevens.
+
+[Plaatsingsniveau van vooraf biedende aandacht gericht op](/help/dsp/campaign-management/placements/placement-settings.md) Hiermee kunnen adverteerders zich richten op specifieke aandachtsniveaus om de betrokkenheid van klanten te verbeteren.
+
+Daarnaast kunnen adverteerders [tracering voor het plaatsingsniveau [!UICONTROL Attention Score] metrisch](/help/dsp/campaign-management/campaigns/campaign-settings.md#attention-measurement) (het gewogen gemiddelde aantal [!DNL Attention Units] voor alle indrukken) om te begrijpen welke plaatsingstactieken de beste bedrijfsresultaten opleveren.
+
+Voor elk onderdeel zijn extra kosten van toepassing.
 
 ### Doel van onderwerp
 

@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: e231afad3153d8861adf2510a6a2039d781ee1a5
+source-git-commit: d572a406be9271c6ca14d35740f04d15ddbf7364
 workflow-type: tm+mt
-source-wordcount: '1057'
+source-wordcount: '1050'
 ht-degree: 0%
 
 ---
@@ -122,7 +122,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 #### Verificatie door het publiek
 
-**[!UICONTROL comScore Campaign Ratings]:** (Optioneel) Hiermee schakelt u [!DNL Comscore gevalideerde Campagneratings-metingen en rapportage van publieksverificatie in met de opgegeven instellingen. Er zijn extra kosten van toepassing.
+**[!UICONTROL comScore Campaign Ratings]:** (Optioneel) Inschakelen [!DNL Comscore] gevalideerd [!DNL Campaign Ratings] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
 * **[!UICONTROL Target Gender]:** Te bereiken geslacht: *[!UICONTROL Both]* (standaard), *[!UICONTROL Male]*, of *[!UICONTROL Female]*
 
@@ -130,9 +130,9 @@ Belastingen die moeten worden ingehouden ramen:
 
 * **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Comscore] maatregelen die alleen in de gesteunde landen worden genomen.
 
-### [!UICONTROL Attention Measurement]
+### [!UICONTROL Attention Measurement]{#attention-measurement}
 
-**[!UICONTROL Adelaide]:** Hiermee wordt tracering ingeschakeld voor het plaatsingsniveau [!UICONTROL Attention Score] metrisch (het gewogen gemiddelde aantal aandachtseenheden over indrukken) van [!DNL Adelaide]. De metriek is beschikbaar voor alle plaatsingstypes behalve [!DNL Roku] Aangesloten tv, pre-roll VPAID en audio die geen podcast is. DSP automatisch een JavaScript-tag aan alle bijbehorende creatieve elementen koppelt, en [!DNL Adelaide] volgt de blootstellingsgegevens en stuurt deze dagelijks naar DSP. U kunt de datum gebruiken om uw uitgaven voor plaatsingstactieken handmatig te optimaliseren met betere aandachtscores.
+**[!UICONTROL Adelaide]:** Hiermee wordt tracering ingeschakeld voor het plaatsingsniveau [!UICONTROL Attention Score] (het gewogen gemiddelde aantal [!DNL Adelaide] &quot;[!DNL Attention Units]&quot; door de indrukken heen). De metriek is beschikbaar voor alle plaatsingstypes behalve [!DNL Roku] Aangesloten tv, pre-roll VPAID en audio die geen podcast is. DSP automatisch een JavaScript-tag aan alle bijbehorende creatieve elementen koppelt, en [!DNL Adelaide] volgt de blootstellingsgegevens en stuurt deze dagelijks naar DSP. U kunt de datum gebruiken om uw uitgaven voor plaatsingstactieken handmatig te optimaliseren met betere aandachtscores.
 
 De [!UICONTROL Attention Score] is beschikbaar in het dialoogvenster [!UICONTROL Metrics] deel van de verslagen; binnen de [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] standpunten en over de [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] tabs van de [weergave met plaatsingsdetails](/help/dsp/campaign-management/reports/placement-details-view.md).
 
