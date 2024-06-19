@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 5d07300ab49b96daf392cb51f8936fa4c0cd20ce
+source-git-commit: 74b7ccc97339663c8baba633ff2baedfb13cba80
 workflow-type: tm+mt
 source-wordcount: '3789'
 ht-degree: 0%
@@ -346,7 +346,7 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
+**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
 
 Onderwerpgerichte onderwerpen opgeven:
 
@@ -361,7 +361,7 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Objectgerichte aanbiedingen beperken de voorraad waarop de plaatsing kan bieden. Gebruik daarom onderwerpen die voor slechts een klein percentage van de totale aankoop zijn bestemd.
 >
->* Stel eventuele negatieve doelen in binnen het segment op [!DNL Comscore] of [!DNL Grapeshot].
+>* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Grapeshot].
 
 **[!UICONTROL Device Targeting]:** (Optioneel) Specifieke apparaatinformatie, zoals apparaattypen, fabrikanten, besturingssystemen, browsers en connectiviteitstypen, om deze op te nemen en uit te sluiten als doel. Apparaatdoelframes opgeven:
 

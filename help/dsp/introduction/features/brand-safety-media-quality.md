@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: c8cad651585210d46cb0237e1843952e5e5cec3e
 workflow-type: tm+mt
-source-wordcount: '1349'
+source-wordcount: '1348'
 ht-degree: 0%
 
 ---
@@ -118,9 +118,9 @@ U kunt standaardweergavefilters instellen voor elke adverteerder<!-- [default pr
 
 ### Doel van onderwerp
 
-DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partners te leveranteren [!DNL Comscore] en [!DNL Oracle Data Cloud] ([!DNL Grapeshot]). Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
+DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partners te leveranteren [!DNL Comscore] en [!DNL Oracle Data Cloud] (voorheen) [!DNL Grapeshot]). Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
 
-Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct met te creëren [!DNL Comscore] of [!DNL Grapeshot] (gebruiken [!DNL Oracle Data Cloud]). Zodra deze in het partnerplatform worden gecreeerd, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
+Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct met het partnerplatform tot stand te brengen. Nadat u de segmenten hebt gemaakt, kunt u [doel of sluit een segmentID in uit [!UICONTROL Audience Targeting] sectie voor elke plaatsing](/help/dsp/campaign-management/placements/placement-settings.md). Voor deze functie kunnen extra kosten in rekening worden gebracht.
 
 Aangepaste onderwerpsegmenten maken:
 

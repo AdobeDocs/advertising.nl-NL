@@ -3,7 +3,7 @@ title: Over het beheer van het publiek in DSP
 description: Meer informatie over de functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: ac3ceaf0e1d9f1708896d17ab413d23f366c4b36
+source-git-commit: 31f20bcfb79265326f515218a02d8a4fa3efd586
 workflow-type: tm+mt
 source-wordcount: '1324'
 ht-degree: 0%
@@ -70,7 +70,7 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
 * Alle geïmporteerde gegevenssegmenten van derden.
 
-* (Plaatsen die zich richten op de V.S. slechts) [Alle gegevenssegmenten van derden die beschikbaar zijn voor DSP klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), inclusief [!DNL Acxiom], [!DNL Datalogix], [!DNL eXelate] ([!DNL Nielsen]), [!DNL Lotame], [!DNL Oracle], [!DNL Quantcast]en nog veel meer.
+* (Plaatsen die zich richten op de V.S. slechts) [Alle gegevenssegmenten van derden die beschikbaar zijn voor DSP klanten van meer dan 30 providers](/help/dsp/audiences/third-party-data-providers.md), inclusief [!DNL eXelate], ([!DNL Eyeota]), ([!DNL LiveRamp]),[!DNL Lotame], [!DNL Neustar]en nog veel meer.
 
   U kunt zich richten op specifieke segmenten, die gebruikers richten die op publieksgegevens (bijvoorbeeld, gebruikers met specifieke demografie, belangen of intents, en/of gedragsprofielen) worden gebaseerd. U kunt bladeren door gegevensleverancier en categorie, naar segmenten door naam of segmentidentiteitskaart zoeken, of de resultaten door gegevensleverancier, totale segmentgrootte, Webbrowser telling, of apparatentelling filtreren.
 
