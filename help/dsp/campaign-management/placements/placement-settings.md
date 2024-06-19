@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 74b7ccc97339663c8baba633ff2baedfb13cba80
+source-git-commit: 80b584c124e247e97e8a21153abf30072c361c42
 workflow-type: tm+mt
-source-wordcount: '3789'
+source-wordcount: '3857'
 ht-degree: 0%
 
 ---
@@ -219,7 +219,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 **[!UICONTROL Traffic type]:** De types van verkeer aan doel. Opties omvatten **[!UICONTROL Websites]** en **[!UICONTROL Apps]**.
 
-**[!UICONTROL Site tier]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) De kwaliteit van de sites waarop u zich wilt richten. Tiers 1-3 zijn allemaal merkveilig en zijn gecontroleerd en goedgekeurd door het DSP-kaartteam.
+**[!UICONTROL Site tier]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]*) De kwaliteit van de sites waarop u zich wilt richten. Tiers 1-3 zijn allemaal merkveilig en zijn goedgekeurd door het DSP-kaartteam.
 
 * *[!UICONTROL Tier 1]:* Premiumsites en -toepassingen die nationaal herkenbaar zijn.
 
@@ -346,7 +346,7 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] en [!DNL Grapeshot] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] en [!DNL Grapeshot] op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
+**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] en [!DNL Oracle Data Cloud] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] en [!DNL Oracle Data Cloud] (voorheen) [!DNL Grapeshot]) op te nemen als streefcijfers. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
 
 Onderwerpgerichte onderwerpen opgeven:
 
@@ -361,7 +361,7 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Objectgerichte aanbiedingen beperken de voorraad waarop de plaatsing kan bieden. Gebruik daarom onderwerpen die voor slechts een klein percentage van de totale aankoop zijn bestemd.
 >
->* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Grapeshot].
+>* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Oracle Data Cloud].
 
 **[!UICONTROL Device Targeting]:** (Optioneel) Specifieke apparaatinformatie, zoals apparaattypen, fabrikanten, besturingssystemen, browsers en connectiviteitstypen, om deze op te nemen en uit te sluiten als doel. Apparaatdoelframes opgeven:
 
@@ -435,6 +435,8 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: Prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers in een domein.
 * *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: Alleen voorraad kopen van geautoriseerde directe verkopers van een domein.
+
+**[!UICONTROL Attention Targeting]:** (Weergave, video, mobiel en standaard aangesloten tv-plaatsingen) Doelen [!DNL Adelaide] vooraf biedende segmenten met een specifiek aandachtsniveau (hoog, middelgroot, of laag) dat op de gespecificeerde plaats, formaat, en advertentiegrootte wordt gebaseerd. De segmenten worden wekelijks bijgewerkt. **Opmerking:** Gebruiken [!DNL Adelaide] De segmenten voor het richten maken een CPM vergoeding voor elke indruk die met [!DNL Adelaide] doelgerichtheid; deze vergoeding staat los van de kosten voor [aandachtspunt](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
 
 **[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Adverteerders geconfigureerd met de [!UICONTROL DoubleVerify Authentic Brand Safety] optie) Inschakelen [!DNL DoubleVerify Authentic Brand Safety], die indrukkingen na het bieden blokkeert met behulp van de aangepaste merkveiligheidsregels die voor de opgegeven segment-id zijn geconfigureerd. DSP uw account aan voor gebruik van de segment-id die in de adverteerderinstellingen is opgegeven.
 

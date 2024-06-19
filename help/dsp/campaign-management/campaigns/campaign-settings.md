@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: 5d07300ab49b96daf392cb51f8936fa4c0cd20ce
+source-git-commit: e231afad3153d8861adf2510a6a2039d781ee1a5
 workflow-type: tm+mt
-source-wordcount: '980'
+source-wordcount: '1057'
 ht-degree: 0%
 
 ---
@@ -122,21 +122,27 @@ Belastingen die moeten worden ingehouden ramen:
 
 #### Verificatie door het publiek
 
-**[!UICONTROL Nielsen]:** (Optioneel) Inschakelen [!DNL Nielsen] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
-
-* **[!UICONTROL Target Gender]:** Te bereiken geslacht: *[!UICONTROL Both]* (standaard), *[!UICONTROL Male]*, of *[!UICONTROL Female]*
-
-* **[!UICONTROL Target Age]:** Het leeftijdsbereik dat moet worden nagestreefd. Gebruik de linker- en rechterschuifregelaars om het bereik zo nodig te verkleinen.
-
-* **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Nielsen] maatregelen die alleen in de gesteunde landen worden genomen.
-
-**[!UICONTROL comScore vCE]:** (Optioneel) Inschakelen [!DNL Comscore validated Campaign Essentials (vCE)] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
+**[!UICONTROL comScore Campaign Ratings]:** (Optioneel) Hiermee schakelt u [!DNL Comscore gevalideerde Campagneratings-metingen en rapportage van publieksverificatie in met de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
 * **[!UICONTROL Target Gender]:** Te bereiken geslacht: *[!UICONTROL Both]* (standaard), *[!UICONTROL Male]*, of *[!UICONTROL Female]*
 
 * **[!UICONTROL Target Age]:** Het leeftijdsbereik dat moet worden nagestreefd. Gebruik de linker- en rechterschuifregelaars om het bereik zo nodig te verkleinen.
 
 * **[!UICONTROL Target Country]:** (Optioneel) Een land dat als doel moet dienen. [!DNL Comscore] maatregelen die alleen in de gesteunde landen worden genomen.
+
+### [!UICONTROL Attention Measurement]
+
+**[!UICONTROL Adelaide]:** Hiermee wordt tracering ingeschakeld voor het plaatsingsniveau [!UICONTROL Attention Score] metrisch (het gewogen gemiddelde aantal aandachtseenheden over indrukken) van [!DNL Adelaide]. De metriek is beschikbaar voor alle plaatsingstypes behalve [!DNL Roku] Aangesloten tv, pre-roll VPAID en audio die geen podcast is. DSP automatisch een JavaScript-tag aan alle bijbehorende creatieve elementen koppelt, en [!DNL Adelaide] volgt de blootstellingsgegevens en stuurt deze dagelijks naar DSP. U kunt de datum gebruiken om uw uitgaven voor plaatsingstactieken handmatig te optimaliseren met betere aandachtscores.
+
+De [!UICONTROL Attention Score] is beschikbaar in het dialoogvenster [!UICONTROL Metrics] deel van de verslagen; binnen de [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] standpunten en over de [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] tabs van de [weergave met plaatsingsdetails](/help/dsp/campaign-management/reports/placement-details-view.md).
+
+Gebruiken [!DNL Adelaide] Segmenten voor metingen worden in een CPM-vergoeding opgenomen voor elke indruk die wordt geleverd door advertenties met [!DNL Adelaide] metinglabels. Deze kosten zijn niet gelijk aan de kosten voor [aandacht op plaatsingsniveau gericht](/help/dsp/campaign-management/placements/placement-settings.md).
+
+<!--
+Example JavaScript tag:
+
+`<script src="https://www.example.com/aam?asid=0123456789&ad=${TM_AD_ID_NUM}&adv=${TM_ADVERTISER_ID}&ca=${TM_CAMPAIGN_ID_NUM}&df=${NS_PLATFORM_ID}&dt=${NS_DEVICE_GROUPING}&pl=${TM_PLACEMENT_ID_NUM}&ra=${TM_RANDOM}&st=${TM_SITE_URL_URLENC}"></script>`
+-->
 
 ### [!UICONTROL 1st Party Metrics]
 
