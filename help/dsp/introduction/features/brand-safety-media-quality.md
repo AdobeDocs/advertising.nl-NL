@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: 9332a7e2dae7819d65d35c01a0e3fb71a1c4e992
+source-git-commit: e8cb734e313b6aecfb75dfcbf70347efe83254a5
 workflow-type: tm+mt
-source-wordcount: '1425'
+source-wordcount: '1423'
 ht-degree: 0%
 
 ---
@@ -100,13 +100,13 @@ U kunt standaardbesturingselementen voor contextafhankelijke filters instellen v
 
 ### Blokkeren van voorbiedingsfraude
 
-Profiteer van onze integratie met derden [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] om niet-menselijk verkeer van uw campagnes te blokkeren. Deze integratie biedt toonaangevende functies voor het blokkeren van voorbiedingen om zowel het algemene als het geavanceerde ongeldige verkeer (GIVT en SIVT) in uw campagnes te minimaliseren.
+Profiteer van onze integratie met derden [!DNL DoubleVerify], [!DNL Integral Ad Science], en [!DNL Peer39] om niet-menselijk verkeer van uw campagnes te blokkeren. Deze integratie biedt toonaangevende functies voor het blokkeren van voorbiedingen om zowel het algemene als het geavanceerde ongeldige verkeer (GIVT en SIVT) in uw campagnes te minimaliseren.
 
 Je kunt standaard blokkeringscontroles voor vooraf biedingen instellen voor elke adverteerder<!-- [default pre-bid fraud blocking controls for each advertiser](/help/dsp/admin/advertiser-settings.md) -->en vervolgens optioneel [de instellingen voor elke plaatsing aanpassen](/help/dsp/campaign-management/placements/placement-settings.md). Er kunnen extra kosten van toepassing zijn wanneer u deze functie gebruikt.
 
 Neem voor meer informatie over functionaliteit rechtstreeks contact op met de voorkeursleverancier of neem contact op met het accountteam van de Adobe.
 
-![Comscore-logo](/help/dsp/assets/comscore-logo.png) ![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science-logo](/help/dsp/assets/ias-logo.png) ![Peer39-logo](/help/dsp/assets/peer39-logo.png)
+![DoubleVerify-logo](/help/dsp/assets/doubleverify-logo.png) ![Integral Ad Science-logo](/help/dsp/assets/ias-logo.png) ![Peer39-logo](/help/dsp/assets/peer39-logo.png)
 
 ### Viewability vóór het bod {#pre-bid-viewability}
 

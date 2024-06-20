@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 80b584c124e247e97e8a21153abf30072c361c42
+source-git-commit: e2eca3b77882716c15fc3cde331d211efcd3fb8a
 workflow-type: tm+mt
-source-wordcount: '3857'
+source-wordcount: '3858'
 ht-degree: 0%
 
 ---
@@ -361,7 +361,7 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Objectgerichte aanbiedingen beperken de voorraad waarop de plaatsing kan bieden. Gebruik daarom onderwerpen die voor slechts een klein percentage van de totale aankoop zijn bestemd.
 >
->* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Oracle Data Cloud].
+>* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Oracle Data Cloud] (voorheen) [!DNL Grapeshot]).
 
 **[!UICONTROL Device Targeting]:** (Optioneel) Specifieke apparaatinformatie, zoals apparaattypen, fabrikanten, besturingssystemen, browsers en connectiviteitstypen, om deze op te nemen en uit te sluiten als doel. Apparaatdoelframes opgeven:
 
