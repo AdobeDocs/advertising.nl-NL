@@ -3,7 +3,7 @@ title: Gebruiken [!DNL Roku] Inventaris
 description: Meer informatie over DSP partnerschap met [!DNL Roku], inclusief inventarisopties, goedgekeurde leveranciers van trackingservices van derden en aanbevolen procedures voor [!DNL Roku]-specifieke stages.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 9b3d6893e004b16714bf50f1334424d50fac7c91
 workflow-type: tm+mt
 source-wordcount: '519'
 ht-degree: 0%
@@ -57,7 +57,7 @@ Elk [!DNL Roku] de plaatsing moet minstens één richten [!DNL Roku] deal of bro
 
 ### [!DNL Roku]-Goedgekeurde leveranciers van tracking van derden
 
-[!DNL Roku] De plaatsing kan derdegebeurtenispixel en omzetingspixels van de volgende verkopers omvatten:  [!DNL Acxiom], [!DNL comScore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], en [!DNL Research Now].
+[!DNL Roku] De plaatsing kan derdegebeurtenispixel en omzetingspixels van de volgende verkopers omvatten:  [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], en [!DNL Research Now].
 
 ### Beste praktijken door Plaatsingsstrategie
 

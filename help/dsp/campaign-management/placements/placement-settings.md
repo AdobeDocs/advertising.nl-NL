@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: e2eca3b77882716c15fc3cde331d211efcd3fb8a
+source-git-commit: 9b3d6893e004b16714bf50f1334424d50fac7c91
 workflow-type: tm+mt
 source-wordcount: '3858'
 ht-degree: 0%
@@ -444,7 +444,7 @@ Welk niveau van [Ads.txt](https://iabtechlab.com/ads-txt-about/) Filteren vóór
 
 >[!NOTE]
 >
->([!DNL Roku] plaatsingen) Verkopers van trackingservices van derden die zijn goedgekeurd door [!DNL Roku] include [!DNL Acxiom], [!DNL comScore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], en [!DNL Research Now].
+>([!DNL Roku] plaatsingen) Verkopers van trackingservices van derden die zijn goedgekeurd door [!DNL Roku] include [!DNL Acxiom], [!DNL Comscore], [!DNL Data Plus Math], [!DNL Experian], [!DNL Factual], [!DNL Kantar], [!DNL Marketing Evolution], [!DNL Neustar], [!DNL Nielsen], [!DNL Nielsen Catalina Solutions], [!DNL NinthDecimal], [!DNL Oracle], [!DNL Placed], [!DNL Polk], en [!DNL Research Now].
 
 **[!UICONTROL Event Pixels]:** (Optioneel) Pixels voor het bijhouden van gebeurtenissen van derden worden standaard gekoppeld aan alle nieuwe advertenties in de plaatsing. Gebeurtenispixels opgeven:
 

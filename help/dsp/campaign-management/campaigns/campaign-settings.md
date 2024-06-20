@@ -3,7 +3,7 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: d572a406be9271c6ca14d35740f04d15ddbf7364
+source-git-commit: 9b3d6893e004b16714bf50f1334424d50fac7c91
 workflow-type: tm+mt
 source-wordcount: '1050'
 ht-degree: 0%
@@ -122,7 +122,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 #### Verificatie door het publiek
 
-**[!UICONTROL comScore Campaign Ratings]:** (Optioneel) Inschakelen [!DNL Comscore] gevalideerd [!DNL Campaign Ratings] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
+**[!UICONTROL Comscore Campaign Ratings]:** (Optioneel) Inschakelen [!DNL Comscore] gevalideerd [!DNL Campaign Ratings] meting en rapportage van publieksverificatie, met behulp van de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
 * **[!UICONTROL Target Gender]:** Te bereiken geslacht: *[!UICONTROL Both]* (standaard), *[!UICONTROL Male]*, of *[!UICONTROL Female]*
 
