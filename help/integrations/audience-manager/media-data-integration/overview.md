@@ -3,9 +3,9 @@ title: Overzicht van het verzenden van gegevens over DSP mediablootstelling naar
 description: Leer hoe u Audience Manager-gebeurtenispixels kunt gebruiken om gegevens op beeldniveau vast te leggen en op klikniveau te klikken tijdens DSP.
 feature: Integration with Adobe Audience Manager
 exl-id: c299cdf0-a83e-4026-8b8b-22ce08af0cc4
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 49f7225840ddaf26a37376ffaf7b93207f3ff2f7
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '528'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Adverteerders DSP alleen reclame*
 
-*Adverteerders met een Adobe Advertising-Adobe Audience Manager Integration Only*
+*Adverteerders met alleen Adobe Advertising-Adobe Audience Manager-integratie*
 
 Reclame DSP klanten met Adobe Audience Manager kunnen de gebeurtenispixel van de Audience Manager gebruiken om -vlakke gegevens en klik-vlakke gegevens van DSP campagnes te vangen. De gebeurtenispixels verzenden de gegevens als activeerbare signalen naar de Audience Manager. Deze signalen laten diverse DSP gebruiksgevallen toe, zoals geavanceerdere segmentatie, frequentiebeheer, marketinganalyses en rapportavergangen.
 
@@ -36,11 +36,11 @@ DSP brengt je niet op om deze signalen naar de Audience Manager te sturen. Nocht
 
 ## Hoe de gegevens worden bijgehouden
 
-De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookie, zoals mobiele apps en aangesloten tv (CTV).
+De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookie, zoals mobiele apps en aangesloten tv (CTV).<!-- Verify if this is still correct. -->
 
 ### Pixels voor het bijhouden van indrukken
 
-Audience Managers volgen de gegevens van de indruk voor een advertentie wanneer u een pixel-pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen vanaf een clientspecifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is en parameters als sleutel-waardeparen bevat. De gebeurtenisvraag verzamelt indruk en omzettingsgegevens en verzendt het naar de servers van de de gegevensinzameling van de Audience Manager.
+Audience Managers volgen de gegevens van de indruk voor een advertentie wanneer u een pixel van 1 pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen vanaf een clientspecifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is en parameters als sleutel-waardeparen bevat. De gebeurtenisvraag verzamelt indruk en omzettingsgegevens en verzendt het naar de servers van de de gegevensinzameling van de Audience Manager.
 
 ### Klikken en pixels bijhouden
 
@@ -52,6 +52,5 @@ Audience Manager houdt kliks op gelijkaardige wijze aan beelden, behalve dat het
 
 >[!MORELIKETHIS]
 >
->* [Klik- en indrukgegevens verzamelen uit DSP advertenties](collect.md)
+>* [Klik- en indrukgegevens verzamelen van advertentie- DSP campagnes](collect.md)
 >* [Gevallen gebruiken](use-cases.md)
-
