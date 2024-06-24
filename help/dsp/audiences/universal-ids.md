@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: d3991123110617968ce858fd76c12fa039acc2d6
+source-git-commit: db21fa1ed9daab9070fa1ce7740dd5dbaa0f3a2f
 workflow-type: tm+mt
-source-wordcount: '1378'
+source-wordcount: '1392'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ DSP ondersteunt universele id&#39;s op basis van personen voor koelapparaten, en
 
 * U kunt aangepaste segmenten maken die gebruikers bijhouden die zijn gekoppeld aan universele id&#39;s van ID5 en die worden blootgesteld aan advertenties van mobiele en desktopapparaten en die specifieke webpagina&#39;s bezoeken. ID5 gebruikt een probabilistisch model om een identiteitskaart toe te wijzen die uit diverse gebruikerssignalen en browser signalen wordt afgeleid. Zie voor instructies &quot;[Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md).&quot;
 
-* Segmenten van derden [!DNL Eyeota] en sommige andere leveranciers kunnen automatisch ID5-id&#39;s bevatten, naast gebruikers die worden bijgehouden door cookies of apparaat-id&#39;s. De segmentdetails omvatten de grootte voor elk type. De gebruikelijke gebruiksvergoeding voor elk segment, die naast de segmentnaam wordt vermeld, is van toepassing; er worden geen extra kosten in rekening gebracht voor de ID5-id&#39;s.
+* Secties van derden van sommige leveranciers kunnen automatisch universele id&#39;s bevatten naast gebruikers die worden bijgehouden door cookies of apparaat-id&#39;s. Bijvoorbeeld segmenten van [!DNL Eyeota] ID5-id&#39;s en segmenten van [!DNL Lotame] Kan UID2.0-id&#39;s bevatten. De segmentdetails omvatten de grootte voor elk type. De gebruikelijke gebruiksvergoeding voor elk segment, die naast de segmentnaam wordt vermeld, is van toepassing; er worden geen extra kosten in rekening gebracht voor de ID5-id&#39;s.
 
 ## Rapportage per type Universal ID
 
