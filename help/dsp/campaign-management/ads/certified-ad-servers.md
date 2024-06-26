@@ -3,7 +3,7 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
-source-git-commit: 1c9c7ff2340d4abf4c64f015172b5e0a33b3e1fe
+source-git-commit: 8ae5e4fc84ace4dc4e8b637545e95f5e0cff912c
 workflow-type: tm+mt
 source-wordcount: '322'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 | [!DNL Eyereturn] | | X | | | |
 | [!DNL Flashtalking] | X | X | | X | |
 | [!DNL Frequency] | X | | | | |
-| [!DNL GumGum] | | | X | | Hangtime binnen de sleuf: 21x21, mobiele video binnen de sleuf: 22x22, Hangtime-desktop in de sleuf: 24x24, whoverboard in de sleuf: 25x25, snelheid in de sleuf: 26x26, Superskin: 29x26 9, Uitbreidbare hoek in scherm: 20x20 |
+| [!DNL GumGum] | | | X | | Hangtime binnen de sleuf: 21x21; mobiele video binnen de sleuf: 22x22; Hangtime-desktop binnen de sleuf: 24x24; Hoverboard binnen de sleuf: 25x25; Snelheid binnen de sleuf: 26x26; Superskin: 29x26 9; Uitbreidbare hoek in scherm: 20x20 |
 | [!DNL HUMAN] (Voorheen) [!DNL White Ops]) | X | X | | X | |
 | [!DNL IAS] | X | X | | X | |
 | [!DNL IBM] | | X | | X | |
