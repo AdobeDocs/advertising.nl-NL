@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: fc58392d060e97f99b12ef41b96c09a0e3fb9aa1
+source-git-commit: 3bb03e0896fca0e7d58d4726939d18577f458e2c
 workflow-type: tm+mt
-source-wordcount: '468'
+source-wordcount: '443'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL EMX Digital] | [!DNL Cadent] | Adobe Advertising | Nee | VS/CA | USD | x | x | x | x | x |  |  |
 | [!DNL FreeWheel] (voorheen) [!DNL StickyAds]) | [!DNL Comcast] | [!DNL TubeMogul] of Adobe Advertising | Ja | Algemeen | USD, EUR, AUD, GBP | x | x | x |  |  |  |  |
 | [!DNL Google Authorized Buyers] (voorheen) [!DNL Google AdX]) | [!DNL Google] | Adobe NA - 44912714<br>Adobe APAC en EU - 89185975 | Ja | Algemeen | USD, BRL | x | x | x | x | x |  | x |
-| [!DNL GumGum] |  | Adobe Advertising | Nee | Algemeen | USD | x | x |  | x | x |  | Hangtime binnen de sleuf: 21x21, mobiele video binnen de sleuf: 22x22, Hangtime-desktop in de sleuf: 24x24, whoverboard in de sleuf: 25x25, snelheid in de sleuf: 26x26, Superskin: 29x26 9, Uitbreidbare hoek in scherm: 20x20 |
+| [!DNL GumGum] |  | Adobe Advertising | Nee | Algemeen | USD | x | x |  | x | x |  | |
 | [!DNL Index] | [!DNL Index] | [!DNL Adobe Display]<br>[!DNL Adobe Video] | Nee | Algemeen | USD | x | x | x | x | x | | |
 | [!DNL Magnite (Streaming) CTV] | [!DNL Magnite] (voorheen) [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising | Ja | Algemeen | AUD, USD | x | x | x |  |  |  |  |
 | [!DNL Magnite DV+] | [!DNL Magnite] (voorheen) [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising | Ja | Algemeen | USD | x | x | x | x | x |  | x |
