@@ -3,9 +3,9 @@ title: Overzicht van het verzenden van gegevens over DSP mediablootstelling naar
 description: Leer hoe u Audience Manager-gebeurtenispixels kunt gebruiken om gegevens op beeldniveau vast te leggen en op klikniveau te klikken tijdens DSP.
 feature: Integration with Adobe Audience Manager
 exl-id: c299cdf0-a83e-4026-8b8b-22ce08af0cc4
-source-git-commit: 49f7225840ddaf26a37376ffaf7b93207f3ff2f7
+source-git-commit: aec57b49e636d63fc6967af8764ed62f239f31bb
 workflow-type: tm+mt
-source-wordcount: '528'
+source-wordcount: '524'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ DSP brengt je niet op om deze signalen naar de Audience Manager te sturen. Nocht
 
 ## Hoe de gegevens worden bijgehouden
 
-De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookie, zoals mobiele apps en aangesloten tv (CTV).<!-- Verify if this is still correct. -->
+De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die voorkomen in omgevingen zonder cookie, zoals mobiele apps.<!-- Verify if this is still correct. -->
 
 ### Pixels voor het bijhouden van indrukken
 
