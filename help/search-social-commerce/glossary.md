@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: c2a1ce841a9dc99c57239f817dbd2065b91cdfb9
+source-git-commit: 5555bc8ec7e407596252cd385cf1410f7fe959a6
 workflow-type: tm+mt
-source-wordcount: '2040'
+source-wordcount: '2074'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,19 @@ ht-degree: 0%
 
 **[AMO-id](/help/integrations/analytics/ids.md#amo-id):** Een volgcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
 
-**biedeenheid:** Een zoekterm, term voor sociale zaken en handel voor een eenheid waarop biedingen worden geplaatst. Voor de meeste campagnes op de meeste netwerken, is dit een sleutelwoord en zijn gelijkenis voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
+**biedeenheid:** Een zoekterm, term voor sociale media en Commerce voor een eenheid waarop biedingen worden geplaatst.
+
+* Voor CPC- campagnes, is dit een sleutelwoord en zijn gelijke type voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
+
+* Voor campagnes met de [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition], of [!DNL Target Return on Ad Spend] uitgavenstrategieën, elke campagne is een biedingseenheid.
+
+* Voor campagnes op [!DNL Yahoo! Display Network], waarbij geen trefwoorden worden gebruikt, hebben alle advertenties in een advertentiegroep hetzelfde bod en worden als dezelfde biedeenheid beschouwd.
 
 **beperking biedeenheid:** Zie &#39;constraint&#39;.
 
 ## C-D {#c-d}
 
-**campagne:** Een set advertentiegroepen in één advertentierekening die een begroting, tijdspanne, het richten, en andere montages delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Onderzoek, Sociale, &amp; Handel leidt pseudo-campagnes voor elke reeks verwante en groepen in bestaand [!DNL Baidu] accounts die worden gesynchroniseerd in Zoeken, Sociale media en Handel.
+**campagne:** Een set advertentiegroepen in één advertentierekening die een begroting, tijdspanne, het richten, en andere montages delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Onderzoek, Sociale, &amp; Commerce leidt pseudo-campagnes voor elke reeks verwante en groepen in bestaand [!DNL Baidu] accounts die worden gesynchroniseerd in Zoeken, Sociaal en Commerce.
 
 **hoofdlettergevoelig veld:** Een hoofdlettergevoelig veld of query behandelt hoofdletters (zoals C) anders dan kleine letters (zoals c). Auto wordt bijvoorbeeld beschouwd als een andere waarde dan auto.
 
@@ -48,7 +54,7 @@ ht-degree: 0%
 
 **kostennauwkeurigheid:** (Adverteerders met portefeuilles) De werkelijke uitgaven voor een portefeuille gedeeld door de verwachte uitgaven.
 
-**kostenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en handel die het kostenvolume voorspelt, het bod dat vereist is om elke positie of plaatsing te winnen, en de CPC (search) of CPM (display) voor elke biedingseenheid met behulp van historische gegevens en wiskundige voorspellingstechnieken.
+**kostenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en Commerce die het kostenvolume voorspelt, het bod dat vereist is om elke positie of plaatsing te winnen en de CPC (search) of CPM (display) voor elke biedingseenheid met behulp van historische gegevens en wiskundige voorspellingstechnieken.
 
 **dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden dat in de afgelopen zeven dagen ten minste één indruk heeft gekregen, zodat de optimaliseringsmogelijkheid kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostenmodellen; de modellen die wel meetellen voor de dekking van het kostenmodel.
 
@@ -126,7 +132,7 @@ ht-degree: 0%
 
 Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
-**optimalisatiefunctie:** (Advertisers met portfolio&#39;s) Zoek-, sociale en commerciële trefwoordbiedtechnologie, die de optimale strategie voor biedingen en begrotingsbeheer voor een portfolio bepaalt op basis van zijn bedrijfsdoelstelling.
+**optimalisatiefunctie:** (Advertisers met portfolio&#39;s) Zoek-, sociale en Commerce-technologie voor trefwoordbiedingen, die de optimale strategie voor biedingen en begrotingsbeheer voor een portfolio bepaalt op basis van de bedrijfsdoelstelling.
 
 **verweesde transactie:** Een transactiegebeurtenis die niet aan een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
 
@@ -154,7 +160,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **nauwkeurigheid van de ontvangsten:** (Adverteerders met portefeuilles) De werkelijke opbrengsten van een portefeuille gedeeld door de voorspelde opbrengsten.
 
-**inkomstenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en handel die de conversiekoers en het geschatte rendement voor elke biedeenheid voorspelt, op basis van de klikgegevens (zoekgegevens en sociale gegevens) of de (weergave) gegevens van de adverteerder.
+**inkomstenmodel:** (Advertisers met portfolio&#39;s) Zoek-, sociale en Commerce-technologie die de conversiekoers en het geschatte rendement voor elke biedeenheid voorspelt, op basis van de klikgegevens (zoekgegevens en sociale gegevens) of de impressiegegevens (display) en de conversiegegevens van de adverteerder.
 
 **dekking inkomstenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden in een portefeuille met inkomstenmodellen. Inschrijvingseenheden kunnen inkomstenmodellen hebben, zelfs als ze geen inkomsten hebben maar wel indrukken hebben.
 

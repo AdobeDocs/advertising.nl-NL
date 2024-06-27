@@ -1,11 +1,11 @@
 ---
 title: Implementeren [!DNL Google Ads] winkelcampagnes
 description: Meer informatie over de workflow voor het instellen van [!DNL Google Ads] winkelcampagnes.
-exl-id: aab61d94-861f-4072-b044-f9ae6759e028
+exl-id: d80370d9-534d-4854-b7d3-1384a84320ad
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 3c702a01df1186e74c4f329a08199ce829be0827
 workflow-type: tm+mt
-source-wordcount: '455'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -24,13 +24,13 @@ U kunt winkelcampagnes instellen met [voorraadvoedersjablonen](/help/search-soci
 
 1. Stel uw [!DNL Google Merchant Center] en vult deze met productgegevens.
 
-1. [Zoeken, sociale zaken en handel toestaan om gegevens te downloaden van de [!DNL Google Merchant Center] account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md).
+1. [Zoeken, sociaal en Commerce toestaan om gegevens te downloaden van de [!DNL Google Merchant Center] account](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md).
 
 1. [Een campagne maken](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) op het winkelnetwerk.
 
 1. [Een advertentiegroep maken](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) in de campagne en het standaardbod voor alle advertenties instellen.
 
-U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
+   U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
 
 1. Productgroepen maken voor de advertentiegroep:
 

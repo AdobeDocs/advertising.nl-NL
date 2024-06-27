@@ -3,7 +3,7 @@ title: Implementeren [!DNL Microsoft Advertising] winkelcampagnes
 description: Meer informatie over de workflow voor het instellen van [!DNL Microsoft Advertising] winkelcampagnes.
 exl-id: fd10237b-864d-4808-8644-3fcb18edebde
 feature: Search Campaign Management
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d5d4dee4356d941ea9cae74b9385add00e0480c3
 workflow-type: tm+mt
 source-wordcount: '587'
 ht-degree: 0%
@@ -30,7 +30,7 @@ U kunt winkelcampagnes instellen met [voorraadvoedersjablonen](/help/search-soci
 
 1. [Een advertentiegroep maken](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) in de campagne en het standaardbod voor alle advertenties instellen.
 
-U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
+   U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
 
 1. Productgroepen maken voor de advertentiegroep:
 
