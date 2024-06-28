@@ -1,22 +1,22 @@
 ---
 title: Overzicht van het verzenden van gegevens over DSP mediablootstelling naar Adobe Audience Manager
-description: Leer hoe u Audience Manager-gebeurtenispixels kunt gebruiken om gegevens op beeldniveau vast te leggen en op klikniveau te klikken tijdens DSP.
+description: Leer hoe u Audience Manager-gebeurtenispixels kunt gebruiken om gegevens op beeldniveau vast te leggen en op klikniveau te klikken in Advertising DSP-campagnes
 feature: Integration with Adobe Audience Manager
 exl-id: c299cdf0-a83e-4026-8b8b-22ce08af0cc4
-source-git-commit: aec57b49e636d63fc6967af8764ed62f239f31bb
+source-git-commit: c204955ec48826d00a5f78e5be4849f53d09e224
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '529'
 ht-degree: 0%
 
 ---
 
 # Overzicht van het verzenden van gegevens over DSP mediablootstelling naar Adobe Audience Manager
 
-*Adverteerders DSP alleen reclame*
+*Adverteerders met alleen Advertising DSP*
 
 *Adverteerders met alleen Adobe Advertising-Adobe Audience Manager-integratie*
 
-Reclame DSP klanten met Adobe Audience Manager kunnen de gebeurtenispixel van de Audience Manager gebruiken om -vlakke gegevens en klik-vlakke gegevens van DSP campagnes te vangen. De gebeurtenispixels verzenden de gegevens als activeerbare signalen naar de Audience Manager. Deze signalen laten diverse DSP gebruiksgevallen toe, zoals geavanceerdere segmentatie, frequentiebeheer, marketinganalyses en rapportavergangen.
+Advertising DSP-klanten met Adobe Audience Manager kunnen gebeurtenispixels op Audience Manager gebruiken om gegevens op beeldniveau vast te leggen en gegevens op klikniveau van DSP campagnes te plaatsen. De gebeurtenispixels verzenden de gegevens als activeerbare signalen naar de Audience Manager. Deze signalen laten diverse DSP gebruiksgevallen toe, zoals geavanceerdere segmentatie, frequentiebeheer, marketinganalyses en rapportavergangen.
 
 DSP brengt je niet op om deze signalen naar de Audience Manager te sturen. Nochtans, betaalt u standaard Audience Manager die kosten op servervraag worden gebaseerd, per uw contract van de Audience Manager. Audience Manager verwijdert dubbele gebeurtenissen die op twee verschillende manieren worden bijgehouden, zodat elke gebeurtenis slechts eenmaal wordt geladen.
 
@@ -36,7 +36,7 @@ DSP brengt je niet op om deze signalen naar de Audience Manager te sturen. Nocht
 
 ## Hoe de gegevens worden bijgehouden
 
-De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die voorkomen in omgevingen zonder cookie, zoals mobiele apps.<!-- Verify if this is still correct. -->
+De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd op cookies. De pixels leggen geen gebeurtenissen vast die plaatsvinden in omgevingen zonder cookies, zoals mobiele apps en aangesloten tv (CTV).<!-- 6/24: CTV inventory isn't clickable, and impression tracking would be lost when we convert users from IP to cookies. -->
 
 ### Pixels voor het bijhouden van indrukken
 
@@ -52,5 +52,5 @@ Audience Manager houdt kliks op gelijkaardige wijze aan beelden, behalve dat het
 
 >[!MORELIKETHIS]
 >
->* [Klik- en indrukgegevens verzamelen van advertentie- DSP campagnes](collect.md)
+>* [Gegevens over klikken en indrukken verzamelen vanuit Advertising DSP-campagnes](collect.md)
 >* [Gevallen gebruiken](use-cases.md)
