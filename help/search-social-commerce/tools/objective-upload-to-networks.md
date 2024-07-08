@@ -1,40 +1,40 @@
 ---
-title: Uploaden van doelstellingen naar en netwerken inschakelen
-description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising].
+title: Uploaden van doelstellingen naar advertentienetwerken inschakelen
+description: Leer hoe je doelstellingen voor je hybride portfolio kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising].
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: 803f1ad2ad5be005b7dab467efbeb1c4ceaa7559
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '536'
 ht-degree: 0%
 
 ---
 
-# Uploaden van doelstellingen naar en netwerken inschakelen
+# Uploaden van doelstellingen naar advertentienetwerken inschakelen
 
-*Adverteerders met [!DNL Google Ads] en [!DNL Microsoft Advertising] alleen accounts*
+*Alleen adverteerders bij [!DNL Google Ads] en [!DNL Microsoft Advertising] accounts*
 
-*Adverteerders alleen ingeschakeld voor hybride optimalisatie*
+*Alleen adverteerders ingeschakeld voor hybride optimalisatie*
 
-Met Zoeken, Sociaal en Commerce kunt u de doelstellingen voor de portfolio&#39;s van een advertentieaccount uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising] zodat kunt u ze gebruiken voor hybride optimalisatie. De geüploade doelstellingen zijn beschikbaar als conversieacties voor aangepaste conversiedoelstellingen op accountniveau en op campagnereniveau.
+Zoeken, Social en Commerce kunnen de doelstellingen van de portfolio&#39;s van een adverteerderaccount uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising] zodat je deze kunt gebruiken voor hybride optimalisatie. Uw geüploade doelstellingen zijn beschikbaar als conversieacties voor aangepaste conversiedoelen op account- en campagneniveau.
 
-Als u deze optie inschakelt, wordt er automatisch een upload uitgevoerd naar doelstellingen in portfolio&#39;s die campagnes met slimme biedstrategieën bevatten. Met Zoeken, Sociaal en Commerce maakt u een conversie op het advertentienetwerk voor elke toepasselijke doelstelling. De conversie vertegenwoordigt alle gewogen conversiemetriek in het doel. Elke conversie heeft een van de volgende namen:
+Als u deze optie inschakelt, wordt automatisch een upload geactiveerd voor doelstellingen in portfolio&#39;s die campagnes met slimme biedstrategieën bevatten. Search, Social en Commerce maakt een conversie op het advertentienetwerk voor elke toepasselijke doelstelling. De conversie vertegenwoordigt alle gewogen conversiestatistieken in de doelstelling. Elke conversie heeft een van de volgende namen:
 
 * `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
 
-  waar `<network_ID>` is de numerieke id die Search, Social &amp; Commerce gebruikt voor het advertentienetwerk. `<objective_id>` de numerieke doelstelling-id is, en `<network_account_ID>` is de numerieke id voor de account of het beheerdersaccount van het advertentienetwerk.
+  waarbij `<network_ID>` is de numerieke id die Search, Social en Commerce voor het advertentienetwerk gebruikt, `<objective_id>` de numerieke doel-id is en `<network_account_ID>` de numerieke id voor het advertentienetwerkaccount of het manageraccount.
 
 * (Oude indeling die in de toekomst wordt vervangen) `ACS_OBJ_SID_<portfolio_id>_<se_acctid/conversion_manager_se_acctid>`
 
-  waar `<portfolio_id>` is de numerieke portefeuille-id en `<se_acctid/conversion_manager_se_acctid>` is de numerieke id voor de account of het beheerdersaccount van het advertentienetwerk.
+  waar `<portfolio_id>` is de numerieke portefeuille-id en `<se_acctid/conversion_manager_se_acctid>` is de numerieke id voor het account of het beheeraccount van het advertentienetwerk.
 
-  Uw accountteam van de Adobe werkt met u samen om uw bestaande namen van conversieacties binnen het advertentienetwerk te migreren voordat de oude indeling wordt vervangen. Tijdens de migratieperiode worden zowel de oude als de nieuwe uploads parallel uitgevoerd. Modellering en optimalisatie worden niet beïnvloed omdat de nieuwe omzettingsacties aanvankelijk met &quot;secundaire&quot; (niet geoptimaliseerde) status en met 90 dagen backfill gegevens verschijnen.
+  Uw Adobe-accountteam zal met u samenwerken om uw bestaande namen voor conversieacties binnen het advertentienetwerk te migreren voordat de oude indeling wordt verouderd. Tijdens de migratieperiode worden zowel de oude als de nieuwe uploads parallel uitgevoerd. Modellering en optimalisatie worden niet beïnvloed omdat de nieuwe omzettingsacties aanvankelijk met &quot;secundaire&quot; (niet geoptimaliseerde) status en met 90 dagen backfill gegevens verschijnen.
 
-Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone van de adverteerder. Uploads naar [!DNL Microsoft Advertising] komt dagelijks om 9.00 uur voor in de tijdzone van de adverteerder.
+Uploads worden dagelijks om [!DNL Google Ads] 06:00 uur uitgevoerd in de tijdzone van de adverteerder. Uploads worden [!DNL Microsoft Advertising] dagelijks om 09:00 uur uitgevoerd in de tijdzone van de adverteerder.
 
 >[!IMPORTANT]
 >
->Conversies die worden bijgehouden door Google Ads en de tag Universal Event tracking (UET) voor Microsoft-advertenties worden niet opnieuw geüpload naar de advertentienetwerken. Als u hen binnen een doelstelling omvat, voeg hen aan de campagnedoelstellingen binnen de redacteur van het ad netwerk toe.
+>Conversies die worden bijgehouden door Google Ads en de UET-tag (Universal Event Tracking) van Microsoft Advertising, worden niet opnieuw geüpload naar de advertentienetwerken. Als u ze in een doelstelling opneemt, voegt u ze in de editor van het advertentienetwerk toe aan de campagnedoelen.
 
 <!--
 >[!IMPORTANT]
@@ -46,17 +46,33 @@ Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone va
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]**.
 
-1. Schakel het selectievakje in naast **[!UICONTROL Enable Objective Upload]**.
+1. Schakel het selectievakje naast **[!UICONTROL Enable Objective Upload]**.
 
-1. (Adverteerders met [!DNL Google Ads] accounts die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u toestemming van gebruikers in de EER en het VK hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, schakelt u het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+1. (Adverteerders met [!DNL Google Ads] accounts die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); optioneel) Als je toestemming hebt verkregen van gebruikers van de EER of het Verenigd Koninkrijk om hun gegevens te uploaden voor advertentiedoeleinden, schakel dan het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. (Als uw conversies worden bijgehouden op het niveau van een beheerdersaccount) [Referenties toevoegen voor uw beheerdersaccount](/help/search-social-commerce/admin/manager-accounts.md) om **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]**.
+1. (Als uw conversies worden bijgehouden op beheerdersaccountniveau) [Referenties toevoegen voor uw beheerdersaccount](/help/search-social-commerce/admin/manager-accounts.md) om **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]**.
 
-Nadat het dagelijkse uploaden is voltooid, kunt u controleren of de omzettingsacties in het advertentienetwerk verschijnen.
+1. Controleren of elke doelstelling — `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` — verschijnt binnen twee dagen op het advertentienetwerk.
+
+   In het dialoogvenster [!DNL Google Ads] editor, zoek uw [conversieacties](https://support.google.com/google-ads/answer/11461796). In het dialoogvenster [!DNL Microsoft Advertising] editor, zoek uw [conversiedoelen](https://help.ads.microsoft.com/#apex/ads/en/56709).
+
+   Werk zo nodig het datumbereik bij en voeg de uploaddatum toe.
+
+## Problemen met ontbrekende doelen oplossen
+
+Als de doelstelling (genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` ) voor een van je portfolio&#39;s niet in het advertentienetwerk wordt weergegeven, controleer je het volgende:
+
+* ([!DNL Google Ads]) Controleer of de conversies moeten worden geüpload naar account- of managerniveau. Als ze moeten worden geüpload op managerniveau:
+
+   * Controleer of de aanmeldingsgegevens voor het [!DNL Google Ads] manageraccount zijn opgegeven op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]**. Voeg zo [nodig de aanmeldingsgegevens voor het manageraccount](/help/search-social-commerce/admin/manager-accounts.md) toe.
+
+   * Controleer of het advertentienetwerkaccount al dezelfde metrische naam heeft. Als dat het geval is, wijzigt u de naam van de metrische waarde, zodat de juiste eigenschap op managerniveau kan worden gemaakt.
+
+* Controleer of de optie &quot;hybride&quot; van de portfolio is geselecteerd en of het doel geldige omzet heeft.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
->* [Conversiemetriek uploaden naar [!DNL Google Ads]](conversion-metrics-upload-to-google.md)
+>* [Informatie over het beheren van conversiemetrieken van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [Conversiemetrieken uploaden naar [!DNL Google Ads]](conversion-metrics-upload-to-google.md)
