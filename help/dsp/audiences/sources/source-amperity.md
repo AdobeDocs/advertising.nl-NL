@@ -3,9 +3,9 @@ title: Gebruikersnamen converteren van [!DNL Amperity] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Amperity] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: c751709a-5ad2-43fa-ba3a-fc7a9683da3f
-source-git-commit: 8a8f19c7db95c0eda05a3262eeaf4c8a0aeaaa64
+source-git-commit: 91b08bf54f067666c9c27949ff740639738887d0
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '697'
 ht-degree: 0%
 
 ---
@@ -80,11 +80,15 @@ De segmenten worden vernieuwd zoals geconfigureerd voor de adverteerder binnen [
 
 ## Stap 5: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
-Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn. In uw publieksbibliotheek (beschikbaar wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) vergelijk het aantal universele id&#39;s met het aantal originele gehashte e-mailadressen.
+Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn.
 
-Voor informatie over aanvaardbare ID vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[Gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
+In uw publieksbibliotheek (beschikbaar wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) vergelijk het aantal universele id&#39;s met het aantal originele gehashte e-mailadressen. Voor informatie over aanvaardbare ID vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[Gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 
-Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adcloud-support@adobe.com`.
+## Problemen oplossen
+
+Als u problemen met de vertaalsnelheid en het aantal gebruikers wilt oplossen, raadpleegt u &quot;[Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md).&quot;
+
+Neem contact op met het accountteam van de Adobe of `adcloud-support@adobe.com`.
 
 >[!MORELIKETHIS]
 >
