@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: c2de7424ecae0ad30792eaa459c8d9bfd3ff3b7c
+source-git-commit: 81415330017ee207fa1aa43ffdf2fe3205d88e9a
 workflow-type: tm+mt
-source-wordcount: '1022'
+source-wordcount: '1019'
 ht-degree: 0%
 
 ---
@@ -115,7 +115,7 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 (Pakketten met pakketniveau-interval) De vliegperioden van het pakket, met inbegrip van aangepaste vliegperioden binnen het totaal [!UICONTROL Flight Dates] voor het pakket. U kunt aangepaste vluchten alleen configureren wanneer de [!UICONTROL Activate Custom Flighting] optie is ingeschakeld in het dialoogvenster [!UICONTROL Goals & Budget] sectie.
 
-**[DNL-vlucht N]:** (Alleen beschikbaar als de [!UICONTROL Activate Custom Flighting] (optie is ingeschakeld) Geef voor elke vlucht de startdatum, einddatum en het doel voor de uitgave op. Als u nog een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]**.
+**[!DNL Flight N]:** (Alleen beschikbaar als de [!UICONTROL Activate Custom Flighting] (optie is ingeschakeld) Geef voor elke vlucht de startdatum, einddatum en het doel voor de uitgave op. Als u nog een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]**.
 
 Voor bestaande pakketten kunt u desgewenst een waarde invoeren in het dialoogvenster [!UICONTROL Rollover] kolom voor elke vlucht om het potentiële niet-bestede budget toe te voegen aan de volgende vlucht. De geprojecteerde waarde in de [!UICONTROL Adjusted Goal (Goal + Rollover)] wordt de kolom dienovereenkomstig gewijzigd.<!-- clarify usage -->
 
