@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 6e4416f7a46c6d7e9a4c680c850f81ef836f9f7a
+source-git-commit: 1ae55a0c4750e25429c954c406352b2235805016
 workflow-type: tm+mt
-source-wordcount: '965'
+source-wordcount: '999'
 ht-degree: 0%
 
 ---
@@ -115,13 +115,17 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 (Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Activate Custom Flighting]&quot; ingeschakeld) Aangepaste vliegperioden binnen het totaal [!UICONTROL Flight Dates] in de [!UICONTROL Goals & Budget] sectie.
 
-Voer voor elke vlucht de startdatum, de einddatum en het doelaantal indrukkingen in. Als u nog een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]**.
+Voer voor elke vlucht de begindatum, einddatum en het doel voor de uitgave in. Als u nog een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]**.
+
+Voor bestaande pakketten kunt u desgewenst een waarde invoeren in het dialoogvenster [!UICONTROL Rollover] kolom voor elke vlucht om het potentiële niet-bestede budget toe te voegen aan de volgende vlucht. De geprojecteerde waarde in de [!UICONTROL Adjusted Goal (Goal + Rollover)] wordt de kolom dienovereenkomstig gewijzigd.<!-- clarify usage -->
 
 >[!MORELIKETHIS]
->
->* [Info over Pakketbeheer](package-about.md)
+
+Voor e
+>>
+* [Info over Pakketbeheer](package-about.md)
 >* [Een pakket maken](package-create.md)
->* [Een pakket bewerken](package-edit.md)
->* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
->* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+* [Een pakket bewerken](package-edit.md)
+* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
+* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
+* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
