@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 5a173c53bdd0a5673c968b1ebc6348a40e99c80c
+source-git-commit: a8227e42c49e30d6b73daf51e4f62da05f6508f3
 workflow-type: tm+mt
-source-wordcount: '997'
+source-wordcount: '996'
 ht-degree: 0%
 
 ---
@@ -38,14 +38,14 @@ U kunt de instelling op pakketniveau overschrijven in het dialoogvenster [plaats
 
 * **[!UICONTROL Placement level pacing]:**  Deze pakketstrategie werkt door alle meegeleverde plaatsingen te plaatsen en te begrenzen *individueel*. De beste praktijk is om deze strategie alleen te gebruiken om gegarandeerde transacties op de particuliere markt uit te voeren.
 
-**[!UICONTROL Flight Dates]:** De begindatum en einddatum van het pakket.
-
-Selecteer *[!UICONTROL *Activate Custom Flighting]** en zet aangepaste vluchten op in de [!UICONTROL Flighting] hieronder. Wanneer u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen.
+**[!UICONTROL Flight Dates]:** De algemene begindatum en einddatum van het pakket. De vluchtdata moeten worden opgenomen in de vluchtdata voor de campagne.
 
 >[!NOTE]
 >
->* De vluchtdata moeten worden opgenomen in de vluchtdata voor de campagne. Bovendien moeten de vluchtdata voor alle plaatsen die aan dit pakket zijn toegewezen, binnen deze data worden opgenomen.
+>* De vluchtdata voor alle plaatsen die aan dit pakket zijn toegewezen, moeten binnen deze data worden opgenomen.
 > * U kunt de begindatum van het pakket niet bewerken wanneer aangepaste flighting wordt geactiveerd.
+
+**[!UICONTROL *Activate Custom Flighting]:** Hiermee kunt u vaste vluchten maken voor het pakket in het dialoogvenster [!UICONTROL Flighting] hieronder. Nadat u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen en de begindatum van het pakket niet meer bewerken.
 
 **[!UICONTROL Budget]:** (Pakketten met alleen pakketniveau) Het bruto-begrotingsmaximum en het begrotingsinterval.
 
