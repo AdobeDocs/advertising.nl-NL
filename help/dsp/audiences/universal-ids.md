@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: 42cfd98f3ef4145f5ac44e955a9b2f08a698f239
+source-git-commit: 8a8f19c7db95c0eda05a3262eeaf4c8a0aeaaa64
 workflow-type: tm+mt
-source-wordcount: '1435'
+source-wordcount: '1500'
 ht-degree: 0%
 
 ---
@@ -74,7 +74,7 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
 * Ongeveer 24 uur nadat u een segment activeert, controleer het omgezette aantal identiteitskaart voor het segment binnen [!UICONTROL Audiences] > [!UICONTROL All Audiences]. Neem contact op met het accountteam van de Adobe als het aantal id&#39;s onverwacht is.
 
-  Zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances)&quot; voor meer informatie over hoe de segmenttellingen kunnen variëren.
+  Zie &quot;[Gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances)&quot; voor meer informatie over hoe de segmenttellingen kunnen variëren.
 
 * Wijzig de bestaande pakketten en plaatsen niet. Nochtans, als u geen stijgende begroting hebt om universele IDs te testen, dan verminder de originele begrotingen om de tests te financieren.
 
@@ -96,15 +96,21 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
 * Herinner dat het bereik voor voor authentiek verklaarde publiekssegmenten natuurlijk kleiner is dan het bereik voor op koekjes-gebaseerde segmenten, en dat het gebruiken van extra het richten opties uw bereik verder vermindert. Wees voorzichtig met het gebruik van korrelige doelen, vooral door meerdere doelen te verbinden met AND-instructies.
 
-## Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s {#universal-ids-data-variances}
+## Gegevensvariaties tussen e-mailadressen en universele id&#39;s {#universal-ids-data-variances}
+
+### Aanvaardbare variantieniveaus
+
+De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%; de vertaalsnelheid voor [!DNL RampIDs] met name 95 % als alle gehashte e - mailadressen uniek zijn . Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze naar minstens 95 worden vertaald [!DNL RampIDs] of meer dan 90 andere typen universele id&#39;s. Een lager vertaaltarief kan op een uitgifte wijzen. Zie &quot;[Oorzaken van variantie](#Universal-ids-data-variances-cause&quot; voor mogelijke uitleg.
+
+Voor [!DNL RampIDs]Neem contact op met het accountteam van uw Adobe voor verder onderzoek als de vertaalkosten lager zijn dan 70%.
+
+### Oorzaken van variantie {#universal-ids-data-variances-causes}
 
 * Vertaalde e-mailadressen zijn vertaald naar id5:
 
   Het probabilistische model heeft een foutenvariantie van +/- 5%. Dit betekent dat het aantal kijkers met 5% kan worden overschat of onderschat.
 
 * Vertaalde e-mailadressen naar [!DNL RampIDs]:
-
-  De vertaalsnelheid van gehashte e-mailadressen naar [!DNL RampIDs] moet 95% zijn als alle gehashte e-mailadressen uniek zijn. Als de vertaalkosten lager zijn dan 70%, neemt u contact op met het accountteam van de Adobe voor verder onderzoek.
 
    * Wanneer meerdere profielen dezelfde e-mailid gebruiken, kan het aantal DSP segmenten lager zijn dan het aantal profielen in het gegevensplatform van uw klant. In Adobe Photoshop kunt u bijvoorbeeld een bedrijfsaccount en een persoonlijke account maken met één e-mailadres. Maar als beide profielen bij dezelfde persoon horen, worden de profielen aan één e-mailid en aan één overeenkomstige e-mailid toegewezen [!DNL RampID].
 
