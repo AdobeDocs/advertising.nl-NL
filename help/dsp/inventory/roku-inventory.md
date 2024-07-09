@@ -3,22 +3,20 @@ title: Gebruiken [!DNL Roku] Inventaris
 description: Meer informatie over DSP partnerschap met [!DNL Roku], inclusief inventarisopties, goedgekeurde leveranciers van trackingservices van derden en aanbevolen procedures voor [!DNL Roku]-specifieke stages.
 feature: DSP On Demand Inventory, DSP Private Inventory
 exl-id: e7a1aa80-d7f0-4a4e-96b1-6b362a32106e
-source-git-commit: 9b3d6893e004b16714bf50f1334424d50fac7c91
+source-git-commit: 5427b476d8475c1f6863d5227df45685c39da297
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
 # Gebruiken [!DNL Roku] Inventaris
 
-Reclame DSP biedt unieke kenmerken voor advertenties op [!DNL Roku].
+Advertising DSP biedt functies voor reclame op [!DNL Roku].
 
 ## De DSP en [!DNL Roku] Partnerschap
 
-Roku en DSP hebben een uniek partnerschap dat overeenkomt met uw [!DNL DSP] publiek naar [!DNL Roku] Id&#39;s voor deterministische doelgroep voor 1:1 [!DNL Roku] voorraad.
-
-Buiten Roku&#39;s eigen DSP (OneView) heeft DSP alleen toegang tot deze doelfuncties. DSP is ook de enige DSP met toestemming [!DNL Roku] levering naast alle andere voorraad van de aangesloten tv (CTV). Omdat [!DNL Roku] deelt niet alle standaard RTB- en pixelsignalen, geen andere DSP kan zich richten of meten over de door Roku verkochte CTV-apparatuur.
+De [!DNL Roku] en DSP partnerschap [!DNL DSP] publiek naar [!DNL Roku] Id&#39;s voor deterministische doelgroep voor 1:1 [!DNL Roku] voorraad.
 
 ## [!DNL Roku] Inventarisopties
 
@@ -53,7 +51,7 @@ De privé overeenkomsten staan u toe om de overeenkomstenparameters aan te passe
 
 Bij DSP campagnes [maken [!DNL Roku]-specifieke stages](/help/dsp/campaign-management/placements/placement-create.md) met het plaatsingstype &quot;[!UICONTROL Connected TV (Roku)].&quot; Inclusief [!DNL Roku] plaatsingen in [!DNL Roku]-specific pakketten met bepaalde doelstellingen.
 
-Elk [!DNL Roku] de plaatsing moet minstens één richten [!DNL Roku] deal of bron. De unieke publieksovereenkomst van DSP gebruiken met [!DNL Roku]omvat u een of meer publiekssegmenten die u kunt vergelijken met de [!DNL Roku] (opted-in) deterministische gegevensset.
+Elk [!DNL Roku] de plaatsing moet minstens één richten [!DNL Roku] deal of bron. De doelgroep van DSP gebruiken die overeenkomt met [!DNL Roku]omvat u een of meer publiekssegmenten die u kunt vergelijken met de [!DNL Roku] (opted-in) deterministische gegevensset.
 
 ### [!DNL Roku]-Goedgekeurde leveranciers van tracking van derden
 
