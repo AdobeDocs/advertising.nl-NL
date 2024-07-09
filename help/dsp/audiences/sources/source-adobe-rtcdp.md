@@ -3,16 +3,16 @@ title: Het gebruiken van de DSP Integratie met [!DNL Adobe] [!DNL Real-time CDP]
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: cb1da95b-0d19-4450-8770-6c383248ddae
-source-git-commit: 7963623d20686553629e2aa7ad76b4fd48403555
+source-git-commit: 5d4dfa7976b1500bf65105cf8fcc6dc5d3e1ec65
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '540'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL Adobe Real-Time CDP] naar universele id&#39;s
 
-*Beta, functie*
+*Beta-functie*
 
 Gebruik de DSP integratie met [de [!DNL Adobe Real-Time Customer Data Platform (CDP)]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), onderdeel van de Adobe Experience Platform, om uw gehashte e-mailadressen om te zetten in universele id&#39;s voor gerichte advertenties.
 
@@ -28,15 +28,17 @@ Gebruik de DSP integratie met [de [!DNL Adobe Real-Time Customer Data Platform (
 
    De broninstellingen bevatten een automatisch gegenereerde bronsleutel die u in de volgende stap gebruikt.
 
-1. In Adobe Experience Platform configureert u een DSP voor advertentie met de [!UICONTROL Source Key] die is gegenereerd in de DSP broninstellingen.
+1. In Adobe Experience Platform configureert u een Advertising DSP-doelverbinding met de [!UICONTROL Source Key] die is gegenereerd in de DSP broninstellingen.
 
    Voor instructies voor het activeren van de DSP bestemmingsverbinding, het selecteren van segmenten, en de toegang tot van controletoestemmingen, zie &quot;[Adobe Advertising Cloud DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
 
    De bron-e-mailadressen moeten worden gehashed gebruikend het algoritme SHA-256.
 
-1. Nadat u alle stappen hebt uitgevoerd, controleert u het bestand in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
+1. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment vult en het aantal universele id&#39;s vergelijkt met het aantal oorspronkelijke gehashte e-mailadressen.
 
-   De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%. Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze worden vertaald naar meer dan 90 universele id&#39;s. Een vertaalsnelheid van 90% of minder is een probleem. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
+   De segmenten moeten binnen 24 uur in DSP beschikbaar zijn. Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn.
+
+   De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%; de vertaalsnelheid voor [!DNL RampIDs] met name 95 % als alle gehashte e - mailadressen uniek zijn . Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze naar minstens 95 worden vertaald [!DNL RampIDs] of meer dan 90 andere typen universele id&#39;s. Een lager vertaaltarief is een kwestie. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 
    Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adcloud-support@adobe.com`.
 

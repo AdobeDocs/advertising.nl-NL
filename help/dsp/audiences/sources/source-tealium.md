@@ -3,16 +3,16 @@ title: Gebruikersnamen converteren van [!DNL Tealium] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Tealium] eerste-partijsegmenten.
 feature: DSP Audiences
 exl-id: 100abbe7-e228-4eb6-a5b9-bf74e83b3aa2
-source-git-commit: 84ecc81745c6445d08cd743abfd412d62eddde86
+source-git-commit: 44c2fcad42be2d25524a49cdc9cb4184297cd3a1
 workflow-type: tm+mt
-source-wordcount: '1111'
+source-wordcount: '1140'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL Tealium] naar universele id&#39;s
 
-*Beta, functie*
+*Beta-functie*
 
 Gebruik de DSP integratie met de [!DNL Tealium] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame. Het proces gebruikt het [!DNL Amazon Web Services] (AWS) brandslangaansluiting. Voer de volgende stappen uit om gegevens uit Tealium te delen met DSP:
 
@@ -140,9 +140,11 @@ U kunt slechts één schakelaar per segment en één segment per schakelaar hebb
 
 ## Stap 6: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
-Nadat u alle stappen hebt uitgevoerd, moeten de segmenten binnen 24 uur DSP beschikbaar zijn. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
+De segmenten moeten binnen 24 uur in DSP beschikbaar zijn. Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn.
 
-De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%. Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze worden vertaald naar meer dan 90 universele id&#39;s. Een vertaalsnelheid van 90% of minder is een probleem. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
+Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment vult en het aantal universele id&#39;s vergelijkt met het aantal oorspronkelijke gehashte e-mailadressen.
+
+De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%; de vertaalsnelheid voor [!DNL RampIDs] met name 95 % als alle gehashte e - mailadressen uniek zijn . Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze naar minstens 95 worden vertaald [!DNL RampIDs] of meer dan 90 andere typen universele id&#39;s. Een lager vertaaltarief is een kwestie. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 
 Segmenten worden elke 24 uur vernieuwd. Nochtans, verloopt de opneming in een segment na 30 dagen door gebrek of na een klant-gespecificeerde vervalperiode. Vernieuw de segmenten door ze te verplaatsen [!DNL Tealium] vóór de vervaldatum. Neem contact op met het accountteam van de Adobe om een vervaldatum van een aangepast segment aan te vragen.
 

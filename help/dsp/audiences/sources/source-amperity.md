@@ -2,16 +2,17 @@
 title: Gebruikersnamen converteren van [!DNL Amperity] naar universele id's
 description: Leer hoe u DSP kunt inschakelen om uw [!DNL Amperity] eerste-partijsegmenten.
 feature: DSP Audiences
-source-git-commit: 25bcc2eefa4dc7873ab8189122d43da336e3e046
+exl-id: c751709a-5ad2-43fa-ba3a-fc7a9683da3f
+source-git-commit: ed74f3fa3d0036e0dc8a529b05452567527f68a1
 workflow-type: tm+mt
-source-wordcount: '696'
+source-wordcount: '745'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL Amperity] naar universele id&#39;s
 
-*Beta, functie*
+*Beta-functie*
 
 Gebruik de DSP integratie met de [!DNL Amperity] gegevensplatform van de klant om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte reclame.
 
@@ -73,13 +74,15 @@ De adverteerder moet segmenttoewijzingsgegevens voorbereiden en delen.
 
 1. De adverteerder moet dan met het Team van de Rekening van de Adobe bevestigen dat de segmentgegevens werden ontvangen.
 
-De segmenten moeten binnen 24 uur in DSP beschikbaar zijn en worden vernieuwd zoals geconfigureerd voor de adverteerder binnen [!DNL Amperity]. Ongeacht hoe vaak het segment wordt verfrist, verloopt de opneming in een segment na 30 dagen door gebrek of na een klant-gespecificeerde vervalperiode. Vernieuw de segmenten door ze te verplaatsen [!DNL Amperity] vóór de vervaldatum. Neem contact op met het accountteam van de Adobe om een vervaldatum van een aangepast segment aan te vragen.
+De segmenten moeten binnen 24 uur in DSP beschikbaar zijn. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsmontages) dat het segment beschikbaar is en bevolkt.
+
+De segmenten worden vernieuwd zoals geconfigureerd voor de adverteerder binnen [!DNL Amperity]. Ongeacht hoe vaak het segment wordt verfrist, verloopt de opneming in een segment na 30 dagen door gebrek of na een klant-gespecificeerde vervalperiode. Vernieuw de segmenten door ze te verplaatsen [!DNL Amperity] vóór de vervaldatum. Neem contact op met het accountteam van de Adobe om een vervaldatum van een aangepast segment aan te vragen.
 
 ## Stap 5: Vergelijk het aantal universele id&#39;s met het aantal gehashte e-mailadressen {#compare-id-count}
 
-Nadat u alle stappen hebt uitgevoerd, controleert u het bestand in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment beschikbaar is en binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
+Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn. In uw publieksbibliotheek (beschikbaar wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) vergelijk het aantal universele id&#39;s met het aantal originele gehashte e-mailadressen.
 
-De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%. Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze worden vertaald naar meer dan 90 universele id&#39;s. Een vertaalsnelheid van 90% of minder is een probleem. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
+De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%; de vertaalsnelheid voor [!DNL RampIDs] met name 95 % als alle gehashte e - mailadressen uniek zijn . Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze naar minstens 95 worden vertaald [!DNL RampIDs] of meer dan 90 andere typen universele id&#39;s. Een lager vertaaltarief is een kwestie. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 
 Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adcloud-support@adobe.com`.
 

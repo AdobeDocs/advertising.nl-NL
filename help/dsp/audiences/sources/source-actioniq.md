@@ -2,16 +2,16 @@
 title: "Gebruikersnamen converteren van [!DNL ActionIQ] naar universele id's"
 description: "Leer hoe u DSP kunt inschakelen om uw [!DNL ActionIQ] eerste-partijsegmenten."
 feature: DSP Audiences
-source-git-commit: 87080d8152ccf3aa9249a88379ecc9f919c0854d
+source-git-commit: 4292083dac92860854dca30f7897e1b0279f68ec
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
 # Gebruikersnamen converteren van [!DNL ActionIQ] naar universele id&#39;s
 
-*Beta, functie*
+*Beta-functie*
 
 Gebruik de DSP integratie met de [!DNL ActionIQ] het gegevensplatform van de klant om uw gehakte e-mailadressen in universele identiteitskaart voor gerichte reclame om te zetten.
 
@@ -27,9 +27,14 @@ Er zijn <!-- NN --> stappen om gegevens te delen van [!DNL ActionIQ] met DSP:
 
 1. Nadat u de publieksbron creeert, deel de sleutel van de broncode met [!DNL ActionIQ] gebruiker.
 
-1. Nadat u alle stappen hebt uitgevoerd, controleert u het bestand in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment binnen 24 uur vult. Vergelijk het aantal universele id&#39;s met het aantal originele hashed-e-mailadressen.
+1. 
+   <!-- ActionIQ-specific step(s) -->
 
-   De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%. Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze worden vertaald naar meer dan 90 universele id&#39;s. Een vertaalsnelheid van 90% of minder is een probleem. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
+1. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het segment vult en het aantal universele id&#39;s vergelijkt met het aantal oorspronkelijke gehashte e-mailadressen.
+
+   De segmenten moeten binnen 24 uur in DSP beschikbaar zijn. Nadat DSP de segmentgegevens ontvangt, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn.
+
+   De vertaalsnelheid van gehashte e-mailadressen naar universele id&#39;s moet groter zijn dan 90%; de vertaalsnelheid voor [!DNL RampIDs] met name 95 % als alle gehashte e - mailadressen uniek zijn . Als u bijvoorbeeld 100 gehashte e-mailadressen verzendt van het gegevensplatform van uw klant, moeten deze naar minstens 95 worden vertaald [!DNL RampIDs] of meer dan 90 andere typen universele id&#39;s. Een lager vertaaltarief is een kwestie. Voor meer informatie over hoe de segmenttellingen kunnen variëren, zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances).&quot;
 
    Neem voor probleemoplossing contact op met uw accountteam van de Adobe of `adcloud-support@adobe.com`.
 
