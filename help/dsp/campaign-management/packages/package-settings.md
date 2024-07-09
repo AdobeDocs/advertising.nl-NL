@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 1ae55a0c4750e25429c954c406352b2235805016
+source-git-commit: 5a173c53bdd0a5673c968b1ebc6348a40e99c80c
 workflow-type: tm+mt
-source-wordcount: '999'
+source-wordcount: '997'
 ht-degree: 0%
 
 ---
@@ -120,12 +120,10 @@ Voer voor elke vlucht de begindatum, einddatum en het doel voor de uitgave in. A
 Voor bestaande pakketten kunt u desgewenst een waarde invoeren in het dialoogvenster [!UICONTROL Rollover] kolom voor elke vlucht om het potentiële niet-bestede budget toe te voegen aan de volgende vlucht. De geprojecteerde waarde in de [!UICONTROL Adjusted Goal (Goal + Rollover)] wordt de kolom dienovereenkomstig gewijzigd.<!-- clarify usage -->
 
 >[!MORELIKETHIS]
-
-Voor e
->>
-* [Info over Pakketbeheer](package-about.md)
+>
+>* [Info over Pakketbeheer](package-about.md)
 >* [Een pakket maken](package-create.md)
-* [Een pakket bewerken](package-edit.md)
-* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
-* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
-* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+>* [Een pakket bewerken](package-edit.md)
+>* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
+>* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
+>* [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
