@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: fd5a78a0eb2982ee85ca2d2b6a3cd79a0821d965
+source-git-commit: 977314f07d1299d9b94680861b046161bb444228
 workflow-type: tm+mt
-source-wordcount: '2424'
+source-wordcount: '2450'
 ht-degree: 0%
 
 ---
@@ -359,13 +359,9 @@ Als u een aangepast conversiedoel wilt maken, klikt u op **[!UICONTROL + Add cus
 
 >[!TIP]
 >
->Voor campagnes in hybride portefeuilles waarvoor u doelstellingen aan het advertentienetwerk uploadt, is de beste praktijk om campagne-vlakke doelstellingen te gebruiken die de omzettingsdoelstellingen in de doelstelling van de portefeuille aanpassen. Als de campagnedoelstellingen echter [!DNL Google]-tracked omzettingen, dan voeg hen binnen toe [!DNL Google Ads] editor omdat ze niet opnieuw worden geüpload naar het advertentienetwerk met het doel. Daarnaast moet de [!DNL Google Ads] redacteur, verwijder de de omzettingsacties van de campagne als rekening standaarddoelstellingen door hen als secundaire (niet primaire) doelstellingen te merken.
-
-<!-- Check on this:
->If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
->The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
--->
+>Voor campagnes in hybride portfolio&#39;s waarvoor u [uploaden van doelstellingen naar het advertentienetwerk](/help/search-social-commerce/tools/objective-upload-to-networks.md), doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg geüploade Onderzoek, Sociale, &amp; de portefeuille van Commerce objectieve metrisch toe (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsactie voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omvatten [!DNL Google]-tracked omzettingen omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
 
 >[!MORELIKETHIS]
 >

@@ -3,9 +3,9 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising].
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: d703b0d0134dbd16b2672b13d2ea63e4f102e105
+source-git-commit: 39936c6834012432447d3216d8463937996b0017
 workflow-type: tm+mt
-source-wordcount: '677'
+source-wordcount: '711'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,9 @@ ht-degree: 0%
 
 Met Zoeken, Sociaal en Commerce kunt u de doelstellingen voor de portfolio&#39;s van een advertentieaccount uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising] zodat kunt u ze gebruiken voor hybride optimalisatie. De geüploade doelstellingen zijn beschikbaar als conversieacties voor aangepaste conversiedoelstellingen op accountniveau en op campagnereniveau.
 
-Als u deze optie inschakelt, wordt er automatisch een upload uitgevoerd naar doelstellingen in portfolio&#39;s die campagnes met slimme biedstrategieën bevatten. Met Zoeken, Sociaal en Commerce maakt u een conversie op het advertentienetwerk voor elke toepasselijke doelstelling. De omzetting vertegenwoordigt alle gewogen omzettingsmetriek in het doel op EF ID (klik identiteitskaart) niveau. Elke conversie heeft een van de volgende namen:
+Als u deze optie inschakelt, wordt er automatisch een upload uitgevoerd naar doelstellingen in portfolio&#39;s die campagnes met slimme biedstrategieën bevatten. Met Zoeken, Sociaal en Commerce maakt u een conversie op het advertentienetwerk voor elke toepasselijke doelstelling. De omzetting vertegenwoordigt alle gewogen omzettingsmetriek in het doel op EF ID (klik identiteitskaart) niveau. Voor [!DNL Google Ads] klikt, EF identiteitskaart is [!DNL Google Ads] `gclid`; for [!DNL Microsoft Advertising] klikt, EF identiteitskaart is [!DNL Microsoft Advertising] `msclkid`. Vanwege deze klik-id kunnen conversiegegevens worden toegewezen aan het specifieke trefwoord en de kliktijd.
+
+Elke geüploade conversie heeft een van de volgende namen:
 
 * `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>`
 
@@ -34,15 +36,7 @@ Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone va
 
 >[!IMPORTANT]
 >
->Conversies die worden bijgehouden door Google Ads en de tag Universal Event tracking (UET) van Microsoft Advertising worden niet opnieuw geüpload naar de advertentienetwerken. Als u hen binnen een doelstelling omvat, voeg hen aan de campagnedoelstellingen binnen de redacteur van het ad netwerk toe.
-
-<!--
->[!IMPORTANT]
->
->Objectives for hybrid portfolios may include conversion goals from multiple ad networks and other types of conversion metrics. However, the individual campaigns in the portfolio can't include conversion goals that aren't included in the portfolio's objective; using additional conversion goals may impact portfolio performance.
--->
-
-<!-- Can conversions from events triggered on other ad networks be included in the portfolio (and just be ignored)? -->
+>Conversies die worden bijgehouden door Google Ads en de tag Universal Event tracking (UET) van Microsoft Advertising worden niet opnieuw geüpload naar de advertentienetwerken. Als u hen binnen een doelstelling omvat, moet u hen aan de campagnedoelstellingen binnen de redacteur van het advertentienetwerk toevoegen.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]**.
 

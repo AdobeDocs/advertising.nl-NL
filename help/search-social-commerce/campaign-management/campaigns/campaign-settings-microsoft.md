@@ -3,9 +3,9 @@ title: '[!DNL Microsoft Advertising] campagne-instellingen'
 description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: 41feb7c717307bc716236517320bdfe7e98c45ab
+source-git-commit: 096271a2e9daddc20f7f5f4e0063fda21974c8a1
 workflow-type: tm+mt
-source-wordcount: '1953'
+source-wordcount: '2001'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ ht-degree: 0%
 
   Als je eenmaal een winkelcampagne voor merken hebt opgeslagen met deze biedstrategie, kun je de biedstrategie niet meer wijzigen. Voor andere soorten winkelcampagnes is deze strategie alleen beschikbaar voor nieuwe campagnes.
 
-* *[!UICONTROL CPV]* (Alleen CTV-videocampagnes van het publiek) Gebruikt het model voor de kosten per weergave (CPV). <!-- Campaigns with this bid strategy aren't optimized when they're included in portfolios. -->
+* *[!UICONTROL CPV]* (Alleen CTV-videocampagnes van het publiek) Gebruikt het model voor de kosten per weergave (CPV). Zoeken, Sociaal en Commerce biedt geen optimalisatie voor campagnes met deze biedstrategie die in portfolio&#39;s zijn opgenomen.
 
 * *[!UICONTROL Enhanced CPC]:* (Campagnes op het publiek, onderzoek, en het winkelen netwerken) gebruikt het verbeterde kosten-per-klikmodel van het advertentienetwerk (eCPC), dat het advertentienetwerk toestaat om de kosten-per-klikbieding (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzettingen binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Commerce) worden gespecificeerd, terwijl het proberen om te houden uw gemiddelde CPC onder uw maximum.
 
@@ -164,7 +164,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 **[!UICONTROL Negative Websites]:** (Alleen campagnes op het scherm/native netwerk; optioneel) Sites op het weergavenetwerk waarop u uw advertenties niet wilt weergeven. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advertising voor &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
+Voor informatie over beschikbaarheid raadpleegt u de Help bij Microsoft Advertising op &quot;[Voorkomen dat advertenties op bepaalde websites worden weergegeven](https://help.ads.microsoft.com/#apex/bae/en/14061/0).&quot;
 
 ## [!UICONTROL Campaign Tracking]
 
@@ -301,13 +301,9 @@ Raadpleeg voor meer informatie over beschikbaarheid de Help bij Microsoft Advert
 
 >[!TIP]
 >
->Voor hybride portefeuilles waarvoor u doelstellingen aan het advertentienetwerk uploadt, is de beste praktijk om campagne-vlakke doelstellingen te gebruiken die de omzettingsdoelstellingen in de doelstelling van de portefeuille aanpassen. Als de campagnedoelstellingen echter conversies bevatten die door de [!DNL Microsoft Advertising] Universal Event tracking (UET)-tag, en voeg deze vervolgens toe binnen de [!DNL Microsoft Advertising] editor omdat ze niet opnieuw worden geüpload naar het advertentienetwerk met het doel. Daarnaast moet de [!DNL Microsoft Advertising] editor, verwijder de omzettingsacties van de campagne als standaarddoelstellingen van de account door de optie &quot;opnemen in conversies&quot; uit te schakelen.
-
-<!-- Check on this:
->If the campaign is part of a hybrid portfolio, then use only conversion goals that are included in the portfolio's objective for the campaign. Including additional conversion goals may impact portfolio performance.
+>Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
->The objective may include conversion goals or other conversions that aren't included for the campaign, but the campaign can't include conversion goals that aren't included in the objective.
--->
+> Voor campagnes in hybride portfolio&#39;s waarvoor u [uploaden van doelstellingen naar het advertentienetwerk](/help/search-social-commerce/tools/objective-upload-to-networks.md), doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek, Sociale, &amp; de portefeuilledoel van Commerce metrisch toe (dat met &quot;O_ACS_OBJ&quot;begint) als omzettingsdoel voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omzettingen omvatten die door worden gevolgd [!DNL Microsoft Advertising] Universal Event tracking (UET)-tag omdat metriek die via het netwerk wordt bijgehouden, niet naar het advertentienetwerk met het doel wordt geüpload.
 
 >[!MORELIKETHIS]
 >
