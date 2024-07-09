@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van Universal ID's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: db21fa1ed9daab9070fa1ce7740dd5dbaa0f3a2f
+source-git-commit: ea50b94ebc6d27fda9c0bd9f61da16750fa58f83
 workflow-type: tm+mt
-source-wordcount: '1392'
+source-wordcount: '1403'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Beta, functie*
 
-DSP ondersteunt universele id&#39;s op basis van personen voor koelapparaten, enkelvoudige apparaten (niet voor alle apparaten) die zich richten op digitale indelingen die worden ondersteund door DSP.
+DSP steunt op mensen-gebaseerde, universele IDs voor kokoos, enig-apparaat (niet dwars-apparaat) richt zich over digitale formaten die door DSP worden gesteund.
 
 * U kunt uw geverifieerde [[!DNL LiveRamp] [!DNL RampIDs]] rechtstreeks DSP met de [!DNL LiveRamp] [!DNL Connect] dashboard. Zie &quot;[Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md).&quot;
 
@@ -72,7 +72,7 @@ Zie &quot;[Plaatsingsinstellingen](/help/dsp/campaign-management/placements/plac
 
 Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segmenten en op ID5 gebaseerde segmenten, waarvoor Adobe Analytics-metingen beschikbaar zijn.
 
-* Ongeveer 24 uur nadat u een segment activeert, controleer het omgezette aantal identiteitskaart voor het segment binnen [!UICONTROL Audiences] > [!UICONTROL All Audiences]. Neem contact op met het accountteam van de Adobe als het aantal id&#39;s onverwacht is.
+* Ongeveer 24 uur nadat u een segment activeert, controleer het omgezette aantal identiteitskaart voor het segment binnen [!UICONTROL Audiences] > [!UICONTROL All Audiences]. Neem contact op met het accountteam van Adobe als het aantal id&#39;s onverwacht is.
 
   Zie &quot;[Oorzaken voor gegevensvariaties tussen e-mailadressen en universele id&#39;s](#universal-ids-data-variances)&quot; voor meer informatie over hoe de segmenttellingen kunnen variëren.
 
@@ -104,11 +104,11 @@ Gebruik de volgende aanbevolen procedures voor [!DNL RampID]Op -gebaseerde segme
 
 * Vertaalde e-mailadressen naar [!DNL RampIDs]:
 
-   * Wanneer meerdere profielen dezelfde e-mailid gebruiken, kan het aantal DSP segmenten lager zijn dan het aantal profielen in het gegevensplatform van uw klant. In Adobe Photoshop kunt u bijvoorbeeld een bedrijfsaccount en een persoonlijke account maken met één e-mailadres. Maar als beide profielen tot hetzelfde segment behoren, worden de profielen toegewezen aan één e-mailid en aan één overeenkomstige e-mailid [!DNL RampID].
+   * Wanneer meerdere profielen dezelfde e-mailid gebruiken, kan het aantal DSP segmenten lager zijn dan het aantal profielen in het gegevensplatform van uw klant. In Adobe Photoshop kunt u bijvoorbeeld een bedrijfsaccount en een persoonlijke account maken met één e-mailadres. Maar als beide profielen bij dezelfde persoon horen, worden de profielen aan één e-mailid en aan één overeenkomstige e-mailid toegewezen [!DNL RampID].
 
-   * A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. DSP krijgt echter geen toewijzingen tussen afgeleid en onderhouden [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
+   * A [!DNL RampID] kan worden geüpgraded naar een nieuwe waarde. Indien [!DNL LiveRamp] herkent geen e-mailid of kan deze niet toewijzen aan een bestaande id [!DNL RampID] in zijn gegevensbestand, dan wijst het een nieuw toe [!DNL RampID] naar de e-mailadres. In de toekomst, wanneer zij e-mailidentiteitskaart aan een andere kunnen toewijzen [!DNL RampID] of meer informatie over dezelfde e-mailadres verzamelen, upgraden ze de [!DNL RampID] naar een nieuwe waarde. [!DNL LiveRamp] verwijst naar deze actie als een upgrade van een &quot;afgeleid&quot; product [!DNL RampID] aan een &quot;onderhouden&quot; [!DNL RampID]. Nochtans, krijgt DSP geen afbeeldingen tussen afgeleid en gehandhaafd [!DNL RampIDs] en kan daarom niet de vorige versie van RampID uit het DSP segment verwijderen. In dit geval kan het aantal segmenten groter zijn dan het aantal profielen.
 
-     Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoekt de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment &quot;Photoshop Enthusiast&quot; van het klantgegevensplatform slechts één e-mailadres voor de gebruiker heeft, heeft het DSP segment twee RampID&#39;s: D123 en M123.
+     Voorbeeld: een gebruiker meldt zich aan bij de [!DNL Adobe] website en bezoekt de Photoshop-pagina. Indien [!DNL LiveRamp] heeft geen bestaande informatie over de e-mailid en wijst deze vervolgens een afgeleid e-mailadres toe [!DNL RampID], D123. Vijftien dagen later bezoekt de gebruiker dezelfde pagina, maar [!DNL LiveRamp] heeft de [!DNL RampID] gedurende die 15 dagen en heeft de [!DNL RampID] naar M123. Hoewel het segment van het klantgegevensplatform &quot;Photoshop Enthusiast&quot; slechts één e-mailidentiteitskaart voor de gebruiker heeft, heeft het DSP segment twee RampIDs: D123 en M123.
 
 ## Problemen oplossen
 
@@ -122,7 +122,9 @@ Als u het aantal gebruikers niet ziet, of als uw publieksgrootte laag is, dan co
 
 * Als uw bereik kleiner is dan u verwacht, controleert u of de logica van het publiekssegment niet te korrelig is.
 
-Neem contact op met het accountteam van de Adobe als u het probleem niet kunt oplossen.
+* Zorg ervoor dat de instellingen voor uw campagne, pakket en plaatsing correct zijn.<!-- wording-->
+
+Als u het probleem niet kunt oplossen, neemt u contact op met uw Adobe-accountteam.
 
 >[!MORELIKETHIS]
 >

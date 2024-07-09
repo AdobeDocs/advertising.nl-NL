@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 5555bc8ec7e407596252cd385cf1410f7fe959a6
+source-git-commit: 3500e22944223997dc56dc94c24639a57e8c54f4
 workflow-type: tm+mt
-source-wordcount: '2074'
+source-wordcount: '2081'
 ht-degree: 0%
 
 ---
@@ -18,21 +18,21 @@ ht-degree: 0%
 
 **ad variatie:** Elke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**[AMO-id](/help/integrations/analytics/ids.md#amo-id):** Een volgcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
+**[AMO-id](/help/integrations/analytics/ids.md#amo-id):** Een trackingcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
 
-**biedeenheid:** Een zoekterm, term voor sociale media en Commerce voor een eenheid waarop biedingen worden geplaatst.
+**biedeenheid:** Een zoekterm, term voor sociale zaken en handel voor een eenheid waarop biedingen worden geplaatst.
 
 * Voor CPC- campagnes, is dit een sleutelwoord en zijn gelijke type voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
 
 * Voor campagnes met de [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition], of [!DNL Target Return on Ad Spend] uitgavenstrategieën, elke campagne is een biedingseenheid.
 
-* Voor campagnes op [!DNL Yahoo! Display Network], waarbij geen trefwoorden worden gebruikt, hebben alle advertenties in een advertentiegroep hetzelfde bod en worden als dezelfde biedeenheid beschouwd.
+* Voor campagnes op [!DNL Yahoo! Display Network], waarbij geen trefwoorden worden gebruikt, hebben alle advertenties in een advertentiegroep hetzelfde bod en worden beschouwd als dezelfde biedingseenheid.
 
-**beperking biedeenheid:** Zie &#39;constraint&#39;.
+**beperking biedingseenheid:** Zie &#39;restrictie&#39;.
 
 ## C-D {#c-d}
 
-**campagne:** Een set advertentiegroepen in één advertentierekening die een begroting, tijdspanne, het richten, en andere montages delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Onderzoek, Sociale, &amp; Commerce leidt pseudo-campagnes voor elke reeks verwante en groepen in bestaand [!DNL Baidu] accounts die worden gesynchroniseerd in Zoeken, Sociaal en Commerce.
+**campagne:** Een set advertentiegroepen in één advertentierekening die een budget, tijdspanne, targeting en andere instellingen delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Search, Social &amp; Commerce creëert pseudocampagnes voor elke set verwante advertentiegroepen in bestaande [!DNL Baidu] accounts die worden gesynchroniseerd binnen Search, Social &amp; Commerce.
 
 **hoofdlettergevoelig veld:** Een hoofdlettergevoelig veld of query behandelt hoofdletters (zoals C) anders dan kleine letters (zoals c). Auto wordt bijvoorbeeld beschouwd als een andere waarde dan auto.
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
 **kostenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en Commerce die het kostenvolume voorspelt, het bod dat vereist is om elke positie of plaatsing te winnen en de CPC (search) of CPM (display) voor elke biedingseenheid met behulp van historische gegevens en wiskundige voorspellingstechnieken.
 
-**dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden dat in de afgelopen zeven dagen ten minste één indruk heeft gekregen, zodat de optimaliseringsmogelijkheid kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostenmodellen; de modellen die wel meetellen voor de dekking van het kostenmodel.
+**dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden in CPC- of eCPC-campagnes die in de afgelopen zeven dagen ten minste één indruk hebben gekregen, zodat de optimalisatiefunctie kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostprijsmodellen; de biedingseenheden met kostprijsmodellen tellen mee voor de dekking van het kostprijsmodel.
 
 **halfwaardetijd kostenmodel:** (Adverteerders met portefeuilles) Het aantal dagen vóór de huidige datum waarvoor de kostengegevens als recenter en derhalve relevanter voor kostenmodellen worden beschouwd.
 
@@ -122,21 +122,21 @@ ht-degree: 0%
 
 ## O-P {#o-p}
 
-**doel:** (Adverteerders met portefeuilles) Een doelstelling die een cliënt voor een specifieke portefeuille of een vertoningscampagne vaststelt om zijn bedrijfsdoelstelling te verwezenlijken, zoals het maximaliseren van winsten of het bereiken van een specifiek verkoopdoel. Een doel bestaat uit de conversiemetriek die voor het portfolio moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
+**doelstelling :** (Adverteerders met portfolio&#39;s) Een doelstelling die een klant stelt te bereiken om zijn bedrijfsdoelstelling voor een specifieke portefeuille of een displaycampagne te halen, zoals het maximaliseren van de winst of het bereiken van een specifieke verkoopdoelstelling. Een doel bestaat uit de conversiemetriek die voor het portfolio moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
 
-**objectieve waarde:** (Adverteerders met portefeuilles) De totale gewogen conversies zoals berekend op basis van de huidige doelstelling van de portefeuille, waaronder:
+**objectieve waarde:** (Adverteerders met portefeuilles) De totale gewogen conversies berekend volgens de huidige doelstelling van de portefeuille, met inbegrip van:
 
-* alle omzettingen, rekening houdend met a) de gewichten die aan elke conversie in de objectieve functie van de portefeuille zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor doorkijkcijfers.
+* alle conversies, rekening houdend met a) de gewichten die aan elke conversie in de objectieve functie van de portefeuille zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor doorkijkactiviteiten.
 
-* alle klikken, die de optimaliseringscapaciteit één enkele omzetting beschouwt en volgens de klikwaarde voor het doel gewogen is.
+* alle klikken, die de optimalisatiecapaciteit als één enkele omzetting beschouwt en gewogen wordt volgens de klikwaarde voor het doel.
 
-Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
+Dit heeft dezelfde waarde als de oude kolom &quot;WeGewogen Omzet&quot;.
 
 **optimalisatiefunctie:** (Advertisers met portfolio&#39;s) Zoek-, sociale en Commerce-technologie voor trefwoordbiedingen, die de optimale strategie voor biedingen en begrotingsbeheer voor een portfolio bepaalt op basis van de bedrijfsdoelstelling.
 
 **verweesde transactie:** Een transactiegebeurtenis die niet aan een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
 
-**pixel:** Een transparante, één pixel bij één pixel ingesloten afbeelding op een webpagina voor traceringsdoeleinden. Voor het bijhouden van Adoben Advertising voor conversie-tags wordt een HTML-afbeeldingspixel of JavaScript gebruikt om klikbewerkingen en de resulterende transacties bij te houden.
+**pixel:** Een transparante, één pixel bij één pixel ingesloten afbeelding op een webpagina voor traceringsdoeleinden. Codes voor het bijhouden van Adoben Advertising bevatten een HTML-afbeeldingspixel of JavaScript om kliks en de resulterende  bij te houden.
 
 **plaatsing:** Een locatie op een weergavenetwerk waar uw advertenties kunnen worden weergegeven. Het kan een gehele website, een subset van een website of een advertentiepunt op een specifieke pagina zijn.
 
@@ -170,7 +170,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 ## S-T {#s-t}
 
-**simulatie:** (Adverteerders met portefeuilles) Portfolio modellering die het aantal klikken en omzettingen schat dat een portefeuille voor verschillende uitgavenniveaus en overeenkomstige dagbegrotingen kan verwachten, gebruikend historische gegevens.
+**simulatie:** (Adverteerders met portefeuilles) Portfoliomodellering die het aantal klikken en conversies schat dat een portefeuille kan verwachten voor verschillende bestedingsniveaus en corresponderende dagelijkse begrotingen, aan de hand van historische gegevens.
 
 **uitgavenstrategie:** (Advertisers met portfolio&#39;s) De geselecteerde strategie voor het optimaliseren van trefwoorden/advertenties voor een portfolio.
 
