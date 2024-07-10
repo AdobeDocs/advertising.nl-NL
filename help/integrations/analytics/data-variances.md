@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 1f27738d383c8c420155d6d12c98c646bba7d7b4
 workflow-type: tm+mt
-source-wordcount: '3205'
+source-wordcount: '3360'
 ht-degree: 0%
 
 ---
@@ -26,19 +26,19 @@ Adverteerders met de [!DNL Analytics for Advertising] <!-- (A4AdC) --> betaalde 
 
 De [!DNL Analytics for Advertising] integratie gebruikt twee variabelen ([!DNL eVars] of [!DNL rVars] \[gereserveerd [!DNL eVars]]\) om de [EF-id en AMO-id](ids.md). Deze variabelen worden gevormd met één enkel raadplegingsvenster (de tijd waarbinnen klik-productie en mening-productie worden toegeschreven) en een attributiemodel. Tenzij anders gespecificeerd, worden de variabelen gevormd om het gebrek aan te passen, klikt de adverteerder-vlakke raadplegingsvenster en attributiemodel in Adobe Advertising.
 
-Nochtans, zijn de raadplegingsvensters en attribuutmodellen configureerbaar in beide Analytics (via [!DNL eVars]) en in Adobe Advertising. Verder is het attributiemodel in Adobe Advertising niet alleen op adverteerderniveau (voor optimalisatie van biedingen), maar ook in afzonderlijke gegevensweergaven en -rapporten (alleen voor rapportagedoeleinden) configureerbaar. Een organisatie kan bijvoorbeeld de voorkeur geven aan het toewijzingsmodel voor gelijkmatige distributie voor optimalisatie, maar de laatste aanraakkenmerk gebruiken voor rapporten in DSP of [!DNL Advertising Search, Social, & Commerce]. Als u toewijzingsmodellen wijzigt, wordt het aantal toegewezen conversies gewijzigd.
+Nochtans, zijn de raadplegingsvensters en attribuutmodellen configureerbaar in beide Analytics (via [!DNL eVars]) en in Adobe Advertising. Verder is het attributiemodel in Adobe Advertising niet alleen op adverteerderniveau (voor optimalisatie van biedingen), maar ook in afzonderlijke gegevensweergaven en -rapporten (alleen voor rapportagedoeleinden) configureerbaar. Een organisatie kan bijvoorbeeld de voorkeur geven aan het toewijzingsmodel voor gelijkmatige verdeling voor optimalisatie, maar de laatste aanraakkenmerk gebruiken voor rapporten in Advertising DSP of [!DNL Advertising Search, Social, & Commerce]. Als u toewijzingsmodellen wijzigt, wordt het aantal toegewezen conversies gewijzigd.
 
 Als een terugkijkvenster of attributenmodel van het rapport in één product en niet in andere wordt gewijzigd, dan tonen de zelfde rapporten van elk systeem verschillende gegevens:
 
 * **Voorbeeld van verschillen die worden veroorzaakt door verschillende terugkijkvensters:**
 
-  Stel dat de Adobe Advertising een terugkijkvenster van 60 dagen heeft klikken en [!DNL Analytics] heeft een terugkijkvenster van 30 dagen. En stel dat een gebruiker naar de site komt via een advertentie, bladeren en vervolgens terugkeren op dag 45 en converteert. De Adobe Advertising kenmerkt de omzetting aan het aanvankelijke bezoek omdat de omzetting binnen het 60 dagraadplegingsvenster voorkwam. [!DNL Analytics], nochtans, kan niet de omzetting aan het aanvankelijke bezoek toeschrijven omdat de omzetting voorkwam nadat het terugkijkvenster van 30 dagen was verlopen. In dit voorbeeld rapporteert Adobe Advertising een hoger aantal conversies dan [!DNL Analytics] wel.
+  Veronderstel dat de Adobe Advertising een 60 dagen klikterugkijkvenster heeft en [!DNL Analytics] heeft een terugkijkvenster van 30 dagen. En stel dat een gebruiker naar de site komt via een advertentie, bladeren en vervolgens terugkeren op dag 45 en converteert. De Adobe Advertising kenmerkt de omzetting aan het aanvankelijke bezoek omdat de omzetting binnen het 60 dagraadplegingsvenster voorkwam. [!DNL Analytics], nochtans, kan niet de omzetting aan het aanvankelijke bezoek toeschrijven omdat de omzetting voorkwam nadat het terugkijkvenster van 30 dagen verstreek. In dit voorbeeld rapporteert Adobe Advertising een hoger aantal conversies dan [!DNL Analytics] wel.
 
   ![Voorbeeld van een conversie die wel in Adobe Advertising maar niet [!DNL Analytics]](/help/integrations/assets/a4adc-lookback-example.png)
 
 * **Voorbeeld van discrepanties veroorzaakt door verschillende attributiemodellen:**
 
-  Veronderstel een gebruiker met drie verschillende Adobe Advertising advertenties alvorens om te zetten, met opbrengst als omzettingstype in wisselwerking staat. Als een rapport van de Adobe Advertising een gelijk distributiemodel voor attributie gebruikt, dan attributen het de opbrengst gelijkelijk over alle advertenties. Indien [!DNL Analytics] gebruikt het laatste aanraakattributiemodel, maar geeft de opbrengst aan de laatste advertentie. In het volgende voorbeeld kent de Adobe Advertising een zelfs 10 USD van de 30 USD aan inkomsten toe die aan elk van de drie advertenties worden opgenomen, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Adobe Advertising en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
+  Veronderstel dat een gebruiker met drie verschillende Adobe Advertising adverteert alvorens om te zetten, met opbrengst als omzettingstype in wisselwerking staat. Als een rapport van de Adobe Advertising een gelijk distributiemodel voor attributie gebruikt, dan attributen het de opbrengst gelijkelijk over alle advertenties. Indien [!DNL Analytics] gebruikt het laatste aanraakattributiemodel, maar geeft de opbrengst aan de laatste advertentie. In het volgende voorbeeld kent de Adobe Advertising een zelfs 10 USD van de 30 USD aan inkomsten toe die aan elk van de drie advertenties worden opgenomen, terwijl [!DNL Analytics] Alle 30 USD aan inkomsten wordt toegeschreven aan de laatste advertentie van de gebruiker. Wanneer u rapporten van Adobe Advertising en [!DNL Analytics], kunt u de impact van het verschil in attributie verwachten.
 
   ![Verschillende aan Adoben Advertising toegerekende opbrengsten en [!DNL Analytics] op basis van verschillende toerekeningsmodellen](/help/integrations/assets/a4adc-attribution-example.png)
 
@@ -50,11 +50,11 @@ Deze zelfde concepten zijn op een andere gelijkaardige kanalen van toepassing di
 
 #### Verschillende Lookback Vensters voor het Volgen van mening-door {#impression-lookback}
 
-In Adobe Advertising, is de attributie gebaseerd op kliks en impressies, en u kunt verschillende raadplegingsvensters voor kliks en voor impressies vormen. In [!DNL Analytics], nochtans, is de attributie gebaseerd op klikdoorhalingen en mening-door, en u hebt niet de optie om verschillende attributievensters voor klikdoorhalingen en mening-doorhalingen te plaatsen; het volgen voor elk begint bij het aanvankelijke plaatsbezoek. Een indruk kan zich voordoen op dezelfde dag of meerdere dagen voordat een view-through plaatsvindt, en dit kan van invloed zijn op de plaats waar het toewijzingsvenster in elk systeem start.
+In Adobe Advertising, is de attributie gebaseerd op kliks en impressies, en u kunt verschillende raadplegingsvensters voor kliks en voor impressies vormen. In [!DNL Analytics], nochtans, is de attributie gebaseerd op klikdoorhalingen en mening-door, en u hebt niet de optie om verschillende attributievensters voor klikdoorhalingen en mening-doorhalingen te plaatsen; het volgen voor elk begint bij het aanvankelijke plaatsbezoek. Een indruk kan zich voordoen op dezelfde dag of meerdere dagen voordat een view-through plaatsvindt, en de timing kan van invloed zijn op de plaats waar het toewijzingsvenster in elk systeem start.
 
 Doorgaans vindt het merendeel van de doorkijkconversies snel genoeg plaats, zodat beide systemen krediet kunnen toewijzen. Nochtans, kunnen sommige omzettingen buiten het venster van de de imitatie van de Adobe Advertising terugblik maar binnen voorkomen [!DNL Analytics] terugkijkvenster; dergelijke omzettingen worden toegeschreven aan mening binnen [!DNL Analytics] maar niet in de Adobe Advertising.
 
-In het volgende voorbeeld, veronderstel een bezoeker een advertentie op Dag 1 werd gediend, een mening-door bezoek (namelijk bezocht de de landende pagina van de advertentie zonder eerder de advertentie) op Dag 2, en op Dag 45 omgezet. In dit geval, zou de Adobe Advertising de gebruiker van Dagen 1-14 (gebruikend een raadpleging van 14 dagen) volgen, [!DNL Analytics] zou de gebruiker bijhouden vanaf dagen 2-61 (met een 60-daagse terugzoekactie), en de conversie op dag 45 zou worden toegeschreven aan de advertentie binnen [!DNL Analytics] maar niet binnen de Adobe Advertising.
+Stel dat een bezoeker op dag 1 een advertentie heeft ontvangen, op dag 2 een doorkijkbezoek heeft uitgevoerd (dat wil zeggen, de landingspagina van de advertentie heeft bezocht zonder eerder op de advertentie te klikken) en op dag 45 is omgezet. In dit geval, zou de Adobe Advertising de gebruiker van Dagen 1-14 (gebruikend een raadpleging van 14 dagen) volgen, [!DNL Analytics] zou de gebruiker bijhouden vanaf dagen 2-61 (met een 60-daagse terugzoekactie), en de conversie op dag 45 zou worden toegeschreven aan de advertentie binnen [!DNL Analytics] maar niet binnen de Adobe Advertising.
 
 ![Voorbeeld van een doorkijkconversie die wordt toegewezen in [!DNL Analytics] maar geen Adobe Advertising](/help/integrations/assets/a4adc-viewthrough-example.png)
 
@@ -118,7 +118,7 @@ Het terugzoekvenster voor [!DNL Marketing Channels] kan worden aangepast. In Ado
 
 ### Verschillende kanaalkenmerken in [!DNL Marketing Channels]
 
-Adobe Advertising rapporteert dat alleen betaalde media die via Adobe Advertising worden verhandeld (betaalde zoekopdracht naar [!DNL Advertising Search, Social, & Commerce] advertenties en display voor advertenties DSP advertenties), terwijl [!DNL Marketing Channels] in rapporten kunnen alle digitale kanalen worden bijgehouden . Dit kan tot een discrepantie in het kanaal leiden waarvoor een omzetting wordt toegeschreven.
+Adobe Advertising rapporteert dat alleen betaalde media die via Adobe Advertising worden verhandeld (betaalde zoekopdracht naar [!DNL Advertising Search, Social, & Commerce] advertenties en display voor Advertising DSP-advertenties), terwijl [!DNL Marketing Channels] in rapporten kunnen alle digitale kanalen worden bijgehouden . Dit kan tot een discrepantie in het kanaal leiden waarvoor een omzetting wordt toegeschreven.
 
 Betaalde zoekopdrachten en natuurlijke zoekkanalen hebben bijvoorbeeld vaak een symbiotische relatie, waarbij elk kanaal het andere kanaal helpt. De [!DNL Marketing Channels] het rapport kenmerkt sommige omzettingen aan natuurlijk onderzoek die de Adobe Advertising niet omdat het geen natuurlijk onderzoek volgt.
 
@@ -154,31 +154,60 @@ De [!DNL Paid Search Detection] Met rapporten kunt u natuurlijk zoekverkeer in h
 
 Voor uw integratie moet u uw doorklikgegevens valideren om ervoor te zorgen dat alle pagina&#39;s op uw site de doorklikbewerkingen correct bijhouden.
 
-In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] het volgen moet kliks aan instanties vergelijken gebruikend &quot;klikt aan [!UICONTROL AMO ID Instances]&quot; berekende metrische waarde, die als volgt wordt berekend:
+In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] Bij het bijhouden moet u instanties vergelijken met klikken met behulp van een berekende metrische waarde &quot;AMO ID-instanties naar Adobe Advertising klikken&quot;, die als volgt wordt berekend:
 
 ```
-Clicks to [!UICONTROL AMO ID Instances] = ([!UICONTROL AMO ID Instances] / Adobe Advertising Clicks)
+AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
-[!UICONTROL AMO ID Instances] geeft het aantal keren weer dat [AMO-id&#39;s](ids.md) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een AMO-id (`s_kwcid`) wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 80% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
+[!UICONTROL AMO ID Instances] geeft het aantal keren weer dat [AMO-id&#39;s](ids.md) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een AMO-id (`s_kwcid`) wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 85% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
 
-In rapporten van de Adobe Advertising, kunt u klikken aan instanties op een vergelijkbare manier vergelijken gebruikend &quot;[!UICONTROL ef_id_instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
+In rapporten van de Adobe Advertising, kunt u instanties vergelijken om te klikken gebruikend &quot;[!UICONTROL EF ID Instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 
 ```
-Clicks to [EF ID Instances = (ef_id_instances / Clicks)
+EF ID Instances to Adobe Advertising Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 Zorg dat de AMO-id en de EF-id goed overeenkomen. Verwacht echter niet dat de AMO-id en de EF-id allemaal op dezelfde manier overeenkomen. Dit verschil kan leiden tot kleine verschillen in het totaal [!UICONTROL AMO ID Instances] en [!UICONTROL EF ID Instances]. Indien het totaal [!UICONTROL AMO ID Instances] in [!DNL Analytics] verschillen van [!UICONTROL EF ID Instances] in Adobe Advertising met meer dan 1%, echter, contacteer uw Team van de Rekening van de Adobe voor hulp.
 
 Zie voor meer informatie over de AMO-id en EF-id [Adobe Advertising-id&#39;s gebruikt door Analytics](ids.md).
 
-Hieronder ziet u een voorbeeld van een werkruimte waarin u kliks naar instanties kunt bijhouden.
+<!--  Need to create a new report to show tracking instances to clicks, instead of clicks to instances as shown, and replace this screenshot.
 
-![Voorbeeld van een werkruimte om kliks naar instanties bij te houden](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
+The following is an example of a workspace to track clicks to instances.
+
+![Example of a workspace to track clicks to instances to clicks](/help/integrations/assets/a4adc-clicks-to-instances-example.png)
+-->
+
+### Problemen oplossen met verschillen tussen klikken en instanties
+
+Als de [!UICONTROL EF ID Instances]-to-[!UICONTROL Adobe Advertising Clicks] de verhouding is lager dan 85% en controleer vervolgens het volgende:
+
+* Ontbreekt u klik het volgen voor de rekening of op om het even welk subniveau, of hebt u dubbele klik het volgen (bijvoorbeeld, op zowel de rekening als campagnemaniveaus)?
+
+  In Search, Social &amp; Commerce, [een werkblad downloaden](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) voor de account om de URL&#39;s voor het bijhouden van gegevens te controleren.
+
+  Ook, in [!DNL Analytics]kunt u zien of de AMO-id en EF IF consistent worden toegevoegd met een &quot;[!DNL AMO ID] tot [!DNL EF ID]&quot; berekende metrische waarde, die als volgt wordt berekend:
+
+  ```
+  [!DNL AMO ID] to [!DNL EF ID] = ([!UICONTROL AMO ID] / [!DNL EF ID])
+  ```
+
+  Een waarde groter dan 100% geeft aan dat er meer EF-id&#39;s ontbreken dan AMO-id&#39;s.
+
+* Heeft de landingspagina een laadprobleem, zodat de AMO-id en EF-id niet worden vastgelegd?
+
+* Is de URL van de bestemmingspagina omgeleid zodat de AMO-id en EF-id verloren gaan?
+
+* Gebruiken alle bestemmingspagina&#39;s de gevormde rapportreeks?
+
+>[!NOTE]
+>
+>In theorie is het mogelijk dat één instantie meerdere klikken heeft. Controleer of er op verschillende apparaten (zoals bureaublad, mobiel en tablet) is geklikt.
 
 ## Gegevenssets vergelijken in [!DNL Analytics for Advertising] Telling in Adobe Advertising
 
-De [AMO-id](ids.md) (s_kwcid de parameter van het vraagkoord wordt gebruikt voor het melden in [!DNL Analytics]en de [EF-id](ids.md) wordt gebruikt voor rapportage in Adobe Advertising. Omdat het verschillende waarden zijn, is het mogelijk dat één waarde is beschadigd of niet is toegevoegd aan de landingspagina.
+De [AMO-id](ids.md) (s_kwcid de parameter van het vraagkoord wordt gebruikt voor het melden in [!DNL Analytics]en de [EF-id](ids.md) (ef_id de parameter van het vraagkoord) wordt gebruikt voor het melden in Adobe Advertising. Omdat het verschillende waarden zijn, is het mogelijk dat één waarde is beschadigd of niet is toegevoegd aan de landingspagina.
 
 Stel dat we de volgende bestemmingspagina hebben:
 
@@ -230,7 +259,7 @@ Klikken en doorklikken kunnen sterk verschillen als gevolg van een ongeluk en kl
 
 Sites die op mobiele apparaten worden geladen, zullen ook minder vaak een doorklik tot gevolg hebben vanwege een lagere bandbreedte of een lagere verwerkingscapaciteit, waardoor het langer duurt om bestemmingspagina&#39;s te laden. Het is niet ongebruikelijk voor 50-70% van kliks om niet in klikproductie te resulteren. In mobiele omgevingen kan het verschil oplopen tot 90% vanwege de combinatie van een langzamere browser en de hogere kans dat de gebruiker per ongeluk op de advertentie klikt terwijl de pagina wordt doorgeschoven of de advertentie wordt gesloten.
 
-De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app gaan) niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met mening-door JavaScript benadering, browsers die derdekoekjes houden klikken, maar niet klikken-door) opstelde. Een zeer belangrijke reden dat de Adobe aanbeveelt zowel de klik URL het volgen als mening-door JavaScript het volgen benaderingen op te stellen is dekking van volgbare klikthrough te maximaliseren.
+De klikgegevens kunnen ook worden geregistreerd in milieu&#39;s die klikdoorgangen met de huidige volgende mechanismen (zoals kliks die naar, of van, een mobiele app) gaan niet kunnen registreren of waarvoor de adverteerder slechts één het volgen benadering (bijvoorbeeld, met de mening-door benadering van JavaScript, browsers die derdekoekjes houden klikken, maar niet klikken-door) opstelde. Een zeer belangrijke reden dat de Adobe aanbeveelt zowel de klik URL het volgen als mening-door JavaScript het volgen benaderingen op te stellen is dekking van trackable klikthrough te maximaliseren.
 
 ### Het gebruiken van de Metriek van het Verkeer van de Adobe Advertising voor Dimensionen niet van de Adobe Advertising
 
