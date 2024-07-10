@@ -3,9 +3,9 @@ title: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 description: Verwachte gegevensvariaties tussen [!DNL Analytics] en Adobe Advertising
 feature: Integration with Adobe Analytics
 exl-id: 66b49881-bda1-49ef-ab8a-61399b8edd0f
-source-git-commit: 1f27738d383c8c420155d6d12c98c646bba7d7b4
+source-git-commit: e1c1d43c7fe5f44e34ada7dee09afd77f1b3f305
 workflow-type: tm+mt
-source-wordcount: '3360'
+source-wordcount: '3358'
 ht-degree: 0%
 
 ---
@@ -154,10 +154,10 @@ De [!DNL Paid Search Detection] Met rapporten kunt u natuurlijk zoekverkeer in h
 
 Voor uw integratie moet u uw doorklikgegevens valideren om ervoor te zorgen dat alle pagina&#39;s op uw site de doorklikbewerkingen correct bijhouden.
 
-In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] Bij het bijhouden moet u instanties vergelijken met klikken met behulp van een berekende metrische waarde &quot;AMO ID-instanties naar Adobe Advertising klikken&quot;, die als volgt wordt berekend:
+In [!DNL Analytics], een van de eenvoudigste manieren om te valideren [!DNL Analytics for Advertising] Bij het bijhouden moet u instanties vergelijken met klikken met behulp van een berekende metrische waarde &quot;AMO ID-instanties naar klikken&quot;, die als volgt wordt berekend:
 
 ```
-AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
+AMO ID Instances to Clicks = ([!UICONTROL AMO ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 [!UICONTROL AMO ID Instances] geeft het aantal keren weer dat [AMO-id&#39;s](ids.md) worden bijgehouden op de site. Elke keer dat op een advertentie wordt geklikt, wordt een AMO-id (`s_kwcid`) wordt toegevoegd aan de URL van de bestemmingspagina. Het aantal [!UICONTROL AMO ID Instances]Dit is dus hetzelfde als het aantal klikken en kan worden gevalideerd tegen het aantal klikken. Doorgaans wordt een 85% overeenkomende verhouding weergegeven voor [!DNL Search, Social, & Commerce] en een 30% gelijke tarief voor [!DNL DSP] verkeer (wanneer gefilterd om slechts klik-door te omvatten [!UICONTROL AMO ID Instances]). Het verschil in verwachtingen tussen onderzoek en vertoning kan door het verwachte verkeersgedrag worden verklaard. Zoekopdracht legt de intentie vast en daarom zijn gebruikers gewoonlijk van plan om op de zoekresultaten van hun zoekopdracht te klikken. Gebruikers die een weergave- of onlinevideo zien, zullen echter vaker onbedoeld op de advertentie klikken en dan van de site naar de site stuiteren of het nieuwe venster dat wordt geladen verlaten voordat de paginageactiviteit wordt bijgehouden.
@@ -165,7 +165,7 @@ AMO ID Instances to Adobe Advertising Clicks = ([!UICONTROL AMO ID Instances] / 
 In rapporten van de Adobe Advertising, kunt u instanties vergelijken om te klikken gebruikend &quot;[!UICONTROL EF ID Instances]&quot; metrisch in plaats van [!UICONTROL AMO ID Instances]:
 
 ```
-EF ID Instances to Adobe Advertising Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
+EF ID Instances to Clicks = ([!UICONTROL EF ID Instances] / [!UICONTROL Adobe Advertising Clicks])
 ```
 
 Zorg dat de AMO-id en de EF-id goed overeenkomen. Verwacht echter niet dat de AMO-id en de EF-id allemaal op dezelfde manier overeenkomen. Dit verschil kan leiden tot kleine verschillen in het totaal [!UICONTROL AMO ID Instances] en [!UICONTROL EF ID Instances]. Indien het totaal [!UICONTROL AMO ID Instances] in [!DNL Analytics] verschillen van [!UICONTROL EF ID Instances] in Adobe Advertising met meer dan 1%, echter, contacteer uw Team van de Rekening van de Adobe voor hulp.
@@ -181,7 +181,7 @@ The following is an example of a workspace to track clicks to instances.
 
 ### Problemen oplossen met verschillen tussen klikken en instanties
 
-Als de [!UICONTROL EF ID Instances]-to-[!UICONTROL Adobe Advertising Clicks] de verhouding is lager dan 85% en controleer vervolgens het volgende:
+Als de [!UICONTROL EF ID Instances]De verhouding -tot-Klik is minder dan 85%, dan controleer het volgende:
 
 * Ontbreekt u klik het volgen voor de rekening of op om het even welk subniveau, of hebt u dubbele klik het volgen (bijvoorbeeld, op zowel de rekening als campagnemaniveaus)?
 
