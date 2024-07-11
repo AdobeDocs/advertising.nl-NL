@@ -3,23 +3,23 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
-source-git-commit: ef732108b248995a6b321e991fa122caaa40e2fe
+source-git-commit: 42fca0c829c708281703a6a1ea59c42dc7ac9f0d
 workflow-type: tm+mt
-source-wordcount: '1229'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
 
 # Aangepaste doelen
 
-De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat het optimalisatiedoel gebruikt &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot; moet een aangepast doel bevatten om het algemene optimalisatiedoel te helpen bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce].
+De doelstellingen van de douane bepalen de succesgebeurtenissen die een adverteerder vereist om zijn bedrijfsdoelstellingen te ontmoeten. Elk pakket dat het optimalisatiedoel gebruikt &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot; moet een aangepast doel bevatten om het algemene optimalisatiedoel te helpen bereiken. U kunt aangepaste doelen maken als *doelstellingen* in [!DNL Advertising Search, Social, & Commerce]. De naam van elke doelstelling voor DSP moet worden voorafgegaan door &quot;ADSP_&quot;.
 
 <!-- update image or omit it
 
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Elk douanedoel (doelstelling) bestaat uit één of meerdere omzettingsmetriek en de relatieve gewichten van die metriek. Alleen niet-mobiele gewichten worden in overweging genomen voor DSP aangepaste doelen. De beschikbare omzettingsmetriek omvat alle metriek die gebruikend de Adobe Advertising omzettingspixel en door Adobe Analytics wordt gevolgd.
+Elk douanedoel (doelstelling) bestaat uit één of meerdere omzettingsmetriek en de relatieve gewichten van die metriek. De beschikbare omzettingsmetriek omvat alle metriek die gebruikend de Adobe Advertising omzettingspixel en door Adobe Analytics wordt gevolgd. Alleen niet-mobiele gewichten worden beschouwd als DSP aangepaste doelen, maar worden gebruikt voor alle advertentietypen.
 
 Stel dat drie conversiemetriek bijvoorbeeld relevant zijn voor een specifiek pakket in een van uw campagnes: &quot;PDF downloaden&quot; met een waarde van 20 USD, &quot;E-mailaanmelding&quot; met een waarde van 30 USD en &quot;Bestelbevestiging&quot; met een waarde van 40 USD. Als u gewicht wilt geven volgens de eenmalige monetaire waarde van de actie van de klant, dan zouden de relatieve gewichten van de metriek 1, 1.5, en 2 zijn.
 
