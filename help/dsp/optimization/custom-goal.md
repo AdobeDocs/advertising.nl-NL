@@ -3,9 +3,9 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
-source-git-commit: 42fca0c829c708281703a6a1ea59c42dc7ac9f0d
+source-git-commit: 290eea50fe3c52a534ad6ab4fcf6d857b13230aa
 workflow-type: tm+mt
-source-wordcount: '1248'
+source-wordcount: '1221'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,7 @@ De volgende voorbeelden tonen hoe u doelstellingen zou kunnen vormen die één e
 
 #### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)]&quot;Optimalisatiedoelstelling
 
-Als het doel van uw campagne inkomsten is ([!UICONTROL Highest Return on Ad Spend (ROAS)]), en de opbrengst van alle apparatentypes is even belangrijk voor u, dan omvat &quot;[!UICONTROL Revenue]&quot; metrisch met een niet-mobiel gewicht (voor omzettingen van een niet-mobiel apparaat) van één (1) en een mobiel gewicht (voor omzettingen van een mobiel apparaat) van één (1). Selecteer het metrische type *[!UICONTROL Goal]*.
+Als het doel van uw campagne inkomsten is ([!UICONTROL Highest Return on Ad Spend (ROAS)]), en de opbrengst van alle apparatentypes is even belangrijk voor u, dan omvat &quot;[!UICONTROL Revenue]&quot; metrisch met een niet-mobiel gewicht van 1 (1); het mobiele gewicht wordt genegeerd. Selecteer het metrische type *[!UICONTROL Goal]*.
 
 <!-- update image or delete 
 
@@ -90,13 +90,11 @@ Als het doel van uw campagne inkomsten is ([!UICONTROL Highest Return on Ad Spen
 
 >[!NOTE]
 >
-> Een mobiel gewicht of niet-mobiel gewicht van één (1) is gelijk aan een waarde van één (1) voor elke $1 van opbrengst die wordt gevolgd.
->
-> Een conversie van € 250 met een niet-mobiel gewicht van 1 (1) wordt bijvoorbeeld gerapporteerd als $250 voor conversies. Als de omzettingsmetrische waarde een niet-mobiel gewicht van 0.5 wordt toegewezen, dan wordt $250 omzetting van een niet-mobiel apparaat gemeld als $125 in Adobe Advertising ($250 Omzetting * 0.5 [!UICONTROL Non-mobile Weight] = $ 125).
+> Een niet-mobiel gewicht van 1 (1) is gelijk aan de waarde 1 (1) voor elke $1 aan opbrengst die voor vertoningsadvertenties op om het even welk apparaat wordt gevolgd. Een conversie van € 250 met een niet-mobiel gewicht van 1 (1) wordt bijvoorbeeld gerapporteerd als $250 voor conversies. Als de omzettingsmetrische waarde een niet-mobiel gewicht van 0.5 wordt toegewezen, dan wordt $250 omzetting gemeld als $125 in Adobe Advertising ($250 Omzetting * 0.5 [!UICONTROL Non-mobile Weight] = $ 125).
 
 #### Voorbeeld van een campagne met de opdracht &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot;Optimalisatiedoelstelling
 
-Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts één succesgebeurtenis (zoals &quot;Toepassing vereist voorlegt&quot;) vereist, dan omvat dat metrisch en specificeert metrisch type zoals *[!UICONTROL Goal]*. De beste manier is om zowel het niet-mobiele gewicht als het mobiele gewicht in te stellen als één (1).
+Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts één succesgebeurtenis (zoals &quot;Toepassing vereist voorlegt&quot;) vereist, dan omvat dat metrisch en specificeert metrisch type zoals *[!UICONTROL Goal]*. De beste manier is om het niet-mobiele gewicht in te stellen als één (1); het mobiele gewicht wordt genegeerd.
 
 <!-- update image or delete 
 
@@ -106,13 +104,13 @@ Als uw campagnedoel de laagste kosten per verwerving (CPA) is en het slechts é�
 
 >[!NOTE]
 >
-> Een mobiel gewicht of niet-mobiel gewicht van één (1) is gelijk aan een waarde van één (1) voor elke omzetting die wordt gevolgd. Als bijvoorbeeld 10 omzettingen van Toepassing verzenden worden bijgehouden, worden 10 omzettingen van Toepassing verzenden gerapporteerd. Als aan de omzettingsmaatstaf echter een niet-mobiel gewicht van 0,5 wordt toegekend, worden de 10 niet-mobiele omzettingen gerapporteerd als vijf (5) in Adobe Advertising (10 Omzettingen * 0,5 [!UICONTROL Non-mobile Weight] = 5).
+> Een niet-mobiel gewicht van één (1) is gelijk aan een waarde van één (1) voor elke omzetting die voor vertoningsadvertenties op om het even welk apparaat wordt gevolgd. Als bijvoorbeeld 10 omzettingen van Toepassing verzenden worden bijgehouden, worden 10 omzettingen van Toepassing verzenden gerapporteerd. Als aan de omzettingsmaatstaf echter een niet-mobiel gewicht van 0,5 wordt toegekend, worden de 10 omzettingen gerapporteerd als vijf (5) in Adobe Advertising (10 Omzettingen * 0,5 [!UICONTROL Non-mobile Weight] = 5).
 
 ### Aangepaste doelen met meerdere meetwaarden
 
 Er zijn twee scenario&#39;s waarin u veelvoudige metriek in een douanedoel zou gebruiken:
 
-* Uw campagnedoel heeft meerdere succesgebeurtenissen. U maakt bijvoorbeeld reclame voor meer dan één onsite actie (downloaden van PDF, contact met ons en aanmelden via e-mail) en al deze acties dragen bij aan uw CPA-doel. Als het doel de drie verschillende meeteenheden omvat, elk met een (1) niet-mobiel en mobiel gewicht, dan [!DNL Adobe Sensei] het algoritme behandelt elk van de metriek en de types van gebruikersapparaat met gelijk belang. Als de verschillende metriek en apparatentypes variërende kosten of belang hebben, dan past u hun relatieve gewichten dienovereenkomstig aan.
+* Uw campagnedoel heeft meerdere succesgebeurtenissen. U maakt bijvoorbeeld reclame voor meer dan één onsite actie (downloaden van PDF, contact met ons en aanmelden via e-mail) en al deze acties dragen bij aan uw CPA-doel. Als het doel de drie verschillende meeteenheden omvat, elk met een (1) niet-mobiel gewicht, dan [!DNL Adobe Sensei] het algoritme behandelt elk van de metriek en de types van gebruikersapparaat met gelijk belang. Als de verschillende meetwaarden verschillende kosten of belang hebben, dan past u hun relatieve gewichten dienovereenkomstig aan.
 
 <!-- update image or delete it and adjust the wording above
 
@@ -124,7 +122,7 @@ Er zijn twee scenario&#39;s waarin u veelvoudige metriek in een douanedoel zou g
 
   Wanneer u ondersteunende metriek aan een douanedoel toevoegt, gewicht hen volgens hun relatieve belang aan de belangrijkste succesgebeurtenis, en houd in mening de hoeveelheid gegevenspunten. Op deze manier kan het Adobe Sensei-algoritme meerdere metingen in evenwicht brengen en optimaliseren naar uw doel.
 
-  De volgende voorbeelddoelstelling omvat drie metriek, elk met een verschillend niet-mobiel gewicht: Toepassing dient = 1, het Begin van de Toepassing = 0.1, en Advertiser het Landing Pagina = 0.01 in. Dit betekent dat elke omzetting van de Toepassing van niet-mobiele apparaten de zelfde waarde aan uw zaken heeft zoals gemiddeld 10 omzettingen van het Begin van de Toepassing van niet-mobiele apparaten en 100 het Landing van Adverteerder Pagina omzettingen van niet-mobiele apparaten.
+  De volgende voorbeelddoelstelling omvat drie metriek, elk met een verschillend niet-mobiel gewicht: Toepassing dient = 1, het Begin van de Toepassing = 0.1, en Advertiser het Landing Pagina = 0.01 in. Dit betekent dat elke omzetting van de Toepassing voorlegt de zelfde waarde aan uw zaken zoals gemiddeld 10 omzettingen van het Begin van de Toepassing en 100 Advertiser het Landing van de Pagina omzettingen heeft.
 
 <!-- update image or delete it and adjust the wording above
 
