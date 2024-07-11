@@ -3,7 +3,7 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 9a7d73a281dba1331f00dd9ff75fafdc057413d0
+source-git-commit: ab3118901b7cd88776f7c0ce8038b928118a7555
 workflow-type: tm+mt
 source-wordcount: '1019'
 ht-degree: 0%
@@ -45,7 +45,7 @@ U kunt de instelling op pakketniveau overschrijven in het dialoogvenster [plaats
 >* De vluchtdata voor alle plaatsen die aan dit pakket zijn toegewezen, moeten binnen deze data worden opgenomen.
 > * U kunt de begindatum van het pakket niet bewerken wanneer aangepaste flighting wordt geactiveerd.
 
-**[!UICONTROL *Activate Custom Flighting]:** Hiermee kunt u vaste vluchten maken voor het pakket in het dialoogvenster [!UICONTROL Flighting] hieronder. Nadat u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen en de begindatum van het pakket niet meer bewerken.
+**[!UICONTROL Activate Custom Flighting]:** Hiermee kunt u vaste vluchten maken voor het pakket in het dialoogvenster [!UICONTROL Flighting] hieronder. Nadat u aangepaste flighting hebt ingeschakeld en het pakket hebt opgeslagen, kunt u aangepaste flighting niet uitschakelen en de begindatum van het pakket niet meer bewerken.
 
 **[!UICONTROL Budget]:** (Pakketten met alleen pakketniveau) Het bruto-begrotingsmaximum en het begrotingsinterval.
 
