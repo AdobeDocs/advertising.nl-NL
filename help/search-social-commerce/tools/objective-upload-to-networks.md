@@ -3,9 +3,9 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe u doelstellingen voor uw hybride portfolio's kunt uploaden naar [!DNL Google Ads] en [!DNL Microsoft Advertising].
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: 39936c6834012432447d3216d8463937996b0017
+source-git-commit: aaad3eb6cd33f4342c46ffb244227a00fbcb4e44
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Uploads naar [!DNL Google Ads] komt dagelijks om 6.00 uur voor in de tijdzone va
 
 ## Hoe de gewogen doelstelling wordt berekend
 
-Het gewogen doel dat tot het advertentienetwerk wordt overgegaan is de som alle metrische waarden die, met uitzondering van omzettingen worden verzameld die door [!DNL Google Ads] of door de [!DNL Microsoft Advertising] Label voor Universal Event tracking (UET).
+Het gewogen doel dat tot het advertentienetwerk wordt overgegaan is de som alle metrische waarden die, met uitzondering van omzettingen worden verzameld die door [!DNL Google Ads] of door de [!DNL Microsoft Advertising] Label voor Universal Event tracking (UET). De waarde wordt berekend met de toewijzingsmethode die is ingesteld voor de account Zoeken, Sociaal en Commerce van de adverteerder.
 
 Stel dat het doel van de doelstelling metrisch is met Cart Additions met een gewicht van 25 en dat uw maateenheden voor assistentie GL_Lead en Revenue met gewichten van 1 en Downloads met een gewicht van 0,5 zijn.
 
@@ -70,6 +70,12 @@ Stel dat een trefwoord resulteert in de volgende handelingen voor het portfolio:
 * 5 GGL_Lead
 
 GGL_Lead wordt niet opgenomen in de berekening/upload omdat het een metrische waarde is die door Google Ads wordt bijgehouden. Daarom wordt de gewogen objectieve waarde berekend als ((10 x 25) + (500 x 1) + (50 x 0,5)) = 775.
+
+>[!TIP]
+>
+>U kunt gegevens voor Adobe Advertising gewogen opbrengst binnen de rapporten van het advertentienetwerk bekijken. Als beste praktijk, vergelijk de gewogen opbrengst met [!DNL Google Ads] &quot;Alle conv. (door conv. time)&quot; metrisch of de [!DNL Microsoft Advertising] metrische &quot;All conv. opbrengst,&quot;gesegmenteerd aan metrisch O_ACS_OBJ*.<!--clarify -->
+
+in de editor van het advertentienetwerk
 
 ## Problemen met ontbrekende doelstellingen oplossen
 
