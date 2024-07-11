@@ -3,9 +3,9 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: ef732108b248995a6b321e991fa122caaa40e2fe
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1229'
 ht-degree: 0%
 
 ---
@@ -19,11 +19,13 @@ De doelstellingen van de douane bepalen de succesgebeurtenissen die een advertee
 ![custom goals](/help/dsp/assets/objective-goals.png)
  -->
 
-Elk douanedoel bestaat uit één of meerdere omzettingsmetriek en de relatieve gewichten van die metriek. De beschikbare omzettingsmetriek omvat alle metriek die gebruikend de Adobe Advertising omzettingspixel en door Adobe Analytics wordt gevolgd.
+Elk douanedoel (doelstelling) bestaat uit één of meerdere omzettingsmetriek en de relatieve gewichten van die metriek. Alleen niet-mobiele gewichten worden in overweging genomen voor DSP aangepaste doelen. De beschikbare omzettingsmetriek omvat alle metriek die gebruikend de Adobe Advertising omzettingspixel en door Adobe Analytics wordt gevolgd.
 
 Stel dat drie conversiemetriek bijvoorbeeld relevant zijn voor een specifiek pakket in een van uw campagnes: &quot;PDF downloaden&quot; met een waarde van 20 USD, &quot;E-mailaanmelding&quot; met een waarde van 30 USD en &quot;Bestelbevestiging&quot; met een waarde van 40 USD. Als u gewicht wilt geven volgens de eenmalige monetaire waarde van de actie van de klant, dan zouden de relatieve gewichten van de metriek 1, 1.5, en 2 zijn.
 
 Eenmaal [een aangepast doel maken](#custom-goal-create), kunt u [toewijzen aan een pakket](/help/dsp/campaign-management/packages/package-settings.md) voor rapportage en algoritmische optimalisatie met Adobe Sensei.
+
+De aanbevelingen van het gewicht worden automatisch geproduceerd voor DSP-toegeschreven metriek in doelstellingen, en kunnen alle gewichtsaanbevelingen met één klik toepassen. Alle gewichtswijzigingen in doelstellingen die vooraf zijn vastgesteld met &quot;ADSP_&quot; worden binnen twee dagen op algoritmische wijze in DSP toegepast. Raadpleeg voor meer informatie de aanbevelingen in het hoofdstuk Optimalisatiegids over &quot;(Beta) New Objectives&quot;, dat beschikbaar is in Search, Social &amp; Commerce.
 
 ## Een aangepast doel maken {#custom-goal-create}
 
@@ -49,9 +51,15 @@ Als u een aangepast doel wilt maken, moet de DSP-account zijn gekoppeld aan een 
 
    1. Klik op de werkbalk op ![Maken](/help/dsp/assets/create-search-ui.png "Maken").
 
-   1. Voer de objectieve instellingen in, inclusief de bijbehorende metriek en hun relatieve numerieke gewichten voor niet-mobiele apparaten en mobiele apparaten, en sla het doel op.
+   1. Voer de objectieve instellingen in, inclusief de bijbehorende metriek en hun relatieve numerieke gewichten voor niet-mobiele apparaten, en sla het doel op. Overweeg het volgende:
 
-      Minstens één metrisch moet metrisch type hebben *[!UICONTROL Goal]*.
+      * Voor doelstellingen die voor pakketten Advertising DSP worden gebruikt, moet de objectieve naam met &quot;ADSP_&quot;zoals &quot;ADSP_Registrations worden vooraf bepaald.&quot; Het voorvoegsel is niet hoofdlettergevoelig.
+
+      * Alleen metriek opnemen die aan DSP worden toegewezen. Metrische gegevens die worden toegewezen aan Search, Social en Commerce of aan een ander advertentienetwerk, worden genegeerd.
+
+      * Minstens één metrisch moet metrisch type hebben *[!UICONTROL Goal]*.
+
+      * DSP gebruikt de niet-mobiele dikten voor alle advertenties. Alle opgegeven mobiele dikten worden genegeerd.
 
       >[!NOTE]
       >

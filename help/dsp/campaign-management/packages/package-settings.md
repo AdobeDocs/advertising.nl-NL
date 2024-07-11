@@ -3,7 +3,7 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 644847918f6f6dd86dec80ad89128c31a0c0284b
+source-git-commit: 9a7d73a281dba1331f00dd9ff75fafdc057413d0
 workflow-type: tm+mt
 source-wordcount: '1019'
 ht-degree: 0%
@@ -55,7 +55,7 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 **[!UICONTROL Optimization Goal]:** (Pakketten met alleen pakketniveau) Het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel op [Optimalisatiedoelstellingen en hoe deze te gebruiken](/help/dsp/optimization/optimization-goals.md).
 
-**[!UICONTROL Custom Goal for Model Learning]:** (Verpakt met &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;uitsluitend optimalisatiedoelstellingen&quot; A [aangepast doel](/help/dsp/optimization/custom-goal.md) die de opbrengsten of conversiegebeurtenissen omvat die worden gebruikt om de metrische waarde van de CPA of ROAS te berekenen. Het aangepaste doel kan desgewenst extra gewogen gebeurtenissen met de bovenste funnel (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-metrische gegevens voor pakketoptimalisatie worden gebruikt. Voor meer informatie over de beste praktijken voor douanedoelstellingen en campagnes die hen gebruiken, zie [Beste praktijken voor het Bouwen van een Doel van de Douane](/help/dsp/optimization/custom-goal.md#custom-goal-best-practices) en [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).<!-- At some point, all of the objectives will be prefixed with "ADSP " -->
+**[!UICONTROL Custom Goal for Model Learning]:** (Verpakt met &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;uitsluitend optimalisatiedoelstellingen&quot; A [aangepast doel](/help/dsp/optimization/custom-goal.md) die de opbrengsten of conversiegebeurtenissen omvat die worden gebruikt om de metrische waarde van de CPA of ROAS te berekenen. Het aangepaste doel kan desgewenst extra gewogen gebeurtenissen met de bovenste funnel (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-metrische gegevens voor pakketoptimalisatie worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[Aangepaste doelen](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Optioneel); pakketten met de &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]De &quot;optimalisatiedoelstellingen slechts) vertelt het optimalisatiemodel om slechts van op klik-gebaseerde omzettingen te leren. Anders leert het optimalisatiemodel van zowel klik- als op indruk gebaseerde omzettingen.
 
