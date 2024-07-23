@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Google Ads] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] campagnes.
+description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 977314f07d1299d9b94680861b046161bb444228
+source-git-commit: 760d46182a61588748cfd5031168266ba53c9dcc
 workflow-type: tm+mt
-source-wordcount: '2450'
+source-wordcount: '2425'
 ht-degree: 0%
 
 ---
@@ -14,49 +14,51 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kunt u advertenties plaatsen en welke advertentietypes de campagne kan bevatten:
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar u advertenties wilt plaatsen en welke soorten advertenties wilt plaatsen
+de campagne kan het volgende bevatten :
 
-* *[!UICONTROL Search Network Only]:* Toont advertenties op het onderzoeksnetwerk, dat omvat [!DNL Google] zoekresultaten en, optioneel, zoekpartnersites. U moet trefwoorden opgeven voor elke advertentiegroep.
+* *[!UICONTROL Search Network Only]:* toont advertenties op het onderzoeksnetwerk, dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartsites omvat. U moet trefwoorden opgeven voor elke advertentiegroep.
 
-* *[!UICONTROL Search with Display Select]:* Toont advertenties op het onderzoeksnetwerk (dat omvat [!DNL Google] de onderzoeksresultaten en, naar keuze, de plaatsen van de onderzoekspartner) en tonen potentieel advertenties op de plaatsen van het vertoningsnetwerk. Op het weergavenetwerk [!DNL Google Ads] geeft je advertenties selectief weer met automatische biedingen, ongeacht de biedstrategie van de campagne. Geef voor zoekadvertenties trefwoorden op voor elke advertentiegroep. Geef voor weergaveadvertenties plaatsingen op en geef desgewenst trefwoorden op voor elke advertentiegroep.
+* *[!UICONTROL Search with Display Select]:* toont advertenties op het onderzoeksnetwerk (dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartsites omvat) en toont potentieel advertenties op de plaatsen van het vertoningsnetwerk. Op het weergavenetwerk geeft [!DNL Google Ads] uw advertenties selectief weer met automatische biedingen, ongeacht de biedstrategie van de campagne. Geef voor zoekadvertenties trefwoorden op voor elke advertentiegroep. Geef voor weergaveadvertenties plaatsingen op en geef desgewenst trefwoorden op voor elke advertentiegroep.
 
-* *[!UICONTROL Shopping Network]:* Geeft productadvertenties weer, die [!DNL Google] wordt automatisch gegenereerd op basis van uw producten in [!DNL Google Merchant Center] op [!DNL Google Shopping], het gebied naast [!DNL Google] zoekresultaten (apart van tekstadvertenties) en (optioneel) zoekpartnerwebsites. Voor elke advertentiegroep in de campagne kunt u productgroepen opgeven die u wilt adverteren.
+* *[!UICONTROL Shopping Network]:* toont productadvertenties, die [!DNL Google] automatisch genereert op basis van uw producten in [!DNL Google Merchant Center] on [!DNL Google Shopping] , het gebied naast [!DNL Google] zoekresultaten (apart van tekstadvertenties) en (optioneel) zoekpartnerwebsites. Voor elke advertentiegroep in de campagne kunt u productgroepen opgeven die u wilt adverteren.
 
-* *[!UICONTROL Display Network Only]:* Toont advertenties op het weergavenetwerk. Voor elke advertentiegroep moet u plaatsingen specificeren en kunt naar keuze sleutelwoorden specificeren.
+* *[!UICONTROL Display Network Only]:* toont advertenties op het vertoningsnetwerk. Voor elke advertentiegroep moet u plaatsingen specificeren en kunt naar keuze sleutelwoorden specificeren.
 
-* *[!UICONTROL Performance Max]:* Hiermee toont en optimaliseert u omzettingen voor uw advertenties via kanalen [!DNL Google Ads] slim bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, kopregels, beschrijvingen, optionele video&#39;s en publiekssignalen. [!DNL Google Ads] combineert automatisch de elementen om advertenties te bedienen op basis van het kanaal (zoals [!DNL YouTube], [!DNL Gmail], of [!DNL Search]).
+* *[!UICONTROL Performance Max]:* toont en optimaliseert omzettingen voor uw advertenties over kanalen gebruikend [!DNL Google Ads] slimme het bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, kopregels, beschrijvingen, optionele video&#39;s en publiekssignalen. [!DNL Google Ads] combineert automatisch de elementen om advertenties te leveren op basis van het kanaal (zoals [!DNL YouTube] , [!DNL Gmail] of [!DNL Search] ).
 
-  **Opmerkingen:**
+  **Nota&#39;s:**
 
-   * Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij de [!DNL Google Ads] editor.
+   * Alleen de vereiste instellingen zijn beschikbaar. Meld u aan bij de [!DNL Google Ads] -editor voor optionele instellingen.
 
    * Koppelingen naar [!DNL Google Merchant Center] productfeeds worden niet ondersteund.
 
-   * Ondersteuning voor aanbiedingsgroepen is niet beschikbaar. Als u gegevens voor aanbiedingsgroepen wilt beheren en weergeven, meldt u zich aan bij de [!DNL Google Ads] editor.
+   * Ondersteuning voor aanbiedingsgroepen is niet beschikbaar. Meld u aan bij de [!DNL Google Ads] editor om gegevens voor lijstgroepen te beheren en weer te geven.
 
    * Hybride optimalisatie wordt ondersteund. De doelstellingen van de biedstrategie en de campagnebegrotingen worden vastgesteld op het campagneniveau.
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** Een campagnenaam die uniek is binnen de account.
+**[!UICONTROL Campaign Name]:** Een campagnenaam die binnen de rekening uniek is.
 
 <!-- **[!UICONTROL Start Date]:** -->
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Audience Target Method]:**(Alleen bestaande alleen-lezen Gmail-campagnes) Of:
+**[!UICONTROL Audience Target Method]:** (Bestaande, alleen-lezen Gmail campagnes) Of:
 
 * *[!UICONTROL Target and Bid]* Alleen advertenties weergeven voor gebruikers die zijn gekoppeld aan doelgroepen die ook voldoen aan andere doelen voor de advertentiegroep.
 
-* *[!UICONTROL Bid Only]:*  Advertenties tonen zelfs aan mensen die niet met doelpubliek worden geassocieerd zolang zij andere doelstellingen op groepsniveau voldoen. U kunt de kans echter vergroten dat advertenties bij een bepaald publiek worden getoond door voor dat publiek hogere biedingen in te stellen.
+* *[!UICONTROL Bid Only]:* om zelfs advertenties aan mensen te tonen die niet met doelpubliek worden geassocieerd zolang zij andere doelstellingen op het niveau van de ad groep voldoen. U kunt de kans echter vergroten dat advertenties bij een bepaald publiek worden getoond door voor dat publiek hogere biedingen in te stellen.
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van de campagne: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiecampagnes is *Actief*.
 
 <!-- **[!UICONTROL End Date]:** -->
 
 {{$include /help/_includes/end-date.md}}
 
-**[!UICONTROL Search Partners]:** (Campagnes die het onderzoeksnetwerk slechts, met inbegrip van het winkelen campagnes richten) toont uw advertenties op de netwerken van de onderzoekspartner van het advertentienetwerk. Deze optie is standaard *[!UICONTROL Off]*.
+**[!UICONTROL Search Partners]:** (Campagnes die slechts het onderzoeksnetwerk, met inbegrip van het winkelen campagnes richten) toont
+uw advertenties op de netwerken van de onderzoekspartner van het advertentienetwerk. Deze optie is standaard ingesteld op *[!UICONTROL Off]* .
 
 ## [!UICONTROL Budget Options]
 
@@ -70,39 +72,36 @@ ht-degree: 0%
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Enhanced CPC]:* (Niet beschikbaar voor maximale of bestaande prestaties, alleen-lezen [!DNL Gmail] campagnes) Gebruikt het verbeterde kosten-per-klik (eCPC) model van het advertentienetwerk, dat het advertentienetwerk toestaat om de kosten-per-klikbod (CPC) voor elke veiling automatisch te veranderen in een poging om omzettingen te maximaliseren, gebruikend omzetting(en) binnen het advertentienetwerk (niet in Onderzoek, Sociale, &amp; Commerce), terwijl het proberen om uw gemiddelde CPC onder uw maximum te houden.
+* *[!UICONTROL Enhanced CPC]:* (Niet beschikbaar voor maximale prestaties of bestaande, alleen-lezen [!DNL Gmail] campagnes) gebruikt het verbeterde model &#39;cost-per-click&#39; (eCPC) van het advertentienetwerk, waardoor het advertentienetwerk automatisch het CPC-bod (cost-per-click) voor elke veiling kan wijzigen om conversies te maximaliseren, met gebruik van conversies die zijn opgegeven in het advertentienetwerk (niet in Zoeken, Sociaal, en Commerce) Houd uw gemiddelde CPC onder uw maximum CPC.
 
-Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille van Zoeken, Sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en — wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot; optie is ingeschakeld — het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Let op:** Gebruik eCPC-campagnes alleen in portfolio&#39;s wanneer de totale conversies die op het advertentienetwerk worden bijgehouden, overeenkomen met de portfoliodoelstelling. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
+Wanneer u een campagne met eCPC aan een geoptimaliseerde portefeuille van het Onderzoek toevoegt, sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en - wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;optie wordt toegelaten - het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Voorzichtigheid:** Gebruik eCPC campagnes in portefeuilles slechts wanneer de totale omzettingen die op het advertentienetwerk worden gevolgd zich op het portefeuilledoel richten. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
 
-* *[!UICONTROL Manual CPC]* (standaard): (Niet beschikbaar voor maximale prestatiecampagnes) Gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
+* *[!UICONTROL Manual CPC]* (standaard): (Niet beschikbaar voor maximale prestatiecampagnes) gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
 
-   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van &quot;[!UICONTROL Enhanced CPC]&quot;.
+   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als wanneer u de optie &quot;[!UICONTROL Enhanced CPC]&quot; gebruikt.
 
-* *[!UICONTROL Maximize Clicks]:* (Zoeken, weergeven en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om klikmogelijkheden te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) om ervoor te zorgen dat het advertentienetwerk niet meer dan een specifiek bedrag voor elke klik betaalt. **Let op:** Wanneer u een campagne met deze strategie toevoegt aan een portfolio, worden de biedingen bepaald door het gewicht van de klik en niet door het doel van het portfolio.
+* *[!UICONTROL Maximize Clicks]:* (Onderzoek, vertoning, en het winkelen campagnes) het advertentienetwerk — niet Onderzoek, Sociale, &amp; Commerce — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) in om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Voorzichtigheid:** wanneer u een campagne met deze strategie aan een portefeuille toevoegt, worden de biedingen gedreven door klikgewicht, niet door het portefeuilledoel.
 
-* *[!UICONTROL Maximize Conversion Value]:* (Zoeken, maximale prestaties en slimme winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om de conversiewaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversion Value]:* (Onderzoek, prestaties maximum, en slimme het winkelen campagnes) het advertentienetwerk — niet Onderzoek, Sociale, &amp; Commerce — optimaliseert biedingen om omzetwaarde te maximaliseren. Voer desgewenst een **[!UICONTROL Target Return on Ad Spend]** (ROAS) in als een percentage. **Nota:** gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles. In hybride portefeuilles, optimaliseert Onderzoek, Sociale, &amp; Commerce het campagne-niveau of (indien beschikbaar) en groep-vlakke ROAS van het Doel.
 
-* *[!UICONTROL Maximize Conversions]:* (Zoek-, weergave- en maximale prestatiecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen om conversies te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPA]** (kosten per overname). **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles.
+* *[!UICONTROL Maximize Conversions]:* (Onderzoek, vertoning, en prestaties maximumcampagnes) het advertentienetwerk — niet Onderzoek, Sociale, &amp; Commerce — optimaliseert biedingen om omzettingen te maximaliseren. Voer desgewenst een **[!UICONTROL Target CPA]** (kostprijs per aankoop) in. **Nota:** gebruik deze optie voor campagnes in hybride portefeuilles maar niet standaardportefeuilles. In hybride portefeuilles, optimaliseert het Onderzoek, Sociale, &amp; Commerce campagne-niveau of (indien beschikbaar) en groep-vlakke Doel CPA.
 
-* *[!UICONTROL Target CPA]:* (Weergavecampagnes; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van een optionele **[!UICONTROL Target CPA]** (kosten per overname), dat is het gemiddelde bedrag van 30 dagen dat u voor een overname (omzetting) wilt betalen. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA].
-
-  Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
-
-  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversions] strategie met behulp van een [!UICONTROL Target CPA] waarde. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversions] strategie met behulp van de opgegeven [!UICONTROL Target CPA] waarde.
-
-* *[!UICONTROL Target Impression Share]:* (Zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, en Commerce — optimaliseert biedingen om een doel te bereiken dat de indruk wordt gedeeld en geplaatst. Voer desgewenst een **[!UICONTROL Target Impression Share]** als een percentage **[!UICONTROL Target Ad Position]** en **[!UICONTROL Max CPC]** (kosten per klik). **Opmerking:** Deze optie wordt niet ondersteund in portfolio&#39;s.
-
-* *[!UICONTROL Target Return on Ad Spend]:*  (Weergeven en winkelen; bestaande zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van een opgegeven **[!UICONTROL Target ROAS]** (Retourneren bij advertentie-uitgaven), opgegeven als een percentage. **Opmerking:** Gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS].
+* *[!UICONTROL Target CPA]:* (Weergavecampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Commerce — optimaliseert biedingen op basis van een optioneel **[!UICONTROL Target CPA]** (kosten per aankoop). Dit is het gemiddelde bedrag van 30 dagen dat u voor een aankoop (conversie) wilt betalen. **Nota:** gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target CPA]. In hybride portefeuilles, optimaliseert het Onderzoek, Sociale, &amp; Commerce campagne-niveau of (indien beschikbaar) en groep-vlakke Doel CPA.
 
   Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
 
-  Voor nieuwe zoekcampagnes: [!DNL Google Ads] heeft deze biedstrategie vervangen door [!UICONTROL Maximize Conversion Value] strategie met behulp van een [!UICONTROL Target Return on Ad Spend value]. Voor bestaande zoekcampagnes met deze strategie kunt u alleen de doelwaarde bewerken. Hierdoor verandert de strategie in de [!UICONTROL Maximize Conversion Value] strategie met behulp van de opgegeven [!UICONTROL Target Return on Ad Spend] waarde.
+* *[!UICONTROL Target Impression Share]:* (Zoekcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Commerce — optimaliseert biedingen om een doel te bereiken dat de indruk deelt en toevoegt positie. Voer desgewenst een **[!UICONTROL Target Impression Share]** in als een percentage, de **[!UICONTROL Target Ad Position]** en een **[!UICONTROL Max CPC]** (kosten per klik). **Nota:** deze optie wordt niet gesteund in portefeuilles.
 
-* *[!UICONTROL Viewable CPM]:* (Bestaand, alleen-lezen) [!DNL Gmail] alleen campagnes) Het advertentienetwerk — niet Zoeken, Sociaal, en Commerce — biedt alleen biedingen op advertenties die zijn gemeten als zichtbaar. **Opmerking:** Optimalisatie voor deze strategie wordt in geen enkel type portfolio ondersteund.
+* *[!UICONTROL Target Return on Ad Spend]:* (Weergave- en winkelcampagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — optimaliseert biedingen op basis van een opgegeven **[!UICONTROL Target ROAS]** (rendement op advertentie-uitgaven), opgegeven als een percentage. **Nota:** gebruik deze optie voor campagnes in hybride portefeuilles (maar niet standaardportefeuilles) met om het even welke uitgavenstrategie behalve [!UICONTROL Weekly] of [!UICONTROL Google Target ROAS]. In hybride portefeuilles, optimaliseert Onderzoek, Sociale, &amp; Commerce het campagne-niveau of (indien beschikbaar) en groep-vlakke ROAS van het Doel.
+
+  Gemiddelde positie en CPC-biedgegevens zijn niet beschikbaar voor campagnes met deze biedstrategie.
+
+* *[!UICONTROL Viewable CPM]:* (Alleen bestaande, alleen-lezen [!DNL Gmail] campagnes) Het advertentienetwerk — niet Zoeken, Sociaal en Commerce — biedt alleen biedingen op advertenties die zijn gemeten als zichtbaar. **Nota:** De optimalisering voor deze strategie wordt niet gesteund in om het even welk type van portefeuille.
 
 ## [!UICONTROL Shopping Settings]
 
-**[!UICONTROL Sales Country]:** (Alleen winkelcampagnes; alleen-lezen voor bestaande campagnes) Het land waar de producten van de campagne worden verkocht. Omdat de producten met doellanden worden geassocieerd, bepaalt dit het plaatsen welke producten in de campagne worden geadverteerd.
+**[!UICONTROL Sales Country]:** (Alleen winkelcampagnes; alleen-lezen voor bestaande campagnes) Het land waarin
+de producten van de campagne worden verkocht . Omdat de producten met doellanden worden geassocieerd, bepaalt dit het plaatsen welke producten in de campagne worden geadverteerd.
 
 <!-- **[!UICONTROL Campaign Priority]:** -->
 
@@ -112,11 +111,11 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 {{$include /help/_includes/merchant-id.md}}
 
-**[!UICONTROL Local Inventory Ads]:** (Alleen winkelcampagnes; adverteerders nemen al deel aan het lokale winkelprogramma met [!DNL Google Merchant Center] winkels in de VS, het Verenigd Koninkrijk, de, FR, JP en AU; facultatief) staat [!DNL Google Ads] om automatisch uw lokale inventarisgegevens toe te voegen aan uw winkeladvertenties op Google.com.
+**[!UICONTROL Local Inventory Ads]:** (Alleen winkelcampagnes; adverteerders die al deelnemen aan het lokale winkelprogramma met [!DNL Google Merchant Center] winkels in de VS, het VK, DE, FR, JP en AU; optioneel) [!DNL Google Ads] staat toe om automatisch uw lokale inventarisgegevens toe te voegen aan uw winkeladvertenties op Google.com.
 
-**Tip:** Als u deze instelling gebruikt, sluit dan lokale advertenties in het dialoogvenster [!UICONTROL Inventory Filter] instellen.
+**Uiteinde:** als u dit het plaatsen gebruikt, sluit geen lokale advertenties in het [!UICONTROL Inventory Filter] plaatsen uit.
 
-**Opmerking:** Lokale voorraadadvertenties vereisen twee extra feeds aan [!DNL Google Merchant Center] — één met uw lokale productgegevens en een andere met uw lokale productvoorraad. Zie de [!DNL Google Ads] documentatie voor meer informatie over [lokale winkeladvertenties](https://www.google.com/retail/local-inventory-ads/).
+**Nota:** Lokale inventarisadvertenties vereisen twee extra voer aan [!DNL Google Merchant Center] - met uw lokale productgegevens en een andere met uw lokale productinventaris. Zie de [!DNL Google Ads] documentatie voor meer informatie over [ lokale het winkelen advertenties ](https://www.google.com/retail/local-inventory-ads/).
 
 <!-- **[!UICONTROL Inventory Filter]:** -->
 
@@ -124,29 +123,29 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 ## [!UICONTROL Campaign Targeting]
 
-**[!UICONTROL Languages]:** (Alleen netwerken zoeken en weergeven) Een of meer doeltalen voor advertenties in de campagne.
+**[!UICONTROL Languages]:** (Onderzoek en vertoningsnetwerken slechts) Één of meerdere doeltalen voor advertenties in de campagne.
 
-[!DNL Google Ads] bepaalt de taal van een gebruiker van de gebruiker [!DNL Google] taalinstelling of de taal van de zoekquery, de huidige pagina of onlangs weergegeven pagina&#39;s op de [!DNL Google Display Network].
+[!DNL Google Ads] bepaalt de taal van een gebruiker op basis van de taalinstelling [!DNL Google] van de gebruiker of de taal van de zoekquery, de huidige pagina of onlangs weergegeven pagina&#39;s op de [!DNL Google Display Network] .
 
-**[!UICONTROL Location Targets]:** Specifieke geografische locaties van gebruikers die moeten worden opgenomen in of uitgesloten als doelen. Standaard zijn alle locaties aangewezen. U kunt gebruikers in om het even welke combinatie plaatsen omvatten en uitsluiten. Uitsluitingen hebben altijd voorrang op insluitingen.
+**[!UICONTROL Location Targets]:** Specifieke geografische locaties voor gebruikers die moeten worden opgenomen in of uitgesloten als doelen. Standaard zijn alle locaties aangewezen. U kunt gebruikers in om het even welke combinatie plaatsen omvatten en uitsluiten. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen locaties om alle locaties als doel in te stellen.
 
 * Specifieke locaties als doel instellen of uitsluiten:
 
-   * (Landen, staten, metropolitane gebieden of steden) Klik op **[!UICONTROL Location Target]** (![Locatiedoel](/help/search-social-commerce/assets/location-target.png "Locatiedoel")) en zoek de locaties die u wilt opnemen en uitsluiten:
+   * (Landen, staten, metropolitane gebieden, of steden) klik **[!UICONTROL Location Target]** (![ Doel van het Doel van de Plaats ](/help/search-social-commerce/assets/location-target.png " het Doel van de Plaats ")) en bepaal de plaats om van de plaatsen te omvatten en uit te sluiten:
 
-      * Als u een locatie en de onderliggende locaties wilt opnemen, klikt u eenmaal op de aangrenzende cirkel, zodat een blauw vinkje (![Inclusief](/help/search-social-commerce/assets/include.png "Inclusief")) wordt weergegeven.
+      * Om een plaats en zijn kindplaatsen te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt.
 
-      * Als u een locatie wilt uitsluiten, klikt u tweemaal op de aangrenzende cirkel, zodat een rood vinkje (![Uitsluiten](/help/search-social-commerce/assets/exclude.png "Uitsluiten")) wordt weergegeven.
+      * Om een plaats uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
       * Als u een locatie wilt uitbreiden naar de subcomponenten (zoals de staten, metropolitane gebieden of steden in de VS), klikt u op de naam van de locatie.
 
-      * Als u naar een locatie wilt zoeken, typt of plakt u ten minste de eerste drie tekens van de locatie in het invoerveld. Klik in de zoekresultaten op **[!UICONTROL Include]** naast een locatie die moet worden opgenomen of **[!UICONTROL Exclude]** naast een locatie die moet worden uitgesloten.
+      * Als u naar een locatie wilt zoeken, typt of plakt u ten minste de eerste drie tekens van de locatie in het invoerveld. Klik in de zoekresultaten op **[!UICONTROL Include]** naast een locatie die u wilt opnemen of op **[!UICONTROL Exclude]** naast een locatie die u wilt uitsluiten.
 
-   * (Locaties bij een adres; alleen inbegrepen doelen) Klik **[!UICONTROL Radius Target]** (![Straal](/help/search-social-commerce/assets/radius-target.png "Straal")) en klik vervolgens op **[!UICONTROL Address]**. Ga het adres en de straal in mijl of kilometers rond het te richten adres in, en klik dan **[!UICONTROL Add]**.
+   * (De plaatsen dichtbij een adres; omvatten slechts doelstellingen) klikken **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klikken dan **[!UICONTROL Address]**. Voer het adres en de straal in mijl of kilometers rond het te richten adres in, en klik vervolgens op **[!UICONTROL Add]**.
 
-   * (Locaties bij geografische coördinaten; alleen inbegrepen doelen) Klik **[!UICONTROL Radius Target]** (![Straal](/help/search-social-commerce/assets/radius-target.png "Straal")) en klik vervolgens op **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik vervolgens op **[!UICONTROL Add]**.
+   * (Plaatsen dichtbij geografische coördinaten; omvat slechts doelstellingen) klik **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klik dan **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik op **[!UICONTROL Add]** .
 
 * (Voer een waarde voor de bodaanpassing in voor een opgenomen doellocatie.)
 
@@ -154,13 +153,13 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 * \[Overige waarden van -90% tot 300%\]: het bod voor advertenties op deze locatie verhogen of verlagen.
 
-**Opmerking:**
+**Nota:**
 
-* Zoeken, sociaal en Commerce biedt geen automatische correcties voor biedingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] voorziet in het toewijzen van locaties aan locatiedoelen:
+* Zoeken, Sociaal en Commerce biedt geen automatische correcties voor biedingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] biedt voor het toewijzen van overboekingslocaties aan locatiedoelen:
 
    * Straal
 
-   * Enkele locaties onder het niveau van de staat/provincie/regio/provincie/prefectuur waarvoor [!DNL Google Ads] verzendt geen ouderplaats in URL van de surfer, met inbegrip van luchthavens en de districten van het Amerikaanse Congres.
+   * Sommige locaties onder het niveau van de staat/provincie/regio/provincie/prefectuur waarvoor [!DNL Google Ads] geen bovenliggende locatie in de URL van de surfer verzendt, inclusief luchthavens en congresdistricten van de VS.
 
 <!-- **[!UICONTROL Devices]:** -->
 
@@ -168,9 +167,10 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 ## [!UICONTROL Advanced Device Options]
 
-**[!UICONTROL Mobile Carriers]:** (Alleen netwerk weergeven) Specifieke mobiele vervoerders die als doel dienen; de vervoerders worden gesorteerd op land. Als u niets selecteert, worden alle doelgroepen gebruikt.
+**[!UICONTROL Mobile Carriers]:** (Alleen netwerk weergeven) Specifieke mobiele carriers die u wilt gebruiken; de dragers worden gesorteerd
+per land. Als u niets selecteert, worden alle doelgroepen gebruikt.
 
-**[!UICONTROL Mobile Carriers]:** (Alleen netwerk weergeven) Specifieke besturingssystemen waarop u zich wilt richten. Als u niets selecteert, worden alle doelgroepen gebruikt.
+**[!UICONTROL Mobile Carriers]:** (Alleen netwerk weergeven) Specifieke besturingssystemen die als doel moeten worden ingesteld. Als u niets selecteert, worden alle doelgroepen gebruikt.
 
 ## [!UICONTROL URL Options]
 
@@ -238,7 +238,7 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 {{$include /help/_includes/tracking-level.md}}
 
-**[!UICONTROL Track Product Group]:** (Voor [!UICONTROL EF Redirect] alleen) Niet geïmplementeerd
+**[!UICONTROL Track Product Group]:** (alleen voor [!UICONTROL EF Redirect] ) Niet geïmplementeerd
 
 <!-- **[!UICONTROL Append Parameters]:** -->
 
@@ -248,15 +248,15 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
 **[!UICONTROL Asset Group Name]:** De naam van de elementgroep. Koppelingen naar [!DNL Google Merchant Center] productfeeds worden niet ondersteund.
 
-**[!UICONTROL Asset Group Status]:** De status van de activagroep: *[!UICONTROL Active]* of *[!UICONTROL Paused]*.
+**[!UICONTROL Asset Group Status]:** De status van de elementgroep: *[!UICONTROL Active]* of *[!UICONTROL Paused]* .
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Tot 15 afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads] afbeeldingsspecificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Images]:** Tot 15 afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads]  beeldspecificaties ](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
-   1. Op de [!UICONTROL Upload from Device] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+   1. Klik op het tabblad [!UICONTROL Upload from Device] op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
    1. Voor elke afbeelding:
 
@@ -270,15 +270,15 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
       1. Klik op **[!UICONTROL Proceed]**.
 
-   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
+   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]** .
 
-* Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
+* Als u afbeeldingen in uw [!UICONTROL Asset Library] wilt selecteren, klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** Ten minste één vierkant (1:1) logo en één landschaps (4:1) logo. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads] logo-specificaties](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Logos]:** minimaal één vierkant (1:1) logo en één liggend (4:1) logo. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads]  logospecificaties ](https://support.google.com/google-ads/answer/10724492?hl=en&amp;ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
-   1. Op de [!UICONTROL Upload from Device] tabblad, klikt u op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+   1. Klik op het tabblad [!UICONTROL Upload from Device] op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
    1. Voor elke afbeelding:
 
@@ -292,60 +292,60 @@ Wanneer u een campagne met eCPC toevoegt aan een geoptimaliseerde portefeuille v
 
       1. Klik op **[!UICONTROL Proceed]**.
 
-   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]**.
+   1. Wanneer u klaar bent met het opgeven van afbeeldingen, klikt u op **[!UICONTROL Upload]** .
 
-* Als u afbeeldingen wilt selecteren in uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
+* Als u afbeeldingen in uw [!UICONTROL Asset Library] wilt selecteren, klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Videos]:** (Optioneel) Ten minste één en ten hoogste vijf, [!DNL YouTube] video&#39;s die minstens 10 seconden lang zijn. U kunt URL&#39;s invoeren of ze selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Videos]:** (Optioneel) Ten minste één en maximaal vijf [!DNL YouTube] video&#39;s met een lengte van ten minste 10 seconden. U kunt URL&#39;s invoeren of ze selecteren in uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * URL&#39;s invoeren:
 
-   1. Op de [!UICONTROL Enter Video Url] voert u een URL in.
+   1. Voer op het tabblad [!UICONTROL Enter Video Url] een URL in.
 
-   1. (Optioneel) Als u nog een URL wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voer de URL in.
+   1. (Optioneel) Als u nog een URL wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voert u de URL in.
 
-* Om video&#39;s van uw te selecteren [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteer de video&#39;s.
+* Als u video&#39;s wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de video&#39;s.
 
-**[!UICONTROL Headlines]:** Minimaal drie en maximaal vijf korte kopregels met elk maximaal 30 tekens. Ten minste één kop moet ten minste 15 tekens lang zijn. Als de optie op campagnereniveau om de uiteindelijke uitbreiding van URL in te schakelen is ingesteld binnen [!DNL Google Ads]vervolgens [!DNL Google Ads] vervangt deze waarde door een aangepaste kop op basis van de inhoud van de bestemmingspagina.
+**[!UICONTROL Headlines]:** minstens drie, en tot vijf, korte koppen met een maximum van 30 karakters elk. Ten minste één kop moet ten minste 15 tekens lang zijn. Als de optie op campagnereniveau is ingesteld om de uiteindelijke URL-uitbreiding in te schakelen binnen [!DNL Google Ads] , vervangt [!DNL Google Ads] deze waarde door een aangepaste kop op basis van de inhoud van de bestemmingspagina.
 
-U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
-
-* U voert als volgt tekst in:
-
-   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
-
-   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
-
-* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
-
-**[!UICONTROL Long Headlines]:** Minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], maar niet in beide bewerkingen.
 
 * U voert als volgt tekst in:
 
-   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
+   1. Voer op het tabblad [!UICONTROL Enter Text] de tekst in.
 
-   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
+   1. (Optioneel) Als u nog een tekenreeks wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voert u de tekenreeks in.
 
-* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
+* Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
-**[!UICONTROL Descriptions]:** Ten minste twee, en maximaal vier, beschrijvingen met elk maximaal 90 tekens. Ten minste één beschrijving moet ten minste 30 tekens lang zijn. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] — maar niet beide in dezelfde handeling.
+**[!UICONTROL Long Headlines]:** minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], maar niet in beide bewerkingen.
 
 * U voert als volgt tekst in:
 
-   1. Op de [!UICONTROL Enter Text] voert u de tekst in.
+   1. Voer op het tabblad [!UICONTROL Enter Text] de tekst in.
 
-   1. (Optioneel) Klik op **[!UICONTROL + Add]** en voer de tekenreeks in.
+   1. (Optioneel) Als u nog een tekenreeks wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voert u de tekenreeks in.
 
-* Elementen selecteren uit uw [!UICONTROL Asset Library], klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
+* Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
-**[!UICONTROL Call to Action]:** De oproep tot actie om op te nemen in de advertentie. Standaard, *[!UICONTROL Automated]* is geselecteerd, en [!DNL Google Ads] Hiermee selecteert u de aanroep van de handeling. U kunt desgewenst een andere actie kiezen.
+**[!UICONTROL Descriptions]:** minstens twee, en tot vier, beschrijvingen met een maximum van 90 karakters elk. Ten minste één beschrijving moet ten minste 30 tekens lang zijn. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], maar niet in beide bewerkingen.
 
-**[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters.
+* U voert als volgt tekst in:
 
-**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] computerleermodellen gebruiken het publiek om gelijkaardige Web surfers aan doel te vinden en kunnen ook advertenties aan publiek tonen die niet als signalen worden gespecificeerd om u te helpen uw prestatiesdoelstellingen ontmoeten. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+   1. Voer op het tabblad [!UICONTROL Enter Text] de tekst in.
+
+   1. (Optioneel) Als u nog een tekenreeks wilt toevoegen, klikt u op **[!UICONTROL + Add]** en voert u de tekenreeks in.
+
+* Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
+
+**[!UICONTROL Call to Action]:** De vraag aan actie om in de advertentie te omvatten. Standaard is *[!UICONTROL Automated]* geselecteerd en selecteert [!DNL Google Ads] de aanroep van de handeling. U kunt desgewenst een andere actie kiezen.
+
+**[!UICONTROL Business Name]:** De bedrijfsnaam, met een maximum van 25 karakters.
+
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] computerleermodellen gebruiken het publiek om vergelijkbare websurfers te vinden die u als doel wilt gebruiken en kunnen ook advertenties aan het publiek tonen die niet als signalen worden opgegeven om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
->De signalen van het publiek zijn verschillend van [doelgroepen op campagnereniveau en op groepsniveau](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>De signalen van het publiek zijn verschillend van [ campagne-niveau en ad groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 **[!UICONTROL Add new asset group]:** Hiermee kunt u een andere elementgroep opgeven.
 
@@ -353,17 +353,17 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] �
 
 **[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u ervoor kiest om omzettingsdoelstellingen voor de campagne te specificeren, dan uitgezochte standaarddoelstellingen en/of creeer een douanedoel voor de campagne.
 
-De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de bestaande doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [de netwerkgegevens van de advertentie handmatig synchroniseren](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de bestaande doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [ synchroniseert manueel de gegevens van het advertentienetwerk ](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
-Als u een aangepast conversiedoel wilt maken, klikt u op **[!UICONTROL + Add custom goal]**, voert u de naam van het aangepaste doel in en selecteert u [conversiehandelingen](https://support.google.com/google-ads/answer/6032150) om in het douanedoel te omvatten, en dan te klikken **[!UICONTROL Save]**. **Opmerking:** Elke campagne kan slechts één aangepast doel hebben.
+Om een doel van de douaneomzetting tot stand te brengen, klik **[!UICONTROL + Add custom goal]**, ga de naam van het douanedoel in, selecteer de [ omzettingsacties ](https://support.google.com/google-ads/answer/6032150) om in het douanedoel te omvatten, en klik dan **[!UICONTROL Save]**. **Nota:** Elke campagne kan slechts één douanedoel hebben.
 
 >[!TIP]
 >
 >Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
->Voor campagnes in hybride portfolio&#39;s waarvoor u [uploaden van doelstellingen naar het advertentienetwerk](/help/search-social-commerce/tools/objective-upload-to-networks.md), doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg geüploade Onderzoek, Sociale, &amp; de portefeuille van Commerce objectieve metrisch toe (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsactie voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omvatten [!DNL Google]-tracked omzettingen omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
+>Nochtans, voor campagnes in hybride portefeuilles waarvoor u [ doelstellingen aan het advertentienetwerk ](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsactie voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die [!DNL Google]-gevolgde omzettingen omvatten omdat de netwerk-sporen zijn Niet geüpload naar het advertentienetwerk met het doel.
 
 >[!MORELIKETHIS]
 >
->* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
 
