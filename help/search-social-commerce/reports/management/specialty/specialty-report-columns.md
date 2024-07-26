@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
 exl-id: c4533105-a0a8-4c76-bda9-ae653e7fd911
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 3b120ec2ec54f4ad909be8ff2ee8f1e92d205315
+source-git-commit: c681e3da172244cf08114f1ae7e9ecdfb1a5dd25
 workflow-type: tm+mt
-source-wordcount: '2642'
+source-wordcount: '2639'
 ht-degree: 0%
 
 ---
@@ -41,7 +41,7 @@ ht-degree: 0%
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] rapporten) De totale opbrengst gedeeld door uitgaven, uitgedrukt als percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De opbrengst per omzetting. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) Het element. |
-| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) De numerieke id die door Zoeken, Sociaal en Commerce aan het element wordt toegewezen. |
+| [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) De unieke id die een bestaand element identificeert. |
 | [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) De [[!DNL Google Ads]  prestatiesclassificatie ](https://support.google.com/google-ads/answer/9564897) voor de activa. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) De elementstatus: *[!UICONTROL Enabled]* of *[!UICONTROL Enabled]* (verwijderd). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) Het elementtype: *[!UICONTROL Creative Title]* of *[!UICONTROL Description]* . |
