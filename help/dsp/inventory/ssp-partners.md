@@ -3,7 +3,7 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 5c750153ff9e4be2d02f572d96b171d7aa293dd9
+source-git-commit: 96a8080a134bc3bdff597d8a26bfbc4cd40bc545
 workflow-type: tm+mt
 source-wordcount: '447'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] of Adobe Advertising | Nee | Algemeen | USD | x | x | x | x | x |  |  |
 | [!DNL Triton] |  | Adobe Advertising | Ja | Algemeen | USD |  |  |  |  |  |  | x |
 | [!DNL Unruly] | [!DNL Nexxen] | Adobe Advertising | Nee | VS + EMEA | USD | x | x | x |  |  |  |  |
-| [!DNL Yahoo] | [!DNL TubeMogul] of Adobe Advertising | Nee | Algemeen | USD | x | x | x | x | x |  |  |
+| [!DNL Yahoo] |  | [!DNL TubeMogul] of Adobe Advertising | Nee | Algemeen | USD | x | x | x | x | x |  |  |
 
 {style="table-layout:auto"}
 
