@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 07ecb613c49e27e1a1e82d7082b1715040b82610
+source-git-commit: cc98c8fa5d1e0309b5b2716f58e6193d029e3f96
 workflow-type: tm+mt
-source-wordcount: '3915'
+source-wordcount: '3921'
 ht-degree: 0%
 
 ---
@@ -365,7 +365,7 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Oracle Data Cloud] (voorheen [!DNL Grapeshot] ).
 
-**[!UICONTROL Device Targeting]:** (Facultatieve) Specifieke apparateninformatie, met inbegrip van apparatentypen, fabrikanten, werkende systemen, browsers, en connectiviteitstypes, om als doelstellingen te omvatten en uit te sluiten. Apparaatdoelframes opgeven:
+**[!UICONTROL Device Targeting]:** (Facultatieve) Specifieke apparateninformatie, met inbegrip van apparatentypen, fabrikanten, werkende systemen, browsers, en connectiviteitstypes, om als doelstellingen te omvatten en uit te sluiten. De typen variëren per plaatsingstype. Apparaatdoelframes opgeven:
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de apparaatdetails op die u wilt opnemen en uitsluiten:
