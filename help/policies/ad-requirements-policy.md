@@ -3,9 +3,9 @@ title: Beleid inzake Adobe Advertising en vereisten
 description: Zie het beleid voor advertentievereisten.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
-source-git-commit: 703031baac908e2024d877f031ff164370528383
+source-git-commit: 5a13aee5b7dcefa9f74d26322078c75e53f18a69
 workflow-type: tm+mt
-source-wordcount: '2191'
+source-wordcount: '2190'
 ht-degree: 0%
 
 ---
@@ -72,11 +72,11 @@ Advertenties die inhoud bevatten in de onderstaande categorieën zijn toegestaan
 
 * **Alcohol**. Advertenties die reclame maken voor alcoholische dranken en alcoholbedrijven zijn alleen toegestaan indien zij in overeenstemming zijn met de toepasselijke wetten en zelfreguleringsregels. Alcoholadvertenties kunnen bijvoorbeeld niet gericht zijn op minderjarigen en kunnen alleen lopen in landen die reclame voor alcohol toestaan. Ads mag echter in geen geval een overmatig alcoholgebruik glamoriseren of aangeven.
 
-* **Cannabis**. Advertenties die cannabis-ondernemingen of cannabis met staatsrecht in de toegelaten Canadese provincies adverteren of promoten, zijn alleen toegestaan indien zij in overeenstemming zijn met respectievelijk de toepasselijke nationale of Canadese wetgeving, onder voorbehoud van a) het eerder ingaan van de toepasselijke [!DNL Adobe Rider] , b) het naleven van [!DNL Adobe] due diligence-vereisten, en c) zoals toegestaan door media-leveranciers en toepasselijke wetten. Steun voor staatswettelijke cannabis mag geen specifieke producten te koop aanbieden of promoten, en moet gericht zijn op de desbetreffende staat. Alle toegestane cannabisadvertenties mogen (1) niet aantrekkelijk zijn voor minderjarigen of (2) cannabisconsumptie glamoriseren of afschilderen. &quot;Toegestane Canadese provincies&quot;: de provincies Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland en Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan en Yukon.
+* **Cannabis**. Advertenties die cannabisbedrijven of cannabis met staatsrecht adverteren of promoten in de toegelaten Canadese provincies, zijn alleen toegestaan indien zij in overeenstemming zijn met respectievelijk de toepasselijke nationale of Canadese wetgeving, onder a) die eerder de toepasselijke [!DNL Adobe Rider] , b) voldoen aan [!DNL Adobe] due diligence-vereisten, en \(c\) zoals toegestaan door Media Suppliers en toepasselijke wetten. Steun voor staatswettelijke cannabis mag geen specifieke producten te koop aanbieden of promoten, en moet gericht zijn op de desbetreffende staat. Alle toegestane cannabisadvertenties mogen (1) niet aantrekkelijk zijn voor minderjarigen of (2) cannabisconsumptie glamoriseren of afschilderen. &quot;Toegestane Canadese provincies&quot;: de provincies Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland en Labrador, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan en Yukon.
 
 * **Gokend**. Toevoegingen die gokgerelateerde inhoud bevatten, onder meer door casino&#39;s, loterijen en andere kansspelen (online of offline) te bevorderen, mogen alleen overeenkomstig de toepasselijke wetgeving worden bevorderd. Geen enkele Ads mag echter glamorizeren of buitensporige gokgedragingen weergeven of de kansen of risico&#39;s van gokken verkeerd weergeven.
 
-* **Hemp**. Steun voor hennep en producten op basis van hennep moet voldoen aan alle toepasselijke nationale en federale wetten, onder voorbehoud van a) het eerder ingaan van de toepasselijke wetgeving [!DNL Adobe Rider], b) het naleven van de [!DNL Adobe] due diligence-vereisten, en c) zoals toegestaan door Media Suppliers en de toepasselijke wetten. Steun voor hennep en producten op basis van hennep mag (1) geen gezondheidsclaims doen, (2) niet gericht zijn op kwetsbare bevolkingsgroepen, waaronder minderjarigen, of (3) glamoriseren of roken afschilderen, of (4) suggereren dat dergelijke producten soortgelijke intoxicerende effecten hebben als cannabis.
+* **Hemp**. Advertenties voor hennep en producten op basis van hennep moeten voldoen aan alle toepasselijke nationale en federale wetten, onder voorbehoud van a) het eerder ingaan van de toepasselijke wetgeving [!DNL Adobe Rider], b) het voldoen aan [!DNL Adobe] due diligence-vereisten, en \(c\) zoals toegestaan door Media Suppliers en de toepasselijke wetten. Steun voor hennep en producten op basis van hennep mag (1) geen gezondheidsclaims doen, (2) niet gericht zijn op kwetsbare bevolkingsgroepen, waaronder minderjarigen, of (3) glamoriseren of roken afschilderen, of (4) suggereren dat dergelijke producten soortgelijke intoxicerende effecten hebben als cannabis.
 
 * **Farmaceutische Advertenties**. Advertenties die recept en receptvrije geneesmiddelen bevorderen, moeten de toepasselijke federale en lokale wetten, verordeningen, en richtlijnen in acht nemen.
 
