@@ -3,10 +3,10 @@ title: Een aangepast rapport dupliceren
 description: Leer hoe te om een douanerapport tot stand te brengen door een bestaand rapport te dupliceren.
 feature: DSP Custom Reports
 exl-id: 20542bf8-69e9-44e0-9637-56b27f2de9ec
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 81c9590d134214e1ed860c2f8116ff66882000be
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 1%
+source-wordcount: '88'
+ht-degree: 0%
 
 ---
 
@@ -14,21 +14,20 @@ ht-degree: 1%
 
 Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot stand te brengen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Reports]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Reports]** .
 
-1. Klik in de kolom Opties voor de rapportrij op **[!UICONTROL options]** > **[!UICONTROL Copy]**.
+1. Klik in de kolom Opties voor de rapportrij op **[!UICONTROL options]** > **[!UICONTROL Copy]** .
 
-1. (Optioneel) Bewerk de [rapportinstellingen](/help/dsp/reports/report-settings.md) indien nodig.
+1. (Facultatief) geef de [ rapportmontages ](/help/dsp/reports/report-settings.md) uit zoals nodig.
 
-   De rapportnaam is standaard &quot;\&lt;*bestaande rapportnaam*\> \#2&quot; (of het volgende getal in de reeks).
+   De rapportnaam, door gebrek, is &quot;\&lt; *bestaande rapportnaam* \> \#2&quot;(of het volgende aantal in de opeenvolging).
 
-1. Klik op **[!UICONTROL Copy Custom Report]**
+1. Klikken **[!UICONTROL Copy Custom Report]**
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste rapporten](/help/dsp/reports/report-about.md)
->* [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
->* [Een aangepast rapport bewerken](/help/dsp/reports/report-edit.md)
->* [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
->* [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
-
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
