@@ -3,27 +3,31 @@ title: Een pakket bewerken
 description: Leer hoe u een pakket kunt bewerken.
 feature: DSP Packages
 exl-id: 88fbbb46-0150-4ff7-838f-ea00aead529e
-source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
+source-git-commit: 90f9d250a777e04280d4864320719e91861a9ca0
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 1%
+source-wordcount: '106'
+ht-degree: 0%
 
 ---
 
 # Een pakket bewerken
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
-1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
-1. Bewerk de [pakketinstellingen](package-settings.md).
+>[!NOTE]
+>
+>U kunt de instellingen voor een of meer pakketten ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in de meeste velden en ze weer uploaden naar alles tegelijk. Zie &quot;[ Overzicht en geef de Montages van het Pakket uit Gebruikend Spreadsheets ](package-qa.md).&quot;
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
+1. Klik op de naam van de campagne om de weergave [!UICONTROL Packages] te openen.
+1. Klik naast de pakketnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
+1. Bewerk de [ pakketmontages ](package-settings.md).
 1. Klik op **[!UICONTROL Save and Close]**.
 
 >[!MORELIKETHIS]
 >
->* [Info over Pakketbeheer](package-about.md)
->* [Een pakket maken](package-create.md)
->* [Een pakket dupliceren](package-duplicate.md)
->* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Een pakket onderbreken of activeren](package-pause-activate.md)
->* [Pakketinstellingen](package-settings.md)
-
+>* [ Ongeveer het Beheer van het Pakket ](package-about.md)
+>* [ Overzicht en geef de Montages van het Pakket uit Gebruikend Spreadsheets ](/help/dsp/campaign-management/packages/package-qa.md)
+>* [ creeer een Pakket ](package-create.md)
+>* [ Dupliceer een Pakket ](package-duplicate.md)
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ Pauze of activeer een Pakket ](package-pause-activate.md)
+>* [ de Montages van het Pakket ](package-settings.md)
