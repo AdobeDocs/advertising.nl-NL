@@ -2,9 +2,9 @@
 title: Pakketinstellingen controleren en bewerken met behulp van spreadsheets
 description: Leer hoe u de instellingen van sleutelpakketten kunt bekijken en bewerken met spreadsheets.
 feature: DSP Packages
-source-git-commit: 230a169611aa3094365a877476f2e5e1c6b3cb9b
+source-git-commit: ad00092c4ef5d44c364ab0593826220054f715c3
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '824'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 | [!UICONTROL Goals & Budget] | [!UICONTROL Optimization Target] | De doelwaarde van het doel. | Ja |
 | [!UICONTROL Goals & Budget] | [!UICONTROL Custom Goal Name] | (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [ douanedoel ](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrische CPA of ROAS te berekenen. | Ja |
 | [!UICONTROL Goals & Budget] | [!UICONTROL Conversion Metric Name] | (Optioneel; pakketten met alleen de optimalisatiedoelstellingen &quot;[!UICONTROL Highest Return on Ad Spend]&quot; en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;) De uiteindelijke conversiegebeurtenis of inkomstengebeurtenis/-verkoop is bedoeld voor het berekenen van het rendement op advertentie-uitgaven of de kosten per aankoop. | Ja |
-| [!UICONTROL Goals & Budget] | [!UICONTROL Package Goal Type] | (Pakketten met alleen aangepaste optimalisatiedoelen) Het doel van het pakket, waarmee u kunt bepalen hoe het pakket moet worden geoptimaliseerd: *[!UICONTROL Prospecting]*, *[!UICONTROL Retargeting]* of *[!UICONTROL Other]* . | — |
+| [!UICONTROL Goals & Budget] | [!UICONTROL Package Goal Type] | (Pakketten met alleen aangepaste optimalisatiedoelen) Het doel van het pakket, waarmee u kunt bepalen hoe het pakket moet worden geoptimaliseerd: *[!UICONTROL Prospecting]*, *[!UICONTROL Retargeting]* of *[!UICONTROL Other]* . | Ja |
 | [!UICONTROL Goals & Budget] | [!UICONTROL Linked Package id for learning carryover] | (Pakketten met alleen aangepaste optimalisatiedoelen) De pakket-id voor een ander pakket waarvan de historische gegevens worden gebruikt als invoer voor het optimaliseren van het pakket. | Ja |
 | [!UICONTROL Goals & Budget] | [!UICONTROL Linked Package Name for learning carryover] | (Pakketten met alleen aangepaste optimalisatiedoelen) Een ander pakket waarvan de historische gegevens worden gebruikt als invoer voor het optimaliseren van het pakket. | — |
 | [!UICONTROL Goals & Budget] | [!UICONTROL Pace on] | Geeft aan of het pakket in de richting van de *[!UICONTROL budget]* - of *[!UICONTROL primary_goal]* -afbeelding loopt (voor afbeeldingen). | — |
@@ -102,10 +102,10 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 |---------|--------|-------------|-----------|
 | [!UICONTROL Flight Details] | [!UICONTROL Package ID] | De numerieke id van het pakket. | — |
 | [!UICONTROL Flight details] | [!UICONTROL Flight ID] | De numerieke id van de vlucht. | — |
-| [!UICONTROL Flight details] | [!UICONTROL Flight Start Date] | De eerste vluchtdatum. | — |
-| [!UICONTROL Flight details] | [!UICONTROL Flight End Date] | De einddatum van de vlucht. | — |
-| [!UICONTROL Flight details] | [!UICONTROL Flight Budget] | Het doel waarvoor de vlucht wordt uitgegeven. | — |
-| [!UICONTROL Flight details] | [!UICONTROL Rollover] | (Bestaande pakketten zonder de optie &quot;[!UICONTROL Automatically rollover remaining flight budget to next flight]&quot; ingeschakeld) Een hoeveelheid potentieel onuitgegeven budget om toe te voegen aan de volgende vlucht. | — |
+| [!UICONTROL Flight details] | [!UICONTROL Flight Start Date] | De eerste vluchtdatum. | Ja |
+| [!UICONTROL Flight details] | [!UICONTROL Flight End Date] | De einddatum van de vlucht. | Ja |
+| [!UICONTROL Flight details] | [!UICONTROL Flight Budget] | Het doel waarvoor de vlucht wordt uitgegeven. | Ja |
+| [!UICONTROL Flight details] | [!UICONTROL Rollover] | (Bestaande pakketten zonder de optie &quot;[!UICONTROL Automatically rollover remaining flight budget to next flight]&quot; ingeschakeld) Een hoeveelheid potentieel onuitgegeven budget om toe te voegen aan de volgende vlucht. | Ja |
 
 >[!MORELIKETHIS]
 >
