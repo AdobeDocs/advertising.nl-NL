@@ -1,25 +1,26 @@
 ---
-title: Een conversietag maken voor [!DNL Google Ads]
-description: Leer hoe u een [!DNL Google Ads] conversietag.
+title: Een conversietag maken voor  [!DNL Google Ads]
+description: Leer hoe te om a  [!DNL Google Ads]  omzettingsmarkering tot stand te brengen.
 feature: Conversions
-source-git-commit: 395421c69214c3b0370523909047a924af23ea55
+exl-id: 214611f0-bd38-499e-a7de-3a5878995fb5
+source-git-commit: 04330e26dbad6efe76dfcbe4662b062511ae14f6
 workflow-type: tm+mt
-source-wordcount: '379'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
 
 # Een conversietag maken voor [!DNL Google Ads]
 
-U kunt conversietags maken voor nieuwe conversies die voor afzonderlijke conversies moeten worden bijgehouden [!DNL Google Ads] accounts, niet bijgehouden op het niveau van een beheerdersaccount.
+U kunt conversietags maken voor nieuwe conversies die moeten worden bijgehouden voor afzonderlijke [!DNL Google Ads] -accounts, niet die op beheerdersniveau worden bijgehouden.
 
 Als u conversietags voor bestaande conversies wilt genereren, gebruikt u de editor van het advertentienetwerk.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** .
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
-1. Geef de [instellingen voor conversietags](#conversion-tag-settings-google).
+1. Specificeer de [ montages van de omzettingsmarkering ](#conversion-tag-settings-google).
 
    1. Selecteer het account en selecteer het type conversie.
 
@@ -31,40 +32,40 @@ Als u conversietags voor bestaande conversies wilt genereren, gebruikt u de edit
 
 1. Kopieer de conversietag en implementeer deze op de websites waarvan u de metrische conversie wilt bijhouden.
 
-   Zie &quot;De installatie van de [!DNL Google] -tag&quot; in de [!DNL Google Ads] Help bij &quot;[2. De Google-tag instellen](https://support.google.com/google-ads/answer/12215519).&quot;
+   Zie &quot;Installing the [!DNL Google] markering&quot;in [!DNL Google Ads] hulp aan &quot;[ 2. Opstelling uw markering van Google ](https://support.google.com/google-ads/answer/12215519).&quot;
 
 1. Klik op **[!UICONTROL Done].**
 
-Nadat u de tags aan uw website hebt toegevoegd en deze hebt geactiveerd, [!DNL Google Ads] registreert omzettingen op de website. Met Zoeken, Sociaal en Handel worden de conversies dagelijks gesynchroniseerd. Zie voor meer informatie over de gesynchroniseerde gegevens &quot;[[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).
+Nadat u de tags aan uw website hebt toegevoegd en deze hebt geactiveerd, worden de conversies door [!DNL Google Ads] vastgelegd op de website. Met Zoeken, Sociaal en Commerce worden de conversies dagelijks gesynchroniseerd. Voor meer informatie over de gegevens die worden gesynchroniseerd, zie &quot;[[!DNL Google Ads]  omzettingsgegevens in Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).
 
 ## Instellingen voor conversietag {#conversion-tag-settings-google}
 
 **[!UICONTROL Select an Account]:** De toepasselijke Google Ads-account.
 
-**[!UICONTROL Type of Conversion]:** Het type conversie naar track: *[!UICONTROL Click on a webpage element]*, *[!UICONTROL Calls to a phone number on your website]*, of *[!UICONTROL Clicks to your number on your mobile website]*.
+**[!UICONTROL Type of Conversion]:** Het type conversie naar track: *[!UICONTROL Click on a webpage element]* , *[!UICONTROL Calls to a phone number on your website]* of *[!UICONTROL Clicks to your number on your mobile website]* .
 
 **[!UICONTROL Conversion Name]:** Een unieke naam voor de metrische conversie.
 
-**\[Categorie omzetten\]:** De conversiecategorie. De beschikbare categorieën variëren per conversietype. Voor *[!UICONTROL Calls to a phone number on your website]* en *[!UICONTROL Clicks to your number on your mobile website]*, &quot;[!UICONTROL Phone Call Lead]&quot; is standaard geselecteerd.
+**\[Conversiecategorie\]:** De conversiecategorie. De beschikbare categorieën variëren per conversietype. Voor *[!UICONTROL Calls to a phone number on your website]* en *[!UICONTROL Clicks to your number on your mobile website]*, &quot; [!UICONTROL Phone Call Lead]&quot;wordt geselecteerd door gebrek.
 
-**\[Type handeling\]:** Of het doel een *[!UICONTROL Primary action used for bidding optimization]* of *[!UICONTROL Secondary action not used for bidding optimization]*.
+**\[Type handeling\]:** Of het doel een *[!UICONTROL Primary action used for bidding optimization]* of een *[!UICONTROL Secondary action not used for bidding optimization]* is.
 
-**[!UICONTROL Value]:** Hoe wordt de [waarde van elke conversie](https://support.google.com/google-ads/answer/3419241):
+**[!UICONTROL Value]:** hoe te om de [ waarde van elke omzetting ](https://support.google.com/google-ads/answer/3419241) te meten:
 
-* *[!UICONTROL Use the same value for each conversion],* waarvoor u een valuta moet selecteren en de waarde voor elke conversie moet invoeren.
+* *[!UICONTROL Use the same value for each conversion],* die u vereist om een munt te selecteren en de waarde voor elke omzetting in te gaan.
 
-* *[!UICONTROL Use a different value for each conversion],* waarvoor u een valuta moet selecteren en een standaardwaarde voor elke conversie moet opgeven. U kunt de standaardwaarde in de tag wijzigen met een transactiespecifieke waarde wanneer u de tag implementeert op een specifieke webpagina.
+* *[!UICONTROL Use a different value for each conversion],* die u vereist om een munt te selecteren en een standaardwaarde voor elke omzetting in te gaan. U kunt de standaardwaarde in de tag wijzigen met een transactiespecifieke waarde wanneer u de tag implementeert op een specifieke webpagina.
 
 * *[!UICONTROL Don't use a value for this conversion action (Not recommended)]*
 
-**[!UICONTROL Count]:** [Hoeveel omzettingen per klik of interactie moeten tellen](https://support.google.com/google-ads/answer/3438531): *[!UICONTROL Every (Recommended for every purchases because every purchase is valuable)]* of *[!UICONTROL One (Recommended for leads, sign-ups and other conversions because only the first interaction is valuable)]*.
+**[!UICONTROL Count]:** [ hoeveel omzettingen per klik of interactie te tellen ](https://support.google.com/google-ads/answer/3438531): *[!UICONTROL Every (Recommended for every purchases because every purchase is valuable)]* of *[!UICONTROL One (Recommended for leads, sign-ups and other conversions because only the first interaction is valuable)]*.
 
-**[!UICONTROL Click Through Conversion Window]:** Het maximumaantal dagen na een advertentietransactie waarvoor omzettingen worden geregistreerd. Voor zoek-, weergave- en winkelcampagnes kan het venster 1-90 dagen lang zijn. Selecteer een nummer of selecteer **[!UICONTROL Custom]** en voert u een getal in.
+**[!UICONTROL Click Through Conversion Window]:** Het maximumaantal dagen na een advertentietransactie waarvoor omzettingen worden geregistreerd. Voor zoek-, weergave- en winkelcampagnes kan het venster 1-90 dagen lang zijn. Selecteer een getal of selecteer **[!UICONTROL Custom]** en voer een getal in.
 
-**[!UICONTROL View Through Conversion Window]:** Het maximumaantal dagen nadat een gebruiker advertenties bekijkt waarvoor doorkijkconversies worden opgenomen. Voor zoek-, weergave- en winkelcampagnes kan het venster 1-90 dagen lang zijn. Selecteer een nummer of selecteer **[!UICONTROL Custom]** en voert u een getal in.
+**[!UICONTROL View Through Conversion Window]:** Het maximumaantal dagen nadat een gebruiker uw advertenties bekijkt waarvoor mening-door omzettingen worden geregistreerd. Voor zoek-, weergave- en winkelcampagnes kan het venster 1-90 dagen lang zijn. Selecteer een getal of selecteer **[!UICONTROL Custom]** en voer een getal in.
 
-**[!UICONTROL Attribution Model]:** [Hoeveel krediet elke advertentieinteractie krijgt](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138): *[!UICONTROL Data driven]*, *[!UICONTROL Last click]*, *[!UICONTROL First click]*, *[!UICONTROL Linear]*, *[!UICONTROL Time decay]*, of *[!UICONTROL Position based]*.
+**[!UICONTROL Attribution Model]:** [ hoeveel krediet elke ad interactie ](https://support.google.com/google-ads/answer/6259715?sjid=8211249329930775138) krijgt: *[!UICONTROL Data driven]* of *[!UICONTROL Last click]*. **Nota:** de acties van de Omzetting die eerder de nu-niet gestaafde *[!UICONTROL First click]*, *[!UICONTROL Linear]*, *[!UICONTROL Time decay]*, of *[!UICONTROL Position based]* modellen gebruikten nu het *[!UICONTROL Data driven]* model.
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+>* [[!DNL Google Ads]  omzettingsgegevens in Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
