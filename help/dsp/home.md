@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 6264132ebeacc960548e818d023dc232a293abc1
+source-git-commit: 14e3499c78bc45f86bbd61e6b081af8c26ecbea3
 workflow-type: tm+mt
-source-wordcount: '3906'
+source-wordcount: '4089'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 22 augustus 2024 | [!UICONTROL Custom Reports] | De volgende eigenschappen en de verhogingen van het douanerapport werden vrijgegeven:<ul><li>De weergave [!UICONTROL Reports] > [!UICONTROL Custom Reports] is opnieuw ontworpen:<ul><li>De kolommen omvatten nu &quot;[!UICONTROL Status],&quot;&quot;[!UICONTROL Report Run]&quot; (die data toont waarop het rapport werd teweeggebracht die op 22 augustus 2024 begonnen), &quot;[!UICONTROL Recurrence], &quot;[!UICONTROL Created By],&quot; en &quot;[!UICONTROL Download Report]&quot; (met een &quot;[!UICONTROL Download]&quot;knoop zodat kunt u om het even welke rapportinstantie van de laatste vier maanden onmiddellijk downloaden).</li><li>U kunt de lijst door status filtreren, of het rapport terugkomt of eenmalig, het rapporttype, het bestemmingstype, en de rapportschepper is. Standaard worden alle niet-gearchiveerde rapporten die door de gebruiker zijn gemaakt, weergegeven met de meest recente bovenaan.</li><li>De knoppen voor snelle acties voor elk rapport (zoals [!UICONTROL Copy] en [!UICONTROL Delete] ) zijn nu beschikbaar door op **[!UICONTROL …]** naast de rapportnaam te klikken.</li></ul><li>De het plannen van het rapport opties zijn nu beschikbaar op het rapportniveau, niet op het individuele bestemmingsniveau. In rapportmontages, zijn de planningsmontages nu beschikbaar dichtbij de bovenkant in &quot;[!UICONTROL Report run schedule]&quot;sectie. Als u een ouder rapport uitgeeft dat verschillende bestaande programma&#39;s voor individuele bestemmingen heeft, zult u worden ertoe aangezet om het programma te plaatsen en op de hoogte gebracht dat het programma het bestaande programma voor alle bestaande bestemmingen zal vervangen.</li></ul> | Zie &quot;[ Ongeveer Rapporten ](/help/dsp/reports/report-about.md)&quot; en &quot;[ de Montages van het Rapport ](/help/dsp/reports/report-settings.md).&quot; |
 | 22 augustus 2024 | [!UICONTROL Packages] | U kunt de instellingen voor een of meer pakketten in de XLSX-indeling ([!DNL Microsoft Excel] spreadsheet) downloaden voor revisie. Het werkblad bevat een aparte tab met vluchtinformatie. Vervolgens kunt u wijzigingen aanbrengen in de meeste velden op beide tabbladen en deze weer uploaden naar DSP allemaal tegelijk. | Zie &quot;[ Overzicht en geef de Montages van het Pakket uit Gebruikend Spreadsheets ](/help/dsp/campaign-management/packages/package-qa.md).&quot; |
 | 14 augustus 2024 | [!UICONTROL Placements] | DSP wordt het aantal segmenten voor [!DNL Audiences by Oracle (BlueKai)] -segmenten niet meer vernieuwd. Deze zullen eind september zonsondergang hebben en alle tellingen zullen geleidelijk tot nul (0) afnemen. | — |
 | 30 juli 2024 | [!UICONTROL Placements] | Vanaf 14 augustus stopt DSP met het vernieuwen van segmentaantallen voor [!DNL Audiences by Oracle (BlueKai)] -segmenten, die eind september zonsondergang zullen ondergaan, en zullen alle tellingen geleidelijk tot nul (0) dalen. | — |

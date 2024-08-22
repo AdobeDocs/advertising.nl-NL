@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 81c9590d134214e1ed860c2f8116ff66882000be
+source-git-commit: 44f7f9b31afbe6b863acd389df641057b1e6dea1
 workflow-type: tm+mt
-source-wordcount: '792'
+source-wordcount: '1059'
 ht-degree: 0%
 
 ---
@@ -15,14 +15,15 @@ ht-degree: 0%
 Met aangepaste rapporten kunt u de inhoud en levering van uw rapportgegevens aanpassen aan de hand van de campagneafmetingen (zoals de adverteerder, plaatsing, sites of geos) en de maatstaven die het belangrijkst voor u zijn. U kunt:
 
 * Vorm volledig de rapporten van de campagneprestaties op een korrelig niveau.
+
 * Kies uit vooraf geconfigureerde rapportsjablonen en pas deze desgewenst verder aan.
 
-U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maandelijks om 3:00 uur te worden gegenereerd in de opgegeven tijdzone. Zodra een rapport wordt geproduceerd, wordt het geleverd aan elke gespecificeerde e-mailontvanger of aan verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types:
+U kunt rapporten eenmaal genereren, of ze plannen om dagelijks, wekelijks of maandelijks om 3.00 uur te worden gegenereerd in de opgegeven tijdzone volgens opgegeven criteria (zoals elke 15 dagen of op de eerste van elke maand). Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
+* FTP SSL <!-- (in beta) -->
 * SFTP
-* FTP SSL (in bèta)
 
 >[!NOTE]
 >
@@ -84,9 +85,30 @@ Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-sett
 
 Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts aan waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 
+## De [!UICONTROL Custom Reports] -weergave
+
+[!UICONTROL Reports] > [!UICONTROL Custom Reports] geeft een overzicht van uw bestaande rapporten, inclusief gegenereerde rapporten, rapporten die zijn gepland voor toekomstige generatie en rapporten die zijn mislukt. De kolom &quot;[!UICONTROL Report Run]&quot;toont data waarop het rapport werd teweeggebracht die op 22 augustus 2024 begonnen. Standaard worden alle niet-gearchiveerde rapporten die door de gebruiker zijn gemaakt, weergegeven met de meest recente bovenaan. U kunt de lijst door status verder filtreren, of het rapport terugkomt of eenmalig, het rapporttype, het bestemmingstype, en de rapportschepper is.
+
+U kunt nieuwe douanerapporten tot stand brengen, bestaande rapporten uitgeven of hen dupliceren om nieuwe rapporten tot stand te brengen, rapporten onmiddellijk in werking te stellen, om het even welke rapportinstantie van de laatste vier maanden te downloaden, en rapporten te schrappen.
+
+## Statussen rapporteren {#custom-report-status}
+
+* **[!UICONTROL Yet to start]:** Het rapport is nooit uitgevoerd.
+
+* **[!UICONTROL Report generating]:** Het rapport wordt momenteel gemaakt.
+
+* **[!UICONTROL Ready to download]:** (Terugkerende rapporten slechts) één of meerdere instanties van het rapport is beschikbaar om te downloaden, en meer rapportinstanties zijn gepland.
+
+* **[!UICONTROL Failed]:** De rapporttaak is mislukt. Om te zien waarom de individuele rapportinstanties voor een rapportduw ontbroken, klik ![ de benedenpijl ](/help/dsp/assets/chevron-down.png " pijl ") naast [!UICONTROL Download]. Mislukte rapporttaken zijn vermeld met een foutenpictogram (![foutindicator](/help/dsp/assets/indicator-critical.png "foutindicator")). Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
+
+* **[!UICONTROL Completed]:** Voor niet-terugkerende rapporten, wordt het rapport voltooid. Voor terugkerende rapporten, worden alle rapportinstanties voltooid. U kunt alle rapporten downloaden die in de laatste vier maanden zijn voltooid.
+
+* **[!UICONTROL Archived]:** het rapport is gearchiveerd en kan niet in werking worden gesteld. Deze status wordt geplaatst wanneer de rapportgeneratie veelvoudige tijden voor een rapport ontbreekt. U kunt deze status momenteel niet instellen vanuit de gebruikersinterface.
+
 >[!MORELIKETHIS]
 >
 >* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
 >* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
 >* [ Veelgestelde vragen over de Rapporten van de Huishouden ](/help/dsp/reports/faq-household-report.md)
 >* [ Types van Rapporten van Prestaties in de Meningen van Campaign Management ](/help/dsp/campaign-management/reports/campaign-reports-about.md)

@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 81c9590d134214e1ed860c2f8116ff66882000be
+source-git-commit: a4ab8bdeea2d15f14a7ef84c1055888ecc77014b
 workflow-type: tm+mt
-source-wordcount: '1261'
+source-wordcount: '1436'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,51 @@ ht-degree: 0%
 
 **[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]* of *[!UICONTROL Household Conversions]* .
 
-## [!UICONTROL Apply Filters] Sectie
+## [!UICONTROL Report range] Sectie
+
+Deze sectie bepaalt de gegevens die in het rapport inbegrepen zijn. Aan opstellingsdata voor het rapportprogramma, zie &quot;[!UICONTROL Report run schedule]&quot;sectie.
 
 **[!UICONTROL Timezone]:** De tijdzone voor het melden.
 
 **[!UICONTROL Observe Daylight Savings Time]:** beschouwt zomertijd in de gemelde tijden.
 
-**\[Datumbereik\]:** Het datumbereik waarvoor gegevens moeten worden gegenereerd. Het aantal beschikbare dagen varieert per rapport en per geselecteerde afmeting. Kies een optie:
+**Waaier:** de datumwaaier waarvoor om gegevens te produceren. Het aantal beschikbare dagen varieert per rapport en per geselecteerde afmeting. Kies een optie:
 
-* **[!UICONTROL Previous N days]:** omvat gegevens voor een specifiek aantal dagen vóór vandaag.
-
-* **[!UICONTROL Custom]:** omvat gegevens tussen specifieke begin en einddata. Selecteer **[!UICONTROL Present]** als u gegevens tot en met de vorige dag wilt rapporteren.
+* **[!UICONTROL Last Calendar Week]:** Bevat gegevens voor de vorige kalenderweek.
 
 * **[!UICONTROL Last Calendar Month]:** Bevat gegevens voor de vorige kalendermaand.
+
+* **[!UICONTROL Custom Range]:** omvat gegevens tussen specifieke begin en einddata. Selecteer **[!UICONTROL Present]** als u gegevens tot en met de vorige dag wilt rapporteren.
+
+## [!UICONTROL Report run schedule] Sectie
+
+Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan opstelling de data waarvoor om rapportgegevens te omvatten, zie &quot;[!UICONTROL Report range]&quot;sectie.
+
+**\[Schedule\]:** Wanneer genereert u het rapport:
+
+* *[!UICONTROL Immediately]*: voegt het rapport onmiddellijk toe aan de rapportwachtrij.
+
+  >[!NOTE]
+  >
+  >U kunt ook [ een douanerapport op elk ogenblik ](report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
+
+* *[!UICONTROL On]\&lt;Date\>:* stelt het rapport op een gespecificeerde datum voor voltooiing door 09:00 in de tijdzone van de rekening in werking.
+
+* *[!UICONTROL Recurring]:* stelt het rapport volgens een programma tijdens een gespecificeerde tijdspanne in werking.
+
+   * **\[Schedule\]:** Hoe vaak het rapport moet worden uitgevoerd:
+
+      * *Dagelijks* om het rapport om het aantal dagen in werking te stellen N. Bijvoorbeeld, om het rapport om de twee weken (14 dagen) in werking te stellen, selecteer deze optie en ga **14** in.
+
+      * *wekelijks* om het rapport op gespecificeerde dagen van de week in werking te stellen. Bijvoorbeeld, om het rapport elke Maandag en Vrijdag in werking te stellen, selecteer deze optie en selecteer de controledozen naast **Maandag** en **Vrijdag**.
+
+      * *Maandelijks* om het rapport op een specifieke numerieke dag van de maand, van 1 tot 30 in werking te stellen. Bijvoorbeeld, stel het rapport op de eerste dag van elke maand in werking, selecteer deze optie en ga **1** in.
+
+   * **van**: De eerste datum waarop het rapport kan worden in werking gesteld. Afhankelijk van het gespecificeerde programma, kan de eerste rapportinstantie na deze datum voorkomen.
+
+   * **tot**: De datum van de rapportvervaldatum, die tot vier kalendermaanden weg kan zijn. Voordat een rapport verloopt, ontvangen alle opgegeven e-maildoelen zeven dagen en één dag vóór de vervaldatum een e-mailwaarschuwing. Wijzig deze datum om het rapport langer te houden.
+
+## [!UICONTROL Apply Filters] Sectie
 
 **[!UICONTROL Add Filters]:** (Facultatieve) Extra afmetingen waardoor om de gegevens te filtreren, al dan niet de afmetingen als kolommen in het rapport inbegrepen zijn. De beschikbare filters verschillen per rapporttype en kunnen zijn: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]* en *[!UICONTROL Video Duration]* .
 
@@ -120,17 +152,23 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
 ## [!UICONTROL Add Report Destinations] Sectie
 
-**[!UICONTROL Destination Type]:** Kies één van de volgende bestemmingstypes:
-
-* *[!UICONTROL S3]:* om het voltooide rapport naar één of meerdere [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet specificeren.
-* *[!UICONTROL sFTP]:* om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u op het **[!UICONTROL Destination Name]** gebied moet specificeren.
-* *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet specificeren.
-* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, die u moet opgeven in het veld **[!UICONTROL Destination Name]** .
-* *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
+**[!UICONTROL Destination Type]:** waar de voltooide rapporten en foutmeldingen moeten worden geleverd. U kunt niet het bestemmingstype veranderen zodra u het rapport opslaat.
 
 >[!NOTE]
 >
-> U kunt niet het bestemmingstype veranderen zodra u het rapport opslaat.
+>U kunt voltooide rapporten altijd downloaden vanuit de weergave [!UICONTROL Reports] > [!UICONTROL Custom Reports] .
+
+* *[!UICONTROL None]:* om geen rapporten of berichten te leveren.
+
+* *[!UICONTROL S3]:* om het voltooide rapport naar één of meerdere [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+
+* *[!UICONTROL sFTP]:* om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+
+* *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+
+* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+
+* *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
 **[!UICONTROL Email]:** (E-mail bestemmingstype slechts) voor elk adres, ga het adres in en klik **+**.
 
@@ -148,26 +186,13 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
       De nieuwe bestemming is nu beschikbaar van de lijst van bestaande bestemmingen, en u kunt naar keuze het aan het rapport toevoegen.
 
-**[!UICONTROL Frequency]:** (Voor elke [!UICONTROL Destination Name]) Hoe vaak moet u het rapport naar de bestemming verzenden: *[!UICONTROL Once]*, *[!UICONTROL Daily]*, *[!UICONTROL Weekly]* of *[!UICONTROL Monthly]* .
-
-**[!UICONTROL Start Day]:** (Voor elke [!UICONTROL Destination Name] met een [!UICONTROL Frequency] van *[!UICONTROL Weekly]* of *[!UICONTROL Monthly]*) Welke dag om het rapport te genereren. Selecteer de dag van de week voor wekelijkse rapporten. Selecteer de numerieke dag van de maand voor maandelijkse rapporten.
-
-## [!UICONTROL Save Report] Sectie
-
-**[!UICONTROL When to Generate]:** Wanneer moet u het rapport genereren: *[!UICONTROL On Schedule]* of *[!UICONTROL Run Now]* . Geplande rapporten worden geleverd tegen 9.00 uur in de tijdzone van de account.
-
-**[!UICONTROL End Date]:** De vervaldatum van het rapport, die tot vier maanden kan zijn over. Voordat een rapport verloopt, ontvangen alle opgegeven e-mailontvangers zeven dagen en één dag vóór de vervaldatum een e-mailwaarschuwing. Om het rapport langer te houden, verander de vervaldatum in de rapportmontages.
-
->[!NOTE]
->
->U kunt [ een douanerapport op elk ogenblik ](report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
-
 >[!MORELIKETHIS]
 >
 >* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
 >* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
 >* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
 >* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
 >* [ stel een Rapport van de Douane in werking ](/help/dsp/reports/report-run-now.md)
 >* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
 >* [ Ongeveer de Doelen van het Rapport ](/help/dsp/reports/report-destinations/report-destination-about.md)
