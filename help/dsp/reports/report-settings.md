@@ -3,7 +3,7 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 9313b20b4bcdb001138f30d8fa82d2b22be19831
+source-git-commit: 4fb843e66edddd4585d4a9b142eb9a7750152d27
 workflow-type: tm+mt
 source-wordcount: '1436'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Instellingen voor aangepaste rapporten
 
-**[!UICONTROL Name]** De rapportnaam. De maximumlengte is 180 tekens.
+**[!UICONTROL Name]:** De rapportnaam. De maximumlengte is 180 tekens.
 
-**[!UICONTROL Report Type]** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]* of *[!UICONTROL Household Conversions]* .
+**[!UICONTROL Report Type]:** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]* of *[!UICONTROL Household Conversions]* .
 
-## [!UICONTROL Report range] Sectie
+## [!UICONTROL Report Range] Sectie
 
 Deze sectie bepaalt de gegevens die in het rapport inbegrepen zijn. Aan opstellingsdata voor het rapportprogramma, zie &quot;[!UICONTROL Report run schedule]&quot;sectie.
 
@@ -32,7 +32,7 @@ Deze sectie bepaalt de gegevens die in het rapport inbegrepen zijn. Aan opstelli
 
 * **[!UICONTROL Custom Range]:** omvat gegevens tussen specifieke begin en einddata. Selecteer **[!UICONTROL Present]** als u gegevens tot en met de vorige dag wilt rapporteren.
 
-## [!UICONTROL Report run schedule] Sectie
+## [!UICONTROL Report Run schedule] Sectie
 
 Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan opstelling de data waarvoor om rapportgegevens te omvatten, zie &quot;[!UICONTROL Report range]&quot;sectie.
 
