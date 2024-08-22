@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: 20c2001ff66a75c64364450c0f0841cb8403d326
+source-git-commit: ec9bf9bb6e12255548d4d8c869b87a78226bbf1e
 workflow-type: tm+mt
-source-wordcount: '3849'
+source-wordcount: '3906'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 22 augustus 2024 | [!UICONTROL Packages] | U kunt de instellingen voor een of meer pakketten in de XLSX-indeling ([!DNL Microsoft Excel] spreadsheet) downloaden voor revisie. Het werkblad bevat een aparte tab met vluchtinformatie. Vervolgens kunt u wijzigingen aanbrengen om velden op beide tabbladen te selecteren en deze weer naar alle tabbladen tegelijk te uploaden. | Zie &quot;[ Overzicht en geef de Montages van het Pakket uit Gebruikend Spreadsheets ](/help/dsp/campaign-management/packages/package-qa.md).&quot; |
 | 14 augustus 2024 | [!UICONTROL Placements] | DSP wordt het aantal segmenten voor [!DNL Audiences by Oracle (BlueKai)] -segmenten niet meer vernieuwd. Deze zullen eind september zonsondergang hebben en alle tellingen zullen geleidelijk tot nul (0) afnemen. | — |
 | 30 juli 2024 | [!UICONTROL Placements] | Vanaf 14 augustus stopt DSP met het vernieuwen van segmentaantallen voor [!DNL Audiences by Oracle (BlueKai)] -segmenten, die eind september zonsondergang zullen ondergaan, en zullen alle tellingen geleidelijk tot nul (0) dalen. | — |
 | | [!UICONTROL Packages] | De pakketinstellingen bevatten nu een optie voor &quot;[!UICONTROL Automatically rollover remaining flight budget to next flight]&quot; wanneer de optie [!UICONTROL Activate Custom Flighting] is ingeschakeld. Wanneer de optie is ingeschakeld, wordt het resterende budget van de vorige vlucht automatisch toegevoegd aan de bestaande begroting voor de volgende vlucht. U kunt de kolom [!UICONTROL Rollover] niet handmatig bewerken wanneer de optie voor automatisch aanwijzen is geselecteerd.<br><br> in de [!UICONTROL Packages] mening en de [ Naam van het Pakket ] > [!UICONTROL Flights] mening, omvat de &quot;[!UICONTROL Interval Goal]&quot;kolom, die het huidige vluchtdoel toont, de het omvergooienbegroting. | Zie &quot;[ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md).&quot; |
