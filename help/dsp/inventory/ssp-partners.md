@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: e9001913f7b5a18ad625f32230199ee7209e1a64
+source-git-commit: 311200b84c4f2d037ecc9cc17ba49495bd523464
 workflow-type: tm+mt
-source-wordcount: '510'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL TripleLift] |  | [!DNL TubeMogul] of Adobe Advertising | — | Algemeen | USD | Oorspronkelijke weergave |
 | [!DNL TripleLift Display & Outstream] |  | [!DNL TubeMogul] of Adobe Advertising | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL Triton] |  | Adobe Advertising | PG-ondersteuning | Algemeen | USD | Audiodesktop en mobiel |
-| [!DNL Unruly] | [!DNL Nexxen] | Adobe Advertising | — | VS + EMEA | USD | Videodesktop, mobiel en CTV |
+| [!DNL Unruly] | [!DNL Nexxen] | Adobe Advertising | — | VS + EMEA | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL Yahoo] |  | [!DNL TubeMogul] of Adobe Advertising | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 
 >[!MORELIKETHIS]
