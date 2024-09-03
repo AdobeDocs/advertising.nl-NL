@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: 760d46182a61588748cfd5031168266ba53c9dcc
+source-git-commit: c4fa1ffa1dd21b2889ea18cb6a1a7cdec477bcfe
 workflow-type: tm+mt
-source-wordcount: '2425'
+source-wordcount: '2503'
 ht-degree: 0%
 
 ---
@@ -347,7 +347,9 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 >[!NOTE]
 >De signalen van het publiek zijn verschillend van [ campagne-niveau en ad groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
-**[!UICONTROL Add new asset group]:** Hiermee kunt u een andere elementgroep opgeven.
+**[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
+
+**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*}
 
 ## [!UICONTROL Conversion Goals]
 

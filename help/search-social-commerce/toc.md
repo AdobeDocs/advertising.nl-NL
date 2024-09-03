@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: bf7db19ab3ec8ea749e48b6a96c25a3c5cca5a71
+source-git-commit: 2c85ae5ff14349603ea38b2d478e4ab723800bea
 workflow-type: tm+mt
-source-wordcount: '1694'
+source-wordcount: '1729'
 ht-degree: 2%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 2%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [Adobe [!DNL Analytics for Advertising] (link)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
-      + [Integratie met Adobe Audience Manager (link)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
-   + [Ondersteuning voor de privacy van consumenten (link)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
-   + [Beleid en richtsnoeren (link)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
+      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) {target="_blank"}
+      + [ Integratie met Adobe Audience Manager (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html) {target="_blank"}
+   + [ Steun voor de privacy van de consument (verbinding) ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) {target="_blank"}
+   + [ Beleid en richtlijnen (verbinding) ](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html) {target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -40,7 +40,7 @@ ht-degree: 2%
       + [Standaard- en aangepaste weergaven beheren](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md)
       + Ad-hocweergave-instellingen {#ad-hoc-settings}
          + [De kolomset bewerken in het menu van de kolomkop](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md)
-         + [De kolomset bewerken en sorteren vanuit de [!UICONTROL Custom Columns] pictogram](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md)
+         + [De kolomset bewerken en sorteren met het pictogram [!UICONTROL Custom Columns]](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md)
          + [Een kolomconfiguratie in campagneweergaven vergrendelen en ontgrendelen](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-lock-unlock.md)
          + [Een kolom opnieuw sorteren](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md)
          + [Gegevens filteren op datumbereik](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md)
@@ -50,7 +50,7 @@ ht-degree: 2%
             + [Gegevensfilters toepassen vanaf de werkbalk](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
             + [Kolomfilters bewerken](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)
             + [Een kolomfilter verwijderen](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-remove.md)
-   + Aangepaste metriek beheren {#custom-metrics}
+   + Aangepaste metrische gegevens beheren {#custom-metrics}
       + [Informatie over aangepaste metriek](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md)
       + [Een aangepaste metrische waarde maken](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md)
       + [Een aangepaste metrische waarde bewerken](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md)
@@ -63,37 +63,37 @@ ht-degree: 2%
       + [Gegevens vernieuwen in beheerweergaven](/help/search-social-commerce/common-tasks/navigation-editing-selection/refresh.md)
       + Gegevens downloaden in beheerweergaven {#download-data-views}
          + [Gegevens downloaden vanuit een campagnebeheerweergave](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
-         + [Een rapport met prestatiegegevens of een bulkbestand verwijderen uit het dialoogvenster [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+         + [Een rapport met prestatiegegevens of een bulksbladbestand verwijderen uit het menu [!UICONTROL Downloads]](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + Tekstspatiëring {#tracking}
    + [Over bijhouden](/help/search-social-commerce/tracking/tracking-about.md)
-   + Klikken bijhouden {#click-tracking}
+   + Klik op Tekstspatiëring {#click-tracking}
       + [Op cookie gebaseerde klik bijhouden instellen](/help/search-social-commerce/tracking/click-tracking-set-up.md)
       + [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
       + Componenten van URL&#39;s die klikken bijhouden {#click-tracking-components}
          + Standaardindelingen voor het bijhouden van klikken op URL&#39;s {#click-tracking-formats}
             + [Over URL-indelingen die u kunt bijhouden klikken](/help/search-social-commerce/tracking/formats-click-tracking-about.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Baidu]](/help/search-social-commerce/tracking/formats-click-tracking-baidu.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Display Network]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-display-network.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
-            + [Opmaak voor het bijhouden van klikken voor [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Baidu]](/help/search-social-commerce/tracking/formats-click-tracking-baidu.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Display Network]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-display-network.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
+            + [Opmaak voor het bijhouden van klikken voor  [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [Cookies Adoben Advertising (koppeling)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
+      + [ de koekjes van de Adobe Advertising (verbinding) ](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html) {target="_blank"}
       + [De trackingparameter voor AMO-id&#39;s (s_kwcid)](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
       + Adobe Advertising conversie bijhouden {#advertising-conversion-tracking}
          + [Tags voor conversie naar Adobe Advertising bijhouden](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
-         + [Indeling van JavaScript-tags voor conversie bijhouden versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
-         + [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
+         + [Formaat voor trackingtags voor JavaScript-conversie versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
+         + [Formaat voor trackingtags voor JavaScript-conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
          + [Opmaak van trackingtags voor afbeeldingsconversie](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
-         + [De JavaScript-conversietoewijzingstag Adobe Advertising](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
+         + [De Adobe Advertising JavaScript-omzettingstoewijzingstag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
          + [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
       + [Adobe Analytics-conversie bijhouden](/help/search-social-commerce/tracking/conversion-tracking-analytics.md)
-      + Conversies die door adverteerders worden bijgehouden met feeds{#conversion-feeds}
-         + Voeding met EF-id&#39;s {#ef-ids}
+      + Conversies die door adverteerders worden bijgehouden met feeds {#conversion-feeds}
+         + feeds met EF-id&#39;s {#ef-ids}
             + [Conversie bijhouden met een EF-id-feed](/help/search-social-commerce/tracking/feed-efid.md)
             + [Gegevensvereisten voor gegevensfeeds die gebruikmaken van EF-id&#39;s](/help/search-social-commerce/tracking/feed-ef-id-data-requirements.md)
          + feeds met transactie-id&#39;s {#transaction-ids}
@@ -106,18 +106,18 @@ ht-degree: 2%
       + [Informatie over campagnebeheer in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
       + [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
       + [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
-      + [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
-      + [[!DNL Microsoft Advertising] conversiegegevens in Zoeken, Sociaal, &amp; Handel](/help/search-social-commerce/campaign-management/introduction/microsoft-conversion-data.md)
+      + [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
+      + [[!DNL Microsoft Advertising] conversiegegevens in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/microsoft-conversion-data.md)
    + Accounts instellen {#campaign-management-accounts}
-      + Nettoaccounts toevoegen {#ad-network-accounts}
+      + Netwerkaccounts toevoegen {#ad-network-accounts}
          + [Informatie over netwerkaccounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
          + [Netwerkaccounts beheren](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
-         + [De trackingcode van de AMO-id bijwerken voor een [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
+         + [Werk de het volgen van identiteitskaart AMO code voor a [!DNL Google Ads]  rekening bij](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
       + [Zakelijke accounts beheren](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
-   + [Implementeren [!DNL Naver] accounts met alleen traceren](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
+   + [Voer  [!DNL Naver]  het volgen-slechts rekeningen uit](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md)
    + Campagnes beheren {#management}
       + [Opties voor het beheren van en netwerkcampagnes](/help/search-social-commerce/campaign-management/campaigns/campaign-management-options.md)
-      + Gegevens beheren binnen de [!UICONTROL Campaigns] > [!UICONTROL Campaigns] views {#campaigns}
+      + Gegevens beheren in de [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergaven {#campaigns}
          + [Campagne-gegevens bulksgewijs maken en bewerken met kopiëren en plakken](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)
          + Campagnes {#campaigns}
             + [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
@@ -127,38 +127,38 @@ ht-degree: 2%
                + [[!DNL Microsoft Advertising] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
                + [[!DNL Yahoo! Japan Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yahoo-japan.md)
                + [[!DNL Yandex] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-yandex.md)
-         + Toegevoegde groepen {#ad-groups}
+         + Groepen toevoegen {#ad-groups}
             + [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
-            + Groepsinstellingen toevoegen via ad-hocnetwerk {#ad-group-settings-by-network}
-               + [[!DNL Baidu] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
-               + [[!DNL Google Ads] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
-               + [[!DNL Microsoft Advertising] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
-               + [[!DNL Yahoo! Japan Ads] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
-               + [[!DNL Yandex] groepsinstellingen toevoegen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
+            + Groepsinstellingen toevoegen via ad-netwerk {#ad-group-settings-by-network}
+               + [[!DNL Baidu] ad-groepinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-baidu.md)
+               + [[!DNL Google Ads] ad-groepinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-google.md)
+               + [[!DNL Microsoft Advertising] ad-groepinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-microsoft.md)
+               + [[!DNL Yahoo! Japan Ads] ad-groepinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yahoo-japan.md)
+               + [[!DNL Yandex] ad-groepinstellingen](/help/search-social-commerce/campaign-management/campaigns/ad-group-settings-yandex.md)
          + Trefwoorden {#keywords}
             + [Trefwoorden](/help/search-social-commerce/campaign-management/campaigns/keyword-about.md)
             + [Biedeerbare trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
             + [Negatieve trefwoorden maken](/help/search-social-commerce/campaign-management/campaigns/keyword-negative-create.md)
             + [De status van trefwoorden en negatieve trefwoorden wijzigen](/help/search-social-commerce/campaign-management/campaigns/keyword-status-edit.md)
-            + Trefwoordinstellingen via een netwerk {#keyword-settings-by-network}
+            + Trefwoordinstellingen via ad-netwerk {#keyword-settings-by-network}
                + [[!DNL Baidu] trefwoordinstellingen](/help/search-social-commerce/campaign-management/campaigns/keyword-settings-baidu.md)
                + [[!DNL Google Ads] trefwoordinstellingen](/help/search-social-commerce/campaign-management/campaigns/keyword-settings-google.md)
                + [[!DNL Microsoft Advertising] trefwoordinstellingen](/help/search-social-commerce/campaign-management/campaigns/keyword-settings-microsoft.md)
                + [[!DNL Yahoo! Japan Ads] trefwoordinstellingen](/help/search-social-commerce/campaign-management/campaigns/keyword-settings-yahoo-japan.md)
                + [[!DNL Yandex] trefwoordinstellingen](/help/search-social-commerce/campaign-management/campaigns/keyword-settings-yandex.md)
-         + Adds {#ads}
+         + Advertenties {#ads}
             + [Over advertenties](/help/search-social-commerce/campaign-management/campaigns/ad-about.md)
             + [Advertenties beheren](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md)
-            + Instellingen toevoegen via een ad-hocnetwerk {#ad-settings-by-network}
+            + Instellingen toevoegen via ad-netwerk {#ad-settings-by-network}
                + [[!DNL Baidu] tekst en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-baidu-text.md)
-               + [[!DNL Google Ads] alleen-aanroepbare advertentie-instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-call.md)
-               + [[!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-dsa.md)
-               + [[!DNL Google Ads] responsieve zoekopdrachten en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-rsa.md)
-               + [[!DNL Microsoft Advertising] uitgebreide dynamische zoekopdrachten en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-dsa.md)
+               + [[!DNL Google Ads] alleen-aanroepen en ad-instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-call.md)
+               + [[!DNL Google Ads] uitgebreide dynamische zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-dsa.md)
+               + [[!DNL Google Ads] responsieve zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-rsa.md)
+               + [[!DNL Microsoft Advertising] uitgebreide dynamische zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-dsa.md)
                + [[!DNL Microsoft Advertising] multimedia en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-multimedia.md)
                + [[!DNL Microsoft Advertising] product en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-product.md)
                + [[!DNL Microsoft Advertising] responsieve (publiek) en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-responsive.md)
-               + [[!DNL Microsoft Advertising] responsieve zoekopdrachten en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-rsa.md)
+               + [[!DNL Microsoft Advertising] responsieve zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-rsa.md)
                + [[!DNL Yandex] tekst en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-yandex-text.md)
          + Productgroepen {#product-groups}
             + [Productgroepen](/help/search-social-commerce/campaign-management/campaigns/product-group-about.md)
@@ -172,23 +172,23 @@ ht-degree: 2%
             + [Negatieve plaatsingen maken](/help/search-social-commerce/campaign-management/campaigns/placement-negative-create.md)
             + [De status van stages en negatieve stages wijzigen](/help/search-social-commerce/campaign-management/campaigns/placement-status-edit.md)
          + Automatische doelen {#auto-targets}
-            + [Info [!DNL Google Ads] dynamische zoekdoelen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-about.md)
-            + [Beheren [!DNL Google Ads] dynamische zoekdoelen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-manage.md)
-         + Doelstellingen voor publiek en publiek {#audiences-and-targets}
+            + [Ongeveer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-about.md)
+            + [Beheer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-manage.md)
+         + Soorten publiek en doelgroepen {#audiences-and-targets}
             + Soorten publiek {#audiences}
-               + [Informatie over publiek](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
-               + [Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)
-               + [Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
+               + [ Ongeveer publiek ](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
+               + [Creeer  [!DNL Google Ads]  publiek van de klantengelijke van  [!DNL Adobe]  publiek](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)
+               + [Creeer a  [!DNL Google Ads]  het publiek van de klantengelijke van een e-maillijst van Adobe Campaign](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
                + [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](/help/search-social-commerce/campaign-management/campaigns/audience-from-customer-data-list.md)
                + [Dynamisch publiek voor opnieuw op de markt brengen beheren](/help/search-social-commerce/campaign-management/campaigns/audience-dynamic-remarketing-manage.md)
                + Doelstellingen en uitsluitingen van het publiek {#audience-targets}
                   + [Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
                   + [De uitsluiting van het publiek voor campagnes en ad-groepen beheren](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
          + Extensies toevoegen {#ad-extensions}
-            + [!DNL Google Ads] callout-extensies {#callouts}
-               + [Info [!DNL Google Ads] callout-extensies](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
-               + [Beheren [!DNL Google Ads] callout-extensies](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
-               + [Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-associate.md)
+            + [!DNL Google Ads] callout extensions {#callouts}
+               + [Ongeveer  [!DNL Google Ads]  callout uitbreidingen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
+               + [Beheer  [!DNL Google Ads]  callout uitbreidingen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
+               + [Koppel  [!DNL Google Ads]  gedeelde callout uitbreidingen met campagnes of ad groepen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-associate.md)
             + Sitelink-extensies {#sitelinks}
                + [Extensies voor sitelink](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-about.md)
                + [Gedeelde sitelinks beheren](/help/search-social-commerce/campaign-management/campaigns/sitelink-extension-manage.md)
@@ -205,17 +205,17 @@ ht-degree: 2%
          + [Fouten in werkbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-errors.md)
          + [Geüploade bulksbladen en foutbestanden verwijderen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-delete.md)
          + [Een bulkbladtaak onderbreken](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-stop-job.md)
-         + Vereiste/Opgenomen gegevens in bulksbladen{#bulksheet-data-formats}
+         + Vereiste/Opgenomen gegevens in bulksbladen {#bulksheet-data-formats}
             + [Ondersteunde bestandsindelingen voor bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-file-formats.md)
             + [Bewerkingen die u kunt uitvoeren in bulksbladen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md)
-            + [Vereiste gegevens voor het bulkwerkblad [!DNL Baidu] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md)
-            + [Vereiste gegevens voor het bulkwerkblad [!DNL Google Ads] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
-            + [Vereiste gegevens voor het bulkwerkblad [!DNL Microsoft Advertising] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
-            + [Vereiste gegevens voor het bulkwerkblad [!DNL Naver] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
-            + [Werkbladgegevens voor [!DNL Yahoo! Display Network] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md)
-            + [Werkbladgegevens voor [!DNL Yahoo! Japan] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md)
-            + [Vereiste gegevens voor het bulkwerkblad [!DNL Yandex] rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
-      + Campagnegegevens automatiseren met voorraadfeeds {#inventory-feeds}
+            + [Vereiste bulkbladgegevens voor  [!DNL Baidu]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md)
+            + [Vereiste bulkbladgegevens voor  [!DNL Google Ads]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
+            + [Vereiste bulkbladgegevens voor  [!DNL Microsoft Advertising]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
+            + [Vereiste bulkbladgegevens voor  [!DNL Naver]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
+            + [Bulksheet gegevens voor  [!DNL Yahoo! Display Network]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md)
+            + [Bulksheet gegevens voor  [!DNL Yahoo! Japan]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md)
+            + [Vereiste bulkbladgegevens voor  [!DNL Yandex]  rekeningen](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md)
+      + Campagnegegevens automatiseren met behulp van voorraadfeeds {#inventory-feeds}
          + [Informatie over het automatiseren en beheren van voorraden](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
          + [Wanneer worden accountcomponenten gemaakt of verwijderd door voorraadfeeds?](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md)
          + [Instellingen voor voedergegevens configureren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md)
@@ -227,17 +227,18 @@ ht-degree: 2%
             + [[!DNL Google Ads] winkelen en sjablooninstellingen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
             + [[!DNL Microsoft Advertising] winkelen en sjablooninstellingen](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
          + [Doorvoergegevens doorgeven via sjablonen](/help/search-social-commerce/campaign-management/inventory-feeds/feed-data-propagate.md)
-         + Werken met campagnegegevens die zijn gemaakt van feeds {#propagated-data}
+         + Werken met campagnegegevens die zijn gemaakt op basis van feeds {#propagated-data}
             + [Gegevens weergeven die zijn gegenereerd uit feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-view.md)
             + [Uit feeds gegenereerde gegevens bewerken](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-edit.md)
             + [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-post.md)
             + [Een publicatietaak voor de gegevens van de inventarisfeed stoppen](/help/search-social-commerce/campaign-management/inventory-feeds/stop-job.md)
             + [Statussen van gegevens die zijn gegenereerd uit feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-status.md)
-      + Campagnes en advertenties implementeren met unieke workflows{#special-campaign-types}
-         + [Implementeren [!DNL Google Ads] dynamische zoekopdrachten](/help/search-social-commerce/campaign-management/special-campaign-types/google-dynamic-search-ads.md)
-         + [Implementeren [!DNL Google Ads] maximale prestatiecampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-performance-max-campaigns.md)
-         + [Implementeren [!DNL Google Ads] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/google-shopping-campaigns.md)
-         + [Implementeren [!DNL Microsoft Advertising] winkelcampagnes](/help/search-social-commerce/campaign-management/special-campaign-types/microsoft-shopping-campaigns.md)
+      + Het uitvoeren van campagnes, advertenties, en omzettingen met unieke werkschema&#39;s {#special-workflows}
+         + [Voer  [!DNL Google Ads]  verbeterde omzettingen voor lood uit](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
+         + [Voer  [!DNL Google Ads]  dynamische onderzoeksadvertenties uit](/help/search-social-commerce/campaign-management/special-workflows/google-dynamic-search-ads.md)
+         + [Voer  [!DNL Google Ads]  prestaties max campagnes uit](/help/search-social-commerce/campaign-management/special-workflows/google-performance-max-campaigns.md)
+         + [Voer  [!DNL Google Ads]  het winkelen campagnes uit](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)
+         + [Voer  [!DNL Microsoft Advertising]  het winkelen campagnes uit](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)
       + [Netwerkgegevens handmatig synchroniseren](/help/search-social-commerce/campaign-management/campaigns/sync-network.md)
    + [Campagnes toewijzen aan een portfolio](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md)
    + [Campagnes verwijderen uit een portfolio](/help/search-social-commerce/campaign-management/campaign-remove-from-portfolio.md)
@@ -256,20 +257,20 @@ ht-degree: 2%
       + [De openingspagina&#39;s van de website optimaliseren](/help/search-social-commerce/campaign-management/best-practices/best-practices-optimize.md)
    + [Maximum aantal objecten per netwerkaccount](/help/search-social-commerce/campaign-management/max-objects-per-ad-network.md)
    + [Veelgestelde vragen over campagnebeheer](/help/search-social-commerce/campaign-management/faqs-campaigns.md)
-+ Inzichten en verslagen {#insights-reports}
++ Inzichten en rapporten {#insights-reports}
    + Advertising Insights {#insights}
       + [Info [!UICONTROL Advertising Insights]](/help/search-social-commerce/advertising-insights/insight-about.md)
-      + [Een [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-generate.md)
-      + [Een [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-view-save.md)
-      + [Een [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-delete.md)
+      + [Een  [!DNL Advertising Insight] genereren](/help/search-social-commerce/advertising-insights/insight-generate.md)
+      + [Een  [!DNL Advertising Insight] weergeven of opslaan](/help/search-social-commerce/advertising-insights/insight-view-save.md)
+      + [Een  [!DNL Advertising Insight] verwijderen](/help/search-social-commerce/advertising-insights/insight-delete.md)
    + Rapporten {#reports}
       + [Informatie over rapporten](/help/search-social-commerce/reports/report-about.md)
       + [De eerste instellingstaken voor rapporten](/help/search-social-commerce/reports/initial-setup.md)
       + [De gegevens die voor rapporten worden gebruikt](/help/search-social-commerce/reports/data-used-for-reports.md)
       + Rapporten beheren {#report-management}
-         + Basis- en geavanceerde rapporten {#basic-advanced-reports}
+         + Standaard en geavanceerd {#basic-advanced-reports}
             + [Basisrapporten en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
-            + Standaardrapportformaten {#basic-report-formats}
+            + Standaardrapportindelingen {#basic-report-formats}
                + [De [!UICONTROL Ad Group Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-group-report.md)
                + [De [!UICONTROL Ad Variation Report]](/help/search-social-commerce/reports/management/basic-advanced/ad-variation-report.md)
                + [De [!UICONTROL Campaign Report]](/help/search-social-commerce/reports/management/basic-advanced/campaign-report.md)
@@ -283,7 +284,7 @@ ht-degree: 2%
                + [De [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/product-group-report.md)
                + [De [!UICONTROL Search Engine Account Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-account-report.md)
                + [De [!UICONTROL Search Engine Report]](/help/search-social-commerce/reports/management/basic-advanced/search-engine-report.md)
-            + Geavanceerde rapportformaten {#advanced-report-formats}
+            + Geavanceerde rapportindelingen {#advanced-report-formats}
                + [De [!UICONTROL Domain Referral Report]](/help/search-social-commerce/reports/management/basic-advanced/domain-referral-report.md)
                + [De [!UICONTROL Geo Distribution Report]](/help/search-social-commerce/reports/management/basic-advanced/geo-distribution-report.md)
                + [De [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md)
@@ -309,6 +310,7 @@ ht-degree: 2%
                + [De [!UICONTROL Bing Ads Geo Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-geo-report.md)
                + [De [!UICONTROL Bing Ads Search Query Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-search-query-report.md)
                + [De [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
+               + [De [!UICONTROL Google Asset Group Performance Report]](/help/search-social-commerce/reports/management/specialty/google-asset-group-performance-report.md)
                + [De [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
                + [De [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
                + [De [!UICONTROL MSA Ad Extension by Ad Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-detail-report.md)
@@ -321,7 +323,7 @@ ht-degree: 2%
             + [Kolommen rapporteren voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
          + Modelnauwkeurigheidsrapporten {#model-accuracy-reports}
             + [Informatie over modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
-            + Modelformulieren voor nauwkeurigheidsrapporten {#assist-report-formats}
+            + Indelingen voor modelnauwkeurigheidsrapporten {#assist-report-formats}
                + [De [!UICONTROL Forecast Accuracy Report]](/help/search-social-commerce/reports/management/model-accuracy/forecast-accuracy-report.md)
                + [De [!UICONTROL Forecast Accuracy (Actuals) Report]](/help/search-social-commerce/reports/management/model-accuracy/forecast-accuracy-actuals-report.md)
             + [Een rapport over de modelnauwkeurigheid genereren](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-generate.md)
@@ -331,7 +333,7 @@ ht-degree: 2%
          + [Rapporten verwijderen](/help/search-social-commerce/reports/management/report-delete.md)
          + [Een rapport weergeven of opslaan](/help/search-social-commerce/reports/management/report-view-save.md)
       + Rapporten automatiseren {#report-automation}
-         + Rapportsjablonen {#report-templates}
+         + Sjablonen rapporteren {#report-templates}
             + [Over rapportsjablonen](/help/search-social-commerce/reports/automation/templates/template-about.md)
             + [Een rapportsjabloon weergeven](/help/search-social-commerce/reports/automation/templates/template-view.md)
             + [Een rapportsjabloon maken](/help/search-social-commerce/reports/automation/templates/template-create.md)
@@ -339,7 +341,7 @@ ht-degree: 2%
             + [Een rapportsjabloon verwijderen](/help/search-social-commerce/reports/automation/templates/template-delete.md)
          + Werkbladfeeds {#spreadsheet-feeds}
             + [Info over werkbladrapportfeeds](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md)
-            + [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-create-excel-template.md)
+            + [Creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-create-excel-template.md)
             + [Een feed voor een spreadsheetrapport maken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-create.md)
             + [Invoerinstellingen voor spreadsheetrapporten bewerken](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md)
             + [Werkbladrapportfeeds handmatig vernieuwen](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-refresh.md)
@@ -355,8 +357,8 @@ ht-degree: 2%
       + [Een melding markeren als gelezen of ongelezen](/help/search-social-commerce/notifications/notification-mark-read-unread.md)
       + [Een melding verwijderen](/help/search-social-commerce/notifications/notification-delete.md)
       + [Uw meldingsinstellingen bewerken](/help/search-social-commerce/notifications/notification-edit.md)
-      + [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notifications-push-enable-disable.md)
-      + [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](/help/search-social-commerce/notifications/notification-app-install-uninstall.md)
+      + [Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](/help/search-social-commerce/notifications/notifications-push-enable-disable.md)
+      + [De webtoepassing [!UICONTROL Notification Center] installeren en verwijderen](/help/search-social-commerce/notifications/notification-app-install-uninstall.md)
    + Aangepaste waarschuwingen {#alerts}
       + [Aangepaste waarschuwingen](/help/search-social-commerce/alerts/alert-about.md)
       + Waarschuwingssjablonen {#alert-templates}
@@ -377,38 +379,41 @@ ht-degree: 2%
       + [Aanbevolen procedures voor het gebruik van aanbevelingen voor uitgevers met portfolio&#39;s](/help/search-social-commerce/recommendations/recommendation-best-practices.md)
 + Gereedschappen {#tools}
    + [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
-   + Gereedschappen voor het maken en decoderen van trackingcodes{#tracking}
+   + Gereedschappen voor het maken en decoderen van trackingtags {#tracking}
       + [Over de gereedschappen voor het maken en decoderen van trackingcodes](/help/search-social-commerce/tools/tracking-tools-about.md)
       + [Een URL voor het bijhouden van klikken genereren](/help/search-social-commerce/tools/click-tracking-url-generate.md)
       + [Een URL voor het bijhouden van klikken decoderen](/help/search-social-commerce/tools/click-tracking-url-decode.md)
       + [Een conversietag voor Adoben Advertising genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
    + Conversiegegevens uploaden naar advertentienetwerken {#upload-ad-networks}
-      + [Conversiemetriek uploaden naar [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
+      + [Metrische gegevens voor het uploaden van zoekopdrachten, sociale gegevens en door Commerce bijgehouden conversies naar  [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
       + [Uploaden van doelstellingen naar en netwerken inschakelen](/help/search-social-commerce/tools/objective-upload-to-networks.md)
-   + Metrische gegevens uploaden voor [!DNL Naver] accounts met alleen traceren {#generic-tracking}
-      + [Verkeer en conversie uploaden voor [!DNL Naver] accounts met alleen traceren](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md)
-      + [Metrische gegevensvereisten voor [!DNL Naver] accounts met alleen traceren](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
+   + Metrische gegevens uploaden voor [!DNL Naver] alleen-bijhouden-accounts {#generic-tracking}
+      + [Upload verkeer en omzettingsmetriek voor  [!DNL Naver]  het volgen-slechts rekeningen](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md)
+      + [Metrische gegevensvereisten voor  [!DNL Naver]  het volgen-slechts rekeningen](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
    + [Aanvullende inventarissynchronisatie inschakelen](/help/search-social-commerce/tools/sync-inventory.md)
-   + [Repliceren [!DNL Google Ads] campagnes in [!DNL Microsoft Advertising]](/help/search-social-commerce/tools/google-campaign-replication-in-microsoft.md)
-+ Administratie {#admin}
+   + [Herhaal  [!DNL Google Ads]  campagnes in  [!DNL Microsoft Advertising]](/help/search-social-commerce/tools/google-campaign-replication-in-microsoft.md)
++ Beheer {#admin}
    + [Informatie over rollen](/help/search-social-commerce/admin/role-about.md)
    + [Referenties beheren voor accounts van ad-netwerkbeheerders](/help/search-social-commerce/admin/manager-accounts.md)
-   + [Sync [!DNL Adobe] publiek](/help/search-social-commerce/admin/sync-adobe-audiences.md)
+   + [Synchroniseer  [!DNL Adobe]  publiek](/help/search-social-commerce/admin/sync-adobe-audiences.md)
    + Gegevensbronnen configureren {#data-sources}
-      + [Over synchroniseren [!DNL Google Analytics] conversiemetingen](/help/search-social-commerce/admin/data-sources/data-source-about.md)
-      + [Vereisten voor het configureren van een [!DNL Google Analytics] gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-prerequisites.md)
-      + [Een [!DNL Google Analytics] weergeven als gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-configure.md)
-      + [Een [!DNL Google Analytics] gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-edit.md)
+      + [Ongeveer het synchroniseren  [!DNL Google Analytics]  omzettingsmetriek](/help/search-social-commerce/admin/data-sources/data-source-about.md)
+      + [Vereisten voor het vormen a [!DNL Google Analytics]  gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-prerequisites.md)
+      + [Vorm a [!DNL Google Analytics]  mening als gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-configure.md)
+      + [Bewerk a [!DNL Google Analytics]  gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-edit.md)
       + [Synchronisatie van een gegevensbron pauzeren](/help/search-social-commerce/admin/data-sources/data-source-pause.md)
-      + [Een [!DNL Google Analytics] gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md)
+      + [Reauthenticate a [!DNL Google Analytics]  gegevensbron](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md)
       + [[!DNL Google Analytics] gegevensbroninstellingen](/help/search-social-commerce/admin/data-sources/data-source-settings.md)
-      + [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](/help/search-social-commerce/admin/data-sources/data-source-ga-metrics.md)
-   + De conversiemetriek van een adverteerder beheren{#conversion-metrics}
+      + [Bijlage - Beschikbare  [!DNL Google Analytics]  metriek](/help/search-social-commerce/admin/data-sources/data-source-ga-metrics.md)
+   + De omzettingsmetriek van een adverteerder beheren {#conversion-metrics}
       + [Informatie over het beheren van conversiegegevens van adverteerders](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
       + [De conversiemetriek voor een adverteerder bekijken](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
       + [De conversiemetriek wijzigen die beschikbaar is in beheerweergaven en -rapporten](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)
       + [De weergavenaam wijzigen voor een metrische omzetting](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md)
-      + Conversietags beheren {#conversion-tags}
-         + [Een conversietag maken voor [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
+      + Netwerkspecifieke conversietags en conversieacties beheren {#network-conversions}
+         + [Een conversietag maken voor  [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
+         + Conversiehandelingen beheren {#conversion-actions}
+            + [Creeer een omzettingsactie voor a [!DNL Google Ads]  verbeterde omzetting voor lood](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
+            + [Offline conversiegegevens uploaden voor verbeterde conversies](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
 + [Hulp vragen](get-help.md)
 + [Verklarende woordenlijst](glossary.md)
