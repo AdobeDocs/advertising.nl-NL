@@ -3,9 +3,9 @@ title: Een conversietag maken voor  [!DNL Google Ads]
 description: Leer hoe te om a  [!DNL Google Ads]  omzettingsmarkering tot stand te brengen.
 feature: Conversions
 exl-id: 214611f0-bd38-499e-a7de-3a5878995fb5
-source-git-commit: 04330e26dbad6efe76dfcbe4662b062511ae14f6
+source-git-commit: 2c20d2138ee797b6ed2f27d9baa9eda7d413da8d
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ U kunt conversietags maken voor nieuwe conversies die moeten worden bijgehouden 
 
 Als u conversietags voor bestaande conversies wilt genereren, gebruikt u de editor van het advertentienetwerk.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** , dat wordt geopend op de tab **[!UICONTROL Summary]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
@@ -42,7 +42,7 @@ Nadat u de tags aan uw website hebt toegevoegd en deze hebt geactiveerd, worden 
 
 **[!UICONTROL Select an Account]:** De toepasselijke Google Ads-account.
 
-**[!UICONTROL Type of Conversion]:** Het type conversie naar track: *[!UICONTROL Click on a webpage element]* , *[!UICONTROL Calls to a phone number on your website]* of *[!UICONTROL Clicks to your number on your mobile website]* .
+**[!UICONTROL Type of Conversion]:** Het type conversie naar track: *[!UICONTROL Click on a webpage element]* , *[!UICONTROL Calls to a phone number on your website]* of *[!UICONTROL Clicks to your number on your mobile website]* . **Nota:** *[!UICONTROL Import conversion]* wordt gebruikt voor een verschillend doel; zie &quot;[ een omzettingsactie voor a  [!DNL Google Ads]  verbeterde omzetting voor lood ](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) creëren.&quot;
 
 **[!UICONTROL Conversion Name]:** Een unieke naam voor de metrische conversie.
 
@@ -68,4 +68,5 @@ Nadat u de tags aan uw website hebt toegevoegd en deze hebt geactiveerd, worden 
 
 >[!MORELIKETHIS]
 >
+>* [ upload off-line omzettingsgegevens voor verbeterde omzettingen ](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
 >* [[!DNL Google Ads]  omzettingsgegevens in Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)

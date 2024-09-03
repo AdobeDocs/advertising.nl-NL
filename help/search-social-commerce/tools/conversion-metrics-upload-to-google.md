@@ -1,37 +1,37 @@
 ---
-title: Conversiemetriek uploaden naar [!DNL Google Ads]
-description: Leer hoe u de conversiemetriek Zoeken, Sociaal en Handel uploadt naar [!DNL Google Ads].
+title: Metrische gegevens voor het uploaden van zoekopdrachten, sociale gegevens en door Commerce bijgehouden conversies naar  [!DNL Google Ads]
+description: Leer hoe u de conversiemetriek Zoeken, Sociaal en Commerce uploadt naar  [!DNL Google Ads] .
 exl-id: 976792ae-135c-4790-82cf-9503edb93fb1
 feature: Search Tools
-source-git-commit: e8eabf7e4aa7c9201cd8198aae32d325b2858f2b
+source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
 
-# Conversiemetriek uploaden naar [!DNL Google Ads]
+# Metrische gegevens voor het uploaden van zoekopdrachten, sociale gegevens en door Commerce bijgehouden conversies naar [!DNL Google Ads]
 
-*Adverteerders met [!DNL Google Ads] Alleen accounts*
+*Advertisers met [!DNL Google Ads] slechts rekeningen en Adobe Advertising omzetcontrole*
 
-Zoeken, sociale zaken en handel kunnen optioneel worden geüpload naar [!DNL Google Ads] alle omzettingsmetriek het volgt voor [!DNL Google Ads] campagnes die de dienst van het de converteren van de Adobe Advertising volgen gebruiken. Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u uw Adobe omzettingen voor hybride optimalisering wilt gebruiken, zie &quot;[Uploaden van doelstellingen naar en netwerken inschakelen](objective-upload-to-networks.md).&quot;
+Zoeken, sociale media en Commerce kunnen optioneel alle conversiemetriek die erin wordt bijgehouden uploaden naar [!DNL Google Ads] -campagnes die gebruikmaken van de service voor het bijhouden van Adoben Advertising conversie. [!DNL Google Ads] Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u uw Adobe omzettingen voor hybride optimalisering wilt gebruiken, zie &quot;[ het uploaden van doelstellingen aan en netwerken ](objective-upload-to-networks.md) toelaten.&quot;
 
-Dagelijkse uploads inclusief bijgehouden `gclid` waarde, de omzettingswaarde die gebruikend het adverteerderniveau attributiemodel wordt bepaald, en timestamp. Als het attributiemodel wordt bijgewerkt, dan gebruikt volgende uploadt het nieuwe model, maar het verleden gegevens wordt niet bijgewerkt om het nieuwe model te gebruiken.
+Dagelijkse uploads omvatten bijgehouden `gclid` waarde, de omzettingswaarde die gebruikend het adverteerder-vlakke attributiemodel wordt bepaald, en timestamp. Als het attributiemodel wordt bijgewerkt, dan gebruikt volgende uploadt het nieuwe model, maar het verleden gegevens wordt niet bijgewerkt om het nieuwe model te gebruiken.
 
 >[!NOTE]
 >
 >De uploads omvatten geen omzettingsmetriek die aan Adobe Advertising van voederdossiers wordt geupload.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]** .
 
-1. Schakel het selectievakje in naast **[!UICONTROL Upload Conversions to Google Ads]**.
+1. Schakel het selectievakje naast **[!UICONTROL Upload Conversions to Google Ads]** in.
 
-1. (Adverteerders die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u toestemming van EER en VK gebruikers hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, selecteer dan het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+1. (Adverteerders die zaken doen in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u toestemming van gebruikers in de EER en het VK hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, selecteer dan het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. (Als uw conversies worden bijgehouden op het niveau van een beheerdersaccount) [Referenties toevoegen voor uw beheerdersaccount](/help/search-social-commerce/admin/manager-accounts.md) om **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]**.
+1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [ voeg geloofsbrieven voor uw managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
 
 >[!MORELIKETHIS]
 >
->* [Uploaden van doelstellingen naar en netwerken inschakelen](objective-upload-to-networks.md)
+>* [ laat het uploaden van doelstellingen aan toe en netwerken ](objective-upload-to-networks.md)
