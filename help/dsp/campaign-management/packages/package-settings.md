@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: f7332ae243daed3fcc45b69a8d71fff74d7caaeb
+source-git-commit: c1967636a762379f1daafb52cfe57dd0122b0748
 workflow-type: tm+mt
-source-wordcount: '1060'
+source-wordcount: '1088'
 ht-degree: 0%
 
 ---
@@ -54,6 +54,9 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 **[!UICONTROL Gross Budget]:** (Pakketten met pakketniveau het passen en dynamisch margebeheer slechts) het bruto begrotingsmaximum voor de duur van het pakket.
 
 **[!UICONTROL Optimization Goal]:** (Pakketten met pakket-vlakke het verpakken slechts) het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel bij [ de Doelstellingen van de Optimalisering en hoe te om hen ](/help/dsp/optimization/optimization-goals.md) te gebruiken.
+
+
+**[!UICONTROL Link PG Placements for Incremental Reach Optimization]:** (Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Always Max Bid & Maximize Reach]&quot;en &quot;[!UICONTROL Lowest Cost per Reach]&quot;optimaliseringsdoelstellingen slechts) gebruikt huishuisgegevens van alle programmatic gewaarborgde plaatsen in de campagne om voor stijgende bereik te optimaliseren.
 
 **[!UICONTROL Custom Goal for Model Learning]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [ douanedoel ](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrisch CPA of ROAS te berekenen. Het aangepaste doel kan desgewenst extra gewogen gebeurtenissen met de bovenste funnel (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-metrische gegevens voor pakketoptimalisatie worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[ Doelen van de Douane ](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[ Beste praktijken voor de Campagnes van Prestaties van de Vestiging ](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
 
