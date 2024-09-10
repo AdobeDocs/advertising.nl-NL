@@ -1,22 +1,22 @@
 ---
-title: Indeling van JavaScript-tags voor conversie bijhouden versie 3
-description: Verwijs naar de indeling van JavaScript conversie tracking-tags versie 3.
+title: Formaat voor trackingtags voor JavaScript-conversie versie 3
+description: Verwijs naar de indeling van de trackingtags voor JavaScript-conversie versie 3.
 exl-id: 9fc6bb15-d880-4353-a8c5-260b7932ab34
 feature: Search Tracking
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 8bed8f22c112abcff67727456ef4aad3b38d0ca6
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '297'
 ht-degree: 0%
 
 ---
 
-# Indeling van JavaScript-tags voor conversie bijhouden versie 3
+# Formaat voor trackingtags voor JavaScript-conversie versie 3
 
 De volgende indeling is voor sites die gebruikmaken van HTTPS. Voor sites die HTTP gebruiken, moeten de URL&#39;s beginnen met &quot;http&quot;.
 
 >[!NOTE]
 >
->Voor informatie over wanneer om Versie 2 tegenover Versie 3 te gebruiken, zie [Veelgestelde vragen over trackinglabels](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).
+>Voor informatie over wanneer om Versie 2 tegen Versie 3 te gebruiken, zie [ FAQs op het volgen markeringen ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).
 
 ```
 <script type='text/javascript'>
@@ -33,6 +33,7 @@ De volgende indeling is voor sites die gebruikmaken van HTTPS. Voor sites die HT
                         , allow3rdPartyPixels: 1});
               EF.main();
         };
+        window.id5PartnerId=<Your_ID5_PartnerID>
         window.EF = window.EF || {};
         if (window.EF.main) {
             f();
@@ -55,18 +56,20 @@ waarbij:
 
 * `<ef-userid>` is een unieke, numerieke gebruikersnaam die door Search, Social &amp; Commerce aan de adverteerder wordt toegewezen.
 
-* `<propertyname>` is de conversie naar track. Als u bijvoorbeeld een conversie bijhoudt met de naam &quot;registratie&quot;, bevat de tag de parameter `ev_registration=<registration>`, en u zou de daadwerkelijke opbrengst voor elke transactie (zoals `ev_registration=1`). Wanneer de veelvoudige eigenschappen worden gevolgd, worden zij aangesloten bij door ampersand (`&`), zoals `ev_registration=<registration>&ev_sale=<sale>` (bijvoorbeeld `ev_registration=1&ev_sale=12.99`). **Opmerking:**  De eigenschapsnaam mag geen speciale tekens bevatten.
+* `<Your_ID5_PartnerID>` is de ID5-partner-id van de organisatie die de organisatie ontvangt na ondertekening van een overeenkomst met [!DNL ID5] . Omvat deze variabele slechts wanneer de organisatie DSP gebruikt en [ douanesegmenten heeft die gebruikers bijhouden verbonden aan ID5 universele IDs ](/help/dsp/audiences/universal-ids.md).
 
-* `<transid>` is een unieke transactie-id (zoals een werkelijke bestelling-id) die de adverteerder genereert en doorgeeft om een transactie te identificeren. Het is alleen opgenomen als &quot;[!UICONTROL Include unique transaction IDs]&quot; is geselecteerd.
+* `<propertyname>` is de conversie naar track. Als u bijvoorbeeld een conversie bijhoudt die &#39;registratie&#39; wordt genoemd, bevat de tag de parameter `ev_registration=<registration>` en moet u de werkelijke inkomsten voor elke transactie (zoals `ev_registration=1` ) doorgeven. Wanneer meerdere eigenschappen worden bijgehouden, worden ze samengevoegd door een en-teken (`&`), zoals `ev_registration=<registration>&ev_sale=<sale>` (bijvoorbeeld `ev_registration=1&ev_sale=12.99` ). **Nota:** de bezitsnaam kan geen speciale karakters omvatten.
 
-  Zoeken, Sociaal en Commerce gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id is opgenomen in de [!UICONTROL Transaction Report], waarmee u gegevens kunt valideren in Adobe Advertising met de gegevens van de adverteerder. **Opmerking:** Als de gegevens van de adverteerder geen unieke id per transactie bevatten, wordt met Zoeken, Sociaal en Commerce nog steeds een id gegenereerd op basis van de transactietijd.
+* `<transid>` is een unieke transactie-id (zoals een werkelijke bestelling-id) die de adverteerder genereert en doorgeeft om een transactie te identificeren. Het is inbegrepen slechts wanneer &quot;[!UICONTROL Include unique transaction IDs]&quot;optie wordt geselecteerd.
+
+  Zoeken, Sociaal en Commerce gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. De transactie-id wordt opgenomen in de [!UICONTROL Transaction Report] , waarmee u gegevens kunt valideren in Adobe Advertising met de gegevens van de adverteerder. **Nota:** als de gegevens van de adverteerder geen unieke identiteitskaart per transactie omvatten, dan leidt het Onderzoek, Sociale, &amp; Commerce nog tot één gebaseerd op transactietijd.
 
 <!-- add more links -->
 
 >[!MORELIKETHIS]
 >
->* [Tags voor conversie naar Adobe Advertising bijhouden](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [Een conversietag voor Adoben Advertising genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
->* [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
->* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](format-conversion-tag-jsv2.md)
->* [Opmaak van trackingtags voor afbeeldingsconversie](format-conversion-tag-image.md)
+>* [ Ongeveer Adobe Advertising omzetting-volgende markeringen ](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+>* [ produceer een markering van de Adobe Advertising omzetting ](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [ Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
+>* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](format-conversion-tag-jsv2.md)
+>* [ Formaat van beeldomzetting volgende markeringen ](format-conversion-tag-image.md)

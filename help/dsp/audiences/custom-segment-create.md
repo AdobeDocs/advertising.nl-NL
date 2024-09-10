@@ -3,9 +3,9 @@ title: Een aangepast segment maken en implementeren
 description: Leer hoe u een aangepast segment kunt maken en implementeren om gebruikers te volgen die worden blootgesteld aan advertenties of gebruikers die uw webpagina's bezoeken.
 feature: DSP Segments
 exl-id: 3190fd78-18d2-4da3-920b-d4171e693c03
-source-git-commit: 2fe54fbcd9711e714246f074ede086910b538b80
+source-git-commit: 3774da55139fd9f70162c931dd7708e8e258ad83
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -16,19 +16,19 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
 >[!NOTE]
 >
->Als u gebruikers-id&#39;s wilt bijhouden van een aanvraag voor een opt-out-of-verkoop voor een consument op uw website, maakt u op basis van de California Consumer Privacy Act (CCPA) een [CCPA opt-out of-of-sales segment](ccpa-opt-out-segment-create.md).
+>Om gebruikers IDs van consument te volgen opt-out-of-verkoop verzoeken op uw website, per de Wet van de Privacy van de consument van Californië (CCPA), creeer a [ opt-out-of-verkoop segment CCPA ](ccpa-opt-out-segment-create.md).
 
 ## Vereisten voor segmenten om ID5-id&#39;s bij te houden
 
-*Beta, functie*
+*eigenschap van Beta*
 
-* Voordat u een segment genereert om gebruikers bij te houden die aan id5-id&#39;s zijn gekoppeld, moet u een overeenkomst ondertekenen met [!DNL ID5] en ontvang de partner-id van uw organisatie. Neem voor instructies contact op met het accountteam van de Adobe.
+* Voordat u een segment genereert om gebruikers bij te houden die aan id5-id&#39;s zijn gekoppeld, ondertekent u een overeenkomst met [!DNL ID5] en haalt u de partner-id van uw organisatie op. Neem voor instructies contact op met het accountteam van de Adobe.
 
 * Voor metingen in Adobe Analytics moet u:
 
-   1. Alles voltooien [voorwaarden voor de uitvoering [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md)en ervoor zorgen dat de [AMO-id en EF-id](/help/integrations/analytics/ids.md) worden ingevuld in uw URL&#39;s voor bijhouden.
+   1. Voltooi alle [ eerste vereisten voor het uitvoeren van  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md), en zorg ervoor dat [ identiteitskaart van AMO en identiteitskaart van EF ](/help/integrations/analytics/ids.md) in uw het volgen URLs wordt bevolkt.
 
-   1. Voeg de volgende parameter toe aan uw webpagina&#39;s voor of binnen de [JavaScript-code vereist voor [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) — ergens voordat de laatste gebeurtenisservice wordt geïnitialiseerd.
+   1. Voeg de volgende parameter aan uw webpagina&#39;s vóór of binnen de [ code van JavaScript toe die voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) wordt vereist — overal alvorens de laatste gebeurtenisdienst wordt geïnitialiseerd.
 
       ```window.id5PartnerId=Your_ID5_PartnerID;```
 
@@ -43,59 +43,61 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
       </script>
       ```
 
-   1. Gebruik om het even welk browser het zuiveren hulpmiddel om te verifiëren dat elke vraag aan het domein in werking wordt gesteld `lasteventf-tm.everesttech.net` en bevat de parameter `_les_id5` met een gecodeerde ID5-id als waarde.
+      Zie &quot;[ Formaat van de conversie het volgen van de markeringen van JavaScript versie 3 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)&quot;en &quot;[ Formaat van de omzetting van JavaScript volgende etikettenversie 2 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)&quot;voor het volledige markeringsformaat.
+
+   1. Gebruik om het even welk browser het zuiveren hulpmiddel om te verifiëren dat elke vraag aan het domein `lasteventf-tm.everesttech.net` in werking wordt gesteld en de parameter `_les_id5` met gecodeerde ID5 als waarde bevat.
 
 ## Een aangepast segment maken en implementeren
 
 1. Maak het segment:
 
-   1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
+   1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]** .
 
-   1. Klik boven de gegevenstabel op **[!UICONTROL Create]**.
+   1. Klik boven de gegevenstabel op **[!UICONTROL Create]** .
 
-   1. Voer een unieke waarde in **[!UICONTROL Segment Name]**.
+   1. Voer een uniek **[!UICONTROL Segment Name]** in.
 
-   1. Voor de **[!UICONTROL Segment Type]**, selecteert u *[!UICONTROL Custom]*.
+   1. Selecteer *[!UICONTROL Custom]* voor **[!UICONTROL Segment Type]** .
 
-   1. Voer de **[!UICONTROL Lookback Window]** Dit is het aantal dagen dat een cookie van een gebruiker in het segment blijft staan.
+   1. Voer de waarde **[!UICONTROL Lookback Window]** in. Dit is het aantal dagen dat de cookie van een gebruiker in het segment blijft staan.
 
       Het standaardvenster is 45 dagen. Voer een waarde tussen 1 en 365 in.
 
-   1. Klikken **[!UICONTROL Advanced]** om de geavanceerde montages uit te breiden, en dan de types van gebruikers herkenningstekens te selecteren die de segmentmarkering volgt:
+   1. Klik op **[!UICONTROL Advanced]** om de geavanceerde instellingen uit te vouwen en selecteer vervolgens de typen gebruikers-id&#39;s die de segmenttag bijhoudt:
 
-      * *[!UICONTROL Cookies]:* (De standaardinstelling) De segmenttag houdt cookies bij.
+      * *[!UICONTROL Cookies]:* (Het gebrek) de segmentmarkering houdt koekjes bij.
 
       * [!UICONTROL Universal IDs (Beta)]:
 
-         * *[!UICONTROL ID5]:* De segmenttagtracks [!DNL ID5] ID&#39;s. Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
+         * *[!UICONTROL ID5]:* De segmenttag traceert [!DNL ID5] id&#39;s. Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
 
-        **[!UICONTROL Terms of Service]:** De serviceovereenkomst voor het gebruik van universele id&#39;s. Je of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat je universele id&#39;s voor een nieuw type id kunt gebruiken. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Als u de voorwaarden wilt lezen, klikt u op **>**. Als u de voorwaarden wilt accepteren, schuift u naar de onderkant van de voorwaarden en klikt u op **[!UICONTROL Accept]**.
+        **[!UICONTROL Terms of Service]:** De serviceovereenkomst voor het gebruik van universele id&#39;s. Je of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat je universele id&#39;s voor een nieuw type id kunt gebruiken. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Om de termijnen te lezen, klik **>**. Schuif naar de onderkant van de voorwaarden en klik op **[!UICONTROL Accept]** om de voorwaarden te accepteren.
 
    1. Klik op **[!UICONTROL Save]**.
 
 1. Kopieer en implementeer tags om het segment bij te houden, indien nodig:
 
-   1. Terug naar **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
+   1. Ga terug naar **[!UICONTROL Audiences]** > **[!UICONTROL Segments]** .
 
-   1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]**.
+   1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]** .
 
       * Ga als volgt te werk om bezoekers van het bureaublad en mobiele apparaten bij te houden op een webpagina:
 
-         1. Kopieer de tag voor het bijhouden van de paginaweergave, die is gelabeld als &quot;[!UICONTROL Desktop or mobile websites].&quot;
+         1. Kopieer de volgende markering van de paginamening, die &quot; [!UICONTROL Desktop or mobile websites]&quot; wordt geëtiketteerd.
 
-         1. (Tags voor segmenten die worden bijgehouden [!DNL ID5] Id&#39;s) Vervang in de gekopieerde tag `ID5_PARTNER_ID` met partneridentiteitskaart dat [!DNL ID5] toegewezen aan uw organisatie.
+         1. (Tags voor segmenten die [!DNL ID5] id&#39;s bijhouden) Vervang `ID5_PARTNER_ID` in de gekopieerde tag door de partner-id die [!DNL ID5] aan uw organisatie is toegewezen.
 
-            Bijvoorbeeld, als uw ID5 partner identiteitskaart is `abcde` en de gegenereerde segmenttag is
+            Als de ID5-partner bijvoorbeeld `abcde` is en de gegenereerde segmenttag bestaat uit
 
             ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=ID5_PARTNER_ID"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
 
-            vervolgens vervangen `ID5_PARTNER_ID` with `abcde` binnen de tag om het volgende op te halen:
+            Vervang `ID5_PARTNER_ID` vervolgens door `abcde` in de tag voor het volgende:
 
             ```<script src="https://playtime.tubemogul.com/ud/prod/universal_ids/segment.js?sid=012345&id5pid=abcde"></script><img src="https://rtd-tm.everesttech.net/upi/?sid=012345&cs=1" />```
 
-            Uw organisatie ontving partneridentiteitskaart toen het een overeenkomst met ondertekende [!DNL ID5]. Neem contact op met het accountteam van de Adobe als u uw partner-id niet kent.
+            Uw organisatie heeft de partner-id ontvangen toen deze een overeenkomst met [!DNL ID5] ondertekende. Neem contact op met het accountteam van de Adobe als u uw partner-id niet kent.
 
-            Deze stap is niet nodig voor codes om te volgen [!DNL ID5] Id&#39;s voor gebruikers die worden blootgesteld aan een advertentie-eenheid op mobiele of desktopapparaten.
+            Deze stap is niet nodig voor tags om [!DNL ID5] -id&#39;s bij te houden voor gebruikers die worden blootgesteld aan een advertentie-eenheid op desktops of mobiele apparaten.
 
          1. Geef de tag door aan de adverteerder of websitecontactpersoon voor implementatie.
 
@@ -103,9 +105,9 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
       * Om gebruikers te volgen die aan een advertentie-eenheid op Desktop of mobiele apparaten worden blootgesteld:
 
-         1. Kopieer de code voor het bijhouden van de indruk met het label &quot;[!UICONTROL Desktop or mobile ads].&quot;
+         1. Kopieer de volgende code van de indruk, die &quot; [!UICONTROL Desktop or mobile ads]&quot; wordt geëtiketteerd.
 
-         1. Voeg de tag toe aan de [!UICONTROL Pixel] tabblad voor elke relevante advertentie of voor de [!UICONTROL Event Pixels] van de [[!UICONTROL Tracking] instellingen voor elke relevante plaatsing](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking).
+         1. Voeg de tag toe aan de tab [!UICONTROL Pixel] voor elke relevante advertentie of aan de sectie [!UICONTROL Event Pixels] van de instellingen [[!UICONTROL Tracking] voor elke relevante plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking) .
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
 
@@ -115,12 +117,12 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 
 >[!MORELIKETHIS]
 >
->* [Informatie over Audience Management](audience-about.md)
->* [Segmentinformatie bewerken](segment-edit.md)
->* [Een segment verwijderen](segment-delete.md)
->* [Trackingpixels voor een segment weergeven](segment-view-pixels.md)
->* [Een segment delen of delen stoppen](segment-share.md)
->* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
+>* [ geef de Informatie van het Segment ](segment-edit.md) uit
+>* [ Schrap een Segment ](segment-delete.md)
+>* [ Mening Volgend Pixels voor een Segment ](segment-view-pixels.md)
+>* [ Aandeel of Einde delend een Segment ](segment-share.md)
+>* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment ](ccpa-opt-out-segment-create.md) uit
+>* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
+>* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
