@@ -3,7 +3,7 @@ title: Formaat voor trackingtags voor JavaScript-conversie versie 3
 description: Verwijs naar de indeling van de trackingtags voor JavaScript-conversie versie 3.
 exl-id: 9fc6bb15-d880-4353-a8c5-260b7932ab34
 feature: Search Tracking
-source-git-commit: 8bed8f22c112abcff67727456ef4aad3b38d0ca6
+source-git-commit: dda4ff8e7538bc742caa50862575cb4e46a1371d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -33,7 +33,7 @@ De volgende indeling is voor sites die gebruikmaken van HTTPS. Voor sites die HT
                         , allow3rdPartyPixels: 1});
               EF.main();
         };
-        window.id5PartnerId=<Your_ID5_PartnerID>
+        window.id5PartnerId=<ID5_PartnerID>
         window.EF = window.EF || {};
         if (window.EF.main) {
             f();
@@ -56,7 +56,7 @@ waarbij:
 
 * `<ef-userid>` is een unieke, numerieke gebruikersnaam die door Search, Social &amp; Commerce aan de adverteerder wordt toegewezen.
 
-* `<Your_ID5_PartnerID>` is de ID5-partner-id van de organisatie die de organisatie ontvangt na ondertekening van een overeenkomst met [!DNL ID5] . Omvat deze variabele slechts wanneer de organisatie DSP gebruikt en [ douanesegmenten heeft die gebruikers bijhouden verbonden aan ID5 universele IDs ](/help/dsp/audiences/universal-ids.md).
+* `<ID5_PartnerID>` is de ID5-partner-id van de organisatie die de organisatie ontvangt na ondertekening van een overeenkomst met [!DNL ID5] . Omvat deze variabele slechts wanneer de organisatie DSP gebruikt en [ douanesegmenten heeft die gebruikers bijhouden verbonden aan ID5 universele IDs ](/help/dsp/audiences/universal-ids.md).
 
 * `<propertyname>` is de conversie naar track. Als u bijvoorbeeld een conversie bijhoudt die &#39;registratie&#39; wordt genoemd, bevat de tag de parameter `ev_registration=<registration>` en moet u de werkelijke inkomsten voor elke transactie (zoals `ev_registration=1` ) doorgeven. Wanneer meerdere eigenschappen worden bijgehouden, worden ze samengevoegd door een en-teken (`&`), zoals `ev_registration=<registration>&ev_sale=<sale>` (bijvoorbeeld `ev_registration=1&ev_sale=12.99` ). **Nota:** de bezitsnaam kan geen speciale karakters omvatten.
 
