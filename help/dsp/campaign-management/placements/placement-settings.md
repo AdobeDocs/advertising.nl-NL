@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: cc98c8fa5d1e0309b5b2716f58e6193d029e3f96
+source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
 workflow-type: tm+mt
-source-wordcount: '3921'
+source-wordcount: '3887'
 ht-degree: 0%
 
 ---
@@ -346,15 +346,13 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] en [!DNL Oracle Data Cloud] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] en [!DNL Oracle Data Cloud] (voorheen [!DNL Grapeshot] ) om op te nemen als doelen. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
-
-**Nota:** [!DNL Oracle] zal zijn reclamezaken tegen 30 september 2024, met inbegrip van alle diensten van [!DNL Oracle Data Cloud] (vroeger [!DNL Grapeshot]) verlaten.
+**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] voor opname als doelen. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
 
 Onderwerpgerichte onderwerpen opgeven:
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de gewenste segmenten op:
-   1. Selecteer in de linkerkolom de partner (*[!UICONTROL Comscore]* of *[!UICONTROL Grapeshot]*).
+   1. In de linkerkolom, selecteer de partner: (*[!UICONTROL Comscore]*.
    1. Voer in het invoerveld de segmentnamen of segment-id&#39;s in.
 1. (Optioneel) Als u een CSV-bestand met de onderwerpgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Export]** .
 1. Klik op **[!UICONTROL Save]**.
@@ -363,7 +361,7 @@ Onderwerpgerichte onderwerpen opgeven:
 >
 >* Objectgerichte aanbiedingen beperken de voorraad waarop de plaatsing kan bieden. Gebruik daarom onderwerpen die voor slechts een klein percentage van de totale aankoop zijn bestemd.
 >
->* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] of [!DNL Oracle Data Cloud] (voorheen [!DNL Grapeshot] ).
+>* Stel eventuele negatieve doelen in binnen het segment op [!DNL Proximic by Comscore] .
 
 **[!UICONTROL Device Targeting]:** (Facultatieve) Specifieke apparateninformatie, met inbegrip van apparatentypen, fabrikanten, werkende systemen, browsers, en connectiviteitstypes, om als doelstellingen te omvatten en uit te sluiten. De typen variëren per plaatsingstype. Apparaatdoelframes opgeven:
 
@@ -431,11 +429,7 @@ Onderwerpgerichte onderwerpen opgeven:
 
 **[!UICONTROL Pre-bid viewability]:**
 
-Welke weergavefilters vóór het bod worden ingesteld op [!DNL DoubleVerify] , [!DNL Oracle Advertising] ([!DNL Moat]) en [!DNL Integral Ad Science] . De standaardinstellingen op advertentieniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen. Er kunnen extra kosten van toepassing zijn.
-
->[!NOTE]
->
->[!DNL Oracle] zal uiterlijk op 30 september 2024 haar advertentieactiviteiten beëindigen, inclusief alle services van [!DNL MOAT] .
+Welke weergavekenmerken vóór het bod filteren op [!DNL DoubleVerify] en [!DNL Integral Ad Science] om de plaatsing toe te passen. De standaardinstellingen op advertentieniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen. Er kunnen extra kosten van toepassing zijn.
 
 **[!UICONTROL Ads.txt filtering]:**
 

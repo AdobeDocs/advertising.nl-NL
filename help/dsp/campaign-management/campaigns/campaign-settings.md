@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: 0fbdc7e38026d71483c2de1406a4110066690130
+source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1034'
 ht-degree: 0%
 
 ---
@@ -117,8 +117,6 @@ Belastingen die moeten worden ingehouden ramen:
 * **[!UICONTROL IAS Account ID (AnID)]:** (Adverteerders met hun eigen [!DNL IAS] -accounts; optioneel) De [!DNL IAS] account-id van de organisatie, die [!DNL IAS] rechtstreeks aanrekent voor gebruik.
 
 * **[!UICONTROL IAS Team ID]:** (Adverteerders met hun eigen [!DNL IAS] -accounts; optioneel) De team-id voor de [!DNL IAS] -account van de organisatie, die [!DNL IAS] rechtstreeks aanrekent voor gebruik. <!-- verify -->
-
-**[!UICONTROL MOAT]:** (Optioneel) Hiermee kunt u [!DNL MOAT] de zichtbaarheid, fraude, merkveiligheid en publieksverificatie meten en melden. Er zijn extra kosten van toepassing. **Nota:** [!DNL Oracle] zal zijn reclamezaken tegen 30 september 2024, met inbegrip van alle diensten van [!DNL MOAT] beëindigen.
 
 #### Verificatie door het publiek
 

@@ -3,9 +3,9 @@ title: Merk, veiligheid en mediakwaliteit
 description: Meer informatie over de functies voor merkveiligheid en mediakwaliteit.
 feature: DSP Introduction
 exl-id: 8cdfd517-4cdb-4dbc-aae5-a8bda1e4e95e
-source-git-commit: a927c073fd27e0b2c84bd1929eb4d6d233a29cb5
+source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1402'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Advertising DSP biedt een reeks functies voor merkbescherming om ervoor te zorge
 
 Ons team voor fraudebewaking werkt nauw samen met toonaangevende partners uit de branche, zoals [!DNL Interactive Advertising Bureau] , [!DNL Trust and Accountability Group] [!DNL (TAG)] en [!DNL WhiteOps] , om de inventaris op ons platform zorgvuldig te beheren. Door ons aanbod proactief te beheren, zorgt DSP ervoor dat alle adverteerders op het platform beschermd zijn tegen niet-menselijk verkeer (bots, crawlers, datacenterverkeer en fraude) en alleen in merkveilige contexten leveren.
 
-Naast centraal kwaliteitsbeheer geloven wij in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. DSP biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], [!DNL Oracle Data Cloud] en [!DNL Peer39], zodat elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en het aanwijzen van trefwoorden kan kiezen.
+Naast centraal kwaliteitsbeheer geloven wij in het vermogen van adverteerders om de controles te ontwerpen die op hun merk zijn afgestemd. DSP biedt integratie met [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science] en [!DNL Peer39], zodat elke adverteerder zijn gewenste niveau van fraudebescherming, contextafhankelijke filtering en trefwoordgerichtheid kan kiezen.
 
 ## Kwaliteitsinitiatieven
 
@@ -110,15 +110,11 @@ Neem voor meer informatie over functionaliteit rechtstreeks contact op met de vo
 
 ### Viewability vóór het bod {#pre-bid-viewability}
 
-Met weergavefilters vóór biedingen van onze toonaangevende partners [!DNL DoubleVerify] , [!DNL Oracle Advertising] ([!DNL Moat]) en [!DNL Integral Ad Science] kunnen adverteerders ervoor zorgen dat hun campagnes in de video- en weergaveinventarisatie voldoen aan de gewenste prestatiedoelstellingen voor de weergave.
-
->[!NOTE]
->
->[!DNL Oracle] zal uiterlijk op 30 september 2024 haar advertentieactiviteiten beëindigen, inclusief alle services van [!DNL MOAT] .
+Met weergavefilters vóór biedingen van onze toonaangevende partners [!DNL DoubleVerify] en [!DNL Integral Ad Science] kunnen adverteerders ervoor zorgen dat hun campagnes in de video- en weergaveinventarisatie aan hun gewenste prestatiedoelstellingen voldoen.
 
 U kunt standaardviewability filters voor elke adverteerder <!-- [default pre-viewability filters for each advertiser](/help/dsp/admin/advertiser-settings.md) --> plaatsen, en dan naar keuze [ de montages voor elke plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md) aanpassen. Er kunnen extra kosten van toepassing zijn wanneer u deze functie gebruikt.
 
-![ DoubleVerify embleem ](/help/dsp/assets/doubleverify-logo.png) ![ het embleem van Advertising van de Oracle ](/help/dsp/assets/oracle-advertising-logo.png) ![ het Integrale embleem van de Wetenschap Ad ](/help/dsp/assets/ias-logo.png)
+![ DoubleVerify embleem ](/help/dsp/assets/doubleverify-logo.png) ![ het Integrale embleem van de Wetenschap Ad ](/help/dsp/assets/ias-logo.png)
 
 ### Doelstelling en meting van aandacht
 
@@ -132,17 +128,13 @@ Voor elk onderdeel zijn extra kosten van toepassing.
 
 ### Doel van onderwerp
 
-DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextuele partners [!DNL Comscore] en [!DNL Oracle Data Cloud] (vroeger [!DNL Grapeshot]) te gebruiken. Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
-
->[!NOTE]
->
->[!DNL Oracle] zal uiterlijk op 30 september 2024 haar advertentieactiviteiten beëindigen, inclusief alle services van [!DNL Oracle Data Cloud] (voorheen [!DNL Grapeshot] ).
+DSP onderwerp het richten staat u toe om sleutelwoordlijsten te richten of te blokkeren door onze industrie-leidende contextafhankelijke partner [!DNL Comscore] te gebruiken. Met onderwerpgerichte toepassingen kunt u ervoor zorgen dat uw advertenties altijd worden aangeboden in een omgeving die op uw merk is afgestemd. Dit geldt zowel voor het blokkeren van schadelijke inhoud als voor het veiligstellen van uitgaven in een context die een groter resultaat biedt.
 
 Het richten van het onderwerp vereist u om de segmenten van het douaneonderwerp direct met het partnerplatform tot stand te brengen. Zodra de segmenten worden gecreeerd, kunt u [ richten of een segmentidentiteitskaart in de [!UICONTROL Audience Targeting] sectie voor elke plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md) uitsluiten. Voor deze functie kunnen extra kosten in rekening worden gebracht.
 
 Om een [!DNL Comscore] rekening tot stand te brengen en de segmenten van het douaneonderwerp tot stand te brengen, kunt u login voor [!DNL Activation Segment Manager] bij [ https://agents.comscore.com ](https://agents.comscore.com) verzoeken. Zie [[!DNL Comscore]  hulp centrum ](https://comscoreactivation.zendesk.com/hc/) voor volledige instructies voor vestiging douanesegmenten. De kosten voor aangepaste segmenten worden in [!DNL Segment Manager] weergegeven wanneer u ze maakt.
 
-![ het embleem van de Comscore ](/help/dsp/assets/comscore-logo.png) ![ Logo Grapeshot ](/help/dsp/assets/oracle-grapeshot-logo.png)
+![ het embleem van de Comscore ](/help/dsp/assets/comscore-logo.png)
 
 ### [!DNL DoubleVerify Authentic Brand Safety]
 

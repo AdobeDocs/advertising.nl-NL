@@ -2,9 +2,9 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: 55190d02a2cdf74c39968ccd91abfecc2ce5539d
+source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
 workflow-type: tm+mt
-source-wordcount: '954'
+source-wordcount: '930'
 ht-degree: 0%
 
 ---
@@ -122,11 +122,7 @@ Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en v
 
 #### [!UICONTROL Pre-Bid Viewability]
 
-Optionele weergavefilters vóór bod op [!DNL DoubleVerify] , [!DNL Oracle Advertising] ([!DNL Moat]) en [!DNL Integral Ad Science] om toe te passen op plaatsingen. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen. U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
-
->[!NOTE]
->
->[!DNL Oracle] zal uiterlijk op 30 september 2024 haar advertentieactiviteiten beëindigen, inclusief alle services van [!DNL MOAT] .
+Optionele weergavefilters vóór biedingen door [!DNL DoubleVerify] en [!DNL Integral Ad Science] om toe te passen op plaatsingen. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen. U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-viewability}
 
@@ -155,10 +151,6 @@ Optionele weergavefilters vóór bod op [!DNL DoubleVerify] , [!DNL Oracle Adver
 ##### [!UICONTROL Integral Ad Science] {#ias-viewability}
 
 Een optioneel **[!UICONTROL Video Viewability Targets]** filter en een optioneel **[!UICONTROL Display Viewability Targets]** filter. Er kunnen extra kosten van toepassing zijn.
-
-##### [!UICONTROL Moat] {#moat-viewability}
-
-Een optioneel **[!UICONTROL Video Viewability Standard]** filter en een optioneel **[!UICONTROL Display Viewability Standard]** filter. Er kunnen extra kosten van toepassing zijn.
 
 #### [!UICONTROL Ads.text]
 
