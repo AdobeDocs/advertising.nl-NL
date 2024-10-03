@@ -3,9 +3,9 @@ title: Creeer omzettingsmetriek van Adobe Analytics  [!DNL eVars]  en steunen
 description: Vorm metriek van de de gebeurtenismetriek van het douanesucces gebruikend  [!DNL eVar] - en  [!DNL prop] - vlakke gegevens.
 feature: Integration with Adobe Analytics, Conversions
 exl-id: 7717d10c-76ca-4ba9-9fbb-e34ad006619c
-source-git-commit: db815958b039508b005f4be60561ddc4656da86e
+source-git-commit: 91e8435ff00feca804dfa2f4c323f88ee31813ab
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ De meeste van de volgende taken moeten door een [!DNL Analytics] beheerder of an
 
 Nadat metrisch beschikbaar is, kunt u het gebruiken om een doel tot stand te brengen, dat u aan een Onderzoek, een Sociale, &amp; portefeuille van Commerce of gebruik als a [ douanedoel ](/help/dsp/optimization/custom-goal.md) voor een DSP pakket kunt dan toewijzen.
 
-Zie het hoofdstuk over &quot;Doelstellingen&quot; in de Optimalisatiegids, dat te vinden is in Zoeken, Sociaal en Commerce.
+Raadpleeg voor meer informatie over het maken van doelstellingen het hoofdstuk over &quot;Doelstellingen&quot; in de Optimalisatiegids, dat beschikbaar is in Zoeken, Sociaal, &amp; Commerce
 
 >[!MORELIKETHIS]
 >
