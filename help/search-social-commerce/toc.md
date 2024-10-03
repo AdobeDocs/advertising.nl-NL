@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 2c85ae5ff14349603ea38b2d478e4ab723800bea
+source-git-commit: 2729e7575f9950eb59b181d542dea7cb3b34cfa7
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 2%
@@ -50,7 +50,7 @@ ht-degree: 2%
             + [Gegevensfilters toepassen vanaf de werkbalk](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
             + [Kolomfilters bewerken](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md)
             + [Een kolomfilter verwijderen](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-remove.md)
-   + Aangepaste metrische gegevens beheren {#custom-metrics}
+   + Aangepaste maateenheden beheren {#custom-metrics}
       + [Informatie over aangepaste metriek](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md)
       + [Een aangepaste metrische waarde maken](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md)
       + [Een aangepaste metrische waarde bewerken](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md)
