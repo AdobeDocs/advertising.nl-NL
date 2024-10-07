@@ -3,9 +3,9 @@ title: Nieuwe gebruiker uitnodigen voor account bij organisatie
 description: Leer hoe u een nieuwe gebruiker kunt uitnodigen voor deelname aan het account.
 role: Admin
 exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
-source-git-commit: bddc57155a5ccf64f6b864159f82f2da9b0a0d8c
+source-git-commit: a8ee699137d683986264e841b03bc292ce7b7843
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
@@ -14,23 +14,25 @@ ht-degree: 0%
 
 Beheerdergebruikers kunnen een nieuwe gebruiker voor de account uitnodigen. Zodra de gebruiker de uitnodiging accepteert, hebben ze toegang tot alle adverteerders voor de account. Nieuwe gebruikers hebben standaard alleen-lezen toegang.
 
+De uitnodigingskoppeling verloopt over 24 uur. Als de koppeling verloopt, kunt u de uitnodiging opnieuw verzenden.
+
 Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in behandeling opheffen.
 
 1. Voer een van de volgende handelingen uit:
 
-   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Users]**.
+   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Users]** .
 
-   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]**.
+   * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]** .
 
-1. In de **[!UICONTROL Invitations]** sectie, klikken **[!UICONTROL Send Invite]**.
+1. Klik in de sectie **[!UICONTROL Invitations]** op **[!UICONTROL Send Invite]** .
 
-1. In de **[!UICONTROL User Email]** voert u het e-mailadres in waarnaar de uitnodiging wordt verzonden.
+1. Voer in het veld **[!UICONTROL User Email]** het e-mailadres in waarnaar de uitnodiging moet worden verzonden.
 
 1. Klik op **[!UICONTROL Send Invite]**.
 
 >[!MORELIKETHIS]
 >
->* [Een uitnodiging voor een gebruiker in behandeling opnieuw verzenden](user-resend-invite.md)
->* [Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken](user-uninvite.md)
+>* [ herend een In afwachting van de Uitnodiging van de Gebruiker ](user-resend-invite.md)
+>* [ unInvestie een In afwachting van Gebruiker ](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->
