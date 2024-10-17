@@ -3,24 +3,24 @@ title: Informatie over Adoben Advertising zoeken, sociale zaken en Commerce
 description: Meer weten over Zoeken, Sociaal en Commerce?
 exl-id: a28c49ba-f669-4d15-813b-b30673431d01
 feature: Search Introduction
-source-git-commit: 3c1f534ef13b040f450d21753e91a14efd20bfaf
+source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
 workflow-type: tm+mt
-source-wordcount: '758'
+source-wordcount: '762'
 ht-degree: 0%
 
 ---
 
 # Informatie over Adoben Advertising zoeken, sociale zaken en Commerce
 
-[!DNL Adobe] is de markt en technologieleider in de oplossingen van de klantenervaring. Adobe Advertising vereenvoudigt de levering van reclamecampagnes over de kanalen voor merk en prestatiecampagne over om het even welk scherm, in om het even welk formaat. Adobe Advertising bestaat uit drie suboplossingen: Zoeken naar advertenties, sociale media en Commerce voor zoeken, winkelen, sociale media, publieksnetwerken en maximale prestatiekanalen; DSP voor advertenties (Demand Side Platform) voor weergavekanalen en Advertising Creative voor het creëren van ervaringen voor eindgebruikers voor uw advertenties.
+[!DNL Adobe] is de markt en technologieleider in de oplossingen van de klantenervaring. Adobe Advertising vereenvoudigt de levering van reclamecampagnes over de kanalen voor merk en prestatiecampagne over om het even welk scherm, in om het even welk formaat. Adobe Advertising bestaat uit drie suboplossingen: Advertising Search, Social en Commerce for search, shopping, social, publieksnetwerk en max.-kanalen, Advertising DSP (Demand Side Platform) voor weergavekanalen en Advertising Creative voor het creëren van ervaringen voor eindgebruikers voor uw advertenties.
 
-In het kader van de Adobe Advertising combineert Advertising Search, Social &amp; Commerce het beste op portfolio gebaseerde advertentiebeheer met intelligente campagneprognoses en gerichte advertentie voor voor data geoptimaliseerde reclame.
+In het kader van de Adobe Advertising combineert Advertising Search, Social en Commerce op portfolio&#39;s gebaseerd beheer met intelligente campagneprognoses en gerichte en voor data-geoptimaliseerde reclame.
 
 ## AI-technologie voor ad-optimalisatie
 
-Zoeken, Sociaal en Commerce automatiseert en optimaliseert bied- en begrotingsbeheer voor advertentiecampagnes in advertentienetwerken binnen de grenzen van de bedrijfsdoelstellingen, meetgegevens, budget en andere bedrijfsbeperkingen van een adverteerder. Het traceert de kliktijd, de kosten en de omzettingsgeschiedenis voor elk van de trefwoorden en advertenties van een adverteerder, evenals informatie over het landschap van de biedingen op elk marketingkanaal. Met behulp van een benadering van de portfoliotheorie vergelijkt de optimaliseringsfunctie alle mogelijke toewijzingen van uw budget voor een hele reeks campagnes om de biedingen en campagnebudgetten te bepalen die het hoogst mogelijke rendement op advertentie-uitgaven opleveren, en het voert de biedingen en begrotingen dienovereenkomstig uit. De optimalisatiefunctie houdt voortdurend toezicht op de trefwoorden en advertenties van adverteerders en past biedingen en budgetten dynamisch aan als de markt verandert.
+Zoeken, Sociaal en Commerce automatiseert en optimaliseert bied- en begrotingsbeheer voor advertentiecampagnes in advertentienetwerken binnen de grenzen van de bedrijfsdoelstellingen, meetgegevens, budget en andere bedrijfsbeperkingen van een adverteerder. Het traceert de kliktijd, de kosten en de omzettingsgeschiedenis voor elk van de trefwoorden en advertenties van een adverteerder, evenals informatie over het landschap van de biedingen op elk marketingkanaal. Met behulp van een benadering van de portfoliotheorie vergelijkt de optimaliseringsfunctie alle mogelijke toewijzingen van uw budget voor een hele reeks campagnes om de biedingen en campagnebudgetten te bepalen die het hoogst mogelijke rendement op advertentie-uitgaven opleveren, en voert het de biedingen, begrotingen, en de doelstellingen van de biedingsstrategie dienovereenkomstig uit. De optimalisatiefunctie houdt voortdurend toezicht op de trefwoorden en advertenties van adverteerders, waarbij biedingen, budgetten en doelen dynamisch worden aangepast wanneer de markt verandert.
 
-Er zijn meerdere typen optimalisatie beschikbaar, waarmee u zoekopdrachten, sociale media en Commerce en het advertentienetwerk in verschillende mate kunt beheren over de optimalisatie van biedingen. Afhankelijk van het optimalisatietype kunt u uw portfolio&#39;s optimaliseren met conversies die worden bijgehouden door Adobe Advertising, Adobe Analytics, [!DNL Google Ads], [!DNL Google Analytics], of andere eerderangsbedrijven.
+Er zijn meerdere typen optimalisatie beschikbaar, waarmee u zoekopdrachten, sociale media en Commerce en het advertentienetwerk in verschillende mate kunt beheren over de optimalisatie van biedingen. Afhankelijk van het optimalisatietype kunt u uw portfolio&#39;s optimaliseren met behulp van conversies die worden bijgehouden door Adobe Advertising, Adobe Analytics, [!DNL Google Ads], [!DNL Google Analytics] of andere eersteklas bedrijfsfeeds.
 
 Afhankelijk van uw rol, kunt u de simulaties van de portfolioprestaties kunnen bekijken, die voorspellende modellering gebruiken om uw optimaal uitgavenpunt, en gedetailleerde voorspelde nauwkeurigheidsrapporten te identificeren. Alle gebruikers kunnen het hulpmiddel van de Aanbeveling van de Uitgaven gebruiken om de optimale begrotingsdistributie over portefeuilles te identificeren.
 
@@ -30,13 +30,13 @@ Raadpleeg het hoofdstuk Portfolio&#39;s in de Optimalisatiegids, die beschikbaar
 
 Search, Social &amp; Commerce biedt een uitgebreid beheer, optimalisatie, tracering en rapportering van uw advertentienetwerken. In de weergaven voor advertentiebeheer kunt u:
 
-* **Campagnebeheer:**  Synchroniseer uw advertentierekeningen voor gesteunde advertentienetwerken, en plaats en beheer dan manueel vele campagnetypes, gebruikend bulksbladen, en automatisch gebruikend de voer van inventarisgegevens.
+* **het beheer van de Campagne:** Synchroniseer uw advertentierekeningen voor gesteunde advertentienetwerken, en opstelling en beheer dan vele campagneretypes manueel, gebruikend bulksbladen, en het automatisch gebruiken van de voer van inventarisgegevens.
 
-* **Optimalisatie:** Groepeer uw campagnes en advertentiesets in verschillende typen portfolio&#39;s voor optimalisatie. Gebruik portfoliosimulaties om het effect te voorspellen van wijzigingen in de uitgavenstrategie en andere portfolioinstellingen.
+* **Optimalisering:** groepeer uw campagnes en ad reeksen in verschillende soorten portefeuilles voor optimalisering. Gebruik portfoliosimulaties om het effect te voorspellen van wijzigingen in de uitgavenstrategie en andere portfolioinstellingen.
 
-* **Campagne bijhouden:** Stel toegang in tot andere advertentiecampagnes waarvoor u alleen gegevens wilt bijhouden en rapporteren. Dit kan het uploaden van campagnegegevens en metriek omvatten.
+* **het volgen van de Campagne:** de opstellingstoegang tot andere advertentiecampagnes waarvoor u slechts wilt volgen en rapporteren. Dit kan het uploaden van campagnegegevens en metriek omvatten.
 
-* **Rapportage:** De prestaties van uw portfolio&#39;s en andere campagnes die u bijhoudt, bewaken en analyseren via weergaven van prestatiegegevens en gedetailleerde, aanpasbare rapporten. U kunt conversiemetriek uit Adobe Analytics opnemen, [!DNL Google Ads], [!DNL Google Analytics]en uw andere eersteklas onderneming feeds in gegevensweergaven en rapporten.
+* **het Melden:** controleert en analyseert de prestaties van uw portefeuilles en andere campagnes die u via de meningen van prestatiesgegevens en gedetailleerde, klantgerichte rapporten volgt. U kunt conversiemetriek van Adobe Analytics, [!DNL Google Ads], [!DNL Google Analytics], en uw andere eerderepering van ondernemingsvoer in gegevensmeningen en rapporten omvatten.
 
    * Vorm de diverse meningen van prestatiesgegevens voor optimale zichtbaarheid in de prestatiesgegevens die voor u van belang zijn.
 
@@ -44,13 +44,13 @@ Search, Social &amp; Commerce biedt een uitgebreid beheer, optimalisatie, tracer
 
    * Voor portfolio&#39;s bieden receptieve inzichten ook visuele en activeerbare gegevens die u kunt gebruiken om de prestaties te verbeteren.
 
-Zie &quot;[Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)&quot; voor meer informatie over ondersteuning voor verschillende advertentienetwerken en advertentietypen .
+Zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;voor meer informatie over steun voor verschillende advertentienetwerken en advertentietypes.
 
 ## Integratie met Adobe Experience Cloud-oplossingen en -services
 
-Dankzij native integratie met Adobe Analytics en Adobe Audience Manager kunt u uw gegevens- en publiekssegmenten aansluiten voor advertenties. [!DNL Google Ads] het creëren, optimaliseren, en rapportering/analyse van het publiek.
+Dankzij native integratie met Adobe Analytics en Adobe Audience Manager kunt u uw gegevens- en publiekssegmenten verbinden voor doelgericht gebruik, [!DNL Google Ads] het maken van publiek, optimalisatie en rapportage/analyse.
 
-Voor meer informatie over integratie met deze en andere producten van de Adobe, zie &quot;[Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md).&quot;
+Voor meer informatie over integratie met deze en andere producten van de Adobe, zie &quot;[ Integratie met de oplossingen en de diensten van Adobe Experience Cloud ](/help/search-social-commerce/introduction/integrations.md).&quot;
 
 ## Conversie bijhouden
 
@@ -62,5 +62,5 @@ Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over te
 
 >[!MORELIKETHIS]
 >
->* [Ondersteunde voorraad](supported-inventory.md)
->* [Integratie met Adobe Experience Cloud-oplossingen en -services](integrations.md)
+>* [ Gesteunde inventaris ](supported-inventory.md)
+>* [ Integratie met de oplossingen en de diensten van Adobe Experience Cloud ](integrations.md)

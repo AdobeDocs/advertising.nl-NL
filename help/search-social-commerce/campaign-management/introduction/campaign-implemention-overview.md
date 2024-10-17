@@ -3,9 +3,9 @@ title: Overzicht van het uitvoeren van en netwerkrekeningen en campagnes
 description: Leer over de taken betrokken bij vestiging, het synchroniseren, en het beheren van uw rekeningen van het advertentienetwerk.
 exl-id: 36307e65-81f8-4794-8a75-a37623b294ed
 feature: Search Campaign Management
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
 workflow-type: tm+mt
-source-wordcount: '966'
+source-wordcount: '970'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
 1. (Advertisers met Adobe Analytics) [ integreer Adobe Advertising en Analytics ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) zodat zij gegevens kunnen ruilen.
 
-1. (Om Onderzoek toe te staan, sociaal, &amp; Commerce om biedingen en/of campagnebegrotingen te optimaliseren; [ gesteunde campagnetypen ](/help/search-social-commerce/introduction/supported-inventory.md) slechts) [ wijs de campagne aan een portefeuille ](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe.
+1. (Om Onderzoek toe te staan, sociaal, &amp; Commerce om biedingen, campagnebegrotingen, en/of de strategiedoelstellingen van de campagnebiet te optimaliseren; [ gesteunde campagnetypes ](/help/search-social-commerce/introduction/supported-inventory.md) slechts) [ wijs de campagne aan een portefeuille ](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe.
 
    Als het portfolio nog niet is gestart (voor het optimaliseren van biedingen en/of budgetten), kunt u ervoor zorgen dat de optimalisatiefunctie voldoende gegevens verzamelt om kosten- en inkomstenmodellen te maken, zodat u de basislijnprestaties voor het portfolio kunt bepalen voordat u het portfolio start.
 

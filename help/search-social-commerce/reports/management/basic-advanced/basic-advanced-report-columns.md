@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor basis- en geavanceerde rapporten
 description: Leer over de beschikbare gegevenskolommen voor basis en geavanceerde rapporten.
 exl-id: 649cdfa0-e6f2-4881-9f9d-8217e2547d99
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 3b120ec2ec54f4ad909be8ff2ee8f1e92d205315
+source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
 workflow-type: tm+mt
-source-wordcount: '3741'
+source-wordcount: '3743'
 ht-degree: 0%
 
 ---
@@ -151,7 +151,7 @@ ht-degree: 0%
 | [!UICONTROL Portfolio Group Name] | De naam van de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL Portfolio ID] | De numerieke portefeuille-id. |
 | [!UICONTROL Portfolio Spend Strategy] | ([!UICONTROL Portfolio Report]) De uitgavenstrategie voor het portfolio: <i>[!UICONTROL Daily]</i>, <i>[!UICONTROL Weekly]</i>, <i>[!UICONTROL Monthly]</i>, <i>[!UICONTROL ROI]</i>, <i>[!UICONTROL Day of week]</i>, <i>[!UICONTROL Day of month]</i>, <i>[!UICONTROL CPT]</i>, <i>[!UICONTROL Marginal CPT]</i>, <i>[!UICONTROL Google Target CPA]</i> of <i>[!UICONTROL Google Target ROAS]</i>. |
-| [!UICONTROL Portfolio Status] | De status van het portfolio:<ul><li><i>[!UICONTROL Optimize]:</i> de optimaliseringscapaciteit verzamelt klik en opbrengstgegevens voor de relevante campagnes, modellerend de gegevens om biedingen te optimaliseren, en optimaliserend biedingen en/of campagnebegrotingen (afhankelijk van het optimalisatietype en de strategieën van de campagneaanbieding).</li><li><i>[!UICONTROL Active]:</i> het optimaliseringsvermogen verzamelt klik en opbrengstgegevens voor de relevante campagnes en modelleert de gegevens, maar het optimaliseert biedingen of campagnebegrotingen niet.</li><li><i>[!UICONTROL Inactive]:</i> de optimaliseringscapaciteit verzamelt klikgegevens voor de relevante campagnes voor rapporteringsdoeleinden, maar het modelleert de gegevens noch optimaliseert biedingen of campagnebegrotingen.</li></ul> |
+| [!UICONTROL Portfolio Status] | De status van het portfolio:<ul><li><i>[!UICONTROL Optimize]:</i> de optimaliseringscapaciteit verzamelt klik en opbrengstgegevens voor de relevante campagnes, modellerend de gegevens die voor optimalisering worden gebruikt, en optimaliserend biedingen, campagnebegrotingen, en campagnebiedingsstrategiedoelstellingen (afhankelijk van het optimalisatietype en de biedingsstrategieën).</li><li><i>[!UICONTROL Active]:</i> het optimaliseringsvermogen verzamelt klik en opbrengstgegevens voor de relevante campagnes en modelleert de gegevens, maar het optimaliseert biedingen of campagnebegrotingen niet.</li><li><i>[!UICONTROL Inactive]:</i> de optimaliseringscapaciteit verzamelt klikgegevens voor de relevante campagnes voor rapporteringsdoeleinden, maar het modelleert de gegevens noch optimaliseert biedingen of campagnebegrotingen.</li></ul> |
 | [!UICONTROL Portfolio Target] | ([!UICONTROL Portfolio Report]) Het dagelijkse doel voor de uitgavenstrategie van de portefeuille. Voor dagelijkse/maandelijkse en dag van week/maand strategieën, wordt het doel van de huidige dag getoond. |
 | [!UICONTROL Preferred Devices] | ([!DNL Google Ads] -, [!DNL Microsoft Advertising] - en [!DNL Yahoo! Japan Ads] -campagnes) Of de advertentie-instellingen de voorkeur geven aan <i>[!UICONTROL Mobile ads]</i> of aan <i>[!UICONTROL All ads]</i> . |
 | [!UICONTROL Product Group ID] | De numerieke id die het advertentienetwerk toewijst aan de productgroep. |

@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
 exl-id: c4533105-a0a8-4c76-bda9-ae653e7fd911
 feature: Search Reports, Search Specialty Reports
-source-git-commit: a31e380b0cdaaf426895397a3829f41145d82a6d
+source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
 workflow-type: tm+mt
-source-wordcount: '2852'
+source-wordcount: '2854'
 ht-degree: 0%
 
 ---
@@ -133,7 +133,7 @@ ht-degree: 0%
 | [!UICONTROL Portfolio ID] | De numerieke portefeuille-id. |
 | [!UICONTROL Portfolio Name] | Het portfolio. |
 | [!UICONTROL Portfolio Spend Strategy] | (Rapport Portfolio) De bestedingsstrategie voor het portfolio: *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, *[!UICONTROL ROI]*, *[!UICONTROL Day of week]*, *[!UICONTROL Day of month]*, *[!UICONTROL CPT]*, *[!UICONTROL Marginal CPT]*, *[!UICONTROL Google Target CPA]* of *[!UICONTROL Google Target ROAS]*. |
-| [!UICONTROL Portfolio Status] | De status van het portfolio:<ul><li>*[!UICONTROL Optimize]*: De optimalisatiefunctie is het verzamelen van klik- en inkomstengegevens voor de relevante campagnes, het modelleren van de gegevens om biedingen te optimaliseren, en het optimaliseren van biedingen en/of campagnebudgetten (afhankelijk van het optimalisatietype en de strategieën voor campagneaanbiedingen).</li><li>*[!UICONTROL Active]*: De optimalisatiefunctie verzamelt klik- en inkomstengegevens voor de relevante campagnes en modelleert de gegevens, maar optimaliseert geen biedingen of campagnebudgetten.</li><li>*[!UICONTROL Inactive]*: De optimalisatiefunctie verzamelt klikgegevens voor de relevante campagnes voor rapportagedoeleinden, maar ze modelleert de gegevens niet en optimaliseert biedingen of campagnebudgetten niet.</li></ul> |
+| [!UICONTROL Portfolio Status] | De status van het portfolio:<ul><li>*[!UICONTROL Optimize]*: De optimalisatiecapaciteit is het verzamelen van klik- en inkomstengegevens voor de relevante campagnes, het modelleren van de gegevens die voor optimalisering worden gebruikt, en het optimaliseren van biedingen, campagnebudgetten, en campagnedoelstellingen voor de biedingsstrategie (afhankelijk van het optimalisatietype en de biedingsstrategieën).</li><li>*[!UICONTROL Active]*: De optimalisatiefunctie verzamelt klik- en inkomstengegevens voor de relevante campagnes en modelleert de gegevens, maar optimaliseert geen biedingen of campagnebudgetten.</li><li>*[!UICONTROL Inactive]*: De optimalisatiefunctie verzamelt klikgegevens voor de relevante campagnes voor rapportagedoeleinden, maar ze modelleert de gegevens niet en optimaliseert biedingen of campagnebudgetten niet.</li></ul> |
 | [!UICONTROL Primary Status] | ([!UICONTROL Google Asset Group Performance Report]) waarom de activagroep bij volledige capaciteit al dan niet dienst doet. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.* |
 | [!UICONTROL Primary Status Reason] | ([!UICONTROL Google Asset Group Performance Report]) Aanvullende details over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*} |
 | [!UICONTROL Product ID] | ([!UICONTROL AdWords Shopping Performance Report]) De product-id van het product dat met de advertentie wordt weergegeven. <b> Nota:</b> identiteitskaart wordt gevangen slechts wanneer de productlijst de volgende parameter `ev_plx=<GMC product ID>` omvat, die u binnen [!DNL Google Merchant Center] moet toevoegen. |

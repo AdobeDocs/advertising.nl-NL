@@ -1,20 +1,20 @@
 ---
-title: Overzicht van het implementeren van Search, Social, & Commerce
+title: Overzicht van het implementeren van Search, Social en Commerce
 description: Meer informatie
-exl-id: 31a4cd6f-8b02-4762-8e68-c9f377389935
+exl-id: c99dc029-81e4-4416-89b1-7cf8d66658b2
 feature: Search Getting Started
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
 workflow-type: tm+mt
-source-wordcount: '819'
+source-wordcount: '820'
 ht-degree: 0%
 
 ---
 
-# Overzicht van het implementeren van Search, Social, &amp; Commerce
+# Overzicht van het implementeren van Search, Social en Commerce
 
-[!DNL Adobe] of een van haar gelieerde bureaus werkt samen met elke adverteerder om zijn onlineadvertentieportfolio&#39;s te lanceren en aanvullende advertentiecampagnes bij te houden. Na de eerste introductie zorgen extra, aan de gang zijnde taken ervoor dat de doelstellingen van de adverteerder blijven worden verwezenlijkt.
+[!DNL Adobe] of een van de gelieerde bureaus werkt samen met elke adverteerder om zijn onlineadvertentieportfolio&#39;s te starten en aanvullende advertentiecampagnes bij te houden. Na de eerste introductie zorgen extra, aan de gang zijnde taken ervoor dat de doelstellingen van de adverteerder blijven worden verwezenlijkt.
 
-Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zoeken, Sociale media en Handel.
+Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zoeken, Sociale media en Commerce.
 
 ## Eerste keer starten
 
@@ -40,17 +40,17 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
 1. Synchroniseer met, of creeer, campagnes voor elk van uw rekeningen van het advertentienetwerk:
 
-   * Synchroniseer met de account door a) een corresponderende accountrecord te maken in Zoeken, Sociale Zaken en Handel die de toegangsreferenties voor de account en trackingsopties bevat en b) de status van de account in te stellen op ingeschakeld.
+   * Synchroniseer met de account door a) een corresponderende accountrecord te maken in Search, Social &amp; Commerce die de toegangsreferenties voor de account en trackingsopties bevat, en b) de status van de account in te stellen op ingeschakeld.
 
-   * Als de rekeningen reeds campagnegegevens niet bevatten, dan voeg campagnes, ad groepen, sleutelwoorden, advertenties, en plaatsingen van binnen Onderzoek, Sociale, &amp; Handel of van binnen het advertentienetwerk toe.
+   * Als de accounts nog geen campagnegegevens bevatten, voegt u campagnes, ad-groepen, trefwoorden, advertenties en plaatsingen toe vanuit Zoeken, Sociaal en Commerce of vanuit het advertentienetwerk.
 
      Raadpleeg het Help-hoofdstuk over &quot;Campaign Management&quot; voor meer informatie over het instellen van zoekcampagnes.
 
 1. Stel het bijhouden van wijzigingen in voor alle advertenties waarvoor u de Adobe Advertising wilt laten uitvoeren:
 
-   1. (Indien nodig) Stel klikspatiëring in voor advertenties en optioneel voor trefwoorden. [!DNL Google Ads] plaatsingen, en [!DNL Google Ads] extensies te genereren en te uploaden, klik-URL&#39;s bijhouden.
+   1. (Indien nodig) Stel klikspatiëring in voor advertenties en eventueel voor trefwoorden, [!DNL Google Ads] -plaatsingen en [!DNL Google Ads] -extensies door klik-URL&#39;s te genereren en te uploaden.
 
-      Klik op URL&#39;s bijhouden voor adverteerders met de Adobe Advertising service voor het bijhouden van pixelconversies, waaronder een omleiding naar [!DNL Adobe] servers.
+      Klik op URL&#39;s bijhouden voor adverteerders met de Adobe Advertising van de service voor het bijhouden van pixelconversies, inclusief omleiding naar [!DNL Adobe] -servers.
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de juiste webpagina&#39;s en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die u met uw eigen methode hebt verzameld.
 
@@ -60,11 +60,11 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    1. (Adverteerders met Adobe Analytics en/of Adobe Audience Manager) Integraties tussen de verschillende accounts instellen, zodat de Adobe Advertising gegevens met hen kan uitwisselen.
 
-      Zie de handleiding op &#39;[Integratie met Experience Cloud](/help/integrations/home.md).&quot;
+      Zie de gids op &quot;[ Integraties met Experience Cloud ](/help/integrations/home.md).&quot;
 
-   1. (Adverteerders met [!DNL Google Analytics]) Conversiegegevens synchroniseren voor een [!DNL Google Analytics] account, eigenschap en weergavecombinatie voor optimalisatie en rapportage.
+   1. (Advertisers met [!DNL Google Analytics] ) Synchroniseer omzettingsmetriek voor een [!DNL Google Analytics] rekening, bezit, en meningscombinatie voor optimalisering en rapportering.
 
-      Zie het Help-subhoofdstuk &quot;Admin&quot; > &quot;[Gegevensbronnen configureren](/help/search-social-commerce/admin/data-sources/data-source-about.md).&quot;
+      Zie hulpsubhoofdstuk &quot;Admin&quot; > &quot;[ het Vormen Gegevensbronnen ](/help/search-social-commerce/admin/data-sources/data-source-about.md).&quot;
 
 1. Portfolio&#39;s instellen en starten:
 
@@ -72,11 +72,11 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
       >[!NOTE]
       >
-      >Met Zoeken, Sociale media en Handel worden nog steeds gegevens bijgehouden en gerapporteerd voor campagnes die niet aan portfolio&#39;s zijn toegewezen, maar worden biedingen voor hen niet geoptimaliseerd.
+      >Met Zoeken, Sociaal en Commerce worden nog steeds gegevens bijgehouden en gerapporteerd voor campagnes die niet aan portfolio&#39;s zijn toegewezen, maar deze gegevens worden niet geoptimaliseerd.
 
-   1. Nadat er voldoende gegevens beschikbaar zijn om een basislijn te maken, kan het team het portfolio starten. Met Zoeken, Sociale zaken en Handel kunt u biedingen en/of budgetten voor het portfolio optimaliseren op basis van het optimalisatietype.
+   1. Nadat er voldoende gegevens beschikbaar zijn om een basislijn te maken, kan het team het portfolio starten. Met Zoeken, Sociaal en Commerce kunnen biedingen en/of budgetten voor het portfolio worden geoptimaliseerd op basis van het optimalisatietype.
 
-   Raadpleeg voor meer informatie over het instellen en opstarten van portfolio&#39;s de Help over &quot;Optimalisatie&quot;, die beschikbaar is op het tabblad [!UICONTROL Help] menu (![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help")) in de rechterbovenhoek van elke pagina in Zoeken, Sociaal en Handel.
+   Voor details over vestiging en lancering portefeuilles, zie de hulp op &quot;Optimalisering,&quot;die van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce beschikbaar is.
 
 1. De prestaties van uw portfolio&#39;s bewaken:
 
@@ -86,11 +86,11 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    Zie het Help-hoofdstuk over &quot;Inzichten en rapporten&quot; voor meer informatie over het uitvoeren van reclame-inzichten en het opstellen van rapporten.
 
-1. (Optioneel) Configureer uw [prestatiegegevensweergaven](/help/search-social-commerce/common-tasks/data-views/data-views-about.md) om de gegevens weer te geven die u wilt zien.
+1. (Facultatief) vorm uw [ meningen van prestatiesgegevens ](/help/search-social-commerce/common-tasks/data-views/data-views-about.md) om de gegevens te tonen die u wilt zien.
 
 ## Lopende taken
 
-Na de eerste keer starten zijn de volgende lopende taken vereist. Afhankelijk van uw voorwaarden voor betrokkenheid, ofwel [!DNL Adobe], een gelieerde instantie of de adverteerder verricht de volgende taken:
+Na de eerste keer starten zijn de volgende lopende taken vereist. Afhankelijk van uw aanstellingsvoorwaarden voert [!DNL Adobe] , een gelieerde instantie of de adverteerder de volgende taken uit:
 
 * U kunt de prestaties van elke portfolio blijven controleren en analyseren door waarschuwingen, prestatiegegevens voor elke portfolio en de bijbehorende campagnes, aanpasbare rapporten en (sommige rollen) simulaties weer te geven.
 
@@ -108,4 +108,4 @@ Na de eerste keer starten zijn de volgende lopende taken vereist. Afhankelijk va
 
    * Voeg nieuwe portfolio&#39;s toe.
 
-Zie het Help-subhoofdstuk &quot;Optimalisatie&quot; > &quot;Portfolio beheren&quot; > &quot;Prestaties bewaken en beheren&quot;, dat beschikbaar is in het gedeelte [!UICONTROL Help] menu (![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help")) in de rechterbovenhoek van elke pagina in Zoeken, Sociaal en Handel.
+Voor instructies bij het controleren van portefeuilles en het aanpassen van de portefeuillestrategieën, zie hulpsubhoofdstuk &quot;Optimalisering&quot;> &quot;het Leiden Portfolio&#39;s&quot;> &quot;Controle en het Leiden Prestaties,&quot;die van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociale, &amp; Commerce beschikbaar is.
