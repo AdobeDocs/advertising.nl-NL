@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 3500e22944223997dc56dc94c24639a57e8c54f4
+source-git-commit: 56eaa534c1ee61f399b1ab2cd53d9e10ac9b5386
 workflow-type: tm+mt
-source-wordcount: '2081'
+source-wordcount: '2223'
 ht-degree: 0%
 
 ---
@@ -14,190 +14,197 @@ ht-degree: 0%
 
 ## A-B {#a-b}
 
-**advertentiegroep:** Een set advertenties en de bijbehorende trefwoorden, plaatsingen en productgroepen voor een campagne.
+**ad groep:** een reeks advertenties en hun verwante sleutelwoorden, plaatsingen, en productgroepen voor een campagne.
 
-**ad variatie:** Elke advertentie binnen een advertentiegroep of advertentiestrategie.
+**en variatie:** Om het even welke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**[AMO-id](/help/integrations/analytics/ids.md#amo-id):** Een trackingcode waarmee Adobe Advertising gegevens over campagnes kan delen met Adobe Analytics. Het begint met `s_kwcid=`.
+**[identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics te delen. Het begint met `s_kwcid=` .
 
-**biedeenheid:** Een zoekterm, term voor sociale zaken en handel voor een eenheid waarop biedingen worden geplaatst.
+**biedingseenheid:** de termijn van een Onderzoek, van Sociale, &amp; van Commerce voor een eenheid waarop de biedingen worden geplaatst.
 
 * Voor CPC- campagnes, is dit een sleutelwoord en zijn gelijke type voor een onderzoek of inhoudscampagne, een eenheid-vlakke productgroep (het laagste niveau van onderverdeling) voor een het winkelen campagne, of een dynamisch onderzoeksdoel voor een dynamische onderzoek en campagne. Wanneer dezelfde combinatie van trefwoorden en typen, dezelfde productgroep of hetzelfde dynamische zoekdoel voorkomt in meerdere advertentiegroepen in één campagne, worden alle instanties beschouwd als dezelfde biedingseenheid en hebben ze dus hetzelfde bod.
 
-* Voor campagnes met de [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition], of [!DNL Target Return on Ad Spend] uitgavenstrategieën, elke campagne is een biedingseenheid.
+* Voor campagnes met de uitgavenstrategieën [!DNL Maximize Clicks], [!DNL Maximize Conversion Value], [!DNL Maximize Conversions], [!DNL Target Cost Per Acquisition] of [!DNL Target Return on Ad Spend] is elke campagne een biedingseenheid.
 
-* Voor campagnes op [!DNL Yahoo! Display Network], waarbij geen trefwoorden worden gebruikt, hebben alle advertenties in een advertentiegroep hetzelfde bod en worden beschouwd als dezelfde biedingseenheid.
+* Voor campagnes op [!DNL Yahoo! Display Network], waarbij geen trefwoorden worden gebruikt, hebben alle advertenties in een advertentiegroep hetzelfde bod en worden ze beschouwd als dezelfde biedeenheid.
 
-**beperking biedingseenheid:** Zie &#39;restrictie&#39;.
+**de beperking van de biedingseenheid:** zie &quot;beperking.&quot;
 
 ## C-D {#c-d}
 
-**campagne:** Een set advertentiegroepen in één advertentierekening die een budget, tijdspanne, targeting en andere instellingen delen. **Opmerking:** [!DNL Baidu] heeft niet het concept van campagnes, maar Search, Social &amp; Commerce creëert pseudocampagnes voor elke set verwante advertentiegroepen in bestaande [!DNL Baidu] accounts die worden gesynchroniseerd binnen Search, Social &amp; Commerce.
+**campagne:** een reeks ad groepen in één enkele ad rekening die een begroting, tijdspanwijdte, het richten, en andere montages delen. **Nota:** [!DNL Baidu] heeft niet het concept campagnes, maar Onderzoek, Sociale, &amp; Commerce leidt pseudo-campagnes voor elke reeks verwante en groepen in bestaande [!DNL Baidu] rekeningen die binnen Onderzoek, Sociale, &amp; Commerce worden gesynchroniseerd.
 
-**hoofdlettergevoelig veld:** Een hoofdlettergevoelig veld of query behandelt hoofdletters (zoals C) anders dan kleine letters (zoals c). Auto wordt bijvoorbeeld beschouwd als een andere waarde dan auto.
+**case-sensitive gebied:** A case-sensitive gebied of de vraag behandelt hoofdletters (zoals C) verschillend dan kleine letters (zoals c). Auto wordt bijvoorbeeld beschouwd als een andere waarde dan auto.
 
-**klikken:** Eén gebruiker klikt op of binnen een online advertentie.
+**klik:** één enkele gebruiker klikt op of binnen een online advertentie.
 
-**klik op terugkijkvenster:** Een instelling op adverteerderniveau die het aantal dagen na een betaalde klik in een gebeurtenisreeks opgeeft waarin de klik kan worden toegewezen aan een conversie.
+**klik raadplegingsvenster:** een adverteerder-niveau dat het aantal dagen na een betaalde klik in een gebeurtenisreeks specificeert komt voor waarin de klik aan een omzetting kan worden toegeschreven.
 
-**kliktijd:** Het tijdstip waarop een eindgebruiker met een uniek IP adres eerst een advertentie in het advertentienetwerk klikt.
+**kliktijd:** de tijd waarbij een eindgebruiker met een uniek IP adres eerst een advertentie in het advertentienetwerk klikt.
 
-**doorklikfrequentie:** (CTR) Het aantal klikken gedeeld door het aantal indrukken op een advertentie. Advertenties die het meest relevant voor de onderzoeksvraag zijn hebben de hoogste klikthrough tarieven.
+**klik-door tarief:** (CTR) het aantal kliks die door het aantal beelden op een advertentie wordt verdeeld. Advertenties die het meest relevant voor de onderzoeksvraag zijn hebben de hoogste klikthrough tarieven.
 
-**URL voor klikken bijhouden:** Een het volgen malplaatje of een bestemmingsURL met ingebedde code om kliks op een sleutelwoord, en variatie, of plaatsing te volgen.
+**klik-het volgen URL:** Een het volgen malplaatje of een bestemmingsURL met ingebedde code om kliks op een sleutelwoord, en variatie, of plaatsing te volgen.
 
-**beperking:** (Adverteerders met portefeuilles; alleen van toepassing op biedingseenheden in standaardportefeuilles) Een regel voor het bieden op een bepaald trefwoord of een specifieke advertentie. Hiermee worden eventuele limieten op portefeuilleniveau en de aanbevolen biedstrategie genegeerd.
+**beperking:** (Advertisers met portefeuilles; van toepassing op biedingseenheden in standaardportefeuilles slechts) een regel voor het bieden op een specifiek sleutelwoord of een advertentie. Hiermee worden eventuele limieten op portefeuilleniveau en de aanbevolen biedstrategie genegeerd.
 
-**conversie:** De voltooiing van een actie nadat een eind - gebruiker een advertentie klikt, gewoonlijk gevangen als metrisch. Voorbeelden zijn registraties en aankopen, en kunnen tellingen of geldelijke bedragen vertegenwoordigen. Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
+**omzetting:** de voltooiing van een actie nadat een eind - gebruiker een advertentie klikt, gewoonlijk gevangen als metrisch. Voorbeelden zijn registraties en aankopen, en kunnen tellingen of geldelijke bedragen vertegenwoordigen. Een conversie kan uit een of meer transactiegebeurtenissen bestaan, maar de termen &quot;conversie&quot; en &quot;transactie&quot; worden vaak door elkaar gebruikt.
 
-**conversie bijhouden:** Bij conversietracering worden cookies gebruikt om a) de advertenties van een adverteerder op de advertentienetwerken bij te houden en b) de resulterende transacties op de website van de adverteerder.
+**omzetting het volgen:** Conversie het volgen gebruikt koekjes om a) klikken op de advertenties van een adverteerder op de advertentienetwerken en b) de resulterende transacties op de website van de adverteerder te volgen.
 
-**kostennauwkeurigheid:** (Adverteerders met portefeuilles) De werkelijke uitgaven voor een portefeuille gedeeld door de verwachte uitgaven.
+**kostennauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke uitgaven voor een portefeuille die door de voorspelde uitgaven wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kostenmodellen die voor optimalisering worden gebruikt.
 
-**kostenmodel:** (Advertisers met portfolio&#39;s) Technologie voor zoeken, sociale zaken en Commerce die het kostenvolume voorspelt, het bod dat vereist is om elke positie of plaatsing te winnen en de CPC (search) of CPM (display) voor elke biedingseenheid met behulp van historische gegevens en wiskundige voorspellingstechnieken.
+**kostenmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die kostenvolume, de bieding voorspelt die wordt vereist om elke positie of plaatsing te winnen, en CPC (onderzoek) of CPM (vertoning) voor elke biedingseenheid gebruikend historische gegevens en wiskundige het voorspellen technieken.
 
-**dekking kostenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden in CPC- of eCPC-campagnes die in de afgelopen zeven dagen ten minste één indruk hebben gekregen, zodat de optimalisatiefunctie kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostprijsmodellen; de biedingseenheden met kostprijsmodellen tellen mee voor de dekking van het kostprijsmodel.
+**kosten modeldekking:** (Advertisers met portefeuilles) het aantal en/of percentage biedingseenheden in CPC of eCPC campagnes die minstens één indruk in de laatste zeven dagen hebben ontvangen zodat het optimaliseringsvermogen kostenmodellen kan bouwen. Niet alle biedingseenheden hebben kostprijsmodellen; de biedingseenheden met kostprijsmodellen tellen mee voor de dekking van het kostprijsmodel.
 
-**halfwaardetijd kostenmodel:** (Adverteerders met portefeuilles) Het aantal dagen vóór de huidige datum waarvoor de kostengegevens als recenter en derhalve relevanter voor kostenmodellen worden beschouwd.
+**de helft-duur van het kostenmodel:** (Advertisers met portefeuilles) het aantal dagen vóór de huidige datum waarvoor de kostengegevens als recenter en daarom relevanter voor kostenmodellen worden beschouwd.
 
-**kosten per 1000 beelden:** (CPM) De kosten van een advertentie voor elke duizend impressies. Adverteerders die een CPM-prijsmodel gebruiken, betalen door indrukken in plaats van door klikken.
+**kosten per 1000 beelden:** (CPM) de kosten van een advertentie voor elke duizend beelden. Adverteerders die een CPM-prijsmodel gebruiken, betalen door indrukken in plaats van door klikken.
 
-**kosten per aankoop:** (CPA) De kosten van een advertentie gedeeld door het aantal omzettingen. Ook geroepen kosten per transactie (CPT) of kosten per orde (CPO).
+**kosten per verwerving:** (CPA) de kosten van een advertentie die door het aantal omzettingen wordt gedeeld. Ook geroepen kosten per transactie (CPT) of kosten per orde (CPO).
 
-**kosten per klik:** (CPC) 1) De kosten van een advertentie gedeeld door het totale aantal klikken voor de advertentie. Als u bijvoorbeeld 100 USD voor een advertentie uitgeeft en de advertentie 10 klikken genereert, bedragen de kosten per klik 100 USD/10=10 USD per klik. 2) Een prijsmodel waarin adverteerders voor elke advertentieslik worden aangerekend.
+**kosten per klik:** (CPC) 1) de kosten van een advertentie die door het totale aantal kliks voor de advertentie wordt gedeeld. Als u bijvoorbeeld 100 USD voor een advertentie uitgeeft en de advertentie 10 klikken genereert, bedragen de kosten per klik 100 USD/10=10 USD per klik. 2) Een prijsmodel waarin adverteerders voor elke advertentieslik worden aangerekend.
 
-**kosten per bestelling:** (CPO) De kosten van een advertentie gedeeld door het aantal orders. Ook opgeroepen kosten per verwerving (CPA) of kostprijs per transactie (CPT).
+**kosten per orde:** (CPO) de kosten van een advertentie die door het aantal orden wordt gedeeld. Ook opgeroepen kosten per verwerving (CPA) of kostprijs per transactie (CPT).
 
-**kosten per transactie:** (CPT) De kosten van een advertentie gedeeld door het aantal transacties. Ook opgeroepen kosten per verwerving (CPA).
+**kosten per transactie:** (CPT) de kosten van een advertentie die door het aantal transacties wordt gedeeld. Ook opgeroepen kosten per verwerving (CPA).
 
-**CPA:** Zie &quot;Kosten per aankoop.&quot;
+**CPA:** zie &quot;kosten per verwerving.&quot;
 
-**CPC:** Zie &#39;Kosten per klik&#39;.
+**CPC:** zie &quot;kosten per klik.&quot;
 
-**CPM:** Zie &#39;Kosten per 1000 afbeeldingen&#39;.
+**CPM:** zie &quot;kosten per 1000 beelden.&quot;
 
-**CPO:** Zie &#39;Kosten per bestelling&#39;.
+**CPO:** zie &quot;kosten per orde.&quot;
 
-**CPT:** Zie &#39;Kosten per transactie&#39;.
+**CPT:** zie &quot;kosten per transactie.&quot;
 
-**CSV:** Een bestandsindeling die bestaat uit door komma&#39;s gescheiden waarden (CSV).
+**CSV:** het dossierformaat dat van A uit komma-gescheiden waarden (CSV) bestaat.
 
-**CTR:** Zie Doorklikken.
+**CTR:** zie &quot;klik-door tarief.&quot;
 
 ## E-F {#e-f}
 
-**eCPM:** De effectieve CPM, of de gemiddelde betaalde kosten per 1000 beelden tijdens een gespecificeerde datumwaaier. De waarden van eCPM kunnen voor of CPM of CPC campagnes worden berekend.
+**eCPM:** Efficiënte CPM, of gemiddelde betaalde kosten per 1000 beelden tijdens een gespecificeerde datumwaaier. De waarden van eCPM kunnen voor of CPM of CPC campagnes worden berekend.
 
 ## G-H {#g-h}
 
+**half-leven:** de tijd die voor een hoeveelheid wordt vereist om aan de helft van zijn aanvankelijke waarde te verminderen. Voor elke portefeuille, kunt u halfwaardetijden specificeren om erop te wijzen hoe lang gegevens voor kostenmodellen en opbrengstmodellen relevant zijn.
+Zie &quot;halfwaardetijd van het kostenmodel&quot; en &quot;halfwaardetijd van het inkomstenmodel&quot;.
+
 ## I-J {#i-j}
 
-**indruk:** Een enkele weergave van een advertentie op een webpagina, mobiele app of een ander leveringsmedium. Een gebruiker hoeft de advertentie niet te bekijken of erop te klikken om deze als een indruk te tellen.
+**indruk:** één enkele vertoning van een advertentie op een webpage, mobiele app, of ander leveringsmiddel. Een gebruiker hoeft de advertentie niet te bekijken of erop te klikken om deze als een indruk te tellen.
 
-**terugkijkvenster van de indruk:** (Alleen sociale en weergavecampagnes) Een instelling op advertentieniveau die het aantal dagen na het plaatsen van een advertentie aangeeft dat de indruk aan een conversie kan worden toegeschreven.
+**venster van de imitatieraadpleging:** (Vertoning en sociale campagnes slechts) een adverteerder-niveau dat het aantal dagen specificeert nadat een advertentie voorkomt dat de indruk aan een omzetting kan worden toegeschreven.
 
-**dikte van afbeeldingsoverschrijving:** Een opgegeven percentage van een omzettingswaarde dat aan beelden moet worden toegewezen die binnen het venster van de de impresaillening van de cliënt voorkomen wanneer de omzetting door zowel betaalde kliks als impressies wordt voorafgegaan. Wanneer een conversie alleen wordt voorafgegaan door indrukken, wordt het doorkijkgewicht van de adverteerder in plaats van het gewicht dat de indruk overschrijft, toegepast op de impressies.
+**de impressie met voeten treedt gewicht:** Een gespecificeerd percentage van een omzettingswaarde om aan impressies toe te schrijven die binnen het venster van de de imperiatieraadpleging van de cliënt voorkomen wanneer de omzetting door zowel betaalde kliks als impressies wordt voorafgegaan. Wanneer een conversie alleen wordt voorafgegaan door indrukken, wordt het doorkijkgewicht van de adverteerder in plaats van het gewicht dat de indruk overschrijft, toegepast op de impressies.
 
 ## K-L {#k-l}
 
-**trefwoord:** Een woord of uitdrukking dat aan een advertentie is gekoppeld.
+**sleutelwoord:** een woord of een uitdrukking verbonden aan een advertentie.
 
-**trefwoordbeperking:** Zie &#39;constraint&#39;.
+**sleutelwoordbeperking:** zie &quot;beperking.&quot;
 
-**labelindeling:** Een manier om uw accountcomponenten te groeperen in betekenisvolle sets. Een labelclassificatie kan meerdere labelwaarden bevatten, die kenmerken aangeven. Zo kan een indeling van het Geo-label waarden voor verschillende geografische regio&#39;s bevatten.
+**etiketclassificatie:** een manier om uw rekeningscomponenten in zinvolle reeksen te groeperen. Een labelclassificatie kan meerdere labelwaarden bevatten, die kenmerken aangeven. Zo kan een indeling van het Geo-label waarden voor verschillende geografische regio&#39;s bevatten.
 
-**labelwaarde:** An element of a label classificatie. Deze kan als tag worden toegewezen aan het toevoegen van campagnes en campagne-entiteiten, zodat u de prestatiegegevens en -rapporten kunt filteren op label of optionele beperkingen kunt configureren voor de aan het label gekoppelde biedingseenheden.
+**etiketwaarde:** Een element van een etiketclassificatie. Deze kan als tag worden toegewezen aan het toevoegen van campagnes en campagne-entiteiten, zodat u de prestatiegegevens en -rapporten kunt filteren op label of optionele beperkingen kunt configureren voor de aan het label gekoppelde biedingseenheden.
 
-**bestemmingspagina-URL:** De URL van de webpagina van de adverteerder die wordt geopend wanneer de eindgebruiker op een advertentie klikt.
+**het landen pagina URL:** URL van de webpagina van de adverteerder die opent wanneer het eind - de gebruiker een advertentie klikt.
 
 ## M-N {#m-n}
 
-**marginale kosten:** De wijziging van de totale kosten wanneer de hoeveelheid met één eenheid verandert.
+**marginale kosten:** de verandering in totale kosten wanneer het aantal door één eenheid verandert.
 
-**marginale kosten/objectieve waarde:** De kostenwijziging die nodig is om de objectieve waarde met één (1) te verhogen. Dit heeft de zelfde waarde zoals de erfeniskolom &quot;Marginale Kosten-aan-Opbrengst.&quot;
+**marginale kosten-aan-objectieve waarde:** de verandering in kosten nodig om de objectieve waarde met één (1) te verhogen. Dit heeft de zelfde waarde zoals de erfeniskolom &quot;Marginale Kosten-aan-Opbrengst.&quot;
 
-**type overeenkomst:** Een optie waarmee wordt opgegeven hoe zoektermen worden vergeleken met advertenties. De opties variëren per advertentienetwerk.
+**gelijke type:** een optie die specificeert hoe de onderzoekstermijnen aan advertenties worden aangepast. De opties variëren per advertentienetwerk.
 
-**minimumbod:** 1) Het minimumbedrag dat per impressie of per 1000 impressies moet worden betaald. 2) Voor zoektrefwoorden: het minimale bod dat voor een bepaald trefwoord is vereist op basis van de kwaliteitsscore. Het minimumbod is meestal het kleinste bedrag dat je per klik kunt betalen als je trefwoord advertenties moet weergeven.
+**minimumbod:** 1) het minimumbedrag per indruk of per 1000 beelden te betalen. 2) Voor zoektrefwoorden: het minimale bod dat voor een bepaald trefwoord is vereist op basis van de kwaliteitsscore. Het minimumbod is meestal het kleinste bedrag dat je per klik kunt betalen als je trefwoord advertenties moet weergeven.
+
+**modelnauwkeurigheid:** (Advertisers met portefeuilles) het percentage van nauwkeurigheid van de kostenmodellen en opbrengstmodellen die voor het optimaliseren van biedingen, begrotingen, en doelstellingen voor een portefeuille worden gebruikt. Zie &quot;kostprijsmodel&quot;, &quot;kostennauwkeurigheid&quot;, &quot;inkomstenmodel&quot; en &quot;ontvangstennauwkeurigheid&quot;.  [ de rapporten van de modelnauwkeurigheid ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kosten en opbrengstmodellen.
 
 ## O-P {#o-p}
 
-**doelstelling :** (Adverteerders met portfolio&#39;s) Een doelstelling die een klant stelt te bereiken om zijn bedrijfsdoelstelling voor een specifieke portefeuille of een displaycampagne te halen, zoals het maximaliseren van de winst of het bereiken van een specifieke verkoopdoelstelling. Een doel bestaat uit de conversiemetriek die voor het portfolio moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek.
+**doelstelling:** (Advertisers met portefeuilles) een doel dat een cliënt plaatst om zijn bedrijfsdoelstelling voor een specifieke portefeuille of een vertoningscampagne te ontmoeten, zoals om winsten te maximaliseren of een specifiek verkoopdoel te ontmoeten. Een doel bestaat uit de conversiemetriek die voor het portfolio moet worden bijgehouden en geoptimaliseerd, en de relatieve gewichten van die metriek. De totale gewogen conversies voor de portefeuille worden berekend als de &quot;objectieve waarde&quot;.
 
-**objectieve waarde:** (Adverteerders met portefeuilles) De totale gewogen conversies berekend volgens de huidige doelstelling van de portefeuille, met inbegrip van:
+**objectieve waarde:** (Advertisers met portefeuilles) de totale gewogen omzettingen zoals berekend volgens het huidige doel van de portefeuille, die omvatten:
 
-* alle conversies, rekening houdend met a) de gewichten die aan elke conversie in de objectieve functie van de portefeuille zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor doorkijkactiviteiten.
+* alle omzettingen, rekening houdend met a) de gewichten die aan elke conversie in de doelstelling van de portefeuille zijn toegekend en, indien van toepassing, b) het doorkijkgewicht voor doorkijkcijfers.
 
-* alle klikken, die de optimalisatiecapaciteit als één enkele omzetting beschouwt en gewogen wordt volgens de klikwaarde voor het doel.
+* alle klikken, die de optimaliseringscapaciteit één enkele omzetting beschouwt en volgens de klikwaarde voor het doel gewogen is.
 
-Dit heeft dezelfde waarde als de oude kolom &quot;WeGewogen Omzet&quot;.
+Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
-**optimalisatiefunctie:** (Advertisers met portfolio&#39;s) Zoek-, sociale en Commerce-technologie voor trefwoordbiedingen, die de optimale strategie voor biedingen en begrotingsbeheer voor een portfolio bepaalt op basis van de bedrijfsdoelstelling.
+**optimaliseringsvermogen:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; het sleutelwoordbiedende technologie van Commerce, die de optimale biedings en begrotingsbeheerstrategie voor een portefeuille bepaalt die op zijn bedrijfsdoelstelling wordt gebaseerd.
 
-**verweesde transactie:** Een transactiegebeurtenis die niet aan een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
+**verweesde transactie:** de transactiegebeurtenis van A die niet met een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
 
-**pixel:** Een transparante, één pixel bij één pixel ingesloten afbeelding op een webpagina voor traceringsdoeleinden. Codes voor het bijhouden van Adoben Advertising bevatten een HTML-afbeeldingspixel of JavaScript om kliks en de resulterende  bij te houden.
+**pixel:** transparant, één pixel door één pixelbeeld ingebed op een webpagina voor het volgen doeleinden. Codes voor het bijhouden van Adoben Advertising bevatten een HTML-afbeeldingspixel of JavaScript om kliks en de resulterende  bij te houden.
 
-**plaatsing:** Een locatie op een weergavenetwerk waar uw advertenties kunnen worden weergegeven. Het kan een gehele website, een subset van een website of een advertentiepunt op een specifieke pagina zijn.
+**plaatsing:** een plaats op een vertoningsnetwerk waarin uw advertenties kunnen verschijnen. Het kan een gehele website, een subset van een website of een advertentiepunt op een specifieke pagina zijn.
 
-**portfolio:** Een set advertentiecampagnes en de bijbehorende biedingseenheden die zijn geoptimaliseerd voor één bedrijfsdoelstelling en een prestatiedoel.
+**portefeuille:** een reeks advertentiecampagnes, en hun bijbehorende biedingseenheden, die aan één enkele bedrijfsdoelstelling en een prestatiedoel worden geoptimaliseerd.
 
-**POS:** percentage van de uitgaven
+**POS:** percentage van uitgaven
 
-**PPC:** Zie Betalen per klik.
+**PPC:** zie &quot;per klik betalen.&quot;
 
-**eigenschap:** Zie &#39;metrische conversie&#39;.
+**bezit:** zie &quot;metrische omzetting.&quot;
 
-**eigenschapstijd:** Het tijdstip waarop een individuele conversiegebeurtenis plaatsvindt. Wanneer een gebeurtenis gerelateerde follow-upgebeurtenissen bevat (zoals een klant die zich eerst registreert voor een gratis proefversie en die zich later abonneert op een betaalde service), heeft elke gebeurtenis zijn eigen eigenschapstijd.
+**bezitstijd:** de tijd waarop een individuele omzettingsgebeurtenis voorkomt. Wanneer een gebeurtenis gerelateerde follow-upgebeurtenissen bevat (zoals een klant die zich eerst registreert voor een gratis proefversie en die zich later abonneert op een betaalde service), heeft elke gebeurtenis zijn eigen eigenschapstijd.
 
 ## Q-R {#q-r}
 
-**kwaliteitsscore:** Een score die een advertentienetwerk aan een van uw trefwoorden toewijst om de biedprijs en de advertingspositie te bepalen. Het wordt berekend volgens de relevantie van het sleutelwoord aan zijn bijbehorende advertentie en aan de het onderzoeksvraag van de gebruiker, het klikthrough tarief van het sleutelwoord, en andere factoren.
+**kwaliteitsscore:** de score van A die een advertentienetwerk aan één van uw sleutelwoorden toewijst om zijn biedprijs en advertentiepunt te bepalen. Het wordt berekend volgens de relevantie van het sleutelwoord aan zijn bijbehorende advertentie en aan de het onderzoeksvraag van de gebruiker, het klikthrough tarief van het sleutelwoord, en andere factoren.
 
-**URL omleiden:** Deel van een doel-URL dat de gebruiker naar een andere server stuurt vóór, of in plaats van, de landingspagina van de adverteerder.
+**richt URL opnieuw:** Deel van een bestemmingsURL die de gebruiker naar een andere server vóór, of in plaats van, de het landen pagina van de adverteerder verzendt.
 
-**rendement van investeringen:** (ROI) Ontvangsten minus kosten.
+**rendement op investering:** (ROI) Inkomsten minus kosten.
 
-**nauwkeurigheid van de ontvangsten:** (Adverteerders met portefeuilles) De werkelijke opbrengsten van een portefeuille gedeeld door de voorspelde opbrengsten.
+**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt.
 
-**inkomstenmodel:** (Advertisers met portfolio&#39;s) Zoek-, sociale en Commerce-technologie die de conversiekoers en het geschatte rendement voor elke biedeenheid voorspelt, op basis van de klikgegevens (zoekgegevens en sociale gegevens) of de impressiegegevens (display) en de conversiegegevens van de adverteerder.
+**opbrengstmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die de omzettingspercentage en het geschatte rendement voor elke biedingseenheid voorspelt, die op de klikgegevens (onderzoek en sociale) of (vertoning) beeldgegevens en de omzettingsgegevens van adverteerders wordt gebaseerd.
 
-**dekking inkomstenmodel:** (Adverteerders met portefeuilles) Het aantal en/of het percentage biedingseenheden in een portefeuille met inkomstenmodellen. Inschrijvingseenheden kunnen inkomstenmodellen hebben, zelfs als ze geen inkomsten hebben maar wel indrukken hebben.
+**de dekking van het opbrengstmodel:** (Advertisers met portefeuilles) het aantal en/of het percentage biedingseenheden in een portefeuille met opbrengstmodellen. Inschrijvingseenheden kunnen inkomstenmodellen hebben, zelfs als ze geen inkomsten hebben maar wel indrukken hebben.
 
-**halfwaardetijd inkomstenmodel:** (Adverteerders met portefeuilles) Het aantal dagen vóór de huidige datum waarvoor de inkomstengegevens als recenter en derhalve relevanter voor inkomstenmodellen worden beschouwd.
+**de helft-duur van het opbrengstmodel:** (Advertisers met portefeuilles) het aantal dagen vóór de huidige datum waarvoor de opbrengstgegevens als recenter en daarom relevanter voor opbrengstmodellen worden beschouwd.
 
-**ROI:** Zie &quot;Rendement van investeringen&quot;.
+**ROI:** zie &quot;rendement op investering.&quot;
 
 ## S-T {#s-t}
 
-**simulatie:** (Adverteerders met portefeuilles) Portfoliomodellering die het aantal klikken en conversies schat dat een portefeuille kan verwachten voor verschillende bestedingsniveaus en corresponderende dagelijkse begrotingen, aan de hand van historische gegevens.
+**simulatie:** (Advertisers met portefeuilles) Portfolio modellering die het aantal kliks en omzettingen schat die een portefeuille voor verschillende niveaus van uitgaven en overeenkomstige dagelijkse begrotingen kan verwachten, gebruikend historische gegevens.
 
-**uitgavenstrategie:** (Advertisers met portfolio&#39;s) De geselecteerde strategie voor het optimaliseren van trefwoorden/advertenties voor een portfolio.
+**besteedt strategie:** (Advertisers met portefeuilles) de geselecteerde strategie om sleutelwoord/het bieden voor een portefeuille te optimaliseren.
 
-**`s_kwcid`:** Zie &quot;AMO-id&quot;.
+**`s_kwcid`:** Zie &quot;AMO-id.&quot;
 
-**URL bijhouden:** Een trackingsjabloon of een doel-URL met extra parameters die worden toegevoegd om informatie over klikken op de advertentie bij te houden. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
+**het volgen URL:** Een het volgen malplaatje of een bestemmingsURL met extra parameters die aan spoorinformatie over kliks op de advertentie worden toegevoegd. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
 
-**transactie:** Elke traceerbare gebeurtenis die online of offline plaatsvindt. Meerdere transactiegebeurtenissen kunnen samen worden bijgehouden als onderdeel van dezelfde transactie of conversie. Een onlineverzoek om informatie plus een resulterende bestelling per telefoon kan bijvoorbeeld worden beschouwd als onderdeel van een aankoop. De termen &quot;transactie&quot; en &quot;conversie&quot; worden vaak door elkaar gebruikt. Een transactie wordt vertegenwoordigd door een transactie-id en er zijn een of meer eigenschappen aan gekoppeld.
+**transactie:** Om het even welke traceerbare gebeurtenis die online of off-line voorkomt. Meerdere transactiegebeurtenissen kunnen samen worden bijgehouden als onderdeel van dezelfde transactie of conversie. Een onlineverzoek om informatie plus een resulterende bestelling per telefoon kan bijvoorbeeld worden beschouwd als onderdeel van een aankoop. De termen &quot;transactie&quot; en &quot;conversie&quot; worden vaak door elkaar gebruikt. Een transactie wordt vertegenwoordigd door een transactie-id en er zijn een of meer eigenschappen aan gekoppeld.
 
-**transactie-id:** Een door de adverteerder opgegeven id die een transactie identificeert. Wanneer een transactie meerdere gebeurtenissen bevat, hebben deze allemaal dezelfde transactie-id.
+**transactie identiteitskaart:** een adverteerder-gespecificeerde identiteitskaart die een transactie identificeert. Wanneer een transactie meerdere gebeurtenissen bevat, hebben deze allemaal dezelfde transactie-id.
 
-**transactie-eigenschap:** Zie &quot;conversie&quot;.
+**transactiebezit:** zie &quot;omzetting.&quot;
 
-**transactietijd:** Het tijdstip waarop een klik of indruk in een transactie wordt omgezet. Wanneer een transactie uit meerdere transactiegebeurtenissen bestaat (zoals wanneer een klant zich voor het eerst voor een gratis proefperiode registreert en later op een betaalde service abonneert), is de transactietermijn afkomstig van de eerste gebeurtenis in de keten (registratie voor de gratis proefversie).
+**transactietijd:** de tijd waarbij een klik of een indruk in een transactie wordt omgezet. Wanneer een transactie uit meerdere transactiegebeurtenissen bestaat (zoals wanneer een klant zich voor het eerst voor een gratis proefperiode registreert en later op een betaalde service abonneert), is de transactietermijn afkomstig van de eerste gebeurtenis in de keten (registratie voor de gratis proefversie).
 
-**TSV:** Een bestandsindeling die bestaat uit door tabs gescheiden waarden (CSV).
+**TSV:** het dossierformaat dat van A uit lusje-gescheiden waarden (CSV) bestaat.
 
 ## U-V {#u-v}
 
-**view-through:** (Weergave en sociale advertenties) Een advertentie (of een reeks indrukkingen) die leidt tot een conversie zonder dat de gebruiker op een advertentie klikt.
+**mening-door:** (Vertoning en sociale advertenties) een advertentie (of koord van impressies) die in een omzetting zonder de gebruiker het klikken van een advertentie resulteert.
 
-**doorkijkgewicht:** (Alleen weergave- en sociale campagnes) Een instelling op adverteerderniveau die het gewicht aangeeft dat aan een doorkijkconversie moet worden toegewezen in verhouding tot het gewicht dat aan een klikconversie wordt toegewezen, als een percentage.
+**mening-door gewicht:** (Vertoning en sociale campagnes slechts) een adverteerder-niveau dat het gewicht aan een mening-door omzetting met betrekking tot de gewicht specificeert die aan een op klik-gebaseerde omzetting, als percentage wordt toegeschreven.
 
 ## W-X {#w-x}
 
-**gewogen ontvangsten:** Zie &quot;objectieve waarde&quot;.
+**gewogen doelstelling:** zie &quot;doelstelling.&quot;
 
-**XLS** of **XLSX**: Een binaire bestandsindeling voor [!DNL Microsoft Office Excel] werkboeken.
+**gewogen opbrengst:** zie &quot;objectieve waarde.&quot;
+
+**XLS** of **XLSX**: Een binair dossierformaat voor [!DNL Microsoft Office Excel] werkboeken.
 
 ## Y-Z {#y-z}

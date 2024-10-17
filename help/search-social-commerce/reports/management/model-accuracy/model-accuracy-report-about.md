@@ -1,20 +1,20 @@
 ---
 title: Informatie over modelnauwkeurigheidsrapporten
-description: Meer informatie over rapporten die de nauwkeurigheid aangeven van de kosten- en inkomstenmodellen die worden gebruikt om biedingen te optimaliseren.
-exl-id: 8aeb2308-8775-4a6d-9d25-ba5378490344
+description: Meer informatie over rapporten die de nauwkeurigheid aangeven van de kosten- en inkomstenmodellen die worden gebruikt om een portfolio te optimaliseren.
+exl-id: 2f655db6-8f4f-4eae-9f18-cc04acad3c5c
 feature: Search Reports, Search Model Accuracy Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: 93e8e7748c62f6938b6728e6ddcadc389b0ad85b
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
 
 # Informatie over modelnauwkeurigheidsrapporten
 
-De modelnauwkeurigheidsrapporten geven de nauwkeurigheid aan van de kosten- en inkomstenmodellen die worden gebruikt om biedingen te optimaliseren.
+Modelnauwkeurigheidsrapporten geven de nauwkeurigheid aan van de kosten- en inkomstenmodellen die worden gebruikt voor het optimaliseren van biedingen, begrotingen en doelen voor een portefeuille, naar gelang van het optimalisatietype.
 
-Onnauwkeurigheden kunnen prestatieproblemen aangeven en het is mogelijk dat u de portfolioinstellingen moet aanpassen. Voor meer informatie over het oplossen van problemenvoorspelde onnauwkeurigheden, zie &quot;FAQs over Portfolio&quot;in de sectie van Portfolio van de Gids van de Optimalisering, die van binnen Onderzoek, Sociale, &amp; Handel beschikbaar is.<!-- verify convention for referencing Optimization Guide here -->
+Onnauwkeurigheden kunnen prestatieproblemen aangeven en het is mogelijk dat u de portfolioinstellingen moet aanpassen. Voor meer informatie over het oplossen van problemenvoorspelde onnauwkeurigheden, zie &quot;FAQs over Portfolio&#39;s&quot;in de sectie van Portfolio&#39;s van de Gids van de Optimalisering, die van binnen Onderzoek, Sociaal, &amp; Commerce beschikbaar is.<!-- verify convention for referencing Optimization Guide here -->
 
 ## Typen modelnauwkeurigheidsrapporten
 
@@ -24,8 +24,8 @@ Onnauwkeurigheden kunnen prestatieproblemen aangeven en het is mogelijk dat u de
 
 >[!MORELIKETHIS]
 >
->* [De [!UICONTROL Forecast Accuracy Report]](forecast-accuracy-report.md)
->* [De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
->* [Een rapport over de modelnauwkeurigheid genereren](model-accuracy-report-generate.md)
->* [Instellingen van modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
->* [Informatie over rapporten](/help/search-social-commerce/reports/report-about.md)
+>* [ De [!UICONTROL Forecast Accuracy Report]](forecast-accuracy-report.md)
+>* [ De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
+>* [ produceer een rapport van de modelnauwkeurigheid ](model-accuracy-report-generate.md)
+>* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
