@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 625bb9a466684993ac55d6358880b1ff3052d592
+source-git-commit: 128446e8fad1e2c973a62042933cc52bb556a71d
 workflow-type: tm+mt
-source-wordcount: '2240'
+source-wordcount: '2242'
 ht-degree: 0%
 
 ---
@@ -123,7 +123,7 @@ Zie &quot;halfwaardetijd van het kostenmodel&quot; en &quot;halfwaardetijd van h
 
 **minimumbod:** 1) het minimumbedrag per indruk of per 1000 beelden te betalen. 2) Voor zoektrefwoorden: het minimale bod dat voor een bepaald trefwoord is vereist op basis van de kwaliteitsscore. Het minimumbod is meestal het kleinste bedrag dat je per klik kunt betalen als je trefwoord advertenties moet weergeven.
 
-**modelnauwkeurigheid:** (Advertisers met portefeuilles) het percentage van nauwkeurigheid van de kostenmodellen en opbrengstmodellen die voor het optimaliseren van biedingen, campagnebegrotingen, en de doelstellingen van de biedingsstrategie voor een portefeuille worden gebruikt. Zie &quot;kostprijsmodel&quot;, &quot;kostennauwkeurigheid&quot;, &quot;inkomstenmodel&quot; en &quot;ontvangstennauwkeurigheid&quot;.  [ de rapporten van de modelnauwkeurigheid ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kosten en opbrengstmodellen.
+**modelnauwkeurigheid:** (Advertisers met portefeuilles) het percentage van nauwkeurigheid van de kostenmodellen en opbrengstmodellen die voor het optimaliseren van biedingen, campagnebegrotingen, en de doelstellingen van de biedingsstrategie voor een portefeuille worden gebruikt. Zie &quot;kostprijsmodel&quot;, &quot;kostennauwkeurigheid&quot;, &quot;inkomstenmodel&quot; en &quot;ontvangstennauwkeurigheid&quot;.
 
 ## O-P {#o-p}
 
@@ -163,7 +163,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **rendement op investering:** (ROI) Inkomsten minus kosten.
 
-**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt.
+**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt, en het [[!UICONTROL Model Accuracy] inzicht ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
 
 **opbrengstmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die de omzettingspercentage en het geschatte rendement voor elke biedingseenheid voorspelt, die op de klikgegevens (onderzoek en sociale) of (vertoning) beeldgegevens en de omzettingsgegevens van adverteerders wordt gebaseerd.
 
