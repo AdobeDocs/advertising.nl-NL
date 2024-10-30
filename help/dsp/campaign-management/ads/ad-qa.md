@@ -1,47 +1,51 @@
 ---
-title: Advertentiegegevens controleren met behulp van spreadsheets
-description: Leer hoe u met behulp van spreadsheets de advertentie-instellingen en bijbehorende plaatsingen kunt bekijken en details kunt bekijken.
+title: Details toevoegen bekijken en bewerken met behulp van bulksbladen
+description: Leer hoe je advertentie-instellingen in bulk bekijkt met behulp van spreadsheets.
 feature: DSP Ads
 exl-id: a223d4e1-2264-49fa-8579-817e7ea6ea56
-source-git-commit: b469ce7db2bddb99062b32aef25e3e5ae524fa61
+source-git-commit: 4191ecdd67323cf30d42ad08fa30e72a489180ab
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '238'
 ht-degree: 0%
 
 ---
 
-# Advertentiegegevens controleren met behulp van spreadsheets
+# Details toevoegen bekijken en bewerken met behulp van bulksbladen
 
-U kunt details over alle advertenties in een campagne in XLSX (Excel spreadsheet) formaat voor overzicht downloaden. De details omvatten één lusje met de montages en bijbehorende plaatsen voor elke advertentie en een ander lusje met elke pixel die voor advertenties in de campagne wordt gebruikt.
+<!-- I should probably change this filename and get __?__ to set up a redirect from the old file to the new file. -->
+
+U kunt gegevens over alle advertenties in een campagne downloaden in de XLSX-indeling (Excel-spreadsheet) voor revisie. De details omvatten één tabblad met de instellingen en bijbehorende plaatsingen voor elke advertentie en een ander tabblad met elke pixel die wordt gebruikt voor advertenties in de campagne.
+
+Om de advertentiedetails uit te geven, zie &quot;[ Overzicht en geef de Montages van de Component van de Campagne Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md) uit.&quot;
 
 >[!NOTE]
 >
->*Als u uw advertentie-instellingen wilt bewerken, raadpleegt u [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md).
->*Raadpleeg &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot;
+>*Om individuele advertentiemontages uit te geven, zie ook &quot;[ een Advertentie ](/help/dsp/campaign-management/ads/ad-edit.md) uitgeven.&quot;
+>*Om de derde volgende pixel voor veelvoudige advertenties te veranderen meteen of om advertenties aan plaatsen vast te maken, zie ook &quot;[ Advertenties aan Plaatsen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken.&quot;
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+## Details downloaden voor alle advertenties in een campagne
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
 1. Klik op de naam van de campagne.
 
-1. Open de [!UICONTROL Ad Tools] op een van de volgende manieren te bekijken:
+1. Klik rechtsboven op **[!UICONTROL ...]** > **[!UICONTROL Download QA sheet]** .
 
-   * (Vanaf de [!UICONTROL Packages] , [!UICONTROL Placements], of [!UICONTROL Ads] weergave) Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
+1. Hef in het dialoogvenster [!UICONTROL QA Sheet Download] de selectie op van de campagnecomponenten waarvan u de instellingen wilt uitsluiten van het gedownloade bestand en klik vervolgens op **[!UICONTROL Download]** .
 
-   * (Vanaf de [!UICONTROL Placements] (weergave) Naast de plaatsingsnaam klikt u op **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+Standaard worden instellingen voor alle campagnecomponenten geselecteerd.
 
-   * (Vanaf de [!UICONTROL Ads] (weergave) Naast de naam van de advertentie klikt u op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+Een meldingsbericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
-1. Klik rechtsboven op **[!UICONTROL ...]** > **[!UICONTROL Download Ads QA].**
+1. Voer een van de volgende twee handelingen uit om het bestand te downloaden:
 
-1. Download het bestand:
+   * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   1. Klik rechts van de bovenste menubalk op ![Taken](/help/dsp/assets/downloads.png).
+   * Rechts van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
-   1. Wanneer de taak is voltooid en het bestand beschikbaar is, klikt u op **[!UICONTROL Download]** naast de taak.
-
-      Het bestand wordt opgeslagen als een werkbladbestand (in XLSX-indeling) volgens de normale procedure van uw browser.
+     Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[ de Kolommen van de Plaatsing in Gedownloade/Geüploade Spreadsheets ](#qa-sheet-columns)&quot;voor een lijst van de inbegrepen kolommen.
 
 >[!MORELIKETHIS]
 >
->* [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
->* [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+>* [ geef een Advertentie uit ](/help/dsp/campaign-management/ads/ad-edit.md)
+>* [ Advertenties aan Plaatsen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken
