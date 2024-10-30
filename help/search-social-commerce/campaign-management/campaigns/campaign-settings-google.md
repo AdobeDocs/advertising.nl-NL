@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: c4fa1ffa1dd21b2889ea18cb6a1a7cdec477bcfe
+source-git-commit: ae98579b6b2edb54de5753e84891987a88184515
 workflow-type: tm+mt
-source-wordcount: '2503'
+source-wordcount: '2576'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,13 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar u advertenties wilt plaatsen en welke soorten advertenties wilt plaatsen
-de campagne kan het volgende bevatten :
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar u advertenties wilt plaatsen en welke soorten advertenties de campagne kan bevatten:
 
-* *[!UICONTROL Search Network Only]:* toont advertenties op het onderzoeksnetwerk, dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartsites omvat. U moet trefwoorden opgeven voor elke advertentiegroep.
+* *[!UICONTROL Search Network Only]:* toont advertenties op het onderzoeksnetwerk, dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartnerplaatsen omvat. U moet trefwoorden opgeven voor elke advertentiegroep.
 
-* *[!UICONTROL Search with Display Select]:* toont advertenties op het onderzoeksnetwerk (dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartsites omvat) en toont potentieel advertenties op de plaatsen van het vertoningsnetwerk. Op het weergavenetwerk geeft [!DNL Google Ads] uw advertenties selectief weer met automatische biedingen, ongeacht de biedstrategie van de campagne. Geef voor zoekadvertenties trefwoorden op voor elke advertentiegroep. Geef voor weergaveadvertenties plaatsingen op en geef desgewenst trefwoorden op voor elke advertentiegroep.
+* *[!UICONTROL Search with Display Select]:* toont advertenties op het onderzoeksnetwerk (dat [!DNL Google] onderzoeksresultaten en, naar keuze, onderzoekspartnerplaatsen omvat) en toont potentieel advertenties op de plaatsen van het vertoningsnetwerk. Op het weergavenetwerk geeft [!DNL Google Ads] uw advertenties selectief weer met geautomatiseerde biedingen, ongeacht de biedingsstrategie van de campagne. Voor zoekadvertenties geeft u trefwoorden op voor elke advertentiegroep; voor weergaveadvertenties geeft u plaatsingen op en geeft u desgewenst trefwoorden op voor elke advertentiegroep.
 
-* *[!UICONTROL Shopping Network]:* toont productadvertenties, die [!DNL Google] automatisch genereert op basis van uw producten in [!DNL Google Merchant Center] on [!DNL Google Shopping] , het gebied naast [!DNL Google] zoekresultaten (apart van tekstadvertenties) en (optioneel) zoekpartnerwebsites. Voor elke advertentiegroep in de campagne kunt u productgroepen opgeven die u wilt adverteren.
+* *[!UICONTROL Shopping Network]:* Toont productadvertenties, die [!DNL Google] automatisch genereert op basis van uw producten in [!DNL Google Merchant Center] on [!DNL Google Shopping] , het gebied naast [!DNL Google] zoekresultaten (apart van tekstadvertenties) en (optioneel) zoekpartnerwebsites. Voor elke advertentiegroep in de campagne kunt u productgroepen opgeven die u wilt adverteren.
 
 * *[!UICONTROL Display Network Only]:* toont advertenties op het vertoningsnetwerk. Voor elke advertentiegroep moet u plaatsingen specificeren en kunt naar keuze sleutelwoorden specificeren.
 
@@ -141,9 +140,9 @@ de producten van de campagne worden verkocht . Omdat de producten met doellanden
 
       * Als u een locatie wilt uitbreiden naar de subcomponenten (zoals de staten, metropolitane gebieden of steden in de VS), klikt u op de naam van de locatie.
 
-      * Als u naar een locatie wilt zoeken, typt of plakt u ten minste de eerste drie tekens van de locatie in het invoerveld. Klik in de zoekresultaten op **[!UICONTROL Include]** naast een locatie die u wilt opnemen of op **[!UICONTROL Exclude]** naast een locatie die u wilt uitsluiten.
+      * Als u naar een locatie wilt zoeken, moet u ten minste de eerste drie tekens van de locatie in het invoerveld invoeren of plakken. Klik in de zoekresultaten op **[!UICONTROL Include]** naast een locatie die u wilt opnemen of op **[!UICONTROL Exclude]** naast een locatie die u wilt uitsluiten.
 
-   * (De plaatsen dichtbij een adres; omvatten slechts doelstellingen) klikken **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klikken dan **[!UICONTROL Address]**. Voer het adres en de straal in mijl of kilometers rond het te richten adres in, en klik vervolgens op **[!UICONTROL Add]**.
+   * (Plaatsen dichtbij een adres; inbegrepen doelstellingen slechts) klik **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " Doel van het Straal ")), en klik dan **[!UICONTROL Address]**. Voer het adres en de straal in mijlen of kilometers rond het adres in dat u wilt gebruiken en klik op **[!UICONTROL Add]** .
 
    * (Plaatsen dichtbij geografische coördinaten; omvat slechts doelstellingen) klik **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klik dan **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik op **[!UICONTROL Add]** .
 
@@ -155,9 +154,9 @@ de producten van de campagne worden verkocht . Omdat de producten met doellanden
 
 **Nota:**
 
-* Zoeken, Sociaal en Commerce biedt geen automatische correcties voor biedingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] biedt voor het toewijzen van overboekingslocaties aan locatiedoelen:
+* Search, Social en Commerce bieden geen automatisch aangepaste biedingsaanpassingen voor de volgende locatiedoelen vanwege beperkingen in de gegevens die [!DNL Google Ads] biedt voor het toewijzen van overslaglocaties aan locatiedoelen:
 
-   * Straal
+   * Straaldoelen.
 
    * Sommige locaties onder het niveau van de staat/provincie/regio/provincie/prefectuur waarvoor [!DNL Google Ads] geen bovenliggende locatie in de URL van de surfer verzendt, inclusief luchthavens en congresdistricten van de VS.
 
@@ -195,6 +194,18 @@ per land. Als u niets selecteert, worden alle doelgroepen gebruikt.
 <!-- **[!UICONTROL DSA Language]:** -->
 
 {{$include /help/_includes/dsa-language.md}}
+
+## [!UICONTROL Customer Acquisition Goals]
+
+**[!UICONTROL Customer Acquisition]:** (De maximum en onderzoekscampagnes van Prestaties slechts) hoe te om biedingen voor nieuwe klanten en bestaande klanten toe te wijzen:
+
+* *[!UICONTROL Bid equally for new and existing customers]*
+
+* *[!UICONTROL Bid higher for new customers than for existing customers]*
+
+  **Nota:** om dit het plaatsen te gebruiken, moet u het nieuwe doel van de klantenverwerving voor de [!DNL Google Ads] rekening of, indien van toepassing, voor de managerrekening eerst activeren. Het doel bepaalt de in aanmerking komende bestaande klantenlijsten en de extra omzettingswaarde voor nieuwe klanten in de omzettingsmontages. Zie Stappen 1-2 in de [!DNL Google Ads] hulp &quot;[ activeert het nieuwe doel van de klantenverwerving ](https://support.google.com/google-ads/answer/14007601).&quot;
+
+* *[!UICONTROL Only bid for new customers]*
 
 ## [!UICONTROL Negative Keywords]
 
@@ -318,9 +329,9 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 
 * Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
-**[!UICONTROL Long Headlines]:** minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], maar niet in beide bewerkingen.
+**[!UICONTROL Long Headlines]:** Minstens één, en tot vijf, lange kopregels met een maximum van 90 karakters elk. U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library] - maar niet in beide bewerkingen.
 
-* U voert als volgt tekst in:
+* Tekst invoeren:
 
    1. Voer op het tabblad [!UICONTROL Enter Text] de tekst in.
 
@@ -347,9 +358,9 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 >[!NOTE]
 >De signalen van het publiek zijn verschillend van [ campagne-niveau en ad groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
-**[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
+**[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Het houdt rekening met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *ELIGIBEL omvatten,* *BEPERKT,* *NOT_ELIGIBLE,* *GEPAUZEERD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONGEPERD.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
-**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*}
+**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande assetgroepen in maximaal presterende campagnes) Aanvullende informatie over de primaire status van de assetgroep. De waarden kunnen *ASSET_GROUP_DISAPPROVED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAE N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*
 
 ## [!UICONTROL Conversion Goals]
 
@@ -368,4 +379,3 @@ Om een doel van de douaneomzetting tot stand te brengen, klik **[!UICONTROL + Ad
 >[!MORELIKETHIS]
 >
 >* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
-
