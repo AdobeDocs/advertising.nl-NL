@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 4fb843e66edddd4585d4a9b142eb9a7750152d27
+source-git-commit: 2dfa561f664672905fd40a005dde7b6ff49a970c
 workflow-type: tm+mt
-source-wordcount: '1436'
+source-wordcount: '1540'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **[!UICONTROL Name]:** De rapportnaam. De maximumlengte is 180 tekens.
 
-**[!UICONTROL Report Type]:** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]* of *[!UICONTROL Household Conversions]* .
+**[!UICONTROL Report Type]:** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL Path to Conversions Beta]*, *[!UICONTROL Path Length Beta]* of *[!UICONTROL Time to Conversion Beta]*.
 
 ## [!UICONTROL Report Range] Sectie
 
@@ -24,9 +24,9 @@ Deze sectie bepaalt de gegevens die in het rapport inbegrepen zijn. Aan opstelli
 
 **[!UICONTROL Observe Daylight Savings Time]:** beschouwt zomertijd in de gemelde tijden.
 
-**Waaier:** de datumwaaier waarvoor om gegevens te produceren. Het aantal beschikbare dagen varieert per rapport en per geselecteerde afmeting. Kies een optie:
+**Waaier:** de datumwaaier waarvoor om gegevens te produceren. Het aantal beschikbare dagen varieert per rapport en per geselecteerde afmetingen. Kies een optie:
 
-* **[!UICONTROL Last Calendar Week]:** Bevat gegevens voor de vorige kalenderweek.
+* **[!UICONTROL Last Calendar Week]:** bevat gegevens voor de vorige kalenderweek.
 
 * **[!UICONTROL Last Calendar Month]:** Bevat gegevens voor de vorige kalendermaand.
 
@@ -34,11 +34,11 @@ Deze sectie bepaalt de gegevens die in het rapport inbegrepen zijn. Aan opstelli
 
 ## [!UICONTROL Report Run schedule] Sectie
 
-Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan opstelling de data waarvoor om rapportgegevens te omvatten, zie &quot;[!UICONTROL Report range]&quot;sectie.
+In deze sectie worden de datums bepaald waarop het rapport wordt uitgevoerd. Als u de datums wilt instellen waarvoor u rapportgegevens wilt opnemen, raadpleegt u de sectie &quot;[!UICONTROL Report range]&quot;.
 
-**\[Schedule\]:** Wanneer genereert u het rapport:
+**\[Planning\]:** Wanneer genereert u het rapport:
 
-* *[!UICONTROL Immediately]*: voegt het rapport onmiddellijk toe aan de rapportwachtrij.
+* *[!UICONTROL Immediately]*: Hiermee voegt u het rapport direct toe aan de rapportwachtrij.
 
   >[!NOTE]
   >
@@ -62,31 +62,40 @@ Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan ops
 
 ## [!UICONTROL Apply Filters] Sectie
 
-**[!UICONTROL Add Filters]:** (Facultatieve) Extra afmetingen waardoor om de gegevens te filtreren, al dan niet de afmetingen als kolommen in het rapport inbegrepen zijn. De beschikbare filters verschillen per rapporttype en kunnen zijn: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]* en *[!UICONTROL Video Duration]* .
-
-\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor [ cross-account rapportering ](report-about.md#cross-account-reporting) wordt gevormd: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met het accountteam van de Adobe voor meer informatie over het melden van overschrijvingen.
+**[!UICONTROL Filter by]:** (Optioneel) Aanvullende afmetingen waarmee de gegevens moeten worden gefilterd, ongeacht of de afmetingen als kolommen in het rapport zijn opgenomen. De beschikbare filters variëren per rapporttype en kunnen zijn: *[!UICONTROL Account]*\*, *[!UICONTROL Ad Type]*, *[!UICONTROL Ads]*, *[!UICONTROL Advertiser]*, *[!UICONTROL Campaign]*, *[!UICONTROL Country]*, * *[!UICONTROL Package]*, *[!UICONTROL Placement]*, *[!UICONTROL Video]* en *[!UICONTROL Video Duration]* .
 
 Ga als volgt te werk om een of meer filters toe te passen:
 
-* Selecteer een afmeting, selecteer de exploitant (*evenaart* of *niet evenaart*), en selecteer dan de toepasselijke waarde. Bijvoorbeeld, om gegevens voor slechts preroll advertenties terug te keren, specificeer &quot;[!UICONTROL Ad Type equals Preroll]&quot;.
+* Selecteer een afmeting, selecteer de exploitant (*evenaart* of *niet evenaart*), en selecteer dan de toepasselijke waarde. Als u bijvoorbeeld alleen gegevens wilt retourneren voor pre-olladvertenties, geeft u &quot;[!UICONTROL Ad Type equals Preroll]&quot; op.
 * (Optioneel) Voeg aanvullende criteria toe aan het filter.
 * (Optioneel) Voeg aanvullende filters toe, elk met een of meer criteria.
 
+\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor [ cross-account rapportering ](report-about.md#cross-account-reporting) wordt gevormd: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met het accountteam van de Adobe voor meer informatie over het melden van overschrijvingen.
+
+**[!UICONTROL Include data from Adobe Advertising SSC]:** (Pad naar Conversie, de Lengte van de Weg, en de Tijd aan Conversie rapporten slechts) omvat gegevens voor kliks op onderzoeksadvertenties van gespecificeerde Advertising onderzoek, Sociale, &amp; campagnes van Commerce. Wanneer u deze optie selecteert:
+
+1. Selecteer het account Zoeken, Sociaal zoeken en Commerce met het filter **Filteren op[!UICONTROL SSC Account]** .
+
+1. Selecteer de campagnes gebruikend de **Filter door[!UICONTROL SSC Campaign]** filter.
+
+   Als u meerdere campagnes wilt selecteren, klikt u op **[!UICONTROL Add Criteria]** voor de tweede en volgende campagnes.
+
 ## [!UICONTROL Build Your Report] Sectie
 
-**[!UICONTROL Select To Add As Report Headers]:** de gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. De beschikbare gegevenscategorieën zijn onder meer:
+**[!UICONTROL Select To Add As Report Headers]:** De gegevenskolommen, of kopteksten, om in het rapport op te nemen. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen verschillen per rapport en alle niet-beschikbare metrics zijn uitgeschakeld. De beschikbare gegevenscategorieën kunnen zijn:
 
 * [!UICONTROL Dimensions]
 
   >[!NOTE]
   >
-  > Het [!UICONTROL Household Reach & Frequency] -rapport kan slechts één dimensie bevatten.
+  > De rapporten [!UICONTROL Household Reach & Frequency] en [!UICONTROL Path to Conversion] kunnen slechts één dimensie bevatten.
+  > De rapporten [!UICONTROL Path Length] en [!UICONTROL Time to Conversion] bevatten geen afmetingen.
 
 * [!UICONTROL Metrics]
 
   >[!NOTE]
   >
-  >Het [!UICONTROL Household Reach & Frequency] -rapport kan cijfers overlappen of cijfers die elkaar niet overlappen, maar niet beide.
+  >Het rapport [!UICONTROL Household Reach & Frequency] kan ofwel overlappende metrics of niet-overlappende metrics bevatten, maar niet beide.
 
 * [!UICONTROL Conversion Metrics] (gesorteerd op adverteerder)
 
@@ -110,11 +119,11 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
    * *[!UICONTROL Multi-Touch Attribution (MTA)]:* verdeelt het krediet van elke omzetting die op de frequentie van voorkomen van de afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting wordt gebaseerd. Als er bijvoorbeeld in totaal 10 indrukken waren vóór de conversie, met 8 op CTV en 2 op Mobile, wordt 80% van het krediet (0,8) aan CTV-schermen en 0,2 aan Mobiel gegeven.
 
-* **\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment] en [!UICONTROL Site] rapporteren met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport, hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot een conversie leiden. U kunt meer dan één regel kiezen als u de verschillen tussen de regels wilt vergelijken.
+* **\[Type regel\]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment] en [!UICONTROL Site] rapporteren met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adoben Advertising) In het rapport, hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot een conversie leiden. U kunt meerdere regels kiezen als u de verschillen tussen de regels wilt vergelijken.
 
   >[!NOTE]
   >
-  >Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters, die zijn geconfigureerd in [!DNL Advertising Search, Social, & Commerce] . Klikken krijgen de voorkeur boven indrukken tijdens conversie-toewijzing. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
+  >Conversiepaden bevatten alle indrukken en klikken binnen de indruk van de adverteerder of klik op terugkijkvensters, die zijn geconfigureerd in [!DNL Advertising Search, Social, & Commerce] . Klikken krijgen tijdens conversieattributie de voorkeur boven impressies. Om het even welke kliks in een omzettingsweg ontvangen volledige kredieten die op de attributieregel worden gebaseerd. Impressies krijgen alleen krediet als er geen klikken worden bijgehouden in het conversiepad.
 
    * *[!UICONTROL Last Event]:* Kenmerken conversies naar de laatste klik of indruk in het conversiepad.
 
@@ -122,9 +131,9 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
    * *[!UICONTROL Even Distribution]:* kenmerken conversies in gelijke mate naar elke gebeurtenis in het conversiepad.
 
-   * *[!UICONTROL Weight First More]:* kenmerkt omzettingen aan alle gebeurtenissen in de omzettingsweg maar geeft het meeste gewicht aan de eerste gebeurtenis en opeenvolgend minder gewicht aan de volgende gebeurtenissen.
+   * *[!UICONTROL Weight First More]:* Attribueert conversies naar alle gebeurtenissen in het conversiepad, maar geeft het grootste belang aan de eerste gebeurtenis en achtereenvolgens minder gewicht aan de volgende gebeurtenissen.
 
-   * *[!UICONTROL First Event]:* Kenmerken conversies naar de eerste klik of indruk in het conversiepad.
+   * *[!UICONTROL First Event]:* kenmerken van conversies naar de eerste klik of impressie in het conversiepad.
 
    * *[!UICONTROL U-shaped]:* kenmerkt de omzetting aan alle gebeurtenissen in de omzettingsweg maar geeft het meeste gewicht aan de eerste en laatste gebeurtenissen, met opeenvolgend minder gewicht aan de gebeurtenissen in het midden van de omzettingsweg.
 
@@ -132,11 +141,15 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
    * *[!UICONTROL Social Only]:* Verouderd
 
-  <!-- See also [How Attribution Rules Are Calculated for Adobe Advertising](). -->
+Zie ook &quot;[ hoe de regels van de Attributie voor Adobe Advertising ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
-* **Lookback:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met slechts het volgen van de omzetting van de Adobe Advertising) binnen het rapport, het maximumaantal dagen na een impeilingsgebeurtenis waarin een omzettingsgebeurtenis aan het kan worden toegeschreven. De standaardwaarde is *[!UICONTROL 30 days]* en het maximum is 92 dagen.
+* **Lookback:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen, en [!UICONTROL Path to Conversion], [!UICONTROL Path Length], of [!UICONTROL Time to Conversion] rapporten met [!UICONTROL Conversion Metrics] slechts kolommen; adverteerders met Adobe Advertising conversie het volgen slechts) binnen het rapport, het maximumaantal dagen na een impressiegebeurtenis of een klikgebeurtenis (voor [!UICONTROL Path to Conversion], [!UICONTROL Path Length], of [!UICONTROL Time to Conversion] rapporten) waarin een omzettingsgebeurtenis kan zijn toegeschreven. De standaardinstelling is *[!UICONTROL 30 days]* en het maximum is 92 dagen.
 
-**[!UICONTROL Paths as Columns]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment] en [!UICONTROL Site] rapporteren met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) Welke typen conversies moeten worden gerapporteerd wanneer eerdere gebeurtenissen zich op hetzelfde apparaat hebben voorgedaan. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)] of [!UICONTROL (vt)]):
+  >[!TIP]
+  >
+  >Als u [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) gebruikt, gebruikt u hetzelfde terugzoekvenster als in [!DNL Analytics] .
+
+**[!UICONTROL Paths as Columns]:** (Alle [!UICONTROL Custom], [!UICONTROL Conversion], [!UICONTROL Device], [!UICONTROL Geo], [!UICONTROL Segment] en [!UICONTROL Site] rapporteren met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) Welke typen conversies moeten worden gerapporteerd wanneer eerdere gebeurtenissen op hetzelfde apparaat hebben plaatsgevonden. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een afzonderlijke kolom opgenomen voor elke metrische omzetting en wordt toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)] of [!UICONTROL (vt)]):
 
 * *[!UICONTROL Total (TL) = CT + VT \* VT weight]:* omvat omzettingen die aan kliks (CT voor klik-door) en aan impressies (VT voor mening-door) worden toegewezen. Conversies die worden toegewezen aan impressies worden vermenigvuldigd met het opgegeven doorkijkgewicht. Het standaardgezichtsdoorsgewicht is 100%, wat betekent dat omzettingen die aan indrukkingen worden toegeschreven, worden geteld als 100% van de waarde van omzettingen die aan kliks worden toegeschreven.
 
@@ -160,15 +173,15 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
 * *[!UICONTROL None]:* om geen rapporten of berichten te leveren.
 
-* *[!UICONTROL S3]:* om het voltooide rapport naar één of meerdere [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+* *[!UICONTROL S3]:* om het voltooide rapport naar een of meer [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) plaatsen te verzenden, die u in het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL sFTP]:* om het voltooide rapport naar één of meerdere plaatsen te verzenden SFTP, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+* *[!UICONTROL sFTP]:* om het voltooide rapport naar een of meer SFTP-locaties te verzenden, die u in het **[!UICONTROL Destination Name]** -veld moet selecteren.
 
-* *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
+* *[!UICONTROL FTP]:* om het voltooide rapport naar een of meer FTP-locaties te verzenden, die u in het **[!UICONTROL Destination Name]** -veld moet selecteren.
 
-* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL](Momenteel in Bèta):* om het voltooide rapport naar één of meerdere FTP SSL plaatsen te verzenden, die u in het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
+* *[!UICONTROL Email]:* Geef het e-mailadres of de e-mailadressen op waarnaar de voltooide rapporten of meldingen moeten worden verzonden als het rapport vanwege fouten is geannuleerd.
 
 **[!UICONTROL Email]:** (E-mail bestemmingstype slechts) voor elk adres, ga het adres in en klik **+**.
 
@@ -194,6 +207,6 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 >* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
 >* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
 >* [ stel een Rapport van de Douane in werking ](/help/dsp/reports/report-run-now.md)
->* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
 >* [ Ongeveer de Doelen van het Rapport ](/help/dsp/reports/report-destinations/report-destination-about.md)
 >* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
