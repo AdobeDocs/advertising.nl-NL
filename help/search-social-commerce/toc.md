@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 2729e7575f9950eb59b181d542dea7cb3b34cfa7
+source-git-commit: fa4cee46135c85849daa7faa4059c77fc753c2c8
 workflow-type: tm+mt
 source-wordcount: '1729'
 ht-degree: 2%
@@ -33,10 +33,10 @@ ht-degree: 2%
    + [De indeling van de gebruikersinterface](/help/search-social-commerce/getting-started/user-interface.md)
    + [Afmelden](/help/search-social-commerce/getting-started/log-out.md)
 + Algemene taken {#common-tasks}
-   + [Gegevens van een andere adverteerder weergeven](/help/search-social-commerce/common-tasks/change-advertiser.md)
+   + [Gegevens voor een andere adverteerder weergeven](/help/search-social-commerce/common-tasks/change-advertiser.md)
    + [Instellingen rechtstreeks in een rij bewerken](/help/search-social-commerce/common-tasks/settings-edit-within-row.md)
    + Gegevensweergaven aanpassen {#data-views}
-      + [Gegevens aanpassen in weergaven van campagnebeheer](/help/search-social-commerce/common-tasks/data-views/data-views-about.md)
+      + [Gegevens aanpassen in weergaven van campagnemanagement](/help/search-social-commerce/common-tasks/data-views/data-views-about.md)
       + [Standaard- en aangepaste weergaven beheren](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md)
       + Ad-hocweergave-instellingen {#ad-hoc-settings}
          + [De kolomset bewerken in het menu van de kolomkop](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md)
@@ -62,10 +62,10 @@ ht-degree: 2%
       + [Een trenddiagram weergeven en verbergen](/help/search-social-commerce/common-tasks/navigation-editing-selection/trend-chard-show-hide.md)
       + [Gegevens vernieuwen in beheerweergaven](/help/search-social-commerce/common-tasks/navigation-editing-selection/refresh.md)
       + Gegevens downloaden in beheerweergaven {#download-data-views}
-         + [Gegevens downloaden vanuit een campagnebeheerweergave](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
+         + [Download data uit een campagnemanagementweergave](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
          + [Een rapport met prestatiegegevens of een bulksbladbestand verwijderen uit het menu [!UICONTROL Downloads]](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
 + Tekstspatiëring {#tracking}
-   + [Over bijhouden](/help/search-social-commerce/tracking/tracking-about.md)
+   + [Tekstspatiëring](/help/search-social-commerce/tracking/tracking-about.md)
    + Klik op Tekstspatiëring {#click-tracking}
       + [Op cookie gebaseerde klik bijhouden instellen](/help/search-social-commerce/tracking/click-tracking-set-up.md)
       + [Wanneer en hoe te om klik-volgende URLs te produceren](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
@@ -88,29 +88,29 @@ ht-degree: 2%
          + [Tags voor conversie naar Adobe Advertising bijhouden](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
          + [Formaat voor trackingtags voor JavaScript-conversie versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Formaat voor trackingtags voor JavaScript-conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
-         + [Opmaak van trackingtags voor afbeeldingsconversie](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
-         + [De Adobe Advertising JavaScript-omzettingstoewijzingstag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
+         + [Indeling van de trackingtags voor afbeeldingsomzetting](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
+         + [De Adobe Advertising-JavaScript-conversietag](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
          + [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
       + [Adobe Analytics-conversie bijhouden](/help/search-social-commerce/tracking/conversion-tracking-analytics.md)
       + Conversies die door adverteerders worden bijgehouden met feeds {#conversion-feeds}
-         + feeds met EF-id&#39;s {#ef-ids}
+         + Feeds met EF-id&#39;s {#ef-ids}
             + [Conversie bijhouden met een EF-id-feed](/help/search-social-commerce/tracking/feed-efid.md)
-            + [Gegevensvereisten voor gegevensfeeds die gebruikmaken van EF-id&#39;s](/help/search-social-commerce/tracking/feed-ef-id-data-requirements.md)
-         + feeds met transactie-id&#39;s {#transaction-ids}
+            + [Gegevensvereisten voor datafeeds die gebruikmaken van EF-ID&#39;s](/help/search-social-commerce/tracking/feed-ef-id-data-requirements.md)
+         + Feeds met transactie-id&#39;s {#transaction-ids}
             + [Conversie bijhouden met een transactie-id-feed](/help/search-social-commerce/tracking/feed-transaction-id.md)
-            + [Gegevensvereisten voor gegevensfeeds met een transactie-id](/help/search-social-commerce/tracking/feed-transaction-id-data-requirements.md)
+            + [Gegevensvereisten voor datafeeds met een transactie-id](/help/search-social-commerce/tracking/feed-transaction-id-data-requirements.md)
          + [Bestandsvereisten voor de conversie van feed-bestanden](/help/search-social-commerce/tracking/feed-file-requirements.md)
    + [Veelgestelde vragen over bijhouden](/help/search-social-commerce/tracking/faqs-tracking.md)
 + Campagnebeheer {#campaign-management}
    + Inleiding {#campaign-management-intro}
       + [Informatie over campagnebeheer in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/campaign-management-about.md)
       + [Overzicht van het uitvoeren van en netwerkrekeningen en campagnes](/help/search-social-commerce/campaign-management/introduction/campaign-implemention-overview.md)
-      + [De prestaties van uw advertentienetwerkcampagnes bewaken en beheren](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
+      + [De prestaties van je advertentienetwerkcampagnes bewaken en beheren](/help/search-social-commerce/campaign-management/introduction/monitor-performance-campaigns.md)
       + [[!DNL Google Ads] conversiegegevens in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md)
       + [[!DNL Microsoft Advertising] conversiegegevens in Zoeken, Sociaal en Commerce](/help/search-social-commerce/campaign-management/introduction/microsoft-conversion-data.md)
    + Accounts instellen {#campaign-management-accounts}
       + Netwerkaccounts toevoegen {#ad-network-accounts}
-         + [Informatie over netwerkaccounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
+         + [Informatie over advertentienetwerkaccounts](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md)
          + [Netwerkaccounts beheren](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md)
          + [Werk de het volgen van identiteitskaart AMO code voor a [!DNL Google Ads]  rekening bij](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md)
       + [Zakelijke accounts beheren](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
@@ -154,7 +154,7 @@ ht-degree: 2%
                + [[!DNL Google Ads] alleen-aanroepen en ad-instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-call.md)
                + [[!DNL Google Ads] uitgebreide dynamische zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-dsa.md)
                + [[!DNL Google Ads] responsieve zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-google-rsa.md)
-               + [[!DNL Microsoft Advertising] uitgebreide dynamische zoekfunctie en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-dsa.md)
+               + [[!DNL Microsoft Advertising] uitgebreide dynamische zoekadvertentie-instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-dsa.md)
                + [[!DNL Microsoft Advertising] multimedia en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-multimedia.md)
                + [[!DNL Microsoft Advertising] product en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-product.md)
                + [[!DNL Microsoft Advertising] responsieve (publiek) en instellingen](/help/search-social-commerce/campaign-management/campaigns/ad-settings-microsoft-responsive.md)
@@ -170,20 +170,20 @@ ht-degree: 2%
             + [Informatie over plaatsingen](/help/search-social-commerce/campaign-management/campaigns/placement-about.md)
             + [Biedeerbare plaatsingen beheren](/help/search-social-commerce/campaign-management/campaigns/placement-manage.md)
             + [Negatieve plaatsingen maken](/help/search-social-commerce/campaign-management/campaigns/placement-negative-create.md)
-            + [De status van stages en negatieve stages wijzigen](/help/search-social-commerce/campaign-management/campaigns/placement-status-edit.md)
+            + [De status van plaatsingen en negatieve plaatsingen wijzigen](/help/search-social-commerce/campaign-management/campaigns/placement-status-edit.md)
          + Automatische doelen {#auto-targets}
             + [Ongeveer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-about.md)
             + [Beheer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-manage.md)
          + Soorten publiek en doelgroepen {#audiences-and-targets}
             + Soorten publiek {#audiences}
-               + [ Ongeveer publiek ](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
+               + [ Ongeveer doelgroepen ](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
                + [Creeer  [!DNL Google Ads]  publiek van de klantengelijke van  [!DNL Adobe]  publiek](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)
                + [Creeer a  [!DNL Google Ads]  het publiek van de klantengelijke van een e-maillijst van Adobe Campaign](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
                + [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](/help/search-social-commerce/campaign-management/campaigns/audience-from-customer-data-list.md)
                + [Dynamisch publiek voor opnieuw op de markt brengen beheren](/help/search-social-commerce/campaign-management/campaigns/audience-dynamic-remarketing-manage.md)
-               + Doelstellingen en uitsluitingen van het publiek {#audience-targets}
+               + Doelstellingen en uitsluitingen voor doelgroepen {#audience-targets}
                   + [Doelstellingen voor doelgroepen beheren voor campagnes en advertentiegroepen](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
-                  + [De uitsluiting van het publiek voor campagnes en ad-groepen beheren](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
+                  + [Beheer doelgroepuitsluitingen voor campagnes en advertentiegroepen](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
          + Extensies toevoegen {#ad-extensions}
             + [!DNL Google Ads] callout extensions {#callouts}
                + [Ongeveer  [!DNL Google Ads]  callout uitbreidingen](/help/search-social-commerce/campaign-management/campaigns/callout-extension-about.md)
@@ -231,7 +231,7 @@ ht-degree: 2%
             + [Gegevens weergeven die zijn gegenereerd uit feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-view.md)
             + [Uit feeds gegenereerde gegevens bewerken](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-edit.md)
             + [Gegevens van de post campagne die van voer aan advertentienetwerken worden geproduceerd](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-post.md)
-            + [Een publicatietaak voor de gegevens van de inventarisfeed stoppen](/help/search-social-commerce/campaign-management/inventory-feeds/stop-job.md)
+            + [Een publicatietaak stoppen voor de gegevens van de voorraadfeed](/help/search-social-commerce/campaign-management/inventory-feeds/stop-job.md)
             + [Statussen van gegevens die zijn gegenereerd uit feeds](/help/search-social-commerce/campaign-management/inventory-feeds/propagated-data-status.md)
       + Het uitvoeren van campagnes, advertenties, en omzettingen met unieke werkschema&#39;s {#special-workflows}
          + [Voer  [!DNL Google Ads]  verbeterde omzettingen voor lood uit](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md)
@@ -245,7 +245,7 @@ ht-degree: 2%
    + Labelclassificaties beheren {#label-classifications}
       + [Informatie over labelclassificaties](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md)
       + [Een labelclassificatie maken](/help/search-social-commerce/campaign-management/label-classifications/classification-create.md)
-      + [Classificatiewaarden toewijzen aan accountcomponenten vanuit campagnebeheerweergaven](/help/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management.md)
+      + [Classificatiewaarden toewijzen aan accountcomponenten vanuit campagnemanagementweergaven](/help/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management.md)
       + [Classificatiewaarden toewijzen aan accountcomponenten met behulp van bulksbladen](/help/search-social-commerce/campaign-management/label-classifications/classification-values-assign-bulksheets.md)
       + [Waarden voor labelclassificatie verwijderen uit accountcomponenten](/help/search-social-commerce/campaign-management/label-classifications/classification-values-remove.md)
       + [Classificatiewaarden label verwijderen](/help/search-social-commerce/campaign-management/label-classifications/classification-values-delete.md)

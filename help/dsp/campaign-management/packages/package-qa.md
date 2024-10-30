@@ -1,37 +1,62 @@
 ---
-title: Pakketinstellingen controleren en bewerken met behulp van spreadsheets
-description: Leer hoe u de instellingen van sleutelpakketten kunt bekijken en bewerken met spreadsheets.
+title: Pakketinstellingen controleren en bewerken met behulp van bulksbladen
+description: Leer hoe u de instellingen van een sleutelpakket bulksgewijs kunt bekijken en bewerken met behulp van spreadsheets.
 feature: DSP Packages
-source-git-commit: ad00092c4ef5d44c364ab0593826220054f715c3
+exl-id: bf52de27-db48-40e2-bb55-a2c27a1924ad
+source-git-commit: fa4cee46135c85849daa7faa4059c77fc753c2c8
 workflow-type: tm+mt
-source-wordcount: '824'
+source-wordcount: '1184'
 ht-degree: 0%
 
 ---
 
-# Pakketinstellingen controleren en bewerken met behulp van spreadsheets
+# Pakketinstellingen controleren en bewerken met behulp van bulksbladen
 
-U kunt de instellingen voor een of meer pakketten in de XLSX-indeling ([!DNL Microsoft Excel] spreadsheet) downloaden voor revisie. Het werkblad bevat een aparte tab met vluchtinformatie. Vervolgens kunt u wijzigingen aanbrengen om velden op beide tabbladen te selecteren en de gegevens weer naar alle velden tegelijk DSP. Bewerkbare velden bevatten de meeste instellingen die normaal gesproken bewerkbaar zijn.
+U kunt de instellingen voor een of meer pakketten in de XLSX-indeling ([!DNL Microsoft Excel] spreadsheet) downloaden voor revisie. Het werkblad bevat een aparte tab met vluchtinformatie.
+
+Als u meerdere instellingen tegelijk wilt bijwerken, kunt u een van de volgende twee handelingen uitvoeren:
+
+* Breng de gewenste wijzigingen aan in de geselecteerde velden, sla het bestand op en upload het bewerkte bulkbladbestand weer naar DSP.
+
+* Als u wijzigingen wilt aanbrengen in extra pakketten en in de instellingen voor elke plaatsing of advertentie, downloadt u een lege sjabloon voor het opsommingsblad met tabbladen voor elk type campagnecomponent, typt of plakt u nieuwe of bijgewerkte instellingen in het sjabloonbestand en uploadt u het bestand om de wijzigingen aan te brengen. Voor instructies, zie &quot;[ Overzicht en geef de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md).&quot;
+
+Bewerkbare velden bevatten de meeste instellingen die normaal gesproken bewerkbaar zijn.
 
 >[!TIP]
 >
->Om meer gebieden voor één of meerdere pakketten uit te geven, zie &quot;[ Pakketten ](/help/dsp/campaign-management/packages/package-edit.md) uitgeven.&quot;
+>Om meer gebieden voor één of meerdere pakketten snel uit te geven, zie &quot;[ Pakketten ](/help/dsp/campaign-management/packages/package-edit.md) uitgeven.&quot;
+
+## Instellingen downloaden voor alle pakketten in een campagne
+
+Wanneer u instellingen downloadt voor alle pakketten in een campagne, bevat het werkblad aparte tabbladen voor de pakketinstellingen en voor de vluchtinformatie. U kunt desgewenst instellingen opnemen voor de plaatsingen en advertenties die aan de pakketten zijn gekoppeld. Er worden extra tabbladen toegevoegd voor de plaatsings- en advertentie-instellingen.
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
+
+1. Klik op de naam van de campagne.
+
+1. Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Download QA sheet]** .
+
+1. Hef in het dialoogvenster [!UICONTROL QA Sheet Download] de selectie op van de campagnecomponenten waarvan u de instellingen wilt uitsluiten van het gedownloade bestand en klik vervolgens op **[!UICONTROL Download]** .
+
+Standaard zijn de instellingen voor alle aan de pakketten gekoppelde plaatsen en advertenties geselecteerd.
+
+Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
+
+1. Voer een van de volgende twee handelingen uit om het bestand te downloaden:
+
+   * Klik in het meldingsbericht op **[!UICONTROL Download].**
+
+   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+
+     Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[ de Kolommen van de Plaatsing in Gedownloade/Geüploade Spreadsheets ](#qa-sheet-columns)&quot;voor een lijst van de inbegrepen kolommen.
+
+>[!NOTE]
+>
+>U kunt QA-bladen op campagnereniveau niet bewerken en opnieuw uploaden. Als u wijzigingen wilt aanbrengen in de instellingen van de campagnecomponent in deze bestanden, downloadt u een afzonderlijke sjabloon voor een bulksblad, typt of plakt u rijen van het QA-blad in de sjabloon voor het bulksblad en slaat u het bestand op. Vervolgens uploadt u het gevulde bulksblad. Voor instructies, zie &quot;[ Overzicht en geef de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md).&quot;
 
 ## Downloadinstellingen voor een of meer pakketten
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
-
-1. Klik op de naam van de campagne.
-
-1. Klik in het submenu op **[!UICONTROL Packages]** .
-
-1. Schakel het selectievakje in naast elk pakket waarvan u de instellingen wilt downloaden.
-
-1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Download Edit in Excel Sheet]** .
-
-Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &quot;[ Kolommen van het Pakket in Gedownloade/Geüploade Spreadsheets ](#qa-sheet-columns-packages)&quot;voor een lijst van de inbegrepen kolommen.
-
-## Instellingen uploaden voor een of meer pakketten
+Wanneer u instellingen voor specifieke pakketten downloadt, bevat het bulksbladbestand aparte tabbladen voor de pakketinstellingen en voor de vluchtinformatie, en kan het bestand worden bewerkt.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -39,11 +64,43 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 
 1. Klik in het submenu op **[!UICONTROL Packages]** .
 
-1. Schakel het selectievakje in naast elk pakket waarvan u de instellingen wilt uploaden.
+1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]** .
 
-1. Klik op de werkbalk voor bulkacties op **[!UICONTROL ...]** > **[!UICONTROL Upload Edit in Excel Sheet]** .
+   Een meldingsbericht geeft aan wanneer het bulksheet-bestand beschikbaar is om te downloaden.
 
-1. In het dialoogvenster [!UICONTROL Edit in Excel] :
+1. Voer een van de volgende twee handelingen uit om het werkblad te downloaden:
+
+   * Klik in het meldingsbericht op **[!UICONTROL Download].**
+
+   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+
+     Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[ de Kolommen van de Plaatsing in Gedownloade/Geüploade Spreadsheets ](#qa-sheet-columns)&quot;voor een lijst van de inbegrepen kolommen.
+
+<!-- I don't think I need this here
+
+## Download a Bulksheet Template {#download-template}
+
+You can optionally download a blank bulksheet template that includes tabs for each type of campaign component. You can later add rows to any tab on the template and [upload the edited file](##upload-bulksheet-package) to make changes. 
+
+1. Click the name of the campaign.
+
+1.  In the upper right, click **[!UICONTROL ...]** > **[!UICONTROL Download Bulksheet]**.
+
+   The file is saved to the browser's Downloads folder. See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns.
+
+-->
+
+## Een werkblad met pakketinstellingen uploaden {#upload-bulksheet-package}
+
+U kunt instellingen voor uw pakketten, inclusief de plaatsingen en advertenties die aan de pakketten zijn gekoppeld, uploaden naar een bestand met opsommingstekens.
+
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
+
+1. Klik op de naam van de campagne.
+
+1. Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Upload Bulksheet]** .
+
+1. In het dialoogvenster [!UICONTROL Upload Bulksheet] :
 
    1. Sleep een bestand naar het vak of klik in het vak om een bestand van het apparaat of het netwerk te selecteren.
 
@@ -96,7 +153,7 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 | [!UICONTROL Custom Flights] | [!UICONTROL Automatic Budget Rollover] | (Beschikbaar slechts wanneer de [!UICONTROL Activate Custom Flighting] optie) wordt toegelaten al dan niet om het even welk resterende budget van de vorige vlucht aan het bestaande budget voor de volgende vlucht automatisch toe te voegen: *T* (waar) of *F* (vals). | Ja |
 | [!UICONTROL Error] | [!UICONTROL Error] | Eventuele relevante fouten. | — |
 
-### [!UICONTROL Package_Flights] Tab
+### [!UICONTROL Package_Flights] Tab {#qa-sheet-columns-package-flights}
 
 | Sectie | Kolom | Beschrijving | Bewerkbaar? |
 |---------|--------|-------------|-----------|
@@ -109,5 +166,6 @@ Het bestand wordt automatisch opgeslagen in de downloadmap van de browser. Zie &
 
 >[!MORELIKETHIS]
 >
+>* [ Overzicht en geeft de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md)
 >* [ geef Pakketten ](/help/dsp/campaign-management/packages/package-edit.md) uit
 >* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
