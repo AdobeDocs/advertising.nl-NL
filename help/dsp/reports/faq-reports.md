@@ -2,9 +2,9 @@
 title: Veelgestelde vragen over aangepaste rapporten
 description: Meer informatie over aangepaste rapporten, waaronder rapporten van het huishouden en analytische rapporten over het omzetpad.
 exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
-source-git-commit: 0ecceaf30ce135dd0083e34dd5c8c5bafb5a3c16
+source-git-commit: cb3eed4629c66283e0de18f7287169ec6e501aaa
 workflow-type: tm+mt
-source-wordcount: '1183'
+source-wordcount: '1185'
 ht-degree: 0%
 
 ---
@@ -105,9 +105,9 @@ Het ideale geval is om zowel het [!UICONTROL Household] -rapport als de [!DNL Ad
 
 ## Analyserapporten van pad voor conversie
 
-### Hoe verhoudt het rapport Pad naar conversie zich tot rapporten die zijn gemaakt door [!DNL Advanced Measurement Services] en Adobe Analytics?
+### Hoe verhoudt het rapport Pad naar conversie zich tot rapporten die zijn gemaakt door [!DNL Advanced Measurement Services] en Adobe Analytics Analysis Workspace?
 
-| | Pad naar omzettingsrapport | Geavanceerd halo-effect Metingsservices bij zoekrapportage | Adobe Analytics Workspace-rapporten |
+| | Pad naar omzettingsrapport | Geavanceerd halo-effect Metingsservices bij zoekrapportage | Rapporten in Analysis Workspace |
 | --- | --- | --- |---|
 | Klantenwaarde | Genereer een zelf-bediende douanerapport om te begrijpen welke wegen van de ad reis tot meer omzettingen leidden om optimalisering te bevorderen | Begrijp de invloed van de tactiek van de Verbonden TV (CTV) op onderzoek klikt | Begrijp de invloed van uw holistische investering van de Adobe Advertising, naast andere marketing kanalen, op onderzoeksklikjes |
 | Huishoudelijk niveau | Ja | Ja | Nee |
