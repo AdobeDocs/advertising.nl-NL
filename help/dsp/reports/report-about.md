@@ -3,16 +3,16 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 0ecceaf30ce135dd0083e34dd5c8c5bafb5a3c16
+source-git-commit: 5ddfcba2e1ceac6a98dc0b865a09f535e6621fa0
 workflow-type: tm+mt
-source-wordcount: '1466'
+source-wordcount: '1498'
 ht-degree: 0%
 
 ---
 
 # Aangepaste rapporten
 
-Met aangepaste rapporten kun je de content en levering van je rapportdata aanpassen aan de hand van de campagnedimensies (zoals de adverteerder, plaatsing, sites of geo’s) en de metrics die voor jou het belangrijkst zijn. U kunt:
+Met aangepaste rapporten kunt u de inhoud en levering van uw rapportgegevens aanpassen aan de hand van de campagneafmetingen (zoals de adverteerder, plaatsing, sites of geos) en de maatstaven die het belangrijkst voor u zijn. U kunt:
 
 * Vorm volledig de rapporten van de campagneprestaties op een korrelig niveau.
 
@@ -60,20 +60,20 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
      >* Gegevens zijn beschikbaar na 15 november 2018.
      >* Voor sommige privéinventarisaties geven uitgevers geen apparaat-id door, waardoor het bijhouden van de frequentie wordt verhinderd.
 
-   * **[!UICONTROL Geo]**: Gebruik deze vooraf ingevulde sjabloon om de belangrijkste metrics op geografische afmetingen weer te geven.
+   * **[!UICONTROL Geo]**: Gebruik deze vooraf ingevulde sjabloon om de belangrijkste metriek op geografische afmetingen weer te geven.
 
-   * **[!UICONTROL Margin]:** gebruik dit rapport om belangrijke metrieken zoals marge, winst, en andere uitgavenmetriek door campagne of plaatsing te zien. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
+   * **[!UICONTROL Margin]:** gebruik dit rapport om zeer belangrijke metriek zoals marge, winst, en andere uitgavenmetriek door campagne of plaatsing te zien. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
-   * **[!UICONTROL Segment]:** Gebruik deze vooraf ingevulde sjabloon om de belangrijkste metrics per segment te zien.
+   * **[!UICONTROL Segment]:** gebruik dit vooraf ingevulde malplaatje om zeer belangrijke metriek door segment te zien.
 
      >[!NOTE]
      >
-     >* Dit rapport is bedoeld om te laten zien hoe de verschillende doelsegmenten presteren. Er worden segmentlidmaatschapsgegevens gebruikt. Wanneer een persoon of apparaat die tot twee of meer doelsegmenten behoort, de indruk krijgt dat dit rapport één rij voor elk segment bevat. Daarom komen de totalen in dit rapport mogelijk niet overeen met de werkelijke levering.
+     >* Dit rapport is bedoeld om te tonen hoe de verschillende doelsegmenten presteren. Het gebruikt de gegevens van het segmentlidmaatschap. Wanneer een persoon of een apparaat dat tot twee of meer doelsegmenten behoort, de indruk krijgt, bevat dit rapport één rij voor elk segment. Daarom komen de totalen in dit rapport mogelijk niet overeen met de werkelijke levering.
      >* De metriek van de omzetting en de gegevens van het douanedoel voor segmenten zijn beschikbaar na 2 augustus 2019. Alle andere gegevens voor segmenten zijn beschikbaar vanaf 1 juni 2018.
 
-   * **[!UICONTROL Site]:** Standaard bevat dit standaardcijfers, de totale netto media-uitgaven en de totale factureerbare netto-uitgaven per site.
+   * **[!UICONTROL Site]:** door gebrek, omvat standaardmetriek, totale media netto uitgaven, en totale factureerbare netto uitgaven door plaats.
 
-   * **[!UICONTROL Household Reach & Frequency]:** gebruik dit rapport om de impressies, het bereik en de frequentie voor een enkele dimensie in verschillende advertentieformaten op huishoudniveau te bekijken op basis van IP-adres, in plaats van op apparaat-/cookieniveau. Gebruik de inzichten om je mediacomix te optimaliseren, de prestaties te verbeteren en mogelijkheden voor incrementeel bereik te identificeren. Zie &quot;[ Veelgestelde vragen over de Rapporten van het Huishouden ](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
+   * **[!UICONTROL Household Reach & Frequency]:** gebruik dit rapport om beelden, bereik en frequentie voor één enkele afmeting over ad formaten op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[ FAQs over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
    * **[!UICONTROL Household Conversions]:** gebruik dit rapport om mening-door omzettingen op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[ FAQs over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
@@ -81,21 +81,23 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
 
       * [!UICONTROL Channel Assist Type]: laat zien hoe de volgende marketingkanalen het conversieproces hebben geholpen: [!UICONTROL Audio Impression] , [!UICONTROL CTV Impression] , [!UICONTROL Display Click] , [!UICONTROL Display Impression] , [!UICONTROL Native Click] , [!UICONTROL Native Impression] , [!UICONTROL Search Click] , [!UICONTROL Video Click] of [!UICONTROL Video Impression] .
 
-      * [!UICONTROL Campaign ID] of [!UICONTROL Campaign Name]: Toont welke campagnes het conversieproces hebben ondersteund.
+      * [!UICONTROL Campaign ID] of [!UICONTROL Campaign Name]: toont welke campagnes het conversieproces hebben ondersteund.
 
-      * [!UICONTROL Ad ID] of [!UICONTROL Ad Name] toont welke DSP advertenties tot conversies hebben geleid.
+      * [!UICONTROL Ad ID] of [!UICONTROL Ad Name] toont welke DSP advertenties hebben geresulteerd in conversies.
 
-      * [!UICONTROL Ad ID & Paid Keyword (SSC)] of [!UICONTROL Ad Name & Paid Keyword (SSC)] toont welke trefwoorden voor Zoeken, Sociaal zoeken en Commerce hebben geresulteerd in conversies.
+      * [!UICONTROL Ad ID & Paid Keyword (SSC)] of [!UICONTROL Ad Name & Paid Keyword (SSC)] toont welke trefwoorden voor Zoeken, Sociaal en Commerce hebben geresulteerd in conversies.
 
-     De kolommen in het rapport omvatten &quot;[!UICONTROL Event #1]&quot; door &quot;[!UICONTROL Event #10],&quot;&quot;[!UICONTROL Path Length], &quot;% \&lt;Conversion Metric Name 1\>,&quot;% \&lt;Conversion Metric Name 2\>,&quot;etc.
+     De kolommen in het rapport omvatten &quot;[!UICONTROL Event #1]&quot;door &quot;[!UICONTROL Event #10],&quot;&quot;[!UICONTROL Path Length], &quot;% \&lt;Metrische Naam van de Omzetting 1 \>,&quot;&quot;% \&lt;Metrische Naam van de Omzetting 2 \>,&quot;etc.
 
-     Tot de 10 meest recente interactiepunten zijn opgenomen. De padrijen worden gerangschikt op basis van het aantal conversies.
+     Tot de 10 meest recente interactiepunten zijn inbegrepen. De padrijen worden geordend met het aantal conversies.
 
-   * **[!UICONTROL Path Length Beta]:** (de eigenschap van Beta) gebruik dit rapport om ad frequentie te beheren die op het aantal gebruikers interactiepunten wordt gebaseerd die voor omzettingen wordt vereist. Het rapport toont het aantal omzettingen door weglengte (interactiepunten), zoals hoeveel omzettingen voorkwamen nadat de gebruikers slechts één ad interactie, twee en interactie, etc. hadden. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Path Length],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc.
+     Voor een vergelijking van dit rapport aan rapporten die door [!DNL Advanced Measurement Services] en Analytische Adobe worden gecreeerd, zie &quot;[ FAQs over de Rapporten van de Douane ](/help/dsp/reports/faq-reports.md).&quot;
 
-     Er worden gegevens weergegeven voor elke padlengte van maximaal 10 en gegevens voor padlengten groter dan 10 worden gegroepeerd.
+   * **[!UICONTROL Path Length Beta]:** (Beta-functie) Gebruik dit rapport om      traceer het aantal gebruikersinteractiepunten dat vereist is voor conversies in de loop der tijd, zodat u de optimale en de optimale frequentie kunt kiezen. Het rapport toont het aantal omzettingen door weglengte (interactiepunten), zoals hoeveel omzettingen voorkwamen nadat de gebruikers slechts één ad interactie, twee en interactie, etc. hadden. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Path Length],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc.
 
-   * **[!UICONTROL Time to Conversion Beta]:** (Beta eigenschap) Gebruik dit rapport om het optimale venster van de attributieraadpleging te bepalen en nieuwe kansen voor retargeting te identificeren. Het rapport toont het aantal conversies op basis van de tijdsduur in dagen vanaf de laatste interactie (advertentie-belichting of klik) tot de conversie. Het rapport kan gegevens bevatten voor meerdere conversiemetrieken en gebruikt een opgegeven terugzoekperiode tussen de eerste interactie en een conversie. De kolommen in het rapport omvatten &quot;[!UICONTROL Time Taken (in days)],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc. De omzettingen die langer duren dan de raadplegingsperiode worden gegroepeerd in één rij (bijvoorbeeld, als het rapport een periode van de 30 dagraadpleging gebruikt, dan worden alle omzettingen die langer duren dan 30 dagen om voor te komen gegroepeerd in een rij met een &quot;[!UICONTROL Time Taken (in days)]&quot;waarde van &quot;30+&quot;).
+     De gegevens worden weergegeven voor elke padlengte van maximaal 10 en gegevens voor padlengten van meer dan 10 worden gegroepeerd.
+
+   * **[!UICONTROL Time to Conversion Beta]:** (de eigenschap van Beta) gebruik dit rapport om het optimale venster van de attributieraadpleging te bepalen en campagnes met langere tijden aan omzetting te identificeren, die van het opnieuw richten kunnen profiteren. Het rapport toont het aantal omzettingen door de tijdsduur in dagen van de laatste interactie (en blootstelling of klik) aan omzetting. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Time Taken (in days)],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc. De omzettingen die langer duren dan de raadplegingsperiode worden gegroepeerd in één rij (bijvoorbeeld, als het rapport een periode van de 30 dagraadpleging gebruikt, dan worden alle omzettingen die langer duren dan 30 dagen om voor te komen gegroepeerd in een rij met een &quot;[!UICONTROL Time Taken (in days)]&quot;waarde van &quot;30+&quot;).
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
@@ -103,7 +105,7 @@ Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwar
 
 Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
-Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
+Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts aan waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 
 ## De [!UICONTROL Custom Reports] -weergave
 
