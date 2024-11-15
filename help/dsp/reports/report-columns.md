@@ -3,7 +3,7 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: 6afc297fee8ebf94605c5bc1fceafe4a903387a5
+source-git-commit: 15ce5490ae12fd0c50e4a178f8cb642078c4e847
 workflow-type: tm+mt
 source-wordcount: '2228'
 ht-degree: 0%
@@ -137,9 +137,6 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPCV] | De gemiddelde nettokosten per voltooide videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPM] | De gemiddelde nettokosten per 1000 beelden, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | De gemiddelde nettokosten per videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Data eCPM] | De gemiddelde nettogegevenskosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Media CPM] | De gemiddelde nettomediakosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 afdrukken voor andere kosten, berekend door <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van de totale biedingen op de maximale CPM. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal verschillende gebruikers waarvoor DSP een bod uitbrengt voor de plaatsing. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | De totale nettokosten van de door DSP in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
@@ -156,10 +153,13 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | De totale kosten van andere de dienstkosten (derdecontrolepartners, het dienen, etc.) niet door DSP worden gefactureerd. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Net Spend] | De som van [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)] en [!UICONTROL Billable Spend (Other)] . |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data eCPM] | De gemiddelde nettogegevenskosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data Net Spend] | De totale nettokosten van de kosten van de gegevens van het publiekssegment. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media CPM] | De gemiddelde nettomediakosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media Net Spend] | De totale nettokosten van media, inclusief technische kosten. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Net Spend] | De som van [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)] en [!UICONTROL Net Spend (Other)] . |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | De som van [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)] en [!UICONTROL Non-billable Spend (Other)] . |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 afdrukken voor andere kosten, berekend door <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Other Net Spend] | De totale nettokosten van andere servicekosten (controlepartners van derden, diensten, enzovoort). |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
