@@ -2,9 +2,10 @@
 title: Voer  [!DNL Google Ads]  verbeterde omzettingen voor lood uit
 description: Leer over het werkschema voor vestiging  [!DNL Google Ads]  verbeterde omzettingen voor lood.
 feature: Search Campaign Management, Conversions
-source-git-commit: 60a67c8668df13afc08e14b0a495a37ded24bc0c
+exl-id: b708c9f2-2962-45d9-8780-4e96ef2ae8f7
+source-git-commit: 56161ece4ba9c01cddb86e16796150c391f1a811
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -15,7 +16,17 @@ ht-degree: 0%
 
 [[!DNL Google Ads]  verbeterde omzettingen voor lood ](https://support.google.com/google-ads/answer/9888656) staat u toe om gebruikers aan off-line omzettingen in kaart te brengen gebruikend uw gegevens van de eerste-partijomzetting. Gebruik uitgebreide conversies voor leads in omgevingen waarin klik-id&#39;s niet beschikbaar zijn, zoals voor het bijhouden van de verkoop via telefoon of e-mail die het resultaat is van websiteleads.
 
-Binnen Zoeken, Sociaal, &amp; Commerce kunt u uw verbeterde omzettingen voor leads opnemen als meetgegevens in rapporten en als gewogen meetgegevens binnen doelstellingen voor optimalisatie. Search, Social &amp; Commerce synchroniseert uw bestaande verbeterde conversies naar leads dagelijks om 5:00 in de tijdzone van de adverteerder.
+In Zoeken, Sociaal en Commerce kunt u:
+
+* Bekijk uw bestaande verbeterde omzettingen voor lood.
+
+  Search, Social &amp; Commerce synchroniseert uw bestaande verbeterde conversies naar leads dagelijks om 5:00 in de tijdzone van de adverteerder.
+
+* Maak verbeterde omzettingen voor leads.
+
+* Upload gegevens van eerste partijen voor offline conversie naar uw verbeterde conversies voor leads.
+
+* Neem de verbeterde omzettingen voor leads op als meetgegevens in rapporten en als gewogen meetgegevens binnen doelstellingen voor optimalisatie.
 
 Voer de volgende stappen uit om deze functie te gebruiken. De stappen voor het maken van codes voor het bijhouden van conversies en het maken van conversieacties kunnen optioneel worden omgekeerd.
 
