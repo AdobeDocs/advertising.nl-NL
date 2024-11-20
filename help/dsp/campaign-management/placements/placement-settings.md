@@ -3,7 +3,7 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
+source-git-commit: 06bf098bbda30db6a9fa6f21e9e08db74258f578
 workflow-type: tm+mt
 source-wordcount: '3887'
 ht-degree: 0%
@@ -215,11 +215,11 @@ Opgeven welke inventarisdoelen worden gebruikt:
 
 Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in de eigen ervaring) weergegeven in plaats van als gewone videobanden in een videospeler.
 
-## [!UICONTROL Site Targeting]
+## [!UICONTROL Site and App Targeting]
 
 **[!UICONTROL Traffic type]:** de types van verkeer aan doel. De opties zijn **[!UICONTROL Websites]** en **[!UICONTROL Apps]** .
 
-**[!UICONTROL Site tier]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]* is) De kwaliteit van de sites waarop u wilt verwijzen. Tiers 1-3 zijn allemaal merkveilig en zijn goedgekeurd door het DSP-kaartteam.
+**[!UICONTROL Tier]:** (Beschikbaar wanneer **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]* is) de kwaliteit van het verkeer om te richten. Tiers 1-3 zijn allemaal merkveilig en zijn goedgekeurd door het DSP-kaartteam.
 
 * *[!UICONTROL Tier 1]:* Premiumsites en -toepassingen die nationaal herkenbaar zijn.
 
@@ -227,7 +227,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 * *[!UICONTROL Tier 3]:* richt Tiers 1-2 plus legitieme en merkveilige plaatsen en toepassingen die aan een nichepubliek aanpassen. Gebruik Niveau 3 voor bereik of gegevens die op aankopen gericht zijn.
 
-* *[!UICONTROL All Sites]:* richt Tiers 1-3 en nieuwe inventaris die niet is onderzocht of gecategoriseerd, die u voor bereik kunt gebruiken.
+* *[!UICONTROL All Sites or Apps]:* richt Tiers 1-3 en nieuwe inventaris die niet is onderzocht of gecategoriseerd, die u voor bereik kunt gebruiken.
 
 >[!NOTE]
 >
@@ -237,7 +237,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 >
 >Voor prestatiecampagnes, is de beste praktijken om *[!UICONTROL All Sites]* te selecteren.
 
-**[!UICONTROL Site Categories]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]* ) Sitecategorieën in de geselecteerde sitelagen om (maar niet beide) als doelen op te nemen of uit te sluiten. Maak een keuze uit verticale sitelijsten die DSP op basis van het onderwerp is toegewezen:
+**[!UICONTROL Site or App Categories]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]* ) Sitecategorieën in de geselecteerde sitelagen om (maar niet beide) als doelen op te nemen of uit te sluiten. Maak een keuze uit verticale sitelijsten die DSP op basis van het onderwerp is toegewezen:
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de sitecategorieën op die u wilt opnemen of uitsluiten:
@@ -250,7 +250,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 1. (Optioneel) Als u een CSV-bestand met de doelgegevens naar de downloadlocatie van uw browser wilt downloaden, klikt u op **[!UICONTROL Export]** .
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]* is) Sites die moeten worden uitgesloten. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
+**[!UICONTROL Exclude Sites or Apps]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]* is) Sites die moeten worden uitgesloten. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de sites op:
@@ -273,7 +273,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 
 **[!UICONTROL Language]:** (Facultatief) één enkele taal aan doel.
 
-**[!UICONTROL Site List Preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites voor de plaatsing.
+**[!UICONTROL Site or App List Preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites voor de plaatsing.
 
 U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en opent of slaat u het bestand op volgens de normale procedure van uw browser.
 
@@ -389,7 +389,7 @@ Onderwerpgerichte onderwerpen opgeven:
 1. (Optioneel) Als u een CSV-bestand met de ISP-doelgegevens wilt downloaden naar de downloadlocatie van uw browser, klikt u op **[!UICONTROL Export]** .
 1. Klik op **[!UICONTROL Save]**.
 
-## [!UICONTROL Brand Safety and Media Targeting]
+## [!UICONTROL Brand Safety and Media Quality]
 
 **[!UICONTROL Contextual filtering]:** Typen [!DNL Comscore] -, [!DNL DoubleVerify] - [!DNL Integral Ad Science] en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 

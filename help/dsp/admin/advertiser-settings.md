@@ -2,9 +2,9 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: 7ee798e11375863e776ac3e802efc9112280e750
+source-git-commit: a7751041b75f4258ce8e57629262c4cb30eccc95
 workflow-type: tm+mt
-source-wordcount: '930'
+source-wordcount: '927'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,8 @@ ht-degree: 0%
 # Accountinstellingen voor adverteerders
 
 *niet Beschikbaar aan Read-only Gebruikers*
+
+<!-- Not published -->
 
 ## [!UICONTROL General] Instellingen
 
@@ -166,11 +168,11 @@ U kunt adverteerder-niveau met voeten treden die op het [ plaatsingsniveau ](/he
 
 **[!UICONTROL Enable Site Safety Block]:** Door gebrek, laat een filter in real time, post-bid toe om ervoor te zorgen dat de advertenties op de plaatsen dienen die de adverteerder richt. <!-- Can remove this: Users can enable or disable the feature for each placement. I don't see this option, but I should probably verify. If this can't be edited at placement level, then remove "By default." If it can, say that you can override at placement level. -->
 
-#### [!UICONTROL DoubleVerify Authentic Brand Safety]
+#### [!UICONTROL DoubleVerify Authentic Brand Suitability]
 
 **[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] slechts klanten; facultatief) Het merkveiligheidssegment ID verbonden aan de rekening van de organisatie [!DNL DoubleVerify].
 
-**[!UICONTROL Enable Authentic Brand Safety]:** (Facultatief) door gebrek, laat [!DNL DoubleVerify] Authentic MerkVeiligheid toe, die indrukkingen na-bod gebruikend de de veiligheidsregels van het douanemerk blokkeert die voor gespecificeerde segmentidentiteitskaart worden gevormd. DSP uw account aan voor gebruik van de segment-id.
+**[!UICONTROL Enable Authentic Brand Suitability]:** (Facultatief) door gebrek, laat [!DNL DoubleVerify Authentic Brand Safety] toe, die drukken na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segmentidentiteitskaart worden gevormd. DSP uw account aan voor gebruik van de segment-id.
 
 U kunt de instelling op advertentieniveau op plaatsingsniveau overschrijven.
 
