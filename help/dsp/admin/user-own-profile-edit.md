@@ -2,10 +2,10 @@
 title: Gebruikersprofiel bewerken
 description: Leer hoe u uw gebruikersprofiel kunt bewerken.
 exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: dea924e00aed1e6a8e778afb3112d9db85cef802
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -19,51 +19,50 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
 
    * Het e-mailadres voor de gebruikersaccount bewerken:
 
-      1. Naast het bestaande **[!UICONTROL Email address]**, klikt u op **[!UICONTROL Edit]**.
+      1. Klik op **[!UICONTROL Edit]** naast de bestaande **[!UICONTROL Email address]** .
 
       1. Voer het nieuwe e-mailadres en het bestaande wachtwoord voor de gebruikersaccount in.
 
       1. Klik op **[!UICONTROL Continue]**.
+
    * Het wachtwoord voor de gebruikersaccount bewerken:
 
-      1. Naast het bestaande **[!UICONTROL Password]**, klikt u op **[!UICONTROL Change]**.
+      1. Klik op **[!UICONTROL Change]** naast de bestaande **[!UICONTROL Password]** .
 
       1. Voer het nieuwe wachtwoord twee keer in.
 
       1. Klik op **[!UICONTROL Continue]**.
+
    * De beveiligingsvraag voor de gebruikersaccount bewerken:
 
-      1. Naast het bestaande **[!UICONTROL Security Question]**, klikt u op **[!UICONTROL Change]**.
+      1. Klik op **[!UICONTROL Change]** naast de bestaande **[!UICONTROL Security Question]** .
 
-      1. Selecteer een **[!UICONTROL Secret Question]** en voert u een **[!UICONTROL Secret Question Answer]**.
+      1. Selecteer een **[!UICONTROL Secret Question]** en voer een **[!UICONTROL Secret Question Answer]** in.
 
       1. Klik op **[!UICONTROL Continue]**.
+
    * De standaardtijdzone voor de gebruikersaccount bewerken:
 
-      1. Naast het bestaande **[!UICONTROL Default Timezone]**, klikt u op **[!UICONTROL Change]**.
+      1. Klik op **[!UICONTROL Change]** naast de bestaande **[!UICONTROL Default Timezone]** .
 
       1. Selecteer de nieuwe tijdzone.
 
-      1. (Optioneel) Selecteer **[!UICONTROL Observe Daylight Savings Time]**.
+      1. (Optioneel) Selecteer **[!UICONTROL Observe Daylight Savings Time]** als u zomertijd wilt gebruiken in de gerapporteerde tijden.
 
       1. Klik op **[!UICONTROL Continue]**.
-   * (Gebruikers die een persoonlijke licentie willen gebruiken op [!DNL Google Authorized Buyers]) Persoonlijk bewerken [!DNL Google Authorized Buyers] licentie voor de gebruikersaccount, die standaard wordt gebruikt voor alle campagnes:
 
-      1. Naast het bestaande **[!UICONTROL Google AdEx ID]**, klikt u op **[!UICONTROL Change]**.
+   * (Gebruikers die een persoonlijke licentie op [!DNL Google Authorized Buyers] willen gebruiken) U kunt als volgt de persoonlijke [!DNL Google Authorized Buyers] -licentie voor de gebruikersaccount bewerken. Deze licentie wordt standaard voor alle campagnes gebruikt:
 
-      1. Voer de nieuwe **[!UICONTROL Ad Group ID]**.
+      1. Klik op **[!UICONTROL Change]** naast de bestaande **[!UICONTROL Google AdEx ID]** .
+
+      1. Voer de nieuwe **[!UICONTROL Ad Group ID]** in.
 
       1. Klik op **[!UICONTROL Save]**.
-
-
-
-
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [Nieuwe gebruiker uitnodigen voor account bij organisatie](user-invite.md)
-
+>* [ nodig een Nieuwe Gebruiker voor Uw Rekening van de Organisatie ](user-invite.md) uit
 
 <!-- >* [User Profile and Organization Account Settings](user-and-account-settings.md) -->
