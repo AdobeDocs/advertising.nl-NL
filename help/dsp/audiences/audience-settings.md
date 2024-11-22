@@ -3,7 +3,7 @@ title: Instellingen voor publiek
 description: Zie beschrijvingen van de beschikbare publieksinstellingen.
 feature: DSP Audiences
 exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
-source-git-commit: 53b52066eda55b3338a8a11773fdb8924211bddc
+source-git-commit: 3a641db6b145e67e6e1f1daca271dd524973e075
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ## Segmenten Adobe
 
-(Optioneel) Alle [!DNL Adobe Real-Time Customer Data Platform], Adobe Analytics- of Adobe Audience Manager-segmenten die moeten worden opgenomen in de publieksconfiguratie.
+(Optioneel) Alle [!DNL Adobe Real-Time CDP] -, Adobe Analytics- of Adobe Audience Manager-segmenten die u wilt opnemen in de publieksconfiguratie.
 
 ## Aangepaste segmenten
 
@@ -34,10 +34,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Informatie over Audience Management](audience-about.md)
->* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
->* [Syntaxis voor Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Een aangepast segment maken en implementeren](custom-segment-create.md)
->* [Een [!UICONTROL CCPA Opt-Out-of-Sale] Segment](ccpa-opt-out-segment-create.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
+>* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
+>* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
+>* [ Syntaxis voor de Logica van het Segment van het Publiek ](audience-segment-logic-syntax.md)
+>* [ creeer en voer een Segment van de Douane uit ](custom-segment-create.md)
+>* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment ](ccpa-opt-out-segment-create.md) uit
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
