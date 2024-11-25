@@ -3,9 +3,9 @@ title: Adobe Advertising IDs die door  [!DNL Analytics] wordt gebruikt
 description: Adobe Advertising IDs die door  [!DNL Analytics] wordt gebruikt
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 0f55d98a5abfa75b4ef5dc18ad2cfb22b9e24e78
+source-git-commit: 33a27faa14cbd1fa3248364cc7a3bf9c0cd94c76
 workflow-type: tm+mt
-source-wordcount: '1687'
+source-wordcount: '1737'
 ht-degree: 0%
 
 ---
@@ -221,27 +221,26 @@ where:
 
 ##### [!DNL Microsoft Advertising]
 
-* Zoekcampagnes:
+* Alle soorten campagne:
 
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
-
-* Maximale prestaties
-
-  `s_kwcid=AL!%(userid)d!{sid}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
-
-* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
-
-* Campagnes van het netwerk van het publiek:
-
-  `s_kwcid=AL!{userid}!{sid}!{AdId}`
+  `s_kwcid=AL!{userid}!{sid}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 
 waarbij:
 
 * `{AdId}` is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
 * `{OrderItemId}` is de numerieke id van het advertentienetwerk voor het trefwoord.
-* `{CriterionId}` is de numerieke id van het advertentienetwerk voor de productgroep die wordt gebruikt met productadvertenties.
+* `{CampaignId}` is de unieke numerieke id van het advertentienetwerk voor de campagne.
+* `{AdGroupId}` is de unieke numerieke id van het advertentienetwerk voor de advertentiegroep.
+
+>[!NOTE]
+>
+>Alle accounts met prestatiecampagnes zijn naar de bovenstaande indeling gemigreerd. Voor accounts met andere typen campagnes worden de achtervoegsels van de bestemmingspagina gemigreerd om de nieuwe s_kwcid-indeling te gebruiken tegen begin 2025. Ondertussen werken de oudere indelingen nog steeds als volgt:
+>* Zoekcampagnes:
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+>* Campagnes van het netwerk van het publiek:
+>  `s_kwcid=AL!{userid}!{sid}!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
