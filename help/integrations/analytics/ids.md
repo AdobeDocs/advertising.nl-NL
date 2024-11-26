@@ -3,9 +3,9 @@ title: Adobe Advertising IDs die door  [!DNL Analytics] wordt gebruikt
 description: Adobe Advertising IDs die door  [!DNL Analytics] wordt gebruikt
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 33a27faa14cbd1fa3248364cc7a3bf9c0cd94c76
+source-git-commit: 7d10ab34b804f96d621c351d9f8049c924019ba1
 workflow-type: tm+mt
-source-wordcount: '1737'
+source-wordcount: '1738'
 ht-degree: 0%
 
 ---
@@ -234,7 +234,7 @@ waarbij:
 
 >[!NOTE]
 >
->Alle accounts met prestatiecampagnes zijn naar de bovenstaande indeling gemigreerd. Voor accounts met andere typen campagnes worden de achtervoegsels van de bestemmingspagina gemigreerd om de nieuwe s_kwcid-indeling te gebruiken tegen begin 2025. Ondertussen werken de oudere indelingen nog steeds als volgt:
+>Alle accounts met maximale prestatiecampagnes zijn naar de bovenstaande indeling gemigreerd. Voor accounts met andere typen campagnes worden de achtervoegsels van de bestemmingspagina gemigreerd om de nieuwe s_kwcid-indeling te gebruiken tegen begin 2025. Ondertussen werken de oudere indelingen nog steeds als volgt:
 >* Zoekcampagnes:
 >  `s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
