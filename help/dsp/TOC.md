@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 0ecceaf30ce135dd0083e34dd5c8c5bafb5a3c16
+source-git-commit: 5a667f353d436870e6d22422f64ae16f886d7bc8
 workflow-type: tm+mt
 source-wordcount: '932'
 ht-degree: 3%
@@ -25,9 +25,9 @@ ht-degree: 3%
 + [Nieuwe functies](/help/dsp/home.md)
 + Inleiding {#introduction}
    + [Inleiding tot Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
-   + Belangrijkste functies {#features}
+   + Belangrijke functies {#features}
       + [Optimalisatie](/help/dsp/introduction/features/optimization.md)
-      + [Merkveiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
+      + [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
@@ -55,12 +55,12 @@ ht-degree: 3%
       + [Een pakket bewerken](/help/dsp/campaign-management/packages/package-edit.md)
       + [Een pakket dupliceren](/help/dsp/campaign-management/packages/package-duplicate.md)
       + [Een plaatsing koppelen aan een pakket](/help/dsp/campaign-management/packages/package-attach-placement.md)
-      + [Een pakket pauzeren of activeren](/help/dsp/campaign-management/packages/package-pause-activate.md)
+      + [Een pakket onderbreken of activeren](/help/dsp/campaign-management/packages/package-pause-activate.md)
       + [Een pakket archiveren of archiveren](/help/dsp/campaign-management/packages/package-archive-unarchive.md)
-      + [Het wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)
+      + [Het Wijzigingslogboek voor een pakket weergeven](/help/dsp/campaign-management/packages/package-change-log.md)
       + [Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md)
    + Plaatsen {#placements}
-      + [Informatie over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
+      + [Info over Plaatsingsbeheer](/help/dsp/campaign-management/placements/placement-about.md)
       + [Een plaatsing maken](/help/dsp/campaign-management/placements/placement-create.md)
       + [Plaatsingsinstellingen controleren en bewerken met behulp van bulksbladen](/help/dsp/campaign-management/placements/placement-qa.md)
       + [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
@@ -79,10 +79,10 @@ ht-degree: 3%
       + [Eén advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
       + [Meerdere externe advertenties maken](/help/dsp/campaign-management/ads/ad-create-multiple.md)
       + [Advertenties maken met  [!DNL Flashtalking]](/help/dsp/campaign-management/ads/ad-create-flashtalking.md)
-      + [Advertentiedetails controleren met spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
+      + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [ Bevestig Advertenties aan Plaatsen ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [ Advertenties aan Plaatsingen ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) vastmaken <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -116,9 +116,9 @@ ht-degree: 3%
    + [Beste praktijken voor de Campagnes van Prestaties van de Opstelling](/help/dsp/optimization/campaign-best-practices-performance.md)
    + [Problemen oplossen](/help/dsp/optimization/troubleshooting-performance.md)
 + Soorten publiek {#audiences}
-   + [Over Audience Management](/help/dsp/audiences/audience-about.md)
-   + [Ondersteuning voor het activeren van universele id&#39;s](/help/dsp/audiences/universal-ids.md)
-   + Herbruikbare doelgroepen {#reusable-audiences}
+   + [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
+   + [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
+   + Herbruikbare soorten publiek {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
       + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
       + [Een herbruikbaar publiek bewerken](/help/dsp/audiences/reusable-audience-edit.md)
@@ -133,22 +133,22 @@ ht-degree: 3%
       + [Een aangepast segment maken en implementeren](/help/dsp/audiences/custom-segment-create.md)
       + [!UICONTROL CCPA Opt-out-of-Sale] Segmenten {#ccpa-opt-out-of-sale-segments}
          + [Informatie over [!UICONTROL CCPA Opt-out-of-Sale] segmenten](/help/dsp/audiences/ccpa-opt-out-about.md)
-         + [Een [!UICONTROL CCPA Opt-out-of-Sale] -segment maken en implementeren](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
-         + [[!UICONTROL Consumer Opt-Out-of-Sale] -rapporten ophalen](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
+         + [Een [!UICONTROL CCPA Opt-out-of-Sale] segment maken en implementeren](/help/dsp/audiences/ccpa-opt-out-segment-create.md)
+         + [[!UICONTROL Consumer Opt-Out-of-Sale] Rapporten ophalen](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md)
       + [Segmentinformatie bewerken](/help/dsp/audiences/segment-edit.md)
-      + [Delen of Stoppen met delen van segment](/help/dsp/audiences/segment-share.md)
+      + [Een segment delen of delen stoppen](/help/dsp/audiences/segment-share.md)
       + [Trackingpixels voor een segment weergeven](/help/dsp/audiences/segment-view-pixels.md)
       + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Bronnen {#sources}
-      + [Info over bronnen van eerstehands publiek](/help/dsp/audiences/sources/source-about.md)
-      + Workflows per klantdataplatform {#sources-workflows}
+      + [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
+      + Workflows per gegevensplatform van de klant {#sources-workflows}
          + [Zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universele IDs om](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
          + [Zet Gebruiker IDs van  [!DNL Amperity]  in Universele IDs om](/help/dsp/audiences/sources/source-amperity.md)
          + [Zet Gebruiker IDs van  [!DNL Optimizely]  in Universele IDs om](/help/dsp/audiences/sources/source-optimizely.md)
          + [Zet Gebruiker IDs van  [!DNL Tealium]  in Universele IDs om](/help/dsp/audiences/sources/source-tealium.md)
-      + [Bronnen voor doelgroepen beheren om Universal ID Audience-doelgroepen te activeren](/help/dsp/audiences/sources/source-manage.md)
-   + [Handmatig de Invoer voor authentiek verklaarde Segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
-   + [Beschikbare externe dataproviders](/help/dsp/audiences/third-party-data-providers.md)
+      + [Bronnen voor publiek beheren om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-manage.md)
+   + [Handmatig voor authentiek verklaarde Segmenten van  [!DNL LiveRamp] invoeren](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
+   + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)
 + Overzicht {#inventory}
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
    + [ [!DNL Roku Inventory] gebruiken](/help/dsp/inventory/roku-inventory.md)
@@ -177,9 +177,9 @@ ht-degree: 3%
             + [Tips voor onderhandelingen over een gegarandeerde programmatische deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
             + [Opstelling een Programma Gegarandeerde Overeenkomst](/help/dsp/inventory/programmatic-guaranteed-set-up.md)
             + [!DNL FreeWheel] Door programmacode gegarandeerde deals {#freewheel}
-               + [Overzicht van de Programmatic Gegarandeerde Deals van de Vestiging in  [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
-               + [Dien een Advertentie voor een Programma Gegarandeerde Overeenkomst aan  [!DNL FreeWheel] voor](/help/dsp/inventory/freewheel-submit.md)
-               + [Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Deals](/help/dsp/inventory/freewheel-check-status.md)
+               + [Overzicht van de Programmatic Gegarandeerde Overeenkomsten van de Opstelling in  [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+               + [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan  [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+               + [Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Overeenkomsten](/help/dsp/inventory/freewheel-check-status.md)
                + [Foutcodes voor FreeWheel Ad-verzendingen](/help/dsp/inventory/freewheel-error-codes.md)
       + [Instellingen voor persoonlijke deal bewerken](/help/dsp/inventory/deal-id-edit.md)
       + [Plaatsingen en advertenties voor een persoonlijke deal opgeven](/help/dsp/inventory/deal-id-attach-placements.md)
@@ -187,7 +187,7 @@ ht-degree: 3%
       + [Geef Advertisers met Toegang tot een Privé Overeenkomst uit](/help/dsp/inventory/deal-id-edit-advertisers.md)
       + [Inzichten in veilingen weergeven voor een persoonlijke deal](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
-      + [Archiveer of unarchiveer een Privé Overeenkomst](/help/dsp/inventory/private-deal-archive-unarchive.md)
+      + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
    + [!UICONTROL Simple Ad Serving] Overeenkomsten {#sas}
       + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
       + [Een [!UICONTROL Simple Ad Serving] deal maken](/help/dsp/inventory/simple-deal-create.md)
@@ -195,31 +195,31 @@ ht-degree: 3%
       + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
    + [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
 + Aangepaste rapporten {#custom-reports}
-   + [Informatie over aangepaste rapporten](/help/dsp/reports/report-about.md)
+   + [Aangepaste rapporten](/help/dsp/reports/report-about.md)
    + [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
    + [Een aangepast rapport dupliceren](/help/dsp/reports/report-copy.md)
    + [Een aangepast rapport bewerken](/help/dsp/reports/report-edit.md)
    + [Een aangepast rapport verwijderen](/help/dsp/reports/report-delete.md)
    + [Een aangepast rapport uitvoeren](/help/dsp/reports/report-run-now.md)
    + [Een aangepast rapport downloaden](/help/dsp/reports/report-download.md)
-   + [Aangepaste rapportinstellingen](/help/dsp/reports/report-settings.md)
+   + [Instellingen voor aangepaste rapporten](/help/dsp/reports/report-settings.md)
    + [Beschikbare rapportkolommen](/help/dsp/reports/report-columns.md)
-   + [Veelgestelde vragen over huishoudrapporten](/help/dsp/reports/faq-reports.md)
+   + [Veelgestelde vragen over rapporten van huishoudens](/help/dsp/reports/faq-reports.md)
    + Doelen rapporteren {#report-destinations}
-      + [Info over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
+      + [Info [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
       + [Een [!UICONTROL Report Destination] maken](/help/dsp/reports/report-destinations/report-destination-create.md)
       + [Een [!UICONTROL Report Destination] bewerken](/help/dsp/reports/report-destinations/report-destination-edit.md)
       + [Een [!UICONTROL Report Destination] verwijderen](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Planner {#planner}
-   + [Het gereedschap DSP](/help/dsp/planner/planner-about.md)
-   + [Een verbonden tv-bereikabonnement maken](/help/dsp/planner/planner-create.md)
-   + [Een verbonden tv-bereikabonnement dupliceren](/help/dsp/planner/planner-duplicate.md)
-   + [Bewerk een verbonden tv-bereikabonnement](/help/dsp/planner/planner-edit.md)
-   + [Instellingen voor Connect TV-bereikplannen](/help/dsp/planner/planner-settings.md)
-   + [Een prognose exporteren voor een verbonden tv-bereikplan](/help/dsp/planner/planner-export.md)
-   + [De prognose voor een verbonden tv-bereikplan opnieuw genereren](/help/dsp/planner/planner-forecast.md)
-   + [Een verbonden tv-bereikabonnement archiveren](/help/dsp/planner/planner-archive.md)
+   + [Informatie over het gereedschap DSP](/help/dsp/planner/planner-about.md)
+   + [Een aangesloten tv-bereikplan maken](/help/dsp/planner/planner-create.md)
+   + [Een aangesloten tv-bereikabonnement dupliceren](/help/dsp/planner/planner-duplicate.md)
+   + [Een aangesloten tv-bereikabonnement bewerken](/help/dsp/planner/planner-edit.md)
+   + [Instellingen voor aangesloten tv-bereikprogramma&#39;s](/help/dsp/planner/planner-settings.md)
+   + [Een voorspelling exporteren voor een aangesloten tv-bereikplan](/help/dsp/planner/planner-export.md)
+   + [De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren](/help/dsp/planner/planner-forecast.md)
+   + [Een aangesloten tv-bereikabonnement archiveren](/help/dsp/planner/planner-archive.md)
 + Beheer {#admin}
    + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
    + Gebruikers {#users}
@@ -228,10 +228,10 @@ ht-degree: 3%
       + [Uitnodigen van een in behandeling zijnde gebruiker ongedaan maken](/help/dsp/admin/user-uninvite.md)
    + Geblokkeerde sites {#sites}
       + [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
-      + [Een geblokkeerde sitelijst op accountniveau of op advertentieniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
+      + [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
    + Meldingen {#notifications}
-      + [Informatie over abonnementen op waarschuwingen](/help/dsp/admin/alerts-about.md)
+      + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
 + [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-+ [ Klantenondersteuning ](https://helpx.adobe.com/nl/contact/enterprise-support.ec.html)
++ [ Klantenondersteuning ](https://experienceleague.adobe.com/home?support-tab=home#support)
 + [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
