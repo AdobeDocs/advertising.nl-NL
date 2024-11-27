@@ -3,9 +3,9 @@ title: Overzicht van  [!DNL Analytics for Advertising]
 description: Overzicht van  [!DNL Analytics for Advertising]
 feature: Integration with Adobe Analytics
 exl-id: 94558478-ffa6-4b83-bc79-c7589fe0f14c
-source-git-commit: 2575b737926cfd681fd744401d5f4555402fbee2
+source-git-commit: 8911f6ea16878bede96151f004e6de2717484140
 workflow-type: tm+mt
-source-wordcount: '1183'
+source-wordcount: '1223'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,8 @@ De afmetingen van de Adobe Advertising worden toegevoegd met het achtervoegsel &
 ### Metrische gegevens voor siteconversie als biedsignalen
 
 U kunt uw standaardgebeurtenissen en aangepaste gebeurtenissen vanuit [!DNL Analytics] gebruiken om gewogen doelstellingen in de Adobe Advertising te maken. Doelstellingen informeren biedingsbeslissingen voor uw [!DNL DSP] -pakketten en zoek-, sociale en Commerce-portfolio&#39;s.
+
+Voor [!DNL Google Ads] - en [!DNL Google Microsoft Advertising] -campagnes in hybride portfolio&#39;s Zoeken, Sociaal en Commerce kunt u optioneel de doelstellingen, inclusief alle [!DNL Analytics] -gebeurtenissen in de doelstellingen, rechtstreeks uploaden naar advertentienetwerken, waar deze beschikbaar komen als conversieacties voor aangepaste conversiedoelstellingen op accountniveau en op campagnereniveau.
 
 >[!NOTE]
 >
