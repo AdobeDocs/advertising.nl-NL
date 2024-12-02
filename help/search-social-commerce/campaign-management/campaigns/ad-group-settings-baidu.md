@@ -1,22 +1,22 @@
 ---
-title: '[!DNL Baidu] ad group settings'
-description: Verwijs naar de instellingen voor [!DNL Baidu] ad groepen.
-exl-id: 940c5d62-8646-4686-ad34-1fbabe69e1b3
+title: '[!DNL Baidu] ad-groepinstellingen'
+description: Verwijs de montages voor  [!DNL Baidu]  en groepen.
+exl-id: 1d480339-a8c8-4874-ad8e-d8973660682c
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '50'
 ht-degree: 0%
 
 ---
 
-# [!DNL Baidu] groepsinstellingen toevoegen
+# [!DNL Baidu] ad-groepinstellingen
 
 ## [!UICONTROL Adgroup Details]
 
-**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die uniek is in de campagne. De maximumlengte is 15 double-byte tekens.
+**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die binnen de campagne uniek is. De maximumlengte is 15 double-byte tekens.
 
-**[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiegroepen is *Actief*.
+**[!UICONTROL Status]:** de vertoningsstatus van de advertentiegroep: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiegroepen is Actief **.
 
 ## [!UICONTROL Budget Options]
 
@@ -36,4 +36,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

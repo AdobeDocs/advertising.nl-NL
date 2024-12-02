@@ -1,24 +1,24 @@
 ---
 title: '[!UICONTROL Search Engine Account Report]'
-description: Meer informatie over de [!UICONTROL Search Engine Account Report].
-exl-id: 33866770-4ad4-40fa-9db4-3c686e33b1d4
+description: Meer informatie over de [!UICONTROL Search Engine Account Report] .
+exl-id: 83f3c42e-8488-48e5-8b47-199b52deb2dd
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Search Engine Account Report]
 
-De [!UICONTROL Search Engine Account Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere rekeningen van het advertentienetwerk met campagnes. Standaard bevatten de gegevens één rij voor elke toepasselijke account voor elke tijdeenheid in het opgegeven datumbereik, en de rijen staan eerst in oplopende volgorde via het ad-hocnetwerk en vervolgens per account.
+[!UICONTROL Search Engine Account Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere rekeningen van het advertentienetwerk met campagnes. Standaard bevatten de gegevens één rij voor elke toepasselijke account voor elke tijdeenheid in het opgegeven datumbereik, en de rijen staan eerst in oplopende volgorde via het ad-hocnetwerk en vervolgens per account.
 
 U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Account]
 * [!UICONTROL Search Engine]
@@ -35,6 +35,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

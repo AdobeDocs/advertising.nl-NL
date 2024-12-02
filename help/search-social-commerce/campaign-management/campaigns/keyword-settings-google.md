@@ -1,11 +1,11 @@
 ---
-title: '''[!DNL Google Ads] trefwoordinstellingen'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] trefwoorden.
-exl-id: 8834e852-214b-4b2c-9a95-4b1c802e800d
+title: '[!DNL Google Ads] trefwoordinstellingen'
+description: Verwijs de montages voor  [!DNL Google Ads]  sleutelwoorden.
+exl-id: b2937d18-565a-43f0-ba33-d46d4c77ec07
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '197'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 U kunt sleutelwoorden voor campagnes tot stand brengen die het onderzoek en vertoningsnetwerken gebruiken.
 
-Raadpleeg de Help bij Google Ads voor [trefwoordlimieten per account](https://support.google.com/google-ads/answer/6372658).
+Zie de hulp van Ads van Google voor [ sleutelwoordgrenzen per rekening ](https://support.google.com/google-ads/answer/6372658).
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De trefwoorden, inclusief alle [!DNL Google Ads] de syntaxis van de gelijke voor sleutelwoorden en placeholders. [!DNL Google Ads] accounts vereisen trefwoorden met de volgende kenmerken:
+**[!UICONTROL Keywords]:** De trefwoorden, inclusief eventuele [!DNL Google Ads] overeenkomende syntaxis voor trefwoorden en plaatsaanduidingen. Voor [!DNL Google Ads] -accounts zijn trefwoorden met de volgende kenmerken vereist:
 
 * De maximumlengte per trefwoord is 80 tekens en niet meer dan 10 woorden.
 * Het trefwoord mag alleen letters, cijfers en de volgende speciale tekens bevatten: spatie `# $ & _ - " [] ' + . / :`
@@ -27,10 +27,10 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!NOTE]
 >
->* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
->* Een [!DNL Google Ads] het bestaande trefwoord of het overeenkomende type wordt verwijderd en er wordt een nieuw trefwoord gemaakt.
+>* U kunt negatieve trefwoorden maken in de weergave [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen voor de advertentiegroep en de campagne.
+>* Als u het trefwoord [!DNL Google Ads] of het type overeenkomst wijzigt, wordt het bestaande trefwoord verwijderd en wordt een nieuw trefwoord gemaakt.
 
-**[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van het sleutelwoord: *Actief* of *Gepauzeerd*. Het gebrek voor nieuwe sleutelwoorden is Actief **.
 
 ## [!UICONTROL Bids]
 
@@ -40,9 +40,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param1}`](https://support.google.com/google-ads/answer/6305348) dynamische vervangingsreeks.
+**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [ `{param1}` ](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
 
-**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de trackingsjabloon de volgende URL bevat [de `{param2}`](https://support.google.com/google-ads/answer/6305348) dynamische vervangingsreeks.
+**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [ `{param2}` ](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
 
 ## URL-opties
 
@@ -60,4 +60,4 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!MORELIKETHIS]
 >
->* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

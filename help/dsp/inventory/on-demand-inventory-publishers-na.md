@@ -1,6 +1,6 @@
 ---
-title: '''[!DNL On Demand] Premium-uitgevers in Noord-Amerika'
-description: Zie de beschikbare [!DNL On Demand] uitgevers van premiumvoorraden in Noord-Amerika.
+title: '[!DNL On Demand] Uitgevers van premiumvoorraden in Noord-Amerika'
+description: Zie de beschikbare  [!DNL On Demand]  premieinventarisuitgevers in Noord-Amerika.
 feature: DSP On Demand Inventory
 exl-id: f1805fe0-5687-4e32-809f-c584acee3676
 source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# [!DNL On Demand] Premium-uitgevers in Noord-Amerika
+# [!DNL On Demand] Uitgevers van premiumvoorraden in Noord-Amerika
 
 <!-- get from Amanda Cabrera <acabrera@adobe.com> -->
 
@@ -30,7 +30,7 @@ ht-degree: 0%
 | [!DNL Cue Digital Media] | Canada |
 | [!DNL DAX] | Canada |
 | [!DNL DAZN] ([!DNL Perform Media]) | Canada |
-| [!DNL Dotdash] (voorheen) [!DNL About.com]) | Canada |
+| [!DNL Dotdash] (voorheen [!DNL About.com] ) | Canada |
 | [!DNL EA] | Canada |
 | [!DNL evite] | Canada |
 | [!DNL Expedia] | Canada |
@@ -76,7 +76,7 @@ ht-degree: 0%
 | [!DNL BBC] | U.S. |
 | [!DNL Billboard] | U.S. |
 | [!DNL Bloomberg] | U.S. |
-| [!DNL Broadcasters on Hulu] ([!DNL Discovery], [!DNL NBC Universal], [!DNL FOX]) | U.S. |
+| [!DNL Broadcasters on Hulu] ([!DNL Discovery] , [!DNL NBC Universal] , [!DNL FOX]) | U.S. |
 | [!DNL Business Insider] | U.S. |
 | [!DNL Buzzfeed] | U.S. |
 | [!DNL CBS Interactive] | U.S. |
@@ -90,7 +90,7 @@ ht-degree: 0%
 | [!DNL DAZN] ([!DNL Perform Media]) | U.S. |
 | [!DNL Discovery] | U.S. |
 | [!DNL Disney Digital Network] | U.S. |
-| [!DNL Dotdash] (voorheen) [!DNL About.com]) | U.S. |
+| [!DNL Dotdash] (voorheen [!DNL About.com] ) | U.S. |
 | [!DNL EA] | U.S. |
 | [!DNL ebay] | U.S. |
 | [!DNL ESI Media] | U.S. |
@@ -177,9 +177,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Info [!DNL On Demand] Premium-voorraad](on-demand-inventory-about.md)
->* [Abonneren en toegang aanvragen tot [!DNL On Demand] Premium-voorraad](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand] Premium-uitgevers in Azië Pacific](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand] Premium-uitgevers in Australië en Nieuw-Zeeland](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand] Premium Inventory Publishers in Europa, het Midden-Oosten en Afrika](on-demand-inventory-publishers-emea.md)
-
+>* [ Ongeveer  [!DNL On Demand]  Premium- Overzicht ](on-demand-inventory-about.md)
+>* [ Abonneren en de Toegang van het Verzoek tot  [!DNL On Demand]  Voorraad van de Premie ](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Azië Pacific ](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Australië en Nieuw-Zeeland ](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Europa, het Midden-Oosten, en Afrika ](on-demand-inventory-publishers-emea.md)

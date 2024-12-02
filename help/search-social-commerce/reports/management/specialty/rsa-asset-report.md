@@ -1,30 +1,30 @@
 ---
 title: '[!UICONTROL RSA Asset Report]'
-description: Meer informatie over de [!UICONTROL RSA Asset Report].
-exl-id: 76a7c698-5d05-4b48-bd50-5d126c0c4386
+description: Meer informatie over de [!UICONTROL RSA Asset Report] .
+exl-id: 6582c837-9521-479f-bae0-782e4c404ba2
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '139'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL RSA Asset Report]
 
-*[!DNL Google Ads]accounts met alleen responsieve zoekopdrachten*
+*[!DNL Google Ads]alleen accounts met responsieve zoekadvertenties*
 
-De [!UICONTROL RSA Asset Report] omvat dagelijkse peilinggegevens voor elk actief ([!UICONTROL Creative Title] of [!UICONTROL Description]) voor responsieve zoekopdrachten (RSA&#39;s) in een of meer portfolio&#39;s of een of meer accounts, campagnes en advertentiegroepen. Standaard bevatten de gegevens één rij voor elk actief dat ten minste één indruk binnen het opgegeven gegevensbereik heeft gekregen, zelfs als het actief tijdens de verslagperiode was uitgeschakeld (verwijderd). De rijen worden standaard in oplopende volgorde per ad-groep weergegeven. Het rapport kan eventueel labelclassificaties bevatten.
+De [!UICONTROL RSA Asset Report] bevat dagelijkse schattingswaarden voor elk element ( [!UICONTROL Creative Title] of [!UICONTROL Description] ) voor de responsieve zoekopdrachten (RSA&#39;s) in een of meer portfolio&#39;s of een of meer accounts, campagnes en advertentiegroepen. Standaard bevatten de gegevens één rij voor elk actief dat ten minste één indruk binnen het opgegeven gegevensbereik kreeg, zelfs als het actief tijdens de verslagperiode was uitgeschakeld (verwijderd). De rijen worden standaard in oplopende volgorde per ad-groep weergegeven. Het rapport kan eventueel labelclassificaties bevatten.
 
 >[!NOTE]
 >
->Wanneer u de optie &quot;[!UICONTROL Include rows with no performance data],&quot; bevatten de resultaten nog steeds geen gegevens voor elementen die nog nooit gegevens hebben ontvangen.
+>Wanneer u de optie aan &quot;[!UICONTROL Include rows with no performance data] selecteert,&quot;omvatten de resultaten nog geen gegevens voor activa die nooit gegevens hebben ontvangen.
 
 U kunt gegevens bekijken die op 8 augustus 2022 beginnen.<!-- Later: You can view data for the previous 36 months. -->
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Start Date]
 * [!UICONTROL End Date]
@@ -38,6 +38,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Speciale rapporten](specialty-report-about.md)
->* [Een speciaal rapport genereren](specialty-report-generate.md)
->* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

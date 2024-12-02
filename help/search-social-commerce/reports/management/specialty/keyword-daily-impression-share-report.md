@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Keyword Daily Impression Share Report]'
-description: Meer informatie over de [!UICONTROL Keyword Daily Impression Share Report].
+description: Meer informatie over de [!UICONTROL Keyword Daily Impression Share Report] .
 exl-id: 761864db-a6ef-4155-8959-6c2c90f14a6b
 feature: Search Reports, Search Specialty Reports
 source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
-De [!UICONTROL Keyword Daily Impression Share Report] omvat dagelijkse metriek van het imperiatieaandeel voor elk sleutelwoord, het overeenkomstige overeenkomende gelijketype, en het overeenkomstige apparatentype voor één of meerdere advertentiegroepen of campagnes. Standaard bevatten de gegevens één rij voor elk trefwoord, overeenkomend type en apparaat dat ten minste één indruk heeft gekregen of dat voor elke toepasselijke advertentiegroep voor elke dag in het opgegeven datumbereik klikt. De rijen staan standaard in oplopende volgorde op datum. Het rapport kan naar keuze gegevens omvatten die door worden gevolgd [!DNL Adobe] en afgeleide meetwaarden.
+[!UICONTROL Keyword Daily Impression Share Report] omvat dagelijkse metriek van het imperiatieaandeel voor elk sleutelwoord, het overeenkomstige gelijke type, en het overeenkomstige apparatentype voor één of meerdere ad groepen of campagnes. Standaard bevatten de gegevens één rij voor elk trefwoord, overeenkomend type en apparaat dat ten minste één indruk heeft gekregen of dat voor elke toepasselijke advertentiegroep voor elke dag in het opgegeven datumbereik klikt. De rijen staan standaard in oplopende volgorde op datum. Het rapport kan optioneel gegevens bevatten die worden bijgehouden door [!DNL Adobe] en afgeleide metriek.
 
 Metriek voor het delen van indrukken is de vorige dag om 13:00 uur beschikbaar in de tijdzone van de adverteerder. U kunt gegevens van de vorige twee maanden bekijken.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Keyword]
 * [!UICONTROL Keyword Status]
@@ -48,6 +48,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Speciale rapporten](specialty-report-about.md)
->* [Een speciaal rapport genereren](specialty-report-generate.md)
->* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

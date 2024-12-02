@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Campaign Report]'
-description: Meer informatie over de [!UICONTROL Campaign Report].
-exl-id: a241535a-d32a-4f84-9e0e-addb68d75496
+description: Meer informatie over de [!UICONTROL Campaign Report] .
+exl-id: c0cbdacc-2fa3-4eca-9355-6b3547d83802
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Campaign Report]
 
-De [!UICONTROL Campaign Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere campagnes met sleutelwoorden. Standaard bevatten de gegevens één rij voor elke toepasselijke campagne voor elke tijdseenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per campagne en vervolgens (indien van toepassing) per portfolio.
+[!UICONTROL Campaign Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere campagnes met sleutelwoorden. Standaard bevatten de gegevens één rij voor elke toepasselijke campagne voor elke tijdseenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per campagne en vervolgens (indien van toepassing) per portfolio.
 
 U kunt desgewenst specifieke labelclassificaties voor adverteerders opnemen.
 
@@ -20,7 +20,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Campaign]
 * [!UICONTROL Portfolio]
@@ -39,6 +39,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

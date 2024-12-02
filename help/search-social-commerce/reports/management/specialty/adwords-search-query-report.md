@@ -1,11 +1,11 @@
 ---
 title: '[!UICONTROL AdWords Search Query Report]'
-description: Meer informatie over de [!UICONTROL AdWords Search Query Report].
-exl-id: 085f6a46-ce7e-4b68-b03d-edfbb6834284
+description: Meer informatie over de [!UICONTROL AdWords Search Query Report] .
+exl-id: cf472731-f9e5-4878-9a83-59f5c022ec69
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '186'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-De [!UICONTROL AdWords Search Query Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens voor de vraagtermijnen van het gebruikersonderzoek voor één of meerdere advertentiegroepen. Standaard bevatten de gegevens één rij voor elke zoekterm die heeft geresulteerd in indrukkingen of klikken voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde op naam van de advertentiegroep en vervolgens op zoekterm. U kunt desgewenst het trefwoord opnemen waaraan de zoekterm is gekoppeld. Het rapport bevat niet het trefwoord waaraan de zoekterm is gekoppeld, noch conversiegegevens die zijn bijgehouden door [!DNL Adobe].
+[!UICONTROL AdWords Search Query Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens voor de vraagtermijnen van het gebruikersonderzoek voor één of meerdere advertentiegroepen. Standaard bevatten de gegevens één rij voor elke zoekterm die heeft geresulteerd in indrukkingen of klikken voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde op naam van de advertentiegroep en vervolgens op zoekterm. U kunt desgewenst het trefwoord opnemen waaraan de zoekterm is gekoppeld. Het rapport bevat niet het trefwoord waaraan de zoekterm is gekoppeld en ook geen conversiegegevens die door [!DNL Adobe] worden bijgehouden.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ De [!UICONTROL AdWords Search Query Report] omvat kosten, klik, indruk, en (naar
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Account Name]
 * [!UICONTROL Start Date]
@@ -40,6 +40,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
-* [Speciale rapporten](specialty-report-about.md)
-* [Een speciaal rapport genereren](specialty-report-generate.md)
-* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

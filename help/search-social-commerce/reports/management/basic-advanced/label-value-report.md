@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Label Value Report]'
-description: Meer informatie over de [!UICONTROL Label Value Report].
-exl-id: 6fc7efca-9189-48f9-a2db-dc324b73bef6
+description: Meer informatie over de [!UICONTROL Label Value Report] .
+exl-id: 6d279267-f7ee-475b-b4c3-72af6256330d
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '159'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Label Value Report]
 
-De [!UICONTROL Label Value Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens door de waarde van de etiketclassificatie die over portefeuilles, en netwerken, rekeningen, campagnes, of ad groepen wordt geaggregeerd. Standaard bevatten de gegevens één rij voor elke toepasselijke waarde voor trefwoorden, advertenties en plaatsingen die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid, dan door kosten, en dan door etiketwaarde, door gebrek. U kunt ook het aantal van elk eenheidstype weergeven waaraan de labelwaarde is toegewezen.
+[!UICONTROL Label Value Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens door de waarde van de etiketclassificatie die over portefeuilles, en netwerken, rekeningen, campagnes, of ad groepen wordt geaggregeerd. Standaard bevatten de gegevens één rij voor elke toepasselijke waarde voor trefwoorden, advertenties en plaatsingen die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid, dan door kosten, en dan door etiketwaarde, door gebrek. U kunt ook het aantal van elk eenheidstype weergeven waaraan de labelwaarde is toegewezen.
 
 U kunt gegevens van de voorgaande 36 maanden weergeven.
 
@@ -22,7 +22,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Label Value]
 * [!UICONTROL Label Classification]
@@ -38,6 +38,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Baidu] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Baidu] campagnes.
-exl-id: 842df637-e7dc-4493-bcdb-a29b478cd350
+description: Verwijs de montages voor  [!DNL Baidu]  campagnes.
+exl-id: bc8ec4e2-4b40-4c9d-8223-29143fe63784
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -14,20 +14,20 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kunt u advertenties plaatsen? Het enige is *Alleen netwerk zoeken*.
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) waar u advertenties wilt plaatsen. Het enige is *Netwerk van het Onderzoek slechts*.
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** Een campagnenaam die uniek is binnen de account. De maximumlengte is 15 double-byte tekens.
+**[!UICONTROL Campaign Name]:** Een campagnenaam die binnen de rekening uniek is. De maximumlengte is 15 double-byte tekens.
 
 **[!UICONTROL Ad Serving]:**
 Hoe vaak levert de zoekmachine uw actieve advertenties in verhouding tot elkaar binnen een advertentiegroep:
 
-* *[!UICONTROL Rotate]* (de standaardinstelling voor nieuwe campagnes): elk van je advertenties heeft dezelfde kans om de advertentieveiling in te voeren.
+* *[!UICONTROL Rotate]* (de standaardinstelling voor nieuwe campagnes): elk van je advertenties heeft dezelfde kans om de advertentievieiling in te voeren.
 
-* *[!UICONTROL Optimize]:*  Het advertentienetwerk bevordert advertenties die beter presteren. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
+* *[!UICONTROL Optimize]:* het advertentienetwerk begunstigt advertenties die beter presteren. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van de campagne: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiecampagnes is *Actief*.
 
 ## [!UICONTROL Budget Options]
 
@@ -83,4 +83,4 @@ Hoe vaak levert de zoekmachine uw actieve advertenties in verhouding tot elkaar 
 
 >[!MORELIKETHIS]
 >
->* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)

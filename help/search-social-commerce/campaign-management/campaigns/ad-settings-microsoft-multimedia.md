@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Microsoft Advertising] multimedia en instellingen'
-description: Verwijs naar de instellingen voor [!DNL Microsoft Advertising] multimediadagen.
+description: Verwijs de montages voor  [!DNL Microsoft Advertising]  advertenties van verschillende media.
 exl-id: 920ecb8d-e179-4946-be60-64f00bbabb70
 feature: Search Campaign Management
 source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
@@ -16,27 +16,27 @@ Multimedia-advertenties zijn beschikbaar op het zoeknetwerk. In het advertentien
 
 ## Details responsieve advertentie
 
-**[!UICONTROL Images]:** Maximaal 15 JPEG-, JPG- of PNG-afbeeldingen voor de advertentie, waaronder de volgende formaten:
+**[!UICONTROL Images]:** Tot 15 JPEG-, JPG- of PNG-afbeeldingen voor de advertentie, zoals de volgende formaten:
 
 * Ten minste één afbeelding met een hoogte-breedteverhouding van 1,91:1.
 
 * Ten minste één vierkante (1:1) afbeelding.
 
-Zie de toegestane verhoudingen en afmetingen voor [multimedia-advertenties](https://help.ads.microsoft.com/#apex/ads/en/60107/0).
+Zie de toegelaten aspectraties en de afmetingen voor [ advertenties van verschillende media ](https://help.ads.microsoft.com/#apex/ads/en/60107/0).
 
 <!-- Instructions -->
 
 {{$include /help/_includes/images-ms-multimedia-responsive-ad.md}}
 
-**[!UICONTROL Business Name]:** De firmanaam, met een maximum van 25 karakters.
+**[!UICONTROL Business Name]:** De bedrijfsnaam, met een maximum van 25 karakters.
 
-**[!UICONTROL Short Headlines]:** Korte kopregels met ten minste drie en maximaal 15 tekens met elk ten minste één woord en ten hoogste 30 tekens.
+**[!UICONTROL Short Headlines]:** minimaal drie en maximaal 15 korte kopregels met elk ten minste één woord en maximaal 30 tekens.
 
-**[!UICONTROL Long Headlines]:** Ten minste drie en maximaal vijf lange kopregels met elk maximaal 90 tekens.
+**[!UICONTROL Long Headlines]:** minstens drie, en tot vijf, lange kopregels met een maximum van 90 karakters elk.
 
-**[!UICONTROL Ad Text]:** Ten minste twee en maximaal vier beschrijvingen met elk ten minste één woord en maximaal 90 tekens.
+**[!UICONTROL Ad Text]:** minstens twee, en tot vier, beschrijvingen met minstens één woord en een maximum van 90 karakters elk.
 
-**[!UICONTROL Call to Action]:** De oproep tot actie om op te nemen in de advertentie. Standaard is Geautomatiseerd geselecteerd en selecteert het advertentienetwerk de oproep tot actie. U kunt desgewenst een andere actie kiezen.
+**[!UICONTROL Call to Action]:** De vraag aan actie om in de advertentie te omvatten. Standaard is Geautomatiseerd geselecteerd en selecteert het advertentienetwerk de oproep tot actie. U kunt desgewenst een andere actie kiezen.
 
 **[!UICONTROL Call to Action Language]:** De taal voor de vraag aan actieopties.
 
@@ -52,9 +52,9 @@ Zie de toegestane verhoudingen en afmetingen voor [multimedia-advertenties](http
 
 >[!MORELIKETHIS]
 >
->* [Over advertenties](ad-about.md)
->* [Advertenties beheren](ad-manage.md)
->* [[!DNL Microsoft Advertising] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising] product en instellingen](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising] responsieve (publiek) en instellingen](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft Advertising] responsieve zoekopdrachten en instellingen](ad-settings-microsoft-rsa.md)
+>* [ Ongeveer advertenties ](ad-about.md)
+>* [ beheert advertenties ](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)

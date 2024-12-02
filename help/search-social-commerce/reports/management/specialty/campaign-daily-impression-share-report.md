@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Campaign Daily Impression Share Report]'
-description: Meer informatie over de [!UICONTROL Campaign Daily Impression Share Report].
+description: Meer informatie over de [!UICONTROL Campaign Daily Impression Share Report] .
 exl-id: 0c77277f-e4a8-4c4b-83e8-0ad83402d81f
 feature: Search Reports, Search Specialty Reports
 source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
-De [!UICONTROL Campaign Daily Impression Share Report] bevat voor een of meer campagnes maateenheden voor het delen van de indruk per apparaattype. Standaard bevatten de gegevens één rij voor elke campagne die ten minste één indruk heeft gekregen of op elke dag in het opgegeven datumbereik heeft geklikt, en de rijen staan in oplopende volgorde op datum. Het rapport kan naar keuze gegevens omvatten die door worden gevolgd [!DNL Adobe] en afgeleide meetwaarden.
+In [!UICONTROL Campaign Daily Impression Share Report] worden voor een of meer campagnes dagelijkse metingen voor het delen van de indruk per apparaattype opgenomen. Standaard bevatten de gegevens één rij voor elke campagne die ten minste één indruk heeft gekregen of op elke dag in het opgegeven datumbereik heeft geklikt, en de rijen staan in oplopende volgorde op datum. Het rapport kan optioneel gegevens bevatten die worden bijgehouden door [!DNL Adobe] en afgeleide metriek.
 
 Metriek voor het delen van indrukken is de vorige dag om 13:00 uur beschikbaar in de tijdzone van de adverteerder. U kunt gegevens van de vorige twee maanden bekijken.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Start Date]
 * [!UICONTROL End Date]
@@ -43,6 +43,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Speciale rapporten](specialty-report-about.md)
->* [Een speciaal rapport genereren](specialty-report-generate.md)
->* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

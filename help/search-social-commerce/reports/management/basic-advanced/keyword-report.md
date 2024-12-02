@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Keyword Report]'
-description: Meer informatie over de [!UICONTROL Keyword Report].
-exl-id: e274e363-2ac5-4ba6-a2df-7786c3c3423f
+description: Meer informatie over de [!UICONTROL Keyword Report] .
+exl-id: eb2c7cb8-3f0d-4ae6-a1e2-127de315e1ce
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Keyword Report]
 
-De [!UICONTROL Keyword Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor sleutelwoorden die beelden binnen één of meerdere ad groepen ontvingen. U kunt de gegevens desgewenst filteren en alleen trefwoorden opnemen die een specifieke tekstreeks bevatten. Standaard bevatten de gegevens één rij voor elk toepasselijk trefwoord en elke combinatie van overeenkomende typen die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid en dan door gebrek.
+[!UICONTROL Keyword Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor sleutelwoorden die beelden binnen één of meerdere ad groepen ontvingen. U kunt de gegevens desgewenst filteren en alleen trefwoorden opnemen die een specifieke tekstreeks bevatten. Standaard bevatten de gegevens één rij voor elk toepasselijk trefwoord en elke combinatie van overeenkomende typen die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid en dan door gebrek.
 
 U kunt desgewenst specifieke labelclassificaties voor adverteerders opnemen.
 
@@ -20,11 +20,11 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 >[!NOTE]
 >
->Als het rapport gegevens van ad groepen in tevreden toegelaten onderzoekscampagnes omvat, dan [!UICONTROL Keyword] De kolom in het ingevulde rapport bevat de toepasselijke naam voor een advertentiegroep, zoals &quot;(inhoud van groep toevoegen) Uw naam van advertentiegroep.&quot;
+>Als het rapport gegevens van ad groepen in inhoud-toegelaten onderzoekscampagnes omvat, dan omvat de [!UICONTROL Keyword] kolom in het voltooide rapport de toepasselijke ad groepsnaam, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie.&quot;
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Keyword]
 * [!UICONTROL Keyword Status]
@@ -47,6 +47,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

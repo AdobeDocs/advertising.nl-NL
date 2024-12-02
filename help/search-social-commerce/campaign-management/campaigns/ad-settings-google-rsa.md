@@ -1,24 +1,24 @@
 ---
 title: '[!DNL Google Ads] responsieve zoekfunctie en instellingen'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] responsieve zoekopdrachten.
-exl-id: e3c76f22-780d-4631-bcf2-af68d12810e2
+description: Verwijs de montages voor  [!DNL Google Ads]  ontvankelijke onderzoeksadvertenties.
+exl-id: ba2a08eb-91fc-4a8c-81c5-a9e28f6abdbf
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '63'
 ht-degree: 0%
 
 ---
 
-# [!DNL Google Ads] responsieve zoekopdrachten en instellingen
+# [!DNL Google Ads] responsieve zoekfunctie en instellingen
 
-[!DNL Google Ads] dynamisch samenstellen [responsieve zoekopdrachten](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
+[!DNL Google Ads] assembleert dynamisch [ ontvankelijke onderzoeksadvertenties ](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
 
 >[!NOTE]
 >
 >Elke advertentiegroep kan maximaal drie ingeschakelde responsieve zoekadvertenties bevatten.
 
-Zie de [!DNL Google Ads] hulp voor [advertentiegrenzen per account](https://support.google.com/google-ads/answer/6372658?hl=en).
+Zie [!DNL Google Ads] hulp voor [ en grenzen per rekening ](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 ## [!UICONTROL Responsive Search Ad Details]
 
@@ -50,7 +50,7 @@ Zie de [!DNL Google Ads] hulp voor [advertentiegrenzen per account](https://supp
 
 >[!MORELIKETHIS]
 >
->* [Over advertenties](ad-about.md)
->* [Advertenties beheren](ad-manage.md)
->* [[!DNL Google Ads] alleen-aanroepbare advertentie-instellingen](ad-settings-google-call.md)
->* [[!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen](ad-settings-google-dsa.md)
+>* [ Ongeveer advertenties ](ad-about.md)
+>* [ beheert advertenties ](ad-manage.md)
+>* [[!DNL Google Ads]  vraag-slechts ad montages ](ad-settings-google-call.md)
+>* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-google-dsa.md)

@@ -1,11 +1,11 @@
 ---
-title: '''[!DNL Yahoo! Japan Ads] trefwoordinstellingen'
-description: Verwijs naar de instellingen voor [!DNL Yahoo! Japan Ads] trefwoorden.
-exl-id: cfb6ad85-1478-44af-a132-6b41278acd32
+title: '[!DNL Yahoo! Japan Ads] trefwoordinstellingen'
+description: Verwijs de montages voor  [!DNL Yahoo! Japan Ads]  sleutelwoorden.
+exl-id: c2a34b3e-fb88-44e8-8bf8-7854639bd8cd
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -14,16 +14,16 @@ ht-degree: 0%
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De trefwoorden. De maximumlengte is 80 tekens, inclusief alle willekeurige tekens [[!DNL Yahoo! Japan Ads] syntaxis voor type overeenkomst](https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=en&amp;aid=27) voor trefwoorden.
+**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte is 80 karakters, met inbegrip van om het even welke [[!DNL Yahoo! Japan Ads]  syntaxis van het gelijkentype ](https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=en&amp;aid=27) voor sleutelwoorden.
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in.
 
 >[!NOTE]
 >
->* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
+>* U kunt negatieve trefwoorden maken in de weergave [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen voor de advertentiegroep en de campagne.
 >* Yahoo! Japanse trefwoorden en typen overeenkomsten zijn veranderbaar, wat betekent dat u ze kunt bewerken zonder het bestaande trefwoord te verwijderen.
 
-**[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van het sleutelwoord: *Actief* of *Gepauzeerd*. Het gebrek voor nieuwe sleutelwoorden is Actief **.
 
 ## [!UICONTROL Bids]
 
@@ -33,9 +33,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param1}` [aangepaste parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
+**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param1}` [ douaneparameter ](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
 
-**[!UICONTROL Param2]:** De tekenreeks die als vervangingswaarde moet worden gebruikt als de basis-URL of de volgende sjabloon de waarde `{param2}` [aangepaste parameter](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US).
+**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param2}` [ douaneparameter ](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
 
 ## URL-opties
 
@@ -49,4 +49,4 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!MORELIKETHIS]
 >
->* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

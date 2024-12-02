@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Campaign Hourly Report]'
-description: Meer informatie over de [!UICONTROL Campaign Hourly Report].
-exl-id: 0819d249-c105-4408-b5a2-a82a9e553d31
+description: Meer informatie over de [!UICONTROL Campaign Hourly Report] .
+exl-id: 0e807e74-b8f8-4823-a9d9-1871a20e90b6
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '100'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Campaign Hourly Report]
 
-De [!UICONTROL Campaign Hourly Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere [!DNL Google Ads] campagnes met trefwoorden. Standaard bevatten de gegevens één rij voor elke toepasselijke campagne voor elk uur in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per campagne en vervolgens (indien van toepassing) per portfolio.
+[!UICONTROL Campaign Hourly Report] bevat kosten, klik en (optioneel) conversiegegevens voor een of meer [!DNL Google Ads] -campagnes met trefwoorden. Standaard bevatten de gegevens één rij voor elke toepasselijke campagne voor elk uur in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per campagne en vervolgens (indien van toepassing) per portfolio.
 
 U kunt desgewenst specifieke labelclassificaties voor adverteerders opnemen.
 
@@ -20,7 +20,7 @@ Gegevens zijn beschikbaar vanaf 15 mei 2021. <!-- [Later: You can view data for 
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Campaign]
 * [!UICONTROL Portfolio]
@@ -36,6 +36,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

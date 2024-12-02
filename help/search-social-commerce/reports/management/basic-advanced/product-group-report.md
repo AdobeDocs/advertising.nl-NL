@@ -1,26 +1,26 @@
 ---
 title: '[!UICONTROL Product Group Report]'
-description: Meer informatie over de [!UICONTROL Product Group Report].
-exl-id: cda775bb-3b86-4315-9b46-bf5f488a9fe8
+description: Meer informatie over de [!UICONTROL Product Group Report] .
+exl-id: 4e310d06-11fe-4c5a-b9a3-59ee099aeaef
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '150'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Product Group Report]
 
-De [!UICONTROL Product Group Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens door productgroep, samengevoegd over rekeningen, campagnes, of ad groepen. U kunt de gegevens desgewenst filteren op label. Standaard bevatten de gegevens één rij voor elk van de van toepassing zijnde productdoelen voor productaanbiedingsadvertenties die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid en dan door productdoel door gebrek.
+[!UICONTROL Product Group Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens door productgroep, samengevoegd over rekeningen, campagnes, of ad groepen. U kunt de gegevens desgewenst filteren op label. Standaard bevatten de gegevens één rij voor elk van de van toepassing zijnde productdoelen voor productaanbiedingsadvertenties die voor elke tijdseenheid in het opgegeven datumbereik afbeeldingen hebben ontvangen. De rijen zijn in oplopende orde eerst tegen de begindatum voor de tijdeenheid en dan door productdoel door gebrek.
 
 U kunt desgewenst specifieke labelclassificaties voor adverteerders opnemen.
 
-U kunt klikgegevens voor de vorige twee maanden bekijken, en post-klikgegevens voor alle advertentienetwerken van de Integraties van het Onderzoek, Sociale, &amp; van de Handel en van Adobe Analytics voor de vorige 18 maanden.
+U kunt klikgegevens voor de vorige twee maanden bekijken, en post-klikgegevens voor alle advertentienetwerken van de Integraties van Onderzoek, van Sociale, &amp; van Commerce en van Adobe Analytics voor de vorige 18 maanden.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Product Groupings]
 * [!UICONTROL Parent Product Groupings]
@@ -40,6 +40,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

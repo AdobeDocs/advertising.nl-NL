@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Ad Group Report]'
-description: Meer informatie over de [!UICONTROL Ad Group Report].
-exl-id: 7939c015-4828-49d4-8f7a-efd5992e088b
+description: Meer informatie over de [!UICONTROL Ad Group Report] .
+exl-id: 1d82fbd3-748b-4c05-87b0-9dc016d5d1b1
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Ad Group Report]
 
-De [!UICONTROL Ad Group Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor één of meerdere advertentiegroepen. Standaard bevatten de gegevens één rij voor elke toepasselijke advertentiegroep voor elke tijdeenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per ad-groep en vervolgens per campagne.
+[!UICONTROL Ad Group Report] bevat kosten, klik en (optioneel) conversiegegevens voor een of meer ad-hocgroepen. Standaard bevatten de gegevens één rij voor elke toepasselijke advertentiegroep voor elke tijdeenheid in het opgegeven datumbereik, en de rijen staan in oplopende volgorde eerst per ad-groep en vervolgens per campagne.
 
 U kunt desgewenst specifieke labelclassificaties voor adverteerders opnemen.
 
@@ -20,11 +20,11 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 >[!NOTE]
 >
->Gegevens op groepsniveau kunnen niet worden toegevoegd voor [!DNL Google Ads] maximale prestaties. Als u maximale prestatiecampagnes hebt, verwacht u discrepanties tussen het totaal en de gegevens op groepsniveau voor een campagne en de totale gegevens voor de campagne.
+>Gegevens op groepsniveau voor [!DNL Google Ads] prestaties zijn niet beschikbaar voor maximaal beschikbare campagnes. Als u maximale prestatiecampagnes hebt, verwacht u discrepanties tussen het totaal en de gegevens op groepsniveau voor een campagne en de totale gegevens voor de campagne.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Ad Group]
 * [!UICONTROL Campaign]
@@ -43,6 +43,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

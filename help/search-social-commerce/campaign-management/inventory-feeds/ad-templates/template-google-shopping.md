@@ -1,9 +1,9 @@
 ---
-title: '''[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds"'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] winkelen en sjablonen voor voorraadfeeds.
-exl-id: c154e1b3-70eb-437d-80f6-abf6ac192697
+title: '[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds'
+description: Verwijs de montages voor  [!DNL Google Ads]  het winkelen en malplaatjes voor inventarisvoer.
+exl-id: 36cbe719-f984-4456-8575-94b9d3e6094e
 feature: Search Inventory Feeds
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
 source-wordcount: '483'
 ht-degree: 0%
@@ -16,7 +16,7 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 >[!NOTE]
 >
->* De volgende tekens zijn gereserveerd voor het aangeven van kolomnamen en wijzigingsnamen in de sjabloon en zijn daarom niet toegestaan als tekst in alle kenmerkvelden:  `[ ] < > `
+>* De volgende tekens zijn gereserveerd voor het aangeven van kolomnamen en wijzigingsnamen in de sjabloon en zijn daarom niet toegestaan als tekst in alle kenmerkvelden: `[ ] < > `
 
 ## \[Boven alle tabbladen\]
 
@@ -56,9 +56,9 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 {{$include /help/_includes/inventory-feed-template-shopping-campaign-map-method.md}}
 
-**[!UICONTROL Campaign Tracking Template]:** (Optioneel voor sjablonen voor clientfeed-bestanden) De sjabloon voor bijhouden op campagnereniveau, waarmee alle niet-landende domein-omleidingen en volgparameters worden opgegeven en de uiteindelijke URL wordt ingesloten in een parameter. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
+**[!UICONTROL Campaign Tracking Template]:** (Facultatief voor malplaatjes voor de dossiers van de cliëntvoer) het campagne-vlakke het volgen malplaatje, dat alle off-landing domeinomleidingen en het volgen parameters specificeert en definitieve URL in een parameter inbedt. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
 
-Voor het bijhouden van Adoben Advertising voor conversie, die wordt toegepast wanneer de instellingen voor de campagne &quot;[!UICONTROL EF Redirect]&quot; en &quot;[!UICONTROL Auto Upload],&quot; gebruikt u de [Sjabloonformaat voor winkelen in Google Ads volgen](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
+Voor het omzetten van de Adobe Advertising het volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;gebruik het [ volgende malplaatjeformaat voor Google Ads het winkelen campagnes ](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -68,7 +68,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 **[!UICONTROL Merchant ID]:** De klant-id van de zakelijke account waarvan de producten voor de campagne worden gebruikt.
 
-**[!UICONTROL Sales Country]:** Het land waar de producten van de campagne worden verkocht. Omdat de producten met doellanden worden geassocieerd, bepaalt dit het plaatsen welke producten in de campagne worden geadverteerd.
+**[!UICONTROL Sales Country]:** Het land waarin de producten van de campagne worden verkocht. Omdat producten aan elkaar gekoppeld zijn
+met de doellanden bepaalt deze instelling welke producten in de campagne worden geadverteerd .
 
 <!-- **[!UICONTROL Stock Level]:** -->
 
@@ -92,9 +93,11 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 {{$include /help/_includes/inventory-feed-template-campaign-initial-budget.md}}
 
-**[!UICONTROL Networks]:** De netwerken waarop advertenties moeten worden geplaatst. *[!UICONTROL Search]* is al geselecteerd. Biedingen op aanbiedingen opnemen voor [!DNL Google Ads] zoekpartners, schakel het selectievakje in naast **[!UICONTROL Search partners]**.
+**[!UICONTROL Networks]:** De netwerken waarop advertenties moeten worden geplaatst. *[!UICONTROL Search]* is al geselecteerd. Als u biedingen wilt opnemen in aanbiedingen voor [!DNL Google Ads] zoekpartners, schakelt u het selectievakje naast **[!UICONTROL Search partners]** in.
 
-**[!UICONTROL Campaign Priority]:** De prioriteit waarmee de campagne wordt gebruikt wanneer de veelvoudige campagnes het zelfde product adverteren: *[!UICONTROL Low]* (standaard voor nieuwe campagnes), *[!UICONTROL Medium]*, of *[!UICONTROL High]*. Wanneer hetzelfde product in meer dan één campagne is opgenomen, gebruikt het advertentienetwerk eerst de campagneprioriteit om te bepalen welke campagne (en het bijbehorende bod) in aanmerking komt voor de advertentieveiling. Wanneer alle campagnes dezelfde prioriteit hebben, is de campagne met het hoogste bod subsidiabel.
+**[!UICONTROL Campaign Priority]:** De prioriteit waarmee de campagne wordt gebruikt wanneer de veelvoudige campagnes adverteren
+hetzelfde product: *[!UICONTROL Low]* (de standaardinstelling voor nieuwe campagnes), *[!UICONTROL Medium]* of *[!UICONTROL High]* . Wanneer het zelfde product in meer dan één campagne inbegrepen is, het gebruik van het advertentienetwerk
+de prioriteit van de campagne om eerst te bepalen welke campagne (en het bijbehorende bod) in aanmerking komt voor de advertentievieg. Wanneer alle campagnes dezelfde prioriteit hebben, is de campagne met het hoogste bod subsidiabel.
 
 <!-- **[!UICONTROL Locations]:** -->
 
@@ -114,7 +117,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 {{$include /help/_includes/inventory-feed-template-ad-group-map-method.md }}
 
-**[!UICONTROL Ad Group Tracking Template]:** (Optioneel) Een sjabloon voor reeksspatiëring op advertentieniveau, waarmee alle parameters voor het omleiden en bijhouden van domeinen worden opgegeven en de laatste URL wordt ingesloten in een parameter. Deze waarde overschrijft de instellingen op account- en campagnereniveau, maar sjablonen bijhouden op meer granulaire niveaus overschrijven deze waarde.
+**[!UICONTROL Ad Group Tracking Template]:** (Facultatief) een a-groep-vlakke het volgen malplaatje, dat alle off-landing domeinomleidingen en het volgen parameters specificeert en definitieve URL in een parameter inbedt. Deze waarde overschrijft de instellingen op account- en campagnereniveau, maar sjablonen bijhouden op meer granulaire niveaus overschrijven deze waarde.
 
 Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
@@ -126,7 +129,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 ## [!UICONTROL Product Groups]
 
-**[!UICONTROL Tier 1]:** De standaardproductgroep met alle mogelijke productgroepen, &quot;[!UICONTROL All products].&quot; U kunt deze bovenliggende productgroep niet verwijderen, maar deze wordt automatisch verwijderd wanneer alle lagere lagen in de feed ontbreken.
+**[!UICONTROL Tier 1]:** de gebrek, alle-inclusieve productgroep, &quot;[!UICONTROL All products]&quot;. U kunt deze bovenliggende productgroep niet verwijderen, maar deze wordt automatisch verwijderd wanneer alle lagere lagen in de feed ontbreken.
 
 <!-- **[!UICONTROL Tier 2 - Tier 8]:** -->
 
@@ -136,7 +139,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 {{$include /help/_includes/inventory-feed-template-row-level-value.md}}
 
-**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; optioneel) De sjabloon voor bijhouden voor de productgroep, die alle omleidingen en volgparameters van een extern domein opgeeft en de laatste URL in een [!DNL ValueTrack] parameter. Deze sjabloon negeert sjablonen op hogere niveaus.
+**[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; facultatief) het volgen malplaatje voor het product
+groep, die alle parameters voor het omleiden en bijhouden van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter [!DNL ValueTrack] insluit. Deze sjabloon negeert sjablonen op hogere niveaus.
 
 Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
@@ -158,8 +162,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over het automatiseren en beheren van voorraden](../inventory-feeds-about.md)
->* [Wijzigingstoetsen beheren](../modifiers-manage.md)
->* [Invoerbestanden voor inventarisgegevens beheren](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
->* [Doorvoergegevens doorgeven via sjablonen](../feed-data-propagate.md)
->* [Campagnegegevens van voorraadfeeds aan advertentienetwerken posten](../propagated-data-post.md)
+>* [ Ongeveer automatiserend en beheer gebruikend inventarisvoer ](../inventory-feeds-about.md)
+>* [ het Leiden bepalingen ](../modifiers-manage.md)
+>* [ het Leiden dossiers van de materiaalvoer van inventarisgegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
+>* [ doorgeven voedergegevens door malplaatjes ](../feed-data-propagate.md)
+>* [ de campagnegegevens van inventarisvoer aan ad netwerken ](../propagated-data-post.md)

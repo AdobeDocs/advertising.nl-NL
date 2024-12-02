@@ -1,20 +1,20 @@
 ---
-title: '''[!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen"'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] uitgebreide dynamische zoekopdrachten.
-exl-id: e7b3a4c2-1cdb-45d7-bf87-ca26947dd1a4
+title: '[!DNL Google Ads] uitgebreide dynamische zoekfunctie en instellingen'
+description: Verwijs de montages voor  [!DNL Google Ads]  uitgebreide dynamische onderzoeksadvertenties.
+exl-id: 62142e37-c7c6-42d8-883b-f288a2903f44
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
 
-# [!DNL Google Ads] uitgebreide dynamische zoekopdrachten en instellingen
+# [!DNL Google Ads] uitgebreide dynamische zoekfunctie en instellingen
 
-Dynamische zoekopdrachten zijn alleen beschikbaar voor [!DNL Google Ads] dynamische advertentiegroepen doorzoeken in alleen-zoekcampagnes. Het advertentienetwerk genereert dynamisch de kop en kiest de bestemmingspagina en de weergave-URL voor een dynamische zoekadvertentie en genereert vervolgens automatisch de laatste URL.
+Dynamische zoekadvertenties (DSA&#39;s) zijn alleen beschikbaar voor [!DNL Google Ads] dynamische advertentiegroepen doorzoeken in campagnes met alleen zoekopdrachten. Het advertentienetwerk genereert dynamisch de kop en kiest de bestemmingspagina en de weergave-URL voor een dynamische zoekadvertentie en genereert vervolgens automatisch de laatste URL.
 
-Raadpleeg de Help bij Google Ads voor [advertentiegrenzen per account](https://support.google.com/google-ads/answer/6372658?hl=en).
+Zie de hulp van Advertenties van Google voor [ en grenzen per rekening ](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Raadpleeg de Help bij Google Ads voor [advertentiegrenzen per account](https://s
 
 >[!MORELIKETHIS]
 >
->* [Over advertenties](ad-about.md)
->* [Advertenties beheren](ad-manage.md)
->* [[!DNL Google Ads] alleen-aanroepbare advertentie-instellingen](ad-settings-google-call.md)
->* [[!DNL Google Ads] responsieve zoekopdrachten en instellingen](ad-settings-google-rsa.md)
+>* [ Ongeveer advertenties ](ad-about.md)
+>* [ beheert advertenties ](ad-manage.md)
+>* [[!DNL Google Ads]  vraag-slechts ad montages ](ad-settings-google-call.md)
+>* [[!DNL Google Ads]  ontvankelijke onderzoek en montages ](ad-settings-google-rsa.md)

@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Geo Distribution Report]'
-description: Meer informatie over de [!UICONTROL Geo Distribution Report].
-exl-id: 08369dad-c499-4342-a76a-0708167cd704
+description: Meer informatie over de [!UICONTROL Geo Distribution Report] .
+exl-id: f9c08b81-1ebb-43bf-b1f3-1b373bde9d3e
 feature: Search Reports, Search Advanced Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '319'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Geo Distribution Report]
 
-De [!UICONTROL Geo Distribution Report] inclusief het geschatte aantal betaalde klikken [^1] per geografische regio, die wordt bepaald op basis van het IP-adres van de zoekgebruiker, voor campagnes binnen bepaalde portfolio&#39;s (indien van toepassing) of advertentierekeningen. U kunt desgewenst conversiemetriek opnemen. Standaard bevatten de gegevens het geschatte aantal klikken voor elke combinatie van advertentiegroep/campagne/portfolio voor elk gebied dat kliks genereerde, en de rijen zijn in aflopende volgorde door geschatte klikken.
+[!UICONTROL Geo Distribution Report] omvat het geschatte aantal betaalde kliks [^1 ] door geografisch gebied, dat van het IP van de onderzoeksgebruiker adres wordt bepaald, voor campagnes binnen gespecificeerde portefeuilles (indien toepasselijk) of advertentierekeningen. U kunt desgewenst conversiemetriek opnemen. Standaard bevatten de gegevens het geschatte aantal klikken voor elke combinatie van advertentiegroep/campagne/portfolio voor elk gebied dat kliks genereerde, en de rijen zijn in aflopende volgorde door geschatte klikken.
 
 Geschat beeld en geschatte kosten zijn slechts beschikbaar voor vertoning het volgen-slechts campagnes.
 
@@ -21,17 +21,17 @@ U kunt gegevens van de vorige twee (2) maanden plus de huidige maand bekijken.
 >[!NOTE]
 >
 >* Gegevens zijn alleen beschikbaar voor zoek- en weergavecampagnes.
->* De totalen voor dit rapport kunnen afwijken van de totalen voor dezelfde campagnes in de [!DNL Google Ads Geo Report] (die [!DNL Google Ads] compilaties) vanwege verschillende leveranciers en methoden voor het bepalen van geografische locaties.
+>* De totalen voor dit rapport kunnen afwijken van de totalen voor dezelfde campagnes in [!DNL Google Ads Geo Report] (die [!DNL Google Ads] compileert) vanwege verschillende leveranciers en methoden voor het bepalen van geografische locaties.
 
 >[!TIP]
 >
 >Gebruik de resultaten om geografische trends te benutten. Bijvoorbeeld, als de gebruikers in Californië een beduidend hogere omzettingspercentage dan andere gebieden voor een bepaalde campagne hebben, dan kunt u gebruikers in Californië voor die campagne specifiek willen richten, exclusief gebruikers in andere gebieden. Houd er echter rekening mee dat plotselinge markttendensen het gedrag van gebruikers op andere gebieden kunnen beïnvloeden, waardoor deze gebieden ook potentieel winstgevend kunnen worden. Gebruik voor de beste resultaten geografische doelwitten met geografisch specifieke trefwoorden en advertenties.
 
-[^1]: De klikgegevens (of klik-door) voor deze rapporten worden voorgesteld als ramingen eerder dan daadwerkelijke gegevens omdat Onderzoek, Sociale, &amp; Handel verschillende algoritmen kunnen gebruiken dan de diverse advertentienetwerken doen om geldige kliks te ontdekken, en omdat Onderzoek, Sociale, &amp; Handel geen sleutelwoorden tellen waarvoor geen kliks in de vorige week werd geregistreerd. Het systeem voor het bijhouden van conversies kan ook gegevens bevatten voor netwerkaccounts waarmee Zoeken, Sociaal en Handel niet synchroniseert.
+[^1 ]: De klikgegevens (of klik-door) voor deze rapporten worden voorgesteld als ramingen eerder dan daadwerkelijke gegevens omdat Onderzoek, Sociale, &amp; Commerce verschillende algoritmen kunnen gebruiken dan de diverse advertentienetwerken doen om geldige kliks te ontdekken, en omdat Onderzoek, Sociale, &amp; Commerce geen sleutelwoorden tellen waarvoor geen kliks in de vorige week werden geregistreerd. Het systeem voor het bijhouden van conversies kan ook gegevens bevatten voor netwerkaccounts waarmee Zoeken, Sociaal en Commerce niet synchroniseert.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Country]
 * [!UICONTROL State]
@@ -44,6 +44,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

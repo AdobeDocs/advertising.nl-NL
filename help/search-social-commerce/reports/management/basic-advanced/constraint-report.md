@@ -1,18 +1,18 @@
 ---
 title: '[!UICONTROL Constraint Report]'
-description: Meer informatie over de [!UICONTROL Constraint Report].
-exl-id: c118c9fa-5dfe-4224-bbc5-618d291bafc2
+description: Meer informatie over de [!UICONTROL Constraint Report] .
+exl-id: f7d56520-1683-4e79-9d57-84bc4d6f8760
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Constraint Report]
 
-De [!UICONTROL Constraint Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor beperkingen die de architectuur van de etiketclassificatie gebruiken, die over portefeuilles, en netwerken, rekeningen, campagnes, of ad groepen wordt samengevoegd. Standaard bevatten de gegevens één rij voor elke toepasselijke beperking voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan eerst in oplopende volgorde met beperking en dan standaard op de begindatum voor de tijdeenheid.
+[!UICONTROL Constraint Report] omvat kosten, klik, en (naar keuze) omzettingsgegevens voor beperkingen die de architectuur van de etiketclassificatie gebruiken, die over portefeuilles, en netwerken, rekeningen, campagnes, of ad groepen wordt samengevoegd. Standaard bevatten de gegevens één rij voor elke toepasselijke beperking voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan eerst in oplopende volgorde met beperking en dan standaard op de begindatum voor de tijdeenheid.
 
 U kunt gegevens weergeven voor de laatste 36 maanden.
 
@@ -22,7 +22,7 @@ U kunt gegevens weergeven voor de laatste 36 maanden.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Constraint Name]
 * [!UICONTROL Constraint Status]
@@ -41,6 +41,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

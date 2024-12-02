@@ -1,11 +1,11 @@
 ---
-title: '''[!DNL Yandex] trefwoordinstellingen'
-description: Verwijs naar de instellingen voor [!DNL Yandex] trefwoorden.
-exl-id: 276f991b-f604-445c-8dd0-481b6eaee3d2
+title: '[!DNL Yandex] trefwoordinstellingen'
+description: Verwijs de montages voor  [!DNL Yandex]  sleutelwoorden.
+exl-id: 973be0df-9b3c-4f33-b48b-ef1db4ab35da
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '190'
+source-wordcount: '185'
 ht-degree: 0%
 
 ---
@@ -18,16 +18,16 @@ Yandex-trefwoorden worden gebruikt voor zoeknetwerken en weergavenetwerken (cont
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De trefwoordzinnen, inclusief alle [Yandex, type syntaxis](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor trefwoorden. Elk trefwoord mag maximaal zeven woorden bevatten, met uitzondering van stopwoorden.
+**[!UICONTROL Keywords]:** de sleutelwoorduitdrukkingen, met inbegrip van om het even welke [ yandex typesyntaxis ](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor sleutelwoorden. Elk trefwoord mag maximaal zeven woorden bevatten, met uitzondering van stopwoorden.
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in.
 
 >[!NOTE]
 >
->* Een [!DNL Yandex] het bestaande trefwoord of het overeenkomende type wordt verwijderd en er wordt een nieuw trefwoord gemaakt.
+>* Als u het trefwoord [!DNL Yandex] of het type overeenkomst wijzigt, wordt het bestaande trefwoord verwijderd en wordt een nieuw trefwoord gemaakt.
 >* Elke Yandex en groep kan maximaal 200 trefwoorden bevatten.
 
-**[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van het sleutelwoord: *Actief* of *Gepauzeerd*. Het gebrek voor nieuwe sleutelwoorden is Actief **.
 
 ## [!UICONTROL Bids]
 
@@ -37,10 +37,10 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]** **[!UICONTROL Param2]:** De waarde van `{param1}` en `{param2}` vervangende variabelen, die in de plaats komen van {param1} en {param2} in de basis-URL voor advertenties en sitelinks wanneer het trefwoord wordt gebruikt om de advertentie weer te geven. De maximumlengte is 255 bytes.
+**[!UICONTROL Param1]** **[!UICONTROL Param2]:** De waarde van de vervangingsvariabelen `{param1}` en `{param2}` , die instanties van {param1} en {param2} in de basis-URL voor advertenties en sitelinks vervangen wanneer het trefwoord wordt gebruikt om de advertentie weer te geven. De maximumlengte is 255 bytes.
 
-Speciale tekens worden automatisch gecodeerd in UTF-8. Als de gekoppelde advertentie bijvoorbeeld een basis-URL heeft van &quot;http://www.example.com/{param1} en de waarde op trefwoordniveau van {param1} is &quot;shoes/flats.html&quot;, dan leidt de advertentie naar http://www.example.com/shoes%2Fflats.html.
+Speciale tekens worden automatisch gecodeerd in UTF-8. Als de gekoppelde advertentie bijvoorbeeld een basis-URL heeft van &quot;http://www.example.com/{param1} en de waarde op trefwoordniveau van {param1} &quot;shoes/flats.html&quot; is, wordt de advertentie verzonden naar http://www.example.com/shoes%2Fflats.html.
 
 >[!MORELIKETHIS]
 >
->* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

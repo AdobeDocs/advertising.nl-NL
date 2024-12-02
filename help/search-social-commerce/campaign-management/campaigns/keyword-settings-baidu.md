@@ -1,11 +1,11 @@
 ---
-title: '''[!DNL Baidu] trefwoordinstellingen'
-description: Verwijs naar de instellingen voor [!DNL Baidu] trefwoorden.
-exl-id: 70ecb5da-1056-4d87-82ba-ac03e0c81761
+title: '[!DNL Baidu] trefwoordinstellingen'
+description: Verwijs de montages voor  [!DNL Baidu]  sleutelwoorden.
+exl-id: 3b3a578b-06f1-486f-9ade-9104e0a1dd5f
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '226'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De trefwoorden. De maximumlengte per trefwoord is 30 single-byte of 15 double-byte tekens
+**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte per trefwoord is 30 single-byte of 15 double-byte tekens
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in. Gebruik de volgende syntaxis:
 
@@ -24,11 +24,11 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!NOTE]
 >
->* [!DNL Baidu] staat slechts één gelijke type per sleutelwoord per advertentiegroep toe. Groep 1 toevoegen kan bijvoorbeeld niet beide opnemen `"keyword"` en `[keyword]`.
->* U kunt negatieve trefwoorden maken van het menu [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen van de advertentiegroep en de campagne.
->* Een [!DNL Baidu] trefwoord verwijdert het bestaande trefwoord en maakt een nieuw trefwoord met een nieuwe id. Als u het overeenkomsttype wijzigt, wordt het bestaande trefwoord echter niet verwijderd.
+>* [!DNL Baidu] staat slechts één gelijke type per sleutelwoord per ad groep toe. Advertentiegroep 1 kan bijvoorbeeld niet zowel `"keyword"` als `[keyword]` bevatten.
+>* U kunt negatieve trefwoorden maken in de weergave [!UICONTROL Keywords] > [!UICONTROL Negatives] en in de instellingen voor de advertentiegroep en de campagne.
+>* Als u het trefwoord [!DNL Baidu] wijzigt, wordt het bestaande trefwoord verwijderd en wordt een nieuw trefwoord met een nieuwe id gemaakt. Als u het overeenkomsttype wijzigt, wordt het bestaande trefwoord echter niet verwijderd.
 
-**[!UICONTROL Status]:** De weergavestatus van het trefwoord: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe trefwoorden is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van het sleutelwoord: *Actief* of *Gepauzeerd*. Het gebrek voor nieuwe sleutelwoorden is Actief **.
 
 ## [!UICONTROL Bids]
 
@@ -38,12 +38,13 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## URL-opties
 
-**[!UICONTROL Base URL]:** (Campagnes with keyword-level tracking only; optional) De bestemmingspagina URL waarnaar gebruikers worden geleid wanneer ze op uw advertentie klikken. Het kan herrichtings- en volgcode van derden bevatten. Als u een waarde opgeeft, wordt de basis-URL voor de advertentie hierdoor genegeerd.
+**[!UICONTROL Base URL]:** (Campagnes with keyword-level tracking only; optional) De bestemmingspagina URL waarnaar gebruikers worden geleid wanneer zij op uw advertentie klikken. Dit kan
+omleiding- en trackingcode van derden. Als u een waarde opgeeft, wordt de basis-URL voor de advertentie hierdoor genegeerd.
 
 Nadat u de record hebt opgeslagen, bevat de basis-URL alle toevoegingsparameters die zijn geconfigureerd voor de campagne of account.
 
-Als u de service voor het bijhouden van de conversie van de Adobe Advertising gebruikt en de instellingen voor de campagne ook het gebruik van de functie [!UICONTROL EF Redirect] en het toevoegen van het volgen op het sleutelwoordniveau, dan voegt het Onderzoek, Sociale, &amp; Handel automatisch zijn eigen klik-volgende code toe.
+Als u de service voor het bijhouden van Adoben Advertising voor conversie gebruikt en de instellingen voor de campagne het gebruik van [!UICONTROL EF Redirect] omvatten en reeksspatiëring op trefwoordniveau toevoegt, wordt door Zoeken, Sociaal en Commerce automatisch een eigen code voor het bijhouden van klikken toegevoegd.
 
 >[!MORELIKETHIS]
 >
->* [Trefwoorden beheren](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

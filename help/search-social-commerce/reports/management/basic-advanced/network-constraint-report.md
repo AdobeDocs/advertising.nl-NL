@@ -1,24 +1,24 @@
 ---
 title: '[!UICONTROL Network Constraint Report]'
-description: Meer informatie over de [!UICONTROL Network Constraint Report].
-exl-id: 11eae03a-824f-4ba2-93f1-8e7532a8c8f0
+description: Meer informatie over de [!UICONTROL Network Constraint Report] .
+exl-id: ab908d86-2d37-476c-b2ac-f74c2f3a9a6d
 feature: Search Reports, Search Basic Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Network Constraint Report]
 
-De [!UICONTROL Network Constraint Report] toont alle gespecificeerde minimum en maximum en netwerkbegrotingen evenals de daadwerkelijke uitgaven (kosten). Het rapport bevat kosten, klik, indruk, doorzicht en (optioneel) conversiegegevens voor een of meer portfolio&#39;s. Standaard bevatten de gegevens één rij voor elke toepasselijke advertentie-netwerkaccount in het opgegeven datumbereik en staan de rijen in oplopende volgorde, eerst per portfolio en vervolgens via het ad-netwerk.
+In [!UICONTROL Network Constraint Report] worden alle opgegeven minimum- en maximum- en netwerkbudgetten en de werkelijke uitgaven (kosten) weergegeven. Het rapport bevat kosten, klik, indruk, doorzicht en (optioneel) conversiegegevens voor een of meer portfolio&#39;s. Standaard bevatten de gegevens één rij voor elke toepasselijke advertentie-netwerkaccount in het opgegeven datumbereik en staan de rijen in oplopende volgorde, eerst per portfolio en vervolgens via het ad-netwerk.
 
 De gegevens zijn beschikbaar vanaf 15 oktober 2022.<!-- [Later: You can view data for the previous NN days.] -->
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor basis- en geavanceerde rapporten](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Portfolio]
 * [!UICONTROL Portfolio Group Name]
@@ -37,6 +37,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](basic-advanced-report-about.md)
->* [Een basis- of geavanceerd rapport genereren](basic-advanced-report-generate.md)
->* [Standaard en geavanceerde rapportinstellingen](basic-advanced-report-settings.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
+>* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
+>* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)

@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL MSA Ad Extension by Keyword Report]'
-description: Meer informatie over de [!UICONTROL MSA Ad Extension by Keyword Report].
+description: Meer informatie over de [!UICONTROL MSA Ad Extension by Keyword Report] .
 feature: Search Reports, Search Specialty Reports
 exl-id: 0c23f8f8-6216-488b-b634-0de3cc18966d
 source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
@@ -18,7 +18,7 @@ In dit rapport worden de afbeeldingen, klikken, uitgaven en gemiddelde kosten pe
 
 Wanneer u een rapport met slechts metrische kolommen en geen dimensies in werking stelt, dan bevat het geproduceerde rapport twee dubbele rijen: met samengevoegde gegevens en andere met alle metriek.<!-- all metrics? -->
 
-U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Commerce worden de gegevens opgehaald van [!DNL Microsoft Advertising] in real time, en het kan verscheidene notulen vergen om rapporten met groter gegevensvolume te produceren.
+U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Commerce worden de gegevens in real-time opgehaald uit [!DNL Microsoft Advertising] en het kan enkele minuten duren om rapporten met een groter gegevensvolume te genereren.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ U kunt gegevens weergeven voor de laatste 180 dagen. Met Zoeken, Sociaal en Comm
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL SE Account Name]
 * [!UICONTROL Campaign Name]
@@ -46,6 +46,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Speciale rapporten](specialty-report-about.md)
->* [Een speciaal rapport genereren](specialty-report-generate.md)
->* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

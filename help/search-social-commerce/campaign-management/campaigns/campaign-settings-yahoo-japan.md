@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Yahoo! Japan Ads] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Yahoo! Japan Ads] campagnes.
-exl-id: f728a880-27d8-478a-8480-a00b0fcab293
+description: Verwijs de montages voor  [!DNL Yahoo! Japan Ads]  campagnes.
+exl-id: 29acde0f-13f6-422d-b611-23ebb2ee70d9
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '117'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kan ik advertenties plaatsen? De enige optie is *[!UICONTROL Search Network Only]* om tekstadvertenties op het zoeknetwerk weer te geven.
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar u advertenties wilt plaatsen: de enige optie is *[!UICONTROL Search Network Only]* om tekstadvertenties weer te geven op het zoeknetwerk.
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** Een campagnenaam die uniek is binnen de account.
+**[!UICONTROL Campaign Name]:** Een campagnenaam die binnen de rekening uniek is.
 
 <!-- **[!UICONTROL Start date]:** -->
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van de campagne: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiecampagnes is *Actief*.
 
 <!-- **[!UICONTROL End date]:** -->
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Budget Options]
 
-**[!UICONTROL Budget]:** De begroting, die gemiddeld het bedrag is dat u dagelijks wilt uitgeven. De dagelijkse minimumbegroting is 100 JPY.
+**[!UICONTROL Budget]:** De begroting, die het bedrag is u dagelijks, gemiddeld wilt uitgeven. De dagelijkse minimumbegroting is 100 JPY.
 
 Als u deze campagne toewijst aan een portfolio waarvoor de begrotingslimieten voor de campagne automatisch worden aangepast, kunt u — afhankelijk van de zoekvoorwaarden — in een bepaalde periode meer of minder uitgeven dan het opgegeven budget.
 
@@ -94,4 +94,4 @@ Als u deze campagne toewijst aan een portfolio waarvoor de begrotingslimieten vo
 
 >[!MORELIKETHIS]
 >
->* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)

@@ -1,22 +1,22 @@
 ---
-title: '[!DNL Yahoo! Japan Ads] ad group settings'
-description: Verwijs naar de instellingen voor [!DNL Yahoo! Japan Ads] ad groepen.
-exl-id: 987c9627-06b3-447a-aa1b-a4040f4f5a0c
+title: '[!DNL Yahoo! Japan Ads] ad-groepinstellingen'
+description: Verwijs de montages voor  [!DNL Yahoo! Japan Ads]  en groepen.
+exl-id: 1afacb94-bf07-45df-ab79-13cb7f876288
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
 
 ---
 
-# [!DNL Yahoo! Japan Ads] groepsinstellingen toevoegen
+# [!DNL Yahoo! Japan Ads] ad-groepinstellingen
 
 ## [!UICONTROL Adgroup Details]
 
-**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die uniek is in de campagne.
+**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die binnen de campagne uniek is.
 
-**[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiegroepen is *Actief*.
+**[!UICONTROL Status]:** de vertoningsstatus van de advertentiegroep: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiegroepen is Actief **.
 
 ## [!UICONTROL Budget Options]
 
@@ -42,4 +42,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

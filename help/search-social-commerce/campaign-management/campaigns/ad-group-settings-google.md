@@ -1,40 +1,40 @@
 ---
-title: '[!DNL Google Ads] ad group settings'
-description: Verwijs naar de instellingen voor [!DNL Google Ads] ad groepen.
-exl-id: 00aaa936-796f-4e22-9bee-4bb5121cd887
+title: '[!DNL Google Ads] ad-groepinstellingen'
+description: Verwijs de montages voor  [!DNL Google Ads]  en groepen.
+exl-id: def75630-19b9-4676-ad34-5d9041cc3680
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
 
-# [!DNL Google Ads] groepsinstellingen toevoegen
+# [!DNL Google Ads] ad-groepinstellingen
 
 ## [!UICONTROL Adgroup Details]
 
-**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die uniek is in de campagne. De maximumlengte is 255 double-byte tekens.
+**[!UICONTROL Ad Group Name]:** Een naam van een advertentiegroep die binnen de campagne uniek is. De maximumlengte is 255 double-byte tekens.
 
-**[!UICONTROL Status]:** De weergavestatus van de advertentiegroep: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiegroepen is *Actief*.
+**[!UICONTROL Status]:** de vertoningsstatus van de advertentiegroep: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiegroepen is Actief **.
 
-**[!UICONTROL Ad Group Type]:** (Alleen uitgebreide dynamische zoekopdrachten en campagnes) Het type advertentiegroep:
+**[!UICONTROL Ad Group Type]:** (Uitgebreide dynamische onderzoek en campagnes slechts) het type van ad groep:
 
 * *[!UICONTROL Search Standard]* (de standaardwaarde): voor standaardadvertenties.
 
-* *[!UICONTROL Search Dynamic]:* Voor dynamische zoekopdrachten.
+* *[!UICONTROL Search Dynamic]:* voor dynamische zoekopdrachten.
 
-**[!UICONTROL Ad Rotation Mode]:** Hoe vaak [!DNL Google Ads] levert uw actieve advertenties in relatie tot elkaar binnen de advertentiegroep:
+**[!UICONTROL Ad Rotation Mode]:** Hoe vaak [!DNL Google Ads] levert u uw actieve advertenties in relatie tot elkaar in de advertentiegroep:
 
-* *[!UICONTROL Optimize]:* In Google Ads worden advertenties geprezen die naar verwachting beter zullen worden uitgevoerd dan andere advertenties in de advertentiegroep. Deze advertenties komen vaker op de advertentie in en in de loop van de tijd wordt één advertentie bevoordeeld. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
+* *[!UICONTROL Optimize]:* Google Ads geeft advertenties de voorkeur die naar verwachting beter zullen presteren dan andere advertenties in de advertentiegroep. Deze advertenties komen vaker op de advertentie in en in de loop van de tijd wordt één advertentie bevoordeeld. Dit is mogelijk inconsistent met uw zakelijke en optimalisatiedoelstellingen.
 
-* *[!UICONTROL Rotate forever]:*   Elk van je advertenties komt een even aantal keren op de advertentieviekplaats terecht, zodat Search, Social &amp; Commerce je advertenties niet alleen op doorkliksnelheid maar ook op conversies kan scoren.
+* *[!UICONTROL Rotate forever]:*   Elk van je advertenties komt een even aantal keren in de advertentievieiling terecht, zodat Search, Social en Commerce je advertenties niet alleen op doorkliksnelheid maar ook op conversies kunnen scoren.
 
-* *[!UICONTROL Use campaign setting]*(de standaardinstelling voor nieuwe advertentiegroepen): gebruikt de bestaande instelling op campagnereniveau en rotatie. **Opmerking:** De instelling op campagneniveau is niet zichtbaar in Zoeken, Sociale Zaken en Handel.
+* *[!UICONTROL Use campaign setting]* (de standaardinstelling voor nieuwe advertentiegroepen): gebruikt de bestaande instelling op campagnereniveau en rotatie. **Nota:** het campagne-niveau plaatsen is niet zichtbaar in Onderzoek, Sociaal, &amp; Commerce.
 
-Als de campagne gebruikmaakt van een strategie voor een slim bod (bijvoorbeeld [!UICONTROL Target CPA], [!UICONTROL Target ROAS], of [!UICONTROL Enhanced CPC]), [!DNL Google Ads] stelt de optie automatisch in op &quot;[!UICONTROL Optimize].&quot;
+Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTROL Target CPA] , [!UICONTROL Target ROAS] of [!UICONTROL Enhanced CPC] ), stelt [!DNL Google Ads] automatisch de optie in op &quot;[!UICONTROL Optimize]&quot;.
 
-**[!UICONTROL Custom Bid Level]:** (Campagnes die slechts het vertoningsnetwerk richten) hoe te om te bieden: door *[!UICONTROL Ad Group]* (standaard), *[!UICONTROL Age]*, *[!UICONTROL Gender]*, *[!UICONTROL Interest and List]* (Belangen en Opmerking in Google Ads), *[!UICONTROL Keyword]*, *[!UICONTROL Placement]* (website), *[!UICONTROL Unknown]*, of *[!UICONTROL Vertical]*.
+**[!UICONTROL Custom Bid Level]:** (Campagnes die alleen op het weergavenetwerk zijn gericht) Hoe u kunt bieden: door *[!UICONTROL Ad Group]* (de standaardinstelling), *[!UICONTROL Age]*, *[!UICONTROL Gender]*, *[!UICONTROL Interest and List]* (Interesten en opmerkingen in Google Ads), *[!UICONTROL Keyword]*, *[!UICONTROL Placement]* (website), *[!UICONTROL Unknown]* of *[!UICONTROL Vertical]* .
 
 >[!NOTE]
 >
@@ -48,17 +48,17 @@ Als de campagne gebruikmaakt van een strategie voor een slim bod (bijvoorbeeld [
 
 {{$include /help/_includes/bid-ad-group.md}}
 
-**[!UICONTROL Target CPA]:** (Campagnes met [!UICONTROL Target CPA] Bieden; facultatief) de streefkosten per verwerving (CPA) voor de advertentiegroep. Deze waarde heeft voorrang op het doel op campagneniveau.
+**[!UICONTROL Target CPA]:** (Campagnes with [!UICONTROL Target CPA] bidding; optioneel) De doelkosten per aankoop (CPA) voor de advertentiegroep. Deze waarde heeft voorrang op het doel op campagneniveau.
 
-**[!UICONTROL Target ROAS]:** (Campagnes met [!UICONTROL Target ROAS] Bieden; optioneel) Het beoogde rendement op advertentie-uitgaven (ROAS) voor de advertentiegroep, als percentage. Deze waarde heeft voorrang op het doel op campagneniveau.
+**[!UICONTROL Target ROAS]:** (Campagnes with [!UICONTROL Target ROAS] bidding; optioneel) Het doelrendement op advertentie-uitgaven (ROAS) voor de advertentiegroep, als percentage. Deze waarde heeft voorrang op het doel op campagneniveau.
 
 ## [!UICONTROL Ad Group Targeting]
 
-**[!UICONTROL Audience Target Method]:** (Alleen campagnes op het zoeknetwerk en bestaande, alleen-lezen [!DNL Gmail] campagnes op het vertoningsnetwerk) Of:
+**[!UICONTROL Audience Target Method]:** (Campagnes op slechts het onderzoeksnetwerk, en bestaande, read-only [!DNL Gmail] campagnes op het vertoningsnetwerk) Of:
 
-* *[!UICONTROL Target and Bid]:* Alleen advertenties weergeven voor gebruikers die zijn gekoppeld aan doelgroepen die ook voldoen aan andere doelen voor de advertentiegroep.
+* *[!UICONTROL Target and Bid]:* om alleen advertenties weer te geven aan gebruikers die zijn gekoppeld aan doelgroepen die ook voldoen aan andere doelen voor de advertentiegroep.
 
-* *[!UICONTROL Bid Only]:* Advertenties tonen zelfs aan mensen die niet met doelpubliek worden geassocieerd zolang zij andere doelstellingen op groepsniveau voldoen. U kunt de kans echter vergroten dat advertenties bij een bepaald publiek worden getoond door voor dat publiek hogere biedingen in te stellen.
+* *[!UICONTROL Bid Only]:* om zelfs advertenties aan mensen te tonen die niet met doelpubliek worden geassocieerd zolang zij andere doelstellingen op het niveau van de ad groep voldoen. U kunt de kans echter vergroten dat advertenties bij een bepaald publiek worden getoond door voor dat publiek hogere biedingen in te stellen.
 
 <!-- **[!UICONTROL Devices]:** -->
 
@@ -88,4 +88,4 @@ Als de campagne gebruikmaakt van een strategie voor een slim bod (bijvoorbeeld [
 
 >[!MORELIKETHIS]
 >
->* [Adroepen beheren](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

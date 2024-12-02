@@ -1,11 +1,11 @@
 ---
 title: '[!UICONTROL Forecast Accuracy Report]'
 description: Leer over het Rapport van de Nauwkeurigheid van de Vooruitzichten, met inbegrip van de gegevenskolommen.
-exl-id: 2bb36728-ae14-441b-bcda-fa457f5cf664
+exl-id: f0c42323-eb0d-461a-ab09-440fd1bfc960
 feature: Search Reports, Search Model Accuracy Reports
-source-git-commit: 97111c6cd38098cac72b8773390afd254a017d1d
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '446'
 ht-degree: 0%
 
 ---
@@ -18,9 +18,9 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 
 >[!NOTE]
 >
->* Dit rapport bevat dezelfde gegevens als het portfolioniveau [!UICONTROL Model Accuracy Report] behalve dat u het over veelvoudige portefeuilles kunt in werking stellen en u kunt de attributieregel veranderen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen.
+>* Dit rapport bevat dezelfde gegevens als het portfolioniveau [!UICONTROL Model Accuracy Report] , met dit verschil dat u het rapport over meerdere portfolio&#39;s kunt uitvoeren en dat u de toewijzingsregel kunt wijzigen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen.
 >
->* De beste manier is om de [!UICONTROL Forecast Accuracy Report] gedurende ten minste de laatste zeven dagen omdat, ongeacht de uitgavenstrategie van de portefeuille, de meeste portefeuilles een inherente trend van de dag van de week zien. De optimalisatiecapaciteit houdt rekening met deze trend en wijst de uitgaven dienovereenkomstig toe.
+>* De beste manier is om de [!UICONTROL Forecast Accuracy Report] gedurende minstens de laatste zeven dagen te bekijken omdat, ongeacht de uitgavenstrategie van de portefeuille, de meeste portefeuilles een inherente trend van dag tot week zien. De optimalisatiecapaciteit houdt rekening met deze trend en wijst de uitgaven dienovereenkomstig toe.
 >
 >* Voor kostenramingen wordt een afwijking van 10% in de laatste zeven dagen aanvaardbaar geacht, zodat de feitelijke uitgaven die tussen 90% en 110% van de geraamde uitgaven liggen, fijn zijn. Voor inkomstenprognoses wordt een afwijking van 15% in de laatste zeven dagen aanvaardbaar geacht, zodat de werkelijke inkomsten die tussen 85% en 115% van de geraamde uitgaven liggen, een boete zijn. Prognoses met hogere afwijkingen moeten worden onderzocht.
 >
@@ -28,12 +28,12 @@ U kunt gegevens van de vorige 18 maanden bekijken.
 
 ## Beschikbare kolommen
 
-Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardkolommen worden standaard automatisch opgenomen. U kunt de beschikbare aangepaste kolommen toevoegen uit de [!UICONTROL Columns] van de rapportinstellingen.
+Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardkolommen worden standaard automatisch opgenomen. U kunt de beschikbare douanekolommen van de [!UICONTROL Columns] sectie van de rapportmontages toevoegen.
 
 | Kolom | Standaard? | Beschrijving |
 |----|----|----|
 | [!UICONTROL Portfolio] | Standaard | Het portfolio. |
-| [!UICONTROL Day of Week] | Standaard | De dag van de gerapporteerde week: <i>[!UICONTROL Sunday]</i>, <i>[!UICONTROL Monday]</i>, <i>[!UICONTROL Tuesday]</i>, <i>[!UICONTROL Wednesday]</i>, <i>[!UICONTROL Thursday]</i>, <i>[!UICONTROL Friday]</i>, of <i>[!UICONTROL Saturday]</i>. |
+| [!UICONTROL Day of Week] | Standaard | De dag van de gerapporteerde week: <i>[!UICONTROL Sunday]</i>, <i>[!UICONTROL Monday]</i>, <i>[!UICONTROL Tuesday]</i>, <i>[!UICONTROL Wednesday]</i>, <i>[!UICONTROL Thursday]</i>, <i>[!UICONTROL Friday]</i> of <i>[!UICONTROL Saturday]</i>. |
 | [!UICONTROL Start Date] | Standaard | De eerste dag die werd gerapporteerd. |
 | [!UICONTROL End Date] | Standaard | De laatste dag die is gemeld. |
 | [!UICONTROL Predicted Revenue] | Standaard | De voorspelde opbrengsten voor de portefeuille. |
@@ -51,7 +51,7 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 
 >[!MORELIKETHIS]
 >
->* [Informatie over modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
->* [De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
->* [Een rapport over de modelnauwkeurigheid genereren](model-accuracy-report-generate.md)
->* [Instellingen van modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [ Ongeveer de rapporten van de modelnauwkeurigheid ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
+>* [ De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
+>* [ produceer een rapport van de modelnauwkeurigheid ](model-accuracy-report-generate.md)
+>* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)

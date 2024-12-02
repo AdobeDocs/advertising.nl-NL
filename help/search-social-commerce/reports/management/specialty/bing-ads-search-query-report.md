@@ -1,6 +1,6 @@
 ---
 title: '[!UICONTROL Bing Ads Search Query Report]'
-description: Meer informatie over de [!UICONTROL Bing Ads Search Query Report].
+description: Meer informatie over de [!UICONTROL Bing Ads Search Query Report] .
 exl-id: 0207cfe7-a789-409f-af1b-a9579f2abe1e
 feature: Search Reports, Search Specialty Reports
 source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Microsoft Advertising]alleen accounts*
 
-De [!UICONTROL Bing Ads Search Query Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens voor de vraagtermijnen van het gebruikersonderzoek voor één of meerdere advertentiegroepen. Standaard bevatten de gegevens één rij voor elke zoekterm die heeft geresulteerd in indrukkingen of klikken voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan oplopend in orde door de naam van de ad groep en dan door onderzoekstermijn door gebrek. Het rapport bevat niet het trefwoord waaraan de zoekterm is gekoppeld, noch conversiegegevens die zijn bijgehouden door [!DNL Adobe].
+[!UICONTROL Bing Ads Search Query Report] omvat kosten, klik, indruk, en (naar keuze) afgeleide metrische gegevens voor de vraagtermijnen van het gebruikersonderzoek voor één of meerdere advertentiegroepen. Standaard bevatten de gegevens één rij voor elke zoekterm die heeft geresulteerd in indrukkingen of klikken voor elke toepasselijke advertentiegroep voor elke tijdseenheid in het opgegeven datumbereik. De rijen staan oplopend in orde door de naam van de ad groep en dan door onderzoekstermijn door gebrek. Het rapport bevat niet het trefwoord waaraan de zoekterm is gekoppeld en ook geen conversiegegevens die door [!DNL Adobe] worden bijgehouden.
 
 >[!NOTE]
 >
@@ -22,7 +22,7 @@ De [!UICONTROL Bing Ads Search Query Report] omvat kosten, klik, indruk, en (naa
 
 ## Standaardkolommen
 
-Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt u &quot;[Kolommen rapporteren voor speciale rapporten](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Account Name]
 * [!UICONTROL Start Date]
@@ -41,6 +41,6 @@ Voor beschrijvingen van alle standaardkolommen en aangepaste kolommen raadpleegt
 
 >[!MORELIKETHIS]
 >
->* [Speciale rapporten](specialty-report-about.md)
->* [Een speciaal rapport genereren](specialty-report-generate.md)
->* [Instellingen voor speciale rapporten](specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)

@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Yandex] campagne-instellingen'
-description: Verwijs naar de instellingen voor [!DNL Yandex] campagnes.
-exl-id: 33e73b90-7a37-4be7-b96d-02ef8bfdb79e
+description: Verwijs de montages voor  [!DNL Yandex]  campagnes.
+exl-id: 3be88471-06b8-4f05-8a4e-24f71f7a36f7
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '218'
 ht-degree: 0%
 
 ---
@@ -14,29 +14,29 @@ ht-degree: 0%
 
 ## \[Scherm Campagne maken\]
 
-**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van campagnes) Waar kunt u advertenties plaatsen:
+**[!UICONTROL Campaign Type]:** (Alleen beschikbaar tijdens het maken van de campagne) waar u advertenties wilt plaatsen:
 
-* *[!UICONTROL Search Network Only]:* Hiermee geeft u tekstadvertenties weer op het zoeknetwerk. U moet trefwoorden opgeven voor elke advertentiegroep.
+* *[!UICONTROL Search Network Only]:* toont tekstadvertenties op het onderzoeksnetwerk. U moet trefwoorden opgeven voor elke advertentiegroep.
 
-* *[!UICONTROL Search and Display Network]:* Hiermee geeft u tekstadvertenties weer op het zoeknetwerk en de [!DNL Yandex Advertising Network]. Voor zoekadvertenties moet u zoektrefwoorden opgeven voor elke advertentiegroep. Voor weergaveadvertenties moet u voor elke advertentiegroep trefwoorden opgeven voor de websites waarop u wilt adverteren.
+* *[!UICONTROL Search and Display Network]:* toont tekstadvertenties op het onderzoeksnetwerk en [!DNL Yandex Advertising Network]. Voor zoekadvertenties moet u zoektrefwoorden opgeven voor elke advertentiegroep. Voor weergaveadvertenties moet u voor elke advertentiegroep trefwoorden opgeven voor de websites waarop u wilt adverteren.
 
-* *[!UICONTROL Display Network Only]:* Hiermee worden tekstadvertenties weergegeven op de [!DNL Yandex Advertising Network]. Voor elke advertentiegroep moet u trefwoorden opgeven voor de websites waarop u wilt adverteren.
+* *[!UICONTROL Display Network Only]:* geeft tekstadvertenties weer op de [!DNL Yandex Advertising Network] . Voor elke advertentiegroep moet u trefwoorden opgeven voor de websites waarop u wilt adverteren.
 
 ## [!UICONTROL Campaign Details]
 
-**[!UICONTROL Campaign Name]:** Een campagnenaam die uniek is binnen de account.
+**[!UICONTROL Campaign Name]:** Een campagnenaam die binnen de rekening uniek is.
 
 <!-- **[!UICONTROL Start date]:** -->
 
 {{$include /help/_includes/start-date.md}}
 
-**[!UICONTROL Status]:** De weergavestatus van de campagne: *Actief* of *Gepauzeerd*. De standaardwaarde voor nieuwe advertentiecampagnes is *Actief*.
+**[!UICONTROL Status]:** De vertoningsstatus van de campagne: *Actieve* of *Gepauzeerde*. Het gebrek voor nieuwe advertentiecampagnes is *Actief*.
 
 ## [!UICONTROL Budget Options]
 
-**[!UICONTROL Budget]:** De begroting, die het bedrag is dat u dagelijks (gemiddeld) of tijdens de levensduur van de campagne wilt uitgeven, afhankelijk van het begrotingstype van de rekening. De minimumbegroting is py6 300, EUR 10, of USD 10.
+**[!UICONTROL Budget]:** De begroting, die het bedrag is u dagelijks (gemiddeld) of tijdens het leven van de campagne wilt uitgeven, afhankelijk van het de begrotingstype van de rekening. De minimumbegroting is py6 300, EUR 10, of USD 10.
 
-**Opmerkingen:**
+**Nota&#39;s:**
 
 * Nieuwe campagnes hebben de strategie voor het beheer van biedingen &quot;Hoogste beschikbare positie&quot;.
 
@@ -78,4 +78,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [Campagnes beheren](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
