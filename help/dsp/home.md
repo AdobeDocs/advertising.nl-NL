@@ -5,7 +5,7 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: feb31bf2408d2e6045c410e5750854bd0cbd2113
+source-git-commit: dd359c91b97d5aea3d1d01d19ef585bc24d9e266
 workflow-type: tm+mt
 source-wordcount: '4622'
 ht-degree: 0%
@@ -94,4 +94,4 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 |  | [!UICONTROL Ads] | (Gebruikers met toestemming om [!DNL Clearcast] kloknummers op te nemen in hun advertenties) DSP een fout niet meer zichtbaar als u een kloknummer gebruikt dat aan een andere advertentie is gekoppeld. **Nota:** de beste praktijken moeten een uniek klokaantal voor elke videoadvertentie gebruiken. Anders keurt de uitgever niet alle advertenties goed. | — |
 |  | [!UICONTROL Deal IDs] | De [!UICONTROL Deal ID] montages en andere plaatsen in het gebruikersinterface wijzen op nieuwe branding voor [!DNL Magnite] SSP:<br><ul><li>SSP &quot;[!DNL Tremor]&quot; ([!DNL Telaria]) is nu &quot;[!DNL Magnite CTV]&quot;.</li><li>In de komende weken verandert [!DNL Rubicon] in &quot;[!DNL Magnite DV+]&quot;, waarbij [!DNL DV+] staat voor weergave, video en andere indelingen, zoals audio.</li></ul> | Zie &quot;[ SSP Partners ](/help/dsp/inventory/ssp-partners.md).&quot; |
 |  | [!DNL Freewheel] gegarandeerde programmatische deals | U kunt nu advertenties verzenden en de status van advertenties controleren op door het programma gegarandeerde aanbiedingen vanuit de [!UICONTROL Ads] -weergave. [!DNL Freewheel] Eerder kon u beide handelingen alleen uitvoeren vanuit de [!UICONTROL Deals] -weergave. | Zie &quot;[ een Advertentie voor een Programma Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)" and "[Check the Status of Ads for [!DNL Freewheel]  Programmatic Gegarandeerde Overeenkomsten ](/help/dsp/inventory/freewheel-check-status.md) voorleggen.&quot; |
-| 7 oktober 2021 | Help | Alle [ DSP en andere documentatie van de Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising.html) op [!DNL Experience League] is nu machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![ taal van de Verandering ](/help/dsp/assets/change-language.png) |
+| 7 oktober 2021 | Help | Alle [ DSP en andere documentatie van de Adobe Advertising ](https://experienceleague.adobe.com/en/docs/advertising) op [!DNL Experience League] is nu machine vertaald in alle beschikbare talen. Als u de weergegeven taal wilt wijzigen, gebruikt u het menu &#39;Taal wijzigen&#39; linksonder op een pagina.<br>![ taal van de Verandering ](/help/dsp/assets/change-language.png) |
