@@ -3,7 +3,7 @@ title: Adobe Analytics-conversie bijhouden
 description: Meer informatie over het bijhouden van Adobe Analytics-conversies voor je campagnes in Adobe Advertising.
 exl-id: c72cc988-5b51-4e1a-8cb6-6c3ca2a0226b
 feature: Search Tracking
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 8deabf2c98901d706acdd035221e8c24e4a1d20d
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -12,21 +12,21 @@ ht-degree: 0%
 
 # Adobe Analytics-conversie bijhouden
 
-*Adverteerders die alleen Adobe Advertising-Adobe Analytics-integratie hebben*
+*Advertisers met slechts Adobe Advertising-Adobe Analytics integratie*
 
-Voor adverteerders met een Adobe Advertising-Adobe Analytics-integratie kan Advertising Cloud uw advertenties en indrukkingen verbinden met de betrokkenheids- en conversiemetriek van de site die worden bijgehouden door [!DNL Analytics] wanneer u een omleiding gebruikt met een token (`ef_id` parameter) in uw klik-volgende URLs voor uw klik [biedingseenheden](/help/search-social-commerce/glossary.md#a-b). De [!DNL Analytics] gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
+Voor adverteerders met een Adobe Advertising-Adobe Analytics integratie, kan Advertising Cloud uw advertenties en indrukkingen met de plaatsovereenkomst en omzettingsmetriek verbinden die door [!DNL Analytics] wordt gevolgd wanneer u een omleiding met teken (`ef_id` parameter) in uw klik-volgende URLs voor uw [ biedingseenheden ](/help/search-social-commerce/glossary.md#a-b) gebruikt. De [!DNL Analytics] -gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
 
-Zie &quot;[Overzicht van [!DNL Analytics for Advertising]](https://experienceleague.adobe.com/docs/advertising-cloud/dsp/integrations/analytics/overview.html){target="_blank"}&quot; voor meer informatie over de integratie .
+Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising/dsp/integrations/analytics/overview.html) {target="_blank"}&quot;voor meer informatie over de integratie.
 
 >[!PREREQUISITES]
 >
-> Tijdzones in het advertentieaccount van Search, Social &amp; Commerce, de [!DNL Analytics] rapporteer suites, en de rekeningen van het advertentienetwerk moeten aanpassen. Als zij niet aanpassen, komen de gegevensvariaties over de systemen voor.
+> Tijdzones in de adverteerderaccount Zoeken, Sociaal en Commerce, de [!DNL Analytics] -rapportreeksen en de netwerkaccounts van de advertentie moeten overeenkomen. Als zij niet aanpassen, komen de gegevensvariaties over de systemen voor.
 
 ## Overzicht van implementatie
 
-1. In [!DNL Analytics]En uw implementatieteam voor Zoeken, Sociaal zoeken en Commerce wijzigt de volgende configuratie-instellingen voor elke rapportsuite:
+1. In [!DNL Analytics] wijzigt uw implementatieteam Search, Social en Commerce de volgende configuratie-instellingen voor elke rapportsuite:
 
-   * De vervaldatum voor de `ef_id` [!DNL eVar] wordt gewijzigd zodat deze overeenkomt met het venster voor terugzoeken van adverteerders voor Adobe Advertising.
+   * De vervaldatum voor `ef_id` [!DNL eVar] wordt gewijzigd zodat deze overeenkomt met het klikvenster van de adverteerder voor Adobe Advertising.
 
    * De gebruikers-id van de Adobe Advertising.
 
@@ -36,12 +36,12 @@ Zie &quot;[Overzicht van [!DNL Analytics for Advertising]](https://experiencelea
 
    1. Synchroniseert de bestaande hiërarchie van de advertentienetwerkrekeningen in Onderzoek, Sociale, &amp; Commerce.
 
-   1. Hiermee voegt u omleidingen toe met &quot;`ef_id`&quot;-token dat wordt doorgegeven aan URL&#39;s die de URL bijhouden en dat wordt gepost naar het advertentienetwerk.
+   1. Voegt omleidingen met &quot;`ef_id`&quot;token toe die tot volgende URLs overgaan en hen aan het advertentienetwerk posten.
 
-   Deze stap gaat een omleiding aan de Adobe Advertising volgende server (behalve voor [!DNL Google Ads] en [!DNL Microsoft Advertising] advertenties in browsers die parallelle tracering ondersteunen) en voegt een dynamisch gevulde &quot;ef_id&quot;-parameter toe aan de URL op het moment van de advertentie-klik. Wanneer parallelle tracering van toepassing is, worden eindgebruikers rechtstreeks van uw advertentie naar de uiteindelijke URL verzonden en wordt de URL van uw volgsjabloon (met klikmeting) op de achtergrond geladen.
+   Met deze stap wordt een omleiding naar de Adobe Advertising tracking-server (behalve voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] -advertenties in browsers die parallelle tracering ondersteunen) voorbereid en wordt een dynamisch gevulde &quot;ef_id&quot;-parameter toegevoegd aan de URL op het moment van de advertentie. Wanneer parallelle tracering van toepassing is, worden eindgebruikers rechtstreeks van uw advertentie naar de uiteindelijke URL verzonden en wordt de URL van uw volgsjabloon (met klikmeting) op de achtergrond geladen.
 
-Zodra de integratie is voltooid, ontvangen Search, Social &amp; Commerce automatisch alle gebeurtenisgegevens op de pagina die worden bijgehouden in [!DNL Analytics] voor de rapportsuites die werden gevormd.
+Zodra de integratie is voltooid, ontvangen Search, Social, &amp; Commerce automatisch alle gebeurtenisgegevens op pagina die in [!DNL Analytics] voor de rapportreeksen worden gevolgd die werden gevormd.
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bijhouden van conversie](conversion-tracking-about.md)
+>* [ het volgen van de Omzetting opties ](conversion-tracking-about.md)
