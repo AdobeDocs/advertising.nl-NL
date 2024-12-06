@@ -3,9 +3,9 @@ title: Voer  [!DNL Google Ads]  verbeterde omzettingen voor lood uit
 description: Leer over het werkschema voor vestiging  [!DNL Google Ads]  verbeterde omzettingen voor lood.
 feature: Search Campaign Management, Conversions
 exl-id: b708c9f2-2962-45d9-8780-4e96ef2ae8f7
-source-git-commit: 56161ece4ba9c01cddb86e16796150c391f1a811
+source-git-commit: e0b1a65e3eddc41bed73817dabb6e38b1ef881b5
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -38,14 +38,13 @@ Voer de volgende stappen uit om deze functie te gebruiken. De stappen voor het m
 
    1. Selecteer of u een [!DNL Google] -tag of [!DNL Google Tag Manager] wilt gebruiken om de conversietag te maken.
 
-
-1. Configureer en implementeer een [!DNL Google] -tag voor de conversieactie.
+1. Configureer en implementeer een tag om de conversieactie bij te houden.
 
    Voor instructies, zie de [!DNL Google Ads] hulp om markeringen voor verbeterde omzettingen voor lood [ tot stand te brengen gebruikend a  [!DNL Google]  markering ](https://support.google.com/google-ads/answer/11021502) of [ gebruikend  [!DNL Google Tag Manager] ](https://support.google.com/google-ads/answer/11347292).
 
 1. Creeer een omzettingsactie voor de verbeterde omzetting voor lood binnen of [ Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) of [ Advertenties van Google ](https://support.google.com/google-ads/answer/12216226).
 
-   Voor het **Type van Omzetting,** uitgezochte *Omzetting van de Invoer* of *Invoer.*
+   Als u de omzettingsactie binnen Onderzoek, Sociale, &amp; Commerce creeert, specificeer het **Type van Omzetting** als *Omzetting van de Invoer* of *Invoer.*
 
 1. Upload zo vaak als nodig gegevens van de eerste partij, inclusief gehashte e-mailadressen of telefoonnummers, om deze aan de conversie voor een opgegeven account toe te wijzen. U kunt deze stap van binnen of [ Onderzoek voltooien, Sociale, &amp; Commerce ](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md) of het gebruiken [!DNL Google Data Manager].
 
