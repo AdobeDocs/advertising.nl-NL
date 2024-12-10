@@ -3,9 +3,9 @@ title: Bronnen voor publiek beheren om Universal ID-publiek te activeren
 description: Leer hoe u een bron kunt maken en beheren om een publiek van uw klantgegevensplatform te importeren en deze om te zetten in segmenten met universele id's.
 feature: DSP Audiences
 exl-id: 728130d7-d19c-4d5d-9bca-695f8c17f89b
-source-git-commit: 3a641db6b145e67e6e1f1daca271dd524973e075
+source-git-commit: e9ce180e302f619c85a3d6db813c83903e437d04
 workflow-type: tm+mt
-source-wordcount: '759'
+source-wordcount: '758'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->Nadat u een bron voor uw platform van klantengegevens creeert, zult u extra stappen moeten voltooien om uw publiek in te voeren. Zie het [ werkschema voor  [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md), <!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> het [ werkschema voor  [!DNL Amperity]](source-amperity.md), het [ werkschema voor  [!DNL Optimizely]](source-optimizely.md), en het [ werkschema voor  [!DNL Tealium]](source-tealium.md).
+>Nadat u een bron voor uw platform van klantengegevens creeert, moet u extra stappen voltooien om uw publiek in te voeren. Zie het [ werkschema voor  [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md), <!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> het [ werkschema voor  [!DNL Amperity]](source-amperity.md), het [ werkschema voor  [!DNL Optimizely]](source-optimizely.md), en het [ werkschema voor  [!DNL Tealium]](source-tealium.md).
 
 ## De id-typen wijzigen voor een publiek-Source
 
