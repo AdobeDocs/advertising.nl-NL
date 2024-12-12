@@ -2,9 +2,9 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: a7751041b75f4258ce8e57629262c4cb30eccc95
+source-git-commit: 20f69d2e8d5d289015c911f153609c0805307f0a
 workflow-type: tm+mt
-source-wordcount: '927'
+source-wordcount: '943'
 ht-degree: 0%
 
 ---
@@ -170,11 +170,9 @@ U kunt adverteerder-niveau met voeten treden die op het [ plaatsingsniveau ](/he
 
 #### [!UICONTROL DoubleVerify Authentic Brand Suitability]
 
-**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] slechts klanten; facultatief) Het merkveiligheidssegment ID verbonden aan de rekening van de organisatie [!DNL DoubleVerify].
+**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] alleen klanten; optioneel) A [!DNL DoubleVerify Authentic Brand Safety] segment-id die is gekoppeld aan de account van de organisatie [!DNL DoubleVerify] en die standaard voor alle plaatsen moet worden gebruikt. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP uw account aan voor gebruik van de segment-id.
 
-**[!UICONTROL Enable Authentic Brand Suitability]:** (Facultatief) door gebrek, laat [!DNL DoubleVerify Authentic Brand Safety] toe, die drukken na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segmentidentiteitskaart worden gevormd. DSP uw account aan voor gebruik van de segment-id.
-
-U kunt de instelling op advertentieniveau op plaatsingsniveau overschrijven.
+De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. U kunt de id op advertentieniveau op plaatsingsniveau wijzigen of verwijderen.
 
 >[!MORELIKETHIS]
 >

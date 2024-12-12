@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 06bf098bbda30db6a9fa6f21e9e08db74258f578
+source-git-commit: cbefed8dcf59038d57e145d511f2491dd928a788
 workflow-type: tm+mt
-source-wordcount: '3887'
+source-wordcount: '3967'
 ht-degree: 0%
 
 ---
@@ -391,7 +391,15 @@ Onderwerpgerichte onderwerpen opgeven:
 
 ## [!UICONTROL Brand Safety and Media Quality]
 
+**[!UICONTROL DoubleVerify ABS segment ID]:** (Facultatief; [!DNL DoubleVerify] klanten slechts; beschikbaar voor pre-rol van de Desktop, standaard en klik-aan-spel vertoning, en inheemse vertoning en videoplaatsen slechts; niet gesteund voor [ standaard programmatic gewaarborgde Plaatsen voor overeenkomsten ](/help/dsp/inventory/programmatic-guaranteed-about.md)) A [!DNL DoubleVerify Authentic Brand Safety] segment ID verbonden aan de rekening van organisatie [!DNL DoubleVerify] voor de plaatsing te gebruiken. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP uw account aan voor gebruik van de segment-id.
+
+De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. Als een segment-id standaard is opgegeven in de accountinstellingen van de adverteerder, wordt de id op adverteerderniveau ingevoerd, maar u kunt de id wijzigen in een ander segment of de id verwijderen om de functie uit te schakelen.
+
 **[!UICONTROL Contextual filtering]:** Typen [!DNL Comscore] -, [!DNL DoubleVerify] - [!DNL Integral Ad Science] en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
+
+<!-- Looks like we didn't rename this:
+**[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
+-->
 
 * [!UICONTROL DoubleVerify]:
 
@@ -441,8 +449,6 @@ Welk niveau van [ Ads.txt ](https://iabtechlab.com/ads-txt-about/) prebid het fi
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers van een domein.
 
 **[!UICONTROL Attention Targeting]:** (Weergave, video, mobiel en standaard aangesloten tv-plaatsingen) [!DNL Adelaide] Hiermee kunt u vooraf biedende segmenten met een specifiek concentratieniveau (hoog, gemiddeld of laag) benaderen op basis van de opgegeven site, indeling en advertentiegrootte. De segmenten worden wekelijks bijgewerkt. **Nota:** Gebruikend [!DNL Adelaide] segmenten voor het richten loopt een CPM tarief voor elke indruk die met [!DNL Adelaide] aandacht het richten wordt geleverd; deze prijs is gescheiden van kosten voor [ aandachtmeting ](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
-
-**[!UICONTROL DoubleVerify Authentic Brand Safety]:** (Advertisers die met de [!UICONTROL DoubleVerify Authentic Brand Safety] optie worden gevormd) laat [!DNL DoubleVerify Authentic Brand Safety] toe, die impressies na-bod gebruikend de de veiligheidsregels van het douanemerk blokkeert die voor gespecificeerde segmentidentiteitskaart worden gevormd. DSP uw account aan voor gebruik van de segment-id die in de adverteerderinstellingen is opgegeven.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
