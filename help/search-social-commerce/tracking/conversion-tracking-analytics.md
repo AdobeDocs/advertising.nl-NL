@@ -3,7 +3,7 @@ title: Adobe Analytics-conversie bijhouden
 description: Meer informatie over het bijhouden van Adobe Analytics-conversies voor je campagnes in Adobe Advertising.
 exl-id: c72cc988-5b51-4e1a-8cb6-6c3ca2a0226b
 feature: Search Tracking
-source-git-commit: 8deabf2c98901d706acdd035221e8c24e4a1d20d
+source-git-commit: a6dc9edb12484499069a68222a3007ae08d9dfea
 workflow-type: tm+mt
 source-wordcount: '297'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor adverteerders met een Adobe Advertising-Adobe Analytics integratie, kan Advertising Cloud uw advertenties en indrukkingen met de plaatsovereenkomst en omzettingsmetriek verbinden die door [!DNL Analytics] wordt gevolgd wanneer u een omleiding met teken (`ef_id` parameter) in uw klik-volgende URLs voor uw [ biedingseenheden ](/help/search-social-commerce/glossary.md#a-b) gebruikt. De [!DNL Analytics] -gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
 
-Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising/dsp/integrations/analytics/overview.html) {target="_blank"}&quot;voor meer informatie over de integratie.
+Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/en/docs/advertising/integrations/analytics/overview) {target="_blank"}&quot;voor meer informatie over de integratie.
 
 >[!PREREQUISITES]
 >
