@@ -3,7 +3,7 @@ title: '[!DNL Yahoo! Japan Ads] trefwoordinstellingen'
 description: Verwijs de montages voor  [!DNL Yahoo! Japan Ads]  sleutelwoorden.
 exl-id: c2a34b3e-fb88-44e8-8bf8-7854639bd8cd
 feature: Search Campaign Management
-source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
+source-git-commit: cfb7cf030d91ed6b2b31832fd8ab8c97135477f3
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte is 80 karakters, met inbegrip van om het even welke [[!DNL Yahoo! Japan Ads]  syntaxis van het gelijkentype ](https://ads-help.yahoo.co.jp/yahooads/ss/articledetail?lan=en&amp;aid=27) voor sleutelwoorden.
+**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte is 80 karakters, met inbegrip van om het even welke [[!DNL Yahoo! Japan Ads]  syntaxis van het gelijkentype ](https://ads-help.yahoo-net.jp/s/article/H000044997) voor sleutelwoorden.
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in.
 
