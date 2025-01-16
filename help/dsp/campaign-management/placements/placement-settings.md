@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: cbefed8dcf59038d57e145d511f2491dd928a788
+source-git-commit: 17d2f802e77709636ef9654ad154e14c5d53c477
 workflow-type: tm+mt
-source-wordcount: '3967'
+source-wordcount: '3966'
 ht-degree: 0%
 
 ---
@@ -448,7 +448,7 @@ Welk niveau van [ Ads.txt ](https://iabtechlab.com/ads-txt-about/) prebid het fi
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers van een domein.
 
-**[!UICONTROL Attention Targeting]:** (Weergave, video, mobiel en standaard aangesloten tv-plaatsingen) [!DNL Adelaide] Hiermee kunt u vooraf biedende segmenten met een specifiek concentratieniveau (hoog, gemiddeld of laag) benaderen op basis van de opgegeven site, indeling en advertentiegrootte. De segmenten worden wekelijks bijgewerkt. **Nota:** Gebruikend [!DNL Adelaide] segmenten voor het richten loopt een CPM tarief voor elke indruk die met [!DNL Adelaide] aandacht het richten wordt geleverd; deze prijs is gescheiden van kosten voor [ aandachtmeting ](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
+**[!UICONTROL Attention Targeting]:** (Weergave, video en standaard aangesloten tv-plaatsingen) [!DNL Adelaide] hiermee kunt u vooraf biedende segmenten met een specifiek concentratieniveau (hoog, gemiddeld of laag) benaderen op basis van de opgegeven site, indeling en advertentiegrootte. De segmenten worden wekelijks bijgewerkt. **Nota:** Gebruikend [!DNL Adelaide] segmenten voor het richten maakt een CPM vergoeding voor elke indruk die met [!DNL Adelaide] aandacht het richten wordt geleverd; dit tarief is gescheiden van kosten voor [ aandachtmeting ](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
