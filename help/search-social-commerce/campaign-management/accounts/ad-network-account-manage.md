@@ -3,7 +3,7 @@ title: Netwerkaccounts beheren
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
 exl-id: 4038d03b-63e2-4953-89df-37f7b5f68652
 feature: Search Campaign Management
-source-git-commit: 68efad8ad3bc2985ac75a0f9437a2eafb194e4b6
+source-git-commit: 5a9c2eabc3fe03da0868aefb79c4f71d6029c384
 workflow-type: tm+mt
 source-wordcount: '2079'
 ht-degree: 0%
@@ -261,7 +261,7 @@ Voor volledige instructies, zie &quot;[ Update de het volgen code van identiteit
 
 **de Namen van de Reeks van het Rapport:** (voor EF richt slechts met teken; adverteerders met Adobe Advertising-Adobe Analytics integratie; facultatief) Één of meerdere Analytics rapporteert suites waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt het van het advertentienetwerk, met inbegrip van entiteitclassificaties verzamelt en gegevens voor de rekening klikt. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
-Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-zij eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of (b) adverteerder-niveau dat aan &quot; [!UICONTROL Enable tracking for SAINT feeds]&quot;plaatst wordt toegelaten. Daarnaast moet het account Analytics van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met het accountteam van de Adobe.
+Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-zij eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of (b) adverteerder-niveau dat aan &quot; [!UICONTROL Enable Advertising reporting in Analytics]&quot;plaatst wordt toegelaten. Daarnaast moet het account Analytics van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met het accountteam van de Adobe.
 
 >[!MORELIKETHIS]
 >

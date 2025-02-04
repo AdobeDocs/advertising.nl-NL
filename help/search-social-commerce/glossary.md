@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 128446e8fad1e2c973a62042933cc52bb556a71d
+source-git-commit: 58fab7afdca3468bf2bcca0f3120b3863af6eae2
 workflow-type: tm+mt
-source-wordcount: '2242'
+source-wordcount: '2303'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
 
 **de helft-duur van het kostenmodel:** (Advertisers met portefeuilles) het aantal dagen vóór de huidige datum waarvoor de kostengegevens als recenter en daarom relevanter voor kostenmodellen worden beschouwd.
 
-**kosten per 1000 beelden:** (CPM) de kosten van een advertentie voor elke duizend beelden. Adverteerders die een CPM-prijsmodel gebruiken, betalen door indrukken in plaats van door klikken.
+**kosten per 1000 beelden:** (CPM) De kosten van een advertentie voor elke duizend beelden. Adverteerders die gebruik maken van een prijsmodel van CPM betalen met indrukken in plaats van met klikken.
 
 **kosten per verwerving:** (CPA) de kosten van een advertentie die door het aantal omzettingen wordt gedeeld. Ook geroepen kosten per transactie (CPT) of kosten per orde (CPO).
 
@@ -86,7 +86,7 @@ ht-degree: 0%
 
 ## E-F {#e-f}
 
-**eCPM:** Efficiënte CPM, of gemiddelde betaalde kosten per 1000 beelden tijdens een gespecificeerde datumwaaier. De waarden van eCPM kunnen voor of CPM of CPC campagnes worden berekend.
+**eCPM:** de efficiënte CPM, of de gemiddelde kosten die per 1000 beelden tijdens een gespecificeerde datumwaaier worden betaald. eCPM-waarden kunnen worden berekend voor CPM- of CPC-campagnes.
 
 ## G-H {#g-h}
 
@@ -180,6 +180,8 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 **besteedt strategie:** (Advertisers met portefeuilles) de geselecteerde strategie om sleutelwoord/het bieden voor een portefeuille te optimaliseren.
 
 **`s_kwcid`:** Zie &quot;AMO-id.&quot;
+
+**het volgen malplaatje:** (Rekeningen met definitieve URLs slechts) het volgende malplaatje of het volgen URL, die alle off-landing domein omleidt en het volgen parameters specificeert en definitieve/geavanceerde URL in een parameter inbedt. Voor het volgen van de omzetting van de Adobe Advertising, die wordt toegepast wanneer de campagnemontages &quot;[!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce vooraf fixes automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.
 
 **het volgen URL:** Een het volgen malplaatje of een bestemmingsURL met extra parameters die aan spoorinformatie over kliks op de advertentie worden toegevoegd. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
 

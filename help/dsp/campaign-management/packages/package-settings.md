@@ -3,9 +3,9 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: c1967636a762379f1daafb52cfe57dd0122b0748
+source-git-commit: 26c9c553dbd4086aa114b97dabdf4d9be10cdebe
 workflow-type: tm+mt
-source-wordcount: '1088'
+source-wordcount: '1086'
 ht-degree: 0%
 
 ---
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 **[!UICONTROL 3rd Party Billed Fees]:** (Optioneel) Een statische vergoeding van derden die als niet-factureerbare kosten moet worden bijgehouden:
 
-* **[!UICONTROL CPM]:** De kosten per 1000 beelden (CPM).
+* **[!UICONTROL CPM]:** De kosten per 1000 afbeeldingen (CPM).
 
-* **[!UICONTROL Description]:** Een beschrijving van de CPM-vergoeding.
+* **[!UICONTROL Description]:** Een beschrijving van de CPM-kosten.
 
 >[!NOTE]
 >
@@ -58,11 +58,11 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 **[!UICONTROL Link PG Placements for Incremental Reach Optimization]:** (Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Always Max Bid & Maximize Reach]&quot;en &quot;[!UICONTROL Lowest Cost per Reach]&quot;optimaliseringsdoelstellingen slechts) gebruikt huishuisgegevens van alle programmatic gewaarborgde plaatsen in de campagne om voor stijgende bereik te optimaliseren.
 
-**[!UICONTROL Custom Goal for Model Learning]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [ douanedoel ](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrisch CPA of ROAS te berekenen. Het aangepaste doel kan desgewenst extra gewogen gebeurtenissen met de bovenste funnel (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-metrische gegevens voor pakketoptimalisatie worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[ Doelen van de Douane ](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[ Beste praktijken voor de Campagnes van Prestaties van de Vestiging ](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
+**[!UICONTROL Custom Goal for Model Learning]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [ douanedoel ](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrisch CPA of ROAS te berekenen. Het aangepaste doel moet extra gewogen bovenkanaalgebeurtenissen (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS metrisch voor pakketoptimalisatie moeten worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[ Doelen van de Douane ](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[ Beste praktijken voor de Campagnes van Prestaties van de Vestiging ](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Facultatief; pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) vertelt het optimalisatiemodel om slechts van op klik-gebaseerde omzettingen te leren. Anders leert het optimalisatiemodel van zowel klik- als op indruk gebaseerde omzettingen.
 
-**[!UICONTROL Conversion Metric]:** (Facultatief; pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) de definitieve omzettingsgebeurtenis (zoals signups) of opbrengst gebeurtenis/verkoopbedrag (zoals aankoop en aankoopwaarden) aan gebruik voor de berekening van het rendement op advertentie of de kosten per verwerving. Selecteer een optie in de lijst met alle primaire gebeurtenissen (&quot;doelmetriek&quot;) die aan het geselecteerde aangepaste doel zijn toegewezen. Als de lijst leeg is, dan geef het douanedoel uit om minstens één van de onderliggende gebeurtenissen als doel metrisch te omvatten.
+**[!UICONTROL Conversion Metric]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) de definitieve omzettingsgebeurtenis (zoals signups) of opbrengst gebeurtenis/verkoopbedrag (zoals aankoop en aankoopwaarden) aan gebruik voor de berekening van het rendement op advertentie uitgeven of de kosten per verwerving. Selecteer een optie in de lijst met alle primaire gebeurtenissen (&quot;doelmetriek&quot;) die aan het geselecteerde aangepaste doel zijn toegewezen. Als de lijst leeg is, dan geef het douanedoel uit om minstens één van de onderliggende gebeurtenissen als doel metrisch te omvatten.
 
 **[!UICONTROL Package Goal Type]:** (Pakketten met douaneoptimaliseringsdoelstellingen slechts) het doel van het pakket. Met deze instelling kunt u bepalen hoe het pakket moet worden geoptimaliseerd:
 
