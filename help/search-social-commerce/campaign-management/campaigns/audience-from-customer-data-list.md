@@ -1,78 +1,78 @@
 ---
 title: Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens
-description: Leer maken en bewerken [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek van uw lijsten van klantengegevens aan.
+description: Leer om  [!DNL Google Ads]  tot stand te brengen en uit te geven en  [!DNL Microsoft Advertising]  klantengelijke publiek van uw lijsten van klantengegevens.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: 46d736c3e14bf407c513c5cb6a153a578aa65121
 workflow-type: tm+mt
-source-wordcount: '842'
+source-wordcount: '840'
 ht-degree: 0%
 
 ---
 
-# Beheren [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek aan gebruikend de lijsten van klantengegevens
+# Beheer [!DNL Google Ads] en [!DNL Microsoft Advertising] klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens
 
-U kunt [!DNL Google Ads] en [!DNL Microsoft Advertising] klant past publiek van uw lijsten van klantengegevens aan. U kunt ook [!DNL Google Ads] of [!DNL Microsoft Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek.
+U kunt [!DNL Google Ads] - en [!DNL Microsoft Advertising] -klantovereenkomsten maken op basis van de gegevenslijsten van uw klant. U kunt ook alle [!DNL Google Ads] - of [!DNL Microsoft Advertising] klantspecifieke doelgroepen bijwerken, behalve [!DNL Google Ads] publiek dat is gemaakt vanuit een [!DNL Adobe] -publiek.
 
 ## Creeer een publiek van de klantengelijke van een lijst van klantengegevens
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] accounts die alleen in aanmerking komen voor overeenkomst met klanten*
 
-U kunt een [!DNL Google Ads] of [!DNL Microsoft Advertising] op gegevens-gebaseerde lijst van de klant van een gegevensdossier dat u van uw systeem van het beheer van de klantenverhouding (CRM) produceert.
+U kunt een [!DNL Google Ads] of [!DNL Microsoft Advertising] op gegevens gebaseerde lijst van klanten van een gegevensdossier tot stand brengen dat u van uw systeem van het Beheer van de klantenverhouding (CRM) produceert.
 
-Voor [!DNL Microsoft Advertising] -accounts, kan het bestand e-mailadressen bevatten. Voor [!DNL Google Ads] Het bestand kan e-mailadressen, e-mailadressen of telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s van uw CRM bevatten.
+Voor [!DNL Microsoft Advertising] -accounts kan het bestand e-mailadressen bevatten. Voor [!DNL Google Ads] -accounts kan het bestand e-mailadressen, e-mailadressen of telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s van uw CRM bevatten.
 
 >[!NOTE]
 >
->Met Zoeken, Sociaal en Commerce worden de klantgegevens die u uploadt, niet opgeslagen via de [!DNL Adobe] segmenten die worden gebruikt voor het maken of bewerken van een [!DNL Google Ads] of [!DNL Microsoft Advertising] publiek.
+>In Zoeken, Sociaal en Commerce worden geen klantgegevens opgeslagen die u uploadt, noch gegevens uit de [!DNL Adobe] -segmenten die worden gebruikt om een [!DNL Google Ads] - of [!DNL Microsoft Advertising] -publiek te maken of te bewerken.
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling.
 
-   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft Advertising] publiek, zie [!DNL Microsoft Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] sjabloon voor contactgegevens.
+   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ voorbereidend de lijsten van de klantengelijke ](https://help.ads.microsoft.com/#apex/ads/en/56921). U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
-1. Selecteer het advertentienetwerk en de accountnaam en klik vervolgens op **[!UICONTROL Continue]**.
+1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
 1. Geef de publieksinformatie op:
 
-   1. In de [!UICONTROL Data Source] menu, selecteert u **[!UICONTROL Customer List]**.
+   1. Selecteer **[!UICONTROL Customer List]** in het menu [!UICONTROL Data Source] .
 
-   1. Voer de **[!UICONTROL Audience Name]**.
+   1. Voer de **[!UICONTROL Audience Name]** in.
 
    1. Upload het bestand:
 
-      1. Selecteer de [!UICONTROL Data Upload Type]: *[!UICONTROL Emails, Phones, and/or Mailing Addresses]*, *[!UICONTROL User IDs]*, of *[!UICONTROL Mobile Device IDs]*.
+      1. Selecteer [!UICONTROL Data Upload Type]: *[!UICONTROL Emails, Phones, and/or Mailing Addresses]*, *[!UICONTROL User IDs]* of *[!UICONTROL Mobile Device IDs]* .
 
-         De optie Gebruikersnamen is alleen beschikbaar voor [!DNL Google Ads] adverteerders in de VS die ervoor kiezen [gebruikers-id-segmenten](https://support.google.com/google-ads/answer/9199250)
+         De optie van identiteitskaarts van de Gebruiker is beschikbaar slechts aan [!DNL Google Ads] adverteerders in de V.S. die binnen voor [ gebruikersID segmenten ](https://support.google.com/google-ads/answer/9199250) worden gekozen
 
-      1. (Alleen lijsten met mobiele apparaten) Selecteer de optie **[!UICONTROL OS Type]** (*[!UICONTROL Android™]* of *[!UICONTROL iOS]*) en voert u de **[!UICONTROL App ID]**.
+      1. (Alleen lijsten met mobiele apparaten) Selecteer **[!UICONTROL OS Type]** (*[!UICONTROL Android™]* of *[!UICONTROL iOS]*) en voer de **[!UICONTROL App ID]** in.
 
          De toepassings-id is een unieke id die het mobiele besturingssysteem gebruikt om uw toepassing toe te staan verbinding te maken met de Google Play of Apple App Store:
 
-         * ([!DNL Android™] apps) De [!DNL Android™] pakketnaam binnen [!DNL Google Play], geïdentificeerd door &quot;`id=<package_name>`.&quot;
+         * ([!DNL Android™] apps) De [!DNL Android™] pakketnaam in [!DNL Google Play] , geïdentificeerd door &quot;`id=<package_name>`&quot;.
 
-           In https://play.google.com/store/apps/details?id=com.example.game is de pakketnaam bijvoorbeeld com.example.game.
+           In `https://play.google.com/store/apps/details?id=com.example.game` is de pakketnaam bijvoorbeeld com.example.game.
 
-         * ([!DNL iOS] apps) De toepassings-id binnen de [!DNL iTunes App Store], geïdentificeerd door &quot;`<idNNNNNNNNN>`&quot; aan het einde van de URL. Het is ook beschikbaar in de [!DNL iOS Developer Console].
+         * ([!DNL iOS] apps) De toepassings-id binnen [!DNL iTunes App Store], geïdentificeerd door &quot;`<idNNNNNNNNN>`&quot; aan het einde van de URL. Het is ook beschikbaar in [!DNL iOS Developer Console].
 
-           In https://itunes.apple.com/us/app/id284882215 is de id bijvoorbeeld id284882215.
+           In `https://itunes.apple.com/us/app/id284882215` is de id bijvoorbeeld id284882215.
 
-         Uw ontwikkelingsteam heeft toegang tot [!UICONTROL App ID] voor het desbetreffende platform.
+         Uw ontwikkelingsteam heeft toegang tot [!UICONTROL App ID] voor het relevante platform.
 
-      1. In de [!UICONTROL Select File] veld, klikken **[!UICONTROL Choose File]** en selecteer het bestand op uw netwerk of apparaat.
+      1. Klik in het veld [!UICONTROL Select File] op **[!UICONTROL Choose File]** en selecteer het bestand in uw netwerk of apparaat.
 
-      1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het dialoogvenster [!DNL Adobe] en voegt beleid van de netwerkprivacy toe.
+      1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het [!DNL Adobe] -beleid en het privacybeleid van het netwerk.
 
-      1. (Adverteerders maken [!DNL Google Ads] publiek dat zaken doet in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK) (facultatief) Als u toestemming van EER en VK gebruikers hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, dan selecteer het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]**
+      1. (Adverteerders die [!DNL Google Ads] publiek maken dat zaken doet in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK); facultatief) Als u toestemming van gebruikers in de EER en het VK hebt verzameld om hun gegevens voor reclamedoeleinden te uploaden, schakelt u het selectievakje naast **[!UICONTROL If you are doing business in EEA and/or UK, check this box to send consent status as GRANTED for the user data sent to [!DNL Google Ads] for advertising purposes. If left unchecked, we will send consent status as UNSPECIFIED for the user data sent to [!DNL Google Ads] for advertising purposes.]** in
 
-      [!DNL Google Ads] gegevens voor gebruikers in de EER en het Verenigd Koninkrijk met een niet-gespecificeerde toestemmingsstatus worden genegeerd. Dit kan leiden tot verschillen in gegevens en prestatieproblemen.
+      [!DNL Google Ads] negeert gegevens voor gebruikers in de EER en het Verenigd Koninkrijk met een niet-gespecificeerde toestemmingsstatus. Dit kan leiden tot verschillen in gegevens en prestatieproblemen.
 
       1. Klik op **[!UICONTROL Upload File]**.
 
-   1. Geef het aantal **[!UICONTROL Membership Days]**, dit is het aantal dagen dat de cookie van een gebruiker in het publiek blijft.
+   1. Geef het aantal **[!UICONTROL Membership Days]** op. Dit is het aantal dagen dat de cookie van een gebruiker in het publiek blijft.
 
    Gebruik de tijdsduur waarvan u verwacht dat uw advertentie relevant is voor de gebruiker. Lijsten van klanten verlopen alleen als u een waarde invoert.
 
@@ -81,31 +81,31 @@ Voor [!DNL Microsoft Advertising] -accounts, kan het bestand e-mailadressen beva
 >[!NOTE]
 >
 >* Het ad-netwerk kan 24 uur duren voordat het bestand is verwerkt.
->* Zie [[!DNL Google Ads] documentatie over de werking en de beperkingen van klantenovereenkomsten](https://support.google.com/displayvideo/answer/9539301).
+>* Zie [[!DNL Google Ads]  documentatie op hoe de klantengelijken werken en beperkingen ](https://support.google.com/displayvideo/answer/9539301) aanpassen.
 
 ## Een publiek van de Aanpassing van de Klant uitgeven die een Lijst van de Gegevens van de Klant gebruikt
 
-U kunt elke [!DNL Google Ads] of [!DNL Microsoft Advertising] klant stemt publiek behalve [!DNL Google Ads] publiek gemaakt op basis van een [!DNL Adobe] publiek. U kunt gegevens uploaden om toe te voegen, te schrappen, of alle bestaande gegevens voor het publiek te vervangen.
+U kunt alle [!DNL Google Ads] - of [!DNL Microsoft Advertising] klantspecifieke doelgroepen bijwerken, behalve [!DNL Google Ads] publiek dat is gemaakt vanuit een [!DNL Adobe] -publiek. U kunt gegevens uploaden om toe te voegen, te schrappen, of alle bestaande gegevens voor het publiek te vervangen.
 
 De gegevens moeten van hetzelfde type zijn als de oorspronkelijke lijst met klanten (e-mailadressen, e-mailadressen, telefoonnummers, gebruikers-id&#39;s of mobiele apparaat-id&#39;s voor een specifieke toepassing op een specifiek mobiel besturingssysteem).
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling voor het bestaande gegevenstype.
 
-Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> Voor [!DNL Google Ads] publiek, zie [!DNL Google Ads] documentatie over &quot;[Richtlijnen voor het uploaden van onderbroken gegevens opmaken](https://support.google.com/google-ads/answer/7476159)&quot; voor een lijst van toegestane contactinformatievelden en -vereisten. Voor [!DNL Microsoft Advertising] publiek, zie [!DNL Microsoft Advertising] documentatie over [opstellen van lijsten met overeenkomsten voor klanten](https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] sjabloon voor contactgegevens.
+Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ het voorbereiden van de lijsten van de klantengelijke ] (https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
 1. Schakel het selectievakje naast het publiek dat u wilt bewerken in.
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Bewerken](/help/search-social-commerce/assets/edit.png).
+1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png) uit.
 
-1. Selecteer de actie: *[!UICONTROL Add]* (om de geüploade gegevens aan de bestaande gegevens toe te voegen, tenzij deze al bestaan), *[!UICONTROL Delete]* (om de geüploade gegevens uit de bestaande gegevens te verwijderen, indien deze al bestaan), of *[!UICONTROL Replace]* (om alle bestaande gegevens te verwijderen en te vervangen door de geüploade gegevens).
+1. Selecteer de actie: *[!UICONTROL Add]* (om de geüploade gegevens toe te voegen aan de bestaande gegevens, tenzij deze al bestaan), *[!UICONTROL Delete]* (om de geüploade gegevens te verwijderen uit de bestaande gegevens, als deze al bestaan) of *[!UICONTROL Replace]* (om alle bestaande gegevens te verwijderen en te vervangen door de geüploade gegevens).
 
 1. Upload het bestand:
 
-   1. In de [!UICONTROL Select File] veld, klikken **[!UICONTROL Choose File]** en selecteer het bestand op uw netwerk of apparaat.
+   1. Klik in het veld [!UICONTROL Select File] op **[!UICONTROL Choose File]** en selecteer het bestand in uw netwerk of apparaat.
 
-   1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het dialoogvenster [!DNL Adobe] en voegt beleid van de netwerkprivacy toe.
+   1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het [!DNL Adobe] -beleid en het privacybeleid van het netwerk.
 
    1. Klik op **[!UICONTROL Upload File]**.
 
@@ -117,7 +117,7 @@ Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algorit
 
 >[!MORELIKETHIS]
 >
->* [Informatie over publiek](audience-about.md)
->* [Maken [!DNL Google Ads] klant stemt doelgroep van [!DNL Adobe] publiek](google-audience-from-adobe-audience.md)
->* [Een [!DNL Google Ads] klant stemt publiek van een Adobe Campaign e-maillijst overeen](google-audience-from-campaign-email-list.md)
->* [Dynamisch publiek voor opnieuw op de markt brengen beheren](audience-dynamic-remarketing-manage.md)
+>* [ Ongeveer publiek ](audience-about.md)
+>* [ creeer  [!DNL Google Ads]  publiek van de klantenovereenkomst van  [!DNL Adobe]  publiek ](google-audience-from-adobe-audience.md)
+>* [ creeer a [!DNL Google Ads]  publiek van de klantengelijke van een e-maillijst van Adobe Campaign ](google-audience-from-campaign-email-list.md)
+>* [ beheer dynamische remarketing publiek ](audience-dynamic-remarketing-manage.md)
