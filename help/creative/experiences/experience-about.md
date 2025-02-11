@@ -2,7 +2,8 @@
 title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
-source-git-commit: fbf663b38282f48facab57efaf5533892642a252
+exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
+source-git-commit: 8f81cf8ffaec7ca30ee3bbfd45d3577e75d77faf
 workflow-type: tm+mt
 source-wordcount: '804'
 ht-degree: 0%
@@ -23,7 +24,7 @@ ht-degree: 0%
 
   U kunt bijvoorbeeld dezelfde creatieve bundel opgeven voor mensen in Chicago en New York City die zich in een specifiek Adobe Analytics-publiekssegment bevinden, maar mensen in Chicago die zich in hetzelfde segment bevinden naar andere landingspagina&#39;s sturen dan New Yorkers. U kon een verschillende bundel voor mensen in het segment ook specificeren die overal behalve Chicago en de Stad van New York wonen, en een derde bundel voor andere mensen die niet in het segment zijn.
 
-  De doelopties omvatten kijkers in uw eerste-partijpubliekssegmenten van Adobe Audience Manager, Adobe Analytics, en Advertising Cloud DSP; kijkers in specifieke geografische plaatsen, met inbegrip van landen, staten, DMAs binnen de Verenigde Staten, steden, en postcodes; kijkers waarvoor specifieke zeer belangrijke-waardeparen (de doelstellingen van de gegevenspas) van de DSP, de uitgever, of de partner worden overgegaan; kijkers met [!DNL Creative] richt pixel en gespecificeerde attributenwaarden; en kijkers met specifieke apparatenttypes, werkende systemen en browsers.
+  Tot de doelopties behoren onder andere viewers in uw doelsegmenten van de eerste partij, zoals Adobe Audience Manager, Adobe Analytics en Advertising Cloud DSP; viewers op specifieke geografische locaties, waaronder landen, staten, DMA&#39;s in de Verenigde Staten, steden en ZIP-codes; viewers waarvoor specifieke sleutelwaardeparen (gegevensdoorvoerdoelen) zijn doorgegeven van de DSP, uitgever of partner; viewers met [!DNL Creative] doelgericht op pixels en opgegeven kenmerkwaarden; specifieke apparaattypen, besturingssystemen en browsers.
 
   U kunt creatieve bundels aan elke ervaring toewijzen, naar keuze het aanpassen optimalisering en het plannen voor de creatieve bundels en het veranderen van de standaard het landen pagina&#39;s en het volgen URLs <!-- and any flexible attributes --> voor individuele creatieven in elke bundel.
 
@@ -36,7 +37,7 @@ ht-degree: 0%
 
 ## Ervaringen implementeren en beheren
 
-Zodra u een levende ervaring (met alle vereiste ad elementen) hebt gecreeerd, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren, die u naar keuze als advertentie aan een campagne in Adobe Advertising DSP kunt uploaden of als advertentie in een derde DSP uitvoeren. [!DNL Creative] biedt advertenties voor de ervaring op basis van de opties voor het kiezen en draaien van advertenties en de beschikbare voorraad.
+Zodra u een levende ervaring (met alle vereiste ad elementen) hebt gecreeerd, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren, die u naar keuze als advertentie aan een campagne in Adobe Advertising DSP kunt uploaden of als advertentie in derde DSP uitvoeren. [!DNL Creative] biedt advertenties voor de ervaring op basis van de opties voor het kiezen en draaien van advertenties en de beschikbare voorraad.
 
 ## Prestatiegegevens voor uw ervaringen
 
@@ -51,7 +52,7 @@ Wanneer u de optie [!UICONTROL Metrics] inschakelt in de [!UICONTROL Experiences
 In de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] kunt u gedetailleerde prestatiegegevens weergeven voor elke ervaring. Maak een [!UICONTROL Custom Creative Report] om de prestaties in al uw ervaringen te controleren.
 
 <!--
-You can [view detailed performance data for any experience](experience-view-report.md) from the Creative > Experiences view. To monitor performance across your experiences, [create custom reports](/help/dsp/reports/report-create.md).
+You can [view detailed performance data for any experience](experience-performance-details.md) from the Creative > Experiences view. To monitor performance across your experiences, [create custom reports](/help/dsp/reports/report-create.md).
 -->
 
 ## Ervaar statussen {#experience-statuses}
@@ -70,13 +71,13 @@ Het statuut van een ervaring wordt automatisch geplaatst, behalve *geschrapt,* d
 
 >[!NOTE]
 >
->U kunt de status van een advertentie binnen een DSP wijzigen zonder dat dit van invloed is op de ervaringsstatus in [!DNL Creative] .
+>U kunt de status van een advertentie in een DSP wijzigen zonder dat dit van invloed is op de ervaringsstatus in [!DNL Creative] .
 
 ## De weergave [!UICONTROL Experiences]
 
 In de weergave [!UICONTROL Experiences] worden al uw doelgerichte en niet-doelgerichte ervaringen weergegeven. U kunt de ervaringsnamen, de status, de begin- en einddatum, het aantal en de afmetingen van de toegewezen creatieve of creatieve bundels zien, en of de ervaring dynamische advertenties bevat. Wanneer u de optie [!UICONTROL Metrics] inschakelt in de [!UICONTROL Experiences] -weergave, geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
-U kunt uw ervaringen maken en beheren, waaronder optimalisatie en het toewijzen van creatieve documenten en creatieve bundels aan uw ervaringen. U kunt ook tags voor advertenties maken en hernoemen en de tags exporteren in JavaScript- en iframe-indelingen voor implementatie op uw DSP. Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtstreeks uploaden naar een Advertising DSP-campagne.
+U kunt uw ervaringen maken en beheren, waaronder optimalisatie en het toewijzen van creatieve documenten en creatieve bundels aan uw ervaringen. U kunt ook tags voor advertenties maken en hernoemen en de tags exporteren in JavaScript- en iframe-indelingen voor implementatie op uw DSP&#39;s. Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtstreeks uploaden naar een Advertising DSP-campagne.
 
 <!--
 ### Available actions

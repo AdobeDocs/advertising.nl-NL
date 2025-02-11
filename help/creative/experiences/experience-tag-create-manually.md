@@ -2,9 +2,10 @@
 title: Handmatig een advertentietag maken voor een toepasselijk creatief formaat
 description: Leer hoe u een advertentietag maakt voor een bepaalde creatieve grootte.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
+source-git-commit: 8f81cf8ffaec7ca30ee3bbfd45d3577e75d77faf
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -37,6 +38,8 @@ U kunt een of meer advertentietags maken voor elke creatieve grootte die voor ee
    U kunt veelvoudige markeringen voor de zelfde creatieve grootte tot stand brengen.<!-- What are the implications? -->
 
 1. Klik op **[!UICONTROL Create]**.
+
+   U kunt de labelrij uitbreiden om de meegeleverde creatieve elementen te zien.
 
 >[!MORELIKETHIS]
 >

@@ -2,9 +2,10 @@
 title: Een tag voor een advertentie exporteren en implementeren voor een live beleving
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
-source-git-commit: fc2cd07944026badc0722c1449aa9aaf2c94bfd7
+exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
+source-git-commit: 8f81cf8ffaec7ca30ee3bbfd45d3577e75d77faf
 workflow-type: tm+mt
-source-wordcount: '525'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-Zodra een ad markering voor een specifieke creatieve grootte voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript en iframe formaten voor implementatie op Advertising DSP of andere DSP produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die zijn vereist voor DSP.
+Zodra een ad markering voor een specifieke creatieve grootte voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript en iframe formaten voor implementatie op Advertising DSP of andere DSPs produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die vereist zijn voor DSP.
 
 Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtstreeks uploaden naar een Advertising DSP-campagne.
 
@@ -22,8 +23,6 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 >* Wanneer u een ervaring met doelstructuurbeleid maakt, maakt [!DNL Creative] automatisch een ad-tag voor elke toepasbare creatieve grootte.
 >* Wanneer u een ervaring zonder beslissingsboom het richten creeert, moet u [ manueel een ad markering ](experience-tag-create-manually.md) voor elke toepasselijke creatieve grootte creëren.
 >* Ervingstags zijn dynamisch. U hoeft de tags niet bij te werken als u een ervaring bewerkt.
-
-## Een ad-tag exporteren voor een ervaring met doelstructuurtoewijzing
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
@@ -51,7 +50,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
    * *Adobe Advertising:* voor advertenties zult u in Advertising DSP creëren.
 
-   * *Algemeen:* voor advertenties zult u in andere DSP creëren. **Nota:** u kunt extra macro&#39;s moeten manueel omvatten zonodig.
+   * *Algemeen:* voor advertenties zult u in andere DSPs creëren. **Nota:** u kunt extra macro&#39;s moeten manueel omvatten zonodig.
 
 1. Klik op **[!UICONTROL Generate tags]**.
 
@@ -65,7 +64,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
 1. De labels voor de desbetreffende DSP implementeren:
 
-   * Geef voor andere DSP dan Advertising DSP de tags op aan wie de advertenties binnen de DSP maakt.
+   * Voor andere DSPs dan Advertising DSP, verstrek de markeringen aan wie de advertenties binnen DSP zal creëren.
 
    * Voor Advertising DSP:
 
