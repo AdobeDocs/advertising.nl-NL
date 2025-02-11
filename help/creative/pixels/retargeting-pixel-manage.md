@@ -2,9 +2,10 @@
 title: Opnieuw doelende pixels beheren
 description: Leer hoe u het opnieuw toewijzen van pixels maakt en implementeert voor gebruik als doel voor advertenties.
 feature: Creative Pixels
-source-git-commit: 91edc406401cbdae44932a2c70f7daf12d8d7b4e
+exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
+source-git-commit: 147f47fcdc504fba67a6894edaa9249662131e05
 workflow-type: tm+mt
-source-wordcount: '948'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ Voorbeeldpixel:
 
 >[!NOTE]
 >
-> * [!DNL Creative] ondersteunt momenteel alleen universele id&#39;s voor Advertising DSP. Een toekomstige versie zal universele IDs voor derdeDSP steunen.<!-- Clarify this and reword as needed -->
+> * [!DNL Creative] ondersteunt momenteel alleen universele id&#39;s voor Advertising DSP. Een toekomstige versie zal universele IDs voor derde DSPs steunen.<!-- Clarify this and reword as needed -->
 >* U kunt uw eerste-partijpubliek van Adobe Audience Manager en Adobe Analytics als [ creatieve doelstellingen voor uw ervaringen ](/help/creative/experiences/experience-settings-targeting.md) ook gebruiken.
 >* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [ markeringen van het douanesegment ](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken.
 >* Bezoekers van websites die ervoor hebben gekozen om geen advertenties meer te volgen voor advertenties, ontvangen geen advertenties met persoonlijke creatieve inhoud op basis van het doelsegment of het doelprofiel.
@@ -78,7 +79,7 @@ Voorbeeldpixel:
 
    Als u handmatig aanvullende kenmerken toevoegt, moet u URL-codering opnemen.
 
-   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u bijvoorbeeld gebruikers wilt aanwijzen die rode sandalen van grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=--sandals--&ut2=--red--&ut3=--10--` en voert u ook uw ID5-partner-id in de scripttag in, zoals `&id5pid=--0123456789--` .&lt;!— Verifieer de definitieve syntaxis — zou het enkel moeten zijn: &amp;ut1=sandals&amp;ut2=10&amp;ut2=red? —>
+   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u bijvoorbeeld gebruikers wilt aanwijzen die rode sandalen van grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=sandals&ut2=red&ut3=10` en voert u ook uw ID5-partner-id in de scripttag in, zoals `&id5pid=0123456789` .
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 
@@ -116,7 +117,7 @@ Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden bloo
 
 * *[!UICONTROL Ramp ID]:* De pixellabeltracks [!DNL Ramp IDs] . Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
 
-Als u deze functie wilt gebruiken, moet u of een andere gebruiker van de DSP de serviceovereenkomst accepteren voor het gebruik van universele id&#39;s voordat u universele id&#39;s voor een nieuw type id kunt gebruiken. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Klik op **[!UICONTROL Terms of Service]** om de termen te lezen. Schuif naar de onderkant van de voorwaarden en klik op **[!UICONTROL Accept]** om de voorwaarden te accepteren.
+Als u deze functie wilt gebruiken, moet u of een andere gebruiker van de DSP-account de serviceovereenkomst voor het gebruik van universele id&#39;s één keer accepteren voordat u universele id&#39;s voor een nieuw type id kunt gebruiken. Voor klanten met beheerde servicecontracten krijgt uw Adobe-accountteam uw toestemming en accepteert u de voorwaarden namens uw organisatie. Klik op **[!UICONTROL Terms of Service]** om de termen te lezen. Schuif naar de onderkant van de voorwaarden en klik op **[!UICONTROL Accept]** om de voorwaarden te accepteren.
 
 >[!MORELIKETHIS]
 >

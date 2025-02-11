@@ -2,7 +2,8 @@
 title: Beschikbare macro's voor het bijhouden van URL's
 description: Verwijs naar de macro's die u kunt toevoegen aan de URL's die URL's bijhouden op de bestemmingspagina en aan creatieve derde partijen.
 feature: Creative Experiences, Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
+source-git-commit: 926d2a0db933a19f5ebef056eca2089f2de6ca64
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -38,15 +39,15 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 -->
 
 | Macro | Beschrijving | Automatisch tags beleven voor Advertising DSP? |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | `${TM_CAMPAIGN_ID_NUM}` | Traceert en rapporteert de campagne-id van de DSP | Ja |
 | `${TM_SITE_ID_NUM}` | Traceert en rapporteert de site-id van de DSP | Ja |
-| `${TM_PLACEMENT_ID_NUM}` | Traceert en rapporteert de plaatsings-id uit de DSP | Ja |
-| `${TM_AD_ID_NUM}` | Traceert en rapporteert de advertentie-id van de DSP | Ja |
-| `${TM_CREATIVE_ID_NUM}` | Hiermee wordt de creatieve id van de DSP gevolgd en gerapporteerd | NVT |
-| `${TM_SESSION_ID}` | Traceert en rapporteert de indruk-id uit de DSP. Als een waarde niet wordt geretourneerd, genereert de Advertising Creative een waarde. | Ja |
-| `${TM_ACC_EXPERIENCE_ID}` | Traceert en rapporteert de ervaring-id van de Advertising Creative | — |
-| `${TM_ACC_CREATIVE_ID}` | Hiermee wordt de creatieve id van de Advertising Creative gevolgd en gerapporteerd | — |
+| `${TM_PLACEMENT_ID_NUM}` | Traceert en rapporteert de plaatsings-id van de DSP | Ja |
+| `${TM_AD_ID_NUM}` | De advertentie-id bijhouden en rapporteren vanuit de DSP | Ja |
+| `${TM_CREATIVE_ID_NUM}` | Hiermee wordt de creatieve id van de DSP bijgehouden en gerapporteerd | NVT |
+| `${TM_SESSION_ID}` | Tracks and reports the picture ID from the DSP. Als er geen waarde wordt geretourneerd, genereert Advertising Creative een waarde. | Ja |
+| `${TM_ACC_EXPERIENCE_ID}` | Traceert en rapporteert de ervaring-id van Advertising Creative | — |
+| `${TM_ACC_CREATIVE_ID}` | Traceert en rapporteert de creatieve id van Advertising Creative | — |
 | `${TM_RANDOM}` | Een willekeurig getal tussen 1 en 1000000 | — |
 | `${TM_TIMESTAMP}` | De Unix-tijdstempel (in seconden) | — |
 | `${TM_CLICK_URL_URLENC}` | (Voor advertenties van derden van leveranciers die URL-codering nodig hebben) Met de gecodeerde klik kunt u URL omleiden. Hierdoor kunnen servers van advertenties URL bijhouden en tellen en klikken. Wanneer de advertentie wordt aangeboden en de gebruiker erop klikt, wordt de macro geactiveerd, en de klik wordt geregistreerd en voor rapporteringsdoeleinden geteld. | Ja |
