@@ -3,9 +3,9 @@ title: Beschikbare macro's voor het bijhouden van URL's
 description: Verwijs naar de macro's die u kunt toevoegen aan de URL's die URL's bijhouden op de bestemmingspagina en aan creatieve derde partijen.
 feature: Creative Experiences, Creative Experiences
 exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
-source-git-commit: 926d2a0db933a19f5ebef056eca2089f2de6ca64
+source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
@@ -54,5 +54,6 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 
 >[!MORELIKETHIS]
 >
->* 
+>* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
+>* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
 >* 

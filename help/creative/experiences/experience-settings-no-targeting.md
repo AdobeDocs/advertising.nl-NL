@@ -2,9 +2,10 @@
 title: Instellingen voor niet-doelgerichte ervaringen
 description: Zie beschrijvingen van alle montages voor en ervaringen zonder beslissingsboom het richten.
 feature: Creative Experiences
-source-git-commit: fbf663b38282f48facab57efaf5533892642a252
+exl-id: aeeca035-8ae2-4173-827a-b8690d228549
+source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
 workflow-type: tm+mt
-source-wordcount: '1064'
+source-wordcount: '1069'
 ht-degree: 0%
 
 ---
@@ -47,9 +48,9 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 ## [!UICONTROL Advanced] -sectie
 
-**Voldoende Gegevens:** (Ervaringen met dynamische slechts advertenties; facultatief) om gebruikers te richten die op specifieke zeer belangrijke paren worden gebaseerd die de DSP, de uitgever, of de partner in echt - tijd op indruk overgaat. U kunt tot vijf sleutels van de gegevenspas (parameters) specificeren.<!-- May move this to just within the decision tree. -->
+**Voldoende Gegevens:** (Ervaringen met dynamische slechts advertenties; facultatief) om gebruikers te richten die op specifieke zeer belangrijke paren worden gebaseerd die DSP, de uitgever, of de partner in echt - tijd op indruk overgaat. U kunt tot vijf sleutels van de gegevenspas (parameters) specificeren.<!-- May move this to just within the decision tree. -->
 
-Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. U moet de waarde voor elk sleutel-waardepaar binnen de markering ingaan alvorens u de markering als advertentie in uw DSP uitvoert.
+Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. U moet de waarde voor elk sleutel-waardepaar binnen de markering ingaan alvorens u de markering als advertentie in uw DSP implementeert.
 
 **Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een gebruikersstraal aan doel. Selecteer een straal van 0 mijl tot 200 mijl.<!-- Does this end up in the ad tag parameters? -->
 
@@ -67,7 +68,7 @@ Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert
 
 **[!UICONTROL Impression Tracking URL]:** (Optioneel) Een URL voor het bijhouden van de indruk door derden die u aan de URL van de bestemmingspagina wilt toevoegen voor een advertentie die u uit de ervaring hebt gemaakt. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
 
-Nadat u een URL hebt ingevoerd, worden alle beschikbare macro&#39;s en de gegevens waarmee deze worden vervangen verderop op in de pagina weergegeven. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
+Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
 >[!NOTE]
 >
@@ -77,7 +78,7 @@ Nadat u een URL hebt ingevoerd, worden alle beschikbare macro&#39;s en de gegeve
 
 **[!UICONTROL Click Tracking URL]:** (Optioneel) (Optioneel) Een URL voor het bijhouden van klikken door derden die wordt toegevoegd aan de URL van de bestemmingspagina. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![ pictogram ](/help/creative/assets/create.png) **[!UICONTROL Add More]** en ga URL in.
 
-Nadat u een URL hebt ingevoerd, worden alle beschikbare macro&#39;s en de gegevens waarmee deze worden vervangen verderop op in de pagina weergegeven. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
+Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
 >[!NOTE]
 >
@@ -94,6 +95,7 @@ Nadat u een URL hebt ingevoerd, worden alle beschikbare macro&#39;s en de gegeve
 >
 >* [ creeer een ervaring zonder beslissingsboom richtend ](experience-create-no-targeting.md)
 >* [ geef een ervaring zonder beslissingsboom uit richtend ](experience-edit-no-targeting.md)
+>* [ Beschikbare macro&#39;s voor het volgen URLs ](/help/creative/creative-macros.md)
 >* [ creeer manueel een ad markering voor een toepasselijke creatieve grootte ](experience-tag-create-manually.md)
 >* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
 >* [ pas het volgen URLs voor een ervaring aan zonder zich ](experience-tracking-urls-no-targeting.md) te richten

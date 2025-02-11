@@ -2,9 +2,10 @@
 title: Creatieve instellingen
 description: Meer informatie over xxxx.
 feature: Creative Standard Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
+source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
 workflow-type: tm+mt
-source-wordcount: '1830'
+source-wordcount: '1835'
 ht-degree: 0%
 
 ---
@@ -63,7 +64,7 @@ Voor informatie over attributen beschikbaar in vooraf bepaalde malplaatjes, zie 
 
 *slechts Bestaande creatieven*
 
-Het flexibele HTML5 sjabloonbestand voor creatieve projecten.
+Het flexibele HTML5-sjabloonbestand voor creatieve doeleinden.
 
 U kunt desgewenst de bestaande sjabloon vervangen door een nieuwe sjabloon met een andere layout, maar met dezelfde kenmerknamen als de oorspronkelijke sjabloon. De nieuwe sjabloon moet de ZIP-indeling hebben met maximaal 2 MB. Als de creatieve inhoud zich in een bundel bevindt, gebruiken alle ervaringen die de bundel gebruiken de lay-out van de nieuwe sjabloon.
 
@@ -87,7 +88,7 @@ De bestaande advertentiesjabloon vervangen:
 
 1. Klikken **[!UICONTROL Edit]**
 
-## HTML5, creatieve instellingen {#creative-settings-html5}
+## Creatieve HTML5-instellingen {#creative-settings-html5}
 
 ## Tabblad Details
 
@@ -99,13 +100,13 @@ Voor nieuwe creatieven, zijn de volgende montages niet op een genoemd lusje.
 
 **Creatieve Grootte:** (Read-only voor bestaande creatieve) de afmetingen van creatief. Als een afbeelding in het creatief bestand groter is dan de opgegeven grootte, worden de afmetingen aangepast.
 
-**[!UICONTROL Click Tags]:** (Statische slechts creatieve HTML5) de variabelen die klik-het volgen omleidingen van de inbegrepen bannerreclame toestaan. De variabelenamen en bijbehorende bestemmingspagina-URL&#39;s worden vanuit de geüploade creatieve eenheid ingevuld, maar u kunt de standaard-URL&#39;s wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke kliklabels bewerken.
+**[!UICONTROL Click Tags]:** (Statische slechts Creative HTML5) de variabelen die klik-het volgen van omleidingen van de inbegrepen banneradvertenties toestaan. De variabelenamen en bijbehorende bestemmingspagina-URL&#39;s worden vanuit de geüploade creatieve eenheid ingevuld, maar u kunt de standaard-URL&#39;s wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke kliklabels bewerken.
 
 >[!NOTE]
 >
 >Wanneer u creatieve inhoud in een ervaring opneemt, kunt u de standaardwaarde voor om het even welke klikmarkeringen met een douane het landen pagina URL vervangen om een afleiding van de basis creatief te produceren.
 
-**het Bestaan Pagina URL:** (Eenvoudige HTML5 creatieven met één het landen pagina slechts) URL van de standaard het landen pagina voor elke advertentie waarmee u de creatieven associeert. Dit moet een geldige URL zijn die begint met http:// of https://. Het kan derde volgende parameters of [[!DNL Creative]  macro&#39;s ](/help/creative/creative-macros.md) voor uw eigen gebruik omvatten.
+**het Bestaan Pagina URL:** (Eenvoudige HTML5 creatieve met één het landen pagina slechts) URL van de standaard het landen pagina voor elke advertentie waarmee u de beters associeert. Dit moet een geldige URL zijn die begint met http:// of https://. Het kan derde volgende parameters of [[!DNL Creative]  macro&#39;s ](/help/creative/creative-macros.md) voor uw eigen gebruik omvatten.
 
 Wanneer u een creatief element in een bundel opneemt en de bundel aan een ervaring toewijst, kunt u naar keuze de bestemmingspagina URL veranderen, evenals indruk-en-klik-volgende URLs en JavaScript, voor elke creatieve waarde in de bundel toevoegen. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
 
@@ -121,7 +122,7 @@ Wanneer u een creatief element in een bundel opneemt en de bundel aan een ervari
 
 ### Tabblad Sjabloon
 
-*Bestaande statische slechts HTML5 creatieve*
+*Bestaande statische slechts HTML5 creatieven*
 
 Het HTML5-sjabloonbestand voor creatieve projecten.
 
@@ -143,7 +144,7 @@ De bestaande advertentiesjabloon vervangen:
 
    Zie [ HTML en specificaties ](html5-creative-specification.md).
 
-1. Bewerk nieuwe [ HTML5 en montages ](#creative-settings-html5) zoals nodig.
+1. Bewerk de nieuwe [ HTML5 en montages ](#creative-settings-html5) zoals nodig.
 
 1. Klikken **[!UICONTROL Edit]**
 
@@ -173,9 +174,9 @@ Wanneer u een creatief element in een bundel opneemt en de bundel aan een ervari
 
 **JavaScriptCode:** Een markering van JavaScript (en naar keuze een afwisselende markering voor browsers die JavaScript niet steunen) die aan creatief op de derde en server wijst. Het script verschilt per advertentieserver. Wanneer u meerdere creatieve elementen bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
-Alle beschikbare macro&#39;s en de gegevens waarmee ze worden vervangen worden weergegeven onder het invoerveld. Om één van de macro&#39;s in de markering op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan het beeld waar u het binnen de markering wilt.
+Alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en het gegeven waarmee zij worden vervangen zijn vermeld onder het inputgebied. Om één van de macro&#39;s in de markering op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan het beeld waar u het binnen de markering wilt.
 
-Wanneer u dit creatief in een ervaring opneemt die u als advertentie van een DSP uitvoert, gebruikt de DSP de informatie in deze markering om de advertentie weer te geven, om beelden te volgen en op het te klikken, en dan de markering aan de advertentiesuitwisseling te duwen. Wanneer de advertentie wordt weergegeven en erop wordt geklikt, volgen de advertentieserver, de DSP en [!DNL Creative] de gebeurtenissen.
+Wanneer u deze creatieve code opneemt in een ervaring die u als een advertentie vanuit een DSP implementeert, gebruikt de DSP de informatie in deze tag om de advertentie weer te geven, om de indrukken te volgen en erop te klikken, en de tag vervolgens naar de advertentie-uitwisseling te sturen. Wanneer de advertentie wordt weergegeven en erop wordt geklikt, volgen de advertentieserver, de DSP en [!DNL Creative] de gebeurtenissen.
 
 **[!UICONTROL Advertiser]:** (Alleen-lezen) De adverteerder waarvoor de bibliotheek beschikbaar is.
 
@@ -201,3 +202,4 @@ u
 >
 >* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
 >* [ geeft standaardcreatieve producten ](/help/creative/creative-libraries/creative-edit-standard.md) uit
+>* [ Beschikbare macro&#39;s voor het volgen URLs ](/help/creative/creative-macros.md)

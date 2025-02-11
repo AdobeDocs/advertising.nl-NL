@@ -2,9 +2,10 @@
 title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
+source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
 workflow-type: tm+mt
-source-wordcount: '658'
+source-wordcount: '663'
 ht-degree: 0%
 
 ---
@@ -111,7 +112,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 >[!NOTE]
 >
->U kunt ook [ flexibele HTML5 creatieve HTML ](#flexible-creative-add) toevoegen, die creatieven met al hun attributen als standaardHTML markeringen zijn die u direct binnen [!DNL Creative] kunt uitgeven.
+>U kunt ook [ flexibele creatieve HTML5 ](#flexible-creative-add) toevoegen, die HTML5 creatieven met al hun attributen als standaardHTML markeringen zijn die u direct binnen [!DNL Creative] kunt uitgeven.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -147,7 +148,7 @@ Standaard zijn alle Creative Cloud die u zojuist hebt geüpload geselecteerd. Al
 
 ## Creatieve afbeeldingen toevoegen aan een creatieve bibliotheek
 
-De creatieve afbeeldingen kunnen in GIF-, JPEG-, JPG- of PNG-indeling zijn. De maximale bestandsgrootte is twee (2) MB. Zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
+Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. De maximale bestandsgrootte is twee (2) MB. Zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -175,7 +176,7 @@ De creatieve afbeeldingen kunnen in GIF-, JPEG-, JPG- of PNG-indeling zijn. De m
 
 1. Klikken **[!UICONTROL Create]**
 
-## Een creatieve derde toevoegen aan een creatieve bibliotheek
+## Een creatieve derde toevoegen aan een creatieve bibliotheek {#creative-add-third-party}
 
 [!DNL Creative] biedt ondersteuning voor trackingtags voor JavaScript voor ontwerpers die op de meeste externe advertentieservers worden gehost.
 
@@ -187,9 +188,9 @@ De creatieve afbeeldingen kunnen in GIF-, JPEG-, JPG- of PNG-indeling zijn. De m
 
 1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL 3rd Party]**.
 
-1. Specificeer de markering van JavaScript en andere montages voor creatief in de [ derde creatieve montages ].
+1. Specificeer de markering van JavaScript en andere montages voor creatief in de [ derde creatieve montages ](#creative-settings-third-party).
 
-   U kunt alle beschikbare macro&#39;s kopiëren en in de JavaScript-tag plakken.
+   U kunt om het even welke [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) in de markering van JavaScript kopiëren en kleven.
 
 1. Klikken **[!UICONTROL Create]**
 
@@ -197,6 +198,7 @@ De creatieve afbeeldingen kunnen in GIF-, JPEG-, JPG- of PNG-indeling zijn. De m
 >
 >* [ geeft standaardcreatieve producten ](/help/creative/creative-libraries/creative-edit-standard.md) uit
 >* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md)
+>* [ Beschikbare macro&#39;s voor het volgen URLs ](/help/creative/creative-macros.md)
 >* [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md)
 >* [ Voorproef creatieve ](/help/creative/creative-libraries/creative-preview.md)
 >* [ verbindt en losmaakt creatieven van bundels ](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
