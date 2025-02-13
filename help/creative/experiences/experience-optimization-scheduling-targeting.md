@@ -2,9 +2,10 @@
 title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
+source-git-commit: 4d0f4b2a46a65c7fa1afec0a4ef419e58b8f8f59
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '594'
 ht-degree: 0%
 
 ---
@@ -30,11 +31,11 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
 1. Selecteer het type creatieve rotatie:
 
-   * ** *Gewogen* ** - roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle bundels moeten optellen tot 100.
+   * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle bundels moeten optellen tot 100.
 
-   * ** *Algorithmic* ** - roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
+   * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-   * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+      * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -56,11 +57,11 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
    1. Selecteer het type creatieve rotatie:
 
-      * ** *Gewogen* ** - roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle geselecteerde bundels moeten optellen tot 100.
+      * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle geselecteerde bundels moeten optellen tot 100.
 
-      * ** *Algorithmic* ** - roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
+      * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-      * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
 1. Voor elk aanvullend schema:
 
@@ -72,11 +73,11 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
    1. Selecteer het type creatieve rotatie:
 
-      * ** *Gewogen* ** - roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle geselecteerde bundels moeten optellen tot 100.
+      * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel manueel volgens relatieve gewichten. Voer het gewicht van elke bundel in als een percentage. De gewichten voor alle geselecteerde bundels moeten optellen tot 100.
 
-      * ** *Algorithmic* ** - roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
+      * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-      * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
 1. Klik op **[!UICONTROL Save]**.
 
