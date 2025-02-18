@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
-source-git-commit: 4d0f4b2a46a65c7fa1afec0a4ef419e58b8f8f59
+source-git-commit: f6da629fdb81af4393bac9a81050111aded3ee3a
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '628'
 ht-degree: 0%
 
 ---
@@ -35,9 +35,9 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
 1. Selecteer het type creatieve rotatie:
 
-   * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — roteert de creatieve producten manueel volgens relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
+   * *[!UICONTROL Weighted]:* roteert de creatieve elementen handmatig op basis van relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
 
-   * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen algoritmisch volgens een gespecificeerd optimalisatiedoel.
+   * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
       * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
@@ -69,9 +69,9 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
    1. Selecteer het type creatieve rotatie:
 
-      * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — roteert de creatieve producten manueel volgens relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
+      * *[!UICONTROL Weighted]:* roteert de creatieve elementen handmatig op basis van relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
 
-      * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen algoritmisch volgens een gespecificeerd optimalisatiedoel.
+      * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
          * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
@@ -85,9 +85,9 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
    1. Selecteer het type creatieve rotatie:
 
-      * &amp;ast;&amp;ast; *Gewogen* &amp;ast;&amp;ast; — roteert de creatieve producten manueel volgens relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
+      * *[!UICONTROL Weighted]:* roteert de creatieve elementen handmatig op basis van relatieve gewichten. Voer het gewicht voor elke creatieve waarde in als een percentage. De gewichten voor alle geselecteerde creatieve elementen moeten optellen tot 100.
 
-      * &amp;ast;&amp;ast; *Algorithmic* &amp;ast;&amp;ast; — Roteert de creatieve elementen algoritmisch volgens een gespecificeerd optimalisatiedoel.
+      * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
          * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
