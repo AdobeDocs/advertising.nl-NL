@@ -3,9 +3,9 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: c5ce127f9a9573962939539c6c449b83715d2e4c
+source-git-commit: 137f334eec778499f263e26c125e97ffe37d6112
 workflow-type: tm+mt
-source-wordcount: '740'
+source-wordcount: '746'
 ht-degree: 0%
 
 ---
@@ -118,7 +118,7 @@ De rapportweergave bevat de volgende gegevens:
 
    * (Facultatief) om de gemelde omzettingen te veranderen, klik ![ Montages ](/help/creative/assets/settings.png) en selecteer de omzettingsnamen in het **[!UICONTROL Conversions]** menu.&lt;!— Alleen één of meerdere? Controleren hoe deze worden weergegeven — Ik moet een adverteerder zien die al meerdere omzettingen heeft uitgevoerd —>
 
-     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. Dit kan conversie- en sitebetrokkenheidsgegevens omvatten die zijn gesynchroniseerd vanuit Adobe Analytics. <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
+     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. Dit kan omzetting en de metriek van de plaatsovereenkomst omvatten die van Adobe Analytics wordt gesynchroniseerd wanneer adverteerder [  [!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md) heeft. <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
 
 1. (Op het tabblad [!UICONTROL Overview] ):
 
