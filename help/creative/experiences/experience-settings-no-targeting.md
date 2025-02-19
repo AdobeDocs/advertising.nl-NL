@@ -3,9 +3,9 @@ title: Instellingen voor niet-doelgerichte ervaringen
 description: Zie beschrijvingen van alle montages voor en ervaringen zonder beslissingsboom het richten.
 feature: Creative Experiences
 exl-id: aeeca035-8ae2-4173-827a-b8690d228549
-source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
+source-git-commit: 75ecbf5309c21952fb4355be852f80100aa916ae
 workflow-type: tm+mt
-source-wordcount: '1069'
+source-wordcount: '1129'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. U moet de waarde voor elk sleutel-waardepaar binnen de markering ingaan alvorens u de markering als advertentie in uw DSP implementeert.
 
-**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een gebruikersstraal aan doel. Selecteer een straal van 0 mijl tot 200 mijl.<!-- Does this end up in the ad tag parameters? -->
+**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Voor een straal van 10 mijl, bijvoorbeeld, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond.
 
 **pixel van RT:** (Ervaringen met dynamische slechts advertenties; facultatief) A [!UICONTROL Creative] die pixel opnieuw richt aan potentieel doel. Wanneer u het richten binnen de beslissingsboom plaatst, kunt u één niveau van de knopen van het pixeldoel van RT omvatten en het pixel specificeren om voor elke knoop evenals de vereiste waarden voor de attributen van de pixel te richten die moeten aanwezig zijn om de creatieve creatieve bundels te tonen. Als u geen pixel op dit gebied specificeert, kunt u nog binnen de beslissingsboom specificeren.&lt;!— Van R: &quot;de pixel van RT zou via de inhoudselectie in Dynamische en opstelling moeten zijn&quot; — verduidelijk. Ik zie &quot;Datapass&quot; (één woord) in de dynamische advertentie-instellingen, maar ik weet niet hoe die instelling en deze ervaringsniveau één samenwerken. —>
 
