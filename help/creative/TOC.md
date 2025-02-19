@@ -4,9 +4,9 @@ user-guide-title: Advertising Creative Guide
 user-guide-description: Meer informatie over de belangrijkste functies, taken, instellingen en andere bronnen die vereist zijn voor het gebruik van Advertising Creative.
 breadcrumb-title: Creative Guide
 hide: true
-source-git-commit: f13f2b3e9bed34acbe1c3c07adbca2b7a61ac76c
+source-git-commit: 7000d0d68ac8ad904383bf62e614ff2fd1c3415a
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '309'
 ht-degree: 0%
 
 ---
@@ -42,6 +42,7 @@ ht-degree: 0%
       + [De indeling van de beslissingstructuur](/help/creative/experiences/experience-decision-tree.md)
       + [Maak een ervaring met doelbewust kiezen](/help/creative/experiences/experience-create-targeting.md)
       + [Ervaring bewerken met doelframes](/help/creative/experiences/experience-edit-targeting.md)
+      + [Instellingen voor doelgerichte ervaring](/help/creative/experiences/experience-settings-targeting.md)
       + Subtaken voor het maken en bewerken van ervaringen {#subtasks}
          + Doelknooppunten {#nodes}
             + [Een doelknooppunt toevoegen aan het uiteindelijke niveau](/help/creative/experiences/experience-target-node-add-final.md)
@@ -53,12 +54,11 @@ ht-degree: 0%
             + [Creatieve bundels toewijzen aan en toewijzen aan een definitief knooppunt](/help/creative/experiences/experience-assign-creative-bundles.md)
             + [De URL&#39;s voor het bijhouden van wijzigingen aanpassen voor Creative Cloud](/help/creative/experiences/experience-tracking-urls-targeting.md)
             + [Creatieve optimalisatie en planning aanpassen](/help/creative/experiences/experience-optimization-scheduling-targeting.md)
-      + [Instellingen voor doelgerichte ervaring](/help/creative/experiences/experience-settings-targeting.md)
    + Ervaringen zonder doelgroep {#experience-nontargeted}
       + [Maak een ervaring zonder doelgericht iets te zoeken](/help/creative/experiences/experience-create-no-targeting.md)
       + [Een ervaring bewerken zonder de focus te plaatsen](/help/creative/experiences/experience-edit-no-targeting.md)
       + [Instellingen voor ongeplande ervaring](/help/creative/experiences/experience-settings-no-targeting.md)
-      + Creative Cloud {#non-targeted-creatives}
+      + Labels en creatieve elementen toevoegen {#non-targeted-creatives}
          + [Handmatig een advertentietag maken voor een toepasselijk creatief formaat](/help/creative/experiences/experience-tag-create-manually.md)
          + [Creatieve personen toewijzen aan een advertentietag voor ervaringen zonder zich te richten op](/help/creative/experiences/experience-tag-assign-creatives.md)
          + [De URL&#39;s voor bijhouden aanpassen voor een ervaring zonder focus te plaatsen](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
