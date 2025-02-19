@@ -3,9 +3,9 @@ title: Instellingen voor doelgerichte ervaring
 description: Zie beschrijvingen van alle montages voor gerichte en ervaringen.
 feature: Creative Experiences
 exl-id: cb6fd855-6534-4eac-b34b-323073d186be
-source-git-commit: 727860ba89ae98d50a33befa28ab1654650263e6
+source-git-commit: f339fafa90f93632778e15dddcfb5f889ad77395
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1113'
 ht-degree: 0%
 
 ---
@@ -55,7 +55,7 @@ Nadat u de ervaring hebt opgeslagen, kunt u deze instelling niet meer wijzigen.
 Elke toets wordt toegevoegd als een macro in de advertentie-ervaring
 -tag, die u kunt genereren om als advertentie in uw DSP te implementeren.
 
-**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Voor een straal van 10 mijl, bijvoorbeeld, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond.
+**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Bijvoorbeeld, voor een straal van 10 mijl, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond (die door het IP adres van de gebruiker wordt bepaald).
 
 **pixel van RT:** (read-only voor bestaande ervaringen; facultatief) A [!UICONTROL Creative] die pixel aan potentieel doel opnieuw richt. Wanneer u het richten binnen de beslissingsboom plaatst, kunt u één niveau van de knopen van het pixeldoel van RT omvatten en het pixel specificeren om voor elke knoop evenals de vereiste waarden voor de attributen van de pixel te richten die moeten aanwezig zijn om de creatieve creatieve bundels te tonen. Als u geen pixel op dit gebied specificeert wanneer u de ervaring creeert, kunt u nog binnen de beslissingsboom specificeren.<!-- May move this to just within the decision tree. -->
 

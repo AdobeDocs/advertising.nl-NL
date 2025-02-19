@@ -3,9 +3,9 @@ title: Instellingen voor niet-doelgerichte ervaringen
 description: Zie beschrijvingen van alle montages voor en ervaringen zonder beslissingsboom het richten.
 feature: Creative Experiences
 exl-id: aeeca035-8ae2-4173-827a-b8690d228549
-source-git-commit: 4d362e7321433cb3c4ef34790f8ae26f817cd9d9
+source-git-commit: f4d83da98f89313624e038fd1d8f0fedcf802cc4
 workflow-type: tm+mt
-source-wordcount: '1129'
+source-wordcount: '1135'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. U moet de waarde voor elk sleutel-waardepaar binnen de markering ingaan alvorens u de markering als advertentie in uw DSP implementeert.
 
-**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Voor een straal van 10 mijl, bijvoorbeeld, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond.
+**Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Bijvoorbeeld, voor een straal van 10 mijl, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond (die door het IP adres van de gebruiker wordt bepaald).
 
 **pixel van RT:** (Ervaringen met dynamische slechts advertenties; facultatief) A [!UICONTROL Creative] die pixel opnieuw richt aan potentieel doel. Wanneer u het richten binnen de beslissingsboom plaatst, kunt u één niveau van de knopen van het pixeldoel van RT omvatten en het pixel specificeren om voor elke knoop evenals de vereiste waarden voor de attributen van de pixel te richten die moeten aanwezig zijn om de creatieve creatieve bundels te tonen. Als u geen pixel op dit gebied specificeert, kunt u nog binnen de beslissingsboom specificeren.&lt;!— Van R: &quot;de pixel van RT zou via de inhoudselectie in Dynamische en opstelling moeten zijn&quot; — verduidelijk. Ik zie &quot;Datapass&quot; (één woord) in de dynamische advertentie-instellingen, maar ik weet niet hoe die instelling en deze ervaringsniveau één samenwerken. —>
 
