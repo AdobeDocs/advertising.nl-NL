@@ -3,9 +3,9 @@ title: '[!UICONTROL Custom Creative Report]'
 description: Leer hoe u de kruiservaring genereert [!UICONTROL Custom Creative Report] .
 feature: Creative Reporting
 exl-id: 13687d9d-6283-40ac-86a2-bb88b9fdfcc3
-source-git-commit: 2062e2ce4f92070b209422c3184e9c0b14229bb5
+source-git-commit: 3033f26bba5a9e7622d0de51b36035be1005c60f
 workflow-type: tm+mt
-source-wordcount: '1910'
+source-wordcount: '1913'
 ht-degree: 0%
 
 ---
@@ -244,13 +244,13 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Media Match Rate] | |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Clicks] | De som van alle klikken op advertenties voor een product. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion] | De som van alle omzettingen op advertenties voor een product. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion Rate] | Het percentage op advertenties voor een product dat tot omzettingen heeft geleid. |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion Rate] | Het percentage advertenties voor een product dat tot omzettingen heeft geleid. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product CTR] | De doorklikfrequentie voor advertenties voor een product. Dit is het percentage klikken gedeeld door advertenties. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Impressions] | Het totale aantal indrukkingen voor een product. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Revenue] | De totale inkomsten aan bediende advertenties voor een product. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Revenue] | De totale inkomsten voor bediende reclame. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
-| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
+| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | (Advertisers met Advertising DSP) de gewogen som alle omzettingen die in het gespecificeerde [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
 
 {style="table-layout:auto"}
 
