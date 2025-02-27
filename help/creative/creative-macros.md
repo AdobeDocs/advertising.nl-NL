@@ -1,11 +1,11 @@
 ---
 title: Beschikbare macro's voor het bijhouden van URL's
-description: Verwijs naar de macro's die u kunt toevoegen aan de URL's die URL's bijhouden op de bestemmingspagina en aan creatieve derde partijen.
+description: Verwijs naar de macro's die u aan uw het landen pagina URLs, het volgen URLs, en derdecreatieven kunt toevoegen.
 feature: Creative Experiences, Creative Experiences
 exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
-source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
+source-git-commit: fe3e991f1fba2944e7a3f8e4930c48c7dbd28770
 workflow-type: tm+mt
-source-wordcount: '237'
+source-wordcount: '239'
 ht-degree: 0%
 
 ---
@@ -49,11 +49,12 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 | `${TM_ACC_EXPERIENCE_ID}` | Traceert en rapporteert de ervaring-id van Advertising Creative | — |
 | `${TM_ACC_CREATIVE_ID}` | Traceert en rapporteert de creatieve id van Advertising Creative | — |
 | `${TM_RANDOM}` | Een willekeurig getal tussen 1 en 1000000 | — |
-| `${TM_TIMESTAMP}` | De Unix-tijdstempel (in seconden) | — |
-| `${TM_CLICK_URL_URLENC}` | (Voor advertenties van derden van leveranciers die URL-codering nodig hebben) Met de gecodeerde klik kunt u URL omleiden. Hierdoor kunnen servers van advertenties URL bijhouden en tellen en klikken. Wanneer de advertentie wordt aangeboden en de gebruiker erop klikt, wordt de macro geactiveerd, en de klik wordt geregistreerd en voor rapporteringsdoeleinden geteld. | Ja |
+| `${TM_TIMESTAMP}` | De tijdstempel van UNIX® (in seconden) | — |
+| `${TM_CLICK_URL_URLENC}` | (Voor advertenties van derden van leveranciers die URL-codering nodig hebben) Met de gecodeerde klik kunt u URL omleiden. Hierdoor kunnen servers van advertenties URL bijhouden en tellen en klikken. Wanneer de gebruiker op de advertentie klikt, wordt de macro geactiveerd en wordt de klik opgenomen en geteld voor rapportagedoeleinden. | Ja |
 
 >[!MORELIKETHIS]
 >
 >* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
 >* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
->* 
+>* [ gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
+>*[ Niet-gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-no-targeting.md)
