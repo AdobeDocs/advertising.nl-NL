@@ -3,9 +3,9 @@ title: Historische gegevens verzamelen voor AMO-id's en EF-id's voor gebruik in 
 description: Leer hoe u historische gegevens voor gereserveerde variabelen in Adobe Analytics kunt verzamelen voor toekomstig gebruik in Adobe Customer Journey Analytics
 feature: Integration with Adobe Analytics
 exl-id: 1f8fa139-f146-426b-b0c4-079f8e2de56c
-source-git-commit: a1e6f04bed489fcafdc982394656757e6229c8db
+source-git-commit: 5b78ec0fc4c5ea4742cbb080b992bdb323fc9af3
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '646'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Deze stap is handmatig en moet worden uitgevoerd voor elk rapportpakket dat AMO-
          1. Selecteer **de Parameter van het Koord van de Vraag**.
          1. Voer `ef_id` in.
 
-        Voorbeeld: overschrijf de waarde van `rVar11` met de parameter voor tekenreeks van de query `ef_id`
+        Voorbeeld: `Overwrite the value of rVar11 with Query String Parameter ef_id`
 
    * Gebruik voor de [!UICONTROL Reason for rule] een beschrijvende notitie, zoals &quot;AMO-id en EF-id worden via Adobe Analytics-connector naar AEP verzonden.&quot;
 
