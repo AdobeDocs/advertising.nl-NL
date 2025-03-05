@@ -1,20 +1,20 @@
 ---
-title: Creatieve instellingen
+title: Creative-instellingen
 description: Meer informatie over xxxx.
 feature: Creative Standard Creatives
 exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
-source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1810'
 ht-degree: 0%
 
 ---
 
-# Creatieve instellingen
+# Creative-instellingen
 
 *Gesloten bèta*
 
-De instelling verschilt per creatief type.
+De instellingen variëren per creatief type.
 
 Wanneer u meerdere creatieve objecten tegelijk bewerkt:
 
@@ -26,11 +26,11 @@ Wanneer u meerdere creatieve objecten tegelijk bewerkt:
 
 ### Tabblad Details
 
-**Creative Naam:** De naam van creatief. De sjabloonnaam of de geüploade bestandsnaam wordt standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. De sjabloonnaam of de geüploade bestandsnaam wordt standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Wanneer u meerdere creatieve items uploadt of bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
-**Creatieve Grootte:** (Read-only voor bestaande creatieve) de afmetingen van creatief. Als een afbeelding in het creatief bestand groter is dan de opgegeven grootte, worden de afmetingen aangepast.
+**Grootte van Creative:** (Read-only voor bestaande creatieve) de afmetingen van creatief. Als een afbeelding in het creatief bestand groter is dan de opgegeven grootte, worden de afmetingen aangepast.
 
 **[!UICONTROL Click Tags]:** De variabelen die het klikken-volgen toestaan richt van de inbegrepen banneradvertenties opnieuw. De variabelenamen en bijbehorende bestemmingspagina-URL&#39;s worden vanuit de geüploade creatieve eenheid ingevuld, maar u kunt de standaard-URL&#39;s wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke kliklabels bewerken.
 
@@ -94,11 +94,11 @@ De bestaande advertentiesjabloon vervangen:
 
 Voor nieuwe creatieven, zijn de volgende montages niet op een genoemd lusje.
 
-**Creative Naam:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Wanneer u meerdere creatieve items uploadt of bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
-**Creatieve Grootte:** (Read-only voor bestaande creatieve) de afmetingen van creatief. Als een afbeelding in het creatief bestand groter is dan de opgegeven grootte, worden de afmetingen aangepast.
+**Grootte van Creative:** (Read-only voor bestaande creatieve) de afmetingen van creatief. Als een afbeelding in het creatief bestand groter is dan de opgegeven grootte, worden de afmetingen aangepast.
 
 **[!UICONTROL Click Tags]:** (Statische slechts Creative HTML5) de variabelen die klik-het volgen van omleidingen van de inbegrepen banneradvertenties toestaan. De variabelenamen en bijbehorende bestemmingspagina-URL&#39;s worden vanuit de geüploade creatieve eenheid ingevuld, maar u kunt de standaard-URL&#39;s wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke kliklabels bewerken.
 
@@ -150,15 +150,15 @@ De bestaande advertentiesjabloon vervangen:
 
 ## Creatieve instellingen van afbeeldingen {#creative-settings-image}
 
-**Creative Naam:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere afbeeldingen kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere afbeeldingen kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
 
-**Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen. &lt;!— CONTROLEER OF ER IETS KAN GEBEUREN OP BUNDELNIVEAU en of de ervaringsinstellingen alleen op ervaringsniveau zijn. Als u de creatieve functies in een ervaring opneemt, kunt u desgewenst taalvoorkeuren aanpassen voor de ervaring.
+**Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen. Als u de creatieve functies in een ervaring opneemt, kunt u desgewenst de taalvoorkeuren aanpassen.
 
 **Creatieve Grootte:** (Read-only) de afmetingen van de geupload beelden.
 
 **het Bestaan van Pagina URL:** URL van de standaard het landen pagina voor elke advertentie waarmee u de creatieven associeert. De landingspagina-URL moet een geldige URL zijn die begint met http:// of https://. Het kan derde volgende parameters of [[!DNL Creative]  macro&#39;s ](/help/creative/creative-macros.md) voor uw eigen gebruik omvatten. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen.
 
-Wanneer u een creatief element in een bundel opneemt en de bundel aan een ervaring toewijst, kunt u naar keuze de bestemmingspagina URL veranderen, evenals indruk-en-klik-volgende URLs en JavaScript, voor elke creatieve waarde in de bundel toevoegen. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
+Wanneer u een creatief element in een bundel opneemt en vervolgens de bundel aan een ervaring toewijst, kunt u optioneel de bestemmingspagina-URL wijzigen en URL&#39;s en JavaScript voor elke creatieve waarde in de bundel toevoegen met de functie voor het bijhouden van de indruk en klik. <!-- NOT SURE APPLICABLE ANYMORE: to generate a variation of the base creative. -->
 
 **Etiket:** (Facultatief) om het even welke etiketten om op alle geselecteerde creatieve producten van toepassing te zijn. U kunt creatieve elementen filteren op label in verschillende weergaven binnen [!DNL Creative] .
 
@@ -172,21 +172,21 @@ Wanneer u een creatief element in een bundel opneemt en de bundel aan een ervari
 
 ## Creatieve instellingen van derden {#creative-settings-third-party}
 
-**JavaScriptCode:** Een markering van JavaScript (en naar keuze een afwisselende markering voor browsers die JavaScript niet steunen) die aan creatief op de derde en server wijst. Het script verschilt per advertentieserver. Wanneer u meerdere creatieve elementen bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
+**JavaScriptCode:** Een markering van JavaScript (en naar keuze een afwisselende markering voor browsers die JavaScript niet steunen) die aan creatief op de derde en server wijst. Het script kan per advertentieserver variëren. Wanneer u meerdere creatieve elementen bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
 Alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en het gegeven waarmee zij worden vervangen zijn vermeld onder het inputgebied. Om één van de macro&#39;s in de markering op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan het beeld waar u het binnen de markering wilt.
 
-Wanneer u deze creatieve code opneemt in een ervaring die u als een advertentie vanuit een DSP implementeert, gebruikt de DSP de informatie in deze tag om de advertentie weer te geven, om de indrukken te volgen en erop te klikken, en de tag vervolgens naar de advertentie-uitwisseling te sturen. Wanneer de advertentie wordt weergegeven en erop wordt geklikt, volgen de advertentieserver, de DSP en [!DNL Creative] de gebeurtenissen.
+Wanneer u deze creatieve code opneemt in een ervaring die u als een advertentie vanuit een DSP implementeert, gebruikt de DSP de informatie in deze tag om de advertentie weer te geven en om de indrukken bij te houden en erop te klikken. De DSP duwt de markering dan aan de advertentieverslag. Wanneer de advertentie wordt weergegeven en erop wordt geklikt, houden de advertentieserver, de DSP en [!DNL Creative] de gebeurtenissen bij.
 
 **[!UICONTROL Advertiser]:** (Alleen-lezen) De adverteerder waarvoor de bibliotheek beschikbaar is.
 
-**Creative Naam:** De naam van creatief. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
 
 **Creatieve Grootte:** (Read-only voor bestaande advertenties) de afmetingen van creatief. Voor nieuwe creatieve producten maakt u een keuze uit een lijst met standaardformaten.
 u
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert.
 
-**het Bestaan van Pagina URL:** De het landen pagina URL wordt gebruikt om elke advertentie te bevestigen waarmee u creatieve personen associeert. De werkelijke landingspagina voor elke advertentie wordt bepaald door de externe advertentieserver.
+**het Bestaan van Pagina URL:** De het landen pagina URL wordt gebruikt om elke advertentie te bevestigen waarmee u creatieve personen associeert. De externe advertentieserver bepaalt de werkelijke bestemmingspagina voor elke advertentie.
 
 **Etiket:** (Facultatief) om het even welke etiketten om op alle geselecteerde creatieve producten van toepassing te zijn. U kunt creatieve elementen filteren op label in verschillende weergaven binnen [!DNL Creative] .
 

@@ -2,9 +2,10 @@
 title: Creatieve bibliotheken beheren
 description: Leer hoe u creatieve bibliotheken maakt, hernoemt en verwijdert.
 feature: Creative Libraries
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '278'
 ht-degree: 1%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 1%
 
 *Gesloten bèta*
 
-U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek later bevolken met [ standaardcreatieve ](creative-add-standard.md) <!-- , dynamic creatives, --> en [ creatieve bundels ](bundle-manage.md). Het accountteam van uw Adobe kan ook dynamische creatieve elementen aan uw bibliotheken toevoegen.
+U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek met [ standaardcreatieve ](creative-add-standard.md)<!-- , dynamic creatives, --> en [ creatieve bundels ](bundle-manage.md) later bevolken. Uw Adobe-accountteam kan ook dynamische creatieve elementen aan uw bibliotheken toevoegen.
 
 ## Een creatieve bibliotheek maken
 
@@ -51,7 +52,7 @@ U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke
 
 ## Creatieve bibliotheken verwijderen
 
-U kunt bibliotheken verwijderen met creatieve elementen en bundels die niet zijn toegewezen aan een live ervaring.<!-- Add an x-ref?  --> Verwijder om het even welke creatieve of bundels die aan een levende ervaring van de beslissingsboom voor de ervaring <!-- add x-ref --> worden toegewezen alvorens u verdergaat.
+U kunt bibliotheken met creatieven en bundels schrappen die niet aan a [ levende ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Voor een levende gerichte ervaring, [ verwijder om het even welke creatieve personen of bundels uit de besluitvormingsboom ](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.<!-- Not an option as of 3/4: > For an untargeted live experience, [remove any assigned creatives from the associated ad tag](/help/creative/experiences/experience-tag-assign-creatives.md) before you continue. -->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -65,7 +66,7 @@ U kunt bibliotheken verwijderen met creatieve elementen en bundels die niet zijn
 
       * Houd in de tabelweergave de cursor boven de rij en klik op **[!UICONTROL Delete]** .
 
-   * Als u een of meer bibliotheken wilt verwijderen, schakelt u het selectievakje in voor elke bibliotheek die u wilt verwijderen. In de bulkactiestoolbar, klik ** [!UICONTROL Delete].
+   * Als u een of meer bibliotheken wilt verwijderen, schakelt u het selectievakje in voor elke bibliotheek die u wilt verwijderen. Klik op de werkbalk voor bulkacties op **[!UICONTROL Delete]** .
 
      Als u alle rijen wilt selecteren, schakelt u het selectievakje Algemeen linksboven in.
 

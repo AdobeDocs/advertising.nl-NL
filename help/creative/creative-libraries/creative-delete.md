@@ -2,9 +2,10 @@
 title: Creatieve elementen verwijderen
 description: Leer hoe u creatieve bibliotheken kunt verwijderen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 5dc197dc-c4bb-489a-8395-b7c8efa47ea1
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,11 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-U kunt creatieve elementen verwijderen die zich niet in een bundel bevinden die is toegewezen aan een live- of conceptervaring.<!-- verify if we can have child creative variations anymore:  , and that doesn't have child creative variations in a bundle that's assigned to a live or draft experience  -->.<!-- Add an x-ref to experience statuses, or an about page??  --> <!-- add with an x-ref once this feature is added:  If a creative is assigned to a live experience, then remove it from the experience before you continue. -->
+U kunt
+
+* creatieven die niet in een bundel zijn die aan a [ levend of ontwerp ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) [ gerichte ervaring ](/help/creative/experiences/experience-about.md) wordt toegewezen.
+
+* creatieven die niet aan een ad markering voor een levende of ontwerp [ niet-gerichte ervaring ](/help/creative/experiences/experience-about.md) worden toegewezen.
 
 >[!NOTE]
 >

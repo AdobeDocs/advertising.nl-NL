@@ -1,10 +1,10 @@
 ---
-title: Adobe Advertising Creative
+title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 
 <!-- verify all and rewrite to include new stuff -->
 
-Als onderdeel van de Adobe Advertising is Advertising Creative een zelfbedieningsplatform voor het automatiseren van realtime, gepersonaliseerde en ervaren advertenties en het optioneel optimaliseren van uw advertenties op het niveau van creatieve elementen.
+Als onderdeel van Adobe Advertising is Advertising Creative een zelfbedieningsplatform voor het automatiseren van realtime, gepersonaliseerde en ervaren advertenties en het optioneel optimaliseren van uw advertenties op het niveau van creatieve elementen.
 
 ## Aangepaste creatieve bibliotheken met herbruikbare creatieve producten
 
-Met uw Creative Libraries kunt u alle creatieve projecten beheren die u in uw advertentiervaringen zult gebruiken. U kunt veelvoudige bibliotheken tot stand brengen, elk met individuele creatieve en creatieve groepen (genoemd *bundels*). U voegt creatieve bundels toe aan uw advertentiervaringen.
+Met je Creative-bibliotheken kun je de creatieve producten beheren die je in je advertentievaardigheden gebruikt. U kunt veelvoudige bibliotheken tot stand brengen, elk met individuele creatieve en creatieve groepen (genoemd *bundels*). U voegt creatieve bundels toe aan uw advertentiervaringen.
 
 ## Op regels gebaseerde ervaringen
 
@@ -40,11 +40,11 @@ U kunt [!DNL Creative] desgewenst toestaan om de advertentie-elementen te optima
 
 ## Pixels opnieuw rangschikken
 
-U kunt pixels opnieuw toewijzen om te gebruiken als doelen voor creatieve projecten binnen een advertentie-ervaring, zodat u alleen advertenties weergeeft aan gebruikers met specifieke kenmerken die eerder bepaalde webpagina&#39;s hebben bezocht.
+U kunt doelpixels maken die u kunt gebruiken als doelwit voor creatieve projecten in een advertentiervaring. De doelen tonen alleen advertenties voor gebruikers met opgegeven kenmerken die eerder bepaalde webpagina&#39;s hebben bezocht.
 
 ## Impressie, klikken en conversie bijhouden
 
-[!DNL Creative] houdt automatisch alle indrukken bij en klikt op advertenties die uit een ervaring worden aangeboden. U kunt optioneel ook URL&#39;s van derden voor het bijhouden van afbeeldingen en het bijhouden van klikken toevoegen aan creatieve bibliotheken en aangepaste URL&#39;s voor het bijhouden van afbeeldingen in een ervaring.
+[!DNL Creative] houdt automatisch alle indrukken bij en klikt op advertenties die uit een ervaring worden aangeboden. U kunt optioneel ook URL&#39;s van derden voor het bijhouden van afbeeldingen en het bijhouden van klikken toevoegen aan creatieve projecten in Creative-bibliotheken en aangepaste URL&#39;s voor het bijhouden van afbeeldingen in een ervaring.
 
 [!DNL Creative] volgt ook omzettingen van gediende advertenties die op basis van uw advertentieervaringen zijn gemaakt. <!-- Verify wording; anything important to add here? We do track them for all users, right? Or is it optoinal?  -->
 
@@ -57,7 +57,7 @@ to the DSP.
 
 U kunt gedetailleerde prestatierapporten op ervaringsniveau weergeven binnen Creative Cloud > Ervaring.
 
-U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u [!DNL Creative] ervaart als advertenties in DSP campagnes, dan zijn de prestatiesgegevens voor die advertenties beschikbaar in extra douanerapporten, enkel zoals gegevens voor uw andere DSP advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports, and if I can completely duplicate the report help for both help sets. -->
+U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u uw [!DNL Creative] -ervaringen als advertenties gebruikt in DSP-campagnes, zijn de prestatiegegevens voor die advertenties beschikbaar in aanvullende aangepaste rapporten, net als gegevens voor andere DSP-advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports, and if I can completely duplicate the report help for both help sets. -->
 
 U kunt naar keuze uw douanerapporten aan gespecificeerde [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
 

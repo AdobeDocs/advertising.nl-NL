@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: 8f81cf8ffaec7ca30ee3bbfd45d3577e75d77faf
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '804'
+source-wordcount: '806'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 <!-- MORE -->
 
-[!DNL Advertising Creative 2.0] biedt twee verschillende advertentiestructuren voor advertenties in een creatieve bibliotheek <!-- can use a single library only --> :
+[!DNL Advertising Creative 2.0] verstrekt twee verschillende structuren van de advertentie voor de advertenties in een creatieve bibliotheek <!-- can use a single library only -->:
 
 * **Ervaringen met beslissingsboom richtend:** [!DNL Creative] staat u toe om gepersonaliseerde ad ervaringen door de klantenreis te vormen gebruikend een model van de beslissingsboom. U kunt alle advertentie-elementen — afbeeldingen, koppen, aanbiedingen en bestemmingspagina&#39;s — aanpassen op basis van het doelpubliek.
 

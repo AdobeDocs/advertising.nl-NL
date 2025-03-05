@@ -3,9 +3,9 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: 40a8afc7ec8d880137493118efb122778704eb8c
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '663'
+source-wordcount: '651'
 ht-degree: 0%
 
 ---
@@ -104,7 +104,7 @@ For information about the attributes available in predefined templates, see "[Av
 
 ## Een HTML5-creatief toevoegen aan een creatieve bibliotheek
 
-<!-- verify -->U kunt meerdere HTML5-creatieven van één type (eenvoudig of statisch) tegelijk toevoegen.
+U kunt meerdere HTML5-creatieven van één type (eenvoudig of statisch) tegelijk toevoegen.
 
 <!-- Add in when we add this feature back:
 You can optionally download a sample HTML5 creative as a ZIP file, edit the contents to build your own creative, and then add the edited file as a new creative.
@@ -122,7 +122,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL HTML5]**.
 
-<!-- Doesn't seem to be an option as of 11/27/24:
+<!-- Not an option as of 3/4:
 
 1. (Optional) To download a sample HTML5 creative as a ZIP file, click **Sample HTML5 Creatives**.
 
@@ -172,7 +172,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Specificeer het [ beeld creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image).
 
-   Standaard zijn alle zojuist geüploade creatieve items geselecteerd en zijn alle instellingen die u opgeeft, van toepassing op alle geselecteerde creatieve items. Alle instellingen met slechts één waarde zijn van toepassing op alle geselecteerde Creative Cloud. Als u instellingen voor bepaalde creatieve objecten wilt invoeren, schakelt u elk niet-toepasbaar creatief uit.
+   Standaard zijn alle zojuist geüploade creatieve items geselecteerd en zijn de instellingen die u opgeeft, van toepassing op alle geselecteerde creatieve items. Alle instellingen met slechts één waarde zijn van toepassing op alle geselecteerde Creative Cloud. Als u instellingen voor bepaalde creatieve objecten wilt invoeren, schakelt u elk niet-toepasbaar creatief uit.
 
 1. Klikken **[!UICONTROL Create]**
 
@@ -202,8 +202,5 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 >* [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md)
 >* [ Voorproef creatieve ](/help/creative/creative-libraries/creative-preview.md)
 >* [ verbindt en losmaakt creatieven van bundels ](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
->* [ Dubbele creatieve schepsels ](/help/creative/creative-libraries/creative-duplicate.md)
->* [ de Creatieven van de Download ](/help/creative/creative-libraries/creative-download.md)
->* [ Schrap creatieve ](/help/creative/creative-libraries/creative-delete.md)
 >* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
 >* [ beheer creatieve bibliotheken ](/help/creative/creative-libraries/creative-library-manage.md)

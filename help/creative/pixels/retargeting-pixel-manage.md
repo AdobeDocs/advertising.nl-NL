@@ -3,9 +3,9 @@ title: Opnieuw doelende pixels beheren
 description: Leer hoe u het opnieuw toewijzen van pixels maakt en implementeert voor gebruik als doel voor advertenties.
 feature: Creative Pixels
 exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
-source-git-commit: 147f47fcdc504fba67a6894edaa9249662131e05
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '926'
 ht-degree: 0%
 
 ---
@@ -79,7 +79,7 @@ Voorbeeldpixel:
 
    Als u handmatig aanvullende kenmerken toevoegt, moet u URL-codering opnemen.
 
-   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u bijvoorbeeld gebruikers wilt aanwijzen die rode sandalen van grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=sandals&ut2=red&ut3=10` en voert u ook uw ID5-partner-id in de scripttag in, zoals `&id5pid=0123456789` .
+   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u gebruikers wilt aanwijzen die bijvoorbeeld rode sandalen van grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=sandals&ut2=red&ut3=10` en voert u ook uw ID5-partner-id in de scripttag in, zoals `&id5pid=0123456789` .
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 
@@ -99,17 +99,17 @@ Voorbeeldpixel:
 
 ## Pixelinstellingen opnieuw instellen {#retargeting-pixel-settings}
 
-**[!UICONTROL Pixel Name]:** De naam van de pixel. **Nota:** de pixelmarkering zal pixelidentiteitskaart (`pxId=<ID>`) omvatten, niet de pixelnaam.
+**[!UICONTROL Pixel Name]:** De naam van de pixel. **Nota:** de pixelmarkering omvat pixelidentiteitskaart (`pxId=<ID>`), niet de pixelnaam.
 
 **[!UICONTROL Advertiser]:** (Alleen-lezen voor bestaande pixels) De adverteerder waarvoor de pixel wordt bijgehouden.
 
 **[!UICONTROL Attribute 1]:** Een kenmerk dat in de pixeltag moet worden opgenomen, zoals &quot;SKU&quot;, &quot;categorie&quot;, &quot;grootte&quot; of andere kenmerken van de pagina of het product dat op de pagina wordt weergegeven. Geef een waarde op voor het kenmerk in de pixeltag voordat u het invoegt in de relevante webpagina&#39;s.
 
-Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden blootgesteld, worden met de instellingen voor doelindeling de kenmerkwaarden opgegeven die aanwezig moeten zijn om de creatieve elementen weer te geven.
+Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden blootgesteld, geven de instellingen voor het aanwijzen de kenmerkwaarden op die aanwezig moeten zijn om de creatieve elementen weer te geven.
 
 **[!UICONTROL Attribute 2]** , **[!UICONTROL Attribute 3]** , **[!UICONTROL Attribute 4]** , **[!UICONTROL Attribute 5]:** (Optioneel) Aanvullende kenmerken die in de pixeltag moeten worden opgenomen. Geef een waarde op voor elk extra kenmerk in de pixeltag voordat u het invoegt in de relevante webpagina&#39;s.
 
-Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden blootgesteld, worden met de instellingen voor doelindeling de kenmerkwaarden opgegeven die aanwezig moeten zijn om de creatieve elementen weer te geven.
+Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden blootgesteld, geven de instellingen voor het aanwijzen de kenmerkwaarden op die aanwezig moeten zijn om de creatieve elementen weer te geven.
 
 **[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (Beta-functie; alleen nieuwe pixels; optioneel) Typen universele id&#39;s die de pixeltag moet bijhouden:
 

@@ -1,21 +1,22 @@
 ---
-title: HTML5 - creatieve specificatie
-description: Verwijs naar de creatieve HTML5 specificatie voor Advertising Creative.
+title: Creatieve HTML5-specificatie
+description: Verwijs naar de creatieve specificatie van HTML5 voor Advertising Creative.
 feature: Creative Standard Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '1158'
+source-wordcount: '1157'
 ht-degree: 0%
 
 ---
 
-# HTML5 creatieve specificatie voor Advertising Creative
+# HTML5 creative specification for Advertising Creative
 
 In dit document worden de vereisten en API-ondersteuning voor HTML5-creatieven in [!DNL Creative] beschreven. De API maakt de ontwikkeling mogelijk van HTML5-creatieven waarvan de kenmerken kunnen worden geconfigureerd op het moment van creatieve levering.
 
 ## Toepassingsgebied
 
-[!DNL Creative] ondersteunt HTML5-banners met niet-rijke mediacreatieven die binnen ingestelde randen op een pagina worden weergegeven. U kunt de volgende typen HTML5-creatieven gebruiken:
+[!DNL Creative] biedt ondersteuning voor HTML5-banners met niet-rijke mediagrocreatieven die binnen ingestelde randen op een pagina worden weergegeven. U kunt de volgende typen HTML5-creatieven gebruiken:
 
 <!--Remove to simplify:
 
@@ -35,13 +36,13 @@ In dit document worden de vereisten en API-ondersteuning voor HTML5-creatieven i
 
 * Creative Cloud moet zijn verpakt in een ZIP-bestand (.ZIP-indeling). Geneste ZIP-bestanden worden niet ondersteund, dus neem geen gecomprimeerde map op in de buitenste gecomprimeerde map.
 
-* Het ZIP-bestand moet ten minste één HTML-bestand bevatten, het hoofdweergavebestand voor HTML, dat een verwijzing naar de JavaScript-bibliotheek van [!DNL Creative] bevat. Het hoofdbestand voor HTML kan zich in de hoofdmap of in een submap bevinden.
+* Het ZIP-bestand moet ten minste één HTML-bestand bevatten, het HTML-hoofdweergavebestand, dat een verwijzing naar de JavaScript-bibliotheek van [!DNL Creative] bevat. Het HTML-hoofdbestand kan zich in de hoofdmap of in een submap bevinden.
 
-* Het HTML-hoofdbestand kan een willekeurige naam hebben, zolang het geen speciale tekens bevat, hoewel `index.html` wordt aangeraden.
+* Het HTML-hoofdbestand kan een willekeurige naam krijgen, zolang het geen speciale tekens bevat, hoewel `index.html` wordt aangeraden.
 
 * Alle ondersteunende elementen die nodig zijn om de uiteindelijke creatieve inhoud te renderen, moeten zich in dezelfde map bevinden als het HTML-weergavebestand of in submappen van de hoofdmap.
 
-* Plaats geen bestanden in de creatieve lijst waarnaar niet wordt verwezen voor die creatieve inhoud.
+* Neem geen bestanden op in de creatieve lijst waarnaar de creatieve functie niet verwijst.
 
 ### Opname van het Advertising Creative JavaScript-bestand
 
@@ -75,17 +76,17 @@ var clickTag = “http://www.example.com”;
 ### Static HTML5 creative requirements
 -->
 
-### HTML5 creatieve vereisten
+### Creatieve HTML5-vereisten
 
 #### Ondersteuning voor doorklikURL&#39;s in statische HTML5
 
 ##### `amo.registerClick(clkVar, clkUrl)`
 
-Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om elke URL (die als `clickTag` wordt bekend) van verwijzingen te voorzien. Op deze manier wordt de advertentieserver van [!DNL Creative] op de hoogte gebracht waar u klikken op bijhouden wilt toevoegen. U kunt deze API gebruiken om maximaal vijf geklikte markeringsvariabelen, elk met een overeenkomstige het landen pagina URL te registreren.
+Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om elke URL (die als `clickTag` wordt bekend) van verwijzingen te voorzien. Deze API informeert de [!DNL Creative] advertentieserver over waar u klik kunt toevoegen. U kunt deze API gebruiken om maximaal vijf geklikte markeringsvariabelen, elk met een overeenkomstige het landen pagina URL te registreren.
 
 >[!NOTE]
 >
->De statische URL&#39;s die u in de creatieve HTML5 opneemt, worden alleen gebruikt voor lokale testdoeleinden en worden overschreven. Wanneer u een creatieve HTML5 uploadt, zult u de standaardlandingspagina voor elke `clickTag` variabele bepalen. Wanneer u een geüploade HTML5 creatief toewijst aan een advertentie-ervaring, kunt u optioneel de standaardopeningspagina voor elke `clickTag` -variabele overschrijven en [!DNL Creative] voegt klik het volgen aan URLs toe wanneer u de ervaring opslaat.
+>De statische URL&#39;s die u in de creatieve HTML5 opneemt, worden alleen gebruikt voor lokale testdoeleinden en worden overschreven. Wanneer u een creatief HTML5 uploadt, bepaalt u de standaardlandingspagina voor elke `clickTag` variabele. Wanneer u een geüploade HTML5 creatief toewijst aan een advertentie-ervaring, kunt u optioneel de standaard openingspagina voor elke `clickTag` variabele overschrijven en [!DNL Creative] voegt klik het volgen aan URLs toe wanneer u sparen de ervaring.
 
 ###### Parameters
 
@@ -95,7 +96,7 @@ Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om 
 
 ###### Gebruik
 
-Roep `amo.registerClick()` aan in de `<head>` -sectie van het hoofd-HTML-bestand.
+Roep `amo.registerClick()` aan in de sectie `<head>` van het HTML-hoofdbestand.
 
 ###### Voorbeeld
 
@@ -113,7 +114,7 @@ De gebeurtenis exit wordt geactiveerd, waardoor de gebruiker wordt omgeleid naar
 
 ###### Gebruik
 
-Roep `amo.onAdClick()` aan in de `<body>` -sectie van het hoofd-HTML-bestand.
+Roep `amo.onAdClick()` aan in de sectie `<body>` van het HTML-hoofdbestand.
 
 ###### Voorbeelden
 
@@ -125,11 +126,11 @@ Roep `amo.onAdClick()` aan in de `<body>` -sectie van het hoofd-HTML-bestand.
 
 ##### `amo.registerClick(clkVar, clkUrl)`
 
-Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om elke URL (die als `clickTag` wordt bekend) van verwijzingen te voorzien. Op deze manier wordt de advertentieserver van [!DNL Creative] op de hoogte gebracht waar u klikken op bijhouden wilt toevoegen. U kunt deze API gebruiken om maximaal vijf geklikte markeringsvariabelen, elk met een overeenkomstige het landen pagina URL te registreren.
+Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om elke URL (die als `clickTag` wordt bekend) van verwijzingen te voorzien. Deze API informeert de [!DNL Creative] advertentieserver over waar u klik kunt toevoegen. U kunt deze API gebruiken om maximaal vijf geklikte markeringsvariabelen, elk met een overeenkomstige het landen pagina URL te registreren.
 
 >[!NOTE]
 >
->De statische URL&#39;s die u in de creatieve HTML5 opneemt, worden alleen gebruikt voor lokale testdoeleinden en worden overschreven. Wanneer u een creatieve HTML5 uploadt, zult u de standaardlandingspagina voor elke `clickTag` variabele bepalen. Wanneer u een geüploade HTML5 creatief toewijst aan een advertentie-ervaring, kunt u optioneel de standaardopeningspagina voor elke `clickTag` -variabele overschrijven en [!DNL Creative] voegt klik het volgen aan URLs toe wanneer u de ervaring opslaat.
+>De statische URL&#39;s die u in de creatieve HTML5 opneemt, worden alleen gebruikt voor lokale testdoeleinden en worden overschreven. Wanneer u een creatief HTML5 uploadt, bepaalt u de standaardlandingspagina voor elke `clickTag` variabele. Wanneer u een geüploade HTML5 creatief toewijst aan een advertentie-ervaring, kunt u optioneel de standaard openingspagina voor elke `clickTag` variabele overschrijven en [!DNL Creative] voegt klik het volgen aan URLs toe wanneer u sparen de ervaring.
 
 ###### Parameters
 
@@ -139,7 +140,7 @@ Registreert klikthrough URLs en de bijbehorende parameter die wordt gebruikt om 
 
 ###### Gebruik
 
-Roep `amo.registerClick()` aan in de `<head>` -sectie van het hoofd-HTML-bestand.
+Roep `amo.registerClick()` aan in de sectie `<head>` van het HTML-hoofdbestand.
 
 ###### Voorbeeld
 
@@ -157,7 +158,7 @@ De gebeurtenis exit wordt geactiveerd, waardoor de gebruiker wordt omgeleid naar
 
 ###### Gebruik
 
-Roep `amo.onAdClick()` aan in de `<body>` -sectie van het hoofd-HTML-bestand.
+Roep `amo.onAdClick()` aan in de sectie `<body>` van het HTML-hoofdbestand.
 
 ###### Voorbeelden
 
@@ -191,7 +192,7 @@ Een JSON-object waarmee de namen en waarden van variabelen voor het creatieve ke
 
 In de lokale testmodus zijn de sleutel-waardeparen de paren die zijn geregistreerd door de `amo.registerAttribute` API. Voor productie, moeten de creatieve attributenveranderlijke namen en de waarden op het tijdstip van creatieve schepping en handel worden gevormd.
 
-### Vereisten voor Creatieve inhoud
+### Creative-inhoudsvereisten
 
 De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, hebben de volgende creatieve vereisten:
 
@@ -201,7 +202,7 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 
 * De openingspagina moet in een nieuw venster worden geopend.
 
-* Het domein van de landingspagina en zijn subdomeinen kunnen niet meer dan 35 karakters zijn. **Nota:** de definitieve het landen pagina URLs wordt bepaald in het DSP en niet in de activa van HTML5 zelf.
+* Het domein van de landingspagina en zijn subdomeinen kunnen niet meer dan 35 karakters zijn. **Nota:** de definitieve het landen pagina URLs wordt bepaald in DSP en niet in de activa HTML5 zelf.
 
 * Alle disclaimers op het aanbod van een advertentie moeten in de advertentie zelf worden opgenomen, en niet alleen op de landingspagina.
 
@@ -244,7 +245,7 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 ]
 ```
 
-## Voorbeeld HTML5 creatief
+## Voorbeeld HTML5 creative
 
 ### Voorbeeld van mapstructuur (na decompressie)
 
@@ -252,9 +253,9 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 
 * /assets (map)
 
-   * bg.jpg (JPG, PNG-, SVG- of GIF-afbeelding)
+   * bg.jpg (afbeelding JPG, PNG, SVG of GIF)
 
-### Voorbeeld van een HTML-bestand (index.html) voor eenvoudige HTML-creatieven
+### Voorbeeld van een HTML-bestand (index.html) voor eenvoudige HTML5-creatieven
 
 ```
 <!DOCTYPE html>
@@ -273,7 +274,7 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 </html>
 ```
 
-### Voorbeeld van HTML-bestand (index.html) voor statische HTML-creatieven
+### Voorbeeld HTML-bestand (index.html) voor statische HTML5-creatieven
 
 ```
 <!DOCTYPE html>

@@ -3,7 +3,7 @@ title: Instellingen voor niet-doelgerichte ervaringen
 description: Zie beschrijvingen van alle montages voor en ervaringen zonder beslissingsboom het richten.
 feature: Creative Experiences
 exl-id: aeeca035-8ae2-4173-827a-b8690d228549
-source-git-commit: f4d83da98f89313624e038fd1d8f0fedcf802cc4
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
 source-wordcount: '1135'
 ht-degree: 0%
@@ -26,7 +26,7 @@ ht-degree: 0%
 
 **\ [gespecificeerde Standaard creatieve creatieven \]:** de standaardbeeldcreatieve producten aan gebruik wanneer browser geen creatieve producten kan tonen die aan de ervaring worden toegewezen, zoals wanneer browser niet JavaScript-Toegelaten is of de advertentieserver kan niet de advertentie wegens vertragingen personaliseren. Voeg één creatieve afbeelding toe per advertentiegrootte waarvoor de ervaring geldt. Uw keuzes bepalen de creatieve formaten die voor de ervaring kunnen worden gebruikt. <!-- In the legacy product, you selected the ad sizes for the experience, and then selected default images for each of those ad sizes. -->
 
-Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de standaardcreatieven negeren met creatieven van dezelfde grootte binnen [!UICONTROL Tag Manager] . <!-- verify -->
+Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de standaardcreatieven negeren met creatieven van dezelfde grootte binnen [!UICONTROL Tag Manager] .
 
 * Als u een creatieve standaardafbeelding met verschillende afmetingen wilt toevoegen, klikt u op **[!UICONTROL + Add Sizes]** en schakelt u het selectievakje naast de creatieve elementen in die u vanuit het rechterdeelvenster wilt toevoegen. Klik vervolgens op **[!UICONTROL Add Creatives]** .
 

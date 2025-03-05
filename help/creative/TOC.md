@@ -4,9 +4,9 @@ user-guide-title: Advertising Creative Guide
 user-guide-description: Meer informatie over de belangrijkste functies, taken, instellingen en andere bronnen die vereist zijn voor het gebruik van Advertising Creative.
 breadcrumb-title: Creative Guide
 hide: true
-source-git-commit: 7000d0d68ac8ad904383bf62e614ff2fd1c3415a
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '309'
+source-wordcount: '307'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ ht-degree: 0%
          + [Standaard creatieve instellingen](/help/creative/creative-libraries/creative-settings-standard.md)
          + [Creatieve HTML5-specificatie](/help/creative/creative-libraries/html5-creative-specification.md)
       + [Een voorvertoning weergeven van een creatief](/help/creative/creative-libraries/creative-preview.md)
-      + [Creatieve producten aan bundels koppelen en loskoppelen](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
+      + [Creatieve elementen aan bundels koppelen](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
       + [Creatieve elementen dupliceren](/help/creative/creative-libraries/creative-duplicate.md)
       + [Creatieve klanten downloaden](/help/creative/creative-libraries/creative-download.md)
       + [Creatieve elementen verwijderen](/help/creative/creative-libraries/creative-delete.md)

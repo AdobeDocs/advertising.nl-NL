@@ -2,9 +2,10 @@
 title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
+source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
 workflow-type: tm+mt
-source-wordcount: '1125'
+source-wordcount: '1118'
 ht-degree: 0%
 
 ---
@@ -17,7 +18,7 @@ ht-degree: 0%
 **I'll probably split this up into multiple pages since the creative-related topics are separate**
 -->
 
-Bundels zijn groepen creatieve elementen die u als eenheid aan een ervaring kunt toevoegen. Nadat u een bundelcontainer hebt gemaakt, kunt u creatieve elementen aan de bundel koppelen. Standaardbundels kunnen alleen standaardadvertenties bevatten en dynamische bundels kunnen alleen dynamische advertenties bevatten. U kunt de landingspagina&#39;s, de beelden-volgen markeringen, en klik-het volgen markeringen voor alle creatieven binnen een bundel met voeten treden die aan een ervaring van binnen de ervaring beslissingsboom wordt toegewezen zonder de basiscreatieven te beïnvloeden.
+Bundels zijn groepen creatieve elementen die u als eenheid aan een ervaring kunt toevoegen. Nadat u een bundelcontainer hebt gemaakt, kunt u creatieve elementen aan de bundel koppelen. Standaardbundels kunnen alleen standaardadvertenties bevatten en dynamische bundels kunnen alleen dynamische advertenties bevatten. U kunt de landingspagina&#39;s, de beeld-volgtags, en klik-volgmarkeringen voor alle creatieve binnen een bundel met voeten treden die aan een ervaring van binnen de ervaring beslissingsboom wordt toegewezen, zonder de basiscreatieven te beïnvloeden.
 
 [!DNL Creative] roteert door de creatieve elementen in de bundel zoals gespecificeerd voor elke ervaring waaraan de bundel wordt toegewezen. U kunt desgewenst toestaan dat [!DNL Creative] de advertentie-elementen optimaliseert voor elke ervaring op basis van prestaties met behulp van algoritme en rotatie, die door Adobe Sensei wordt aangedreven.
 
@@ -105,9 +106,11 @@ Wijzigingen in een bundelnaam worden doorgegeven in alle bijbehorende ervaringen
 
 U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creative-libraries-about.md) aan een standaardbundel vastmaken en bestaande dynamische creatieve elementen <!-- [existing dynamic creatives](creative-dynamic-manage.md) --> aan een dynamische bundel vastmaken. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
 
+<!--
 >[!NOTE]
 >
->U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties ](creative-attach-detach-bundles.md) ook vastmaken.[
+>You can also [attach creatives to bundles from the Standard Ads and Dynamic Ads views](creative-attach-detach-bundles.md).
+-->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -218,7 +221,7 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
 ## Bundels verwijderen
 
-U kunt bundels schrappen die niet aan een levende ervaring worden toegewezen.<!-- Add an x-ref?  --> Als een bundel aan een levende ervaring wordt toegewezen, dan verwijder de bundel uit de beslissingsboom voor de ervaring <!-- add x-ref --> alvorens u verdergaat.
+U kunt bundels schrappen die niet aan a [ levende ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Als een bundel aan een levende ervaring wordt toegewezen, dan [ verwijder de bundel uit de beslissingsboom ](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -250,5 +253,6 @@ U kunt bundels schrappen die niet aan een levende ervaring worden toegewezen.<!-
 >[!MORELIKETHIS]
 >
 >* [ wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign ](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
 >* [ beheer creatieve bibliotheken ](/help/creative/creative-libraries/creative-library-manage.md)
 >* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
