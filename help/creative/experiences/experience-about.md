@@ -3,7 +3,7 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: e2b88275f2ebbc69f769cf905a0d20859bf0af3b
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -51,7 +51,7 @@ Zodra u een levende ervaring (met alle vereiste ad elementen) creeerde, kunt u [
 
 ## Prestatiegegevens voor uw ervaringen
 
-Wanneer u de optie [!UICONTROL Metrics] inschakelt in de [!UICONTROL Experiences] -weergave, geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
+Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] , geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
 ![ optie van Metriek de optie van Metriek ](/help/creative/assets/metrics-option.png " Metriek ")
 
@@ -59,11 +59,9 @@ Wanneer u de optie [!UICONTROL Metrics] inschakelt in de [!UICONTROL Experiences
 
 <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. -->
 
-In de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] kunt u gedetailleerde prestatiegegevens weergeven voor elke ervaring. Maak een [!UICONTROL Custom Creative Report] om de prestaties in al uw ervaringen te controleren.
+U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
 
-<!--
-You can [view detailed performance data for any experience](experience-performance-details.md) from the Creative > Experiences view. To monitor performance across your experiences, [create custom reports](/help/dsp/reports/report-create.md).
--->
+Maak een [!UICONTROL Custom Creative Report](/help/creative/report-custom-creative.md) om de prestaties in al uw ervaringen te controleren.
 
 ## Ervaar statussen {#experience-statuses}
 

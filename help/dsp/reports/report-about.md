@@ -3,7 +3,7 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: 5ddfcba2e1ceac6a98dc0b865a09f535e6621fa0
+source-git-commit: 49e254ca954389b1ea13ac571de55f404ed7ba7c
 workflow-type: tm+mt
 source-wordcount: '1498'
 ht-degree: 0%
@@ -41,7 +41,11 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
      >
      >Dit rapport bevat gegevens over het factureringssegment. Als een gebruiker of een apparaat een indruk krijgt die tot veelvoudige segmenten behoort, slechts wordt één factureerbare segment met de indruk gecrediteerd.
 
-   * **[!UICONTROL Conversion]:** gebruik dit rapport om te begrijpen hoe uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met het bijhouden van Adoben Advertising conversie. Dit rapport bevat multi-touchattributie.
+   * **[!UICONTROL Conversion]:** gebruik dit rapport om te begrijpen hoe uw campagnes worden uitgevoerd op basis van conversiemetriek die is vastgelegd met behulp van het bijhouden van Adobe Advertising-conversies. Dit rapport bevat multi-touchattributie.
+
+  <!--
+    * **[!UICONTROL Custom Creative Report Beta]:** (Beta feature) Use this report to monitor performance across your Advertising Creative ad experiences.
+    -->
 
    * **[!UICONTROL Device]:** gebruik deze vooraf ingevulde sjabloon om belangrijke metriek per apparaat-gerelateerde afmetingen te zien.
 
@@ -83,7 +87,7 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
 
       * [!UICONTROL Campaign ID] of [!UICONTROL Campaign Name]: toont welke campagnes het conversieproces hebben ondersteund.
 
-      * [!UICONTROL Ad ID] of [!UICONTROL Ad Name] toont welke DSP advertenties hebben geresulteerd in conversies.
+      * [!UICONTROL Ad ID] of [!UICONTROL Ad Name] geeft aan welke DSP-advertenties hebben geresulteerd in conversies.
 
       * [!UICONTROL Ad ID & Paid Keyword (SSC)] of [!UICONTROL Ad Name & Paid Keyword (SSC)] toont welke trefwoorden voor Zoeken, Sociaal en Commerce hebben geresulteerd in conversies.
 
@@ -101,7 +105,7 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
-Om het even welke organisatie met veelvoudige DSP rekeningen kan naar keuze dwars-rekeningsgegevens in douanerapporten toelaten, volgens de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met het accountteam van de Adobe om deze functie in te schakelen en te configureren.
+Elke organisatie met meerdere DSP-accounts kan desgewenst gegevens voor meerdere accounts mogelijk maken in aangepaste rapporten, afhankelijk van de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met uw Adobe-accountteam om deze functie in te schakelen en te configureren.
 
 Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
@@ -133,6 +137,6 @@ U kunt nieuwe douanerapporten tot stand brengen, bestaande rapporten uitgeven of
 >* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
 >* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
 >* [ Veelgestelde vragen over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)
->* [ Types van Rapporten van Prestaties in de Meningen van Campaign Management ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
 >* [ Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
