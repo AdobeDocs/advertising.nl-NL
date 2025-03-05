@@ -2,7 +2,8 @@
 title: Een voorvertoning weergeven van een creatief
 description: Leer hoe u een voorvertoning van een creatief object opent.
 feature: Creative Standard Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 0%
@@ -14,7 +15,7 @@ ht-degree: 0%
 *Standaard slechts creatieve creatieven*
 *Gesloten bèta*
 
-U kunt met hyperlinks een voorvertoning van een project weergeven zoals de kijkers het zien.
+U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlinks, terwijl de gebruiker deze ziet.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 

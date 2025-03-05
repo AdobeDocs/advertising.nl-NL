@@ -6,9 +6,9 @@ product: advertising cloud
 solution: Advertising
 index: false
 exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
-source-git-commit: d9dee4daf396c2aa84ba6b0635e8a819fe9932be
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '601'
 ht-degree: 0%
 
 ---
@@ -17,12 +17,12 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-<!-- The following features are new or recently changed. -->
+<!-- The following features are new or recently changed.  -->
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
 | 10 februari 2025 | [!UICONTROL Creative Libraries] | Eerder had je één creatieve bibliotheek. U kunt nu meerdere bibliotheken maken voor elke adverteerder. | Zie &quot;[ over uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md).&quot; |
-| | [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] | De weergave [!UICONTROL Creatives] bevat tabbladen voor [!UICONTROL Standard Ads] en [!UICONTROL Dynamic Ads] .<ul><li>Met het tabblad **[!UICONTROL Standard Ads]** kunt u afbeeldingen, HTML5, flexibele HTML5 en creatieve producten van derden uploaden en beheren.</li><li>Op het tabblad **[!UICONTROL Dynamic Ads]** kunt u dynamisch gegenereerde advertenties beheren die zijn gemaakt op basis van geüploade feed-bestanden met gedefinieerde advertentiesjablonen. Eerder werden dynamische advertenties gegenereerd binnen [!DNL Adobe Advertising Dynamic Creative Optimization (DCO)] .<br><br> Momenteel kunt u dynamische advertenties voorvertonen, dupliceren en verwijderen. U kunt ook dynamische advertenties koppelen aan creatieve bundels voor doelgerichte en doelgerichte ervaringen of aan labels voor niet-doelgerichte ervaringen. Alleen beheerders kunnen dynamisch gegenereerde advertenties maken.</li></ul> | Zie &quot;[ over uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md).&quot; |
+| | [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] | De weergave [!UICONTROL Creatives] bevat tabbladen voor [!UICONTROL Standard Ads] en [!UICONTROL Dynamic Ads] .<ul><li>Met het tabblad **[!UICONTROL Standard Ads]** kunt u afbeeldingen, HTML5, flexibele HTML5 en creatieve producten van derden uploaden en beheren.</li><li>Op het tabblad **[!UICONTROL Dynamic Ads]** kunt u dynamisch gegenereerde advertenties beheren die zijn gemaakt op basis van geüploade feed-bestanden met gedefinieerde advertentiesjablonen. Eerder werden dynamische advertenties gegenereerd binnen [!DNL Adobe Advertising Dynamic Creative Optimization (DCO)] .<br><br> Momenteel kunt u dynamische advertenties voorvertonen, dupliceren en verwijderen. U kunt ook dynamische advertenties koppelen aan creatieve bundels voor doelgerichte en doelgerichte ervaringen of aan labels voor niet-doelgerichte ervaringen. Alleen beheerders kunnen dynamisch advertenties genereren.</li></ul> | Zie &quot;[ over uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md).&quot; |
 | | [!UICONTROL Creative Libraries] > [!UICONTROL Bundles] | Groepeer veelvoudige creatieven in a *bundel* om hen aan een ervaring gemakkelijk toe te voegen. U kunt standaardadvertentiesbundels maken en er standaardcreatieve elementen aan toevoegen. Op dezelfde manier kunt u dynamische ad-bundles maken en er dynamische creatieve elementen aan koppelen. | Zie &quot;[ de Bundels van Creative beheren ](/help/creative/creative-libraries/bundle-manage.md).&quot; |
 | | [!UICONTROL Experiences] | In nieuwe instellingen voor advertentiervaring geeft u nu op of de ervaring doelgericht gebruik maakt van beslissingsboomstructuur en kunt u de instelling niet wijzigen als u de ervaring opslaat. De workflows voor ervaringen met doelgerichte besluitvorming en ervaringen zonder doelgerichte besluitvorming zijn verschillend. | Zie &quot;[ een ervaring met het richten ](/help/creative/experiences/experience-create-targeting.md)&quot;en &quot;[ creëren een ervaring zonder ](/help/creative/experiences/experience-create-no-targeting.md) te richten.&quot; |
 | | [!UICONTROL Experiences] | U kunt nu alleen doelgerichte ervaringen maken met creatieve bundels uit één creatieve bibliotheek, niet met afzonderlijke creatieve artikelen. U kunt afzonderlijke creatieve elementen uit één bibliotheek nog steeds koppelen aan niet-doelgerichte ervaringen zonder doelgericht gebruik van de beslissingsstructuur.<br><br> Wegens de structurele veranderingen, zullen uw erfeniservaringen later dit jaar worden verouderd. | Zelfbediening voor klanten: maak uw ervaringen opnieuw op in de nieuwe gebruikersinterface. Zie &quot;[ een ervaring met het richten ](/help/creative/experiences/experience-create-targeting.md) tot stand brengen.&quot;<br><br> Beheerde de dienstklanten: Uw Team van de Rekening van Adobe zal uw ervaringen in het nieuwe gebruikersinterface herbouwen. |

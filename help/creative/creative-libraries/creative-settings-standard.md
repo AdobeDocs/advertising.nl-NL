@@ -3,9 +3,9 @@ title: Creative-instellingen
 description: Meer informatie over xxxx.
 feature: Creative Standard Creatives
 exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
-source-wordcount: '1810'
+source-wordcount: '1806'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Wanneer u meerdere creatieve objecten tegelijk bewerkt:
 
 ### Tabblad Details
 
-**Naam van Creative:** De naam van creatief. De sjabloonnaam of de geüploade bestandsnaam wordt standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. De sjabloonnaam of de geüploade bestandsnaam wordt standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die u gemakkelijk kunt vinden wanneer u creatief in een ervaring omvat.
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Wanneer u meerdere creatieve items uploadt of bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
@@ -94,7 +94,7 @@ De bestaande advertentiesjabloon vervangen:
 
 Voor nieuwe creatieven, zijn de volgende montages niet op een genoemd lusje.
 
-**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere creatieve projecten kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** omvat de advertentiegrootte in creatieve naam, en gebruik een naam die u gemakkelijk kunt vinden wanneer u creatief in een ervaring omvat.
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Wanneer u meerdere creatieve items uploadt of bewerkt, wordt dezelfde waarde toegepast op elke geselecteerde creatieve waarde.
 
@@ -150,7 +150,7 @@ De bestaande advertentiesjabloon vervangen:
 
 ## Creatieve instellingen van afbeeldingen {#creative-settings-image}
 
-**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere afbeeldingen kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. Voor nieuwe creatieve projecten wordt de bestandsnaam standaard gebruikt, maar u kunt de naam wijzigen. Voor meerdere afbeeldingen kunt u de afzonderlijke creatieve namen bewerken. **Uiteinde:** gebruik een naam die u gemakkelijk kunt vinden wanneer u creatief in een ervaring omvat.
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen. Als u de creatieve functies in een ervaring opneemt, kunt u desgewenst de taalvoorkeuren aanpassen.
 
@@ -180,7 +180,7 @@ Wanneer u deze creatieve code opneemt in een ervaring die u als een advertentie 
 
 **[!UICONTROL Advertiser]:** (Alleen-lezen) De adverteerder waarvoor de bibliotheek beschikbaar is.
 
-**Naam van Creative:** De naam van creatief. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u creatief in een ervaring omvat.
+**Naam van Creative:** De naam van creatief. **Uiteinde:** gebruik een naam die u gemakkelijk kunt vinden wanneer u creatief in een ervaring omvat.
 
 **Creatieve Grootte:** (Read-only voor bestaande advertenties) de afmetingen van creatief. Voor nieuwe creatieve producten maakt u een keuze uit een lijst met standaardformaten.
 u

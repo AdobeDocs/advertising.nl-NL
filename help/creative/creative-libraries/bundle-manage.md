@@ -3,7 +3,7 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: 97e0f562153983202a2f3641e17dd682ff3d00ea
 workflow-type: tm+mt
 source-wordcount: '1118'
 ht-degree: 0%
@@ -160,7 +160,7 @@ Als u een creatief element loskoppelt uit de bundel, wordt het creatieve element
 
 ## Een creatieve voorvertoning weergeven in een bundel
 
-U kunt met hyperlinks een voorvertoning van een project weergeven zoals de kijkers het zien.
+U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlinks, terwijl de gebruiker deze ziet.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 

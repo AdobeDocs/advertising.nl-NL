@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
-source-wordcount: '806'
+source-wordcount: '796'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-<!-- Revisit Description metadata -->
+<!-- Revisit Description metadata  -->
 
 <!-- MORE -->
 
@@ -22,13 +22,23 @@ ht-degree: 0%
 
 * **Ervaringen met beslissingsboom richtend:** [!DNL Creative] staat u toe om gepersonaliseerde ad ervaringen door de klantenreis te vormen gebruikend een model van de beslissingsboom. U kunt alle advertentie-elementen — afbeeldingen, koppen, aanbiedingen en bestemmingspagina&#39;s — aanpassen op basis van het doelpubliek.
 
-  U kunt bijvoorbeeld dezelfde creatieve bundel opgeven voor mensen in Chicago en New York City die zich in een specifiek Adobe Analytics-publiekssegment bevinden, maar mensen in Chicago die zich in hetzelfde segment bevinden naar andere landingspagina&#39;s sturen dan New Yorkers. U kon een verschillende bundel voor mensen in het segment ook specificeren die overal behalve Chicago en de Stad van New York wonen, en een derde bundel voor andere mensen die niet in het segment zijn.
+  U kunt bijvoorbeeld dezelfde creatieve bundel opgeven voor mensen in Chicago en New York City die zich in een specifiek Adobe Analytics-publiekssegment bevinden, maar mensen in Chicago naar andere bestemmingspagina&#39;s sturen dan New Yorkers. U kon een verschillende bundel voor mensen in het segment ook specificeren die overal behalve Chicago en de Stad van New York wonen, en een derde bundel voor andere mensen die niet in het segment zijn.
 
-  Tot de doelopties behoren onder andere viewers in uw doelsegmenten van de eerste partij, zoals Adobe Audience Manager, Adobe Analytics en Advertising Cloud DSP; viewers op specifieke geografische locaties, waaronder landen, staten, DMA&#39;s in de Verenigde Staten, steden en ZIP-codes; viewers waarvoor specifieke sleutelwaardeparen (gegevensdoorvoerdoelen) zijn doorgegeven van de DSP, uitgever of partner; viewers met [!DNL Creative] doelgericht op pixels en opgegeven kenmerkwaarden; specifieke apparaattypen, besturingssystemen en browsers.
+  De volgende doelopties zijn beschikbaar:
 
-  U kunt creatieve bundels aan elke ervaring toewijzen, naar keuze het aanpassen optimalisering en het plannen voor de creatieve bundels en het veranderen van de standaard het landen pagina&#39;s en het volgen URLs <!-- and any flexible attributes --> voor individuele creatieven in elke bundel.
+   * Uw eersteklas publiekssegmenten van Adobe Audience Manager, Adobe Analytics en Advertising Cloud DSP
 
-* **Ervaringen zonder beslissingsboom richtend:** [!DNL Creative] optimaliseert de ad elementen voor de advertentie ervaring zonder het publiek te verkleinen.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> U geeft de begin- en einddatum en een aantal standaardinstellingen voor elke ervaring op, maar een groot deel van de workflow bevindt zich niet rechtstreeks in de ervaring. In plaats van creatieve elementen rechtstreeks aan de ervaring toe te voegen, maakt u voor elke advertentiegrootte een ad-tag voor de ervaring en voegt u er creatieve creatieve oplossingen aan toe, configureert u de optimalisatie en planning en past u de bestemmingspagina&#39;s en URL&#39;s van de kant van [!UICONTROL Tag Manager] aan.
+   * Specifieke geografische locaties, waaronder landen, staten, DMA&#39;s in de Verenigde Staten, steden en postcodes
+
+   * Viewers waarvoor specifieke sleutel-waardeparen (de doelstellingen van de gegevenspas worden overgegaan van DSP, de uitgever of de partner
+
+   * [!DNL Creative] pixels en opgegeven kenmerkwaarden opnieuw toewijzen
+
+   * Specifieke apparaattypen, besturingssystemen en browsers
+
+  U kunt creatieve bundels aan elke ervaring toewijzen. Voor elke ervaring, kunt u optimalisering en het plannen voor de creatieve bundels aanpassen en de standaard het landen pagina&#39;s en het volgen URLs <!-- and any flexible attributes --> voor individuele creatieven in elke bundel veranderen.
+
+* **Ervaringen zonder beslissingsboom richtend:** [!DNL Creative] optimaliseert de ad elementen voor de advertentie ervaring zonder het publiek te verkleinen.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> Voor elke ervaring geeft u de begin- en einddatum en enkele standaardinstellingen op, maar een groot deel van de workflow bevindt zich niet rechtstreeks in de ervaring. In plaats van creatieve elementen rechtstreeks aan de ervaring toe te voegen, gebruikt u [!UICONTROL Tag Manager] om voor elke advertentiegrootte een ad-tag voor de ervaring te maken en er vervolgens creatieve creatieve optimalisatie en planning aan toe te voegen, en de bestemmingspagina&#39;s en URL&#39;s bij te houden aan te passen.
 
 ## Adoptimalisatie
 
@@ -37,7 +47,7 @@ ht-degree: 0%
 
 ## Ervaringen implementeren en beheren
 
-Zodra u een levende ervaring (met alle vereiste ad elementen) hebt gecreeerd, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren, die u naar keuze als advertentie aan een campagne in Adobe Advertising DSP kunt uploaden of als advertentie in derde DSP uitvoeren. [!DNL Creative] biedt advertenties voor de ervaring op basis van de opties voor het kiezen en draaien van advertenties en de beschikbare voorraad.
+Zodra u een levende ervaring (met alle vereiste ad elementen) creeerde, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden. [!DNL Creative] biedt advertenties voor de ervaring op basis van de opties voor het kiezen en draaien van advertenties en de beschikbare voorraad.
 
 ## Prestatiegegevens voor uw ervaringen
 
@@ -65,7 +75,7 @@ Het statuut van een ervaring wordt automatisch geplaatst, behalve *geschrapt,* d
 
 *Ontwerp:* Alle takken van de ervaring worden niet toegewezen creatieve personen, zodat is de ervaring onvolledig, en u kunt geen ervaringsmarkering produceren.
 
-*Verwerking:* een eerder-levende ervaring is uitgegeven maar is nu onvolledig. U kunt er geen ervaringstag voor maken. **Nota:** als u reeds een ervaringsmarkering voor de ervaring uitvoerde, dan zal de eerder-levende versie nog worden gediend. Als u de ervaring later voltooit — en deze live maakt — dan wordt de nieuwe versie weergegeven met behulp van de bestaande implementatie van de tag.
+*Verwerking:* een eerder-levende ervaring werd uitgegeven maar is nu onvolledig. U kunt er geen ervaringstag voor maken. **Nota:** als u reeds een ervaringsmarkering voor de ervaring uitvoerde, dan kan de eerder-levende versie nog worden gediend. Als u de ervaring later voltooit — en deze live maakt — dan kan de nieuwe versie worden gebruikt met de bestaande implementatie van de tag.
 
 *schrapte:* de ervaring werd geschrapt van [!DNL Creative] en is niet meer zichtbaar in de [!UICONTROL Experiences] meningen.
 

@@ -3,7 +3,7 @@ title: Opnieuw doelende pixels beheren
 description: Leer hoe u het opnieuw toewijzen van pixels maakt en implementeert voor gebruik als doel voor advertenties.
 feature: Creative Pixels
 exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
 source-wordcount: '926'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Voorbeeldpixel:
 
 >[!NOTE]
 >
-> * [!DNL Creative] ondersteunt momenteel alleen universele id&#39;s voor Advertising DSP. Een toekomstige versie zal universele IDs voor derde DSPs steunen.<!-- Clarify this and reword as needed -->
+> * [!DNL Creative] ondersteunt momenteel alleen universele id&#39;s voor Advertising DSP. Een toekomstige versie zal universele IDs voor derde DSPs steunen.<!-- Clarify this and reword as needed  -->
 >* U kunt uw eerste-partijpubliek van Adobe Audience Manager en Adobe Analytics als [ creatieve doelstellingen voor uw ervaringen ](/help/creative/experiences/experience-settings-targeting.md) ook gebruiken.
 >* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [ markeringen van het douanesegment ](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken.
 >* Bezoekers van websites die ervoor hebben gekozen om geen advertenties meer te volgen voor advertenties, ontvangen geen advertenties met persoonlijke creatieve inhoud op basis van het doelsegment of het doelprofiel.

@@ -3,7 +3,7 @@ title: Beschikbare macro's voor het bijhouden van URL's
 description: Verwijs naar de macro's die u aan uw het landen pagina URLs, het volgen URLs, en derdecreatieven kunt toevoegen.
 feature: Creative Experiences, Creative Experiences
 exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
-source-git-commit: fe3e991f1fba2944e7a3f8e4930c48c7dbd28770
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-<!-- More feature metadata??? -->
+<!-- More feature metadata???  -->
 
 U kunt elk van de volgende macro&#39;s opnemen in uw ontwerpen van derden, in URL&#39;s van derden voor uw ervaringen en in URL&#39;s van landingspagina&#39;s voor eigen gebruik.
 

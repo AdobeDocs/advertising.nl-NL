@@ -2,7 +2,8 @@
 title: Ondersteunde creatieve formaten
 description: Verwijs naar de ondersteunde creatieve grootten voor advertenties.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: c8e90ba6-bff7-4161-86b8-c4b5b04fb4bf
+source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Ondersteunde creatieve formaten
 
-<!-- verify the description for 320x160 (I'm guessing mobile 2:1 rectangle?) and 930x180 (GGL says top banner)?) -->
+<!-- verify the description for 320x160 (I'm guessing mobile 2:1 rectangle?) and 930x180 (GGL says top banner)?)  -->
 
 De volgende creatieve grootten zijn van toepassing op alle creatieve typen.
 

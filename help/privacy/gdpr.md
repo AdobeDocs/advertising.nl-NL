@@ -4,7 +4,7 @@ description: Meer informatie over de ondersteunde typen gegevensaanvragen, de ve
 feature: GDPR
 role: User, Developer
 exl-id: abf0dc51-e23b-4c9a-95aa-14e0844939bb
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: 8e9dac77b4f687fb175adaf27a4e726fa80ca7b4
 workflow-type: tm+mt
 source-wordcount: '997'
 ht-degree: 0%
@@ -187,3 +187,5 @@ Hieronder ziet u een voorbeeld van een toegangsreactie voor Adobe Advertising.
     }
 }
 ```
+
+<!-- Changed example from BlueKai (no longer supported) to Exelate -->
