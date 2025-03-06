@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: e2b88275f2ebbc69f769cf905a0d20859bf0af3b
+source-git-commit: 0a6cd8e32ae87c7fda9ed0e1b50f9b54cd337192
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '799'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Cr
 
 U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
 
-Maak een [!UICONTROL Custom Creative Report](/help/creative/report-custom-creative.md) om de prestaties in al uw ervaringen te controleren.
+Om prestaties over uw ervaringen te controleren, creeer het Rapport van Creative van de a [ Douane ](/help/creative/report-custom-creative.md).
 
 ## Ervaar statussen {#experience-statuses}
 

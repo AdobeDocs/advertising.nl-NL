@@ -2,9 +2,10 @@
 title: Creatieve bundels toewijzen en ontkoppelen aan een laatste knooppunt in een ervaring
 description: Leer hoe u creatieve projecten kunt toewijzen aan elk doel in uw advertentie.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 5449a760-6ade-41c0-9cab-bd92026b150b
+source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '305'
 ht-degree: 0%
 
 ---
@@ -20,9 +21,7 @@ Voor een standaardadvertentie kunt u alleen standaardcreatieve bundels toewijzen
 
 >[!NOTE]
 >
->Als u niet minstens één creatieve bundel aan elke definitieve knoop toewijst, kunt u verkiezen om de standaardcreatieven voor elke niet toegewezen knoop te gebruiken wanneer u [ sparen de ervaring ](experience-create-targeting.md). Om te worden gepubliceerd, moet de ervaring of bundels worden toegewezen of de standaardcreatieven voor alle advertenties gebruiken die van het worden gecreeerd.
-
-<!-- The optimization and ad scheduling features and tracking URLs customization are in a different place now -- include here or in separate procedures? -->
+>Als u niet minstens één creatieve bundel aan elke definitieve knoop toewijst, kunt u verkiezen om de standaardcreatieven voor elke niet toegewezen knoop te gebruiken wanneer u [ sparen de ervaring ](experience-create-targeting.md). Om een ervaring te publiceren, moet u of bundels toewijzen of de standaardcreatieven voor elke definitieve knoop gebruiken.
 
 <!-- 1. [ways to get to the decision tree] -->
 

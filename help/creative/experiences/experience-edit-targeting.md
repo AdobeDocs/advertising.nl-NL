@@ -2,9 +2,10 @@
 title: Een ervaring bewerken met doelstructuurcode
 description: Leer hoe u de instellingen voor een doelversie van een advertentie kunt bewerken met een beslissingstructuur.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
+source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -55,11 +56,11 @@ ht-degree: 0%
 
          * [ de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau ](experience-target-node-copy.md).
 
-      * Creatieve bundels:
+      * Creative-pakketten:
 
          * [ wijs creatieve middelen aan een definitieve knoop ](experience-assign-creative-bundles.md) toe en unassign.
 
-           Als u niet minstens één bundel aan elke definitieve knoop toewijst, kunt u verkiezen om de standaardcreatieven voor elke unassigned knoop te gebruiken wanneer u sparen de ervaring. Om te worden gepubliceerd, moet de ervaring of bundels worden toegewezen of de standaardcreatieven voor alle advertenties gebruiken die van het worden gecreeerd.
+           Als u niet minstens één bundel aan elke definitieve knoop toewijst, kunt u verkiezen om de standaardcreatieven voor elke unassigned knoop te gebruiken wanneer u sparen de ervaring. Om een ervaring te publiceren, moet u of bundels toewijzen of de standaardcreatieven voor elke definitieve knoop gebruiken.
 
          * [ pas het volgen URLs voor creatieven in de toegewezen bundels ](experience-tracking-urls-targeting.md) aan.
 
