@@ -3,9 +3,9 @@ title: Instellingen voor niet-doelgerichte ervaringen
 description: Zie beschrijvingen van alle montages voor en ervaringen zonder beslissingsboom het richten.
 feature: Creative Experiences
 exl-id: aeeca035-8ae2-4173-827a-b8690d228549
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '1135'
+source-wordcount: '1123'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **[!UICONTROL Advertiser]:** (Alleen-lezen voor bestaande ervaringen) De adverteerder die een bod uitbrengt op de creatieve producten die in de ervaring zijn opgenomen. Wanneer u de ervaring hebt opgeslagen, kunt u de adverteerder niet meer wijzigen.
 
-**[!UICONTROL Experience Name]:** Een unieke naam voor de ervaring. **Uiteinde:** gebruik een naam die gemakkelijk zal zijn te vinden wanneer u de ervaring als advertentie in Advertising DSP of andere DSP gebruikt.
+**[!UICONTROL Experience Name]:** Een unieke naam voor de ervaring. **Uiteinde:** gebruik een naam die u gemakkelijk kunt vinden wanneer u de ervaring als advertentie in Advertising DSP of andere DSP gebruikt.
 
 **[!UICONTROL Creative Library]:** (Alleen-lezen voor bestaande ervaringen) Eén creatieve bibliotheek die u voor de ervaring kunt gebruiken. Nadat u de ervaring hebt opgeslagen, kunt u de bibliotheek niet meer wijzigen.
 
@@ -38,7 +38,7 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 ## [!UICONTROL Targeting] -sectie
 
-**[!UICONTROL Targeting]:** (Read-only voor bestaande ervaringen) niet van toepassing wanneer u het richten niet wilt toelaten gebruikend een besluitvormingsboom; houd deze optie gehandicapt.
+**[!UICONTROL Targeting]:** (Read-only voor bestaande ervaringen) niet van toepassing wanneer u het richten niet toelaat gebruikend een besluitvormingsboom; houd deze optie onbruikbaar.
 
 **[!UICONTROL Dynamic ads]:** (Alleen-lezen voor bestaande ervaringen) geeft aan dat de ervaring dynamische advertenties bevat. **Nota:** een ervaring kan of alle standaardadvertenties of alle dynamische advertenties omvatten.
 
@@ -50,13 +50,13 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 **Voldoende Gegevens:** (Ervaringen met dynamische slechts advertenties; facultatief) om gebruikers te richten die op specifieke zeer belangrijke paren worden gebaseerd die DSP, de uitgever, of de partner in echt - tijd op indruk overgaat. U kunt tot vijf sleutels van de gegevenspas (parameters) specificeren.<!-- May move this to just within the decision tree. -->
 
-Wanneer u later een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. U moet de waarde voor elk sleutel-waardepaar binnen de markering ingaan alvorens u de markering als advertentie in uw DSP implementeert.
+Wanneer u een advertentietag voor een specifieke creatieve grootte creeert, wordt elke sleutel die op dit gebied wordt gespecificeerd toegevoegd als macro in de markering. Voer de waarde in voor elk sleutelwaardepaar in de tag voordat u de tag als advertentie in de DSP implementeert.
 
 **Straal:** (Ervaringen met dynamische slechts advertenties; facultatief) een straal van een Verenigde Staten ZIP code die in het voederdossier aan doel wordt gespecificeerd; selecteer een straal van 0 mijl tot 200 mijl. Het voederdossier dat wordt gebruikt om de dynamische advertenties voor de ervaring tot stand te brengen moet een [!UICONTROL ZIP] kolom <!-- or a user-named column mapped to a ZIP column --> met een waarde voor elke productrij in het dossier omvatten. Bijvoorbeeld, voor een straal van 10 mijl, kan een advertentie voor een product beschikbaar in 95110 aan gebruikers binnen 10 mijl van 95110 worden getoond (die door het IP adres van de gebruiker wordt bepaald).
 
-**pixel van RT:** (Ervaringen met dynamische slechts advertenties; facultatief) A [!UICONTROL Creative] die pixel opnieuw richt aan potentieel doel. Wanneer u het richten binnen de beslissingsboom plaatst, kunt u één niveau van de knopen van het pixeldoel van RT omvatten en het pixel specificeren om voor elke knoop evenals de vereiste waarden voor de attributen van de pixel te richten die moeten aanwezig zijn om de creatieve creatieve bundels te tonen. Als u geen pixel op dit gebied specificeert, kunt u nog binnen de beslissingsboom specificeren.&lt;!— Van R: &quot;de pixel van RT zou via de inhoudselectie in Dynamische en opstelling moeten zijn&quot; — verduidelijk. Ik zie &quot;Datapass&quot; (één woord) in de dynamische advertentie-instellingen, maar ik weet niet hoe die instelling en deze ervaringsniveau één samenwerken. —>
+**pixel van RT:** (Ervaringen met dynamische slechts advertenties; facultatief) A [!UICONTROL Creative] die pixel opnieuw richt aan potentieel doel. Wanneer u het richten binnen de beslissingsboom plaatst, kunt u één niveau van de knopen van het pixeldoel van RT omvatten. Voor elke knoop, zult u de pixel aan doel en de waarden voor de attributen van de pixel specificeren die worden vereist om de creatieven in de toegewezen creatieve bundels te tonen. Als u geen pixel op dit gebied specificeert, kunt u nog binnen de beslissingsboom specificeren.&lt;!— Van R: &quot;de pixel van RT zou via de inhoudselectie in Dynamische en opstelling moeten zijn&quot; — verduidelijk. Ik zie &quot;Datapass&quot; (één woord) in de dynamische advertentie-instellingen, maar ik weet niet hoe die instelling en deze ervaringsniveau één samenwerken. —>
 
-**[!UICONTROL Label]:** <!-- should be "Labels" --> (Optioneel) Alle [!DNL Creative] -specifieke labels die u op de ervaring wilt toepassen. U kunt ervaringen door etiket in de mening van Ervaringen <!-- sic --> filtreren.
+**[!UICONTROL Label]:**<!-- should be "Labels" --> (Optioneel) Alle [!DNL Creative] -specifieke labels die u op de ervaring wilt toepassen. U kunt ervaringen door etiket in de mening van Ervaringen <!-- sic --> filtreren.
 
 * Om bestaande etiketten te selecteren, klik ![ neer ](/help/creative/assets/chevron-down.png " "), en selecteer de controledoos naast elk etiket om toe te passen.
 
@@ -89,7 +89,7 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 
 * (Wanneer de adverteerder een leverancier van OBA-compatibiliteit voor de advertenties gebruikt) JavaScript-code die verwijst naar de advertentie-overlay waarmee gebruikers kunnen weigeren zich online te richten op gedragingen (OBA).
 
-* Eventuele JavaScript-code voor het bijhouden van de indruk die door derden wordt bijgevoegd bij de landingspagina. **Nota:** U kunt een derde ook een beeld-volgende URL op het [!UICONTROL Impression Tracking URL] gebied ingaan.
+* Eventuele JavaScript-code voor het bijhouden van de indruk die door derden wordt bijgevoegd bij de landingspagina. **Nota:** U kunt een derde ook ingaan indruk-volgende URL op het [!UICONTROL Impression Tracking URL] gebied.
 
 >[!MORELIKETHIS]
 >

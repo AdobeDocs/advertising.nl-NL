@@ -2,9 +2,10 @@
 title: Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 description: Leer hoe u een doelknooppunt tussen doelknooppunten in een advertentie kunt toevoegen.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
@@ -14,9 +15,9 @@ ht-degree: 0%
 *Ervaringen met beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-Wanneer u een doelknoop tussen bestaande niveaus opneemt, behoudt de nieuwe doelknoop alle bestaande kinddoelstellingen en creatieven, en de nieuwe knoop wordt aanvankelijk geroepen &quot;allen.&quot; U kunt optioneel het nieuwe knooppunt behouden zonder meer specifieke doelen toe te voegen.
+Wanneer u een doelknoop tussen bestaande niveaus opneemt, behoudt de nieuwe doelknoop alle bestaande kinddoelstellingen en creatieven, en de nieuwe knoop wordt aanvankelijk genoemd &quot;allen.&quot; U kunt optioneel het nieuwe knooppunt behouden zonder meer specifieke doelen toe te voegen.
 
-Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde niveau toe, specificeer het nieuwe doel, en wijs dan creatief aan enkel dat doel toe. Dit leidt tot de nieuwe doelknoop en beweegt alle kinddoelstellingen en creatieven die eerder aan &quot;allen&quot;aan een nieuwe &quot;Al anders&quot;knoop op het zelfde niveau werden toegewezen. Op deze manier worden de bestaande onderliggende vertakkingen niet beïnvloed door de toevoeging van het nieuwe doel, omdat alleen het nieuwe knooppunt op hetzelfde niveau de nieuwe doelgegevens bevat.
+Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde niveau toe, specificeer het nieuwe doel, en wijs dan creatief aan enkel dat doel toe. Als u een verwant doelknooppunt toevoegt, wordt het nieuwe doelknooppunt gemaakt en worden alle onderliggende doelen en creatieven verplaatst die eerder aan &quot;All&quot; zijn toegewezen aan een nieuw knooppunt &quot;All Else&quot; op hetzelfde niveau. Op deze manier heeft de toevoeging van het nieuwe doel geen invloed op de bestaande onderliggende vertakkingen omdat alleen het nieuwe knooppunt op hetzelfde niveau de nieuwe doelinformatie bevat.
 
 >[!NOTE]
 >
@@ -32,7 +33,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
       1. Selecteer het doeltype en klik op **[!UICONTROL Apply]** :
 
-         * Selecteer **[!UICONTROL Adobe Audience]** voor doelwitten van publiek Adobe.
+         * Selecteer **[!UICONTROL Adobe Audience]** voor Adobe-doelgroepen.
 
          * Voor geografische doelen selecteert u één geografische categorie (zoals [!UICONTROL Geo: Country]).
 
@@ -44,13 +45,13 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
    * Als knooppunten op hetzelfde niveau al bestaan, gaat u als volgt te werk:
 
-      * Ga als volgt te werk voor doelgroepen voor publiek Adobe:
+      * Ga als volgt te werk voor Adobe Audience-doelen:
 
          1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen, open het tabblad **[!UICONTROL Adobe Segments]** , geef een of meer van de [!DNL Adobe] publieksdoelen van de adverteerder op en klik op **[!UICONTROL Create]**<!-- Why not "Save" like for the other node types/use cases? -->.
 
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere soorten publiek zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-            Hiermee wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek gemaakt. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen.
+            Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen.
 
          1. Klik op **[!UICONTROL Apply]**.
 
@@ -62,7 +63,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-            Hierdoor wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) gemaakt voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
+            Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
 
          1. Klik op **[!UICONTROL Apply]**.
 
@@ -70,7 +71,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
         De sleutel voor het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md).
 
-      * Selecteer voor een heroriënterend pixeldoel één herrichtingspixel dat u wilt gebruiken en de vereiste waarden voor de kenmerken van een pixel die aanwezig moeten zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
+      * Selecteer voor een heroriënterend pixeldoel één herrichtingspixel dat u wilt gebruiken en de waarden voor de kenmerken van een pixel die nodig zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 
         De attributen voor het opnieuw richten pixel worden gevormd in [ het opnieuw richten pixelmontages ](/help/creative/pixels/retargeting-pixel-manage.md).
 
@@ -80,7 +81,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-            Hierdoor wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) gemaakt voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
+            Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
 
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
@@ -90,7 +91,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
    * (Facultatief) [ wijst creatieve personen ](experience-assign-creative-bundles.md) aan de nieuwe doelknoop en aan de &quot;Al Else&quot;knoop toe.
 
-   * (Facultatief) [ voeg een sibling doelknoop ](experience-target-node-add-sibling.md) toe die een doel van het gespecificeerde type zal omvatten.
+   * (Facultatief) [ voeg een sibling doelknoop ](experience-target-node-add-sibling.md) van het gespecificeerde doeltype toe.
 
    * (Optioneel) U kunt de ervaring als volgt opslaan:
 

@@ -2,9 +2,10 @@
 title: Voeg een doelknooppunt toe aan het uiteindelijke niveau in een ervaring
 description: Leer hoe u een doelnode toevoegt aan het uiteindelijke doelniveau van een advertentie.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '641'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 *Ervaringen met beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — of het de wortel &quot;Alle&quot;knoop, een doel-specifieke knoop, of een &quot;Alles Else&quot;knoop is — u bepaalt direct het doel zonder het moeten een sibling knoop tot stand brengen. Dit leidt tot de doelknoop en een extra &quot;Al Else&quot;knoop op het zelfde niveau.
+Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — of het de wortel &quot;Al&quot;knoop, een doel-specifieke knoop, of een &quot;Al Else&quot;knoop is — u bepaalt direct het doel en te hoeven niet om een sibling knoop tot stand te brengen. Als u een knooppunt op het onderste niveau toevoegt, maakt u het doelknooppunt en een extra knooppunt &quot;All Else&quot; op hetzelfde niveau.
 
 >[!NOTE]
 >
@@ -32,7 +33,7 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
       1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere soorten publiek zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-         Hiermee wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek gemaakt. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen.
+         Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen.
 
       1. Klik op **[!UICONTROL Apply]**.
 
@@ -44,7 +45,7 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
       1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-         Hierdoor wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) gemaakt voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
+         Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
 
       1. Klik op **[!UICONTROL Apply]**.
 
@@ -52,7 +53,7 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
    De sleutel voor het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md).
 
-   * Selecteer **[!UICONTROL RT Pixel]** als u een pixeldoel opnieuw wilt toewijzen, selecteer één nieuwe doelpixel en de vereiste waarden voor alle pixelkenmerken die aanwezig moeten zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
+   * Selecteer **[!UICONTROL RT Pixel]** als u een pixeldoel opnieuw wilt toewijzen, selecteer één nieuwe doelpixel en de waarden voor de kenmerken van een pixel die nodig zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 
      De attributen voor het opnieuw richten pixel worden gevormd in [ het opnieuw richten pixelmontages ](/help/creative/pixels/retargeting-pixel-manage.md).
 
@@ -62,7 +63,7 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
       1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
-         Hierdoor wordt een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) gemaakt voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
+         Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren.
 
       1. Klik op **[!UICONTROL Apply]**.
 

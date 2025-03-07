@@ -2,9 +2,10 @@
 title: Onderliggende nodes kopiëren naar een ander doelknooppunt op hetzelfde niveau
 description: Leer hoe te om alle kindknopen van een ouderdoelknoop aan een andere doelknoop op het zelfde niveau te kopiëren
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: b3705689-57b6-41ce-9e00-2358bd195c93
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '288'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 *Ervaringen met beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-U kunt alle onderliggende knooppunten van een bovenliggende doelnode (inclusief alle onderliggende doelobjecten en de creatieve bundels die aan deze onderliggende knooppunten zijn toegewezen) naar een andere doelnode op hetzelfde niveau kopiëren, waarbij u de gekopieerde knooppunten aan het bestaande framework toevoegt of het bestaande framework volledig vervangt. <!-- Give the main use case or an example to explain. -->
+U kunt alle onderliggende nodes van een bovenliggende doelnode (inclusief alle onderliggende doelen en de creatieve bundels die aan deze knooppunten zijn toegewezen) naar een andere doelnode op hetzelfde niveau kopiëren. U kunt de knooppunten kopiëren door a) de gekopieerde knooppunten toe te voegen aan het bestaande framework of b) het bestaande framework volledig te vervangen. <!-- Give the main use case or an example to explain. -->
 
 Deze eigenschap beïnvloedt niet het doel dat voor de ouderknoop wordt gespecificeerd — het beïnvloedt slechts de kindknopen.
 

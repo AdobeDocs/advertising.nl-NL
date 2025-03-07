@@ -2,9 +2,10 @@
 title: De URL's voor bijhouden aanpassen voor een ervaring
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring met doelversie van de beslissingstructuur.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: ba3b15b4-116e-4caa-8ce1-4d2e488a6362
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '266'
 ht-degree: 0%
 
 ---
@@ -14,13 +15,13 @@ ht-degree: 0%
 *knopen van het Doel met bestaande slechts creatieve*
 *Gesloten bèta*
 
-Voor ervaringen met doelgerichte beslisboomstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van de indruk, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste bestemmingspagina-URL maken voor elke creatieve functie die vanuit de beslissingsstructuur voor de ervaring wordt gebruikt.
+Voor ervaringen met doelgerichte beslisboomstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van de indruk, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste bestemmingspagina-URL maken voor elke creatieve functie die voor de ervaring wordt gebruikt. U kunt de URL&#39;s voor bijhouden aanpassen vanuit de beslissingstructuur.
 
 De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaakt op basis van de ervaring en worden niet opgeslagen in de creatieve basisinstellingen in [!UICONTROL Creative Libraries] .
 
 1. Houd de cursor boven het creatieve bundelblad/de creatieve map onder het doelknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]** .
 
-   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De toepasselijke grootten worden bepaald door de grootten van de standaardbeeldcreatieven voor de ervaring.<!-- There's no distinct "Creative Sizes" setting. -->
+   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardbeeldcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. Voer op de tabbladen **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]** en **[!UICONTROL Landing URLs]** de volgende handelingen uit voor elk creatief object:
 

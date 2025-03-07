@@ -3,7 +3,7 @@ title: Een tag voor een advertentie exporteren en implementeren voor een live be
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
 exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
-source-git-commit: 8f81cf8ffaec7ca30ee3bbfd45d3577e75d77faf
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
 source-wordcount: '514'
 ht-degree: 0%
@@ -70,7 +70,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
       1. Klik op **[!UICONTROL Next]** in de rechterbovenhoek of klik op **[!UICONTROL DSP link]** in het linkermenu.
 
-      1. Selecteer de campagne waarvoor de tag ad beschikbaar wordt.
+      1. Selecteer de campagne waarnaar u de advertentietag wilt uploaden.
 
       1. Klik op **[!UICONTROL Assign Tags]**.
 

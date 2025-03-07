@@ -2,9 +2,10 @@
 title: De URL's voor bijhouden aanpassen voor een ervaring zonder focus te plaatsen
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring zonder doelversie van de boomstructuur.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '370'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste URL voor elke aanlandingspagina maken voor elke creatieve functie die vanuit [!UICONTROL Tag Manager] wordt gebruikt voor de tag voor het weergeven van advertenties.
+Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf URL&#39;s voor het bijhouden van aangepaste muisklikken en één aangepaste bestemmingspagina-URL maken voor elke creatieve gebruiker van de tag ad beleving. U kunt de URL&#39;s voor bijhouden aanpassen vanuit [!UICONTROL Tag Manager] .
 
 De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaakt met de tag advertentie en worden niet opgeslagen in de creatieve basisinstellingen in [!UICONTROL Creative Libraries] .
 
@@ -33,13 +34,13 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
    1. Voer een unieke **[!UICONTROL Tag name]** in en selecteer de **[!UICONTROL Tag size]** .
 
-      De beschikbare formaten worden bepaald door de formaten van de standaardbeeldcreatieven voor de ervaring.
+      De grootte van de standaardafbeeldingscreatieven bepaalt de beschikbare formaten.
 
    1. Klik op **[!UICONTROL Create]**.
 
 1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het volgen URLs ](/help/creative/assets/edit-gray.png " uitgeven het volgen URLs ") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
-   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De toepasselijke grootten worden bepaald door de grootten van de standaardbeeldcreatieven voor de ervaring.<!-- There's no distinct "Creative Sizes" setting. -->
+   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardbeeldcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. Voer op de tabbladen **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]** en **[!UICONTROL Landing URLs]** de volgende handelingen uit voor elk creatief object:
 

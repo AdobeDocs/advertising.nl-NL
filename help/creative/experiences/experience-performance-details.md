@@ -3,9 +3,9 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '777'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ De rapportweergave bevat de volgende gegevens:
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
           -->
 
-   * **Gebrek Tarief**: (Ervaringen met beslissingsboom richtend slechts) het aantal indrukkingen die uit gerichte creatieven, generische creatieven zonder een doel of gericht aan &quot;Alle Else&quot;voortvloeien, en het gebrek creatief voor de ervaring.
+   * **Gebrek Tarief**: (Ervaringen met beslissingsboom richtend slechts) het aantal indrukken die uit gerichte creatieve creatieven, generische creatieven zonder een doel of gericht aan &quot;Alle Else,&quot;en gebrek creatief voor de ervaring voortvloeien.
 
      <!--
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
@@ -52,7 +52,7 @@ De rapportweergave bevat de volgende gegevens:
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
       -->
 
-      * **Prestaties van het Apparaat:** Individuele metriek door apparatentype, werkend systeem, en browser. Klik optioneel op de waarde voor een apparaatcategorie om een lijst weer te geven met de bovenste creatieve functies van <!-- NN --> die aan deze criteria voldoen.
+      * **Prestaties van het Apparaat:** Individuele metriek door apparatentype, werkend systeem, en browser. Klik naar keuze de waarde voor om het even welke apparatencategorie om een lijst van de hoogste <!-- NN --> creatieve personen te zien die met die criteria worden gediend.
 
         <!--    
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
@@ -116,9 +116,11 @@ De rapportweergave bevat de volgende gegevens:
 
    * (Facultatief) om de regel te veranderen die wordt gebruikt om omzettingsgegevens in een reeks gebeurtenissen te kenmerken die tot een omzetting leiden, ![ Montages ](/help/creative/assets/settings.png) klikken en **[!UICONTROL Attribution Rule]** veranderen.
 
-   * (Facultatief) om de gemelde omzettingen te veranderen, klik ![ Montages ](/help/creative/assets/settings.png) en selecteer de omzettingsnamen in het **[!UICONTROL Conversions]** menu.&lt;!— Alleen één of meerdere? Controleren hoe deze worden weergegeven — Ik moet een adverteerder zien die al meerdere omzettingen heeft uitgevoerd —>
+     Voor meer informatie over attributieregels, zie &quot;[ hoe de attributieregels ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
-     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. Dit kan omzetting en de metriek van de plaatsovereenkomst omvatten die van Adobe Analytics wordt gesynchroniseerd wanneer adverteerder [  [!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md) heeft. <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
+   * (Facultatief) om de gemelde omzettingen te veranderen, klik ![ Montages ](/help/creative/assets/settings.png) en selecteer de omzettingsnamen in het **[!UICONTROL Conversions]** menu.&lt;!— Alleen één of meerdere? Verifieer hoe deze verschijnen — Ik moet een adverteerder zien met meerdere omzettingen die al zijn ingesteld. Vanaf 3/6 zie ik alleen &quot;Alles selecteren&quot; —>
+
+     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. De lijst kan omzettings en metriek van de plaatsovereenkomst omvatten die van Adobe Analytics wordt gesynchroniseerd wanneer adverteerder [  [!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md) heeft. <!--Analytics calculated metrics and advanced calculated metrics aren't available.--> voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
 
 1. (Op het tabblad [!UICONTROL Overview] ):
 
@@ -134,9 +136,9 @@ De rapportweergave bevat de volgende gegevens:
 
    * (Optioneel) Voer in de sectie [!UICONTROL Device Performance] een van de volgende handelingen uit:
 
-      * Houd de curseur over waarde voor om het even welke apparatencategorie om gegevens voor die criteria te zien.
+      * Houd de cursor boven de waarde voor een apparaatcategorie om de gegevens voor die criteria weer te geven.
 
-      * Klik op de waarde voor een apparaatcategorie om een lijst weer te geven met de bovenste creatieve functies van <!-- NN--> die aan deze criteria voldoen.
+      * Klik de waarde voor om het even welke apparatencategorie om een lijst van de hoogste <!-- NN--> creatieve personen te zien die met die criteria worden gediend.
 
 1. (Optioneel) Als u gegevens op creatieve basis en op bundel- of advertentietag wilt weergeven, klikt u op de tab **[!UICONTROL Creative Performance]** .
 
@@ -148,7 +150,7 @@ De rapportweergave bevat de volgende gegevens:
 
       * (Ervaringen met alleen beslissingsboomstructuurdoelframes; optioneel) Schakel **[!UICONTROL Split targeting]** in om de prestaties voor elk toegepast ad-hocdoel te verdelen.
 
-1. Als u gegevens wilt weergeven op bundel (ervaring met doelstructuurbeleid) of op ad-tag (ervaring zonder doelstructuurtoewijzing), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
+1. Als u gegevens wilt weergeven op basis van een bundel (ervaring met het toewijzen van beslisboom als doel) of op basis van een ad-tag (ervaring zonder doelbinding voor beslissingsstructuur), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
 
    * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.![
 
@@ -163,3 +165,5 @@ De rapportweergave bevat de volgende gegevens:
 >[!MORELIKETHIS]
 >
 >* [ Aangepast Creatief Rapport ](/help/creative/report-custom-creative.md)
+>* [ Download alle ervaringen in de mening ](/help/creative/experiences/experience-download-view.md)
+>* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
