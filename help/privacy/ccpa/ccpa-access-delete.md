@@ -4,9 +4,9 @@ description: Leer meer over de ondersteunde typen gegevensaanvragen, de vereiste
 feature: CCPA
 role: User, Developer
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
-source-git-commit: 97e0f562153983202a2f3641e17dd682ff3d00ea
+source-git-commit: a3e39ca4fa89f84ddc2669662c34bccb4425a2bb
 workflow-type: tm+mt
-source-wordcount: '1037'
+source-wordcount: '1039'
 ht-degree: 0%
 
 ---
@@ -94,11 +94,11 @@ Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer i
 
 * `"user IDs":`
 
-   * `"namespace": **411**` (geeft de [!DNL adCloud] cookie-ruimte aan)
+   * `"namespace": **411**` (die op de [[!DNL AdCloud]  koekjesruimte ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) wijst)
 
    * `"value":` &lt;*de waarde van de de koekjesidentiteitskaart van de daadwerkelijke klant zoals die van`AdobePrivacy.js`* wordt teruggewonnen>
 
-* `"include": **adCloud**` (dit is het [!DNL Adobe] -product dat van toepassing is op de aanvraag)
+* `"include": **adCloud**` (dat is het [[!DNL Adobe]  product ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) dat op het verzoek van toepassing is)
 
 * `"regulation": **ccpa**` (dit is de privacyverordening die van toepassing is op het verzoek)
 
