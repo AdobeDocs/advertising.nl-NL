@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 311200b84c4f2d037ecc9cc17ba49495bd523464
+source-git-commit: 9bdd7eda97fc7794210a71aceb49d9570a3ad8fb
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '506'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,6 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL ShareThrough] |  | [!DNL TubeMogul] of Adobe Advertising | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> Inheemse vertoning <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL SmartClip] |  | Adobe Advertising | — | EMEA | Alle valuta&#39;s | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL SmartStream] |  | Adobe Advertising | — | EMEA | EUR, USD | Videodesktop en mobiel |
-| [!DNL Sortable] | [!DNL Freestar] | Adobe Advertising | — | CA | USD | Desktop en mobiel weergeven |
 | [!DNL Taboola] |  | Adobe Advertising | — | VS/CA | USD | Videodesktop en mobiel |
 | [!DNL Teads] |  | [!DNL TubeMogul] of Adobe Advertising | — | Outstream Video = Globale <br> Vertoning = NA + EMEA | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop en mobiele |
 | [!DNL TripleLift] |  | [!DNL TubeMogul] of Adobe Advertising | — | Algemeen | USD | Oorspronkelijke weergave |
