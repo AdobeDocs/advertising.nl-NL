@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] ad-groepinstellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  en groepen.
 exl-id: def75630-19b9-4676-ad34-5d9041cc3680
 feature: Search Campaign Management
-source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
+source-git-commit: fb38bf6afa181b4560742d3649db68c8aef0e619
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '419'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 * *[!UICONTROL Use campaign setting]* (de standaardinstelling voor nieuwe advertentiegroepen): gebruikt de bestaande instelling op campagnereniveau en rotatie. **Nota:** het campagne-niveau plaatsen is niet zichtbaar in Onderzoek, Sociaal, &amp; Commerce.
 
-Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTROL Target CPA] , [!UICONTROL Target ROAS] of [!UICONTROL Enhanced CPC] ), stelt [!DNL Google Ads] automatisch de optie in op &quot;[!UICONTROL Optimize]&quot;.
+Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTROL Target CPA] , [!UICONTROL Target ROAS] ), stelt [!DNL Google Ads] automatisch de optie in op &quot; [!UICONTROL Optimize]&quot;.
 
 **[!UICONTROL Custom Bid Level]:** (Campagnes die alleen op het weergavenetwerk zijn gericht) Hoe u kunt bieden: door *[!UICONTROL Ad Group]* (de standaardinstelling), *[!UICONTROL Age]*, *[!UICONTROL Gender]*, *[!UICONTROL Interest and List]* (Interesten en opmerkingen in Google Ads), *[!UICONTROL Keyword]*, *[!UICONTROL Placement]* (website), *[!UICONTROL Unknown]* of *[!UICONTROL Vertical]* .
 
