@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: ae98579b6b2edb54de5753e84891987a88184515
+source-git-commit: f5e453975f693777e5717924d471b9de9f1f651b
 workflow-type: tm+mt
-source-wordcount: '2576'
+source-wordcount: '2471'
 ht-degree: 0%
 
 ---
@@ -71,13 +71,11 @@ uw advertenties op de netwerken van de onderzoekspartner van het advertentienetw
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Enhanced CPC]:* (Niet beschikbaar voor maximale prestaties of bestaande, alleen-lezen [!DNL Gmail] campagnes) gebruikt het verbeterde model &#39;cost-per-click&#39; (eCPC) van het advertentienetwerk, waardoor het advertentienetwerk automatisch het CPC-bod (cost-per-click) voor elke veiling kan wijzigen om conversies te maximaliseren, met gebruik van conversies die zijn opgegeven in het advertentienetwerk (niet in Zoeken, Sociaal, en Commerce) Houd uw gemiddelde CPC onder uw maximum CPC.
-
-Wanneer u een campagne met eCPC aan een geoptimaliseerde portefeuille van het Onderzoek toevoegt, sociale, &amp; Commerce, optimaliseert het Onderzoek, Sociale, &amp; Commerce de basisbiedingen en - wanneer &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;optie wordt toegelaten - het campagnebudget. Het advertentienetwerk optimaliseert alle biedingsaanpassingen en kan de door Zoeken, Sociale en Commerce gegenereerde biedingen wijzigen op het moment van de gebruikersquery op basis van eigen gegevens en inzichten. **Voorzichtigheid:** Gebruik eCPC campagnes in portefeuilles slechts wanneer de totale omzettingen die op het advertentienetwerk worden gevolgd zich op het portefeuilledoel richten. <!-- Note to self: Within the ad network UI, you specify conversion goals either a) all conversion actions you've set to be included in "Conversions" at the account level or b) one or more individual conversions to use for optimization -->
+* *[!UICONTROL Enhanced CPC]:* Afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [ verbeterde CPC biedingsstrategieën ](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
 
 * *[!UICONTROL Manual CPC]* (standaard): (Niet beschikbaar voor maximale prestatiecampagnes) gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
 
-   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als wanneer u de optie &quot;[!UICONTROL Enhanced CPC]&quot; gebruikt.
+   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;, die is afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [ verbeterde CPC biedingsstrategieën ](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
 
 * *[!UICONTROL Maximize Clicks]:* (Onderzoek, vertoning, en het winkelen campagnes) het advertentienetwerk — niet Onderzoek, Sociale, &amp; Commerce — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) in om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Voorzichtigheid:** wanneer u een campagne met deze strategie aan een portefeuille toevoegt, worden de biedingen gedreven door klikgewicht, niet door het portefeuilledoel.
 
