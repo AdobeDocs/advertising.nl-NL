@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 9bdd7eda97fc7794210a71aceb49d9570a3ad8fb
+source-git-commit: bbc6549b55bdbefda7f421fe609c54d737ffe570
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,6 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 | SSP vermeld | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Ondersteunde voorraad |
 | --- | --- | --- | --- | --- | --- | --- |
-| [!DNL AdColony] (voorheen [!DNL Opera]) | [!DNL Digital Turbine] | [!DNL TubeMogul] | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop en mobiele |
 | [!DNL AdsWizz] | [!DNL Sirius XM (Pandora)] | Adobe Advertising | PG-ondersteuning | Algemeen | USD, EUR, GBP | Audiodesktop en mobiel |
 | [!DNL AppNexus] | [!DNL Xandr] | De video identiteitskaart van de Zetel: 9094 <br> identiteitskaart van de Vertoning: 3939 | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL DailyMotion] |  | [!DNL TubeMogul] of Adobe Advertising | — | VS + EMEA | USD, EUR | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
