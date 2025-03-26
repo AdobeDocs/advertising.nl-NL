@@ -2,7 +2,8 @@
 title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
-source-git-commit: b3393c6b0cf3df707793a91aa6a3e8c844f75fb2
+exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
+source-git-commit: 4bc35abb18db857d12ff8620b18d60d1198b569a
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -11,7 +12,7 @@ ht-degree: 0%
 
 # Aanmelden bij Adobe Advertising DSP
 
-Adobe Advertising DSP gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt Single Sign-On (SSO) toegang tot alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. Met de wijziging:
+Adobe Advertising DSP gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt SSO-toegang (Single Sign-On) tot alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. Met de wijziging:
 
 * U kunt een [!DNL Adobe ID] gebruiken om u aan te melden voor [!DNL Adobe] -producten vanaf de Experience Cloud-aanmeldpagina of de oudere DSP-aanmeldpagina. Uw [!DNL Adobe ID] biedt beheer van gebruikersprofielen. In een toekomstige versie kunt u het DSP-account, de IMS-organisatieaccount en het [!DNL Adobe] -product wijzigen via het bovenste menu.
 
