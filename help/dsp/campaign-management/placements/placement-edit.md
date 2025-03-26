@@ -3,7 +3,7 @@ title: Plaatsen bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: fa4cee46135c85849daa7faa4059c77fc753c2c8
+source-git-commit: 19be64303a0a86e916edacde439a852aac0a89f5
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -18,7 +18,7 @@ U kunt de instellingen voor één plaatsing of voor meerdere plaatsen tegelijk b
 
 >[!NOTE]
 >
->U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in een beperkte subset van sleutelvelden en deze weer uploaden naar alles tegelijk. Zie &quot;[ Overzicht en geef de Montages van de Plaatsing uit Gebruikend Bulksheets ](placement-qa.md).&quot;
+>U kunt de instellingen voor een of meer plaatsingen of voor alle plaatsingen in een campagne ook downloaden in de XLSX-indeling (Excel-spreadsheet), wijzigingen aanbrengen in de meeste velden en ze allemaal tegelijk uploaden naar DSP. Zie &quot;[ Overzicht en geef de Montages van de Plaatsing uit Gebruikend Bulksheets ](placement-qa.md).&quot;
 
 ## Instellingen voor sleutelplaatsing snel bewerken {#placement-quick-edit}
 
@@ -49,7 +49,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 
 1. Klik op **[!UICONTROL Update placement]**.
 
-## Meerdere plaatsen bewerken {#edit-multiple-placements}
+## Dezelfde wijzigingen aanbrengen in meerdere locaties {#edit-multiple-placements}
 
 Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle geselecteerde plaatsen.
 
