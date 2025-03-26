@@ -2,9 +2,9 @@
 title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
-source-git-commit: 0c33657eca7d3332a770fc1eaba179e5ae8eafb8
+source-git-commit: 0eac4e77b0341ad190c1e1d622950e99be8de4f0
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '505'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ Voor meer informatie over de interface van Experience Cloud, met inbegrip van he
 
 ### Problemen oplossen
 
-Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ] https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
+Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
 
 #### Zijn er voorwaarden om een nieuwe [!DNL Adobe] IMS-aanmelding in te schakelen?
 
@@ -57,7 +57,7 @@ Als u een nieuwe aanmeldingsaccount wilt toevoegen, deelt u het e-mailadres met 
 
 Ondertussen kan de gebruiker zijn DSP-gegevens van de oudere versie blijven gebruiken.
 
-#### Nadat u zich hebt aangemeld met een Adobe IMS-account, wordt ik niet teruggeleid naar de aanmeldingspagina van adobe.advertising.com.
+#### Nadat u zich hebt aangemeld met een Adobe IMS-account, wordt ik niet teruggeleid naar adobe.advertising.com.
 
 Vraag uw IMS-organisatiebeheerder of de e-mail die u gebruikt, is toegevoegd aan de IMS-organisatie.
 
