@@ -2,9 +2,9 @@
 title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
-source-git-commit: d90270666dfc587097088e94a2ee4f0c353c9c70
+source-git-commit: b3393c6b0cf3df707793a91aa6a3e8c844f75fb2
 workflow-type: tm+mt
-source-wordcount: '505'
+source-wordcount: '507'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,7 @@ Als u een nieuwe aanmeldingsaccount wilt toevoegen, deelt u het e-mailadres met 
 
 Ondertussen kan de gebruiker zijn DSP-gegevens van de oudere versie blijven gebruiken.
 
-#### Nadat u zich hebt aangemeld met een Adobe IMS-account, wordt ik niet teruggeleid naar adobe.advertising.com.
+#### Nadat u zich hebt aangemeld met een Adobe IMS-account, wordt ik teruggeleid naar de aanmeldingspagina van adobe.advertising.com.
 
 Vraag uw IMS-organisatiebeheerder of de e-mail die u gebruikt, is toegevoegd aan de IMS-organisatie. Als de beheerder bevestigt dat u bent toegevoegd aan de IMS-organisatie, vraagt u uw Adobe-accountteam om uw account zodanig in te stellen dat u DSP kunt gebruiken.
 
