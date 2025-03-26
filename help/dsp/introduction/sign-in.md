@@ -2,7 +2,7 @@
 title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
-source-git-commit: 0eac4e77b0341ad190c1e1d622950e99be8de4f0
+source-git-commit: d90270666dfc587097088e94a2ee4f0c353c9c70
 workflow-type: tm+mt
 source-wordcount: '505'
 ht-degree: 0%
@@ -59,9 +59,7 @@ Ondertussen kan de gebruiker zijn DSP-gegevens van de oudere versie blijven gebr
 
 #### Nadat u zich hebt aangemeld met een Adobe IMS-account, wordt ik niet teruggeleid naar adobe.advertising.com.
 
-Vraag uw IMS-organisatiebeheerder of de e-mail die u gebruikt, is toegevoegd aan de IMS-organisatie.
-
-Als de beheerder bevestigt dat u bent toegevoegd aan de IMS-organisatie, vraagt u uw Adobe-accountteam om uw account zodanig in te stellen dat u DSP kunt gebruiken.
+Vraag uw IMS-organisatiebeheerder of de e-mail die u gebruikt, is toegevoegd aan de IMS-organisatie. Als de beheerder bevestigt dat u bent toegevoegd aan de IMS-organisatie, vraagt u uw Adobe-accountteam om uw account zodanig in te stellen dat u DSP kunt gebruiken.
 
 Ondertussen kun je je oude DSP-gegevens blijven gebruiken.
 
@@ -69,7 +67,7 @@ Ondertussen kun je je oude DSP-gegevens blijven gebruiken.
 
 1. Ga naar [ experience.adobe.com ](https://experience.adobe.com) en teken uit.
 
-Ga naar [ advertentie.adobe.com ](https://advertising.adobe.com) en teken binnen met correcte e-mailidentiteitskaart.
+1. Ga naar [ advertentie.adobe.com ](https://advertising.adobe.com) en teken binnen met correcte e-mailidentiteitskaart.
 
 #### Mijn [!DNL Adobe] IMS-account en DSP-account zijn geregistreerd met verschillende e-mails. Hoe kan ik me aanmelden met mijn [!DNL Adobe] IMS-account?
 
