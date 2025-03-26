@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 5a667f353d436870e6d22422f64ae16f886d7bc8
+source-git-commit: edb62b97e6b03efbabc051c8ec2d7326b291e085
 workflow-type: tm+mt
-source-wordcount: '932'
+source-wordcount: '938'
 ht-degree: 3%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 3%
 -->
 
 + [Nieuwe functies](/help/dsp/home.md)
++ [Aanmelden bij Adobe Advertising DSP](/help/dsp/introduction/sign-in.md)
 + Inleiding {#introduction}
    + [Inleiding tot Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
    + Belangrijke functies {#features}
@@ -34,10 +35,10 @@ ht-degree: 3%
    + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
-+ Campaign Management {#campaign-management}
-   + [Overzicht van de Campaign Management-structuur](/help/dsp/campaign-management/campaign-management-overview.md)
++ Campagnebeheer {#campaign-management}
+   + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
    + Campagnes {#campaigns}
-      + [Informatie over Campaign Management](/help/dsp/campaign-management/campaigns/campaign-about.md)
+      + [Informatie over Campagnebeheer](/help/dsp/campaign-management/campaigns/campaign-about.md)
       + [Een campagne maken](/help/dsp/campaign-management/campaigns/campaign-create.md)
       + [Een campagne bewerken](/help/dsp/campaign-management/campaigns/campaign-edit.md)
       + [Een campagne dupliceren](/help/dsp/campaign-management/campaigns/campaign-duplicate.md)
@@ -96,9 +97,9 @@ ht-degree: 3%
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
-   + Prestatierapporten in Campaign Management-weergaven {#campaign-reports}
-      + [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
-      + [Gegevens exporteren uit een Campaign Management-weergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
+   + Prestatierapporten in weergaven van Campagnebeheer {#campaign-reports}
+      + [Typen prestatierapporten in de weergaven van Campagnebeheer](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+      + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing](/help/dsp/campaign-management/reports/placement-details-view.md)
       + [Het rapport Placement Forecast weergeven](/help/dsp/campaign-management/reports/placement-forecast.md)
       + [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
@@ -106,7 +107,7 @@ ht-degree: 3%
       + [De weergave van uw Campagnegegevens beheren](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
    + [DSP Macros](/help/dsp/campaign-management/macros.md)
    + [Sneltoetsen](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
-   + [Veelgestelde vragen over Campaign Management](/help/dsp/campaign-management/faq-campaign-management.md)
+   + [Veelgestelde vragen over Campagnebeheer](/help/dsp/campaign-management/faq-campaign-management.md)
    + [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
 + Optimalisatie {#optimization}
    + [Hoe  [!DNL DSP]  optimaliseert uw campagnes](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
@@ -212,7 +213,7 @@ ht-degree: 3%
       + [Een [!UICONTROL Report Destination] verwijderen](/help/dsp/reports/report-destinations/report-destination-delete.md)
       + [[!UICONTROL Report Destination] Instellingen](/help/dsp/reports/report-destinations/report-destination-settings.md)
 + Planner {#planner}
-   + [Informatie over het gereedschap DSP](/help/dsp/planner/planner-about.md)
+   + [Informatie over het gereedschap DSP Planner](/help/dsp/planner/planner-about.md)
    + [Een aangesloten tv-bereikplan maken](/help/dsp/planner/planner-create.md)
    + [Een aangesloten tv-bereikabonnement dupliceren](/help/dsp/planner/planner-duplicate.md)
    + [Een aangesloten tv-bereikabonnement bewerken](/help/dsp/planner/planner-edit.md)
