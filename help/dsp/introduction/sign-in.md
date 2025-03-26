@@ -3,7 +3,7 @@ title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
 exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
-source-git-commit: 4bc35abb18db857d12ff8620b18d60d1198b569a
+source-git-commit: c8d33069eb2a97af76a32360348a7e44bce02f09
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -64,7 +64,7 @@ Vraag uw IMS-organisatiebeheerder of de e-mail die u gebruikt, is toegevoegd aan
 
 Ondertussen kun je je oude DSP-gegevens blijven gebruiken.
 
-#### Ik heb me aangemeld met een onjuist e-mailadres, dat mij heeft aangemeld bij [!DNL Adobe] maar geen DSP-toegang biedt.
+#### Ik heb me aangemeld met een onjuist e-mailadres, dat me heeft aangemeld bij [!DNL Adobe] maar geen toegang biedt tot DSP.
 
 1. Ga naar [ experience.adobe.com ](https://experience.adobe.com) en teken uit.
 
