@@ -3,7 +3,7 @@ title: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 19d96e6016c2d170c2a08091249c024ee92e5e64
+source-git-commit: 8128a29a044623d5161e4893fbc52cca626b8fe4
 workflow-type: tm+mt
 source-wordcount: '1731'
 ht-degree: 0%
@@ -164,7 +164,7 @@ De parameters variëren per advertentienetwerk, maar de volgende parameters zijn
 
 ##### [!DNL Baidu]
 
-`s_kwcid=AL!{userid}!{88}!{creative}!{placement}!{keywordid}`
+`s_kwcid=AL!{userid}!88!{creative}!{placement}!{keywordid}`
 
 waarbij:
 
@@ -178,11 +178,11 @@ Dit zijn onder andere winkelcampagnes met [!DNL Google Merchant Center] .
 
 * Accounts die gebruikmaken van de nieuwste AMO ID-indeling, die rapportage op campagne- en groepsniveau voor maximale prestaties ondersteunt voor campagnes en concepten en experimentatiecampagnes:
 
-  `s_kwcid=AL!{userid}!{3}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+  `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
 * Alle overige rekeningen:
 
-  `s_kwcid=AL!{userid}!{3}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
+  `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 waarbij:
 
@@ -207,7 +207,7 @@ waarbij:
 
 ##### [!DNL Meta]
 
-`s_kwcid=AL!{userid}!{45}!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
+`s_kwcid=AL!{userid}!45!{{ad.id}}!{{campaign.id}}!{{adset.id}}`
 
 where:
 
@@ -223,7 +223,7 @@ where:
 
 * Alle soorten campagne:
 
-  `s_kwcid=AL!{userid}!{10}!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+  `s_kwcid=AL!{userid}!10!{AdId}!!!!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 
 waarbij:
 
@@ -237,15 +237,15 @@ waarbij:
 > Voor accounts met campagnes zonder de optie [!UICONTROL Auto Upload] bijhouden die nog niet naar de nieuwe indeling waren gemigreerd, werkt u handmatig elk achtervoegsel van de bestemmingspagina bij en voegt u de bovenstaande indeling in.
 >Ondertussen werken de oudere indelingen nog steeds als volgt:
 >* Zoekcampagnes:
->  `s_kwcid=AL!{userid}!{10}!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
->  `s_kwcid=AL!{userid}!{10}!{AdId}!{CriterionId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
 >* Campagnes van het netwerk van het publiek:
->  `s_kwcid=AL!{userid}!{10}!{AdId}`
+>  `s_kwcid=AL!{userid}!10!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
-`s_kwcid=AL!{userid}!{94}!{creative}!{matchtype}!{network}!{keyword}`
+`s_kwcid=AL!{userid}!94!{creative}!{matchtype}!{network}!{keyword}`
 
 waarbij:
 
@@ -256,7 +256,7 @@ waarbij:
 
 ##### [!DNL Yandex]
 
-`s_kwcid=AL!{userid}!{90}!{ad_id}!{source_type}!!!{phrase_id}`
+`s_kwcid=AL!{userid}!90!{ad_id}!{source_type}!!!{phrase_id}`
 
 waarbij:
 
