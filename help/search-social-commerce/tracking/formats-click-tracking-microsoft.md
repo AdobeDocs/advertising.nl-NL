@@ -1,9 +1,9 @@
 ---
-title: Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]
-description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Microsoft Advertising] rekeningen.
+title: Opmaak voor het bijhouden van klikken voor  [!DNL Microsoft Advertising]
+description: Leer over de klik-volgende formaten voor  [!DNL Microsoft Advertising]  rekeningen.
 exl-id: 4970ac33-4978-4768-8701-6fdd3252bbd1
 feature: Search Tracking
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 70629247a18a78b12a7fc8b166a0272764bb20b8
 workflow-type: tm+mt
 source-wordcount: '584'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Opmaak voor het bijhouden van klikken voor [!DNL Microsoft Advertising]
 
-Hieronder vindt u de sjabloon voor het bijhouden van de basis en de achtervoegsels van de bestemmingspagina (laatste URL-achtervoegsel), waarvoor Zoeken, Sociaal en Commerce vereist is [!DNL Microsoft Advertising].
+Hieronder vindt u de sjabloon voor het bijhouden van de basis en de achtervoegsels van de bestemmingspagina (laatste URL-achtervoegsel) die u nodig hebt voor Zoeken, Sociaal en Commerce [!DNL Microsoft Advertising] .
 
 ## Sjabloonindelingen bijhouden
 
@@ -28,9 +28,9 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
 >* `{TargetId}` vertegenwoordigt identiteitskaart van a) of het sleutelwoord of b) het sleutelwoord en remarketing lijst (publiek) die de advertentie teweegbracht (bijvoorbeeld, &quot;kwd-123:aud-456&quot;voor zowel een sleutelwoord als een remarketing lijst of &quot;kwd-123&quot;voor slechts sleutelwoord).
 
@@ -44,15 +44,15 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
 >* `{TargetId}` vertegenwoordigt identiteitskaart van a) of het sleutelwoord of b) het sleutelwoord en remarketing lijst (publiek) die de advertentie teweegbracht (bijvoorbeeld, &quot;kwd-123:aud-456&quot;voor zowel een sleutelwoord als een remarketing lijst of &quot;kwd-123&quot;voor slechts sleutelwoord).
 >
->* `{adextensionid}` niet wordt gebruikt.
+>* `{adextensionid}` wordt niet gebruikt.
 >
->* (Sitelinks) U kunt zien welke omzettingen het resultaat zijn van een klik op een sitelink door een [!UICONTROL Transaction Report]. De [!UICONTROL Link Type] kolomwaarde voor een sitelink is `sl:<Sitelink text>`, zoals `sl:See Current Offers`.
+>* (Sitelinks) U kunt zien welke omzettingen het resultaat zijn van een klik op een sitelink door een [!UICONTROL Transaction Report] te genereren. De kolomwaarde [!UICONTROL Link Type] voor een sitelink is `sl:<Sitelink text>` , zoals `sl:See Current Offers` .
 
 ### Winkelnetwerk
 
@@ -66,13 +66,13 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
 >* `{TargetId}` vertegenwoordigt identiteitskaart van a) of het sleutelwoord of b) het sleutelwoord en remarketing lijst (publiek) die de advertentie teweegbracht (bijvoorbeeld, &quot;kwd-123:aud-456&quot;voor zowel een sleutelwoord als een remarketing lijst of &quot;kwd-123&quot;voor slechts sleutelwoord).
 >
->* (Optioneel) In plaats van trackingsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor bijhouden toevoegen aan de productgegevens in het dialoogvenster [!DNL Microsoft Merchant Center] account. Hiervoor neemt u de URL voor tekstspatiëring op, samen met de waarde in het veld &quot;`link`&quot; of &quot;`mobile_link`&quot;veld, naar gelang van het geval, in een aangepaste kolom &quot;[bingads_redirect](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot; in het voer van het product. De waarde in het veld &quot;`bingads_redirect`&quot; worden de waarden in &quot;`link`&quot; en &quot;`mobile_link`&quot;. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
+>* (Optioneel) In plaats van volgsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor het bijhouden van de gegevens toevoegen aan de productgegevens in de [!DNL Microsoft Merchant Center] -account. Om dit te doen, omvat het volgen URL, samen met de waarde op &quot;`link`&quot; of &quot;`mobile_link`&quot;gebied, zoals aangewezen, in een douanekolom &quot;[ bingads_redirect ](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot;binnen de productvoer. De waarde op het &quot;`bingads_redirect`&quot;gebied vervangt de waarden op &quot;`link`&quot; en &quot;`mobile_link`&quot;gebieden. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
 
 ## Opmaak voor het achtervoegsel van de landingspagina (laatste URL-achtervoegsel)
 
@@ -82,11 +82,11 @@ Voorbeeld:
 
 ### Zoeken en publieksnetwerken
 
-Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click identifier van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]) in het achtervoegsel:
+Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising] ) van het advertentienetwerk opnemen in het achtervoegsel:
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel het volgende bevatten:
 
-  `ef_id={msclkid}:G:s&s_kwcid=AL!{userid}!{sid}!{AdId}!{OrderItemId}`
+  `ef_id={msclkid}:G:s&s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}`
 
 * Wanneer de adverteerder geen Adobe Analytics-integratie heeft, moet het achtervoegsel het volgende bevatten:
 
@@ -94,11 +94,11 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 
 ### Winkelnetwerk
 
-Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click identifier van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]) in het achtervoegsel:
+Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising] ) van het advertentienetwerk opnemen in het achtervoegsel:
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel het volgende bevatten:
 
-  `ef_id={msclkid}:G:s&s_kwcid=AL!{userid}!{sid}!{AdId}!{CriterionId}`
+  `ef_id={msclkid}:G:s&s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
 
 * Wanneer de adverteerder geen Adobe Analytics-integratie heeft, moet het achtervoegsel het volgende bevatten:
 
@@ -106,5 +106,5 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 
 >[!MORELIKETHIS]
 >
->* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [AMO ID-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
+>* [ formaten van identiteitskaart AMO ](/help/integrations/analytics/ids.md#amo-id-formats)

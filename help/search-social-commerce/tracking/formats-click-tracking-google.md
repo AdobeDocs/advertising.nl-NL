@@ -1,9 +1,9 @@
 ---
-title: Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]
-description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Google Ads] rekeningen.
-exl-id: 68f6da43-3430-4c0a-9369-937fa52c071a
+title: Opmaak voor het bijhouden van klikken voor  [!DNL Google Ads]
+description: Leer over de klik-volgende formaten voor  [!DNL Google Ads]  rekeningen.
+exl-id: d09c3b4e-1274-45fb-abb6-dddfe60f1477
 feature: Search Tracking
-source-git-commit: ceb2fc07eb5116b3a2bb01cf72fd779f78bba1f0
+source-git-commit: 70629247a18a78b12a7fc8b166a0272764bb20b8
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Opmaak voor het bijhouden van klikken voor [!DNL Google Ads]
 
-Hieronder vindt u de basissjabloon voor bijhouden en de achtervoegsels van de landingspagina (het laatste URL-achtervoegsel) waarvoor Zoeken, Sociale zaken en Handel vereist zijn [!DNL Google Ads].
+Hieronder vindt u de sjabloon voor het bijhouden van de basis en de achtervoegsels van de bestemmingspagina (laatste URL-achtervoegsel) die u nodig hebt voor Zoeken, Sociaal en Commerce [!DNL Google Ads] .
 
 ## Sjabloonindelingen bijhouden
 
@@ -28,19 +28,19 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
->* De [!DNL ValueTrack] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen moeten `{lpurl}` of `!{unescapedurl}`.
+>* De parameters [!DNL ValueTrack] om uiteindelijke URL&#39;s in trackingsjablonen aan te geven, moeten `{lpurl}` of `!{unescapedurl}` zijn.
 >
->* (Tekstadvertenties) Wanneer u op trefwoord biedt, wordt de parameter `ev_pl` (voor plaatsingen) heeft geen waarde. Wanneer je op plaatsing biedt, `ev_ln` (voor trefwoorden) heeft geen waarde. Wanneer je biedt op advertentiegroep of op een andere dimensie, beide `ev_ln` en `ev_pl` hebben geen waarden.
+>* (Tekstadvertenties) Wanneer u op trefwoord biedt, heeft de parameter `ev_pl` (voor plaatsingen) geen waarde. Wanneer u op plaatsing biedt, heeft `ev_ln` (voor trefwoorden) geen waarde. Wanneer u op een advertentiegroep of op een andere dimensie biedt, hebben zowel `ev_ln` als `ev_pl` geen waarden.
 >
->* (Dynamische zoekopdrachten) `{keyword}` Hiermee wordt de dynamische zoekdoelexpressie aangegeven, zoals `_cat:[VALUE]` of `_url:[VALUE]`.
+>* (Dynamische zoekopdrachten) `{keyword}` geeft de dynamische zoekdoelexpressie aan, zoals `_cat:[VALUE]` of `_url:[VALUE]` .
 >
->* (Dynamische zoekopdrachten) [!DNL Google Ads] bepaalt dynamisch definitieve URL, zodat te hoeven u niet om in te gaan.
+>* (Dynamische zoekopdrachten) [!DNL Google Ads] bepaalt de uiteindelijke URL dynamisch, zodat u er geen hoeft in te voeren.
 >
->* (Sitelinks) U kunt zien welke omzettingen het resultaat zijn van een klik op een sitelink door een [!UICONTROL Transaction Report]. De [!UICONTROL Link Type] kolomwaarde voor een sitelink is `sl:<Sitelink text>`, zoals `sl:See Current Offers`.
+>* (Sitelinks) U kunt zien welke omzettingen het resultaat zijn van een klik op een sitelink door een [!UICONTROL Transaction Report] te genereren. De kolomwaarde [!UICONTROL Link Type] voor een sitelink is `sl:<Sitelink text>` , zoals `sl:See Current Offers` .
 
 ### Winkelnetwerk
 
@@ -54,31 +54,31 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
->* De [!DNL ValueTrack] parameters die de uiteindelijke URL&#39;s aangeven in trackingsjablonen moeten `{lpurl}` of `!{unescapedurl}`.
+>* De parameters [!DNL ValueTrack] om uiteindelijke URL&#39;s in trackingsjablonen aan te geven, moeten `{lpurl}` of `!{unescapedurl}` zijn.
 >
 >* [!DNL Google Ads] gebruikt product-URL&#39;s in de Google Merchant Center-feed als de uiteindelijke URL&#39;s, zodat u geen definitieve URL&#39;s hoeft in te voeren voor uw productgegevens of productgroepen.
 >
->* U kunt zien welke omzettingen het resultaat zijn van een klik op een advertentie door een [!UICONTROL Transaction Report]. De [!UICONTROL Link Type] kolomwaarde voor een productadvertentie is plus:`<product ID>`, zoals `pla:8525822`.
+>* U kunt zien welke conversies het resultaat zijn van een klik op een advertentie door een [!UICONTROL Transaction Report] te genereren. De [!UICONTROL Link Type] -kolomwaarde voor een productadvertentie is .pla:`<product ID>`, zoals `pla:8525822` .
 
 ## Opmaak voor het achtervoegsel van de landingspagina (laatste URL-achtervoegsel)
 
-Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click identifier van het advertentienetwerk (`gclid` for [!DNL Google Ads]) in het achtervoegsel:
+Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, moeten de klikidentificatie (`gclid` for [!DNL Google Ads] ) van het advertentienetwerk opnemen in het achtervoegsel:
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel een van de volgende elementen bevatten:
 
-   * [!DNL Google Ads] accounts die gebruikmaken van de meest recente [AMO ID-indeling](/help/integrations/analytics/ids.md#amo-id-formats) (begint met `s_kwcid`), dat ondersteuning biedt voor rapportage op campagne- en groepsniveau voor maximaal presterende campagnes en concepten en experimentatiecampagnes:
+   * [!DNL Google Ads] rekeningen die het recentste [ formaat van identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id-formats) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
 
-     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
+     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-     Als de account een AMO-id-implementatie op de server heeft en de account- of campagne-instelling &quot;[!UICONTROL Auto Upload]&quot; is ingeschakeld, wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement).&quot;
+     Als de rekening een server-kant implementatie van identiteitskaart van AMO heeft en de rekening of campagne die &quot; [!UICONTROL Auto Upload]&quot;plaatsen wordt toegelaten, dan wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement) wordt gebruikt.&quot;
 
-   * Alle andere [!DNL Google Ads] accounts:
+   * Alle andere [!DNL Google Ads] -accounts:
 
-     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!{sid}!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
+     `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}`
 
 * Wanneer de adverteerder geen Adobe Analytics-integratie heeft, moet het achtervoegsel het volgende bevatten:
 
@@ -88,9 +88,9 @@ Accounts die Adobe Advertising conversion tracking gebruiken, moeten de click id
 >
 >* Achtervoegsels op lagere niveaus van de bestemmingspagina hebben voorrang op het achtervoegsel op accountniveau. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Om een achtervoegsel op het niveau van de advertentiegroep of lager te vormen, gebruik de redacteur van het advertentienetwerk.
 >
->* (Dynamische zoekadvertenties; adverteerders met Adobe Analytics en zonder tracking op de server) Als u het bijhouden van de gegevens voor de reverse feed wilt opnemen van Adobe Advertising naar Analytics, voegt u de trackingcode voor de AMO-id toe aan het einde van het achtervoegsel van de landingspagina op accountniveau.
+>* (Dynamische zoekadvertenties; adverteerders met Adobe Analytics en zonder tracering op de server) Als u tracering voor de reverse feed van Adobe Advertising naar Analytics wilt opnemen, voegt u de trackingcode van de AMO-id toe aan het einde van het achtervoegsel van de landingspagina op accountniveau.
 
 >[!MORELIKETHIS]
 >
->* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [AMO ID-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
+>* [ formaten van identiteitskaart AMO ](/help/integrations/analytics/ids.md#amo-id-formats)
