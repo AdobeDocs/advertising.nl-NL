@@ -3,7 +3,7 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 076dd97944b5cb74f24bee85602e3743bba16f7b
+source-git-commit: 731728964eef89aa1299c02fd90c805e13a0b163
 workflow-type: tm+mt
 source-wordcount: '1059'
 ht-degree: 0%
@@ -40,7 +40,7 @@ U kunt de volgende creatieve types in de [ gesteunde creatieve grootte toevoegen
 
 #### Flexibele HTML5
 
-Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). De flexibele creatieve HTML5 gebruiken de Interactive norm van het Laboratorium van de Technologie van Advertising van het Bureau (IAB) voor een [ ad portefeuille ](https://flexibleads.iabtechlab.com/), waarvoor ad formaatgrootte (eerder dan vast) flexibel is en gebaseerd op de het aspectverhouding en de groottewaaier van het Bureau van de advertentie is, en waarvoor de advertenties hun resolutie over apparaten en uitgeversplaatsen handhaven.
+Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). De flexibele creatieve HTML5 gebruiken de Interactieve norm van het Laboratorium van de Technologie van Advertising van het Bureau (IAB) voor een [ ad portefeuille ](https://flexibleads.iabtechlab.com/) <!-- Change to https://iabtechlab.com/standards/iab-new-ad-portfolio-guidelines/ if the broken page isn't fixed -->, waarvoor ad formaatgrootte (eerder dan vast) flexibel is en op de het aspectverhouding en de groottewaaier van het bureau van de advertentie gebaseerd is, en waarvoor de advertenties hun resolutie over apparaten en uitgeversplaatsen handhaven.
 
 U kunt <!-- either --> flexibele HTML5-creatieven uploaden als ZIP-bestanden <!-- or use one of the [provided templates](flexible-html5-templates.md) as a starting point --> . Zie de [ specificaties voor flexibele HTML5 creatieven ](html5-creative-specification.md).
 
