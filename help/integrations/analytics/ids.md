@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: 8128a29a044623d5161e4893fbc52cca626b8fe4
+source-git-commit: e8c8316418acf4a8c62beabcae2c1b7388dbc297
 workflow-type: tm+mt
-source-wordcount: '1731'
+source-wordcount: '1758'
 ht-degree: 0%
 
 ---
@@ -124,7 +124,7 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
    * De klanten van DSP: De [ code van JavaScript ](javascript.md) registreert automatisch klik-door:gaan en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
 
-      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md).&quot;
+      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md).&quot; **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om klikgegevens per [!DNL Flashtalking] steundocumentatie bij `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` te verzamelen.
 
       * Voor [!DNL Google Campaign Manager 360] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
