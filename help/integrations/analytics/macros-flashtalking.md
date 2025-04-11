@@ -1,42 +1,48 @@
 ---
-title: Toevoegen [!DNL Analytics for Advertising] Macro's naar [!DNL Flashtalking] Labels toevoegen
-description: Ontdek waarom en hoe u kunt toevoegen [!DNL Analytics for Advertising] macro's voor uw [!DNL Flashtalking] advertentietags
+title: Voeg  [!DNL Analytics for Advertising]  Macro's aan  [!DNL Flashtalking]  toe en Markeringen
+description: Leer waarom en hoe te om  [!DNL Analytics for Advertising]  macro's aan uw  [!DNL Flashtalking]  toe te voegen en markeringen
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: c4db5727def6125b65fb2146666b988ae3b0db27
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---
 
-# Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Flashtalking] Labels toevoegen
+# [!DNL Analytics for Advertising] Macro&#39;s toevoegen aan [!DNL Flashtalking] Tags toevoegen
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
+*Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-*Alleen van toepassing op DSP*
+*Organisaties zonder een direct partnerschap met [!DNL Flashtalking] slechts*
 
-Als u tags ad gebruikt van [!DNL Flashtalking] Voeg voor advertenties DSP advertenties Analytics voor advertentieparameters toe aan de URL&#39;s van de bestemmingspagina. De parameters registreren AMO-id (`s_kwcid`) en `ef_id` query-tekenreeksparameters in de URL van de bestemmingspagina, zodat Adobe Advertising klikgegevens voor de advertenties naar Adobe Analytics kan verzenden.
+*Toepasselijk op Advertising DSP slechts*
 
-Macro&#39;s gebruiken voor [!DNL Flashtalking] weergave- en videoadvertenties voor de volgende typen [!DNL Analytics for Advertising] implementaties:
-
-* **Adverteerders met de [!DNL Adobe] [!DNL Analytics for Advertising] JavaScript-code geïmplementeerd op hun websites**: In de JavaScript-code wordt de AMO-id al vastgelegd (`s_kwcid`) en `ef_id` querytekenreeksparameters. Het gebruik van macro&#39;s breidt het bijhouden van wijzigingen echter uit om op klikken gebaseerde conversies op te nemen wanneer cookies van derden niet worden ondersteund. U kunt het beste de macro&#39;s in de volgende secties aan uw advertentietags toevoegen om aanvullende doorklikgegevens vast te leggen die niet door de JavaScript-code worden vastgelegd.
+Als u advertentietags van [!DNL Flashtalking] gebruikt voor Advertising DSP-advertenties, moet u volgparameters toevoegen aan de URL&#39;s van de bestemmingspagina. Als u het Advertising DSP-partnerschap met [!DNL Flashtalking] wilt gebruiken, voegt u Analytics voor Advertising-parameters toe aan de URL&#39;s van de bestemmingspagina. De parameters registreren AMO-id (`s_kwcid`) en `ef_id` query-tekenreeksparameters in de bestemmingspagina-URL, zodat Adobe Advertising klikgegevens voor de advertenties naar Adobe Analytics kan verzenden.
 
 >[!NOTE]
 >
->De JavaScript-code is een oplossing om alleen op bijhouden te klikken als er nog cookies beschikbaar zijn. Wanneer de cookies zijn stopgezet, is het nodig de volgende macro&#39;s te implementeren.
+>Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. Meld u in plaats daarvan aan bij uw [!DNL Flashtalking] -account en volg de [!DNL Flashtalking] -ondersteuningsdocumentatie voor toegang tot macro&#39;s voor gegevensdoorgifte op `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` .
 
-* **Adverteerders van wie de websites de [!DNL Analytics for Advertising] JavaScript-code en vertrouwen in plaats daarvan op [!DNL Analytics] server-kant het door:sturen voor klik-door gegevens slechts** (zonder doorkijkgegevens): de volgende macro&#39;s zijn vereist om klikactiviteiten ter plaatse te melden die worden aangestuurd door advertenties die u via de Adobe Advertising koopt.
+Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Flashtalking] voor de volgende typen [!DNL Analytics for Advertising] -implementaties:
+
+* **Advertisers met de [!DNL Adobe] [!DNL Analytics for Advertising] code van JavaScript die op hun websites** wordt uitgevoerd: De code van JavaScript registreert reeds AMO identiteitskaart (`s_kwcid`) en `ef_id` parameters van het vraagkoord. Het gebruik van macro&#39;s breidt het bijhouden van wijzigingen echter uit om op klikken gebaseerde conversies op te nemen wanneer cookies van derden niet worden ondersteund. U kunt het beste de macro&#39;s in de volgende secties aan uw advertentietags toevoegen om aanvullende doorklikgegevens vast te leggen die niet zijn vastgelegd via de JavaScript-code.
+
+  >[!NOTE]
+  >
+  >De JavaScript-code is een oplossing om alleen op bijhouden te klikken als er nog cookies beschikbaar zijn. Wanneer de cookies zijn stopgezet, is het nodig de volgende macro&#39;s te implementeren.
+
+* **Advertisers de van wie websites niet de [!DNL Analytics for Advertising] code van JavaScript gebruiken en in plaats daarvan op [!DNL Analytics] server-zij het door:sturen voor klikthrough slechts gegevens** (zonder om het even welke mening-door gegevens) baseren: De volgende macro&#39;s worden vereist om op-plaats klikactiviteit te melden die van advertenties wordt gedreven u door Adobe Advertising koopt.
 
 ## Ad-tags weergeven
 
-Binnen de [!DNL Flashtalking] voeg de volgende macro toe aan het einde van de doorklikURL in het dialoogvenster `Clicktag` veld:
+Voeg binnen de instellingen voor [!DNL Flashtalking] ad-tag de volgende macro toe aan het einde van de doorklikURL in het veld `Clicktag` :
 
 ```
 [ftqs:[AdobeAMO]]
 ```
 
-Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
+Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?` . Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&` .
 
 Voorbeelden:
 
@@ -46,13 +52,13 @@ Voorbeelden:
 
 ## Video-advertentietags
 
-Binnen de [!DNL Flashtalking] voeg de volgende macro toe aan het einde van de doorklikURL in het dialoogvenster `Clicktag` veld:
+Voeg binnen de instellingen voor [!DNL Flashtalking] ad-tag de volgende macro toe aan het einde van de doorklikURL in het veld `Clicktag` :
 
 ```
 [%EL:param['AdobeAMO']%]&s_kwcid=[%EL:param['s_kwcid']%]
 ```
 
-Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?`. Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&`.
+Als het de eerste of enige querytekenreeks na de basis-URL is, scheidt u deze van de basis-URL met een `?` . Als de basis-URL meerdere querytekenreeksen bevat, begint de eerste tekenreeks met een `?` en elke volgende tekenreeks met een `&` .
 
 Voorbeelden:
 
@@ -62,7 +68,7 @@ Voorbeelden:
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
->* [Adobe Advertising-id&#39;s gebruikt door [!DNL Analytics]](/help/integrations/analytics/ids.md)
->* [Toevoegen [!DNL Analytics for Advertising] Macro&#39;s naar [!DNL Google Campaign Manager 360] Labels toevoegen](/help/integrations/analytics/macros-google-campaign-manager.md)
+>* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md)
 
