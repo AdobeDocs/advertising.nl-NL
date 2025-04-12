@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor Adobe Advertising DSP-advertenties in Adobe Target
 description: Leer hoe te opstelling een test A/B in  [!DNL Target]  voor uw advertenties van DSP.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: bbb5feaf96a9be28e112544e34f11fc8f7015946
+source-git-commit: 34ada7c1f299f76988ee3ba533c47b76ade7d9ec
 workflow-type: tm+mt
-source-wordcount: '1411'
+source-wordcount: '1409'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,9 @@ Wanneer u DSP-macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergeg
 
 <!-- If we ever write instructions for ads on other ad servers (such as Sizmek ads in DCO), then work that into the following section. -->
 
-Werk in Flash Talk of Google Campagne Manager 360 de doorklikURL voor elke advertentie handmatig bij om de macro&#39;s op te nemen die nodig zijn om AMO-id-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
+Werk in [!DNL Flashtalking] of Google Campagne Manager 360 de doorklikURL voor elke advertentie handmatig bij om de macro&#39;s op te nemen die nodig zijn om AMO ID-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
 
-* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md). **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om klikgegevens per [!DNL Flashtalking] steundocumentatie bij `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` te verzamelen.
+* [voeg [!DNL Analytics for Advertising] Macro&#39;s aan [[!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md). **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om klikgegevens per [!DNL Flashtalking] steundocumentatie bij `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` te verzamelen.
 
 * [Voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe en Markeringen](/help/integrations/analytics/macros-google-campaign-manager.md)
 
