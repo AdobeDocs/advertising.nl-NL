@@ -2,9 +2,9 @@
 title: A/B-tests configureren voor Adobe Advertising DSP-advertenties in Adobe Target
 description: Leer hoe te opstelling een test A/B in  [!DNL Target]  voor uw advertenties van DSP.
 exl-id: 5092e06b-eef0-43f3-ba81-6dbe7164158c
-source-git-commit: 35632a9ceab61de83a1d0e68f3b5ea9e3d35ae37
+source-git-commit: 8d9bd2aeed8fa7c6d34be9dbb813b35205ba72b4
 workflow-type: tm+mt
-source-wordcount: '1409'
+source-wordcount: '1411'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Wanneer u DSP-macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergeg
 
 Werk in [!DNL Flashtalking] of Google Campagne Manager 360 de doorklikURL voor elke advertentie handmatig bij om de macro&#39;s op te nemen die nodig zijn om AMO ID-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
 
-* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md). **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om klikgegevens per [!DNL Flashtalking] steundocumentatie bij `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` te verzamelen.
+* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md). **Note:** This procedure isn&#39;t necessary if your organization has a direct partnership with [!DNL Flashtalking] and you use data-pass macros to track the `s_kwcid` and `ef_id` tracking parameters per the [!DNL Flashtalking] support documentation at `https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros`.
 
 * [Voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe en Markeringen](/help/integrations/analytics/macros-google-campaign-manager.md)
 

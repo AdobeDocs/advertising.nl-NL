@@ -3,9 +3,9 @@ title: Voeg  [!DNL Analytics for Advertising]  Macro's aan  [!DNL Flashtalking] 
 description: Leer waarom en hoe te om  [!DNL Analytics for Advertising]  macro's aan uw  [!DNL Flashtalking]  toe te voegen en markeringen
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
-source-git-commit: 181a22c83b77dabbd949d9e47d0a7cadf1e68c18
+source-git-commit: 8d9bd2aeed8fa7c6d34be9dbb813b35205ba72b4
 workflow-type: tm+mt
-source-wordcount: '424'
+source-wordcount: '427'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Als u advertentietags van [!DNL Flashtalking] gebruikt voor Advertising DSP-adve
 
 >[!NOTE]
 >
->Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. Meld u in plaats daarvan aan bij uw [!DNL Flashtalking] -account en volg de [!DNL Flashtalking] -ondersteuningsdocumentatie om klikgegevens te verzamelen met behulp van macro&#39;s die door de gegevens kunnen worden doorgegeven `https://support.flashtalking.com%2Fhc%2Fen-us%2Farticles%2F4409808166419-Accessing-Data-Pass-Macros` .
+>Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. Meld u in plaats daarvan aan bij uw [!DNL Flashtalking] -account en volg de [!DNL Flashtalking] ondersteuningsdocumentatie bij `https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros` om macro&#39;s voor gegevensdoorgifte te gebruiken om de parameters voor `s_kwcid` en `ef_id` bijhouden.
 
 Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Flashtalking] voor de volgende typen [!DNL Analytics for Advertising] -implementaties:
 
