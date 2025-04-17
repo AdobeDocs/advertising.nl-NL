@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 17d2f802e77709636ef9654ad154e14c5d53c477
+source-git-commit: 6c4e5c3b114684dc360c1c2a35c90f07a8df11bc
 workflow-type: tm+mt
-source-wordcount: '3966'
+source-wordcount: '4039'
 ht-degree: 0%
 
 ---
@@ -177,7 +177,7 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 
   U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst weergeeft op basis van feed, kunt u zoeken op naam van de feed, op basis van de feed of op basis van een geselecteerde kenmerkende tag.
 
-* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande persoonlijke deals (of bestaande persoonlijke [!DNL Roku] deals voor [!DNL Roku] plaatsingen) met uitgevers die u in DSP hebt ingesteld. U kunt een openbare voorraad opnemen, maar niet uitsluiten.
+* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande persoonlijke deals (of bestaande persoonlijke [!DNL Roku] deals voor [!DNL Roku] plaatsingen) met uitgevers die u hebt ingesteld in DSP. U kunt een openbare voorraad opnemen, maar niet uitsluiten.
 
   U kunt de lijst zoeken op trefwoord, sleutel, deal-id of aangepaste tag.
 
@@ -237,7 +237,7 @@ Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in
 >
 >Voor prestatiecampagnes, is de beste praktijken om *[!UICONTROL All Sites]* te selecteren.
 
-**[!UICONTROL Site or App Categories]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]* ) Sitecategorieën in de geselecteerde sitelagen om (maar niet beide) als doelen op te nemen of uit te sluiten. Maak een keuze uit verticale sitelijsten die DSP op basis van het onderwerp is toegewezen:
+**[!UICONTROL Site or App Categories]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** is *[!UICONTROL Off]* ) Sitecategorieën in de geselecteerde sitelagen om (maar niet beide) als doelen op te nemen of uit te sluiten. Maak een keuze uit verticale sitelijsten die door DSP zijn toegewezen op basis van het onderwerp:
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de sitecategorieën op die u wilt opnemen of uitsluiten:
@@ -299,13 +299,13 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 ## [!UICONTROL Audience Targeting]
 
-**[!UICONTROL Included Audiences]:** Om het even welke publieksdoelstellingen voor de plaatsing, met inbegrip van [ derdesegmenten, eerste-partijsegmenten, Adobe segmenten, douanesegmenten, en bewaarde publiek ](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle geselecteerde segmenten en opgeslagen doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren, een publiek maken dat u later opnieuw kunt gebruiken of specifieke publiekssegmenten selecteren:
+**[!UICONTROL Included Audiences]:** Om het even welke publieksdoelstellingen voor de plaatsing, met inbegrip van [ derdesegmenten, eerste-partijsegmenten, de segmenten van Adobe, douanesegmenten, en bewaard publiek ](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle geselecteerde segmenten en opgeslagen doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren, een publiek maken dat u later opnieuw kunt gebruiken of specifieke publiekssegmenten selecteren:
 
 * Om een bestaand publiek te selecteren, klik ![ Uitgezocht ](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences], en selecteer dan het publiek.
 * Om een publiek tot stand te brengen, klik ![ Uitgezocht ](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences], en selecteer dan **[!UICONTROL + Create Audience]**. Voor instructies, zie [ een Herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-create.md) creëren, die met Stap 3 beginnen.
 * Klik op **[!UICONTROL Select segments for this placement only]** om specifieke publiekssegmenten te selecteren. Selecteer de segmentlogica; voor instructies, zie Stap 6 in &quot;[ een Herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-create.md) creëren.&quot; Wanneer u wordt gedaan, klik **sparen**.
 
-**[!UICONTROL Excluded Audiences]:** Om het even welk publiek om voor de plaatsing, met inbegrip van publiek met [ derdesegmenten, eerste-partijsegmenten, de segmenten van de Adobe, douanesegmenten, en bewaard publiek ](/help/dsp/audiences/audience-settings.md) uit te sluiten. De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
+**[!UICONTROL Excluded Audiences]:** Om het even welk publiek om voor de plaatsing uit te sluiten, met inbegrip van publiek met [ derdesegmenten, eerste-partijsegmenten, de segmenten van Adobe, douanesegmenten, en bewaard publiek ](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
 
 * Om een bestaand publiek te selecteren, klik ![ Uitgezocht ](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Excluded Audiences], en selecteer dan het publiek.
 
@@ -317,7 +317,7 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
 
 * *[!UICONTROL Legacy IDs (Cookies, MAIDS, CTV)]*: (De standaardinstelling) richt zich op gebruikers op basis van hun cookies, mobiele advertentie-id&#39;s of aangesloten tv-id&#39;s (CTV). De id&#39;s worden geselecteerd op basis van de browser, in-app of CTV-inventaris.
 
-* *[!UICONTROL Universal ID Beta]*: doel op de privacy van gebruikers. Selecteer één id-type. De beschikbare opties worden bepaald door de geselecteerde geografische doelen in de sectie [!UICONTROL Geo-Targeting] . Gebruik met [[!DNL RampID]  direct ingevoerde segmenten aan DSP ](/help/dsp/audiences/sources/source-import-liveramp-segments.md), [ segmenten waarvoor DSP uw PII in universele IDs ](/help/dsp/audiences/sources/source-about.md) omzet, of [ douanesegmenten die universele IDs ](/help/dsp/audiences/custom-segment-create.md) volgen.
+* *[!UICONTROL Universal ID Beta]*: doel op de privacy van gebruikers. Selecteer één id-type. De beschikbare opties worden bepaald door de geselecteerde geografische doelen in de sectie [!UICONTROL Geo-Targeting] . Gebruik met [[!DNL RampID]  segmenten die direct in DSP ](/help/dsp/audiences/sources/source-import-liveramp-segments.md) worden ingevoerd, [ segmenten waarvoor DSP uw PII in universele IDs ](/help/dsp/audiences/sources/source-about.md) omzet, of [ douanesegmenten die universele IDs ](/help/dsp/audiences/custom-segment-create.md) volgen.
 
    * *[!UICONTROL ID5]*: doelen voor [!DNL ID5] id&#39;s die waarschijnlijk zijn gemaakt op basis van e-mailadressen en andere signalen.<!-- What countries/geos are these available for? Everywhere?--> ID5-id&#39;s zijn gratis beschikbaar. **Nota:** De segmenten van de derdepartij van [!DNL Eyeota] kunnen ID5 IDs omvatten.
 
@@ -325,7 +325,7 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
 
    * *[!UICONTROL Unified ID2.0]*: doel [!DNL Unified ID2.0] (UID2) id&#39;s van gebruikers die zich bij uw site hebben aangemeld met hun e-mailadres.<!-- Verify -->[!DNL UID2 IDs] zijn niet beschikbaar voor gebruikers in de Europese Economische Ruimte en enkele andere landen. Zie de [ lijst van verboden landen ](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
-  **[!UICONTROL Terms of service]**: De serviceovereenkomst voor het gebruik van universele id&#39;s. U of een andere gebruiker in de DSP account moet de voorwaarden één keer accepteren voordat u gegevens kunt converteren naar een nieuw id-type. Voor klanten met beheerde de dienstcontracten, zal uw Team van de Rekening van de Adobe uw toestemming krijgen en zal de termijnen namens uw organisatie goedkeuren. Om de termijnen te lezen, klik **>**. Schuif naar de onderkant van de voorwaarden en klik op **[!UICONTROL Accept]** om de voorwaarden te accepteren.
+  **[!UICONTROL Terms of service]**: De serviceovereenkomst voor het gebruik van universele id&#39;s. Je of een andere gebruiker in de DSP-account moet de voorwaarden één keer accepteren voordat je gegevens kunt converteren naar een nieuw ID-type. Voor klanten met beheerde servicecontracten krijgt uw Adobe-accountteam uw toestemming en accepteert u de voorwaarden namens uw organisatie. Om de termijnen te lezen, klik **>**. Schuif naar de onderkant van de voorwaarden en klik op **[!UICONTROL Accept]** om de voorwaarden te accepteren.
 
 **[!UICONTROL Cross Device Targeting]:** (Beschikbaar wanneer de [ campagne voor op mensen-gebaseerd dwars-apparaat richtend ](/help/dsp/campaign-management/campaigns/campaign-settings.md) wordt gevormd, richt u erfenis IDs slechts (niet universele IDs), en u selecteert minstens één segment of publiek. Staat u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn. De kosten kunnen van toepassing zijn afhankelijk van de grafiek die voor de campagne wordt gespecificeerd. Apparaatgrafiekgegevens zijn alleen beschikbaar in Noord-Amerika.
 
@@ -346,7 +346,7 @@ Wanneer je zowel oude als universele id&#39;s selecteert, krijgt universele id&#
    * Als u handmatig een interval wilt selecteren, klikt u in een cel en sleept u optioneel om het interval te selecteren.
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] voor opname als doelen. Voor deze functie kunnen extra kosten in rekening worden gebracht. Om deze eigenschap en opstellingsonderwerpsegmenten te activeren, contacteer uw Team van de Rekening van de Adobe.
+**[!UICONTROL Topic Targeting]:** (Optioneel; beschikbaar voor adverteerders die zijn geconfigureerd met [!DNL Proximic by Comscore] segmenten) Specifieke segmentnamen of id&#39;s van [!DNL Proximic by Comscore] voor opname als doelen. Voor deze functie kunnen extra kosten in rekening worden gebracht. Neem contact op met uw Adobe-accountteam om deze functie te activeren en onderwerpsegmenten in te stellen.
 
 Onderwerpgerichte onderwerpen opgeven:
 
@@ -391,11 +391,11 @@ Onderwerpgerichte onderwerpen opgeven:
 
 ## [!UICONTROL Brand Safety and Media Quality]
 
-**[!UICONTROL DoubleVerify ABS segment ID]:** (Facultatief; [!DNL DoubleVerify] klanten slechts; beschikbaar voor pre-rol van de Desktop, standaard en klik-aan-spel vertoning, en inheemse vertoning en videoplaatsen slechts; niet gesteund voor [ standaard programmatic gewaarborgde Plaatsen voor overeenkomsten ](/help/dsp/inventory/programmatic-guaranteed-about.md)) A [!DNL DoubleVerify Authentic Brand Safety] segment ID verbonden aan de rekening van organisatie [!DNL DoubleVerify] voor de plaatsing te gebruiken. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP uw account aan voor gebruik van de segment-id.
+**[!UICONTROL DoubleVerify ABS segment ID]:** (Facultatief; [!DNL DoubleVerify] klanten slechts; beschikbaar voor pre-rol van de Desktop, standaard en klik-aan-spel vertoning, en inheemse vertoning en videoplaatsen slechts; niet gesteund voor [ standaard programmatic gewaarborgde Plaatsen voor overeenkomsten ](/help/dsp/inventory/programmatic-guaranteed-about.md)) A [!DNL DoubleVerify Authentic Brand Safety] segment ID verbonden aan de rekening van organisatie [!DNL DoubleVerify] voor de plaatsing te gebruiken. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP factureert uw account voor gebruik voor de segment-id.
 
 De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. Als een segment-id standaard is opgegeven in de accountinstellingen van de adverteerder, wordt de id op adverteerderniveau ingevoerd, maar u kunt de id wijzigen in een ander segment of de id verwijderen om de functie uit te schakelen.
 
-**[!UICONTROL Contextual filtering]:** Typen [!DNL Comscore] -, [!DNL DoubleVerify] - [!DNL Integral Ad Science] en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
+**[!UICONTROL Contextual filtering]:** (Van toepassing op desktopcomputers en mobiele webweergaven, eigen advertenties en video&#39;s) Typen [!DNL Comscore] -, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [!DNL Peer39] contextafhankelijke filters die moeten worden toegepast. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
 <!-- Looks like we didn't rename this:
 **[!UICONTROL Brand Safety categories]:** Types of [!DNL Comscore], [!DNL DoubleVerify], [!DNL Integral Ad Science], and [!DNL Peer39] brand safety category filters to apply. The advertiser-level defaults are selected for new placements, but you can change the settings:
@@ -421,34 +421,30 @@ De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. Als een segm
 
 **[!UICONTROL Pre-bid fraud blocking]:** Typen sites die worden geblokkeerd op basis van frauduleus verkeer en verdachte activiteiten die worden gemeten via [!DNL DoubleVerify] , [!DNL Integral Ad Science] en [!DNL Peer39] . De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
-* [!UICONTROL DoubleVerify]:
+* [!UICONTROL DoubleVerify]: (Van toepassing op desktopcomputers en mobiele webweergaven, eigen advertenties en videoclips)
 
    * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** Door gebrek, blokkeert al 100% ongeldig verkeer, met inbegrip van verkeer op gekaapte apparaten, voor nieuwe plaatsingen. Er kunnen extra kosten van toepassing zijn.
 
    * **[!UICONTROL Also block sites with]:** (Optioneel) Een extra niveau van fraude en ongeldig verkeer waardoor DSP advertenties standaard blokkeert: *[!UICONTROL None]* (de standaardinstelling, die geen extra verkeer blokkeert), *[!UICONTROL >2% Average Fraud/IVT levels (lowest reach)]*, *[!UICONTROL >4% Average Fraud/IVT levels]*, *[!UICONTROL >6% Average Fraud/IVT levels]*, *[!UICONTROL >10% Average Fraud/IVT levels]* of *[!UICONTROL >25% Average Fraud/IVT levels]* . Er kunnen extra kosten van toepassing zijn.
 
-* [!UICONTROL Peer 39]:
+* [!UICONTROL Peer 39]: (Van toepassing op desktopcomputers en mobiele webweergaven, eigen advertenties en videoclips)
 
-   * **[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude die DSP ertoe brengen advertenties standaard te blokkeren: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]* en/of *[!UICONTROL Fraud: Zero Ads]* . Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP standaard advertenties blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]* en/of *[!UICONTROL Fraud: Zero Ads]* . Er kunnen extra kosten van toepassing zijn.
 
-* [!UICONTROL Integral Ad Science]:
+* [!UICONTROL Integral Ad Science]: (Van toepassing op desktopcomputers en mobiele webweergaven, eigen advertenties en videoclips)
 
-   * **[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeren: *[!UICONTROL None]* (de standaardinstelling, die advertenties niet blokkeert op basis van verdachte activiteiten), *[!UICONTROL Suspicious Activity - High Risk]* of *[!UICONTROL Suspicious Activity - High or Moderate Risk]* . Er kunnen extra kosten van toepassing zijn.
+   * **[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeert: *[!UICONTROL None]* (de standaardinstelling, die advertenties niet blokkeert op basis van verdachte activiteiten), *[!UICONTROL Suspicious Activity - High Risk]* of *[!UICONTROL Suspicious Activity - High or Moderate Risk]* . Er kunnen extra kosten van toepassing zijn.
 
-**[!UICONTROL Pre-bid viewability]:**
+**[!UICONTROL Pre-bid viewability]:** (Van toepassing op desktopcomputers en mobiele webweergaven, eigen advertenties en videobanden) Welke filters voor weergave vooraf bieden door [!DNL DoubleVerify] en [!DNL Integral Ad Science] die moeten worden toegepast voor de plaatsing. De standaardinstellingen op advertentieniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen. Er kunnen extra kosten van toepassing zijn.
 
-Welke weergavekenmerken vóór het bod filteren op [!DNL DoubleVerify] en [!DNL Integral Ad Science] om de plaatsing toe te passen. De standaardinstellingen op advertentieniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen. Er kunnen extra kosten van toepassing zijn.
-
-**[!UICONTROL Ads.txt filtering]:**
-
-Welk niveau van [ Ads.txt ](https://iabtechlab.com/ads-txt-about/) prebid het filtreren aan gebruik door de Erkende lijst van Digitale Verkopers van elke uitgever toe te passen. De standaardinstelling op advertentieniveau is geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
+**[!UICONTROL Ads.txt filtering]:** (Van toepassing op Desktop en mobiele Webvertoning, inheems, video, en audioadvertenties) Welk niveau van [ Ads.txt ](https://iabtechlab.com/ads-txt-about/) pre-bid het filtreren door de Erkende lijst van Digitale Verkopers van elke uitgever toe te passen. De standaardinstelling op advertentieniveau is geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
 * *[!UICONTROL Opt out of ads.txt (default)]*: voorraad kopen van alle verkopers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers van een domein.
 
-**[!UICONTROL Attention Targeting]:** (Weergave, video en standaard aangesloten tv-plaatsingen) [!DNL Adelaide] hiermee kunt u vooraf biedende segmenten met een specifiek concentratieniveau (hoog, gemiddeld of laag) benaderen op basis van de opgegeven site, indeling en advertentiegrootte. De segmenten worden wekelijks bijgewerkt. **Nota:** Gebruikend [!DNL Adelaide] segmenten voor het richten maakt een CPM vergoeding voor elke indruk die met [!DNL Adelaide] aandacht het richten wordt geleverd; dit tarief is gescheiden van kosten voor [ aandachtmeting ](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
+**[!UICONTROL Attention Targeting]:** (Van toepassing op desktopcomputers en mobiele webweergaven, video en standaard aangesloten tv-advertenties) [!DNL Adelaide] Hiermee kunt u vooraf biedende segmenten met een specifiek concentratieniveau (hoog, gemiddeld of laag) benaderen op basis van de opgegeven site, indeling en advertentiegrootte. De segmenten worden wekelijks bijgewerkt. **Nota:** Gebruikend [!DNL Adelaide] segmenten voor het richten maakt een CPM vergoeding voor elke indruk die met [!DNL Adelaide] aandacht het richten wordt geleverd; dit tarief is gescheiden van kosten voor [ aandachtmeting ](/help/dsp/campaign-management/campaigns/campaign-settings.md). Voor interactieve pre-roll plaatsingen, wordt u slechts voor VAST beelden in rekening gebracht.
 
 ## [!UICONTROL Tracking] {#placement-tracking}
 
@@ -507,4 +503,4 @@ Welk niveau van [ Ads.txt ](https://iabtechlab.com/ads-txt-about/) prebid het fi
 >* [ beheert Bodmultipliers voor Plaatsingen ](placement-manage-bid-multipliers.md)
 >* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
 >* [ Sneltoetsen ](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [ Veelgestelde vragen over Campaign Management ](/help/dsp/campaign-management/faq-campaign-management.md)
+>* [ Veelgestelde vragen over het Beheer van de Campagne ](/help/dsp/campaign-management/faq-campaign-management.md)
