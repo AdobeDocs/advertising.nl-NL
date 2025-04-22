@@ -2,9 +2,9 @@
 title: Informatie over prestatieinzicht
 description: Meer informatie over de prestaties van uw campagnes.
 feature: DSP Packages, DSP Placements, DSP Ads
-source-git-commit: f821f7cec4ad2a9921337940a11ba62a122dbc23
+source-git-commit: b1e9d022894c638dae6c48482d98059d9540e1c4
 workflow-type: tm+mt
-source-wordcount: '473'
+source-wordcount: '476'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,9 @@ Geavanceerde, prestatiesinzichten met visualisaties geven u de informatie u nodi
 
 Voor om het even welke insight, kunt u een rapport, zonder de visualisaties, in het spreadsheet van Microsoft Excel (XLSX) formaat downloaden.
 
-## [!UICONTROL Home] Tab
+## Typen inzichten
+
+### [!UICONTROL Home] Tab
 
 Het lusje [!UICONTROL Home] verstrekt zeer belangrijke norm, prestaties, en viewability metriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of gegevens voor slechts specifieke campagnes <!-- active only? -->, pakketten <!-- active only? -->, douanedoelstellingen, en plaatsingen <!-- active only? --> te tonen. De inzichten omvatten:
 
@@ -27,7 +29,7 @@ Het lusje [!UICONTROL Home] verstrekt zeer belangrijke norm, prestaties, en view
 
 * Een uitsplitsing van de gegevens voor specifieke metriek door drie klant-gespecificeerde afmetingen, zoals door campagne, uitgever, en media type. Voor elke dimensionale verdeling kunt u een andere metrische waarde kiezen.
 
-## [!UICONTROL Household Reach] Tab
+### [!UICONTROL Household Reach] Tab
 
 Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of gegevens voor slechts specifieke campagnes <!-- active only? --> te tonen. De inzichten omvatten:
 

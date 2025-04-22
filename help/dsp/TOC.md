@@ -4,7 +4,7 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 148917239a2179b651b04418e53038d29856c649
+source-git-commit: 2d8785ed0f9be576d7c5437ac5793a46d787b954
 workflow-type: tm+mt
 source-wordcount: '944'
 ht-degree: 3%
@@ -97,8 +97,8 @@ ht-degree: 3%
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
-+ Prestatievoorkeuren voor meerdere campagnes {#insights}
-   + [Informatie over prestatieinzicht](/help/dsp/campaign-management/insights/insights-about.md)
+   + Prestatievoorkeuren voor meerdere campagnes {#insights}
+      + [Informatie over prestatieinzicht](/help/dsp/campaign-management/insights/insights-about.md)
    + Prestatierapporten in de weergaven van Campagnebeheer {#campaign-reports}
       + [Typen prestatierapporten in de weergaven van Campagnebeheer](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
