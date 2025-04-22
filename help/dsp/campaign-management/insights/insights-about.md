@@ -2,14 +2,14 @@
 title: Informatie over prestatieinzicht
 description: Meer informatie over de prestaties van uw campagnes.
 feature: DSP Packages, DSP Placements, DSP Ads
-source-git-commit: 16d3e9411cf7366a697399b85e7895fec5c6e47a
+source-git-commit: f76b0aad77b896bb84a898779e457a0893913024
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
 
-# Over prestatieinzicht&lt;!— Titel?—?>
+# Informatie over prestatieinzicht
 
 *eigenschap van Beta*
 
@@ -60,4 +60,8 @@ Filter icon + drop-down menu
 
 -->
 
-
+>[!MORELIKETHIS]
+>
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
