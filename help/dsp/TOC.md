@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: edb62b97e6b03efbabc051c8ec2d7326b291e085
+source-git-commit: 148917239a2179b651b04418e53038d29856c649
 workflow-type: tm+mt
-source-wordcount: '938'
+source-wordcount: '944'
 ht-degree: 3%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 3%
 + [Aanmelden bij Adobe Advertising DSP](/help/dsp/introduction/sign-in.md)
 + Inleiding {#introduction}
    + [Inleiding tot Adobe Advertising DSP](/help/dsp/introduction/dsp-about.md)
-   + Belangrijke functies {#features}
+   + Belangrijkste kenmerken {#features}
       + [Optimalisatie](/help/dsp/introduction/features/optimization.md)
       + [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
@@ -74,7 +74,7 @@ ht-degree: 3%
       + [Een plaatsing pauzeren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Een plaatsing archiveren of archiveren](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-   + Advertenties {#ads}
+   + Adds {#ads}
       + [Over Advertentiebeheer](/help/dsp/campaign-management/ads/ad-about.md)
       + [Certified Ad Serving Partners](/help/dsp/campaign-management/ads/certified-ad-servers.md)
       + [Eén advertentie maken](/help/dsp/campaign-management/ads/ad-create.md)
@@ -97,7 +97,9 @@ ht-degree: 3%
          + [Instellingen voor pre-roll-advertentie](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
          + [Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
       + [Specificaties voor ondersteunde advertentietypen](/help/dsp/campaign-management/ads/ad-specs.md)
-   + Prestatierapporten in weergaven van Campagnebeheer {#campaign-reports}
++ Prestatievoorkeuren voor meerdere campagnes {#insights}
+   + [Informatie over prestatieinzicht](/help/dsp/campaign-management/insights/insights-about.md)
+   + Prestatierapporten in de weergaven van Campagnebeheer {#campaign-reports}
       + [Typen prestatierapporten in de weergaven van Campagnebeheer](/help/dsp/campaign-management/reports/campaign-reports-about.md)
       + [Gegevens exporteren uit een Campagnebeheerweergave](/help/dsp/campaign-management/reports/campaign-export-data.md)
       + [Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing](/help/dsp/campaign-management/reports/placement-details-view.md)
@@ -142,7 +144,7 @@ ht-degree: 3%
       + [Een segment verwijderen](/help/dsp/audiences/segment-delete.md)
    + Bronnen {#sources}
       + [Ongeveer de Bronnen van het Publiek van de Eerste Partij](/help/dsp/audiences/sources/source-about.md)
-      + Workflows per gegevensplatform van de klant {#sources-workflows}
+      + Workflows door het gegevensplatform van de klant {#sources-workflows}
          + [Zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universele IDs om](/help/dsp/audiences/sources/source-adobe-rtcdp.md)
          + [Zet Gebruiker IDs van  [!DNL Amperity]  in Universele IDs om](/help/dsp/audiences/sources/source-amperity.md)
          + [Zet Gebruiker IDs van  [!DNL Optimizely]  in Universele IDs om](/help/dsp/audiences/sources/source-optimizely.md)
@@ -150,13 +152,13 @@ ht-degree: 3%
       + [Bronnen voor publiek beheren om Universal ID-publiek te activeren](/help/dsp/audiences/sources/source-manage.md)
    + [Handmatig voor authentiek verklaarde Segmenten van  [!DNL LiveRamp] invoeren](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
    + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)
-+ Overzicht {#inventory}
++ Inventaris {#inventory}
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
    + [ [!DNL Roku Inventory] gebruiken](/help/dsp/inventory/roku-inventory.md)
    + [SSP-partners](/help/dsp/inventory/ssp-partners.md)
    + [!DNL On Demand] Overzicht {#on-demand}
       + [Ongeveer  [!DNL On Demand]  Overzicht van de Premium](/help/dsp/inventory/on-demand-inventory-about.md)
-      + Beschikbare [!DNL On Demand] Premium-uitgevers uit voorraad {#publishers}
+      + Beschikbare [!DNL On Demand] Premium Inventory Publishers {#publishers}
          + [[!DNL On Demand] Premium-uitgevers in Azië Pacific](/help/dsp/inventory/on-demand-inventory-publishers-apac.md)
          + [[!DNL On Demand] Uitgevers van premiumvoorraden in Australië en Nieuw-Zeeland](/help/dsp/inventory/on-demand-inventory-publishers-anz.md)
          + [[!DNL On Demand] Premium-uitgevers in Europa, het Midden-Oosten en Afrika](/help/dsp/inventory/on-demand-inventory-publishers-emea.md)
@@ -164,9 +166,9 @@ ht-degree: 3%
       + [Abonneren en de Toegang van het Verzoek tot  [!DNL On Demand]  de Overeenkomsten van de Inventaris van de Premium](/help/dsp/inventory/on-demand-inventory-subscribe.md)
       + [Herverzoek  [!DNL On Demand]  de Overeenkomsten van de Inventaris van de Premium](/help/dsp/inventory/on-demand-inventory-rerequest.md)
       + [Bekijk de Status van Uw  [!DNL On Demand]  Verzoeken en Abonnementen van de Overeenkomst](/help/dsp/inventory/on-demand-inventory-view-status.md)
-   + Persoonlijke voorraad {#private-inventory}
+   + Privévoorraad {#private-inventory}
       + [Informatie over privé-voorraad](/help/dsp/inventory/private-inventory-about.md)
-      + Identiteitskaart van de Overeenkomst {#deal-ids}
+      + Deal IDs {#deal-ids}
          + [!UICONTROL Deal ID Inbox] {#inbox}
             + [Over de [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
             + [Accepteer een deal in de [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-accept.md)
@@ -189,7 +191,7 @@ ht-degree: 3%
       + [Inzichten in veilingen weergeven voor een persoonlijke deal](/help/dsp/inventory/private-deal-auction-insights.md)
       + [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
       + [Een persoonlijke deal archiveren of archiveren](/help/dsp/inventory/private-deal-archive-unarchive.md)
-   + [!UICONTROL Simple Ad Serving] Overeenkomsten {#sas}
+   + [!UICONTROL Simple Ad Serving] Deals {#sas}
       + [Info [!UICONTROL Simple Ad Serving]](/help/dsp/inventory/simple-deal-about.md)
       + [Een [!UICONTROL Simple Ad Serving] deal maken](/help/dsp/inventory/simple-deal-create.md)
       + [[!UICONTROL Simple Ad Serving] Dealinstellingen bewerken](/help/dsp/inventory/simple-deal-edit.md)
@@ -221,7 +223,7 @@ ht-degree: 3%
    + [Een voorspelling exporteren voor een aangesloten tv-bereikplan](/help/dsp/planner/planner-export.md)
    + [De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren](/help/dsp/planner/planner-forecast.md)
    + [Een aangesloten tv-bereikabonnement archiveren](/help/dsp/planner/planner-archive.md)
-+ Beheer {#admin}
++ Administratie {#admin}
    + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
    + Gebruikers {#users}
       + [Nieuwe gebruiker uitnodigen](/help/dsp/admin/user-invite.md)
