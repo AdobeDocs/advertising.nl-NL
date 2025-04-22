@@ -2,9 +2,10 @@
 title: Informatie over prestatieinzicht
 description: Meer informatie over de prestaties van uw campagnes.
 feature: DSP Packages, DSP Placements, DSP Ads
-source-git-commit: b1e9d022894c638dae6c48482d98059d9540e1c4
+exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
+source-git-commit: be84bea53ec6c5378102aa510b9d58b1d0004b4b
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: '615'
 ht-degree: 0%
 
 ---
@@ -15,9 +16,19 @@ ht-degree: 0%
 
 <!-- Edit title and metadata as necessary -->
 
-Geavanceerde, prestatiesinzichten met visualisaties geven u de informatie u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe kansen te ontdekken om prestaties te schrapen.
+Geavanceerde, prestatiesinzichten met visualisaties geven u de informatie u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe kansen te ontdekken om prestaties te schrapen. U kunt gegevens in verschillende campagnes bekijken of naar een lager niveau gaan.
 
-Voor om het even welke insight, kunt u een rapport, zonder de visualisaties, in het spreadsheet van Microsoft Excel (XLSX) formaat downloaden.
+Prestatieinzichten gebruiken voor:
+
+* De langetermijntendensen volgen voor strategische planning en geïnformeerde besluitvorming.
+
+* Identificeer kansen om betere resultaten te bereiken.
+
+* Verbeter efficiency door de tijd tussen het krijgen van ruwe gegevens en het bereiken van actionable inzichten te verminderen.
+
+U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
+
+U kunt de mening ook [ vormen en het opslaan als douanemening ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -35,13 +46,15 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 * Een trendgrafiek door dag of door week voor drie klant-gespecificeerde metriek (door gebrek, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], en [!UICONTROL Net CPM]).
 
-* Een cirkeldiagram van het bereik van het incrementele huishouden met [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt.
+* Een donutgrafiek die het bereik van het incrementele huishouden weergeeft met [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt.
 
-* Een staafdiagram dat [!UICONTROL Unique Reach] door [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] toont. **Nota:** een huishouden dat door veelvoudige media, apparaat, of inventaristypes wordt bereikt wordt beschouwd als overlappend.
+* Het incrementele unieke bereik van het huishouden tegenover het overlappende bereik van het huishouden door [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] .
 
-* Een lijst met de meest gebruikte campagnes, plaatsingen, pakketten, uitgevers, sites/apps, mediatypen, inventaristypen of apparaattypen. Metrische gegevens zijn [!UICONTROL Unique Reach] , [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach] .
+  Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt. Een huishouden dat door veelvoudige media, apparaat, of voorraadtypes wordt bereikt wordt beschouwd als overlappend.
 
-* Een <!-- ???? --> -grafiek van de [!UICONTROL Cost per Reach] en [!UICONTROL Net Spend] op pakket, uitgever of site/app.
+* De best presterende campagnes, plaatsingen, pakketten, uitgevers, sites/apps, mediatypen, voorraadtypen of apparaattypen per [!UICONTROL Unique Reach], [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach].
+
+* De [!UICONTROL Cost per Reach] en [!UICONTROL Net Spend] op pakket, uitgever of site/app. Met deze insight kunt u zien welke pakketten, uitgevers of sites/apps het potentieel voor aanzienlijk incrementeel bereik weergeven.
 
 ## Open Performance Insiders
 
@@ -72,7 +85,13 @@ Klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
 
 1. Selecteer de metriek en klik op **[!UICONTROL Apply]** .
 
-## Een Insight downloaden
+## Alle visualisaties voor een tabblad exporteren naar een PDF-bestand
+
+* Klik boven de tab op **[!UICONTROL ...]** > **[!UICONTROL Export]** .
+
+  Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
+
+## Een specifieke Insight downloaden naar een XLSX-bestand
 
 * Aan het hogere recht van insight, klik ](/help/creative/assets/download.png " Download ") ![.
 
