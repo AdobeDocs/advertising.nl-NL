@@ -1,9 +1,9 @@
 ---
 title: Informatie over prestatieinzicht
-description: Meer informatie over de prestaties van uw campagnes.
-feature: DSP Packages, DSP Placements, DSP Ads
+description: Leer meer over prestatiesinzichten met visualisaties.
+feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: 7b5b28f0b1892d92527ab6b4c7d4ee595d791aac
+source-git-commit: c146a49e7ebef567707b67365114fc23ee5d0884
 workflow-type: tm+mt
 source-wordcount: '622'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 <!-- Edit title and metadata as necessary -->
 
-Geavanceerde, prestatiesinzichten met visualisaties geven u de informatie u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe kansen te ontdekken om prestaties te schrapen. U kunt gegevens in verschillende campagnes bekijken of naar een lager niveau gaan.
+Geavanceerde prestatieonderzoeken met visualisaties geven u de informatie die u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe mogelijkheden voor schaalbare prestaties te ontdekken. U kunt gegevens in verschillende campagnes bekijken of naar een lager niveau gaan.
 
 Prestatieinzichten gebruiken voor:
 
@@ -28,7 +28,7 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md) opslaan, als u voor de meningen van het campagnebeheer kunt.
+U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md) als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -50,7 +50,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 * Het incrementele unieke bereik van het huishouden tegenover het overlappende bereik van het huishouden door [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] .
 
-  Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt. Een huishouden dat door veelvoudige media, apparaat, of voorraadtypes wordt bereikt wordt beschouwd als overlappend.
+  Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt. Een huishouden dat door veelvoudige media, apparaat, of inventaristypes wordt bereikt wordt beschouwd als overlappend.
 
 * De best presterende campagnes, plaatsingen, pakketten, uitgevers, sites/apps, mediatypen, voorraadtypen of apparaattypen per [!UICONTROL Unique Reach], [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach].
 
