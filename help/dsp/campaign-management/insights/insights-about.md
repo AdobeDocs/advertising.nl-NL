@@ -3,9 +3,9 @@ title: Informatie over prestatieinzicht
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: 04858fdbe884c30ebec3e1dff0d9c4d2622a16a1
+source-git-commit: e0e44a0be283f27d2dd1c1ae0c5f0c00c08edddc
 workflow-type: tm+mt
-source-wordcount: '623'
+source-wordcount: '620'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 ## Open Performance Insiders
 
-* (Om inzichten voor alle campagnes) in het belangrijkste menu te openen, klik **[UICONTROL Inzichten BETA]**.
+* (Als u inzichten voor alle campagnes wilt openen) Klik in het hoofdmenu op **[!UICONTROL Insights BETA]** .
 
 * (Als u inzichten wilt openen voor een specifieke campagne, een bepaald pakket of een bepaalde plaatsing) klikt u naast de naam van de entiteit in de weergave [!UICONTROL Campaigns] , [!UICONTROL Packages] of [!UICONTROL Placements] op **[!UICONTROL ...]** > **[!UICONTROL Insights]** .
 
