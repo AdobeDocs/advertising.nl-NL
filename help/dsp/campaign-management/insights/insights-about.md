@@ -3,9 +3,9 @@ title: Informatie over prestatieinzicht
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: e0e44a0be283f27d2dd1c1ae0c5f0c00c08edddc
+source-git-commit: ca531db43b9e07dc767da3d0e866bfc85add7ee9
 workflow-type: tm+mt
-source-wordcount: '620'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -46,11 +46,11 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 * Een trendgrafiek door dag of door week voor drie klant-gespecificeerde metriek (door gebrek, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], en [!UICONTROL Net CPM]).
 
-* Een donutgrafiek die het bereik van het incrementele huishouden weergeeft met [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt.
+* Een donutgrafiek die het bereik van het incrementele huishouden weergeeft met [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . *Het incrementele huisbereik* wordt bepaald als huishouden dat uitsluitend door één enkele media, apparaat, of inventaristype wordt bereikt.
 
 * Het incrementele unieke bereik van het huishouden tegenover het overlappende bereik van het huishouden door [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] .
 
-  Het incrementele huishoudelijke bereik wordt gedefinieerd als een huishouden dat uitsluitend via één medium, apparaat of voorraadtype wordt bereikt. Een huishouden dat door veelvoudige media, apparaat, of inventaristypes wordt bereikt wordt beschouwd als overlappend.
+  *Het incrementele huisbereik* wordt bepaald als huishouden dat uitsluitend door één enkele media, apparaat, of inventaristype wordt bereikt. *overlappend huisbereik* wordt bepaald als huishouden dat door veelvoudige media, apparaat, of inventaristypes wordt bereikt.
 
 * De best presterende campagnes, plaatsingen, pakketten, uitgevers, sites/apps, mediatypen, voorraadtypen of apparaattypen per [!UICONTROL Unique Reach], [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach].
 
@@ -64,8 +64,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 ## Filters toepassen op een tabblad
 
-1. In de werkbalk boven aan het tabblad:
-Klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
+1. In de toolbar bij de bovenkant van het lusje, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
 
 1. Selecteer in de linkerkolom een dimensie en selecteer vervolgens een of meer waarden in de rechterkolom, al naar gelang van toepassing.
 
