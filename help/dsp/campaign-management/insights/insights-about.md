@@ -3,9 +3,9 @@ title: Informatie over prestatieinzicht
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: c146a49e7ebef567707b67365114fc23ee5d0884
+source-git-commit: 04858fdbe884c30ebec3e1dff0d9c4d2622a16a1
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '623'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md) als u voor de meningen van het campagnebeheer kunt.
+U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -58,7 +58,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 ## Open Performance Insiders
 
-* (Om inzichten voor alle campagnes) in het belangrijkste menu te openen, klik **[Inzichten BETA]**.
+* (Om inzichten voor alle campagnes) in het belangrijkste menu te openen, klik **[UICONTROL Inzichten BETA]**.
 
 * (Als u inzichten wilt openen voor een specifieke campagne, een bepaald pakket of een bepaalde plaatsing) klikt u naast de naam van de entiteit in de weergave [!UICONTROL Campaigns] , [!UICONTROL Packages] of [!UICONTROL Placements] op **[!UICONTROL ...]** > **[!UICONTROL Insights]** .
 
