@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 731728964eef89aa1299c02fd90c805e13a0b163
+source-git-commit: 1ab83cfe82bde4a7b1a32cf3773cdce4738af497
 workflow-type: tm+mt
-source-wordcount: '1059'
+source-wordcount: '1067'
 ht-degree: 0%
 
 ---
@@ -62,7 +62,7 @@ U kunt eenvoudige of statische HTML5-creatieven uploaden, met alle kenmerken en 
 
 #### Afbeeldingscreatieven
 
-U kunt creatieve afbeeldingen opnemen in de indeling GIF, JPEG, JPG of PNG. U kunt <!--LATER:   images from your Adobe Experience Manager accounts or --> beelden van uw apparaat of netwerk uploaden.
+U kunt creatieve afbeeldingen opnemen in de indeling GIF, JPEG, JPG of PNG. U kunt afbeeldingen uploaden vanaf uw Adobe Experience Manager-accounts of vanaf uw apparaat of netwerk.
 
 Voor elke advertentie-ervaring is een standaardafbeelding vereist die creatief is voor elke creatieve grootte die aan de ervaring is toegewezen.
 
