@@ -3,9 +3,9 @@ title: Informatie over prestatieinzicht
 description: Meer informatie over de prestaties van uw campagnes.
 feature: DSP Packages, DSP Placements, DSP Ads
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: be84bea53ec6c5378102aa510b9d58b1d0004b4b
+source-git-commit: 7b5b28f0b1892d92527ab6b4c7d4ee595d791aac
 workflow-type: tm+mt
-source-wordcount: '615'
+source-wordcount: '622'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt de mening ook [ vormen en het opslaan als douanemening ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md), als u voor de meningen van het campagnebeheer kunt.
+U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md) opslaan, als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -102,3 +102,4 @@ Klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
 >* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
 >* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
+>* [ beheert Uw Kijken van Gegevens van de Campagne ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
