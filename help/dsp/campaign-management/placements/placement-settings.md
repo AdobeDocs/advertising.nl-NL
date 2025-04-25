@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: eaa25ce24bf00fb5ff7ea1e4a3364d4439f49b00
+source-git-commit: 28ec89de0bd1a90578c6dd53a8249abbe4facbda
 workflow-type: tm+mt
-source-wordcount: '4039'
+source-wordcount: '4042'
 ht-degree: 0%
 
 ---
@@ -421,7 +421,7 @@ De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. Als een segm
 
 **[!UICONTROL Pre-bid fraud blocking]:** Typen sites die worden geblokkeerd op basis van frauduleus verkeer en verdachte activiteiten die worden gemeten via [!DNL DoubleVerify] , [!DNL Integral Ad Science] en [!DNL Peer39] . De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen, maar u kunt de instellingen wijzigen:
 
-* [!UICONTROL DoubleVerify]: (Van toepassing op desktopcomputers en mobiele webweergaven, systeemeigen advertenties en videoclips) <!-- Applicable for desktop and mobile web display, native, video, and standard connected TV ads -->
+* [!UICONTROL DoubleVerify]: (Van toepassing op desktopcomputers en mobiele webweergaven, eigen tv-advertenties, video-advertenties en standaardadvertenties op aangesloten tv)
 
    * **[!UICONTROL Block Fraud Sites (100% Invalid traffic) and User-Based Fraud and IVT Devices]:** Door gebrek, blokkeert al 100% ongeldig verkeer, met inbegrip van verkeer op gekaapte apparaten, voor nieuwe plaatsingen. Er kunnen extra kosten van toepassing zijn.
 

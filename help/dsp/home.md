@@ -5,9 +5,9 @@ cloud: Experience Cloud
 product: advertising cloud
 index: true
 exl-id: 680f8597-1700-4a9c-8214-9d9b4d753d19
-source-git-commit: ccdc71ccef37650d6f2cc830e96ab3882a7d52b4
+source-git-commit: b103a2ac8834fa559428e7b3cd1947a0cd3ed33b
 workflow-type: tm+mt
-source-wordcount: '5225'
+source-wordcount: '5277'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 25 april 2025 | [!UICONTROL Placements] , Merk Safety and Media Quality | DSP biedt nu [!DNL DoubleVerify] ondersteuning voor het blokkeren van voorbiedingsfraude voor standaard aangesloten tv-berichten. Nieuwe plaatsingen nemen automatisch de fraudeblokkeringsinstellingen op advertentieniveau over. Als u een overgeërfde instelling wilt uitsluiten, verwijdert u deze handmatig.<br><br> Steun voor universele videoplaatsen zal in een toekomstige versie beschikbaar zijn. | Zie &quot;[ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md#prebid-fraud-blocking).&quot; |
 | 24 april 2025 | Prestaties [!UICONTROL Insights] | (Beta-functie) Geavanceerde, prestatiesinzichten met visualisaties geven u de informatie die u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe mogelijkheden voor schaalprestaties te ontdekken. U kunt gegevens in verschillende campagnes bekijken of naar een lager niveau gaan. | Zie &quot;[ Ongeveer de Inzichten van Prestaties ](/help/dsp/campaign-management/insights/insights-about.md).&quot; |
 | 26 maart 2025 | Aanmelden | DSP gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt SSO-toegang (Single Sign-On) tot alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. U kunt nu een [!DNL Adobe ID] gebruiken om u aan te melden voor [!DNL Adobe] -producten vanaf de Experience Cloud-aanmeldpagina of de oudere DSP-aanmeldingspagina. Uw huidige DSP-gegevens blijven 90 dagen actief zodat u zich kunt voorbereiden op de wijziging. | Zie &quot;[ binnen Teken aan Adobe Advertising DSP ](/help/dsp/introduction/sign-in.md).&quot;<br><br> voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot; |
 | | [!UICONTROL Packages], [!UICONTROL Placements], [!UICONTROL Ads] | De volgende mogelijkheden voor bulkbewerking zijn nu beschikbaar:<ul><li>U kunt spreadsheets op campagnereniveau rechtstreeks bewerken en opnieuw uploaden met instellingen voor de pakketten, plaatsen en advertenties van de campagne. Eerder moest u een sjabloonbestand downloaden en handmatig de wijzigingen invoeren die u wilt uploaden.</li><li>De dossiers worden nu genoemd &quot;*bulksbladen*&quot;door de [!UICONTROL Campaigns] meningen, in plaats van &quot;bladen QA,&quot;en u selecteert opties aan &quot;[!UICONTROL Download Bulksheet]&quot; en &quot;[!UICONTROL Upload Bulksheet]&quot;.</li><li>De meeste plaatsingsinstellingen zijn nu beschikbaar in bulksbladen.</li></ul> | Zie &quot;[ Overzicht en geef de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md).&quot;<br><br> zie ook &quot;[ Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets ](/help/dsp/campaign-management/packages/package-qa.md)&quot;en &quot;[ Overzicht en geef de Montages van de Plaatsing Gebruikend Bulksheets ](/help/dsp/campaign-management/placements/placement-qa.md) uit.&quot; |
