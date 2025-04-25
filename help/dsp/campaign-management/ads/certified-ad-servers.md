@@ -3,9 +3,9 @@ title: Certified Ad Serving Partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
-source-git-commit: 97e0f562153983202a2f3641e17dd682ff3d00ea
+source-git-commit: 75d4efbf5028b0d3ceeee247d1ee3616ae49d683
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '331'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 0%
 | [!DNL Spirable] | | X | | | |
 | [!DNL SUBLIME] | | | X | | |
 | [!DNL SundaySky] | | | | X | |
-| [!DNL Teads] | | X | | | Er is geen ondersteuning beschikbaar voor VPAID in de Outstream-voorraad. |
+| [!DNL Teads] | | X | | | Bevat native weergave. Er is geen ondersteuning beschikbaar voor VPAID in de Outstream-voorraad. |
 | [!DNL Trueffect] | | X | | | |
 | [!DNL Undertone] | | | X | | De Grabber van de Pagina van de douane en eenheid uploadde als 180x150 in DSP </br></br> wanneer de Uitwisseling van de Index een veiling van 180x150 overgaat en DSP biedt op de veiling en een indruk dient, breidt creatief zich aan een full-page vertoningsadvertentie uit.</br></br> aanvankelijk verklaard voor de Grabber van de Pagina, Uitbreidbare Adhesie, en de eenheden van de Verschuiving van het Scherm. Dit moet opnieuw worden bevestigd, met stappen gemarkeerd voor processen. |
 | [!DNL Vox] | | | X | | [!DNL Athena] ad-units |
