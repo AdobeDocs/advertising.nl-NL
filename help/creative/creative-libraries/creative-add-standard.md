@@ -3,9 +3,9 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: 1ab83cfe82bde4a7b1a32cf3773cdce4738af497
+source-git-commit: d68c8c31a047c4615224e9ab19654e56b5e8c8f9
 workflow-type: tm+mt
-source-wordcount: '651'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
@@ -158,15 +158,21 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Image]**.
 
-1. Geef de bestanden op de volgende manieren op:
+1. Geef de afbeeldingen op:
 
-   * Sleep bestanden op uw apparaat of netwerk naar het vak.
+   * Voer een van de volgende handelingen uit voor lokale afbeeldingselementen:
 
-   * Klik op **[!UICONTROL select a file]** om het bestand op uw apparaat of netwerk te zoeken.
-<!--  Verify wording and workflow and add when available:
+      * Sleep bestanden op uw apparaat of netwerk naar het vak.
 
-   * Click **[!UICONTROL AEM Asset Library]** to locate a file in your Adobe Experience Manager library.
--->
+      * Klik op **[!UICONTROL select a file]** om bestanden op uw apparaat of netwerk te zoeken.
+
+   * Ga als volgt te werk voor afbeeldingen in uw Adobe Experience Manager-bibliotheek:
+
+      1. Klik op **[!UICONTROL AEM Asset Library]**.
+
+      1. Meld u aan bij uw Experience Manager-account.
+
+      1. Zoek en selecteer de bestanden in de weergaven [!UICONTROL Assets] of [!UICONTROL Collections] en klik vervolgens op **[!UICONTROL Select]** rechtsboven.
 
 1. Afbeeldingen toevoegen of verwijderen:
 
