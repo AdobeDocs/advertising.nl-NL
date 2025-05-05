@@ -32,5 +32,5 @@ Wanneer u een pakket hebt gemaakt, kunt u er plaatsingen aan toewijzen.
 >* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
 >* [Een pakket onderbreken of activeren](package-pause-activate.md)
 >* [Pakketinstellingen](package-settings.md)
->* [Video: Een pakket maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html)
+>* [Video: Een pakket maken](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html?lang=nl-NL)
 

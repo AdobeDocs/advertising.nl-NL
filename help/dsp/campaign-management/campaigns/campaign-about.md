@@ -35,5 +35,5 @@ Als u alle pakketten, plaatsen en advertenties in een campagne wilt weergeven, k
 >
 >* [Een campagne maken](campaign-create.md)
 >* [Campagne-instellingen](campaign-settings.md)
->* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
 

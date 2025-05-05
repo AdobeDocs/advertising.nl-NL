@@ -239,7 +239,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Uitgebreide dynamische zoekopdracht
 
-Dit advertentietype wordt nu &#39;&#39;dynamic search ad&#39;&#39; in [!DNL Google Ads] genoemd. Voor meer informatie over het creëren van dynamische onderzoeksadvertenties, zie &quot;[  [!DNL Google Ads]  dynamische onderzoeksadvertenties ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/google-dynamic-search-ads.html) uitvoeren.&quot;
+Dit advertentietype wordt nu &#39;&#39;dynamic search ad&#39;&#39; in [!DNL Google Ads] genoemd. Voor meer informatie over het creëren van dynamische onderzoeksadvertenties, zie &quot;[  [!DNL Google Ads]  dynamische onderzoeksadvertenties ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/google-dynamic-search-ads.html?lang=nl-NL) uitvoeren.&quot;
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 
@@ -264,7 +264,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Aanbiedings-/winkeladvertentievelden
 
-Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[ voert  [!DNL Google Ads]  het winkelen campagnes ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/google-shopping-campaigns.html) uit.&quot;
+Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[ voert  [!DNL Google Ads]  het winkelen campagnes ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/google-shopping-campaigns.html?lang=nl-NL) uit.&quot;
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 

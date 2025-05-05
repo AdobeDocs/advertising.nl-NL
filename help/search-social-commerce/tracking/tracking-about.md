@@ -30,7 +30,7 @@ Met de volgende parameters kan de Adobe Advertising klikken bijhouden op een afz
 
 * In alle andere gevallen verzendt het advertentienetwerk de klik rechtstreeks naar de pixelservers van de Adobe Advertising. De pixelserver plaatst een cookie op de computer van de gebruiker (als deze nog niet bestaat) en leidt de gebruiker vervolgens om naar de relevante URL op uw website. De algemene ervaring voor de eindgebruiker is hetzelfde als zonder omleiding.
 
-Het cookie wordt ingesteld in het dialoogvenster [!DNL Adobe] domain (`everesttech.net`) als een eersteklas cookie. Na een omleiding bevindt de gebruiker zich in het domein van de adverteerder en wordt het cookie vervolgens behandeld als een cookie van een derde. Voor meer informatie over Adobe Advertising koekjes, zie &quot;[Cookies Adoben Advertising](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html).&quot;
+Het cookie wordt ingesteld in het dialoogvenster [!DNL Adobe] domain (`everesttech.net`) als een eersteklas cookie. Na een omleiding bevindt de gebruiker zich in het domein van de adverteerder en wordt het cookie vervolgens behandeld als een cookie van een derde. Voor meer informatie over Adobe Advertising koekjes, zie &quot;[Cookies Adoben Advertising](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html?lang=nl-NL).&quot;
 
 ## Conversiegegevens
 

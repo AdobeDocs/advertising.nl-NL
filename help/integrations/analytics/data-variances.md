@@ -86,7 +86,7 @@ Houd rekening met deze verschillen bij het vergelijken van doorkijkconversies tu
 >
 >Om verwarring te voorkomen maakt [!DNL Analytics] historische gegevens niet beschikbaar in de rapportinterface. U kunt de historische gegevens weergeven als u de [!DNL eVar] terugzet naar de eerste toewijzingsinstelling, maar u mag de toewijzingsinstellingen van [!DNL eVar] niet wijzigen om alleen toegang te krijgen tot historische gegevens. Adobe raadt u aan een nieuwe [!DNL eVar] te gebruiken wanneer u een nieuwe toewijzingsinstelling wilt toepassen voor gegevens die al worden opgenomen, in plaats van toewijzingsinstellingen te wijzigen voor een [!DNL eVar] die al een aanzienlijke hoeveelheid historische gegevens bevat.
 
-Zie een lijst van [!DNL Analytics] attributiemodellen en hun definities in [ https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/attribution/models ](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/attribution/models).
+Zie een lijst van [!DNL Analytics] attributiemodellen en hun definities in [ https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/attribution/models ](https://experienceleague.adobe.com/nl/docs/analytics/analyze/analysis-workspace/attribution/models).
 
 Als u bent aangemeld bij [!DNL Search, Social, & Commerce] , kunt u een lijst vinden
 
@@ -102,11 +102,11 @@ In Adobe Advertising, kunt u omzettingsgegevens of door de bijbehorende klikdatu
 
 ## Kenmerk in [!DNL Analytics Marketing Channels]
 
-[[!DNL Analytics Marketing Channels]  het melden ](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) staat u toe om regels te vormen om verschillende marketing kanalen te identificeren die op verschillende aspecten van klapinformatie worden gebaseerd. U kunt kanalen met Adobe Advertising als [!UICONTROL Display Click Through], [!UICONTROL Display View Through] en [!UICONTROL Paid Search]) [!DNL Marketing Channels] bijhouden door het kanaal te identificeren aan de hand van de parameter van de queryreeks `ef_id` . <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Hoewel in de [!DNL Marketing Channels] -rapporten wel Adobe Advertising kanalen kunnen worden bijgehouden, komen de gegevens mogelijk om verschillende redenen niet overeen met de rapporten van de Adobe Advertising. Zie de volgende secties voor meer informatie.
+[[!DNL Analytics Marketing Channels]  het melden ](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html?lang=nl-NL) staat u toe om regels te vormen om verschillende marketing kanalen te identificeren die op verschillende aspecten van klapinformatie worden gebaseerd. U kunt kanalen met Adobe Advertising als [!UICONTROL Display Click Through], [!UICONTROL Display View Through] en [!UICONTROL Paid Search]) [!DNL Marketing Channels] bijhouden door het kanaal te identificeren aan de hand van de parameter van de queryreeks `ef_id` . <!-- Move most of the above text to "Marketing Channels" chapter once it's created, and add link here. --> Hoewel in de [!DNL Marketing Channels] -rapporten wel Adobe Advertising kanalen kunnen worden bijgehouden, komen de gegevens mogelijk om verschillende redenen niet overeen met de rapporten van de Adobe Advertising. Zie de volgende secties voor meer informatie.
 
 >[!NOTE]
 >
-> De volgende kernconcepten zijn ook op om het even welk multi-kanaalvolgen van toepassing dat campagnes impliceert die niet in Adobe Advertising worden gevolgd, zoals [`campaign` ](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/campaign.html) variabele (die ook als &quot;het Volgen code&quot;dimensie of &quot;[!DNL eVar] 0&quot;wordt bekend) en douane [!DNL eVar] het volgen.
+> De volgende kernconcepten zijn ook op om het even welk multi-kanaalvolgen van toepassing dat campagnes impliceert die niet in Adobe Advertising worden gevolgd, zoals [`campaign` ](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/campaign.html?lang=nl-NL) variabele (die ook als &quot;het Volgen code&quot;dimensie of &quot;[!DNL eVar] 0&quot;wordt bekend) en douane [!DNL eVar] het volgen.
 
 ### Mogelijke verschillen in attributiemodellen in [!DNL Marketing Channels]
 
@@ -130,7 +130,7 @@ Voor meer verklaring van waarom de metriek kan variëren, zie &quot;[ waarom de 
 
 ## Gegevensverschillen in Adobe Analytics [!DNL Paid Search Detection]
 
-De [ erfenis  [!DNL Paid Search Detection] ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html) eigenschap in [!DNL Analytics] staat bedrijven toe [ regels te bepalen om betaald en biologisch onderzoeksverkeer ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html) voor gespecificeerde onderzoeksmotoren te volgen. De [!DNL Paid Search Detection] regels gebruiken zowel een vraagkoord als het verwijzende domein om betaald en natuurlijk onderzoeksverkeer te identificeren. De [!DNL Paid Search Detection] rapporten maken deel uit van de grotere groep van [ het Vinden Methoden ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html) rapporten, die of verlopen wanneer een gespecificeerde gebeurtenis (zoals een Controle van het Kunst) voorkomt of het bezoek beëindigt.
+De [ erfenis  [!DNL Paid Search Detection] ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/paid-search-detection.html?lang=nl-NL) eigenschap in [!DNL Analytics] staat bedrijven toe [ regels te bepalen om betaald en biologisch onderzoeksverkeer ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/paid-search-detection/t-paid-search-detection.html?lang=nl-NL) voor gespecificeerde onderzoeksmotoren te volgen. De [!DNL Paid Search Detection] regels gebruiken zowel een vraagkoord als het verwijzende domein om betaald en natuurlijk onderzoeksverkeer te identificeren. De [!DNL Paid Search Detection] rapporten maken deel uit van de grotere groep van [ het Vinden Methoden ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/finding-methods.html?lang=nl-NL) rapporten, die of verlopen wanneer een gespecificeerde gebeurtenis (zoals een Controle van het Kunst) voorkomt of het bezoek beëindigt.
 
 Hieronder ziet u de interface voor het maken van een [!DNL Paid Search Detection] -regelset:
 
@@ -148,7 +148,7 @@ Houd rekening met de volgende twee beperkingen met gegevens in [!DNL Paid Search
 
 ### Waarom [!DNL Paid Search Detection] configureren?
 
-De [!DNL Paid Search Detection] rapporten staan u toe om natuurlijk onderzoeksverkeer in de [[!DNL Analytics Marketing Channels]  rapporten ](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html) te identificeren. Het scheiden van betaald onderzoeksverkeer tegenover natuurlijk onderzoeksverkeer is een grote manier om de waarde te begrijpen die de natuurlijke opsporing aan het volledige marketing ecosysteem brengt.
+De [!DNL Paid Search Detection] rapporten staan u toe om natuurlijk onderzoeksverkeer in de [[!DNL Analytics Marketing Channels]  rapporten ](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/analyze-mc.html?lang=nl-NL) te identificeren. Het scheiden van betaald onderzoeksverkeer tegenover natuurlijk onderzoeksverkeer is een grote manier om de waarde te begrijpen die de natuurlijke opsporing aan het volledige marketing ecosysteem brengt.
 
 ## Doorklikgegevens valideren voor [!DNL Analytics for Advertising] {#data-validation}
 
@@ -237,7 +237,7 @@ Ze lijken op elkaar, maar klikken en bezoeken geven verschillende gegevens weer:
 
 * **klik:** [!DNL DSP] of de onderzoeksmotor registreert een klik wanneer een bezoeker een advertentie op de website van een uitgever klikt.
 
-* **Bezoek:** [!DNL Analytics] bepaalt a [ bezoek ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html) als reeks paginameningen door een gebruiker, die volgens één van verscheidene criteria, zoals 30 minuten van inactiviteit beëindigt.
+* **Bezoek:** [!DNL Analytics] bepaalt a [ bezoek ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL) als reeks paginameningen door een gebruiker, die volgens één van verscheidene criteria, zoals 30 minuten van inactiviteit beëindigt.
 
 Een klik kan per definitie leiden tot meerdere bezoeken.
 

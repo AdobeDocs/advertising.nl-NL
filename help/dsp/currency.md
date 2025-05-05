@@ -17,7 +17,7 @@ Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
 >[!NOTE]
 >
->Adobe Analytics-ondersteuning [een groter aantal valuta &#39; s](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html).
+>Adobe Analytics-ondersteuning [een groter aantal valuta &#39; s](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html?lang=nl-NL).
 
 ## DSP en creatief
 

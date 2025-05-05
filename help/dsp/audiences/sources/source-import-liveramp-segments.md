@@ -44,5 +44,5 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 >
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)

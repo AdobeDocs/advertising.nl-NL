@@ -34,7 +34,7 @@ Primaire voordelen:
 
 >[!TIP]
 >
-> Bekijk a [ videoinleiding aan  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html#analytics).
+> Bekijk a [ videoinleiding aan  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html?lang=nl-NL#analytics).
 
 ## Analyses gebruiken voor rapportage van betaalde media
 
@@ -86,17 +86,17 @@ Zie &quot;[ Metriek van Analytics in Adobe Advertising ](analytics-data-in-adver
 
 Adobe Advertising kan [!DNL Analytics] -segmenten opnemen voor marketingdoeleinden voor Advertising DSP- en [!DNL Search, Social, & Commerce] -advertenties die gebruikmaken van de native Experience Cloud-publieksintegratie tussen [!DNL Analytics] en Experience Cloud.
 
-Om tot de [!DNL Analytics] segmenten toegang te hebben, moet een adverteerderrekening de [ Dienst van identiteitskaart van het Experience Cloud ](https://experienceleague.adobe.com/docs/id-service/using/home.html) toelaten. Wanneer de Dienst van identiteitskaart wordt toegelaten, worden alle die segmenten van het Experience Cloud (met inbegrip van segmenten in [!DNL Analytics] worden gecreeerd en aan Experience Cloud worden gepubliceerd, segmenten in Adobe Audience Manager worden gecreeerd, die in Experience Cloud worden gecreeerd gebruikend [!DNL People core service], en segmenten die in Adobe Experience Platform worden gecreeerd en via Audience Manager worden verzonden naar Adobe Advertising) beschikbaar binnen Adobe Advertising zodra zij worden verwerkt.
+Om tot de [!DNL Analytics] segmenten toegang te hebben, moet een adverteerderrekening de [ Dienst van identiteitskaart van het Experience Cloud ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) toelaten. Wanneer de Dienst van identiteitskaart wordt toegelaten, worden alle die segmenten van het Experience Cloud (met inbegrip van segmenten in [!DNL Analytics] worden gecreeerd en aan Experience Cloud worden gepubliceerd, segmenten in Adobe Audience Manager worden gecreeerd, die in Experience Cloud worden gecreeerd gebruikend [!DNL People core service], en segmenten die in Adobe Experience Platform worden gecreeerd en via Audience Manager worden verzonden naar Adobe Advertising) beschikbaar binnen Adobe Advertising zodra zij worden verwerkt.
 
 [!DNL Analytics] -segmenten zijn binnen 24 uur beschikbaar en worden dagelijks bijgewerkt.
 
-Voor meer informatie over de dienst van het Soorten publiek van het Experience Cloud, zie [ Soorten publiek van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html).
+Voor meer informatie over de dienst van het Soorten publiek van het Experience Cloud, zie [ Soorten publiek van het Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=nl-NL).
 
 ## Voorbeelden van hoe te om de Integratie te gebruiken {#integration-examples}
 
 ### Gegevens van Adobe Advertising gebruiken in Analysis Workspace
 
-Leren hoe u uw gegevens van de Adobe Advertising kunt gebruiken om visuele rapporten in Analysis Workspace tot stand te brengen, zie de video &quot;[ Inleiding aan Workspace en het Melden ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html).&quot;
+Leren hoe u uw gegevens van de Adobe Advertising kunt gebruiken om visuele rapporten in Analysis Workspace tot stand te brengen, zie de video &quot;[ Inleiding aan Workspace en het Melden ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-analysis-workspace-a4adc.html?lang=nl-NL).&quot;
 
 #### Connected TV View-through-conversies gebruiken in rapporten
 
@@ -132,11 +132,11 @@ De weergave Marketing kanaal gebruiken:
 
 ### Adobe Advertising-dashboards maken
 
-Leren hoe u uw gegevens van de Adobe Advertising tegen uw doelstellingen in Analysis Workspace kunt volgen, zie de video &quot;[ Adobe Advertising Dashboards met Adobe Analytics ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html)&quot;creëren.
+Leren hoe u uw gegevens van de Adobe Advertising tegen uw doelstellingen in Analysis Workspace kunt volgen, zie de video &quot;[ Adobe Advertising Dashboards met Adobe Analytics ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-dashboards-a4adc.html?lang=nl-NL)&quot;creëren.
 
 ### Gebruikend Adobe Advertising identiteitskaart voor de Analyse van de Ingang van de Plaats
 
-Om te zien hoe u een rapport van de de plaatsingang van de Adobe Advertising kunt tot stand brengen om dag-van-week, tijd-van-dag, browser, en geografische invloeden te controleren, de video &quot;[ zien creëren de Rapporten van de Ingang van de Plaats van de Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html).&quot;
+Om te zien hoe u een rapport van de de plaatsingang van de Adobe Advertising kunt tot stand brengen om dag-van-week, tijd-van-dag, browser, en geografische invloeden te controleren, de video &quot;[ zien creëren de Rapporten van de Ingang van de Plaats van de Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-site-entry-a4adc.html?lang=nl-NL).&quot;
 
 ## Een [!DNL Analytics for Advertising] -implementatie starten
 
@@ -144,7 +144,7 @@ Neem contact op met het accountteam van de Adobe, dat de initiële configuratie 
 
 >[!MORELIKETHIS]
 >
->* [ Video: Inleiding aan  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html)
+>* [ Video: Inleiding aan  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/intro-a4adc.html?lang=nl-NL)
 >* [ Eerste vereisten en Zeer belangrijke Informatie voor het Uitvoeren  [!DNL Analytics for Advertising]](prerequisites.md)
 >* [ Adobe Advertising IDs die door Analytics ](ids.md) wordt gebruikt
 >* [ Code van JavaScript voor Analytics voor Advertising ](/help/integrations/analytics/javascript.md)

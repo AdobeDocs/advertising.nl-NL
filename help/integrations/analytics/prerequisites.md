@@ -41,7 +41,7 @@ Geef het volgende door aan het implementatieteam van de Adobe Advertising:
 * De rapportsuite-id van [!DNL Analytics] die moet worden gebruikt voor rapportage over betaalde mediaactiviteiten en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Adobe Advertising
 * De organisatie-id (Org ID) van het Experience Cloud van het bedrijf.
 
-U kunt allebei van deze IDs op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) vinden.
+U kunt allebei van deze IDs op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html?lang=nl-NL) vinden.
 
 ![ het Summiere scherm van het Experience Cloud Debugger ](/help/integrations/assets/a4adc-debugger-summary.png)
 
@@ -68,7 +68,7 @@ De JavaScript van [!DNL Analytics for Advertising] gebruikt deze instellingen om
 
 >[!NOTE]
 >
->Om gegevens voor een verschillend chronologie te segmenteren, kunt u [ opstellings douanesegmenten ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) met verschillende raadplegingsvensters binnen Analysis Workspace.
+>Om gegevens voor een verschillend chronologie te segmenteren, kunt u [ opstellings douanesegmenten ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=nl-NL) met verschillende raadplegingsvensters binnen Analysis Workspace.
 
 ## Ondersteunde advertentie-omgevingen
 
@@ -111,7 +111,7 @@ Voorbeeld: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Voor een nauwkeurige gegevensintegratie moeten alle aanroepen van Adoben Advertising die door een [!DNL Analytics for Advertising] -activiteit worden gebruikt om inhoud te leveren of het doel te registreren, een overeenkomende hit van [!DNL Analytics] hebben die dezelfde aanvullende id heeft.
 
-Als u problemen oplost in [!DNL Analytics] , moet u controleren of de aanvullende id aanwezig is voor [!DNL Analytics] -treffers. In [ debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), kunt u dit identiteitskaart in het lusje van de Adobe Advertising als `sdid` parameter zien.
+Als u problemen oplost in [!DNL Analytics] , moet u controleren of de aanvullende id aanwezig is voor [!DNL Analytics] -treffers. In [ debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html?lang=nl-NL), kunt u dit identiteitskaart in het lusje van de Adobe Advertising als `sdid` parameter zien.
 
 >[!NOTE]
 >

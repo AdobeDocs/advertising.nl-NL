@@ -21,7 +21,7 @@ Adobe Advertising en Adobe Target maken het gemakkelijk om landingspagina-ervari
 
 * Lever een meer persoonlijke landingspagina-ervaring die relevant is voor de advertentie (bijvoorbeeld, die het beeld/video creatief, exemplaar, sleutelwoord, of ander reclamesignaal aan de landende pagina aanpast).
 
-U kunt ook de native [[!DNL Analytics] voor reclame](/help/integrations/analytics/overview.md) en [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integratie rapporteringsdimensies die in Adobe Analytics zijn geïntegreerd om uw testgegevens te meten en te visualiseren met [!DNL Analytics] metriek en succesgebeurtenissen.
+U kunt ook de native [[!DNL Analytics] voor reclame](/help/integrations/analytics/overview.md) en [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL) integratie rapporteringsdimensies die in Adobe Analytics zijn geïntegreerd om uw testgegevens te meten en te visualiseren met [!DNL Analytics] metriek en succesgebeurtenissen.
 
 Zie de volgende secties voor de voorwaarden, instructies voor het instellen van A/B-tests in [!DNL Target] voor doorklikverkeer van advertenties in Zoeken, Sociaal, &amp; Commerce en tips voor het meten en visualiseren van uw tests in [!DNL Analytics].
 
@@ -38,15 +38,15 @@ Zie de volgende secties voor de voorwaarden, instructies voor het instellen van 
 
 * [[!DNL Analytics] voor reclame](/help/integrations/analytics/overview.md) integratie<!-- necessary for testing view-throughs, which most advertisers want to do -->
 
-* [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html) integratie
+* [[!DNL Analytics] for [!DNL Target]](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL) integratie
 
 ## Stap 1: Een testactiviteit A/B maken in [!DNL Target] for Search, Social &amp; Commerce
 
 In de volgende instructies wordt informatie over het gebruik van de optie Zoeken, Sociaal en Commerce gemarkeerd.
 
-1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html).
+1. [Aanmelden bij Adobe Target](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html?lang=nl-NL).
 
-1. [Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html):
+1. [Een A/B-test maken](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL):
 
    1. In de **[!UICONTROL Enter Activity URL]** Voer de URL van de bestemmingspagina voor de test in.
 
@@ -61,7 +61,7 @@ In de volgende instructies wordt informatie over het gebruik van de optie Zoeken
 
    1. Within **[!UICONTROL Reporting Settings]**, selecteert u de **[!UICONTROL Company Name]** en **[!UICONTROL Report Suite]** verbonden met uw account voor Zoeken, Sociaal en Commerce.
 
-      Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html).&quot;
+      Zie &quot;[Best practices en probleemoplossing rapporteren](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html?lang=nl-NL).&quot;
 
    1. In de **[!UICONTROL Date Range]** Voer de juiste begin- en einddatum voor de test in.
 
@@ -77,7 +77,7 @@ In de volgende instructies wordt informatie over het gebruik van de optie Zoeken
 
    1. Sla de activiteit op.
 
-1. Gebruiken [Composer visuele doelervaring](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html) om ontwerpwijzigingen aan te brengen in de sjabloon voor de landingspagina van de A/B-test.
+1. Gebruiken [Composer visuele doelervaring](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL) om ontwerpwijzigingen aan te brengen in de sjabloon voor de landingspagina van de A/B-test.
 
    * Ervaar A: Bewerk niet omdat het de standaard/controle landende paginaervaring zonder personalisatie is.
 
@@ -91,7 +91,7 @@ In de volgende instructies wordt informatie over het gebruik van de optie Zoeken
 
 [!DNL Analytics for Target] (A4T) is een integratie tussen oplossingen die adverteerders in staat stelt [!DNL Target] activiteiten op basis van [!DNL Analytics] conversiemetriek en publiekssegmenten en meet de resultaten vervolgens met [!DNL Analytics] als de bron van de rapportage. Alle rapportage en segmentering voor die activiteit zijn gebaseerd op [!DNL Analytics] gegevensverzameling.
 
-Voor meer informatie over [!DNL Analytics for Target], met inbegrip van een koppeling naar de uitvoeringsinstructies, zie &quot;[Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html)&quot;.
+Voor meer informatie over [!DNL Analytics for Target], met inbegrip van een koppeling naar de uitvoeringsinstructies, zie &quot;[Adobe Analytics als bron van rapportage voor Adobe Target (A4T)](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL)&quot;.
 
 ### Stel de [!DNL Analytics for Target] Deelvenster
 
@@ -119,7 +119,7 @@ De volgende afmetingen hebben betrekking op [!DNL Analytics for Target]:
 
 Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens minimaal of niet vullen, doet u het volgende:
 
-* Controleren of hetzelfde [!UICONTROL Supplemental Data ID] (SDID) wordt voor beide gebruikt [!DNL Target] en [!DNL Analytics]. U kunt de waarden van SDID verifiëren door [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html) op de landingspagina waarop de campagne de gebruikers drijft.
+* Controleren of hetzelfde [!UICONTROL Supplemental Data ID] (SDID) wordt voor beide gebruikt [!DNL Target] en [!DNL Analytics]. U kunt de waarden van SDID verifiëren door [Adobe Experience Cloud Debugger](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html?lang=nl-NL) op de landingspagina waarop de campagne de gebruikers drijft.
 
 [Aanvullende waarden voor de gegevens-id (SDID) in de Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
@@ -133,8 +133,8 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 ## Verdere lezing
 
-* [Doel integreren met analyse](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html) - Verklaart hoe te opstelling [!DNL Target] rapporteren in Analysis Workspace.
-* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html) - Beschrijft A/B testactiviteiten, die u met Onderzoek, Sociale, &amp; advertenties van Commerce kunt gebruiken.
+* [Doel integreren met analyse](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html?lang=nl-NL) - Verklaart hoe te opstelling [!DNL Target] rapporteren in Analysis Workspace.
+* [A/B-testoverzicht](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=nl-NL) - Beschrijft A/B testactiviteiten, die u met Onderzoek, Sociale, &amp; advertenties van Commerce kunt gebruiken.
 * [Overzicht van analytische gegevens voor reclame](/help/integrations/analytics/overview.md) - Introduceert Analytics voor Advertising, waarmee u doorklikinteracties en doorkijkinteracties van sites in uw Analytics-instanties kunt bijhouden.
 
 >[!MORELIKETHIS]

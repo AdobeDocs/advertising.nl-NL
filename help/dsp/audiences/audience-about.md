@@ -84,7 +84,7 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
   >[!NOTE]
   >
-  >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [Analyse](https://experienceleague.adobe.com/docs/analytics.html), en [de [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
+  >Zie de documentatie voor [Audience Manager](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL), [Analyse](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL), en [de [!DNL Real-Time CDP]](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html?lang=nl-NL) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
 
 ## Gegevens over doelgrootte
 

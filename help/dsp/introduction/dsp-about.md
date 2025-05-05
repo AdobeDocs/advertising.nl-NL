@@ -28,6 +28,6 @@ Adobe Advertising DSP (DSP) verhoogt de mediabeleid van adverteerders door geava
 
 >[!MORELIKETHIS]
 >
->* [Video: Inleiding tot DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/intro.html)
->* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [Video: Inleiding tot DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/intro.html?lang=nl-NL)
+>* [Video: Accountstructuur en gebruikersinterface DSP](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
 

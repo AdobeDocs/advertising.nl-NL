@@ -230,7 +230,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Product (winkelen) en velden
 
-Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[ voert  [!DNL Microsoft Advertising]  het winkelen campagnes ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/microsoft-shopping-campaigns.html) uit.&quot;
+Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[ voert  [!DNL Microsoft Advertising]  het winkelen campagnes ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/microsoft-shopping-campaigns.html?lang=nl-NL) uit.&quot;
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 

@@ -64,6 +64,6 @@ Hieronder vindt u de ondersteunde advertentienetwerken, campagneretypen en adver
 
 [^2 ]: Zie &quot;In aanmerking komende portefeuilletypes door campagne biedstrategie&quot;in de Gids van de Optimalisering, die van binnen Onderzoek, Sociale, &amp; Commerce beschikbaar is.
 
-[^3 ]: vereist integratie met Adobe Analytics. Zie &quot;[ Overzicht van Analytics voor Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html).&quot;
+[^3 ]: vereist integratie met Adobe Analytics. Zie &quot;[ Overzicht van Analytics voor Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL).&quot;
 
 [^4 ]: [!DNL Analytics] gegevens worden naar Zoeken, Sociaal en Commerce verzonden met behulp van de verbeterde parameter voor het bijhouden van AMO-id&#39;s (die begint met `s_kwcid` ), ongeacht de indeling van AMO-id die u gewoonlijk voor de account gebruikt. Als u normaal gesproken de oudere versie van de AMO-id gebruikt, raden we u aan een upgrade naar de nieuwe AMO-id-indeling uit te voeren voor de beste ervaring. Maar zelfs als uw klik-/kostengegevens en inkomstengegevens worden bijgehouden met behulp van verschillende AMO-id&#39;s, worden beide gegevenssets volledig geclassificeerd en samengevoegd in dezelfde campagne en account.

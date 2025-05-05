@@ -77,5 +77,5 @@ U kunt beide uploaden [!DNL DoubleClick] en [!DNL Flashtalking] met de meegeleve
 >* [Over Advertentiebeheer](ad-about.md)
 >* [Ad-specificaties](ad-specs.md)
 >* [Eén advertentie maken](ad-create.md)
->* [Video: hoe te om te bulken uploadt de Markeringen van de Advertentie van derden](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [Video: hoe te om te bulken uploadt de Markeringen van de Advertentie van derden](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html?lang=nl-NL)
 >* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)

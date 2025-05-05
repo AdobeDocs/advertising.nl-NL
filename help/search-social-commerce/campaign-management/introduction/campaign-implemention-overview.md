@@ -60,13 +60,13 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de webpagina&#39;s van de adverteerder en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die de adverteerder afzonderlijk heeft verzameld.
 
-      Als u de Adobe Advertising conversie volgende dienst gebruikt, kunt u conversie volgende markeringen [ binnen Onderzoek, Sociaal, &amp; Commerce ](/help/search-social-commerce/tools/conversion-tag-generate.md) of [ produceren gebruikend Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud.html).
+      Als u de Adobe Advertising conversie volgende dienst gebruikt, kunt u conversie volgende markeringen [ binnen Onderzoek, Sociaal, &amp; Commerce ](/help/search-social-commerce/tools/conversion-tag-generate.md) of [ produceren gebruikend Adobe Experience Platform ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud.html?lang=nl-NL).
 
    1. Valideer de gegevens die worden bijgehouden.
 
    Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over het instellen van tekstspatiëring.
 
-1. (Advertisers met Adobe Analytics) [ integreer Adobe Advertising en Analytics ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) zodat zij gegevens kunnen ruilen.
+1. (Advertisers met Adobe Analytics) [ integreer Adobe Advertising en Analytics ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL) zodat zij gegevens kunnen ruilen.
 
 1. (Om Onderzoek toe te staan, sociaal, &amp; Commerce om biedingen, campagnebegrotingen, en/of de strategiedoelstellingen van de campagnebiet te optimaliseren; [ gesteunde campagnetypes ](/help/search-social-commerce/introduction/supported-inventory.md) slechts) [ wijs de campagne aan een portefeuille ](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe.
 

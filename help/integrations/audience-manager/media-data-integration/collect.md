@@ -22,7 +22,7 @@ De gebeurtenispixels leggen geen gebeurtenissen vast die plaatsvinden in omgevin
 
 ## Stap 1: Opstelling een Gegevensbron in Audience Manager {#set-up-data-source}
 
-Maak in de Audience Manager een [gegevensbron](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html) voor de DSP en klik op gegevens. De gegevensbron-id opnemen [in elke gebeurtenistag](#implement-dsp-pixels) zodat alle bijgehouden gebeurtenissen worden toegewezen aan de gegevensbron.
+Maak in de Audience Manager een [gegevensbron](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-sources/datasources-list-and-settings.html?lang=nl-NL) voor de DSP en klik op gegevens. De gegevensbron-id opnemen [in elke gebeurtenistag](#implement-dsp-pixels) zodat alle bijgehouden gebeurtenissen worden toegewezen aan de gegevensbron.
 
 >[!NOTE]
 > Het is mogelijk om alle beelden te verzamelen en gegevens voor reclamecampagnes te klikken die op veelvoudige DSP binnen één enkele gegevensbron lopen.
@@ -33,7 +33,7 @@ Adverteerders kunnen gebeurtenislabels voor hun eigen merken maken en implemente
 
 >[!NOTE]
 >
->Als uw organisatie [!DNL Analytics] gevolgd, dan hebt u misschien geen Audience Manager het klikken volgen nodig. Adobe Analytics legt kliksignalen vast en kan ze naar de Audience Manager verzenden [server-kant door:sturen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+>Als uw organisatie [!DNL Analytics] gevolgd, dan hebt u misschien geen Audience Manager het klikken volgen nodig. Adobe Analytics legt kliksignalen vast en kan ze naar de Audience Manager verzenden [server-kant door:sturen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL).
 
 ### Pixelsyntaxis
 
@@ -79,9 +79,9 @@ Beide typen pixels kunnen aanvullende parameters bevatten als *sleutelwaardepare
 
 In het sleutelwaardepaar, kan de waardevariabele of hard - gecodeerde identiteitskaart of zijn *macro* Dit is een kleine eenheid op zichzelf staande code die dynamisch wordt vervangen door de bijbehorende waarden wanneer de tag ad wordt geladen voor het bijhouden van campagnes en gebruikers. Voor campagneparameters kunt u [DSP macro&#39;s](/help/dsp/campaign-management/macros.md) in plaats van Audience Manager macros om campagnerekenmerken samen met de overeenkomstige indruk te verzenden of gegevens aan Audience Manager te klikken, gebruikend één enkele pixel over alle advertenties. De DSP macro&#39;s die u in uw gebeurtenispixels invoegt, moeten de juiste waarden zijn voor de sleutelwaardeparen die u in de pixels opneemt. Bijvoorbeeld voor `d_placement` sleutel, zou u de DSP macro gebruiken `${TM_PLACEMENT_ID_NUM}` als de waarde voor het vastleggen van plaatsings-id&#39;s die zijn gegenereerd door de Adobe Advertising-macro.
 
-Raadpleeg &quot;[Vastleggen van Campagne-indrukgegevens via pixelaanroepen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html#supported-key-value-pairs).&quot;
+Raadpleeg &quot;[Vastleggen van Campagne-indrukgegevens via pixelaanroepen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=nl-NL#supported-key-value-pairs).&quot;
 
-Voor een lijst met macro&#39;s die Audience Manager ondersteunt voor click-gebeurtenispixels, raadpleegt u &quot;[Het vangen van Campagne klikt Gegevens via de Vraag van het Pixel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/click-data-pixels.html).&quot;
+Voor een lijst met macro&#39;s die Audience Manager ondersteunt voor click-gebeurtenispixels, raadpleegt u &quot;[Het vangen van Campagne klikt Gegevens via de Vraag van het Pixel](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/click-data-pixels.html?lang=nl-NL).&quot;
 
 >[!TIP]
 >
@@ -116,11 +116,11 @@ Zodra de gebeurtenislabels worden uitgevoerd, stromen de gegevens in de servers 
 
 ### Een [!DNL Amazon S3] Emmertje en gegevensbron
 
-Als uw gegevens zich op de servers van de Audience Manager bevinden, moet u een [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) emmertje en vervolgens een gegevensbron, waarnaar alle pixelgegevens worden verzonden. Neem contact op met uw Audience Manager consultant of [Klantenservice](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html) als u ondersteuning nodig hebt.
+Als uw gegevens zich op de servers van de Audience Manager bevinden, moet u een [!DNL Amazon Simple Storage Service] ([!DNL Amazon S3]) emmertje en vervolgens een gegevensbron, waarnaar alle pixelgegevens worden verzonden. Neem contact op met uw Audience Manager consultant of [Klantenservice](https://experienceleague.adobe.com/docs/audience-manager/user-guide/help-and-legal/help-legal-contact.html?lang=nl-NL) als u ondersteuning nodig hebt.
 
 ### Audience Managers en segmenten maken
 
-Uw gebeurtenisgegevens stromen in Audience Manager als [ongebruikte signalen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html). Handmatig maken [op regels gebaseerde kenmerken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html) van de opgenomen gegevens en maak vervolgens [segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html) gebruik deze kenmerken voordat u de gegevens in rapporten kunt gebruiken.
+Uw gebeurtenisgegevens stromen in Audience Manager als [ongebruikte signalen](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reporting/interactive-and-overlap-reports/unused-signals.html?lang=nl-NL). Handmatig maken [op regels gebaseerde kenmerken](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=nl-NL) van de opgenomen gegevens en maak vervolgens [segmenten](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segments-purpose.html?lang=nl-NL) gebruik deze kenmerken voordat u de gegevens in rapporten kunt gebruiken.
 
 Voorbeeld dat gegevens op gebruikersniveau vult voor gebruikers die worden blootgesteld aan een bepaalde creatieve functie in DSP:
 

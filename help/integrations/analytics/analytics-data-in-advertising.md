@@ -33,8 +33,8 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 * [!UICONTROL Timespent_secs_total]: Het totale aantal seconden dat aan de site is doorgebracht tijdens alle bezoeken in het venster voor terugzoeken van klikken.
 * [!UICONTROL Pageviews_1stvisit]: Het aantal paginaweergaven op de site tijdens het eerste bezoek van de bezoeker.
 * [!UICONTROL Pageviews_total]: Het totale aantal paginaweergaven op de site bij alle bezoeken in het venster voor terugzoeken van klikken.
-* [[!UICONTROL Bounces] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
-* [[!UICONTROL Visits] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
+* [[!UICONTROL Bounces] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html?lang=nl-NL)
+* [[!UICONTROL Visits] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL)
 * [!UICONTROL ef_id_instances]: Het aantal keren dat [!DNL Analytics] een [!UICONTROL EF ID] heeft verzameld.
 
 ## Conversiedetecties
@@ -43,14 +43,14 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 
 ### Standaardomzettingscijfers
 
-* [[!UICONTROL Revenue] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html)
-* [[!UICONTROL Orders] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html)
-* [[!UICONTROL Units] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html)
-* [[!UICONTROL Carts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html)
-* [[!UICONTROL Cart Views] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html)
-* [[!UICONTROL Checkouts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
-* [[!UICONTROL Cart Additions] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
-* [[!UICONTROL Cart Removals] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
+* [[!UICONTROL Revenue] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html?lang=nl-NL)
+* [[!UICONTROL Orders] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html?lang=nl-NL)
+* [[!UICONTROL Units] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html?lang=nl-NL)
+* [[!UICONTROL Carts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html?lang=nl-NL)
+* [[!UICONTROL Cart Views] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html?lang=nl-NL)
+* [[!UICONTROL Checkouts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html?lang=nl-NL)
+* [[!UICONTROL Cart Additions] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html?lang=nl-NL)
+* [[!UICONTROL Cart Removals] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html?lang=nl-NL)
 
 ### Aangepaste omzettingscijfers
 

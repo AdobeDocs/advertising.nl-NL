@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor adverteerders met een Adobe Advertising-Adobe Analytics integratie, kan Advertising Cloud uw advertenties en indrukkingen met de plaatsovereenkomst en omzettingsmetriek verbinden die door [!DNL Analytics] wordt gevolgd wanneer u een omleiding met teken (`ef_id` parameter) in uw klik-volgende URLs voor uw [ biedingseenheden ](/help/search-social-commerce/glossary.md#a-b) gebruikt. De [!DNL Analytics] -gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
 
-Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/en/docs/advertising/integrations/analytics/overview){target="_blank"} &quot;voor meer informatie over de integratie.
+Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/nl/docs/advertising/integrations/analytics/overview){target="_blank"} &quot;voor meer informatie over de integratie.
 
 >[!PREREQUISITES]
 >

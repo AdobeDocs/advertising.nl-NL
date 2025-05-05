@@ -17,8 +17,8 @@ ht-degree: 0%
 + [Nieuwe functies](/help/creative/home.md)
 + Inleiding {#introduction}
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
-   + [ Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}<!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creatieve bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
@@ -75,5 +75,5 @@ ht-degree: 0%
    + [Aangepast creatief rapport](/help/creative/report-custom-creative.md)
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
-+ [ de steun van de Klant](https://experienceleague.adobe.com/home?support-tab=home#support){target="_blank"}
-+ [ de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
++ [ de steun van de Klant](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=home#support){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}

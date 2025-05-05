@@ -176,4 +176,4 @@ Selecteer *[!UICONTROL 25]* , *[!UICONTROL 50]* of *[!UICONTROL 100]* rechtsonde
 >* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [ Mening de Diagnostische Rapporten van de Plaatsing ](placement-diagnostics.md)
 >* [ Gegevens van de Uitvoer van een Mening van het Beheer van de Campagne ](campaign-export-data.md)
->* [ Video: De Structuur van de Rekening van DSP en Gebruikersinterface ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [ Video: De Structuur van de Rekening van DSP en Gebruikersinterface ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)

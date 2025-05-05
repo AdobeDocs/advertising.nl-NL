@@ -65,7 +65,7 @@ Om verzoeken tot toegang tot en verwijdering van persoonlijke gegevens van consu
    >
    >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Adobe Advertising-accounts van uw organisatie, inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] accounts en [!DNL Creative] - zijn gekoppeld aan uw Experience Cloud-organisatie-id. [!DNL DCO]
 
-1. Gebruik of [ Adobe Experience Platform Privacy Service API ](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of [ Privacy Service UI ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) om verzoeken om tot en schrapping persoonlijke informatie aan Adobe Advertising namens consumenten toegang te hebben, en de status van bestaande verzoeken te controleren.
+1. Gebruik of [ Adobe Experience Platform Privacy Service API ](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html?lang=nl-NL) (voor geautomatiseerde verzoeken) of [ Privacy Service UI ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl-NL) (voor ad-hocverzoeken) om verzoeken om tot en schrapping persoonlijke informatie aan Adobe Advertising namens consumenten toegang te hebben, en de status van bestaande verzoeken te controleren.
 
    Voor adverteerders die een mobiele app hebben om te communiceren met klanten en campagnes te starten met [!DNL DSP] , moet u de voor privacy geschikte mobiele SDK&#39;s voor Experience Cloud downloaden. Met de Mobile SDK&#39;s kunnen bedrijven statusmarkeringen voor weigeren instellen, de apparaat-id van de consument (naamruimte-id: `deviceID` ) ophalen en aanvragen naar de Privacy Service API verzenden. Voor uw mobiele app is een SDK versie 4.15.0 of hoger vereist.
 
@@ -77,7 +77,7 @@ Om verzoeken tot toegang tot en verwijdering van persoonlijke gegevens van consu
    >
    >Als uw bedrijf meerdere Experience Cloud-organisatie-id&#39;s heeft, moet u voor elke id een afzonderlijke API-aanvraag verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ( [!DNL Search, Social, & Commerce] , [!DNL Creative] , [!DNL DSP] en [!DNL DCO] ) met één account per suboplossing.
 
-Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [ https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) zien.
+Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [ https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL) zien.
 
 ## Vereiste veldwaarden in Adobe Advertising JSON-verzoeken
 
@@ -94,11 +94,11 @@ Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer i
 
 * `"user IDs":`
 
-   * `"namespace": **411**` (die op de [[!DNL AdCloud]  koekjesruimte ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) wijst)
+   * `"namespace": **411**` (die op de [[!DNL AdCloud]  koekjesruimte ](https://experienceleague.adobe.com/nl/docs/experience-platform/privacy/api/appendix) wijst)
 
    * `"value":` &lt;*de waarde van de de koekjesidentiteitskaart van de daadwerkelijke klant zoals die van`AdobePrivacy.js`* wordt teruggewonnen>
 
-* `"include": **adCloud**` (dat is het [[!DNL Adobe]  product ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) dat op het verzoek van toepassing is)
+* `"include": **adCloud**` (dat is het [[!DNL Adobe]  product ](https://experienceleague.adobe.com/nl/docs/experience-platform/privacy/api/appendix) dat op het verzoek van toepassing is)
 
 * `"regulation": **ccpa**` (dit is de privacyverordening die van toepassing is op het verzoek)
 

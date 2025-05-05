@@ -18,7 +18,7 @@ U kunt Adobe Advertising IDs ([ identiteitskaart van AMO en EF identiteitskaart 
 
 ## De AMO-id in verwerkingsregels
 
-De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het wordt opgeslagen in een [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
+De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het wordt opgeslagen in een [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
 
 * Doorklikken: Adobe Advertising stelt de parameter van de `s_kwcid` querytekenreeks in een koppeling in en [!DNL Analytics] haalt de parameter op van de bestemmingspagina-URL wanneer een doorklikken plaatsvindt.
 * Beeld-door het volgen ([!DNL DSP] slechts): De Laatste Dienst van de Gebeurtenis ontdekt een mening-door op de serverzijde en verzendt AMO identiteitskaart naar [!DNL Analytics]. In dit geval bevat de URL geen parameter `s_kwcid` .
@@ -94,5 +94,5 @@ Maak een regel waarin de EF-id eindigt met &quot;:i&quot; om een weergavedoorvoe
 >* [ Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [ waarom de Gegevens van het Kanaal tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
 >* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de Gegevens van de Adobe Advertising ](mc-ac-data.md)
->* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=nl-NL) meldt
 >* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt

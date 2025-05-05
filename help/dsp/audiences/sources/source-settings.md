@@ -46,5 +46,5 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0], zoekt de leverancier elk e-mailadres
 >* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
 >* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
 >* [Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
 >* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)

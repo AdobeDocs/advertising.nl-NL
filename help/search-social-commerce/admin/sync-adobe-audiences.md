@@ -24,7 +24,7 @@ U kunt Zoeken, Sociale Zaken en Handel toestaan om metagegevens, hiërarchische 
 
 * Segmenten die zijn gemaakt met de Adobe Experience Cloud [!DNL Audience Library]
 
-Om in aanmerking te komen moet de adverteerder of instantie de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html) en verstrek zijn organisatie-id (voorheen genoemd) [!DNL IMS Org ID]).
+Om in aanmerking te komen moet de adverteerder of instantie de [Adobe Experience Platform Identity Service](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) en verstrek zijn organisatie-id (voorheen genoemd) [!DNL IMS Org ID]).
 
 De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-time gesynchroniseerd met een vertraging van 1 tot 2 seconden.
 

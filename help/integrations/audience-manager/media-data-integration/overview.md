@@ -40,15 +40,15 @@ De Audience Manager die wordt weergegeven en waarop wordt geklikt, is gebaseerd 
 
 ### Pixels voor het bijhouden van indrukken
 
-Audience Managers volgen de gegevens van de indruk voor een advertentie wanneer u een pixel van 1 pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen vanaf een clientspecifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is en parameters als sleutel-waardeparen bevat. De gebeurtenisvraag verzamelt indruk en omzettingsgegevens en verzendt het naar de servers van de de gegevensinzameling van de Audience Manager.
+Audience Managers volgen de gegevens van de indruk voor een advertentie wanneer u een pixel van 1 pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen vanaf een clientspecifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html?lang=nl-NL), dat een erfenisdomein voor Audience Manager is en parameters als sleutel-waardeparen bevat. De gebeurtenisvraag verzamelt indruk en omzettingsgegevens en verzendt het naar de servers van de de gegevensinzameling van de Audience Manager.
 
 ### Klikken en pixels bijhouden
 
-Audience Manager houdt kliks op gelijkaardige wijze aan beelden, behalve dat het niet de transparante gebeurtenispixel laadt telkens als de advertentie wordt gediend. In plaats daarvan worden de klikgegevens bijgehouden in de doorklikURL van de advertentie. De advertentie verwijst naar een client-specifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is, voor verwerking door de servers van de de gegevensinzameling van de Audience Manager. De server leidt de gebruiker vervolgens om naar de bedoelde bestemmingspagina. De URL bevat parameters als sleutel-waardeparen.
+Audience Manager houdt kliks op gelijkaardige wijze aan beelden, behalve dat het niet de transparante gebeurtenispixel laadt telkens als de advertentie wordt gediend. In plaats daarvan worden de klikgegevens bijgehouden in de doorklikURL van de advertentie. De advertentie verwijst naar een client-specifiek subdomein van [`demdex.net`](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html?lang=nl-NL), dat een erfenisdomein voor Audience Manager is, voor verwerking door de servers van de de gegevensinzameling van de Audience Manager. De server leidt de gebruiker vervolgens om naar de bedoelde bestemmingspagina. De URL bevat parameters als sleutel-waardeparen.
 
 >[!NOTE]
 >
->Als uw organisatie [!DNL Analytics] gevolgd, dan hebt u misschien geen Audience Manager het klikken volgen nodig. Adobe Analytics legt kliksignalen vast en kan ze naar de Audience Manager verzenden [server-kant door:sturen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html).
+>Als uw organisatie [!DNL Analytics] gevolgd, dan hebt u misschien geen Audience Manager het klikken volgen nodig. Adobe Analytics legt kliksignalen vast en kan ze naar de Audience Manager verzenden [server-kant door:sturen](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html?lang=nl-NL).
 
 >[!MORELIKETHIS]
 >

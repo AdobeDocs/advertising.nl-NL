@@ -18,7 +18,7 @@ Zodra de segmentpixel-tag is geïmplementeerd, begint de Adobe Advertising een p
 
 >[!NOTE]
 >
->* Voor informatie over hoe te om CCPA mee te delen - uit-van-verkoop verzoeken aan Adobe Advertising gebruikend Adobe Experience Platform Privacy Service API, zie [https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html).
+>* Voor informatie over hoe te om CCPA mee te delen - uit-van-verkoop verzoeken aan Adobe Advertising gebruikend Adobe Experience Platform Privacy Service API, zie [https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL).
 >* Als u gebruikers wilt volgen die webpagina&#39;s bezoeken voor doeleinden die geen verband houden met het volgen van CCPA-opt-out-of-sale gebeurtenissen, en gebruikers die worden blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten, maakt u een [aangepast segment](/help/dsp/audiences/custom-segment-create.md).
 
 1. Maak het segment:

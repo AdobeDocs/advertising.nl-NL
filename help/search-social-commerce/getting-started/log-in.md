@@ -28,7 +28,7 @@ U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, 
 >
 >Uw bedrijf moet zijn voorzien in Adobe Experience Cloud, en u moet hebben [Uw Experience Cloud-account is gekoppeld aan een account voor Zoeken, Sociale zaken en Handel](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
 
-1. [Aanmelden bij Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
+1. [Aanmelden bij Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=nl-NL#signin).
 
 1. Selecteer in het bovenste menu ![oplossingskiezer](/help/search-social-commerce/assets/menu-icon.png "oplossingskiezer").
 

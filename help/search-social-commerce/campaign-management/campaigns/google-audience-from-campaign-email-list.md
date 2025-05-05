@@ -22,7 +22,7 @@ Hiervoor hebt u toegang nodig tot uw [!DNL Campaign] -instantie en een XML-besta
 
 1. In [!DNL Campaign], stelt u levering van de e-maillijst in voor Zoeken naar advertenties, sociale media en handel:
 
-   1. Een [externe rekening](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html) om uw door Zoeken, Sociaal, &amp; Handel geleverde SFTP-account te koppelen:
+   1. Een [externe rekening](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/application-settings/external-accounts.html?lang=nl-NL) om uw door Zoeken, Sociaal, &amp; Handel geleverde SFTP-account te koppelen:
 
       1. Ga in het linkermenu naar **\[Adobe Campaign v6\] > [!UICONTROL Platform] >[!UICONTROL External Accounts]**.
 
