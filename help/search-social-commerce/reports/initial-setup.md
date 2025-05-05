@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Nieuwe gebruikers moeten de volgende initiële instellingstaken uitvoeren:
 
-* De conversiemetriek maken die de Adobe Advertising volgt voor een adverteerder [beschikbaar voor rapporten en andere weergaven](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)en optioneel [naam van conversiewaarden wijzigen](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md die in kolomrubrieken voor leesbaarheid worden getoond.
+* De conversiemetriek maken die de Adobe Advertising volgt voor een adverteerder [beschikbaar voor rapporten en andere weergaven](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md)en optioneel [naam van conversiewaarden wijzigen] (/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md die in kolomrubrieken voor leesbaarheid worden getoond.
 
   De eigenschappen van transacties zijn niet beschikbaar voor rapporten tenzij u specifiek hen ter beschikking stelt.
 

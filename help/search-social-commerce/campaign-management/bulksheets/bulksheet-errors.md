@@ -44,8 +44,8 @@ De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in [!UICONTROL EF Er
 | Algemeen | [!UICONTROL Internal Error: Please Try Uploading the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met het accountteam van de Adobe als het probleem zich blijft voordoen. |
 | Alle entiteiten | [!UICONTROL Invalid Fields.] \[ongeldige velden en fout\] | De opgegeven gegevens ontbreken of zijn ongeldig. |
 |  | [!UICONTROL Invalid Reference Given] | De id van de entiteit op het advertentienetwerk of de id van een bovenliggende entiteit (zoals de account-id) komt niet overeen met een entiteit in Zoeken, Sociaal en Commerce. Dit kan voorkomen wanneer u identiteitskaart in het bulksblad uitgeeft. |
-|  | [!UICONTROL <Entity> is deleted or expired] | De entiteit is verlopen of verwijderd en u kunt de eigenschappen ervan niet wijzigen. De entiteit kan worden verwijderd wanneer iemand de status handmatig heeft bewerkt. |
-|  | [!UICONTROL <Entity> status should be Active or Paused] | (Nieuwe entiteiten) Een nieuwe entiteit kan alleen &quot;Actief&quot; of &quot;Gepauzeerd&quot; zijn. |
+|  | [!UICONTROL &lt;Entity> is deleted or expired] | De entiteit is verlopen of verwijderd en u kunt de eigenschappen ervan niet wijzigen. De entiteit kan worden verwijderd wanneer iemand de status handmatig heeft bewerkt. |
+|  | [!UICONTROL &lt;Entity> status should be Active or Paused] | (Nieuwe entiteiten) Een nieuwe entiteit kan alleen &quot;Actief&quot; of &quot;Gepauzeerd&quot; zijn. |
 |  | [!UICONTROL Duplicate Entries are present] | Voor dezelfde entiteit worden meerdere rijen opgenomen, met verschillende kenmerken in elke rij. U kunt de wijzigingen in één rij samenvoegen. |
 |  | [!UICONTROL Invalid AMO ID given] | De AMO-id voor de rij bestaat niet. Dit kan voorkomen als u identiteitskaart in het bulksblad uitgeeft. |
 |  | [!UICONTROL Invalid row given] | De rij bevat niet genoeg informatie om het entiteitstype te bepalen. Bewerk de rij om alle vereiste velden voor het eenheidstype op te nemen. |
@@ -61,7 +61,7 @@ De volgende fouten kunnen in de [!UICONTROL EF Error] kolom in [!UICONTROL EF Er
 | Alle componenten van de advertentiegroep | [!UICONTROL Adgroup creation failed] | De bovenliggende ad-groep is niet gemaakt, dus deze entiteit kan niet worden gemaakt. Dit kan komen door een fout in de velden van de advertentiegroep of omdat de bovenliggende campagne is mislukt. Zorg ervoor dat alle bovenliggende entiteiten alle vereiste velden bevatten. |
 |  | [!UICONTROL Adgroup Row Missing] | De opgegeven bovenliggende en bovenliggende groep bestaat niet, zodat de entiteit niet kan worden gemaakt. Maak de bovenliggende ad-groep in een nieuwe rij. |
 |  | [!UICONTROL Cannot modify Tracking Template at Keyword / Creative / Site Link level until Account has been migrated to use Upgraded URLs. Please retry after migration] | De &quot;[!UICONTROL Tracking Template]&quot; veld is alleen voor accounts die gebruikmaken van uiteindelijke/geavanceerde URL&#39;s. Verwijder de waarde totdat u de account hebt gemigreerd voor het gebruik van de uiteindelijke/geavanceerde URL&#39;s. |
-| Advertentie | [!UICONTROL Cannot modify attributes other than status code and url for <ad type>] | (Andere typen toevoegen dan tekst, uitgevouwen tekst, product, installatie van de app en dynamisch zoeken) U kunt alleen de status en URL voor dit advertentietype bewerken. |
+| Advertentie | [!UICONTROL Cannot modify attributes other than status code and url for &lt;ad type>] | (Andere typen toevoegen dan tekst, uitgevouwen tekst, product, installatie van de app en dynamisch zoeken) U kunt alleen de status en URL voor dit advertentietype bewerken. |
 |  | [!UICONTROL The number of creatives under an AdGroup should not exceed 50] | Elke advertentiegroep kan maximaal 50 advertenties bevatten, en dit bulksblad bevat meer dan 50. Verminder het aantal advertenties. |
 |  | [!UICONTROL Cannot modify an ad which is either deleted/expired or under an deleted/expired campaign] | De advertentie bevindt zich in een verlopen of verwijderde bovenliggende entiteit, zodat u deze niet kunt bewerken. |
 | Trefwoord | [!UICONTROL Cannot modify a keyword/website/product which is under deleted Adgroup or Campaign] | De bovenliggende campagne of advertentiegroep is verwijderd of verlopen, zodat u de entiteit niet kunt wijzigen. |
@@ -84,7 +84,7 @@ De volgende fouten treden op in [!UICONTROL EF Errors] alleen bestanden. De mees
 |----|----|----|
 | Algemeen | [!UICONTROL Internal Error: Please Try Posting the bulksheet Again. If Problem Persists Contact Customer Care] | De bewerking is mislukt. Neem contact op met het accountteam van de Adobe als het probleem zich blijft voordoen. |
 | Alle entiteiten | [!UICONTROL Entity] is gepost aan advertentienetwerk | De entiteit werd op het advertentienetwerk geplaatst, maar werd niet tegelijkertijd gesynchroniseerd met Search, Social, &amp; Commerce, zodat zijn de entiteitgegevens niet onmiddellijk beschikbaar in Zoeken, Sociale, &amp; Commerce. Het synchronisatieproces wordt nu automatisch geactiveerd.<br><br>Wanneer grote hoeveelheden gegevens worden gesynchroniseerd, zijn de gegevens mogelijk enkele uren of langer niet beschikbaar in Zoeken, Sociale media en Commerce. |
-| | [!UICONTROL Skipping <ENTITY> creation since <PARENT ENTITY> creation failed.] | De bovenliggende entiteit kon niet worden gemaakt, dus deze onderliggende entiteit is niet gemaakt. |
+| | [!UICONTROL Skipping &lt;ENTITY> creation since &lt;PARENT ENTITY> creation failed.] | De bovenliggende entiteit kon niet worden gemaakt, dus deze onderliggende entiteit is niet gemaakt. |
 
 >[!MORELIKETHIS]
 >

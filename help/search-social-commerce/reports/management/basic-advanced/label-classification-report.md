@@ -20,7 +20,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 >
 >* Rapportage op basis van labelclassificaties op ad-niveau is niet beschikbaar voor [!DNL Microsoft Advertising] dynamische zoek- en (DSA)-campagnes.
 >* Op dezelfde entiteit kunnen meerdere etiketteringsclassificaties van toepassing zijn, zodat het totaal voor elke meeteenheid hoger kan zijn dan het feitelijke totaal voor de entiteit. Stel dat een trefwoord &quot;suede schoenen&quot; twee labelwaarden heeft, &quot;suede&quot; en &quot;schoeisel&quot; en dat het trefwoord 100 klikken heeft gekregen. De kolom Klikken zou &quot;100&quot;voor elk van die etiketwaarden tonen, zodat zou het totaal voor beide rijen &quot;200 zijn.&quot;
-* Wijzigingen die u aanbrengt in de labelindelingen en de waarden van de onderliggende labels voor een entiteit zijn over ongeveer een uur zichtbaar.
+>* Wijzigingen die u aanbrengt in de labelindelingen en de waarden van de onderliggende labels voor een entiteit zijn over ongeveer een uur zichtbaar.
 
 ## Standaardkolommen
 

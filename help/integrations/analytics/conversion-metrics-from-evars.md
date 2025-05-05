@@ -16,7 +16,7 @@ ht-degree: 0%
 
 U kunt succesgegevens gebruiken om DSP pakketten en zoek-, sociale en Commerce-campagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt de metriek van de gebeurtenis van het douanesucces vormen die op uw bestaande [[!DNL Analytics] [!DNL eVars] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [[!DNL props] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) wordt gebaseerd door [!DNL eVar] - en [!DNL prop] - vlakke gegevens in een gebeurtenis te financieren. Andere [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Commerce.
 
-{het voorbeeld van het 0} Gebruik ](/help/integrations/assets/a4adc-conversion-evar-example.jpg " Voorbeeld van het Gebruik ")![
+{het voorbeeld van het 0} Gebruik ![&#128279;](/help/integrations/assets/a4adc-conversion-evar-example.jpg " Voorbeeld van het Gebruik ")
 
 De meeste van de volgende taken moeten door een [!DNL Analytics] beheerder of andere gebruiker worden uitgevoerd. Als u hulp nodig hebt, contacteer (DSP gebruikers) het DSP technische ondersteuningsteam bij `adcloud_support@adobe.com` of (Onderzoek, Sociale, &amp; gebruikers van Commerce) uw Team van de Rekening van de Adobe.
 

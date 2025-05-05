@@ -22,7 +22,7 @@ ht-degree: 0%
 
    Zodra u sparen het plan, de voorspelde output wordt getoond.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet&#x200B;**, klik &#x200B;** [!UICONTROL ...] **&#x200B; in de rechterbovenhoek en klik vervolgens op &#x200B;** [!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >

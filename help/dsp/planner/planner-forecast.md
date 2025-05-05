@@ -18,7 +18,7 @@ U kunt de voorspelling voor een bereik van een aangesloten tv opnieuw genereren 
 
 1. Houd de cursor boven de planrij en klik op **[!UICONTROL Forecast]**.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet**, klik **[!UICONTROL ...]** in de rechterbovenhoek en klik vervolgens op **[!UICONTROL Export]**.
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] een prognose [!DNL Microsoft Excel] spreadsheet&#x200B;**, klik &#x200B;** [!UICONTROL ...] **&#x200B; in de rechterbovenhoek en klik vervolgens op &#x200B;** [!UICONTROL Export]**.
 
 >[!MORELIKETHIS]
 >

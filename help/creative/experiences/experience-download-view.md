@@ -22,7 +22,7 @@ Elke rij in het bestand bevat details over een ervaring, zoals de ervaringsnaam 
 
 1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
-1. In de hogere juiste toolbar, klik ](/help/creative/assets/download.png " Download ") ![.
+1. In de hogere juiste toolbar, klik ![&#128279;](/help/creative/assets/download.png " Download ") .
 
    Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 

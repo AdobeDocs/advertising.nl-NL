@@ -152,7 +152,7 @@ Wijzig het datumbereik dat in alle standaard- en aangepaste weergaven wordt gebr
 
 * Voer voor een specifiek bereik een van de volgende handelingen uit:
 
-   * Klik ](/help/dsp/assets/calendar.png " Kalender 1} van de Kalender "), en klik dan de begindatum en de einddatum binnen de kalender.![
+   * Klik ![&#128279;](/help/dsp/assets/calendar.png " Kalender 1&rbrace; van de Kalender "), en klik dan de begindatum en de einddatum binnen de kalender.
 
    * Klik binnen het datumbereik en voer een begin- en einddatum in of selecteer de datum in de kalender.
 

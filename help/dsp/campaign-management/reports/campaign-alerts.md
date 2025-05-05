@@ -32,7 +32,7 @@ Waarschuwings- en waarschuwingsindicatoren verdwijnen automatisch wanneer de ond
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Voor alle alarm van toepassing op de mening) rechts van de toolbar in om het even welke mening van het campagnebeheer, klik {het pictogram van het Comité van de Pulse van 0} wanneer het alarm ](/help/dsp/assets/alerts-panel.png " het pictogram van het Comité van de Pulse beschikbaar is wanneer het alarm ") beschikbaar is.![
+   * (Voor alle alarm van toepassing op de mening) rechts van de toolbar in om het even welke mening van het campagnebeheer, klik {het pictogram van het Comité van de Pulse van 0} wanneer het alarm ![&#128279;](/help/dsp/assets/alerts-panel.png " het pictogram van het Comité van de Pulse beschikbaar is wanneer het alarm ") beschikbaar is.
 
    * (Voor alle alarm voor een specifieke campagne) klik de waakzame indicator voor een campagnerij, en klik dan **[!UICONTROL View in Pulse panel]**.
 
@@ -48,7 +48,7 @@ Waarschuwings- en waarschuwingsindicatoren verdwijnen automatisch wanneer de ond
 
 1. (Facultatief) om het alarm volgens hun eerste datum van opsporing te groeperen, of het alarm door waakzame status, componentenstatus, componententype, of met een specifieke campagnenaam te filtreren, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png) in het hogere recht van het paneel, selecteer de filteropties, en klik dan **[!UICONTROL Apply]**.
 
-1. Om een lijst van alle beïnvloede campagnecomponenten voor een specifiek waakzaam type te bekijken, klik de waakzame naam, zoals &quot;[!UICONTROL Package: No Active Placement (*N*) ]&quot;. Klik op [!UICONTROL EXPAND ALL] of klik op de naam van de component om de details van elke desbetreffende component, inclusief de aanbevolen handeling, weer te geven. Om de relevante mening van het campagnebeheer voor om het even welke beïnvloede component te openen zodat kunt u de geadviseerde veranderingen aanbrengen, de curseur over de componentennaam houden en ![ klikken gaat ](/help/dsp/assets/go-to-view.png " aan mening ").
+1. Om een lijst van alle beïnvloede campagnecomponenten voor een specifiek waakzaam type te bekijken, klik de waakzame naam, zoals &quot;[!UICONTROL Package: No Active Placement (*N*) &#x200B;]&quot;. Klik op [!UICONTROL EXPAND ALL] of klik op de naam van de component om de details van elke desbetreffende component, inclusief de aanbevolen handeling, weer te geven. Om de relevante mening van het campagnebeheer voor om het even welke beïnvloede component te openen zodat kunt u de geadviseerde veranderingen aanbrengen, de curseur over de componentennaam houden en ![ klikken gaat ](/help/dsp/assets/go-to-view.png " aan mening ").
 
 1. (Facultatief) om een alarm te negeren (te verbergen), de curseur over de componentennaam te houden en ![ te klikken negeren ](/help/dsp/assets/alert-ignore.png " "), en dan **[!UICONTROL Ignore indefinitely]** te klikken. <!-- **[!UICONTROL Ignore alert for three days]**, **[!UICONTROL Ignore alert until next check]**, or **[!UICONTROL Ignore indefinitely] -->
 

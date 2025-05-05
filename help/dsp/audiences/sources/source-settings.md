@@ -30,7 +30,7 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0], zoekt de leverancier elk e-mailadres
 
 * *[!DNL RampID]:* PII omzetten in een [!DNL RampID]. U kunt [!DNL RampIDs] voor het opnieuw richten van login gebruikers en voor [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) meting.
 
-* *[!DNL Unified ID2.0](Beta):* PII omzetten in een [Unified ID 2.0](https://unifiedid.com) ID voor het opnieuw richten van login gebruikers.
+* *[!DNL Unified ID2.0] (Beta):* PII omzetten in een [Unified ID 2.0](https://unifiedid.com) ID voor het opnieuw richten van login gebruikers.
 
 <!-- Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.

@@ -16,7 +16,7 @@ U kunt elk rapport uitvoeren dat nog niet is verlopen en momenteel niet wordt ui
 
 >[!NOTE]
 >
->U kunt een douanerapport ook in werking stellen wanneer u [ ](report-create.md) creeert of [ ](report-edit.md) het uitgeeft.
+>U kunt een douanerapport ook in werking stellen wanneer u [&#128279;](report-create.md) creeert of [&#128279;](report-edit.md) het uitgeeft.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
 

@@ -35,7 +35,7 @@ Wanneer de taak begint, worden de status en de geplande postdatum voor de rij ge
 >
 >* Het duurt langer om grote hoeveelheden gegevens te verzenden. U kunt de voortgang van het bestand volgen in het dialoogvenster [!UICONTROL Progress] in de [!UICONTROL Bulksheets] weergeven.
 >* Alle geposte gegevens zijn onderworpen aan het redactionele proces van het netwerk.
-* Voordat het bulksbladbestand wordt gepost, kunt u het posten annuleren.
+>* Voordat het bulksbladbestand wordt gepost, kunt u het posten annuleren.
 
 ## Post-instellingen voor bulksbladen en gecorrigeerde foutbestanden {#bulksheet-post-settings}
 

@@ -42,7 +42,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 >[!NOTE]
 >
->>* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de URL `amo` vóór het hashsymbool.
+>&#x200B;>* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de URL `amo` vóór het hashsymbool.
 >* Als er geen andere parameters zijn opgenomen na de `amo` voegt u vervolgens een parameter toe (bijvoorbeeld &amp;a=b). Voorbeeld: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 ### URL-achtervoegsel van bestemmingspagina op advertentieniveau configureren

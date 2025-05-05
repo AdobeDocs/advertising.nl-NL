@@ -24,7 +24,7 @@ U kunt plaatsingen voor advertentiegroepen maken en bewerken in [ondersteunde ty
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Placements] >[!UICONTROL Placements]**.
 
-1. 
+1. &#x200B;
    1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik vervolgens op **[!UICONTROL Continue]**.

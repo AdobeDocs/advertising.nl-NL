@@ -27,6 +27,7 @@ ht-degree: 0%
          * Selecteer voor bestaande advertenties de advertenties die u wilt gebruiken.
 
          * Voor nieuwe advertenties maakt u een proxy [advertenties van derden](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+
       >[!NOTE]
       > DSP heeft niet de advertenties die u opgeeft. De uitgever dient de advertentie.
 

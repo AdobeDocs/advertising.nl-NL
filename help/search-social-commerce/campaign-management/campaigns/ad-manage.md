@@ -70,7 +70,7 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
       1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [[!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.](ad-settings-microsoft-product.md)
+1. Bewerk de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [&#128279;](ad-settings-microsoft-product.md) [!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.
 
    Voor meerdere advertenties kunt u alleen de velden bewerken die worden gebruikt voor alle geselecteerde advertenties. De wijzigingen worden toegepast op alle geselecteerde advertenties. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
@@ -96,9 +96,9 @@ U kunt ook alle actieve of gepauzeerde zoekopdrachten verwijderen. Verwijderde a
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
+   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
 
-   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
+   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

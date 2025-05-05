@@ -69,7 +69,7 @@ Waarbij:
 
     waarbij:
     
-    * de parameter wordt voorafgegaan door `&amp;&#39;
+    * de parameter wordt voorafgegaan door &grave;&amp;&#39;
     
     * &quot;parameter&quot; wordt vervangen door het sleutelwaardepaar voor het nieuwe veld
     

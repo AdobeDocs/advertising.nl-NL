@@ -26,7 +26,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.![
+   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.
 
    * (Voer de volgende handelingen uit als u een of meer campagnes wilt toevoegen aan hetzelfde portfolio:
 

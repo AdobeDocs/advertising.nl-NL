@@ -176,7 +176,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Afbeeldingen toevoegen of verwijderen:
 
-   * Om een beeld toe te voegen, voegt de klik ](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.![
+   * Om een beeld toe te voegen, voegt de klik ![&#128279;](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.
 
    * Als u een afbeelding wilt verwijderen, schakelt u het selectievakje naast de afbeelding uit.
 

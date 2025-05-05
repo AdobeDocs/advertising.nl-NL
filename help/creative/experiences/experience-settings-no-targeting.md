@@ -34,7 +34,7 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 * Om alle standaardcreatieven te schrappen, klik ![ Schrapping ](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
 
-* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.![
+* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![&#128279;](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.
 
 ## [!UICONTROL Targeting] -sectie
 
@@ -66,7 +66,7 @@ Wanneer u een advertentietag voor een specifieke creatieve grootte creeert, word
 
 * Als u een label wilt verwijderen, schakelt u het selectievakje naast de labelnaam uit.
 
-**[!UICONTROL Impression Tracking URL]:** (Optioneel) Een URL voor het bijhouden van de indruk door derden die u aan de URL van de bestemmingspagina wilt toevoegen voor een advertentie die u uit de ervaring hebt gemaakt. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
+**[!UICONTROL Impression Tracking URL]:** (Optioneel) Een URL voor het bijhouden van de indruk door derden die u aan de URL van de bestemmingspagina wilt toevoegen voor een advertentie die u uit de ervaring hebt gemaakt. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 

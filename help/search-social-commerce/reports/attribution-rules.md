@@ -24,8 +24,8 @@ In rapporten, gebrek en douanemeningen voor Advertising Onderzoek, Sociale, &amp
 >
 >* De attributieregels zijn van toepassing op kliks op betaalde advertenties in om het even welk kanaal en op beelden op vertoning en sociale advertenties. Ze zijn niet van toepassing op afbeeldingen voor betaalde zoekopdrachten, die niet op gebeurtenisniveau kunnen worden bijgehouden.
 >* Adobe Advertising slaat altijd de volgende gebeurtenissen voor elke surfer van het Web vóór een omzetting op: a) de eerste betaalde klik; b) tot 10 klikken voor elk kanaal (onderzoek, sociale, of vertoning), met inbegrip van de eerste klik; en c) tot 10 vertoningsindrukken. <!-- But it can continue to attribute conversions to clicks and impressions for longer. -->
-* Bij DSP en Advertising Creative van advertenties houden apparaatdefinities alleen rekening met het gebeurtenispad van de geselecteerde toewijzingsregel.<!-- cross-device attribution via LiveRamp only -->
-* In rapporten en beheersmeningen, hangt het aantal decimalen voor een waarde af van de munt, maar de Adobe Advertising slaat nauwkeurigere waarden op.
+>* Bij DSP en Advertising Creative van advertenties houden apparaatdefinities alleen rekening met het gebeurtenispad van de geselecteerde toewijzingsregel.<!-- cross-device attribution via LiveRamp only -->
+>* In rapporten en beheersmeningen, hangt het aantal decimalen voor een waarde af van de munt, maar de Adobe Advertising slaat nauwkeurigere waarden op.
 
 ## Laatste gebeurtenis (de standaardwaarde)
 

@@ -92,7 +92,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 ## Een specifieke Insight downloaden naar een XLSX-bestand
 
-* Aan het hogere recht van insight, klik ](/help/creative/assets/download.png " Download ") ![.
+* Aan het hogere recht van insight, klik ![&#128279;](/help/creative/assets/download.png " Download ") .
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 

@@ -34,7 +34,7 @@ Voor ervaringen met beslissingsboom die richten, kunt u de standaardcreatieven m
 
 * Om alle standaardcreatieven te schrappen, klik ![ Schrapping ](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
 
-* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.![
+* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![&#128279;](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.
 
 ## [!UICONTROL Targeting] -sectie
 
@@ -69,7 +69,7 @@ Elke toets wordt toegevoegd als een macro in de advertentie-ervaring
 
 * Als u een label wilt verwijderen, schakelt u het selectievakje naast de labelnaam uit.
 
-**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
+**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
@@ -79,7 +79,7 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 >* U kunt [ dit URL voor om het even welk creatief in de ervaring ](experience-tracking-urls-targeting.md) met voeten treden.
 >* U kunt ook JavaScript-code voor imitatie van derden invoeren in het veld [!UICONTROL Client JS]
 
-**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
+**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 

@@ -56,7 +56,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
 >[!MORELIKETHIS]
 >
-* [Informatie over aangepaste metriek](custom-metric-about.md)
-* [Een aangepaste metrische waarde maken](custom-metric-create.md)
-* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
-* [Aangepaste metrische instellingen](custom-metric-settings.md)
+>* [Informatie over aangepaste metriek](custom-metric-about.md)
+>* [Een aangepaste metrische waarde maken](custom-metric-create.md)
+>* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
+>* [Aangepaste metrische instellingen](custom-metric-settings.md)
