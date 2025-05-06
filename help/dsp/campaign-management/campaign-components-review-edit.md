@@ -3,9 +3,9 @@ title: Instellingen van Campagne-componenten controleren en bewerken met behulp 
 description: Leer hoe u sleutelpakket-, plaatsings- en advertentie-instellingen bulksgewijs kunt bekijken en bewerken met behulp van spreadsheets.
 feature: DSP Placements
 exl-id: 1ec8362a-d37b-4fd7-becd-3a5b4f0c9504
-source-git-commit: c1039c59c0a1f8d2bbe08b4522b28f2f883a3dea
+source-git-commit: 7af6788f2aae3a2fb9e2048676dbe1955c2e56d9
 workflow-type: tm+mt
-source-wordcount: '524'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt de instellingen voor de pakketten, plaatsingen en advertenties in één campagne downloaden in de XLSX-indeling ([!DNL Microsoft Excel] spreadsheet) om de instellingen te bekijken en te bewerken. Door gebrek, omvat het gedownloade dossier, genoemd a *bulksheet,* afzonderlijke lusjes voor pakketmontages, de informatie van de pakketvlucht, plaatsingsmontages, en plaatsing en programma&#39;s. U kunt de instellingen voor bepaalde typen campagnecomponenten optioneel uitsluiten.
 
-Als u meerdere instellingen tegelijk wilt bijwerken, uploadt u een geldig bulksheet-bestand met de wijzigingen. Als u het werkblad wilt maken, bewerkt u een gedownload werkblad met de bestaande instellingen. Bewerkbare velden bevatten de meeste instellingen die normaal gesproken bewerkbaar zijn.
+Als u meerdere instellingen tegelijk wilt bijwerken, uploadt u een geldig bulksheet-bestand met de wijzigingen. Als u het werkblad wilt maken, bewerkt u een gedownload werkblad met de bestaande instellingen. Bewerkbare velden bevatten de meeste instellingen die normaal gesproken bewerkbaar zijn. Velden voor instellingen die niet worden gebruikt, bevatten lege waarden.
 
 >[!NOTE]
 >
