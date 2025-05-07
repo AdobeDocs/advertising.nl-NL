@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 28ec89de0bd1a90578c6dd53a8249abbe4facbda
+source-git-commit: fd3805096f97ba572afb4a5573ae0e2f5ec17a6f
 workflow-type: tm+mt
-source-wordcount: '4042'
+source-wordcount: '4255'
 ht-degree: 0%
 
 ---
@@ -211,9 +211,15 @@ Opgeven welke inventarisdoelen worden gebruikt:
 >
 >Als u zich hebt geabonneerd op de [!UICONTROL On Demand] -voorraad maar de uitgevers of deals niet als doel kunt instellen, controleert u de status van de deals. Voor meer informatie over statussen, zie [ Ongeveer  [!DNL On Demand]  Voorraad van de Premie ](/help/dsp/inventory/on-demand-inventory-about.md).
 
-**[!UICONTROL Exclude out-stream]:** (Alleen videoplaatsingen) sluit het verkeer buiten de stream uit.
+**[!UICONTROL Video targeting]:** Doel (maar niet uitsluiten) voorraad door voorraadkenmerken. Wanneer u meerdere waarden voor hetzelfde videokenmerk als doel instelt, kunnen alle geselecteerde kenmerken worden aangewezen (bijvoorbeeld \[Player size = large OR Player size = HD\]). Wanneer u meerdere kenmerken als doel instelt, moet elk van de opgegeven kenmerken aanwezig zijn (bijvoorbeeld \[Duur = 30-60 min] EN \[Speler grootte = grote OF Player grootte = HD\]).
 
-Outstream-advertenties worden doorgaans als een pop-up of opgevuld in inhoud (in de eigen ervaring) weergegeven in plaats van als gewone videobanden in een videospeler.
+* **[!UICONTROL Player size]:** Doel (maar niet uitsluiten) voorraad per spelergrootte. De instelling is van toepassing op preroll-plaatsingen, voorlopige mobiele standaardplaatsingen en universele videoplaatsingen voor desktops en mobiele omgevingen. Standaard worden alle grootten als doelgrootten gebruikt. Om onderaan de doelstellingen te beperken, selecteer specifieke doelgrootte en/of *Onbekend*.
+
+* **[!UICONTROL Playback mode]:** Doel (maar niet uitsluiten) voorraad door hoe het afspelen wordt geïnitieerd. De instelling is van toepassing op preroll-plaatsingen, voorlopige mobiele standaardplaatsingen en universele videoplaatsingen voor desktops en mobiele omgevingen. Standaard worden alle modi geactiveerd. Om onderaan de doelstellingen te beperken, selecteer specifieke doelwijzen en/of *Onbekend*.
+
+* **[!UICONTROL Skippability]:** Doel (maar niet uitsluiten) voorraad afhankelijk van of het kan worden overgeslagen. De instelling is van toepassing op alle VAST/VPAID-plaatsingen, inclusief preroll, preroll voor mobiele apparatuur, aangesloten tv en universele videoplaatsingen. Standaard zijn alle opties geactiveerd. Om de doelstellingen te beperken, selecteer specifieke doelstellingen en/of *Onbekend*.
+
+**[!UICONTROL Position targeting]:** Doel (maar niet uitsluiten) voorraad per advertentiepunt. De instelling is van toepassing op alle VAST/VPAID-plaatsingen, inclusief preroll, preroll voor mobiele apparatuur, aangesloten tv en universele videoplaatsingen. Standaard worden alle posities geactiveerd. Om onderaan de doelstellingen te beperken, selecteer specifieke doelposities en/of *Onbekend*.
 
 ## [!UICONTROL Site and App Targeting]
 

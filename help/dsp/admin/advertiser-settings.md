@@ -2,7 +2,7 @@
 title: Accountinstellingen voor adverteerders
 description: Zie beschrijvingen van de beschikbare adverteerderinstellingen.
 role: User, Admin
-source-git-commit: 20f69d2e8d5d289015c911f153609c0805307f0a
+source-git-commit: 1f8a76e060612cdcc8ee3709bdf49654faf31b57
 workflow-type: tm+mt
 source-wordcount: '943'
 ht-degree: 0%
@@ -27,38 +27,38 @@ ht-degree: 0%
 
 **[!UICONTROL Advertiser URL]:** De URL van de startpagina of hoofdwebsite van de adverteerder (die begint met `http://` of `https://` ).
 
-**[!UICONTROL Share all private exchange feeds into this advertiser]:** (De Nieuwe rekeningen van adverteerders slechts) maakt alle privé ruilmiddelen die voor de rekening van de DSP van de organisatie worden gevormd van de organisatie aan de adverteerder beschikbaar.
+**[!UICONTROL Share all private exchange feeds into this advertiser]:** (De Nieuwe rekeningen van adverteerders slechts) maakt alle privé uitwisselingsvoer voor de rekening van DSP van de organisatie van de organisatie aan de adverteerder beschikbaar wordt gevormd.
 
 ### [!UICONTROL Adobe IMS IDs]
 
 Adverteerders met extra Adobe Experience Cloud-producten kunnen gegevens over bepaalde producten delen met behulp van de unieke id van de organisatie voor Experience Cloud. U kunt specifieke productintegratie configureren in de sectie [!UICONTROL Integrations] .
 
-**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra producten van het Experience Cloud die door een rekening van het Experience Cloud met veelvoudige adverteerders worden vergunning gegeven; facultatief) De de organisatieidentiteitskaart van het Experience Cloud van de adverteerder.
+**[!UICONTROL Account IMS org and ID]:** (Adverteerders met extra Experience Cloud-producten die een licentie hebben via een Experience Cloud-account met meerdere adverteerders; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
-**[!UICONTROL Advertiser IMS org and ID]:** (Adverteerders met directe licenties voor extra producten van het Experience Cloud; optioneel) De organisatie-id van het Experience Cloud van de adverteerder.
+**[!UICONTROL Advertiser IMS org and ID]:** (Advertisers met directe licenties voor extra Experience Cloud-producten; optioneel) De Experience Cloud-organisatie-id van de adverteerder.
 
 ### [!UICONTROL Integrations]
 
-(Optioneel) Aanvullende producten uit de Experience Cloud die aan de DSP-account zijn gekoppeld. De producten moeten worden gekoppeld aan dezelfde organisatie-id voor het Experience Cloud die is opgegeven in de sectie [!UICONTROL Adobe IMS IDs] .
+(Optioneel) Aanvullende Experience Cloud-producten gekoppeld aan de DSP-account. De producten moeten worden gekoppeld aan dezelfde Experience Cloud-organisatie-id in de sectie [!UICONTROL Adobe IMS IDs] .
 
-**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising omzettingspixels gebruiken) Een [!DNL Search, Social, & Commerce] -account waarmee DSP toewijzingsgegevens uitwisselen.
+**[!UICONTROL Attribution services]** > **[!UICONTROL Adobe Media Optimizer]:** (Adverteerders met [!DNL Advertising Search, Social, & Commerce] of die Adobe Advertising-conversiepixels gebruiken) Een [!DNL Search, Social, & Commerce] -account waarmee DSP toewijzingsgegevens uitwisselt.
 
-**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers met Adobe Analytics; optioneel; alleen van toepassing op gegevens die zijn verzameld met trackingtags voor conversie van Adoben Advertising die alleen een [!DNL EF Redirect] en token bevatten) Een of meer [!DNL Analytics] rapportsuites waarnaar DSP gegevens verzendt die het verzamelt van uitgevers en partners aan de aanbodzijde. Analytics verzendt ook de gegevens die het van de plaats van de cliënt aan DSP verzamelt.
+**[!UICONTROL Report suites]** > **[!UICONTROL Adobe Analytics]:** (Advertisers met Adobe Analytics; optioneel; alleen van toepassing op gegevens die zijn verzameld met trackingtags voor Adobe Advertising-conversie die alleen een [!DNL EF Redirect] en token bevatten) Een of meer [!DNL Analytics] rapportsuites waarnaar DSP gegevens verzendt die het verzamelt van uitgevers en partners aan de aanbodzijde. Analytics verzendt ook de gegevens die het van de cliëntplaats aan DSP verzamelt.
 
-Voor de gegevens die in de rapportsuites worden weergegeven, moet de juiste instelling op het niveau van de [!DNL Search, Social, & Commerce] adverteerder zijn ingeschakeld. Daarnaast moet het [!DNL Analytics] -account van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van de Adobe Advertising.
+Voor de gegevens die in de rapportsuites worden weergegeven, moet de juiste instelling op het niveau van de [!DNL Search, Social, & Commerce] adverteerder zijn ingeschakeld. Daarnaast moet het [!DNL Analytics] -account van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Adobe Advertising.
 
 >[!WARNING]
 >
->Als u een eerder gekoppelde rapportsuite verwijdert, worden DSP gegevens niet meer uitgewisseld met die suite. Verwacht gegevensschommelingen te zien.
+>Als u een eerder gekoppelde rapportsuite verwijdert, wisselt DSP geen gegevens meer uit met die suite. Verwacht gegevensschommelingen te zien.
 
 Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[ Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
-**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers met Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens opvraagt voor alle gebruikers van de Adobe van de adverteerder. Dit omvat gegevens voor:
+**[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers met Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager- of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens opvraagt voor het gehele Adobe-publiek van de adverteerder. Dit omvat gegevens voor:
 
-* Audience Managers
+* Audience Manager-segmenten
 * [!DNL Analytics] segmenten die naar Adobe Experience Cloud worden gepubliceerd
 * Segmenten die zijn gemaakt met de Adobe Experience Cloud [!DNL Audience Library]
-* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar de Adobe Advertising worden verzonden
+* Segmenten die in Adobe Experience Platform zijn gemaakt en via Audience Manager naar Adobe Advertising zijn verzonden
 
 De eerste synchronisatie duurt ongeveer 24 uur. Daarna worden gegevens in real-time gesynchroniseerd met een vertraging van 1 tot 2 seconden.
 <!-- I don't think this is true anymore:
@@ -82,6 +82,8 @@ U kunt naar keuze standaarddoelstellingen voor de nieuwe plaatsen van de adverte
 
 ### [!UICONTROL Media Quality]
 
+<!-- See placement settings for specs on applicable ad/device types -->
+
 #### [!UICONTROL Contextual Filtering]
 
 Typen [!DNL Comscore]-, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [!DNL Peer39] contextuele filters die moeten worden toegepast. U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
@@ -104,7 +106,7 @@ Typen [!DNL Comscore]-, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [
 
 **[!UICONTROL Alcohol Content]:** (Optioneel) De mate van het alcoholgehalte waarvoor advertenties standaard worden geblokkeerd: *[!UICONTROL Do Not Block]* (de standaardwaarde), *[!UICONTROL Standard]* of *[!UICONTROL Strict]* . Er kunnen extra kosten van toepassing zijn.
 
-#### [!UICONTROL Pre-Bid Fraud Blocking]
+#### [!UICONTROL Pre-Bid Fraud Blocking] {#prebid-fraud-blocking}
 
 Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en verdachte activiteiten die worden gemeten via [!DNL DoubleVerify] , [!DNL Integral Ad Science] en [!DNL Peer39] . U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
 
@@ -116,11 +118,11 @@ Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en v
 
 ##### [!UICONTROL Peer 39] {#peer-39-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude die DSP ertoe brengen advertenties standaard te blokkeren: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]* en/of *[!UICONTROL Fraud: Zero Ads]* . Er kunnen extra kosten van toepassing zijn.
+**[!UICONTROL Block sites that are]:** (Optioneel) Een of meer soorten fraude waardoor DSP standaard advertenties blokkeert: *[!UICONTROL Fraud]* (die alle sites blokkeert met fraude), *[!UICONTROL Fraud: Bot Sites_Non-Human traffic]* en/of *[!UICONTROL Fraud: Zero Ads]* . Er kunnen extra kosten van toepassing zijn.
 
 ##### [!UICONTROL Integral Ad Science] {#ias-fraud}
 
-**[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeren: *[!UICONTROL None]* (de standaardinstelling, die advertenties niet blokkeert op basis van verdachte activiteiten), *[!UICONTROL Suspicious Activity - High Risk]* of *[!UICONTROL Suspicious Activity - High or Moderate Risk]* . Er kunnen extra kosten van toepassing zijn.
+**[!UICONTROL Block sites that are]:** (Optioneel) Een type verdachte website- of app-activiteit waardoor DSP advertenties standaard blokkeert: *[!UICONTROL None]* (de standaardinstelling, die advertenties niet blokkeert op basis van verdachte activiteiten), *[!UICONTROL Suspicious Activity - High Risk]* of *[!UICONTROL Suspicious Activity - High or Moderate Risk]* . Er kunnen extra kosten van toepassing zijn.
 
 #### [!UICONTROL Pre-Bid Viewability]
 
@@ -130,19 +132,19 @@ Optionele weergavefilters vóór biedingen door [!DNL DoubleVerify] en [!DNL Int
 
 ###### Video
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
+** **[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
+** **[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
+** **[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
+** **[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient Player Size Statistics]**
+** **[!UICONTROL Impressions with Insufficient Player Size Statistics]**
 
 ###### Weergave
 
-**&#x200B; **&#x200B;[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
+** **[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
 
 * **[!UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
 
@@ -170,7 +172,7 @@ U kunt adverteerder-niveau met voeten treden die op het [ plaatsingsniveau ](/he
 
 #### [!UICONTROL DoubleVerify Authentic Brand Suitability]
 
-**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] alleen klanten; optioneel) A [!DNL DoubleVerify Authentic Brand Safety] segment-id die is gekoppeld aan de account van de organisatie [!DNL DoubleVerify] en die standaard voor alle plaatsen moet worden gebruikt. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP uw account aan voor gebruik van de segment-id.
+**[!UICONTROL DoubleVerify Account]:** ([!DNL DoubleVerify] alleen klanten; optioneel) A [!DNL DoubleVerify Authentic Brand Safety] segment-id die is gekoppeld aan de account van de organisatie [!DNL DoubleVerify] en die standaard voor alle plaatsen moet worden gebruikt. Het specificeren van een identiteitskaart blokkeert impressies na-bieding gebruikend de veiligheidsregels van het douanemerk die voor gespecificeerde segment ID worden gevormd. DSP factureert uw account voor gebruik voor de segment-id.
 
 De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. U kunt de id op advertentieniveau op plaatsingsniveau wijzigen of verwijderen.
 
