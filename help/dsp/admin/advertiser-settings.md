@@ -132,19 +132,19 @@ Optionele weergavefilters vóór biedingen door [!DNL DoubleVerify] en [!DNL Int
 
 ###### Video
 
-** **[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
+**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
 
-** **[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
+**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
 
-** **[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
+**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
 
-** **[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
+**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
 
-** **[!UICONTROL Impressions with Insufficient Player Size Statistics]**
+**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient Player Size Statistics]**
 
 ###### Weergave
 
-** **[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
+**&#x200B; **&#x200B;[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
 
 * **[!UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
 
