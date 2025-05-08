@@ -30,7 +30,7 @@ U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, 
 
 1. [ Teken binnen aan Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
 
-1. In het hoogste menu, uitgezochte ](/help/search-social-commerce/assets/menu-icon.png " oplossingsselecteur 1} oplossingsselecteur ").![
+1. In het hoogste menu, uitgezochte ![&#128279;](/help/search-social-commerce/assets/menu-icon.png " oplossingsselecteur 1&rbrace; oplossingsselecteur ").
 
 1. Selecteer **[!UICONTROL Advertising Cloud]** in het submenu.
 
