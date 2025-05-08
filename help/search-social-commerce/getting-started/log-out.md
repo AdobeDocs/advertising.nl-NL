@@ -1,9 +1,9 @@
 ---
 title: Afmelden
-description: Leer waar u zich kunt afmelden.
-exl-id: cebb97ca-8fa6-4b29-a3f7-613beb422450
+description: Leer waar u zich wilt afmelden.
+exl-id: b19b19ea-ca74-4605-b2a3-0515659b58f5
 feature: Search Getting Started
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 3d66f9a417d08f297d11b3f71479c3fe7a2232b3
 workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 0%
@@ -14,11 +14,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Uw aanmeldingssessie wordt automatisch beëindigd als uw browservenster 30 minuten lang inactief is.
+>Uw sessie wordt automatisch beëindigd als uw browservenster 30 minuten lang inactief is.
 
-* Klik in de rechterbovenhoek van een pagina op ![Gebruikersprofiel](/help/search-social-commerce/assets/user-profile.png "Gebruikersprofiel")en klik vervolgens op **[!UICONTROL Sign Out]**.
+* In het hogere recht van om het even welke pagina, klik ](/help/search-social-commerce/assets/user-profile.png " het profiel van de Gebruiker 1} "), en klik dan **[!UICONTROL Sign Out]**.![
 
 >[!MORELIKETHIS]
 >
->* [Aanmelden](log-in.md)
->* [De indeling van de gebruikersinterface](user-interface.md)
+>* [ Teken binnen ](log-in.md)
+>* [ hoe het gebruikersinterface wordt georganiseerd ](user-interface.md)

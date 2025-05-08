@@ -1,41 +1,41 @@
 ---
 title: Aanmelden
-description: Leer manieren aan login.
-exl-id: b4359852-ed2a-4c97-864c-4a456fe57648
+description: Leer manieren om u aan te melden.
+exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 3d66f9a417d08f297d11b3f71479c3fe7a2232b3
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
 
 # Aanmelden
 
-U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, Sociale Zaken en Handel.
+U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, Sociale Zaken en Commerce.
 
 ## Rechtstreeks aanmelden
 
 * Meld u aan bij een van de volgende URL&#39;s:
 
-   * Gebruikers in Noord-Amerika: [https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
+   * Gebruikers in Noord-Amerika: [ https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
 
-   * Gebruikers in alle andere gebieden: [https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
+   * Gebruikers in alle andere gebieden: [ https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
 
 ## Aanmelden bij Adobe Experience Cloud
 
 >[!NOTE]
 >
->Uw bedrijf moet zijn voorzien in Adobe Experience Cloud, en u moet hebben [Uw Experience Cloud-account is gekoppeld aan een account voor Zoeken, Sociale zaken en Handel](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
+>Uw bedrijf moet provisioned in Adobe Experience Cloud zijn, en u moet uw rekening van Experience Cloud aan een Onderzoek, Sociale, &amp; rekening van Commerce [ verbonden hebben ](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
 
-1. [Aanmelden bij Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=nl-NL#signin).
+1. [ Teken binnen aan Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
 
-1. Selecteer in het bovenste menu ![oplossingskiezer](/help/search-social-commerce/assets/menu-icon.png "oplossingskiezer").
+1. In het hoogste menu, uitgezochte ](/help/search-social-commerce/assets/menu-icon.png " oplossingsselecteur 1} oplossingsselecteur ").![
 
-1. Selecteer in het submenu **[!UICONTROL Advertising Cloud]**.
+1. Selecteer **[!UICONTROL Advertising Cloud]** in het submenu.
 
 >[!MORELIKETHIS]
 >
->* [Afmelden](log-out.md)
->* [Uw wachtwoord wijzigen](/help/search-social-commerce/tools/password-change.md)
->* [De indeling van de gebruikersinterface](user-interface.md)
+>* [ Teken uit ](log-out.md)
+>* [ verander uw wachtwoord ](/help/search-social-commerce/tools/password-change.md)
+>* [ hoe het gebruikersinterface wordt georganiseerd ](user-interface.md)
