@@ -28,7 +28,7 @@ U kunt zich rechtstreeks of vanuit Adobe Experience Cloud aanmelden bij Zoeken, 
 >
 >Uw bedrijf moet provisioned in Adobe Experience Cloud zijn, en u moet uw rekening van Experience Cloud aan een Onderzoek, Sociale, &amp; rekening van Commerce [ verbonden hebben ](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
 
-1. [ Teken binnen aan Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html#signin).
+1. [ Teken binnen aan Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=nl-NL#signin).
 
 1. In het hoogste menu, uitgezochte ![&#128279;](/help/search-social-commerce/assets/menu-icon.png " oplossingsselecteur 1&rbrace; oplossingsselecteur ").
 
