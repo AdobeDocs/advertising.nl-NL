@@ -67,7 +67,7 @@ In de volgende instructies wordt informatie over het gebruik van de optie Zoeken
 
    1. Selecteer **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]** . Voer in het veld **[!UICONTROL Value]** de waarden [!UICONTROL Network Account ID] , [!UICONTROL Network Campaign ID] , [!UICONTROL Network Adgroup ID] of [!UICONTROL Network Ad ID] voor de relevante netwerkentiteit in Zoeken, Sociaal en Commerce in. Op deze manier kunt u de parameters van de queryreeks [!DNL Target] gebruiken voor doorklikken voor het publiek voor de entiteit.
 
-      U kunt identiteitskaart vinden door de relevante kolom van identiteitskaart aan de entiteitmening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) toe te voegen.[
+      U kunt identiteitskaart vinden door de relevante kolom van identiteitskaart aan de entiteitmening [&#128279;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) toe te voegen.
 
       ![[!UICONTROL Network Account ID] kolom in de [!UICONTROL Accounts] view ](/help/integrations/assets/target-search-id.png "[!UICONTROL Network Account ID] kolom in de [!UICONTROL Accounts] mening ")
 

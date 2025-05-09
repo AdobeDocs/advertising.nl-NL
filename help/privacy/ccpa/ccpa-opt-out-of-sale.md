@@ -68,7 +68,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
    >
    >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Adobe Advertising-accounts van uw organisatie, inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] accounts en [!DNL Creative] - zijn gekoppeld aan uw Experience Cloud-organisatie-id. [!DNL DCO]
 
-1. Gebruik Adobe Experience Platform Privacy Service API om opt-out van-verkoop verzoeken ](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) aan Adobe Advertising namens consumenten voor te leggen, en de status van bestaande verzoeken te controleren.[
+1. Gebruik Adobe Experience Platform Privacy Service API om opt-out van-verkoop verzoeken [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) aan Adobe Advertising namens consumenten voor te leggen, en de status van bestaande verzoeken te controleren.
 
    Zie de bijlage hieronder voor een voorbeeld van een &quot;opt-out&quot;-verzoek.
 

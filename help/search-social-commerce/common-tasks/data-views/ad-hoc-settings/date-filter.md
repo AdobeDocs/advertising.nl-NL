@@ -34,7 +34,7 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 
    * Voor een specifiek bereik: selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begin- en einddatum op.
 
-     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " het pictogram van de Kalender 1} van de Kalender ") naast elk gebied om de kalender te openen en een datum te selecteren.![
+     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![&#128279;](/help/search-social-commerce/assets/calendar.png " het pictogram van de Kalender 1&rbrace; van de Kalender ") naast elk gebied om de kalender te openen en een datum te selecteren.
 
 1. (Optioneel) Vergelijk gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik:
 

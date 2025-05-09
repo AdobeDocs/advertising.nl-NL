@@ -42,7 +42,7 @@ Uw huidige DSP-gebruikersgegevens blijven actief tot 26 juni 2025 zodat u zich o
 
 1. Kies uw organisatie:
 
-   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.
+   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
