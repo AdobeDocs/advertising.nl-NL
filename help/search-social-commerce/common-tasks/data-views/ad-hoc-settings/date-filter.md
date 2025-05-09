@@ -3,7 +3,7 @@ title: Gegevens filteren op datumbereik
 description: Leer hoe u het globale datumbereikfilter gebruikt.
 exl-id: 35c0f63f-84ae-4e8e-8a48-acae7ff24498
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
 workflow-type: tm+mt
 source-wordcount: '396'
 ht-degree: 0%
@@ -21,33 +21,33 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 >[!NOTE]
 >
 >* U kunt gegevens van de voorgaande 13 maanden weergeven, maar bestaande aangepaste weergaven kunnen gegevens van maximaal 180 dagen bevatten.
->* Als u eerdere gegevens wilt weergeven, gaat u naar de [[!UICONTROL Reports] weergave](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en voert u een basisrapport uit.
->* U kunt ook een datumbereik opslaan voor een [standaardweergave of aangepaste weergave](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md).
+>* Om vroegere gegevens te bekijken, ga naar [[!UICONTROL Reports] mening ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en stel een basisrapport in werking.
+>* U kunt een datumwaaier voor a [ standaardmening of douanemening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) ook bewaren.
 
 ## Globale datumfilter wijzigen in campagneweergaven
 
 1. Klik boven een willekeurige gegevenstabel in Zoeken \> Campagnes \> Campagnes op het huidige datumbereik.
 
-1. In de **[!UICONTROL Date Range]** -veld, geeft u het bereik op:
+1. Geef in het veld **[!UICONTROL Date Range]** het bereik op:
 
-   * Voor een vooraf ingesteld bereik: selecteer een optie in de lijst met veelgebruikte tijdstappen, variërend van *[!UICONTROL Today]* tot *[!UICONTROL Last 180 Days]*. De standaardwaarde is *[!UICONTROL Yesterday]*.
+   * Voor een vooraf ingesteld bereik: selecteer een optie in de lijst met veelgebruikte tijdstappen, variërend van *[!UICONTROL Today]* tot *[!UICONTROL Last 180 Days]* . De standaardwaarde is *[!UICONTROL Yesterday]* .
 
-   * Voor een specifiek bereik: Selecteren **[!UICONTROL Custom Date Range]** en geeft u vervolgens de begindatum en de einddatum op.
+   * Voor een specifiek bereik: selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begin- en einddatum op.
 
-     Voer datums in in de notatie DD-MM-JJJJ of DD-MM-JJJJ, of klik op ![Kalenderpictogram](/help/search-social-commerce/assets/calendar.png "Kalenderpictogram") naast elk veld om de kalender te openen en een datum te selecteren.
+     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " het pictogram van de Kalender 1} van de Kalender ") naast elk gebied om de kalender te openen en een datum te selecteren.![
 
 1. (Optioneel) Vergelijk gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik:
 
-   1. Verplaats de **[!UICONTROL Comparison]** schuifregelaar naar *[!UICONTROL On]*.
+   1. Verplaats de schuifregelaar **[!UICONTROL Comparison]** naar *[!UICONTROL On]* .
 
-      Wanneer u deze optie selecteert, worden er twee extra kolommen toegevoegd voor elke gewone gegevenskolom. In plaats van bijvoorbeeld slechts één kolom op te nemen voor &quot;[!UICONTROL Impressions],&quot; bevat de tabel kolommen voor &quot;[!UICONTROL Impressions R1],&quot; &quot;[!UICONTROL Impressions R2],&quot; en &quot;[!UICONTROL Impressions Diff].&quot;  Als u de gegevens exporteert, worden dezelfde kolommen als &quot;[!UICONTROL Impressions Range 1],&quot; &quot;[!UICONTROL Impressions Range 2],&quot; en &quot;[!UICONTROL Impressions Difference].&quot;
+      Wanneer u deze optie selecteert, worden er twee extra kolommen toegevoegd voor elke gewone gegevenskolom. Bijvoorbeeld, in plaats van het omvatten van enkel één kolom voor &quot;[!UICONTROL Impressions],&quot;omvat de lijst kolommen voor &quot;[!UICONTROL Impressions R1],&quot;&quot;[!UICONTROL Impressions R2],&quot; en &quot;[!UICONTROL Impressions Diff]&quot;.  Als u de gegevens uitvoert, dan worden de zelfde kolommen gespeld zoals &quot;[!UICONTROL Impressions Range 1],&quot;&quot;[!UICONTROL Impressions Range 2],&quot; en &quot;[!UICONTROL Impressions Difference]&quot;.
 
    1. Geef het tweede datumbereik op.
 
-   1. Kies hoe u het verschil tussen gegevens in de twee geselecteerde datumbereiken in &quot;\[ wilt uitdrukken _Gegevensveld_\] Verschil&quot; kolom:
+   1. Kies hoe te om het verschil tussen gegevens in de twee geselecteerde datumwaaiers in &quot;\ [_het gebied van Gegevens_ \] de kolom van het Verschil&quot;uit te drukken:
 
-      * *[!UICONTROL Variance]* (standaard): geeft het verschil weer als een numerieke waarde.
+      * *[!UICONTROL Variance]* (standaardwaarde): geeft het verschil weer als een numerieke waarde.
 
-      * *[!UICONTROL % Change]:*  Hiermee geeft u het verschil weer als een percentage.
+      * *[!UICONTROL % Change]:* toont het verschil als percentage.
 
 1. Klik op **[!UICONTROL Apply]**.

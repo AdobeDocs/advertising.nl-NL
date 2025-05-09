@@ -3,7 +3,7 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 0%
@@ -12,47 +12,47 @@ ht-degree: 0%
 
 # De indeling van de gebruikersinterface
 
-![Gebruikersinterface](/help/search-social-commerce/assets/ui.png "Gebruikersinterface")
+![ gebruikersinterface ](/help/search-social-commerce/assets/ui.png " Gebruikersinterface ")
 
 Boven aan elke pagina staan het hoofdmenu en andere op taak en informatie gebaseerde menu&#39;s.
 
 ## Het hoofdmenu
 
-* **[!UICONTROL Search]** — Uw advertentienetwerkaccounts beheren in Zoeken, Sociaal en Commerce, inclusief accounts waarvoor Zoeken, Sociaal en Commerce bijhoudt, maar geen bod uitbrengt.
+* **[!UICONTROL Search]** — Om uw advertentienetwerkaccounts te beheren in Zoeken, Sociaal en Commerce, inclusief accounts waarvoor Zoeken, Sociaal en Commerce bijhoudt, maar geen bod uitbrengt.
 
-## [!UICONTROL Search] menu
+## [!UICONTROL Search] menu&#39;s
 
-De [!UICONTROL Search] bevat de volgende submenu&#39;s. De beschikbare opties worden bepaald door uw rol:
+De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. De beschikbare opties worden bepaald door uw rol:
 
-* **[!UICONTROL Campaigns]** — Dit menu bevat opties voor het weergeven en beheren van informatie over de advertentieraccounts en campagnes die u beheert of volgt. Afhankelijk van het advertentienetwerk en uw rol, kunt u rekeningen en campagnes en hun componenten tot stand brengen en uitgeven. U kunt ook labelclassificaties beheren, die u kunt toewijzen aan verschillende accountcomponenten.
+* **[!UICONTROL Campaigns]** — Dit menu bevat opties voor het weergeven en beheren van informatie over de advertentierekeningen en campagnes die u beheert of bijhoudt. Afhankelijk van het advertentienetwerk en uw rol, kunt u rekeningen en campagnes en hun componenten tot stand brengen en uitgeven. U kunt ook labelclassificaties beheren, die u kunt toewijzen aan verschillende accountcomponenten.
 
-* **[!UICONTROL Optimization]** — Dit menu bevat opties voor het beheren van bedrijfsdoelstellingen, het beheren van portfolio&#39;s op basis van uw bedrijfsdoelstellingen en het bewaken van de prestaties van het portfolio, het genereren van een portfolio. [!UICONTROL Spend Recommendation Report], kunt u inschrijvingsbeperkingen beheren en uw [!DNL Google Ads] omzettingswaardenregels.
+* **[!UICONTROL Optimization]** — Dit menu bevat opties voor het beheren van bedrijfsdoelstellingen, het beheren van portfolio&#39;s op basis van uw bedrijfsdoelstellingen en het controleren van de prestaties van het portfolio, het genereren van de portfolio [!UICONTROL Spend Recommendation Report] , het beheren van inschrijvingsbeperkingen en het weergeven en (sommige gebruikers) het beheren van de [!DNL Google Ads] -regels voor conversiewaarden.
 
-  De afzonderlijke documentatie over deze eigenschappen is beschikbaar bij [!UICONTROL Help] menu (![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help")).
+  De afzonderlijke documentatie over deze eigenschappen is beschikbaar van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")).
 
-* **[!UICONTROL Insights & Reports]** — Dit menu omvat opties om gedetailleerde inzichten en rapporten te produceren, rapportproductie te automatiseren gebruikend spreadsheetvoer, alarm tot stand te brengen en te controleren, uw berichtmontages te vormen, te bekijken en netwerkaanbevelingen, en een logboek van veranderingen te bekijken die aan de adverteerderrekening worden aangebracht.
+* **[!UICONTROL Insights & Reports]** — Dit menu bevat opties voor het genereren van gedetailleerde inzichten en rapporten, het automatiseren van de productie van rapporten met behulp van spreadsheetfeeds, het maken en controleren van waarschuwingen, het configureren van meldingsinstellingen, het bekijken van en de aanbevelingen voor het netwerk en het bekijken van een logboek met wijzigingen die zijn aangebracht in het adverteerderaccount.
 
-* **[!UICONTROL Tools]** — Dit menu bevat opties voor het wijzigen van het wachtwoord van uw account, het genereren van codes om conversies van websitepagina&#39;s bij te houden, het genereren en decoderen van URL&#39;s voor het bijhouden van klikken en het uploaden van metriek voor campagnes voor het bijhouden van zoekopdrachten.
+* **[!UICONTROL Tools]** — Dit menu bevat opties waarmee u het wachtwoord van uw account kunt wijzigen, tags kunt genereren om conversies van websitepagina&#39;s te volgen, URL&#39;s voor het bijhouden van klikken kunt genereren en decoderen en meetgegevens kunt uploaden voor zoekcampagnes.
 
-* **[!UICONTROL Admin]** — De [!UICONTROL Admin] bevat opties voor het wijzigen van de weergavenamen van conversiemetriek van een adverteerder in datatabellen en -rapporten, het configureren van instellingen voor synchronisatie met een Adobe Audience Manager-account en het synchroniseren van conversiemetriek voor een specifieke [!DNL Google Analytics] account, eigenschap en weergavecombinatie. Afhankelijk van uw rol, kan het u toestaan om adverteerderrekeningen, agentschapsrekeningen, gebruikersrollen, en gebruikersrekeningen te beheren.
+* **[!UICONTROL Admin]** — Het menu [!UICONTROL Admin] bevat opties waarmee u de weergavenamen van de conversiemetriek van een adverteerder kunt wijzigen in gegevenstabellen en -rapporten, instellingen kunt configureren voor synchronisatie met een Adobe Audience Manager-account en conversiemetriek kunt synchroniseren voor een specifieke [!DNL Google Analytics] -account, -eigenschap en weergavecombinatie. Afhankelijk van uw rol, kan het u toestaan om adverteerderrekeningen, agentschapsrekeningen, gebruikersrollen, en gebruikersrekeningen te beheren.
 
 ## Andere taak- en informatiemenu&#39;s aan de rechterkant
 
 * (Indien van toepassing) Een selecteerbare lijst met adverteerders die u beheert.
 
-* ![Waarschuwingsmeldingen](/help/search-social-commerce/assets/notifications-panel.png "Waarschuwingsmeldingen") Een paneel waarin je zoekopdrachten, sociale berichten en Commerce-meldingen worden weergegeven.
+* ![ Waakzame berichten ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen van de Waarschuwing ") een paneel dat van uw Onderzoek, Sociale, &amp; berichten van Commerce een lijst maakt.
 
-  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md)in dit deelvenster worden uw meldingen van het Experience Cloud weergegeven.
+  Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![Menu Help](/help/search-social-commerce/assets/help-main-menu.png "Menu Help") Een Help-menu dat koppelingen naar documentatie en andere informatie bevat.
+* ](/help/search-social-commerce/assets/help-main-menu.png " het menu van de Hulp van 0} {het menu van de Hulp ") een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.![
 
-* ![Oplossingsschakelaar](/help/search-social-commerce/assets/menu-icon.png "Oplossingsschakelaar") Een lijst met Adobe Experience Cloud-oplossingen en -services waarnaar u kunt overschakelen.
+* ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![Gebruikersprofiel](/help/search-social-commerce/assets/user-profile.png "Gebruikersprofiel") Een koppeling naar uw profiel, waaruit u zich kunt afmelden.
+* ](/help/search-social-commerce/assets/user-profile.png " het profiel van de Gebruiker 1} gebruikersprofiel ") Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.![
 
-  Wanneer je bent [aangemeld via Adobe Experience Cloud](log-in.md), kunt u ook het profiel van uw Experience Cloud bewerken, inclusief het wachtwoord voor het Experience Cloud en de meldingsinstellingen.
+  Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 
 >[!MORELIKETHIS]
 >
->* [Aanmelden](log-in.md)
->* [Afmelden](log-out.md)
+>* [ Teken binnen ](sign-in.md)
+>* [ Teken uit ](sign-out.md)

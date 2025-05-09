@@ -4,7 +4,7 @@ description: Meer informatie over ondersteuning voor het vastleggen van aanvrage
 feature: CCPA
 role: User, Developer
 exl-id: df2b8679-8a1c-4cd7-b867-cd2f53c76c8f
-source-git-commit: 788b4ddb9b690a3f0bac93ec9b5145fc7a324719
+source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
 workflow-type: tm+mt
 source-wordcount: '996'
 ht-degree: 0%
@@ -44,7 +44,8 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
 >
 >De gebruikers blijven in opt-out van CCPA-segmenten voor onbepaalde tijd.
 
-1. Login aan de rekening van de adverteerder in Advertising DSP in [ https://advertising.adobe.com/ ](https://advertising.adobe.com/).
+1. Teken binnen aan de rekening van adverteerder in Advertising DSP in [ https://advertising.adobe.com/ ](https://advertising.adobe.com/).
+
 1. [ creeer een opt-out-of-verkoop CCPA segment, en voer het segmentpixel uit om de opt-out verzoeken ](/help/dsp/audiences/ccpa-opt-out-segment-create.md) te vangen.
 
 ### Methode 2: Communiceer CCPA uit-van-verkoop verzoeken gebruikend Adobe Experience Platform Privacy Service API
@@ -67,7 +68,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
    >
    >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Adobe Advertising-accounts van uw organisatie, inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] accounts en [!DNL Creative] - zijn gekoppeld aan uw Experience Cloud-organisatie-id. [!DNL DCO]
 
-1. Gebruik Adobe Experience Platform Privacy Service API om opt-out van-verkoop verzoeken [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html?lang=nl-NL) aan Adobe Advertising namens consumenten voor te leggen, en de status van bestaande verzoeken te controleren.
+1. Gebruik Adobe Experience Platform Privacy Service API om opt-out van-verkoop verzoeken ](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/consent.html) aan Adobe Advertising namens consumenten voor te leggen, en de status van bestaande verzoeken te controleren.[
 
    Zie de bijlage hieronder voor een voorbeeld van een &quot;opt-out&quot;-verzoek.
 
@@ -75,7 +76,7 @@ Je kunt de aanvraag voor een opt-out bij verkoop aan de consument doorgeven met 
    >
    >Als uw bedrijf meerdere Experience Cloud-organisatie-id&#39;s heeft, moet u voor elke id een afzonderlijke API-aanvraag verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ( [!DNL Search, Social, & Commerce] , [!DNL Creative] , [!DNL DSP] en [!DNL DCO] ) met één account per suboplossing.
 
-Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [ https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL) zien.
+Al deze stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [ https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) zien.
 
 ## Rapporten ophalen van consumenten die verzoeken om niet-te verkopen hebben ingediend
 
@@ -85,7 +86,8 @@ U kunt koppelingen ophalen naar de maandelijkse rapporten die in de afgelopen dr
 
 ### Methode 1: Rapporten van de verkoopoptie voor consumenten in Advertising DSP ophalen
 
-1. Login aan de rekening van de adverteerder in Advertising DSP in [ https://advertising.adobe.com/ ](https://advertising.adobe.com/).
+1. Teken binnen aan de rekening van adverteerder in Advertising DSP in [ https://advertising.adobe.com/ ](https://advertising.adobe.com/).
+
 1. [ wint de rapporten ](/help/dsp/audiences/ccpa-opt-out-segment-report-retrieve.md) terug.
 
 ### Methode 2: Rapporten met de Advertising DSP ophalen voor uitverkoop aan de consument [!DNL Trafficking API]
@@ -131,7 +133,7 @@ curl -X POST \
 }'
 ```
 
-waar, per de [ specificaties van Privacy Service API ](https://experienceleague.adobe.com/nl/docs/experience-platform/privacy/api/appendix):
+waar, per de [ specificaties van Privacy Service API ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix):
 
 * `"namespace": "AdCloud"` geeft de `AdCloud` cookie-ruimte aan en de bijbehorende waarde is de cookie-id van de klant zoals opgehaald van `AdobePrivacy.js`
 * `"include": ["adCloud"]` geeft aan dat de aanvraag van toepassing is op het product Adobe Advertising
