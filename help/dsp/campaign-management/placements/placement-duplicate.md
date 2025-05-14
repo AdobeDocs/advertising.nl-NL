@@ -3,9 +3,9 @@ title: Plaatsen dupliceren
 description: Leer hoe u een of meer stages dupliceert.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
-source-git-commit: 051658d822253e5d0cac56e3d59e99386c68fb71
+source-git-commit: 1fe0d3c026cac52104d54b571fd9c2202cc2384b
 workflow-type: tm+mt
-source-wordcount: '431'
+source-wordcount: '430'
 ht-degree: 0%
 
 ---
@@ -78,7 +78,7 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 * Onderbreek de nieuwe plaatsingen tot u bereid bent om hen te activeren.
 
-* Overweeg het volgende en bewerk indien nodig de nieuwe plaatsingsinstellingen:
+* Overweeg het volgende en bewerk indien nodig de nieuwe plaatsingen:
 
    * Beschikt de rekening over voldoende financiële middelen om de nieuwe budgetten voor arbeidsbemiddeling te kunnen gebruiken?
 

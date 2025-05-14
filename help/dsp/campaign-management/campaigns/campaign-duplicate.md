@@ -3,9 +3,9 @@ title: Een campagne dupliceren
 description: Leer hoe u een campagne dupliceert.
 feature: DSP Campaigns
 exl-id: 4e42bd5b-e8a9-45be-af5c-367c48d0b131
-source-git-commit: 051658d822253e5d0cac56e3d59e99386c68fb71
+source-git-commit: 1fe0d3c026cac52104d54b571fd9c2202cc2384b
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: '365'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 * Onderbreek de nieuwe campagne totdat u deze kunt activeren.
 
-* Overweeg het volgende en bewerk indien nodig de nieuwe campagnemontages:
+* Overweeg het volgende en bewerk indien nodig de nieuwe campagne:
 
    * Beschikt de rekening over voldoende middelen om de nieuwe campagnebegroting op te nemen?
 
