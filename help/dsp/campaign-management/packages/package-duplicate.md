@@ -3,9 +3,9 @@ title: Een pakket dupliceren
 description: Leer hoe u een pakket dupliceert.
 feature: DSP Packages
 exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
-source-git-commit: 1fe0d3c026cac52104d54b571fd9c2202cc2384b
+source-git-commit: 860761bf65dd6ea35abbb3b04863d78c6461fe0f
 workflow-type: tm+mt
-source-wordcount: '398'
+source-wordcount: '410'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,7 @@ Zie &quot;[ wat niet ](#package-not-duplicated)&quot;voor een lijst van plaatsin
 Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 * Instellingen Experimenteren
+* Minimumbegrotingen op plaatsingsniveau
 * (Als u de vluchtdatums wijzigt) Aangepaste en geplande planning
 * (Als u geen advertenties koppelt) Aangepaste weging en planning
 * Standaardplaatsingen voor door het programma gegarandeerde deals en plaatsingen voor [!UICONTROL Simple Ad Serving] -deals
@@ -76,6 +77,8 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
    * Beschikt de rekening over voldoende financiële middelen om het nieuwe budget te dekken?
 
    * Heeft het nieuwe pakket een andere begroting nodig dan het vorige pakket?
+
+   * Zijn er minimumbudgetten nodig voor een van de stages?
 
    * Upload creatieve producten, inclusief eventuele aangepaste wegingen en planningen, en koppel ze aan de plaatsingen.
 
