@@ -3,9 +3,9 @@ title: Een pakket dupliceren
 description: Leer hoe u een pakket dupliceert.
 feature: DSP Packages
 exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 051658d822253e5d0cac56e3d59e99386c68fb71
 workflow-type: tm+mt
-source-wordcount: '246'
+source-wordcount: '399'
 ht-degree: 0%
 
 ---
@@ -15,17 +15,20 @@ ht-degree: 0%
 Dupliceer een pakket om een pakket met gelijkaardige montages tot stand te brengen. U kunt:
 
 * Het pakket dupliceren binnen de oorspronkelijke adverteerder en campagne of binnen verschillende
+
 * U kunt desgewenst de plaatsen in het pakket dupliceren
+
 * (Voor gedupliceerde pakketten in de oorspronkelijke campagnes) Dupliceer optioneel de oorspronkelijke advertenties en de gebeurtenispixels op plaatsingsniveau
+
 * De vluchtdatums van het nieuwe pakket wijzigen
 
-Zie &quot;[Wat is niet gedupliceerd](#package-not-duplicated)&quot; voor een lijst met plaatsingsinstellingen die niet worden gedupliceerd.
+Zie &quot;[ wat niet ](#package-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
+1. Klik op de naam van de campagne om de weergave [!UICONTROL Packages] te openen.
 
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Duplicate]**.
+1. Klik naast de pakketnaam op **[!UICONTROL ...]** > **[!UICONTROL Duplicate]** .
 
 1. Geef de nieuwe pakketinstellingen op:
 
@@ -52,18 +55,44 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 * Instellingen Experimenteren
 * (Als u de vluchtdatums wijzigt) Aangepaste en geplande planning
 * (Als u geen advertenties koppelt) Aangepaste weging en planning
-* Standaardplaatsingen voor door het programma gegarandeerde deals en plaatsingen voor [!UICONTROL Simple Ad Serving] deals
+* Standaardplaatsingen voor door het programma gegarandeerde deals en plaatsingen voor [!UICONTROL Simple Ad Serving] -deals
 * (Als u plaatsingen naar een andere campagne kopieert):
    * Geo-doelen
    * Gebeurtenispixels
    * Adds
-   * Plaatsingsniveau [!DNL DoubleVerify Authentic Brand Safety] segmenten (die de segmenten op adverteerderniveau overschrijven)
+   * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segmenten (die de adverteerders-vlakke segmenten met voeten treden)
+
+## Beste praktijken om het Nieuwe Pakket te vormen
+
+>[!TIP]
+>
+>* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
+* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+
+* Onderbreek het nieuwe pakket totdat u het kunt activeren.
+
+* Overweeg het volgende en bewerk indien nodig de nieuwe pakketinstellingen:
+
+   * Beschikt de rekening over voldoende financiële middelen om het nieuwe budget te dekken?
+
+   * Heeft het nieuwe pakket een andere begroting nodig dan het vorige pakket?
+
+   * Upload creatieve producten, inclusief eventuele aangepaste wegingen en planningen, en koppel ze aan de plaatsingen.
+
+   * Koppel indien nodig gebeurtenispixels aan de plaatsingen en advertenties.
+
+   * Omvat geografische doelstellingen en plaatsing-niveau [!DNL DoubleVerify Authentic Brand Safety] segmenten zoals nodig aan plaatsingen.
+
+   * Voor programmatic gewaarborgde overeenkomsten, gebruik nieuwe deal IDs en creeer standaardplaatsingen.
+
+   * Maak waar nodig nieuwe plaatsingen voor [!UICONTROL Simple Ad Serving] -deals.
+
+* Voor pakketten die aangepaste optimalisatiedoelstellingen gebruiken, gebruik [[!UICONTROL Linked Package for Optimization Learnings Carryover] plaatsend ](/help/dsp/campaign-management/packages/package-settings.md) voor elk pakket om de historische gegevens van de vorige campagne als input voor het optimaliseren van het pakket te gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [Info over Pakketbeheer](package-about.md)
->* [Een pakket maken](package-create.md)
->* [Een pakket bewerken](package-edit.md)
->* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Pakketinstellingen](package-settings.md)
-
+>* [ Ongeveer het Beheer van het Pakket ](package-about.md)
+>* [ creeer een Pakket ](package-create.md)
+>* [ geef een Pakket ](package-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ de Montages van het Pakket ](package-settings.md)
