@@ -67,7 +67,7 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 >[!TIP]
 >
 >* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
-* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+>* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 * Onderbreek het nieuwe pakket totdat u het kunt activeren.
 
