@@ -3,9 +3,9 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: 97e0f562153983202a2f3641e17dd682ff3d00ea
+source-git-commit: ac26d6dbcfc154820ca9f5dadc182d51d627642a
 workflow-type: tm+mt
-source-wordcount: '1118'
+source-wordcount: '1282'
 ht-degree: 0%
 
 ---
@@ -158,7 +158,7 @@ Als u een creatief element loskoppelt uit de bundel, wordt het creatieve element
 
      Als u alle rijen wilt selecteren, schakelt u het selectievakje Algemeen linksboven in.
 
-## Een creatieve voorvertoning weergeven in een bundel
+## Eén creatieve voorvertoning in een bundel weergeven
 
 U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlinks, terwijl de gebruiker deze ziet.
 
@@ -186,6 +186,31 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
+## Alle creatieve elementen in een bundel voorvertonen
+
+1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
+
+1. Klik op de naam van de bibliotheek.
+
+1. Klik op de tab **[!UICONTROL Bundles]** .
+
+1. Selecteer de bundel:
+
+   * Klik in de kaartweergave op **[!UICONTROL ...]** naast de bundelnaam en klik vervolgens op **[!UICONTROL Preview]** .
+
+   * Houd in de tabelweergave de cursor boven de rij en klik op **[!UICONTROL Preview]** .
+
+1. (Optioneel) Als u de creatieve elementen wilt filteren op taal, selecteert u een optie in de lijst **[!UICONTROL Language]** en klikt u vervolgens op **[!UICONTROL Preview]** rechtsboven in de voorvertoning.
+
+1. (Optioneel) Als u de creatieve elementen wilt filteren op grootte, selecteert u een optie in de lijst **[!UICONTROL Size]** en klikt u vervolgens op **[!UICONTROL Preview]** rechtsboven in de voorvertoning.
+
+1. (Optioneel) Als u het formaat van de afbeeldingen in het scherm wilt wijzigen, selecteert u een optie in de lijst van **[!UICONTROL Zoom]** , van 10% tot 100% van de afbeeldingsgrootte.
+
+1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
+
+   1. Klik ](/help/creative/assets/share.png " Aandeel 1} van het Aandeel ") in het hogere recht van de voorproef.![
+
+   1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
 <!-- Not there as of 1/22/25:
 
@@ -253,6 +278,7 @@ U kunt bundels schrappen die niet aan a [ levende ](/help/creative/experiences/e
 >[!MORELIKETHIS]
 >
 >* [ wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign ](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [ Voorproef creatieve ](/help/creative/creative-libraries/creative-preview.md)
 >* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
 >* [ beheer creatieve bibliotheken ](/help/creative/creative-libraries/creative-library-manage.md)
 >* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
