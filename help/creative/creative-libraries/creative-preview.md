@@ -3,9 +3,9 @@ title: Een voorvertoning weergeven van een creatief
 description: Leer hoe u een voorvertoning van een creatief object opent.
 feature: Creative Standard Creatives
 exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: 845ab0192a1cf429a282fbf934be10e1307d2034
 workflow-type: tm+mt
-source-wordcount: '124'
+source-wordcount: '138'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) Als u het formaat van de afbeelding wilt wijzigen binnen het scherm, selecteert u een optie in de lijst van **[!UICONTROL Zoom]** , van 10% tot 100% van de afbeeldingsgrootte.
 
-<!-- Not there as of 1/22/24:  1. (Flexible HTML5 creatives; optional) To show all frames for the creative, select **Show frames**. -->
+1. (Flexibele HTML5 creatieve; facultatief) om tussen de kaders voor creatief te scrollen, klik **\&lt;** en **\>**.
 
 1. (Facultatief) om creatief te downloaden, klik ![ Download ](/help/creative/assets/download.png " ").
 

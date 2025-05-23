@@ -3,9 +3,9 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: d68c8c31a047c4615224e9ab19654e56b5e8c8f9
+source-git-commit: 38ba8473eae3df204f618eac1f20e605e57ece5a
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '905'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,13 @@ Voeg creatieve scheppingen aan uw [ creatieve bibliotheken ](creative-library-ma
 
 ## Flexibele HTML-advertenties toevoegen aan een creatieve bibliotheek {#flexible-creative-add}
 
-<!-- Later:
-You can do either of the following: 
+U kunt een van de volgende twee handelingen uitvoeren:
 
-* Upload your own flexible creatives in ZIP files.
+* Upload uw eigen flexibele creatieve objecten in ZIP-bestanden.
 
-* Use any of the predefined flexible creative templates as a starting point for your own flexible creative.
+* Gebruik een van de vooraf gedefinieerde flexibele, creatieve sjablonen die u naar uw account hebt geüpload als startpunt voor uw eigen flexibele creatieve projecten.
 
-### Upload your own flexible creatives {#flexible-creative-upload}
-
--->
+### Upload uw eigen flexibele creatieve producten {#flexible-creative-upload}
 
 U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moeten in ZIP formaat zijn en kunnen tot 2 MB zijn. Voor dossiervereisten, zie [ HTML5 creatieve specificatie ](html5-creative-specification.md).
 
@@ -65,42 +62,48 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 1. Klikken **[!UICONTROL Create]**
 
-<!-- In a later phase:
+### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-### Add flexible creatives using a template {#flexible-creative-use-template}
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
 
-You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads. Once you select a template to use, you'll edit the click tags and attributes.<!-- Replace last sentence with this if we add the template download feature back:  You can either a\) select a template to use, and then edit the click tags and attributes; or b\) [download a template as a ZIP file](#download-flexible-creative-template), edit the contents offline to build your own creative, and then [upload the edited file as a new creative](flexible-creative-upload).>
+<!-- Not currently an option:
+You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
 
 For information about the attributes available in predefined templates, see "[Available flexible creative templates](#flexible-creative-templates-available)."
+-->
 
-1. In the main menu, click **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. Click the library name.
+1. Klik op de naam van de bibliotheek.
 
-1. On the **[!UICONTROL Creatives]** tab, click the **[!UICONTROL Standard Ads]** subtab.
+1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
 
-1. Click **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
+1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
 
-1. Click **[!UICONTROL Browse System Flexible Templates]**.
+1. Klik op **[!UICONTROL Browse System Flexible Templates]**.
 
-
-
-[The following are old instructions; see how this works in the new UI]
-
+<!-- Not options as of 5/22/25:
 
 1. In the left panel, select the creative size to see all available templates for that size.
 
-1. Under the template name, click **[!UICONTROL Use This Creative]**.
+1. Select the template:
 
-1. Edit the [flexible HTML5 creative settings](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5) to include your own click tags, images, and other attributes.
-
-   The maximum file size of the creative, once it's zipped, is 2 MB.[Will saving the creative zip it??]
-
-1. (Optional) Once you've made your changes, click []()[add image] to preview the new creative. 
-
-1. Click **[!UICONTROL Save]**.
-
+   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
 -->
+
+1. (Optioneel) Klik op **[!UICONTROL ...]** naast de sjabloonnaam en klik op **[!UICONTROL Preview]** om een voorvertoning van de sjabloon weer te geven.
+
+   U kunt de sjabloon desgewenst downloaden
+
+1. Klik naast de sjabloonnaam op **[!UICONTROL ...]** en vervolgens op **[!UICONTROL Use Selected]** .
+
+1. Bewerk de [ flexibele creatieve montages HTML5 ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5) om de taal te specificeren en uw eigen klikmarkeringen, beelden, en andere attributen te omvatten.
+
+   De maximumdossiergrootte van creatief, zodra het wordt gecompileerd, is 2 MB.<!-- Still true? -->
+
+1. Klik op **[!UICONTROL Create]**.
 
 ## Een HTML5-creatief toevoegen aan een creatieve bibliotheek
 
@@ -176,7 +179,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Afbeeldingen toevoegen of verwijderen:
 
-   * Om een beeld toe te voegen, voegt de klik ![&#128279;](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.
+   * Om een beeld toe te voegen, voegt de klik ](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.![
 
    * Als u een afbeelding wilt verwijderen, schakelt u het selectievakje naast de afbeelding uit.
 
