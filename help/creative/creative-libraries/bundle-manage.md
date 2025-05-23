@@ -3,9 +3,9 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: ac26d6dbcfc154820ca9f5dadc182d51d627642a
+source-git-commit: 0098a35334f7604784b826da9a4a50a31edbd267
 workflow-type: tm+mt
-source-wordcount: '1282'
+source-wordcount: '1359'
 ht-degree: 0%
 
 ---
@@ -106,11 +106,9 @@ Wijzigingen in een bundelnaam worden doorgegeven in alle bijbehorende ervaringen
 
 U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creative-libraries-about.md) aan een standaardbundel vastmaken en bestaande dynamische creatieve elementen <!-- [existing dynamic creatives](creative-dynamic-manage.md) --> aan een dynamische bundel vastmaken. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
 
-<!--
 >[!NOTE]
 >
->You can also [attach creatives to bundles from the Standard Ads and Dynamic Ads views](creative-attach-detach-bundles.md).
--->
+>U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties ](creative-attach-detach-bundles.md) ook vastmaken.[
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -127,6 +125,8 @@ U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creat
    * Houd in de tabelweergave de cursor boven de rij en klik op **[!UICONTROL Attach Creatives]** .
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
+
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0} te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.![
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -182,6 +182,10 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 <!-- Not there as of 1/22/24:  1. (Flexible HTML5 creatives; optional) To show all frames for the creative, select **Show frames**. -->
 
+1. (Optioneel) Als u de openingspagina voor de creatieve projecten wilt openen, klikt u op de creatieve pagina.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
 1. (Facultatief) om creatief te downloaden, klik ![ Download ](/help/creative/assets/download.png " ").
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
@@ -206,9 +210,13 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) Als u het formaat van de afbeeldingen in het scherm wilt wijzigen, selecteert u een optie in de lijst van **[!UICONTROL Zoom]** , van 10% tot 100% van de afbeeldingsgrootte.
 
+1. (Optioneel) Als u de openingspagina voor een creatieve pagina wilt openen, klikt u op de knop Creatief.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
+
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![&#128279;](/help/creative/assets/share.png " Aandeel 1&rbrace; van het Aandeel ") in het hogere recht van de voorproef.
+   1. Klik ](/help/creative/assets/share.png " Aandeel 1} van het Aandeel ") in het hogere recht van de voorproef.![
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 

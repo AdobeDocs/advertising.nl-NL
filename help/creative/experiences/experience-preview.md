@@ -3,9 +3,9 @@ title: Een voorbeeld van een ervaring bekijken
 description: Leer hoe u een voorvertoning van de creatieve projecten kunt bekijken in een advertentie.
 feature: Creative Experiences
 exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: 278104fb09797e781894a6894a0a53db4a8e28f8
 workflow-type: tm+mt
-source-wordcount: '544'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
@@ -80,7 +80,6 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
-
 ## Creatieve voorvertoningen weergeven zonder doelgroepen voor een beslissingsstructuur
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
@@ -97,11 +96,15 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
    Standaard worden creatieve objecten van alle grootten weergegeven.
 
-1. Klik op de naam van een advertentietag om de rij uit te vouwen en een voorvertoning van de creatieve tag weer te geven.
+1. Klik op de naam van een advertentietag om de rij uit te vouwen en een voorvertoning van de makers weer te geven.
+
+1. (Optioneel) Als u de openingspagina wilt gebruiken voor een creatief project, klikt u op de knop Creatief.
+
+   <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
 1. (Optioneel) U kunt als volgt een demo-URL van de ervaring kopiëren en deze delen met anderen zonder zich aan te melden bij [!DNL Creative] :
 
-   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share.png " ").
+   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share2.png " ").
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 

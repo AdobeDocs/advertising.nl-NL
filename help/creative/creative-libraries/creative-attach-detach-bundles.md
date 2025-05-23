@@ -3,14 +3,14 @@ title: Creatieve bundels koppelen aan creatieve bundels
 description: Leer hoe u een creatieve bundel kunt koppelen aan een creatieve bundel.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
 exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
-source-git-commit: 076dd97944b5cb74f24bee85602e3743bba16f7b
+source-git-commit: add8f3507ca9b79cea862d097fb603c68eb09e3c
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '216'
 ht-degree: 0%
 
 ---
 
-# Creatieve elementen aan creatieve bundels koppelen<!-- and detach -->
+# Creatieve elementen aan creatieve bundels koppelen
 
 *Gesloten bèta*
 
@@ -26,7 +26,7 @@ You can also detach a creative from a bundle to remove the association between t
 >
 >U kunt <!-- also --> [ maak creatieve elementen aan bundels vast en los creatieve elementen van bundels van de mening van Bundels ](/help/creative/creative-libraries/bundle-manage.md) los.
 
-<!-- Hide header until second procedure is available:
+<!-- Hide header until second procedure is available (if we add that):
 
 ## Attach creatives to creative bundles
 
@@ -45,6 +45,8 @@ You can also detach a creative from a bundle to remove the association between t
    * Houd in de tabelweergave de cursor boven de rij en klik op **[!UICONTROL Attach to Bundles]** .
 
    Elke bundel die in aanmerking komt voor het creatieve type, wordt in het juiste frame weergegeven. Bundels waaraan de creatieve inhoud al is gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
+
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0} te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.![
 
 1. Schakel in het rechterframe het selectievakje in naast elke bundel waaraan u de creatieve inhoud wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
