@@ -3,7 +3,7 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: c69b01e12801947f156120e50615225eb3dad261
+source-git-commit: d7e2403e13c0f9edf1505ca7c50aea3de34f1f3a
 workflow-type: tm+mt
 source-wordcount: '1082'
 ht-degree: 0%
@@ -40,9 +40,9 @@ U kunt de volgende creatieve types in de [ gesteunde creatieve grootte toevoegen
 
 #### Flexibele HTML5
 
-Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). De flexibele creatieve HTML5 gebruiken de Interactieve norm van het Laboratorium van de Technologie van Advertising van het Bureau (IAB) voor een [ ad portefeuille ](https://flexibleads.iabtechlab.com/) <!-- Change to https://iabtechlab.com/standards/iab-new-ad-portfolio-guidelines/ if the broken page isn't fixed -->, waarvoor ad formaatgrootte (eerder dan vast) flexibel is en op de het aspectverhouding en de groottewaaier van het bureau van de advertentie gebaseerd is, en waarvoor de advertenties hun resolutie over apparaten en uitgeversplaatsen handhaven.
+Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). De flexibele creatieve HTML5 gebruiken de Interactieve norm van het Laboratorium van de Technologie van Advertising van het Bureau (IAB) voor een [ ad portefeuille ](https://flexibleads.iabtechlab.com/) <!-- Change to https://iabtechlab.com/standards/iab-new-ad-portfolio-guidelines/ if the broken page isn't fixed -->, waarvoor ad formaatgrootte (eerder dan vast) flexibel is en gebaseerd op de het aspectverhouding en de groottewaaier van de advertentie is, en waarvoor de advertenties hun resolutie over apparaten en uitgeversplaatsen handhaven.<!-- Yet our flexible creatives and templates are for a single specific ad size (in pixels), not an aspect ration with size range. Clarify -->
 
-U kunt flexibele HTML5-creatieven uploaden als ZIP-bestanden of een van de sjablonen gebruiken die beschikbaar zijn voor uw account als startpunt —>. Zie de [ specificaties voor flexibele HTML5 creatieven ](html5-creative-specification.md).
+U kunt flexibele HTML5-creatieven uploaden als ZIP-bestanden of een van de sjablonen gebruiken die beschikbaar zijn voor uw account als startpunt. Zie de [ specificaties voor flexibele HTML5 creatieven ](html5-creative-specification.md).
 
 <!-- Will flattening the view be possible later?
 The card view, by default, includes a card for each base flexible HTML5 creative you've uploaded, with the number of creative variations [Delete old description? : an indicator of how many variations of the creative exist]. You can optionally flatten the card view to include separate cards for each base creative and each derivation. The table view is always flattened.
