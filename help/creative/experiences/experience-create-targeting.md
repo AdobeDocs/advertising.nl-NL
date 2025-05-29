@@ -3,9 +3,9 @@ title: Maak een ervaring met doelstructuurbeslissingen
 description: Leer hoe u een doelgerichte advertentie-ervaring kunt maken met behulp van een beslissingsstructuur.
 feature: Creative Experiences
 exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
-source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
+source-git-commit: a631ac2db1f4807a3a55b41d79acfe64c04496c3
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: '454'
 ht-degree: 0%
 
 ---
@@ -53,6 +53,12 @@ ht-degree: 0%
          * [ pas het volgen URLs voor creatieven in de toegewezen bundels ](experience-tracking-urls-targeting.md) aan.
 
          * [ pas creatieve optimalisering aan en het plannen ](experience-optimization-scheduling-targeting.md) voor de toegewezen bundels.
+
+1. (Optioneel) Schakel tussen de beslissingstructuur en de algemene instellingen:
+
+   * Klik op **[!UICONTROL Experience Form]** in de rechterbovenhoek om de algemene instellingen in de beslissingstructuur te openen.
+
+   * Klik op **[!UICONTROL Decision Tree]** in de rechterbovenhoek om de beslissingstructuur van de algemene instellingen te openen.
 
 1. Klik op **[!UICONTROL Save]** en voer de volgende handelingen uit.
 

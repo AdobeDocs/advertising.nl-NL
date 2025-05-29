@@ -3,9 +3,9 @@ title: Een ervaring bewerken met doelstructuurcode
 description: Leer hoe u de instellingen voor een doelversie van een advertentie kunt bewerken met een beslissingstructuur.
 feature: Creative Experiences
 exl-id: 8c5e8f9b-c405-41b2-98a9-da7c5debd3e1
-source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
+source-git-commit: 47a230347059a26c6c1c2db7c73306a376062478
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,15 @@ ht-degree: 0%
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Edit]** .
 
-1. Bewerk de [ algemene ervaringsmontages ](experience-settings-targeting.md).
+   De beslissingstructuur wordt standaard geopend.
 
-1. (Optioneel) Als u de beslissingsstructuur wilt bewerken, klikt u op **[!UICONTROL Decision Tree]** rechtsboven en voert u een van de volgende handelingen uit:
+1. (Optioneel) Schakel indien nodig tussen de beslissingstructuur en de algemene instellingen:
+
+   * Klik op **[!UICONTROL Experience Form]** in de rechterbovenhoek om de algemene instellingen in de beslissingstructuur te openen.
+
+   * Klik op **[!UICONTROL Decision Tree]** in de rechterbovenhoek om de beslissingstructuur van de algemene instellingen te openen.
+
+1. (Optioneel) Voer een van de volgende handelingen uit om de beslissingstructuur te bewerken:
 
    * ([ Verwerking ](experience-about.md#experience-statuses) ervaringen) doe één van het volgende:
 
@@ -65,6 +71,8 @@ ht-degree: 0%
          * [ pas het volgen URLs voor creatieven in de toegewezen bundels ](experience-tracking-urls-targeting.md) aan.
 
          * [ pas creatieve optimalisering aan en het plannen ](experience-optimization-scheduling-targeting.md) voor de toegewezen bundels.
+
+1. (Facultatief) geef de [ algemene ervaringsmontages ](experience-settings-targeting.md) uit.
 
 1. Klik op **[!UICONTROL Save]** en voer de volgende handelingen uit.
 
