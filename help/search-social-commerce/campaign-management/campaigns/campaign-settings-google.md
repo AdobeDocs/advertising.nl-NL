@@ -358,7 +358,7 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 
 **[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
-**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*}
+**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*&rbrace;
 
 ## [!UICONTROL Conversion Goals]
 
