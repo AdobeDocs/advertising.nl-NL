@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: f5e453975f693777e5717924d471b9de9f1f651b
+source-git-commit: cbe18b75d49ca53460883931ecea21aa6c2d8326
 workflow-type: tm+mt
-source-wordcount: '2471'
+source-wordcount: '2472'
 ht-degree: 0%
 
 ---
@@ -347,7 +347,7 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 
 * Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
-**[!UICONTROL Call to Action]:** De vraag aan actie om in de advertentie te omvatten. Standaard is *[!UICONTROL Automated]* geselecteerd en selecteert [!DNL Google Ads] de aanroep van de handeling. U kunt desgewenst een andere actie kiezen.
+**[!UICONTROL Call to Action]:** De call to action die in de advertentie moet worden opgenomen. Standaard is *[!UICONTROL Automated]* geselecteerd en selecteert [!DNL Google Ads] de call to action. U kunt desgewenst een andere actie kiezen.
 
 **[!UICONTROL Business Name]:** De bedrijfsnaam, met een maximum van 25 karakters.
 
@@ -358,7 +358,7 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 
 **[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
-**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*&rbrace;
+**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*}
 
 ## [!UICONTROL Conversion Goals]
 

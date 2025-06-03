@@ -3,7 +3,7 @@ title: Creatieve bibliotheken beheren
 description: Leer hoe u creatieve bibliotheken maakt, hernoemt en verwijdert.
 feature: Creative Libraries
 exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
-source-git-commit: 8d88a46e82a17ce5d2debf93ea0652f35a734d7a
+source-git-commit: b41dfbb570db025a5eba3ceff8d28529f9a8058e
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 1%
@@ -70,7 +70,7 @@ U kunt bibliotheken met creatieven en bundels schrappen die niet aan a [ levende
 
      Als u alle rijen wilt selecteren, schakelt u het selectievakje Algemeen linksboven in.
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete].** <!--Verify wording -->
+1. Klik in het bevestigingsbericht op **[!UICONTROL Delete].**
 
 >[!MORELIKETHIS]
 >
