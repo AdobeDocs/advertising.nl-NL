@@ -3,14 +3,16 @@ title: Nieuwe gebruiker uitnodigen voor account bij organisatie
 description: Leer hoe u een nieuwe gebruiker kunt uitnodigen voor deelname aan het account.
 role: Admin
 exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
-source-git-commit: a8ee699137d683986264e841b03bc292ce7b7843
+source-git-commit: 3ce910a553aa86836e04bd6e5d2a951db78070e1
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Nieuwe gebruiker uitnodigen voor account bij organisatie
+
+*slechts de gebruikers van de Beheerder*
 
 Beheerdergebruikers kunnen een nieuwe gebruiker voor de account uitnodigen. Zodra de gebruiker de uitnodiging accepteert, hebben ze toegang tot alle adverteerders voor de account. Nieuwe gebruikers hebben standaard alleen-lezen toegang.
 
