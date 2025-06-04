@@ -2,20 +2,22 @@
 title: Hulp vragen
 description: Leer hoe u de online Help en gemeenschapsbronnen kunt bekijken en hoe u technische ondersteuning kunt krijgen.
 feature: Creative Introduction
-source-git-commit: c5a4837f1a8439b3fc2565ae78fdf00d6cdb8b75
+source-git-commit: b610a0b8db410759cae79a6193c38abc573c28ba
 workflow-type: tm+mt
-source-wordcount: '115'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
 # Hulp vragen
 
+<!-- Can remove this page when we move this into DSP help -->
+
 U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem contact met ons op als de online Help uw vragen niet beantwoordt.
 
 ## Online Help openen
 
-Om een volledige hulpreeks te openen verklarend hoe te om alle eigenschappen te gebruiken, klik **[!UICONTROL Help]** in het belangrijkste menu, en open &quot;[!DNL Creative &#x200B;]&quot;hoofdstuk.
+Als u een volledige Help-set wilt openen waarin wordt uitgelegd hoe u alle functies kunt gebruiken, klikt u op **[!UICONTROL Help]** in het hoofdmenu en opent u het hoofdstuk &quot;[!DNL Creative]&quot;.
 
 <!--
 ## Ask the Adobe Advertising community
