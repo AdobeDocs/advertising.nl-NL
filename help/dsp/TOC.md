@@ -32,8 +32,8 @@ ht-degree: 3%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -83,7 +83,7 @@ ht-degree: 3%
       + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [ Advertenties aan Plaatsingen  vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [ Advertenties aan Plaatsingen  vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html?lang=nl-NL) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -235,6 +235,6 @@ ht-degree: 3%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Help opvragen](/help/dsp/get-help.md)
-+ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL)
