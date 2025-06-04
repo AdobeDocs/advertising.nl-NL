@@ -15,7 +15,7 @@ U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem 
 
 ## Online Help openen
 
-Om een volledige hulpreeks te openen verklarend hoe te om alle eigenschappen te gebruiken, klik **[!UICONTROL Help]** in het belangrijkste menu, en open &quot;[ DNL Creative ]&quot;hoofdstuk.
+Om een volledige hulpreeks te openen verklarend hoe te om alle eigenschappen te gebruiken, klik **[!UICONTROL Help]** in het belangrijkste menu, en open &quot;[!DNL Creative &#x200B;]&quot;hoofdstuk.
 
 <!--
 ## Ask the Adobe Advertising community
