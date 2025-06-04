@@ -1,10 +1,11 @@
 ---
 title: Hulp vragen
 description: Leer hoe u de online Help en gemeenschapsbronnen kunt bekijken en hoe u technische ondersteuning kunt krijgen.
+feature: Search Introduction
 exl-id: d5b5b691-bb73-4acf-afcd-d66e444c1f6c
-source-git-commit: a900c0ef919c36810ce115b51dc432c0008f3419
+source-git-commit: c5a4837f1a8439b3fc2565ae78fdf00d6cdb8b75
 workflow-type: tm+mt
-source-wordcount: '253'
+source-wordcount: '235'
 ht-degree: 0%
 
 ---
@@ -21,13 +22,15 @@ U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem 
 
 * Als u volledige Help-sets wilt openen waarin wordt uitgelegd hoe u alle functies kunt gebruiken, klikt u op de volgende koppelingen boven aan elke pagina:
 
-   * ![&#128279;](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0&rbrace; &lbrace;Hulp ") > **Onderzoek, Sociale, &amp; Hulp van Commerce**.
+   * ](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0} {Hulp ") > **Onderzoek, Sociale, &amp; Hulp van Commerce**.![
 
-   * ![&#128279;](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0&rbrace; &lbrace;Hulp ") > **Onderzoek, Sociale, &amp; Gids van de Optimalisering van Commerce**.
+   * ](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0} {Hulp ") > **Onderzoek, Sociale, &amp; Gids van de Optimalisering van Commerce**.![
 
-## Vraag het aan de Adobe Advertising-gemeenschap
+<!--
+## Ask the Adobe Advertising community
 
-Zoek antwoorden op uw vragen in de [ de communautaire forums van Adobe Advertising ](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising/ct-p/adobe-advertising-cloud-community).
+Look for answers to your questions in the [Adobe Advertising community forums](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising/ct-p/adobe-advertising-cloud-community).
+-->
 
 ## Contact [!DNL Adobe]
 
@@ -35,7 +38,7 @@ Voer een van de volgende twee handelingen uit voor problemen met producten of ac
 
 * Neem contact op met uw Adobe-accountteam.
 
-* In het hoogste menu, klik ![&#128279;](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0&rbrace; ") > **[!UICONTROL Provide Feedback]**, ga uw bericht in, en klik dan **[!UICONTROL Send Feedback]**.
+* In het hoogste menu, klik ](/help/search-social-commerce/assets/help-main-menu.png " Hulp van 0} ") > **[!UICONTROL Provide Feedback]**, ga uw bericht in, en klik dan **[!UICONTROL Send Feedback]**.![
 
 Geef gedetailleerde stappen op om het probleem te reproduceren, relevante gegevens en informatie over voorlopige probleemoplossing die u hebt uitgevoerd. Als u het probleem aan uw Adobe-accountteam rapporteert, moet u ook de naam en versie van de browser vermelden.
 
