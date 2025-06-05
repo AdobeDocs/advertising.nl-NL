@@ -4,9 +4,9 @@ user-guide-title: Advertising Creative Guide
 user-guide-description: Meer informatie over de belangrijkste functies, taken, instellingen en andere bronnen die vereist zijn voor het gebruik van Advertising Creative.
 breadcrumb-title: Creative Guide
 hide: true
-source-git-commit: c5a4837f1a8439b3fc2565ae78fdf00d6cdb8b75
+source-git-commit: 98ae35b8ef428d662e329ba6dd77e28216575ae1
 workflow-type: tm+mt
-source-wordcount: '306'
+source-wordcount: '314'
 ht-degree: 0%
 
 ---
@@ -17,13 +17,14 @@ ht-degree: 0%
 + [Nieuwe functies](/help/creative/home.md)
 + Inleiding {#introduction}
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
-   + [ Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creative-bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
    + [Creatieve bibliotheken beheren](/help/creative/creative-libraries/creative-library-manage.md)
    + Creatieve {#creatives}
+      + [Vorm  [!DNL Creative]  om tot de beeldactiva van Adobe Experience Manager toegang te hebben](/help/creative/creative-libraries/aem-assets-configure.md)
       + Standaardcreatieven {#standard-creatives}
          + [Standaardcreatieve producten toevoegen aan een creatieve bibliotheek](/help/creative/creative-libraries/creative-add-standard.md)
          + [Standaardcreatieven bewerken](/help/creative/creative-libraries/creative-edit-standard.md)
@@ -76,4 +77,4 @@ ht-degree: 0%
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
 + [Hulp vragen](/help/creative/get-help.md)
-+ [ de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}

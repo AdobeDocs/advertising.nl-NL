@@ -3,9 +3,9 @@ title: Voeg een doelknooppunt toe aan het uiteindelijke niveau in een ervaring
 description: Leer hoe u een doelnode toevoegt aan het uiteindelijke doelniveau van een advertentie.
 feature: Creative Experiences
 exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: 9f93990bcd6b3c8f7d6fb29186da620ac6d4ecf5
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '661'
 ht-degree: 0%
 
 ---
@@ -49,9 +49,9 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
       1. Klik op **[!UICONTROL Apply]**.
 
-   * Selecteer **[!UICONTROL Data Pass]** voor een gegevensdoorvoerdoel, voer een enkele gegevensdoorvoerwaarde in en klik op **[!UICONTROL Apply]** .
+   * Selecteer **[!UICONTROL Data Pass]** voor een gegevensdoorvoerdoel, pas desgewenst de gegevensdoorvoersleutel aan, voer één gegevensdoorvoerwaarde in en klik op **[!UICONTROL Apply]** .
 
-   De sleutel voor het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md).
+   Een standaardwaarde voor de sleutel in het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md). U kunt de toets desgewenst aanpassen.
 
    * Selecteer **[!UICONTROL RT Pixel]** als u een pixeldoel opnieuw wilt toewijzen, selecteer één nieuwe doelpixel en de waarden voor de kenmerken van een pixel die nodig zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 

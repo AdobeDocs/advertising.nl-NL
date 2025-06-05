@@ -3,9 +3,9 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: 38ba8473eae3df204f618eac1f20e605e57ece5a
+source-git-commit: 98ae35b8ef428d662e329ba6dd77e28216575ae1
 workflow-type: tm+mt
-source-wordcount: '905'
+source-wordcount: '910'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 ### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ] (flexible-creative-upload).>
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
@@ -169,7 +169,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
       * Klik op **[!UICONTROL select a file]** om bestanden op uw apparaat of netwerk te zoeken.
 
-   * Ga als volgt te werk voor afbeeldingen in uw Adobe Experience Manager-bibliotheek:
+   * Voor beelden in een [ bibliotheek van Adobe Experience Manager die met uw rekening van DSP ](/help/creative/creative-libraries/aem-assets-configure.md) wordt verbonden, doe het volgende:
 
       1. Klik op **[!UICONTROL AEM Asset Library]**.
 
@@ -177,9 +177,11 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
       1. Zoek en selecteer de bestanden in de weergaven [!UICONTROL Assets] of [!UICONTROL Collections] en klik vervolgens op **[!UICONTROL Select]** rechtsboven.
 
+         <!-- If the existing asset has multiple quality options, [!DNL Creative] downloads the primary asset, or the asset with the highest resolution within some upper limit [verify what it is and how this works]. [If an asset is part of an image set, ... primary asset in the image set. -->
+
 1. Afbeeldingen toevoegen of verwijderen:
 
-   * Om een beeld toe te voegen, voegt de klik ![&#128279;](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.
+   * Om een beeld toe te voegen, voegt de klik ](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.![
 
    * Als u een afbeelding wilt verwijderen, schakelt u het selectievakje naast de afbeelding uit.
 
