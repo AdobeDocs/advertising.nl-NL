@@ -3,9 +3,9 @@ title: Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 description: Leer hoe u een doelknooppunt tussen doelknooppunten in een advertentie kunt toevoegen.
 feature: Creative Experiences
 exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: dac7252e118e467fbc924cf162756d7ecd69892f
 workflow-type: tm+mt
-source-wordcount: '774'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
@@ -67,9 +67,9 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
          1. Klik op **[!UICONTROL Apply]**.
 
-      * Voer voor een gegevensdoorvoerdoel één waarde voor de gegevensdoorloop in en klik op **[!UICONTROL Apply]** .
+      * Voor een doel voor gegevensdoorloop past u desgewenst de gegevensdoorvoersleutel aan, voert u één waarde voor de gegevensdoorloop in en klikt u op **[!UICONTROL Apply]** .
 
-        De sleutel voor het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md).
+        Een standaardwaarde voor de sleutel in het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md). U kunt de toets desgewenst aanpassen.
 
       * Selecteer voor een heroriënterend pixeldoel één herrichtingspixel dat u wilt gebruiken en de waarden voor de kenmerken van een pixel die nodig zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 

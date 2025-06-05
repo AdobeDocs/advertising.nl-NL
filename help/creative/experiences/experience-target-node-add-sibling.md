@@ -2,9 +2,10 @@
 title: Voeg een sibling doelknoop tussen knopen in een ervaring toe
 description: Leer hoe te om een sibling knoop aan om het even welke knoop toe te voegen die een doel heeft of op het zelfde niveau zoals een knoop met een doel is.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
+source-git-commit: dac7252e118e467fbc924cf162756d7ecd69892f
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '587'
 ht-degree: 0%
 
 ---
@@ -29,7 +30,7 @@ In an existing experience,
 
 1. Geef de doelen op:
 
-   * Ga als volgt te werk voor doelgroepen voor publiek Adobe:
+   * Ga als volgt te werk voor Adobe Audience-doelen:
 
       1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen, open het tabblad **[!UICONTROL Adobe Segments]** , geef een of meer van de [!DNL Adobe] publieksdoelen van de adverteerder op en klik op **[!UICONTROL Save]** .
 
@@ -51,9 +52,9 @@ In an existing experience,
 
       1. Klik op **[!UICONTROL Apply]**.
 
-   * Voer voor doelen voor gegevensdoorloop één waarde voor gegevensdoorgeven in en klik op **[!UICONTROL Apply]** .
+   * Voor gegevensdoorvoerdoelen past u desgewenst de gegevensdoorvoersleutel aan, voert u één waarde voor de gegevensdoorloop in en klikt u op **[!UICONTROL Apply]** .
 
-   De sleutel voor het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md), en u kunt geen extra sleutels toevoegen.
+     Een standaardwaarde voor de sleutel in het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md). U kunt de toets desgewenst aanpassen.
 
    * Als u pixeldoelen opnieuw wilt toewijzen, selecteert u de opnieuw te gebruiken pixel en de vereiste waarden voor de kenmerken van een pixel die aanwezig moeten zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 
