@@ -64,7 +64,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 ### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ] (flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
@@ -181,7 +181,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Afbeeldingen toevoegen of verwijderen:
 
-   * Om een beeld toe te voegen, voegt de klik ](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.![
+   * Om een beeld toe te voegen, voegt de klik ![&#128279;](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.
 
    * Als u een afbeelding wilt verwijderen, schakelt u het selectievakje naast de afbeelding uit.
 
