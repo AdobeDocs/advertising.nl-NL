@@ -3,9 +3,9 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: f7e022d8753eb41f5eed8667b9af66085f912bff
 workflow-type: tm+mt
-source-wordcount: '777'
+source-wordcount: '785'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ De rapportweergave bevat de volgende gegevens:
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
      -->
 
-   * **sectie van de Onderbreking van 0&rbrace; Prestaties &lbrace;:**
+   * **sectie van de Onderbreking van 0} Prestaties {:**
 
       * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
 
@@ -58,7 +58,7 @@ De rapportweergave bevat de volgende gegevens:
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
       -->
 
-* **Creatieve Prestaties** tab*: Een prestatiesoverzicht door creatieve en bundel of ad markering, die omvatten:
+* **Prestaties van Creative** tab*: Een prestatiesoverzicht door creatieve en bundel of ad markering, die omvatten:
 
    * **Creatieven** sub-tab: Het totale aantal beelden, klikt, en CTR voor elk creatief in de ervaring.<!-- No breakdown yet for the individual ad elements and/or the served ads. -->
 
@@ -144,7 +144,7 @@ De rapportweergave bevat de volgende gegevens:
 
    * Op de subtab [!UICONTROL Creatives] kunt u het volgende doen:
 
-      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.![
 
       * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
@@ -152,18 +152,20 @@ De rapportweergave bevat de volgende gegevens:
 
 1. Als u gegevens wilt weergeven op basis van een bundel (ervaring met het toewijzen van beslisboom als doel) of op basis van een ad-tag (ervaring zonder doelbinding voor beslissingsstructuur), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
 
-   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.![
 
    * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
    * (Ervaringen met alleen beslissingsboomstructuurdoelframes; optioneel) Schakel **[!UICONTROL Split targeting]** in om de prestaties voor elk toegepast ad-hocdoel te verdelen.
 
-1. (Facultatief) om de gegevens in a [!DNL Microsoft Excel] dossier in spreadsheet (XLSX) formaat te downloaden, klik ![ Download ](/help/creative/assets/download.png " Download ") in de toolbar.
+## Download prestatierapporten voor een ervaring
 
-   Het bestand wordt gedownload volgens de normale procedure van uw browser.
+* In de toolbar bij de bovenkant van de prestatiesrapporten, klik ![ Download ](/help/creative/assets/download.png " ").
+
+  Het bestand wordt gedownload in een [!DNL Microsoft Excel] -bestand in spreadsheet (XLSX) indeling, volgens de normale procedure van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [ Aangepast Creatief Rapport ](/help/creative/report-custom-creative.md)
+>* [ het Rapport van Creative van de Douane ](/help/creative/report-custom-creative.md)
 >* [ Download alle ervaringen in de mening ](/help/creative/experiences/experience-download-view.md)
 >* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
