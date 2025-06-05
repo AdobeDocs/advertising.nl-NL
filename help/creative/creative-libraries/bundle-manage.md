@@ -3,9 +3,9 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: a07af2b3a49d47f5e4ec276ab82520df46d6068a
+source-git-commit: baba02d2537828f1ed0b5c7842d1f987a55f5ef0
 workflow-type: tm+mt
-source-wordcount: '1359'
+source-wordcount: '1432'
 ht-degree: 0%
 
 ---
@@ -108,7 +108,9 @@ U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creat
 
 >[!NOTE]
 >
->U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties [&#128279;](creative-attach-detach-bundles.md) ook vastmaken.
+>U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties ](creative-attach-detach-bundles.md) ook vastmaken.[
+
+### Creatieve elementen uit de lijst met bundels aan een bundel koppelen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
@@ -126,9 +128,27 @@ U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creat
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![&#128279;](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0&rbrace; te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0} te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.![
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
+
+### Creatieve items aan een bundel koppelen op de creatieve lijst van de bundel
+
+1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
+
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+
+1. Klik op de naam van de bibliotheek.
+
+1. Klik op de tab **[!UICONTROL Bundles]** .
+
+1. Klik op de bundelkaart of rij om alle creatieve elementen in de bundel weer te geven.
+
+1. Klik in de rechterbovenhoek op **[!UICONTROL Attach Creatives]** .
+
+1. Schakel in het rechterdeelvenster het selectievakje in voor elke creatieve waarde die u wilt toevoegen.
+
+1. Klik op **[!UICONTROL Attach Creatives to Bundle]**.
 
 ## Creatieve elementen loskoppelen van een bundel {#bundle-detach-creatives}
 
@@ -216,7 +236,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![&#128279;](/help/creative/assets/share.png " Aandeel 1&rbrace; van het Aandeel ") in het hogere recht van de voorproef.
+   1. Klik ](/help/creative/assets/share.png " Aandeel 1} van het Aandeel ") in het hogere recht van de voorproef.![
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
