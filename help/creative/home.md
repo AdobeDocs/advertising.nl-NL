@@ -6,9 +6,9 @@ product: advertising cloud
 solution: Advertising
 index: false
 exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: ec551eb840ef1d35091426842458cde17b23863e
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -17,10 +17,11 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-<!-- The following features are new or recently changed.  -->
+<!-- The following features are new or recently changed. -->
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 21 mei 2025 | [!UICONTROL Creative Libraries] | U kunt nu afbeeldingen uit uw Adobe Experience Manager-elementenbibliotheek toevoegen aan uw [!UICONTROL Creative Libraries] zodat u deze kunt gebruiken binnen een advertentiervaring. | Zie &quot;[ toegang tot de beeldactiva van Adobe Experience Manager ](/help/creative/creative-libraries/aem-assets-configure.md)&quot;vormen en &quot;[ standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toevoegen.&quot; |
 | 10 februari 2025 | [!UICONTROL Creative Libraries] | Eerder had je één creatieve bibliotheek. U kunt nu meerdere bibliotheken maken voor elke adverteerder. | Zie &quot;[ over uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md).&quot; |
 | | [!UICONTROL Creative Libraries] > [!UICONTROL Creatives] | De weergave [!UICONTROL Creatives] bevat tabbladen voor [!UICONTROL Standard Ads] en [!UICONTROL Dynamic Ads] .<ul><li>Met het tabblad **[!UICONTROL Standard Ads]** kunt u afbeeldingen, HTML5, flexibele HTML5 en creatieve producten van derden uploaden en beheren.</li><li>Op het tabblad **[!UICONTROL Dynamic Ads]** kunt u dynamisch gegenereerde advertenties beheren die zijn gemaakt op basis van geüploade feed-bestanden met gedefinieerde advertentiesjablonen. Eerder werden dynamische advertenties gegenereerd binnen [!DNL Adobe Advertising Dynamic Creative Optimization (DCO)] .<br><br> Momenteel kunt u dynamische advertenties voorvertonen, dupliceren en verwijderen. U kunt ook dynamische advertenties koppelen aan creatieve bundels voor doelgerichte en doelgerichte ervaringen of aan labels voor niet-doelgerichte ervaringen. Alleen beheerders kunnen dynamisch advertenties genereren.</li></ul> | Zie &quot;[ over uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md).&quot; |
 | | [!UICONTROL Creative Libraries] > [!UICONTROL Bundles] | Groepeer veelvoudige creatieven in a *bundel* om hen aan een ervaring gemakkelijk toe te voegen. U kunt standaardadvertentiesbundels maken en er standaardcreatieve elementen aan toevoegen. Op dezelfde manier kunt u dynamische ad-bundles maken en er dynamische creatieve elementen aan koppelen. | Zie &quot;[ de Bundels van Creative beheren ](/help/creative/creative-libraries/bundle-manage.md).&quot; |
