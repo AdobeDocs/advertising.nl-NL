@@ -3,9 +3,9 @@ title: '[!UICONTROL Custom Creative Report]'
 description: Leer hoe u de kruiservaring genereert [!UICONTROL Custom Creative Report] .
 feature: Creative Reporting
 exl-id: 13687d9d-6283-40ac-86a2-bb88b9fdfcc3
-source-git-commit: 3033f26bba5a9e7622d0de51b36035be1005c60f
+source-git-commit: a6e8bd3d9c2f8a373a90460b9ee8780d1c0702c6
 workflow-type: tm+mt
-source-wordcount: '1913'
+source-wordcount: '2016'
 ht-degree: 0%
 
 ---
@@ -161,7 +161,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 * *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL FTP SSL] (Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
 
 * *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
@@ -183,8 +183,6 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 ## Beschikbare rapportkolommen {#report-custom-creative-columns}
 
-<!-- Need to finish these definitions -->
-
 | Metrisch type | Subtype | Kolomnaam | Beschrijving |
 |-----------|-------|-----------|-----------|
 | [!UICONTROL Dimension] | [!UICONTROL Ad] | [!UICONTROL Ad Size] | De afmetingen van de gepubliceerde advertentie. |
@@ -196,16 +194,12 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 | [!UICONTROL Dimension] | [!UICONTROL Creative] | [!UICONTROL Parent Creative ID] | De id die [!UICONTROL Creative] heeft toegewezen aan de bovenliggende creatieve server. |
 | [!UICONTROL Dimension] | [!UICONTROL Creative] | [!UICONTROL Parent Creative Name] | De naam van de ouder creatief. |
 | [!UICONTROL Dimension] | [!UICONTROL Creative] | [!UICONTROL Parent Creative Type] | Het type van bovenliggende creatieve elementen (zoals [!UICONTROL HTML5] ). |
-| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Ad Link] | . |
-| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Click Type] | Het kliktype. |
-| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Direction] | |
+| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Ad Link] | De bestemmingspagina-URL. |
+| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Click Type] | Het specifieke type gebruikersinteractie. |
+| [!UICONTROL Dimension] | [!UICONTROL Click Events] | [!UICONTROL Direction] | De richting of het navigatiepad van de klikinteractie van de gebruiker binnen de creatieve ervaring. |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Device Browser] | De browser waarin de advertentie is weergegeven (bijvoorbeeld [!UICONTROL Chrome] of [!UICONTROL Firefox] ). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Device OS] | Het besturingssysteem waarop de advertentie is weergegeven (bijvoorbeeld [!UICONTROL Windows] ). |
 | [!UICONTROL Dimension] | [!UICONTROL Device] | [!UICONTROL Device Type] | Het type apparaat waarop de advertentie is weergegeven (bijvoorbeeld [!UICONTROL Desktop] ). |
-| [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Ad ID] | De id van de advertentie. |
-| [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Buy ID] | De koop-id voor de advertentie. |
-| [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Creative ID] | De id van de creatieve. |
-| [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP ID] | De id van de DSP waarop advertenties zijn uitgevoerd. |
 | [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Name] | De naam van de DSP waarop advertenties zijn uitgevoerd. |
 | [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Placement ID] | De id van de plaatsing waarvoor advertenties zijn uitgevoerd. |
 | [!UICONTROL Dimension] | [!UICONTROL DSP] | [!UICONTROL DSP Placement Name] | De naam van de plaatsing waarvoor advertenties zijn uitgevoerd. |
@@ -216,8 +210,8 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 | [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Date/Time] | De datum en het tijdstip van de gebeurtenis. |
 | [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Experience ID] | De id die [!UICONTROL Creative] aan de ervaring heeft toegewezen. |
 | [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Experience Name] | De naam van de ervaring. |
-| [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Targeting Branch Value] | Het doel. |
-| [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Trafficking Line] | |
+| [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Targeting Branch Value] | De specifieke weg door de het richten beslissingsboom die bepaalde welke creatieve ervaringsvariant aan de gebruiker werd gediend. |
+| [!UICONTROL Dimension] | [!UICONTROL Experiences] | [!UICONTROL Trafficking Line] | De naam van de advertentietag. |
 | [!UICONTROL Dimension] | [!UICONTROL Geo] | [!UICONTROL City] | De stad waaraan de gerapporteerde gegevens worden toegeschreven. |
 | [!UICONTROL Dimension] | [!UICONTROL Geo] | [!UICONTROL Country Code] | De landcode voor het land waaraan de gerapporteerde gegevens zijn toegewezen. |
 | [!UICONTROL Dimension] | [!UICONTROL Geo] | [!UICONTROL DMA] | Het aangewezen marktgebied (DMA) waaraan de gerapporteerde gegevens zijn toegewezen. |
@@ -232,22 +226,22 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 | [!UICONTROL Dimension] | [!UICONTROL Product] | [!UICONTROL Creative Attribute 5] | (Dynamische advertenties) Het vijfde creatieve kenmerk. |
 | [!UICONTROL Dimension] | [!UICONTROL Product] | [!UICONTROL Product ID] | (Dynamische advertenties) De doel-product-id. |
 | [!UICONTROL Dimension] | [!UICONTROL Product] | [!UICONTROL Product Name] | (Dynamische advertenties) De doelproductnaam. |
-| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Matched Audience Segment ID] | De id voor het publiekssegment waaraan de gerapporteerde gegevens worden toegewezen. |
-| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Pixel Segment ID] | De segment-id voor een publiekssegment waaraan de gerapporteerde gegevens worden toegewezen. |
-| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Pixel Segment Name] | De naam van een publiekssegment waaraan de gerapporteerde gegevens worden toegewezen. |
+| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Matched Audience Segment ID] | De id&#39;s voor maximaal vijf gebruikerssegmenten die overeenkomen met het advertentiethema. |
+| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Pixel Segment ID] | De id voor een doelpixel waaraan de gerapporteerde gegevens worden toegewezen. |
+| [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Pixel Segment Name] | De naam van een herrichtingspixel waaraan de gerapporteerde gegevens zijn toegewezen. |
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Values] | De kenmerken voor een publiekssegment waaraan de gerapporteerde gegevens worden toegewezen. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Clicks] | De som van alle klikken op een advertentie. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL CTR] | De doorkliksnelheid. Dit is het percentage klikken gedeeld door indrukken. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Engagement Rate] | Het percentage indrukken dat tot gebruikersbetrokkenheid heeft geleid. |
 | [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Engagements] | Het aantal interacties op een betekende advertentie. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Impressions] | The total number of ad impressions. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Media Match Rate] | |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Clicks] | De som van alle klikken op advertenties voor een product. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion] | De som van alle omzettingen op advertenties voor een product. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion Rate] | Het percentage advertenties voor een product dat tot omzettingen heeft geleid. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product CTR] | De doorklikfrequentie voor advertenties voor een product. Dit is het percentage klikken gedeeld door advertenties. |
-| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Impressions] | Het totale aantal indrukkingen voor een product. |
-| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Revenue] | De totale inkomsten aan bediende advertenties voor een product. |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Media Match Rate] | Het percentage van de indrukken met een opnieuw gericht cookie. |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Clicks] | (Alleen dynamische advertenties) De som van alle klikken op advertenties voor een product. Wanneer het product null is, is deze waarde nul (0). |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion] | (Alleen dynamische advertenties) De som van alle conversies op advertenties voor een product. Wanneer het product null is, is deze waarde nul (0). |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Conversion Rate] | (Alleen dynamische advertenties) Het percentage advertenties voor een product dat tot conversies heeft geleid. Wanneer het product null is, is deze waarde nul (0). |
+| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Product CTR] | (Alleen dynamische advertenties) De doorklikfrequentie voor advertenties voor een product. Dit is het percentage klikken gedeeld door advertenties. Wanneer het product null is, is deze waarde nul (0). |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Impressions] | (Alleen dynamische advertenties) The total number of impressions for a product. Wanneer het product null is, is deze waarde nul (0). |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Revenue] | (Alleen dynamische advertenties) De totale inkomsten aan bediende advertenties voor een product. Wanneer het product null is, is deze waarde nul (0). |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Revenue] | De totale inkomsten voor bediende reclame. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
 | [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | (Advertisers met Advertising DSP) de gewogen som alle omzettingen die in het gespecificeerde [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
