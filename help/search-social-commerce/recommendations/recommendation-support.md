@@ -28,7 +28,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
   ![ Aanbevelingen UI ](/help/search-social-commerce/assets/recommendations-ui.png " Aanbevelingen UI ")
 
-  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Om de gegevens te verfrissen, verfrissen de klik ](/help/search-social-commerce/assets/refresh.png " ") zich op de bodem links van de pagina vernieuwen.![
+  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Om de gegevens te verfrissen, verfrissen de klik ![&#128279;](/help/search-social-commerce/assets/refresh.png " ") zich op de bodem links van de pagina vernieuwen.
 
 * Voor [!DNL Microsoft Advertising] -accounts raadpleegt u in één oogopslag elke prestatie die insight in de laatste 30 dagen voor een [!DNL Microsoft Advertising] -account heeft gegenereerd. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elke insight bevat de datum, een beschrijving van de uitgave, de betrokken entiteit, de hoofdoorzaak (die koppelingen naar meer details kan bevatten) en de voorgestelde actie met een koppeling om de [!DNL Microsoft Advertising] -editor te openen, waaruit u op de specifieke insight kunt werken.
 
