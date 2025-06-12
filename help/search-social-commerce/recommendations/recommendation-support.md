@@ -3,9 +3,9 @@ title: Informatie over aanbevelingen en ondersteuning voor inzichten van uitgeve
 description: Meer informatie over de ondersteuning voor het weergeven en beheren van aanbevelingen en inzichten voor uitgevers.
 exl-id: 8bad85e0-8c01-4177-a881-96dd9c4a5949
 feature: Search Recommendations
-source-git-commit: 457e42152a85e0e357939efdfb821b76a636ba2a
+source-git-commit: 568927a009b2c38d30fc817a9f4aa4e964b4cd9f
 workflow-type: tm+mt
-source-wordcount: '712'
+source-wordcount: '734'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 * Elke aanbeveling van [!DNL Google Ads] biedt aangepaste suggesties voor verschillende prestatiesaspecten van een campagne, van het toevoegen van middelen tot het verhogen van het budget, op basis van de prestatiegeschiedenis van uw account, uw campagnemontages en trends in [!DNL Google Ads] .
 
-* In elke [!DNL Microsoft Advertising] -prestatiebeoordeling en -aanbeveling worden wijzigingen voorgesteld om de campagneprestaties te optimaliseren op basis van computerleeralgoritmen en aanbevolen procedures.
+* In elke [!DNL Microsoft Advertising] performance insight en in elke aanbeveling worden wijzigingen voorgesteld om de campagneprestaties te optimaliseren op basis van computerleeralgoritmen en best practices.
 
 ## De weergave [!UICONTROL Recommendations & Publisher Insights]
 
@@ -28,9 +28,9 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
   ![ Aanbevelingen UI ](/help/search-social-commerce/assets/recommendations-ui.png " Aanbevelingen UI ")
 
-  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Om de gegevens te verfrissen, verfrissen de klik ![&#128279;](/help/search-social-commerce/assets/refresh.png " ") zich op de bodem links van de pagina vernieuwen.
+  De gegevens zijn beschikbaar in real time wanneer u de mening opent. Om de gegevens te verfrissen, verfrissen de klik ](/help/search-social-commerce/assets/refresh.png " ") zich op de bodem links van de pagina vernieuwen.![
 
-* Zie in een oogopslag elk prestatieinzicht dat in de laatste 30 dagen voor een [!DNL Microsoft Advertising] -account is gegenereerd voor [!DNL Microsoft Advertising] -accounts. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elk inzicht omvat de datum, een beschrijving van de kwestie, de beïnvloede entiteit, de worteloorzaak (die verbindingen aan meer details kan omvatten), en de voorgestelde actie met een verbinding om de [!DNL Microsoft Advertising] redacteur te openen, waarvan u op het specifieke inzicht kunt handelen.
+* Voor [!DNL Microsoft Advertising] -accounts raadpleegt u in één oogopslag elke prestatie die insight in de laatste 30 dagen voor een [!DNL Microsoft Advertising] -account heeft gegenereerd. Inzichten bieden vergelijkbare informatie als aanbevelingen, maar in een andere indeling. Elke insight bevat de datum, een beschrijving van de uitgave, de betrokken entiteit, de hoofdoorzaak (die koppelingen naar meer details kan bevatten) en de voorgestelde actie met een koppeling om de [!DNL Microsoft Advertising] -editor te openen, waaruit u op de specifieke insight kunt werken.
 
 * Bekijk details over een aanbeveling en pas de aanbeveling rechtstreeks toe of verwerp deze.
 
@@ -38,7 +38,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!NOTE]
 >
->Terwijl en de aanbevelingen van het netwerk en prestatiesinzichten u helpen campagneprestaties verbeteren, kunnen sommige niet op uw bredere doelstellingen richten. Daarom is het beter om uw Adobe-accountteam te raadplegen voordat u een aanbeveling of inzicht implementeert.
+>Terwijl en de aanbevelingen van het netwerk en prestatiesinzichten u helpen campagneprestaties verbeteren, kunnen sommige niet op uw bredere doelstellingen richten. Daarom kunt u het beste eerst contact opnemen met uw Adobe-accountteam voordat u een aanbeveling voor insight uitvoert.
 
 ## Ondersteunde aanbevelingen voor [!DNL Google Ads]
 
@@ -46,6 +46,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | --- | --- | --- |
 | [!UICONTROL Ads and extensions] (nu &quot;[!DNL Ads and assets]&quot; genoemd in [!DNL Google Ads]) | [!UICONTROL Call extension] | Voeg vraaguitbreidingen aan een campagne toe |
 | | [!UICONTROL Callout extension] | Bijschriftextensies toevoegen aan een campagne |
+|  | [!UICONTROL Improve demand gen ad strength] | Suggesties voor het verbeteren van de ad-hocsteun |
 | | [!UICONTROL Optimize ad rotation] | Geoptimaliseerde ad-rotaties gebruiken |
 | | [!UICONTROL Responsive search ad] | Nieuwe responsieve zoekopdracht toevoegen |
 | | [!UICONTROL Responsive search ad asset] | Responsieve zoekopdrachten en middelen toevoegen aan een advertentie |
@@ -77,6 +78,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 | | [!UICONTROL Target ROAS opt in] | Wijzigen in de biedstrategie van [!UICONTROL Target ROAS] |
 | [!UICONTROL Keywords and targeting] | [!UICONTROL Display expansion opt in] | Bereik uitbreiden door een campagne bij te werken om weergaveuitbreiding te gebruiken |
 | | [!UICONTROL Keyword] | Nieuwe trefwoorden toevoegen |
+|  | [!UICONTROL Refresh customer match list] | Vernieuw uw lijst van de klantengelijke om gepersonaliseerde advertenties aan recente klanten te tonen |
 | | [!UICONTROL Search partners opt in] | Bereik uitbreiden met [!DNL Google] zoekpartners |
 | | [!UICONTROL Use broad match keyword] | Gebruik brede overeenkomst voor op conversie gebaseerde campagnes met volledig geautomatiseerde op conversie gebaseerde biedingen |
 

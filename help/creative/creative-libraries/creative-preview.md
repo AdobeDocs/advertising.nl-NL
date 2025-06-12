@@ -3,7 +3,7 @@ title: Een voorvertoning weergeven van een creatief
 description: Leer hoe u een voorvertoning van een creatief object opent.
 feature: Creative Standard Creatives
 exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
-source-git-commit: 278104fb09797e781894a6894a0a53db4a8e28f8
+source-git-commit: 5d1b39f2a0602d4492d468520a946d86ceae16ed
 workflow-type: tm+mt
 source-wordcount: '150'
 ht-degree: 0%
@@ -12,7 +12,6 @@ ht-degree: 0%
 
 # Een voorvertoning weergeven van een creatief
 
-*Standaard slechts creatieve creatieven*
 *Gesloten bèta*
 
 U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlinks, terwijl de gebruiker deze ziet.
@@ -21,7 +20,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. Klik op de naam van de bibliotheek.
 
-1. Selecteer op het tabblad **[!UICONTROL Creatives]** > **[!UICONTROL Standard Ads]** de creatieve optie:
+1. Selecteer op het tabblad **[!UICONTROL Creatives]** > **[!UICONTROL Standard Ads]** of **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ads]** de creatieve optie:
 
    * Klik in de kaartweergave op **[!UICONTROL ...]** naast de naam van het origineel en klik vervolgens op **[!UICONTROL Preview]** .
 
