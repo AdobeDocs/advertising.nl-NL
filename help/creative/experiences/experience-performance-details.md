@@ -3,7 +3,7 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: fc28fe5c4486939718cf6e7bd58555f72fd0c8ed
+source-git-commit: 80cb7587d433b672e22fb9d831f491af7ee364fe
 workflow-type: tm+mt
 source-wordcount: '775'
 ht-degree: 0%
@@ -22,33 +22,33 @@ De rapportweergave bevat de volgende gegevens:
 
 * **Overzicht** tabel: Een prestatiesoverzicht over alle omzettingsmetriek voor de volledige ervaring, die omvat:
 
-<!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
+  <!-- Currently, the only metric in the settings list at the top of this main tab is "Select All." And I don't see this as of 2/8:  You can optionally combine two metrics at a time into a single chart. -->
 
-* **Algemene Prestaties** sectie:
+   * **Algemene Prestaties** sectie:
 
-* **Algemene Prestaties**: De totale indrukkingen; klikt; kliks-door tarief (CTR); en mening-door omzettingen en klikomzettingen.
+      * **Algemene Prestaties**: De totale indrukkingen; klikt; kliks-door tarief (CTR); en mening-door omzettingen en klikomzettingen.
 
-  <!--
+     <!--
      ![Overall performance](/help/creative/assets/experience-report-overall-performance.png "Overall performance"){width="100" zoomable="yes"}
           -->
 
-* **Gebrek Tarief**: (Ervaringen met beslissingsboom richtend slechts) het aantal indrukken die uit gerichte creatieve creatieven, generische creatieven zonder een doel of gericht aan &quot;Alle Else,&quot;en gebrek creatief voor de ervaring voortvloeien.
+      * **Gebrek Tarief**: (Ervaringen met beslissingsboom richtend slechts) het aantal indrukken die uit gerichte creatieve creatieven, generische creatieven zonder een doel of gericht aan &quot;Alle Else,&quot;en gebrek creatief voor de ervaring voortvloeien.
 
-  <!--
+     <!--
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
      -->
 
-* **sectie van de Onderbreking van 0&rbrace; Prestaties &lbrace;:**
+   * **sectie van de Onderbreking van 0} Prestaties {:**
 
-   * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
+      * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
 
-     <!--   
+        <!--   
       ![Regional performance](/help/creative/assets/experience-report-regional-performance.png "Regional performance"){width="100" zoomable="yes"}
       -->
 
-   * **Prestaties van het Apparaat:** Individuele metriek door apparatentype, werkend systeem, en browser. Klik naar keuze de waarde voor om het even welke apparatencategorie om een lijst van de hoogste <!-- NN --> creatieve personen te zien die met die criteria worden gediend.
+      * **Prestaties van het Apparaat:** Individuele metriek door apparatentype, werkend systeem, en browser. Klik naar keuze de waarde voor om het even welke apparatencategorie om een lijst van de hoogste <!-- NN --> creatieve personen te zien die met die criteria worden gediend.
 
-     <!--    
+        <!--    
       ![Device performance](/help/creative/assets/experience-report-device-performance.png "Device performance"){width="100" zoomable="yes"}
       -->
 
@@ -110,7 +110,7 @@ De rapportweergave bevat de volgende gegevens:
 
    * Op de subtab [!UICONTROL Creatives] kunt u het volgende doen:
 
-      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.![
 
       * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
@@ -118,7 +118,7 @@ De rapportweergave bevat de volgende gegevens:
 
 1. Als u gegevens wilt weergeven op basis van een bundel (ervaring met het toewijzen van beslisboom als doel) of op basis van een ad-tag (ervaring zonder doelbinding voor beslissingsstructuur), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
 
-   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.![
 
    * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
