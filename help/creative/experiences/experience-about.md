@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: 0a6cd8e32ae87c7fda9ed0e1b50f9b54cd337192
+source-git-commit: 2ddda1e23e3a3413ef93ca0705f0b9688c893f64
 workflow-type: tm+mt
-source-wordcount: '799'
+source-wordcount: '904'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Ervaringen in Advertising Creative 2.0
 
 *Gesloten bèta*
-
-<!-- Revisit Description metadata  -->
-
-<!-- MORE -->
 
 [!DNL Advertising Creative 2.0] verstrekt twee verschillende structuren van de advertentie voor de advertenties in een creatieve bibliotheek <!-- can use a single library only -->:
 
@@ -36,9 +32,9 @@ ht-degree: 0%
 
    * Specifieke apparaattypen, besturingssystemen en browsers
 
-  U kunt creatieve bundels aan elke ervaring toewijzen. Voor elke ervaring, kunt u optimalisering en het plannen voor de creatieve bundels aanpassen en de standaard het landen pagina&#39;s en het volgen URLs <!-- and any flexible attributes --> voor individuele creatieven in elke bundel veranderen.
+  Zodra u een tak van het doelpubliek in de beslissingsboom creeert, kunt u het doelpubliek met potentiële creatieve creatieven associëren door creatieve bundels aan de tak toe te wijzen. Voor elke ervaring, kunt u optimalisering en het plannen voor de creatieve bundels aanpassen en de standaard het landen pagina&#39;s en het volgen URLs <!-- later: and any flexible attributes --> voor individuele creatieven in elke bundel veranderen.
 
-* **Ervaringen zonder beslissingsboom richtend:** [!DNL Creative] optimaliseert de ad elementen voor de advertentie ervaring zonder het publiek te verkleinen.<!-- For first-party creatives, [!DNL Creative] serves the ads. --> Voor elke ervaring geeft u de begin- en einddatum en enkele standaardinstellingen op, maar een groot deel van de workflow bevindt zich niet rechtstreeks in de ervaring. In plaats van creatieve elementen rechtstreeks aan de ervaring toe te voegen, gebruikt u [!UICONTROL Tag Manager] om voor elke advertentiegrootte een ad-tag voor de ervaring te maken en er vervolgens creatieve creatieve optimalisatie en planning aan toe te voegen, en de bestemmingspagina&#39;s en URL&#39;s bij te houden aan te passen.
+* **Ervaringen zonder beslissingsboom richtend:** [!DNL Creative] optimaliseert de ad elementen voor de advertentie ervaring zonder het publiek te verkleinen. Voor elke ervaring, specificeert u begin en einddata en sommige standaardmontages, maar veel van het werkschema is niet direct binnen de ervaring. In plaats van creatieve elementen rechtstreeks aan de ervaring toe te voegen, gebruikt u [!UICONTROL Tag Manager] om een ad-tag voor elke advertentiegrootte voor de ervaring te maken en er vervolgens creatieve creatieve optimalisatie en planning aan toe te voegen, en de bestemmingspagina&#39;s aan te passen en URL&#39;s te volgen <!-- later: and any flexible attributes -->.
 
 ## Adoptimalisatie
 
@@ -47,35 +43,34 @@ ht-degree: 0%
 
 ## Ervaringen implementeren en beheren
 
-Zodra u een levende ervaring (met alle vereiste ad elementen) creeerde, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden. [!DNL Creative] biedt advertenties voor de ervaring op basis van de opties voor het kiezen en draaien van advertenties en de beschikbare voorraad.
+Zodra u een levende ervaring (met alle vereiste ad elementen) creeert, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden. [!DNL Creative] dient voor advertenties van eerste partijen en activeert advertenties van derden voor de ervaring op basis van de opties voor aanwijzen en ad-rotatie en de beschikbare voorraad voor advertenties.
 
 ## Prestatiegegevens voor uw ervaringen
 
-Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] , geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
+De volgende prestatiegegevens zijn beschikbaar:
 
-![ optie van Metriek de optie van Metriek ](/help/creative/assets/metrics-option.png " Metriek ")
+* Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] , geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
-<!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
+  ![ optie van Metriek de optie van Metriek ](/help/creative/assets/metrics-option.png " Metriek ")
 
-<!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. -->
+  <!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
 
-U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
+  <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. -->
 
-Om prestaties over uw ervaringen te controleren, creeer het Rapport van Creative van de a [ Douane ](/help/creative/report-custom-creative.md).
+* U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
+
+* Om prestaties over uw ervaringen te controleren, creeer het Rapport van Creative van de a [ Douane ](/help/creative/report-custom-creative.md).
 
 ## Ervaar statussen {#experience-statuses}
 
-<!-- verify that these are all still the same -->
+Het statuut van een ervaring wordt automatisch geplaatst, behalve *Geschrapt,* die u manueel plaatst.
 
-Het statuut van een ervaring wordt automatisch geplaatst, behalve *geschrapt,* die u manueel plaatst.
-
-*Levend:* de ervaring omvat alle vereiste elementen, zodat kunt u een ervaringsmarkering produceren om als advertentie in een DSP uit te voeren. <!-- A live experience may be scheduled to start in the future -->
-
-*Ontwerp:* Alle takken van de ervaring worden niet toegewezen creatieve personen, zodat is de ervaring onvolledig, en u kunt geen ervaringsmarkering produceren.
-
-*Verwerking:* een eerder-levende ervaring werd uitgegeven maar is nu onvolledig. U kunt er geen ervaringstag voor maken. **Nota:** als u reeds een ervaringsmarkering voor de ervaring uitvoerde, dan kan de eerder-levende versie nog worden gediend. Als u de ervaring later voltooit — en deze live maakt — dan kan de nieuwe versie worden gebruikt met de bestaande implementatie van de tag.
-
-*schrapte:* de ervaring werd geschrapt van [!DNL Creative] en is niet meer zichtbaar in de [!UICONTROL Experiences] meningen.
+| Status | Beschrijving |
+| ------ | ----------- |
+| [!UICONTROL Live] | De ervaring omvat alle vereiste elementen, zodat kunt u een ervaringsmarkering produceren om als advertentie in een DSP uit te voeren. In de toekomst kan een live-ervaring worden gestart. |
+| [!UICONTROL Draft] | Aan alle vertakkingen van de ervaring zijn geen creatieve elementen toegewezen, zodat de ervaring onvolledig is en u geen ervaringstag kunt genereren. |
+| [!UICONTROL Processing] | Een ervaring die u eerder hebt opgedaan, is bewerkt, maar nu onvolledig. U kunt er geen ervaringstag voor maken. **Nota:** als u reeds een ervaringsmarkering voor de ervaring uitvoerde, dan kan de eerder-levende versie nog worden gediend. Als u de ervaring later voltooit — en deze live maakt — dan kan de nieuwe versie worden gebruikt met de bestaande implementatie van de tag. |
+| [!UICONTROL Deleted] | De ervaring is verwijderd uit [!DNL Creative] en is niet meer zichtbaar in de weergaven van [!UICONTROL Experiences] . |
 
 >[!NOTE]
 >
@@ -85,33 +80,27 @@ Het statuut van een ervaring wordt automatisch geplaatst, behalve *geschrapt,* d
 
 In de weergave [!UICONTROL Experiences] worden al uw doelgerichte en niet-doelgerichte ervaringen weergegeven. U kunt de ervaringsnamen, de status, de begin- en einddatum, het aantal en de afmetingen van de toegewezen creatieve of creatieve bundels zien, en of de ervaring dynamische advertenties bevat. Wanneer u de optie [!UICONTROL Metrics] inschakelt in de [!UICONTROL Experiences] -weergave, geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
-U kunt uw ervaringen maken en beheren, waaronder optimalisatie en het toewijzen van creatieve documenten en creatieve bundels aan uw ervaringen. U kunt ook tags voor advertenties maken en hernoemen en de tags exporteren in JavaScript- en iframe-indelingen voor implementatie op uw DSP&#39;s. Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtstreeks uploaden naar een Advertising DSP-campagne.
+U kunt uw ervaringen maken en beheren, labels voor advertenties maken en hernoemen en de labels exporteren in JavaScript- en iframe-indelingen voor implementatie op uw DSP&#39;s. Adverteerders met Advertising DSP kunnen optioneel advertentietags rechtstreeks uploaden naar een Advertising DSP-campagne.
 
-<!--
-### Available actions
+### Beschikbare acties
 
-* [Download data within the view](experience-download-view.md)
+Hier volgen enkele belangrijke acties. Voor een volledige lijst, zie de inhoudstafel voor het Creative > hoofdstuk van Ervaring.
 
-        + [Assign and unassign creative bundles to a final node](/help/creative/experiences/experience-assign-creative-bundles.md)
-* Experiences with decision tree targeting: [Create](/help/creative/experiences/experience-create-targeting.md) and [edit](/help/creative/experiences/experience-edit-targeting.md) experiences, [assign and unassign creative bundles](/help/creative/experiences/experience-assign-creative-bundles.md), [customize creative optimization and scheduling](/help/creative/experiences/experience-optimization-scheduling-targeting.md), and [customize the tracking URLs for creatives](/help/creative/experiences/experience-tracking-urls-targeting.md)
+* [Gegevens downloaden in de weergave](experience-download-view.md)
 
-* Experiences without decision tree targeting: [Create](experience-create-no-targeting.md) and [edit](/help/creative/experiences/experience-edit-no-targeting.md)
+* [ creeer ](/help/creative/experiences/experience-create-targeting.md) en [ geef ](/help/creative/experiences/experience-edit-targeting.md) een ervaring met het richten uit
 
-* [Clone](experience-clone.md) an experience
+* [ creeer ](/help/creative/experiences/experience-create-no-targeting.md), [ geef ](/help/creative/experiences/experience-edit-no-targeting.md) uit, en [ creeer manueel een ad markering ](/help/creative/experiences/experience-tag-create-manually.md) voor een ervaring zonder zich het richten
 
-* [Preview](experience-preview.md) an experience
+* [ Kloon ](experience-clone.md) een ervaring
 
-* [Share a demo URL](experience-share-demo-url.md) for an experience
+* [ Voorproef ](experience-preview.md) een ervaring
 
-* [Export ad tags for an experience](experience-tag-export.md)
+* [ Deel een demo URL ](experience-share-demo-url.md) voor een ervaring
 
-* [Delete](experience-delete.md) an experience
+* [ de uitvoer ad markeringen voor een ervaring ](experience-tag-export.md), met inbegrip van naar keuze het uploaden van ad markeringen rechtstreeks aan een campagne van Advertising DSP
 
--->
-
-<!-- You can add or remove labels for your experiences.-->
-
-<!-- Add links to workflows once they're done -->
+* [ Schrap ](experience-delete.md) een ervaring
 
 >[!MORELIKETHIS]
 >
