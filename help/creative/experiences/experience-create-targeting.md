@@ -3,9 +3,9 @@ title: Maak een ervaring met doelstructuurbeslissingen
 description: Leer hoe u een doelgerichte advertentie-ervaring kunt maken met behulp van een beslissingsstructuur.
 feature: Creative Experiences
 exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
-source-git-commit: a631ac2db1f4807a3a55b41d79acfe64c04496c3
+source-git-commit: 6c75d21daba9a07f17d4f339a0edf4d0bdc06019
 workflow-type: tm+mt
-source-wordcount: '454'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -13,6 +13,12 @@ ht-degree: 0%
 # Maak een ervaring met doelstructuurbeslissingen
 
 *Gesloten bèta*
+
+Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructuur. Elke ervaring gebruikt advertenties uit één creatieve bibliotheek.
+
+>[!NOTE]
+>
+> Als u een gerichte ervaring hebt gemaakt, kunt u deze later niet wijzigen in een niet-doelgerichte ervaring, die een andere workflow gebruikt.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 

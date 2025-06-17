@@ -2,9 +2,10 @@
 title: Ervaring maken zonder doelstructuurcode
 description: Leer hoe u een advertentie-ervaring kunt maken zonder u hiervoor te hoeven inzetten.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 327b1df5-5663-4513-9238-f481370c8c38
+source-git-commit: a738fed8aea38be2ca0adad08d084a383350d892
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '183'
 ht-degree: 1%
 
 ---
@@ -12,6 +13,12 @@ ht-degree: 1%
 # Ervaring maken zonder doelstructuurcode
 
 *Gesloten bèta*
+
+Maak een advertentie-ervaring zonder doelgericht te werken. Elke ervaring kan advertenties uit één creatieve bibliotheek gebruiken.
+
+>[!NOTE]
+>
+> Als u een niet-doelgerichte ervaring hebt gemaakt, kunt u deze later niet wijzigen in een doelgerichte ervaring, die een andere workflow gebruikt.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
@@ -25,7 +32,11 @@ ht-degree: 1%
 
    * [ creeer manueel een advertentietag voor een toepasselijke creatieve grootte ](experience-tag-create-manually.md).
 
+     [!DNL Creative] maakt niet automatisch advertentietags voor niet-doelgerichte ervaringen.
+
    * [ wijst creatieve elementen aan een advertentietag ](experience-tag-assign-creatives.md) toe.
+
+     Wijs creatieve elementen toe aan de advertentietag, niet binnen de ervaringsinstellingen.
 
    * [De URL&#39;s voor bijhouden aanpassen](experience-tracking-urls-no-targeting.md)
 

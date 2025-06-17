@@ -3,7 +3,7 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
-source-git-commit: f6da629fdb81af4393bac9a81050111aded3ee3a
+source-git-commit: 006b0c61c28f5fac111ccdcc007e1752e05da63f
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 *Ervaringen met bestaande slechts creatieve*
 *Gesloten bèta*
 
-Standaard wordt de creatieve rotatie voor een advertentie-ervaringstag op algoritmische wijze bepaald om de algemene doorklikfrequentie te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen creatieve creatieven. U kunt de creatieve rotatie aanpassen om de creatieve creatieven handmatig op basis van relatieve gewichten uit te voeren of u kunt de creatieve rotatie op algoritmische wijze optimaliseren voor een opgegeven aangepaste Advertising DSP-doelstelling. <!-- verify --> U kunt ook specifieke creatieve projecten plannen die tijdens opgegeven opeenvolgende tijdsperioden worden uitgevoerd en aangepaste instellingen voor creatieve rotatie toepassen voor elk programma.
+Standaard wordt de creatieve rotatie voor een advertentie-ervaringstag op algoritmische wijze bepaald om de algemene doorklikfrequentie te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen creatieve creatieven. U kunt de creatieve rotatie aanpassen om de creatieve creatieven handmatig op basis van relatieve gewichten uit te voeren of u kunt de creatieve rotatie op algoritmische wijze optimaliseren voor een opgegeven aangepaste Advertising DSP-doelstelling. U kunt ook specifieke creatieve projecten plannen die tijdens opgegeven opeenvolgende tijdsperioden worden uitgevoerd en aangepaste instellingen voor creatieve rotatie toepassen voor elk programma.
 
 ## Creatieve optimalisatie configureren zonder planning
 
@@ -45,7 +45,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
 ## Creatieve optimalisatie configureren met creatieve planning
 
-U kunt desgewenst specifieke creatieve instellingen plannen die worden gebruikt voor een advertentietolk en die worden uitgevoerd tijdens opgegeven opeenvolgende tijdsperioden tussen de begin- en einddatum van de ervaring, en aangepaste creatieve rotatie-instellingen toepassen voor elk programma. U kunt bijvoorbeeld plannen dat Creative 1 tijdens de eerste twee weken wordt uitgevoerd om de doorklikfrequentie te optimaliseren en Creative 2 gedurende de volgende twee weken om te optimaliseren voor een bepaald doel.
+U kunt desgewenst specifieke creatieve instellingen plannen die worden gebruikt voor een advertentietolk en die worden uitgevoerd tijdens opgegeven opeenvolgende tijdsperioden tussen de begin- en einddatum van de ervaring, en aangepaste creatieve rotatie-instellingen toepassen voor elk programma. U kunt bijvoorbeeld plannen dat Creative 1 gedurende de eerste twee weken wordt uitgevoerd om de doorklikfrequentie te optimaliseren en Creative 2 gedurende de volgende twee weken om te optimaliseren voor een bepaald aangepast doel.
 
 Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de ervaring plannen.
 

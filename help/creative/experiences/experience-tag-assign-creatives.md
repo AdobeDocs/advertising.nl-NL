@@ -2,9 +2,10 @@
 title: Creatieve personen toewijzen aan een advertentietag voor ervaringen zonder zich te richten op
 description: Leer hoe u creatieve artikelen kunt toewijzen aan een advertentietag voor een bepaalde creatieve grootte.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 864f10ef-75ca-4081-93d9-8540476b17f0
+source-git-commit: 3027235ca7c8db278880a710cb8048216d0a599a
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -14,7 +15,7 @@ ht-degree: 0%
 *Ervaringen zonder beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-U kunt creatieve ontwerpen toewijzen aan een advertentietag die voor een ervaring wordt gebruikt. Voor de standaard en ervaring kunt u alleen standaardcreatieven toewijzen. Voor dynamische ad ervaringen, kunt u slechts dynamische creatieve personen toewijzen.<!-- Clarify what this does. It adds the image to the experience, but how does optimization work with multiple ad tags? -->
+U kunt creatieve ontwerpen toewijzen aan een advertentietag die voor een ervaring wordt gebruikt. U kunt creatieve elementen uit de creatieve bibliotheek gebruiken die zijn opgegeven in de ervaringsinstellingen. Voor de standaard en ervaring kunt u alleen standaardcreatieven toewijzen. Voor dynamische ad ervaringen, kunt u slechts dynamische creatieve personen toewijzen.<!-- Clarify what this does. It adds the image to the experience, but how does optimization work with multiple ad tags? -->
 
 U kunt later [ volgen URLs ](experience-tracking-urls-no-targeting.md) en [ aanpassen creatieve optimalisering en het plannen ](experience-optimization-scheduling-no-targeting.md) voor de creatieve die creatieve die creatieve die creatieve die agenten voor de advertentietag worden gebruikt.
 
