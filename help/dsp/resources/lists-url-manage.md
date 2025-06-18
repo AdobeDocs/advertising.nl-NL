@@ -167,7 +167,7 @@ U kunt lijsten met website- en toepassings-URL&#39;s voor plaatsingsdoeleinden m
 
 1. Klik op de lijstnaam.
 
-1. Klik ](/help/dsp/assets/export.png " Uitvoer van de Uitvoer van 0} ") **[!UICONTROL Export]**.![
+1. Klik ![&#128279;](/help/dsp/assets/export.png " Uitvoer van de Uitvoer van 0&rbrace; ") **[!UICONTROL Export]**.
 
    Het bestand wordt gedownload in de XLSX-indeling ( [!DNL Microsoft Excel] spreadsheet) volgens de normale procedure van uw browser.
 
