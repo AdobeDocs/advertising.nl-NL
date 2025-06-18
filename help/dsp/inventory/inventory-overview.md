@@ -1,40 +1,47 @@
 ---
-title: Overzicht van inventariskenmerken in DSP
+title: Overzicht van voorraadfuncties in Advertising DSP
 description: Meer informatie over de beschikbare voorraadfuncties.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: e55b9276-0d13-436e-9c09-968de963d551
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: c813954c0489d5cae067b3ea43d3527fc80c261a
 workflow-type: tm+mt
-source-wordcount: '247'
+source-wordcount: '245'
 ht-degree: 0%
 
 ---
 
-# Overzicht van inventariskenmerken in DSP
+# Overzicht van voorraadfuncties in Advertising DSP
 
-DSP kunnen uw inventarisbehoeften ondersteunen, of u nu schaalbaar wilt zoeken met een openbare voorraad, en op zoek bent naar schaalvoordelen voor uitgevers met een hogere kwaliteit met [!DNL On Demand]of stel een 1:1-deal met een uitgever in voor een privémarktplaats (PMP) die moet worden geactiveerd tegen specifieke doelgroepen of sites. Uw campagnedoelstellingen helpen dicteren welk type van inventaris het beste aan de prestatiesbehoeften van uw campagne aanpast. Dankzij de integratie met SSP&#39;s (Top Supply Side Platforms) kunnen uw PMP&#39;s naadloos worden ingesteld en geactiveerd.
+DSP biedt ondersteuning voor uw inventarisbehoeften, of u nu schaalbaar wilt zoeken met een openbare voorraad, schaalbaarheid wilt vinden bij uitgevers met een grote uitgave met [!DNL On Demand] of een 1:1-oplossing voor een particuliere markt (PMP) wilt instellen die door een uitgever kan worden geactiveerd tegen een bepaald publiek of bepaalde sites. Uw campagnedoelstellingen helpen dicteren welk type van inventaris het beste aan de prestatiesbehoeften van uw campagne aanpast. Dankzij de integratie met SSP&#39;s (Top Supply Side Platforms) kunnen uw PMP&#39;s naadloos worden ingesteld en geactiveerd.
 
-Zodra u toegang hebt tot uw inventarisdeals of deze hebt geïdentificeerd in DSP, kunt u deze gebruiken als plaatsingsdoelen voor uw campagnes.
+Zodra u toegang hebt tot of uw inventarisaanbiedingen hebt geïdentificeerd in DSP, kunt u deze gebruiken als plaatsingsdoelen voor uw campagnes.
 
 Tot de beschikbare voorraadtypen behoren:
 
-* **[!DNL On Demand]Inventaris:** Ontdek vooraf onderhandelde, niet-gegarandeerde deals die Adobe met eersteklas uitgeverspartners heeft gekweekt.
+* **[!DNL On Demand]Overzicht:** Ontdek vooraf onderhandelde, niet-gegarandeerde deals die Adobe heeft gekend met eersteklas uitgeverspartners.
 
-* **Privévoorraad [!DNL Deal IDs]:** Stel PMP&#39;s (Private Marketplace Trajecten) in en beheer deze die u rechtstreeks met de uitgever hebt onderhandeld.
+* **Privé Inventaris [!DNL Deal IDs]:** Opstelling en beheert privé marktplaatsovereenkomsten (PMPs) die u direct 1:1 met de uitgever hebt onderhandeld.
 
 * **[!DNL Simple Ad Serving]:** Gebruik gestroomlijnde technologie voor gewaarborgde, niet-beslist en levering en rapportering wanneer uw uitgever uw overeenkomst niet via overeenkomst IDs kan uitvoeren.
 
-## De mening van Overeenkomsten
+## De meningen van Overeenkomsten
 
-U kunt al uw bestaande deals weergeven in de [!UICONTROL Inventory] > [!UICONTROL Deals] weergeven. U kunt verder aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
+* **[!UICONTROL Inventory]> [!UICONTROL Deals]:**
 
-U kunt ook instellingen voor persoonlijke deals maken en beheren [!DNL Simple Ad Serving] van de [!UICONTROL Deals] weergeven. Om te bekijken en te leiden [!DNL On Demand] voorraad, ga naar [!UICONTROL Inventory] > [!UICONTROL On Demand].
+   * Bekijk al uw bestaande deals.
+
+   * Pas verder aan hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens te bekijken als grafieken.
+
+   * Creeer en beheer privé overeenkomstenmontages en [!DNL Simple Ad Serving] overeenkomsten.
+
+* **[!UICONTROL Inventory]> [!UICONTROL Deals] :** Overzicht weergeven en beheren [!DNL On Demand] .
+
+* **[!UICONTROL Inventory]> [!UICONTROL Deal Lists]:** groepeer uw privé overeenkomsten in lijsten voor gemakkelijkere plaatsing richtend.
 
 >[!MORELIKETHIS]
 >
->* [Info voorraad op aanvraag](on-demand-inventory-about.md)
->* [Ongeveer identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-about.md)
->* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
->* [SSP-partners](ssp-partners.md)
->* [Informatie over privé-voorraad](private-inventory-about.md)
-
+>* [ Ongeveer Voorraad Op bestelling ](on-demand-inventory-about.md)
+>* [ Ongeveer identiteitskaart Inbox van de Overeenkomst ](deal-id-inbox-about.md)
+>* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ SSP Partners ](ssp-partners.md)
+>* [ Ongeveer Privé Inventaris ](private-inventory-about.md)

@@ -3,7 +3,7 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: 15ce5490ae12fd0c50e4a178f8cb642078c4e847
+source-git-commit: e07713ed7b3b700560577f8020066540e34d8952
 workflow-type: tm+mt
 source-wordcount: '2228'
 ht-degree: 0%
@@ -11,6 +11,12 @@ ht-degree: 0%
 ---
 
 # Beschikbare rapportkolommen
+
+<!-- Add when added:
+
+|[!UICONTROL Dimension]|[!UICONTROL Feed]|[!UICONTROL Deal List]|The name of a user-created deal list for which an ad was shown.|
+
+-->
 
 | Metrisch type | Subtype | Kolomnaam | Beschrijving |
 |-----------|-------|-----------|-----------|
@@ -92,7 +98,7 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Key] | De unieke sleutel die aan een segment is gekoppeld. |
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Name] | De naam van een segment. |
 | [!UICONTROL Dimension] | [!UICONTROL Segment] | [!UICONTROL Segment Membership Provider Name] | De naam van de gegevensleverancier verbonden aan een segment. |
-| [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site ID] | De unieke id voor de site of de app in DSP. |
+| [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site ID] | De unieke id voor de site of app in DSP. |
 | [!UICONTROL Dimension] | [!UICONTROL Site] | [!UICONTROL Site Name] | De naam van de site. |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video Duration] | De videolengte, die na het uploaden wordt verwerkt. |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video ID] | De unieke id voor de creatieve video in DSP. |
@@ -103,9 +109,9 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Unique] | De [!UICONTROL Total Spend] gedeeld door [!UICONTROL App/Site Uniques]. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated % Reached] | Het geschatte percentage van het beoogde universum van het huishouden dat een blootstelling heeft gekregen. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | Het gemiddelde aantal indrukken dat wordt getoond aan uniques. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) De geschatte indrukkingen voor een bepaalde frequentiesbrainstormsessie. DSP schattingen zijn gebaseerd op een steekproef van indrukken. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) Het aantal unieke browsers of apparaten dat voor een bepaalde frequentie is opgenomen. DSP schattingen zijn gebaseerd op een steekproef van indrukken. Voor wat inventaris, ga niet langs een apparatenherkenningsteken over, en die beelden zijn niet inbegrepen in deze waarde. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | De som van de unieke huishoudens die DSP (veilingen) hebben gezien binnen het datumbereik. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) De geschatte indrukkingen voor een bepaalde frequentiesbrainstormsessie. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) Het aantal unieke browsers of apparaten dat voor een bepaalde frequentie is opgenomen. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor wat inventaris, ga niet langs een apparatenherkenningsteken over, en die beelden zijn niet inbegrepen in deze waarde. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
+| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | De som van unieke huishoudens die DSP (veilingen) heeft gezien binnen de datumrange. |
 | [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Extended Impressions] | Het totale aantal indrukkingen dat wordt gebruikt als gevolg van het gebruik van een apparaatgrafiek voor op personen gebaseerde, apparaatoverschrijdende doelframes. |
 | [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Frequency] | De frequentie van de indrukkingen per huishouden. |
 | [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Frequency Overlap] | De frequentie waarmee huishoudens alleen de gerapporteerde dimensie bereiken, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de frequentie zien die wordt bereikt door afzonderlijke plaatsingen, de frequenties die worden bereikt door een combinatie van twee willekeurige plaatsingen en de frequenties die worden bereikt door combinaties van drie willekeurige plaatsingen. |
@@ -137,20 +143,20 @@ ht-degree: 0%
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPCV] | De gemiddelde nettokosten per voltooide videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPM] | De gemiddelde nettokosten per 1000 beelden, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | De gemiddelde nettokosten per videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van de totale biedingen op de maximale CPM. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal verschillende gebruikers waarvoor DSP een bod uitbrengt voor de plaatsing. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | De totale nettokosten van de door DSP in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | De totale nettokosten van factureerbare media, inclusief de technische kosten, die via DSP worden gefactureerd. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | De totale kosten van andere de dienstkosten (derdecontrolepartners, het dienen, etc.) door DSP worden gefactureerd. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van het totale aantal biedingen dat is uitgebracht op de Max CPM. |
+| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal afzonderlijke gebruikers waarvoor DSP heeft geboden op de plaatsing. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Net Spend] | De totale nettokosten van de via DSP in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Net Spend] | De totale nettokosten van factureerbare media, inclusief de technische kosten, die via DSP in rekening worden gebracht. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Net Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die via DSP in rekening worden gebracht. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Data] | De geschatte belasting op doelgroepen van derden en gegevensdiensten. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | De geschatte belasting op media, inclusief belasting, die wordt toegepast op mediakostenfacturering en technische-vergoedingsdiensten in DSP. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | De geschatte belasting op andere de dienstkosten (met inbegrip van derdecontrolepartners, onderwerp het richten, etc.) die door DSP worden gefactureerd. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | De geschatte belasting op media, inclusief belasting, die wordt toegepast op mediakostenfacturering en services voor technische vergoedingen in DSP. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | De geschatte belasting op andere servicekosten (inclusief controlepartners van derden, onderwerpgerichtheid, enzovoort) die via DSP in rekening wordt gebracht. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Margin %] | (Wanneer margebeheer is geactiveerd) Het margepercentage, dat wordt berekend door <code> ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]</code>. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Media Cost] | De som van de niet-factureerbare en factureerbare mediakosten zonder technische kosten. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Net vCPM] | De gemiddelde nettokosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Net Spend] | De totale nettokosten van de kosten van de gegevens van het publiekssegment die niet via DSP in rekening worden gebracht. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Net Spend] | De totale nettokosten van de kosten voor de gegevens van het publiekssegment die niet via DSP in rekening worden gebracht. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Fees] | De totale nettokosten van niet-factureerbare media, inclusief de technische kosten, die niet via DSP worden gefactureerd. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | De totale kosten van andere de dienstkosten (derdecontrolepartners, het dienen, etc.) niet door DSP worden gefactureerd. |
+| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die niet via DSP in rekening worden gebracht. |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Net Spend] | De som van [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)] en [!UICONTROL Billable Spend (Other)] . |
 | [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data eCPM] | De gemiddelde nettogegevenskosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>. |

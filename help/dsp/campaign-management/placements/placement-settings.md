@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: fd3805096f97ba572afb4a5573ae0e2f5ec17a6f
+source-git-commit: 1478e61ebd7dac59cac7566b86e5b1ea97838508
 workflow-type: tm+mt
-source-wordcount: '4255'
+source-wordcount: '4477'
 ht-degree: 0%
 
 ---
@@ -177,9 +177,9 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 
   U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst weergeeft op basis van feed, kunt u zoeken op naam van de feed, op basis van de feed of op basis van een geselecteerde kenmerkende tag.
 
-* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande persoonlijke deals (of bestaande persoonlijke [!DNL Roku] deals voor [!DNL Roku] plaatsingen) met uitgevers die u hebt ingesteld in DSP. U kunt een openbare voorraad opnemen, maar niet uitsluiten.
+* [!UICONTROL Private] | [!UICONTROL Roku Private]: Uw bestaande privé overeenkomsten (of bestaande privé [!DNL Roku] overeenkomsten voor [!DNL Roku] plaatsen) met uitgevers die u opstelling in DSP hebt, en uw bestaande [ privé overeenkomstenlijsten ](/help/dsp/inventory/lists-deals-manage.md). U kunt een openbare voorraad opnemen, maar niet uitsluiten.
 
-  U kunt de lijst zoeken op trefwoord, sleutel, deal-id of aangepaste tag.
+  Vanuit het tabblad [!UICONTROL Deals] kunt u de lijst doorzoeken op trefwoord, sleutel, deal-id of aangepaste tag. Van het [!UICONTROL Deal Lists] lusje, kunt u de lijst door naam van de overeenkomstenlijst of identiteitskaart van de overeenkomstenlijst zoeken.
 
    * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optioneel) Hiermee wordt het algoritme voor de biedprijs genegeerd om ten minste de vaste en laagste prijzen voor transacties te bieden.
 
@@ -199,12 +199,15 @@ Opgeven welke inventarisdoelen worden gebruikt:
       1. ([!UICONTROL Public] en [!UICONTROL On Demand] voorraad) Klik op **[!UICONTROL View by Source]** of **[!UICONTROL View by Feed]** om te wijzigen hoe de bronnen worden weergegeven.
       1. (Indien van toepassing) Filter de voorraad naar wens.
       1. Geef de bronnen op die u wilt opnemen en uitsluiten:
-         * Als u een [!UICONTROL Public] of [!UICONTROL On Demand] bron wilt opnemen, klikt u op **[!UICONTROL Include]** naast de bronnaam.
-         * [!UICONTROL Private] -bronnen opnemen:
-            * Om al inventaris in een overeenkomst te omvatten, klik **[!UICONTROL Include all]** naast de overeenkomstennaam.
-            * Om een individuele inventarisbron te omvatten, breid de overeenkomstennaam uit, en klik dan het controlevakje naast de bronnaam.
-         * Als u een [!UICONTROL Public] of [!UICONTROL On source] wilt uitsluiten, klikt u op **[!UICONTROL Exclude]** naast de bronnaam.
-   1. (Optioneel) Als u een CSV-bestand met de doelgegevens naar de downloadlocatie van uw browser wilt downloaden, klikt u op **[!UICONTROL Save & Export]** .
+         * Voor [!UICONTROL Public] of [!UICONTROL On Demand] voorraad:
+            * Als u een bron wilt opnemen, klikt u op **[!UICONTROL Include]** naast de naam van de bron.
+            * Als u een bron wilt uitsluiten, klikt u op **[!UICONTROL Exclude]** naast de naam van de bron.
+         * Voor [!UICONTROL Private] voorraad:
+            * Op het tabblad [!UICONTROL Deals] :
+               * Om al inventaris in een overeenkomst te omvatten, klik **[!UICONTROL Include all]** naast de overeenkomstennaam.
+               * Om een individuele inventarisbron te omvatten, breid de overeenkomstennaam uit, en klik dan het controlevakje naast de bronnaam.
+            * Voor het [!UICONTROL Deal Lists] lusje, klik de controledoos naast de naam van de overeenkomstenlijst.
+   1. (Optioneel) Als u een CSV-bestand met de doelgegevens naar de downloadlocatie van uw browser wilt downloaden, klikt u op **[!UICONTROL Export]** .
    1. Klik op **[!UICONTROL Save]**.
 
 >[!TIP]
@@ -256,30 +259,34 @@ Opgeven welke inventarisdoelen worden gebruikt:
 1. (Optioneel) Als u een CSV-bestand met de doelgegevens naar de downloadlocatie van uw browser wilt downloaden, klikt u op **[!UICONTROL Export]** .
 1. Klik op **[!UICONTROL Save]**.
 
-**[!UICONTROL Exclude Sites or Apps]:** (Optioneel; beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]* is) Sites die moeten worden uitgesloten. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
+**[!UICONTROL Exclude Sites or Apps]:** (Facultatief; beschikbaar wanneer **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL Off]*) Sites/apps en [ URL lijsten ](/help/dsp/resources/lists-url-manage.md) is om uit te sluiten. Via het tabblad [!UICONTROL Paste URL] kunt u naar sites zoeken en deze selecteren, of domeinnamen invoeren of plakken. Via het tabblad [!UICONTROL URL Lists] kunt u URL-lijsten selecteren.
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de sites op:
-   * Ga als volgt te werk om een site te zoeken:
-      1. Klik op **[!UICONTROL Search]**.
-      1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
-      1. Selecteer in de zoekresultaten de sites die u wilt uitsluiten:
-         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje ernaast in.
-         * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Exclude these 50]** om de eerste 50 resultaten uit te sluiten. Om alle onderzoeksresultaten uit te sluiten, klik **[!UICONTROL Exclude these \<*NN *\>]**.
-   * Domeinnamen invoeren:
-      1. Klik op **[!UICONTROL Paste]**.
-      1. Voer een of meer domeinnamen op afzonderlijke regels in.
-      1. Klik op **[!UICONTROL Exclude All]**.
+   * Op het tabblad [!UICONTROL Paste URL] :
+      * Ga als volgt te werk om een site te zoeken:
+         1. Klik op **[!UICONTROL Search]**.
+         1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
+         1. Selecteer in de zoekresultaten de sites die u wilt uitsluiten:
+            * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje ernaast in.
+            * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Exclude these 50]** om de eerste 50 resultaten uit te sluiten. Om alle onderzoeksresultaten uit te sluiten, klik **[!UICONTROL Exclude these \<*NN *\>]**.
+      * Domeinnamen invoeren:
+         1. Klik op **[!UICONTROL Paste]**.
+         1. Voer een of meer domeinnamen op afzonderlijke regels in.
+         1. Klik op **[!UICONTROL Exclude All]**.
+   * Op het tabblad [!UICONTROL URL Lists] :
+      1. (Optioneel) Zoek naar een URL-lijst door de naam van de lijst geheel of gedeeltelijk in te voeren in het zoekveld.
+      1. Schakel het selectievakje naast elke URL-lijst in die u wilt uitsluiten.
 1. Klik op **[!UICONTROL Done]** wanneer u klaar bent.
 
 >[!NOTE]
 >
 >* De rekening-niveau en adverteerder-vlakke geblokkeerde plaatslijsten worden ook toegepast, naast de DSP [ globaal geblokkeerde plaatsenlijst ](/help/dsp/introduction/features/brand-safety-media-quality.md), die plaatsen omvat die onveilig voor advertenties worden geacht.
->* Geblokkeerde sitelijsten overschrijven altijd de doelsitelijsten. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
+>* Geblokkeerde sitelijsten overschrijven altijd de doelsites en sitelijsten. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
 **[!UICONTROL Language]:** (Facultatief) één enkele taal aan doel.
 
-**[!UICONTROL Site or App List Preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites voor de plaatsing.
+**[!UICONTROL Site or app list preview]:** (Alleen-lezen) Alle beoogde en geblokkeerde sites/apps voor de plaatsing, inclusief sites/apps op accountniveau, lijsten met geblokkeerde websites op adverteerderniveau en lijsten met geblokkeerde websites van DSP.
 
 U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een CSV-bestand (comma-separated values, door komma&#39;s gescheiden waarden). Als u de lijst wilt exporteren, klikt u op **[!UICONTROL Export full site list]** en opent of slaat u het bestand op volgens de normale procedure van uw browser.
 
@@ -287,21 +294,30 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 
 **[!UICONTROL Paste list of targeted sites]:** staat u toe om specifieke plaatsen slechts te richten. Wanneer u deze optie inschakelt, worden de andere opties voor het instellen van doelen voor de site uitgeschakeld.
 
-**[!UICONTROL Sites]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL On]* is) De plaatsen aan doel. U kunt zoeken naar sites en deze selecteren, of u kunt domeinnamen invoeren of plakken:
+**[!UICONTROL Sites or Apps]:** (Beschikbaar als **[!UICONTROL Paste list of targeted sites]** *[!UICONTROL On]* is) De plaatsen aan doel. Via het tabblad [!UICONTROL Paste URL] kunt u naar sites zoeken en deze selecteren, of domeinnamen invoeren of plakken. Via het tabblad [!UICONTROL URL Lists] kunt u URL-lijsten selecteren.
 
 1. Klik ![ uitgeven ](/help/dsp/assets/edit.png).
 1. Geef de sites op:
-   * Ga als volgt te werk om een site te zoeken:
-      1. Klik op **[!UICONTROL Search]**.
-      1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
-      1. Selecteer in de zoekresultaten de sites die u wilt opnemen:
-         * Als u een afzonderlijke site wilt uitsluiten, schakelt u het selectievakje ernaast in.
-         * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Include these 50]** om de eerste 50 resultaten op te nemen. Om alle onderzoeksresultaten te omvatten, klik **[!UICONTROL Include these \<*NN *\>]**.
-   * Domeinnamen invoeren:
-      1. Klik op **[!UICONTROL Paste]** .
-      1. Voer een of meer domeinnamen op afzonderlijke regels in.
-      1. Klik op **[!UICONTROL Include All]**.
-1. Klik op **[!UICONTROL Done]**.
+   * Op het tabblad [!UICONTROL Paste URL] :
+      * Ga als volgt te werk om een site te zoeken:
+         1. Klik op **[!UICONTROL Search]**.
+         1. Voer een trefwoord in, selecteer een sitelaag en/of selecteer een sitecategorie.
+         1. Selecteer in de zoekresultaten de sites die u wilt opnemen:
+            * Als u een afzonderlijke site wilt opnemen, schakelt u het selectievakje ernaast in.
+            * (Als er meer dan 50 resultaten beschikbaar zijn) Klik op **[!UICONTROL Include these 50]** om de eerste 50 resultaten op te nemen. Om alle onderzoeksresultaten te omvatten, klik **[!UICONTROL Include these \<*NN *\>]**.
+      * Domeinnamen invoeren:
+         1. Klik op **[!UICONTROL Paste]**.
+         1. Voer een of meer domeinnamen op afzonderlijke regels in.
+         1. Klik op **[!UICONTROL Include All]**.
+   * Op het tabblad [!UICONTROL URL Lists] :
+      1. (Optioneel) Zoek naar een URL-lijst door de naam van de lijst geheel of gedeeltelijk in te voeren in het zoekveld.
+      1. Schakel het selectievakje naast elke URL-lijst in die u wilt opnemen.
+1. Klik op **[!UICONTROL Done]** wanneer u klaar bent.
+
+>[!NOTE]
+>
+>* De rekening-niveau en adverteerder-vlakke geblokkeerde plaatslijsten worden ook toegepast, naast de DSP [ globaal geblokkeerde plaatsenlijst ](/help/dsp/introduction/features/brand-safety-media-quality.md), die plaatsen omvat die onveilig voor advertenties worden geacht.
+>* Geblokkeerde sitelijsten overschrijven altijd de doelsites en sitelijsten. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.U kunt of naar plaatsen zoeken en selecteren, of domeinnamen ingaan of kleven:
 
 ## [!UICONTROL Audience Targeting]
 

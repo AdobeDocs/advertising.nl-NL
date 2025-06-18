@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: c5a4837f1a8439b3fc2565ae78fdf00d6cdb8b75
+source-git-commit: 2e69bc68ca4553d6e908b766cb236c1b582bc1a2
 workflow-type: tm+mt
-source-wordcount: '942'
+source-wordcount: '949'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,8 @@ ht-degree: 3%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -83,7 +83,7 @@ ht-degree: 3%
       + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [ Advertenties aan Plaatsingen  vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html?lang=nl-NL) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [ Advertenties aan Plaatsingen ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) vastmaken <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -197,6 +197,7 @@ ht-degree: 3%
       + [[!UICONTROL Simple Ad Serving] Dealinstellingen bewerken](/help/dsp/inventory/simple-deal-edit.md)
       + [[!UICONTROL Simple Ad Serving] Deal Settings](/help/dsp/inventory/simple-deal-settings.md)
    + [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](/help/dsp/inventory/deal-view-report.md)
+   + [De Lijsten van de Overeenkomst beheren](/help/dsp/inventory/lists-deals-manage.md)
 + Aangepaste rapporten {#custom-reports}
    + [Aangepaste rapporten](/help/dsp/reports/report-about.md)
    + [Een aangepast rapport maken](/help/dsp/reports/report-create.md)
@@ -223,6 +224,8 @@ ht-degree: 3%
    + [Een voorspelling exporteren voor een aangesloten tv-bereikplan](/help/dsp/planner/planner-export.md)
    + [De voorspelling voor een aangesloten tv-bereikplan opnieuw genereren](/help/dsp/planner/planner-forecast.md)
    + [Een aangesloten tv-bereikabonnement archiveren](/help/dsp/planner/planner-archive.md)
++ Bronnen {#resources}
+   + [URL-lijsten beheren](/help/dsp/resources/lists-url-manage.md)
 + Administratie {#admin}
    + [Uw profiel bewerken](/help/dsp/admin/user-own-profile-edit.md)
    + Gebruikers {#users}
@@ -235,6 +238,6 @@ ht-degree: 3%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Help opvragen](/help/dsp/get-help.md)
-+ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL)
++ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
