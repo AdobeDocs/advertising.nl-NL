@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 677596e41944de7782c520496f6751f03bf5d9a2
+source-git-commit: 86bd3384a44cc526428dd8ea5e97fdd684331086
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1103'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Uw bibliotheken kunnen het volgende bevatten:
 
 * **Individuele creatieven:** u kunt individuele creatieve personen direct binnen en ervaringen omvatten die geen bepaalde gebruikersdoelstellingen hebben. U kunt uw creatieven ook gebruiken om bundels tot stand te brengen, die u in gerichte [ en ervaringen ](/help/creative/experiences/experience-about.md) kunt omvatten.
 
-   * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Voor elke creatieve bewerking geeft u de standaardtaal op voor elke advertentie waarmee u de creatieve, standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve en optionele labels bevat die als filters binnen verschillende weergaven binnen [!DNL Creative] moeten worden gebruikt.
+   * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Voor elke creatieve advertentie geeft u de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
 
    * **Dynamische creatieven:** (Bestaande klanten van Adobe Advertising DCO slechts) de gebruikers van de beheerder kunnen dynamisch geproduceerde creatieve producten tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
 
@@ -90,6 +90,8 @@ Zie &quot;[ uw gegevensmeningen ](/help/creative/introduction/customize-data-vie
 
 In de hoofdweergave van [!UICONTROL Creative Libraries] worden al uw creatieve bibliotheken weergegeven. De gegevens voor elke bibliotheek bevatten het aantal ervaringen waaraan de bibliotheekbundels zijn toegewezen, het aantal bundels, het aantal creatieve formaten, het aantal creatieve formaten, het aantal standaardtaaldoelen, de aanmaakdatum en de laatste wijzigingsdatum voor elk element van de bibliotheek. De tabelmodus bevat ook een kolom voor de adverteerder.
 
+In de kaartmodus kunt u met de knoppen &lt; en > door de afbeeldingen in een bibliotheek schuiven met meerdere creatieven.
+
 #### Beschikbare acties
 
 * Nieuwe bibliotheken maken
@@ -156,7 +158,7 @@ De mogelijkheid om dynamische creatieve documenten te maken en te bewerken is mo
 
 ### De weergave [!UICONTROL Creative Libraries] > [!UICONTROL Bundles]
 
-In de weergave [!UICONTROL Bundles] worden al uw standaard- en dynamische bundelcontainers weergegeven. U kunt de creatieve namen, creatieve grootten, en talen voor de creatieve creatieven zien inbegrepen in elke bundel.
+In de weergave [!UICONTROL Bundles] worden al uw standaard- en dynamische bundelcontainers weergegeven. U kunt de creatieve namen, creatieve grootten, en talen voor de creatieve creatieven zien inbegrepen in elke bundel. In de kaartmodus kunt u met de knoppen &lt; en > door de afbeeldingen bladeren in een bundel met meerdere creatieven.
 
 #### Beschikbare acties
 

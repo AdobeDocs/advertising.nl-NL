@@ -3,9 +3,9 @@ title: Voeg een sibling doelknoop tussen knopen in een ervaring toe
 description: Leer hoe te om een sibling knoop aan om het even welke knoop toe te voegen die een doel heeft of op het zelfde niveau zoals een knoop met een doel is.
 feature: Creative Experiences
 exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
-source-git-commit: 05bcaa63779856cfea2f9cd3a0ab5d5e9d3d472a
+source-git-commit: 8961833c854ed41e4cca69787a5dc70dce2f203c
 workflow-type: tm+mt
-source-wordcount: '597'
+source-wordcount: '645'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,16 @@ In an existing experience,
          Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren (een [!DNL Boolean] `AND` -instructie).
 
       1. Klik op **[!UICONTROL Apply]**.
+
+1. (Optioneel) Geef een aangepaste vertakkingsnaam op voor een door de gebruiker gedefinieerde vertakking.
+
+   Door gebrek, user-defined takken worden geëtiketteerd met de toegepaste doelstellingen.
+
+   U kunt geen aangepaste vertakkingsnaam maken voor een vertakking Alles of Iedereen anders.
+
+   1. Plaats de cursor op het doelknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Edit Name]** .
+
+   1. Voer de **[!UICONTROL Node Name]** in en klik op **[!UICONTROL Save]** .
 
 1. Voer een van de volgende handelingen uit:
 

@@ -3,9 +3,9 @@ title: Creative-instellingen
 description: Meer informatie over xxxx.
 feature: Creative Standard Creatives
 exl-id: 8eb66310-4860-4ca0-9678-a9e33639c529
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: b3ae58583020a907a41e72967b8c2a331c2d3257
 workflow-type: tm+mt
-source-wordcount: '1806'
+source-wordcount: '1812'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Wanneer u meerdere creatieve objecten tegelijk bewerkt:
 >When you include the creative in an experience, you can replace the default value for any of the click tags with a custom landing page URL to generate a derivation of the base creative.
 -->
 
-**Etiket:** (Facultatief) om het even welke etiketten om op alle geselecteerde creatieve producten van toepassing te zijn. U kunt creatieve elementen filteren op label in verschillende weergaven binnen [!DNL Creative] .
+**Etiket:** (Facultatief) om het even welke etiketten om op alle geselecteerde creatieve producten van toepassing te zijn. U kunt creatieve elementen filteren op label in verschillende weergaven binnen [!DNL Creative] en de [!UICONTROL Creative Label] -dimensie opnemen in de [!UICONTROL Custom Creative Report] .
 
 * Om bestaande etiketten te selecteren, klik ![ neer ](/help/creative/assets/chevron-down.png " "), en selecteer de controledoos naast elk etiket om toe te passen.
 
@@ -154,7 +154,7 @@ De bestaande advertentiesjabloon vervangen:
 
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen. Als u de creatieve functies in een ervaring opneemt, kunt u desgewenst de taalvoorkeuren aanpassen.
 
-**Creatieve Grootte:** (Read-only) de afmetingen van de geupload beelden.
+**Grootte Creative:** (Read-only) de afmetingen van de geuploade beelden.
 
 **het Bestaan van Pagina URL:** URL van de standaard het landen pagina voor elke advertentie waarmee u de creatieven associeert. De landingspagina-URL moet een geldige URL zijn die begint met http:// of https://. Het kan derde volgende parameters of [[!DNL Creative]  macro&#39;s ](/help/creative/creative-macros.md) voor uw eigen gebruik omvatten. Dezelfde waarde geldt voor alle geselecteerde afbeeldingen.
 
@@ -182,7 +182,7 @@ Wanneer u deze creatieve code opneemt in een ervaring die u als een advertentie 
 
 **Naam van Creative:** De naam van creatief. **Uiteinde:** gebruik een naam die u gemakkelijk kunt vinden wanneer u creatief in een ervaring omvat.
 
-**Creatieve Grootte:** (Read-only voor bestaande advertenties) de afmetingen van creatief. Voor nieuwe creatieve producten maakt u een keuze uit een lijst met standaardformaten.
+**Grootte Creative:** (Read-only voor bestaande advertenties) de afmetingen van creatief. Voor nieuwe creatieve producten maakt u een keuze uit een lijst met standaardformaten.
 u
 **Taal:** De standaardtaal voor elke advertentie waarmee u de creatieve personen associeert.
 

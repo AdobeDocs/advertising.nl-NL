@@ -3,9 +3,9 @@ title: Een doelknooppunt of creatief bladknooppunt verwijderen in een ervaring
 description: Leer hoe u een knooppunt uit een ervaring kunt verwijderen.
 feature: Creative Experiences
 exl-id: a8973c9e-bd0a-4f62-8668-520495b2525d
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: a98f5dc623e8ac86878171f8742f3bf279343343
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '207'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ U kunt een doelknooppunt verwijderen, inclusief alle onderliggende doelen en de 
 
 <!-- 1. [ways to get to the decision tree] -->
 
-1. Houd de cursor boven het doelknooppunt of het creatieve bladknooppunt wanneer u op **[!UICONTROL ...]** > **[!UICONTROL Delete]** klikt.
+1. Plaats de cursor op het doelknooppunt of het creatieve bladknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Delete]** .
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete Node]** .
 

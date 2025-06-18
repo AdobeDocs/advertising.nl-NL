@@ -3,9 +3,9 @@ title: Voeg een doelknooppunt toe aan het uiteindelijke niveau in een ervaring
 description: Leer hoe u een doelnode toevoegt aan het uiteindelijke doelniveau van een advertentie.
 feature: Creative Experiences
 exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
-source-git-commit: 05bcaa63779856cfea2f9cd3a0ab5d5e9d3d472a
+source-git-commit: 7e345130f43fc2d8c2ada287a2dc61b1515e2d25
 workflow-type: tm+mt
-source-wordcount: '671'
+source-wordcount: '719'
 ht-degree: 0%
 
 ---
@@ -66,6 +66,16 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
          Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven geografische doel. Als u de doelen niet splitst, moet de gebruiker tot alle opgegeven locaties behoren (een [!DNL Boolean] `AND` -instructie).
 
       1. Klik op **[!UICONTROL Apply]**.
+
+1. (Optioneel) Geef een aangepaste vertakkingsnaam op voor een door de gebruiker gedefinieerde vertakking.
+
+   Door gebrek, user-defined takken worden geëtiketteerd met de toegepaste doelstellingen.
+
+   U kunt geen aangepaste vertakkingsnaam maken voor een vertakking Alles of Iedereen anders.
+
+   1. Plaats de cursor op het doelknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Edit Name]** .
+
+   1. Voer de **[!UICONTROL Node Name]** in en klik op **[!UICONTROL Save]** .
 
 1. Voer een van de volgende handelingen uit:
 

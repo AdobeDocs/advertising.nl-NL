@@ -3,9 +3,9 @@ title: Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 description: Leer hoe u een doelknooppunt tussen doelknooppunten in een advertentie kunt toevoegen.
 feature: Creative Experiences
 exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
-source-git-commit: 05bcaa63779856cfea2f9cd3a0ab5d5e9d3d472a
+source-git-commit: 81cbb3cdac21f4b4899b0c07d1eb0686b7b3c7d4
 workflow-type: tm+mt
-source-wordcount: '801'
+source-wordcount: '849'
 ht-degree: 0%
 
 ---
@@ -86,6 +86,16 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
          1. Klik op **[!UICONTROL Apply]**.
+
+1. (Optioneel) Geef een aangepaste vertakkingsnaam op voor een door de gebruiker gedefinieerde vertakking.
+
+   Door gebrek, user-defined takken worden geëtiketteerd met de toegepaste doelstellingen.
+
+   U kunt geen aangepaste vertakkingsnaam maken voor een vertakking Alles of Iedereen anders.
+
+   1. Plaats de cursor op het doelknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Edit Name]** .
+
+   1. Voer de **[!UICONTROL Node Name]** in en klik op **[!UICONTROL Save]** .
 
 1. Voer een van de volgende handelingen uit:
 
