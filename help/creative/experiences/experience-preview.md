@@ -3,7 +3,7 @@ title: Een voorbeeld van een ervaring bekijken
 description: Leer hoe u een voorvertoning van de creatieve projecten kunt bekijken in een advertentie.
 feature: Creative Experiences
 exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
-source-git-commit: 278104fb09797e781894a6894a0a53db4a8e28f8
+source-git-commit: ae226015d1a8a3da4ea2a0db0db31858e750b9a7
 workflow-type: tm+mt
 source-wordcount: '556'
 ht-degree: 0%
@@ -104,7 +104,7 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
 1. (Optioneel) U kunt als volgt een demo-URL van de ervaring kopiëren en deze delen met anderen zonder zich aan te melden bij [!DNL Creative] :
 
-   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share2.png " ").
+   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share.png " ").
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
