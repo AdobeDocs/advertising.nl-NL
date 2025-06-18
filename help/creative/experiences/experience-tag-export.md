@@ -32,7 +32,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]**
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of ** [!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of **&#x200B; [!UICONTROL ... More] > &#x200B;** [!UICONTROL Export ad tags]**.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -44,7 +44,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
 1. Klik op **[!UICONTROL Next]** in de rechterbovenhoek of klik op **[!UICONTROL Generate ad tags]** in het linkermenu.
 
-1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* ** of ** *IFRAME* ** <!-- sic -->.
+1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* **&#x200B; of &#x200B;** *IFRAME* ** <!-- sic -->.
 
 1. Selecteer in de lijst [!UICONTROL Destinations] waar u advertenties wilt maken.
 
@@ -58,7 +58,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
 1. Kopieer of download de tags:
 
-   * Om een markering voor één enkele advertentiegrootte te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan ](/help/creative/assets/copy.png " Exemplaar ") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->![
+   * Om een markering voor één enkele advertentiegrootte te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan &rbrack;(/help/creative/assets/copy.png " Exemplaar ") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->!&lbrack;
 
    * Om alle geproduceerde markeringen als dossier aan de standaarddownloadplaats van uw browser te downloaden, klik ![ de markeringen van de Download ](/help/creative/assets/download.png " Codes van de Download ").
 
