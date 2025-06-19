@@ -2,9 +2,9 @@
 title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
-source-git-commit: 1ab83cfe82bde4a7b1a32cf3773cdce4738af497
+source-git-commit: 46f5665642e5e03dbf1c0a7d29032baab70943cb
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '484'
 ht-degree: 0%
 
 ---
@@ -15,38 +15,37 @@ ht-degree: 0%
 
 <!-- verify all and rewrite to include new stuff -->
 
-Als onderdeel van Adobe Advertising is Advertising Creative een zelfbedieningsplatform voor het automatiseren van realtime, gepersonaliseerde en ervaren advertenties en het optioneel optimaliseren van uw advertenties op het niveau van creatieve elementen.
+Als onderdeel van Adobe Advertising is Advertising Creative een zelfbedieningsplatform voor het automatiseren van realtime, gepersonaliseerde en ervaren advertenties en het optioneel optimaliseren van uw advertenties op het niveau van creatieve elementen.<!-- Verify --> U kunt de advertentie implementeren als advertenties in elke DSP, inclusief Adobe Advertising DSP.
 
 ## Aangepaste creatieve bibliotheken met herbruikbare creatieve producten
 
-Met je Creative-bibliotheken kun je de creatieve producten beheren die je in je advertentievaardigheden gebruikt. U kunt veelvoudige bibliotheken tot stand brengen, elk met individuele creatieve en creatieve groepen (genoemd *bundels*). U voegt creatieve bundels toe aan uw advertentiervaringen.
+Met je Creative-bibliotheken kun je de creatieve producten beheren die je in je advertentievaardigheden gebruikt. U kunt veelvoudige bibliotheken tot stand brengen, elk met individuele creatieve creatieve groepen (genoemd *bundels*, die u aan ervaringen zult vastmaken).
 
-## Op regels gebaseerde ervaringen
+### [!DNL Adobe] middelenintegratie
 
-Met [!DNL Creative], kunt u verhalen opbouwen gebruikend een op regels-gebaseerd besluitvormingsboommodel — ontvouwend een gechoreografeerde koord van advertenties die in echt - tijd gebaseerd op wat u over uw publiek kent worden aangepast, en die uw klanten volgen zelfs wanneer zij naar verschillende websites <!-- verify if that's true without Adobe CDP --> bewegen. Bijvoorbeeld, kunnen de verhalen veranderen gebaseerd op klantengedrag, geografie, demografie, het opnieuw richten, positie in de klantenreis, en meer.
+[!DNL Creative] is direct geïntegreerd met Adobe Experience Manager, zodat u de [!DNL Adobe] -afbeeldingselementen die door uw ontwerpteam worden gemaakt en goedgekeurd, eenvoudig kunt uploaden en deze vervolgens kunt gebruiken voor realtime opslag en bewerking van advertenties.
 
-<!-- Add when available:
+## Zowel op regels gebaseerde als niet-gerichte ervaringen
 
-## [!DNL Adobe] content and data integrations
+* **gerichte, op regels-gebaseerde ervaringen:** bouwt uit verhalen gebruikend een op regels-gebaseerd model van de besluitvormingsboom - ontvouwt een gechoreografeerde koord van advertenties die in real time worden aangepast gebaseerd op wat u over uw publiek kent. Bijvoorbeeld, kunnen de verhalen veranderen gebaseerd op klantengedrag, geografie, demografie, het opnieuw richten, positie in de klantenreis, en meer.
 
-[!DNL Creative] has direct integrations with Adobe Experience Manager, allowing you to easily upload the [!DNL Adobe] assets that your design team creates and use them for real-time storyboarding and editing of ad experiences.
+* **Niet-gerichte ervaringen:** Plan en optimaliseer advertentielementen zonder het publiek te verkleinen.
 
-You also can use your first-party audience segments from Adobe Audience Manager and Adobe Analytics &mdash; as well as audience segments you create in Advertising Cloud DSP
-or retargeting pixels you create using [!DNL Creative] &mdash; as targets for specific creatives in an ad experience.
--->
+### [!DNL Adobe] gegevensintegratie
+
+U kunt de doelsegmenten van uw eersteklas publiek uit Adobe Audience Manager en Adobe Analytics, evenals publiekssegmenten die u maakt in Advertising Cloud DSP, gebruiken en pixels die u maakt met [!DNL Creative] opnieuw toewijzen als doelen voor specifieke creatieve projecten in een advertentiervaring. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Tenuitvoerlegging van ervaringen als advertenties
 
-Zodra u een ervaring creeert, kunt u een JavaScript of iframe markering voor de ervaring produceren en de markering uitvoeren als derdesteun in Advertising DSP of een andere DSP.<!-- Add any more info about integration with DSP? -->
-
-<!-- Maybe add a subsection "Audience targeting options" with info about types of creative-level Retargeting and placement-level targeting within your DSP.  Need to clarify if any placement-level targeting might contradict/override creative-level targeting, or if they're completely different.
-
-Advertiser should be able to target all segments which are available in DSP for targeting
--->
+Zodra u een ervaring creeert, kunt u een JavaScript of iframe markering voor de ervaring produceren en de markering uitvoeren als derdestandaard vertoning en in een campagne van Advertising DSP of in een andere DSP.<!-- Will add video and other ad formats; not sure if they'll be available for both standard and dynamic ads. -->
 
 ### Optimalisatie van advertentie-elementen
 
 U kunt [!DNL Creative] desgewenst toestaan om de advertentie-elementen te optimaliseren voor elke ervaring op basis van prestaties — of u nu specifieke doelwitten voor het publiek definieert of niet — met behulp van geoptimaliseerde, gewogen en rotatie, die wordt aangedreven door Adobe Sensei.
+
+<!--
+[!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options 
+-->
 
 ## Pixels opnieuw rangschikken
 
@@ -67,7 +66,7 @@ to the DSP.
 
 U kunt gedetailleerde prestatierapporten op ervaringsniveau weergeven binnen Creative Cloud > Ervaring.
 
-U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u uw [!DNL Creative] -ervaringen als advertenties gebruikt in DSP-campagnes, zijn de prestatiegegevens voor die advertenties beschikbaar in aanvullende aangepaste rapporten, net als gegevens voor andere DSP-advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports, and if I can completely duplicate the report help for both help sets. -->
+U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u uw [!DNL Creative] -ervaringen als advertenties gebruikt in DSP-campagnes, zijn de prestatiegegevens voor die advertenties beschikbaar in aanvullende aangepaste rapporten, net als gegevens voor andere DSP-advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports. -->
 
 U kunt naar keuze uw douanerapporten aan gespecificeerde [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
 
