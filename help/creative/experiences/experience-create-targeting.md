@@ -3,9 +3,9 @@ title: Maak een ervaring met doelstructuurbeslissingen
 description: Leer hoe u een doelgerichte advertentie-ervaring kunt maken met behulp van een beslissingsstructuur.
 feature: Creative Experiences
 exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
-source-git-commit: 9807b2e78376eb3a078d680583c3b2f6fae7a1d1
+source-git-commit: 75d774a53521f1035c9f3a4f17b523ed1b68fec8
 workflow-type: tm+mt
-source-wordcount: '502'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,8 @@ Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructu
 
 >[!NOTE]
 >
-> Als u een gerichte ervaring hebt gemaakt, kunt u deze later niet wijzigen in een niet-doelgerichte ervaring, die een andere workflow gebruikt.
+>* Als u een gerichte ervaring hebt gemaakt, kunt u deze later niet wijzigen in een niet-doelgerichte ervaring, die een andere workflow gebruikt.
+>* Zorg ervoor dat in uw advertentiervaringen ook de doelversie is opgenomen die compatibel is met de campagnes waarin u de advertentie gaat implementeren. Het gedrag voor hiërarchische activering kan per DSP variëren. Wanneer u een advertentietag uploadt naar Advertising DSP en deze koppelt aan een plaatsing, wordt een advertentieniveau toegepast boven op (niet in plaats van) plaatsingsniveau. Bijvoorbeeld, als een plaatsing gebruikers in Australië richt en een advertentie gebruikers in Japan richt, dan zal de advertentie de &quot;Iedereen anders&quot;tak richten.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 

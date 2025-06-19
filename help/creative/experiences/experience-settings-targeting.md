@@ -3,9 +3,9 @@ title: Instellingen voor doelgerichte ervaring
 description: Zie beschrijvingen van alle montages voor gerichte en ervaringen.
 feature: Creative Experiences
 exl-id: cb6fd855-6534-4eac-b34b-323073d186be
-source-git-commit: a7b5a4e55c2ea66a4ca74a517ea3d90336021e30
+source-git-commit: 75d774a53521f1035c9f3a4f17b523ed1b68fec8
 workflow-type: tm+mt
-source-wordcount: '1117'
+source-wordcount: '1124'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Voor ervaringen met beslissingsboom die richten, kunt u de standaardcreatieven m
 
 * Om alle standaardcreatieven te schrappen, klik ![ Schrapping ](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
 
-* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![&#128279;](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.
+* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.![
 
 ## [!UICONTROL Targeting] -sectie
 
@@ -50,7 +50,7 @@ Nadat u de ervaring hebt opgeslagen, kunt u deze instelling niet meer wijzigen.
 
 ## [!UICONTROL Advanced] -sectie
 
-**Pas van Gegevens:** (Read-only voor bestaande ervaringen; facultatief) om gebruikers te richten die op specifieke zeer belangrijke paren worden gebaseerd die DSP, de uitgever, of de partner in echt - tijd op indruk overgaat. U kunt maximaal vijf standaardsleutels van de gegevenspas (parameters) specificeren. Wanneer u opstelling richtend binnen de beslissingsboom, kunt u één niveau van gegevens omvatten gaat doelknopen over, naar keuze de sleutels aan, en specificeert de waarden aan doel voor elke knoop. Als u geen sleutels op dit gebied specificeert wanneer u de ervaring creeert, kunt u hen nog specificeren binnen de beslissingsboom.
+**Pas van Gegevens:** (Read-only voor bestaande ervaringen; facultatief) om gebruikers te richten die op specifieke zeer belangrijke paren worden gebaseerd die DSP, de uitgever, of de partner in echt - tijd op indruk (zoals SKU=01234567890123 of Cart=empty) overgaat. U kunt maximaal vijf standaardsleutels van de gegevenspas (parameters) specificeren. Wanneer u opstelling richtend binnen de beslissingsboom, kunt u één niveau van gegevens omvatten gaat doelknopen over, naar keuze de sleutels aan, en specificeert de waarden aan doel voor elke knoop. Als u geen sleutels op dit gebied specificeert wanneer u de ervaring creeert, kunt u hen nog specificeren binnen de beslissingsboom.
 
 Elke toets wordt toegevoegd als een macro in de tag advertentie, die u kunt genereren om te implementeren als een advertentie in uw DSP.
 
@@ -68,7 +68,7 @@ Elke toets wordt toegevoegd als een macro in de tag advertentie, die u kunt gene
 
 * Als u een label wilt verwijderen, schakelt u het selectievakje naast de labelnaam uit.
 
-**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
+**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
@@ -78,7 +78,7 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 >* U kunt [ dit URL voor om het even welk creatief in de ervaring ](experience-tracking-urls-targeting.md) met voeten treden.
 >* U kunt ook JavaScript-code voor imitatie van derden invoeren in het veld [!UICONTROL Client JS]
 
-**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
+**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.![
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 

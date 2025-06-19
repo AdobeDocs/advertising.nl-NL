@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: a6d38953fa16a79f63bebe050e28fc14ed9a96f5
+source-git-commit: 75d774a53521f1035c9f3a4f17b523ed1b68fec8
 workflow-type: tm+mt
-source-wordcount: '1074'
+source-wordcount: '1076'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ ht-degree: 0%
 
    * Specifieke geografische locaties, waaronder landen, staten, DMA&#39;s in de Verenigde Staten, steden en postcodes
 
-   * Viewers waarvoor specifieke sleutel-waardeparen (de doelstellingen van de gegevenspas worden overgegaan van DSP, de uitgever of de partner
+   * Viewers waarvoor specifieke sleutel-waardeparen (gegevens overgaan doelstellingen) van DSP, uitgever, of partner (zoals SKU=01234567890123 of Cart=empty) worden overgegaan
 
    * [!DNL Creative] pixels en opgegeven kenmerkwaarden opnieuw toewijzen
 
@@ -38,12 +38,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
-> Omdat de twee soorten ervaringen verschillende werkschema&#39;s hebben, kunt u niet veranderen al dan niet om besluitvormingsboom te gebruiken richtend zodra u de ervaring bewaart. Dit betekent dat u een niet-gerichte ervaring niet in een gerichte ervaring kunt veranderen. Op dezelfde manier kunt u een gerichte ervaring niet veranderen in een niet-gerichte ervaring.
+> Omdat de twee soorten ervaringen verschillende workflows hebben, kunt u een niet-doelgerichte ervaring niet wijzigen in een doelgerichte ervaring of in een niet-doelgerichte ervaring.
 
 ## Advertentie en optimalisatie
 
 <!-- MORE -->
-<!--When multiple ad variants qualify for an impression-->
+<!-- When multiple ad variants qualify for an impression -->
 
 [!DNL Creative] levert advertenties van eerste partijen en activeert advertenties van derden voor de ervaring die op de gespecificeerde het richten (indien van toepassing), het plannen, en de omwenteling, en optimalisatiedoelopties evenals de beschikbare voorraad wordt gebaseerd.
 
@@ -61,6 +61,10 @@ U kunt bijvoorbeeld plannen dat Creative 1 gedurende de eerste twee weken wordt 
 
 Zodra u een levende ervaring (met alle vereiste ad elementen) creeert, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden.
 
+>[!NOTE]
+>
+>Het gedrag voor hiërarchische activering kan per DSP variëren. Advertising DSP hanteert een ad-level gerichte aanpak boven op het doel op het plaatsingsniveau.
+
 ## Prestatiegegevens voor uw ervaringen
 
 De volgende prestatiegegevens zijn beschikbaar:
@@ -68,10 +72,6 @@ De volgende prestatiegegevens zijn beschikbaar:
 * Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] , geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
   ![ optie van Metriek de optie van Metriek ](/help/creative/assets/metrics-option.png " Metriek ")
-
-  <!-- insert screen shot of Metrics option?  If not, then add instructions elsewhere -->
-
-  <!-- I don't see this as of 1/9; why only in the table view?   You can also add conversion columns in the table view. -->
 
 * U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
 

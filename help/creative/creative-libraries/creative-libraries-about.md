@@ -3,7 +3,7 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 86bd3384a44cc526428dd8ea5e97fdd684331086
+source-git-commit: 915fd9e2aebf300a37a5b6fdac6aa3526bd09f50
 workflow-type: tm+mt
 source-wordcount: '1103'
 ht-degree: 0%
@@ -42,23 +42,7 @@ U kunt de volgende creatieve types in de [ gesteunde creatieve grootte toevoegen
 
 Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). In DSP zijn flexibele HTML5-creatieven bedoeld voor één specifieke advertentiegrootte (in pixels). U kunt desgewenst de standaardwaarden wijzigen van de kenmerken die zijn opgegeven in een flexibele creatieve HTML5. Later kunt u aangepaste waarden opgeven voor de kenmerken binnen een bepaalde ervaring. Hierdoor wordt een variatie van de bovenliggende creatieve elementen gemaakt.
 
-<!-- Removed:
-
-Flexible HTML5 creatives are HTML5 creatives with all of their images and other attributes as standard HTML tags, which you can edit directly within [!DNL Creative], either within a creative library or within an individual experience (which creates a variation of the original creative). Flexible HTML5 creatives use the Interactive Advertising Bureau (IAB) Technology Laboratory's standard for an [ad portfolio](https://flexibleads.iabtechlab.com/), for which ad format sizes are flexible (rather than fixed) and are based on the ad’s aspect ratio and size range, and for which ads maintain their resolution across devices and publisher sites. You can optionally change the default values of the attributes specified in a flexible HTML5 creative. Later, you can specify custom values for the attributes within a specific experience, which creates a variation of the parent creative.
-
--->
-
 U kunt flexibele HTML5-creatieven uploaden als ZIP-bestanden of een van de sjablonen gebruiken die beschikbaar zijn voor uw account als startpunt. Zie de [ specificaties voor flexibele HTML5 creatieven ](html5-creative-specification.md).
-
-<!-- Will flattening the view be possible later?
-The card view, by default, includes a card for each base flexible HTML5 creative you've uploaded, with the number of creative variations [Delete old description? : an indicator of how many variations of the creative exist]. You can optionally flatten the card view to include separate cards for each base creative and each derivation. The table view is always flattened.
-
-
-[Example default card view for a flexible creative with variations]()[]add image]
-  
-[Example card for a flexible creative with one variation]() [add image]
-
- -->
 
 #### HTML5-creatieven
 
@@ -94,15 +78,15 @@ In de kaartmodus kunt u met de knoppen &lt; en > door de afbeeldingen in een bib
 
 #### Beschikbare acties
 
-* Nieuwe bibliotheken maken
+* [Een nieuwe bibliotheek maken](/help/creative/creative-libraries/creative-library-manage.md#create-a-creative-library)
 
 * Voor elke creatieve bibliotheek:
 
-   * De bibliotheeknaam bewerken
+   * [Een bibliotheeknaam bewerken](/help/creative/creative-libraries/creative-library-manage.md#edit-the-name-of-a-creative-library)
 
-   * Open de bibliotheek om de creatieve en bundels te bekijken die aan de bibliotheek worden toegewezen
+   * [Een bibliotheek openen om de creatieve en bundels weer te geven die aan de bibliotheek zijn toegewezen](/help/creative/creative-libraries/creative-library-manage.md#open-a-creative-library)
 
-   * De bibliotheek verwijderen
+   * [Bibliotheken verwijderen](/help/creative/creative-libraries/creative-library-manage.md#delete-creative-libraries)
 
 ### De weergaven [!UICONTROL Creative Libraries] > [!UICONTROL Creatives]
 
@@ -125,12 +109,6 @@ Op het tabblad [!UICONTROL Standard Ads] worden alle standaardcreatieve elemente
 * [Standaardcreatieven downloaden](creative-download.md)
 
 * [Standaardcreatieve producten verwijderen](creative-delete.md)
-
-<!-- Add in as separate actions?
-
-add or remove labels, regenerate thumbnails for your creatives. When a creative has child creative variations, you can view the variations within the Card view.
-
--->
 
 #### [!UICONTROL Dynamic Ads]
 

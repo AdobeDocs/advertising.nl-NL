@@ -3,9 +3,9 @@ title: Een tag voor een advertentie exporteren en implementeren voor een live be
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
 exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
-source-git-commit: 41763b21bda47e8bd45f48c18a674cd694df68d1
+source-git-commit: 75d774a53521f1035c9f3a4f17b523ed1b68fec8
 workflow-type: tm+mt
-source-wordcount: '532'
+source-wordcount: '600'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 >* Wanneer u een ervaring met doelstructuurbeleid maakt, maakt [!DNL Creative] automatisch een ad-tag voor elke toepasbare creatieve grootte.
 >* Wanneer u een ervaring zonder beslissingsboom het richten creeert, moet u [ manueel een ad markering ](experience-tag-create-manually.md) voor elke toepasselijke creatieve grootte creëren.
 >* Ervingstags zijn dynamisch. U hoeft de tags niet bij te werken als u een ervaring bewerkt.
+>* Zorg ervoor dat de campagnes waarin u een advertentie-ervaring zult uitvoeren richten die met de ervaring compatibel is. Het gedrag voor hiërarchische activering kan per DSP variëren. In Advertising DSP wordt &#39;ad-level&#39;-doelen toegepast na &#39;placement-level targeting&#39; en vervangen niet door &#39;placement-level targeting&#39;. Als een Advertising DSP-plaatsing bijvoorbeeld gebruikers in Australië aanwijst en een advertentie gebruikers in Japan aanwijst, richt de advertentie zich op de vertakking Iedereen anders.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
@@ -32,7 +33,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]**
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of **&#x200B; [!UICONTROL ... More] > &#x200B;** [!UICONTROL Export ad tags]**.
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of ** [!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -44,7 +45,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
 1. Klik op **[!UICONTROL Next]** in de rechterbovenhoek of klik op **[!UICONTROL Generate ad tags]** in het linkermenu.
 
-1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* **&#x200B; of &#x200B;** *IFRAME* ** <!-- sic -->.
+1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* ** of ** *IFRAME* ** <!-- sic -->.
 
 1. Selecteer in de lijst [!UICONTROL Destinations] waar u advertenties wilt maken.
 
@@ -58,7 +59,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags als advertenties rechtst
 
 1. Kopieer of download de tags:
 
-   * Om een markering voor één enkele advertentiegrootte te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan &rbrack;(/help/creative/assets/copy.png " Exemplaar ") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->!&lbrack;
+   * Om een markering voor één enkele advertentiegrootte te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan ](/help/creative/assets/copy.png " Exemplaar ") **[!UICONTROL Copy]**.<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->![
 
    * Om alle geproduceerde markeringen als dossier aan de standaarddownloadplaats van uw browser te downloaden, klik ![ de markeringen van de Download ](/help/creative/assets/download.png " Codes van de Download ").
 
