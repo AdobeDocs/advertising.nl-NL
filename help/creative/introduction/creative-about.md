@@ -2,7 +2,7 @@
 title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
-source-git-commit: 46f5665642e5e03dbf1c0a7d29032baab70943cb
+source-git-commit: 72a6c3de183aa47cecc2ec4d0fab30ff91d4bb05
 workflow-type: tm+mt
 source-wordcount: '484'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Met je Creative-bibliotheken kun je de creatieve producten beheren die je in je 
 
 ### [!DNL Adobe] gegevensintegratie
 
-U kunt de doelsegmenten van uw eersteklas publiek uit Adobe Audience Manager en Adobe Analytics, evenals publiekssegmenten die u maakt in Advertising Cloud DSP, gebruiken en pixels die u maakt met [!DNL Creative] opnieuw toewijzen als doelen voor specifieke creatieve projecten in een advertentiervaring. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
+U kunt uw doelsegmenten van de eerste partij uit Adobe Audience Manager en Adobe Analytics gebruiken — evenals aangepaste publiekssegmenten die u in Advertising DSP maakt en pixels die u met [!DNL Creative] maakt, heroriënteren — als doelen voor specifieke creatieve projecten in een advertentiervaring. <!-- Advertiser should be able to target all segments that are available in DSP for targeting -->
 
 ### Tenuitvoerlegging van ervaringen als advertenties
 
