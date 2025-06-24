@@ -2,16 +2,18 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: f1d657960beb667001341e191daaddbe03d931b0
+source-git-commit: da020e3f1740b79fceba8d45d75e2965ec6f41ef
 workflow-type: tm+mt
-source-wordcount: '575'
+source-wordcount: '456'
 ht-degree: 0%
 
 ---
 
 # Geavanceerde meetoplossingen
 
-Adverteerders hebben vaak moeite om te begrijpen waar hun beste volgende mediagijfer moet worden besteed, of om de impact van hun online advertenties te kwantificeren. In een gegevensgestuurd medialandschap biedt attributiemeting een oplossing voor deze uitdaging. De [!DNL Strategic Advertising Consulting] team helpt merk- en agentschappartners te meten hoe elementen van hun [!DNL Adobe] via reclame komen de verbindingen tot leven . Met robuust aanbod van attributitemeting, helpt het team gekromde het richten strategieën op te stellen gebruikend een verfijnd metingskader, dat het voor merken gemakkelijk maakt om hun media besluiten aan echte resultaten te verbinden die hun ondernemingen drijven. Het team kan u helpen om:
+Adverteerders hebben vaak moeite om te begrijpen hoe hun verschillende mediakanalen samenwerken, waar hun volgende mediagijfer het best zou moeten worden besteed, of hoe de impact van hun online advertenties te kwantificeren aan de belangrijkste bedrijfsdoelstellingen.
+
+In een gegevensgestuurd medialandschap biedt attributiemeting een oplossing voor deze uitdaging. Het team Advanced Measurement &amp; Strategy (AMS) helpt merk- en agentspartners te meten hoe elementen van hun Adobe Advertising in verband met hun [!DNL Adobe] integratie, aandrijvingsresultaten kopen. Met robuust aanbod van attributitemetingen kan AMS gekrulde doelstrategieën implementeren met behulp van geavanceerde meetframeworks, waardoor het voor merken eenvoudig is om hun mediaprijzen aan te sluiten op resultaten in de praktijk die hun bedrijven aansturen. Het team kan u helpen om:
 
 * Metingsstudies activeren voor digitale mediacampagnes met volledige trechter
 
@@ -23,97 +25,64 @@ Adverteerders hebben vaak moeite om te begrijpen waar hun beste volgende mediagi
 
 De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw advertentiecampagnes te valideren:
 
-* **Bereik, frequentie en omrekening op basis van huishoudens**
+* **Huishouden-Gebaseerd Bereik, Frequentie, en Omzettingen**
 
-  Begrijp het totale campagnebereik op het niveau van het huishouden, evenals de bijdrage van de individuele schermen. De rapportopties omvatten:
+  Begrijp het totale campagnebereik op het niveau van het huishouden, evenals de bijdrage van de afzonderlijke schermen, voor insight aan hoe aangesloten TV (CTV) een integraal onderdeel van een mediamix is.
 
-   * Cross-ID Huishoudelijk Bereik, Frequentie, &amp; Omzetting (Koekeloos)
+* **Effect van de Halo op het Onderzoek dat** meldt
 
-     <!-- Hide for now * Quantify unique/incremental reach, overlap, and conversions at a household level by cookieless ID type (RampID, ID5) across multiple environments, including connected TV (CTV) and digital (desktop, mobile, native, and audio). -->
+  Kwantificeer de impact van CTV en digitale ad-blootstellingen op het drijven van zoekklikken, onderzoeksomzettingen, en ROAS op het niveau van het huishouden.
 
-     <!-- Hide for now * Prove the effectiveness of testing cookieless IDs in finding incremental reach relative to cookie-based segments. -->
+* **x-Screen+ het Melden**
 
-   * Gemiddelde tijd voor conversie
+  Begrijp hoe CTV en digitale kanalen incrementeel en uniek huishouden bereik over traditionele lineaire televisiereclame drijven.
 
-   * Conversiefrequentie
-
-   * CTV-rapportage
-
-   * Toename CTV-app
-
-   * Rapportage op verschillende schermen (digitaal en CTV)
-
-   * Cross-Screen Plus Reporting (Digital, CTV en TV)
-
-   * Digitaal in-segment Bereik en Frequentie
-
-* **Op mensen gebaseerde Bereik en Omzettingen**
+* **Op mensen-Gebaseerd Bereik en Omzettingen**
 
   Begrijp hoe publiek en tactiek elkaar op een persoonniveau overlappen, met inbegrip van blootstelling over veelvoudige digitale milieu&#39;s, zoals Desktop, mobiel, inheems, en audio.
 
-  <!-- Hide for now * **Cross-ID People-Based Reach**
-
-      Quantify the unique reach and overlap between cookies and RampIDs, as well as the cost per metric by ID type. Prove the effectiveness of testing RampIDs in finding incremental reach relative to cookie-based segments across multiple digital environments, such as desktop, mobile, native, and audio. -->
-
-* **Halo-effect op zoekrapportage**
-
-  Kwantificeer de impact van CTV en digitale advertentieblootstellingen op het drijven van onderzoek kliks, onderzoeksomzettingen, en ROAS op het niveau van het huishouden over CTV app, onderzoekssleutelwoord, onderzoeksmotor, en douanepubliek en tactische niveaus.
-
-
-* **[!DNL Dynata]Op deelvensters gebaseerde enquêtes**
+* **op deelvenster-Gebaseerde Enquêtes**
 
   Voer controle/blootgestelde onderzoeken uit om het effect van en blootstelling op metriek zoals bewustzijn, vertrouwdheid, en intentie te bepalen.
 
-* **Voetwielverkeer**
+* **het Verkeer van de Woot**
 
-  Begrijp incrementele aard die wordt aangedreven door advertentie-blootstelling en hoe media-investeringen verandering in aankoopgedrag en incrementele bezoeken veroorzaken met meetgegevens zoals incrementele effecten, kosten per incrementeel bezoek en inzichten van bezoeken.
+  Begrijp hoe en de blootstelling beïnvloedt in-store bezoeken en stijgende bezoeken met metriek zoals incrementele effect, kosten per stijgende bezoek, en bezoeken inzichten.
 
-* **Transactiegegevens**
-
-  Verrijk uw campagnestrategie met deterministische krediet en debetverkoopgegevens door segment, concurrerende markt, en winkelanalyses.
-
-* **Transactiemeting**
+* **de Meting van de Transactie**
 
   Bepaal de invloed van en de blootstelling op de verkoop aan de hand van robuuste, deterministische gegevens over krediet- en debetverkopen.
 
-* **Experimentontwerper (A/B testen)**
+* **Experimentele Designer (het Testen A/B)**
 
-  Vergelijk het gedrag en de sentimenten van gerandomiseerde, wederzijds uitsluitende monstergroepen met eenvoudige, schone A/B-tests.
+  Vergelijk het gedrag van gerandomiseerde, wederzijds uitsluitende monstergroepen met eenvoudige, schone A/B-tests.
 
 ## Perfecte maatstaf zoeken: oplossingen op verticale wijze
 
-* **Verticaal:**
-
-   * Experimentontwerper (Placebo en A/B testen)
-
-   * Op mensen gebaseerde Bereik en Omzettingen
-
-     Elke organisatie die meerdere digitale tactieken wil meten; organisaties die de waarde van audio willen laten zien
+* **Alle Verticals:**
 
    * Meting van Bereik, frequentie en omrekening in huishoudens
 
-     Elke client die op zoek is naar inzicht in bereik/incrementele bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken
+   * Meting van halo-effect
 
-   * Meting van Bereik, Frequentie en Omzetting op verschillende schermen
+   * Meting van X-scherm, frequentie en conversie
 
-     Elke client die op zoek is naar inzicht in bereik/incrementeel bereik en kostengebaseerde efficiëntiewaarden en/of conversiemetriek voor meerdere digitale tactieken in verhouding tot lineaire tv-investeringen
+   * Op mensen gebaseerde Bereik en Omzettingen
 
-   * Op het deelvenster Dynata gebaseerde enquêtes
+   * Op deelvensters gebaseerde enquêtes
 
-     Elke client die op verschillende schermen de zichtbaarheid van het merk en de perceptie wil meten; het meest geschikt voor nichedoelgroepen
+   * Experimenteer Designer (Placebo en A/B testen)
 
-* **QSR, Retail (Steen en Mortier):**
+* **QSR, Detailhandel (Steen en Mortier), Reizen:**
 
    * Transactiemeting
 
    * Meting van het voetverkeer
 
-* **QSR, Retail, Travel:**
-
-   * Transactiegegevens
-
-     Elke client die een bepaald type winkel wil bereiken om in-store- en onlineverkoop te besturen
-
 ## Meer informatie
 
-Voor informatie over alle geavanceerde meetoplossingen, schetsend prijsinformatie evenals beschikbare formaten en gebieden voor elke oplossing, contacteer uw Team van de Rekening van de Adobe. Er zijn ook oplossingsspecifieke casestudies beschikbaar op verzoek.
+Neem contact op met uw Adobe-accountteam voor informatie over alle geavanceerde meetoplossingen, prijsinformatie en beschikbare indelingen en regio&#39;s voor elke oplossing. Er zijn ook oplossingsspecifieke casestudies beschikbaar op verzoek.
+
+>[!MORELIKETHIS]
+>
+>[ Gesteunde Valuta&#39;s in Adobe Advertising ](/help/dsp/currency.md)
