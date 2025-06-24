@@ -3,7 +3,7 @@ title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
 exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
-source-git-commit: a7e28cb2e37e1c9b6951f844b5f542ae2c8ac1a0
+source-git-commit: 143c7bfc38baca48abde323cbca7f582de234bc1
 workflow-type: tm+mt
 source-wordcount: '507'
 ht-degree: 0%
@@ -20,7 +20,7 @@ Adobe Advertising DSP gaat over naar de Adobe Identity Management Service (IMS) 
 
 * U kunt het programma openen 24 uren in plaats van het programma openen elk uur.
 
-Uw huidige DSP-gebruikersgegevens blijven actief tot 26 juni 2025 zodat u zich op de wijziging kunt voorbereiden.
+Uw huidige DSP-gebruikersgegevens blijven actief tot 15 juli 2025 zodat u zich kunt voorbereiden op de wijziging.
 
 ## Een verouderde DSP-aanmelding voor verificatie gebruiken
 
@@ -42,15 +42,15 @@ Uw huidige DSP-gebruikersgegevens blijven actief tot 26 juni 2025 zodat u zich o
 
 1. Kies uw organisatie:
 
-   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.
+   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
 
 ### Problemen oplossen
 
-Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/nl/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
+Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
 
 #### Zijn er voorwaarden om een nieuwe [!DNL Adobe] IMS-aanmelding in te schakelen?
 
