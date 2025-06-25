@@ -3,7 +3,7 @@ title: Campagnes toewijzen aan een portfolio
 description: Leer hoe u campagnes opneemt in portfolio's voor optimalisatie.
 exl-id: 62876260-dadd-4f4b-a5b9-1e04914e3a89
 feature: Search Campaign Management
-source-git-commit: 0b5b7baaa4044af9bd86291385a5311cfc7410ee
+source-git-commit: f1ad7c7535a7edece4eeecf7b2aac8b59f8eb6b9
 workflow-type: tm+mt
 source-wordcount: '601'
 ht-degree: 0%
@@ -40,7 +40,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/assign.png "Toewijzen") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
 
-1. In het [!UICONTROL Create Portfolio] scherm, specificeer de [ portefeuillemontages ](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md).
+1. Geef in het scherm [!UICONTROL Create Portfolio] de portfolioinstellingen <!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)--> op.
 
    De campagnes die u eerder hebt geselecteerd, worden al toegewezen aan de campagne. U kunt desgewenst de lijst met campagnes voor het portfolio bewerken.
 
@@ -48,11 +48,11 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 ## (Verouderde UI) Campagnes toewijzen aan een portfolio vanuit de weergave [!UICONTROL Campaigns]
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.
+   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.![
 
    * (Voer de volgende handelingen uit als u een of meer campagnes wilt toevoegen aan hetzelfde portfolio:
 
@@ -86,7 +86,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 ## (Verouderde gebruikersinterface) Wijzig de campagnes in een portfolio vanuit de weergave [!UICONTROL Portfolios] .
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Optimization] >[!UICONTROL Portfolios]** en zoek het portfolio.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Optimization] >[!UICONTROL Portfolios]** en zoek het portfolio.
 
    U kunt de portfoliolijst filteren in het menu [!UICONTROL Portfolios] in het linkerdeelvenster door een portfoliogroep of het knooppunt [!UICONTROL Ungrouped Portfolios] te selecteren.
 
