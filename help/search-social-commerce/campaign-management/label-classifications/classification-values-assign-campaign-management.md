@@ -26,7 +26,7 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om waarden aan één enkele entiteit toe te wijzen) Houd de curseur over de entiteitsnaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.![
+   * (Om waarden aan één enkele entiteit toe te wijzen) Houd de curseur over de entiteitsnaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.
 
    * (Ga als volgt te werk om waarden toe te wijzen aan een of meer entiteiten:
 

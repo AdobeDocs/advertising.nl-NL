@@ -20,7 +20,7 @@ U kunt actieve waarschuwingssjablonen pauzeren.
 
    * (Als u één sjabloon wilt pauzeren) Klik in de sjabloonrij in de kolom [!UICONTROL Status] en selecteer *[!UICONTROL Paused]* .
 
-   * (Als u een of meer sjablonen wilt pauzeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt pauzeren. In de toolbar, klik ](/help/search-social-commerce/assets/pause.png " Pauze ") van de Pauze ![ {in de dialoogdoos, klik **[!UICONTROL Pause]**.
+   * (Als u een of meer sjablonen wilt pauzeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt pauzeren. In de toolbar, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauze ") van de Pauze  &lbrace;in de dialoogdoos, klik **[!UICONTROL Pause]**.
 
      Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 

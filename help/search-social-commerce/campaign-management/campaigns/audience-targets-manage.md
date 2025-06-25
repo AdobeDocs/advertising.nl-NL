@@ -42,7 +42,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
       1. (Optioneel) Klik op de naam van een campagne als u de onderliggende en onderliggende campagne wilt uitvouwen.
 
-      1. (Facultatief) om een campagnemijst of een lijst van de advertentiegroep door een tekstkoord te filtreren inbegrepen in de naam, ](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **[!UICONTROL Enter]** sleutel te drukken.![
+      1. (Facultatief) om een campagnemijst of een lijst van de advertentiegroep door een tekstkoord te filtreren inbegrepen in de naam, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **[!UICONTROL Enter]** sleutel te drukken.
 
       1. Specificeer elke campagne en doel van de advertentiegroep voor het gespecificeerde ad netwerk door de aangrenzende lege cirkel te klikken zodat een blauw controleteken (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")) verschijnt.
 
@@ -116,9 +116,9 @@ U kunt ook een actief of gepauzeerd doel voor het zoekpubliek verwijderen.
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
+   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
 
-   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
+   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
    * Om de rijen te schrappen, klik ![ Meer acties ](/help/search-social-commerce/assets/more.png " Meer acties ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

@@ -24,7 +24,7 @@ U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
 1. Selecteer in de rechterbovenhoek het advertentienetwerk en de account.
 
-1. In de toolbar boven de gegevenslijst, uploadt de klik ](/help/search-social-commerce/assets/add.png " ") ![.
+1. In de toolbar boven de gegevenslijst, uploadt de klik ![&#128279;](/help/search-social-commerce/assets/add.png " ") .
 
 1. Geef elk elementtype op:
 
@@ -40,7 +40,7 @@ U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
          1. Voor elke afbeelding:
 
-            1. Klik ](/help/search-social-commerce/assets/crop.png " Uitsnijden 1} Uitsnijden ").![
+            1. Klik ![&#128279;](/help/search-social-commerce/assets/crop.png " Uitsnijden 1&rbrace; Uitsnijden ").
 
             1. Selecteer de hoogte-breedteverhouding.
 

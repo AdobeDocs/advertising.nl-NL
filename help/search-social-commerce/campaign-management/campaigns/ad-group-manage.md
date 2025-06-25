@@ -50,7 +50,7 @@ U kunt instellingen voor afzonderlijke advertentiegroepen bewerken. U kunt ook b
 
 1. Voer een van de volgende handelingen uit:
 
-   1. (Om montages voor één enkele advertentiegroep uit te geven) Houd de curseur over de entiteitsnaam, klik {het pictogram van het 0} Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.![
+   1. (Om montages voor één enkele advertentiegroep uit te geven) Houd de curseur over de entiteitsnaam, klik {het pictogram van het 0} Menu ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.
 
    1. (Als u instellingen voor een of meer ad-hocgroepen wilt bewerken) Ga als volgt te werk:
 
@@ -87,9 +87,9 @@ U kunt ook elke actieve of gepauzeerde zoekopdracht en groep verwijderen. Verwij
    Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik op de statusknop op de werkbalk:
-   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
+   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
 
-   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
+   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

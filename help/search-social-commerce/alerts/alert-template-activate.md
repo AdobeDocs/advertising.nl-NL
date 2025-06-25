@@ -20,7 +20,7 @@ U kunt pauzesjablonen activeren.
 
    * (Als u één sjabloon wilt activeren) Klik in de sjabloonrij in de kolom [!UICONTROL Status] en selecteer *[!UICONTROL Active]* .
 
-   * (Als u een of meer sjablonen wilt activeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt activeren. In de toolbar, activeert de klik ](/help/search-social-commerce/assets/activate.png " ") ![. Klik in het dialoogvenster op **[!UICONTROL Activate]** .
+   * (Als u een of meer sjablonen wilt activeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt activeren. In de toolbar, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ") . Klik in het dialoogvenster op **[!UICONTROL Activate]** .
 
      Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 

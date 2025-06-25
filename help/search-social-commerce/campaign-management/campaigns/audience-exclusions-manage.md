@@ -44,7 +44,7 @@ U kunt ook publieksuitsluitingen verwijderen.
 
       1. (Optioneel) Als u een campagne wilt uitvouwen om de onderliggende en onderliggende groepen ervan weer te geven, klikt u op de naam van de campagne.
 
-      1. (Facultatief) om een campagnemijst of een lijst van de advertentiegroep door een tekstkoord te filtreren inbegrepen in de naam, ](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of ga of kleef het tekstkoord in het inputgebied in, en druk dan de [!UICONTROL Enter] sleutel.![
+      1. (Facultatief) om een campagnemijst of een lijst van de advertentiegroep door een tekstkoord te filtreren inbegrepen in de naam, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of ga of kleef het tekstkoord in het inputgebied in, en druk dan de [!UICONTROL Enter] sleutel.
 
       1. Voer een van de volgende handelingen uit:
 

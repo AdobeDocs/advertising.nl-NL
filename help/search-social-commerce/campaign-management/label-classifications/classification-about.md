@@ -26,7 +26,7 @@ Elke in aanmerking komende entiteit kan etiketwaarden hebben voor meerdere class
 
 ## De weergave Labels-classificaties
 
-De [!UICONTROL Labels Classifications] -weergave in het menu [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] bevat subweergaven [!UICONTROL Classifications] en [!UICONTROL Label Values] . U kunt gegevens voor uw etiketclassificaties bekijken, [ ](classification-create.md) creëren en [ schrappen ](classification-delete.md) etiketclassificaties, en meningsgegevens voor uw waarden van de etiketclassificatie. Standaard worden gegevens weergegeven voor uw labels en waarden op trefwoordniveau, maar u kunt optioneel gegevens bekijken voor uw classificaties en waarden op advertentieniveau.
+De [!UICONTROL Labels Classifications] -weergave in het menu [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] bevat subweergaven [!UICONTROL Classifications] en [!UICONTROL Label Values] . U kunt gegevens voor uw etiketclassificaties bekijken, [&#128279;](classification-create.md) creëren en [ schrappen ](classification-delete.md) etiketclassificaties, en meningsgegevens voor uw waarden van de etiketclassificatie. Standaard worden gegevens weergegeven voor uw labels en waarden op trefwoordniveau, maar u kunt optioneel gegevens bekijken voor uw classificaties en waarden op advertentieniveau.
 
 >[!MORELIKETHIS]
 >

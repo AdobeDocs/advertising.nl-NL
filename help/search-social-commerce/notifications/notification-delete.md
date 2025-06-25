@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## Een melding verwijderen in het deelvenster [!UICONTROL Notifications]
 
-1. In het hogere recht van om het even welke pagina, klik ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") ![.
+1. In het hogere recht van om het even welke pagina, klik ![&#128279;](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") .
 
 1. Klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 

@@ -18,7 +18,7 @@ U kunt een waarschuwingssjabloon maken voor portfolio&#39;s, campagnes, groepen,
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** . Dit wordt geopend in de [!UICONTROL Alert Templates] -weergave.
 
-1. In de toolbar, creeert de klik ](/help/search-social-commerce/assets/add.png " ") tot stand brengen ![, en selecteert dan het te evalueren entiteitstype ([!UICONTROL Portfolio], [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Ad], of [!UICONTROL Product Group]).
+1. In de toolbar, creeert de klik ![&#128279;](/help/search-social-commerce/assets/add.png " ") tot stand brengen , en selecteert dan het te evalueren entiteitstype ([!UICONTROL Portfolio], [!UICONTROL Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Keyword], [!UICONTROL Ad], of [!UICONTROL Product Group]).
 
 1. In het [!UICONTROL Create \[Entity\] Alert] venster, specificeer de [ waakzame montages ](alert-template-settings.md) op **[!UICONTROL Date Range]**, **[!UICONTROL Filters]**, en **[!UICONTROL Scheduling and Delivery]** lusjes.
 

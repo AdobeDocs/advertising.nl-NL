@@ -18,7 +18,7 @@ U kunt een bestaande weergavenaam niet verwijderen.
 
 >[!NOTE]
 >
->Voor [ metriek van Google Analytics ](/help/search-social-commerce/admin/data-sources/data-source-about.md), worden om het even welke handveranderingen in de vertoningsnaam beschreven als u de integratie bijwerkt of opnieuw voor authentiek verklaart. Op dezelfde manier worden om het even welke naamveranderingen binnen Google Analytics genegeerd tenzij u [ bijwerkt ](/help/search-social-commerce/admin/data-sources/data-source-edit.md) of [ ](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md) de integratie opnieuw voor authentiek verklaart.
+>Voor [ metriek van Google Analytics ](/help/search-social-commerce/admin/data-sources/data-source-about.md), worden om het even welke handveranderingen in de vertoningsnaam beschreven als u de integratie bijwerkt of opnieuw voor authentiek verklaart. Op dezelfde manier worden om het even welke naamveranderingen binnen Google Analytics genegeerd tenzij u [ bijwerkt ](/help/search-social-commerce/admin/data-sources/data-source-edit.md) of [&#128279;](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md) de integratie opnieuw voor authentiek verklaart.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** .
 

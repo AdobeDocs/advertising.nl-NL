@@ -42,7 +42,7 @@ Als u de campagnes of de campagneentiteiten wilt bewerken die in een waarschuwin
 
 1. (Binnen de relevante entiteitmening) open de mening van het campagnebeheer voor het entiteittype ([!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Ads], of [!UICONTROL Product Groups]).
 
-1. In het hogere recht van de pagina, klik ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen van 0} ")![
+1. In het hogere recht van de pagina, klik ![&#128279;](/help/search-social-commerce/assets/notifications-panel.png " Meldingen van 0&rbrace; ")
 
 1. Klik in de weergave [!UICONTROL Notifications] op de tab **[!UICONTROL Alerts]** .
 

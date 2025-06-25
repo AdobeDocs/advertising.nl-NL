@@ -48,9 +48,9 @@ Zodra u minstens een alle-inclusieve &quot;[!UICONTROL All Products]&quot;groep 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]** .
 
-1. (Facultatief) om een productgroep en zijn knooppunten van de kindproductgroep in de Mening van de Boom te bekijken, de curseur over de naam van de productgroep te houden, ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") te klikken, en dan **[!UICONTROL Tree View]** te selecteren.![
+1. (Facultatief) om een productgroep en zijn knooppunten van de kindproductgroep in de Mening van de Boom te bekijken, de curseur over de naam van de productgroep te houden, ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") te klikken, en dan **[!UICONTROL Tree View]** te selecteren.
 
-1. Houd de curseur over de naam van de productgroep, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " Van het Dropdown Menu van de Pijl van de Pijl "), en selecteer dan **[!UICONTROL + Add Node]**.![
+1. Houd de curseur over de naam van de productgroep, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " Van het Dropdown Menu van de Pijl van de Pijl "), en selecteer dan **[!UICONTROL + Add Node]**.
 
 1. Specificeer de [[!DNL Google Ads]  montages van de productgroep ](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep ](product-group-settings-microsoft.md), met inbegrip van de productdimensie en de attributen.
 
@@ -62,11 +62,11 @@ U kunt de bied- en trackingsjabloon voor knooppunten van de groep eenheidsproduc
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]** .
 
-1. (Facultatief) om een productgroep en zijn knooppunten van de kindproductgroep in de Mening van de Boom te bekijken, de curseur over de naam van de productgroep te houden, ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") te klikken, en dan **[!UICONTROL Tree View]** te selecteren.![
+1. (Facultatief) om een productgroep en zijn knooppunten van de kindproductgroep in de Mening van de Boom te bekijken, de curseur over de naam van de productgroep te houden, ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") te klikken, en dan **[!UICONTROL Tree View]** te selecteren.
 
 1. Voer een van de volgende handelingen uit:
 
-   1. (Om montages voor één enkele knoop van de productgroep uit te geven) Houd de curseur over de naam van de productgroep, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu "), en selecteer dan **[!UICONTROL + Edit Node]**.![
+   1. (Om montages voor één enkele knoop van de productgroep uit te geven) Houd de curseur over de naam van de productgroep, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu "), en selecteer dan **[!UICONTROL + Edit Node]**.
 
    1. (Als u instellingen voor een of meer ad-hocgroepen wilt bewerken) Ga als volgt te werk:
 

@@ -24,11 +24,11 @@ Van de lijst van omzettingsmetriek die beschikbaar zijn, kan elke gebruiker met 
 
 1. (Optioneel) Filter de lijst:
 
-   * Om naar een specifieke metrische naam of vertoningsnaam te zoeken, klik ](/help/search-social-commerce/assets/search.png " Onderzoek "), ga het woord of het koord op het inputgebied in, en druk dan de **[!DNL Enter]** sleutel.![
+   * Om naar een specifieke metrische naam of vertoningsnaam te zoeken, klik ![&#128279;](/help/search-social-commerce/assets/search.png " Onderzoek "), ga het woord of het koord op het inputgebied in, en druk dan de **[!DNL Enter]** sleutel.
 
      U kunt naar koorden zoeken die overal binnen de uitdrukking (zoals de eerste brief of de laatste drie brieven) verschijnen, en de onderzoekstermijnen zijn niet [ case-sensitive ](/help/search-social-commerce/glossary.md#c-d).
 
-   * Om naar omzettingsmetriek door hun beschikbaarheid in beheersmeningen en rapporten te zoeken, klik ](/help/search-social-commerce/assets/filter.png " Filter van de Filter "), en selecteer de filter **[!UICONTROL Show in UI and Reports]**. ![ Selecteer vervolgens **[!UICONTROL Show]** (om de conversiemetriek weer te geven die beschikbaar is om op te nemen in rapporten en beheerweergaven) of **[!UICONTROL Hide]** (om de conversiemetriek weer te geven die niet beschikbaar is in rapporten en beheerweergaven).
+   * Om naar omzettingsmetriek door hun beschikbaarheid in beheersmeningen en rapporten te zoeken, klik ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter van de Filter "), en selecteer de filter **[!UICONTROL Show in UI and Reports]**.  Selecteer vervolgens **[!UICONTROL Show]** (om de conversiemetriek weer te geven die beschikbaar is om op te nemen in rapporten en beheerweergaven) of **[!UICONTROL Hide]** (om de conversiemetriek weer te geven die niet beschikbaar is in rapporten en beheerweergaven).
 
 1. Wijzig de conversiemetriek die beschikbaar is voor beheerweergaven en -rapporten:
 

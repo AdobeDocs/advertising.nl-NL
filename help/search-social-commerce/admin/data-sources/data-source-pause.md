@@ -21,7 +21,7 @@ Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron 
 
 1. Schakel het selectievakje in naast de gegevensbron die u wilt pauzeren.
 
-1. In de toolbar boven de gegevenslijst, klik ](/help/search-social-commerce/assets/pause.png " Pauze ") van de Pauze ![.
+1. In de toolbar boven de gegevenslijst, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauze ") van de Pauze .
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Pause]** .
 

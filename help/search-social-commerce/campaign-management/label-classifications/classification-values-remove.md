@@ -22,7 +22,7 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om waarden uit één enkele entiteit te verwijderen) Houd de curseur over de entiteitsnaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.![
+   * (Om waarden uit één enkele entiteit te verwijderen) Houd de curseur over de entiteitsnaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.
 
    * (Voer de volgende handelingen uit als u waarden uit een of meer entiteiten wilt verwijderen:
 

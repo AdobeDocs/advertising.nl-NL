@@ -32,7 +32,7 @@ Wijs ten minste twee callouts per campagne of advertentiegroep toe zodat uw adve
 
       * (Optioneel) Als u een campagne wilt uitvouwen om de onderliggende en onderliggende groepen ervan weer te geven, klikt u op de naam van de campagne.
 
-      * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **te drukken gaat** sleutel in.![
+      * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **te drukken gaat** sleutel in.
 
       * Om een entiteit te selecteren, klik de aangrenzende cirkel (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")).
 

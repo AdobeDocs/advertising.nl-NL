@@ -24,7 +24,7 @@ U kunt negatieve plaatsingen voor een [!DNL Google Ads] ad groep in een campagne
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Placements] >[!UICONTROL Negatives]** .
 
-1. In de toolbar boven de gegevenslijst, creeert de klik ](/help/search-social-commerce/assets/add.png " ") {en klikt dan **[!UICONTROL Campaign]** om campagne-vlakke negatieve plaatsingen tot stand te brengen of **[!UICONTROL Ad Group]** om ad groep-vlakke negatieve plaatsingen tot stand te brengen.![
+1. In de toolbar boven de gegevenslijst, creeert de klik ![&#128279;](/help/search-social-commerce/assets/add.png " ") &lbrace;en klikt dan **[!UICONTROL Campaign]** om campagne-vlakke negatieve plaatsingen tot stand te brengen of **[!UICONTROL Ad Group]** om ad groep-vlakke negatieve plaatsingen tot stand te brengen.
 
 1. Selecteer het advertentienetwerk, de account, de campagne en (indien van toepassing) de advertentiegroep en klik op **[!UICONTROL Continue]** .
 

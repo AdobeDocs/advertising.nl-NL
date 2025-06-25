@@ -22,7 +22,7 @@ De ontslagen aanbevelingen zijn niet beschikbaar bij het ad netwerk.
 
 1. Selecteer in de rechterbovenhoek het advertentienetwerk en de account.
 
-1. In het hogere recht, klik ![ Logboeken van de Aanbeveling van de Aanbeveling 1} ").](/help/search-social-commerce/assets/recommendations-log-view.png "
+1. In het hogere recht, klik ![ Logboeken van de Aanbeveling van de Aanbeveling 1&rbrace; ").] (/help/search-social-commerce/assets/recommendations-log-view.png "
 
 >[!MORELIKETHIS]
 >

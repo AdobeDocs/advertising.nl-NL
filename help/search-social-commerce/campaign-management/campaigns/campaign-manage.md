@@ -53,7 +53,7 @@ U kunt instellingen voor afzonderlijke campagnes bewerken. U kunt ook bepaalde v
 
 1. Voer een van de volgende handelingen uit:
 
-   1. (Om montages voor één enkele campagne uit te geven) Houd de curseur over de entiteitsnaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ![ pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.
+   1. (Om montages voor één enkele campagne uit te geven) Houd de curseur over de entiteitsnaam, klik &rbrack;(/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu !&lbrack; pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.
 
    1. (Voer de volgende handelingen uit als u instellingen voor een of meer campagnes wilt bewerken:
 
@@ -93,9 +93,9 @@ U kunt ook elke actieve of gepauzeerde zoekcampagne verwijderen. Verwijderde cam
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
+   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
 
-   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
+   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

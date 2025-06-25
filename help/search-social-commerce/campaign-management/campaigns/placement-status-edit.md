@@ -26,9 +26,9 @@ U kunt ook een actieve of gepauzeerde plaatsing of een negatieve plaatsing verwi
 
 1. Klik op de statusknop op de werkbalk:
 
-   * (Biddable plaatsen slechts) om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
+   * (Biddable plaatsen slechts) om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
 
-   * (Biddable plaatsen slechts) om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ").![
+   * (Biddable plaatsen slechts) om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ").
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

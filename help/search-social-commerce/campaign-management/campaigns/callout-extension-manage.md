@@ -62,9 +62,9 @@ Voor extra [!DNL Google Ads] beleid en redenen voor callout afkeuring, zie de [ 
 
 **[!UICONTROL Callout Text]:** De tekst die moet worden weergegeven. Het kan maximaal 25 tekens of 12 double-byte tekens bevatten. Er kunnen geen uitroepingstekens of leestekens aan het begin van de tekst worden opgenomen.
 
-**[!UICONTROL Start Date]:** (Facultatief) de eerste datum waarop de callout met advertenties kan worden getoond. Het gebrek voor nieuwe callouts is de huidige dag. Om een toekomstige begindatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " Kalender ") van 0} Kalender en selecteer een datum.![
+**[!UICONTROL Start Date]:** (Facultatief) de eerste datum waarop de callout met advertenties kan worden getoond. Het gebrek voor nieuwe callouts is de huidige dag. Om een toekomstige begindatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ![&#128279;](/help/search-social-commerce/assets/calendar.png " Kalender ") van 0&rbrace; Kalender en selecteer een datum.
 
-**[!UICONTROL End Date]:** (Facultatief) de laatste datum waarop de callout met advertenties kan worden getoond. Door gebrek, kan de callout voor onbepaalde tijd worden getoond. Om een einddatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " Kalender ") van de Kalender 1} en selecteer een datum.![
+**[!UICONTROL End Date]:** (Facultatief) de laatste datum waarop de callout met advertenties kan worden getoond. Door gebrek, kan de callout voor onbepaalde tijd worden getoond. Om een einddatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ![&#128279;](/help/search-social-commerce/assets/calendar.png " Kalender ") van de Kalender 1&rbrace; en selecteer een datum.
 
 **[!UICONTROL Mobile Preference]:** (Optioneel) Hiermee kunt u [!DNL Google Ads] de advertentie proberen weer te geven voor gebruikers van mobiele apparaten in plaats van voor gebruikers van desktopcomputers of tablets. Anders (wanneer &quot;uit&quot;) geeft [!DNL Google Ads] de advertentie weer op elk apparaattype.
 

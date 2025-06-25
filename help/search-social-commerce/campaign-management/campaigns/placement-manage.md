@@ -24,7 +24,7 @@ U kunt plaatsen voor ad groepen in [ gesteunde campagneretypes ](/help/search-so
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Placements] >[!UICONTROL Placements]** .
 
-1. 
+1. &#x200B;
    1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik op **[!UICONTROL Continue]** .

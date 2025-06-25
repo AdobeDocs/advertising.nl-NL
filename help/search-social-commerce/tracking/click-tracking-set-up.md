@@ -30,7 +30,7 @@ Als u wilt dat zoekopdrachten, sociale gegevens en Commerce bijhouden, moeten de
 
    1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Accounts]** .
 
-   1. Houd de curseur over de rekeningsnaam, het pictogram van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") klikken, en dan selecteren **[!UICONTROL Edit]**.![
+   1. Houd de curseur over de rekeningsnaam, het pictogram van het Menu ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") klikken, en dan selecteren **[!UICONTROL Edit]**.
 
    1. Klik op **[!UICONTROL Set Account Tracking]**.
 
@@ -44,7 +44,7 @@ Als u wilt dat zoekopdrachten, sociale gegevens en Commerce bijhouden, moeten de
 
    1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
 
-   1. Houd de curseur over de campagnenaam, het pictogram van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") klikken, en dan selecteren **[!UICONTROL Edit]**.![
+   1. Houd de curseur over de campagnenaam, het pictogram van het Menu ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ") klikken, en dan selecteren **[!UICONTROL Edit]**.
 
    1. Klik op **[!UICONTROL Set Campaign Tracking]**. Selecteer vervolgens de optie die u wilt **[!UICONTROL Override Account Tracking]** gebruiken.
 

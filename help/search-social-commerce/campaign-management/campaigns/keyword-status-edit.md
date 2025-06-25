@@ -28,7 +28,7 @@ U kunt ook actieve of gepauzeerde zoektrefwoorden of negatieve trefwoorden verwi
 
    * (Biddable sleutelwoorden slechts) om de rijen te activeren, activeert de klik ![ ](/help/search-social-commerce/assets/activate.png " ").
 
-   * (Biddable sleutelwoorden slechts) om de rijen te pauzeren, ](/help/search-social-commerce/assets/pause.png " Pauzeren ") klikken van de Pauze ![.
+   * (Biddable sleutelwoorden slechts) om de rijen te pauzeren, ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") klikken van de Pauze .
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

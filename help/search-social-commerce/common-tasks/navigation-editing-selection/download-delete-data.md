@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] en open een willekeurige entiteitsweergave.
 
-1. Op het recht van de toolbar, klik ](/help/search-social-commerce/assets/download.png " Download van het Rapport van de Download van het Rapport ![ ") om het paneel van Downloads te bekijken.
+1. Op het recht van de toolbar, klik &rbrack;(/help/search-social-commerce/assets/download.png " Download van het Rapport van de Download van het Rapport !&lbrack; ") om het paneel van Downloads te bekijken.
 
 1. Naast het rapport of bulksheet, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 

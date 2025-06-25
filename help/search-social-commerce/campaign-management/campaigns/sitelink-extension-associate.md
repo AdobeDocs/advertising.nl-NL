@@ -34,7 +34,7 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 
    * (Optioneel) Als u een account wilt uitbreiden om de bijbehorende campagne weer te geven, klikt u op de accountnaam. Op dezelfde manier om een campagne uit te breiden om zijn kind en groepen te bekijken, klik de campagnenaam.
 
-   * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan **te drukken gaat** sleutel in.![
+   * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan **te drukken gaat** sleutel in.
 
    * Selecteer de cirkel (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")) naast elke entiteit waaraan de sitelinks worden toegewezen.
 
