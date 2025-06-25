@@ -3,7 +3,7 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe te om doelstellingen voor uw hybride portefeuilles aan  [!DNL Google Ads]  en  [!DNL Microsoft Advertising] te uploaden.
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '678'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Uploads naar [!DNL Google Ads] vinden dagelijks plaats om 6:00 uur in de tijdzon
 >
 >Conversies die worden bijgehouden door Google Ads en de tag Universal Event tracking (UET) van Microsoft Advertising worden niet opnieuw geüpload naar de advertentienetwerken. Als u hen binnen een doelstelling omvat, moet u hen aan de campagnedoelstellingen binnen de redacteur van het advertentienetwerk toevoegen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Tools] >[!UICONTROL Conversion Upload Setup]** .
 
 1. Schakel het selectievakje naast **[!UICONTROL Enable Objective Upload]** in.
 
@@ -40,7 +40,7 @@ Uploads naar [!DNL Google Ads] vinden dagelijks plaats om 6:00 uur in de tijdzon
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [ voeg geloofsbrieven voor uw managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
+1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [ voeg geloofsbrieven voor uw managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
 
 1. Controleer of elk doel — genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` — binnen twee dagen op het advertentienetwerk wordt weergegeven.
 
@@ -67,7 +67,7 @@ GGL_Lead wordt niet opgenomen in de berekening/upload omdat het een metrische wa
 
 >[!TIP]
 >
->U kunt gegevens voor Adobe Advertising gewogen opbrengst binnen de rapporten van het advertentienetwerk bekijken. U kunt het beste de gewogen omzet vergelijken met de [!DNL Google Ads] &quot;All conv. (door conv. time)&quot; of de metrische waarde [!DNL Microsoft Advertising] &quot;All conv. opbrengst,&quot;gesegmenteerd aan metrisch O_ACS_OBJ*.<!--clarify -->
+>U kunt gegevens voor Adobe Advertising gewogen opbrengsten binnen de rapporten van het advertentienetwerk bekijken. U kunt het beste de gewogen omzet vergelijken met de [!DNL Google Ads] &quot;All conv. (door conv. time)&quot; of de metrische waarde [!DNL Microsoft Advertising] &quot;All conv. opbrengst,&quot;gesegmenteerd aan metrisch O_ACS_OBJ*.<!--clarify -->
 
 ## Problemen met ontbrekende doelstellingen oplossen
 
@@ -75,7 +75,7 @@ Als het doel — genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account
 
 * ([!DNL Google Ads]) Controleer of de conversies moeten worden geüpload naar het account- of beheerniveau. Als ze op managementniveau moeten worden geüpload:
 
-   * Controleer of de referenties voor de [!DNL Google Ads] manager-account zijn opgegeven op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** . Indien noodzakelijk, [ voeg de geloofsbrieven voor de managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) toe.
+   * Controleer of de referenties voor de [!DNL Google Ads] manager-account zijn opgegeven op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** . Indien noodzakelijk, [ voeg de geloofsbrieven voor de managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) toe.
 
    * Controleer of de netwerkaccount voor advertenties al dezelfde metrische naam bevat. Als het, dan metrisch anders noemt zodat het correcte manager-vlakke bezit kan worden gecreeerd.
 

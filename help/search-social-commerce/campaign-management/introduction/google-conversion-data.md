@@ -3,7 +3,7 @@ title: '[!DNL Google Ads] conversiegegevens'
 description: Leer over de types van  [!DNL Google Ads] - gevolgde omzettingsgegevens beschikbaar in Onderzoek, Sociale, & Commerce.
 exl-id: a4634410-446b-4e2e-a52f-22a494f731f9
 feature: Search Campaign Management, Conversions
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '661'
 ht-degree: 0%
@@ -36,13 +36,13 @@ Maximaal drie metriek voor elke [[!DNL Google Ads] bijgehouden conversie ](https
 
 * `GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).
 
-* `GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door Google, beginnend met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GL_XD_CT_Purchase).
+* `GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door Google, beginnend met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GGL_XD_CT_Purchase).
 
-[!DNL Google Ads] registreert elke omzetting door [ biedingseenheid ](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Google Ads] wordt geplaatst; de attributie van de Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
+[!DNL Google Ads] registreert elke omzetting door [ biedingseenheid ](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Google Ads] wordt geplaatst; de attributie van Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
 
 >[!NOTE]
 >
->* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in de Adobe Advertising. Als dit voorkomt, [ verander de vertoningsnaam ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
+>* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit voorkomt, [ verander de vertoningsnaam ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
 >* Gegevens op het niveau van de biedingseenheid komen overeen met gegevens in [!DNL Google Ads] op hetzelfde niveau. De eigen conversiegegevens van [!DNL Google Ads] voor hogere niveaus kunnen echter aanvullende conversies bevatten die niet aan de onderliggende bodeenheden worden toegewezen. Gegevens in Zoeken, Sociaal, &amp; Commerce worden altijd opgevoerd vanaf het niveau van de biedingseenheid, zodat een campagnerapport bijvoorbeeld mogelijk niet dezelfde totalen heeft als een campagnerapport in Google Ads.
 >* De variantie van gegevens is typisch minder na de ochtendsynchronisatie dan het later op de dag is, wanneer de extra omzettingen nog niet zijn gesynchroniseerd. We raden u aan &#39;s ochtends gegevens te valideren.
 >* Conversiegegevens zijn niet beschikbaar voor advertenties [!DNL Google Display Network] , [!DNL Gmail] , [!DNL Mobile App] en [!DNL YouTube] . Filter deze typen advertenties uit wanneer u gegevens in [!DNL Google Ads] vergelijkt met gegevens in Zoeken, Sociaal en Commerce.
@@ -82,7 +82,7 @@ Genereer het rapport voor de geselecteerde omzettingsacties per dag en voeg gege
 
 In Zoeken, Sociaal, &amp; Commerce, gebruik de mening of rapportoptie om omzettingen te bekijken die op de klikdatum (niet de transactiedatum) worden gebaseerd.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
 1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Create Report]** , houd de cursor boven **[!UICONTROL Basic Reports]** en klik vervolgens op **[!UICONTROL Search Engine Account Report]** .
 

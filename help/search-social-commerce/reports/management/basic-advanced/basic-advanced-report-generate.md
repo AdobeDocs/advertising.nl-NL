@@ -1,56 +1,56 @@
 ---
 title: Een basisrapport of geavanceerd rapport genereren
 description: Leer hoe u een aangepast basis- of geavanceerd rapport kunt genereren.
-exl-id: cad5183c-cd21-439a-ab3e-033b2bb187ec
+exl-id: 529a35f5-517f-4bde-b752-c0afc6346f4b
 feature: Search Reports, Search Basic Reports, Search Advanced Reports
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
 
 # Een basisrapport of geavanceerd rapport genereren
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Create Report]**, houd de cursor boven **[!UICONTROL Basic Reports]** of **[!UICONTROL Advanced Reports]** en klik vervolgens op de knop [rapporttype](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md).
+1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Report]**, houd de curseur over **[!UICONTROL Basic Reports]** of **[!UICONTROL Advanced Reports]**, en klik dan het [ rapporttype ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md).
 
-1. (Optioneel) In het dialoogvenster [!UICONTROL Report Settings] venster, de standaardinstelling wijzigen [rapportinstellingen](basic-advanced-report-settings.md):
+1. (Facultatief) in het [!UICONTROL Report Settings] venster, verander de standaard [ rapportmontages ](basic-advanced-report-settings.md):
 
    1. (Optioneel) Voer een aangepaste naam in voor het rapport en voor de sjabloon (als u het rapport opslaat als een sjabloon).
 
-   1. (Optioneel) Als u de rapportinstellingen als een sjabloon wilt opslaan, schakelt u het selectievakje naast **[!UICONTROL Save as template]**.
+   1. (Optioneel) Als u de rapportinstellingen als een sjabloon wilt opslaan, schakelt u het selectievakje naast **[!UICONTROL Save as template]** in.
 
-   1. (Optioneel) Op de **[!UICONTROL Basic Settings]** selecteert u een bestaande rapportsjabloon om de standaardbasisinstellingen voor het rapport te gebruiken of te wijzigen.
+   1. (Optioneel) Selecteer op het tabblad **[!UICONTROL Basic Settings]** een bestaande rapportsjabloon die u wilt gebruiken of wijzig de standaardbasisinstellingen voor het rapport.
 
-   1. (Optioneel) Klik op de knop **[!UICONTROL Columns tab]** en wijzig de standaardkolommen in het rapport.
+   1. (Optioneel) Klik op **[!UICONTROL Columns tab]** en wijzig de standaardkolommen in het rapport.
 
-      Standaard worden alle monetaire gegevens in rapporten weergegeven in de notatie voor Amerikaanse dollars (zoals 1.000,00). Als u de waarde wilt weergeven in de juiste valutanotatie (maar zonder valutasymbolen in CSV- en TSV-notaties), voegt u &quot;[!UICONTROL Currency]&quot;. Als het rapport gegevens bevat voor rekeningen met verschillende valuta&#39;s, dan kan &quot;[!UICONTROL Total]&quot; monetaire waarden zijn de som van alle getallen in de kolom, ongeacht de valuta.
+      Standaard worden alle monetaire gegevens in rapporten weergegeven in de notatie voor Amerikaanse dollars (zoals 1.000,00). Om de waarde in het correcte muntformaat (maar zonder om het even welke muntsymbolen in Csv en Vv formaten) te tonen, voeg de &quot;[!UICONTROL Currency]&quot;kolom aan het rapport toe. Als het rapport gegevens voor rekeningen met verschillende valuta&#39;s omvat, dan zijn om het even welke &quot; [!UICONTROL Total]&quot;monetaire waarden de som alle aantallen in de kolom, ongeacht munt.
 
-   1. (facultatief; [!UICONTROL Campaign Report], [!UICONTROL Ad Group Report], [!UICONTROL Ad Variation Report], [!UICONTROL Keyword Report], en [!UICONTROL Label Classification Report] alleen) Klik op de knop **[!UICONTROL Classifications]** en beperkt u de rapportresultaten tot alleen specifieke labelclassificaties.
+   1. (Optioneel; [!UICONTROL Campaign Report] , [!UICONTROL Ad Group Report] , [!UICONTROL Ad Variation Report] , [!UICONTROL Keyword Report] en [!UICONTROL Label Classification Report] alleen) Klik op het tabblad **[!UICONTROL Classifications]** en beperkt de rapportresultaten tot alleen specifieke labelclassificaties.
 
-   1. (Optioneel) Klik op de knop **[!UICONTROL Advanced Filters]** en wijzigt u de standaard geavanceerde opties.
+   1. (Optioneel) Klik op de tab **[!UICONTROL Advanced Filters]** en wijzig de standaard geavanceerde opties.
 
-   1. (Optioneel) Klik op de knop **[!UICONTROL Attribution]** en wijzigt u de standaardtoewijzingsregel.
+   1. (Optioneel) Klik op de tab **[!UICONTROL Attribution]** en wijzig de standaardtoewijzingsregel.
 
-   1. (Optioneel) Klik op de knop **[!UICONTROL Scheduling and Delivery]** en wijzigt u de standaardopties voor planning en levering.
+   1. (Optioneel) Klik op het tabblad **[!UICONTROL Scheduling and Delivery]** en wijzig de standaardopties voor planning en levering.
 
-1. (Optioneel, indien beschikbaar) Als u de eerste 50 regels van het rapport wilt bekijken, klikt u op **[!UICONTROL Preview]**. Klik op **[!UICONTROL Back]** om op de pagina van rapportmontages terug te komen.
+1. (Optioneel, indien beschikbaar) Klik op **[!UICONTROL Preview]** om een voorvertoning van de eerste 50 regels van het rapport weer te geven. Als u klaar bent, klikt u op **[!UICONTROL Back]** om terug te keren naar de pagina met rapportinstellingen.
 
    >[!NOTE]
    >
-   >De knop Voorvertoning is beschikbaar voor alle standaard en geavanceerde rapporten, behalve voor de [!UICONTROL Campaign Hourly Report], [!UICONTROL Ad Variation Report], [!UICONTROL Keyword Report], [!UICONTROL Domain Referral Report], en [!UICONTROL Transaction Report].
+   >De knop Voorvertoning is beschikbaar voor alle standaard- en geavanceerde rapporten, behalve voor de rapporten [!UICONTROL Campaign Hourly Report] , [!UICONTROL Ad Variation Report] , [!UICONTROL Keyword Report] , [!UICONTROL Domain Referral Report] en [!UICONTROL Transaction Report] .
 
 1. Klik op **[!UICONTROL Create]**.
 
-Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] weergave](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan [[!UICONTROL Templates] weergave](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
+Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] mening ](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan de [[!UICONTROL Templates] mening ](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
 
-Als u een e-mailadres hebt ingevoerd voor een melding, ontvangt elke ontvanger een melding wanneer de rapporttaak is voltooid of mislukt, op basis van de [geconfigureerde meldingsinstellingen](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
+Als u om het even welke e-mailadressen voor bericht inging, ontvangt elke ontvanger een bericht wanneer de rapportbaan wordt voltooid of ontbreekt, die op de gebruiker [ wordt gebaseerd gevormde berichtmontages ](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
 
 >[!MORELIKETHIS]
 >
->* [Basisrapporten en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
->* [Standaard en geavanceerde rapportinstellingen](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
->* [Kolommen rapporteren voor basis- en geavanceerde rapporten](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
->* [Rapporten verwijderen](/help/search-social-commerce/reports/management/report-delete.md)
+>* [ Ongeveer basis en geavanceerde rapporten ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
+>* [ Basis en geavanceerde rapportmontages ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
+>* [ de kolommen van het Rapport voor basis en geavanceerde rapporten ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-columns.md)
+>* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)

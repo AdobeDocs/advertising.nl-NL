@@ -1,11 +1,11 @@
 ---
 title: Classificatiewaarden label verwijderen
 description: Leer hoe u waarden voor labelclassificaties verwijdert.
-exl-id: 97c07598-4740-4e55-85e9-ef4e4e46daeb
+exl-id: 1b404c6d-a6db-485b-9438-b102786eb65d
 feature: Search Label Classifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: '175'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ Als u labelclassificatiewaarden verwijdert, zijn deze niet meer beschikbaar voor
 
 >[!NOTE]
 >
->Als u eenvoudig een classificatiewaarde wilt loskoppelen van een accountcomponent, raadpleegt u &quot;[Classificatiewaarden verwijderen uit campagnecomponenten](classification-values-remove.md).&quot;
+>Om een classificatiewaarde van een rekeningscomponent eenvoudig los te koppelen, zie &quot;[ classificatiewaarden uit campagnecomponenten ](classification-values-remove.md) verwijderen.&quot;
 
-1. Klik op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Label Classifications]**.
+1. Klik op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Label Classifications]**.
 
-1. Selecteer in het submenu **[!UICONTROL Label Values]**.
+1. Selecteer **[!UICONTROL Label Values]** in het submenu.
 
 1. (Optioneel) Filter de lijst om specifieke labelwaarden op te nemen.
 
@@ -28,17 +28,17 @@ Als u labelclassificatiewaarden verwijdert, zijn deze niet meer beschikbaar voor
 
    U kunt maximaal 200 rijen tegelijk verwijderen.
 
-   Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
+1. In de toolbar boven de gegevenslijst, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [Informatie over labelclassificaties](classification-about.md)
->* [Een labelclassificatie maken](classification-create.md)
->* [Classificatiewaarden toewijzen aan accountcomponenten vanuit campagnebeheerweergaven](classification-values-assign-campaign-management.md)
->* [Classificatiewaarden toewijzen aan accountcomponenten met behulp van bulksbladen](classification-values-assign-bulksheets.md)
->* [Waarden voor labelclassificatie verwijderen uit accountcomponenten](classification-values-remove.md)
->* [Labelclassificaties verwijderen](classification-delete.md)
+>* [ Ongeveer etiketclassificaties ](classification-about.md)
+>* [ creeer een etiketclassificatie ](classification-create.md)
+>* [ wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe ](classification-values-assign-campaign-management.md)
+>* [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](classification-values-assign-bulksheets.md)
+>* [ verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten ](classification-values-remove.md)
+>* [ schrapt etiketclassificaties ](classification-delete.md)

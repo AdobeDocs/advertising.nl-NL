@@ -1,72 +1,72 @@
 ---
-title: Beheren [!DNL Google Ads] callout-extensies
-description: Leer hoe u creeert en beheert [!DNL Google Ads] callout-extensies.
-exl-id: 5ac4ae56-6de6-4c35-aaf3-339011af16c5
+title: Beheer  [!DNL Google Ads]  callout uitbreidingen
+description: Leer om  [!DNL Google Ads]  callout uitbreidingen tot stand te brengen en te beheren.
+exl-id: b1be553e-49a1-47b8-8dd2-84db56fa249e
 feature: Search Campaign Management
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '376'
 ht-degree: 0%
 
 ---
 
-# Beheren [!DNL Google Ads] gedeelde callout-extensies
+# [!DNL Google Ads] gedeelde callout-extensies beheren
 
 *[!DNL Google Ads]alleen accounts*
 
-Gedeelde callout-extensies op accountniveau maken en beheren voor alle [gesynchroniseerd [!DNL Google Ads] account](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) van de [!UICONTROL Extensions] > [!UICONTROL Callout library].
+Creeer en beheer rekening-vlakke gedeelde callout uitbreidingen voor om het even welke [ gesynchroniseerde  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) van [!UICONTROL Extensions] > [!UICONTROL Callout library].
 
-## Een [!DNL Google Ads] gedeelde callout
+## Een [!DNL Google Ads] gedeelde bijschrift maken
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]** .
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Maken](/help/search-social-commerce/assets/add.png "Maken").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
-1. Selecteer het advertentienetwerk en de accountnaam en klik vervolgens op **[!UICONTROL Continue]**.
+1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
-1. Voer de [gedeelde bijschriftinstellingen](#shared-callout-settings).
+1. Ga de [ gedeelde callout montages ](#shared-callout-settings) in.
 
 1. Klik op **[!UICONTROL Post]**.
 
-Wanneer u een sitelink maakt, kunt u [toewijzen aan een account, campagne of advertentiegroep](callout-extension-associate.md).
+Zodra u een sitelink creeert, kunt u het [ toewijzen aan een rekening, een campagne, of een ad groep ](callout-extension-associate.md).
 
-## Bewerken [!DNL Google Ads] gedeelde bijschriftinstellingen
+## Instellingen voor gedeelde bijschriften bewerken [!DNL Google Ads]
 
 U kunt één gedeelde bijschrift tegelijk bewerken.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]** .
 
 1. Selecteer het selectievakje naast de bijschrift die u wilt bewerken.
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [gedeelde bijschriftinstellingen](#shared-callout-settings).
+1. Bewerk de [ gedeelde callout montages ](#shared-callout-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
-## Verwijderen [!DNL Google Ads] gedeelde callouts
+## Gedeelde callouts verwijderen [!DNL Google Ads]
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]**. Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Callout]** .
 
 1. Schakel het selectievakje in naast elk gedeeld bijschrift dat u wilt verwijderen.
 
-   Voor tips over het selecteren van meerdere rijen raadpleegt u &quot;[Meerdere rijen selecteren](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. Klik op de werkbalk op ![Meer](/help/search-social-commerce/assets/more.png "Meer") en selecteert u **[!UICONTROL Delete]**.
+1. In de toolbar, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Delete]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
-## [!DNL Google Ads] gedeelde bijschriftinstellingen {#shared-callout-settings}
+## [!DNL Google Ads] instellingen voor gedeelde bijschriften {#shared-callout-settings}
 
-Voor extra [!DNL Google Ads] beleidsregels en redenen voor de afkeuring van bijschriften, zie de [vereisten voor extensies voor bijschriften](https://support.google.com/adspolicy/answer/1054212).
+Voor extra [!DNL Google Ads] beleid en redenen voor callout afkeuring, zie de [ vereisten van de callout uitbreiding ](https://support.google.com/adspolicy/answer/1054212).
 
 **[!UICONTROL Callout Text]:** De tekst die moet worden weergegeven. Het kan maximaal 25 tekens of 12 double-byte tekens bevatten. Er kunnen geen uitroepingstekens of leestekens aan het begin van de tekst worden opgenomen.
 
-**[!UICONTROL Start Date]:** (Optioneel) De eerste datum waarop de callout kan worden weergegeven met advertenties. Het gebrek voor nieuwe callouts is de huidige dag. Als u een toekomstige begindatum wilt opgeven, voert u een datum in de notatie MM/DD/JJJJ of M/D/JJJJ in of klikt u op ![Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") en selecteer een datum.
+**[!UICONTROL Start Date]:** (Facultatief) de eerste datum waarop de callout met advertenties kan worden getoond. Het gebrek voor nieuwe callouts is de huidige dag. Om een toekomstige begindatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " Kalender ") van 0} Kalender en selecteer een datum.![
 
-**[!UICONTROL End Date]:** (Optioneel) De laatste datum waarop de callout kan worden weergegeven met advertenties. Door gebrek, kan de callout voor onbepaalde tijd worden getoond. Als u een einddatum wilt opgeven, voert u een datum in de notatie MM/DD/JJJJ of M/D/JJJJ in of klikt u op ![Kalender](/help/search-social-commerce/assets/calendar.png "Kalender") en selecteer een datum.
+**[!UICONTROL End Date]:** (Facultatief) de laatste datum waarop de callout met advertenties kan worden getoond. Door gebrek, kan de callout voor onbepaalde tijd worden getoond. Om een einddatum te specificeren, ga een datum in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ](/help/search-social-commerce/assets/calendar.png " Kalender ") van de Kalender 1} en selecteer een datum.![
 
-**[!UICONTROL Mobile Preference]:** (Optioneel) Toestaan [!DNL Google Ads] om te proberen de advertentie te tonen aan mobiele apparatengebruikers eerder dan Desktop of tabletgebruikers. Anders (bij &quot;uit&quot;), [!DNL Google Ads] geeft de advertentie weer op elk apparaattype.
+**[!UICONTROL Mobile Preference]:** (Optioneel) Hiermee kunt u [!DNL Google Ads] de advertentie proberen weer te geven voor gebruikers van mobiele apparaten in plaats van voor gebruikers van desktopcomputers of tablets. Anders (wanneer &quot;uit&quot;) geeft [!DNL Google Ads] de advertentie weer op elk apparaattype.
 
 >[!NOTE]
 >
@@ -74,5 +74,5 @@ Voor extra [!DNL Google Ads] beleidsregels en redenen voor de afkeuring van bijs
 
 >[!MORELIKETHIS]
 >
->* [Info [!DNL Google Ads] callout-extensies](callout-extension-about.md)
->* [Koppelen [!DNL Google Ads] gedeelde callout-extensies met campagnes of ad-groepen](callout-extension-associate.md)
+>* [ Ongeveer  [!DNL Google Ads]  callout uitbreidingen ](callout-extension-about.md)
+>* [ associeerde  [!DNL Google Ads]  gedeelde callout uitbreidingen met campagnes of ad groepen ](callout-extension-associate.md)

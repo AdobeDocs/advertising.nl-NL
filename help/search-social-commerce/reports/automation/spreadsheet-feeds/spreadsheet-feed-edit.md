@@ -3,7 +3,7 @@ title: Invoerinstellingen voor spreadsheetrapporten bewerken
 description: Leer hoe u de instellingen voor spreadsheetfeeds bewerkt.
 exl-id: 8ca36006-4038-404b-aaf9-66dc3e9ddcf6
 feature: Search Reports
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '317'
 ht-degree: 0%
@@ -12,35 +12,35 @@ ht-degree: 0%
 
 # Invoerinstellingen voor spreadsheetrapporten bewerken
 
-*Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
+*voor basisrapporten en modelnauwkeurigheidsrapporten slechts*
 
-U kunt wijzigen welk rapportsjabloon u wilt gebruiken, [!DNL Microsoft Excel] en andere parameters worden gebruikt voor een spreadsheetfeed.
+U kunt wijzigen welke rapportsjabloon, [!DNL Microsoft Excel] sjabloon en andere parameters worden gebruikt voor een spreadsheetfeed.
 
 >[!NOTE]
 >
-> Als u de kolommen in het rapportmalplaatje uitgeeft of een nieuw of bijgewerkt rapportmalplaatje gebruikt, dan moet u bijwerken [!DNL Excel] dienovereenkomstig te plaatsen en het opnieuw te uploaden.
+> Als u de kolommen in het rapportmalplaatje uitgeeft of een nieuw of bijgewerkt rapportmalplaatje gebruikt, dan moet u het [!DNL Excel] malplaatje dienovereenkomstig bijwerken en het opnieuw uploaden.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Spreadsheet Feeds]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Spreadsheet Feeds]** .
 
-1. (Optioneel) U kunt als volgt de rapportsjabloon of de [!DNL Excel] sjabloon voor de spreadsheetfeed:
+1. (Optioneel) U kunt als volgt de rapportsjabloon of de sjabloon [!DNL Excel] die wordt gebruikt voor de spreadsheetfeed bijwerken:
 
-   * (Optioneel) Een andere of bijgewerkte rapportsjabloon voor de feed gebruiken, [een nieuwe [!DNL Excel] template voor de rapportsjabloon](spreadsheet-feed-create-excel-template.md).
+   * (Facultatief) om een verschillend of bijgewerkt rapportmalplaatje voor het voer te gebruiken, [ creeer een nieuw  [!DNL Excel]  malplaatje voor het rapportmalplaatje ](spreadsheet-feed-create-excel-template.md).
 
-     U zult zowel het rapportmalplaatje als nieuw moeten uploaden [!DNL Excel] in de volgende stap.
+     In de volgende stap moet u zowel de rapportsjabloon als het nieuwe [!DNL Excel] -bestand uploaden.
 
-   * (Optioneel) U kunt gewoon aangepaste kolommen toevoegen aan de [!DNL Excel] malplaatje, neem de kolommen rechts van de kolommen van het rapportmalplaatje op, en bewaar dan het dossier als [!DNL Excel] spreadsheet in .XLSX formaat. U moet de nieuwe [!DNL Excel] in de volgende stap.
+   * (Optioneel) Als u eenvoudig aangepaste kolommen aan de sjabloon [!DNL Excel] wilt toevoegen, voegt u de kolommen rechts van de kolommen in de rapportsjabloon in en slaat u het bestand op als een [!DNL Excel] -spreadsheet in de indeling XLSX. U moet het nieuwe [!DNL Excel] bestand in de volgende stap uploaden.
 
 1. Wijzig de instellingen voor de spreadsheetfeed:
 
-   * Klik in het hoofdmenu op **[!UICONTROL Reports]>[!UICONTROL Spreadsheet Feeds]**.
+   * Klik in het hoofdmenu op **[!UICONTROL Reports]>[!UICONTROL Spreadsheet Feeds]** .
 
-   * Klik naast de naam van de werkbladfeed op ![Knop Instellingen weergeven/bewerken](/help/search-social-commerce/assets/settings.png "Knop Instellingen weergeven/bewerken").
+   * Naast de naam van de spreadsheetvoer, klik ![ Mening/geef montagesknoop ](/help/search-social-commerce/assets/settings.png " Mening uit/geef montagesknoop ").
 
-   * In de [!UICONTROL Edit Spreadsheet Feed] dialoogvenster, wijzigen [instellingen voor spreadsheetfeed](spreadsheet-feed-settings.md).
+   * In de [!UICONTROL Edit Spreadsheet Feed] dialoog, verander de [ montages van de spreadsheetvoer ](spreadsheet-feed-settings.md).
 
    * Klik op **[!UICONTROL Submit]**.
 
-   * (Optioneel) Eenmaal de diervoeders [!UICONTROL Update Status] is *[!UICONTROL Finished]*, klikt u op **[!UICONTROL XLSX]** naast de feed en open of sla het bestand op volgens de normale procedure van uw browser.
+   * (Optioneel) Als de feed [!UICONTROL Update Status] *[!UICONTROL Finished]* is, klikt u op **[!UICONTROL XLSX]** naast de feed en opent of slaat u het bestand op volgens de normale procedure van uw browser.
 
      >[!NOTE]
      >
@@ -50,10 +50,10 @@ U kunt wijzigen welk rapportsjabloon u wilt gebruiken, [!DNL Microsoft Excel] en
 
 >[!MORELIKETHIS]
 >
->* [Info over werkbladrapportfeeds](spreadsheet-feed-about.md)
->* [Een feed voor een spreadsheetrapport maken](spreadsheet-feed-create.md)
->* [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](spreadsheet-feed-create-excel-template.md)
->* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
->* [Werkbladrapportfeeds handmatig vernieuwen](spreadsheet-feed-refresh.md)
+>* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
+>* [ creeer een spreadsheetrapportvoer ](spreadsheet-feed-create.md)
+>* [ creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport ](spreadsheet-feed-create-excel-template.md)
+>* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
+>* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
+>* [ Mening of sparen een dossier van het spreadsheetrapport voer ](spreadsheet-feed-view-or-save.md)
+>* [ vernieuw manueel spreadsheetrapportvoer ](spreadsheet-feed-refresh.md)

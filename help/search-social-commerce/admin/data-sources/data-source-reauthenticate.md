@@ -4,7 +4,7 @@ description: Leer hoe te om a  [!DNL Google Analytics]  gegevensbron opnieuw voo
 role: User, Admin
 exl-id: 624f0f0e-3f2f-45b1-b3dc-c1b107b4736f
 feature: Search Admin, Search Data Sources
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '238'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een gegevensbron, of als het [!DNL OAuth] -certificaat voor de account vervalt, worden alle open verbindingen met de e-mailaccount gesloten en moet u opnieuw verifiëren of u de synchronisatie van gegevens wilt hervatten.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]** .
 
 1. Schakel het selectievakje in naast de gegevensbron die u opnieuw wilt verifiëren.
 

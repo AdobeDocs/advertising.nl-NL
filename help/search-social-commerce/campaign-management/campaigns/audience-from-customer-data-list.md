@@ -3,7 +3,7 @@ title: Beheer klanten gelijke soorten publiek gebruikend de lijsten van klanteng
 description: Leer om  [!DNL Google Ads]  tot stand te brengen en uit te geven en  [!DNL Microsoft Advertising]  klantengelijke publiek van uw lijsten van klantengegevens.
 exl-id: 594a7ee0-4ac9-4970-b53e-d4624fd7b70c
 feature: Search Campaign Management
-source-git-commit: 46d736c3e14bf407c513c5cb6a153a578aa65121
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '840'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Voor [!DNL Microsoft Advertising] -accounts kan het bestand e-mailadressen bevat
 
    Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ voorbereidend de lijsten van de klantengelijke ](https://help.ads.microsoft.com/#apex/ads/en/56921). U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
@@ -93,7 +93,7 @@ De gegevens moeten van hetzelfde type zijn als de oorspronkelijke lijst met klan
 
 Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ het voorbereiden van de lijsten van de klantengelijke ] (https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
 1. Schakel het selectievakje naast het publiek dat u wilt bewerken in.
 

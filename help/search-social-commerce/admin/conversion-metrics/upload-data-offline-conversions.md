@@ -3,7 +3,7 @@ title: Offline conversiegegevens uploaden voor verbeterde conversies
 description: Leer hoe te om eerste-partij te uploaden, off-line omzettingsgegevens aan kaart  [!DNL Google Ads]  verbeterde omzettingen voor lood en  [!DNL Microsoft Advertising]  verbeterde omzettingen.
 feature: Conversions
 exl-id: 5c5dfbb8-3b17-4973-8012-fc7f0e97e33b
-source-git-commit: eb7320fdddce4895a689c32ec6fb1e44cb8f2705
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 0%
@@ -18,7 +18,7 @@ U kunt uw eerste-partij, off-line omzettingsgegevens - met inbegrip van gehakt e
 
 ## Gegevens uploaden voor verbeterde conversies
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** en klik vervolgens op de tab **[!UICONTROL Upload]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** en klik vervolgens op de tab **[!UICONTROL Upload]** .
 
 1. Selecteer het advertentienetwerk, en dan de rekening.
 

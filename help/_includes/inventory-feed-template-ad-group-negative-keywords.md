@@ -1,5 +1,5 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 0%
@@ -7,12 +7,12 @@ ht-degree: 0%
 ---
 # Tekst en sjabloon - Negatieve trefwoordinstellingen op groepsniveau toevoegen
 
-**[!UICONTROL Delete negative keywords when omitted from list]:** (Alle en netwerken behalve Yandex; (optioneel) Hiermee verwijdert u bestaande negatieve trefwoorden op ad-hocniveau die eerder zijn gemaakt met de sjabloon die niet in de onderstaande lijsten zijn opgegeven. **Opmerking:** Negatieve trefwoorden die op andere manieren zijn gemaakt (zoals in gewone opsommingstekens, worden [!UICONTROL Campaigns] weergaven (of in de advertentienetwerkeditor) worden nooit verwijderd met de sjabloon.
+**[!UICONTROL Delete negative keywords when omitted from list]:** (Alle ad netwerken behalve Yandex; facultatief) schrapt bestaande en groep-vlakke negatieve sleutelwoorden eerder gecreeerd gebruikend het malplaatje die niet in de hieronder lijsten worden gespecificeerd. **Nota:** Negatieve sleutelwoorden die worden gecreeerd gebruikend andere middelen (zoals in gewone bulksbladen, de [!UICONTROL Campaigns] meningen, of in de ad redacteur van het advertentienetwerk) worden nooit verwijderd gebruikend het malplaatje.
 
-**[!UICONTROL Apply these negatives]:** (Alle advertentienetwerken behalve [!DNL Yandex]; (optioneel) Eventuele negatieve trefwoorden op statisch en groepsniveau die moeten worden toegevoegd. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
+**[!UICONTROL Apply these negatives]:** (Alle en netwerken behalve [!DNL Yandex]; optioneel) Alle negatieve trefwoorden op statisch en groepsniveau die moeten worden toegevoegd. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
 
 * Negatieve brede overeenkomst: `keyword` (wordt niet ondersteund door [!DNL Microsoft Advertising])
-* Negatieve woordovereenkomst: `"keyword"`
+* Negatieve woordgroep komt overeen: `"keyword"`
 * Negatieve exacte overeenkomst: `[keyword]`
 
-De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Opmerking:** De negatieve trefwoorden kunt u niet zien in het dialoogvenster [!UICONTROL Keywords] of in de [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergeven.
+De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Nota:** u kunt niet de negatieve sleutelwoorden in het [!UICONTROL Keywords] lusje of in [!UICONTROL Search, Social, & Commerce] zien > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] mening.

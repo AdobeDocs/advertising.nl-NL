@@ -1,9 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon bewerken
 description: Leer hoe u een sjabloon voor het genereren van aangepaste waarschuwingen kunt bewerken.
-exl-id: 14051d02-108c-4b0e-8a52-9ae18a95fe2e
+exl-id: 37dfaaa2-ecd2-42cf-a3a6-9d82a8610355
 feature: Search Alerts
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -12,27 +12,27 @@ ht-degree: 0%
 
 # Een aangepaste waarschuwingssjabloon bewerken
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]**, die voor de [!UICONTROL Alert Templates] weergeven.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** . Dit wordt geopend in de [!UICONTROL Alert Templates] -weergave.
 
 1. (Optioneel) Filter de weergave om rij met specifieke namen, te evalueren gegevensbereik of andere criteria op te nemen.
 
-   U kunt gegevensfilters toepassen [van de werkbalk](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of [van kolomkoppen](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
+   U kunt gegevensfilters [ van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of [ van kolomkopballen ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toepassen.
 
-1. Klik naast de sjabloonnaam op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
+1. Naast de malplaatjenaam, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. In de [!UICONTROL Update \[Entity Type\] Alert] venster, bewerken [waarschuwingsinstellingen](alert-template-settings.md) op de **[!UICONTROL Date Range]**, **[!UICONTROL Filters]**, en **[!UICONTROL Scheduling and Delivery]** tabs.
+1. In het [!UICONTROL Update \[Entity Type\] Alert] venster, geef de [ waakzame montages ](alert-template-settings.md) op **[!UICONTROL Date Range]** uit, **[!UICONTROL Filters]**, en **[!UICONTROL Scheduling and Delivery]** lusjes.
 
-   U kunt schakelen tussen tabbladen door op de tabnaam te klikken (bijvoorbeeld &quot;Filters&quot;) of door op **[!UICONTROL Next]** rechtsonder.
+   U kunt tussen tabbladen navigeren door op de tabnaam te klikken (bijvoorbeeld &quot;Filters&quot;) of door op **[!UICONTROL Next]** rechtsonder te klikken.
 
-1. Op de [!UICONTROL Summary] tabblad, klikt u op **[!UICONTROL Update]**.
+1. Klik op het tabblad [!UICONTROL Summary] op **[!UICONTROL Update]** .
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste waarschuwingen](alert-about.md)
->* [Een aangepaste waarschuwingssjabloon maken](alert-template-create.md)
->* [Een aangepaste waarschuwingssjabloon onderbreken](alert-template-pause.md)
->* [Een aangepaste waarschuwingssjabloon activeren](alert-template-activate.md)
->* [Een aangepaste waarschuwingssjabloon verwijderen](alert-template-delete.md)
->* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
->* [Aangepaste waarschuwingen weergeven](alert-view.md)
->* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
+>* [ Ongeveer douanealarm ](alert-about.md)
+>* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
+>* [ Pauzeer een malplaatje van de douanealarm ](alert-template-pause.md)
+>* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
+>* [ Schrap een malplaatje van de douanealarm ](alert-template-delete.md)
+>* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
+>* [ de douanealarm van de Mening ](alert-view.md)
+>* [ de gegevens van de Uitvoer voor douanealarm ](alert-export-data.md)

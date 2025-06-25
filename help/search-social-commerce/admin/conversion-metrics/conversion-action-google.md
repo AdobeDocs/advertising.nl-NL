@@ -2,7 +2,8 @@
 title: Creeer een omzettingsactie voor a [!DNL Google Ads]  verbeterde omzetting voor lood
 description: Leer hoe te om a  [!DNL Google Ads]  omzettingsactie voor een verbeterde omzetting voor lood tot stand te brengen.
 feature: Conversions
-source-git-commit: 5eb6ed5b42e74f424fc8499f6df0dbe3f2430ab2
+exl-id: faf4a6de-e82f-4afd-bda5-2602fb45aee5
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -15,7 +16,7 @@ ht-degree: 0%
 
 U kunt conversieacties maken voor [!DNL Google Ads] verbeterde conversies voor leads die moeten worden bijgehouden voor afzonderlijke [!DNL Google Ads] -accounts, niet voor conversies die worden bijgehouden op het niveau van een beheeraccount.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** , waarmee u het tabblad **[!UICONTROL Summary]** opent.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** , waarmee u het tabblad **[!UICONTROL Summary]** opent.
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 

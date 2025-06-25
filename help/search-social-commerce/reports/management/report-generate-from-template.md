@@ -1,9 +1,9 @@
 ---
 title: Een rapport genereren op basis van een sjabloon
 description: Leer hoe te om een rapport tot stand te brengen gebruikend een rapportmalplaatje.
-exl-id: 353e2a88-a3fc-4a53-afd4-b18b776357db
+exl-id: cb918323-cb7e-407c-bfa3-ec3d8753ecbb
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 1%
@@ -12,9 +12,9 @@ ht-degree: 1%
 
 # Een rapport genereren op basis van een sjabloon
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-1. Klik op de knop **[!UICONTROL Templates]** tab.
+1. Klik op de tab **[!UICONTROL Templates]** .
 
 1. Klik op de sjabloonnaam.
 
@@ -24,8 +24,8 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [Informatie over rapporten](/help/search-social-commerce/reports/report-about.md)
->* [Standaard en geavanceerde rapportinstellingen](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
->* [Instellingen van modelnauwkeurigheidsrapporten](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
->* [Instellingen voor speciale rapporten](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
->* [Rapporten verwijderen](/help/search-social-commerce/reports/management/report-delete.md)
+>* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
+>* [ Basis en geavanceerde rapportmontages ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
+>* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [ het rapportmontages van de Specialiteit ](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)

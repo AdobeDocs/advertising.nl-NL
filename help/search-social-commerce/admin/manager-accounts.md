@@ -3,7 +3,7 @@ title: Referenties beheren voor accounts van ad-netwerkbeheerders
 description: Leer hoe te om geloofsbrieven voor uw  [!DNL Google Ads]  managerrekeningen te verstrekken.
 exl-id: 95866a2e-4695-4b1d-ac23-844d3b9a0a74
 feature: Search Admin
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
@@ -24,7 +24,7 @@ Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van 
 
 ## Om geloofsbrieven voor een nieuwe managerrekening toe te voegen
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** .
 
 1. Selecteer **[!UICONTROL Create new manager account]** .
 
@@ -40,7 +40,7 @@ Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van 
 
 ## Een bestaande beheerdersaccount opnieuw verifiëren
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** .
 
 1. Selecteer **[!UICONTROL Reauthenticate existing manager account]** .
 

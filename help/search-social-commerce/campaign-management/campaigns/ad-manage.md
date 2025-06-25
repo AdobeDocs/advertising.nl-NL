@@ -3,7 +3,7 @@ title: Advertenties beheren
 description: Leer hoe u advertenties kunt maken en beheren.
 exl-id: 5ec410cd-9dff-41e6-9ecc-d6ceee84755e
 feature: Search Campaign Management
-source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -26,7 +26,7 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 >
 >Om vele advertenties te creëren meteen, gebruik [ exemplaar en deegeigenschap ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
@@ -38,11 +38,11 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
    >[!NOTE]
    >
-   >(Campagnes met het volgen van de omzetting van de Adobe Advertising) als de rekening of de campagnemontages het volgen slechts op het sleutelwoordniveau specificeren, dan het Onderzoek, Sociale, &amp; Commerce produceert geen het volgen voor advertenties.
+   >(Campagnes met het bijhouden van Adobe Advertising-conversie) Als de account- of campagnemontages alleen tracering op trefwoordniveau opgeven, worden met Zoeken, Sociaal en Commerce geen tracking voor advertenties gegenereerd.
 
 1. Klik op **[!UICONTROL Post]**.
 
-1. (Het Vormen advertenties in campagnes met het volgen van de omzetting van de Adobe Advertising; facultatief) om kliks op de advertentie te volgen, [ produceert het volgen URL gebruikend het Volgen hulpmiddel URLs ](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het manueel aan de rekening, de campagne, of de montages van de productgroep toe.
+1. (Het kopen advertenties in campagnes met de omzetting van Adobe Advertising het volgen; facultatief) om kliks op de advertentie te volgen, [ produceert het volgen URL gebruikend het het Volgen hulpmiddel URLs ](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het manueel aan de rekening, de campagne, of de montages van de productgroep toe.
 
 ## Advertentie-instellingen bewerken
 
@@ -56,7 +56,7 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 >
 >Om grote hoeveelheden gegevens in één keer uit te geven, gebruik de [ exemplaar en deegeigenschap ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
 
 1. Voer een van de volgende handelingen uit:
 
@@ -70,7 +70,7 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
       1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [&#128279;](ad-settings-microsoft-product.md) [!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.
+1. Bewerk de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [[!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.](ad-settings-microsoft-product.md)
 
    Voor meerdere advertenties kunt u alleen de velden bewerken die worden gebruikt voor alle geselecteerde advertenties. De wijzigingen worden toegepast op alle geselecteerde advertenties. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
@@ -86,7 +86,7 @@ U kunt een actieve advertentie pauzeren om het bieden op de advertentie uit te s
 
 U kunt ook alle actieve of gepauzeerde zoekopdrachten verwijderen. Verwijderde advertenties worden uit het advertentienetwerk verwijderd. Ze zijn nog steeds zichtbaar, maar je kunt ze niet wijzigen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
 
 1. (Optioneel) Filter de lijst om specifieke advertenties op te nemen.
 
@@ -96,9 +96,9 @@ U kunt ook alle actieve of gepauzeerde zoekopdrachten verwijderen. Verwijderde a
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
+   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
 
-   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
+   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 

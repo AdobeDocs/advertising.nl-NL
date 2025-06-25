@@ -3,7 +3,7 @@ title: Gegevens downloaden vanuit een campagnebeheerweergave
 description: Leer hoe u gegevens kunt downloaden uit de meeste weergaven voor campagnebeheer.
 exl-id: f549f03c-ed0b-4d7d-8d7e-91192c17e77e
 feature: Search Common Tasks
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -12,32 +12,32 @@ ht-degree: 0%
 
 # Gegevens downloaden vanuit een campagnebeheerweergave
 
-U kunt gegevens downloaden van de [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergaven behalve de [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives], [!UICONTROL Placements] - [!UICONTROL Placement Negatives], [!UICONTROL Audiences], en [!UICONTROL Extensions] weergaven. U kunt een van de volgende twee downloaden:
+U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] , met uitzondering van de weergaven [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives] , [!UICONTROL Placements] - [!UICONTROL Placement Negatives] , [!UICONTROL Audiences] en [!UICONTROL Extensions] . U kunt een van de volgende twee downloaden:
 
-* Een rapport in [!DNL XLSM] (macro ingeschakeld) [!DNL Microsoft Excel] spreadsheet). Als u specifieke rijen selecteert in de weergave, bevat het rapport één rij voor elke geselecteerde rij. Als u geen rijen selecteert, wordt er voor elke rij in de weergave één rij gemaakt.
+* Een rapport in de indeling [!DNL XLSM] (voor macro geschikte [!DNL Microsoft Excel] spreadsheet). Als u specifieke rijen selecteert in de weergave, bevat het rapport één rij voor elke geselecteerde rij. Als u geen rijen selecteert, wordt er voor elke rij in de weergave één rij gemaakt.
 
 * Een bulksbladbestand in de TXT-indeling dat alle relevante onderliggende entiteiten bevat. Als u rijen selecteert voor entiteiten op meerdere advertentienetwerken, wordt er één bestand gemaakt voor elk relevant advertentienetwerk. Als u geen rijen selecteert, wordt er één bestand gemaakt voor elk advertentienetwerk dat in de weergave wordt weergegeven. De dossiers van het bulksblad die voor verschillende advertentienetwerken worden geproduceerd omvatten verschillende gegevenskolommen.
 
-  Als u gegevens voor veelvoudige campagnes produceert en de gecombineerde gegevens uit meer dan 500.000 rijen bestaan, dan worden de gegevens verder verdeeld door campagne in twee of meer dossiers, zonodig, genoemd `<bulksheet name>_1.txt`, `<bulksheet name>_2.txt`, enzovoort.
+  Als u gegevens voor meerdere campagnes genereert en de gecombineerde gegevens uit meer dan 500.000 rijen bestaan, worden de gegevens verder gesplitst per campagne in twee of meer bestanden, indien nodig, genaamd `<bulksheet name>_1.txt`, `<bulksheet name>_2.txt` enzovoort.
 
-  Elk bestand met de opsommingstekens in het dialoogvenster [!UICONTROL Downloads] wordt ook vermeld op het tabblad [!UICONTROL Bulksheets] weergeven. Wanneer het bestand is gemaakt, ontvangt u een e-mailbericht met een koppeling waarmee u het bestand kunt downloaden. Afhankelijk van de hoeveelheid gegevens die wordt gecompileerd, kan het enkele minuten of langer duren. Als het genereren van het bestand echter mislukt, wordt een foutbestand weergegeven in de weergave Opsommingstekens en ontvangt u een e-mailmelding met een koppeling naar het foutbestand. Een bulksbladbestand verwijderen uit het dialoogvenster [!UICONTROL Download] of de [!UICONTROL Bulksheets] verwijdert deze van beide locaties.
+  Elk bulksbladbestand in het deelvenster [!UICONTROL Downloads] wordt ook weergegeven in de weergave [!UICONTROL Bulksheets] . Wanneer het bestand is gemaakt, ontvangt u een e-mailbericht met een koppeling waarmee u het bestand kunt downloaden. Afhankelijk van de hoeveelheid gegevens die wordt gecompileerd, kan het enkele minuten of langer duren. Als het genereren van het bestand echter mislukt, wordt een foutbestand weergegeven in de weergave Opsommingstekens en ontvangt u een e-mailmelding met een koppeling naar het foutbestand. Als u een bestand met een opsommingsteken verwijdert uit het deelvenster [!UICONTROL Download] of het tabblad [!UICONTROL Bulksheets] , wordt dit bestand van beide locaties verwijderd.
 
 1. (Optioneel) Selecteer de afzonderlijke rijen die u in het bestand wilt opnemen.
 
    Anders worden alle gegevens in de weergave opgenomen.
 
-1. Klik rechts van de werkbalk op ![Rapport downloaden](/help/search-social-commerce/assets/download.png "Rapport downloaden").
+1. Op het recht van de toolbar, klik ](/help/search-social-commerce/assets/download.png " Download van het Rapport van de Download van het 0} ").![
 
-1. Klikken ![Maken](/help/search-social-commerce/assets/add.png "Maken") **[!UICONTROL Create]** voegt u desgewenst de bestandsnaam toe en klikt u op **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
+1. Klik ![ creëren ](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
 
-1. (Optioneel) Als de rapporttaak is voltooid, klikt u op ![Rapport downloaden](/help/search-social-commerce/assets/download.png "Rapport downloaden") om de [!UICONTROL Available Reports] en het rapport vervolgens downloaden of verwijderen:
+1. (Facultatief) Zodra de rapportbaan volledig is, klik ](/help/search-social-commerce/assets/download.png " Download van het Rapport 1} ") om het [!UICONTROL Available Reports] paneel te bekijken, en dan het rapport te downloaden of te schrappen:![
 
-   * Als u het bestand wilt openen of opslaan volgens de normale procedure van uw browser, klikt u op ![Werkblad downloaden](/help/search-social-commerce/assets/download-spreadsheet.png "Werkblad downloaden").
+   * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![ spreadsheet van de Download ](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
 
      Raadpleeg de online Help van uw browser voor meer informatie over de browserprocedure.
 
-   * Klik op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
+   * Om het dossier te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
 >[!MORELIKETHIS]
 >
->[Een rapport met prestatiegegevens of een bulkbestand verwijderen uit het dialoogvenster [!UICONTROL Downloads] menu](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>[ Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)

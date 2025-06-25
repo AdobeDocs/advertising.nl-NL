@@ -1,5 +1,5 @@
 ---
-source-git-commit: 029e406fbfb4217ce78364c2d1f1a6dae24ff588
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 0%
@@ -7,26 +7,26 @@ ht-degree: 0%
 ---
 # Tekst en sjabloon - Instellingen voor negatieve trefwoorden op campagnereniveau
 
-**[!UICONTROL Delete negative keywords when omitted from list]:** (Alle en netwerken behalve Yandex; (optioneel) Verwijdert bestaande negatieve trefwoorden op campagneniveau die eerder zijn gemaakt met de sjabloon die niet in de onderstaande lijsten zijn opgegeven. **Opmerking:** Negatieve trefwoorden die op andere manieren zijn gemaakt (zoals in gewone opsommingstekens, worden [!UICONTROL Campaigns] weergaven (of in de advertentienetwerkeditor) worden nooit verwijderd met de sjabloon.
+**[!UICONTROL Delete negative keywords when omitted from list]:** (Alle ad netwerken behalve Yandex; facultatief) schrapt bestaande campagne-vlakke negatieve sleutelwoorden eerder gecreeerd gebruikend het malplaatje die niet in de hieronder lijsten worden gespecificeerd. **Nota:** Negatieve sleutelwoorden die worden gecreeerd gebruikend andere middelen (zoals in gewone bulksbladen, de [!UICONTROL Campaigns] meningen, of in de ad redacteur van het advertentienetwerk) worden nooit verwijderd gebruikend het malplaatje.
 
-**[!UICONTROL Set negative keywords by campaign name condition]:** (Alle en netwerken behalve Yandex; (optioneel) Hiermee kunt u negatieve trefwoorden opgeven voor campagnes waarvan de naam een opgegeven tekenreeks bevat. Wanneer u deze optie selecteert, kunt u maximaal drie campagnenaam-tekenreeksen en bijbehorende trefwoorden toevoegen.
+**[!UICONTROL Set negative keywords by campaign name condition]:** (Alle advertentienetwerken behalve Yandex; facultatief) staat u toe om negatieve sleutelwoorden voor campagnes te specificeren de waarvan naam een gespecificeerde koord omvat. Wanneer u deze optie selecteert, kunt u maximaal drie campagnenaam-tekenreeksen en bijbehorende trefwoorden toevoegen.
 
-Klik voor elke tekenreeks op **[!UICONTROL Add (Up to 3)]** en voert u de volgende gegevens in:
+Klik voor elke tekenreeks op **[!UICONTROL Add (Up to 3)]** en voer de volgende informatie in:
 
-* **[!UICONTROL If campaign name contains]:**  Een tekstreeks die overal binnen de naam van de campagne moet worden gezocht. De query is hoofdlettergevoelig (bijvoorbeeld &quot;[!DNL Car]&quot; komt overeen met de naam van de campagne &quot;[!DNL Car Parts]&quot; maar niet &quot;[!DNL INTERIOR CAR ACCESSORIES]&quot;).
+* **[!UICONTROL If campaign name contains]:** een tekstkoord om binnen de campagnenaam overal te zoeken. De vraag is case-sensitive (bijvoorbeeld, &quot;[!DNL Car]&quot;past de campagnenaam &quot;[!DNL Car Parts]&quot;maar niet &quot;[!DNL INTERIOR CAR ACCESSORIES]&quot;) aan.
 
-* **[!UICONTROL Apply these negatives]:**  Eventuele negatieve trefwoorden op campagneniveau op statisch niveau die moeten worden toegevoegd voor campagnes waarvan de naam de opgegeven tekenreeks bevat. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
+* **[!UICONTROL Apply these negatives]:** Om het even welke statische campagne-vlakke negatieve sleutelwoorden om voor campagnes toe te voegen de waarvan naam het gespecificeerde koord omvat. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
 
    * Negatieve brede overeenkomst: `keyword` (wordt niet ondersteund door [!DNL Microsoft Advertising])
-   * Negatieve woordovereenkomst: `"keyword"`
+   * Negatieve woordgroep komt overeen: `"keyword"`
    * Negatieve exacte overeenkomst: `[keyword]`
 
-De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Opmerking:** De negatieve trefwoorden kunt u niet zien in het dialoogvenster [!UICONTROL Keywords] of in de [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergeven.
+De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Nota:** u kunt niet de negatieve sleutelwoorden in het [!UICONTROL Keywords] lusje of in [!UICONTROL Search, Social, & Commerce] zien > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] mening.
 
-**[!UICONTROL All other campaigns: Apply these negatives]:** (Alle advertentienetwerken behalve [!DNL Yandex]; (optioneel) Eventuele negatieve trefwoorden op campagneniveau op statisch niveau die moeten worden toegevoegd voor campagnes waarvan de naam niet overeenkomt met een opgegeven tekenreeks. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
+**[!UICONTROL All other campaigns: Apply these negatives]:** (Alle advertentienetwerken behalve [!DNL Yandex]; facultatief) Om het even welke statische op campagneniveau negatieve sleutelwoorden om voor campagnes toe te voegen de waarvan naam een gespecificeerde koord niet aanpast. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis, zonder een minteken:
 
 * Negatieve brede overeenkomst: `keyword` (wordt niet ondersteund door [!DNL Microsoft Advertising])
-* Negatieve woordovereenkomst: `"keyword"`
+* Negatieve woordgroep komt overeen: `"keyword"`
 * Negatieve exacte overeenkomst: `[keyword]`
 
-De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Opmerking:** De negatieve trefwoorden kunt u niet zien in het dialoogvenster [!UICONTROL Keywords] of in de [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergeven.
+De gebruikelijke syntaxis voor uitdrukking en nauwkeurige gelijke types wordt gebruikt in bulksheet die wordt geproduceerd wanneer u voedergegevens door het malplaatje verspreidt. **Nota:** u kunt niet de negatieve sleutelwoorden in het [!UICONTROL Keywords] lusje of in [!UICONTROL Search, Social, & Commerce] zien > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] mening.

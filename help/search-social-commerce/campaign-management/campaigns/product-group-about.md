@@ -3,7 +3,7 @@ title: Over winkelproductgroepen
 description: Meer informatie over het winkelen van productgroepen tijdens winkelcampagnes.
 exl-id: ae270935-1464-4393-8b8c-745fee077522
 feature: Search Campaign Management
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '721'
 ht-degree: 0%
@@ -20,7 +20,7 @@ U vormt productgroepen op het niveau van de advertentiegroep om te bepalen welke
 
 Wanneer hetzelfde product in meer dan één campagne is opgenomen, gebruikt het advertentienetwerk eerst de campagneprioriteit om te bepalen welke campagne (en het bijbehorende bod) in aanmerking komt voor de advertentieveiling. Wanneer alle campagnes dezelfde prioriteit hebben, is de campagne met het hoogste bod subsidiabel.
 
-Voor meer informatie over [!DNL Google] het winkelen campagnes en advertenties, zie &quot;[ voeren  [!DNL Google Ads]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)&quot;en [ Google Advertentie documentatie ](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&amp;rd=1) uit. Voor meer informatie over [!DNL Microsoft] het winkelen campagnes, zie [  [!DNL Microsoft Advertising]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)&quot;en de [[!DNL Microsoft Advertising]  documentatie ](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500) uitvoeren.
+Voor meer informatie over [!DNL Google] het winkelen campagnes en advertenties, zie &quot;[ voeren  [!DNL Google Ads]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md)&quot;en [ Google Advertentie documentatie ](https://support.google.com/google-ads/answer/3455481?visit_id=638205553638977410-2592024034&rd=1) uit. Voor meer informatie over [!DNL Microsoft] het winkelen campagnes, zie [  [!DNL Microsoft Advertising]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md)&quot;en de [[!DNL Microsoft Advertising]  documentatie ](https://help.bingads.microsoft.com/#apex/3/en/50903/1-500) uitvoeren.
 
 >[!NOTE]
 >
@@ -38,7 +38,7 @@ Binnen een advertentiegroep kunt u tot zeven niveaus van productgroepen (exclusi
 
 ## De weergave [!UICONTROL Product Groups]
 
-U kunt productgroepen en onderliggende productgroepen maken en bewerken en deze verwijderen in de weergave [!UICONTROL Search] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] .
+U kunt productgroepen en onderliggende productgroepen maken en bewerken en deze verwijderen in de weergave [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] .
 
 ## Traceergegevens en prestatiegegevens voor winkelproductgroepen
 

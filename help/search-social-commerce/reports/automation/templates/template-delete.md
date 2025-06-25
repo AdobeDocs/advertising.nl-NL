@@ -1,9 +1,9 @@
 ---
 title: Een rapportsjabloon verwijderen
 description: Leer hoe u uw rapportsjablonen verwijdert.
-exl-id: 2b81aad8-6ab1-495f-8f34-67fa5c55be42
+exl-id: 2e7038e1-bbe0-473e-97fa-ecfa475ce411
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 U kunt om het even welk rapportmalplaatje schrappen beschikbaar aan u. Wanneer u een malplaatje schrapt dat een programma omvat, wordt dat rapport niet geproduceerd in de toekomst.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-1. Klik op de knop **[!UICONTROL Templates]** tab.
+1. Klik op de tab **[!UICONTROL Templates]** .
 
 1. Schakel het selectievakje in naast elke sjabloon die u wilt verwijderen.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Delete]**.
+1. Klik boven de gegevenstabel op **[!UICONTROL Delete]** .
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]** .
 
 >[!MORELIKETHIS]
 >
->* [Over rapportsjablonen](template-about.md)
->* [Een rapportsjabloon maken](template-create.md)
->* [Een rapportsjabloon bewerken](template-edit.md)
->* [Een rapportsjabloon weergeven](template-view.md)
+>* [ Ongeveer rapportmalplaatjes ](template-about.md)
+>* [ creeer een rapportmalplaatje ](template-create.md)
+>* [ geef een rapportmalplaatje ](template-edit.md) uit
+>* [ Mening een rapportmalplaatje ](template-view.md)

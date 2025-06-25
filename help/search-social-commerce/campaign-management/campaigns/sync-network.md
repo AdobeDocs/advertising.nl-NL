@@ -3,7 +3,7 @@ title: Netwerkgegevens handmatig synchroniseren
 description: Leer hoe u de synchronisatie van uw campagnestructuur en campagneentiteiten voor ondersteunde advertentienetwerken handmatig kunt activeren.
 exl-id: 185c6a01-c2e8-4bbb-a9dd-0a8200eb4792
 feature: Search Campaign Management
-source-git-commit: c4600e6ef41193f09722052ef9b16fe5d07bdaaf
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '393'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Voor campagnes met &quot;[!UICONTROL Auto Upload]&quot;optie, produceert de sync
 >
 >Telkens u [ creeert een bulksheet ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), kunt u naar keuze synchronisatie met het advertentienetwerk alvorens bulksheet wordt gecreeerd.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]>[!UICONTROL Campaigns]** . Selecteer in het submenu **[!UICONTROL Accounts]** om alle campagnes in specifieke accounts te synchroniseren of **[!UICONTROL Campaigns]** om specifieke campagnes te synchroniseren.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]>[!UICONTROL Campaigns]** . Selecteer in het submenu **[!UICONTROL Accounts]** om alle campagnes in specifieke accounts te synchroniseren of **[!UICONTROL Campaigns]** om specifieke campagnes te synchroniseren.
 
 1. (Optioneel) Filter de lijst om specifieke accounts of campagnes op te nemen.
 

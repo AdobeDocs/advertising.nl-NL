@@ -1,36 +1,36 @@
 ---
-title: Een [!DNL Google Analytics] gegevensbron
-description: Leer hoe u de configuratie voor een [!DNL Google Analytics] gegevensbron.
+title: Bewerk a [!DNL Google Analytics]  gegevensbron
+description: Leer hoe te om de configuratie voor a  [!DNL Google Analytics]  gegevensbron uit te geven.
 role: User, Admin
-exl-id: a23444f7-8f4c-42ba-b5fe-a325fb18136d
+exl-id: d3c6c8d6-d427-4a2d-8260-850e61d3cd4d
 feature: Search Admin, Search Data Sources
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '96'
 ht-degree: 1%
 
 ---
 
-# Een [!DNL Google Analytics] gegevensbron
+# Een [!DNL Google Analytics] gegevensbron bewerken
 
-*De Beheerders van het agentschap (basisrol), de Managers van de Rekening van Adobe, en slechts Beheerders*
+*de Beheerders van het Agentschap (basisrol), de Managers van de Rekening van Adobe, en slechts Beheerders*
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]** .
 
 1. Schakel het selectievakje in naast de gegevensbron die u wilt bewerken.
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [gegevensbroninstellingen](data-source-settings.md).
+1. Bewerk de [ montages van de gegevensbron ](data-source-settings.md).
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [Over synchroniseren [!DNL Google Analytics] conversiemetingen](data-source-about.md)
->* [Vereisten voor het configureren van een [!DNL Google Analytics] gegevensbron](data-source-prerequisites.md)
->* [Een [!DNL Google Analytics] weergeven als gegevensbron](data-source-configure.md)
->* [Synchronisatie van een gegevensbron pauzeren](data-source-pause.md)
->* [Een [!DNL Google Analytics] gegevensbron](data-source-reauthenticate.md)
->* [[!DNL Google Analytics] gegevensbroninstellingen](data-source-settings.md)
->* [Bijlage - beschikbaar [!DNL Google Analytics] cijfers](data-source-ga-metrics.md)
+>* [ Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek ](data-source-about.md)
+>* [ Vereisten om a  [!DNL Google Analytics]  gegevensbron ](data-source-prerequisites.md) te vormen
+>* [ vorm a  [!DNL Google Analytics]  mening als gegevensbron ](data-source-configure.md)
+>* [ de synchronisatie van de pauze van een gegevensbron ](data-source-pause.md)
+>* [ verklaart a  [!DNL Google Analytics]  gegevensbron ](data-source-reauthenticate.md) opnieuw voor authentiek
+>* [[!DNL Google Analytics]  gegevensbronmontages ](data-source-settings.md)
+>* [ Bijlage - Beschikbare  [!DNL Google Analytics]  metriek ](data-source-ga-metrics.md)

@@ -1,11 +1,11 @@
 ---
 title: Geüploade bulksbladen en foutbestanden verwijderen
 description: Leer hoe u de bulksheet-bestanden en foutbestanden verwijdert.
-exl-id: d4769ae4-f39c-4d33-b8c7-66e97e63a56f
+exl-id: a4cdceb4-6013-46b6-95bc-5536e45e34d2
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -18,16 +18,16 @@ U kunt handmatig werkbladbestanden, bestanden met validatiefouten van de pagina 
 >
 >Als u een bulksheet hebt gepost maar fouten ontving, schrap niet het foutendossier tot alle fouten worden opgelost.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]** .
 
 1. Schakel het selectievakje naast elk bestand dat u wilt verwijderen in.
 
-1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Delete]**.
+1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Delete]** .
 
 1. (Als het bulksblad volgens planning moet worden geplaatst) Klik in het bevestigingsbericht op **[!UICONTROL OK]** om het bulksblad te verwijderen zonder de gegevens te posten.
 
 >[!MORELIKETHIS]
 >
->* [Campagnegegevens beheren met behulp van bulksbladen](bulksheet-about.md)
->* [Een bulkbladtaak onderbreken](bulksheet-stop-job.md)
->* [Een gegenereerd of geüpload bulksbladbestand exporteren](bulksheet-export.md)
+>* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
+>* [ Einde een bulksbladbaan lopend ](bulksheet-stop-job.md)
+>* [ de Uitvoer een geproduceerd of geupload bulksbladdossier ](bulksheet-export.md)

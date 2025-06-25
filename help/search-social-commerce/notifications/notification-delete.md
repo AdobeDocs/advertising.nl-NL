@@ -1,9 +1,9 @@
 ---
 title: Een melding verwijderen
 description: Leer hoe u een melding verwijdert.
-exl-id: abf37a77-02e4-429f-adac-13ac954a78e7
+exl-id: 242c30dc-7e53-42cb-a027-908f2e53998d
 feature: Search Notifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -12,27 +12,27 @@ ht-degree: 0%
 
 # Een melding verwijderen
 
-*Bètaonderdeel*
+*de Eigenschap van Beta*
 
-## Een melding verwijderen in het dialoogvenster [!UICONTROL Notifications] deelvenster
+## Een melding verwijderen in het deelvenster [!UICONTROL Notifications]
 
-1. Klik in de rechterbovenhoek van een pagina op ![Meldingen](/help/search-social-commerce/assets/notifications-panel.png "Meldingen").
+1. In het hogere recht van om het even welke pagina, klik ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") ![.
 
-1. Klikken ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen") naast de melding.
+1. Klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 ## Een melding verwijderen binnen [!UICONTROL Notification Center]
 
-1. (Van binnen Onderzoek, Sociale, &amp; Handel) in het belangrijkste menu, klik **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Notification Center Beta]**.
+1. (Vanuit Zoeken, Sociaal en Commerce) Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Notification Center Beta]** .
 
-1. (Optioneel) Als u uw meldingen op type wilt filteren, klikt u op *[!UICONTROL Notices]*, *[!UICONTROL Recommendations]*, *[!UICONTROL Warnings]*, of *[!UICONTROL Issues]*.
+1. (Optioneel) Klik op *[!UICONTROL Notices]* , *[!UICONTROL Recommendations]* , *[!UICONTROL Warnings]* of *[!UICONTROL Issues]* om uw meldingen te filteren op type.
 
-1. Klikken ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen")  naast de melding.
+1. Klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over meldingen](/help/search-social-commerce/notifications/notification-about.md)
->* [Je berichten bekijken](notification-view.md)
->* [Een melding markeren als gelezen of ongelezen](notification-mark-read-unread.md)
->* [Uw meldingsinstellingen bewerken](notification-edit.md)
->* [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](notification-app-install-uninstall.md)
+>* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
+>* [ Mening uw berichten ](notification-view.md)
+>* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
+>* [ geef uw berichtmontages ](notification-edit.md) uit
+>* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)

@@ -1,37 +1,37 @@
 ---
-title: Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed
+title: Creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport
 description: Leer hoe u speciaal opgemaakte werkbladsjablonen maakt.
 exl-id: 74bf3cdf-7d56-431a-8aff-11ed3840a7cd
 feature: Search Reports
-source-git-commit: 67fe8581832dc0762d62908d01672e53cc95b847
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '347'
 ht-degree: 0%
 
 ---
 
-# Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed
+# Een [!DNL Excel] -sjabloon maken voor een feed met een spreadsheetrapport
 
-*Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
+*voor basisrapporten en modelnauwkeurigheidsrapporten slechts*
 
-Als u spreadsheetfeeds wilt maken, moet u eerst speciaal opgemaakte feeds maken [!DNL Microsoft Excel] spreadsheetsjablonen met behulp van gewone rapportsjablonen. U kunt desgewenst de [!DNL Excel] spreadsheet om extra kolommen en grafieken te omvatten.
+Als u spreadsheetfeeds wilt maken, moet u eerst speciaal opgemaakte [!DNL Microsoft Excel] spreadsheetsjablonen maken met behulp van gewone rapportsjablonen. U kunt desgewenst het werkblad van [!DNL Excel] aanpassen om extra kolommen en grafieken op te nemen.
 
-1. In **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**, produceert het gewenste rapporttype gebruikend een [!UICONTROL Date Aggregation] eenheid van &quot;[!UICONTROL Daily]&quot; en met alle andere gegevensparameters wilt u, sparen het rapport als malplaatje.
+1. In **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**, produceer het gewenste rapporttype gebruikend een [!UICONTROL Date Aggregation] eenheid van &quot;[!UICONTROL Daily]&quot;en met alle andere gegevensparameters u wilt, sparen het rapport als malplaatje.
 
    >[!NOTE]
    >
-   > * U kunt werkbladfeeds maken voor [!UICONTROL Portfolio], [!UICONTROL Search Engine], [!UICONTROL Search Engine Account], [!UICONTROL Campaign], [!UICONTROL Ad Group], [!UICONTROL Ad Variation], [!UICONTROL Keyword], en [!UICONTROL Forecast Accuracy] rapporten. Als u het [!UICONTROL Ad Group Report], beperkt u het aantal advertentiegroepen dat wordt opgenomen voor snellere resultaten.
-   > * De [!UICONTROL Date Range] eenheid in het malplaatje wordt bepaald niet gebruikt. U zult de data bepalen waarvoor om gegevens te verfrissen wanneer u de spreadsheetvoer later vormt.
+   > * U kunt spreadsheetfeeds maken voor [!UICONTROL Portfolio] -, [!UICONTROL Search Engine] -, [!UICONTROL Search Engine Account] -, [!UICONTROL Campaign] -, [!UICONTROL Ad Group] -, [!UICONTROL Ad Variation] -, [!UICONTROL Keyword] - en [!UICONTROL Forecast Accuracy] -rapporten. Als u [!UICONTROL Ad Group Report] gebruikt, beperkt u het aantal advertentiegroepen dat wordt opgenomen voor snellere resultaten.
+   > * De eenheid [!UICONTROL Date Range] die in de sjabloon is gedefinieerd, wordt niet gebruikt. U zult de data bepalen waarvoor om gegevens te verfrissen wanneer u de spreadsheetvoer later vormt.
 
-1. Nadat het rapport is gegenereerd, gaat u naar **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** en exporteer een TSV- of XLS-versie van de rapportuitvoer naar een bestand.
+1. Nadat het rapport is gegenereerd, gaat u naar **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** en exporteert u een TSV- of XLS-versie van de rapportuitvoer naar een bestand.
 
-1. In [!DNL Excel], creeer een douanemalplaatje voor het rapport:
+1. Maak in [!DNL Excel] een aangepaste sjabloon voor het rapport:
 
-   1. Open het rapportbestand in [!DNL Excel].
+   1. Open het rapportbestand in [!DNL Excel] .
 
    1. Het werkboek voorbereiden:
 
-      1. Schrap de hoogste rijen die de rapportparameters tonen. Voor XLS-bestanden verwijdert u ook &quot;[!UICONTROL Total]&quot; Rij. U kunt desgewenst enkele gegevensrijen verwijderen, maar a) de rij met de gegevenskoptekst met alle kolommen in de oorspronkelijke volgorde en b) ten minste één gegevensrij bewaren. Voeg niet handmatig gegevens toe.
+      1. Schrap de hoogste rijen die de rapportparameters tonen. Voor XLS-bestanden verwijdert u ook de rij &quot;[!UICONTROL Total]&quot;. U kunt desgewenst enkele gegevensrijen verwijderen, maar a) de rij met de gegevenskoptekst met alle kolommen in de oorspronkelijke volgorde en b) ten minste één gegevensrij bewaren. Voeg niet handmatig gegevens toe.
 
          >[!NOTE]
          >
@@ -39,22 +39,22 @@ Als u spreadsheetfeeds wilt maken, moet u eerst speciaal opgemaakte feeds maken 
 
       2. Sorteer de gegevens op de begindatum in oplopende volgorde (van de oudste naar de meest recente).
 
-      3. De naam van het werkbladtabblad wijzigen in &quot;[!UICONTROL Sheet1]&quot; in &quot;[!UICONTROL RAW].&quot;
+      3. Wijzig de naam van het werkbladlusje van &quot;[!UICONTROL Sheet1]&quot;in &quot;[!UICONTROL RAW]&quot;.
 
          Met deze specifieke tabnaam kunnen de gegevens worden vernieuwd.
 
       4. (Facultatief) voeg douanekolommen rechts van de kolommen van het rapportmalplaatje toe, zonodig.
 
-   1. (Optioneel) Maak op een afzonderlijk werkblad een draaitabel. Nadat u klaar bent, klikt u met de rechtermuisknop in een willekeurige cel van de draaientabel en selecteert u **[!UICONTROL Pivot Table Options]** klikt u op de knop **[!UICONTROL Data]** en selecteert u vervolgens **[!UICONTROL Refresh data when opening the file]**.
+   1. (Optioneel) Maak op een afzonderlijk werkblad een draaitabel. Nadat u klaar bent, klikt u met de rechtermuisknop in een willekeurige cel van de draaitabel en selecteert u **[!UICONTROL Pivot Table Options]** . Vervolgens klikt u op de tab **[!UICONTROL Data]** en selecteert u **[!UICONTROL Refresh data when opening the file]** .
 
-   1. Sla het bestand op als een [!DNL Excel] spreadsheet in .XLSX formaat.
+   1. Sla het bestand op als een [!DNL Excel] -spreadsheet in de XLSX-indeling.
 
 >[!MORELIKETHIS]
 >
->* [Info over werkbladrapportfeeds](spreadsheet-feed-about.md)
->* [Een feed voor een spreadsheetrapport maken](spreadsheet-feed-create.md)
->* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
->* [Werkbladrapportfeeds handmatig vernieuwen](spreadsheet-feed-refresh.md)
->* [feeds voor spreadsheetrapporten verwijderen](spreadsheet-feed-delete.md)
+>* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
+>* [ creeer een spreadsheetrapportvoer ](spreadsheet-feed-create.md)
+>* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
+>* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
+>* [ Mening of sparen een dossier van het spreadsheetrapport voer ](spreadsheet-feed-view-or-save.md)
+>* [ vernieuw manueel spreadsheetrapportvoer ](spreadsheet-feed-refresh.md)
+>* [ de feeds van het spreadsheetrapport van de Schrapping ](spreadsheet-feed-delete.md)

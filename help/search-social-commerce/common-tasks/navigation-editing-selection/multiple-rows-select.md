@@ -1,38 +1,38 @@
 ---
 title: Meerdere rijen selecteren
 description: Leer hoe u meerdere rijen selecteert, zodat u dezelfde handeling op alle rijen kunt uitvoeren.
-exl-id: 297877bf-2174-4dbf-8b1f-a2a45d7531fd
+exl-id: 35490f9f-adde-4538-9013-4cb37b7abfbd
 feature: Search Common Tasks
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
 
 # Meerdere rijen selecteren
 
-U kunt meerdere rijen selecteren in het dialoogvenster [!UICONTROL Search] > [!UICONTROL Campaigns], [!UICONTROL Search > Label Classifications], en [!UICONTROL Optimization] > [!UICONTROL Constraints] worden op de volgende manieren weergegeven:
+U kunt op de volgende manieren meerdere rijen selecteren in de weergaven [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] , [!UICONTROL Search > Label Classifications] en [!UICONTROL Optimization] > [!UICONTROL Constraints] :
 
 * Sneltoetsen:
 
-   * **[!DNL Shift+Click]**: Als u meerdere, opeenvolgende rijen wilt selecteren, klikt u op de eerste rij en drukt u op **[!DNL Shift]** terwijl u op de laatste klikt.
+   * **[!DNL Shift+Click]**: Als u meerdere opeenvolgende rijen wilt selecteren, klikt u op de eerste rij en drukt u op **[!DNL Shift]** terwijl u op de laatste klikt.
 
-   * **[!DNL Ctrl+Click]**: Als u meerdere, niet-opeenvolgende rijen wilt selecteren, klikt u op de eerste rij en drukt u vervolgens op **[!DNL Ctrl]** terwijl u op elke volgende rij klikt.
+   * **[!DNL Ctrl+Click]**: Als u meerdere, niet-opeenvolgende rijen wilt selecteren, klikt u op de eerste rij en drukt u op **[!DNL Ctrl]** terwijl u op elke andere rij klikt.
 
-* Globaal selectievakje (![Selectievakje](/help/search-social-commerce/assets/check-box.png) &quot;Selectievakje&quot;) in de kolomkop linksboven:
+* Globale controledoos (![ doos van de Controle ](/help/search-social-commerce/assets/check-box.png) &quot;doos van de Controle&quot;) in de upper-left kolomrubriek:
 
-   * Om alle rijen op de huidige pagina te selecteren — die sommige of alle rijen kunnen omvatten beschikbaar met de toegepaste filters, die op of u 25 rijen, 50 rijen, 100 rijen, 200 rijen, of bekijkt [!UICONTROL Continuous Scroll] — selecteer het globale selectievakje.
+   * Als u alle rijen op de huidige pagina wilt selecteren — die enkele of alle rijen kunnen bevatten die beschikbaar zijn met de toegepaste filters, afhankelijk van het feit of u 25 rijen, 50 rijen, 100 rijen, 200 rijen of [!UICONTROL Continuous Scroll] weergeeft — schakelt u het algemene selectievakje in.
 
      Wanneer u alle rijen op de pagina selecteert, kunt u de selectie van afzonderlijke rijen opheffen.
 
-   * Als u alle rijen wilt selecteren die beschikbaar zijn met de toegepaste filters, schakelt u het selectievakje Algemeen in en klikt u op **[!DNL Select all N records?]**, waarbij *N* is het aantal beschikbare records.
+   * Om alle rijen beschikbaar met de toegepaste filters te selecteren, selecteer de globale controledoos, en klik dan **[!DNL Select all N records?]**, waar *N* het aantal beschikbare verslagen is.
 
      Als u alle beschikbare rijen selecteert, kunt u de selectie van afzonderlijke rijen niet opheffen.
 
 >[!MORELIKETHIS]
 >
->* [Een gegevensfilter toepassen vanuit een kolomkopmenu](../data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
->* [Gegevensfilters toepassen vanaf de werkbalk](../data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md)
->* [Gegevens filteren op datumbereik](../data-views/ad-hoc-settings/date-filter.md)
->* [Een filter verwijderen](../data-views/ad-hoc-settings/column-filter-remove.md)
+>* [ pas een Filter van Gegevens van een Menu van de Kop van de Kolom toe ](../data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [ pas de Filters van Gegevens van Toolbar ](../data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [ Gegevens van de Filter door de Waaier van de Datum ](../data-views/ad-hoc-settings/date-filter.md)
+>* [ verwijder een Filter ](../data-views/ad-hoc-settings/column-filter-remove.md)

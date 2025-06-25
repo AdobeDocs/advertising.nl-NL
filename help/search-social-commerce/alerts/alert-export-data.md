@@ -3,7 +3,7 @@ title: Gegevens exporteren voor aangepaste waarschuwingen
 description: Leer hoe u gegevens voor een getriggerde waarschuwing naar een bestand exporteert.
 exl-id: e3467b39-21ed-431e-b5f4-c3dc2dd5266d
 feature: Search Alerts
-source-git-commit: 03475909ca942010e4380456079519f0c18adca3
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '267'
 ht-degree: 0%
@@ -16,9 +16,9 @@ U kunt gegevens voor een teweeggebrachte alarm of gegevens voor het onlangs tewe
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Als u gegevens wilt exporteren voor de meest recente getriggerde waarschuwing voor een waarschuwingssjabloon) klikt u in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** , die wordt geopend in de weergave Waarschuwingssjablonen.
+   * (Als u gegevens wilt exporteren voor de meest recente getriggerde waarschuwing voor een waarschuwingssjabloon) klikt u in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** , die wordt geopend in de weergave Waarschuwingssjablonen.
 
-   * (Als u gegevens wilt exporteren voor een specifieke geactiveerde waarschuwing) Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** . Klik in het submenu op **[!UICONTROL Triggered Alerts]** .
+   * (Als u gegevens wilt exporteren voor een specifieke geactiveerde waarschuwing) Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** . Klik in het submenu op **[!UICONTROL Triggered Alerts]** .
 
 1. Klik in de kolom [!UICONTROL Export] naast de sjabloon- of rapportnaam op de naam van een indeling en open of sla het bestand op volgens de normale procedure van uw browser:
 

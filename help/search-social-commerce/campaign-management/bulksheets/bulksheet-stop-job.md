@@ -1,9 +1,9 @@
 ---
 title: Een bulkbladtaak onderbreken
 description: Leer hoe u een bulksbladtaak onderbreekt terwijl deze bezig is.
-exl-id: bfdc3c65-8dfc-4683-a39d-05d40078fd2d
+exl-id: 10577dcf-3b86-49f1-8e3a-ccfe56fffe84
 feature: Search Bulksheets
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 0%
@@ -14,13 +14,13 @@ ht-degree: 0%
 
 U kunt elke taak met opsommingstekens stoppen, inclusief het posten van een bestand, terwijl het nog bezig is.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]** .
 
 1. Schakel het selectievakje in naast elke taak die u wilt stoppen.
 
-1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Stop job]**.
+1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Stop job]** .
 
-1. Klik in het bevestigingsbericht **[!UICONTROL O]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL O]** .
 
 >[!NOTE]
 >
@@ -28,5 +28,5 @@ U kunt elke taak met opsommingstekens stoppen, inclusief het posten van een best
 
 >[!MORELIKETHIS]
 >
->* [Campagnegegevens beheren met behulp van bulksbladen](bulksheet-about.md)
->* [Geüploade bulksbladen en foutbestanden verwijderen](bulksheet-delete.md)
+>* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
+>* [ Schrap geüploade bulksbladen en foutendossiers ](bulksheet-delete.md)

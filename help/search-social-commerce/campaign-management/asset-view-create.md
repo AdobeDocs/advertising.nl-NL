@@ -1,9 +1,9 @@
 ---
 title: Advertentiemiddelen weergeven en maken vanuit uw [!UICONTROL Asset Library]
-description: Leer hoe u herbruikbare afbeeldings-, video- en tekstmiddelen voor uw [!DNL Google Ads] en [!DNL Microsoft Advertising] assetbibliotheken op accountniveau.
+description: Leer hoe te om herbruikbaar beeld, video, en tekstactiva voor uw  [!DNL Google Ads]  en  [!DNL Microsoft Advertising]  rekening-vlakke activabibliotheken te bekijken en tot stand te brengen.
 feature: Search Campaign Management
 exl-id: dd6fc5bf-3e3e-4e8f-b20b-37b9311fcf9f
-source-git-commit: bf7db19ab3ec8ea749e48b6a96c25a3c5cca5a71
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 0%
@@ -12,35 +12,35 @@ ht-degree: 0%
 
 # Advertentiemiddelen weergeven en maken vanuit uw [!UICONTROL Asset Library]
 
-*Voor [!DNL Google Ads] en [!DNL Microsoft Advertising] alleen accounts*
+*voor [!DNL Google Ads] en [!DNL Microsoft Advertising] slechts rekeningen*
 
-In [!UICONTROL Campaigns] > [!UICONTROL Asset Library]kunt u alle herbruikbare afbeeldingen, video en (voor [!DNL Google Ads] alleen) tekstelementen in uw [!DNL Google Ads] en [!DNL Microsoft Advertising] assetbibliotheken op accountniveau. U kunt ook nieuwe elementen maken voor een advertentienetwerkaccount en deze uploaden naar het advertentienetwerk.
+In [!UICONTROL Campaigns] > [!UICONTROL Asset Library] kunt u alle herbruikbare afbeeldings-, video- en (alleen voor [!DNL Google Ads] ) tekstelementen weergeven in de middelenbibliotheken op accountniveau van [!DNL Google Ads] en [!DNL Microsoft Advertising] . U kunt ook nieuwe elementen maken voor een advertentienetwerkaccount en deze uploaden naar het advertentienetwerk.
 
 U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
 ## Elementen maken en uploaden
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Asset Library]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Asset Library]** .
 
 1. Selecteer in de rechterbovenhoek het advertentienetwerk en de account.
 
-1. Klik op de werkbalk boven de tabel met gegevens op ![Uploaden](/help/search-social-commerce/assets/add.png "Uploaden").
+1. In de toolbar boven de gegevenslijst, uploadt de klik ](/help/search-social-commerce/assets/add.png " ") ![.
 
 1. Geef elk elementtype op:
 
-   1. Selecteer de **[!UICONTROL Asset Type]**.
+   1. Selecteer de **[!UICONTROL Asset Type]** .
 
    1. Het element uploaden of invoeren:
 
       * Voor afbeeldingselementen:
 
-         1. Klikken **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
+         1. Klik op **[!UICONTROL +]** en selecteer afbeeldingen van uw apparaat of netwerk.
 
             Elke afbeelding kan maximaal 10 MB groot zijn. U kunt maximaal 200 MB afbeeldingen tegelijk uploaden.
 
          1. Voor elke afbeelding:
 
-            1. Klikken ![Uitsnijden](/help/search-social-commerce/assets/crop.png "Uitsnijden").
+            1. Klik ](/help/search-social-commerce/assets/crop.png " Uitsnijden 1} Uitsnijden ").![
 
             1. Selecteer de hoogte-breedteverhouding.
 
@@ -52,11 +52,11 @@ U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
             1. Klik op **[!UICONTROL Proceed]**.
 
-      * Voer voor video-elementen de URL in voor een [!DNL YouTube] video die minstens 10 seconden lang is. Als u nog een video-element wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere URL in.
+      * Voer voor video-elementen de URL in voor een [!DNL YouTube] -video die minstens 10 seconden duurt. Als u nog een video-element wilt toevoegen, klikt u op **+ Toevoegen** en voert u een andere URL in.
 
         U kunt maximaal 10 video-URL&#39;s tegelijk posten.
 
-      * ([!DNL Google Ads] alleen accounts) Voer de tekenreeks in voor tekstelementen. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voer een andere tekstreeks in.
+      * ([!DNL Google Ads] accounts only) Voer de tekstreeks in voor tekstelementen. Als u nog een tekstelement wilt toevoegen, klikt u op **+ Toevoegen** en voert u een andere tekenreeks in.
 
         Elk tekstelement kan maximaal 1000 tekens bevatten. U kunt maximaal 10 tekstelementen tegelijk uploaden.
 
@@ -66,5 +66,5 @@ U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Google Ads] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
->* [[!DNL Microsoft Advertising] campagne-instellingen](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
+>* [[!DNL Google Ads]  campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL Microsoft Advertising]  campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)

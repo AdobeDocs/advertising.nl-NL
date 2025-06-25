@@ -1,11 +1,11 @@
 ---
 title: Een rapportsjabloon maken
 description: Leer hoe u een herbruikbare rapportsjabloon maakt.
-exl-id: cd734539-ab01-4106-9998-e2ed994209b2
+exl-id: 322d0c15-bd93-4372-be1e-80d2d7c7fe8d
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -16,33 +16,33 @@ U kunt veelvoudige rapportmalplaatjes voor om het even welk type van prestatiesr
 
 * Voer een van de volgende twee handelingen uit om een geheel nieuwe sjabloon te maken:
 
-   * Van de [!UICONTROL Reports] een rapport maken en het selectievakje naast **[!UICONTROL Save as template]**, die naast de rapportnaam staat.
+   * Maak op het tabblad [!UICONTROL Reports] een rapport en schakel het selectievakje naast **[!UICONTROL Save as template]** in. Dit selectievakje bevindt zich naast de rapportnaam.
 
-   * Van de [!UICONTROL Templates] tab:
+   * Op het tabblad [!UICONTROL Templates] :
 
-      * Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**.
+      * Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-      * Klik op de knop **[!UICONTROL Templates]** tab.
+      * Klik op de tab **[!UICONTROL Templates]** .
 
-      * Klikken **[!UICONTROL Create Template]** en selecteer de rapportcategorie.
+      * Klik op **[!UICONTROL Create Template]** en selecteer de rapportcategorie.
 
       * Geef de rapportinstellingen op.
 
-        De &quot;[!UICONTROL Save as Template]&quot; instelling wordt automatisch geselecteerd.
+        De instelling &quot;[!UICONTROL Save as Template]&quot; wordt automatisch geselecteerd.
 
 * Een sjabloon maken op basis van een bestaande sjabloon:
 
-   1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]**.
+   1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-   1. Klik op de knop **[!UICONTROL Templates]** tab.
+   1. Klik op de tab **[!UICONTROL Templates]** .
 
    1. Klik op de sjabloonnaam en bewerk indien nodig de rapportinstellingen.
 
-   1. Schakel het selectievakje in naast **[!UICONTROL Save as template]** (dat naast de rapportnaam is), ga een nieuwe rapportnaam in, en klik dan **[!UICONTROL Update Template]**.
+   1. Schakel het selectievakje naast **[!UICONTROL Save as template]** (dat naast de rapportnaam staat) in, voer een nieuwe rapportnaam in en klik op **[!UICONTROL Update Template]** .
 
 >[!MORELIKETHIS]
 >
->* [Over rapportsjablonen](template-about.md)
->* [Een rapportsjabloon bewerken](template-edit.md)
->* [Een rapportsjabloon weergeven](template-view.md)
->* [Rapportsjablonen verwijderen](template-delete.md)
+>* [ Ongeveer rapportmalplaatjes ](template-about.md)
+>* [ geef een rapportmalplaatje ](template-edit.md) uit
+>* [ Mening een rapportmalplaatje ](template-view.md)
+>* [ schrap rapportmalplaatjes ](template-delete.md)

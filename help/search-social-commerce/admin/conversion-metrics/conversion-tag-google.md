@@ -3,7 +3,7 @@ title: Een conversietag maken voor  [!DNL Google Ads]
 description: Leer hoe te om a  [!DNL Google Ads]  omzettingsmarkering tot stand te brengen.
 feature: Conversions
 exl-id: 214611f0-bd38-499e-a7de-3a5878995fb5
-source-git-commit: 2c20d2138ee797b6ed2f27d9baa9eda7d413da8d
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '415'
 ht-degree: 0%
@@ -16,7 +16,7 @@ U kunt conversietags maken voor nieuwe conversies die moeten worden bijgehouden 
 
 Als u conversietags voor bestaande conversies wilt genereren, gebruikt u de editor van het advertentienetwerk.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Conversions]** , dat wordt geopend op de tab **[!UICONTROL Summary]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** , dat wordt geopend op de tab **[!UICONTROL Summary]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 

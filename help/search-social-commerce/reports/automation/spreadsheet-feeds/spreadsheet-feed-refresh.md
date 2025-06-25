@@ -1,39 +1,39 @@
 ---
 title: Werkbladrapportfeeds handmatig vernieuwen
 description: Leer hoe u de gegevens in spreadsheetfeeds handmatig vernieuwt.
-exl-id: 2929d6a6-8823-4f2e-94b4-5348d6f7672a
+exl-id: 7d91d6ce-e2fe-4ad7-b015-99aeae872d86
 feature: Search Reports
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '134'
 ht-degree: 0%
 
 ---
 
 # Werkbladrapportfeeds handmatig vernieuwen
 
-*Alleen voor basisverslagen en modelnauwkeurigheidsrapporten*
+*voor basisrapporten en modelnauwkeurigheidsrapporten slechts*
 
 >[!NOTE]
 >
 >Spreadsheetfeeds worden elke dag om 8:00 uur automatisch vernieuwd in de lokale tijdzone.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Spreadsheet Feeds]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Spreadsheet Feeds]** .
 
 1. Schakel het selectievakje in naast elke feed die u wilt vernieuwen.
 
-1. Klik op de werkbalk boven de tabel met gegevens op **[!UICONTROL Refresh]**.
+1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Refresh]** .
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]** .
 
-1. (Optioneel) Eenmaal een diervoeder [!UICONTROL Update Status] is *[!UICONTROL Finished]*, klikt u op **[!UICONTROL XLSX]** naast de feed en open of sla het bestand op volgens de normale procedure van uw browser.
+1. (Optioneel) Als de naam [!UICONTROL Update Status] van een feed *[!UICONTROL Finished]* is, klikt u op **[!UICONTROL XLSX]** naast de feed en opent of slaat u het bestand op volgens de normale procedure van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [Info over werkbladrapportfeeds](spreadsheet-feed-about.md)
->* [Een feed voor een spreadsheetrapport maken](spreadsheet-feed-create.md)
->* [Een [!DNL Excel] sjabloon voor een spreadsheetrapportfeed](spreadsheet-feed-create-excel-template.md)
->* [Invoerinstellingen voor spreadsheetrapporten bewerken](spreadsheet-feed-edit.md)
->* [Feed-instellingen voor werkbladrapporten](spreadsheet-feed-settings.md)
->* [Een feed-bestand voor een spreadsheetrapport weergeven of opslaan](spreadsheet-feed-view-or-save.md)
->* [feeds voor spreadsheetrapporten verwijderen](spreadsheet-feed-delete.md)
+>* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
+>* [ creeer een spreadsheetrapportvoer ](spreadsheet-feed-create.md)
+>* [ creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport ](spreadsheet-feed-create-excel-template.md)
+>* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
+>* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
+>* [ Mening of sparen een dossier van het spreadsheetrapport voer ](spreadsheet-feed-view-or-save.md)
+>* [ de feeds van het spreadsheetrapport van de Schrapping ](spreadsheet-feed-delete.md)

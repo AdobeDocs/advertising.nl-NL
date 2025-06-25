@@ -1,9 +1,9 @@
 ---
 title: Een aangepaste waarschuwingssjabloon verwijderen
 description: Leer hoe je waarschuwingssjablonen kunt verwijderen.
-exl-id: 7044ee80-ad90-4fad-8443-300f5ff0cee7
+exl-id: be77f74f-f293-46f1-a5dc-317e828682b4
 feature: Search Alerts
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 0%
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 U kunt alleen de waarschuwingssjablonen verwijderen die u hebt gemaakt.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]**, die wordt geopend in de weergave Waarschuwingssjablonen.
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Custom Alerts]** , dat wordt geopend in de weergave Waarschuwingssjablonen.
 
 1. Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt verwijderen.
 
-1. Klik op de werkbalk op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
+1. In de toolbar, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
-1. Klik op **[!UICONTROL Delete]**.
+1. Klik in het dialoogvenster op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [Aangepaste waarschuwingen](alert-about.md)
->* [Een aangepaste waarschuwingssjabloon maken](alert-template-create.md)
->* [Een aangepaste waarschuwingssjabloon bewerken](alert-template-edit.md)
->* [Een aangepaste waarschuwingssjabloon onderbreken](alert-template-pause.md)
->* [Een aangepaste waarschuwingssjabloon activeren](alert-template-activate.md)
->* [Aangepaste sjablooninstellingen voor waarschuwingen](alert-template-settings.md)
->* [Aangepaste waarschuwingen weergeven](alert-view.md)
->* [Gegevens exporteren voor aangepaste waarschuwingen](alert-export-data.md)
+>* [ Ongeveer douanealarm ](alert-about.md)
+>* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
+>* [ geef een malplaatje van de douanealarm ](alert-template-edit.md) uit
+>* [ Pauzeer een malplaatje van de douanealarm ](alert-template-pause.md)
+>* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
+>* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
+>* [ de douanealarm van de Mening ](alert-view.md)
+>* [ de gegevens van de Uitvoer voor douanealarm ](alert-export-data.md)

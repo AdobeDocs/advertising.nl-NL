@@ -4,7 +4,7 @@ description: Leer hoe te om een gegevensbron van a  [!DNL Google Analytics]  men
 role: User, Admin
 exl-id: 9e299e42-4971-49ea-a515-54a97eb13e0d
 feature: Search Admin, Search Data Sources
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '568'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Als u metriek voor meerdere eigenschappen of voor meerdere weergaven voor één 
 
 1. [ voer alle eerste vereisten aan het integreren van de  [!DNL Google Analytics]  rekening ](data-source-prerequisites.md) uit.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Data Source Setup]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 

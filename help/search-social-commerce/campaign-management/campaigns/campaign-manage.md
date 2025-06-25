@@ -3,7 +3,7 @@ title: Campagnes beheren
 description: Leer advertentiecampagnes te maken en te beheren.
 exl-id: 7654a01c-39de-4df4-a7ea-963cfc8b05f2
 feature: Search Campaign Management
-source-git-commit: 3af579ad61dd05f0d2b1e565c5b1532cebaeebe1
+source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
 workflow-type: tm+mt
 source-wordcount: '745'
 ht-degree: 0%
@@ -25,7 +25,7 @@ Zodra u [ een advertentienetwerkrekening toegankelijk ](/help/search-social-comm
 >* Alvorens u een campagne creeert, [ voert omzetting volgende markeringen ](/help/search-social-commerce/tracking/conversion-tracking-about.md) in de webpagina&#39;s van de adverteerder uit.
 >* Om een groot aantal campagnes te creëren meteen, gebruik de [ exemplaar en deegeigenschap ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
 
 1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
 
@@ -49,11 +49,11 @@ U kunt instellingen voor afzonderlijke campagnes bewerken. U kunt ook bepaalde v
 >
 >U kunt gegevens ook bulksgewijs bewerken met de functie Kopiëren en plakken of met de campagnebulksbladen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
 
 1. Voer een van de volgende handelingen uit:
 
-   1. (Om montages voor één enkele campagne uit te geven) Houd de curseur over de entiteitsnaam, klik &rbrack;(/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu !&lbrack; pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.
+   1. (Om montages voor één enkele campagne uit te geven) Houd de curseur over de entiteitsnaam, klik ](/help/search-social-commerce/assets/arrow-dropdown-menu.png " pictogram van het Menu ![ pictogram van het Menu "), en selecteer dan **[!UICONTROL Edit]**.
 
    1. (Voer de volgende handelingen uit als u instellingen voor een of meer campagnes wilt bewerken:
 
@@ -83,7 +83,7 @@ U kunt elke actieve zoekcampagne op een ondersteund advertentienetwerk pauzeren 
 
 U kunt ook elke actieve of gepauzeerde zoekcampagne verwijderen. Verwijderde campagnes worden verwijderd uit het advertentienetwerk. Ze zijn nog steeds zichtbaar wanneer u ze opneemt in het gegevensfilter, maar u kunt ze niet wijzigen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Campaigns]** .
 
 1. (Optioneel) Filter de lijst om specifieke campagnes op te nemen.
 
@@ -93,9 +93,9 @@ U kunt ook elke actieve of gepauzeerde zoekcampagne verwijderen. Verwijderde cam
 
 1. Klik op de statusknop op de werkbalk:
 
-   * Om de rijen te activeren, activeert de klik ![&#128279;](/help/search-social-commerce/assets/activate.png " ").
+   * Om de rijen te activeren, activeert de klik ](/help/search-social-commerce/assets/activate.png " ").![
 
-   * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
+   * Om de rijen te pauzeren, klik ](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0}.![
 
    * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
