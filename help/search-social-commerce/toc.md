@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: 9d92118fceb26d71a5909f66ae6e382616a5e098
 workflow-type: tm+mt
-source-wordcount: '1738'
+source-wordcount: '1746'
 ht-degree: 2%
 
 ---
@@ -22,15 +22,16 @@ ht-degree: 2%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL){target="_blank"}
-      + [ Integratie met Adobe Audience Manager (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html?lang=nl-NL){target="_blank"}
-   + [ Steun voor de privacy van de consument (verbinding)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [ Beleid en richtlijnen (verbinding)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html?lang=nl-NL){target="_blank"}
+      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
+      + [ Integratie met Adobe Audience Manager (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
+   + [ Steun voor de privacy van de consument (verbinding) ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en richtlijnen (verbinding) ](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
    + [Aanmelden](/help/search-social-commerce/getting-started/sign-in.md)
    + [De indeling van de gebruikersinterface](/help/search-social-commerce/getting-started/user-interface.md)
+   + [Schakelen tussen de nieuwe en oudere gebruikersinterfaces](/help/search-social-commerce/getting-started/ui-switch.md)
    + [Afmelden](/help/search-social-commerce/getting-started/sign-out.md)
 + Algemene taken {#common-tasks}
    + [Gegevens van een andere adverteerder weergeven](/help/search-social-commerce/common-tasks/change-advertiser.md)
@@ -80,7 +81,7 @@ ht-degree: 2%
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [ de koekjes van Adobe Advertising (verbinding)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html?lang=nl-NL){target="_blank"}
+      + [ de koekjes van Adobe Advertising (verbinding) ](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
       + [De trackingparameter voor AMO-id&#39;s (s_kwcid)](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
