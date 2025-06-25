@@ -34,7 +34,7 @@ Elk nieuw publiek van [!DNL Google] heeft de zelfde naam zoals het originele pub
 
    1. (Als u een publiek met een vervolgkeuzelijst voor gebruikers-id wilt maken) Een [!DNL Adobe] admin-gebruiker of accountmanager moet de instelling op adverteerderniveau selecteren om ervoor te zorgen dat het publiek van de klant overeenkomt.
 
-   1. Voer [ versie 2.0 uit van de Identiteitsdienst van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/id-service/using/home.html) of hoger.
+   1. Voer [ versie 2.0 uit van de Identiteitsdienst van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) of hoger.
 
    1. Gebruik de volgende tag zo hoog mogelijk op de webpagina&#39;s van de adverteerder waaruit het publiek moet worden bijgehouden
 
