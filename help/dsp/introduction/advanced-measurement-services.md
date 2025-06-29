@@ -2,9 +2,9 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: 0c33bb9d2258b8b17808469d2a31032ce84a66a9
+source-git-commit: f2f24b85ad2f6068739b54e4a72a2e7bef6cd31b
 workflow-type: tm+mt
-source-wordcount: '456'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Adverteerders hebben vaak moeite om te begrijpen hoe hun verschillende mediakanalen samenwerken, waar hun volgende mediagijfer het best kan worden besteed, of hoe de impact van hun online advertenties kan worden gekwantificeerd aan de hand van de belangrijkste bedrijfsdoelstellingen.
 
-In een gegevensgestuurd medialandschap biedt attributiemeting een oplossing voor deze uitdaging. Het team Advanced Measurement &amp; Strategy (AMS) helpt merk- en agentspartners te meten hoe elementen van hun Adobe Advertising in verband met hun [!DNL Adobe] integratie, aandrijvingsresultaten kopen. Met robuust aanbod van attributitemetingen kan AMS gekrulde doelstrategieën implementeren met behulp van geavanceerde meetframeworks, waardoor het voor merken eenvoudig is om hun mediaprijzen aan te sluiten op resultaten in de praktijk die hun bedrijven aansturen. Het team kan u helpen om:
+In een gegevensgestuurd medialandschap biedt attributiemeting een oplossing voor deze uitdaging. Het team Advanced Measurement &amp; Strategy (AMS) helpt merk- en agentspartners te meten hoe elementen van hun Adobe Advertising, samen met hun [!DNL Adobe] integratie, aandrijvingsresultaten kopen. Met robuust aanbod van attributitemetingen kan AMS gekrulde doelstrategieën implementeren met behulp van geavanceerde meetframeworks, waardoor het voor merken eenvoudig is om hun mediaprijzen aan te sluiten op resultaten in de praktijk die hun bedrijven aansturen. Het team kan u helpen om:
 
 * Metingsstudies activeren voor digitale mediacampagnes met volledige trechter
 
