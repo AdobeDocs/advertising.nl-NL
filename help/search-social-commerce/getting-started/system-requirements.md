@@ -3,9 +3,9 @@ title: Systeemvereisten
 description: Meer informatie over software- en accountvereisten.
 exl-id: 818494f2-45d6-4788-a847-d80dec711245
 feature: Search Getting Started
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: d2956703efd76db58305e31c5acf959e67747f02
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '255'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,21 @@ U hebt de volgende software- en accountgegevens nodig.
 
 ## Software
 
-* Een van de volgende browsers:
+* (Nieuwe gebruikersinterface) De meest recente versie min een van de volgende browsers:
+
+   * Voor de beste ervaring:
+
+      * [!DNL Google Chrome]
+
+      * [!DNL Microsoft Edge]
+
+   * [!DNL Apple Safari]
+
+   * [!DNL Mozilla Firefox]
+
+   * [!DNL Opera]
+
+* (Verouderde gebruikersinterface) Een van de volgende browsers:
 
    * [!DNL Apple Safari] (inclusief [!DNL Safari] for [!DNL iOS]) 10 of hoger
 
