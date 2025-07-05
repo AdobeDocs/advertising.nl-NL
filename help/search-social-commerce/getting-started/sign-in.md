@@ -40,7 +40,7 @@ Deze optie is beschikbaar tot 15 juli 2025.
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
 
    De nieuwe gebruikersinterface wordt standaard geopend.
 
@@ -54,7 +54,7 @@ Deze optie is beschikbaar tot 15 juli 2025.
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
 

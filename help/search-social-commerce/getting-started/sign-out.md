@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >Uw sessie wordt automatisch beëindigd als uw browservenster 30 minuten lang inactief is.
 
-* In het hogere recht van om het even welke pagina, klik ![ het profiel van de Gebruiker 1} ](/help/search-social-commerce/assets/user-profile.png ", en klik dan ").**[!UICONTROL Sign Out]**
+* In het hogere recht van om het even welke pagina, klik ![ het profiel van de Gebruiker 1&rbrace; ](/help/search-social-commerce/assets/user-profile.png ", en klik dan ").**[!UICONTROL Sign Out]**
 
 ## Afmelden bij de nieuwe gebruikersinterface
 
