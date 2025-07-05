@@ -3,9 +3,9 @@ title: Aanmelden
 description: Leer manieren om u aan te melden.
 exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
-source-git-commit: 5f28b2ba916778b110e19b6c3a1583312417a34e
+source-git-commit: 16bc95001d815f22ade46390d07e40fcc29e2fdb
 workflow-type: tm+mt
-source-wordcount: '326'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Search, Social &amp; Commerce gaat over naar de Adobe Identity Management Servic
 
 Uw huidige aanmeldgegevens voor Zoeken, Sociale Zaken en Commerce blijven actief tot 15 juli 2025 zodat u zich kunt voorbereiden op de wijziging.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
 
 ## Aanmelden via de verouderde aanmeldingspagina voor zoeken, sociale zaken en Commerce
 
@@ -30,15 +30,21 @@ Voor meer informatie over de interface van Experience Cloud, met inbegrip van he
 
 Deze optie is beschikbaar tot 15 juli 2025.
 
-* Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; geloofsbrieven van Commerce.
+* Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; gebruikersbenaming en wachtwoord van Commerce.
 
   De oudere gebruikersinterface wordt standaard geopend.
 
 ## Een [!DNL Adobe ID] gebruiken voor verificatie
 
-1. Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw [!DNL Adobe] identiteitskaart.
+1. Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/) en klik **[!UICONTROL Sign in with SSO]**.
 
-De nieuwe gebruikersinterface wordt standaard geopend.
+1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
+
+1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
+
+   De nieuwe gebruikersinterface wordt standaard geopend.
+
+1. Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie in de rechterbovenhoek van de pagina.
 
 ## Aanmelden vanuit Adobe Experience Cloud met een [!DNL Adobe ID]
 
@@ -46,19 +52,17 @@ De nieuwe gebruikersinterface wordt standaard geopend.
 
 1. Ga naar [ experience.adobe.com ](https://experience.adobe.com).
 
-1. Voer uw [!DNL Adobe] id-referenties in.
+1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Kies uw organisatie:
-
-   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
-
-   * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
+1. Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
 
 ![ Advertising Onderzoek, Sociale, &amp; Commerce) ](/help/search-social-commerce/assets/search-social-commerce-logo.png " Advertising Onderzoek, Sociale, &amp; Commerce) ")
 
 De nieuwe gebruikersinterface wordt standaard geopend.
+
+1. Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie in de rechterbovenhoek van de pagina.
 
 >[!MORELIKETHIS]
 >
