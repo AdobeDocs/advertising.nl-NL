@@ -50,7 +50,7 @@ De nieuwe gebruikersinterface wordt standaard geopend.
 
 1. Kies uw organisatie:
 
-   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
+   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of &#x200B;** Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
