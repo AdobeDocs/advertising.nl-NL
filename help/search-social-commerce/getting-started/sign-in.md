@@ -3,46 +3,62 @@ title: Aanmelden
 description: Leer manieren om u aan te melden.
 exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
-source-git-commit: 1bf1c26b56c2d57437d288ae5ac9d2ba1ff1db77
+source-git-commit: 5f28b2ba916778b110e19b6c3a1583312417a34e
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '326'
 ht-degree: 0%
 
 ---
 
 # Aanmelden
 
-<!-- update with new info -->
+Search, Social &amp; Commerce gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt SSO-toegang (Single Sign-On) tot alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. Met de wijziging:
 
-<!--
+* U kunt een [!DNL Adobe ID] gebruiken om u aan te melden voor [!DNL Adobe] -producten op de aanmeldingspagina van Experience Cloud of op de verouderde aanmeldingspagina voor Zoeken, Sociaal en Commerce. Uw [!DNL Adobe ID] biedt gebruikersprofielbeheer en de mogelijkheid om vanuit het bovenste menu over te schakelen naar een ander [!DNL Adobe] -product. In een toekomstige versie kunt u de account Zoeken, Sociaal en Commerce en de IMS-organisatie wijzigen via het bovenste menu.
 
-You can sign in to Search, Social, & Commerce directly or from within Adobe Experience Cloud.
+* Enterprise-verificatie wordt ondersteund.
 
-## Sign in directly
+* U kunt 24 uur blijven aangemeld.
 
- -->
+Uw huidige aanmeldgegevens voor Zoeken, Sociale Zaken en Commerce blijven actief tot 15 juli 2025 zodat u zich kunt voorbereiden op de wijziging.
 
-* Meld u aan bij een van de volgende URL&#39;s:
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
 
-   * Gebruikers in Noord-Amerika: [ https://enterprise-na.efrontier.com](https://enterprise-na.efrontier.com)
+## Aanmelden via de verouderde aanmeldingspagina voor zoeken, sociale zaken en Commerce
 
-   * Gebruikers in alle andere gebieden: [ https://enterprise-intl.efrontier.com](https://enterprise-intl.efrontier.com)
+### Gebruik een verouderde aanmelding voor Zoeken, Sociaal en Commerce voor verificatie
 
-<!--
+Deze optie is beschikbaar tot 15 juli 2025.
 
-## Sign in from Adobe Experience Cloud
+* Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; geloofsbrieven van Commerce.
 
->[!NOTE]
->
->Your company must be provisioned in Adobe Experience Cloud, and you must have [linked your Experience Cloud account to a Search, Social, & Commerce account](https://experiencecloud.adobe.com/resources/help/en_US/mcloud/organizations.html).
+  De oudere gebruikersinterface wordt standaard geopend.
 
-1. [Sign in to Adobe Experience Cloud](https://experienceleague.adobe.com/docs/core-services/interface/experience-cloud.html?lang=nl-NL#signin).
+## Een [!DNL Adobe ID] gebruiken voor verificatie
 
-1. In the top menu, select ![Solution selector](/help/search-social-commerce/assets/menu-icon.png "Solution selector").
+1. Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw [!DNL Adobe] identiteitskaart.
 
-1. In the submenu, select **[!UICONTROL Advertising Cloud]**.
+De nieuwe gebruikersinterface wordt standaard geopend.
 
--->
+## Aanmelden vanuit Adobe Experience Cloud met een [!DNL Adobe ID]
+
+<!-- Later, give them the new direct URL(s) to our UI so they don't have to select the product. -->
+
+1. Ga naar [ experience.adobe.com ](https://experience.adobe.com).
+
+1. Voer uw [!DNL Adobe] id-referenties in.
+
+1. Kies uw organisatie:
+
+   * Indien ertoe aangezet, selecteer of **Persoonlijke Rekening&quot;of **Onderneming of de Rekening van de School**.<!-- Will it necessarily be "Company or School Account?" -->
+
+   * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
+
+1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
+
+![ Advertising Onderzoek, Sociale, &amp; Commerce) ](/help/search-social-commerce/assets/search-social-commerce-logo.png " Advertising Onderzoek, Sociale, &amp; Commerce) ")
+
+De nieuwe gebruikersinterface wordt standaard geopend.
 
 >[!MORELIKETHIS]
 >
