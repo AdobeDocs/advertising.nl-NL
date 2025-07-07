@@ -2,9 +2,9 @@
 title: Veelgestelde vragen over aangepaste rapporten
 description: Meer informatie over aangepaste rapporten, waaronder rapporten van het huishouden en analytische rapporten over het omzetpad.
 exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
-source-git-commit: cb3eed4629c66283e0de18f7287169ec6e501aaa
+source-git-commit: a1ece707f43af4a6a3fc5573e41c75622f9b502f
 workflow-type: tm+mt
-source-wordcount: '1185'
+source-wordcount: '1178'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De rapportmetingen van [!UICONTROL Household Reach & Frequency] bereiken, de ind
 
 Zelfs als er bijvoorbeeld één indruk wordt gemaakt op drie apparaten binnen één huishouden, is de unieke maatstaf van het huishouden bereikt er één.
 
-##### Ondersteunde Dimensionen
+##### Ondersteunde afmetingen
 
 Het [!UICONTROL Household Reach & Frequency] rapport steunt [ volgende afmetingen ](/help/dsp/reports/report-columns.md): &quot;[!UICONTROL Campaign],&quot;[!UICONTROL Package], &quot;[!UICONTROL Placement],&quot;&quot;[!UICONTROL Site/Apps]&quot; (die geen toegang tot overlappende metriek) verleent, &quot;[!UICONTROL Media Type], &quot;[!UICONTROL Feed Type], &quot;[!UICONTROL Device],&quot;&quot;[!UICONTROL Publisher], &quot;[!UICONTROL Audience],&quot;&quot;[!UICONTROL Creative Length],&quot; en gebruiker-gecreeerde plaatsing &quot;[!UICONTROL Tags].&quot; |
 
@@ -83,17 +83,15 @@ Er worden twee typen toewijzingsmethoden ondersteund:
 
 #### Hoe verschilt de rapportage van omrekeningen van huishoudens van de rapportage van de doorkijkcijfers van de tv in Adobe Analytics?
 
-De doorkijkgegevens van CTV in [!DNL Analytics] worden aangedreven [!DNL Analytics] het volgen, en de omzettingsgegevens van het huishouden gebruiken gegevens die met het volgen van de omzetting van de Adobe Advertising worden verzameld. Daarnaast gebruikt de DSP attributielogica in [!DNL Analytics] alleen de laatste gebeurtenis, maar de omzettingsrapportage van het huishouden ondersteunt twee verschillende toewijzingsmethoden: Uniek en MTA.
+* In [!DNL Analytics] toont het [!DNL CTV View-Through Conversion] -rapport het aantal conversies waarvoor een CTV-indruk het laatste aanraakpunt vóór de conversie was. Het DSP [!UICONTROL Household Conversions] -rapport daarentegen toont het aantal unieke huishoudens dat vóór de conversie aan een CTV-indruk werd blootgesteld op een willekeurig punt binnen het gedefinieerde terugzoekvenster.
 
-#### Kan ik doorkijkgegevens van CTV bekijken in zowel [!DNL Analytics for Advertising] als in douanerapporten?
+* In [!DNL Analytics] wijst attributielogica uitsluitend conversies toe aan het laatste aanraakpunt van Adobe Advertising. Het DSP [!UICONTROL Household Conversions] -rapport ondersteunt daarentegen aanvullende attributiemodellen *[!UICONTROL Unique]* en *[!UICONTROL Multi-Touch Attribution (MTA)]* .
 
-Adverteerders zonder [!DNL Analytics for Advertising] kunnen alleen het omzettingsrapport van het huishouden gebruiken voor de rapportage van omrekeningen van huishoudens.
-
-Als uw organisatie [!DNL Analytics for Advertising] heeft, gebruik beide types van rapportering samen. Hoewel de CTV mening-door rapportering geschikt is voor brede kanaalanalyse, plaatsgedrag, etc., verstrekken de douanerapporten een korrelige mening (met gegevens uitgesplitst door media type, uitgevers, etc.) om de factoren aan te geven die de omrekeningskoersen drijven.
+* De rapportgegevens van [!DNL Analytics] zijn bijzonder waardevol om door marketing kanalen, de metriek van de plaatsovereenkomst, etc. te analyseren. Het DSP [!UICONTROL Household Conversions] -rapport biedt gedetailleerdere inzichten doordat conversiegegevens kunnen worden gesplitst in verschillende dimensies, zoals het mediatype en de uitgever.
 
 ### [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] Rapporten versus gegevens van [!DNL Advanced Measurement Services]
 
-Voor geavanceerde rapportering over huishouden-gebaseerd bereik en frequentie of omzettingen, kan het [[!DNL Strategic Advertising Consulting]  team ](/help/dsp/introduction/advanced-measurement-services.md) hoogst klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Neem voor meer informatie over [!DNL Advanced Measurement Services] contact op met het accountteam van de Adobe.
+Voor geavanceerde rapportering over huishouden-gebaseerd bereik en frequentie of omzettingen, kan het [[!DNL Strategic Advertising Consulting]  team ](/help/dsp/introduction/advanced-measurement-services.md) hoogst klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Neem voor meer informatie over [!DNL Advanced Measurement Services] contact op met uw Adobe-accountteam.
 
 #### Als ik [!DNL Advanced Measurement Services] al gebruik, waarom zou ik [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] rapporten moeten gebruiken?
 
@@ -109,15 +107,15 @@ Het ideale geval is om zowel het [!UICONTROL Household] -rapport als de [!DNL Ad
 
 | | Pad naar omzettingsrapport | Geavanceerd halo-effect Metingsservices bij zoekrapportage | Rapporten in Analysis Workspace |
 | --- | --- | --- |---|
-| Klantenwaarde | Genereer een zelf-bediende douanerapport om te begrijpen welke wegen van de ad reis tot meer omzettingen leidden om optimalisering te bevorderen | Begrijp de invloed van de tactiek van de Verbonden TV (CTV) op onderzoek klikt | Begrijp de invloed van uw holistische investering van de Adobe Advertising, naast andere marketing kanalen, op onderzoeksklikjes |
+| Klantenwaarde | Genereer een zelf-bediende douanerapport om te begrijpen welke wegen van de ad reis tot meer omzettingen leidden om optimalisering te bevorderen | Begrijp de invloed van de tactiek van de Verbonden TV (CTV) op onderzoek klikt | Begrijp de invloed van uw holistische investering van Adobe Advertising, naast andere marketing kanalen, op onderzoeksklikjes |
 | Huishoudelijk niveau | Ja | Ja | Nee |
 | Wordt CTV ondersteund? | Ja | Ja | Ja |
 | Attributiemethode | De laatste aanraakgebeurtenis (indruk of klik) moet zich in het venster van het lookboek bevinden. | Uniques | Laatste aanraking |
 | | Interactiepunten die meer dan 30 dagen vóór de laatste aanraakgebeurtenis liggen, worden in overweging genomen voor het conversiepad. | (CTV ontvangt krediet, ongeacht de locatie van de blootstelling aan kleuren-tv&#39;s in het pad naar klikken van de gebruiker) | (CTV krijgt krediet als de indruk de laatste gebeurtenis in het terugkijkvenster is EN er geen betaalde klik van andere formaten of vóór of na blootstelling CTV is) |
 | Rapportageniveau | korrelig | korrelig | Breed |
-| | (Kanaaltype, Creatief/Advertentie, Trefwoord, Paden, Lengte, Tijd-aan-Omzetting) | (Tactische tv, CTV-app/uitgever) | (Adobe Advertising en andere marketingkanalen) |
-| Marketingkanalen | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | Marketingkanalen die niet worden bijgehouden door de Adobe Advertising, klikken via EF-id (zoals Organic Search, Organic Social, Email en Affiliate) |
-| Ondersteunde omzettingsstatistieken | Metrisch bijgehouden met behulp van de Adobe Advertising-gebeurtenispixel (AMO-id) en Adobe Analytics-tracking | Klikken (geen conversies) | Metrische gegevens bijgehouden met gebruik van Adobe Analytics tracking |
+| | (Kanaaltype, Creative/Advertentie, Trefwoord, Paden, Lengte, Tijd-aan-Omzetting) | (Tactische tv, CTV-app/uitgever) | (Adobe Advertising en andere marketingkanalen) |
+| Marketingkanalen | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | Marketingkanalen die niet worden bijgehouden door de Adobe Advertising klikken via EF-id (zoals Organic Search, Organic Social, Email en Affiliate) |
+| Ondersteunde omzettingsstatistieken | Metrisch bijgehouden met Adobe Advertising-gebeurtenispixel (AMO-id) en Adobe Analytics-tracking | Klikken (geen conversies) | Metrische gegevens bijgehouden met gebruik van Adobe Analytics tracking |
 
 Voor meer informatie over het Geavanceerde Effect van de Halo van de Diensten van de Meting van de Meting op het Onderzoek die, zie &quot;[ Geavanceerde Diensten van de Meting ](/help/dsp/introduction/advanced-measurement-services.md) melden.&quot;
 

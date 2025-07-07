@@ -3,9 +3,9 @@ title: Instellingen voor aangepaste rapporten
 description: Zie beschrijvingen van de montages van het douanerapport.
 feature: DSP Custom Reports
 exl-id: 0e9e4332-3c10-44b0-b315-691b22dfb3c7
-source-git-commit: 8e6d2a1d39231176f3836246958b82691fbb5006
+source-git-commit: a1ece707f43af4a6a3fc5573e41c75622f9b502f
 workflow-type: tm+mt
-source-wordcount: '1541'
+source-wordcount: '1534'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 **[!UICONTROL Name]:** De rapportnaam. De maximumlengte is 180 tekens.
 
-**[!UICONTROL Report Type]:** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, *[!UICONTROL Path to Conversions Beta]*, *[!UICONTROL Path Length Beta]* of *[!UICONTROL Time to Conversion Beta]*.
+**[!UICONTROL Report Type]:** Het type rapport: *[!UICONTROL Custom]* (met de meeste beschikbare opties), *[!UICONTROL Billing]*, *[!UICONTROL Conversion]*, *[!UICONTROL Device]*, *[!UICONTROL Frequency (by Impression)]*, *[!UICONTROL Frequency (by App/Site)]*, *[!UICONTROL Geo]*, *[!UICONTROL Margin]*, *[!UICONTROL Media Performance]*, *[!UICONTROL Segment]*, *[!UICONTROL Site]*, *[!UICONTROL Household Reach & Frequency]*, *[!UICONTROL Household Conversions]*, **, *[!UICONTROL Path Length]* of *[!UICONTROL Time to Conversion]*.
 
 ## [!UICONTROL Report Range] Sectie
 
@@ -117,7 +117,7 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
 **[!UICONTROL Attribution Rule Settings]:** de montages variëren door rapporttype:
 
-* **\[Attribution Type\]:** ([!UICONTROL Household Conversion] rapporteert met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen; adverteerders met alleen het bijhouden van Adobe Advertising-conversie) In het rapport, hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot een conversie leiden:
+* **\[Type kenmerk\]:** ([!UICONTROL Household Conversion] rapporteert met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen) In het rapport leert u hoe u conversiegegevens kunt toewijzen in een reeks gebeurtenissen die tot conversie leiden:
 
    * *[!UICONTROL Unique]:* (het gebrek) telt het aantal tijden een afmetingswaarde (zoals een apparaat of plaatsing) op de weg aan omzetting was.
 
@@ -183,7 +183,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 * *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL FTP SSL] (Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
 
 * *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
