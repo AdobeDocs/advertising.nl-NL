@@ -3,7 +3,7 @@ title: Gegevens aanpassen in weergaven van campagnebeheer
 description: Meer informatie over de typen gegevens die u kunt aanpassen in de weergaven van de campagnegegevens.
 exl-id: 89f36865-9275-494e-ac33-d41fa30faa2a
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 42495874f93f3af2d6aaec19148d007062fd3b9b
 workflow-type: tm+mt
 source-wordcount: '392'
 ht-degree: 0%
@@ -12,11 +12,13 @@ ht-degree: 0%
 
 # Gegevens aanpassen in weergaven van campagnebeheer
 
+<!-- Add info about new UI -->
+
 In de meeste meningen van campagnegegevens, kunt u de gegevens aanpassen die binnen de gegevenslijst verschijnen. U kunt de gegevens op de volgende manieren aanpassen:
 
-* Bewerk de instellingen voor de volledige standaardweergave voor een specifieke entiteitsweergave (zoals [!UICONTROL Campaigns]) om een specifieke kolomvolgorde, filters, datumbereik, attributieregel en meer op te nemen. U kunt de instellingen tijdelijk toepassen of opslaan. U kunt ook aanvullende aangepaste weergaven maken en uw weergaven op elk gewenst moment toepassen.
+* Bewerk de instellingen voor de gehele standaardweergave voor een specifieke entiteitweergave (zoals [!UICONTROL Campaigns] ) om een specifieke kolomvolgorde, filters, datumbereik, toewijzingsregel en meer op te nemen. Pas de instellingen tijdelijk toe of sla ze op. U kunt ook aanvullende aangepaste weergaven maken en uw weergaven op elk gewenst moment toepassen.
 
-* De kolommen en hun sorteervolgorde wijzigen in de [!UICONTROL Columns] aan de rechterkant van de werkbalk, of wijzig snel alleen de kolommen van een kolomkop in de weergave.
+* Wijzig de kolommen en hun sorteervolgorde met het pictogram [!UICONTROL Columns] rechts op de werkbalk of wijzig snel alleen de kolommen in een kolomkop in de weergave.
 
 * Vanuit het linkernavigatievenster kunt u:
 
@@ -32,4 +34,4 @@ In de meeste meningen van campagnegegevens, kunt u de gegevens aanpassen die bin
 
 * U kunt de gegevens opnieuw sorteren op basis van de waarden in een bepaalde kolom.
 
-* Bepaal of u 25 rijen, 50 rijen, 100 rijen, 200 rijen wilt weergeven, of [!UICONTROL Continuous Scroll] rechtsonder op een pagina.
+* Bepaal of u 25 rijen, 50 rijen, 100 rijen, 200 rijen of [!UICONTROL Continuous Scroll] rechtsonder op een pagina wilt weergeven.
