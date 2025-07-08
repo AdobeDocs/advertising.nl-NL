@@ -3,14 +3,16 @@ title: Meerdere rijen selecteren
 description: Leer hoe u meerdere rijen selecteert, zodat u dezelfde handeling op alle rijen kunt uitvoeren.
 exl-id: 35490f9f-adde-4538-9013-4cb37b7abfbd
 feature: Search Common Tasks
-source-git-commit: 17dfff36a3f3b62be0d8c24d24b222d43cd97d4a
+source-git-commit: 347d223d226ce3372e29e80c00a11df605318c9f
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
 
 ---
 
-# Meerdere rijen selectereniU kunt meerdere rijen in de nieuwe gebruikersinterface selecteren in de beheerweergaven en in de oudere gebruikersinterface via [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] , [!UICONTROL Search > Label Classifications] en [!UICONTROL Optimization] > [!UICONTROL Constraints] :
+# Meerdere rijen selecteren
+
+U kunt meerdere rijen in de nieuwe gebruikersinterface selecteren in de beheerweergaven en in de oudere gebruikersinterface via [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] , [!UICONTROL Search > Label Classifications] en [!UICONTROL Optimization] > [!UICONTROL Constraints] :
 
 * Sneltoetsen:
 
