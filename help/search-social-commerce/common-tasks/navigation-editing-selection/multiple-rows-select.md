@@ -10,9 +10,7 @@ ht-degree: 0%
 
 ---
 
-# Meerdere rijen selecteren
-i
-U kunt meerdere rijen in de nieuwe gebruikersinterface selecteren in de beheerweergaven en in de oudere gebruikersinterface via [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] , [!UICONTROL Search > Label Classifications] en [!UICONTROL Optimization] > [!UICONTROL Constraints] :
+# Meerdere rijen selectereniU kunt meerdere rijen in de nieuwe gebruikersinterface selecteren in de beheerweergaven en in de oudere gebruikersinterface via [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] , [!UICONTROL Search > Label Classifications] en [!UICONTROL Optimization] > [!UICONTROL Constraints] :
 
 * Sneltoetsen:
 

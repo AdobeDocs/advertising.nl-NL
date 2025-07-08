@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een datum opgeven met de kalender
 
-1. Klik ![ knoop van de Kalender 1} knoop van de Kalender ](/help/search-social-commerce/assets/calendar-date-range.png " om de kalender te openen.")
+1. Klik ![ knoop van de Kalender 1&rbrace; knoop van de Kalender ](/help/search-social-commerce/assets/calendar-date-range.png " om de kalender te openen.")
 
    >[!NOTE]
    >
