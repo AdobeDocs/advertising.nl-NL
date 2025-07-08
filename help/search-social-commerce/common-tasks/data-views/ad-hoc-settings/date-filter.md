@@ -3,16 +3,18 @@ title: Gegevens filteren op datumbereik
 description: Leer hoe u het globale datumbereikfilter gebruikt.
 exl-id: 35c0f63f-84ae-4e8e-8a48-acae7ff24498
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: a438e0c24f9ff83941710f890c55c94b74d4d0f3
 workflow-type: tm+mt
-source-wordcount: '396'
+source-wordcount: '398'
 ht-degree: 0%
 
 ---
 
 # Gegevens filteren op datumbereik
 
-Dezelfde globale datumbereikfilter wordt toegepast op de meeste weergaven van uw campagnegegevens voor al uw adverteerders, behalve voor de standaardweergaven en aangepaste weergaven waarvoor u specifieke datumbereiken hebt opgeslagen. Het standaarddatumbereik van het systeem voor weergaven voor campagnebeheer is &quot;Gisteren&quot;.
+<!-- The same in new UI and legacy CM views -->
+
+Dezelfde globale datumbereikfilter wordt toegepast op de meeste gegevensweergaven in al uw adverteerders, behalve voor de standaardweergaven en aangepaste weergaven waarvoor u specifieke datumbereiken hebt opgeslagen. Het standaarddatumbereik van het systeem voor weergaven voor campagnebeheer is &quot;Gisteren&quot;.
 
 De instellingen voor het datumbereik worden opgeslagen in een browserspecifieke cookie. Wijzigingen in het datumbereikfilter worden dus voor alle adverteerders gebruikt wanneer u zich aanmeldt met dezelfde browsertoepassing totdat u het filter wijzigt of het cookie verwijdert. In elke browsertoepassing die u gebruikt, worden de filterinstellingen voor het datumbereik in een ander cookie opgeslagen.
 
@@ -34,11 +36,11 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 
    * Voor een specifiek bereik: selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begin- en einddatum op.
 
-     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![&#128279;](/help/search-social-commerce/assets/calendar.png " het pictogram van de Kalender 1&rbrace; van de Kalender ") naast elk gebied om de kalender te openen en een datum te selecteren.
+     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![ het pictogram van de Kalender 1} van de Kalender ](/help/search-social-commerce/assets/calendar.png " naast elk gebied om de kalender te openen en een datum te selecteren.")
 
 1. (Optioneel) Vergelijk gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik:
 
-   1. Verplaats de schuifregelaar **[!UICONTROL Comparison]** naar *[!UICONTROL On]* .
+   1. Verplaats de schuifregelaar **[!UICONTROL Comparison]** naar de positie &quot;Aan&quot;.
 
       Wanneer u deze optie selecteert, worden er twee extra kolommen toegevoegd voor elke gewone gegevenskolom. Bijvoorbeeld, in plaats van het omvatten van enkel één kolom voor &quot;[!UICONTROL Impressions],&quot;omvat de lijst kolommen voor &quot;[!UICONTROL Impressions R1],&quot;&quot;[!UICONTROL Impressions R2],&quot; en &quot;[!UICONTROL Impressions Diff]&quot;.  Als u de gegevens uitvoert, dan worden de zelfde kolommen gespeld zoals &quot;[!UICONTROL Impressions Range 1],&quot;&quot;[!UICONTROL Impressions Range 2],&quot; en &quot;[!UICONTROL Impressions Difference]&quot;.
 

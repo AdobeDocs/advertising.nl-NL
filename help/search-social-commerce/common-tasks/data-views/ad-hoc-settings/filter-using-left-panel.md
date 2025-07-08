@@ -1,16 +1,18 @@
 ---
 title: Gegevens filteren met het linkernavigatievenster
 description: Leer hoe u gegevens filtert met het linkernavigatievenster.
-exl-id: a0e88e85-e470-45dd-8d39-afddd27fd95b
+exl-id: f4675b5b-425e-4943-aac3-68f2e2b6d1df
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a438e0c24f9ff83941710f890c55c94b74d4d0f3
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '166'
 ht-degree: 0%
 
 ---
 
 # Gegevens filteren met het linkernavigatievenster
+
+*Verouderde slechts gebruikersinterface*
 
 Vanuit het linkernavigatievenster kunt u:
 

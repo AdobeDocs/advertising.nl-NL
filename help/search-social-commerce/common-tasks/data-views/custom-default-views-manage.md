@@ -3,14 +3,16 @@ title: Standaard- en aangepaste weergaven beheren
 description: Leer hoe u uw standaardweergaven en aangepaste weergaven aanpast.
 exl-id: 1f240760-6186-471f-bf1a-3e0ee13ce550
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: a438e0c24f9ff83941710f890c55c94b74d4d0f3
 workflow-type: tm+mt
-source-wordcount: '2836'
+source-wordcount: '2838'
 ht-degree: 0%
 
 ---
 
 # Standaard- en aangepaste weergaven beheren
+
+<!-- Doesn't include instructions for legacy Portfolios or Reports views -->
 
 Met de standaardweergaven en aangepaste weergaven kunt u de prestatiegegevens aanpassen die worden weergegeven in de gegevensweergaven van de zoekcampagne. Tot de weergave-instellingen behoren de kolommen die moeten worden opgenomen, de filters, het datumbereik, de conversieattributie-instellingen en andere geavanceerde instellingen. U kunt de instellingen tijdelijk toepassen of ze opslaan. (Uitzondering: u kunt filters niet opslaan voor standaardweergaven.) Elke standaardweergave en standaardweergave is alleen van toepassing op een specifieke entiteitsweergave (zoals [!UICONTROL Campaigns] ) en een specifieke advertentieaccount. Elke universele aangepaste weergave is van toepassing op de verschillende weergaven van entiteiten voor een specifieke adverteerder en kan daarom geen eigenschapskolommen (zoals de naam of status van een entiteit) bevatten, die per entiteitstype variëren.
 
@@ -18,7 +20,11 @@ De standaardweergaven worden standaard weergegeven wanneer u zich aanmeldt. U ku
 
 Elke weergave is beschikbaar als een sneltoets in het gedeelte [!UICONTROL Custom Views] van het linkerdeelvenster.
 
-## Een standaardweergave of aangepaste weergave toepassen
+<!--
+## (New UI) Apply a default or custom view
+-->
+
+## (Verouderde gebruikersinterface) Een standaardweergave of aangepaste weergave toepassen
 
 * (Standaardweergaven) Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . In submenus, klik **[!UICONTROL Live]** \> **\ [entiteittype \]**.
 
@@ -48,7 +54,7 @@ Aangepaste weergaven zijn alleen van toepassing op de weergaven voor campagnebeh
 
 1. Specificeer de [ montages van de douanemening ](#view-settings):
 
-   1. (Optioneel) Selecteer **[!UICONTROL Universal View]** als u de gegevensinstellingen in alle entiteitsweergaven beschikbaar wilt maken (bijvoorbeeld [!UICONTROL Campaigns] , [!UICONTROL Ads] , enzovoort).
+   1. (Optioneel) Selecteer [!UICONTROL Campaigns] als u de gegevensinstellingen in alle entiteitsweergaven beschikbaar wilt maken (bijvoorbeeld [!UICONTROL Ads] , **[!UICONTROL Universal View]** , enzovoort).
 
       Nadat u deze optie hebt in- of uitgeschakeld, kunt u de wijziging niet opslaan in de bestaande weergave, maar kunt u wel een nieuwe weergave maken met de wijziging.
 
@@ -78,7 +84,7 @@ Aangepaste weergaven zijn alleen van toepassing op de weergaven voor campagnebeh
 
    * (Als u reeds de mening) op de rechterkant van de toolbar boven de gegevenslijst hebt toegepast, klik de naam van de huidige mening (die &quot;[!UICONTROL Default]&quot;zou kunnen zijn).
 
-   * (De meningen van de Douane die niet worden toegepast) in het linkerpaneel, klik ![&#128279;](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " de Mening van de Douane ") om het [!UICONTROL Custom Views] menu uit te breiden.  Klik op de naam van de aangepaste weergave.
+   * (De meningen van de Douane die niet worden toegepast) in het linkerpaneel, klik ![ de Mening van de Douane ](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " om het ") menu uit te breiden. [!UICONTROL Custom Views] Klik op de naam van de aangepaste weergave.
 
 1. Bewerk de [ meningsmontages ](#view-settings):
 
@@ -118,7 +124,7 @@ Als u de standaardweergave-instellingen herstelt, verwijdert u alle instellingen
 
 De standaardinstellingen van het systeem variëren per tabblad. Voor de meeste lusjes, toont de systeemstandaardmening gegevens voor de vorige dag voor punten in toegelaten rekeningen en die actief zijn (bijvoorbeeld, slechts actieve en groepen in actieve campagnes), met de gegevens die door kosten worden gesorteerd, en met omzettingsgegevens die op transactiedatum worden gebaseerd.
 
-1. In het linkerpaneel, klik ![&#128279;](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " de Mening van de Douane van 0&rbrace; ") om het [!UICONTROL Custom Views] menu uit te breiden.
+1. In het linkerpaneel, klik ![ de Mening van de Douane van 0} ](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " om het ") menu uit te breiden.[!UICONTROL Custom Views]
 
    Weergaven worden gesorteerd op de toepasselijke entiteit.
 
@@ -130,7 +136,7 @@ U kunt elke aangepaste weergave verwijderen die u hebt gemaakt.
 
 Als u een douanemening schrapt die op het huidige lusje wordt toegepast, blijft het lusje de douanemening tonen tot u zich buiten de meningsreeks (bijvoorbeeld, van meningen binnen het [!UICONTROL Search] menu aan het [!UICONTROL Reports] menu) of (wanneer toepasselijk) beweegt wanneer u [ meningsgegevens voor een andere adverteerder ](/help/search-social-commerce/common-tasks/change-advertiser.md) bekijkt.
 
-1. In het linkerpaneel, klik ![&#128279;](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " de Mening van de Douane van 0&rbrace; ") om het [!UICONTROL Custom Views] menu uit te breiden.
+1. In het linkerpaneel, klik ![ de Mening van de Douane van 0} ](/help/search-social-commerce/assets/custom-views-left-rail_icon.png " om het ") menu uit te breiden.[!UICONTROL Custom Views]
 
 1. Houd de curseur over de naam van de douanemening, en klik dan ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
@@ -145,8 +151,8 @@ Als u een douanemening schrapt die op het huidige lusje wordt toegepast, blijft 
 |   | Delen | (Alleen aangepaste weergaven; optioneel) Hiermee maakt u de weergave beschikbaar voor alle andere gebruikers die de gegevens van de adverteerder kunnen bekijken. Andere gebruikers kunnen de weergave niet bewerken of verwijderen, maar ze kunnen wel een nieuwe weergave maken op basis van de instellingen. In uw meningslijsten, wordt elke mening die een andere persoon deelt cursief, zoals &quot;_best-presterende Campagnes_.&quot; |
 | Kolommen | Geselecteerde kolommen en volgorde | De kolommen met gegevens die worden weergegeven en hun volgorde:<ul><li> (Om een kolom toe te voegen) in de Beschikbare lijst van Kolommen, klik een kolomnaam, en dan of sleep het in de Geselecteerde Kolommen &amp; het Bestel- lijst of klik ![ juiste pijl ](/help/search-social-commerce/assets/chevron-right.png) om het daar te bewegen.</li><li>(Om de horizontale positie van een kolom) in de Geselecteerde Kolommen &amp; het Bestel- lijst te veranderen, klik de kolomnaam, en of sleep het dan aan de gewenste positie of klik ![ omhoog pijl ](/help/search-social-commerce/assets/chevron-up.png) of ![ benedenpijl ](/help/search-social-commerce/assets/chevron-down.png) om het daar te bewegen. De bovenste kolomnaam wordt weergegeven in de linkerkolom.</li><li>(Om een kolom) in de Geselecteerde Kolommen &amp; het Bestel- lijst te verwijderen, klik een kolomnaam, en dan of sleep het in de Beschikbare lijst van Kolommen of klik ![ verlaten pijl ](/help/search-social-commerce/assets/chevron-left.png) om het daar te bewegen.</li></ul><b> gegevens van de Filter </b><p>Als u alleen een specifiek type gegevens wilt weergeven, klikt u op een van de pictogrammen naast de lijst:<ul><li>![ eigenschappen pictogram ](/help/search-social-commerce/assets/properties-icon.png) voor bezitsnamen en identiteitskaarts voor onderzoekscomponenten, zoals Status</li><li>![ verkeerspictogram ](/help/search-social-commerce/assets/traffic-metrics-icon.png) voor standaardverkeersmetriek, zoals impressies en kliks</li><li>![ opbrengstpictogram ](/help/search-social-commerce/assets/revenue-metrics-icon.png) (voor omzettingsmetriek die voor adverteerder, met inbegrip van omzetting en de metriek van de plaatsovereenkomst wordt bijgehouden die van Analytics wordt gesynchroniseerd)</li><li>![ douanepictogram ](/help/search-social-commerce/assets/custom-metrics-icon.png) (voor douane afgeleide metriek die door adverteerder wordt gecreeerd)</li><li>![ classificatiepictogram ](/help/search-social-commerce/assets/classifications-icon.png) (voor etiketclassificaties).</li></ul> <b> Extra nota&#39;s:</b><ul><li>Zie &#39;Een aangepaste metrisch maken&#39;, &#39;Een aangepaste metrisch bewerken&#39; en &#39;Een aangepaste metrisch verwijderen&#39; als u nieuwe metrische gegevens wilt toevoegen, maken of bewerken.</li><li>Als het rapport gegevens voor rekeningen met verschillende valuta&#39;s omvat, dan zijn de totalen niet inbegrepen voor op monetair-gebaseerde kolommen (zoals Kosten en CPC).</li><li>U kunt [ tijdelijk de kolom uitgeven die van het menu van de kolomrubriek ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md) wordt geplaatst, en [ uitgeeft en de kolomreeks van het [!UICONTROL Columns] pictogram ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) sorteert. (![ pictogram van Kolommen ](/help/search-social-commerce/assets/custom-columns.png " pictogram van Kolommen ")).</li></ul> |
 |   | Sorteren op | De kolom waarmee de gegevens moeten worden gesorteerd. De standaardwaarde is verschillend voor elk rapporttype. |
-|   | Sorteervolgorde | Of om de gegevens in **Te sorteren die** of **&#x200B;**&#x200B;orde stijgen. Verplaats de schuifregelaar om een optie te selecteren. |
-| Filters | [ definities van de Filter ] | (Optioneel) Filters die op gegevens moeten worden toegepast. Wanneer filters worden toegepast, worden alleen rijen geretourneerd wanneer de waarde voor een kolom aan opgegeven criteria voldoet.<p>Voor elk filter dat moet worden toegepast:<ol><li>Selecteer een kolomnaam in het menu Filter toevoegen. De lijst omvat alle beschikbare kolommen en wordt gesorteerd door kolomtype, met bezitskolommen eerst.</li><li>Het filter in de kolom definiëren</li></ol>(Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in. Waarden zijn niet hoofdlettergevoelig. Klik ![ controlepictogram ](/help/search-social-commerce/assets/select.png) wanneer u wordt gedaan.<p>Bijvoorbeeld, als u de kolom &quot;van Klikken&quot;hebt geselecteerd en slechts rijen met meer dan 100 klikken wilt terugkeren, dan selecteer _\>_ en ga `100` op het inputgebied in.<p>Afhankelijk van het gegevenstype, kunnen de beschikbare exploitanten <i> groter dan </i> omvatten, <i> minder dan </i>, <i> gelijken </i>, <i> bevat </i>, <i> bevat niet </i>, <i> begint met </i>, <i> beëindigt met </i>, <i> geen waarde </i>, of <i>&rbrace; heeft waarde </i> <i> vóór </i>, <i> na </i>, of <i> geen datum </i>.<p>(Filters zonder inputgebieden) klik ![ pijl neer ](/help/search-social-commerce/assets/arrow-down-expand.png) naast het Uitgezochte menu van lijstpunten, en selecteer dan de controledozen naast elke te omvatten waarde. Klik ![ controlepictogram ](/help/search-social-commerce/assets/select.png) wanneer u wordt gedaan.<p><b> Nota&#39;s:</b><ul><li>U kunt wijzigingen in filters toepassen, maar niet opslaan in de standaardweergave-instellingen.</li><li>U kunt ook [ tijdelijk de toepasselijke filters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) binnen de mening veranderen.</li></ul> |
+|   | Sorteervolgorde | Of om de gegevens in **Te sorteren die** of **** orde stijgen. Verplaats de schuifregelaar om een optie te selecteren. |
+| Filters | [ definities van de Filter ] | (Optioneel) Filters die op gegevens moeten worden toegepast. Wanneer filters worden toegepast, worden alleen rijen geretourneerd wanneer de waarde voor een kolom aan opgegeven criteria voldoet.<p>Voor elk filter dat moet worden toegepast:<ol><li>Selecteer een kolomnaam in het menu Filter toevoegen. De lijst omvat alle beschikbare kolommen en wordt gesorteerd door kolomtype, met bezitskolommen eerst.</li><li>Het filter in de kolom definiëren</li></ol>(Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in. Waarden zijn niet hoofdlettergevoelig. Klik ![ controlepictogram ](/help/search-social-commerce/assets/select.png) wanneer u wordt gedaan.<p>Bijvoorbeeld, als u de kolom &quot;van Klikken&quot;hebt geselecteerd en slechts rijen met meer dan 100 klikken wilt terugkeren, dan selecteer _\>_ en ga `100` op het inputgebied in.<p>Afhankelijk van het gegevenstype, kunnen de beschikbare exploitanten <i> groter dan </i> omvatten, <i> minder dan </i>, <i> gelijken </i>, <i> bevat </i>, <i> bevat niet </i>, <i> begint met </i>, <i> beëindigt met </i>, <i> geen waarde </i>, of <i>} heeft waarde </i> <i> vóór </i>, <i> na </i>, of <i> geen datum </i>.<p>(Filters zonder inputgebieden) klik ![ pijl neer ](/help/search-social-commerce/assets/arrow-down-expand.png) naast het Uitgezochte menu van lijstpunten, en selecteer dan de controledozen naast elke te omvatten waarde. Klik ![ controlepictogram ](/help/search-social-commerce/assets/select.png) wanneer u wordt gedaan.<p><b> Nota&#39;s:</b><ul><li>U kunt wijzigingen in filters toepassen, maar niet opslaan in de standaardweergave-instellingen.</li><li>U kunt ook [ tijdelijk de toepasselijke filters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) binnen de mening veranderen.</li></ul> |
 |   | Inclusief rijen met alleen prestatiegegevens | (Alleen in de weergaven Groepen, Trefwoord, Productgroepen, Plaatsen en Automatische doelen toevoegen) <p>Hiermee worden alleen rijen opgenomen met prestatiegegevens gedurende de opgegeven datums. Deze optie is standaard geselecteerd om de laadtijd van de pagina te verkorten. <p><b> Waarschuwing </b>: Als u de optie schrapt en de mening vele entiteiten zonder prestatiesgegevens omvat, duurt het langer om te worden getoond.<p> <b> Nota </b>: U kunt veranderingen in filters op uw standaardmeningsmontages toepassen maar niet opslaan. In standaardweergaven worden altijd alleen entiteiten met prestatiegegevens weergegeven. |
 | Datum | Datumbereik | (Als Inclusief datumbereik is geselecteerd)<p>Het datumbereik waarvoor gegevens moeten worden gegenereerd. Kies één optie:<ul><li><i>[ vooraf ingestelde waaier ]</i>: Een lijst van gemeenschappelijke tijdtoename, die zich van <i> vandaag </i> aan <i> Laatste 180 Dagen </i> uitstrekken. Kies één van de lijst; het gebrek is <i> Gisteren </i>. Nota: <i> Vorige Maand </i>, <i> Laatste 3 Maanden </i>, en <i> Laatste 6 Maanden </i> tonen gegevens voor de vorige kalendermaanden.</li><li><i> de Waaier van de Datum van de Douane:</i> specificeer de begindatum en einddatum. Ga data in het formaat MM/DD/JJJJ of M/D/JJJJ in, of klik ![ kalenderpictogram ](/help/search-social-commerce/assets/calendar.png) naast een gebied en selecteer een datum.</li></ul> |
 |   | Vergelijking | Vergelijkt gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik. Wanneer u deze optie selecteert, worden er twee extra kolommen toegevoegd voor elke gewone gegevenskolom. Bijvoorbeeld, in plaats van slechts één kolom voor &quot;Inpressies,&quot;omvat het rapport kolommen voor &quot;Waaier 1 van Inpressies,&quot;Waaier 2 van de Indrukken,&quot;en &quot;Verschil van Impressies.&quot;<p><b> Nota&#39;s:</b><ul><li>De verschilkolom wordt niet getoond voor afgeleide metriek.</li><li>Rapporten die grote datumbereiken vergelijken, kunnen langer duren om te genereren.</li></ul> |
