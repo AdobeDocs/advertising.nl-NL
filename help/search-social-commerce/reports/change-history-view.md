@@ -40,7 +40,7 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
          * (Voor een specifiek bereik) — Selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begindatum en de einddatum op.
 
-           Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![ Kalender ](/help/search-social-commerce/assets/calendar.png " naast elk gebied van de Kalender 1} om de kalender te openen en een datum te selecteren. ") U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
+           Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![ Kalender ](/help/search-social-commerce/assets/calendar.png " naast elk gebied van de Kalender 1&rbrace; om de kalender te openen en een datum te selecteren. ") U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
 
       1. Klik op **[!UICONTROL Apply]**.
 
