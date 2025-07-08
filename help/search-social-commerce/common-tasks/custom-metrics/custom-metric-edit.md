@@ -3,9 +3,9 @@ title: Een aangepaste metrische waarde bewerken
 description: Leer hoe u aangepaste metriek kunt bewerken. Deze worden berekend op basis van standaardmeetwaarden.
 exl-id: 89271cd6-0a9d-49b7-9fd3-8c9b77e55e5a
 feature: Search Common Tasks, Search Custom Metrics
-source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
+source-git-commit: f176238d1ce0852f2db401441828be6832ec49f7
 workflow-type: tm+mt
-source-wordcount: '351'
+source-wordcount: '365'
 ht-degree: 1%
 
 ---
@@ -24,9 +24,11 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
 1. Voer boven de gegevenstabel een van de volgende handelingen uit:
 
-   * Klik ![ selecteur van de Mening ](/help/search-social-commerce/assets/view.png " selecteur van de Mening ") \ [de naam van de standaardmening of douanemening \] om de meningsmontages te openen. Voorbeeld: ![Voorbeeldweergave](/help/search-social-commerce/assets/view-selector-example.png "Voorbeeldweergave")
+   * Klik de naam van de momenteel-toegepaste mening (![ Mening ](/help/search-social-commerce/assets/view.png " Mening ")). Houd de cursor boven de naam van een bewerkbare weergave en klik op ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+     De wijzigingen worden in al uw weergaven zichtbaar.
+
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
 
@@ -40,7 +42,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
 
