@@ -1,18 +1,20 @@
 ---
 title: Een trenddiagram weergeven en verbergen
 description: Leer hoe te om een trendgrafiek voor de gegevens in sommige meningen van het campagnebeheer te bekijken en te verbergen.
-exl-id: 9360e0c1-a326-4b1f-8c80-a4a5049ff024
+exl-id: fa58b123-648f-4a95-86f0-3c38fa89cb28
 feature: Search Common Tasks
-source-git-commit: f21283731d7a1830af585cec43805c54c81c72ff
+source-git-commit: 17dfff36a3f3b62be0d8c24d24b222d43cd97d4a
 workflow-type: tm+mt
-source-wordcount: '225'
+source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
 # Een trenddiagram weergeven en verbergen
 
-U kunt een trendschema voor de gegevens in bekijken [!UICONTROL Accounts], [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords]-[!UICONTROL Keywords], [!UICONTROL Ads], en [!UICONTROL Product Groups] weergaven.
+*Verouderde slechts gebruikersinterface*
+
+U kunt een diagram met trends weergeven voor de gegevens in de weergaven [!UICONTROL Accounts] , [!UICONTROL Campaigns] , [!UICONTROL Ad Groups] , [!UICONTROL Keywords] , [!UICONTROL Ads] en [!UICONTROL Product Groups] .
 
 Standaard toont het diagram het aantal klikken tegenover kosten tijdens het geselecteerde datumbereik voor accounts die een opgegeven valuta gebruiken. U kunt optioneel de maatstaven wijzigen om te vergelijken en — wanneer u accounts hebt met meerdere valuta&#39;s — de valuta wijzigen waarvoor gegevens moeten worden opgenomen.
 
@@ -20,7 +22,7 @@ Standaard toont het diagram het aantal klikken tegenover kosten tijdens het gese
 >
 >De grafieken van de trend zijn niet beschikbaar wanneer u gegevens voor twee datumwaaiers vergelijkt.
 
-1. Klik boven de gegevenstabel op ![Grafieken](/help/search-social-commerce/assets/trend-chart.png "Grafieken") om een verborgen trendgrafiek te tonen of een zichtbare trendgrafiek te verbergen.
+1. Boven de gegevenslijst, klik ![ Haaien ](/help/search-social-commerce/assets/trend-chart.png " om een verborgen trendgrafiek te tonen of een zichtbare trendgrafiek te verbergen.")
 
 1. (Optioneel voor zichtbare trenddiagrammen) Selecteer een andere valuta en verschillende cijfers die u wilt vergelijken:
 
@@ -28,7 +30,7 @@ Standaard toont het diagram het aantal klikken tegenover kosten tijdens het gese
 
       Wanneer u rekeningen met meerdere valuta&#39;s hebt, worden alle valuta&#39;s voor de desbetreffende rekeningen vermeld; wanneer u de valuta wijzigt, worden alleen gegevens weergegeven voor de rekeningen die die valuta gebruiken. Alle standaardmetriek, adverteerderspecifieke omzettingsmetriek, en douanemetriek u uit bestaande metriek hebt afgeleid zijn vermeld.
 
-   1. Klikken ![Opslaan](/help/search-social-commerce/assets/save-checkmark.png "Opslaan").
+   1. Klik ![ sparen ](/help/search-social-commerce/assets/save-checkmark.png " ").
 
 >[!NOTE]
 >

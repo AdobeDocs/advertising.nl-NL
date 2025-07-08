@@ -3,7 +3,7 @@ title: Gegevens downloaden vanuit een campagnebeheerweergave
 description: Leer hoe u gegevens kunt downloaden uit de meeste weergaven voor campagnebeheer.
 exl-id: f549f03c-ed0b-4d7d-8d7e-91192c17e77e
 feature: Search Common Tasks
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: 17dfff36a3f3b62be0d8c24d24b222d43cd97d4a
 workflow-type: tm+mt
 source-wordcount: '382'
 ht-degree: 0%
@@ -11,6 +11,8 @@ ht-degree: 0%
 ---
 
 # Gegevens downloaden vanuit een campagnebeheerweergave
+
+<!-- Add info about new UI -->
 
 U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] , met uitzondering van de weergaven [!UICONTROL Keywords] - [!UICONTROL Keyword Negatives] , [!UICONTROL Placements] - [!UICONTROL Placement Negatives] , [!UICONTROL Audiences] en [!UICONTROL Extensions] . U kunt een van de volgende twee downloaden:
 
@@ -26,11 +28,11 @@ U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Com
 
    Anders worden alle gegevens in de weergave opgenomen.
 
-1. Op het recht van de toolbar, klik ![&#128279;](/help/search-social-commerce/assets/download.png " Download van het Rapport van de Download van het 0&rbrace; ").
+1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0} ](/help/search-social-commerce/assets/download.png ".")
 
 1. Klik ![ creëren ](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
 
-1. (Facultatief) Zodra de rapportbaan volledig is, klik ![&#128279;](/help/search-social-commerce/assets/download.png " Download van het Rapport 1&rbrace; ") om het [!UICONTROL Available Reports] paneel te bekijken, en dan het rapport te downloaden of te schrappen:
+1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1} ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
 
    * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![ spreadsheet van de Download ](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
 

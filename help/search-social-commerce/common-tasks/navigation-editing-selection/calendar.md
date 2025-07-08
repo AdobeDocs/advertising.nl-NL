@@ -1,31 +1,33 @@
 ---
 title: Een datum opgeven met de kalender
 description: Leer hoe u datums selecteert met de kalender.
-exl-id: b07c0db5-4b7a-4b60-9383-ca07b99404de
+exl-id: afb2b5be-ca6a-4c2b-9a5a-c40ee7caa7ea
 feature: Search Common Tasks
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 17dfff36a3f3b62be0d8c24d24b222d43cd97d4a
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
 # Een datum opgeven met de kalender
 
-1. Klikken ![De knop Kalender](/help/search-social-commerce/assets/calendar-date-range.png "De knop Kalender") om de kalender te openen.
+1. Klik ![ knoop van de Kalender 1} knoop van de Kalender ](/help/search-social-commerce/assets/calendar-date-range.png " om de kalender te openen.")
 
    >[!NOTE]
    >
    >De kalenderknop kan alleen worden ingeschakeld wanneer de invoeroptie voor de datum is geselecteerd.
 
-   ![Geopende kalender](/help/search-social-commerce/assets/calendar-full.png "Geopende kalender")
+   ![ Geopende kalender ](/help/search-social-commerce/assets/calendar-full.png " Geopende kalender ")
 
 1. Selecteer de datum met een van de volgende opties:
 
    * Klik op de datum.
 
-   * (Als u een maand vooruit of terug wilt gaan, klikt u op **`<`** of **`>`**, respectievelijk.
+   * (De meeste weergaven) Als u een maand of een jaar vooruit of terug wilt gaan, klikt u op respectievelijk **`<`** of **`>`** .
 
-   * (Als u een andere maand of een ander jaar wilt selecteren) Klik op de naam van de maand of het jaar en klik vervolgens op de maand of het jaar.
+   * (Oudere [!UICONTROL Portfolios] weergave) Als u een andere maand of een ander jaar wilt selecteren, klikt u op de naam van de maand of het jaar en vervolgens op de maand of het jaar.
 
-   (Klik op **[!UICONTROL Today]**.
+   * Klik op **[!UICONTROL Today]** om de huidige datum te markeren.
+
+1. Klik op **[!UICONTROL Apply]**.

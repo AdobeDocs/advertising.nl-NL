@@ -1,15 +1,17 @@
 ---
 title: Meerdere rijen selecteren
 description: Leer hoe u de gegevens vernieuwt in de weergaven van het campagnebeheer.
-exl-id: 63ce1753-3bfb-454d-ac18-ef67bf95eabc
+exl-id: b1103f02-89cf-4cdb-9077-03685e61778c
 feature: Search Common Tasks
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: 17dfff36a3f3b62be0d8c24d24b222d43cd97d4a
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '40'
 ht-degree: 0%
 
 ---
 
 # Gegevens vernieuwen in beheerweergaven
 
-* Klik onder aan de tabel met gegevens op ![Vernieuwen](/help/search-social-commerce/assets/refresh.png).
+* (Nieuwe UI) in de toolbar boven de gegevenslijst, de klik ![ verfrist zich ](/help/search-social-commerce/assets/refresh-new.png).
+
+* (Verouderde UI) bij de bodem van de gegevenslijst, verfrist de klik ![ zich ](/help/search-social-commerce/assets/refresh.png).
