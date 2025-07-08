@@ -26,7 +26,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
    * Klik ![ selecteur van de Mening ](/help/search-social-commerce/assets/view.png " selecteur van de Mening ") \ [de naam van de standaardmening of douanemening \] om de meningsmontages te openen. Voorbeeld: ![Voorbeeldweergave](/help/search-social-commerce/assets/view-selector-example.png "Voorbeeldweergave")
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
 
@@ -40,7 +40,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
 

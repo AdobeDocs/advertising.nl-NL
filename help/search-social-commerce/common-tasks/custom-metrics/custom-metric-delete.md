@@ -22,7 +22,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
    * Klik ![ selecteur van de Mening ](/help/search-social-commerce/assets/view.png " selecteur van de Mening ") \ [de naam van de standaardmening of douanemening \] om de meningsmontages te openen. Voorbeeld: ![Voorbeeldweergave](/help/search-social-commerce/assets/view-selector-example.png "Voorbeeldweergave")
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") naast de kolomnaam.
 
@@ -34,7 +34,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Plaats de cursor op de kolomnaam. Naast de kolomnaam, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
