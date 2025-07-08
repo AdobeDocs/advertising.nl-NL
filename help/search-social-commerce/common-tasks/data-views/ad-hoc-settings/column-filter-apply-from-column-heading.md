@@ -22,7 +22,7 @@ U kunt zoveel filters toepassen als u wilt in een kolom, één voor één.<!-- T
 
 1. Definieer het filter op de kolom:
 
-   * (Filters zonder inputgebieden) Selecteer de controledozen naast elke te omvatten waarde, en klik dan ![ toevoegen van de Filter van de 0} Update ](/help/search-social-commerce/assets/select.png ".")
+   * (Filters zonder inputgebieden) Selecteer de controledozen naast elke te omvatten waarde, en klik dan ![ toevoegen van de Filter van de 0&rbrace; Update ](/help/search-social-commerce/assets/select.png ".")
 
    * (Filters met inputgebieden) Selecteer een exploitant van het tweede menu, ga de toepasselijke waarde in, en klik dan ![ Add van de Filter van de Update ](/help/search-social-commerce/assets/select.png " ").
 
