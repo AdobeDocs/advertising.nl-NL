@@ -3,9 +3,9 @@ title: Gegevens aanpassen in weergaven van campagnebeheer
 description: Meer informatie over de typen gegevens die u kunt aanpassen in de weergaven van de campagnegegevens.
 exl-id: 89f36865-9275-494e-ac33-d41fa30faa2a
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 42495874f93f3af2d6aaec19148d007062fd3b9b
+source-git-commit: 062c63c314bb6eb262fc57f6acc79bc4f2164258
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '411'
 ht-degree: 0%
 
 ---
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 In de meeste meningen van campagnegegevens, kunt u de gegevens aanpassen die binnen de gegevenslijst verschijnen. U kunt de gegevens op de volgende manieren aanpassen:
 
-* Bewerk de instellingen voor de gehele standaardweergave voor een specifieke entiteitweergave (zoals [!UICONTROL Campaigns] ) om een specifieke kolomvolgorde, filters, datumbereik, toewijzingsregel en meer op te nemen. Pas de instellingen tijdelijk toe of sla ze op. U kunt ook aanvullende aangepaste weergaven maken en uw weergaven op elk gewenst moment toepassen.
+* [ geef de montages voor uw volledige standaardmening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md##view-edit) voor een specifieke entiteitmening (zoals [!UICONTROL Campaigns]) uit om een specifieke kolomorde, filters, datumwaaier, attributieregel, en meer te omvatten — en of pas tijdelijk de montages toe of sparen hen. U kunt extra douanemeningen [ ook creëren, ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view) kloon bestaande meningen [ en ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#view-clone) om het even welk van uw meningen [ toepassen.](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#apply-a-default-or-custom-view)
 
-* Wijzig de kolommen en hun sorteervolgorde met het pictogram [!UICONTROL Columns] rechts op de werkbalk of wijzig snel alleen de kolommen in een kolomkop in de weergave.
+* [ verander de kolommen en hun soortorde ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) van het [!UICONTROL Columns] pictogram op de rechterkant van de toolbar, of verander snel [ enkel de kolommen ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-column-heading.md) van om het even welke kolomrubriek in de mening.
 
-* Vanuit het linkernavigatievenster kunt u:
+* (Verouderd gebruikersinterface slechts) [ van het linkernavigatievenster ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/filter-using-left-panel.md), kunt u:
 
    * Blader naar of zoek naar entiteiten via een ad-netwerk en filtreer op de status van de entiteit en de status van de account, campagne en advertentiegroep of advertentieset. Klik op een entiteit of een entiteitsgroep in het deelvenster om een weergave van de onderliggende entiteiten te laden (klik bijvoorbeeld op een campagnenaam om de onderliggende en bovenliggende entiteiten weer te geven).
 
@@ -28,10 +28,10 @@ In de meeste meningen van campagnegegevens, kunt u de gegevens aanpassen die bin
 
    * Toegang krijgen tot, bewerken en herstellen van uw standaardweergaven en uw aangepaste weergaven openen, bewerken en verwijderen. Als u op een weergavenaam klikt, wordt de juiste weergave geladen.
 
-* Pas filters op om het even welke beschikbare gegevenskolommen toe om de gegevens te veranderen die op het huidige lusje worden getoond. U kunt filters van de kolomrubrieken of van een knoop op de toolbar tot stand brengen. Filters blijven behouden wanneer u onderliggende entiteiten opent. Als u bijvoorbeeld campagnes weergeeft met \> 100 klikken en vervolgens een advertentiegroep binnen die campagne opent, worden alleen ad-hocgroepen weergegeven met \> 100 klikken.
+* Pas filters op om het even welke beschikbare gegevenskolommen toe om de gegevens te veranderen die op het huidige lusje worden getoond. U kunt filters [ van de kolomrubrieken ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) of [ van een knoop op de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) tot stand brengen. Voor de weergaven van het campagnebeheer blijven de filters van toepassing wanneer u onderliggende entiteiten opent. Als u bijvoorbeeld campagnes weergeeft met \> 100 klikken en vervolgens een advertentiegroep binnen die campagne opent, worden alleen ad-hocgroepen weergegeven met \> 100 klikken.
 
-* Wijzig het datumbereik dat wordt gebruikt in alle standaardweergaven en aangepaste weergaven waarvoor u geen specifieke datumbereiken hebt opgeslagen.
+* [ verander de datumwaaier ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/date-filter.md) die in al gebrek en douanemeningen wordt gebruikt waarvoor u geen specifieke datumwaaiers hebt bewaard.
 
-* U kunt de gegevens opnieuw sorteren op basis van de waarden in een bepaalde kolom.
+* [ hersorteer de gegevens ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-sort.md) volgens de waarden in een specifieke kolom.
 
-* Bepaal of u 25 rijen, 50 rijen, 100 rijen, 200 rijen of [!UICONTROL Continuous Scroll] rechtsonder op een pagina wilt weergeven.
+* Bepaal of u 25 rijen, 50 rijen, 100 rijen (alleen oudere gebruikersinterface), 200 rijen of (alleen oudere gebruikersinterface) [!UICONTROL Continuous Scroll] onder aan een pagina wilt weergeven.
