@@ -28,7 +28,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
      De wijzigingen worden in al uw weergaven zichtbaar.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
 
@@ -42,7 +42,7 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
 

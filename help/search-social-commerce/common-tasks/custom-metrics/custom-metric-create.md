@@ -22,7 +22,7 @@ ht-degree: 1%
 
      De aangepaste maateenheid die u maakt, wordt beschikbaar in al uw weergaven.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Onder de kolomlijst die opent, ![ creeer Douane Metrische ](/help/search-social-commerce/assets/add.png " creeer Metrisch van de Douane ") **[!UICONTROL Create Custom Metric]**.
 
@@ -36,7 +36,7 @@ ht-degree: 1%
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
 1. Onder de kolomlijst die opent, ![ creeer Nieuwe Metrische Douane ](/help/search-social-commerce/assets/add.png " creeert Nieuwe Metrische Douane ") **[!UICONTROL Create New Custom Metric]**.
 
