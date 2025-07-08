@@ -44,11 +44,11 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. De beschikbare opt
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0} {het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1} gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 
