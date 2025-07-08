@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
----
+&#x200B;---
 titel: Gegevens voor een andere adverteerder weergeven
 beschrijving: leer hoe u gegevens voor een andere adverteerder kunt bekijken.
 exl-id: 31c5db71-9ef1-4088-8fdc-ff091e0eaef8
