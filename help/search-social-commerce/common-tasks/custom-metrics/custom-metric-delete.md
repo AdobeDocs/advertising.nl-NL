@@ -1,11 +1,11 @@
 ---
 title: Een aangepaste metrische waarde verwijderen
 description: Leer hoe u aangepaste metriek verwijdert. Deze worden berekend op basis van standaardmeetwaarden.
-exl-id: 531da1f7-6e20-4124-9e8c-e1816929c4d7
+exl-id: 8956afa3-d165-4a5b-b68b-99d519cf6ab6
 feature: Search Common Tasks, Search Custom Metrics
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '325'
 ht-degree: 0%
 
 ---
@@ -14,39 +14,53 @@ ht-degree: 0%
 
 Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weergave en u verwijdert een kolom onmiddellijk. Als het in een andere standaardmening of douanemening, of in een rapportmalplaatje inbegrepen is, dan is de kolomverandering zichtbaar de volgende tijd u de mening verfrist of het malplaatje bekijkt, respectievelijk.
 
-## Een aangepaste metrische waarde verwijderen uit een campagnebeheerweergave
+## (Nieuwe UI) Schrap douane metrisch van een beheersmening
+
+*Beschikbaar in [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], en [!UICONTROL Ad Groups] meningen*
+
+1. Voer boven de gegevenstabel een van de volgende handelingen uit:
+
+   * Klik ![ selecteur van de Mening ](/help/search-social-commerce/assets/view.png " selecteur van de Mening ") \ [de naam van de standaardmening of douanemening \] om de meningsmontages te openen. Voorbeeld: ![Voorbeeldweergave](/help/search-social-commerce/assets/view-selector-example.png "Voorbeeldweergave")
+
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+
+1. Houd de curseur over de kolomnaam, en klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") naast de kolomnaam.
+
+1. Klik in het bevestigingsbericht op **[!UICONTROL Cpnfirm]** .
+
+## (Verouderde UI) Schrap douane metrisch van een mening van het campagnebeheer
 
 1. Voer boven de gegevenstabel een van de volgende handelingen uit:
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klikken ![Aangepaste kolommen](/help/search-social-commerce/assets/custom-columns.png "Aangepaste kolommen") om de instellingen voor de kolomconfiguratie te openen.
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Plaats de cursor op de kolomnaam. Klik naast de kolomnaam op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen").
+1. Plaats de cursor op de kolomnaam. Naast de kolomnaam, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
 
-1. Klik in het bevestigingsbericht **[!UICONTROL OK]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL OK]** .
 
-## Een aangepaste metrische waarde verwijderen uit een rapport- of rapportsjabloonformulier
+## (Verouderde UI) Schrap douane metrisch van een rapport of een vorm van het rapportmalplaatje
 
-1. Ga binnen een rapport- of rapportsjabloonformulier naar de **[!UICONTROL Columns]** tab.
+1. Ga binnen een rapport- of rapportsjabloonformulier naar de tab **[!UICONTROL Columns]** .
 
-1. Klik op de kolomnaam in de kolom links of rechts en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
+1. Klik op de kolomnaam in de linkerkolom of de rechterkolom en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]** .
 
-## Een aangepaste metrische waarde verwijderen uit het dialoogvenster [!UICONTROL Portfolios] views
+## (Verouderde UI) Verwijder een aangepaste metrische waarde uit de weergaven van [!UICONTROL Portfolios]
 
-1. Klik boven de gegevenstabel op ![Geselecteerde weergave bewerken](/help/search-social-commerce/assets/view-settings.png "Geselecteerde weergave bewerken").
+1. Boven de gegevenslijst, geeft de klik ![ Geselecteerde Mening ](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
 
-1. Klik op de knop **[!UICONTROL Columns]** tab.
+1. Klik op de tab **[!UICONTROL Columns]** .
 
-1. Klik op de kolomnaam in het dialoogvenster [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
+1. Klik op de kolomnaam in de lijst [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Delete]** in de rechtersectie.
 
-1. Klik in het bevestigingsbericht **[!UICONTROL Yes]**.
+1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]** .
 
 >[!MORELIKETHIS]
 >
->* [Informatie over aangepaste metriek](custom-metric-about.md)
->* [Een aangepaste metrische waarde maken](custom-metric-create.md)
->* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
->* [Aangepaste metrische instellingen](custom-metric-settings.md)
+>* [ Ongeveer douanemetriek ](custom-metric-about.md)
+>* [ creeer metrische douane ](custom-metric-create.md)
+>* [ geef metrisch douane ](custom-metric-edit.md) uit
+>* [ metrische montages van de Douane ](custom-metric-settings.md)

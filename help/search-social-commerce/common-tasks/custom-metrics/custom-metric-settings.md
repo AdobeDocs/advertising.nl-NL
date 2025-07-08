@@ -1,11 +1,11 @@
 ---
 title: Aangepaste metrische instellingen
 description: Verwijs naar de montages voor douanemetriek, die van standaardmetriek worden berekend.
-exl-id: f4b8c44e-ecb3-46dc-9a68-c079188e1d75
+exl-id: b9e8434d-5ea2-47cd-9d63-705a6337c34c
 feature: Search Common Tasks, Search Custom Metrics
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '613'
+source-wordcount: '616'
 ht-degree: 0%
 
 ---
@@ -14,27 +14,27 @@ ht-degree: 0%
 
 Aangepaste metrische instellingen verschillen enigszins in verschillende delen van de interface.
 
-## Aangepaste metrische instellingen in weergaven voor campagnebeheer
+## Aangepaste metrische instellingen in de meeste beheerweergaven
 
 | Parameter/Sectie | Beschrijving |
 |----|----|
-| Aangepaste metrische naam | De naam van metrisch, die als kolomnaam verschijnt. <b>Tip:</b> Gebruik een betekenisvolle metrische naam, maar houd er rekening mee dat langere namen de kolom breder maken. |
-| Metrisch invoegen | De wiskundige formule die wordt gebruikt om de nieuwe metrische waarde te berekenen (zoals [Kosten]/[Registraties]:<ul><li>Om metrisch van de lijst van verkeer en opbrengstmetriek op te nemen, plaats uw curseur waar u metrisch wilt opnemen, en dan of metrisch van de lijst selecteren of het manueel ingaan en ingesloten tussen haakjes (bijvoorbeeld, `[CPC]`).</li><li>Als u een operator wilt invoegen, plaatst u de cursor op de plaats waar u de operator wilt invoegen en klikt u op de knop of voert u het symbool handmatig in. De beschikbare wiskundige operatoren: `+ - * / ( ) ()`</li></ul><b>Opmerking:</b> Complexe aangepaste metriek duurt langer om te berekenen en rapporten en weergaven die ze bevatten, vooral wanneer ze aparte kolommen voor doorklikken en doorkijkconversies bevatten, duurt het langer om te genereren. |
-| Indeling | Hoe te om de gegevens voor dit metrisch voor te stellen: *[!UICONTROL Currency]* (een monetaire waarde), *[!UICONTROL Number to 2 Decimal Points]*, *[!UICONTROL Number to 3 Decimal Points]*, *[!UICONTROL Number w/out Decimal Points]*, of *[!UICONTROL Percentage]* (een percentage met twee decimalen).<br><br><b>Let op:</b> Als u een afgeleide metrische waarde met het formaat creeert [!UICONTROL Number w/out Decimal Points] (waarin gegevens als gehele getallen worden weergegeven) en deze opnemen in een weergave of rapport waarin een gewogen toewijzingsregel voor conversie wordt gebruikt ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]), wordt de uitvoer weergegeven in gehele getallen, niet in decimalen. Dit betekent dat afzonderlijke gegevensvelden mogelijk onjuist zijn, ook al zijn de totalen juist. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Om de kwestie te verhinderen, gebruik metrisch formaat [!UICONTROL Number to 2 Decimal Points]. |
+| Aangepaste metrische naam | De naam van metrisch, die als kolomnaam verschijnt. <b> Uiteinde:</b> gebruik een betekenisvolle metrische naam, maar ben van mening dat de langere namen de kolom breder maken. |
+| Metrisch invoegen | De wiskundige formule die wordt gebruikt om nieuwe metrisch (zoals [ Kosten ] te berekenen/ [ Registraties ]:<ul><li>Om metrisch van de lijst van verkeer en opbrengstmetriek op te nemen, plaats uw curseur waar u metrisch wilt opnemen, en dan of metrisch van de lijst selecteren of het manueel en ingesloten tussen haakjes ingaan (bijvoorbeeld, `[CPC]`).</li><li>Als u een operator wilt invoegen, plaatst u de cursor op de plaats waar u de operator wilt invoegen en klikt u op de knop of voert u het symbool handmatig in. De beschikbare wiskundige operatoren: `+ - * / ( ) ()`</li></ul><b> Nota:</b> De complexe douanemetriek neemt langer om te berekenen, en rapporten en meningen die hen omvatten — vooral wanneer zij afzonderlijke kolommen voor klik-door en mening-door omzettingen omvatten — duurt langer om te produceren. |
+| Indeling | De gegevens voor deze metrische waarde weergeven: *[!UICONTROL Currency]* (een monetaire waarde), *[!UICONTROL Number to 2 Decimal Points]*, *[!UICONTROL Number to 3 Decimal Points]*, *[!UICONTROL Number w/out Decimal Points]* of *[!UICONTROL Percentage]* (een percentage met twee decimale punten).<br><br><b> Voorzichtigheid:</b> als u afgeleide metrisch met formaat [!UICONTROL Number w/out Decimal Points] creeert (die gegevens als gehelen toont) en het in een mening of een rapport omvat die een gewogen omzettingsattributieregel ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]) gebruikt, dan wordt de output getoond in gehelen, niet decimalen. Dit betekent dat afzonderlijke gegevensvelden mogelijk onjuist zijn, ook al zijn de totalen juist. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Gebruik de metrische notatie [!UICONTROL Number to 2 Decimal Points] om het probleem te voorkomen. |
 
-## De metrische montages van de douane in rapporten en rapportmalplaatjes en in [!UICONTROL Portfolios] views
+## Aangepaste metrische instellingen in rapporten en rapportsjablonen en in de verouderde [!UICONTROL Portfolios] weergaven
 
 | Parameter/Sectie | Beschrijving |
 |----|----|
-| Aangepaste metrische naam | De naam van metrisch, die als kolomnaam verschijnt. <b>Tip:</b> Gebruik een betekenisvolle metrische naam, maar houd er rekening mee dat langere namen de kolom breder maken. |
-| Indeling | Hoe te om de gegevens voor dit metrisch voor te stellen: *[!UICONTROL Currency]* (een monetaire waarde), *[!UICONTROL Number to 2 Decimal Points]*, *[!UICONTROL Number to 3 Decimal Points]*, *[!UICONTROL Number w/out Decimal Points]*, of *[!UICONTROL Percentage]* (een percentage met twee decimalen).<br><br><b>Let op:</b> Als u een afgeleide metrische waarde met het formaat creeert [!UICONTROL Number w/out Decimal Points] (waarin gegevens als gehele getallen worden weergegeven) en deze opnemen in een weergave of rapport waarin een gewogen toewijzingsregel voor conversie wordt gebruikt ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]), wordt de uitvoer weergegeven in gehele getallen, niet in decimalen. Dit betekent dat afzonderlijke gegevensvelden mogelijk onjuist zijn, ook al zijn de totalen juist. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Om de kwestie te verhinderen, gebruik metrisch formaat [!UICONTROL Number to 2 Decimal Points]. |
-| Metrisch invoegen | Een lijst van bestaande metriek waarvan u een formule kunt tot stand brengen.<br><br>Als u metrisch wilt invoegen in het veld voor de invoer van de formule, plaatst u de cursor op de plaats waar u de metrische waarde wilt invoegen en selecteert u de metrische waarde in de lijst of voert u deze handmatig in en tussen haakjes (bijvoorbeeld `[CPC]`). |
-| Operator invoegen | De beschikbare wiskundige operatoren: `+ - x / ( )`<br><br>Als u een operator wilt invoegen in het invoerveld voor de formule, plaatst u de cursor op de plaats waar u de operator wilt invoegen en klikt u op de knop of voert u het symbool handmatig in. |
-| [Formule-invoerveld voor de metrische waarde] | De wiskundige formule die wordt gebruikt om nieuwe metrisch te berekenen die op één of meerdere bestaande eigenschappen of standaardmetriek wordt gebaseerd (zoals `[Cost]/[Registrations]`. Het kan elke combinatie van metriek en operatoren bevatten.<br><br><b>Opmerking:</b> Complexe aangepaste metriek duurt langer om te berekenen en rapporten en weergaven die ze bevatten, vooral wanneer ze aparte kolommen voor doorklikken en doorkijkconversies bevatten, duurt het langer om te genereren. |
+| Aangepaste metrische naam | De naam van metrisch, die als kolomnaam verschijnt. <b> Uiteinde:</b> gebruik een betekenisvolle metrische naam, maar ben van mening dat de langere namen de kolom breder maken. |
+| Indeling | De gegevens voor deze metrische waarde weergeven: *[!UICONTROL Currency]* (een monetaire waarde), *[!UICONTROL Number to 2 Decimal Points]*, *[!UICONTROL Number to 3 Decimal Points]*, *[!UICONTROL Number w/out Decimal Points]* of *[!UICONTROL Percentage]* (een percentage met twee decimale punten).<br><br><b> Voorzichtigheid:</b> als u afgeleide metrisch met formaat [!UICONTROL Number w/out Decimal Points] creeert (die gegevens als gehelen toont) en het in een mening of een rapport omvat die een gewogen omzettingsattributieregel ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]) gebruikt, dan wordt de output getoond in gehelen, niet decimalen. Dit betekent dat afzonderlijke gegevensvelden mogelijk onjuist zijn, ook al zijn de totalen juist. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Gebruik de metrische notatie [!UICONTROL Number to 2 Decimal Points] om het probleem te voorkomen. |
+| Metrisch invoegen | Een lijst van bestaande metriek waarvan u een formule kunt tot stand brengen.<br><br> om metrisch op het gebied van de formulesinput op te nemen, plaats uw curseur waar u metrisch wilt opnemen, en dan of metrisch van de lijst selecteren of het manueel en ingesloten tussen haakjes ingaan (bijvoorbeeld, `[CPC]`). |
+| Operator invoegen | De beschikbare wiskundige exploitanten: `+ - x / ( )`<br><br> om een exploitant op het gebied van de formulesinput op te nemen, plaats uw curseur waar u de exploitant wilt opnemen, en dan of klik de knoop of ga manueel het symbool in. |
+| [ Invoergebied van de Formule voor metrisch ] | De wiskundige formule die wordt gebruikt om nieuwe metrisch te berekenen die op één of meerdere bestaande eigenschappen of standaardmetriek (zoals `[Cost]/[Registrations]` wordt gebaseerd. Het kan elke combinatie van metriek en operatoren bevatten.<br><br><b> Nota:</b> De complexe douanemetriek neemt langer om te berekenen, en rapporten en meningen die hen omvatten — vooral wanneer zij afzonderlijke kolommen voor klik-door en mening-door omzettingen omvatten — duurt langer om te produceren. |
 
 >[!MORELIKETHIS]
 >
->* [Informatie over aangepaste metriek](custom-metric-about.md)
->* [Een aangepaste metrische waarde maken](custom-metric-create.md)
->* [Een aangepaste metrische waarde bewerken](custom-metric-edit.md)
->* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
+>* [ Ongeveer douanemetriek ](custom-metric-about.md)
+>* [ creeer metrische douane ](custom-metric-create.md)
+>* [ geef metrisch douane ](custom-metric-edit.md) uit
+>* [ Schrap metrische douane ](custom-metric-delete.md)

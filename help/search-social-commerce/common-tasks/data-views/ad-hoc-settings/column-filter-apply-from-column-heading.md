@@ -1,30 +1,38 @@
 ---
 title: Gegevensfilters toepassen vanuit een kolomkopmenu
 description: Leer hoe u de paginagegevens filtert vanuit een kolomkopmenu.
-exl-id: ad745599-fd98-4f34-b181-085070adb685
+exl-id: 508f254a-d859-4155-9bbd-84e0442f01d5
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '221'
 ht-degree: 0%
 
 ---
 
 # Een gegevensfilter toepassen vanuit een kolomkopmenu
 
-U kunt zoveel filters toepassen als u wilt in een kolom, één voor één. Alle filters worden verbonden gebruikend de exploitant AND. Als u meer dan één filter tegelijk wilt toevoegen met alle beschikbare meetgegevens, raadpleegt u &quot;[Gegevensfilters toepassen vanaf de werkbalk](column-filter-apply-from-toolbar.md).&quot;
+<!-- Doesn't include instructions for legacy Portfolios or Reports views -->
 
-1. Klik rechts van de kolomkop op ![Pijl-omlaag](/help/search-social-commerce/assets/arrow-down-dropdown.png "Pijl-omlaag")en klik vervolgens op **[!UICONTROL Add Filter]**.
+U kunt zoveel filters toepassen als u wilt in een kolom, één voor één.<!-- True only for entity names, I think: All filters are joined using the AND operator. --> om meer dan één filter tegelijkertijd toe te voegen gebruikend alle beschikbare metriek, zie &quot;[ gegevensfilters van de toolbar ](column-filter-apply-from-toolbar.md) toepassen.&quot;
+
+1. Op de rechterkant van de kolomrubriek, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl "), en klik dan **[!UICONTROL Add Filter]**.
 
 1. Definieer het filter op de kolom:
 
-   * (Filters zonder invoervelden) Selecteer de selectievakjes naast elke waarde die u wilt opnemen en klik op ![Filter bijwerken](/help/search-social-commerce/assets/select.png "Filter bijwerken").
+   * (Filters zonder inputgebieden) Selecteer de controledozen naast elke te omvatten waarde, en klik dan ![ toevoegen van de Filter van de 0} Update ](/help/search-social-commerce/assets/select.png ".")
 
-   * (Filters met invoervelden) Selecteer een operator in het tweede menu, voer de toepasselijke waarde in en klik op ![Filter bijwerken](/help/search-social-commerce/assets/select.png "Filter bijwerken").
+   * (Filters met inputgebieden) Selecteer een exploitant van het tweede menu, ga de toepasselijke waarde in, en klik dan ![ Add van de Filter van de Update ](/help/search-social-commerce/assets/select.png " ").
 
-     Als u bijvoorbeeld &quot;[!UICONTROL Clicks]&quot; kolom en alleen rijen met meer dan 100 klikken wilt retourneren. Selecteer vervolgens *[!UICONTROL greater than]*&quot; en voer `100` in het invoerveld Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]*, of *[!UICONTROL no date].*
+     Als u bijvoorbeeld de kolom &quot;[!UICONTROL Clicks]&quot; hebt geselecteerd en alleen rijen met meer dan 100 klikken wilt retourneren, selecteert u *[!UICONTROL greater than]*&quot; en voert u `100` in het invoerveld Afhankelijk van het gegevenstype in, kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*,  *[!UICONTROL before]* , *[!UICONTROL after]* of *[!UICONTROL no date].*
 
      >[!NOTE]
      >
      >* Tekstwaarden zijn niet hoofdlettergevoelig. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
-     >* U kunt slechts één eenvoudig numeriek filter toepassen (zoals [!UICONTROL Impressions] \> 100) per kolom.
+     >* U kunt slechts één eenvoudig numeriek filter (zoals [!UICONTROL Impressions] \> 100) per kolom toepassen.
+
+>[!MORELIKETHIS]
+>
+>* [ pas gegevensfilters van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
+>* [ verwijder een kolomfilter ] (/help/onderzoek-sociale handel/gemeenschappelijk-taken/gegeven-meningen/ad-hoc-montages/

@@ -1,11 +1,11 @@
 ---
 title: Een kolomfilter verwijderen
 description: Leer hoe u een kolomfilter verwijdert.
-exl-id: 9f11d100-06c7-474d-a7ca-30f180e3d7ff
+exl-id: e68f0087-85a0-4090-aa58-c84703e6d1a1
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
@@ -14,8 +14,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook meerdere filters verwijderen uit een filterset van [bewerken van de filterset](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md).
+>U kunt veelvoudige filters in een filter ook verwijderen dat door [ wordt geplaatst het uitgeven van de filterreeks ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) wordt geplaatst.
 
-1. (Indien nodig) Klik in de filterset boven de gegevenstabel op ![Meer](/help/search-social-commerce/assets/more-filters.png "Meer") om de filterset uit te vouwen.
+* (Indien beschikbaar) Klik boven de gegevenstabel op **[!UICONTROL X]** in de filterdefinitie.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL X]** in de filterdefinitie.
+>[!MORELIKETHIS]
+>
+>* [ pas een gegevensfilter van een menu van de kolomkop toe ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [ pas gegevensfilters van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit

@@ -1,11 +1,11 @@
 ---
 title: Een aangepaste metrische waarde bewerken
 description: Leer hoe u aangepaste metriek kunt bewerken. Deze worden berekend op basis van standaardmeetwaarden.
-exl-id: 7b0c18d3-e4ed-49ad-aef7-d05b2a67ba2e
+exl-id: 89271cd6-0a9d-49b7-9fd3-8c9b77e55e5a
 feature: Search Common Tasks, Search Custom Metrics
-source-git-commit: 9c4dcb19e386d8e1eea541776f5b92c9d500ae9f
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '264'
+source-wordcount: '351'
 ht-degree: 1%
 
 ---
@@ -18,45 +18,61 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 >
 >Complexe aangepaste metriek duurt langer om te berekenen en rapporten en weergaven die ze bevatten, met name wanneer ze aparte kolommen voor doorklikken en doorkijkconversies bevatten, duurt het langer om te worden gegenereerd.
 
-## Een aangepaste metrische waarde bewerken vanuit een campagnebeheerweergave
+## (Nieuwe UI) geef douanemetrisch van een beheersmening uit
+
+*Beschikbaar in [!UICONTROL Simulations], [!UICONTROL Portfolios], [!UICONTROL Campaigns], en [!UICONTROL Ad Groups] meningen*
+
+1. Voer boven de gegevenstabel een van de volgende handelingen uit:
+
+   * Klik ![ selecteur van de Mening ](/help/search-social-commerce/assets/view.png " selecteur van de Mening ") \ [de naam van de standaardmening of douanemening \] om de meningsmontages te openen. Voorbeeld: ![Voorbeeldweergave](/help/search-social-commerce/assets/view-selector-example.png "Voorbeeldweergave")
+
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+
+1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
+
+1. Specificeer de [ douane metrische montages ](custom-metric-settings.md).
+
+1. Klik op **[!UICONTROL Save]**.
+
+## (Verouderde UI) geef douanemetrisch van een mening van het campagnebeheer uit
 
 1. Voer boven de gegevenstabel een van de volgende handelingen uit:
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klikken ![Aangepaste kolommen](/help/search-social-commerce/assets/custom-columns.png "Aangepaste kolommen") om de instellingen voor de kolomconfiguratie te openen.
+   * Klik ![ de Kolommen van de Douane van 0} Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Plaats de cursor boven de kolomnaam en klik op ![Bewerken](/help/search-social-commerce/assets/edit.png "Bewerken") naast de kolomnaam.
+1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
 
-1. Geef de [aangepaste metrische instellingen](custom-metric-settings.md).
+1. Specificeer de [ douane metrische montages ](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
-## Een aangepaste metrische waarde bewerken vanuit een rapport- of rapportsjabloonformulier
+## (Verouderde UI) geef douanemetrisch van een rapport of een vorm van het rapportmalplaatje uit
 
-1. Ga binnen een rapport- of rapportsjabloonformulier naar de **[!UICONTROL Columns]** tab.
+1. Ga binnen een rapport- of rapportsjabloonformulier naar de tab **[!UICONTROL Columns]** .
 
 1. Klik op de kolomnaam in de linkerkolom of in de rechterkolom en klik vervolgens op **[!UICONTROL Edit]** in de rechtersectie.
 
-1. Bewerk de [aangepaste metrische instellingen](custom-metric-settings.md).
+1. Bewerk de [ douane metrische montages ](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Submit]**.
 
-## Een aangepaste metrische waarde bewerken in het menu [!UICONTROL Portfolios] views
+## (Verouderde gebruikersinterface) Een aangepaste metrische waarde bewerken vanuit de weergaven [!UICONTROL Portfolios]
 
-1. Klik boven de gegevenstabel op ![Geselecteerde weergave bewerken](/help/search-social-commerce/assets/view-settings.png "Geselecteerde weergave bewerken").
+1. Boven de gegevenslijst, geeft de klik ![ Geselecteerde Mening ](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
 
-1. Klik op de knop **[!UICONTROL Columns]** tab.
+1. Klik op de tab **[!UICONTROL Columns]** .
 
-1. Klik op de kolomnaam in het dialoogvenster [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Edit]** in de rechtersectie.
+1. Klik op de kolomnaam in de lijst [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Edit]** in de rechtersectie.
 
-1. Bewerk de [aangepaste metrische instellingen](custom-metric-settings.md).
+1. Bewerk de [ douane metrische montages ](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Submit]**.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over aangepaste metriek](custom-metric-about.md)
->* [Een aangepaste metrische waarde maken](custom-metric-create.md)
->* [Een aangepaste metrische waarde verwijderen](custom-metric-delete.md)
->* [Aangepaste metrische instellingen](custom-metric-settings.md)
+>* [ Ongeveer douanemetriek ](custom-metric-about.md)
+>* [ creeer metrische douane ](custom-metric-create.md)
+>* [ Schrap metrische douane ](custom-metric-delete.md)
+>* [ metrische montages van de Douane ](custom-metric-settings.md)

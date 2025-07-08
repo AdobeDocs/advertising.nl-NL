@@ -3,45 +3,83 @@ title: Gegevensfilters toepassen vanaf de werkbalk
 description: Leer hoe u de paginagegevens filtert van de werkbalk.
 exl-id: fc1dca75-b0e5-48fd-90ee-f09c158e3e8b
 feature: Search Common Tasks, Search Custom Data Views
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: a89a6513dfe468b98513b2d47c086a3107e63d47
 workflow-type: tm+mt
-source-wordcount: '269'
+source-wordcount: '489'
 ht-degree: 0%
 
 ---
 
 # Gegevensfilters toepassen vanaf de werkbalk
 
-U kunt zoveel filters toepassen als u wilt in een weergave. Alle filters worden verbonden gebruikend de exploitant AND.
+<!-- Doesn't include instructions for legacy Portfolios view; not available in Reports views -->
 
-1. Klik op de werkbalk op ![Filter](/help/search-social-commerce/assets/filter.png "Filter").
+U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only for entity names, I think: All filters are joined using the AND operator. -->
+
+## (Nieuwe UI) Gegevensfilters van de toolbar in beheersmeningen toepassen
+
+1. In de toolbar, klik ![ Filter ](/help/search-social-commerce/assets/filter-new.png " van de Filter ").
 
 1. Voer een van de volgende handelingen uit in de filterinstellingen:
 
-   * Klik op ![Filter toevoegen](/help/search-social-commerce/assets/add.png "Filter toevoegen") **[!UICONTROL ADD FILTER]** en voer vervolgens de volgende handelingen uit:
+   * Als u een filter wilt toevoegen, klikt u op **[!UICONTROL ADD FILTER]** en voert u de volgende handelingen uit:
 
-      1. (Optioneel) Als u de kolomnamen wilt filteren op een tekenreeks, voert u de zoektekenreeks in het dialoogvenster **[!UICONTROL ADD FILTER]** invoerveld.
+      1. (Optioneel) Als u de kolomnamen wilt filteren op een tekenreeks, voert u de zoektekenreeks in het invoerveld **[!UICONTROL ADD FILTER]** in.
 
       1. Selecteer een kolomnaam in het kolommenu.
 
       1. Definieer het filter op de kolom:
 
-         * (Filters zonder invoervelden) Klik op ![Pijl-omlaag](/help/search-social-commerce/assets/arrow-down-expand.png "Pijl-omlaag") naast het tweede menu en selecteer vervolgens de selectievakjes naast elke waarde die u wilt opnemen.
+         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
 
          * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
-           Als u bijvoorbeeld &quot;[!UICONTROL Clicks]&quot; kolom en alleen rijen met meer dan 100 klikken wilt retourneren. Selecteer vervolgens *[!UICONTROL greater than]*&quot; en voer `100` in het invoerveld.
+           Als u bijvoorbeeld de kolom &quot;[!UICONTROL Clicks]&quot; hebt geselecteerd en alleen rijen met meer dan 100 klikken wilt retourneren, selecteert u *[!UICONTROL greater than]* &quot; en voert u `100` in het invoerveld in.
 
-           Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]*, of *[!UICONTROL no date].*
+           Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]* of *[!UICONTROL no date]bevatten.*
 
-           **Opmerking:** Tekstwaarden zijn niet hoofdlettergevoelig. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
+           **Nota:** de waarden van de Tekst zijn niet case-sensitive. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
 
-         * ([!UICONTROL Ad Groups], [!UICONTROL Keywords], [!UICONTROL Product Groups], [!UICONTROL Placements], en [!UICONTROL Auto Targets] alleen weergaven; optioneel) Wijzig de instelling in &quot;[!UICONTROL Include rows with performance data only].&quot;
+   * Als u een bestaand filter wilt bewerken, klikt u op het filter en wijzigt u vervolgens de filterdefinitie.
 
-           **Waarschuwing:** Als u de selectie van de optie ongedaan maakt en de weergave veel entiteiten zonder prestatiegegevens bevat, duurt het langer om de gegevens weer te geven.
+   * Als u een bestaand filter wilt verwijderen, klikt u op **[!UICONTROL -]** naast de filterdefinitie.
 
-   * Als u een bestaand filter wilt bewerken, klikt u op het filter, wijzigt u de filterdefinitie en klikt u vervolgens op ![Filter bijwerken](/help/search-social-commerce/assets/select.png "Filter bijwerken").
+## (Verouderde gebruikersinterface) Gegevensfilters toepassen vanaf de werkbalk in een campagnebeheerweergave
 
-   * Als u een bestaand filter wilt verwijderen, klikt u **[!UICONTROL X]** naast de filterdefinitie.
+1. In de toolbar, klik ![ Filter ](/help/search-social-commerce/assets/filter.png " van de Filter ").
+
+1. Voer een van de volgende handelingen uit in de filterinstellingen:
+
+   * Om een filter toe te voegen, ![ voeg Filter ](/help/search-social-commerce/assets/add.png " toe ") **[!UICONTROL ADD FILTER]**, en doe dan het volgende:
+
+      1. (Optioneel) Als u de kolomnamen wilt filteren op een tekenreeks, voert u de zoektekenreeks in het invoerveld **[!UICONTROL ADD FILTER]** in.
+
+      1. Selecteer een kolomnaam in het kolommenu.
+
+      1. Definieer het filter op de kolom:
+
+         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
+
+         * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
+
+           Als u bijvoorbeeld de kolom &quot;[!UICONTROL Clicks]&quot; hebt geselecteerd en alleen rijen met meer dan 100 klikken wilt retourneren, selecteert u *[!UICONTROL greater than]* &quot; en voert u `100` in het invoerveld in.
+
+           Afhankelijk van het gegevenstype kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*, *[!UICONTROL before]*, *[!UICONTROL after]* of *[!UICONTROL no date]bevatten.*
+
+           **Nota:** de waarden van de Tekst zijn niet case-sensitive. Als u bijvoorbeeld filtert door campagnes met &quot;lening&quot; in de naam, omvatten de resultaten &quot;Consumentenleningen&quot; en &quot;kredietaanvragen&quot;.
+
+         * ([!UICONTROL Ad Groups]-, [!UICONTROL Keywords] -, [!UICONTROL Product Groups] -, [!UICONTROL Placements] - en [!UICONTROL Auto Targets] alleen weergaven; optioneel) Wijzig de instelling in &quot;[!UICONTROL Include rows with performance data only]&quot;.
+
+           **Waarschuwing:** als u de optie schrapt en de mening vele entiteiten zonder prestatiesgegevens omvat, dan nemen de gegevens langer om worden getoond.
+
+   * Als u een bestaand filter wilt bewerken, klikt u op het filter en wijzigt u vervolgens de filterdefinitie.
+
+   * Om een bestaand filter te verwijderen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " naast de filterdefinitie.")
 
 1. Klik op **[!UICONTROL Apply]**.
+
+>[!MORELIKETHIS]
+>
+>* [ pas een gegevensfilter van een menu van de kolomkop toe ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
+>* [ verwijder een kolomfilter ] (/help/onderzoek-sociale handel/gemeenschappelijk-taken/gegeven-meningen/ad-hoc-montages/
