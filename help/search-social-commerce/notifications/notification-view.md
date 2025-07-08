@@ -1,9 +1,9 @@
 ---
 title: Je berichten bekijken
 description: Leer meer over de verschillende manieren om je meldingen weer te geven.
-exl-id: 01226827-661d-4125-ab64-874fe7dcaf3a
+exl-id: d449937a-02cf-4f4c-8171-da89c914c119
 feature: Search Notifications
-source-git-commit: 052574217d7ddafb8895c74094da5997b5ff83db
+source-git-commit: cb65108fcc60c11b901e3b43c292ad5a94192b9f
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -12,57 +12,57 @@ ht-degree: 0%
 
 # Je berichten bekijken
 
-*Bètaonderdeel*
+*de Eigenschap van Beta*
 
-Wanneer u [geabonneerd op meldingen](notification-edit.md) over fouten bij accountverificatie, aangepaste waarschuwingen die worden geactiveerd, en [!UICONTROL Advertising Insights] die worden gegenereerd, kunt u uw meldingen weergeven in [!UICONTROL Notifications] of [!UICONTROL Notification Center].
+Wanneer u [ aan berichten ](notification-edit.md) over de fouten van de rekeningsauthentificatie, douanealarm wordt ingetekend die worden teweeggebracht, en [!UICONTROL Advertising Insights] die worden geproduceerd, kunt u uw berichten in of het [!UICONTROL Notifications] paneel of [!UICONTROL Notification Center] bekijken.
 
-## Meldingen weergeven in het dialoogvenster [!UICONTROL Notifications] deelvenster
+## Meldingen weergeven in het deelvenster [!UICONTROL Notifications]
 
-1. Klik in de rechterbovenhoek van een pagina op ![Meldingen](/help/search-social-commerce/assets/notifications-panel.png "Meldingen").
+1. In het hogere recht van om het even welke pagina, klik ![ Meldingen ](/help/search-social-commerce/assets/notifications-panel.png " ").
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
    * Klik op de naam van het bericht om de details van een melding weer te geven.
 
-     In sommige meldingen worden de [!UICONTROL Action Recommended] kan een koppeling bevatten die een gefilterde weergave van de betrokken of verantwoordelijke entiteiten opent.
+     In sommige meldingen bevat de sectie [!UICONTROL Action Recommended] mogelijk een koppeling waarmee een gefilterde weergave van de betrokken of verantwoordelijke entiteiten wordt geopend.
 
-   * Een melding markeren als *lezen* of *ongelezen*, houd de cursor boven de waarschuwingsnaam en klik op ![Markeren als gelezen of Ongelezen](/help/search-social-commerce/assets/notifications-read-unread.png "Markeren als gelezen of Ongelezen").
+   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![ Teken als Gelezen of Ongelezen ](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
 
-     Meldingen gemarkeerd als *lezen* bevinden zich in een lichtere tekst, maar blijven beschikbaar totdat u deze verwijdert.
+     De berichten die als *worden gemerkt lezen* zijn in een lichter-gekleurde tekst maar blijven beschikbaar tot u hen schrapt.
 
-   ![Meldingen lezen en onlezen](/help/search-social-commerce/assets/notifications-read-vs-unread.png "Meldingen lezen en onlezen")
+   ![ Lees en Ongelezen berichten ](/help/search-social-commerce/assets/notifications-read-vs-unread.png " Gelezen en Ongelezen berichten ")
 
-   * Als u uw abonnementsvoorkeuren voor het berichttype wilt wijzigen, klikt u op ![Instellingen](/help/search-social-commerce/assets/settings-nc.png "Instellingen") wijzigt u de instellingen naast de melding en klikt u op **[!UICONTROL Save]**.
+   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![ Montages ](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
 
-   * Als u een melding wilt verwijderen, klikt u op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen") naast de melding.
+   * Om een bericht te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
-   * Om te openen [!UICONTROL Notification Center], klikt u op **[!UICONTROL View All]**.
+   * Klik op [!UICONTROL Notification Center] om **[!UICONTROL View All]** te openen.
 
 ## Meldingen weergeven binnen [!UICONTROL Notification Center]
 
-1. (Van binnen Onderzoek, Sociale, &amp; Handel) in het belangrijkste menu, klik **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]**.
+1. (Vanuit Zoeken, Sociaal en Commerce) Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
 
-1. (Optioneel) Als u uw meldingen op type wilt filteren, klikt u op *[!UICONTROL Notices], [!UICONTROL Recommendations], [!UICONTROL Warnings], of[!UICONTROL Issues]*.
+1. (Optioneel) Klik op *[!UICONTROL Notices], [!UICONTROL Recommendations] , [!UICONTROL Warnings] of[!UICONTROL Issues]* om uw meldingen te filteren op type.
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
    * Klik op de naam van het bericht om de details van een melding weer te geven.
 
-     In sommige meldingen worden de [!UICONTROL Action Recommended] kan een koppeling bevatten die een gefilterde weergave van de betrokken of verantwoordelijke entiteiten opent.
+     In sommige meldingen bevat de sectie [!UICONTROL Action Recommended] mogelijk een koppeling waarmee een gefilterde weergave van de betrokken of verantwoordelijke entiteiten wordt geopend.
 
-   * Een melding markeren als *lezen* of *ongelezen*, houd de cursor boven de waarschuwingsnaam en klik op ![Markeren als gelezen of Ongelezen](/help/search-social-commerce/assets/notifications-read-unread.png "Markeren als gelezen of Ongelezen").
+   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![ Teken als Gelezen of Ongelezen ](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
 
-     Meldingen gemarkeerd als *lezen* bevinden zich in een lichtere tekst, maar blijven beschikbaar totdat u deze verwijdert.
+     De berichten die als *worden gemerkt lezen* zijn in een lichter-gekleurde tekst maar blijven beschikbaar tot u hen schrapt.
 
-   * Als u uw abonnementsvoorkeuren voor het berichttype wilt wijzigen, klikt u op ![Instellingen](/help/search-social-commerce/assets/settings-nc.png "Instellingen")  wijzigt u de instellingen naast de melding en klikt u op **[!UICONTROL Save]**.
+   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![ Montages ](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
 
-   * Als u een melding wilt verwijderen, klikt u op ![Verwijderen](/help/search-social-commerce/assets/delete.png "Verwijderen") naast de melding.
+   * Om een bericht te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over meldingen](/help/search-social-commerce/notifications/notification-about.md)
->* [Een melding markeren als gelezen of ongelezen](notification-mark-read-unread.md)
->* [Een melding verwijderen](notification-delete.md)
->* [Uw meldingsinstellingen bewerken](notification-edit.md)
->* [Pushmeldingen inschakelen en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [Installeer en verwijder de [!UICONTROL Notification Center] webtoepassing](notification-app-install-uninstall.md)
+>* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
+>* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
+>* [ Schrap een bericht ](notification-delete.md)
+>* [ geef uw berichtmontages ](notification-edit.md) uit
+>* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)

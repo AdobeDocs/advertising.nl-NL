@@ -3,7 +3,7 @@ title: Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]
 description: Leer hoe u pushmeldingen in- en uitschakelt vanuit [!UICONTROL Notification Center] .
 exl-id: f0e91e76-eb1e-4ff0-9a52-e9bc587552a2
 feature: Search Notifications
-source-git-commit: 7c6b98ab1c8813fea251c48956ffe78ef7bb3bf7
+source-git-commit: cb65108fcc60c11b901e3b43c292ad5a94192b9f
 workflow-type: tm+mt
 source-wordcount: '258'
 ht-degree: 0%
@@ -28,7 +28,7 @@ U kunt pushmeldingen uitschakelen volgens de standaardprocedure van de browser.
 
 ## Pushmeldingen inschakelen
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
 
 2. In het bodemrecht, klik ![ laat dupberichten ](/help/search-social-commerce/assets/notifications-push.png " toe duw berichten ").
 

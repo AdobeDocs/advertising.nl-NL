@@ -3,7 +3,7 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: d38c71f1260b9656bb4362c56f4d9c76f4f3e442
+source-git-commit: cb65108fcc60c11b901e3b43c292ad5a94192b9f
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Boven aan elke pagina staan het hoofdmenu en andere op taak en informatie gebase
 
 ## Het hoofdmenu
 
-* **[!UICONTROL Search]** — Om uw advertentienetwerkaccounts te beheren in Zoeken, Sociaal en Commerce, inclusief accounts waarvoor Zoeken, Sociaal en Commerce bijhoudt, maar geen bod uitbrengt.
+* **[!UICONTROL Search, Social, & Commerce]** \> — Uw advertentienetwerkaccounts beheren in Zoeken, Sociaal en Commerce, inclusief de accounts waarvoor Zoeken, Sociaal en Commerce bijhoudt, maar geen bod uitbrengt.
 
 ## [!UICONTROL Search] menu&#39;s
 
@@ -44,11 +44,11 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. De beschikbare opt
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het menu van de Hulp van 0} {het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![ het profiel van de Gebruiker 1} gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 

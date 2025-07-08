@@ -3,7 +3,7 @@ title: Werk identiteitskaart van AMO (s_kwcid) volgende code voor a  [!DNL Googl
 description: Leer hoe te aan de recentste het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening over te schakelen.
 exl-id: 4dfd9ea6-f639-4b9a-aaa5-13f574e3961b
 feature: Search Campaign Management
-source-git-commit: edb46265c6977a1e2c1b352f41fedcfc3a9e3bbf
+source-git-commit: cb65108fcc60c11b901e3b43c292ad5a94192b9f
 workflow-type: tm+mt
 source-wordcount: '478'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # De trackingcode van de AMO-id (s_kwcid) voor een [!DNL Google Ads] -account bijwerken
 
-*Advertisers met slechts Adobe Advertising-Adobe Analytics integratie*
+*Advertisers met slechts integratie Adobe Advertising-Adobe Analytics*
 
 *[!DNL Google Ads]alleen accounts*
 
@@ -34,7 +34,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 >
 >Nadat u een account hebt gemigreerd, worden alle klikgegevens, kosten en impliciete gegevens correct gerapporteerd na de wijziging. De doorklikgegevens die vóór de migratie zijn opgetreden, worden echter nog steeds toegewezen aan conversiegegevens die zijn gebaseerd op de oude indeling voor AMO-id.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Search]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
 
 1. Houd de curseur over de rekeningsnaam, klik ![ pijl dropdown pictogram ](/help/search-social-commerce/assets/arrow-dropdown-menu.png), en selecteer dan **[!UICONTROL Edit]**.
 
@@ -42,7 +42,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 
 1. Begin met de migratie:
 
-   1. Klik op **[!UICONTROL LEGACY S_KWCID FORMAT]** naast **[!UICONTROL S_KWCID FORMAT]** in de [!UICONTROL Account Tracking] -instellingen.
+   1. Klik op **[!UICONTROL S_KWCID FORMAT]** naast [!UICONTROL Account Tracking] in de **[!UICONTROL LEGACY S_KWCID FORMAT]** -instellingen.
 
    1. Klik op **[!UICONTROL Migrate to new s_kwcid format]**.
 
@@ -70,4 +70,4 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 >
 >* [ beheer en netwerkrekeningen ](ad-network-account-manage.md)
 >* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL){target="_blank"} 
+>* [ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}

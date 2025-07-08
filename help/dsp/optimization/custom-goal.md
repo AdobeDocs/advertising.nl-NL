@@ -3,7 +3,7 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: cb65108fcc60c11b901e3b43c292ad5a94192b9f
 workflow-type: tm+mt
 source-wordcount: '1221'
 ht-degree: 0%
@@ -47,7 +47,7 @@ Als u een aangepast doel wilt maken, moet de DSP-account vanuit de [!DNL Search,
 
 1. Creeer het douanedoel als *doelstelling*:
 
-   1. Klik in het hoofdmenu op **[!UICONTROL Search]** > **[!UICONTROL Optimization]>[!UICONTROL New Objectives Beta]** .
+   1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Optimization]>[!UICONTROL New Objectives Beta]** .
 
    1. In de toolbar, leidt de klik ![ ](/help/dsp/assets/create-search-ui.png " tot ").
 
