@@ -3,9 +3,9 @@ title: De indeling van de beslissingstructuur
 description: Leer over de lay-out van de beslissingsboom voor ervaringen met het richten.
 feature: Creative Experiences
 exl-id: 1d997422-8177-4a6b-b56a-e1c742b96ad2
-source-git-commit: 3c1316fa898e5773fbf1763733e388c9ed3bd389
+source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Aanvankelijk, begint elke beslissingsboom met het wortelniveau, &quot;allen.&quo
 >[!NOTE]
 >
 >You can optionally assign creative bundles to the root level, without targets. However, the [XXXX workflow](experience-create-no-targeting.md) XXXXX is better XXX.<!-- Explain the diff and why to choose the other option. -->
->—>
+—>
 
 ## Voorwaarden
 
@@ -38,7 +38,7 @@ Aanvankelijk, begint elke beslissingsboom met het wortelniveau, &quot;allen.&quo
 
 ## Streefcijfers in een beslissingsstructuur
 
-Elke beslissingsboom kan tot vijf niveaus van doelstellingen hebben. Elk doelniveau kan meerdere vertakkingen bevatten, elk met een of meer knooppunten met hetzelfde doeltype (doelsegment, type geografische locatie, waarden voor opgegeven gegevensdoorvoersleutels, kenmerken voor een opgegeven herrichtingspixel of apparaatcategorie). U kunt creatieve bundels in elke advertentiegrootte toewijzen waarvoor u een standaardbeeld creatief aan de laag-vlakke doelknopen hebt gespecificeerd.
+Elke beslissingsboom kan tot vijf niveaus van doelstellingen hebben. Elk doelniveau kan meerdere vertakkingen bevatten, elk met een of meer knooppunten met hetzelfde doeltype (doelsegment, type geografische locatie, waarden voor opgegeven gegevensdoorvoersleutels, kenmerken voor een opgegeven herrichtingspixel of apparaatcategorie). U kunt creatieve bundels in elke advertentiegrootte toewijzen waarvoor u een standaardbeeld creatief of video creatief aan de laag-vlakke doelknopen hebt gespecificeerd.
 
 ![ Voorbeeld van een besluitvormingsboom met doelstellingen ](/help/creative/assets/experience-decision-tree.png " Voorbeeld van een besluitvormingsboom met doelstellingen ")
 

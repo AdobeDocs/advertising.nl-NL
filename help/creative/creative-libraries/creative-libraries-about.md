@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 9782471837db19d14839027ea7a576484863bb69
+source-git-commit: ad51a42c1aa7e713b1a4a90261c635b574068d29
 workflow-type: tm+mt
-source-wordcount: '1104'
+source-wordcount: '1381'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Uw bibliotheken kunnen het volgende bevatten:
 
    * **Dynamische creatieven:** (Bestaande klanten van Adobe Advertising DCO slechts) de gebruikers van de beheerder kunnen dynamisch geproduceerde creatieve producten tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
 
-* **Creatieve bundels:** Groepeer creatieve elementen in bundels over veelvoudige ervaringen met bepaalde gebruikersdoelstellingen te gebruiken. U kunt *standaardbundels* creëren die uit standaardadvertenties en *dynamische bundels* bestaan die uit dynamisch geproduceerde advertenties bestaan.
+* **Creatieve bundels:** Groepeer creatieve elementen in bundels over veelvoudige ervaringen met bepaalde gebruikersdoelstellingen te gebruiken. U kunt *standaardvertoningsbundels* tot stand brengen die uit standaardvertoningsadvertenties bestaan, *standaardvideobundels* die uit standaardvideoadvertenties bestaan, en *dynamische vertoningsbundels* die uit dynamisch geproduceerde vertoningsadvertenties bestaan.
 
 ## Ondersteunde Creative-indelingen {#creative-creative-formats}
 
@@ -34,9 +34,9 @@ U kunt de volgende creatieve types in de [ gesteunde creatieve grootte toevoegen
 
 >[!IMPORTANT]
 >
->Zelfs als u HTML5, Flexible HTML5 of andere creatieve projecten van derden wilt gebruiken voor uw advertentie, moet u ook creatieve afbeeldingen toevoegen voor elke creatieve grootte die u gebruikt.
->
->Elke ervaring vereist een standaardafbeelding die creatief is voor elke creatieve grootte die aan de ervaring is toegewezen. De standaardafbeeldingscreatieven worden gebruikt wanneer een browser niet geschikt is voor JavaScript of wanneer de advertentieserver de advertentie niet kan personaliseren vanwege vertragingen.
+>* Zelfs als u HTML5, Flexible HTML5 of creatieve producten van derden wilt gebruiken voor uw standaardweergave en -ervaring, moet u ook creatieve afbeeldingen toevoegen voor elke creatieve grootte die u gebruikt.
+>* Voor elke standaardweergave is een standaardafbeelding vereist die creatief is voor elke creatieve grootte die aan de ervaring is toegewezen. De standaardafbeeldingscreatieven worden gebruikt wanneer een browser niet geschikt is voor JavaScript of wanneer de advertentieserver de advertentie niet kan personaliseren vanwege vertragingen.
+>* Elke standaard videoervaring vereist een standaardvideo creatief voor elke creatieve grootte die aan de ervaring wordt toegewezen.<!-- when is it used? -->
 
 #### Flexibele HTML5
 
@@ -52,7 +52,7 @@ U kunt eenvoudige of statische HTML5-creatieven uploaden, met alle kenmerken en 
 
 U kunt creatieve afbeeldingen opnemen in de indeling GIF, JPEG, JPG of PNG. U kunt goedgekeurde afbeeldingen uploaden vanaf uw Adobe Experience Manager-accounts of vanaf uw apparaat of netwerk.
 
-Voor elke advertentie-ervaring is een standaardafbeelding vereist die creatief is voor elke creatieve grootte die aan de ervaring is toegewezen.
+Voor elke standaardweergave en -ervaring is een standaardafbeelding vereist die creatief is voor elke creatieve grootte die aan de ervaring is toegewezen.
 
 #### Kinderen van derden
 
@@ -61,6 +61,38 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 ```
 <SCRIPT language='JavaScript1.1' SRC="https://ad.doubleclick.net/ddm/adj/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"></SCRIPT> <NOSCRIPT> <A HREF="https://ad.doubleclick.net/ddm/jump/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp]?"><IMG SRC="https://ad.doubleclick.net/ddm/ad/A123456.12345GDN.COM/B1234567.123456789;sz=300x250;ord=[timestamp];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"BORDER=0 WIDTH=300 HEIGHT=250 ALT="Advertisement"></A></NOSCRIPT>
 ```
+
+#### Videocreatieven {#creative-video-specs}
+
+U kunt videoclips uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve grootte die aan de beleving wordt toegewezen. Alle videocamera&#39;s worden automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u deze kunt voorvertonen. In [!UICONTROL Tag Manager], kunt u naar keuze [ uitgever-specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+
+Bekijk de volgende creatieve videovereisten.
+
+**Type van Dossier:** .mov, .mp4, .webm
+
+**Grootte van het Dossier:** Maximum van 512 MB
+
+**Videoverhouding:** 16:9, 4:3
+
+**VideoResolutie:** 640x360 voor 360p, 1280x720 voor 720p, 1920x1080 voor 1080p
+
+**Videolengte:** Maximum van 90 seconden
+
+**Bitsnelheid:** 600-1200 kbps voor 360p, 1500-2500 kbps voor 720p, 3000-5000+ kbps voor 1080p
+
+**het tarief van het Videoframe:** 23.98 FPS. Aanvullende framesnelheden kunnen worden geaccepteerd op basis van regionale of uitgeververeisten
+
+**Videocodec:** H.264 (industriestandaard), AV1, H.265
+
+**AudioFormaat:** ACC (industriestandaard/MP4), Opus (WebM/AV1)
+
+**AudioBitsnelheid:** 16-512 kbps
+
+**Audio Steekproeftarief:** 44100-48000 Herz
+
+**Audiotarief:** 44.1kHz of 48 kHz
+
+**Audio andere:** het geuploade dossier moet niet-doorweven zijn, gemengd, en een audiospoor bevatten. Er is mogelijk geen geluid, maar een audiotrack moet in het videobestand worden opgenomen.
 
 ### Indeling voor dynamische advertenties
 
@@ -102,7 +134,9 @@ Op het tabblad [!UICONTROL Standard Ads] worden alle standaardcreatieve elemente
 
 * [Een standaard creatieve voorvertoning weergeven](creative-preview.md)
 
-* [Standaardcreatieven toevoegen aan standaardbundels en standaardcreatieven verwijderen uit een standaardbundel](creative-attach-detach-bundles.md)
+* [Standaardcreatieve elementen toevoegen aan standaardweergavesystemen en standaardcreatieven verwijderen uit een standaardweergaveset](creative-attach-detach-bundles.md)
+
+* [Videoontwerpers toevoegen aan standaardvideobundels en creatieve videobeelden verwijderen uit een standaardvideobundel](creative-attach-detach-bundles.md)
 
 * [Standaard creatieve producten dupliceren](creative-duplicate.md)
 
@@ -126,7 +160,7 @@ De mogelijkheid om dynamische creatieve documenten te maken en te bewerken is mo
 
 * [Dynamische creatieve voorvertoningen voorvertonen](creative-preview.md)
 
-* [Dynamische creatieve elementen toevoegen aan dynamische bundels en dynamische creatieve elementen verwijderen uit een dynamische bundel](creative-attach-detach-bundles.md)
+* [Dynamische creatieve elementen toevoegen aan dynamische weergavesystemen en dynamische creatieve elementen verwijderen uit een dynamische weergaveset](creative-attach-detach-bundles.md)
 
 * [Dynamische creatieve elementen dupliceren](creative-duplicate.md)
 
@@ -140,13 +174,15 @@ In de weergave [!UICONTROL Bundles] worden al uw standaard- en dynamische bundel
 
 #### Beschikbare acties
 
-* Standaard- en dynamische bundels toevoegen aan een bibliotheek
+* Standaardweergave, standaardvideo en dynamische weergavesystemen toevoegen aan een bibliotheek
 
 * Creatieve elementen in een bundel weergeven en voorvertonen
 
 * Een bundelnaam bewerken
 
-* Standaardcreatieven toevoegen aan standaardbundels en standaardcreatieven verwijderen uit een standaardbundel
+* Standaardweergavefinanciers toevoegen aan standaardweergavesystemen en standaardweergavefinanciers verwijderen uit een standaardweergavesuite
+
+* Standaardvideocamera&#39;s toevoegen aan standaardvideobundels en standaardvideocamera&#39;s verwijderen uit een standaardvideobundel
 
 * Bundels dupliceren
 

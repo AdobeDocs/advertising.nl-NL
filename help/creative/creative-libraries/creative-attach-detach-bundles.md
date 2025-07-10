@@ -3,9 +3,9 @@ title: Creatieve bundels koppelen aan creatieve bundels
 description: Leer hoe u een creatieve bundel kunt koppelen aan een creatieve bundel.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
 exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
-source-git-commit: add8f3507ca9b79cea862d097fb603c68eb09e3c
+source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 <!-- Edit all, including the metadata and title, plus the links within TOC and bundle-manage.md, once this feature is available.  -->
 
-U kunt standaardcreatieve elementen aan standaardbundels en dynamische creatieve elementen aan dynamische bundels vastmaken zodat u hen aan [ kunt toevoegen en ervaringen ](/help/creative/experiences/experience-about.md). Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
+U kunt standaardvertoningscreatieven aan standaardvertoningsbundels, standaard videocreatieven aan standaardvideobundels, en dynamische vertoningscreatieven aan dynamische vertoningsbundels vastmaken zodat u hen aan [ en ervaringen ](/help/creative/experiences/experience-about.md) kunt toevoegen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
 
 <!--
 You can also detach a creative from a bundle to remove the association between the two, so that the creative is no longer used for experiences that target the bundle. Detaching a creative from the bundle doesn't delete the creative from the Creatives tab in your creative library.
@@ -46,7 +46,7 @@ You can also detach a creative from a bundle to remove the association between t
 
    Elke bundel die in aanmerking komt voor het creatieve type, wordt in het juiste frame weergegeven. Bundels waaraan de creatieve inhoud al is gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![&#128279;](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0&rbrace; te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Schakel in het rechterframe het selectievakje in naast elke bundel waaraan u de creatieve inhoud wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 

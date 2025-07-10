@@ -1,11 +1,11 @@
 ---
-title: Advertentiespecificaties
+title: Ad-specificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 10e85f9ec0b7b867828cc9ac154af6f4982c44d2
 workflow-type: tm+mt
-source-wordcount: '843'
+source-wordcount: '870'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 ## Video-advertenties (Pre-Roll, CTV en Universal Video)
 
-### Ondersteunde schermen
+### Ondersteunde Screens
 
-Advertenties worden standaard geleverd op desktopapparaten, mobiele apparaten en aangesloten tv-apparaten. Apparaatgericht is beschikbaar om de levering aan te passen.
+Advertenties worden standaard geleverd op desktopapparaten, mobiele apparaten en aangesloten tv-apparaten. Apparaatgerichtheid is beschikbaar om de levering aan te passen.
 
 ### Ondersteunde externe advertentieservers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek]. Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
 
-### Vereisten voor High Definition Video Assets (vereist)
+### Vereisten voor High Definition Video Assets
 
-**Type videolabel:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID&#39;s en eenheden moeten zich aan de [VPAID 2.0-specificatie](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals gedefinieerd door het Interactive Advertising Bureau (IAB).
+**Type van VideoMarkering:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID en eenheden moeten aan de [ VPAID 2.0 specificatie ](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals die door het Interactieve Bureau van Advertising (IAB) wordt bepaald naleven.
 
 **Videocodec:** MP4/H.264
 
@@ -32,87 +32,87 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 **Bitsnelheid:** 1500-2500 kbps voor 720p, 2500-3500 kbps voor 1080p
 
-**H.264 Profiel/Niveau:** hoog profiel, niveau 3.1 voor 720p; Hoog profiel, niveau 4.0 voor 1080p
+**H.264 Profiel/Niveau:** Hoog profiel, niveau 3.1 voor 720p; Hoog profiel, niveau 4.0 voor 1080p
 
-**Videoframesnelheid:** 29,970 fps (gewoonlijk aangeduid als 30 fps) voor NTSC-landen, 25 fps voor PAL-landen, 23,976 fps (gewoonlijk aangeduid als 24 fps) voor filmachineachtige inhoud
+**VideoTarief dat van het Kader:** 29.970 fps (algemeen als 30 fps wordt bedoeld) voor NTSC landen, 25 fps voor PAL landen, 23.976 fps (algemeen die als 24 fps worden bedoeld) voor film-blik inhoud
 
-**Videokleurruimte:** 4:2:0 YUV Chromasubsampling
+**VideoRuimte van de Kleur:** 4 :2: 0 YUV subsampling van Chroma
 
-**Video-interliniëring:** Progressief scannen, d.w.z. niet-geïnterlinieerd. Geen beweging binnen het veld (overvloeiframes) of interliniëring.
+**Video het Interllen:** Progressief aftasten, d.w.z., niet-doorweven. Geen beweging binnen het veld (overvloeiframes) of interliniëring.
 
-**Leiders (leisteen):** Niet toegestaan
+**Leiders (Slaat):** niet toegelaten
 
-**Audiocodec:** AAC-LC of HE-AACv1
+**AudioCodec:** AAC-LC of HE-AACv1
 
-**Audiobitsnelheid:** 128-192 kbps voor AAC-LC, 64-128 kbps voor HE-AACv1
+**Audio Bitrate:** 128-192 kbps voor AAC-LC, 64-128 kbps voor HE-AACv1
 
-**Audiokanaal:** 2-kanaals stereomix
+**Audiokanaal:** 2 kanaals stereomix
 
-**Samplefrequentie audio:** 44,1 kHz of 48 kHz, volgens het uitgangsmateriaal
+**Audio het Tarief van de Steekproef:** 44.1 kHz of 48 kHz, zoals per bronmateriaal
 
-**Audioniveaus:** 24 LKFS (+/- 2,0 dB) in de VS volgens ATSC A/85; 23 SBL (+/- 1,0) in de EU volgens EBU R128
+**Audioniveaus:** 24 LKFS (+/- 2.0 dB) in de V.S. volgens ATSC A/85; 23 LUFS (+/- 1.0) in de EU volgens EBU R128
 
 #### Aanvullende vereisten voor uitgevers voor aangesloten tv-advertenties
 
-* **A+E-netwerk:** Zie A+E-netwerken [advertentiespecificaties](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **A+E Netwerk:** zie A+E 2} en specificaties van het Netwerk van A+E [](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
-* **Detectie:** Zie Detectie [advertentiespecificaties](/help/dsp/assets/discovery-networks-ad-specs.pdf).
+* **Ontdekking:** zie de 2} en specificaties van Ontdekking [.](/help/dsp/assets/discovery-networks-ad-specs.pdf)
 
-* **Disney (incl. Hulu):** Zie Disney&#39;s [advertentiespecificaties](https://hulu.disneyadsales.com/ad-products/video-commercial/).
+* **Disney (incl. Hulu):** zie de 1} en specificaties van Disney [.](https://hulu.disneyadsales.com/ad-products/video-commercial/)
 
-* **Max. HBO:** Zie HBO Max&#39;s [advertentiespecificaties](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Max HBO:** zie Max van HBO [ en specificaties ](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
-   * [Digitale video](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+   * [ Digitale Video ](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
-   * [Livestream](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+   * [ Livestream ](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
-   * [Peacock](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
+   * [ Peacock ](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Bovengrens:** Zie Paramount&#39;s [advertentiespecificaties](https://www.paramount.com/digital-ads).
+* **Paramount:** zie de 2} en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
 
 ## Advertenties weergeven
 
-### Ondersteunde schermen
+### Ondersteunde Screens
 
-Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten. Apparaatgericht is beschikbaar om de levering aan te passen.
+Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten. Apparaatgerichtheid is beschikbaar om de levering aan te passen.
 
 ### Ondersteunde bestandstypen
 
-**Afbeelding:** GIF, JPG/JPEG, PNG
+**Beeld:** GIF, JPG/JPEG, PNG
 
-**HTML5:** Bestandstypen afbeelding: GIF, JPG/JPEG, PNG, SVG
+**HTML5:** de dossiertypes van het Beeld: GIF, JPG/JPEG, PNG, SVG
 
-### Vereisten voor afbeeldingselementen (vereist)
+### Vereisten voor Image Assets
 
 Universal Display wordt ondersteund.
 
-**Aanbevolen advertentiegrootten:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300x60 0, 320x50, 320x480, 480x60, 640x480, 88x31, 728x90, 970x250, 970x90
+**Aanbevolen ad grootte:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300 x 600, 320 x 50, 320 x 480, 480 x 60, 640 x 480, 88 x 31, 728 x 90, 970 x 250, 970 x 90
 
-**Ondersteunde externe Advertentieservers:** U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek]. Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
+**Gesteunde Servers van de Advertentie van de Derde:** u kan markeringsbladen van [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek] gebruiken. Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
 
 ## Audiobanden
 
-### Ondersteunde schermen
+### Ondersteunde Screens
 
 Desktop, mobiel, tablet, slimme luidsprekers en aangesloten tv
 
 ### Ondersteunde externe advertentieservers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek]. Voor een volledige lijst met ondersteunde leveranciers raadpleegt u &quot;[Certified Ad Serving Partners](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
 
-### Vereisten voor audio-elementen (vereist)
+### Vereisten voor audio Assets
 
-**Bestandstype:** MP3, OGG, AAC
+**het type van Dossier:** MP3, OGG, AAC
 
-**Bladeren (leisteen):**  Niet toegestaan
+**Leiders (leisteen):** niet toegelaten
 
-**Maximale bestandsgrootte:** 2 MB
+**Maximale dossiergrootte:** 2MB
 
 **Bitsnelheid:** 128
 
-**Bestandsafstand:** 0-60 s
+**Lengte van het Dossier:** 0-60s
 
 #### Aanvullende vereisten voor uitgevers
 
@@ -124,7 +124,7 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 * **[!DNL Pandora]**
    * Lengte: 15 of 30 seconden
-   * Bestandstype: MP4 (in-app), MP3 (bureaublad)
+   * Bestandstype: MP4 (in-app), MP3 (desktop)
    * Maximale bestandsgrootte: 2,2 MB
 
 * **[!DNL SoundCloud]**
@@ -133,10 +133,10 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
    * Maximale bestandsgrootte: 5 MB
 
 * **[!DNL Spotify]**
-   * Lengte: Tot 30 seconden
+   * Lengte: tot 30 seconden
    * Bestandstype: OGG
    * Maximale bestandsgrootte: 500 MB
-   * Volume: RMS genormaliseerd tot -14; dBFS-piek genormaliseerd tot -0,2 dBFS
+   * Volume: RMS genormaliseerd naar -14; dBFS piek genormaliseerd naar -0,2 dBFS
 
 * **[!DNL TargetSpot]**
    * Lengte: 15, 30 of 60 seconden
@@ -149,60 +149,60 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid
 
 ### Vereisten voor extra hulpmiddelen van de Banner (facultatief)
 
-**Ondersteunde grootten:** 300x250, 500x500, 640x640, 1024x1024
+**Gesteunde grootte:** 300x250, 500x500, 640x640, 1024x1024
 
 #### Aanvullende vereisten voor uitgevers
 
 * **[!DNL iHeartRadio]:**
    * Bestandstype: JPEG, JPG, PNG, GIF, SWF, HTML
    * Maximale bestandsgrootte: 2,2 MB
-   * Dimension: 300 x 250
+   * Afmetingen: 300 x 250
 
 * **[!DNL Pandora]:**
    * Bestandstype: JPEG, GIF
-   * Maximale bestandsgrootte: Grootte: 100 kB
-   * Dimension: 300x250 (mobiel of bureaublad) of 500x500 (bureaublad)
+   * Maximale bestandsgrootte: grootte: 100 kB
+   * Afmetingen: 300 x 250 (mobiel of bureaublad) of 500 x 500 (bureaublad)
 
 * **[!DNL SoundCloud]:**
-   * Bestandstype: Statische JPG, PNG
-   * Maximale bestandsgrootte: Minder dan 400 kB
-   * Dimension: 1024x1024
+   * Bestandstype: statische JPG, PNG
+   * Maximale bestandsgrootte: minder dan 400 kB
+   * Afmetingen: 1024x1024
 
 * **[!DNL Spotify]:**
-   * Bestandstype: Statische JPG, PNG
+   * Bestandstype: statische JPG, PNG
    * Maximale bestandsgrootte: 200 kB
-   * Dimension: 300 x 250
+   * Afmetingen: 300 x 250
 
 * **[!DNL TuneIn]:**
    * Bestandstype: JPEG, JPG, PNG, GIF, HTML
    * Maximale bestandsgrootte: 2 MB
-   * Dimension: 300 x 250
+   * Afmetingen: 300 x 250
 
 ## Systeemeigen weergaveadvertenties
 
-Elke advertentie kan een stilstaand beeld of een bewegend GIF (cinemagraph) bevatten.
+Elke advertentie kan een stilstaand beeld of een bewegende GIF (cinemagraph) bevatten.
 
-### Ondersteunde schermen
+### Ondersteunde Screens
 
-Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten. Apparaatgericht is beschikbaar om de levering aan te passen.
+Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten. Apparaatgerichtheid is beschikbaar om de levering aan te passen.
 
-### Vereiste elementen voor alle native invoerindelingen
+### Vereiste Assets voor alle native invoerindelingen
 
 #### Afbeeldingselement
 
-**Resolutie:** minimaal 600 x 600 px; Aanbevolen minimum van 1200 x 627 px
+**Resolutie:** minimum 600x600px; geadviseerde minimum van 1200x627px
 
-**Bestandstype:** JPEG (beeld en/of video en omslagbeeld), GIF (cinemografie)
+**het type van Dossier:** JPEG (beeld en of video en omslagbeeld), GIF (cinemograph)
 
-**Bestandsgrootte:** Minder dan 1 MB (Afbeelding moet vrij van tekst zijn.)
+**Grootte van het Dossier:** minder dan 1 MB (het Beeld zou vrij van tekst moeten zijn.)
 
 #### Advertiserlogo
 
-**Resolutie:** minimaal 80 x 80 px; Aanbevolen minimum van 300 x 300 px
+**Resolutie:** minimum 80x80px; geadviseerd minimum van 300x300px
 
-**Bestandstype:** JPEG of PNG.
+**type van Dossier:** JPEG of PNG.
 
-**Hoogte-breedteverhouding:**  1x1 verhouding
+**Verhouding:** 1x1 verhouding
 
 >[!NOTE]
 >
@@ -210,13 +210,13 @@ Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten.
 
 #### Tekst/kopie
 
-**Titel:** maximaal 200 tekens; 25 tekens aanbevolen
+**Titel:** Maximum 200 karakters; 25 geadviseerde karakters
 
-**Bijschrift:** maximaal 200 tekens; 100 tekens aanbevolen
+**Bijschrift:** Maximum 200 karakters; 100 geadviseerde karakters
 
-**Gesponsord door:** maximaal 200 tekens; 30 tekens aanbevolen
+**gesponsord door:** Maximum 200 karakters; 30 geadviseerde karakters
 
-**Oproep tot actie (alleen MoPub):** Maximaal 15 tekens
+**Call to action (MoPub slechts):** Maximum 15 karakters
 
 >[!NOTE]
 >
@@ -228,18 +228,17 @@ De doorklikURL met facultatieve kliksporen.
 
 Vereisten voor kliktrackers:
 
-* Pixels voor imitatie bij andere bedrijven: Alleen 1x1 afbeeldings-URL-indeling
+* Pixels voor het bijhouden van afbeeldingen van derden: alleen 1x1-afbeeldings-URL-indeling
 
-* JavaScript-trackers voor weergavedoeleinden: Alleen ondersteund voor IAS; 1x1-afbeeldingen alleen in de indeling JS.append
+* Viewability JavaScript trackers: slechts gesteund voor IAS; 1x1 beelden in formaat JS.append slechts
 
-* Klikspatiëringspixels van derden: Moet worden omgeleid naar de bestemmingspagina die is ingesloten in de URL (HTTP 302 omleiding)
+* Klikvolgende pixels van derden: moet worden omgeleid naar de bestemmingspagina die is ingesloten in de URL (HTTP 302 omleiding)
 
-* DMP (Data Management Platform)-klik op trackers met 200 of meer reacties worden niet ondersteund.
+* Het platform voor gegevensbeheer (DMP) klikt op trackers met 200 of meer reacties worden niet ondersteund.
 
 >[!MORELIKETHIS]
 >
->* [Over Advertentiebeheer](ad-about.md)
->* [Eén advertentie maken](ad-create.md)
->* [Meerdere externe advertenties maken](ad-create-multiple.md)
->* [Een advertentie bewerken](ad-edit.md)
-
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
+>* [ geef een Advertentie uit ](ad-edit.md)

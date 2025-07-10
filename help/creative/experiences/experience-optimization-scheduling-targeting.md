@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
-source-git-commit: 4abb83d08a6633c36aa47b5acd67df3d4cc0923b
+source-git-commit: 7fee6e0f6e8ad6dbf0329d707af7303ac7229dc9
 workflow-type: tm+mt
-source-wordcount: '540'
+source-wordcount: '545'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Standaard wordt de creatieve rotatie voor een ervaring op algoritmische wijze be
 
 >[!NOTE]
 >
->Deze functies zijn niet beschikbaar voor knooppunten die de standaardversie van de afbeelding gebruiken in plaats van toegewezen creatieven.
+>Deze functies zijn niet beschikbaar voor knooppunten die de standaardcreatieven gebruiken in plaats van toegewezen creatieven.
 
 ## Creatieve optimalisatie configureren zonder planning
 
@@ -35,7 +35,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * *[!UICONTROL Algorithmic]:* roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-      * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
+      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -61,7 +61,7 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
+         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
 1. Voor elk aanvullend schema:
 

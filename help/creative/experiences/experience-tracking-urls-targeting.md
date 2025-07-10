@@ -3,9 +3,9 @@ title: De URL's voor bijhouden aanpassen voor een ervaring
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring met doelversie van de beslissingstructuur.
 feature: Creative Experiences
 exl-id: ba3b15b4-116e-4caa-8ce1-4d2e488a6362
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
 workflow-type: tm+mt
-source-wordcount: '266'
+source-wordcount: '265'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
 1. Houd de cursor boven het creatieve bundelblad/de creatieve map onder het doelknooppunt en klik op **[!UICONTROL ...]** > **[!UICONTROL Edit Tracking URLs]** .
 
-   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardbeeldcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
+   Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
 
 1. Voer op de tabbladen **[!UICONTROL Click Tracking URLs]**, **[!UICONTROL Impression Tracking URLs]** en **[!UICONTROL Landing URLs]** de volgende handelingen uit voor elk creatief object:
 

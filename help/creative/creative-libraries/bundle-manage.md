@@ -3,9 +3,9 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: baba02d2537828f1ed0b5c7842d1f987a55f5ef0
+source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
 workflow-type: tm+mt
-source-wordcount: '1432'
+source-wordcount: '1462'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 **I'll probably split this up into multiple pages since the creative-related topics are separate**
 -->
 
-Bundels zijn groepen creatieve elementen die u als eenheid aan een ervaring kunt toevoegen. Nadat u een bundelcontainer hebt gemaakt, kunt u creatieve elementen aan de bundel koppelen. Standaardbundels kunnen alleen standaardadvertenties bevatten en dynamische bundels kunnen alleen dynamische advertenties bevatten. U kunt de landingspagina&#39;s, de beeld-volgtags, en klik-volgmarkeringen voor alle creatieve binnen een bundel met voeten treden die aan een ervaring van binnen de ervaring beslissingsboom wordt toegewezen, zonder de basiscreatieven te beïnvloeden.
+Bundels zijn groepen creatieve elementen die u als eenheid aan een ervaring kunt toevoegen. Nadat u een bundelcontainer hebt gemaakt, kunt u creatieve elementen aan de bundel koppelen. Standaardweergavebundels kunnen alleen standaard-weergaveadvertenties bevatten, standaardvideobakketten kunnen alleen standaard-videoadvertenties bevatten en dynamische weergavebundels kunnen alleen dynamische weergaveadvertenties bevatten. U kunt de landingspagina&#39;s, de beeld-volgtags, en klik-volgmarkeringen voor alle creatieve binnen een bundel met voeten treden die aan een ervaring van binnen de ervaring beslissingsboom wordt toegewezen, zonder de basiscreatieven te beïnvloeden.
 
 [!DNL Creative] roteert door de creatieve elementen in de bundel zoals gespecificeerd voor elke ervaring waaraan de bundel wordt toegewezen. U kunt desgewenst toestaan dat [!DNL Creative] de advertentie-elementen optimaliseert voor elke ervaring op basis van prestaties met behulp van algoritme en rotatie, die door Adobe Sensei wordt aangedreven.
 
@@ -40,7 +40,7 @@ U kunt een creatief element toevoegen aan meerdere bundels.
 
 1. Klik rechtsboven op **[!UICONTROL Create]** > **[!UICONTROL Bundles]** > **[!UICONTROL Bundle]** .
 
-1. Ga uniek **[!UICONTROL Bundle Name]** en **[!UICONTROL Bundle Type]in:** *Standaard* (voor standaardcreatieven) of *Dynamisch* (voor dynamische creatieve producten.
+1. Ga een unieke **[!UICONTROL Bundle Name]** en **[!UICONTROL Bundle Type]in:** *StandaardVertoning* (voor standaardvertoningscreatieve producten), *Dynamische Vertoning* (voor dynamische vertoningscreatieven), *StandaardVideo* (voor standaard videocreatieve beelden).
 
 1. Klik op **[!UICONTROL Create]**.
 
@@ -104,11 +104,11 @@ Wijzigingen in een bundelnaam worden doorgegeven in alle bijbehorende ervaringen
 
 ## Creatieve elementen aan een bundel koppelen
 
-U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creative-libraries-about.md) aan een standaardbundel vastmaken en bestaande dynamische creatieve elementen <!-- [existing dynamic creatives](creative-dynamic-manage.md) --> aan een dynamische bundel vastmaken. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
+U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, standaardvideoclips aan standaardvideobundels en dynamische weergaveontwerpers aan een dynamische bundel koppelen. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
 
 >[!NOTE]
 >
->U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties [&#128279;](creative-attach-detach-bundles.md) ook vastmaken.
+>U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties [ ook vastmaken.](creative-attach-detach-bundles.md)
 
 ### Creatieve elementen uit de lijst met bundels aan een bundel koppelen
 
@@ -128,7 +128,7 @@ U kunt [ bestaande standaardcreatieven ](/help/creative/creative-libraries/creat
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![&#128279;](/help/creative/assets/card-view-button.png " de mening van de Kaart van 0&rbrace; te klikken ") om de kaartmening te openen of ![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave") om aan de lijstmening terug te keren.
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -236,7 +236,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![&#128279;](/help/creative/assets/share.png " Aandeel 1&rbrace; van het Aandeel ") in het hogere recht van de voorproef.
+   1. Klik ![ Aandeel 1} van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 

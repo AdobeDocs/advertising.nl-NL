@@ -3,9 +3,9 @@ title: Instellingen voor doelgerichte ervaring
 description: Zie beschrijvingen van alle montages voor gerichte en ervaringen.
 feature: Creative Experiences
 exl-id: cb6fd855-6534-4eac-b34b-323073d186be
-source-git-commit: 75d774a53521f1035c9f3a4f17b523ed1b68fec8
+source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
 workflow-type: tm+mt
-source-wordcount: '1124'
+source-wordcount: '1133'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,8 @@ ht-degree: 0%
 
 ## [!UICONTROL Experience basics] -sectie
 
+**[!UICONTROL Ad Type]:** (Alleen-lezen voor bestaande ervaringen) Het type advertenties dat in de ervaring is opgenomen: *[!UICONTROL Standard Display]*, *[!UICONTROL Dynamic Display]* of *[!UICONTROL Video]* . Nadat u de ervaring hebt opgeslagen, kunt u het advertentietype niet meer wijzigen.
+
 **[!UICONTROL Advertiser]:** (Alleen-lezen voor bestaande ervaringen) De adverteerder die een bod uitbrengt op de creatieve en doelcombinaties die in de ervaring zijn opgenomen. Wanneer u de ervaring hebt opgeslagen, kunt u de adverteerder niet meer wijzigen.
 
 **[!UICONTROL Experience Name]:** Een unieke naam voor de ervaring. **Uiteinde:** gebruik een naam die u gemakkelijk kunt vinden wanneer u de ervaring als advertentie in Advertising DSP of andere DSP gebruikt.
@@ -24,7 +26,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Default creatives] -sectie
 
-**\ [gespecificeerde Standaard creatieve creatieven \]:** de standaardbeeldcreatieve producten aan gebruik wanneer browser geen creatieve producten kan tonen die aan de ervaring worden toegewezen, zoals wanneer browser niet JavaScript-Toegelaten is of de advertentieserver kan niet de advertentie wegens vertragingen personaliseren. Voeg één creatieve afbeelding toe per advertentiegrootte waarvoor de ervaring geldt. Uw keuzen bepalen de creatieve grootte die voor de ervaring kan worden gebruikt.<!-- In the legacy product, you selected the ad sizes for the experience, and then selected default images for each of those ad sizes. This feels a little wonky in that there isn't a distinct/obvious "Creative Sizes" setting to reference. -->
+**\ [gespecificeerde Standaard creatieve creatieven \]:** de standaardcreatieve producten aan gebruik wanneer browser geen creatieve producten kan tonen die aan de ervaring worden toegewezen, zoals wanneer browser niet JavaScript-Toegelaten is of de advertentieserver kan niet de advertentie wegens vertragingen personaliseren. Voor een standaardweergave neemt u één creatieve afbeelding op per advertentiegrootte waarvoor de ervaring van toepassing is. Voor een video-ervaring van standaardkwaliteit neemt u één creatieve video op per advertentiegrootte waarvoor de ervaring geldt. Uw keuzes bepalen de creatieve formaten die voor de ervaring kunnen worden gebruikt.
 
 Voor ervaringen met beslissingsboom die richten, kunt u de standaardcreatieven met creatieve bundels met creatieve bundels met creatieven van de zelfde grootte van binnen de beslissingsboom met voeten treden.<!-- verify -->
 
@@ -34,13 +36,11 @@ Voor ervaringen met beslissingsboom die richten, kunt u de standaardcreatieven m
 
 * Om alle standaardcreatieven te schrappen, klik ![ Schrapping ](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
 
-* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![&#128279;](/help/creative/assets/hide-show-creatives.png " tonen/verbergen ") in het hogere recht van de juiste ruit.
+* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![ tonen/verbergen ](/help/creative/assets/hide-show-creatives.png " in het hogere recht van de juiste ruit.")
 
 ## [!UICONTROL Targeting] -sectie
 
 **[!UICONTROL Targeting]:** (Alleen-lezen voor bestaande ervaringen) maakt het mogelijk om creatief te zoeken op basis van een beslissingsstructuur en het automatisch maken van tags. Nadat u de ervaring hebt opgeslagen, kunt u deze instelling niet meer wijzigen.
-
-**[!UICONTROL Dynamic ads]:** (Alleen-lezen voor bestaande ervaringen) geeft aan dat de ervaring dynamische advertenties bevat. **Nota:** een ervaring kan of alle standaardadvertenties of alle dynamische advertenties omvatten. Nadat u de ervaring hebt opgeslagen, kunt u deze instelling niet meer wijzigen.
 
 **[!UICONTROL Language Targeting]:** (Ervaring met alleen standaardadvertenties; optioneel; alleen-lezen voor bestaande ervaringen) Controleert de taalinstellingen van de browser van de gebruiker en geeft een creatief item weer in de opgegeven taal wanneer een creatief item in die taal beschikbaar is. Wanneer een creatief element in de door de browser opgegeven taal niet beschikbaar is, wordt in plaats daarvan de instelling [!UICONTROL Preferred language] gebruikt.
 
@@ -68,7 +68,7 @@ Elke toets wordt toegevoegd als een macro in de tag advertentie, die u kunt gene
 
 * Als u een label wilt verwijderen, schakelt u het selectievakje naast de labelnaam uit.
 
-**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
+**het Volgen URL van de Indrukking:** (Facultatief) een derde indruk-volgende URL om aan de het landen pagina URL voor om het even welke die advertentie van de ervaring wordt gecreeerd toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![ pictogram ** ](/help/creative/assets/create.png) en ga URL in.[!UICONTROL Add More]
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
@@ -78,7 +78,7 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 >* U kunt [ dit URL voor om het even welk creatief in de ervaring ](experience-tracking-urls-targeting.md) met voeten treden.
 >* U kunt ook JavaScript-code voor imitatie van derden invoeren in het veld [!UICONTROL Client JS]
 
-**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#128279;](/help/creative/assets/create.png) pictogram ** [!UICONTROL Add More] en ga URL in.
+**klik het Volgen URL:** (Facultatief) (Facultatief) een derde klik-volgende URL om aan de het landen pagina URL toe te voegen. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![ pictogram ** ](/help/creative/assets/create.png) en ga URL in.[!UICONTROL Add More]
 
 Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 

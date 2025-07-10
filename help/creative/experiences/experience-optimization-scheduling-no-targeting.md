@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
-source-git-commit: 006b0c61c28f5fac111ccdcc007e1752e05da63f
+source-git-commit: 7fee6e0f6e8ad6dbf0329d707af7303ac7229dc9
 workflow-type: tm+mt
-source-wordcount: '628'
+source-wordcount: '634'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * Klik in de kaartweergave op **[!UICONTROL ...]** naast de naam van de ervaring en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-   * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]**
+   * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
 1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het Programma van de Toevoegen ](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Ad Schedule]** uitgeven. <!-- For targeted experiences, this is "Edit Schedules" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
@@ -39,7 +39,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-      * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -55,7 +55,7 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
    * Klik in de kaartweergave op **[!UICONTROL ...]** naast de naam van de ervaring en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-   * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]**
+   * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
 1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het Programma van de Toevoegen ](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Ad Schedule]** uitgeven. <!-- For targeted experiences, this is "Edit Schedules" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
@@ -73,7 +73,7 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
 1. Voor elk aanvullend schema:
 

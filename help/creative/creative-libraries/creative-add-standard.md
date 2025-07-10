@@ -3,9 +3,9 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: bfb2dccf08ae79ca8f338a0423176f1d3309d4fc
+source-git-commit: bc3309523572656362cebebab9b735530003a81c
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '1001'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
    * Sleep bestanden op uw apparaat of netwerk naar het vak.
 
-   * Klik op **[!UICONTROL select a file]** om de bestanden op uw apparaat of netwerk te zoeken.
+   * Klik op **[!UICONTROL Select a file]** om de bestanden op uw apparaat of netwerk te zoeken.
 
    Zie [ flexibele en specificaties ](#flexible-ad-spec).
 
@@ -64,7 +64,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 ### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ] (flexible-creative-upload).>
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
@@ -139,7 +139,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
    * Sleep bestanden op uw apparaat of netwerk naar het vak.
 
-   * Klik op **[!UICONTROL select a file]** om het bestand op uw apparaat of netwerk te zoeken.
+   * Klik op **[!UICONTROL Select a file]** om het bestand op uw apparaat of netwerk te zoeken.
 
    Zie [ HTML5 en specificatie ](/help/creative/creative-libraries/html5-creative-specification.md).
 
@@ -167,7 +167,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
       * Sleep bestanden op uw apparaat of netwerk naar het vak.
 
-      * Klik op **[!UICONTROL select a file]** om bestanden op uw apparaat of netwerk te zoeken.
+      * Klik op **[!UICONTROL Select a file]** om bestanden op uw apparaat of netwerk te zoeken.
 
    * Voor goedgekeurde beelden in een [ bibliotheek van Adobe Experience Manager die met uw rekening van DSP ](/help/creative/creative-libraries/aem-assets-configure.md) wordt verbonden, doe het volgende:
 
@@ -181,7 +181,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Afbeeldingen toevoegen of verwijderen:
 
-   * Om een beeld toe te voegen, voegt de klik ![&#128279;](/help/creative/assets/create.png " toe ") in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.
+   * Om een beeld toe te voegen, voegt de klik ![ toe ](/help/creative/assets/create.png " in de hogere linkerzijde en bepaalt de plaats van het dossier op uw apparaat of netwerk.")
 
    * Als u een afbeelding wilt verwijderen, schakelt u het selectievakje naast de afbeelding uit.
 
@@ -206,6 +206,30 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 1. Specificeer de markering van JavaScript en andere montages voor creatief in de [ derde creatieve montages ](#creative-settings-third-party).
 
    U kunt om het even welke [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) in de markering van JavaScript kopiëren en kleven.
+
+1. Klikken **[!UICONTROL Create]**
+
+## Creatieve video toevoegen aan een creatieve bibliotheek
+
+Zie [ video creatieve specificaties ](/help/creative/creative-libraries/creative-libraries-about.md#creative-video-specs) en [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
+
+1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
+
+1. Klik op de naam van de bibliotheek.
+
+1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
+
+1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Video]**.
+
+1. Geef de videobestanden op een van de volgende manieren op:
+
+   * Sleep bestanden op uw apparaat of netwerk naar het vak.
+
+   * Klik op **[!UICONTROL Select a file]** om bestanden op uw apparaat of netwerk te zoeken.
+
+1. Specificeer de [ video creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-video).
+
+   Standaard zijn de zojuist geüploade creatieve elementen geselecteerd en zijn de instellingen die u opgeeft, van toepassing op de geselecteerde creatieve elementen.<!-- By default, all creatives you just uploaded are selected, and any settings you specify apply to all selected creatives. Any settings with only one value apply to all selected creatives. To enter settings for specific creatives, deselect each inapplicable creative. -->
 
 1. Klikken **[!UICONTROL Create]**
 
