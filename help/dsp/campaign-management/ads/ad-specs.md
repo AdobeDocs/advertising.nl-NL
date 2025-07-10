@@ -54,11 +54,11 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innov
 
 #### Aanvullende vereisten voor uitgevers voor aangesloten tv-advertenties
 
-* **A+E Netwerk:** zie A+E 2} en specificaties van het Netwerk van A+E [](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **A+E Netwerk:** zie A+E 2&rbrace; en specificaties van het Netwerk van A+E [&#128279;](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
-* **Ontdekking:** zie de 2} en specificaties van Ontdekking [.](/help/dsp/assets/discovery-networks-ad-specs.pdf)
+* **Ontdekking:** zie de 2&rbrace; en specificaties van Ontdekking [.](/help/dsp/assets/discovery-networks-ad-specs.pdf)
 
-* **Disney (incl. Hulu):** zie de 1} en specificaties van Disney [.](https://hulu.disneyadsales.com/ad-products/video-commercial/)
+* **Disney (incl. Hulu):** zie de 1&rbrace; en specificaties van Disney [.](https://hulu.disneyadsales.com/ad-products/video-commercial/)
 
 * **Max HBO:** zie Max van HBO [ en specificaties ](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
@@ -70,7 +70,7 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innov
 
    * [ Peacock ](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Paramount:** zie de 2} en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
+* **Paramount:** zie de 2&rbrace; en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
 
 ## Advertenties weergeven
 

@@ -128,7 +128,7 @@ U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, stand
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0&rbrace; te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -236,7 +236,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![ Aandeel 1} van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
+   1. Klik ![ Aandeel 1&rbrace; van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
