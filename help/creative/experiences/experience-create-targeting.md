@@ -3,9 +3,9 @@ title: Maak een ervaring met doelstructuurbeslissingen
 description: Leer hoe u een doelgerichte advertentie-ervaring kunt maken met behulp van een beslissingsstructuur.
 feature: Creative Experiences
 exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
-source-git-commit: 45b2dad83aa626ea30e7553df7caaf5e7f53b3e1
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '614'
 ht-degree: 0%
 
 ---
@@ -81,7 +81,7 @@ Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructu
 
       * Klik op **[!UICONTROL Continue Edit]** als u de beslissingstructuur wilt blijven bewerken.
 
-Wanneer de beleving live is, maakt [!DNL Creative] automatisch een ad-tag voor elke toepasbare creatieve grootte. U kunt dan [ de advertentietag uitvoeren en het in DSP ](/help/creative/experiences/experience-tag-export.md) uitvoeren.
+Wanneer de beleving live is, maakt [!DNL Creative] automatisch één advertentietag voor elke toepasselijke creatieve grootte of videoduur. U kunt dan [ een advertentietag uitvoeren en het in DSP ](/help/creative/experiences/experience-tag-export.md) uitvoeren.
 
 Voor video&#39;s en ervaringen worden videoclips automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u er een voorvertoning van kunt weergeven. U kunt naar keuze [ uitgever-specifieke transcodering ](experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 

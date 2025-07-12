@@ -3,9 +3,9 @@ title: Handmatig een advertentietag maken voor een toepasselijk creatief formaat
 description: Leer hoe u een advertentietag maakt voor een bepaalde creatieve grootte.
 feature: Creative Experiences
 exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
-source-git-commit: 45b2dad83aa626ea30e7553df7caaf5e7f53b3e1
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
@@ -15,11 +15,11 @@ ht-degree: 0%
 *Ervaringen zonder beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-U kunt een of meer advertentietags maken voor elke creatieve grootte die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
+U kunt een of meer advertentietags maken per taal voor elke creatieve grootte of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
 
 >[!NOTE]
 >
->Voor ervaringen met doelgerichte beslissingsstructuren maakt [!DNL Creative] automatisch één tag voor elke toepasselijke creatieve grootte.
+>Voor ervaringen met doelgerichte beslissingsstructuren maakt [!DNL Creative] automatisch één tag per taal voor elke toepasselijke creatieve grootte of videoduur.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
@@ -31,11 +31,11 @@ U kunt een of meer advertentietags maken voor elke creatieve grootte die voor ee
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create Tag]** .
 
-1. Voer een unieke **[!UICONTROL Tag name]** in en selecteer de **[!UICONTROL Tag size]** .
+1. Voer een unieke **[!UICONTROL Tag name]** in en selecteer de **[!UICONTROL Tag size]** -advertentie of de standaardvideobad (de standaardadvertentie) **[!UICONTROL Duration]** .
 
-   De grootte van de standaardcreatieven voor de ervaring bepaalt de beschikbare creatieve grootten.
+   De grootte of duur van de standaardcreatieve standaardontwerpen voor de ervaring bepaalt de beschikbare creatieve grootten of videoduur.
 
-   U kunt veelvoudige markeringen voor de zelfde creatieve grootte tot stand brengen.<!-- What are the implications? -->
+   U kunt veelvoudige markeringen voor de zelfde creatieve grootte of duur tot stand brengen.<!-- What are the implications? -->
 
 1. Klik op **[!UICONTROL Create]**.
 

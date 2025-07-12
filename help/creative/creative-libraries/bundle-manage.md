@@ -3,9 +3,9 @@ title: Creatieve bundels beheren
 description: Meer informatie over xxxx.
 feature: Creative Bundles
 exl-id: a9ed4e8f-db93-46d5-9231-2b3bb0aa072a
-source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '1462'
+source-wordcount: '1466'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Bundels zijn groepen creatieve elementen die u als eenheid aan een ervaring kunt
 
 [!DNL Creative] roteert door de creatieve elementen in de bundel zoals gespecificeerd voor elke ervaring waaraan de bundel wordt toegewezen. U kunt desgewenst toestaan dat [!DNL Creative] de advertentie-elementen optimaliseert voor elke ervaring op basis van prestaties met behulp van algoritme en rotatie, die door Adobe Sensei wordt aangedreven.
 
-Om de optimalisatie van advertentie-elementen tussen bundels in een advertentiervaring mogelijk te maken, kan elke bundel slechts één van elke combinatie \[creatieve grootte + taal\] bevatten. Als een bundel bijvoorbeeld één creatieve 250 x 250 met de standaardtaal &quot;Frans&quot; bevat, kunt u geen tweede creatieve 250 x 250 met de standaardtaal &quot;Frans&quot; toevoegen. Als u meerdere creatieven van dezelfde grootte in dezelfde taal hebt, voegt u deze dan afzonderlijk toe aan de ervaring.
+Om de optimalisatie van advertentie-elementen tussen bundels in een advertentiervaring mogelijk te maken, kan elke bundel slechts één van elke combinatie \[creatieve grootte of duur + taal\] bevatten. Als een bundel bijvoorbeeld één creatieve 250 x 250 met de standaardtaal &quot;Frans&quot; bevat, kunt u geen tweede creatieve 250 x 250 met de standaardtaal &quot;Frans&quot; toevoegen. Als u meerdere creatieven van dezelfde grootte in dezelfde taal hebt, voegt u deze dan afzonderlijk toe aan de ervaring.
 
 Creatieve producten die aan bundels zijn gekoppeld, zijn nog steeds beschikbaar als afzonderlijke creatieve producten. U kunt één creatieve bundel toevoegen aan meerdere bundels. Als u instellingen bewerkt voor een creatief object dat aan een bundel is gekoppeld, worden de wijzigingen doorgegeven aan de bundel. Alle aangepaste openingspagina&#39;s, codes voor het bijhouden van de indruk en aanklikcodes die zijn geconfigureerd voor de creatieve toepassingen in een bepaalde ervaring, worden echter altijd voor deze ervaring gebruikt.
 
@@ -104,7 +104,7 @@ Wijzigingen in een bundelnaam worden doorgegeven in alle bijbehorende ervaringen
 
 ## Creatieve elementen aan een bundel koppelen
 
-U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, standaardvideoclips aan standaardvideobundels en dynamische weergaveontwerpers aan een dynamische bundel koppelen. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte + taal\] bevatten.
+U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, standaardvideoclips aan standaardvideobundels en dynamische weergaveontwerpers aan een dynamische bundel koppelen. Als u een creatief element aan een bundel koppelt, maakt u het creatieve materiaal beschikbaar in alle ervaringen waaraan het bundel is toegewezen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte of duur + taal\] bevatten.
 
 >[!NOTE]
 >
@@ -128,7 +128,7 @@ U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, stand
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0&rbrace; te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -236,7 +236,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![ Aandeel 1&rbrace; van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
+   1. Klik ![ Aandeel 1} van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 

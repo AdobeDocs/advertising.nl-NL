@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: ad51a42c1aa7e713b1a4a90261c635b574068d29
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '1381'
+source-wordcount: '1388'
 ht-degree: 0%
 
 ---
@@ -64,7 +64,7 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 
 #### Videocreatieven {#creative-video-specs}
 
-U kunt videoclips uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve grootte die aan de beleving wordt toegewezen. Alle videocamera&#39;s worden automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u deze kunt voorvertonen. In [!UICONTROL Tag Manager], kunt u naar keuze [ uitgever-specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve grootte die aan de beleving wordt toegewezen. Alle videocamera&#39;s worden automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u deze kunt voorvertonen. In [!UICONTROL Tag Manager], kunt u naar keuze [ uitgever-specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
 Bekijk de volgende creatieve videovereisten.
 

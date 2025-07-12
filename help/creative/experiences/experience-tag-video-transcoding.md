@@ -2,9 +2,10 @@
 title: Transcoderingsopties voor een video aanpassen en tags beleven
 description: Leer hoe u de transcoderingsopties voor een video en tag kunt aanpassen.
 feature: Creative Experiences
-source-git-commit: b67bb63fd5f87e6bd900aa5d957973d11355280c
+exl-id: 6100213c-2e7d-4e98-a3ab-045ca10e5174
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '112'
 ht-degree: 0%
 
 ---
@@ -13,7 +14,7 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-U kunt de transcoderingsopties voor een video en ervaring aanpassen.
+U kunt de transcoderingsopties voor een video en ervaring aanpassen om te zorgen voor een snelle weergave en kwaliteitscontrole voor alle uitgevers.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
@@ -28,4 +29,3 @@ U kunt de transcoderingsopties voor een video en ervaring aanpassen.
 1. Selecteer het type transcodering in de lijst met **[!UICONTROL Publisher specific transcodes]** .
 
 1. Klik op **[!UICONTROL Save Settings]**.
-

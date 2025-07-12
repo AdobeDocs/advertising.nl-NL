@@ -3,9 +3,9 @@ title: Een tag voor een advertentie exporteren en implementeren voor een live be
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
 exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
-source-git-commit: 45b2dad83aa626ea30e7553df7caaf5e7f53b3e1
+source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
 workflow-type: tm+mt
-source-wordcount: '602'
+source-wordcount: '605'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Zodra een ad markering voor een specifieke creatieve grootte voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript en iframe formaten voor implementatie op Advertising DSP of andere DSPs produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die vereist zijn voor DSP.
 
-Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden naar een Advertising DSP-campagne als advertenties met het advertentietype &quot;standaarddisplay&quot;.
+Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden naar een Advertising DSP-campagne als advertenties met het advertentietype &quot;standaardbeeldscherm&quot; of &quot;universele video&quot;.
 
 >[!NOTE]
 >
@@ -33,7 +33,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of **&#x200B; [!UICONTROL ... More] > &#x200B;** [!UICONTROL Export ad tags]**.
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of ** [!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
 
 >[!NOTE]
 >
@@ -49,7 +49,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
 1. Klik op **[!UICONTROL Next]** in de rechterbovenhoek of klik op **[!UICONTROL Generate ad tags]** in het linkermenu.
 
-1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* **&#x200B; of &#x200B;** *IFRAME* ** <!-- sic -->.
+1. Selecteer het markeringstype: ** *JavaScript<!-- sic -->* ** of ** *IFRAME* ** <!-- sic -->.
 
 1. Selecteer in de lijst [!UICONTROL Destinations] waar u advertenties wilt maken.
 
