@@ -294,7 +294,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 +++
 
 +++Opbrengstgegevens verschillen van gegevens in Adobe Analytics
-Zie [ https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html).<!-- change link URL to relative link -->
+Zie [ https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL).<!-- change link URL to relative link -->
 +++
 
 ## Specifieke verslagen
