@@ -3,7 +3,7 @@ title: Veelgestelde vragen over aangepaste rapporten
 description: Leer antwoorden op veelgestelde vragen over prestatiesrapporten, met inbegrip van het oplossen van problemen van gegevenskwesties.
 exl-id: 1232efce-25eb-48d8-a3fb-f57711fa14e5
 feature: Search Reports
-source-git-commit: c0f8f8c2886ea821dd7705446a727054b66ad3bc
+source-git-commit: 01fe9264fee43ed29f6cee022dadeb29fbd26f45
 workflow-type: tm+mt
 source-wordcount: '3922'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 ## Algemene vragen
 
 +++Wat als de datumwaaier voor het rapport begint alvorens rapportgegevens beschikbaar is?
-Het rapport wordt gegenereerd, maar bevat alleen gegevens voor de datums waarvoor gegevens beschikbaar zijn. Voor meer informatie over wanneer het gegeven voor elk rapporttype beschikbaar is, zie &quot;[ Gegevens die voor Rapporten ](data-used-for-reports.md) worden gebruikt.&quot;
+Het rapport wordt gegenereerd, maar bevat alleen gegevens voor de datums waarvoor gegevens beschikbaar zijn. Voor meer informatie over wanneer het gegeven voor elk rapporttype beschikbaar is, zie &quot;[ de gegevens die voor rapporten ](data-used-for-reports.md) worden gebruikt.&quot;
 +++
 
 +++Wat is het verschil tussen klik datum en transactie op datum-gebaseerde rapporten?
@@ -54,9 +54,9 @@ Wanneer de rij gegevens voor inhoud-toegelaten onderzoekscampagnes, vertoningsca
 +++
 
 +++Vanwege seizoensgebonden of marktveranderingen worden in mijn rapporten atypische gegevens weergegeven. Heeft dit gevolgen voor biedingen als de omstandigheden veranderen?
-De optimaliseringscapaciteit bouwt zijn opbrengstmodellen voor elke biedingseenheid dagelijks om ervoor te zorgen dat het identificeert en onmiddellijk op trends reageert, en de modellen omvatten historische gegevens op lange termijn om seizoensgebonden prestaties te helpen voorspellen. De het inkomstenmodel van de portefeuille het plaatsen van de halfwaardetijd <!-- add link to glossary? --> bepaalt ook hoe zwaar recente opbrengstgegevens worden gewogen. De beste praktijk is om de halfwaardetijd tijdens een periode van atypische prestaties te verminderen maar te verhogen nadat het inkomstenmodel is aangepast. Als u vragen hebt over of het aanpassen van de halfwaardetijd noodzakelijk is, contacteer uw Team van de Rekening van de Adobe.
+De optimaliseringscapaciteit bouwt zijn opbrengstmodellen voor elke biedingseenheid dagelijks om ervoor te zorgen dat het identificeert en onmiddellijk op trends reageert, en de modellen omvatten historische gegevens op lange termijn om seizoensgebonden prestaties te helpen voorspellen. De het inkomstenmodel van de portefeuille het plaatsen van de halfwaardetijd <!-- add link to glossary? --> bepaalt ook hoe zwaar recente opbrengstgegevens worden gewogen. De beste praktijk is om de halfwaardetijd tijdens een periode van atypische prestaties te verminderen maar te verhogen nadat het inkomstenmodel is aangepast. Als u vragen hebt over de vraag of het nodig is de halfwaardetijd aan te passen, neemt u contact op met uw Adobe-accountteam.
 
-Als u niet wilt dat de gegevens voor de periode toekomstige biedingen beïnvloeden, dan kunt u verkiezen om die datums van het model uit te sluiten. Neem contact op met het accountteam van de Adobe om de datums uit te sluiten.
+Als u niet wilt dat de gegevens voor de periode toekomstige biedingen beïnvloeden, dan kunt u verkiezen om die datums van het model uit te sluiten. Neem contact op met uw Adobe-accountteam om de datums uit te sluiten.
 +++
 
 +++Kan ik een rapport maken over de metrische waarde van een specifieke accounteigenschap, zoals [!UICONTROL Device] of [!UICONTROL Objective Name] ?
@@ -81,7 +81,7 @@ Als u een rapport veelvoudige tijden gebruikend de zelfde rapportparameters maar
 
 * Bij de selectie van het portfoliofilter worden enkele gebeurtenissen die tot de conversie leiden, uitgesloten.
 
-  Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als het rapport &quot;[!UICONTROL First Event]&quot;attributieregel gebruikt, dan moet Portfolio_1 voor de omzetting worden omvat die in het rapport moet worden omvat. Nochtans, als het rapport de &quot;Laatste gebeurtenisattributieregel&quot;gebruikt, dan moet Portfolio_2 worden omvat.
+  Als u een subset van portfolio&#39;s rapporteert, hoeft u mogelijk geen campagnes op te nemen die de gebeurtenis bevatten waaraan de conversie is toegewezen op basis van een van de toewijzingsregels. Bijvoorbeeld, veronderstel een gebruiker Keyword_1 van Portfolio_1 klikt, Keyword_2 van Portfolio_2 klikt, en dan omzet. Als het rapport &quot;[!UICONTROL First Event]&quot;attributieregel gebruikt, dan moet Portfolio_1 voor de omzetting worden omvat die in het rapport moet worden omvat. Als het rapport echter de toewijzingsregel &quot;Laatste gebeurtenis&quot; gebruikt, moet Portfolio_2 worden opgenomen.
 
 >[!TIP]
 >
@@ -98,9 +98,9 @@ Deze situatie kan zich voordoen wanneer de metrische formaten gehelen gebruiken:
 +++
 
 +++Wanneer klik of de opbrengstgegevens ontbreken, hoe ik het verhinderen toekomstige biedingen te beïnvloeden?
-Klik op gegevensproblemen als Zoeken, Sociaal en Commerce niet synchroon is met het advertentienetwerk. Neem contact op met het accountteam van de Adobe om de account handmatig te synchroniseren. Als klikgegevens een hele dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de kostenmodellen uit te sluiten.
+Klik op gegevensproblemen als Zoeken, Sociaal en Commerce niet synchroon is met het advertentienetwerk. Neem contact op met uw Adobe-accountteam om de account handmatig te synchroniseren. Als klikgegevens een hele dag ontbreken, vraag dan uw Adobe Account Team om die dag van de kostenmodellen uit te sluiten.
 
-Problemen met inkomstengegevens kunnen optreden als gevolg van een probleem met het bijhouden of doorvoeren van een bestand. Neem contact op met het accountteam van de Adobe om het probleem te onderzoeken. Als de opbrengstgegevens voor een volledige dag ontbreken, dan vraag uw Team van de Rekening van de Adobe om die dag van de opbrengstmodellen uit te sluiten.
+Problemen met inkomstengegevens kunnen optreden als gevolg van een probleem met het bijhouden of doorvoeren van een bestand. Neem contact op met uw Adobe-accountteam om het probleem te onderzoeken. Als de inkomstengegevens voor een volledige dag ontbreken, dan vraag uw Team van de Rekening van Adobe om die dag van de opbrengstmodellen uit te sluiten.
 +++
 
 +++Monetaire gegevens worden in het verkeerde formaat weergegeven.
@@ -122,13 +122,13 @@ Dit zijn algemene redenen voor het ontbreken van klikgegevens.
 
 | Oorzaak | Detectie/analyse | Resolutie |
 |---|---|---|
-| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Neem contact op met het accountteam van de Adobe.<br><br> als het gegeven meer dan 24 uren mist, dan sluit die data van de kostenramingen uit tot de gegevens worden teruggewonnen. Uw accountteam van de Adobe kan de datums uitsluiten. |
-| Een factureringsprobleem tussen de adverteerder en het advertentienetwerk voorkomt dat de advertentierekening uitgaven. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt. | Als u weet dat een advertentierekening niet kon uitgeven wegens een factureringskwestie, dan sluit die data van de kostenramingen uit. Uw accountteam van de Adobe kan de datums uitsluiten. |
+| Het proces dat klikgegevens van de advertentierekening terugwint ontbrak. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt, ook al heeft de advertentierekening geld uitgegeven. | Neem contact op met uw Adobe-accountteam.<br><br> als het gegeven meer dan 24 uren mist, dan sluit die data van de kostenramingen uit tot de gegevens worden teruggewonnen. Uw Adobe-accountteam kan de datums uitsluiten. |
+| Een factureringsprobleem tussen de adverteerder en het advertentienetwerk voorkomt dat de advertentierekening uitgaven. | Er is geen systematische manier om dit probleem op te sporen, maar u kunt zien dat een campagne geen kosten toont of op informatie klikt. | Als u weet dat een advertentierekening niet kon uitgeven wegens een factureringskwestie, dan sluit die data van de kostenramingen uit. Uw Adobe-accountteam kan de datums uitsluiten. |
 
 +++
 
 +++Prestatiegegevens zijn verschillend van gegevens in de ad netwerkredacteur.
-Wanneer het advertentienetwerk updates naar vorige gegevens verzendt (vaak omdat zij klikfraude aan sommige kliks hebben toegeschreven), werkt het Onderzoek, Sociale, &amp; Commerce niet de gegevens bij tenzij er meer dan een 5% discrepantie is en het Team van de Rekening van de Adobe een verzoek indient.
+Wanneer het advertentienetwerk updates naar vorige gegevens verzendt (vaak omdat zij klikfraude aan sommige kliks hebben toegeschreven), werkt het Onderzoek, Sociale, &amp; Commerce niet de gegevens bij tenzij er meer dan een 5% discrepantie is en het Team van de Rekening van Adobe een verzoek indient.
 
 Wanneer u de indruk vergelijkt dat gedeelde gegevens over een datumbereik zijn samengevoegd, kunnen de gegevens die door de rapporten Zoeken, Sociaal en Commerce worden gerapporteerd, afwijken van de gegevens die door het advertentienetwerk worden gerapporteerd. Dit verschil is te wijten aan de manier waarop de gegevens worden gerapporteerd door de API van het advertentienetwerk, die door Search, Social &amp; Commerce wordt gebruikt om gegevens aan te trekken. Bijvoorbeeld voor [!DNL Google Ads] data:
 
@@ -155,7 +155,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 +++Opbrengst ontbreekt in rapporten.
 
-**Advertisers die de markeringen van de Adobe Advertising omzettingen gebruiken**
+**Advertisers die de omzettingstekens van Adobe Advertising gebruiken**
 
 *Mogelijke oorzaken:*
 
@@ -169,11 +169,11 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of werk-rond:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van de Adobe [ de omzettingsmetriek beschikbaar maken aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [ de omzettingsmetriek ter beschikking stellen aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
-1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag indien nodig uw accountteam van de Adobe om een testtransactie te maken voor elke toepasselijke code voor het bijhouden van conversies en om de gegevens van de transactie vast te leggen, zoals de `transactionid` en de gegevens van het cookie (zoals de `trackingid` , `clickid` , enzovoort).
+1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag indien nodig uw Adobe-accountteam om een testtransactie voor elke toepasselijke trackingtag voor conversie te maken en de details van de transactie vast te leggen, zoals de `transactionid` en de gegevens van het cookie (zoals de `trackingid` , `clickid` , enzovoort).
 
-1. Als de optie [!UICONTROL Auto Upload] is uitgeschakeld voor de campagne en u trefwoorden of advertenties hebt toegevoegd, moet u een trackingsjabloon of doel-URL met Zoeken, Sociaal zoeken en Commerce op Doorsturen klikken voor elke sjabloon. Het accountteam van uw Adobe kan een intern rapport uitvoeren om te controleren of een klik-volgende URL&#39;s (trackingsjablonen of doel-URL&#39;s) ontbreken of onjuist zijn geformuleerd.
+1. Als de optie [!UICONTROL Auto Upload] is uitgeschakeld voor de campagne en u trefwoorden of advertenties hebt toegevoegd, moet u een trackingsjabloon of doel-URL met Zoeken, Sociaal zoeken en Commerce op Doorsturen klikken voor elke sjabloon. Uw Adobe-accountteam kan een intern rapport uitvoeren om te controleren of eventuele URL&#39;s die klikken bijhouden (trackingsjablonen of doel-URL&#39;s) ontbreken of onjuist zijn geformuleerd.
 
    Indien noodzakelijk, produceer het volgen door een bulksbladdossier met correcte URLs te creëren, en post het dossier aan de aangewezen rekening gebruikend **het Volgen URLs** optie produceert.
 
@@ -197,7 +197,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of werk-rond:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van de Adobe [ de omzettingsmetriek beschikbaar maken aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [ de omzettingsmetriek ter beschikking stellen aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Voer de lus [!UICONTROL Portfolio Report] uit. Als deze leeg is, voert u de instructies [!UICONTROL Campaign Report] en [!UICONTROL Search Engine Report] uit om te controleren of de opbrengsten in die rapporten worden weergegeven. Als dat het geval is, worden de campagnes mogelijk niet toegewezen aan de juiste portefeuille.
 
@@ -211,12 +211,12 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 +++
 
 +++Sommige geavanceerde rapporten bevatten geen omzettingsgegevens die door een adverteerdervoer worden verstrekt.
-De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gebruiken gegevens die zijn vastgelegd via de service voor het bijhouden van Adoben Advertising en kunnen alleen worden gegenereerd voor adverteerders met de service. De rapporten omvatten geen omzettingsgegevens die buiten het de omzettingsvolgsysteem van de Adobe Advertising worden gevolgd.
+De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] gebruiken gegevens die zijn vastgelegd via de service voor het bijhouden van Adobe Advertising-conversies en kunnen alleen worden gegenereerd voor adverteerders met de service. De rapporten bevatten geen conversiegegevens die buiten het Adobe Advertising-conversiesysteem worden bijgehouden.
 +++
 
 +++inkomstengegevens verschillen van de eigen inkomstengegevens van de adverteerder.
 
-**Advertisers die de markeringen van de Adobe Advertising omzettingen gebruiken**
+**Advertisers die de omzettingstekens van Adobe Advertising gebruiken**
 
 *Mogelijke oorzaken:*
 
@@ -230,7 +230,7 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
 1. Ga naar **[!UICONTROL Insights & Reports]>[!UICONTROL Reports]** en genereren een [!UICONTROL Transaction Report] . Vergelijk de transacties die Search, Social &amp; Commerce heeft ontvangen met de gegevens van de adverteerder.
 
-1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat de relevante het volgen van omzettingsmarkering op alle toepasselijke webpagina&#39;s wordt uitgevoerd en niet werd uitgegeven tenzij uw Team van de Rekening van de Adobe u adviseerde dit te doen. Een tag ontbreekt of wordt gewijzigd als de website onlangs is bijgewerkt.
+1. Als sommige transacties onjuist zijn of ontbreken, zorgt u ervoor dat de relevante trackingtag voor conversie wordt geïmplementeerd op alle toepasselijke webpagina&#39;s en alleen wordt bewerkt als uw Adobe-accountteam u heeft geadviseerd dit te doen. Een tag ontbreekt of wordt gewijzigd als de website onlangs is bijgewerkt.
 
    Search, Social &amp; Commerce verwacht goed gevormde URL&#39;s (met parameters in naam-waardeparen) binnen de `ef_transaction_properties` -variabele en binnen het `src` -element van de `img` -tag.
 
@@ -294,7 +294,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 +++
 
 +++Opbrengstgegevens verschillen van gegevens in Adobe Analytics
-Zie [ https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL).<!-- change link URL to relative link -->
+Zie [ https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html).<!-- change link URL to relative link -->
 +++
 
 ## Specifieke verslagen
@@ -308,15 +308,15 @@ In [!UICONTROL Portfolio Report] worden alleen gegevens weergegeven voor de camp
 +++
 
 +++Hoe verschilt [!UICONTROL Model Accuracy] > [!UICONTROL Forecast Accuracy Report] van het portfolio-niveau [!UICONTROL Model Accuracy Report] ?
-(Alleen accountmanager, accountmanager voor Adoben en gebruikers van beheerders) [!UICONTROL Forecast Accuracy Report] beschikbaar via [!UICONTROL Reports] > [!UICONTROL Model Accuracy] levert dezelfde gegevens als op portfolioniveau [!UICONTROL Model Accuracy Report] , maar u kunt deze uitvoeren in meerdere portfolio&#39;s en u kunt de toewijzingsregel wijzigen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen. Bovendien is [!UICONTROL Forecast Accuracy Report] nauwkeuriger dan het oude portefeuillerapport omdat het de opbrengstnauwkeurigheid gebruikend de historische doelstellingen voor de portefeuille eerder dan het huidige doel evalueert, en het nauwkeuriger gegevens voor de toepasselijke tijdzone vertegenwoordigt.
+(Alleen accountmanager, Adobe-accountmanager en gebruikers van beheerders) [!UICONTROL Forecast Accuracy Report] beschikbaar via [!UICONTROL Reports] > [!UICONTROL Model Accuracy] verschaft dezelfde gegevens als op portfolioniveau [!UICONTROL Model Accuracy Report] , maar u kunt deze uitvoeren in meerdere portfolio&#39;s en u kunt de toewijzingsregel wijzigen. U kunt het rapport ook in werking stellen en plannen gebruikend douaneparameters, en u kunt het gebruiken om spreadsheetvoer tot stand te brengen. Bovendien is [!UICONTROL Forecast Accuracy Report] nauwkeuriger dan het oude portefeuillerapport omdat het de opbrengstnauwkeurigheid gebruikend de historische doelstellingen voor de portefeuille eerder dan het huidige doel evalueert, en het nauwkeuriger gegevens voor de toepasselijke tijdzone vertegenwoordigt.
 +++
 
 +++Gegevens op advertentieniveau zijn niet beschikbaar voor [!DNL Google Ads] dynamische zoekopdrachten en (DSA), maximale prestaties, slim winkelen en [!DNL YouTube] -campagnes.
 De advertentienetwerken verstrekken niet het herkenningsteken noodzakelijk om opbrengst aan een individuele advertentie voor die campagnes toe te schrijven. Hierdoor zijn prestatiegegevens op ad-niveau niet beschikbaar voor die typen campagnes in de [!UICONTROL Ads] -weergave of in [!UICONTROL Ad Variation Report] . Verwacht discrepanties tussen de totale ad-level gegevens voor een campagne en de totale gegevens voor de campagne.
 +++
 
-+++In [!UICONTROL Transaction Report], hoe weet ik welke omzettingsmetrische waarde van een gegevensvoer of door de Adobe Advertising volgende pixel is wordt gevolgd?
-In een transactierapport, kunt u vertellen of inbegrepen omzettingsmetrisch door de Adobe Advertising volgende pixel werd gevolgd als u de douanekolom &quot;[!UICONTROL Tracking URL]&quot;omvat. Het volgen van URLs met de Adobe Advertising het volgen pixel begint met &quot;`http://pixel.everesttech.net`&quot;.
++++In [!UICONTROL Transaction Report], hoe weet ik welke omzettingsmetrische waarde van een gegevenstoevoer of door de het volgen pixel van Adobe Advertising is wordt gevolgd?
+In een transactierapport, kunt u vertellen of inbegrepen omzettingsmetrisch door de volgende pixel van Adobe Advertising werd gevolgd als u de douanekolom &quot;[!UICONTROL Tracking URL]&quot;omvat. Het volgen van URLs met de het volgen pixel van Adobe Advertising begint met &quot;`http://pixel.everesttech.net`&quot;.
 +++
 
 +++De gegevens in mijn [!UICONTROL Transaction Report] komen niet overeen met de gegevens in mijn [!UICONTROL Keyword Report] .
