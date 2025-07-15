@@ -18,7 +18,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 ## Beschikbare acties
 
-* [ wijst campagnes aan bestaande of nieuwe portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [ unassign campagnes van portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+* [ wijst campagnes aan bestaande of nieuwe portefeuilles ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [ unassign campagnes van portefeuilles ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
 * [Beperkingen aan campagnes toewijzen en beperkingen van campagnes ongedaan maken](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
@@ -26,7 +26,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 >[!MORELIKETHIS]
 >
->* [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
->* [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+>* [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+>* [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 >* [ beheert beperkingstaken voor campagnes ](campaign-constraint-assignments-manage.md)
 >* [ gegevens van de Download van de [!UICONTROL Campaigns] mening ](campaign-view-report.md)
