@@ -3,9 +3,9 @@ title: Campagnes verwijderen uit een portfolio
 description: Leer hoe u campagnes uit een portfolio kunt verwijderen.
 exl-id: 5f2e7a01-f55b-4f49-a217-462cd2e365c7
 feature: Search Campaign Management
-source-git-commit: a71f2daded3b7c32b8c30a4631eba8c2dbda3a17
+source-git-commit: 868e4090c164df353d4e510fb972b0ea1f1daa82
 workflow-type: tm+mt
-source-wordcount: '231'
+source-wordcount: '250'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,9 @@ Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, v
 
 1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
 
-1. In de portefeuillemontages <!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)-->, ga naar de [!UICONTROL Assign Campaigns] sectie en verander de campagnetaken.
+1. Ga in de portfolioinstellingen naar de sectie [!UICONTROL Assign Campaigns] en wijzig de toewijzingen voor de campagne.
+
+   Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, voor meer informatie over de portfolioinstellingen.
 
 1. Klik op **[!UICONTROL Review and Save]**.
 
