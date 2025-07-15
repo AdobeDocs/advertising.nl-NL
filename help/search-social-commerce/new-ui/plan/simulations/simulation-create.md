@@ -98,7 +98,7 @@ U kunt simulaties opnieuw uitvoeren die momenteel niet in de wachtrij staan.
 
 1. Schakel de selectievakjes in naast de simulaties die u opnieuw wilt uitvoeren.
 
-1. In de toolbar boven de gegevenslijst, klik ![ Rerun ](/help/search-social-commerce/assets/rerun.png " opnieuw 10}.")
+1. In de toolbar boven de gegevenslijst, klik ![ Rerun ](/help/search-social-commerce/assets/rerun.png " opnieuw 10&rbrace;.")
 
 ## Aangepaste simulatie-instellingen {#custom-simulation-settings}
 

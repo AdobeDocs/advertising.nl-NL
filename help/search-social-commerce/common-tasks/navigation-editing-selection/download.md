@@ -32,11 +32,11 @@ U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Com
 
    Anders worden alle gegevens in de weergave opgenomen.
 
-1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0} ](/help/search-social-commerce/assets/download.png ".")
+1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0&rbrace; ](/help/search-social-commerce/assets/download.png ".")
 
 1. Klik ![ creëren ](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
 
-1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1} ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
+1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1&rbrace; ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
 
    * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![ spreadsheet van de Download ](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
 
