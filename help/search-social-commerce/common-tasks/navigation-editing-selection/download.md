@@ -3,14 +3,14 @@ title: Gegevens downloaden vanuit een campagnebeheerweergave
 description: Leer hoe u gegevens kunt downloaden uit de meeste weergaven voor campagnebeheer.
 exl-id: f549f03c-ed0b-4d7d-8d7e-91192c17e77e
 feature: Search Common Tasks
-source-git-commit: 399974645b5083e735ff7aa94eba0a1115b4ddeb
+source-git-commit: 723d50d11cd76471ac41d3bb007af4f5d1bfa32f
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
 
-# Gegevens downloaden vanuit een campagnebeheerweergave
+# (Verouderde gebruikersinterface) Download gegevens vanuit een campagnebeheerweergave
 
 *Verouderd gebruikersinterface*
 
@@ -24,15 +24,19 @@ U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Com
 
   Elk bulksbladbestand in het deelvenster [!UICONTROL Downloads] wordt ook weergegeven in de weergave [!UICONTROL Bulksheets] . Wanneer het bestand is gemaakt, ontvangt u een e-mailbericht met een koppeling waarmee u het bestand kunt downloaden. Afhankelijk van de hoeveelheid gegevens die wordt gecompileerd, kan het enkele minuten of langer duren. Als het genereren van het bestand echter mislukt, wordt een foutbestand weergegeven in de weergave Opsommingstekens en ontvangt u een e-mailmelding met een koppeling naar het foutbestand. Als u een bestand met een opsommingsteken verwijdert uit het deelvenster [!UICONTROL Download] of het tabblad [!UICONTROL Bulksheets] , wordt dit bestand van beide locaties verwijderd.
 
+>[!NOTE]
+>
+>Zie ook hulp bij het downloaden van gegevens in het nieuwe gebruikersinterface van &quot;[[!UICONTROL Portfolios] mening ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)&quot;, &quot;[[!UICONTROL Campaigns] mening ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md),&quot; en &quot;[[!UICONTROL Ad Groups] mening ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md).&quot;
+
 1. (Optioneel) Selecteer de afzonderlijke rijen die u in het bestand wilt opnemen.
 
    Anders worden alle gegevens in de weergave opgenomen.
 
-1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0&rbrace; ](/help/search-social-commerce/assets/download.png ".")
+1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0} ](/help/search-social-commerce/assets/download.png ".")
 
 1. Klik ![ creëren ](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
 
-1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1&rbrace; ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
+1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1} ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
 
    * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![ spreadsheet van de Download ](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
 
@@ -42,4 +46,7 @@ U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Com
 
 >[!MORELIKETHIS]
 >
->[ Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [ (Verouderde UI) Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
+>* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Campaigns] mening ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+>* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Ad Groups] mening ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)

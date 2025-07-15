@@ -3,9 +3,9 @@ title: Campagnes toewijzen aan een portfolio
 description: Leer hoe u campagnes opneemt in portfolio's voor optimalisatie.
 exl-id: 62876260-dadd-4f4b-a5b9-1e04914e3a89
 feature: Search Campaign Management
-source-git-commit: f1ad7c7535a7edece4eeecf7b2aac8b59f8eb6b9
+source-git-commit: 723d50d11cd76471ac41d3bb007af4f5d1bfa32f
 workflow-type: tm+mt
-source-wordcount: '601'
+source-wordcount: '596'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Door een campagne toe te wijzen aan een geoptimaliseerde portfolio kunnen Zoeken, Sociaal en Commerce biedingen, campagnebudgetten en streefdoelen voor biedingsstrategieën voor trefwoorden en advertenties in de campagne optimaliseren. U kunt campagnes toewijzen aan een portfolio vanuit de weergave [!UICONTROL Campaigns] , wanneer u het portfolio maakt of door de instellingen van een portfolio te bewerken.
 
-Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimalisering; zie een lijst van [ gesteunde campagnetypen ](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portefeuille kunt omvatten. Bovendien verifieer de optimalisatiesteun voor elke strategie van de campagnebieding door &quot;In aanmerking komende Types van Portfolio door de Strategie van het Bod van de Campagne&quot;in het hoofdstuk van de Gids van de Optimalisering over &quot;Portfolio&#39;s,&quot;te raadplegen dat binnen Onderzoek, Sociale, &amp; Commerce beschikbaar is.<!-- verify convention for referencing Optimization Guide here -->
+Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimalisering; zie een lijst van [ gesteunde campagnetypen ](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portefeuille kunt omvatten. Bovendien verifieer de [ optimalisatiesteun voor elke strategie van de campagneaanbieding ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy).
 
 >[!NOTE]
 >
@@ -40,9 +40,11 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/assign.png "Toewijzen") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
 
-1. Geef in het scherm [!UICONTROL Create Portfolio] de portfolioinstellingen <!--[portfolio settings](/help/search-social-commerce/beta-ui/manage/portfolios/portfolio-settings.md)--> op.
+1. Geef in het scherm [!UICONTROL Create Portfolio] de portfolioinstellingen op.
 
    De campagnes die u eerder hebt geselecteerd, worden al toegewezen aan de campagne. U kunt desgewenst de lijst met campagnes voor het portfolio bewerken.
+
+   Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, voor meer informatie over de portfolioinstellingen.
 
 1. Klik op **[!UICONTROL Review and Save]**.
 
@@ -52,7 +54,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.
+   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![ knoop van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png ", en selecteer dan ") > **[!UICONTROL Assign].[!UICONTROL Portfolio]**
 
    * (Voer de volgende handelingen uit als u een of meer campagnes wilt toevoegen aan hetzelfde portfolio:
 
