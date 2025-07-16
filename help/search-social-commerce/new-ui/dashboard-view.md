@@ -3,7 +3,8 @@ title: (Nieuwe interface) Geef het dashboard voor uw prestaties weer
 description: Meer informatie over de gegevens die beschikbaar zijn in het dashboard voor de prestaties.
 feature: Search Portfolios, Search Optimization
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: ef79f52b-cc97-4f36-8a44-50ffd3377c8b
+source-git-commit: 7065a4051449dc5834e5bca950f9c4aca36b9000
 workflow-type: tm+mt
 source-wordcount: '365'
 ht-degree: 0%
@@ -13,8 +14,6 @@ ht-degree: 0%
 # (Nieuwe interface) Geef het dashboard voor uw prestaties weer
 
 *eigenschap van Beta*
-
-<!-- See wiki pageId=3404513731 for more things that may be added -->
 
 Met de aanpasbare [!UICONTROL Dashboard] kunt u de prestaties van al uw portfolio&#39;s controleren <!-- May later include other entity-level data --> , zodat u mogelijke prestatieproblemen kunt opsporen en oplossen. U kunt dagelijkse, wekelijkse of maandelijkse gegevens weergeven voor elke tijdsperiode in de afgelopen 90 dagen.
 
@@ -57,4 +56,3 @@ Uw [!UICONTROL Dashboard] bevat de volgende visuele rapporten:
    * Wijzig de gerapporteerde metrische waarde ([!UICONTROL Cost] \[standaard geselecteerd\], [!UICONTROL Clicks] of [!UICONTROL Objective Value]).
 
    * Als u de weergave [!UICONTROL Portfolios] wilt openen, klikt u op **[!UICONTROL View More]** rechtsonder in het diagram. <!-- This currently lists all portfolios, not a filtered view of the portfolios in the report -->
-
