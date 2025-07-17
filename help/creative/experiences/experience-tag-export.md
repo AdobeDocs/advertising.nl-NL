@@ -3,9 +3,9 @@ title: Een tag voor een advertentie exporteren en implementeren voor een live be
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
 exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
-source-git-commit: 2b98f148a46213ab9dac20e14ba5a2db4e447b3a
+source-git-commit: e79becc860143b749ec96134e7b224649686c672
 workflow-type: tm+mt
-source-wordcount: '611'
+source-wordcount: '637'
 ht-degree: 0%
 
 ---
@@ -14,14 +14,14 @@ ht-degree: 0%
 
 *Gesloten bèta*
 
-Zodra een ad markering voor een specifieke creatieve grootte voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript, iframe, en videoformaten voor implementatie op Advertising DSP of andere DSPs produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die vereist zijn voor DSP.
+Zodra een ad markering voor een specifieke creatieve grootte of videoduur voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript, iframe, en videoformaten voor implementatie op Advertising DSP of andere DSPs produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die vereist zijn voor DSP.
 
 Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden naar een Advertising DSP-campagne als advertenties met het advertentietype &quot;standaardbeeldscherm&quot; of &quot;universele video&quot;.
 
 >[!NOTE]
 >
->* Wanneer u een ervaring met doelstructuurbeleid maakt, maakt [!DNL Creative] automatisch een ad-tag voor elke toepasbare creatieve grootte.
->* Wanneer u een ervaring zonder beslissingsboom het richten creeert, moet u [ manueel een ad markering ](experience-tag-create-manually.md) voor elke toepasselijke creatieve grootte creëren.
+>* Wanneer u een ervaring maakt met doelgerichte beslissingsstructuren, maakt [!DNL Creative] automatisch een ad-tag voor elke toepasselijke creatieve grootte (niet-videocreatieven) of videoduur (video-creatieven).
+>* Wanneer u een ervaring zonder beslissingsboom het richten creeert, moet u [ manueel een ad markering ](experience-tag-create-manually.md) voor elke toepasselijke creatieve grootte (niet videocamera creatieve) of videoduur (videocreatieve) creëren.
 >* Ervingstags zijn dynamisch. U hoeft de tags niet bij te werken als u een ervaring bewerkt.
 >* Zorg ervoor dat de campagnes waarin u een advertentie-ervaring zult uitvoeren richten die met de ervaring compatibel is. Het gedrag voor hiërarchische activering kan per DSP variëren. In Advertising DSP wordt &#39;ad-level&#39;-doelen toegepast boven op (niet in plaats van) het doel op plaatsingsniveau.
 
@@ -33,11 +33,11 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of **&#x200B; [!UICONTROL ... More] > &#x200B;** [!UICONTROL Export ad tags]**.
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of ** [!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
 
 >[!NOTE]
 >
->Voor standaardvideo en ervaringen wacht u tot de kolom [!UICONTROL Tag Status] &quot; [!UICONTROL Ready]&quot; toont. Dit geeft aan dat alle video&#39;s in de ervaring zijn getranscodeerd. Alle videocreatieve beelden worden automatisch getranscodeerd door DSP, maar u kunt naar keuze [ uitgever-specifieke transcodering ](experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+>Voor standaardvideo en ervaringen wacht u tot de kolom [!UICONTROL Tag Status] &quot; [!UICONTROL Ready]&quot; toont. Dit geeft aan dat alle video&#39;s in de ervaring zijn getranscodeerd. Alle videocreatieve beelden worden automatisch getranscodeerd door DSP, maar u kunt naar keuze [ transcoderen voor een verschillende DSP ](experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
 <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
@@ -51,9 +51,9 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
 1. Selecteer het labeltype:
 
-   * (Niet videoervaringen) ** *JavaScript<!-- sic -->* **&#x200B; of &#x200B;** *IFRAME* ** <!-- sic -->.
+   * (Niet videoervaringen) ** *JavaScript<!-- sic -->* ** of ** *IFRAME* ** <!-- sic -->.
 
-   * (Video ervaringen) **&#x200B; *Video* &#x200B;**.
+   * (Video ervaringen) ** *Video* **.
 
 1. Selecteer in de lijst [!UICONTROL Destinations] waar u advertenties wilt maken.
 
@@ -67,7 +67,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
 1. Kopieer of download de tags:
 
-   * Om een markering voor één enkele advertentiegrootte te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan ![ Exemplaar ](/help/creative/assets/copy.png " ").**[!UICONTROL Copy]**<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
+   * Om een markering voor één enkele advertentiegrootte (niet-videoadvertenties) of duur (videoadvertenties) te kopiëren, breid de markeringsrij uit, houd de curseur over de rij, en klik dan ![ Exemplaar ](/help/creative/assets/copy.png " ").**[!UICONTROL Copy]**<!-- why diff than "Copy to clipboard icon used to copy macros for creatives? -->
 
    * Om alle geproduceerde markeringen als dossier aan de standaarddownloadplaats van uw browser te downloaden, klik ![ de markeringen van de Download ](/help/creative/assets/download.png " Codes van de Download ").
 

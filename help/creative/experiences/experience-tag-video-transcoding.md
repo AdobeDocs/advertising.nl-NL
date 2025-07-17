@@ -3,9 +3,9 @@ title: Transcoderingsopties voor een video aanpassen en tags beleven
 description: Leer hoe u de transcoderingsopties voor een video en tag kunt aanpassen.
 feature: Creative Experiences
 exl-id: 6100213c-2e7d-4e98-a3ab-045ca10e5174
-source-git-commit: b5d3a2d88eb49d975823dc7c4fe71cfa9ea3f231
+source-git-commit: 8f5740d1a90e505a16f69d566de13aefc1edf421
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ U kunt de transcoderingsopties voor een video en ervaring aanpassen om te zorgen
 
 1. Plaats de cursor op de rij voor de toepasselijke advertentietag, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Video Settings]** .
 
-1. Selecteer het type transcodering in de lijst met **[!UICONTROL Publisher specific transcodes]** .
+1. Selecteer in de lijst van **[!UICONTROL Publisher-specific transcodes]** de DSP waarvan u de transcodering wilt toepassen.
 
 1. Klik op **[!UICONTROL Save Settings]**.
 

@@ -3,9 +3,9 @@ title: Handmatig een advertentietag maken voor een toepasselijk creatief formaat
 description: Leer hoe u een advertentietag maakt voor een bepaalde creatieve grootte.
 feature: Creative Experiences
 exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
-source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
+source-git-commit: e79becc860143b749ec96134e7b224649686c672
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '278'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 *Ervaringen zonder beslissingsboom richtend slechts*
 *Gesloten bèta*
 
-U kunt een of meer advertentietags maken per taal voor elke creatieve grootte of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
+U kunt een of meer advertentietags maken per taal voor elke creatieve grootte (niet-videocamera&#39;s) of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
 
 >[!NOTE]
 >
@@ -41,7 +41,7 @@ U kunt een of meer advertentietags maken per taal voor elke creatieve grootte of
 
    U kunt de labelrij uitbreiden om de meegeleverde creatieve elementen te zien.
 
-   Voor video&#39;s en ervaringen worden videoclips automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u er een voorvertoning van kunt weergeven. U kunt naar keuze [ uitgever-specifieke transcodering ](experience-tag-video-transcoding.md) toepassen.
+   Voor video&#39;s en ervaringen worden videoclips automatisch getranscodeerd met Adobe Advertising DSP-codering als VAST 2.0-tags, zodat u een voorvertoning ervan kunt bekijken. U kunt naar keuze [ transcoderen voor verschillende DSP ](experience-tag-video-transcoding.md) toepassen.
 
 >[!MORELIKETHIS]
 >
