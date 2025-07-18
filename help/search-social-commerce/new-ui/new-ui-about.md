@@ -2,9 +2,9 @@
 title: De nieuwe gebruikersinterface
 description: Leer meer over de nieuwe gebruikersinterface.
 feature: Search Introduction
-source-git-commit: 982b7b93a392029859be13ae59fb4b0b2fa69a59
+source-git-commit: 97c7776ab7dfacbb7ac4fdc038f25d4ced5b54e4
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '200'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,4 @@ Voor meer informatie over hoe nieuwe UI wordt georganiseerd, zie &quot;[ hoe het
 >
 >* [ hoe het gebruikersinterface wordt georganiseerd ](/help/search-social-commerce/getting-started/user-interface.md)
 >* [ Schakelaar tussen de nieuwe en erfenisgebruikersinterfaces ](/help/search-social-commerce/getting-started/ui-switch.md)
+>* Hoofdstuk over &quot;Gemeenschappelijke Taken&quot;voor informatie over het beheren van douane en standaardmeningen, het bekijken van gegevens voor een andere adverteerder, het toepassen van gegevensfilters, en andere navigatie en gegeven-verwante taken over het nieuwe en erfenisgebruikersinterface
