@@ -3,9 +3,10 @@ title: (Nieuwe interface) Een portfolio maken
 description: Leer hoe u een portfolio maakt.
 feature: Search Portfolios, Search Optimization
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: f7fe6138-8335-407a-88fd-f0ace27c93ee
+source-git-commit: 51bfb0b54af6e770df809ccd799ef47b9b4669b9
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '125'
 ht-degree: 0%
 
 ---
@@ -20,7 +21,9 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Portfolios]** .
 
-1. In de toolbar boven de gegevenslijst, voegt de klik ![ ](/help/search-social-commerce/assets/add-new.png " toe ").
+1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Portfolio]** of ![ voeg ](/help/search-social-commerce/assets/add-new.png " toe ").
+
+   De weergegeven knop is afhankelijk van de breedte van de browser.
 
 1. Geef de portfolioinstellingen op.
 
