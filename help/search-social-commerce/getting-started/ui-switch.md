@@ -3,7 +3,7 @@ title: Schakelen tussen de nieuwe en oudere gebruikersinterfaces
 description: Leer hoe te tussen de nieuwe en erfenisgebruikersinterfaces te schakelen.
 feature: Search Introduction
 exl-id: 4dbdbaa1-6b06-42a2-86da-feb0183f3c9a
-source-git-commit: 70c4b5633aaec148c68d7da0ac8fe926706eb660
+source-git-commit: 30c47defdd82e759f0e9025bf111faf0ee7dd707
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -20,13 +20,7 @@ U kunt schakelen tussen de nieuwe gebruikersinterface (UI), die de <!-- default 
 
 ## Overschakelen van de oude gebruikersinterface naar de nieuwe gebruikersinterface
 
-* Klik boven aan een pagina op **[!UICONTROL Try the new UI Beta]** .
-
-<!-- CHANGING ICON/location/wording WITH GA :
-
-* In the upper right of any page, click **[!UICONTROL Switch to New UI]**.
-
- -->
+* Klik boven aan een pagina op **[!UICONTROL Switch to New UI]** .
 
 >[!MORELIKETHIS]
 >
