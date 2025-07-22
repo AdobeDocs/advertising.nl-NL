@@ -3,9 +3,9 @@ title: Aanmelden
 description: Leer manieren om u aan te melden.
 exl-id: 9631a285-41f6-4fae-966b-e702d87b7f1c
 feature: Search Getting Started
-source-git-commit: 5f1e8009620277884664d0cb88265b317de93393
+source-git-commit: 93c72a165a38639acbe24f2db04144dbdbc9a0d5
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '360'
 ht-degree: 0%
 
 ---
@@ -22,13 +22,13 @@ Search, Social &amp; Commerce gaat over naar de Adobe Identity Management Servic
 
 Uw huidige aanmeldgegevens voor Zoeken, Sociaal en Commerce blijven actief tot 21 juli 2025 zodat u zich kunt voorbereiden op de wijziging.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
 
 ## Aanmelden via de verouderde aanmeldingspagina voor zoeken, sociale zaken en Commerce
 
 ### Gebruik een verouderde aanmelding voor Zoeken, Sociaal en Commerce voor verificatie
 
-Deze optie is beschikbaar tot 15 juli 2025.
+Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kunt voorbereiden.
 
 * Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; gebruikersbenaming en wachtwoord van Commerce.
 
@@ -40,7 +40,7 @@ Deze optie is beschikbaar tot 15 juli 2025.
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
    De nieuwe gebruikersinterface wordt standaard geopend.
 
@@ -54,7 +54,7 @@ Deze optie is beschikbaar tot 15 juli 2025.
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
 
