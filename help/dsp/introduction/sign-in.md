@@ -3,16 +3,16 @@ title: Aanmelden bij DSP
 description: Leer hoe u zich aanmeldt bij DSP.
 feature: DSP Introduction
 exl-id: 1704cd75-81f8-4715-a177-69a03093ba1d
-source-git-commit: 414bc93bc4a550f918742bd55d1078d36440063d
+source-git-commit: 62430015c5252cdd1418000d05e49a1c7869e09e
 workflow-type: tm+mt
-source-wordcount: '501'
+source-wordcount: '504'
 ht-degree: 0%
 
 ---
 
 # Aanmelden bij Adobe Advertising DSP
 
-Adobe Advertising DSP gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt SSO-toegang (Single Sign-On) tot alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. Met de wijziging:
+Adobe Advertising DSP gaat over naar de Adobe Identity Management Service (IMS) voor aanmeldingsverificatie. IMS biedt SSO-toegang (Single Sign-On) met behulp van gefedereerde id&#39;s voor alle [!DNL Adobe] -producten die IMS ondersteunen, inclusief Real-Time Customer Data Platform, Customer Journey Analytics, Target en Analytics. Met de wijziging:
 
 * U kunt een [!DNL Adobe ID] gebruiken om u aan te melden voor [!DNL Adobe] -producten vanaf de Experience Cloud-aanmeldpagina of de oudere DSP-aanmeldpagina. Uw [!DNL Adobe ID] biedt beheer van gebruikersprofielen. In een toekomstige versie kunt u het DSP-account, de IMS-organisatieaccount en het [!DNL Adobe] -product wijzigen via het bovenste menu.
 
@@ -42,15 +42,15 @@ Uw huidige DSP-gebruikersgegevens blijven gedurende een korte tijd actief zodat 
 
 1. Kies uw organisatie:
 
-   * Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.
+   * Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
 
 ### Problemen oplossen
 
-Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/nl/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
+Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
 
 #### Zijn er voorwaarden om een nieuwe [!DNL Adobe] IMS-aanmelding in te schakelen?
 
