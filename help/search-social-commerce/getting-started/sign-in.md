@@ -22,7 +22,7 @@ Search, Social &amp; Commerce gaat over naar de Adobe Identity Management Servic
 
 Uw huidige aanmeldgegevens voor Zoeken, Sociale Zaken en Commerce blijven gedurende korte tijd actief zodat u zich kunt voorbereiden op de wijziging.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
 
 ## Aanmelden via de verouderde aanmeldingspagina voor zoeken, sociale zaken en Commerce
 

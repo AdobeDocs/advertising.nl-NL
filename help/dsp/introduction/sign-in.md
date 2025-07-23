@@ -46,11 +46,11 @@ Uw huidige DSP-gebruikersgegevens blijven gedurende een korte tijd actief zodat 
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
 
 ### Problemen oplossen
 
-Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
+Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/nl/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
 
 #### Zijn er voorwaarden om een nieuwe [!DNL Adobe] IMS-aanmelding in te schakelen?
 
