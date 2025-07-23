@@ -42,7 +42,7 @@ Uw huidige DSP-gebruikersgegevens blijven gedurende een korte tijd actief zodat 
 
 1. Kies uw organisatie:
 
-   * Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.
+   * Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 

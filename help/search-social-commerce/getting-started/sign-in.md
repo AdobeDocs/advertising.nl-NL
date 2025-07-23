@@ -40,7 +40,7 @@ Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kun
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
    De nieuwe gebruikersinterface wordt standaard geopend.
 
@@ -54,7 +54,7 @@ Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kun
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-1. Indien ertoe aangezet, selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+1. Indien ertoe aangezet, selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
 1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
 
