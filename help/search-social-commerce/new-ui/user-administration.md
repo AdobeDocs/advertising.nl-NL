@@ -113,7 +113,7 @@ De nieuwe gebruikersinterface voor Zoeken, Sociale &amp; Handel heeft de volgend
 
 1. [ Teken binnen aan Adobe Admin Console en open het aan Onderzoek, Sociale, &amp; Commerce ](#open-admin-console).
 
-1. Het product en gebruikersbeheer van de delegatie door [ toevoegend productbeheerders ](https://helpx.adobe.com/enterprise/using/admin-roles.html#enterprise).
+1. Het product en gebruikersbeheer van de delegatie door [ toevoegend productbeheerders ](https://helpx.adobe.com/nl/enterprise/using/admin-roles.html#enterprise).
 
 <!-- what else? -->
 
@@ -121,9 +121,9 @@ De nieuwe gebruikersinterface voor Zoeken, Sociale &amp; Handel heeft de volgend
 
 1. [ Teken binnen aan Adobe Admin Console en open het aan Onderzoek, Sociale, &amp; Commerce ](#open-admin-console).
 
-1. Zoals nodig, creeer eind - gebruikers [ individueel ](https://helpx.adobe.com/enterprise/using/manage-users-individually.html) of [ in bulk ](https://helpx.adobe.com/enterprise/using/bulk-upload-users.html).
+1. Zoals nodig, creeer eind - gebruikers [ individueel ](https://helpx.adobe.com/nl/enterprise/using/manage-users-individually.html) of [ in bulk ](https://helpx.adobe.com/nl/enterprise/using/bulk-upload-users.html).
 
-1. (Facultatief) creeer [ gebruikersgroepen ](https://helpx.adobe.com/enterprise/using/user-groups.html) voor elke productinstantie en wijs gebruikers aan elke gebruikersgroep toe.
+1. (Facultatief) creeer [ gebruikersgroepen ](https://helpx.adobe.com/nl/enterprise/using/user-groups.html) voor elke productinstantie en wijs gebruikers aan elke gebruikersgroep toe.
 
    Als het exemplaar vele gebruikers heeft, creeer gebruikersgroepen om ervoor te zorgen dat de gebruikers de juiste profielen op hun niveau van deskundigheid worden toegewezen. (Zie Stap 4 voor het toewijzen van gebruikersgroepen aan productprofielen.) U kunt gebruikersgroepen tot stand brengen die op de branche, gebruikerstoegangsbehoeften, gebruikershuurdatum, of andere criteria worden gebaseerd.
 
@@ -131,16 +131,16 @@ De nieuwe gebruikersinterface voor Zoeken, Sociale &amp; Handel heeft de volgend
    >
    >Gebruikersgroepnamen moeten duidelijk aangeven welke rechten aan de groep gebruikers moeten worden toegewezen. Als u bijvoorbeeld een gebruikersgroep wilt maken met de rechten Alleen-lezen, neemt u &quot;Alleen-lezen&quot; op in de naam van de gebruikersgroep, zoals &quot;Acme_Uk_ReadOnly&quot; of &quot;Acme_ReadOnly&quot;.
 
-1. (Facultatief) [ creeer de profielen van het douaneproduct ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) met bepaalde toestemmingsreeksen.
+1. (Facultatief) [ creeer de profielen van het douaneproduct ](https://helpx.adobe.com/nl/enterprise/using/manage-product-profiles.html) met bepaalde toestemmingsreeksen.
 
    Aangepaste profielen zijn een aanvulling op de vier standaardproductprofielen die al beschikbaar zijn.
 
    Elk productprofiel voor een organisatie moet een unieke naam hebben. Als uw organisatie meerdere instanties Search, Social en Commerce gebruikt (bijvoorbeeld Acme_US en Acme_JP), kunt u een productprofielnaam niet in meerdere exemplaren dupliceren. **Beste praktijken:** gebruik de noemende overeenkomst &quot;&lt;Name>_&lt;Instance>,&quot; zoals &quot;Simulation_Only_JP.&quot;
 
-1. [ wijs elke gebruiker of gebruikersgroep aan het relevante productprofiel ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) manueel of in bulk toe.
+1. [ wijs elke gebruiker of gebruikersgroep aan het relevante productprofiel ](https://helpx.adobe.com/nl/enterprise/using/manage-product-profiles.html) manueel of in bulk toe.
 
 ## Volledige handleiding voor gebruikersbeheer en aanvullende koppelingen
 
-* Voor meer informatie over gebruikersbeleid dat Adobe Admin Console gebruikt, zie &quot;[ de Gids van het Beleid van de Onderneming &amp; van Teams van Adobe ](https://helpx.adobe.com/enterprise/admin-guide.html),&quot;met inbegrip van het [ overzicht van Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
+* Voor meer informatie over gebruikersbeleid dat Adobe Admin Console gebruikt, zie &quot;[ de Gids van het Beleid van de Onderneming &amp; van Teams van Adobe ](https://helpx.adobe.com/nl/enterprise/admin-guide.html),&quot;met inbegrip van het [ overzicht van Admin Console ](https://helpx.adobe.com/nl/enterprise/using/admin-console.html)
 
 * Admin Console: [ https://adminconsole.adobe.com](https://adminconsole.adobe.com)
