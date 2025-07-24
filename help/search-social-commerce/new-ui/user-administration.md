@@ -101,7 +101,7 @@ De nieuwe gebruikersinterface voor Zoeken, Sociale &amp; Handel heeft de volgend
 
    1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
-   1. Selecteer of ** [!UICONTROL Personal Account]&quot;of **[!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
+   1. Selecteer of **&#x200B; [!UICONTROL Personal Account]&quot;of &#x200B;** [!UICONTROL Company or School Account]**.<!-- Will it necessarily be "Company or School Account?" -->
 
    1. Selecteer de toepasselijke Experience Cloud-organisatie.
 
@@ -135,7 +135,7 @@ De nieuwe gebruikersinterface voor Zoeken, Sociale &amp; Handel heeft de volgend
 
    Aangepaste profielen zijn een aanvulling op de vier standaardproductprofielen die al beschikbaar zijn.
 
-   Elk productprofiel voor een organisatie moet een unieke naam hebben. Als uw organisatie meerdere instanties Search, Social en Commerce gebruikt (bijvoorbeeld Acme_US en Acme_JP), kunt u een productprofielnaam niet in meerdere exemplaren dupliceren. **Beste praktijken:** gebruik de noemende overeenkomst &quot;<Name>_<Instance>,&quot; zoals &quot;Simulation_Only_JP.&quot;
+   Elk productprofiel voor een organisatie moet een unieke naam hebben. Als uw organisatie meerdere instanties Search, Social en Commerce gebruikt (bijvoorbeeld Acme_US en Acme_JP), kunt u een productprofielnaam niet in meerdere exemplaren dupliceren. **Beste praktijken:** gebruik de noemende overeenkomst &quot;&lt;Name>_&lt;Instance>,&quot; zoals &quot;Simulation_Only_JP.&quot;
 
 1. [ wijs elke gebruiker of gebruikersgroep aan het relevante productprofiel ](https://helpx.adobe.com/enterprise/using/manage-product-profiles.html) manueel of in bulk toe.
 
