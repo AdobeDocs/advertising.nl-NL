@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: a69bef9d249514f5c494cff8d706b9df792eaf23
+source-git-commit: dbbba0bd75f3b1003325b665d06bce003c5ee054
 workflow-type: tm+mt
-source-wordcount: '1762'
+source-wordcount: '1761'
 ht-degree: 0%
 
 ---
@@ -24,9 +24,9 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 * Een view-through ingang wordt gevangen wanneer een gebruiker de plaats na het bekijken van een advertentie bezoekt maar niet het klikt. [!DNL Analytics] registreert een mening-door als twee voorwaarden worden voldaan:
 
-   * De bezoeker heeft geen klik-door voor a [!DNL DSP] of [!DNL Search, Social, & Commerce] en tijdens [ klikt raadplegingsvenster ](#lookback-a4adc).
+   * De bezoeker heeft geen klik-door voor a [!DNL DSP] of [!DNL Search, Social, & Commerce] en tijdens [ klikt raadplegingsvenster ](/help/integrations/analytics/prerequisites.md#lookback-a4adc).
 
-   * De bezoeker heeft minstens één [!DNL DSP] en tijdens het [ venster van de imkerraadpleging ](#lookback-a4adc) gezien. De laatste indruk wordt doorgegeven als de doorkijkhoek.
+   * De bezoeker heeft minstens één [!DNL DSP] en tijdens het [ venster van de imkerraadpleging ](/help/integrations/analytics/prerequisites.md#lookback-a4adc) gezien. De laatste indruk wordt doorgegeven als de doorkijkhoek.
 
 * Een doorklikitem wordt vastgelegd wanneer een sitebezoeker op een advertentie klikt voordat hij de site betreedt. [!DNL Analytics] legt een doorklikken vast wanneer een van de volgende omstandigheden zich voordoet:
 
@@ -40,11 +40,11 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 ![ Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie ](/help/integrations/assets/a4adc-click-through-process.png)
 
-*Afbeelding 2: Integratie op basis van [!DNL Analytics] klik-URL&#39;s in Adobe Advertising*
+*Figuur 2: Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie*
 
-## EF-ID&#39;s voor Adobe-advertenties
+## Adobe Advertising EF-id&#39;s
 
-De EF-ID is een uniek token dat Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentiebereik. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
+De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
 
 ### EF-id-indeling
 
@@ -72,19 +72,19 @@ waarbij:
 waarbij:
 
 * `msclkid` is de [!DNL Microsoft Click ID] (MSCLKID).
-* `s` is het netwerktype (&quot;s&quot; voor zoeken).
+* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
 
-#### Display-advertenties en zoekadvertenties in andere zoekmachines
+#### Advertenties en zoekadvertenties weergeven op andere zoekmachines
 
 ```
 <Adobe Advertising visitor ID>:<timestamp>:<channel type>
 ```
 
-waar:
+waarbij:
 
-* *Adobe Advertising bezoekers-ID*> is een unieke ID per bezoeker (zoals UhKVaAAABCkJ0mDt). Ook wel de *surfer-ID* genoemd.
+* &lt;*identiteitskaart van de bezoeker van Adobe Advertising*> is een unieke identiteitskaart per bezoeker (zoals UWKVaAABCkJ0mDt). Ook geroepen *surfer identiteitskaart*.
 
-* *tijdstempel*> is de tijd in de notatie JJJJMMDDHHMMSS (zoals 20190821192533 voor Jaar 2019, Maand 08, Dag 21, Tijd 19:25:33).
+* &lt;*timestamp*> is de tijd in formaat YYYMMDDHHMMSS (zoals 20190821192533 voor Jaar 2019, Maand 08, Dag 21, Tijd 19 :25: 33).
 
 * &lt;*kanaaltype*> is het kanaaltype verantwoordelijk voor de klik of de blootstelling:
 
@@ -102,15 +102,15 @@ Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken i
 
 ## Adobe Advertising AMO-id&#39;s {#amo-id}
 
-De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. De AMO-ID wordt opgeslagen in een [!DNL Analytics] [eVar](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) - of rVar-dimensie (AMO-ID) en wordt uitsluitend gebruikt voor rapportage in [!DNL Analytics].
+De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. Identiteitskaart van AMO wordt opgeslagen in [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO) en wordt uitsluitend gebruikt voor het melden in [!DNL Analytics].
 
-De AMO-ID wordt ook wel de `s_kwcid`genoemd, die soms wordt uitgesproken als &quot;[!DNL squid].&quot;
+De AMO-id wordt ook wel de `s_kwcid` genoemd, die soms wordt uitgesproken als &quot;[!DNL squid]&quot;.
 
-### Manieren om de AMO-ID te implementeren {#amo-id-implement}
+### Manieren om de AMO-id te implementeren {#amo-id-implement}
 
-De parameter wordt op een van de volgende manieren toegevoegd aan uw tracking-URL&#39;s:
+De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
 
-* (Aanbevolen) Wanneer de functie voor het invoegen aan de serverzijde is geïmplementeerd.
+* (Aanbevolen) Wanneer de invoegfunctie op de server is geïmplementeerd.
 
    * DSP-klanten: de pixelserver voegt automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker een weergaveadvertentie met de Adobe Advertising-pixel weergeeft.
 
@@ -160,15 +160,15 @@ De parameters variëren per advertentienetwerk, maar de volgende parameters zijn
 
 * `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
 
-* `{sid}`wordt vervangen door de numerieke ID voor het advertentienetwerkaccount van de adverteerder: 3 voor , 10 *voor [!DNL Microsoft Advertising],* 45 *voor [!DNL Meta],* 86 *voor [!DNL Yahoo! Display Network],* 87 *voor [!DNL Naver],* 88 *voor [!DNL Baidu],* 90 *voor [!DNL Yandex],* 94 *voor [!DNL Yahoo! Japan Ads],* 105 *voor [!DNL Yahoo Native] (beëindigd) of* 106 *voor [!DNL Pinterest] (beëindigd).*[!DNL Google Ads]**
+* `{sid}` wordt vervangen door numerieke identiteitskaart voor de advertentienetwerkrekening van adverteerders: *3* voor [!DNL Google Ads], *10* voor [!DNL Microsoft Advertising], *45* voor [!DNL Meta], *86* voor [!DNL Yahoo! Display Network], *87* voor [!DNL Naver], *88* voor [!DNL Baidu], *90* voor [!DNL Yandex], *94* voor [!DNL Yahoo! Japan Ads], *105* voor [!DNL Yahoo Native] (afgekeurd), of *106 29} for* (afgekeurd).[!DNL Pinterest]
 
 ##### [!DNL Baidu]
 
 `s_kwcid=AL!{userid}!88!{creative}!{placement}!{keywordid}`
 
-waar:
+waarbij:
 
-* `{creative}` is de unieke numerieke ID van het advertentienetwerk voor het advertentiemateriaal.
+* `{creative}` is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
 * `{placement}` is de website waarop op de advertentie is geklikt.
 * `{keywordid}` is de unieke numerieke id van het advertentienetwerk voor het trefwoord dat de advertentie heeft geactiveerd.
 
@@ -193,14 +193,14 @@ waarbij:
 * `{placement}` is de domeinnaam van de website waarop op de advertentie is geklikt. Er is een waarde beschikbaar voor advertenties in op plaatsing gerichte campagnes en voor advertenties in op trefwoorden gerichte campagnes die op inhoudssites worden weergegeven.
 * `{network}` geeft het netwerk aan vanwaar de klik plaatsvond: `g` voor [!DNL Google] zoeken (alleen voor advertenties met trefwoordtags), `s` voor een zoekpartner (alleen voor advertenties met trefwoordtags) of `d` voor het weergavenetwerk (voor advertenties met trefwoordtags of voor advertenties met plaatsingsdoelen).
 * `{product_partition_id}` is de unieke numerieke id van het advertentienetwerk voor de productgroep die wordt gebruikt met productadvertenties.
-* `{keyword}` is het specifieke zoekwoord dat uw advertentie heeft geactiveerd (op zoeksites) of het best overeenkomende zoekwoord (op inhoudssites).
+* `{keyword}` is ofwel het specifieke trefwoord dat de advertentie heeft geactiveerd (op zoeksites), ofwel het best overeenkomende trefwoord (op inhoudssites).
 * `{campaignid}` is de unieke numerieke id van het advertentienetwerk voor de campagne.
 * `{adgroupid}` is de unieke numerieke id van het advertentienetwerk voor de advertentiegroep.
 
 >[!NOTE]
 >
->* Voor dynamische zoekadvertenties {keyword} wordt dit ingevuld met het automatische doel.
->* Wanneer u tracking voor [!DNL Google] Shopping-advertenties genereert, wordt de parameter product-ID , `{adwords_producttargetid}`, ingevoegd vóór de zoekwoordparameter. De product-ID-parameter wordt niet weergegeven in de [!DNL Google Ads] trackingparameters op account- en campagneniveau.
+>* Voor dynamische zoekopdrachten wordt in {keyword} het automatische doel ingevuld.
+>* Wanneer u reeksspatiëring genereert voor [!DNL Google] winkeladvertenties, wordt een product-id-parameter `{adwords_producttargetid}` ingevoegd vóór de trefwoordparameter. De parameter voor de product-id wordt niet weergegeven in de trackingparameters op accountniveau en op campagneniveau van [!DNL Google Ads] .
 >* Om de recentste het volgen van identiteitskaart van AMO code te gebruiken, zie &quot;[ Update de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot; <!-- Update terminology there too. -->
 
 <!--
@@ -235,22 +235,22 @@ waarbij:
 >[!NOTE]
 >
 > Voor accounts met campagnes zonder de optie [!UICONTROL Auto Upload] bijhouden die nog niet naar de nieuwe indeling waren gemigreerd, werkt u handmatig elk achtervoegsel van de bestemmingspagina bij en voegt u de bovenstaande indeling in.
->Ondertussen werken de oudere indelingen nog steeds als volgt:
+> >Ondertussen werken de oudere indelingen nog steeds als volgt:
 >* Zoekcampagnes:
->  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
->  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
->* Campagnes in het Audience Network:
->  `s_kwcid=AL!{userid}!10!{AdId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
+>* Campagnes van het netwerk van het publiek:
+>  >  `s_kwcid=AL!{userid}!10!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
 `s_kwcid=AL!{userid}!94!{creative}!{matchtype}!{network}!{keyword}`
 
-waar:
+waarbij:
 
-* `{creative}` is de unieke numerieke ID van het advertentienetwerk voor het advertentiemateriaal.
-* `{matchtype}` is het zoektype van het zoekwoord dat de advertentie heeft geactiveerd: `be` voor exact, `bp` voor woordgroep of `bb` voor breed.
+* `{creative}` is de unieke numerieke id van het advertentienetwerk voor creatieve gebruikers.
+* `{matchtype}` is het hoofdtype van het trefwoord dat de advertentie heeft geactiveerd: `be` for exact, `bp` for express of `bb` for wide.
 * `{network}` geeft het netwerk aan vanwaar de klik plaatsvond: `n` voor native of `s` voor zoekopdracht.
 * `{keyword}` is het trefwoord dat de advertentie heeft geactiveerd.
 
@@ -272,7 +272,7 @@ Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
+In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
 
 >[!MORELIKETHIS]
 >
