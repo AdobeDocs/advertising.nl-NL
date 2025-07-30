@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 1478e61ebd7dac59cac7566b86e5b1ea97838508
+source-git-commit: 902eae60008934b910b536d764f3bf424a802c4b
 workflow-type: tm+mt
-source-wordcount: '4477'
+source-wordcount: '4560'
 ht-degree: 0%
 
 ---
@@ -68,6 +68,16 @@ De datums voor het pakket (indien van toepassing) of de campagne worden standaar
    * *[!UICONTROL Minimum Budget]*: De minimale begroting als een percentage van de pakketbegroting. Wanneer een intervalmaximum wordt gespecificeerd, wordt de minimumbegrotingswaarde altijd berekend als percentage van het intervalmaximum. Anders wordt het berekend als een percentage van de pakketbegroting.
 
 **[!UICONTROL Max Bid]:** Het maximum dat voor 1000 beelden moet worden betaald.
+
+**[!UICONTROL Min Bid]:** (Alleen voor persoonlijke en [!DNL On-Demand] deals) Het minimale bod op basis van het voorraadtype. Selecteer een optie:
+
+* *[!UICONTROL None]*: Geen minimumbod voor een voorraadtype. Als het berekende bod lager is dan de vaste prijs/minimumprijs van de beoogde deals, biedt DSP geen bod. Dit kan de schaal beïnvloeden.
+
+* *[!UICONTROL Fixed/floor price for Private deals only]*: DSP biedt ten minste de vaste prijs/ondergrens voor de beoogde privédeals, zelfs als het algoritmisch berekende bod lager is. Dit kan de prestaties beïnvloeden.
+
+* *[!UICONTROL Fixed/floor price for On-demand deals only]*: DSP biedt ten minste een bod op de vaste prijs/ondergrens voor de beoogde [!DNL On-Demand] -deals, zelfs als het algoritmisch berekende bod lager is. Dit kan de prestaties beïnvloeden.
+
+* *[!UICONTROL Fixed/floor price for both Private and On-demand deals]*: DSP biedt ten minste een bod op de vaste prijs/ondergrens voor de beoogde persoonlijke en [!DNL On-Demand] -deals, zelfs als het algoritmisch berekende bod lager is. Dit kan de prestaties beïnvloeden.
 
 **[!UICONTROL Placement Pre-bid Filters]:** tot vijf KPI drempels (zoals een minimum viewability metrisch of klikthrough tarief) die moeten worden ontmoet om voor te komen bod. U kunt voorbiedingsfilters gebruiken als optimalisatietactiek, maar u weet dat elke regel de mogelijkheden waarop deze plaatsing kan bieden, kan beperken. Filters toevoegen of bewerken:
 
@@ -181,13 +191,9 @@ Neem één postcode per regel op of voer meerdere waarden in, gescheiden door ko
 
   Vanuit het tabblad [!UICONTROL Deals] kunt u de lijst doorzoeken op trefwoord, sleutel, deal-id of aangepaste tag. Van het [!UICONTROL Deal Lists] lusje, kunt u de lijst door naam van de overeenkomstenlijst of identiteitskaart van de overeenkomstenlijst zoeken.
 
-   * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optioneel) Hiermee wordt het algoritme voor de biedprijs genegeerd om ten minste de vaste en laagste prijzen voor transacties te bieden.
-
 * [!UICONTROL On Demand] | [!UICONTROL Roku On Demand]: Alle [ premie, niet-gegarandeerde [!UICONTROL On Demand] inventaris ](/help/dsp/inventory/on-demand-inventory-about.md) (of [!UICONTROL On Demand] [!DNL Roku] overeenkomsten voor [!DNL Roku] plaatsen) waarop u in [!DNL DSP] hebt ingetekend. U kunt [!UICONTROL On Demand] voorraad opnemen en uitsluiten.
 
   U kunt de lijst bekijken door bron of door voer. Wanneer u de lijst op feed weergeeft, kunt u zoeken op naam van feed, feed-sleutel of een geselecteerd uitgeversgebied, een categorietag of een kenmerkende tag.
-
-   * *[!UICONTROL Ensure Fixed or Floor Price for the bid]*: (Optioneel) Hiermee wordt het algoritme voor de biedprijs genegeerd om ten minste de vaste en laagste prijzen voor transacties te bieden.
 
 Opgeven welke inventarisdoelen worden gebruikt:
 
