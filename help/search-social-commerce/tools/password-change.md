@@ -3,18 +3,20 @@ title: Uw wachtwoord wijzigen
 description: Leer hoe u het wachtwoord voor uw account kunt wijzigen.
 exl-id: 62a4710d-aff7-4635-9fce-6d14f890728f
 feature: Search Tools
-source-git-commit: ec856bfde690019b9d18aa6fe8f4ab0237314b4b
+source-git-commit: d6405e1f594e26fb6e6790ad567676ffdaa900b4
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '136'
 ht-degree: 0%
 
 ---
 
 # Uw wachtwoord wijzigen
 
+<!-- Replace this with just a link to the DX page once we remove the legacy option? -->
+
 >[!NOTE]
 >
->Deze functie is alleen van toepassing op uw verouderde account voor Zoeken, Sociaal zoeken en Commerce. De meeste gebruikers gebruiken nu een [!DNL Adobe] id.<!-- Replace this with a new topic with the new info. pointing to ?where? [Not the correct place!!! https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud#manage-your-user-profile] -->
+>Deze functie is alleen van toepassing op uw oude aanmeldingsgegevens voor Zoeken, Sociaal zoeken en Commerce. De meeste gebruikers gebruiken nu een [!DNL Adobe] id voor verificatie. Om het wachtwoord voor uw [!DNL Adobe] identiteitskaart te veranderen, zie &quot;[ Terugstellen of uw wachtwoord van Adobe veranderen ](https://helpx.adobe.com/manage-account/using/change-or-reset-password.html).&quot;
 
 Als u uw wachtwoord wijzigt, meldt u zich af van de huidige sessie. Als u wilt doorgaan met werken, moet u zich aanmelden met het nieuwe wachtwoord.
 
