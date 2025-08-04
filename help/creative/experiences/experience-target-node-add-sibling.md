@@ -3,9 +3,9 @@ title: Voeg een sibling doelknoop tussen knopen in een ervaring toe
 description: Leer hoe te om een sibling knoop aan om het even welke knoop toe te voegen die een doel heeft of op het zelfde niveau zoals een knoop met een doel is.
 feature: Creative Experiences
 exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
-source-git-commit: 780c84aa8dadb52b55d5ca2bee6974b56972793b
+source-git-commit: f71747a4973ec3f3e2c3a8a5913d27311849883c
 workflow-type: tm+mt
-source-wordcount: '644'
+source-wordcount: '757'
 ht-degree: 0%
 
 ---
@@ -32,11 +32,31 @@ In an existing experience,
 
    * Ga als volgt te werk voor doelgroepen:
 
-      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen en geef een of meer doelgroepen voor de adverteerder op.
+      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen en voer de volgende handelingen uit:
 
-      1. Selecteer in de rechterkolom of *[!UICONTROL Include any]* (de standaardwaarde) of *[!UICONTROL Include all]* van de opgegeven doelen voor het knooppunt moet worden gebruikt.
+         * Als u het eerste segment wilt toevoegen, zoekt u het segment in het linkerdeelvenster en schakelt u het selectievakje naast de segmentnaam in.
 
-     Met deze optie wordt bepaald of de gebruiker tot ten minste een van de opgegeven soorten publiek (een [!DNL Boolean] `OR` -instructie) of tot alle opgegeven soorten publiek (een [!DNL Boolean] `AND` -instructie) moet behoren om in aanmerking te komen voor een indruk.
+         * Een segment toevoegen aan een bestaande segmentgroep:
+
+            1. Klik op de segmentgroep in het rechterdeelvenster.
+
+            1. (Optioneel) Wijzig desgewenst de groeplogica in *[!UICONTROL Include Any]* , *[!UICONTROL Include All]* of *[!UICONTROL Exclude All]* .
+
+               *[!UICONTROL Exclude All]* is niet beschikbaar voor de eerste segmentgroep. Voor een publiek dat alleen uitsluitingen bevat, maakt u dit publiek op als *[!UICONTROL Include Any]* en sluit u dat publiek uit wanneer u het toevoegt aan een plaatsing in uw DSP.
+
+            1. Zoek het nieuwe segment in het linkerdeelvenster en selecteer het selectievakje naast de segmentnaam.
+
+               De segmentgroep wordt automatisch bijgewerkt met het nieuwe segment.
+
+         * Een nieuwe segmentgroep toevoegen:
+
+         1. Klik op **[!UICONTROL + New Group]** in het rechterdeelvenster.
+
+         1. (Optioneel) Wijzig desgewenst de logica tussen de vorige groep en de nieuwe groep in *[!UICONTROL And]* of *[!UICONTROL Or]* .
+
+         1. Zoek de segmenten voor de nieuwe groep in het linkerdeelvenster en selecteer de selectievakjes naast de segmentnamen.
+
+         1. (Optioneel) Wijzig desgewenst de groeplogica in *[!UICONTROL Include Any]* , *[!UICONTROL Include All]* of *[!UICONTROL Exclude All]* .
 
       1. Klik op **[!UICONTROL Create]**.
 
