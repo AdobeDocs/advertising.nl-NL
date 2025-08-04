@@ -3,9 +3,9 @@ title: Voeg een doelknooppunt toe aan het uiteindelijke niveau in een ervaring
 description: Leer hoe u een doelnode toevoegt aan het uiteindelijke doelniveau van een advertentie.
 feature: Creative Experiences
 exl-id: 3ff657d5-bad1-47f4-a3ec-9ea678fd3c9d
-source-git-commit: 7e345130f43fc2d8c2ada287a2dc61b1515e2d25
+source-git-commit: 780c84aa8dadb52b55d5ca2bee6974b56972793b
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '718'
 ht-degree: 0%
 
 ---
@@ -27,13 +27,15 @@ Wanneer u een doelknoop aan het bodem-meest niveau in de ervaring toevoegt — o
 
 1. Geef de doelen op:
 
-   * Selecteer **[!UICONTROL Adobe Audience]** voor Adobe Audience-doelen en voer de volgende handelingen uit:
+   * Selecteer **[!UICONTROL Audience]** voor doelgroepen en voer de volgende handelingen uit:
 
-      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen, open het tabblad **[!UICONTROL Adobe Segments]** , geef een of meer van de [!DNL Adobe] publieksdoelen van de adverteerder op en klik op **[!UICONTROL Create]** .
+      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen en geef een of meer doelgroepen voor de adverteerder op.
 
-      1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere soorten publiek zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
+      1. Selecteer in de rechterkolom of *[!UICONTROL Include any]* (de standaardwaarde) of *[!UICONTROL Include all]* van de opgegeven doelen voor het knooppunt moet worden gebruikt.
 
-         Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen (een [!DNL Boolean] `AND` -instructie).
+     Met deze optie wordt bepaald of de gebruiker tot ten minste een van de opgegeven soorten publiek (een [!DNL Boolean] `OR` -instructie) of tot alle opgegeven soorten publiek (een [!DNL Boolean] `AND` -instructie) moet behoren om in aanmerking te komen voor een indruk.
+
+      1. Klik op **[!UICONTROL Create]**.
 
       1. Klik op **[!UICONTROL Apply]**.
 

@@ -3,9 +3,9 @@ title: Ervaringen in Advertising Creative
 description: Leer hoe u persoonlijke advertentie-ervaringen configureert en de ad-elementen optimaliseert op basis van prestaties.
 feature: Creative Experiences
 exl-id: 91d4b4e5-c646-4485-8149-89f41dc9c3e6
-source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
+source-git-commit: 780c84aa8dadb52b55d5ca2bee6974b56972793b
 workflow-type: tm+mt
-source-wordcount: '1103'
+source-wordcount: '1119'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Elke advertentie kan één advertentietype bevatten (standaardweergave, standaar
 
   De volgende doelopties zijn beschikbaar:
 
-   * Uw eerste doelsegmenten uit Adobe Audience Manager, Adobe Analytics en Advertising DSP; uw aangepaste segmenten uit Advertising DSP en segmenten van derden die door Advertising DSP worden geleverd
+   * Uw publiekssegmenten van Adobe Audience Manager, Adobe Analytics en Advertising DSP; alle andere eerderangssegmenten die voor de account zijn geïmporteerd; uw aangepaste segmenten van Advertising DSP; segmenten van derden die door Advertising DSP worden geleverd; en alle bestaande Advertising DSP-soorten die in Audience Library zijn ingebouwd
 
    * Specifieke geografische locaties, waaronder landen, staten, DMA&#39;s in de Verenigde Staten, steden en postcodes
 

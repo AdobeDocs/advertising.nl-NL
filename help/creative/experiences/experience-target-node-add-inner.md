@@ -3,9 +3,9 @@ title: Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 description: Leer hoe u een doelknooppunt tussen doelknooppunten in een advertentie kunt toevoegen.
 feature: Creative Experiences
 exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
-source-git-commit: 81cbb3cdac21f4b4899b0c07d1eb0686b7b3c7d4
+source-git-commit: 780c84aa8dadb52b55d5ca2bee6974b56972793b
 workflow-type: tm+mt
-source-wordcount: '849'
+source-wordcount: '847'
 ht-degree: 0%
 
 ---
@@ -33,7 +33,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
       1. Selecteer het doeltype en klik op **[!UICONTROL Apply]** :
 
-         * Selecteer **[!UICONTROL Adobe Audience]** voor Adobe-doelgroepen.
+         * Selecteer **[!UICONTROL Audience]** voor doelgroepen.
 
          * Voor geografische doelen selecteert u één geografische categorie (zoals [!UICONTROL Geo: Country]).
 
@@ -45,13 +45,15 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
    * Als knooppunten op hetzelfde niveau al bestaan, gaat u als volgt te werk:
 
-      * Ga als volgt te werk voor Adobe Audience-doelen:
+      * Ga als volgt te werk voor doelgroepen:
 
-         1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen, open het tabblad **[!UICONTROL Adobe Segments]** , geef een of meer van de [!DNL Adobe] publieksdoelen van de adverteerder op en klik op **[!UICONTROL Create]**<!-- Why not "Save" like for the other node types/use cases? -->.
+         1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen en geef een of meer doelgroepen voor de adverteerder op.
 
-         1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere soorten publiek zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
+         1. Selecteer in de rechterkolom of *[!UICONTROL Include any]* (de standaardwaarde) of *[!UICONTROL Include all]* van de opgegeven doelen voor het knooppunt moet worden gebruikt.
 
-            Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen (een [!DNL Boolean] `AND` -instructie).
+        Met deze optie wordt bepaald of de gebruiker tot ten minste een van de opgegeven soorten publiek (een [!DNL Boolean] `OR` -instructie) of tot alle opgegeven soorten publiek (een [!DNL Boolean] `AND` -instructie) moet behoren om in aanmerking te komen voor een indruk.
+
+         1. Klik op **[!UICONTROL Create]**.
 
          1. Klik op **[!UICONTROL Apply]**.
 

@@ -3,9 +3,9 @@ title: Voeg een sibling doelknoop tussen knopen in een ervaring toe
 description: Leer hoe te om een sibling knoop aan om het even welke knoop toe te voegen die een doel heeft of op het zelfde niveau zoals een knoop met een doel is.
 feature: Creative Experiences
 exl-id: 915fd399-1c55-49af-94ed-cf49a4154a53
-source-git-commit: 8961833c854ed41e4cca69787a5dc70dce2f203c
+source-git-commit: 780c84aa8dadb52b55d5ca2bee6974b56972793b
 workflow-type: tm+mt
-source-wordcount: '645'
+source-wordcount: '644'
 ht-degree: 0%
 
 ---
@@ -30,13 +30,15 @@ In an existing experience,
 
 1. Geef de doelen op:
 
-   * Ga als volgt te werk voor Adobe Audience-doelen:
+   * Ga als volgt te werk voor doelgroepen:
 
-      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen, open het tabblad **[!UICONTROL Adobe Segments]** , geef een of meer van de [!DNL Adobe] publieksdoelen van de adverteerder op en klik op **[!UICONTROL Save]** .
+      1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Audience Targeting] -opties te openen en geef een of meer doelgroepen voor de adverteerder op.
 
-      1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere soorten publiek zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
+      1. Selecteer in de rechterkolom of *[!UICONTROL Include any]* (de standaardwaarde) of *[!UICONTROL Include all]* van de opgegeven doelen voor het knooppunt moet worden gebruikt.
 
-         Met deze functie maakt u een afzonderlijk doelknooppunt (met afzonderlijke creatieve bundels) voor elk opgegeven publiek. Als u de doelen niet splitst, moet de gebruiker bij alle opgegeven doelgroepen horen (een [!DNL Boolean] `AND` -instructie).
+     Met deze optie wordt bepaald of de gebruiker tot ten minste een van de opgegeven soorten publiek (een [!DNL Boolean] `OR` -instructie) of tot alle opgegeven soorten publiek (een [!DNL Boolean] `AND` -instructie) moet behoren om in aanmerking te komen voor een indruk.
+
+      1. Klik op **[!UICONTROL Create]**.
 
       1. Klik op **[!UICONTROL Apply]**.
 
