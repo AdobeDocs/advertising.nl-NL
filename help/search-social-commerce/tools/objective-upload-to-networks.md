@@ -3,9 +3,9 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe te om doelstellingen voor uw hybride portefeuilles aan  [!DNL Google Ads]  en  [!DNL Microsoft Advertising] te uploaden.
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: cfdf9325f6a0696e7ab74379daaf77b20c184d9d
 workflow-type: tm+mt
-source-wordcount: '678'
+source-wordcount: '689'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Elke geüploade conversie heeft de volgende naam:
 
 waarbij `<network_ID>` de numerieke id is die door Search, Social en Commerce wordt gebruikt voor het advertentienetwerk, is `<objective_id>` de numerieke objectieve id en is `<network_account_ID>` de numerieke id voor de account of het beheerdersaccount van het advertentienetwerk.
 
-Uploads naar [!DNL Google Ads] vinden dagelijks plaats om 6:00 uur in de tijdzone van de adverteerder. Uploads naar [!DNL Microsoft Advertising] vinden dagelijks plaats om 9:00 uur in de tijdzone van de adverteerder.
+Voor de meeste adverteerders vindt het uploaden naar [!DNL Google Ads] eenmaal per uur plaats. Voor adverteerders met grote accounts of aangepaste configuraties vindt het uploaden minstens driemaal per dag plaats. Uploads naar [!DNL Microsoft Advertising] komen dagelijks om 09 :00 in de de tijdzone van de adverteerder voor.
 
 >[!IMPORTANT]
 >
