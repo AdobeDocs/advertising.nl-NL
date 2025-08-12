@@ -14,13 +14,13 @@ ht-degree: 0%
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-U kunt succesgegevens gebruiken om DSP-pakketten en zoek-, sociale en Commerce-campagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt de metriek van de gebeurtenis van het douanesucces vormen die op uw bestaande [[!DNL Analytics] [!DNL eVars] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) en [[!DNL props] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html) wordt gebaseerd door [!DNL eVar] - en [!DNL prop] - vlakke gegevens in een gebeurtenis te financieren. Andere [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Commerce.
+U kunt succesgegevens gebruiken om DSP-pakketten en zoek-, sociale en Commerce-campagnes te optimaliseren op basis van Adobe Analytics-sitegegevens die het beste passen bij de doelstellingen van uw merk. U kunt de metriek van de gebeurtenis van het douanesucces vormen die op uw bestaande [[!DNL Analytics] [!DNL eVars] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) en [[!DNL props] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=nl-NL) wordt gebaseerd door [!DNL eVar] - en [!DNL prop] - vlakke gegevens in een gebeurtenis te financieren. Andere [!DNL Analytics] metriek, met inbegrip van standaard, douane, en gereserveerde omzettingsmetriek en verkeersmetriek, zijn automatisch beschikbaar in DSP en Onderzoek, Sociale, &amp; Commerce.
 
 {het voorbeeld van het 0} Gebruik ![ Voorbeeld van het Gebruik ](/help/integrations/assets/a4adc-conversion-evar-example.jpg "")
 
 De meeste van de volgende taken moeten door een [!DNL Analytics] beheerder of andere gebruiker worden uitgevoerd. Neem contact op met uw Adobe-accountteam als u hulp nodig hebt.
 
-1. In [!DNL Analytics], [ creeer een placeholder succesgebeurtenis ](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-event).
+1. In [!DNL Analytics], [ creeer een placeholder succesgebeurtenis ](https://experienceleague.adobe.com/nl/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/conversion-variables/success-event).
 
    Gebruik de volgende aanvullende parameters:
 
@@ -42,7 +42,7 @@ De meeste van de volgende taken moeten door een [!DNL Analytics] beheerder of an
    >
    >Alleen [!DNL Analytics] -accountbeheerders kunnen verwerkingsregels maken, tenzij ze toestemming hebben verleend aan niet-beheerders.
 
-   1. [ creeer een verwerkingsregel ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules.html?lang=en), gebruikend de volgende configuratie:
+   1. [ creeer een verwerkingsregel ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/c-processing-rules-configuration/t-processing-rules.html?lang=nl-NL), gebruikend de volgende configuratie:
 
       * Geef de vereiste [!DNL eVars] of [!DNL props] op voor de voorwaarde waaraan moet worden voldaan.
 
@@ -54,7 +54,7 @@ De meeste van de volgende taken moeten door een [!DNL Analytics] beheerder of an
 
       * Voor de actie, selecteer **Vastgestelde Gebeurtenis** en selecteer de placeholder gebeurtenis.
 
-   1. In [!DNL Analytics] [!DNL Analysis Workspace], [ creeer een project ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html) en trek de nieuwe gebeurtenis in een vrije vormlijst om ervoor te zorgen dat het gegeven voor [!DNL eVar] of [!DNL prop] metrisch bevolkt is.
+   1. In [!DNL Analytics] [!DNL Analysis Workspace], [ creeer een project ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=nl-NL) en trek de nieuwe gebeurtenis in een vrije vormlijst om ervoor te zorgen dat het gegeven voor [!DNL eVar] of [!DNL prop] metrisch bevolkt is.
 
 1. Neem contact op met uw Adobe-accountteam om de nieuwe metrische gegevens te synchroniseren naar Adobe Advertising.
 
