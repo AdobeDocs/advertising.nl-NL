@@ -3,9 +3,9 @@ title: Informatie over inzichten
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: 99b9c110de5efbf646e35979eee6baac1d34f6ed
+source-git-commit: a098e99f26a4e7d472d4a391d2cd465fc8d4255b
 workflow-type: tm+mt
-source-wordcount: '911'
+source-wordcount: '925'
 ht-degree: 0%
 
 ---
@@ -107,6 +107,8 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 * Selecteer de dimensie in het keuzemenu linksboven in de insight.
 
 ## De Metriek wijzigen die wordt gerapporteerd voor een Insight
+
+Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel door Adobe Advertising worden bijgehouden als door Adobe Analytics worden bijgehouden.
 
 1. Aan het hogere recht van insight, klik ![ Metrische montages ](/help/dsp/assets/metric-settings.png " Metrische montages ").
 
