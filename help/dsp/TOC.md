@@ -83,7 +83,7 @@ ht-degree: 3%
       + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [ Advertenties aan Plaatsingen ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) vastmaken <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [ Advertenties aan Plaatsingen  vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
