@@ -1,22 +1,20 @@
 ---
-title: Informatie over prestatieinzicht
+title: Informatie over inzichten
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: ca531db43b9e07dc767da3d0e866bfc85add7ee9
+source-git-commit: 99b9c110de5efbf646e35979eee6baac1d34f6ed
 workflow-type: tm+mt
-source-wordcount: '622'
+source-wordcount: '911'
 ht-degree: 0%
 
 ---
 
-# Informatie over prestatieinzicht
+# Informatie over inzichten
 
 *eigenschap van Beta*
 
-<!-- Edit title and metadata as necessary -->
-
-Geavanceerde prestatieonderzoeken met visualisaties geven u de informatie die u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe mogelijkheden voor schaalbare prestaties te ontdekken. U kunt gegevens in verschillende campagnes bekijken of naar een lager niveau gaan.
+Geavanceerde prestatieonderzoeken met visualisaties geven u de informatie die u nodig hebt om uw campagnes efficiënt te optimaliseren en nieuwe mogelijkheden voor schaalbare prestaties te ontdekken. U kunt gegevens in verschillende campagnes voor een bepaalde adverteerder bekijken of naar een lager niveau gaan.
 
 Prestatieinzichten gebruiken voor:
 
@@ -34,27 +32,57 @@ U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening op
 
 ### [!UICONTROL Home] Tab
 
-Het lusje [!UICONTROL Home] verstrekt zeer belangrijke norm, prestaties, en viewability metriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of gegevens voor slechts specifieke campagnes <!-- active only? -->, pakketten <!-- active only? -->, douanedoelstellingen, en plaatsingen <!-- active only? --> te tonen. De inzichten omvatten:
+Het tabblad [!UICONTROL Home] bevat belangrijke standaard-, prestatie- en weergavemetriek voor alle campagnes van een adverteerder. Standaard worden kruisplaatsingsgegevens voor een specifieke adverteerder en een aangepast doel weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder, een verschillend douanedoel, of een specifieke plaatsing te tonen. <!-- I don't see campaigns or packages anymore:  You can optionally configure filters to show data for a different advertiser or data for only specific campaigns, packages, custom goals, and placements. --> De inzichten omvatten:
 
-* Een trenddiagram voor drie door de klant opgegeven metriek (standaard, [!UICONTROL Net Spend], [!UICONTROL Impressions] en [!UICONTROL Net CPM] ).
+* **[!UICONTROL Trends]:** Een trenddiagram voor drie door de klant opgegeven metriek (standaard, [!UICONTROL Net Spend], [!UICONTROL Impressions] en [!UICONTROL Net CPM]).
 
-* Een uitsplitsing van de gegevens voor specifieke metriek door drie klant-gespecificeerde afmetingen, zoals door campagne, uitgever, en media type. Voor elke dimensionale verdeling kunt u een andere metrische waarde kiezen.
+* **[!UICONTROL Delivery Breakdown]:** Een verdeling van de gegevens voor specifieke metriek door drie klant-gespecificeerde afmetingen, zoals door campagne, uitgever, en media type. Voor elke dimensionale verdeling kunt u een andere metrische waarde kiezen.
 
 ### [!UICONTROL Household Reach] Tab
 
-Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of gegevens voor slechts specifieke campagnes <!-- active only? --> te tonen. De inzichten omvatten:
+Het tabblad [!UICONTROL Household Reach] bevat cijfers over het bereik van huishoudens in alle campagnes van een adverteerder. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder, voor een specifieke campagne, over pakketten of plaatsen, of voor een specifiek pakket of een plaatsing te tonen. De inzichten omvatten:
 
-* Een trendgrafiek door dag of door week voor drie klant-gespecificeerde metriek (door gebrek, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], en [!UICONTROL Net CPM]).
+* **[!UICONTROL Trends]:** Een trenddiagram door dag of door week voor drie klant-gespecificeerde metriek (door gebrek, [!UICONTROL Net Spend], [!UICONTROL Unique Reach], en [!UICONTROL Net CPM]).
 
-* Een donutgrafiek die het bereik van het incrementele huishouden weergeeft met [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . *Het incrementele huisbereik* wordt bepaald als huishouden dat uitsluitend door één enkele media, apparaat, of inventaristype wordt bereikt.
+* **[!UICONTROL Incremental Household Reach]:** Een donutdiagram dat het incrementele bereik van het huishouden weergeeft door [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] . *Het incrementele huisbereik* wordt bepaald als huishouden dat uitsluitend door één enkele media, apparaat, of inventaristype wordt bereikt.
 
-* Het incrementele unieke bereik van het huishouden tegenover het overlappende bereik van het huishouden door [!UICONTROL Media Type], [!UICONTROL Device Type] of [!UICONTROL Inventory Type] .
+* **[!UICONTROL Reach Breakdown]:** Het incrementele unieke huishoudelijke bereik versus het overlappende huishoudelijke bereik van [!UICONTROL Media Type] , [!UICONTROL Device Type] of [!UICONTROL Inventory Type] .
 
   *Het incrementele huisbereik* wordt bepaald als huishouden dat uitsluitend door één enkele media, apparaat, of inventaristype wordt bereikt. *overlappend huisbereik* wordt bepaald als huishouden dat door veelvoudige media, apparaat, of inventaristypes wordt bereikt.
 
-* De best presterende campagnes, plaatsingen, pakketten, uitgevers, sites/apps, mediatypen, voorraadtypen of apparaattypen per [!UICONTROL Unique Reach], [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach].
+* **[!UICONTROL Top Performers]:** De best presterende campagnes, plaatsen, pakketten, uitgevers, sites/apps, mediatypen, inventaristypen of apparaattypen per [!UICONTROL Unique Reach], [!UICONTROL Net Spend] en [!UICONTROL Cost per Reach].
 
-* De [!UICONTROL Cost per Reach] en [!UICONTROL Net Spend] op pakket, uitgever of site/app. Met deze insight kunt u zien welke pakketten, uitgevers of sites/apps het potentieel voor aanzienlijk incrementeel bereik weergeven.
+* **[!UICONTROL Performance Analysis]:** De [!UICONTROL Cost per Reach] en [!UICONTROL Net Spend] op pakket, uitgever of site/app. Met deze insight kunt u zien welke pakketten, uitgevers of sites/apps het potentieel voor aanzienlijk incrementeel bereik weergeven.
+
+  De grootte van elke bel wijst op de stijgende bereikscore, met grotere bellen die op een hoger stijgend bereik gemiddeld wijzen. Om de volledige entiteitnaam en belangrijkste metriek voor om het even welke bel te zien, houd de curseur over de bel.
+
+  De gevolgen zijn onder meer:
+
+   * **Hoog effect:** overweegt verhogend het budget.
+   * **Gematigd effect**
+   * **Beperkte invloed:** vereist aandacht
+
+### [!UICONTROL Household Conversion] Tab
+
+Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden cross-campagnegegevens voor een specifieke adverteerder en een specifieke omzettingsmetrische waarde weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of omzettingsmetrisch, voor een specifieke campagne, over pakketten of plaatsen, of voor een specifiek pakket of een plaatsing te tonen. De inzichten omvatten:
+
+* **[!UICONTROL Trends]:** Een trenddiagram door dag of door week voor drie klant-gespecificeerde metriek (door gebrek, [!UICONTROL Net Spend], [!UICONTROL Conversions], en [!UICONTROL Net CPM]).
+
+* **[!UICONTROL Conversion Participation Overview]:** Een staafdiagram dat aangeeft welke mediatypen, voorraadtypen en apparaattypen de meeste huishoudelijke conversies tot gevolg hebben.
+
+  Impressies die binnen de terugkijkperiode (30 dagen) worden geleverd, worden als geldig beschouwd voor conversie-deelname.
+
+* **[!UICONTROL Top Performers]:** Een tabel met de campagnes, pakketten, plaatsingen, uitgevers, sites/apps, mediatypen en inventaristypen die de prestaties voor drie door de klant opgegeven metriek (standaard [!UICONTROL Net Spend], [!UICONTROL CPA] en [!UICONTROL Conversions]) stimuleren. De hoogste uitvoerder wordt eerst vermeld.
+
+* **[!UICONTROL Performance Analysis]:** De [!UICONTROL CPA] en [!UICONTROL Net Spend] op pakket, uitgever of site/app. Met deze insight kunt u zien welke pakketten, uitgevers of sites/apps het potentieel voor aanzienlijk incrementeel bereik weergeven.
+
+  De grootte van elke bel wijst op de stijgende bereikscore, met grotere bellen die op een hoger stijgend bereik gemiddeld wijzen. Om de volledige entiteitnaam en belangrijkste metriek voor om het even welke bel te zien, houd de curseur over de bel.
+
+  De gevolgen zijn onder meer:
+
+   * **Hoog effect:** overweegt verhogend het budget.
+   * **Gematigd effect**
+   * **Beperkte invloed:** vereist aandacht
 
 ## Open Performance Insiders
 
@@ -92,7 +120,7 @@ Het [!UICONTROL Household Reach] lusje verstrekt huisbereikmetriek over alle cam
 
 ## Een specifieke Insight downloaden naar een XLSX-bestand
 
-* Aan het hogere recht van insight, klik ![&#128279;](/help/creative/assets/download.png " Download ") .
+* Aan het hogere recht van insight, klik ![ Download ](/help/creative/assets/download.png " ").
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
