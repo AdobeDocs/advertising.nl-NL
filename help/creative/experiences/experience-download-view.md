@@ -3,16 +3,14 @@ title: Gegevens downloaden uit de weergave [!UICONTROL Experiences]
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 8362ac34-0de8-4bed-873d-dc20f39946bf
-source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
 # Gegevens downloaden uit de weergave [!UICONTROL Experiences]
-
-*Gesloten bèta*
 
 U kunt metagegevens over de ervaringen in de huidige, gefilterde [!UICONTROL Experiences] weergave exporteren naar een bestand in de indeling Microsoft Excel-werkblad (XLSX).
 
@@ -22,7 +20,7 @@ Elke rij in het bestand bevat details over een ervaring, zoals de ervaringsnaam 
 
 1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
-1. In de hogere juiste toolbar, klik ![&#128279;](/help/creative/assets/download.png " Download ") .
+1. In de hogere juiste toolbar, klik ![ Download ](/help/creative/assets/download.png " ").
 
    Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 

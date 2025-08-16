@@ -3,16 +3,14 @@ title: De URL's voor bijhouden aanpassen voor een ervaring zonder focus te plaat
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring zonder doelversie van de boomstructuur.
 feature: Creative Experiences
 exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
-source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '367'
 ht-degree: 0%
 
 ---
 
 # Pas het volgen URLs voor een ervaring zonder beslissingsboom het richten aan
-
-*Gesloten bèta*
 
 Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf URL&#39;s voor het bijhouden van aangepaste muisklikken en één aangepaste bestemmingspagina-URL maken voor elke creatieve gebruiker van de tag ad beleving. U kunt de URL&#39;s voor bijhouden aanpassen vanuit [!UICONTROL Tag Manager] .
 

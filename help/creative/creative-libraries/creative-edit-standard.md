@@ -3,16 +3,14 @@ title: Standaardcreatieven bewerken in een creatieve bibliotheek
 description: Leer hoe u de instellingen van standaard (niet-dynamische) creatieve creatieven in een creatieve bibliotheek wijzigt.
 feature: Creative Standard Creatives
 exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
-source-git-commit: 076dd97944b5cb74f24bee85602e3743bba16f7b
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '389'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
 
 # Standaardcreatieven bewerken in een creatieve bibliotheek
-
-*Gesloten bèta*
 
 U kunt bepaalde instellingen voor elk type standaard creatief bewerken. U kunt veelvoudige creatieve scheppers <!-- or creative variations --> van het zelfde creatieve type (eenvoudige HTML5 met slechts één het landen pagina, statische HTML5 met veelvoudige het landen pagina&#39;s, flexibele HTML5, beeld, of derde slechts <!-- , or dynamic -->) uitgeven.
 

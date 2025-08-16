@@ -3,16 +3,14 @@ title: Beschikbare macro's voor het bijhouden van URL's
 description: Verwijs naar de macro's die u aan uw het landen pagina URLs, het volgen URLs, en derdecreatieven kunt toevoegen.
 feature: Creative Experiences, Creative Experiences
 exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '237'
 ht-degree: 0%
 
 ---
 
 # Beschikbare macro&#39;s voor het bijhouden van URL&#39;s
-
-*Gesloten bèta*
 
 <!-- More feature metadata???  -->
 
@@ -57,4 +55,4 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 >* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
 >* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
 >* [ gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
->*[ Niet-gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-no-targeting.md)
+>  >*[ Niet-gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-no-targeting.md)

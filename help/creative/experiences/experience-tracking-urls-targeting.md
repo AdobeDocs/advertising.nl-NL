@@ -3,9 +3,9 @@ title: De URL's voor bijhouden aanpassen voor een ervaring
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring met doelversie van de beslissingstructuur.
 feature: Creative Experiences
 exl-id: ba3b15b4-116e-4caa-8ce1-4d2e488a6362
-source-git-commit: 4b780760e5a7a0c3d370054fce8b1c15fbc6802d
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '263'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Pas het volgen URLs voor creatieve personen in een ervaring met beslissingsboom het richten aan
 
 *knopen van het Doel met bestaande slechts creatieve*
-*Gesloten bèta*
 
 Voor ervaringen met doelgerichte beslisboomstructuren kunt u maximaal vijf aangepaste URL&#39;s voor het bijhouden van de indruk, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste bestemmingspagina-URL maken voor elke creatieve functie die voor de ervaring wordt gebruikt. U kunt de URL&#39;s voor bijhouden aanpassen vanuit de beslissingstructuur.
 

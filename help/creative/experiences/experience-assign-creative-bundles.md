@@ -3,9 +3,9 @@ title: Creatieve bundels toewijzen en ontkoppelen aan een laatste knooppunt in e
 description: Leer hoe u creatieve projecten kunt toewijzen aan elk doel in uw advertentie.
 feature: Creative Experiences
 exl-id: 5449a760-6ade-41c0-9cab-bd92026b150b
-source-git-commit: 115b769c2880936c422747b44f43b4be7281916d
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '305'
+source-wordcount: '303'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Creatieve bundels toewijzen en ontkoppelen aan een laatste knooppunt in een ervaring
 
 *Ervaringen met beslissingsboom richtend slechts*
-*Gesloten bèta*
 
 U kunt creatieve bundels aan een doelknoop op het bodem-meest niveau in een boom van de ervaringsbeslissing toewijzen. Voor ervaringen waarvoor u geen doelstellingen hebt gevormd, is het onderste niveau onder &quot;allen.&quot;
 

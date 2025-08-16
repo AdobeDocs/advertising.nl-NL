@@ -3,16 +3,14 @@ title: Een tag voor een advertentie exporteren en implementeren voor een live be
 description: Leer hoe u een advertentietag exporteert en optioneel uploadt naar een Advertising DSP-campagne.
 feature: Creative Experiences
 exl-id: 4ae05142-8319-4329-96d7-f87d77f02745
-source-git-commit: 1ce04f4bfa0707d9bcc1f6601dadbdab682ad95d
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '637'
+source-wordcount: '635'
 ht-degree: 0%
 
 ---
 
 # Een tag voor een advertentie exporteren en implementeren voor een live beleving
-
-*Gesloten bèta*
 
 Zodra een ad markering voor een specifieke creatieve grootte of videoduur voor a [ levende ](experience-about.md#experience-statuses) ervaring beschikbaar is, kunt u de markering in JavaScript, iframe, en videoformaten voor implementatie op Advertising DSP of andere DSPs produceren en kopiëren. De tags voor DSP bevatten alle macro&#39;s die vereist zijn voor DSP.
 
@@ -33,7 +31,7 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of **&#x200B; [!UICONTROL ... More] > &#x200B;** [!UICONTROL Export ad tags]**.
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik of ![ Uitvoer en markeringen ](/help/creative/assets/export.png " de Uitvoer en markeringen ") **[!UICONTROL Export ad tags]** of ** [!UICONTROL ... More] > **[!UICONTROL Export ad tags]**.
 
 >[!NOTE]
 >
@@ -51,9 +49,9 @@ Adverteerders met Advertising DSP kunnen optioneel tags rechtstreeks uploaden na
 
 1. Selecteer het labeltype:
 
-   * (Niet videoervaringen) **&#x200B; *JavaScript* &#x200B;** of **&#x200B; *Iframe* &#x200B;**.
+   * (Niet videoervaringen) ** *JavaScript* ** of ** *Iframe* **.
 
-   * (Video ervaringen) **&#x200B; *Video* &#x200B;**.
+   * (Video ervaringen) ** *Video* **.
 
 1. Selecteer in de lijst [!UICONTROL Destinations] waar u advertenties wilt maken.
 

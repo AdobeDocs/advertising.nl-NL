@@ -3,16 +3,14 @@ title: Een voorvertoning weergeven van een creatief
 description: Leer hoe u een voorvertoning van een creatief object opent.
 feature: Creative Standard Creatives
 exl-id: 0d92ab29-0aa0-4d5f-abf5-a520f49ea60e
-source-git-commit: e70ea2b9fb0e8338d5a9e4680d79e9f3e436eef6
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '198'
 ht-degree: 0%
 
 ---
 
 # Een voorvertoning weergeven van een creatief
-
-*Gesloten bèta*
 
 U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlinks, terwijl de gebruiker deze ziet.
 

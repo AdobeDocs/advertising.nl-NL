@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
-source-git-commit: 7fee6e0f6e8ad6dbf0329d707af7303ac7229dc9
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '634'
+source-wordcount: '632'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Aanpassen van creatieve optimalisatie en planning voor een ervaring zonder doelgericht gebruik van beslissingsstructuren
 
 *Ervaringen met bestaande slechts creatieve*
-*Gesloten bèta*
 
 Standaard wordt de creatieve rotatie voor een advertentie-ervaringstag op algoritmische wijze bepaald om de algemene doorklikfrequentie te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen creatieve creatieven. U kunt de creatieve rotatie aanpassen om de creatieve creatieven handmatig op basis van relatieve gewichten uit te voeren of u kunt de creatieve rotatie op algoritmische wijze optimaliseren voor een opgegeven aangepaste Advertising DSP-doelstelling. U kunt ook specifieke creatieve projecten plannen die tijdens opgegeven opeenvolgende tijdsperioden worden uitgevoerd en aangepaste instellingen voor creatieve rotatie toepassen voor elk programma.
 

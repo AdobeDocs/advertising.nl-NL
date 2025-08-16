@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
-source-git-commit: 7fee6e0f6e8ad6dbf0329d707af7303ac7229dc9
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '545'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Aanpassen van creatieve optimalisatie en planning voor een ervaring met beslissingsboomdoelen
 
 *knopen van het Doel met bestaande slechts creatieve*
-*Gesloten bèta*
 
 Standaard wordt de creatieve rotatie voor een ervaring op algoritmische wijze bepaald om de algemene doorkliksnelheid te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen bundels. U kunt de creatieve rotatie zodanig aanpassen dat de creatieve elementen in elke bundel handmatig worden uitgevoerd op basis van relatieve gewichten of dat ze op algoritmische wijze worden geoptimaliseerd voor een bepaald aangepast Advertising DSP-doel. U kunt ook specifieke creatieve bundels plannen die tijdens gespecificeerde, opeenvolgende tijdsperioden worden uitgevoerd en aangepaste creatieve rotatie-instellingen toepassen voor elk programma.
 

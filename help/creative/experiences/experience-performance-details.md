@@ -3,16 +3,14 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: 1718a7f5a7e3bbfeed336b195a2575275c8fd753
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '776'
+source-wordcount: '774'
 ht-degree: 0%
 
 ---
 
 # Prestatierapporten op ervaringsniveau
-
-*Gesloten bèta*
 
 U kunt gedetailleerde prestatiegegevens voor elke ervaring bekijken.
 
@@ -36,7 +34,7 @@ De rapportweergave bevat de volgende gegevens:
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
      -->
 
-   * **sectie van de Onderbreking van 0&rbrace; Prestaties &lbrace;:**
+   * **sectie van de Onderbreking van 0} Prestaties {:**
 
       * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
 
@@ -108,7 +106,7 @@ De rapportweergave bevat de volgende gegevens:
 
    * Op de subtab [!UICONTROL Creatives] kunt u het volgende doen:
 
-      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![ Grafiek ](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
 
       * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
@@ -116,7 +114,7 @@ De rapportweergave bevat de volgende gegevens:
 
 1. Als u gegevens wilt weergeven op basis van een bundel (ervaring met het toewijzen van beslisboom als doel) of op basis van een ad-tag (ervaring zonder doelbinding voor beslissingsstructuur), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
 
-   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#128279;](/help/creative/assets/chart-view-button.png " Grafiek ") en ![Raster](/help/creative/assets/table-view-button.png "Raster"), respectievelijk.
+   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![ Grafiek ](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
 
    * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 

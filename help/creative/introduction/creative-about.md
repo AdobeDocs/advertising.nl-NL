@@ -2,16 +2,15 @@
 title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
-source-git-commit: 72a6c3de183aa47cecc2ec4d0fab30ff91d4bb05
+exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '482'
 ht-degree: 0%
 
 ---
 
 # Informatie over Adobe Advertising Creative 2.0
-
-*Gesloten bèta*
 
 <!-- verify all and rewrite to include new stuff -->
 

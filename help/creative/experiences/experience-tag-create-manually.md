@@ -3,9 +3,9 @@ title: Handmatig een advertentietag maken voor een toepasselijk creatief formaat
 description: Leer hoe u een advertentietag maakt voor een bepaalde creatieve grootte.
 feature: Creative Experiences
 exl-id: 77dedfa2-33de-4a92-a58b-1a2b91842f0a
-source-git-commit: e79becc860143b749ec96134e7b224649686c672
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '276'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # (Ervaringen zonder doelframes) Maak handmatig een ad-tag voor een toepasselijke creatieve grootte
 
 *Ervaringen zonder beslissingsboom richtend slechts*
-*Gesloten bèta*
 
 U kunt een of meer advertentietags maken per taal voor elke creatieve grootte (niet-videocamera&#39;s) of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
 

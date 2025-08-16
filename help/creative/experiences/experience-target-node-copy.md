@@ -3,9 +3,9 @@ title: Onderliggende nodes kopiëren naar een ander doelknooppunt op hetzelfde n
 description: Leer hoe te om alle kindknopen van een ouderdoelknoop aan een andere doelknoop op het zelfde niveau te kopiëren
 feature: Creative Experiences
 exl-id: b3705689-57b6-41ce-9e00-2358bd195c93
-source-git-commit: 5d8b511708008c77e817ccdb00ae02c158dfe63e
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Onderliggende nodes kopiëren naar een ander doelknooppunt op hetzelfde niveau
 
 *Ervaringen met beslissingsboom richtend slechts*
-*Gesloten bèta*
 
 U kunt alle onderliggende nodes van een bovenliggende doelnode (inclusief alle onderliggende doelen en de creatieve bundels die aan deze knooppunten zijn toegewezen) naar een andere doelnode op hetzelfde niveau kopiëren. U kunt de knooppunten kopiëren door a) de gekopieerde knooppunten toe te voegen aan het bestaande framework of b) het bestaande framework volledig te vervangen. <!-- Give the main use case or an example to explain. -->
 
@@ -27,7 +26,7 @@ Deze eigenschap beïnvloedt niet het doel dat voor de ouderknoop wordt gespecifi
 
    * Als u alle onderliggende knooppunten en creatieve elementen voor een knooppunt wilt vervangen, klikt u op het knooppunt waarnaar u de gekopieerde informatie wilt plakken, klikt u op **...** en selecteert u vervolgens een \) **[!UICONTROL Replace ctrl+shift+v]** of b\) en voert u **[!UICONTROL Ctrl+Shift+V]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-Shift-V]** ([!DNL Apple Macintosh]) in op uw toetsenbord.
 
-   * (Knooppunten met meerdere onderliggende doelen, geen &quot;Alle&quot; knooppunten en geen creatieve knooppunten) Als u alle onderliggende knooppunten en creatieven aan een knooppunt wilt toevoegen zonder de bestaande knooppunten te verwijderen, klikt u op het knooppunt waarnaar u de gekopieerde gegevens wilt plakken, klikt u op **..** en selecteert u een \) **[!UICONTROL Add ctrl+v]** **&#x200B; of b\) en voert u &#x200B;** [!UICONTROL Ctrl+V] **&#x200B; ([!DNL Microsoft Windows]) of &#x200B;** [!UICONTROL Command-V]** ([!DNL Apple Macintosh] in op het toetsenbord.
+   * (Knooppunten met meerdere onderliggende doelen, geen &quot;Alle&quot; knooppunten en geen creatieve knooppunten) Als u alle onderliggende knooppunten en creatieven aan een knooppunt wilt toevoegen zonder de bestaande knooppunten te verwijderen, klikt u op het knooppunt waarnaar u de gekopieerde gegevens wilt plakken, klikt u op **..** en selecteert u een \) **[!UICONTROL Add ctrl+v]** ** of b\) en voert u **[!UICONTROL Ctrl+V]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-V]** ([!DNL Apple Macintosh] in op het toetsenbord.
 
 <!--
 1. (Optional) To save the experience, click **[!UICONTROL Save]**, and then do the following.

@@ -3,16 +3,14 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: bc3309523572656362cebebab9b735530003a81c
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '1001'
-ht-degree: 0%
+source-wordcount: '999'
+ht-degree: 1%
 
 ---
 
 # Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
-
-*Gesloten bèta*
 
 Voeg creatieve scheppingen aan uw [ creatieve bibliotheken ](creative-library-manage.md) aan gebruik met [ toe en ervaringen ](/help/creative/experiences/experience-about.md).
 
@@ -64,7 +62,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 ### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ] (flexible-creative-upload).>
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.

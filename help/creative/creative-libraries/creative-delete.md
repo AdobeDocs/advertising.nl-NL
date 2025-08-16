@@ -3,16 +3,14 @@ title: Creatieve elementen verwijderen
 description: Leer hoe u creatieve bibliotheken kunt verwijderen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 5dc197dc-c4bb-489a-8395-b7c8efa47ea1
-source-git-commit: 076dd97944b5cb74f24bee85602e3743bba16f7b
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # Creatieve elementen verwijderen uit een creatieve bibliotheek
-
-*Gesloten bèta*
 
 U kunt het volgende verwijderen:
 

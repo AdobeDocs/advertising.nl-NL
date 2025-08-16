@@ -3,16 +3,14 @@ title: Creatieve bundels koppelen aan creatieve bundels
 description: Leer hoe u een creatieve bundel kunt koppelen aan een creatieve bundel.
 feature: Creative Standard Creatives, Creative Dynamic Creatives, Creative Bundles
 exl-id: 833c4102-8577-4ba1-be07-7e032cec94ca
-source-git-commit: 95e17af996cb3171667ef3cd5ac662f08112691b
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '227'
 ht-degree: 0%
 
 ---
 
 # Creatieve elementen aan creatieve bundels koppelen
-
-*Gesloten bèta*
 
 <!-- Edit all, including the metadata and title, plus the links within TOC and bundle-manage.md, once this feature is available.  -->
 
@@ -46,7 +44,7 @@ You can also detach a creative from a bundle to remove the association between t
 
    Elke bundel die in aanmerking komt voor het creatieve type, wordt in het juiste frame weergegeven. Bundels waaraan de creatieve inhoud al is gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0&rbrace; te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Schakel in het rechterframe het selectievakje in naast elke bundel waaraan u de creatieve inhoud wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 

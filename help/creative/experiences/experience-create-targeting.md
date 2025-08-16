@@ -3,16 +3,14 @@ title: Maak een ervaring met doelstructuurbeslissingen
 description: Leer hoe u een doelgerichte advertentie-ervaring kunt maken met behulp van een beslissingsstructuur.
 feature: Creative Experiences
 exl-id: 825fd9af-ca7a-4b44-8e4b-1a6f34edac9e
-source-git-commit: e79becc860143b749ec96134e7b224649686c672
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '619'
+source-wordcount: '617'
 ht-degree: 0%
 
 ---
 
 # Maak een ervaring met doelstructuurbeslissingen
-
-*Gesloten bèta*
 
 Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructuur. Elke ervaring gebruikt advertenties uit één creatieve bibliotheek.
 

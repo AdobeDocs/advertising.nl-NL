@@ -2,9 +2,10 @@
 title: Klonen en een ervaring
 description: Leer hoe u een ervaring kunt maken door een bestaande ervaring te klonen.
 feature: Creative Experiences
-source-git-commit: fd925c641bef7953aea50813725252c3913757fa
+exl-id: 8c305732-f2ff-4a9d-80ad-e9e0f6484ba2
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '110'
 ht-degree: 0%
 
 ---
@@ -12,8 +13,6 @@ ht-degree: 0%
 # Klonen en een ervaring
 
 <!-- "Duplicate" like for creatives and bundles? If we change this, change text throughout -->
-
-*Gesloten bèta*
 
 Maak een ervaring door een bestaande ervaring te klonen. De nieuwe ervaring heeft de naam `<original name> (copy) # 1` (of het volgende nummer in de reeks). Als u bijvoorbeeld twee klonen maakt met de naam &quot;Test experience&quot;, krijgen de klonen de naam &quot;Test experience (copy) # 1&quot; en &quot;Test experience (copy) # 2&quot;.
 

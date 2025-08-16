@@ -3,16 +3,14 @@ title: Transcoderingsopties voor een video aanpassen en tags beleven
 description: Leer hoe u de transcoderingsopties voor een video en tag kunt aanpassen.
 feature: Creative Experiences
 exl-id: 6100213c-2e7d-4e98-a3ab-045ca10e5174
-source-git-commit: 8f5740d1a90e505a16f69d566de13aefc1edf421
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
 
 # Transcoderingsopties voor een video aanpassen en tags beleven
-
-*Gesloten bèta*
 
 U kunt de transcoderingsopties voor een video en ervaring aanpassen om te zorgen voor een snelle weergave en kwaliteitscontrole voor alle uitgevers.
 

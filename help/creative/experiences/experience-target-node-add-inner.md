@@ -3,9 +3,9 @@ title: Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 description: Leer hoe u een doelknooppunt tussen doelknooppunten in een advertentie kunt toevoegen.
 feature: Creative Experiences
 exl-id: ac9211e5-c6ed-4185-bf9c-c2689f1b2775
-source-git-commit: f71747a4973ec3f3e2c3a8a5913d27311849883c
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '960'
+source-wordcount: '958'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,6 @@ ht-degree: 0%
 # Een doelknooppunt toevoegen tussen knooppunten in een ervaring
 
 *Ervaringen met beslissingsboom richtend slechts*
-*Gesloten bèta*
 
 Wanneer u een doelknoop tussen bestaande niveaus opneemt, behoudt de nieuwe doelknoop alle bestaande kinddoelstellingen en creatieven, en de nieuwe knoop wordt aanvankelijk genoemd &quot;allen.&quot; U kunt optioneel het nieuwe knooppunt behouden zonder meer specifieke doelen toe te voegen.
 

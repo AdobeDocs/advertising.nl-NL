@@ -3,16 +3,14 @@ title: Een voorbeeld van een ervaring bekijken
 description: Leer hoe u een voorvertoning van de creatieve projecten kunt bekijken in een advertentie.
 feature: Creative Experiences
 exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
-source-git-commit: ae226015d1a8a3da4ea2a0db0db31858e750b9a7
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---
 
 # Een voorbeeld van een ervaring bekijken
-
-*Gesloten bèta*
 
 U kunt een voorvertoning weergeven van de creatieve personen met een specifieke advertentiegrootte die doelviewers kunnen zien voor een ervaring, inclusief alle hyperlinks. Voor ervaringen met doelgerichte besluitvorming kunt u één creatieve versie, de creatieve versie van een bepaalde tak (doeltype) of alle creatieve gebruikers voorvertonen. Voor ervaringen zonder doelgericht werken met boomstructuur kunt u één creatieve voorvertoning weergeven. <!-- verify -->
 

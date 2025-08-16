@@ -3,16 +3,14 @@ title: Ervaring maken zonder doelstructuurcode
 description: Leer hoe u een advertentie-ervaring kunt maken zonder u hiervoor te hoeven inzetten.
 feature: Creative Experiences
 exl-id: 327b1df5-5663-4513-9238-f481370c8c38
-source-git-commit: 9807b2e78376eb3a078d680583c3b2f6fae7a1d1
+source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '194'
 ht-degree: 1%
 
 ---
 
 # Ervaring maken zonder doelstructuurcode
-
-*Gesloten bèta*
 
 Maak een advertentie-ervaring zonder doelgericht te werken. Elke ervaring kan advertenties uit één creatieve bibliotheek gebruiken.
 
