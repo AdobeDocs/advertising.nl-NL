@@ -34,7 +34,7 @@ De rapportweergave bevat de volgende gegevens:
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
      -->
 
-   * **sectie van de Onderbreking van 0} Prestaties {:**
+   * **sectie van de Onderbreking van 0&rbrace; Prestaties &lbrace;:**
 
       * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
 

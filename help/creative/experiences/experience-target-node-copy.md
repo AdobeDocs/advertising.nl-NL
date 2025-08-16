@@ -26,7 +26,7 @@ Deze eigenschap beïnvloedt niet het doel dat voor de ouderknoop wordt gespecifi
 
    * Als u alle onderliggende knooppunten en creatieve elementen voor een knooppunt wilt vervangen, klikt u op het knooppunt waarnaar u de gekopieerde informatie wilt plakken, klikt u op **...** en selecteert u vervolgens een \) **[!UICONTROL Replace ctrl+shift+v]** of b\) en voert u **[!UICONTROL Ctrl+Shift+V]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-Shift-V]** ([!DNL Apple Macintosh]) in op uw toetsenbord.
 
-   * (Knooppunten met meerdere onderliggende doelen, geen &quot;Alle&quot; knooppunten en geen creatieve knooppunten) Als u alle onderliggende knooppunten en creatieven aan een knooppunt wilt toevoegen zonder de bestaande knooppunten te verwijderen, klikt u op het knooppunt waarnaar u de gekopieerde gegevens wilt plakken, klikt u op **..** en selecteert u een \) **[!UICONTROL Add ctrl+v]** ** of b\) en voert u **[!UICONTROL Ctrl+V]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-V]** ([!DNL Apple Macintosh] in op het toetsenbord.
+   * (Knooppunten met meerdere onderliggende doelen, geen &quot;Alle&quot; knooppunten en geen creatieve knooppunten) Als u alle onderliggende knooppunten en creatieven aan een knooppunt wilt toevoegen zonder de bestaande knooppunten te verwijderen, klikt u op het knooppunt waarnaar u de gekopieerde gegevens wilt plakken, klikt u op **..** en selecteert u een \) **[!UICONTROL Add ctrl+v]** **&#x200B; of b\) en voert u &#x200B;** [!UICONTROL Ctrl+V] **&#x200B; ([!DNL Microsoft Windows]) of &#x200B;** [!UICONTROL Command-V]** ([!DNL Apple Macintosh] in op het toetsenbord.
 
 <!--
 1. (Optional) To save the experience, click **[!UICONTROL Save]**, and then do the following.

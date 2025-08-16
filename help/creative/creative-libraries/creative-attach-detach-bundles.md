@@ -44,7 +44,7 @@ You can also detach a creative from a bundle to remove the association between t
 
    Elke bundel die in aanmerking komt voor het creatieve type, wordt in het juiste frame weergegeven. Bundels waaraan de creatieve inhoud al is gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0&rbrace; te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Schakel in het rechterframe het selectievakje in naast elke bundel waaraan u de creatieve inhoud wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
