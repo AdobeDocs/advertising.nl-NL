@@ -3,16 +3,14 @@ title: Opnieuw doelende pixels beheren
 description: Leer hoe u het opnieuw toewijzen van pixels maakt en implementeert voor gebruik als doel voor advertenties.
 feature: Creative Pixels
 exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: 1d0a1640eb2d19b8765150226e7185602bbfd495
 workflow-type: tm+mt
-source-wordcount: '926'
+source-wordcount: '922'
 ht-degree: 0%
 
 ---
 
 # Opnieuw doelende pixels beheren
-
-*Gesloten bèta*
 
 <!-- Note to self: These aren't segments -- we don't create a pool of users. -->
 
@@ -111,7 +109,7 @@ Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden bloo
 
 Wanneer u doelt en ervaringen opdoet met gebruikers die aan de pixel worden blootgesteld, geven de instellingen voor het aanwijzen de kenmerkwaarden op die aanwezig moeten zijn om de creatieve elementen weer te geven.
 
-**[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (Beta-functie; alleen nieuwe pixels; optioneel) Typen universele id&#39;s die de pixeltag moet bijhouden:
+**[!UICONTROL Advanced]** > **[!UICONTROL Universal IDs]:** (Alleen nieuwe pixels; optioneel) Typen universele id&#39;s voor de bij te houden pixeltag:
 
 * *[!UICONTROL ID5]:* De pixeltag traceert [!DNL ID5] id&#39;s. Er worden geen kosten in rekening gebracht voor afbeeldingen die aan universele id&#39;s worden geleverd.
 
