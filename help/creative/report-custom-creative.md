@@ -3,9 +3,9 @@ title: '[!UICONTROL Custom Creative Report]'
 description: Leer hoe u de kruiservaring genereert [!UICONTROL Custom Creative Report] .
 feature: Creative Reporting
 exl-id: 13687d9d-6283-40ac-86a2-bb88b9fdfcc3
-source-git-commit: 03d3f3c43bfe58f2dcab998e1d95f1e512f54b20
+source-git-commit: bf969c1b3cc57e2ef83087952a9bac530b276916
 workflow-type: tm+mt
-source-wordcount: '2019'
+source-wordcount: '2021'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Met [!UICONTROL Custom Creative Report] kunt u de inhoud en levering van rapportgegevens aanpassen voor al uw advertentieervaringen.
 
-U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
+U kunt rapporten eenmaal produceren, of u kunt hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
@@ -161,7 +161,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 * *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL FTP SSL] (Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
 
 * *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
