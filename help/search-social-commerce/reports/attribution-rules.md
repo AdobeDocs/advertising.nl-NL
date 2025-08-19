@@ -2,10 +2,10 @@
 title: Hoe toewijzingsregels worden berekend
 description: Leer hoe Adobe Advertising elk type toewijzingsregel berekent.
 exl-id: 15beeadd-bb65-4efe-8c4f-34c4a48cc775
-feature: Search Reports
-source-git-commit: b24673e05f95bac404301d71ad9c0d1d0593aafb
+feature: Search Reports, DSP Custom Reports
+source-git-commit: 513d81cf835ccbffa16581799f0dc8306681e3ad
 workflow-type: tm+mt
-source-wordcount: '2716'
+source-wordcount: '2711'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,19 @@ ht-degree: 0%
 
 De attributieregel op adverteerderniveau wordt gebruikt om conversiegegevens — mogelijk over meerdere advertentiekanalen — toe te wijzen in een reeks gebeurtenissen die tot een conversie leiden.
 
-In rapporten, gebrek en douanemeningen voor het Onderzoek van Advertising, Sociale, &amp; Commerce (Onderzoek, Sociale, &amp; Commerce), en (sommige gebruikersrollen) portefeuille-vlakke simulaties voor Onderzoek, Sociale, &amp; Commerce, wordt de geselecteerde regel gebruikt slechts voor de mening, het rapport, of de simulatiegegevens. De verschillende toewijzingsregels worden als volgt toegepast.
+U kunt ook op de volgende plaatsen een toewijzingsregel selecteren om de regel alleen toe te passen op de resulterende gegevens:
+
+* DSP
+
+   * Aangepaste rapporten met multi-aanraakkenmerk
+
+* Zoeken, sociaal en Commerce
+
+   * Aangepaste rapporten
+
+   * Standaardweergave en aangepaste weergaven
+
+   * (Sommige gebruikersrollen) simulaties op Portfolio-niveau.
 
 >[!NOTE]
 >
@@ -29,9 +41,9 @@ In rapporten, gebrek en douanemeningen voor het Onderzoek van Advertising, Socia
 
 ## Laatste gebeurtenis (de standaardwaarde)
 
-Attributes de omzetting aan de laatste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de laatste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [.](/help/search-social-commerce/glossary.md#i-j)
+Attributes de omzetting aan de laatste betaalde klik in de reeks binnen het 2} de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de laatste indruk binnen het 2} imkerraadplegingsvenster van de adverteerder [.](/help/search-social-commerce/glossary.md#i-j)
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, dan wordt de omzetting beschouwd a *mening-door*, die of volgens 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, dan wordt de omzetting beschouwd a *mening-door*, die of volgens 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 ![ de percentages van de de gebeurtenisattributie van de laatste gebeurtenis ](/help/search-social-commerce/assets/attribution-percent-last-event.png " De percentages van de gebeurtenisattributie ")
 
@@ -71,9 +83,9 @@ De conversie wordt toegeschreven aan Impression 3. Omdat de conversie een doorki
 
 ## Eerste gebeurtenis
 
-Attributes de omzetting aan de eerste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de eerste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [. ](/help/search-social-commerce/glossary.md#i-j) Deze regel is alleen beschikbaar voor gebeurtenissen op afzonderlijke apparaten.
+Attributes de omzetting aan de eerste betaalde klik in de reeks binnen het 2} de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de eerste indruk binnen het 2} imkerraadplegingsvenster van de adverteerder [. ](/help/search-social-commerce/glossary.md#i-j) Deze regel is alleen beschikbaar voor gebeurtenissen op afzonderlijke apparaten.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 ![ de percentages van de gebeurtenisattributie van de eerste gebeurtenis ](/help/search-social-commerce/assets/attribution-percent-first-event.png " Eerste percentages van de gebeurtenisattributie ")
 
@@ -116,7 +128,7 @@ De sectie &quot;Attributie&quot; van de rapportinstellingen wordt toegepast:
 
 Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ het venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en opeenvolgend minder gewicht aan de volgende gebeurtenissen.Deze regel is beschikbaar voor gebeurtenissen over enige slechts apparaten.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
@@ -124,7 +136,7 @@ Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat,
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP houdt geen rekening met de indruk dat gewichten voorrang hebben op gewichten.
 
-![ de eerste gebeurtenis van het gewicht van 0&rbrace; eerste gebeurtenis meer attributiepercentages {van 1} Gewicht eerste gebeurtenis meer attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-weight-first-more.png "")
+![ de eerste gebeurtenis van het gewicht van 0} eerste gebeurtenis meer attributiepercentages {van 1} Gewicht eerste gebeurtenis meer attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-weight-first-more.png "")
 
 <!-- start examples as collapsible content -->
 
@@ -178,7 +190,7 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 
 Attributes evenzeer aan elke gebeurtenis in de reeks die binnen het van de adverteerder [ voorkwam klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ het venster van de imkerraadpleging ](/help/search-social-commerce/glossary.md#i-j).
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
@@ -238,7 +250,7 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 
 Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de laatste gebeurtenis en opeenvolgend minder gewicht aan de voorafgaande gebeurtenissen.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
@@ -296,7 +308,7 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 
 Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en laatste gebeurtenissen, met opeenvolgend minder gewicht aan de gebeurtenissen in het midden van de omzettingsweg.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2} mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
