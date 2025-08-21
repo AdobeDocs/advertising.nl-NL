@@ -3,7 +3,7 @@ title: Instellingen rechtstreeks in een rij bewerken
 description: Leer hoe u gegevens bewerkt in beheerweergaven in de rij.
 exl-id: 0b22a2ec-50c2-457d-8cea-a40943ee2a41
 feature: Search Common Tasks
-source-git-commit: 4b8e0a8338e17cbf4b3a48808f39492fc953f7e6
+source-git-commit: e83fe03e8887dc30a7e60313b17dbdce46e6362b
 workflow-type: tm+mt
 source-wordcount: '140'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## (Nieuwe interface) Instellingen bewerken in een rij
 
-1. Klik binnen de cel om het actief te maken, of de curseur over de waarde te houden en [ te klikken geeft ](/help/search-social-commerce/assets/edit-new.png "Bewerken") uit.
+1. Klik binnen de cel om het actief te maken, of de curseur over de waarde te houden en ![ te klikken geeft ](/help/search-social-commerce/assets/edit-new.png " uit ").
 
 1. Wijzig de waarde.
 
