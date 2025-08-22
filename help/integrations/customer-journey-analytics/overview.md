@@ -2,9 +2,9 @@
 title: Overzicht van de integratie tussen Adobe Advertising en Adobe Customer Journey Analytics
 description: Meer informatie over opties voor de integratie van Adobe Advertising met Adobe Customer Journey Analytics.
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: 1e8305031b175f9bb1c52b82b6ed4913e6108349
+source-git-commit: ed3c3b4331b743d0c40f04fb8543c535d80ca1d5
 workflow-type: tm+mt
-source-wordcount: '384'
+source-wordcount: '385'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,15 @@ ht-degree: 0%
 
 *Advertisers met Advertising DSP en[!DNL Advertising Search, Social, & Commerce]*
 
-Adobe Advertising is geïntegreerd met Adobe Customer Journey Analytics om de mogelijkheden van elk product uit te breiden en te verbeteren. U hebt twee opties om de integratie in te stellen:
+Adobe Advertising is geïntegreerd met Adobe Customer Journey Analytics voor tweerichtingsgegevensuitwisseling. U hebt twee opties om de integratie in te stellen:
 
 * Adverteerders met zowel [!DNL Analytics for Advertising] als Customer Journey Analytics beschikken over dezelfde functionaliteit als [!DNL Analytics for Advertising] , met toevoeging van visuele effecten in Customer Journey Analytics.
 
   U zult klik-door gebeurtenissen nog volgen gebruikend het Web SDK van Adobe Experience Platform (`alloy.js`) of de Dienst van de Identiteit van Adobe Experience Cloud (`visitorAPI.js`). Adverteerders met Advertising DSP gebruiken nog steeds een JavaScript-fragment om doorkijkgebeurtenissen bij te houden. De gegevens die beschikbaar zijn in Customer Journey Analytics zijn onder meer:
 
    * Prestatiegegevens van campagnes vanuit Adobe Advertising
+
+     **Nota:** Gegevens van [!DNL Apple] en [!DNL Tiktok] is niet beschikbaar.
 
    * Site-activiteit en conversies die worden bijgehouden door [!DNL Google Ads] , [!DNL Microsoft Advertising] en [!DNL Meta]
 
