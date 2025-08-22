@@ -2,9 +2,9 @@
 title: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey Analytics
 description: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: b93ea465edf98837bf7af693b6b5f5bbd4adea02
+source-git-commit: 199fc8f6784dbbb43eeb8fcfe9c6f0f35cfdad6b
 workflow-type: tm+mt
-source-wordcount: '72'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
@@ -25,3 +25,4 @@ Bekijk de volgende informatie voordat u Adobe Advertising integreert met Adobe C
 >[!MORELIKETHIS]
 >
 >* [ Overzicht ](overview.md)
+>* (de gebruikers van Adobe Analytics) [ verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics ](/help/integrations/analytics/rvars-to-evars.md).
