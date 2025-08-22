@@ -52,4 +52,4 @@ ht-degree: 10%
 + Integratie met Adobe Customer Journey Analytics {#customer-journey-analytics}
    + [Overzicht](/help/integrations/customer-journey-analytics/overview.md)
    + [Vereisten](/help/integrations/customer-journey-analytics/prerequisites.md)
-+ [ de Leerprogramma&#39;s van Video&#39;s over de Integraties van Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html) <!-- rename if the tutorials TOC structure changes -->
++ [ de Leerprogramma&#39;s van Video&#39;s over de Integraties van Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html?lang=nl-NL) <!-- rename if the tutorials TOC structure changes -->
