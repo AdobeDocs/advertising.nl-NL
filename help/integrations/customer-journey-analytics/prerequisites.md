@@ -3,9 +3,9 @@ title: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey
 description: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
-source-git-commit: 194675147b64af37de6373116f246f1e61388a23
+source-git-commit: 9e89f91f31c756e21db3f5b2b7c87991166e4859
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '172'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ ht-degree: 0%
 
    * [ Alle andere eerste vereisten voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md).
 
-* Adverteerders met Customer Journey Analytics, maar niet [!DNL Analytics for Advertising]:
+* (Beta-functie) Adverteerders met Customer Journey Analytics, maar niet [!DNL Analytics for Advertising] :
 
    * Adobe Experience Platform Web SDK-bibliotheek: `alloy.js`
 
-     De [!DNL Org ID] die wordt gebruikt voor Web SDK en voor de Adobe Advertising-advertentieaccount, moet hetzelfde zijn. U kunt dit identiteitskaart op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html?lang=nl-NL) vinden.
+     De [!DNL Org ID] die wordt gebruikt voor Web SDK en voor de Adobe Advertising-advertentieaccount, moet hetzelfde zijn. U kunt dit identiteitskaart op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) vinden.
 
      ![ het Summiere scherm van Foutopsporing van de Wolk van de Ervaring ](/help/integrations/assets/a4adc-debugger-summary.png)
 
