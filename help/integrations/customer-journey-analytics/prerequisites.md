@@ -28,7 +28,7 @@ Bekijk de volgende informatie voordat u Adobe Advertising integreert met Adobe C
 
    * Adobe Experience Platform Web SDK-bibliotheek: `alloy.js`
 
-     De [!DNL Org ID] die wordt gebruikt voor Web SDK en voor de Adobe Advertising-advertentieaccount, moet hetzelfde zijn. U kunt dit identiteitskaart op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) vinden.
+     De [!DNL Org ID] die wordt gebruikt voor Web SDK en voor de Adobe Advertising-advertentieaccount, moet hetzelfde zijn. U kunt dit identiteitskaart op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html?lang=nl-NL) vinden.
 
      ![ het Summiere scherm van Foutopsporing van de Wolk van de Ervaring ](/help/integrations/assets/a4adc-debugger-summary.png)
 
