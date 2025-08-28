@@ -1,15 +1,17 @@
 ---
-source-git-commit: 91610ee5e1741f19dde5567b806e05f1034397c0
+source-git-commit: 6fa4e5d06271789edc915d67d320f775a83ed653
 workflow-type: tm+mt
-source-wordcount: '988'
+source-wordcount: '992'
 ht-degree: 0%
 
 ---
-# Adobe Advertising AMO-id&#39;s {#amo-id}
+# Adobe Advertising AMO-id&#39;s
+
+## Adobe Advertising AMO-id&#39;s {#amo-id}
 
 De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] - en Customer Journey Analytics-gegevensclassificatie en -opname van advertentiemetriek (zoals indrukken, klikken en kosten) vanuit Adobe Advertising.
 
-Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar afmeting (identiteitskaart van AMO).
+Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO).
 
 Voor Customer Journey Analytics wordt de AMO-id opgeslagen in de eigenschap `trackingCode` van het `conversionDetails` -object, dat deel uitmaakt van de [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] -id.
 
@@ -71,7 +73,7 @@ De parameters variëren per advertentienetwerk, maar de volgende parameters zijn
 
 * `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
 
-* `{sid}` wordt vervangen door numerieke identiteitskaart voor de advertentienetwerkrekening van adverteerders: *3* voor [!DNL Google Ads], *10* voor [!DNL Microsoft Advertising], *45* voor [!DNL Meta], *86* voor [!DNL Yahoo! Display Network], *87* voor [!DNL Naver], *88* voor [!DNL Baidu], *90* voor [!DNL Yandex], *94* voor [!DNL Yahoo! Japan Ads], *105* voor [!DNL Yahoo Native] (afgekeurd), of *106 29&rbrace; for* (afgekeurd).[!DNL Pinterest]
+* `{sid}` wordt vervangen door numerieke identiteitskaart voor de advertentienetwerkrekening van adverteerders: *3* voor [!DNL Google Ads], *10* voor [!DNL Microsoft Advertising], *45* voor [!DNL Meta], *86* voor [!DNL Yahoo! Display Network], *87* voor [!DNL Naver], *88* voor [!DNL Baidu], *90* voor [!DNL Yandex], *94* voor [!DNL Yahoo! Japan Ads], *105* voor [!DNL Yahoo Native] (afgekeurd), of *106 29} for* (afgekeurd).[!DNL Pinterest]
 
 ##### [!DNL Baidu]
 
@@ -146,13 +148,13 @@ waarbij:
 >[!NOTE]
 >
 > Voor accounts met campagnes zonder de optie [!UICONTROL Auto Upload] bijhouden die nog niet naar de nieuwe indeling waren gemigreerd, werkt u handmatig elk achtervoegsel van de bestemmingspagina bij en voegt u de bovenstaande indeling in.
-> &#x200B;>Ondertussen werken de oudere indelingen nog steeds als volgt:
+> >Ondertussen werken de oudere indelingen nog steeds als volgt:
 >* Zoekcampagnes:
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
 >* Campagnes van het netwerk van het publiek:
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
