@@ -1,13 +1,15 @@
 ---
-source-git-commit: 91610ee5e1741f19dde5567b806e05f1034397c0
+source-git-commit: 8c36de7ffe73f86a4e78f11e38cd84fa59134833
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '234'
 ht-degree: 0%
 
 ---
 # Adobe Advertising EF-id&#39;s
 
-De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
+## Adobe Advertising EF-id&#39;s
+
+De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
 
 ### EF-id-indeling
 
