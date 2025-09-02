@@ -3,14 +3,14 @@ title: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 description: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
-source-git-commit: 576c196abb22b3e8728aee6bfca31115bd061167
+source-git-commit: f4875efbaf0f08781fc2db42e34c7e24860e773b
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising-id&#39;s gebruikt door [!DNL Customer Journey Analytics]
+# Adobe Advertising-id&#39;s gebruikt door Customer Journey Analytics
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Customer Journey Analytics*
 
@@ -63,3 +63,10 @@ In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL 
 For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-Through Data Validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Adobe Advertising."
 
 -->
+
+>[!MORELIKETHIS]
+>
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)
+
