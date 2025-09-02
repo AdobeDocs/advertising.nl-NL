@@ -2,9 +2,9 @@
 title: Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics
 description: Verwijs naar de metriek en de afmetingen van Adobe Advertising die in Customer Journey Analytics beschikbaar zijn.
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: 4b02ee2b334401884e3d15159851e8447d74fe96
+source-git-commit: 6e22ead8f91d87cce3f104635e95a2dcab03bc3a
 workflow-type: tm+mt
-source-wordcount: '420'
+source-wordcount: '429'
 ht-degree: 0%
 
 ---
@@ -21,10 +21,11 @@ Adobe Advertising geeft verkeersmaatstaven en -afmetingen door aan [!DNL Custome
 
 <!-- Verify column names -->
 
->[!NOTE]
->
->* &quot;XDM Field Name&quot; is de veldnaam in Adobe Experience Platform.
->* &quot;Weergavenaam XDM-veld&quot; geeft de weergavenaam aan in Customer Journey Analytics.
+In de volgende tabel:
+
+* &quot;XDM Field Name&quot; is de veldnaam in Adobe Experience Platform.
+
+* &quot;Weergavenaam XDM-veld&quot; geeft de weergavenaam aan in Customer Journey Analytics.
 
 | Adobe Advertising-veldnaam | XDM-veldnaam | Weergavenaam XDM-veld | Source |
 |------------------------------|----------------|------------------------|--------|
@@ -59,10 +60,11 @@ Adobe Advertising geeft verkeersmaatstaven en -afmetingen door aan [!DNL Custome
 
 ## Adobe Advertising-afmetingen
 
->[!NOTE]
->
->* &quot;XDM-veld&quot; is de veldnaam in Adobe Experience Platform.
->* &quot;Weergavenaam XDM-veld&quot; geeft de weergavenaam aan in Customer Journey Analytics.
+In de volgende tabel:
+
+* &quot;XDM Field Name&quot; is de veldnaam in Adobe Experience Platform.
+
+* &quot;Weergavenaam XDM-veld&quot; geeft de weergavenaam aan in Customer Journey Analytics.
 
 | Adobe Advertising-veldnaam | XDM-veldnaam | Weergavenaam XDM-veld | Source |
 |------------------------------|----------------|------------------------|--------|
