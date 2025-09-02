@@ -30,7 +30,7 @@ Adobe Advertising is geïntegreerd met Adobe Customer Journey Analytics voor twe
 
   In dit gebruiksgeval, te hoeven u om het even welke extra stappen behalve naar keuze uit te voeren [ gegevens voor AMO IDs en EF IDs voor gebruik in Customer Journey Analytics ](/help/integrations/analytics/rvars-to-evars.md) verzamelen.
 
-* (De aanstaande bèta eigenschap) Advertisers met Customer Journey Analytics maar niet [!DNL Analytics for Advertising] kunnen gegevens tussen Adobe Advertising en Customer Journey Analytics nefaste uitwisseling gebruikend [ Adobe Experience Platform  [!DNL Web SDK] ](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) bibliotheek (`alloy.js`). U kunt plaatsgebeurtenissen volgen gebruikend koekjes, gehakt IP, en universele IDs ([!DNL LiveRamp RampIDs] en ID5 IDs) en de gebeurtenissen van de attributenplaats aan betaalde media activiteit. De volgende gegevens zijn beschikbaar op de campagne-, ad-group-, package-, placement- en trefwoordniveaus:
+* (De aanstaande bèta eigenschap) Advertisers met Customer Journey Analytics maar niet [!DNL Analytics for Advertising] kunnen gegevens tussen Adobe Advertising en Customer Journey Analytics nefaste uitwisseling gebruikend [ Adobe Experience Platform  [!DNL Web SDK] ](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=nl-NL) bibliotheek (`alloy.js`). U kunt plaatsgebeurtenissen volgen gebruikend koekjes, gehakt IP, en universele IDs ([!DNL LiveRamp RampIDs] en ID5 IDs) en de gebeurtenissen van de attributenplaats aan betaalde media activiteit. De volgende gegevens zijn beschikbaar op de campagne-, ad-group-, package-, placement- en trefwoordniveaus:
 
    * Campagne-prestatiegegevens van Adobe Advertising in Customer Journey Analytics
 
