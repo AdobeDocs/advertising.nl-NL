@@ -3,40 +3,26 @@ title: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey
 description: Voorwaarden voor de integratie van Adobe Advertising met Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 4bd14178-5003-4da6-9034-d070c57f0e9b
-source-git-commit: 9e89f91f31c756e21db3f5b2b7c87991166e4859
+source-git-commit: 277b2ccb4d1daad7b5f94a94b283226881c90ab4
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
 
 # Voorwaarden voor de integratie van Adobe Advertising met Customer Journey Analytics
 
+*eigenschap van Beta*
+
 *Advertisers met Advertising DSP en[!DNL Advertising Search, Social, & Commerce]*
 
-* Adverteerders met zowel [!DNL Analytics for Advertising] als Customer Journey Analytics:
+* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [ schema&#39;s ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home) en [ datasets ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview)) en [ technologieën van de gegevensinzameling ](https://experienceleague.adobe.com/en/docs/experience-platform/collection/home) (met inbegrip van [ gegevensstromen ](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview) en [ markeringen ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home))
 
-   * Adobe Customer Journey Analytics<!-- any specific version? -->
+  Voor deze technologieën is ondersteuning van uw Experience Platform-sitebeheerder vereist.
 
-   * [ Alle andere eerste vereisten voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md).
+* Adobe Customer Journey Analytics met toegang tot hulpmiddelen voor gegevensbeheer
 
-* (Beta-functie) Adverteerders met Customer Journey Analytics, maar niet [!DNL Analytics for Advertising] :
-
-   * Adobe Experience Platform Web SDK-bibliotheek: `alloy.js`
-
-     De [!DNL Org ID] die wordt gebruikt voor Web SDK en voor de Adobe Advertising-advertentieaccount, moet hetzelfde zijn. U kunt dit identiteitskaart op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html?lang=nl-NL) vinden.
-
-     ![ het Summiere scherm van Foutopsporing van de Wolk van de Ervaring ](/help/integrations/assets/a4adc-debugger-summary.png)
-
-     U hebt ondersteuning nodig van uw Experience Platform-sitebeheerder om een Experience Platform-gegevensstroom en XDM-schema te maken.
-
-   * Adobe Customer Journey Analytics<!-- any specific version? -->
-
-     U zult steun van uw interne Webanalist aan opstelling een verbinding aan uw dataset nodig hebben en rapportering vormen.
-
->[!TIP]
->
->Gebruik de meest recente versie van elke bibliotheek om de gegevensgetrouwheid te verbeteren.
+  U zult steun van uw interne Webanalist aan opstelling een verbinding aan uw dataset nodig hebben en rapportering vormen.
 
 >[!MORELIKETHIS]
 >
