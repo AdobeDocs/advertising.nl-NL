@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Advertisers met Advertising DSP en[!DNL Advertising Search, Social, & Commerce]*
 
-* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [ schema&#39;s ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home) en [ datasets ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview)) en [ technologieën van de gegevensinzameling ](https://experienceleague.adobe.com/en/docs/experience-platform/collection/home) (met inbegrip van [ gegevensstromen ](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview) en [ markeringen ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home))
+* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [ schema&#39;s ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/home) en [ datasets ](https://experienceleague.adobe.com/nl/docs/experience-platform/catalog/datasets/overview)) en [ technologieën van de gegevensinzameling ](https://experienceleague.adobe.com/nl/docs/experience-platform/collection/home) (met inbegrip van [ gegevensstromen ](https://experienceleague.adobe.com/nl/docs/experience-platform/datastreams/overview) en [ markeringen ](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home))
 
   Voor deze technologieën is ondersteuning van uw Experience Platform-sitebeheerder vereist.
 
