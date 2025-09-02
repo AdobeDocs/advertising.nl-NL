@@ -2,9 +2,9 @@
 title: Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics
 description: Verwijs naar de metriek en de afmetingen van Adobe Advertising die in Customer Journey Analytics beschikbaar zijn.
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: c3836d8af50061701434790b2bd9214df29e8a01
+source-git-commit: 4b02ee2b334401884e3d15159851e8447d74fe96
 workflow-type: tm+mt
-source-wordcount: '418'
+source-wordcount: '420'
 ht-degree: 0%
 
 ---
@@ -12,6 +12,8 @@ ht-degree: 0%
 # Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics
 
 *Advertisers met slechts een integratie Adobe Advertising-Customer Journey Analytics*
+
+*eigenschap van Beta*
 
 Adobe Advertising geeft verkeersmaatstaven en -afmetingen door aan [!DNL Customer Journey Analytics] per dag. Met [!DNL Web SDK] worden doorklikbewerkingen en doorzoekacties van Adobe Advertising in real-time vastgelegd en doorgegeven aan Customer Journey Analytics.
 
