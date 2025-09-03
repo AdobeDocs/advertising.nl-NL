@@ -2,14 +2,16 @@
 title: Gegevensverzameling, gegevensoverdracht en rapportage instellen
 description: Leer hoe u gegevensverzameling, gegevensoverdracht en rapportage instelt.
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: cbfdc1ca3334debe984c1a86249cc65d3567ff5b
+source-git-commit: fabe7312fc4d1ab899bedcf9eae1c8040a4a6532
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
 
 # Gegevensverzameling, gegevensoverdracht en rapportage instellen
+
+*eigenschap van Beta*
 
 De volgende taken zijn vereist voor het weergeven van Cloud-advertentiegegevens in Customer Journey Analytics.
 
@@ -36,5 +38,5 @@ The following procedures explain the steps required to view Advertising Cloud da
 >* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
 >* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)
 >* [ verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics ](/help/integrations/analytics/rvars-to-evars.md).
->* [ Gids van Customer Journey Analytics ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-landing)
->* Customer Journey Analytics [ gids van de Gebruiker voor de gebruikers van Adobe Analytics ](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)
+>* [ Gids van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing)
+>* Customer Journey Analytics [ gids van de Gebruiker voor de gebruikers van Adobe Analytics ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)
