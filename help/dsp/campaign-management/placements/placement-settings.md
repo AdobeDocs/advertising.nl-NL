@@ -3,9 +3,9 @@ title: Plaatsingsinstellingen
 description: Zie beschrijvingen van de beschikbare plaatsingsmontages.
 feature: DSP Placements
 exl-id: 5b2574be-5d08-4cf7-910e-deac48d7e035
-source-git-commit: 902eae60008934b910b536d764f3bf424a802c4b
+source-git-commit: 0afe1d9985c1451c28943aaa17c7d6f8a73a95ef
 workflow-type: tm+mt
-source-wordcount: '4560'
+source-wordcount: '4586'
 ht-degree: 0%
 
 ---
@@ -332,6 +332,10 @@ U kunt de lijst met doelsites en geblokkeerde sites optioneel exporteren als een
 * Om een bestaand publiek te selecteren, klik ![ Uitgezocht ](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences], en selecteer dan het publiek.
 * Om een publiek tot stand te brengen, klik ![ Uitgezocht ](/help/dsp/assets/chevron-down.png) naast [!UICONTROL Included Audiences], en selecteer dan **[!UICONTROL + Create Audience]**. Voor instructies, zie [ een Herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-create.md) creëren, die met Stap 3 beginnen.
 * Klik op **[!UICONTROL Select segments for this placement only]** om specifieke publiekssegmenten te selecteren. Selecteer de segmentlogica; voor instructies, zie Stap 6 in &quot;[ een Herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-create.md) creëren.&quot; Wanneer u wordt gedaan, klik **sparen**.
+
+>[!NOTE]
+>
+>De segmenten van eerste-partij RampID die niet aan een actieve, geplande, of gepauzeerde plaatsing in bijlage zijn worden gepauzeerd. Het segment wordt in de segmentlijst genoteerd als &quot;Automatisch gepauzeerd&quot;.
 
 **[!UICONTROL Excluded Audiences]:** Om het even welk publiek om voor de plaatsing uit te sluiten, met inbegrip van publiek met [ derdesegmenten, eerste-partijsegmenten, de segmenten van Adobe, douanesegmenten, en bewaard publiek ](/help/dsp/audiences/audience-settings.md). De totale en actieve gededupliceerde publieksgrootte voor alle uitgesloten doelgroepen wordt ook weergegeven. U kunt een bestaand publiek selecteren of een nieuw publiek maken dat u later opnieuw kunt gebruiken:
 
