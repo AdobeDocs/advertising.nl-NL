@@ -3,7 +3,7 @@ title: Een voorbeeld van een ervaring bekijken
 description: Leer hoe u een voorvertoning van de creatieve projecten kunt bekijken in een advertentie.
 feature: Creative Experiences
 exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: a271589a2cb51ec50c37a52254fd8d1b535f279a
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -20,9 +20,9 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
    * Voor algoritme en rotatie wordt de creatieve optie geselecteerd op basis van de optimalisatiedoelstelling.
 
-   * Voor gewogen kleuren en rotaties wordt de creatieve afbeelding geselecteerd op basis van de opgegeven gewichten (zoals een kans van 80% dat Creative A wordt weergegeven en een kans van 20% dat Creative B wordt weergegeven).
+   * Voor geplande advertentie-omwenteling, wordt eerste creatief in het programma getoond. U kunt de voorvertoning blijven vernieuwen om door de reeks te gaan.
 
-   * Voor geplande advertentie-omwenteling, wordt eerste creatief in het programma getoond. U kunt de voorproef blijven verfrissen om door de opeenvolging verder te gaan.<!-- Refresh isn't there as of 2/3 -->
+   * Voor gewogen kleuren en rotaties wordt de creatieve afbeelding geselecteerd op basis van de opgegeven gewichten (zoals een kans van 80% dat Creative A wordt weergegeven en een kans van 20% dat Creative B wordt weergegeven).
 
 ## Creatieve voorvertoningen voorvertonen in een ervaring met doelgroepen voor besluitvormingsstructuren
 
