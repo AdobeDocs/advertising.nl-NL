@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: 58fab7afdca3468bf2bcca0f3120b3863af6eae2
+source-git-commit: d1e2e92532b1f930420436c66c687676a2b7de6a
 workflow-type: tm+mt
-source-wordcount: '2303'
+source-wordcount: '2308'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **en variatie:** Om het even welke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**[identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics te delen. Het begint met `s_kwcid=` .
+**[identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen. Het begint met `s_kwcid=` .
 
 **biedingseenheid:** de termijn van een Onderzoek, van Sociale, &amp; van Commerce voor een eenheid waarop de biedingen worden geplaatst.
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 **omzetting het volgen:** Conversie het volgen gebruikt koekjes om a) klikken op de advertenties van een adverteerder op de advertentienetwerken en b) de resulterende transacties op de website van de adverteerder te volgen.
 
-**kostennauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke uitgaven voor een portefeuille die door de voorspelde uitgaven wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kostenmodellen die voor optimalisering worden gebruikt, en het [[!UICONTROL Model Accuracy] inzicht ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
+**kostennauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke uitgaven voor een portefeuille die door de voorspelde uitgaven wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kostenmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
 
 **kostenmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die kostenvolume, de bieding voorspelt die wordt vereist om elke positie of plaatsing te winnen, en CPC (onderzoek) of CPM (vertoning) voor elke biedingseenheid gebruikend historische gegevens en wiskundige het voorspellen technieken.
 
@@ -141,7 +141,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **verweesde transactie:** de transactiegebeurtenis van A die niet met een specifiek sleutelwoord of een advertentie kan worden geassocieerd.
 
-**pixel:** transparant, één pixel door één pixelbeeld ingebed op een webpagina voor het volgen doeleinden. Codes voor het bijhouden van Adoben Advertising bevatten een HTML-afbeeldingspixel of JavaScript om kliks en de resulterende  bij te houden.
+**pixel:** transparant, één pixel door één pixelbeeld ingebed op een webpagina voor het volgen doeleinden. Voor het bijhouden van Adobe Advertising-conversietags wordt een HTML-afbeeldingspixel of JavaScript gebruikt om klikbewerkingen en de bijbehorende transacties bij te houden.
 
 **plaatsing:** een plaats op een vertoningsnetwerk waarin uw advertenties kunnen verschijnen. Het kan een gehele website, een subset van een website of een advertentiepunt op een specifieke pagina zijn.
 
@@ -163,7 +163,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **rendement op investering:** (ROI) Inkomsten minus kosten.
 
-**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt, en het [[!UICONTROL Model Accuracy] inzicht ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
+**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
 
 **opbrengstmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die de omzettingspercentage en het geschatte rendement voor elke biedingseenheid voorspelt, die op de klikgegevens (onderzoek en sociale) of (vertoning) beeldgegevens en de omzettingsgegevens van adverteerders wordt gebaseerd.
 
@@ -181,7 +181,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **`s_kwcid`:** Zie &quot;AMO-id.&quot;
 
-**het volgen malplaatje:** (Rekeningen met definitieve URLs slechts) het volgende malplaatje of het volgen URL, die alle off-landing domein omleidt en het volgen parameters specificeert en definitieve/geavanceerde URL in een parameter inbedt. Voor het volgen van de omzetting van de Adobe Advertising, die wordt toegepast wanneer de campagnemontages &quot;[!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce vooraf fixes automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.
+**het volgen malplaatje:** (Rekeningen met definitieve URLs slechts) het volgende malplaatje of het volgen URL, die alle off-landing domein omleidt en het volgen parameters specificeert en definitieve/geavanceerde URL in een parameter inbedt. Voor conversie het volgen van Adobe Advertising, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce vooraf fixes automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.
 
 **het volgen URL:** Een het volgen malplaatje of een bestemmingsURL met extra parameters die aan spoorinformatie over kliks op de advertentie worden toegevoegd. Het kan een omleidings-URL bevatten om gebruikers eerst naar een trackingserver te sturen voordat ze naar de landingspagina van de adverteerder worden doorgestuurd.
 
