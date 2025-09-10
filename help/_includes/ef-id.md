@@ -1,7 +1,7 @@
 ---
-source-git-commit: 47b5d399d4a5daa8832456abc32fff68e694abe9
+source-git-commit: 32602df7b402bd129baf73ef5bb12c4385f01196
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
@@ -9,13 +9,17 @@ ht-degree: 0%
 
 ## Adobe Advertising EF-id&#39;s
 
-De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
+De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of belichting op het niveau van de afzonderlijke browser of het apparaat. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens en Customer Journey Analytics-gegevens naar Adobe Advertising voor het melden en optimaliseren van biedingen binnen Adobe Advertising.
+
+Voor [!DNL Analytics], wordt EF identiteitskaart opgeslagen in [ an  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of [!DNL rVar] (gereserveerde [!DNL eVar]) dimensie (Adobe Advertising EF identiteitskaart).
+
+Voor Customer Journey Analytics wordt de EF-id opgeslagen in de eigenschap `trackingIdentities` van het `conversionDetails` -object, dat deel uitmaakt van de [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] -eigenschap.
 
 ### EF-ID-indelingen {#ef-id-formats}
 
 >[!NOTE]
 >
->EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] -implementatie het bijhouden van URL&#39;s in kleine letters dwingt, herkent Adobe Advertising de EF-id niet. Dit is van invloed op Adobe Advertising-biedingen en -rapporten, maar heeft geen invloed op Adobe Advertising-rapportage binnen [!DNL Analytics] .
+>EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] - of Customer Journey Analytics-implementatie URL-tracking in kleine letters forceert, herkent Adobe Advertising de EF-id niet. Dit is van invloed op Adobe Advertising-biedingen en -rapporten, maar heeft geen invloed op Adobe Advertising-rapportage binnen [!DNL Analytics] of Customer Journey Analytics.
 
 #### [!DNL Google Ads] zoekopdrachten
 

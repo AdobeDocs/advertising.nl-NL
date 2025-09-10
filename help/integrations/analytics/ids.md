@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: dbbba0bd75f3b1003325b665d06bce003c5ee054
+source-git-commit: 1d7f66dd2d4775231fb21e3d79a2e337f375679b
 workflow-type: tm+mt
-source-wordcount: '1761'
+source-wordcount: '1531'
 ht-degree: 0%
 
 ---
@@ -42,57 +42,9 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 *Figuur 2: Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie*
 
-## Adobe Advertising EF-id&#39;s
+<!-- ## Adobe Advertising EF IDs -->
 
-De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of advertentie. EF identiteitskaart wordt opgeslagen in [ een  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) afmeting (Adobe Advertising EF identiteitskaart) en volgt elke en klik of blootstelling op individuele browser of apparatenniveau. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens naar Adobe Advertising voor rapportage en optimalisatie van biedingen in Adobe Advertising.
-
-### EF-id-indeling
-
->[!NOTE]
->
->EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] -implementatie het bijhouden van URL&#39;s in kleine letters dwingt, herkent Adobe Advertising de EF-id niet. Dit is van invloed op Adobe Advertising-biedingen en -rapporten, maar heeft geen invloed op Adobe Advertising-rapportage binnen [!DNL Analytics] .
-
-#### [!DNL Google Ads] zoekopdrachten
-
-```
-{gclid}:G:s
-```
-
-waarbij:
-
-* `gclid` is de [!DNL Google Click ID] (GCLID).
-* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
-
-#### [!DNL Microsoft Advertising] zoekopdrachten
-
-```
-{msclkid}:G:s
-```
-
-waarbij:
-
-* `msclkid` is de [!DNL Microsoft Click ID] (MSCLKID).
-* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
-
-#### Advertenties en zoekadvertenties weergeven op andere zoekmachines
-
-```
-<Adobe Advertising visitor ID>:<timestamp>:<channel type>
-```
-
-waarbij:
-
-* &lt;*identiteitskaart van de bezoeker van Adobe Advertising*> is een unieke identiteitskaart per bezoeker (zoals UWKVaAABCkJ0mDt). Ook geroepen *surfer identiteitskaart*.
-
-* &lt;*timestamp*> is de tijd in formaat YYYMMDDHHMMSS (zoals 20190821192533 voor Jaar 2019, Maand 08, Dag 21, Tijd 19 :25: 33).
-
-* &lt;*kanaaltype*> is het kanaaltype verantwoordelijk voor de klik of de blootstelling:
-
-   * `d` voor een klik op een DSP-advertentie (klik-via tonen)
-   * `i` voor een indruk van een DSP-advertentie (display view-through)
-   * `s` voor een klik op een zoekadvertentie (doorzoekklik).
-
-Voorbeeld `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
+{{$include /help/_includes/ef-id.md}}
 
 ### De EF-id Dimension in [!DNL Analytics]
 
@@ -102,39 +54,9 @@ Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken i
 
 ## Adobe Advertising AMO-id&#39;s {#amo-id}
 
-De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. Identiteitskaart van AMO wordt opgeslagen in [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar afmeting (identiteitskaart van AMO) en wordt uitsluitend gebruikt voor het melden in [!DNL Analytics].
+De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] gegevensclassificatie en opname van advertentiemetriek (zoals indrukken, klikken en kosten) van Adobe Advertising. Identiteitskaart van AMO wordt opgeslagen in [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO) en wordt uitsluitend gebruikt voor het melden in [!DNL Analytics].
 
 De AMO-id wordt ook wel de `s_kwcid` genoemd, die soms wordt uitgesproken als &quot;[!DNL squid]&quot;.
-
-### Manieren om de AMO-id te implementeren {#amo-id-implement}
-
-De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
-
-* (Aanbevolen) Wanneer de invoegfunctie op de server is geïmplementeerd.
-
-   * DSP-klanten: de pixelserver voegt automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker een weergaveadvertentie met de Adobe Advertising-pixel weergeeft.
-
-   * Zoek-, sociale en Commerce-klanten:
-
-      * Voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] -accounts waarvoor de [!UICONTROL Auto Upload] -instelling is ingeschakeld voor de account of campagne, voegt de pixelserver automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising-pixel klikt.
-
-      * Voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen met [!UICONTROL Auto Upload] gehandicapten plaatsen, voeg manueel de parameter aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
-
-* Wanneer de invoegfunctie op de server niet is geïmplementeerd:
-
-   * De klanten van DSP: De [ code van JavaScript ](javascript.md) registreert automatisch klik-door:gaan en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
-
-      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md).&quot; **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
-
-      * Voor [!DNL Google Campaign Manager 360] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
-
-   * Zoek-, sociale en Commerce-klanten:
-
-      * Voor ([!DNL Google Ads] en [!DNL Microsoft Advertising]) advertenties, voeg manueel de parameter van identiteitskaart van AMO aan uw het landen paginaapara&#39;s toe, idealiter bij het [ rekeningsniveau ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij het verschillend volgen voor individuele rekeningscomponenten noodzakelijk is.
-
-      * Voor advertenties op alle andere advertentienetwerken, voeg manueel de parameter van identiteitskaart AMO aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
-
-Neem contact op met uw Adobe-accountteam als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen.
 
 ### AMO-id-indelingen {#amo-id-formats}
 
@@ -160,7 +82,7 @@ De parameters variëren per advertentienetwerk, maar de volgende parameters zijn
 
 * `{userid}` is een unieke gebruikersnaam die aan de adverteerder is toegewezen.
 
-* `{sid}` wordt vervangen door numerieke identiteitskaart voor de advertentienetwerkrekening van adverteerders: *3* voor [!DNL Google Ads], *10* voor [!DNL Microsoft Advertising], *45* voor [!DNL Meta], *86* voor [!DNL Yahoo! Display Network], *87* voor [!DNL Naver], *88* voor [!DNL Baidu], *90* voor [!DNL Yandex], *94* voor [!DNL Yahoo! Japan Ads], *105* voor [!DNL Yahoo Native] (afgekeurd), of *106 29&rbrace; for* (afgekeurd).[!DNL Pinterest]
+* `{sid}` wordt vervangen door numerieke identiteitskaart voor de advertentienetwerkrekening van adverteerders: *3* voor [!DNL Google Ads], *10* voor [!DNL Microsoft Advertising], *45* voor [!DNL Meta], *86* voor [!DNL Yahoo! Display Network], *87* voor [!DNL Naver], *88* voor [!DNL Baidu], *90* voor [!DNL Yandex], *94* voor [!DNL Yahoo! Japan Ads], *105* voor [!DNL Yahoo Native] (afgekeurd), of *106 29} for* (afgekeurd).[!DNL Pinterest]
 
 ##### [!DNL Baidu]
 
@@ -235,13 +157,13 @@ waarbij:
 >[!NOTE]
 >
 > Voor accounts met campagnes zonder de optie [!UICONTROL Auto Upload] bijhouden die nog niet naar de nieuwe indeling waren gemigreerd, werkt u handmatig elk achtervoegsel van de bestemmingspagina bij en voegt u de bovenstaande indeling in.
-> &#x200B;>Ondertussen werken de oudere indelingen nog steeds als volgt:
+> >Ondertussen werken de oudere indelingen nog steeds als volgt:
 >* Zoekcampagnes:
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{OrderItemId}!!{CampaignId}!{AdGroupId}`
 >* Winkelcampagnes (met [!DNL Microsoft Merchant Center]):
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}!{CriterionId}`
 >* Campagnes van het netwerk van het publiek:
->  &#x200B;>  `s_kwcid=AL!{userid}!10!{AdId}`
+>  >  `s_kwcid=AL!{userid}!10!{AdId}`
 
 ##### [!DNL Yahoo! Japan Ads]
 
@@ -264,6 +186,36 @@ waarbij:
 * `{source_type}` is het type van plaats waarop de advertentie is getoond: *b* voor onderzoek, *c* voor context (inhoud), of *ct* voor categorie.
 * `{phrase_id}` is de numerieke id van het advertentienetwerk voor het trefwoord.
 
+### Manieren om de AMO-id te implementeren {#amo-id-implement}
+
+De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s die worden gevolgd:
+
+* (Aanbevolen) Wanneer de invoegfunctie op de server is geïmplementeerd.
+
+   * DSP-klanten: de pixelserver voegt automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker een weergaveadvertentie met de Adobe Advertising-pixel weergeeft.
+
+   * Zoek-, sociale en Commerce-klanten:
+
+      * Voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] -accounts waarvoor de [!UICONTROL Auto Upload] -instelling is ingeschakeld voor de account of campagne, voegt de pixelserver automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising-pixel klikt.
+
+      * Voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen met [!UICONTROL Auto Upload] gehandicapten plaatsen, voeg manueel de parameter aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
+
+* Wanneer de invoegfunctie op de server niet is geïmplementeerd:
+
+   * De klanten van DSP: De [ code van JavaScript ](javascript.md) registreert automatisch klik-door:gaan en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
+
+      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md).&quot; **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
+
+      * Voor [!DNL Google Campaign Manager 360] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+
+   * Zoek-, sociale en Commerce-klanten:
+
+      * Voor ([!DNL Google Ads] en [!DNL Microsoft Advertising]) advertenties, voeg manueel de parameter van identiteitskaart van AMO aan uw het landen paginaapara&#39;s toe, idealiter bij het [ rekeningsniveau ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij het verschillend volgen voor individuele rekeningscomponenten noodzakelijk is.
+
+      * Voor advertenties op alle andere advertentienetwerken, voeg manueel de parameter van identiteitskaart AMO aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
+
+Neem contact op met uw Adobe-accountteam als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen.
+
 ### AMO ID Dimension in [!DNL Analytics]
 
 In analyserapporten kunt u zoeken naar AMO-id-gegevens door te zoeken naar de [!UICONTROL AMO ID] -dimensie en de [!UICONTROL AMO ID Instances] -parameter te gebruiken. In de [!UICONTROL AMO ID] -dimensie worden alle vastgelegde AMO-id-waarden opgeslagen, terwijl de [!UICONTROL AMO ID Instances] -meting aangeeft hoe vaak een AMO-id-waarde door de site is vastgelegd. Als bijvoorbeeld vier keer op dezelfde zoekopdracht werd geklikt en Analytics zeven sittems bijhield, zou [!UICONTROL AMO ID Instances] zeven (7) zijn en [!UICONTROL Clicks] vier (4).
@@ -272,7 +224,7 @@ Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
+In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
 
 >[!MORELIKETHIS]
 >
