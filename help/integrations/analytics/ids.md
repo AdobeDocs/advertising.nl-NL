@@ -3,9 +3,9 @@ title: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 description: Adobe Advertising-id's gebruikt door  [!DNL Analytics]
 feature: Integration with Adobe Analytics
 exl-id: ff20b97e-27fe-420e-bd55-8277dc791081
-source-git-commit: d1e2e92532b1f930420436c66c687676a2b7de6a
+source-git-commit: 56c27461cf0e1d7111de9d35d9e38fa980af4c52
 workflow-type: tm+mt
-source-wordcount: '878'
+source-wordcount: '1036'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,51 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 ### EF-ID-indelingen {#ef-id-formats}
 
-{{$include /help/_includes/ef-id-formats.md}}
+>[!NOTE]
+>
+>EF-id&#39;s zijn hoofdlettergevoelig. Als een [!DNL Analytics] - of Customer Journey Analytics-implementatie URL-tracking in kleine letters forceert, herkent Adobe Advertising de EF-id niet. Dit is van invloed op Adobe Advertising-biedingen en -rapporten, maar heeft geen invloed op Adobe Advertising-rapportage binnen [!DNL Analytics] of Customer Journey Analytics.
+
+#### [!DNL Google Ads] zoekopdrachten
+
+```
+{gclid}:G:s
+```
+
+waarbij:
+
+* `gclid` is de [!DNL Google Click ID] (GCLID).
+* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
+
+#### [!DNL Microsoft Advertising] zoekopdrachten
+
+```
+{msclkid}:G:s
+```
+
+waarbij:
+
+* `msclkid` is de [!DNL Microsoft Click ID] (MSCLKID).
+* `s` is het netwerktype (&quot;s&quot; voor onderzoek).
+
+#### Advertenties en zoekadvertenties weergeven op andere zoekmachines
+
+```
+<Adobe Advertising visitor ID>:<timestamp>:<channel type>
+```
+
+waarbij:
+
+* &lt;*identiteitskaart van de bezoeker van Adobe Advertising*> is een unieke identiteitskaart per bezoeker (zoals UWKVaAABCkJ0mDt). Ook geroepen *surfer identiteitskaart*.
+
+* &lt;*timestamp*> is de tijd in formaat YYYMMDDHHMMSS (zoals 20190821192533 voor Jaar 2019, Maand 08, Dag 21, Tijd 19 :25: 33).
+
+* &lt;*kanaaltype*> is het kanaaltype verantwoordelijk voor de klik of de blootstelling:
+
+   * `d` voor een klik op een DSP-advertentie (klik-via tonen)
+   * `i` voor een indruk van een DSP-advertentie (display view-through)
+   * `s` voor een klik op een zoekadvertentie (doorzoekklik).
+
+Voorbeeld `EF ID: WcmibgAAAHJK1RyY:1551968087687:d`
 
 ### De EF-id Dimension in [!DNL Analytics]
 
@@ -57,10 +101,6 @@ In [!DNL Analytics] -rapporten kunt u EF-id-gegevens vinden door te zoeken naar 
 Voor EF-id&#39;s geldt de limiet van 500 kB voor unieke identificatiekenmerken in Analysis Workspace. Zodra de waarde 500k wordt bereikt, worden alle nieuwe volgcodes gemeld onder de één-lijn-punt titel &quot;[!UICONTROL Low Traffic]&quot;. Vanwege de mogelijkheid dat rapportprecisie ontbreekt, worden de EF-id&#39;s niet geclassificeerd en mag u deze niet gebruiken voor segmenten of voor rapportage in [!DNL Analytics] .
 
 ## Adobe Advertising AMO-id&#39;s {#amo-id}
-
-{{$include /help/_includes/amo-id.md}}
-
-## AMO ID-indelingen {#amo-id-formats}
 
 {{$include /help/_includes/amo-id.md}}
 
@@ -102,7 +142,7 @@ Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
+In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
 
 >[!MORELIKETHIS]
 >
