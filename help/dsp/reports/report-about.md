@@ -3,9 +3,9 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: a1ece707f43af4a6a3fc5573e41c75622f9b502f
+source-git-commit: a3e6324edcf5a52f6338ce969034cd9c4b6fb487
 workflow-type: tm+mt
-source-wordcount: '1492'
+source-wordcount: '1560'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Met aangepaste rapporten kunt u de inhoud en levering van uw rapportgegevens aan
 
 * Kies uit vooraf geconfigureerde rapportsjablonen en pas deze desgewenst verder aan.
 
-U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:00 uur plannen in de opgegeven tijdzone volgens opgegeven criteria (zoals elke 15 dagen of op de eerste van elke maand). Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
+U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
@@ -97,17 +97,19 @@ U kunt rapporten eenmaal genereren of dagelijks, wekelijks of maandelijks om 3:0
 
      Voor een vergelijking van dit rapport aan rapporten die door [!DNL Advanced Measurement Services] en Analytische Adobe worden gecreeerd, zie &quot;[ FAQs over de Rapporten van de Douane ](/help/dsp/reports/faq-reports.md).&quot;
 
-   * **[!UICONTROL Path Length]:** gebruik dit rapport om      traceer het aantal gebruikersinteractiepunten dat vereist is voor conversies in de loop der tijd, zodat u de optimale en de optimale frequentie kunt kiezen. Het rapport toont het aantal omzettingen door weglengte (interactiepunten), zoals hoeveel omzettingen voorkwamen nadat de gebruikers slechts één ad interactie, twee en interactie, etc. hadden. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Path Length],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc.
+   * **[!UICONTROL Path Length]:** gebruik dit rapport om het aantal punten van de gebruikersinteractie te volgen die voor omzettingen in tijd worden vereist zodat u de optimale en frequentie kunt kiezen. Het rapport toont het aantal omzettingen door weglengte (interactiepunten), zoals hoeveel omzettingen voorkwamen nadat de gebruikers slechts één ad interactie, twee en interactie, etc. hadden. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Path Length],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc.
 
      De gegevens worden weergegeven voor elke padlengte van maximaal 10 en gegevens voor padlengten van meer dan 10 worden gegroepeerd.
 
    * **[!UICONTROL Time to Conversion]:** gebruik dit rapport om het optimale venster van de attributieraadpleging te bepalen en campagnes met langere tijden aan omzetting te identificeren, die van het opnieuw richten kunnen profiteren. Het rapport toont het aantal omzettingen door de tijdsduur in dagen van de laatste interactie (en blootstelling of klik) aan omzetting. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Time Taken (in days)],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc. De omzettingen die langer duren dan de raadplegingsperiode worden gegroepeerd in één rij (bijvoorbeeld, als het rapport een periode van de 30 dagraadpleging gebruikt, dan worden alle omzettingen die langer duren dan 30 dagen om voor te komen gegroepeerd in een rij met een &quot;[!UICONTROL Time Taken (in days)]&quot;waarde van &quot;30+&quot;).
 
+   * **[!UICONTROL Content BETA]:** gebruik dit rapport om een goed begrip te krijgen van de aflevering van de indruk en andere maatstaven op basis van opgegeven afmetingen (zoals genre, productiekwaliteit en classificatie van inhoud), zodat u de functie voor afstemmen kunt optimaliseren en de merkveiligheid kunt garanderen. Naast inhoudsafmetingen bevat het rapport de meeste standaardafmetingen, meetgegevens en filters. Gegevens per inhoudsdimensie zijn beschikbaar voor [!DNL Freewheel] , [!DNL Index] , [!DNL Magnite] , [!DNL Microsoft] , [!DNL Nexxen] , [!DNL Pubmatic] , [!DNL Sharethrough] en [!DNL Triplelift] . Inhoudssignalen worden door uitgevers doorgegeven tijdens de bidstream en zijn afhankelijk van beschikbaarheid.
+
 ## Rapportage tussen accounts {#cross-account-reporting}
 
 Elke organisatie met meerdere DSP-accounts kan desgewenst gegevens voor meerdere accounts mogelijk maken in aangepaste rapporten, afhankelijk van de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met uw Adobe-accountteam om deze functie in te schakelen en te configureren.
 
-Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [&#128279;](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
+Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
 Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts aan waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 

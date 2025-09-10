@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: e07713ed7b3b700560577f8020066540e34d8952
+source-git-commit: 4b09e4c09bd2d028365c820c24ac041fb5e5283c
 workflow-type: tm+mt
-source-wordcount: '2228'
+source-wordcount: '2306'
 ht-degree: 0%
 
 ---
@@ -31,6 +31,15 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign ID] | De unieke id voor de campagne in DSP. |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Name] | De naam van de campagne die door de gebruiker is toegewezen. |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Start Date] | De eerste datum voor de campagne. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Series] | De inhoudsreeks. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Genre] | Het genre van de inhoud. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [ wordt bepaald laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [ laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Rating] | De classificatie van de inhoud, zoals PG of R. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Livestream] | Geeft aan of de advertentie in een live stream verscheen: `Not Live` of `Live` . |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Length (in seconds)] | De lengte van de inhoud in seconden. Wordt meestal gebruikt voor video of audio. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Language (as per ISO 639)] | De taal van de inhoud met ISO-639-1-alpha-2. |
 | [!UICONTROL Dimension] | [!UICONTROL Date/Time] | [!UICONTROL Day (YYYY-MM-DD)] | Het jaar, de maand en de dag. |
 | [!UICONTROL Dimension] | [!UICONTROL Date/Time] | Dag [!UICONTROL of Week] | De specifieke dag, zoals [!UICONTROL Monday] of [!UICONTROL Tuesday] . |
 | [!UICONTROL Dimension] | [!UICONTROL Date/Time] | [!UICONTROL Hour (YYYY-MM-DD HH)] | Het jaar, de maand, de dag en het uur. |
