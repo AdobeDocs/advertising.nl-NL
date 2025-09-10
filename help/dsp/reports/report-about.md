@@ -109,7 +109,7 @@ U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bi
 
 Elke organisatie met meerdere DSP-accounts kan desgewenst gegevens voor meerdere accounts mogelijk maken in aangepaste rapporten, afhankelijk van de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met uw Adobe-accountteam om deze functie in te schakelen en te configureren.
 
-Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
+Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [&#128279;](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
 Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts aan waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 
