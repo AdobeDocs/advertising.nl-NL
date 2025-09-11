@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: 4b09e4c09bd2d028365c820c24ac041fb5e5283c
+source-git-commit: ae7431218dcb547ded53d4bad1a79b894ee973fe
 workflow-type: tm+mt
-source-wordcount: '2306'
+source-wordcount: '2307'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign ID] | De unieke id voor de campagne in DSP. |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Name] | De naam van de campagne die door de gebruiker is toegewezen. |
 | [!UICONTROL Dimension] | [!UICONTROL Campaign] | [!UICONTROL Campaign Start Date] | De eerste datum voor de campagne. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud/film. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Series] | De inhoudsreeks. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Genre] | Het genre van de inhoud. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [ wordt bepaald laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
