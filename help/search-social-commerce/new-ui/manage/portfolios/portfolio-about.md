@@ -3,9 +3,10 @@ title: (Nieuwe interface) Informatie over portfolio's
 description: Meer informatie over portfolio's.
 feature: Search Portfolios, Search Optimization
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: 8d023c22-a1dd-4608-8c72-0a61f055e7e5
+source-git-commit: f7c63646b3eae20fd3413446789fe06ce583e23e
 workflow-type: tm+mt
-source-wordcount: '697'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ U kunt uw advertentiecampagnes collectief beheren gebruikend portefeuilles (geli
 
 Sommige gebruikersrollen kunnen portefeuilles tot stand brengen en vormen. Afhankelijk van het type portfolio kunnen de portefeuilleinstellingen de portefeuilledoelstelling, de toegewezen campagnes, de uitgavenstrategie, eventuele inschrijvingsbeperkingen op portefeuilleniveau en de parameters voor modellering en optimalisatie omvatten. Als u klaar bent voor Zoeken, Sociale Zaken en Commerce om te beginnen met optimaliseren voor een portfolio, wijzigt u de status in &quot;geoptimaliseerd&quot;.
 
-U kunt portefeuilles naar keuze groeperen in portefeuillegroepen zodat kunt u samengestelde klik en opbrengstgegevens voor de volledige groep bekijken. Creeer portefeuillegroepen van [ erfenis UI ](/help/search-social-commerce/getting-started/ui-switch.md).
+U kunt portefeuilles naar keuze groeperen in [ portefeuillegroepen ](portfolio-group-manage.md) zodat u samengestelde gegevens voor de volledige groep kunt bekijken.
 
 Afhankelijk van uw rol, kunt u prestatiessimulaties kunnen produceren, die voorspellende modellering gebruiken om uw optimaal uitgavenpunt en gedetailleerde voorspelde nauwkeurigheidsrapporten te identificeren.<!-- Mention this now? In addition, all users can use the Spend Recommendation Tool to identify the optimal budget distribution across portfolios. -->
 
@@ -28,7 +29,7 @@ Campagnes komen in aanmerking voor optimalisatie op basis van de biedstrategie v
 
 >[!NOTE]
 >
->Slimme biedingen en automatische biedingen worden vaak door elkaar gebruikt, maar zijn niet hetzelfde. Slimme biedingen hebben alleen betrekking op [!DNL Google Ads] - en [!DNL Microsoft Advertising] geautomatiseerde biedstrategieën waarbij gebruik wordt gemaakt van veiling-tijd biedend, wat betekent dat het advertentienetwerk op het moment van elke veiling optimaliseert voor conversie- of conversiewaarden.
+>&quot;Smart bidding&quot; en &quot;automated bidding&quot; worden vaak door elkaar gebruikt, maar ze zijn niet hetzelfde. Slimme biedingen hebben alleen betrekking op [!DNL Google Ads] - en [!DNL Microsoft Advertising] geautomatiseerde biedstrategieën waarbij gebruik wordt gemaakt van veiling-tijd biedend, wat betekent dat het advertentienetwerk op het moment van elke veiling optimaliseert voor conversie- of conversiewaarden.
 
 <!-- Add "Frequency of Bidding (or other actions, like adjusting campaign budget or bid adjustment values?) -->
 
