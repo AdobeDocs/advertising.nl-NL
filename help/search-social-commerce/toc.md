@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: f7c63646b3eae20fd3413446789fe06ce583e23e
+source-git-commit: aba643fb2d1d005a90ecec4f067714e9ec830627
 workflow-type: tm+mt
 source-wordcount: '1877'
 ht-degree: 2%
@@ -22,10 +22,10 @@ ht-degree: 2%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL){target="_blank"}
-      + [ Integratie met Adobe Audience Manager (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html?lang=nl-NL){target="_blank"}
-   + [ Steun voor de privacy van de consument (verbinding)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [ Beleid en richtlijnen (verbinding)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html?lang=nl-NL){target="_blank"}
+      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
+      + [ Integratie met Adobe Audience Manager (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
+   + [ Steun voor de privacy van de consument (verbinding) ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en richtlijnen (verbinding) ](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -84,6 +84,7 @@ ht-degree: 2%
    + Beheren {#manage}
       + Portfolio&#39;s {#portfolios}
          + [Portfolio&#39;s](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md)
+         + [Portefeuillegroepen beheren](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-group-manage.md)
          + [Een portfolio maken](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md)
          + [Een portfolio dupliceren](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-duplicate.md)
          + [Details portfolio bewerken](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md)
@@ -91,11 +92,10 @@ ht-degree: 2%
          + [Portfolio-instellingen](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-settings.md)
          + [Gegevens over portfolioprestaties weergeven](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-details.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Portfolios] -weergave](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
-         + [Portefeuillegroepen beheren](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-group-manage.md)
       + Campagnes {#campaigns}
          + [De weergave [!UICONTROL Campaigns]](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
-         + [ Wijs campagnes aan een portefeuille  toe](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
-         + [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+         + [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+         + [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
          + [Beperkingstoewijzingen voor campagnes beheren](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Campaigns] -weergave](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
       + Toegevoegde groepen {#ad-groups}
@@ -119,7 +119,7 @@ ht-degree: 2%
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [ de koekjes van Adobe Advertising (verbinding)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html?lang=nl-NL){target="_blank"}
+      + [ de koekjes van Adobe Advertising (verbinding) ](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
       + [De trackingparameter voor AMO-id&#39;s (s_kwcid)](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
