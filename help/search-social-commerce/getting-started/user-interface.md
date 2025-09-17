@@ -3,7 +3,7 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: 553d0c90160cb12b8b32d3540c58797e6fac2abb
+source-git-commit: a180f99dc28fb1ed9abbd7654914fdd75e642c37
 workflow-type: tm+mt
 source-wordcount: '1071'
 ht-degree: 0%
@@ -38,15 +38,13 @@ Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
 * **[!UICONTROL Manage]** submenu:
 
-<!--  * **[!UICONTROL Portfolio Groups]:** Exits the new UI site and opens the legacy [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Portfolios] view > [!UICONTROL Portfolio Groups] tab. -->
+   * **[!UICONTROL Portfolios]:** opent een nieuwe [!UICONTROL Portfolios] weergave waarin alle portfolio&#39;s voor de adverteerder worden weergegeven. U kunt uw portfolio&#39;s vanuit deze weergave beheren. U kunt een lijst van toegewezen beperkingen en meningsprestaties en samenstellingsdetails voor om het even welke portefeuille openen.
 
-* **[!UICONTROL Portfolios]:** opent een nieuwe [!UICONTROL Portfolios] weergave waarin alle portfolio&#39;s voor de adverteerder worden weergegeven. U kunt uw portfolio&#39;s vanuit deze weergave beheren. U kunt een lijst van toegewezen beperkingen en meningsprestaties en samenstellingsdetails voor om het even welke portefeuille openen.
+     De portfolioinstellingen bevatten tabbladen voor het toewijzen van het doel en de campagnes, het beheren van uitgaven, het beheren van beperkingen en het optimaliseren van besturingselementen. Alleen gebruikers met de rol &quot;Expert Optimization&quot; of hoger kunnen de instellingen op het tabblad [!UICONTROL Control Optimization] bewerken.
 
-  De portfolioinstellingen bevatten tabbladen voor het toewijzen van het doel en de campagnes, het beheren van uitgaven, het beheren van beperkingen en het optimaliseren van besturingselementen. Alleen gebruikers met de rol &quot;Expert Optimization&quot; of hoger kunnen de instellingen op het tabblad [!UICONTROL Control Optimization] bewerken.
+   * **[!UICONTROL Campaigns]:** opent een nieuwe [!UICONTROL Campaigns] mening, die alle campagnes voor de adverteerder toont. U kunt campagnes toewijzen aan portfolio&#39;s en de beperkte toewijzingen voor geselecteerde campagnes beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
 
-* **[!UICONTROL Campaigns]:** opent een nieuwe [!UICONTROL Campaigns] mening, die alle campagnes voor de adverteerder toont. U kunt campagnes toewijzen aan portfolio&#39;s en de beperkte toewijzingen voor geselecteerde campagnes beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
-
-  Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
+     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
 
 * **[!UICONTROL Ad Groups]:** opent een nieuwe [!UICONTROL Ad Groups] weergave waarin alle advertentiegroepen voor de adverteerder worden weergegeven. U kunt beperkte toewijzingen voor geselecteerde advertentiegroepen beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel.
 
@@ -86,7 +84,7 @@ Gebruik het zoekveld boven het hoofdmenu om te zoeken naar specifieke menuopties
 
 * Een selecteerbare lijst met Experience Cloud-organisaties waartoe u toegang hebt.
 
-* ![ het centrum van de Hulp van het centrum van de Hulp van 0&rbrace; ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het centrum van de Hulp van het centrum van de Hulp van 0} ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ Meldingen ](/help/search-social-commerce/assets/notifications-aec.png " Meldingen ") het paneellijsten verzoeken, berichten, en aankondigingen van Experience Cloud.
 
@@ -144,11 +142,11 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. Uw rol bepaalt de 
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het menu van de Hulp van 0} {het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![ het profiel van de Gebruiker 1} gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 
