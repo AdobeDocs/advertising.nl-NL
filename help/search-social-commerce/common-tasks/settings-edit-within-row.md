@@ -3,9 +3,9 @@ title: Instellingen rechtstreeks in een rij bewerken
 description: Leer hoe u gegevens bewerkt in beheerweergaven in de rij.
 exl-id: 0b22a2ec-50c2-457d-8cea-a40943ee2a41
 feature: Search Common Tasks
-source-git-commit: 533484b8e2e462891d7d34091991047b2d9b62c7
+source-git-commit: dac4989bf58f823fee5ea1adf5f8d71348001a11
 workflow-type: tm+mt
-source-wordcount: '157'
+source-wordcount: '178'
 ht-degree: 0%
 
 ---
@@ -18,13 +18,13 @@ ht-degree: 0%
 
 ## (Nieuwe interface) Instellingen bewerken in een rij
 
-1. Klik in de cel om deze actief te maken of houd de cursor boven de waarde.
+1. Plaats de cursor op de rij en selecteer de waarde. Afhankelijk van de kolom, kunt u ![ moeten klikken geeft ](/help/search-social-commerce/assets/edit-new.png " uit ") of **[!UICONTROL ...]** > ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") naast de waarde. Als u de naam van een entiteit wilt wijzigen, klikt u op de naam en selecteert u **[!UICONTROL Rename]** .
 
 1. Wijzig de waarde:
 
    * (Opties in een lijst) Selecteer een nieuwe optie in de lijst.
 
-   * (Vrije-vormwaarden) klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " "), veranderen de waarde, en dan klikken **toepassen**.
+   * (Vrije-vormwaarden) verander de waarde(n), en klik dan **van toepassing zijn**.
 
 
 ## (Verouderde gebruikersinterface) Instellingen bewerken in een rij
