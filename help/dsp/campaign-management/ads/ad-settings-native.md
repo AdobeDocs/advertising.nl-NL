@@ -3,9 +3,9 @@ title: Instellingen voor eigen weergave
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor native weergaveadvertenties.
 feature: DSP Ads
 exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
-source-git-commit: 152ba89baa17264a74a1a2498e0140972a0470eb
+source-git-commit: 9d9330847c9356180928337a4a452f35e7024545
 workflow-type: tm+mt
-source-wordcount: '338'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** De URL waarop de viewer landt wanneer deze op de advertentie klikt.
 
-**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [ het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.[!UICONTROL Landing Page]
+**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [!UICONTROL Landing Page] het volgen van Advertising DSP macro&#39;s [ opgenomen, als toepasselijk.](/help/dsp/campaign-management/macros.md)
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** De adverteerder voor de advertentie.
 
 **[!UICONTROL Call to Action]:** (Optioneel) De stap die gebruikers moeten uitvoeren zodra ze deze advertentie zien.
 
-**[!UICONTROL Advertiser Logo]:** (Optioneel) Een 1:1-ratiologo dat bij de advertentie wordt opgenomen voor meer merkherkenning. Klik op **[!UICONTROL Browse]** , zoek het bestand op uw apparaat of netwerk en klik op **[!UICONTROL Upload]** .
+**[!UICONTROL Advertiser Logo]:** (Optioneel) Een 1 :1 ratiologo dat bij de advertentie moet worden opgenomen voor meer merkherkenning. Klik op **[!UICONTROL Browse]** , zoek het bestand op uw apparaat of netwerk en klik op **[!UICONTROL Upload]** .
 
 ### [!UICONTROL Pixel]
 
-Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Uiteinde:** om de derde volgende pixel voor veelvoudige advertenties in een plaatsing uit te geven meteen gebruikend de [!UICONTROL Ad Tools] mening, zie &quot;[ het Volgen Pixels van de Derde aan Ads in een Plaatsing ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads) vastmaken.&quot;
+Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Uiteinde:** om de derde volgende pixel voor veelvoudige advertenties in een plaatsing uit te geven meteen gebruikend de [!UICONTROL Ad Tools] mening, zie &quot;[ het Volgen Pixels van de Derde aan Ads in een Plaatsing ](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads) vastmaken.&quot;
 
 De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerkt.
 
@@ -62,4 +62,4 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 >* [ creeer Één enkele Advertentie ](ad-create.md)
 >* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
 >* [ Advertentiespecificaties ](ad-specs.md)
->* [ DSP Macro&#39;s ](/help/dsp/campaign-management/macros.md)
+>* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

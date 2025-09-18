@@ -1,169 +1,116 @@
 ---
-title: Advertenties toevoegen aan plaatsingen
-description: Leer hoe u advertenties aan plaatsingen koppelt.
+title: Advertenties aan plaatsen koppelen en eruit verwijderen
+description: Leer hoe u advertenties koppelt aan plaatsingen en advertenties verwijdert uit plaatsingen.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 86acfaecdf761adc7c6585a49dbcdf4490290a8c
+source-git-commit: 0f022babeab6c044949760cedc103323eb0cc950
 workflow-type: tm+mt
-source-wordcount: '901'
-ht-degree: 0%
+source-wordcount: '360'
+ht-degree: 1%
 
 ---
 
-# Advertenties toevoegen aan plaatsingen
+# Advertenties aan plaatsen koppelen en eruit verwijderen
 
-Gebruik de [!UICONTROL Ad Tools] om advertenties aan plaatsingen te koppelen, pixels voor tekstspatiëring van derden aan de advertenties te koppelen en bestaande pixels voor tekstspatiëring van derden los te koppelen van de advertenties.
+U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
 >[!NOTE]
 >
 >Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-## Open de [!UICONTROL Ad Tools] Weergave {#ad-tools-open}
+## Advertenties koppelen aan plaatsingen vanuit de [!UICONTROL Placements] -weergave {#attach-ads-placement}
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
 1. Klik op de naam van de campagne.
 
-1. Open de [!UICONTROL Ad Tools] op een van de volgende manieren te bekijken:
+1. Klik op de tab **[!UICONTROL Placements]** .
 
-   * (Vanaf de [!UICONTROL Packages] , [!UICONTROL Placements], of [!UICONTROL Ads] weergave) Klik in de rechterbovenhoek op **[!UICONTROL ...]** > **[!UICONTROL Ad Tools]**.
+1. Voer een van de volgende handelingen uit:
 
-   * (Vanaf de [!UICONTROL Placements] (weergave) Naast de plaatsingsnaam klikt u op **[!UICONTROL ...]** > **[!UICONTROL Attach Ads].**
+   * (Voor één plaatsing) naast de plaatsingsnaam klikt u op **[!UICONTROL ...]** > **[!UICONTROL Ads]** > **[!UICONTROL Attach Ads]** .
 
-   * (Vanaf de [!UICONTROL Ads] (weergave) Naast de naam van de advertentie klikt u op  **[!UICONTROL ...]** > **[!UICONTROL Add to Placements]**.
+   * (Als u dezelfde advertenties aan meerdere plaatsen wilt koppelen) Schakel het selectievakje in voor elke plaatsingsnaam. Klik op **[!UICONTROL Attach Ads]** in het menu Handelingen in bulk.
 
-   De [!UICONTROL Attach Ads] is standaard geselecteerd.
+1. Schakel het selectievakje naast elke advertentie in die u wilt bijvoegen
 
-## Advertenties toevoegen aan plaatsingen {#attach-ads-campaign}
+1. Klik op **[!UICONTROL Attach Selected Ads]**.
 
-1. [Open de [!UICONTROL Ad Tools] weergave](#ad-tools-open).
+## Een advertentie toevoegen aan plaatsingen vanuit de weergave [!UICONTROL Ads] {#attach-ads}
 
-1. In de [!UICONTROL Edit] Ga als volgt te werk voor elke groep advertenties die u aan plaatsingen wilt koppelen:
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-   1. (Optioneel) Zoek op een van de volgende manieren specifieke plaatsen en advertenties:
+1. Klik op de naam van de campagne.
 
-      * Klik boven de linkertabel op ![Filter](/help/dsp/assets/filter.png) en filtert de lijsten op pakket, plaatsingstype, plaatsingsstatus, en type, of advertentiestatus.
+1. Klik op de tab **[!UICONTROL Ads]** .
 
-      * Zoek boven de tabellen rechts en links naar specifieke tekstreeksen in de plaatsings- en advertentienamen.
+1. Klik op **[!UICONTROL ...]** > **[!UICONTROL Add to placements]** naast de advertentie.
 
-   1. Schakel in de linkertabel het selectievakje in naast elke plaatsing waaraan u de advertenties wilt koppelen.
+1. Voer een van de volgende handelingen uit:
 
-   1. Selecteer in de rechtertabel het selectievakje naast elke advertentie die u aan de geselecteerde plaatsingen wilt koppelen.
+   * Een nieuwe plaatsing maken en de advertentie eraan koppelen:
 
-      Alleen advertenties die van toepassing zijn op het plaatsingstype en die nog niet aan de geselecteerde plaatsingen zijn gekoppeld, kunnen worden geselecteerd.
+      1. Klik op **[!UICONTROL Create a New Placement]**.
 
-   1. Klik in de rechteronderhoek op **[!UICONTROL Attach]**.
+      1. Ga de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
-1. (Optioneel) Klik op ![Terug naar map](/help/dsp/assets/breadcrumb-return.png "Terug naar map") links van [!UICONTROL Ad Tools] en selecteert u de naam van de campagne.
+         Het plaatsingstype wordt bepaald door het advertentietype.
 
-## Advertenties weergeven die zijn gekoppeld aan plaatsingen {#view-ads-campaign}
+      1. Klik op **[!UICONTROL Attach ad]**.
 
-<!-- should be a separate page, combined with "List the Placements Associated with an Ad" (although that pertains to a single ad only), or maybe just rename this topic -->
+      1. Schakel het selectievakje naast elke advertentie in die u aan de plaatsing wilt toevoegen.
 
-1. [Open de [!UICONTROL Ad Tools] weergave](#ad-tools-open).
+      1. Klik op **[!UICONTROL Attach Selected Ads]**.
 
-1. Schakel over naar de **[!UICONTROL View]** rechtsboven.
+   * De advertentie aan een bestaande plaatsing koppelen:
 
-1. (Optioneel) Zoek zo nodig specifieke plaatsen en advertenties:
+      1. Klik op **[!UICONTROL Select a Placement].**
 
-   * Klik boven de linkertabel op ![Filter](/help/dsp/assets/filter.png) en filtert de lijsten op pakket, plaatsingstype, plaatsingsstatus, en type, of advertentiestatus.
+      1. Klik op **[!UICONTROL Select]naast de naam van de plaatsing.**
 
-   * Zoek in de rechter- en linkertabellen naar specifieke tekstreeksen in de plaatsings- of advertentienaam.
+      1. (Optioneel) Klik voor elke aanvullende plaatsing op **[!UICONTROL Attach To Another Placement]** en herhaal de vorige stappen.
 
-1. Klik op een plaatsingsrij in de linkertabel om de bijgevoegde advertenties in de rechtertabel weer te geven.
+      1. Klik op **[!UICONTROL I'm done for now]**.
 
-1. (Optioneel) Als u meer advertenties wilt toevoegen aan de plaatsing van de campagne, schakelt u over op de knop **[!UICONTROL Edit]** in de rechterbovenhoek. Zie Stap 2 in de vorige procedure, &quot;[Advertenties toevoegen aan plaatsingen](#attach-ads-campaign),&quot; voor instructies.
+## Advertenties uit Plaatsen verwijderen uit de [!UICONTROL Placements] -weergave {#remove-ads-placement}
 
-## Pixels van derden bijvoegen bij advertenties in een plaatsing {#attach-pixels-ads}
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-1. [Open de [!UICONTROL Ad Tools] weergave](#ad-tools-open).
+1. Klik op de naam van de campagne.
 
-1. Klik op de knop **[!UICONTROL Attach Pixels]** tab.
+1. Klik op de tab **[!UICONTROL Placements]** .
 
-1. In de [!UICONTROL Edit] subweergave:
+1. Voer een van de volgende handelingen uit:
 
-   1. (Optioneel) Zoek op de volgende manieren advertenties en pixels van derden:
+   * (Voor één plaatsing) naast de plaatsingsnaam klikt u op **[!UICONTROL ...]** > **[!UICONTROL Ads]** > **[!UICONTROL Detach Ads]** .
 
-      * Klik boven de linkertabel op ![Filter](/help/dsp/assets/filter.png) en filtert u de lijsten op advertentiestatus, advertentietype, gebeurtenis voor pixelintegratie of pixeltype.
+   * (Als u dezelfde advertenties uit meerdere plaatsingen wilt verwijderen) Schakel het selectievakje in voor elke plaatsingsnaam. Klik op **[!UICONTROL Detach Ads]** in het menu Handelingen in bulk.
 
-      * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
+1. Schakel het selectievakje naast elke advertentie in die u wilt verwijderen.
 
-   1. (Als er geen pixels voor het bijhouden van derden voor de campagne bestaan) Maak een pixel:
+1. Klik op **[!UICONTROL Detach Selected Ads]**.
 
-      1. Klik in de rechtertabel op **[!UICONTROL Create pixel]**.
+## Een advertentie verwijderen uit een advertentie uit de [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
 
-      1. Geef de instellingen op:
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-         **[!UICONTROL Integration Event]:** De gebeurtenis die de pixel activeert, zoals *[!UICONTROL Impression]* of *[!UICONTROL Click-through]*.
+1. Klik op de naam van de campagne.
 
-         **[!UICONTROL Pixel Type]:** Of de pixel een *[!UICONTROL IMG URL]* (afbeeldingsbestand van 1 x 1 pixel), *[!UICONTROL HTML]*, of *[!UICONTROL JavaScript URL]*.
+1. Klik op de tab **[!UICONTROL Placements]** .
 
-         **[!UICONTROL Pixel URL or Code]:** De URL van de pixelafbeelding, in de juiste indeling voor het opgegeven pixeltype.
+1. Plaats de cursor op de plaatsingsrij en klik op **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Inspector]** .
 
-         **[!UICONTROL Pixel Name]:** De pixelnaam. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
+1. Klik op de tab **[!UICONTROL Ads]** .
 
-         **[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, of *[!UICONTROL IAS]*.
-
-      1. Klik op **[!UICONTROL Save]**.
-
-   1. Schakel in de linkertabel het selectievakje in naast elke advertentie waarvoor u pixels voor het bijhouden van derden wilt toevoegen.
-
-   1. Schakel in de rechtertabel het selectievakje in naast elke pixel van derden die u wilt koppelen aan de geselecteerde advertenties.
-
-      Alleen pixels die nog niet aan de geselecteerde advertenties zijn gekoppeld, kunnen worden geselecteerd.
-
-   1. Klik in de rechteronderhoek op **[!UICONTROL Attach]**.
-
-1. (Optioneel) Klik op ![Terug naar map](/help/dsp/assets/breadcrumb-return.png "Terug naar map") links van [!UICONTROL Ad Tools] en selecteert u de naam van de campagne.
-
-## Pixels van derden loskoppelen van advertenties in een plaatsing {#detach-pixels-ads}
-
-1. [Open de [!UICONTROL Ad Tools] weergave](#ad-tools-open).
-
-1. Klik op de knop **[!UICONTROL Attach Pixels]** tab.
-
-1. In de [!UICONTROL Edit] subweergave:
-
-   1. (Optioneel) Zoek op de volgende manieren advertenties en pixels van derden:
-
-      * Klik boven de linkertabel op ![Filter](/help/dsp/assets/filter.png) en filtert u de lijsten op advertentiestatus, advertentietype, gebeurtenis voor pixelintegratie of pixeltype.
-
-      * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
-
-   1. Schakel in de linkertabel het selectievakje in naast elke advertentie waarvan u pixels voor het bijhouden van derden wilt loskoppelen.
-
-   1. Schakel in de rechtertabel het selectievakje in naast de pixels die u wilt loskoppelen van de geselecteerde advertenties.
-
-      Alleen pixels die aan alle geselecteerde advertenties zijn gekoppeld, kunnen worden geselecteerd.
-
-   1. Klik in de rechteronderhoek op **[!UICONTROL Detach]**.
-
-1. (Optioneel) Klik op ![Terug naar map](/help/dsp/assets/breadcrumb-return.png "Terug naar map") links van [!UICONTROL Ad Tools] en selecteert u de naam van de campagne.
-
-## Pixels weergeven die zijn gekoppeld aan advertenties {#view-pixels-ads}
-
-1. [Open de [!UICONTROL Ad Tools] weergave](#ad-tools-open).
-
-1. Klik op de knop **[!UICONTROL Attach Pixels]** tab.
-
-1. Schakel over naar de **[!UICONTROL View]** rechtsboven.
-
-1. (Optioneel) Zoek zo nodig advertenties en pixels van derden:
-
-   * Klik boven de linkertabel op ![Filter](/help/dsp/assets/filter.png) en filtert u de lijsten op advertentiestatus, advertentietype, gebeurtenis voor pixelintegratie of pixeltype.
-
-   * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
-
-1. Klik op een willekeurige advertentierij in de linkertabel om de gekoppelde pixels in de rechtertabel weer te geven.
-
-1. (Optioneel) Als u meer pixels aan de advertenties wilt koppelen, schakelt u over naar de **[!UICONTROL Edit]** in de rechterbovenhoek. Zie Stap 3 in de vorige procedure. &quot;[Pixels van derden bijvoegen bij advertenties in een plaatsing](#attach-pixels-ads),&quot; voor instructies.
+1. Klik naast de naam van de advertentie op **[!UICONTROL ...]** > **[!UICONTROL Detach]** .
 
 >[!MORELIKETHIS]
 >
->* [Over Advertentiebeheer](ad-about.md)
->* [Eén advertentie maken](ad-create.md)
->* [Meerdere externe advertenties maken](ad-create-multiple.md)
->* [Een advertentie bewerken](ad-edit.md)
->* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [Veelgestelde vragen over Universal Video](/help/dsp/campaign-management/faq-universal-video.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ maak en verwijder Pixels van Advertenties vast ](ad-pixel-attach-detach.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
+>* [ geef een Advertentie uit ](ad-edit.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
+>* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)

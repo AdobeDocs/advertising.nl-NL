@@ -3,7 +3,7 @@ title: Ad-instellingen weergeven
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor weergaveadvertenties.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 9d9330847c9356180928337a4a452f35e7024545
 workflow-type: tm+mt
 source-wordcount: '444'
 ht-degree: 0%
@@ -18,29 +18,29 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 ### Basis
 
-**[!UICONTROL Ad Type]:** (Alleen-lezen) Het advertentietype dat u maakt, komt overeen met het plaatsingstype waaraan de advertentie kan worden gekoppeld. De standaardinstellingen *[!UICONTROL Display]*.
+**[!UICONTROL Ad Type]:** (read-only) het advertentietype u creeert, dat aan het plaatsingstype beantwoordt waaraan de advertentie kan worden vastgemaakt. De standaardwaarde is *[!UICONTROL Display]* .
 
 **[!UICONTROL Ad Name]:** De advertentienaam. De titel van het element wordt standaard gebruikt, maar u kunt de naam wijzigen.
 
 >[!TIP]
 >
-> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in [!UICONTROL Ads] en in rapporten. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 300 x 250 gamer).
+> Gebruik een naam die u gemakkelijk kunt vinden wanneer u de advertentie aan een plaatsing, in de [!UICONTROL Ads] mening, en in rapporten vastmaakt. Beschrijf bijvoorbeeld het eenheidstype en enkele belangrijke kenmerken (zoals Voorvertoning van vakantieproduct: 300 x 250 gamer).
 
-**\[Bron toevoegen\]**: (Alleen-lezen) *[!UICONTROL 3rd party]*.
+**\[Add Source\]**: (Alleen-lezen) *[!UICONTROL 3rd party]* .
 
 **[!UICONTROL This is an expandable Banner]:** (Alleen advertenties van derden) Geeft aan dat de advertentie een uitbreidbare banneradvertentie is. De gerelateerde uitbreidingsinstellingen bepalen welke voorraad moet worden aangeschaft, zodat deze het advertentiegedrag weerspiegelen.
 
-**[!UICONTROL Expansion Method]:** (Alleen uitbreidingsbare banneradvertenties van derden) Of de banner wordt uitgebreid *[!UICONTROL Click]* of *[!UICONTROL Rollover]*.
+**[!UICONTROL Expansion Method]:** (Alleen banneradvertenties van derden die kunnen worden uitgebreid) Of de banner wordt uitgebreid *[!UICONTROL Click]* of *[!UICONTROL Rollover]* .
 
-**[!UICONTROL Expansion Directions]:** (Uitgebreide banneradvertenties van derden alleen) De richting waarin de advertentie wordt uitgebreid: *[!UICONTROL Up]*, *[!UICONTROL Down]*, *[!UICONTROL Left]*, of *[!UICONTROL Right]*.
+**[!UICONTROL Expansion Directions]:** (Uitgebreide banneradvertenties van derden alleen) De richting waarin de advertentie wordt uitgebreid: *[!UICONTROL Up]*, *[!UICONTROL Down]*, *[!UICONTROL Left]* of *[!UICONTROL Right]*.
 
-**[!UICONTROL Certified Vendors]:** (Alleen uitbreidingsbare banneradvertenties van derden) De gecertificeerde leverancier waarvoor de advertentie beschikbaar is: *[!UICONTROL DCM]* ([!DNL Google DoubleClick for Advertisers]), *[!UICONTROL Flashtalking]*, *[!UICONTROL Sizmek]*, of *[!UICONTROL Jivox]*.
+**[!UICONTROL Certified Vendors]:** (Alleen externe banneradvertenties) De gecertificeerde leverancier waarvoor de advertentie beschikbaar is: *[!UICONTROL DCM]* ([!DNL Google DoubleClick for Advertisers]), *[!UICONTROL Flashtalking]*, *[!UICONTROL Sizmek]* of *[!UICONTROL Jivox]* .
 
-**[!UICONTROL Display Code]:** (Alleen externe advertenties) De URL van het creatieve element van derden. Alle [tijdstempel] en [[tijdstempel]]-parameters worden vervangen door werkelijke waarden.
+**[!UICONTROL Display Code]:** (Alleen advertenties van derden) De URL van het creatieve middel van derden. Om het even welke [ timestamp ] en [[ timestamp ]] parameters worden vervangen met daadwerkelijke waarden.
 
-**[!UICONTROL Final Display Code]:** (Alleen externe advertenties) De URL voor het creatieve middel van derden, met de vereiste [Reclame DSP het volgen macro&#39;s](/help/dsp/campaign-management/macros.md) ingevoegd, indien van toepassing.
+**[!UICONTROL Final Display Code]:** (De derdeadvertenties slechts) URL voor de derde creatieve activa, met de noodzakelijke [ het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
 
-**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet een [ondersteunde standaardweergave en -grootte](ad-specs.md). U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code]. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
+**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet a [ gesteunde standaardvertoning en grootte ](ad-specs.md) zijn. U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code] invoeren. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
 
 >[!IMPORTANT]
 >
@@ -48,24 +48,24 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 ### [!UICONTROL Pixel]
 
-Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Tip:** De volgende pixels van derden voor meerdere advertenties tegelijk bewerken met de opdracht [!UICONTROL Ad Tools] bekijken, zie &quot;[Pixels van derden bijvoegen bij advertenties in een plaatsing](/help/dsp/campaign-management/ads/ad-attach-to-placement.md#attach-pixels-ads).&quot;
+Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Uiteinde:** om de derde volgende pixel voor veelvoudige advertenties in een plaatsing uit te geven meteen gebruikend de [!UICONTROL Ad Tools] mening, zie &quot;[ het Volgen Pixels van de Derde aan Ads in een Plaatsing ](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads) vastmaken.&quot;
 
 De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerkt.
 
-**[!UICONTROL Integration Event]:** De gebeurtenis die de pixel activeert. Gebruik voor dit advertentietype pixels die op het *[!UICONTROL Impression]* of *[!UICONTROL Click-through]*.
+**[!UICONTROL Integration Event]:** De gebeurtenis die de pixel in brand zet. Gebruik voor dit advertentietype pixels die op *[!UICONTROL Impression]* of *[!UICONTROL Click-through]* worden geactiveerd.
 
-**[!UICONTROL Pixel Type]:** Of de pixel een *[!UICONTROL IMG URL]* (afbeeldingsbestand van 1 x 1 pixel), *[!UICONTROL HTML]*, of *[!UICONTROL JavaScript URL]*.
+**[!UICONTROL Pixel Type]:** Of de pixel een *[!UICONTROL IMG URL]* (1x1 pixelafbeeldingsbestand), *[!UICONTROL HTML]* of *[!UICONTROL JavaScript URL]* is.
 
-**[!UICONTROL Pixel URL or Code]:** De URL van de pixelafbeelding, in de juiste indeling voor de opgegeven [!UICONTROL Pixel Type].
+**[!UICONTROL Pixel URL or Code]:** De URL van de pixelafbeelding, in de juiste indeling voor de opgegeven afbeelding [!UICONTROL Pixel Type] .
 
 **[!UICONTROL Pixel Name]:** De pixelnaam. Gebruik een naam waarmee u de pixel gemakkelijk kunt herkennen.
 
-**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]*, *[!UICONTROL Comscore]*, *[!UICONTROL WhiteOps]*, of *[!UICONTROL IAS]*.
+**[!UICONTROL Pixel Provider]:** De pixelprovider: *[!UICONTROL None]* , *[!UICONTROL Comscore]* , *[!UICONTROL WhiteOps]* of *[!UICONTROL IAS]* .
 
 >[!MORELIKETHIS]
 >
->* [Over Advertentiebeheer](ad-about.md)
->* [Eén advertentie maken](ad-create.md)
->* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Ad-specificaties](ad-specs.md)
->* [DSP Macros](/help/dsp/campaign-management/macros.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: a2cf15742557686df280b2a73eea996be53e5f4d
+source-git-commit: a3bd04da6c6f428fdb6e1f05187ea3de0174c9d7
 workflow-type: tm+mt
-source-wordcount: '947'
+source-wordcount: '957'
 ht-degree: 3%
 
 ---
@@ -32,8 +32,8 @@ ht-degree: 3%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -67,11 +67,12 @@ ht-degree: 3%
       + [Plaatsen bewerken](/help/dsp/campaign-management/placements/placement-edit.md)
       + [Plaatsen dupliceren](/help/dsp/campaign-management/placements/placement-duplicate.md)
       + [Bodmultiplicatoren voor plaatsen beheren](/help/dsp/campaign-management/placements/placement-manage-bid-multipliers.md)
-      + [Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+      + [Advertenties aan plaatsen koppelen en eruit verwijderen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md)
+      + [Pixels koppelen aan en verwijderen uit advertenties](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md)
       + [Advertentieschema&#39;s voor plaatsingen bewerken](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
       + [Een gedetailleerd rapport voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-view-report.md)
       + [Het Wijzigingslogboek voor een plaatsing weergeven](/help/dsp/campaign-management/placements/placement-change-log.md)
-      + [Een plaatsing pauzeren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)
+      + [Een plaatsing deactiveren of activeren](/help/dsp/campaign-management/placements/placement-pause-activate.md)
       + [Een plaatsing archiveren of archiveren](/help/dsp/campaign-management/placements/placement-archive-unarchive.md)
       + [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
    + Adds {#ads}
@@ -83,7 +84,7 @@ ht-degree: 3%
       + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [ Advertenties aan Plaatsingen  vastmaken](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html?lang=nl-NL) <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
+      + [ maak en verwijder Advertenties van Plaatsen ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html) vast <!-- Dupe link to this file (in Placements chapter), so need to use an absolute link in one of the listings -->
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -238,6 +239,6 @@ ht-degree: 3%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
++ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html) <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + [Help opvragen](/help/dsp/get-help.md)
-+ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL)
++ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)

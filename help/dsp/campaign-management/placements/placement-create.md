@@ -3,7 +3,7 @@ title: Een plaatsing maken
 description: Leer hoe u een plaatsing maakt.
 feature: DSP Placements
 exl-id: 28a328b1-0839-442e-a245-f586a7042f41
-source-git-commit: 0afe1d9985c1451c28943aaa17c7d6f8a73a95ef
+source-git-commit: 18c68edec80a80d236df138c05fba8d857c9ed9e
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%
@@ -52,7 +52,7 @@ ht-degree: 0%
 
       1. Versmal het publiek. Dit omvat het selecteren van publiekssegmenten om binnen de plaatsing te richten.
 
-         Voor [!DNL Roku] plaatsen, kunt u hefboomwerking {het unieke publiek van 1} DSP aanpassen met [ door één of meerdere publiekssegmenten te omvatten die tegen  [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) (opted-in) deterministische dataset kunnen worden aangepast.[!DNL Roku]
+         Voor [!DNL Roku] plaatsen, kunt u hefboomwerking [ DSP uniek publiek die met  [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) aanpassen door één of meerdere publiekssegmenten te omvatten die tegen [!DNL Roku] (opted-in) deterministische dataset kunnen worden aangepast.
 
          De segmenten van eerste-partij RampID die niet aan een actieve, geplande, of gepauzeerde plaatsing in bijlage zijn worden gepauzeerd. Het segment wordt in de segmentlijst genoteerd als &quot;Automatisch gepauzeerd&quot;.
 
@@ -94,45 +94,45 @@ ht-degree: 0%
 
       * Bestaande advertenties toevoegen aan de campagne:
 
-      1. Klik op **[!UICONTROL Select an Ad]**.
-
-      1. Voer een van de volgende handelingen uit:
-
-         * Eén advertentie tegelijk toevoegen:
-
-            1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
-
-            1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach Another Ad]** en herhaal het proces.
-
-         * U kunt maximaal 20 advertenties tegelijk toevoegen:
-
-            1. Schakel het selectievakje boven de advertentielijst in.
-
-            1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
-
-            1. Klik op **[!UICONTROL Attach]**.
-
-            1. Klik op **[!UICONTROL Select]** naast de naam van de advertentie.
-
-      1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
-
-         1. Klik op **[!UICONTROL Custom Schedule Ads]**.
+         1. Klik op **[!UICONTROL Select an Ad]**.
 
          1. Voer een van de volgende handelingen uit:
 
-            * Als u een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
+            * Eén advertentie tegelijk toevoegen:
 
-            * Als u een bestaande vlucht aan een advertentie wilt toevoegen, klikt u op **[!UICONTROL +]** in de rij met toevoegingen voor de vluchtkolom.
+               1. Klik naast de naam van de advertentie op **[!UICONTROL Select].**
 
-            * Als u een bestaande vlucht uit een advertentie wilt verwijderen, klikt u op **[!UICONTROL x]** in de rij met toevoegingen voor de vluchtkolom.
+               1. (Optioneel) Klik voor elke aanvullende advertentie die u wilt bijvoegen op **[!UICONTROL Attach Another Ad]** en herhaal het proces.
 
-            * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie en voert u vervolgens het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage.
+            * U kunt maximaal 20 advertenties tegelijk toevoegen:
 
-              Het totale gewicht moet 100 zijn.
+               1. Schakel het selectievakje boven de advertentielijst in.
 
-         1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]** .
+               1. Schakel het selectievakje naast elke advertentie in die u wilt toevoegen.
 
-         1. Controleer de vlieggegevens en klik op **[!UICONTROL Save & Finish]** .
+               1. Klik op **[!UICONTROL Attach]**.
+
+               1. Klik op **[!UICONTROL Select]** naast de naam van de advertentie.
+
+         1. (Optioneel) De standaardvliegperiode en de ad-rotatie overschrijven voor specifieke advertenties in de plaatsing:
+
+            1. Klik op **[!UICONTROL Custom Schedule Ads]**.
+
+            1. Voer een van de volgende handelingen uit:
+
+               * Als u een vlucht wilt toevoegen, klikt u op **[!UICONTROL Add Flight]** en geeft u vervolgens de begin- en einddatum op.
+
+               * Als u een bestaande vlucht aan een advertentie wilt toevoegen, klikt u op **[!UICONTROL +]** in de rij met toevoegingen voor de vluchtkolom.
+
+               * Als u een bestaande vlucht uit een advertentie wilt verwijderen, klikt u op **[!UICONTROL x]** in de rij met toevoegingen voor de vluchtkolom.
+
+               * (Als meerdere advertenties dezelfde vlucht hebben) Als u de advertenties ongelijk wilt roteren, klikt u op **[!UICONTROL Even Rotation]** in de vluchtinformatie en voert u vervolgens het relatieve gewicht in waarmee u elke advertentie wilt roteren, als een percentage.
+
+                 Het totale gewicht moet 100 zijn.
+
+            1. Klik in de rechterbovenhoek op **[!UICONTROL Continue]** .
+
+            1. Controleer de vlieggegevens en klik op **[!UICONTROL Save & Finish]** .
 
 >[!MORELIKETHIS]
 >
@@ -140,7 +140,7 @@ ht-degree: 0%
 >* [ geeft Plaatsen ](placement-edit.md) uit
 >* [ beheert Bodmultipliers voor Plaatsingen ](placement-manage-bid-multipliers.md)
 >* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](placement-edit-ad-schedule.md)
->* [ Pauze of activeer een Plaatsing ](placement-pause-activate.md)
+>* [ deactivate of activeert een Plaatsing ](placement-pause-activate.md)
 >* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
 >* [ Montages van de Plaatsing ](placement-settings.md)
 >* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)

@@ -3,7 +3,7 @@ title: Plaatsen bewerken
 description: Leer hoe u een plaatsing kunt bewerken.
 feature: DSP Placements
 exl-id: 391aa34e-ae37-4682-9e1b-571c3f015996
-source-git-commit: 19be64303a0a86e916edacde439a852aac0a89f5
+source-git-commit: 18c68edec80a80d236df138c05fba8d857c9ed9e
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 0%
@@ -27,7 +27,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]** .
-1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Quick Edit]** .
+1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** > **[!UICONTROL Quick Edit]** .
 1. Bewerk om het even welke beschikbare [ plaatsingsmontages ](placement-settings.md): **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, en **[!UICONTROL Budget]**.
 1. Klik op **[!UICONTROL Apply]**.
 
@@ -43,7 +43,7 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 
 1. Klik in het submenu op **[!UICONTROL Placements]** .
 
-1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
+1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** **[!UICONTROL Full Edit]** >.
 
 1. Bewerk de [ plaatsingsmontages ](placement-settings.md).
 
@@ -97,9 +97,9 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [ dupliceer een Plaatsing ](placement-duplicate.md)
 >* [ beheert Bodmultipliers voor Plaatsingen ](placement-manage-bid-multipliers.md)
 >* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](placement-edit-ad-schedule.md)
->* [ Pauze of activeer een Plaatsing ](placement-pause-activate.md)
+>* [ deactivate of activeert een Plaatsing ](placement-pause-activate.md)
 >* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
 >* [ Montages van de Plaatsing ](placement-settings.md)
 >* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [ Sneltoetsen ](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html?lang=nl-NL) uit
+>* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html) uit

@@ -3,9 +3,9 @@ title: Informatie over inzichten
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: a098e99f26a4e7d472d4a391d2cd465fc8d4255b
+source-git-commit: 0f022babeab6c044949760cedc103323eb0cc950
 workflow-type: tm+mt
-source-wordcount: '925'
+source-wordcount: '942'
 ht-degree: 0%
 
 ---
@@ -89,6 +89,8 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 * (Als u inzichten voor alle campagnes wilt openen) Klik in het hoofdmenu op **[!UICONTROL Insights BETA]** .
 
 * (Als u inzichten wilt openen voor een specifieke campagne, een bepaald pakket of een bepaalde plaatsing) klikt u naast de naam van de entiteit in de weergave [!UICONTROL Campaigns] , [!UICONTROL Packages] of [!UICONTROL Placements] op **[!UICONTROL ...]** > **[!UICONTROL Insights]** .
+
+* (Als u inzichten voor een specifieke plaatsing wilt openen) klikt u naast de naam van de entiteit in de weergave [!UICONTROL Campaigns] , [!UICONTROL Packages] of [!UICONTROL Placements] op **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
 
 ## Filters toepassen op een tabblad
 
