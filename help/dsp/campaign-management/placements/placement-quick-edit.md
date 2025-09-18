@@ -38,4 +38,4 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 >* [ deactivate of activeert een Plaatsing ](placement-pause-activate.md)
 >* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
 >* [ Montages van de Plaatsing ](placement-settings.md)
->* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html) uit
+>* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html?lang=nl-NL) uit

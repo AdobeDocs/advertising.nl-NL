@@ -102,4 +102,4 @@ Gebruik deze optie alleen als u dezelfde wijzigingen wilt toepassen op alle gese
 >* [ Montages van de Plaatsing ](placement-settings.md)
 >* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [ Sneltoetsen ](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html) uit
+>* [ Video: Hoe te om Plaatsen uit te geven Gebruikend Bulk geeft Hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html?lang=nl-NL) uit
