@@ -1,26 +1,21 @@
 ---
 title: De Lijsten van de Overeenkomst beheren
 description: Leer hoe te om overeenkomstenlijsten voor plaatsing te creëren en te beheren richten.
-feature: DSP Private Inventory, DSP Deal IDs, DSP Placements
-source-git-commit: 60c808fe1b78443a55d900a1a424442bd388e872
+feature: DSP Private Inventory, DSP On Demand Inventory, DSP Deal IDs, DSP Placements
+exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
+source-git-commit: 166117045e52a92d9c1fda4eeca9320c9e0bf3f1
 workflow-type: tm+mt
-source-wordcount: '211'
+source-wordcount: '226'
 ht-degree: 1%
 
 ---
 
 # De Lijsten van de Overeenkomst beheren
 
-<!-- Will later add fct for On-Demand deals, too, so keep title generic. Later add "DSP On Demand Inventory to feature metadata -->
+U kunt lijsten met persoonlijke deals en [!DNL On Demand] -deals voor plaatsingsdoeleinden maken en beheren. Doel of sluit specifieke privé overeenkomstenlijsten binnen plaatsingsmontages uit.
 
-U kunt lijsten met persoonlijke deals voor plaatsingsdoeleinden maken en beheren. Doel of sluit specifieke privé overeenkomstenlijsten binnen plaatsingsmontages uit.
-
-In douanerapporten, kunt u a) filtergegevens door overeenkomstenlijsten en b) omvatten [!UICONTROL Feed] dimensie &quot;[!UICONTROL Deal list]&quot;in de [!UICONTROL Build Your Report] sectie.
-
-<!--
-What's New:  
-
-In custom reports, you can now a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section.
+<!-- Later:
+In custom reports, you can a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section
 -->
 
 ## Een lijst met deals weergeven
@@ -35,9 +30,15 @@ In custom reports, you can now a) filter data by deal lists and deals and b) inc
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create].**
 
+1. Voer de waarde **[!UICONTROL List name]** in en selecteer **[!UICONTROL Inventory Type]** (*[!UICONTROL Private]* of *[!UICONTROL On Demand]*).
+
 1. Klik op **[!UICONTROL Add Deals].**
 
-1. (Optie) Filter de lijst door uitgever, SSP, of overeenkomsttype (*[!UICONTROL Guaranteed]* of *[!UICONTROL Non-Guaranteed]*); of onderzoek de lijst door overeenkomstennaam of deal identiteitskaart
+1. (Optioneel) Filter of zoek naar deals:
+
+   * Voor privé overeenkomsten, filter de lijst door uitgever, SSP, of overeenkomstentype (*[!UICONTROL Guaranteed]* of *[!UICONTROL Non-Guaranteed]*); of onderzoek de lijst door overeenkomstennaam of deal identiteitskaart
+
+   * Voor [!UICONTROL On Demand] overeenkomsten, filter de lijst door uitgever, gebied, of media type of onderzoek de lijst door overeenkomstennaam.
 
 1. Selecteer de controledoos naast elke overeenkomst om in de lijst te omvatten.
 
