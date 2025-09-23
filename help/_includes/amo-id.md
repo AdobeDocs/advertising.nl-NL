@@ -11,9 +11,9 @@ ht-degree: 0%
 
 De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] - en Customer Journey Analytics-gegevensclassificatie en -opname van advertentiemetriek (zoals indrukken, klikken en kosten) vanuit Adobe Advertising.
 
-Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO).
+Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar afmeting (identiteitskaart van AMO).
 
-Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [ uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
+Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [ uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 De AMO-id wordt ook wel de `s_kwcid` genoemd, die soms wordt uitgesproken als &quot;[!DNL squid]&quot;.
 
