@@ -4,7 +4,7 @@ description: Meer informatie over de gegevens die beschikbaar zijn in het dashbo
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: ef79f52b-cc97-4f36-8a44-50ffd3377c8b
-source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
+source-git-commit: 6fe42303c8499dbff6d5964d4074e98a2f2486ba
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 0%
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-Met de aanpasbare [!UICONTROL Dashboard] kunt u de prestaties van al uw portfolio&#39;s controleren <!-- May later include other entity-level data --> , zodat u mogelijke prestatieproblemen kunt opsporen en oplossen. U kunt dagelijkse, wekelijkse of maandelijkse gegevens weergeven voor elke tijdsperiode in de afgelopen 90 dagen.
+Met de aanpasbare [!UICONTROL Dashboard] > [!UICONTROL Overview] kunt u de prestaties van al uw portfolio&#39;s controleren <!-- May later include other entity-level data --> , zodat u mogelijke prestatieproblemen kunt identificeren en oplossen. U kunt dagelijkse, wekelijkse of maandelijkse gegevens weergeven voor elke tijdsperiode in de afgelopen 90 dagen.
 
 Uw [!UICONTROL Dashboard] bevat de volgende visuele rapporten:
 
