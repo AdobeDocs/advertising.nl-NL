@@ -3,9 +3,10 @@ title: Portefeuilleinstellingen voor bulkbewerking met behulp van bladbestanden
 description: Leer hoe u de instellingen voor meerdere portfolio's kunt bewerken met behulp van een bulksheet-bestand.
 feature: Search Portfolios, Search Optimization
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: 20f7419d-9f5e-4477-ae8d-8b85a79b1e81
+source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -18,7 +19,7 @@ Een portfoliowerkblad is een bestand dat portfolioinstellingen in een specifieke
 
 * Een alleen-lezen [!UICONTROL Instructions] werkblad met informatie over het bewerken van de velden.
 
-* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [ uploadt het uitgegeven dossier ](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce.
+* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [ uploadt het uitgegeven dossier ](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce. De bewerkbare velden worden in kleur gemarkeerd.
 
 ## Een bulkbladbestand met portfolioinstellingen downloaden
 

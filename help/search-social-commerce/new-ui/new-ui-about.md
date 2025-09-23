@@ -2,18 +2,19 @@
 title: De nieuwe gebruikersinterface
 description: Leer meer over de nieuwe gebruikersinterface.
 feature: Search Introduction
-source-git-commit: 97c7776ab7dfacbb7ac4fdc038f25d4ced5b54e4
+exl-id: 27fcc1c2-fe69-4bdc-9786-c48b28da1560
+source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
 
 # De nieuwe gebruikersinterface
 
-U kunt uw doelstellingen, simulaties, en portefeuilles van het nieuwe gebruikersinterface (UI) nu beheren. U kunt ook bepaalde taken uitvoeren op campagnes en ad-groepen en oude weergaven openen. De nieuwe gebruikersinterface voor Zoeken, Sociale media en Commerce wordt uitgevoerd in een nieuwe URL binnen het domein https://experience.adobe.com.
+U kunt uw doelstellingen, simulaties, en portefeuilles van het nieuwe gebruikersinterface (UI) nu beheren. U kunt ook bepaalde taken uitvoeren op campagnes en ad-groepen. De nieuwe interface Zoeken, Sociaal en Commerce wordt uitgevoerd in een nieuwe URL binnen het domein https://experience.adobe.com.
 
-Na verloop van tijd worden extra functies naar de nieuwe gebruikersinterface verplaatst. Ondertussen kunt u eenvoudig schakelen tussen de nieuwe interface en de oudere interface.
+In de loop der tijd worden extra functies verplaatst naar de nieuwe interface. Ondertussen kunt u de meeste functies in de oudere gebruikersinterface openen via het hoofdmenu in de nieuwe gebruikersinterface. U kunt ook gemakkelijk schakelen tussen de nieuwe interface en de verouderde UI.
 
 Voor meer informatie over hoe nieuwe UI wordt georganiseerd, zie &quot;[ hoe het gebruikersinterface ](/help/search-social-commerce/getting-started/user-interface.md) wordt georganiseerd.&quot;
 

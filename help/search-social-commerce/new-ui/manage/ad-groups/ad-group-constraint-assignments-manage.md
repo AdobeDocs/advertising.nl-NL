@@ -3,9 +3,10 @@ title: Beperkingstoewijzingen voor advertentiegroepen beheren
 description: Leer hoe u beperkingen aan advertentiegroepen toewijst.
 feature: Search Optimization, Search Campaign Management
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: c9960b5a-4b6c-4ef0-8501-5478af2c40da
+source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '364'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 1. Schakel het selectievakje in naast elke advertentiegroep waaraan u één beperking wilt toewijzen.
 
-1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/assign.png "Toewijzen") **[!UICONTROL Assign]** > **[!UICONTROL Constraint]**.
+1. Klik op de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
 1. Selecteer de restrictie.
 
@@ -58,7 +59,7 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 1. Schakel het selectievakje in naast elke advertentiegroep waarvan u de toewijzing van beperkingen ongedaan maakt.
 
-1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/unassign.png "Toewijzen ongedaan maken") **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]**.
+1. Klik op de werkbalk voor bulkacties op **-[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
 1. Klik op **[!UICONTROL Confirm]**.
 

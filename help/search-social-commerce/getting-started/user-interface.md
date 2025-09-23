@@ -3,9 +3,9 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: a180f99dc28fb1ed9abbd7654914fdd75e642c37
+source-git-commit: de1b498963abd5670dee3dbc326206fa0708a7fa
 workflow-type: tm+mt
-source-wordcount: '1071'
+source-wordcount: '1172'
 ht-degree: 0%
 
 ---
@@ -22,19 +22,37 @@ Elke pagina bevat het hoofdmenu en andere op taak en informatie gebaseerde menu&
 
 ## Het hoofdmenu
 
-De nieuwe gebruikersinterface heeft een nieuw hoofdmenu aan de linkerkant, waarin taken per werkgebied worden ingedeeld (Overzicht, Beheren, Reviseren, Instellen). Aanvullende submenu&#39;s en opties uit de oudere gebruikersinterface worden later toegevoegd.
+De nieuwe gebruikersinterface heeft een nieuw hoofdmenu aan de linkerkant, dat taken door werkstadium organiseert. Aanvullende submenu&#39;s en opties uit de oudere gebruikersinterface worden later toegevoegd.
 
 ### Opties in het hoofdmenu
 
 Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
-* **[!UICONTROL Dashboard]** Hiermee opent u een configureerbare [!UICONTROL Dashboard] -weergave met prestatievisualisaties voor al uw portfolio&#39;s.
+* **[!UICONTROL Dashboard]** submenu:
+
+   * **[!UICONTROL Overview]** Hiermee opent u een configureerbare [!UICONTROL Dashboard] -weergave met prestatievisualisaties voor al uw portfolio&#39;s.
+
+   * **[!UICONTROL Recommendations]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] -weergave.
+
+* **[!UICONTROL Alerts & Notifications]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] -weergave.
+
+* **[!UICONTROL Goals]** submenu:
+
+   * **[!UICONTROL Objectives]** Hiermee opent u een nieuwe [!UICONTROL Objectives] -weergave waarin u al uw bestaande doelstellingen kunt weergeven en doelstellingen kunt maken, bewerken en verwijderen.
+
+   * **[!UICONTROL Conversions]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Admin] > [!UICONTROL Conversions] -weergave.
+
+   * **[!UICONTROL Conversion Value Rules]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Optimization] > [!UICONTROL Conversion Value Rules] -weergave.
+
+   * **[!UICONTROL Constraints]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Optimization] > [!UICONTROL Constraints] -weergave.
 
 * **[!UICONTROL Plan]** submenu:
 
-   * **[!UICONTROL Objectives]** Hiermee opent u een nieuwe [!UICONTROL Objectives] -weergave waarin u al uw bestaande doelstellingen kunt weergeven en doelstellingen kunt maken, bewerken en verwijderen. De objectieve instellingen zijn gelijk aan de instellingen in de oudere gebruikersinterface van [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL New Objectives Beta] .
-
    * **[!UICONTROL Simulations]** opent een nieuwe [[!UICONTROL Simulations] mening ](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), waarvan u alle gebruiker-gecreeerde douaneformaties en automatisch geproduceerde wekelijkse simulaties kunt bekijken, nieuwe douaneformulaties produceren, en bestaande simulaties opnieuw uitvoeren. Met de knop [!UICONTROL Spend Planner] opent u het oudere gereedschap [!UICONTROL Spend Recommendation] op [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] .
+
+   * **[!UICONTROL Spend Planner]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] -weergave.
+
+   * **[!UICONTROL Label Classification]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Label Classifications] -weergave.
 
 * **[!UICONTROL Manage]** submenu:
 
@@ -46,27 +64,59 @@ Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
      Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
 
-* **[!UICONTROL Ad Groups]:** opent een nieuwe [!UICONTROL Ad Groups] weergave waarin alle advertentiegroepen voor de adverteerder worden weergegeven. U kunt beperkte toewijzingen voor geselecteerde advertentiegroepen beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel.
+   * **[!UICONTROL Ad Groups]:** opent een nieuwe [!UICONTROL Ad Groups] weergave waarin alle advertentiegroepen voor de adverteerder worden weergegeven. U kunt beperkte toewijzingen voor geselecteerde advertentiegroepen beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel.
 
-  Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
+     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
 
-* **[!UICONTROL Review]** submenu:
+   * **[!UICONTROL Ads]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+* **[!UICONTROL Reports]** submenu:
 
    * **[!UICONTROL Insights]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Insights] -weergave.
 
-   * **[!UICONTROL Reports]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Reports] -weergave.
-
-   * **[!UICONTROL Recommendations]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] -weergave.
+   * **[!UICONTROL Scheduled Reports]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Reports] -weergave.
 
    * **[!UICONTROL Spreadsheet Feeds]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Spreadsheets] -weergave.
 
    * **[!UICONTROL History Logs]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Change History] -weergave.
 
+* **[!UICONTROL Target]** submenu:
+
+   * **[!UICONTROL Audience]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Audiences] -weergave.
+
+   * **[!UICONTROL Keywords]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+   * **[!UICONTROL Placements]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+* **[!UICONTROL Assets]** submenu:
+
+   * **[!UICONTROL Auto Targets]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+   * **[!UICONTROL Creatives]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+   * **[!UICONTROL Extensions]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
+
+   * **[!UICONTROL Shopping]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergave. <!-- Should this go to Campaigns > Products? -->
+
 * **[!UICONTROL Set Up]** submenu:
 
    * **[!UICONTROL Accounts]**: Sluit de nieuwe site af en open de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] weergave.
 
-   * **[!UICONTROL Audiences]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Audiences] -weergave.
+<!-- What's happenening to these?
+
+Campaigns > ACM
+Campaigns > Bulksheets
+Campaigns > Asset Library
+
+Insights > Notification Center (doesn't open from Dashboard > Alerts & Notifications)
+
+Tools > Conversion Upload Setup
+Tools > Generic Tracking
+Tools > Inventory Selection
+Import Campaigns
+
+Tools > Admin > Data Source Setup
+-->
 
 ### Het hoofdmenu samenvouwen
 
@@ -84,7 +134,7 @@ Gebruik het zoekveld boven het hoofdmenu om te zoeken naar specifieke menuopties
 
 * Een selecteerbare lijst met Experience Cloud-organisaties waartoe u toegang hebt.
 
-* ![ het centrum van de Hulp van het centrum van de Hulp van 0&rbrace; ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het centrum van de Hulp van het centrum van de Hulp van 0} ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ Meldingen ](/help/search-social-commerce/assets/notifications-aec.png " Meldingen ") het paneellijsten verzoeken, berichten, en aankondigingen van Experience Cloud.
 
@@ -142,11 +192,11 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. Uw rol bepaalt de 
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het menu van de Hulp van 0} {het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![ het profiel van de Gebruiker 1} gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 

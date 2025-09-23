@@ -3,9 +3,9 @@ title: Campagnes toewijzen aan een portfolio
 description: Leer hoe u campagnes opneemt in portfolio's voor optimalisatie.
 exl-id: 62876260-dadd-4f4b-a5b9-1e04914e3a89
 feature: Search Campaign Management
-source-git-commit: 723d50d11cd76471ac41d3bb007af4f5d1bfa32f
+source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
 workflow-type: tm+mt
-source-wordcount: '596'
+source-wordcount: '588'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. Schakel het selectievakje naast elke campagne in om aan één portfolio toe te wijzen.
 
-1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/assign.png "Toewijzen") **[!UICONTROL Assign]** > **[!UICONTROL Existing Portfolio]**.
+1. Klik in de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL Existing Portfolio]** .
 
 1. Selecteer het portfolio.
 
@@ -38,7 +38,7 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. Schakel het selectievakje in naast elke campagne waarvoor u het nieuwe portfolio wilt maken.
 
-1. In de toolbar, klik ![ Meer Acties ](/help/search-social-commerce/assets/more-actions.png " Meer Acties ") **[!UICONTROL More Actions]** > ![Toewijzen](/help/search-social-commerce/assets/assign.png "Toewijzen") **[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]**.
+1. Klik op de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL New Portfolio]** .
 
 1. Geef in het scherm [!UICONTROL Create Portfolio] de portfolioinstellingen op.
 
