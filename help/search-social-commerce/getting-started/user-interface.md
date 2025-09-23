@@ -3,7 +3,7 @@ title: De indeling van de gebruikersinterface
 description: Leer waar u toegang hebt tot verschillende functies.
 exl-id: 4c46fd47-74ca-4ff9-9812-9de73b96061c
 feature: Search Getting Started
-source-git-commit: de1b498963abd5670dee3dbc326206fa0708a7fa
+source-git-commit: 3b4d92d2f6fe8b2ef57dfd5ce833772c37b039f8
 workflow-type: tm+mt
 source-wordcount: '1172'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
    * **[!UICONTROL Recommendations]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher Insights] -weergave.
 
-* **[!UICONTROL Alerts & Notifications]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] -weergave.
+   * **[!UICONTROL Alerts & Notifications]** : Sluit de nieuwe site af en opent de verouderde [!UICONTROL Insights & Reports] > [!UICONTROL Custom Alerts] -weergave.
 
 * **[!UICONTROL Goals]** submenu:
 
@@ -134,7 +134,7 @@ Gebruik het zoekveld boven het hoofdmenu om te zoeken naar specifieke menuopties
 
 * Een selecteerbare lijst met Experience Cloud-organisaties waartoe u toegang hebt.
 
-* ![ het centrum van de Hulp van het centrum van de Hulp van 0&rbrace; ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het centrum van de Hulp van het centrum van de Hulp van 0} ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ Meldingen ](/help/search-social-commerce/assets/notifications-aec.png " Meldingen ") het paneellijsten verzoeken, berichten, en aankondigingen van Experience Cloud.
 
@@ -192,11 +192,11 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. Uw rol bepaalt de 
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![ het menu van de Hulp van 0} {het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
 * ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![ het profiel van de Gebruiker 1} gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
   Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 
