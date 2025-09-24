@@ -2,9 +2,10 @@
 title: De [!UICONTROL Spend Planner] gebruiken
 description: Leer hoe u de [!UICONTROL Spend Planner] kunt gebruiken om de optimale uitgavenverdeling over portfolio's te bepalen.
 feature: Search Optimization, Search Portfolios, Search Simulations
-source-git-commit: 723d50d11cd76471ac41d3bb007af4f5d1bfa32f
+exl-id: 966b8968-68b6-4385-9efb-e639a6729362
+source-git-commit: ff4deeb1cfbcd863e5b0ef2ac9b2f7124906c3dd
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '791'
 ht-degree: 0%
 
 ---
@@ -29,13 +30,13 @@ In de uitgavenaanbevelingen worden de volgende gegevens vermeld:
 
 * Een staafdiagram voor elk van de portefeuilles, die de aanbevolen dagelijkse uitgaven (kosten) en de voorspelde opbrengstverdeling tonen of verdeling klikken wanneer u het huidige totale dagelijkse uitgavendoel over alle geselecteerde portefeuilles handhaaft, of voor een voorgestelde totale uitgavendoelstelling. U kunt optioneel de aanbevolen uitgavendoelen toepassen op de geselecteerde portfolio&#39;s, wat invloed heeft op biedingen in de volgende cyclus van de uitvoering van het bod.
 
-## (Nieuwe interface) Genereer een [!UICONTROL Spend Planner] -rapport vanuit de weergave [!UICONTROL Manage] > [!UICONTROL Simulations]
+## (Nieuwe interface) Een [!UICONTROL Spend Planner] -rapport genereren
 
-<!-- The path will probably change, so then update the heading and instructions -->
+1. Voer een van de volgende handelingen uit:
 
-1. Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Simulations]** .
+   * Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Spend Planner]** .
 
-1. In de toolbar boven de gegevenslijst, klik ![ de Planner van de Uitgaven ](/help/search-social-commerce/assets/spend-planner-icon.png " de Planner van de Uitgaven ").
+   * Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Simulations]** . In de toolbar boven de gegevenslijst, klik ![ de Planner van de Uitgaven ](/help/search-social-commerce/assets/spend-planner-icon.png " de Planner van de Uitgaven ").
 
    Het gereedschap [!UICONTROL Spend Recommendation] wordt geopend in de oudere gebruikersinterface.
 
