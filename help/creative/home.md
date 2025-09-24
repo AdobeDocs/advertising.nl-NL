@@ -6,9 +6,9 @@ product: advertising cloud
 solution: Advertising
 index: true
 exl-id: 0d25f665-b5f9-4d27-851a-2a456fe2cbf8
-source-git-commit: 53e565307b55be2aabd847643b05a701dd1f2b93
+source-git-commit: d8030203f7bfce3baf18d50369067157f7cb0991
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1126'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,7 @@ De volgende functies zijn nieuw of onlangs gewijzigd.
 
 | Datum | Functie | Beschrijving | Voor meer informatie |
 | ---- | ------- | ----------- | -------------------- |
+| 24 september 2025 | Dynamische creatieven | Er is nu een workflow met zelfbediening beschikbaar voor het genereren van dynamische advertenties met behulp van gegevens uit een feedbestand dat via een advertentiesjabloon wordt doorgegeven. | Zie &quot;[ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md),&quot;die verbindingen aan alle stappen omvat. |
 | 3 september 2025 | Creative optimaliseren en plannen voor [!DNL experiences] | De menuoptie of de knoop om creatieve optimalisering en het plannen te vormen wordt nu genoemd &quot;[!UICONTROL Creative Optimization]&quot;in plaats van &quot;[!UICONTROL Edit Schedules]&quot; of &quot;[!UICONTROL Add Schedules]&quot;. | Zie &quot;[ creatieve optimalisering en het plannen voor een gerichte ervaring ](/help/creative/experiences/experience-optimization-scheduling-targeting.md)&quot;aanpassen en &quot;[ creatieve optimalisering en het plannen voor een ervaring aanpassen zonder ](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md) te richten.&quot; |
 |  | Rotatie en planning toevoegen voor [!DNL experiences] | Een nieuw creatief omwentelingstype, &quot;[!UICONTROL Sequencing],&quot;roteert de bijbehorende creatieve bundels in een gespecificeerde orde (met Bundel 1 eerst gediend, Bundel 2 tweede, etc.), met een gespecificeerd totaal aantal indrukkingen over elke bundelopeenvolging. U kunt de definitieve bundel in de opeenvolging vormen aan a \) voor onbepaalde tijd worden getoond of b\) lijn terug naar de eerste bundel. | Zie &quot;[ creatieve optimalisering en het plannen voor een gerichte ervaring ](/help/creative/experiences/experience-optimization-scheduling-targeting.md)&quot;aanpassen en &quot;[ creatieve optimalisering en het plannen voor een ervaring aanpassen zonder ](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md) te richten.&quot; |
 | 4 augustus 2025 | Doelstellingen voor doelgroepen voor advertenties [!DNL experiences] | Complexere logica voor het opnemen en uitsluiten van het publiek — dezelfde logica die beschikbaar is in Advertising DSP — is beschikbaar binnen doelinstellingen voor het publiek. Wanneer u publieksdoelstellingen voor een advertentie-ervaring vormt, kunt u veelvoudige segmentgroepen nu vormen en specificeren of om gebruikers te omvatten of uit te sluiten die op de logica worden gebaseerd.<br><br> u kunt het aantal totale publieksleden voor elk segment en het aantal actieve en totale publieksleden voor elke segmentgroep zien.<br><br> met deze optie, is de bestaande optie aan &quot;[!UICONTROL Split targets to create nodes]&quot;niet meer beschikbaar.<br><br> als u bestaande ervaringen met publieksknopen had die veelvoudige segmenten richten, worden zij nu gericht gebruikend &quot; [!UICONTROL Include Any]&quot;optie, en de gebruiker moet tot slechts één van de segmenten behoren om voor een indruk geschikt te zijn. Eerder moest de gebruiker tot alle segmenten behoren. | Zie &quot;[ een doelknoop aan het definitieve niveau ](/help/creative/experiences/experience-target-node-add-final.md) toevoegen, &quot;[ neem een doelknoop tussen knopen ](/help/creative/experiences/experience-target-node-add-inner.md) op,&quot;en &quot;[ voeg een sibling doelknoop ](/help/creative/experiences/experience-target-node-add-sibling.md) toe.&quot; |
