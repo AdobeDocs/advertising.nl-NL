@@ -2,9 +2,9 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: e08a3c841e733840058f85a7ecc67571631314b3
+source-git-commit: 85fea6483ccf5db27d5730b5ebb2fb2b0957302d
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '196'
 ht-degree: 0%
 
 ---
@@ -53,15 +53,15 @@ ht-degree: 0%
 
 ## Advertentiesjabloon
 
-**[!UICONTROL Ad Template]:** De advertentiesjabloon waaruit de advertenties moeten worden gemaakt.&lt;!— ook een optie om uw eigen advertentiesjabloon te uploaden — hiervoor moeten specificaties worden toegevoegd —>
+**[!UICONTROL Ad Template]:** De advertentiesjabloon waarvan de advertenties moeten worden gemaakt.<!-- also an option to upload your own ad template. Need to add the specs for that -->
 
-**[!UICONTROL Number of offers (Max 50)]:** Het aantal aanbiedingen dat voor elke advertentie kan worden gemaakt.&lt;!— Verduidelijk dit — is dit de frequentiegrens (max. aantal keren dat een advertentie kan worden geserveerd)? —>
+**[!UICONTROL Number of offers (Max 50)]:** Het aantal aanbiedingen dat voor elke advertentie kan worden gecreeerd.<!-- Clarify this: is this the frequency cap (max number of times an ad may be served)? -->
 
 ## Catalogi
 
-**[!UICONTROL Template]:** De voedermalplaatje aan gebruik om de advertenties tot stand te brengen.&lt;!— ook een optie om uw eigen voedermalplaatje te uploaden — behoefte om de specificaties voor dat toe te voegen —>
+**[!UICONTROL Template]:** Het voedermalplaatje aan gebruik om de advertenties tot stand te brengen.<!-- also an option to upload your own feed template.  Need to add the specs for that -->
 
-**\[Catalogi\]**: Één of meerdere van de gespecificeerde catalogi van de adverteerder waaruit om advertenties te produceren.&lt;!— ook een optie om uw eigen catalogus te uploaden (Kan de catalogus niet vinden u nodig hebt? Download een sjabloon, maak uw eigen sjabloon en upload deze vanaf uw apparaat.) — voeg daar specificaties voor toe —>
+**\[Catalogs\]**: Één of meerdere van de gespecificeerde catalogi van de adverteerder waaruit om advertenties te produceren.<!-- also an option to upload your own catalog (Can't find the Catalog you need? Download a template, create your own, and upload it from your device.). Nneed to add the specs for that -->
 
 ### [!UICONTROL Attributes Mapping]
 
