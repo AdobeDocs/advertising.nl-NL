@@ -3,16 +3,16 @@ title: Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 description: Leer hoe u standaard (niet-dynamische) creatieve creatieven toevoegt aan een creatieve bibliotheek.
 feature: Creative Standard Creatives
 exl-id: e6f1265b-9d05-4b3d-9dc6-300dbd9eb52d
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 5bbc8b17b0f88c928b6ab2b8805ecec10bb398fb
 workflow-type: tm+mt
-source-wordcount: '999'
-ht-degree: 1%
+source-wordcount: '983'
+ht-degree: 0%
 
 ---
 
 # Standaardcreatieve producten toevoegen aan een creatieve bibliotheek
 
-Voeg creatieve scheppingen aan uw [ creatieve bibliotheken ](creative-library-manage.md) aan gebruik met [ toe en ervaringen ](/help/creative/experiences/experience-about.md).
+Voeg standaardcreatieve producten aan uw [ creatieve bibliotheken ](creative-library-manage.md) toe om met standaard [ en ervaringen ](/help/creative/experiences/experience-about.md) te gebruiken.
 
 >[!NOTE]
 >
@@ -34,9 +34,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Flexible]** .
 
 1. Klik op **[!UICONTROL Upload New]**.
 
@@ -62,7 +60,7 @@ U kunt meerdere flexibele creatieve eenheden uploaden. Flexibele creatieven moet
 
 ### Flexibele creatieve producten toevoegen met behulp van een sjabloon {#flexible-creative-use-template}
 
-U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ] (flexible-creative-upload).>
+U kunt alle flexibele, creatieve sjablonen gebruiken die u naar uw account hebt geüpload om advertenties van vooraf gedefinieerde grootte te maken. Nadat u een sjabloon hebt geselecteerd die u wilt gebruiken, gaat u de kliklabels en -kenmerken bewerken.&lt;!— Vervang laatste zin met dit als wij de malplaatjedownloadeigenschap terug toevoegen: U kunt of a\) een malplaatje selecteren te gebruiken, en dan de klikmarkeringen en attributen uitgeven; of b\) [ download een malplaatje als dossier van het PIT ](#download-flexible-creative-template), geef de inhoud offline uit om uw eigen creatief te bouwen, en dan [ uploadt het uitgegeven dossier als nieuw creatief ](flexible-creative-upload).>
 
 <!-- Not currently an option:
 You can use any of the [predefined flexible creative templates](flexible-html5-templates.md) included with [!DNL Creative] to build 160x600, 300x250, 300x600, or 728x90 ads.
@@ -74,22 +72,9 @@ For information about the attributes available in predefined templates, see "[Av
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Flexible]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Flexible]** .
 
 1. Klik op **[!UICONTROL Browse System Flexible Templates]**.
-
-<!-- Not options as of 5/22/25:
-
-1. In the left panel, select the creative size to see all available templates for that size.
-
-1. Select the template:
-
-   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
-     
-   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
--->
 
 1. (Optioneel) Klik op **[!UICONTROL ...]** naast de sjabloonnaam en klik op **[!UICONTROL Preview]** om een voorvertoning van de sjabloon weer te geven.
 
@@ -102,6 +87,17 @@ For information about the attributes available in predefined templates, see "[Av
    De maximumdossiergrootte van creatief, zodra het wordt gecompileerd, is 2 MB.<!-- Still true? -->
 
 1. Klik op **[!UICONTROL Create]**.
+
+<!-- Not options as of 5/22/25:
+
+1. In the left panel, select the creative size to see all available templates for that size.
+
+1. Select the template:
+
+   * In card view, click **[!UICONTROL ...]** next to the template name, and then click **[!UICONTROL Use Selected]**.
+     
+   * In table view, hold the cursor over the row and click **[!UICONTROL Use Selected]**.
+-->
 
 ## Een HTML5-creatief toevoegen aan een creatieve bibliotheek
 
@@ -119,9 +115,7 @@ You can optionally download a sample HTML5 creative as a ZIP file, edit the cont
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL HTML5]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL HTML5]** .
 
 <!-- Not an option as of 3/4:
 
@@ -155,9 +149,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Image]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Image]** .
 
 1. Geef de afbeeldingen op:
 
@@ -197,9 +189,7 @@ Originelen van afbeeldingen kunnen de GIF-, JPEG-, JPG- of PNG-indeling hebben. 
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL 3rd Party]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL 3rd Party]** .
 
 1. Specificeer de markering van JavaScript en andere montages voor creatief in de [ derde creatieve montages ](#creative-settings-third-party).
 
@@ -215,9 +205,7 @@ Zie [ video creatieve specificaties ](/help/creative/creative-libraries/creative
 
 1. Klik op de naam van de bibliotheek.
 
-1. Klik op de tab **[!UICONTROL Creatives]** op de subtab **[!UICONTROL Standard Ads]** .
-
-1. Klik op **[!UICONTROL Create]** > **[!UICONTROL Creative]** > **[!UICONTROL Video]**.
+1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Video]** .
 
 1. Geef de videobestanden op een van de volgende manieren op:
 

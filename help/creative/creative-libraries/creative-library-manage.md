@@ -3,16 +3,16 @@ title: Creatieve bibliotheken beheren
 description: Leer hoe u creatieve bibliotheken maakt, hernoemt en verwijdert.
 feature: Creative Libraries
 exl-id: d8b802c7-a6e9-4135-a4de-fb482c72d044
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 5bbc8b17b0f88c928b6ab2b8805ecec10bb398fb
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '266'
 ht-degree: 1%
 
 ---
 
 # Creatieve bibliotheken beheren
 
-U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek met [ standaardcreatieve ](creative-add-standard.md)<!-- , dynamic creatives, --> en [ creatieve bundels ](bundle-manage.md) later bevolken. Uw Adobe-accountteam kan ook dynamische creatieve elementen aan uw bibliotheken toevoegen.
+U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek later bevolken met [ standaard creatieve ](creative-add-standard.md), [ dynamische creatieve creatieve ](creative-add-dynamic.md), en [ creatieve bundels ](bundle-manage.md).
 
 ## Een creatieve bibliotheek maken
 

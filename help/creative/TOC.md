@@ -3,9 +3,9 @@ role: User
 user-guide-title: Advertising Creative Guide
 user-guide-description: Meer informatie over de belangrijkste functies, taken, instellingen en andere bronnen die vereist zijn voor het gebruik van Advertising Creative.
 breadcrumb-title: Creative Guide
-source-git-commit: 53e565307b55be2aabd847643b05a701dd1f2b93
+source-git-commit: 3ec3bcf1b3be7acffef4cf0ec8dd170b32987d33
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
@@ -17,8 +17,9 @@ ht-degree: 0%
 + Inleiding {#introduction}
    + [Informatie over Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
-   + [ Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [ Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [Workflow voor dynamische advertenties](/help/creative/introduction/workflow-dynamic-ads.md)
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creative-bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
@@ -30,6 +31,10 @@ ht-degree: 0%
          + [Standaardcreatieven bewerken](/help/creative/creative-libraries/creative-edit-standard.md)
          + [Standaard creatieve instellingen](/help/creative/creative-libraries/creative-settings-standard.md)
          + [Creatieve HTML5-specificatie](/help/creative/creative-libraries/html5-creative-specification.md)
+      + Dynamische creatieven {#dynamic-creatives}
+         + [Dynamische creatieve creatieve elementen toevoegen aan een creatieve bibliotheek](/help/creative/creative-libraries/creative-add-dynamic.md)
+         + [Dynamische creatieven bewerken](/help/creative/creative-libraries/creative-edit-dynamic.md)
+         + [Dynamische creatieve instellingen](/help/creative/creative-libraries/creative-settings-dynamic.md)
       + [Een voorvertoning weergeven van een creatief](/help/creative/creative-libraries/creative-preview.md)
       + [Creatieve elementen aan bundels koppelen](/help/creative/creative-libraries/creative-attach-detach-bundles.md)
       + [Creatieve elementen dupliceren](/help/creative/creative-libraries/creative-duplicate.md)
@@ -72,10 +77,16 @@ ht-degree: 0%
    + [Gegevens downloaden uit de weergave [!UICONTROL Experiences]](/help/creative/experiences/experience-download-view.md)
    + [De naam van een advertentietag wijzigen](/help/creative/experiences/experience-tag-rename.md)
    + [Een ervaring verwijderen](/help/creative/experiences/experience-delete.md)
++ Feeds {#feeds}
+   + [Elementbestanden beheren](/help/creative/feeds/asset-manage.md)
+   + [Feed-sjablonen beheren](/help/creative/feeds/feed-template-manage.md)
+   + [Catalogi beheren](/help/creative/feeds/catalog-manage.md)
+   + [De status van taken voor catalogusverwerking bijhouden](/help/creative/feeds/job-status-track.md)
++ [Dynamische advertentiesjablonen beheren](/help/creative/ad-templates/ad-template-manage.md)
 + Prestatierapporten {#reports}
    + [Prestatierapporten op ervaringsniveau](/help/creative/experiences/experience-performance-details.md)
    + [Aangepast Creative-rapport](/help/creative/report-custom-creative.md)
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
 + [Hulp vragen](/help/creative/get-help.md)
-+ [ de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}

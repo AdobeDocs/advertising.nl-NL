@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 3c4fcd4cf63003cf10775ebec23ae3f68d3bbd07
+source-git-commit: ce716c8dca8410a121858944f0c044423d9dff78
 workflow-type: tm+mt
-source-wordcount: '1406'
+source-wordcount: '1386'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ Uw bibliotheken kunnen het volgende bevatten:
 
    * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Voor elke creatieve advertentie geeft u de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
 
-   * **Dynamische creatieven:** (Bestaande klanten van Adobe Advertising DCO slechts) de gebruikers van de beheerder kunnen dynamisch geproduceerde creatieve producten tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
+   * **Dynamische creatieven:** u kunt dynamisch geproduceerde creatieve elementen tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
 
 * **Creatieve bundels:** Groepeer creatieve elementen in bundels over veelvoudige ervaringen met bepaalde gebruikersdoelstellingen te gebruiken. U kunt *standaardvertoningsbundels* tot stand brengen die uit standaardvertoningsadvertenties bestaan, *standaardvideobundels* die uit standaardvideoadvertenties bestaan, en *dynamische vertoningsbundels* die uit dynamisch geproduceerde vertoningsadvertenties bestaan.
 
@@ -64,7 +64,7 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 
 U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. Alle videocamera&#39;s worden automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u deze kunt voorvertonen. In [!UICONTROL Tag Manager], kunt u naar keuze [ DSP-Specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
-Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [ Vereisten voor Video Assets van High-Definition ](https://experienceleague.adobe.com/nl/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
+Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [ Vereisten voor Video Assets van High-Definition ](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
 
 **Type van Dossier:** .mov, .mp4, .webm
 
@@ -94,7 +94,7 @@ Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan
 
 ### Indeling voor dynamische advertenties
 
-Beheerders kunnen dynamisch creatieve elementen genereren in de statische HTML5- en dynamische HTML5-indeling door dynamische variabelen in een advertentiesjabloon toe te wijzen aan waarden in een feed-bestand. Dynamische creatieve producten kunnen creatieve producten uit uw oudere Adobe Advertising Dynamic Creative Optimization (DCO)-ervaringen bevatten.
+U kunt creatieve elementen dynamisch genereren in statische HTML5- en dynamische HTML5-indeling door dynamische variabelen in een advertentiesjabloon toe te wijzen aan waarden in een feed-bestand. Dynamische creatieve producten kunnen creatieve producten bevatten die zijn gemigreerd uit uw oudere Adobe Advertising Dynamic Creative Optimization (DCO)-ervaringen.
 
 ## De weergaven [!UICONTROL Creative Libraries]
 
@@ -144,17 +144,19 @@ Op het tabblad [!UICONTROL Standard Ads] worden alle standaardcreatieve elemente
 
 #### [!UICONTROL Dynamic Ads]
 
-Het [!UICONTROL Dynamic Ads] lusje toont alle dynamische creatieve creatieve creatieve die dynamisch voor uw creatieve catalogi, behalve om het even welke dynamische creatieve creatieve creatieve die u [ manueel schrapte ](creative-delete.md) van het [!UICONTROL Dynamic Ads] lusje werden gecreeerd. Als u [ manueel gedupliceerde ](creative-duplicate.md) om het even welke dynamische creatieve personen aangezien een catalogus het laatst werd verwerkt, dan omvat de lijst van creatieve personen voor die catalogus ook de dubbele creatieve producten.
+Het [!UICONTROL Dynamic Ads] lusje toont alle dynamische creatieve creatieve creatieve die dynamisch voor uw creatieve catalogi, behalve om het even welke dynamische creatieve creatieve creatieve die u [ manueel schrapte ](creative-delete.md) van het [!UICONTROL Dynamic Ads] lusje werden gecreeerd. Als u [ manueel gedupliceerde ](creative-duplicate.md) om het even welke dynamische creatieve personen <!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, dan omvat de lijst van creatieve personen voor die catalogus ook de dubbele creatieve elementen.
 
-De gegevens voor elke creatieve functie omvatten het creatieve type, de creatieve grootte, het aantal catalogi waartoe de creatieve functie behoort, en de aanmaakdatum. De tabelmodus bevat ook kolommen voor de sjabloon waarmee de creatieve bewerking is gegenereerd en het aantal aanbiedingen.
+De gegevens voor elke creatieve functie omvatten het creatieve type, de creatieve grootte, het aantal catalogi waartoe de creatieve functie behoort, en de aanmaakdatum. De tabelmodus bevat ook kolommen voor de advertentiesjabloon waarmee de creatieve items zijn gegenereerd en het aantal aanbiedingen.
 
 >[!NOTE]
 >
->Telkens wanneer een catalogus wordt verwerkt, worden de gegevens vernieuwd voor de bestaande dynamische creatieve elementen voor die catalogus.
+>Telkens als een catalogus wordt verwerkt, worden de gegevens verfrist voor de bestaande dynamische creatieve elementen voor die catalogus.<!-- Verify this!!! And is there anything more to say w/regard to  -->
 
 ##### Beschikbare acties
 
-De mogelijkheid om dynamische creatieve documenten te maken en te bewerken is momenteel alleen beschikbaar voor het Adobe-accountteam. Alle gebruikers kunnen echter:
+* [Dynamische creatieve elementen toevoegen aan een bibliotheek](creative-add-dynamic.md)
+
+* [Een dynamisch creatief bewerken](creative-edit-dynamic.md)
 
 * [Dynamische creatieve voorvertoningen voorvertonen](creative-preview.md)
 
