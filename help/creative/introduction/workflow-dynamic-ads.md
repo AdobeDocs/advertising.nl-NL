@@ -2,9 +2,9 @@
 title: Workflow voor dynamische advertenties
 description: Leer meer over de workflow voor het beheer van dynamische advertenties.
 feature: Creative Dynamic Creatives
-source-git-commit: e08a3c841e733840058f85a7ecc67571631314b3
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '281'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 0%
 
 1. [ creeer dynamische ad bundels ](/help/creative/creative-libraries/bundle-manage.md) die u allen aan een advertentie kunt in één keer vastmaken.
 
-1. Creeer dynamische en ervaringen met [ met het richten ](/help/creative/experiences/experience-create-targeting.md) of [ zonder het richten ](/help/creative/experiences/experience-create-no-targeting.md) en [ wijzen hen bundels aan uw dynamische en ervaringen ](/help/creative/experiences/experience-assign-creative-bundles.md) toe.
+1. Creeer dynamische en ervaringen [ met het richten van zich ](/help/creative/experiences/experience-create-targeting.md) of [ zonder ](/help/creative/experiences/experience-create-no-targeting.md) te richten en [ wijs de creatieve bundels aan de ervaringen ](/help/creative/experiences/experience-assign-creative-bundles.md) toe.
 
 1. [ produceer en voer de markeringen van de advertentiervaring uit ](/help/creative/experiences/experience-tag-export.md) om hen als advertenties in uw DSP in werking te stellen.
 

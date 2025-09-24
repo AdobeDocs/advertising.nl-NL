@@ -2,9 +2,9 @@
 title: Een dynamische creatieve functie bewerken in een creatieve bibliotheek
 description: Leer hoe u een dynamische creatieve bibliotheek bewerkt.
 feature: Creative Dynamic Creatives
-source-git-commit: 5828fada55ba9506589df6088ea58b896084700c
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '106'
 ht-degree: 0%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 0%
 
       1. Selecteer de bundels en klik op **[!UICONTROL Attach Creative to Bundles]** .
 
-   * Als u alleen de advertenties wilt opslaan, klikt u op **[!UICONTROL Save]** en klikt u nogmaals op **[!UICONTROL Save]** .
+   * Als u de advertenties wilt opslaan en de instellingen wilt afsluiten, klikt u op **[!UICONTROL Save]** en klikt u nogmaals op **[!UICONTROL Save]** .
 
 >[!MORELIKETHIS]
 >

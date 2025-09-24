@@ -2,7 +2,7 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 5828fada55ba9506589df6088ea58b896084700c
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 0%
@@ -16,7 +16,6 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 >[!NOTE]
 >
 > U kunt elk feed-bestand slechts voor één catalogus gebruiken.
-
 
 ## Bestandsvereisten
 

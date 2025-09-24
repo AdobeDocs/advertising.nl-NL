@@ -2,9 +2,9 @@
 title: Feed-sjablonen beheren
 description: Leer hoe u voedersjablonen beheert.
 feature: Creative Dynamic Creatives
-source-git-commit: 5828fada55ba9506589df6088ea58b896084700c
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -61,7 +61,7 @@ U kunt een voedermalplaatje met veelvoudige advertentiesjablonen gebruiken.
 
 1. Plaats de cursor op de sjabloonrij en klik op **[!UICONTROL Duplicate]** .
 
-1. Voer in het [!UICONTROL Duplicate Template] -scherm een unieke **[!UICONTROL Template Name]** in. Als u een sjabloon dupliceert die door iemand anders is gemaakt, selecteert u de **[!UICONTROL Advertiser]** . Naar keuze geef andere [ montages van het voedermalplaatje ](#feed-template-settings) uit zoals nodig.
+1. Voer in het scherm [!UICONTROL Duplicate Template] een unieke **[!UICONTROL Template Name]** in. Als u een sjabloon dupliceert die door iemand anders is gemaakt, selecteert u de **[!UICONTROL Advertiser]** . Naar keuze geef andere [ montages van het voedermalplaatje ](#feed-template-settings) uit zoals nodig.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -89,7 +89,7 @@ Gedownloade feed-sjablonen hebben de indeling XLSX (zipped Microsoft Excel sprea
 
 ### [!UICONTROL Field Mapping] instellingen
 
-Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> U moet ten minste één veld voor het invoerbestand opnemen dat is gemarkeerd als &quot; [!UICONTROL Is Unique]&quot;. Als u een veldtoewijzing wilt toevoegen, klikt u op **[!UICONTROL +]** . Als u de laatste veldtoewijzing wilt verwijderen, klikt u op **[!UICONTROL +]** .
+Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> Ten minste één veld voor het invoerbestand moet zijn gemarkeerd als &quot; [!UICONTROL Is Unique]&quot;. Als u een veldtoewijzing wilt toevoegen, klikt u op **[!UICONTROL +]** . Als u de laatste veldtoewijzing wilt verwijderen, klikt u op **[!UICONTROL +]** .
 
 **[!UICONTROL Field Name]:** Het gebied in het voederdossier.
 

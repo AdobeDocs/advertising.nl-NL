@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: ce716c8dca8410a121858944f0c044423d9dff78
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
-source-wordcount: '1386'
+source-wordcount: '1383'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ Uw bibliotheken kunnen het volgende bevatten:
 
 * **Individuele creatieven:** u kunt individuele creatieve personen direct binnen en ervaringen omvatten die geen bepaalde gebruikersdoelstellingen hebben. U kunt uw creatieven ook gebruiken om bundels tot stand te brengen, die u in gerichte [ en ervaringen ](/help/creative/experiences/experience-about.md) kunt omvatten.
 
-   * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Voor elke creatieve advertentie geeft u de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
+   * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Geef voor elke creatieve advertentie de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
 
    * **Dynamische creatieven:** u kunt dynamisch geproduceerde creatieve elementen tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
 
@@ -62,9 +62,9 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 
 #### Videocreatieven {#creative-video-specs}
 
-U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. Alle videocamera&#39;s worden automatisch door DSP getranscodeerd als VAST 2.0-tags, zodat u deze kunt voorvertonen. In [!UICONTROL Tag Manager], kunt u naar keuze [ DSP-Specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. DSP transcodeert automatisch alle videocamera&#39;s als VAST 2.0-tags, zodat u deze kunt bekijken. In [!UICONTROL Tag Manager], kunt u naar keuze [ DSP-Specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
-Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [ Vereisten voor Video Assets van High-Definition ](https://experienceleague.adobe.com/nl/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
+Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [ Vereisten voor Video Assets van High-Definition ](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
 
 **Type van Dossier:** .mov, .mp4, .webm
 

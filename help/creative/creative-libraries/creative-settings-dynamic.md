@@ -2,7 +2,7 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: 85fea6483ccf5db27d5730b5ebb2fb2b0957302d
+source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
 workflow-type: tm+mt
 source-wordcount: '196'
 ht-degree: 0%
