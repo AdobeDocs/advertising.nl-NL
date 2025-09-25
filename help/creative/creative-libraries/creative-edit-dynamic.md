@@ -2,9 +2,9 @@
 title: Een dynamische creatieve functie bewerken in een creatieve bibliotheek
 description: Leer hoe u een dynamische creatieve bibliotheek bewerkt.
 feature: Creative Dynamic Creatives
-source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
+source-git-commit: f0bbbfb528000babbcb2c4c6915b62e81f477bda
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '313'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,28 @@ ht-degree: 0%
 1. Plaats de cursor op de creatieve rij en klik op **[!UICONTROL Edit]** .
 
 1. Bewerk de [ dynamische advertentie montages ](creative-settings-dynamic.md).
+
+1. Klik op **[!UICONTROL Continue]** om een voorvertoning weer te geven van de creatieve elementen die u wilt genereren. U kunt een van de volgende handelingen uitvoeren in de voorvertoning:
+
+   * Als u de creatieve elementen wilt filteren op catalogus, filterwaarde <!-- explain more--> en advertentiegrootte, gebruikt u de filters boven het voorvertoningsgebied.
+
+   * Een product zoeken op basis van de unieke id in het zoekveld onder het voorvertoningsgebied.
+
+   * Om de kolommen te veranderen die worden getoond, klik ![ de Filter van de Kolom ](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
+
+   * Als u een voorvertoning wilt weergeven van een bepaalde creatieve waarde, schakelt u het selectievakje voor de rij in.
+
+   * Wijzig de inhoud:
+
+      * Als u de waarde van een cel in de tabel wilt bewerken, klikt u in de cel en bewerkt u de waarde. Klik buiten de cel of druk op **[!DNL Enter]** om de wijzigingen op te slaan.
+
+      * Om één enkel product als gebrek <!--Explain what this means. --> te merken, houd de curseur over de rij en klik **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
+
+      * (Als de advertentie meerdere aanbiedingen bevat) Als u meerdere producten als standaard wilt markeren, selecteert u de rijen (tot het aantal aanbiedingen) en klikt u op **[!UICONTROL Set as Default]** op de werkbalk voor bulkacties.
+
+      * Als u een product uit de catalogus wilt verwijderen, houdt u de cursor boven de rij en klikt u op **[!UICONTROL ...]** > **[!UICONTROL Delete Row]** .
+
+      * (Als de advertentie meerdere aanbiedingen bevat) Als u meerdere producten uit de catalogus wilt verwijderen, selecteert u de rijen (tot aan het aantal aanbiedingen) en klikt u op **[!UICONTROL Delete Row]** op de werkbalk voor bulkacties.
 
 1. Bespaar de creatieve elementen:
 

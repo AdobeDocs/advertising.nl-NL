@@ -2,9 +2,9 @@
 title: Dynamische creatieve creatieve elementen toevoegen aan een creatieve bibliotheek
 description: Leer hoe u dynamische creatieve projecten aan een creatieve bibliotheek kunt toevoegen.
 feature: Creative Dynamic Creatives
-source-git-commit: 9aeb35ec5aba1c6c4c7683487ed3c0a0e22accb8
+source-git-commit: f0bbbfb528000babbcb2c4c6915b62e81f477bda
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-
 
    1. Selecteer de criteria waarvoor de catalogusrijen moeten worden gebruikt om advertenties te maken.
 
-   1. Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan een kolom in het opgegeven feed-bestand (cataloguslabel).
+   1. Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan een kolom in het opgegeven feed-bestand (cataloguslabel) of voer statische waarden in.
 
    1. Klik op **[!UICONTROL Continue]** om een voorvertoning weer te geven van de creatieve elementen die u wilt genereren. U kunt een van de volgende handelingen uitvoeren in de voorvertoning:
 
@@ -75,7 +75,7 @@ Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-
 
       * Een product zoeken op basis van de unieke id in het zoekveld onder het voorvertoningsgebied.
 
-      * Om de kolommen te veranderen die worden getoond, klik ![ de Filter van de Kolom ](/help/creative/assets/custom-columns. " onder het voorproefgebied van de Filter van de Kolom.")
+      * Om de kolommen te veranderen die worden getoond, klik ![ de Filter van de Kolom ](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
 
       * Als u een voorvertoning wilt weergeven van een bepaalde creatieve waarde, schakelt u het selectievakje voor de rij in.
 

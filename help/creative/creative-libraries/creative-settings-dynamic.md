@@ -2,9 +2,9 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: 6f2f6580e8d4fc11f52a97b086ce453e423ab4e6
+source-git-commit: f0bbbfb528000babbcb2c4c6915b62e81f477bda
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '294'
 ht-degree: 0%
 
 ---
@@ -77,7 +77,7 @@ Geüploade catalogi moeten de ZIP-indeling hebben en het volgende bevatten:
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 
-Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan een kolom in de opgegeven catalogus (cataloguslabel).
+Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan een kolom in de opgegeven catalogus (cataloguslabel) of voer een statische waarde in.
 
 >[!MORELIKETHIS]
 >
