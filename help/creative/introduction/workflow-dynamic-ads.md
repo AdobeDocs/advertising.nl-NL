@@ -2,14 +2,16 @@
 title: Workflows voor dynamische advertenties
 description: Leer meer over de workflows voor het beheer van dynamische advertenties.
 feature: Creative Dynamic Creatives
-source-git-commit: 02ac4175c1d91f4f6d65bb2d683a7909f06a287c
+source-git-commit: 6f2f6580e8d4fc11f52a97b086ce453e423ab4e6
 workflow-type: tm+mt
-source-wordcount: '533'
+source-wordcount: '556'
 ht-degree: 0%
 
 ---
 
 # Workflows voor dynamische advertenties
+
+*Gebruikers met toestemmingen om dynamische advertenties tot stand te brengen*
 
 U kunt dynamische advertenties op twee manieren instellen:
 
@@ -22,6 +24,11 @@ U kunt dynamische advertenties op twee manieren instellen:
   Gebruik deze workflow wanneer verschillende personen verschillende taken uitvoeren of wanneer u slechts één taak tegelijk wilt uitvoeren.
 
 ## Workflow 1
+
+>[!PREREQUISITES]
+>
+>* Advertentiesjablonen in HTML5-indeling
+>* Productcatalogi in de indeling CSV, TSV of Microsoft Excel-werkblad (XLSX)
 
 1. [ creeer dynamische creatieve creatieve ](/help/creative/creative-libraries/creative-add-dynamic.md) voor een creatieve bibliotheek. Upload voor dynamische HTML5-advertenties een advertentiesjabloon en catalogi.
 

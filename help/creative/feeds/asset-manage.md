@@ -2,9 +2,9 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
+source-git-commit: 6f2f6580e8d4fc11f52a97b086ce453e423ab4e6
 workflow-type: tm+mt
-source-wordcount: '390'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -25,13 +25,13 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
      Voor beelden zult u uploaden, verwijs het beeld gebruikend het formaat `images/image_name` (zoals `images/300x250_acme_logo.png`.) <!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
-   * De gekoppelde afbeeldingselementen in JPEG-, JPG- of PNG-indeling.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
+   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
   U kunt één enkel XLSX- dossier, één enkel beelddossier, of één enkel dossier uploaden dat om het even welke combinatie XLSX en beelddossiers bevat.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Statische HTML5-advertenties:
 
-   * Eén afbeeldingselement per advertentie in JPG-, JPEG- of PNG-indeling.
+   * Eén afbeeldingselement per advertentie in GIF-, JPG-, JPEG- of PNG-indeling.
 
      U kunt één afbeelding of meerdere afbeeldingen uploaden in een ZIP-bestand.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
