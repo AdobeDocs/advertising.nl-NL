@@ -2,9 +2,9 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 6f2f6580e8d4fc11f52a97b086ce453e423ab4e6
+source-git-commit: 40f8fbde0879f2412816a2b08e6e99da67f16219
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '406'
 ht-degree: 0%
 
 ---
@@ -21,13 +21,15 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
 * Dynamische HTML5-advertenties:
 
-   * Een feed-bestand in de indeling Microsoft Excel-werkblad (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam of een verwijzing naar een Adobe Experience Manager op.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
+   * Een feed-bestand in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam of een verwijzing naar een Adobe Experience Manager op.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
 
      Voor beelden zult u uploaden, verwijs het beeld gebruikend het formaat `images/image_name` (zoals `images/300x250_acme_logo.png`.) <!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
    * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
-  U kunt één enkel XLSX- dossier, één enkel beelddossier, of één enkel dossier uploaden dat om het even welke combinatie XLSX en beelddossiers bevat.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+   * (Optioneel) Video-elementen in MP4- of WEBM-indeling
+
+  U kunt één enkel XLSX dossier, één enkel beeld of videodossier, of één enkel dossier uploaden van het PIT dat om het even welke combinatie XLSX, beeld, en videodossiers bevat.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Statische HTML5-advertenties:
 
