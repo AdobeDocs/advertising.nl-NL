@@ -2,9 +2,9 @@
 title: Dynamische creatieve creatieve elementen toevoegen aan een creatieve bibliotheek
 description: Leer hoe u dynamische creatieve projecten aan een creatieve bibliotheek kunt toevoegen.
 feature: Creative Dynamic Creatives
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: 1cee56f8bd40f94b1f78536725fb8eab249b9915
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '306'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-
 
 >[!PREREQUISITES]
 >
->Voordat u dynamische creatieve elementen aan een creatieve bibliotheek kunt toevoegen, moet u andere stappen uitvoeren, zoals het maken van de advertentiesjabloon, het uploaden van elementen en (dynamische HTML5-advertenties) het maken van een feedbacksjabloon en een catalogus. Zie &quot;[ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md).&quot;
+>Voordat u dynamische creatieve elementen aan een creatieve bibliotheek kunt toevoegen, moet u andere stappen uitvoeren, zoals het maken van de advertentiesjabloon, het uploaden van elementen en (dynamische HTML5-advertenties) het maken van een feedbacksjabloon en een catalogus. Zie &quot;[ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md).&quot;
 
 <!-- This does't work for me 9/24 -- I still have to select a catalog:
 
@@ -41,11 +41,21 @@ Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-
 
 ## Dynamische creatieve elementen toevoegen met behulp van een dynamische HTML5 en sjabloon
 
-1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
+1. Voer een van de volgende handelingen uit:
 
-1. Klik op de naam van de bibliotheek.
+   * Vanuit een creatieve bibliotheek:
 
-1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ad]** .
+      1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
+
+      1. Klik op de naam van de bibliotheek.
+
+      1. Klik op het tabblad **[!UICONTROL Creatives]** op **[!UICONTROL Create]** > **[!UICONTROL Creatives]** > **[!UICONTROL Dynamic Ad]** .
+
+   * Uit een advertentiesjabloon:
+
+      1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]** .
+
+      1. Plaats de cursor op de rij voor de advertentiesjabloon en klik op **[!UICONTROL Create Dynamic Ad]** .
 
 1. Specificeer de [ dynamische ad montages ](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
@@ -79,4 +89,4 @@ Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-
 >
 >* [ Dynamische creatieve montages ](creative-settings-dynamic.md)
 >* [ geef dynamisch creatief in een creatieve bibliotheek uit ](creative-edit-dynamic.md)
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
