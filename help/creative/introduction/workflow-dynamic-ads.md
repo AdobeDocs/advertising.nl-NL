@@ -1,17 +1,43 @@
 ---
-title: Workflow voor dynamische advertenties
-description: Leer meer over de workflow voor het beheer van dynamische advertenties.
+title: Workflows voor dynamische advertenties
+description: Leer meer over de workflows voor het beheer van dynamische advertenties.
 feature: Creative Dynamic Creatives
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: 02ac4175c1d91f4f6d65bb2d683a7909f06a287c
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
 
-# Workflow voor dynamische advertenties
+# Workflows voor dynamische advertenties
 
-1. [ creeer een advertentiesjabloon ](/help/creative/ad-templates/ad-template-manage.md) voor uw dynamische advertenties die op de beschikbare activa worden gebaseerd
+U kunt dynamische advertenties op twee manieren instellen:
+
+* Workflow 1: Upload een advertentiesjabloon en voeg een variatiecatalogus rechtstreeks toe binnen de dynamische ad-instellingen wanneer u dynamische advertenties toevoegt aan een creatieve bibliotheek. U kunt een bestaande voedermalplaatje downloaden om de catalogus tot stand te brengen.
+
+  Gebruik deze workflow wanneer dezelfde persoon alle informatie kan opgeven (behalve de voedersjabloon) om de advertenties te maken. De geüploade bestanden blijven beschikbaar voor toekomstig gebruik.
+
+* Workflow 2: stel een advertentiesjabloon in en voeg variatiecatalogi toe in afzonderlijke weergaven, en voeg vervolgens afzonderlijk dynamische advertenties toe aan een creatief bedrijf met behulp van de reeds beschikbare advertentiesjabloon en catalogi.
+
+  Gebruik deze workflow wanneer verschillende personen verschillende taken uitvoeren of wanneer u slechts één taak tegelijk wilt uitvoeren.
+
+## Workflow 1
+
+1. [ creeer dynamische creatieve creatieve ](/help/creative/creative-libraries/creative-add-dynamic.md) voor een creatieve bibliotheek. Upload voor dynamische HTML5-advertenties een advertentiesjabloon en catalogi.
+
+1. Gebruik de dynamische creatieve elementen voor advertenties:
+
+   1. [ creeer dynamische ad bundels ](/help/creative/creative-libraries/bundle-manage.md) die u allen aan een advertentie kunt in één keer vastmaken.
+
+   1. Creeer dynamische en ervaringen [ met het richten van zich ](/help/creative/experiences/experience-create-targeting.md) of [ zonder ](/help/creative/experiences/experience-create-no-targeting.md) te richten en [ wijs de creatieve bundels aan de ervaringen ](/help/creative/experiences/experience-assign-creative-bundles.md) toe.
+
+   1. [ produceer en voer de markeringen van de advertentiervaring uit ](/help/creative/experiences/experience-tag-export.md) om hen als advertenties in uw DSP in werking te stellen.
+
+      Als u een advertentie wilt gebruiken als advertentie in Adobe Advertising DSP, uploadt u de advertentietag naar een Advertising DSP-campagne. Als u een advertentie wilt gebruiken als advertentie in een andere DSP, implementeert u de advertentietag in die DSP.
+
+## Workflow 2
+
+1. [ creeer een advertentiesjabloon ](/help/creative/ad-templates/ad-template-manage.md) voor uw dynamische advertenties die op de beschikbare activa worden gebaseerd.
 
 1. Stel uw advertentie-elementen in:
 
@@ -33,10 +59,12 @@ ht-degree: 0%
 
 1. [ creeer dynamische creatieve creatieve ](/help/creative/creative-libraries/creative-add-dynamic.md) voor een creatieve bibliotheek. Gebruik voor dynamische HTML5-advertenties een opgegeven advertentiesjabloon en opgegeven catalogi.
 
-1. [ creeer dynamische ad bundels ](/help/creative/creative-libraries/bundle-manage.md) die u allen aan een advertentie kunt in één keer vastmaken.
+1. Gebruik de dynamische creatieve elementen voor advertenties:
 
-1. Creeer dynamische en ervaringen [ met het richten van zich ](/help/creative/experiences/experience-create-targeting.md) of [ zonder ](/help/creative/experiences/experience-create-no-targeting.md) te richten en [ wijs de creatieve bundels aan de ervaringen ](/help/creative/experiences/experience-assign-creative-bundles.md) toe.
+   1. [ creeer dynamische ad bundels ](/help/creative/creative-libraries/bundle-manage.md) die u allen aan een advertentie kunt in één keer vastmaken.
 
-1. [ produceer en voer de markeringen van de advertentiervaring uit ](/help/creative/experiences/experience-tag-export.md) om hen als advertenties in uw DSP in werking te stellen.
+   1. Creeer dynamische en ervaringen [ met het richten van zich ](/help/creative/experiences/experience-create-targeting.md) of [ zonder ](/help/creative/experiences/experience-create-no-targeting.md) te richten en [ wijs de creatieve bundels aan de ervaringen ](/help/creative/experiences/experience-assign-creative-bundles.md) toe.
 
-   Als u een advertentie wilt gebruiken als advertentie in Adobe Advertising DSP, uploadt u de advertentietag naar een Advertising DSP-campagne. Als u een advertentie wilt gebruiken als advertentie in een andere DSP, implementeert u de advertentietag in die DSP.
+   1. [ produceer en voer de markeringen van de advertentiervaring uit ](/help/creative/experiences/experience-tag-export.md) om hen als advertenties in uw DSP in werking te stellen.
+
+      Als u een advertentie wilt gebruiken als advertentie in Adobe Advertising DSP, uploadt u de advertentietag naar een Advertising DSP-campagne. Als u een advertentie wilt gebruiken als advertentie in een andere DSP, implementeert u de advertentietag in die DSP.

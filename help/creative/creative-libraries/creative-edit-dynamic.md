@@ -2,7 +2,7 @@
 title: Een dynamische creatieve functie bewerken in een creatieve bibliotheek
 description: Leer hoe u een dynamische creatieve bibliotheek bewerkt.
 feature: Creative Dynamic Creatives
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
 workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 0%
@@ -35,4 +35,4 @@ ht-degree: 0%
 >
 >* [ Dynamische creatieve montages ](creative-settings-dynamic.md)
 >* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)

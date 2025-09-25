@@ -2,10 +2,10 @@
 title: Dynamische advertentiesjablonen beheren
 description: Meer informatie over xxxx.
 feature: Creative Templates
-source-git-commit: 5828fada55ba9506589df6088ea58b896084700c
+source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 1%
+source-wordcount: '403'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,10 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 <!-- EXPLAIN MORE:  Is this like repropagating a feed file through a template, or can you just change some things? Is generating an ad template a one-time thing, using the existing feed file, but you might later update the file and re-propagation doesn't happen automatically? Clarify the use cases for each.-->
 
 ## Een dynamische advertentiesjabloon maken
+
+>[!NOTE]
+>
+>U kunt een dynamisch advertentiemalplaatje ook uploaden wanneer u [ dynamische creatieve creatieven aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle advertentiesjablonen die u daar maakt, worden beschikbaar in de weergave [!UICONTROL Ad Templates] voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]** .
 
@@ -56,6 +60,10 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** . <!-- Confirm -->
 
 ## Dynamische advertenties maken van een advertentiesjabloon
+
+>[!NOTE]
+>
+>U kunt dynamische creatieve creatieven aan een creatieve bibliotheek [ van binnen een creatieve bibliotheek ook toevoegen.](/help/creative/creative-libraries/creative-add-dynamic.md)
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]** .
 
@@ -113,7 +121,7 @@ Een bestand uploaden:
 
 >[!MORELIKETHIS]
 >
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
 >* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
 >* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)

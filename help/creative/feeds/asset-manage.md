@@ -2,9 +2,9 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '390'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,10 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
      U kunt één afbeelding of meerdere afbeeldingen uploaden in een ZIP-bestand.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 ## Een elementbestand uploaden
+
+>[!NOTE]
+>
+>In plaats van het uploaden van activadossiers, kunt u een catalogus ook direct uploaden wanneer u [ dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Feeds]** .
 
@@ -77,7 +81,7 @@ Alle ZIP-bestanden worden automatisch gedecomprimeerd. Wanneer u een spreadsheet
 
 >[!MORELIKETHIS]
 >
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
 >* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
 >* [ beheer dynamische ad malplaatjes ](/help/creative/ad-templates/ad-template-manage.md)

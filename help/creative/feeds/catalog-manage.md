@@ -2,9 +2,9 @@
 title: Feed catalogi beheren
 description: Leer hoe u voedercatalogi beheert.
 feature: Creative Dynamic Creatives
-source-git-commit: 5828fada55ba9506589df6088ea58b896084700c
+source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '377'
 ht-degree: 0%
 
 ---
@@ -16,6 +16,10 @@ Verwerkte voedercatalogi zijn reeksen potentieel en variaties die van een gespec
 Alvorens u de ad variaties kunt gebruiken om [ dynamische advertenties aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe te voegen, proces de catalogus.
 
 ## Een catalogus maken {#feed-catalog-create}
+
+>[!NOTE]
+>
+>U kunt een catalogus ook direct uploaden wanneer u [ dynamische creatieve creatieven aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Feeds]** .
 
@@ -102,7 +106,7 @@ Archiveer een catalogus om deze te verwijderen.
 >[!MORELIKETHIS]
 >
 >* [ Spoor het statuut van catalogusverwerkingstaken ](/help/creative/feeds/job-status-track.md)
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
 >* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
 >* [ beheer dynamische ad malplaatjes ](/help/creative/ad-templates/ad-template-manage.md)

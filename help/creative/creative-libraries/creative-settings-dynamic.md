@@ -2,9 +2,9 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
 workflow-type: tm+mt
-source-wordcount: '196'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
@@ -53,15 +53,15 @@ ht-degree: 0%
 
 ## Advertentiesjabloon
 
-**[!UICONTROL Ad Template]:** De advertentiesjabloon waarvan de advertenties moeten worden gemaakt.<!-- also an option to upload your own ad template. Need to add the specs for that -->
+**[!UICONTROL Ad Template]:** De advertentiesjabloon waaruit de advertenties moeten worden gemaakt. Selecteer een bestaande advertentiesjabloon of upload een nieuwe advertentiesjabloon.<!-- Need to add the specs for that -->
 
 **[!UICONTROL Number of offers (Max 50)]:** Het aantal aanbiedingen dat voor elke advertentie kan worden gecreeerd.<!-- Clarify this: is this the frequency cap (max number of times an ad may be served)? -->
 
 ## Catalogi
 
-**[!UICONTROL Template]:** Het voedermalplaatje aan gebruik om de advertenties tot stand te brengen.<!-- also an option to upload your own feed template.  Need to add the specs for that -->
+**[!UICONTROL Template]:** De voedermalplaatje aan gebruik om de advertenties tot stand te brengen.
 
-**\[Catalogs\]**: Één of meerdere van de gespecificeerde catalogi van de adverteerder waaruit om advertenties te produceren.<!-- also an option to upload your own catalog (Can't find the Catalog you need? Download a template, create your own, and upload it from your device.). Nneed to add the specs for that -->
+**\ [Catalogi\]**: Één of meerdere catalogi waarvan om advertenties te produceren. Selecteer een bestaande catalogus, of creeer een nieuwe catalogus door een bestaand voedermalplaatje te downloaden en de nieuwe catalogus te creëren en te uploaden.<!-- Need to add the specs for that -->
 
 ### [!UICONTROL Attributes Mapping]
 
@@ -75,4 +75,4 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 >
 >* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
 >* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
->* [ Werkschema voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
