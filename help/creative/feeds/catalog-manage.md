@@ -2,9 +2,9 @@
 title: Feed catalogi beheren
 description: Leer hoe u voedercatalogi beheert.
 feature: Creative Dynamic Creatives
-source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
+source-git-commit: 31651c4e30d22b4d1639ef3fc05d5ff9e02dd040
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Verwerkte voedercatalogi zijn reeksen potentieel en variaties die van een gespecificeerd voederdossier en een gespecificeerd voedermalplaatje worden gecreeerd. Dynamische HTML5-advertenties, maar geen statische HTML5-advertenties, vereisen een catalogus om dynamische advertenties te maken.
 
-Alvorens u de ad variaties kunt gebruiken om [ dynamische advertenties aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe te voegen, proces de catalogus.
+Alvorens u kunt tot stand brengen en variaties en [ dynamische advertenties toevoegen aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md), de catalogus verwerken. U kunt het voederdossier later bijwerken en de catalogus opnieuw verwerken om een nieuwe reeks ad variaties tot stand te brengen.<!-- I should list somewhere what happens when you add, update, or remove: I don't think we rewrite existing ads in the creative library, but only add to them. -->
 
 ## Een catalogus maken {#feed-catalog-create}
 
