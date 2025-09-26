@@ -2,7 +2,7 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 40f8fbde0879f2412816a2b08e6e99da67f16219
+source-git-commit: 4b3db40b3c0fb68e2b3d84b8d95c5d3fbd549d7b
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 0%
@@ -12,6 +12,7 @@ ht-degree: 0%
 # Elementbestanden beheren
 
 Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Microsoft Excel-spreadsheet (XLSX) als de afbeeldingselementen waarnaar in het spreadsheet wordt verwezen (behalve Adobe Experience Manager-elementverwijzingen). Voor statische HTML5-advertenties is slechts één afbeeldingselement per advertentie vereist.
+
 
 >[!NOTE]
 >
@@ -25,7 +26,7 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
      Voor beelden zult u uploaden, verwijs het beeld gebruikend het formaat `images/image_name` (zoals `images/300x250_acme_logo.png`.) <!-- Verify.  Also need to include the spec for how to reference images in AEM -->
 
-   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- NOT GIF still? And is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
+   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
    * (Optioneel) Video-elementen in MP4- of WEBM-indeling
 
