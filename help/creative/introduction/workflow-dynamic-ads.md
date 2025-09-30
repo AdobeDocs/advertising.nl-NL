@@ -2,9 +2,9 @@
 title: Workflows voor dynamische advertenties
 description: Leer meer over de workflows voor het beheer van dynamische advertenties.
 feature: Creative Dynamic Creatives
-source-git-commit: 6f2f6580e8d4fc11f52a97b086ce453e423ab4e6
+source-git-commit: f25b0edea0f264f8ebd7c487112a7cbfca32c9e0
 workflow-type: tm+mt
-source-wordcount: '556'
+source-wordcount: '548'
 ht-degree: 0%
 
 ---
@@ -52,7 +52,7 @@ U kunt dynamische advertenties op twee manieren instellen:
 
    * (Voor dynamische HTML5-advertenties) Maak catalogi van uw advertentie-elementen:
 
-      1. Maak een feed-bestand in de indeling Microsoft Excel-werkblad (XLSX) met één rij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam of een verwijzing naar een Adobe Experience Manager op. Verzamel de bijbehorende afbeeldingselementen afzonderlijk.
+      1. Maak een feed-bestand in de indeling Microsoft Excel-werkblad (XLSX) met één rij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam op. Verzamel de bijbehorende afbeeldingselementen afzonderlijk.
 
       1. [ uploadt het voederdossier en beeldactiva ](/help/creative/feeds/asset-manage.md).
 

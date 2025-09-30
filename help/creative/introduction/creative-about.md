@@ -3,9 +3,9 @@ title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
 exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 41814881a2fc0efde76927d12a8649efad86f4cb
 workflow-type: tm+mt
-source-wordcount: '482'
+source-wordcount: '474'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Met je Creative-bibliotheken kun je de creatieve producten beheren die je in je 
 
 ### [!DNL Adobe] middelenintegratie
 
-[!DNL Creative] is direct geïntegreerd met Adobe Experience Manager, zodat u de [!DNL Adobe] -afbeeldingselementen die door uw ontwerpteam worden gemaakt en goedgekeurd, eenvoudig kunt uploaden en deze vervolgens kunt gebruiken voor realtime opslag en bewerking van advertenties.
+[!DNL Creative] is direct geïntegreerd met Adobe Experience Manager, zodat u de [!DNL Adobe] -afbeeldingselementen die door uw ontwerpteam worden gemaakt en goedgekeurd voor standaardafbeeldingsadvertenties eenvoudig kunt uploaden.
 
 ## Zowel op regels gebaseerde als niet-gerichte ervaringen
 
