@@ -3,7 +3,7 @@ title: Veelgestelde vragen over campagnes
 description: Zie antwoorden op vragen over campagnebeheer en de mening van campagnegegevens.
 exl-id: 999e5aba-f556-4b34-bb92-5931d5e0dd72
 feature: Search Campaign Management
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: 88b415fff52d623a5daeb00355bfe00054d5402b
 workflow-type: tm+mt
 source-wordcount: '1585'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 Verplaats of kopieer geen campagne of campagnecomponent, die een unieke identiteitskaart heeft, naar een rekening met een verschillende rekening ID. Dit resulteert in gegevensfouten.
 +++
 
-+++Wanneer wordt de klikgegevens bijgewerkt van de advertentienetwerken?
++++Wanneer worden de klikgegevens bijgewerkt van de advertentienetwerken?
 
-Het proces waarbij de klikgegevens van de vorige dag van de zoekmachines worden opgehaald, begint om 6:00 uur in de tijdzone van de adverteerder.
+Het proces om de klikgegevens van de vorige dag van de onderzoeksmotoren te trekken begint bij 06 :00 in de de tijdzone van de adverteerder.
 
-Bovendien worden [!DNL Google Ads] prestaties op campagnereniveau op het onderzoeksnetwerk voor de huidige dag getrokken om 08:00 en 16:00 in de tijdzone van de adverteerder.
+Bovendien [!DNL Google Ads] campagne-vlakke prestatiesmetriek op het onderzoeksnetwerk voor de huidige dag worden getrokken bij 08 :00 en 16 :00 in de de tijdzone van de adverteerder.
 +++
 
-+++Welke acties veroorzaken sleutelwoorden en advertenties om hun geschiedenis te verliezen?
++++Welke acties leiden ertoe dat trefwoorden en advertenties hun geschiedenis verliezen?
 
 >[!NOTE]
 >
@@ -65,17 +65,17 @@ Afhankelijk van de [ montages van voedergegevens ](/help/search-social-commerce/
 * Het voorraadniveau van een item daalt tot onder een minimum dat is opgegeven in de instellingen voor de voedergegevens.
 +++
 
-+++ ([!DNL Google Ads] campagnes) De veranderingen in de vertoningsnamen voor mijn [!DNL Google] - gevolgd omzettingen werden teruggedraaid.
++++([!DNL Google Ads] campagnes) De veranderingen in de vertoningsnamen voor mijn [!DNL Google] - gevolgd omzettingen werden teruggedraaid.
 
 Als u de weergavenamen van de conversiemetriek wijzigt in Zoeken, Sociaal en Commerce, worden de wijzigingen overschreven met de namen die zijn geconfigureerd in [!DNL Google Ads] . Wijzig de naam in [!DNL Google Ads] .
 +++
 
-+++ (Google Ads-campagnes) Kan ik een gedeeld budget gebruiken voor campagnes in portfolio&#39;s?
++++(Google Ads-campagnes) Kan ik een gedeeld budget gebruiken voor campagnes in portfolio&#39;s?
 
 Voor beste resultaten, voeg geen [!DNL Google Ads] campagnes aan een [!DNL Google Ads] gedeelde begroting toe als zij in geoptimaliseerde portefeuilles zijn die aan &quot; [!UICONTROL Auto adjust campaign budget limits]&quot;worden gevormd.&quot; Als u dat doet, overschrijft [!DNL Google Ads] de voor de campagne geoptimaliseerde budgetten voor Zoeken, Sociaal zoeken en Commerce, wat tot inefficiënties bij biedingen kan leiden.
 +++
 
-+++ ([!DNL Google Ads] campagnes) Kan ik mobiele en niet-mobiele gebruikers naar verschillende landingspagina&#39;s verzenden?
++++([!DNL Google Ads] campagnes) Kan ik mobiele en niet-mobiele gebruikers naar verschillende bestemmingspagina&#39;s sturen?
 
 Met de [!DNL Google Ads] [!DNL ValueTrack] parameters `{ifmobile}` en `{ifnotmobile}` kunt u op twee manieren de domeinnaam van de bestemmingspagina bepalen, zoals van toepassing is op uw sites:
 
@@ -95,9 +95,9 @@ In beide gevallen bevatten de basis-URL&#39;s met URL&#39;s voor zoeken, sociaal
 
 +++
 
-+++ ([!DNL Google Ads] campagnes op het onderzoeksnetwerk) Welke gegevens voor vandaag worden getoond?
++++([!DNL Google Ads] campagnes op het onderzoeksnetwerk) Welke gegevens voor vandaag worden getoond?
 
-[!DNL Google Ads] prestaties op campagnereniveau op het onderzoeksnetwerk voor de huidige dag worden getrokken om 08:00 en 16:00 in de de tijdzone van de adverteerder.
+[!DNL Google Ads] campagne-vlakke prestatiesmetriek op het onderzoeksnetwerk voor de huidige dag wordt getrokken bij 08 :00 en 16 :00 in de de tijdzone van de adverteerder.
 
 Op het tabblad [!UICONTROL Campaigns] in zowel de [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave als de [!UICONTROL Optimization] > [!UICONTROL Portfolios] -weergave bevatten de gegevens de laatst gesynchroniseerde gegevens wanneer u rapporteert over [!UICONTROL Today] of een aangepast datumbereik dat de huidige dag bevat.
 
@@ -107,7 +107,7 @@ Op het tabblad [!UICONTROL Campaigns] in zowel de [!UICONTROL Search, Social, & 
 
 +++
 
-+++Wat is het verschil tussen een het volgen malplaatje en een het landen paginaachtervoegsel?
++++Wat is het verschil tussen een volgsjabloon en een achtervoegsel van een landingspagina?
 
 Gebruik het achtervoegsel van een bestemmingspagina alleen voor advertentienetwerken die parallelle tracking ondersteunen. In Zoeken, Sociaal, &amp; Commerce, zowel zouden het volgen malplaatjes als het landen van paginaaanvoegsels een klikherkenningsteken van het advertentienetwerk moeten omvatten, maar het volgen malplaatjes omvatten extra het volgen parameters.
 
@@ -124,14 +124,14 @@ Zoeken, Sociaal en Commerce ondersteunt parallelle tracering voor zoek- en winke
 Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar de URL van de trackingsjabloon, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze worden doorgestuurd naar de laatste URL (die mogelijk aanvullende parameters bevat in het achtervoegsel van een bestemmingspagina). Alle volgende sjablonen voor een advertentienetwerkaccount moeten dezelfde klikid-parameter bevatten die u in de [!UICONTROL Landing Page Suffix] gebruikt. Zie [ het volgen malplaatjevormen voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [ het volgen malplaatjeformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
-+++Waarom bevatten URL&#39;s voor mijn advertenties &quot;`&EV_HASH={<hash>}`&quot;?
++++Waarom bevat het bijhouden van URL&#39;s voor mijn advertenties &quot;`&EV_HASH={<hash>}`&quot;?
 
 Wanneer u advertenties uploadt gebruikend de voer van de a [ productinventaris ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor een rekening met het Onderzoek, Sociale, &amp; de pixelomleiding van Commerce en met sleutelwoord en creatief-vlakke volgen, dan voegt het Onderzoek, Sociale, &amp; Commerce de knoeiboelparameter en waarde aan het volgende malplaatje of bestemmingsURL van de advertentie toe om te identificeren dat het gebruikend de eigenschap van de inventarisvoer werd gecreeerd.
 +++
 
 ## Voorraadvoeding
 
-+++ (Product voorraad feeds) Moet ik advertenties pauzeren of verwijderen die verouderd zijn of bestemd zijn voor een product waarvan de voorraad onder een bepaald minimum ligt?
++++(Productvoorraadfeeds) Moet ik advertenties pauzeren of verwijderen die verouderd zijn of bestemd zijn voor een product waarvan het voorraadniveau onder een bepaald minimum ligt?
 
 Dit hangt af van de zakelijke vereisten van de adverteerder.
 
@@ -140,12 +140,12 @@ Als u advertenties pauzeert, worden ze opnieuw geactiveerd als u dezelfde advert
 Wanneer u advertenties verwijdert en opnieuw verzendt, worden nieuwe advertenties gemaakt en moeten historische gegevens worden verzameld voor de nieuwe advertenties. Als u verwijderde advertenties niet verwacht opnieuw te verzenden, is het echter niet belangrijk historische gegevens te hebben.
 +++
 
-+++ (voer voor productinventarisatie) Als ik een advertentiesjabloon verwijder en vervolgens een nieuwe, identieke sjabloon maak, worden ontbrekende items in het volgende voederbestand gepauzeerd (wanneer de instellingen voor het voedingsbestand hiervoor zijn geconfigureerd)?
++++(Productvoorraadfeeds) Als ik een advertentiesjabloon verwijder en vervolgens een nieuwe, identieke sjabloon maak, worden ontbrekende items in het volgende voederbestand gepauzeerd (wanneer de instellingen van het feed-bestand hiervoor zijn geconfigureerd)?
 
 Als het volgende voederdossier regelpunten mist en u niet eerder die lijnpunten van het nieuwe malplaatje via een vorig voederdossier hebt gepost, dan worden de ontbrekende lijnpunten niet erkend als &quot;ontbrekend,&quot;zodat worden zij niet gecreeerd. Om dit te vermijden, verspreidt u het vorige voederdossier door het nieuwe malplaatje en post de gegevens alvorens gegevens van een nieuw dossier te verspreiden en te posten.
 +++
 
-+++ (Product voorraad feeds) Kan ik de prijzen voor mijn producten bijwerken zonder dat dit van invloed is op de kwaliteitsscore van een advertentie?
++++(Productvoorraadfeeds) Kan ik de prijzen voor mijn producten bijwerken zonder dat dit van invloed is op de kwaliteitsscore van een advertentie?
 
 Voor [!DNL Google Ads] -campagnes ja: met de variabelen [!DNL Google Ads] `{Param 1}` en `{Param 2}` kunt u dynamisch numerieke waarden in een advertentievariatie invoegen zonder de advertentie te verwijderen en opnieuw te maken, en dus zonder dat dit van invloed is op de kwaliteitsscore.
 
@@ -156,15 +156,15 @@ Als de kolom bijvoorbeeld Prijs heet, opent u de feed-sjabloon waarmee de advert
 Wanneer u gegevens verzendt, kunnen de gegevensvelden voor de kolommen [!UICONTROL Param1] en [!UICONTROL Param2] maximaal 25 tekens bevatten, waaronder numerieke gegevens, valutasymbolen en valutacodes, en de volgende niet-numerieke tekens: `, . % + - /`
 +++
 
-+++Mijn campagnes die uit voorraadfeeds worden geproduceerd hebben vele verweesde transacties.
++++Mijn campagnes die zijn gegenereerd op basis van voorraadfeeds hebben veel verweesde transacties.
 
 Als de [ montages van voedergegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings) worden gevormd om advertenties in diverse situaties te schrappen, dan om het even welke vertraagde omzettingen die na kliks op de advertentie voorkomen kunnen [ wezen transacties ](/help/search-social-commerce/glossary.md#o-p) veroorzaken. De beste manier is om advertenties te pauzeren in plaats van ze te verwijderen. Als een advertentie na lange tijd nog steeds geen inkomsten heeft ontvangen, kunt u deze verwijderen via een bulksblad of de weergave Advertentiebeheer.
 +++
 
 ## Prestatieproblemen met betrekking tot account en campagne
 
-+++Sommige van mijn campagnes geven meer of minder uit dan de campagnebegrotingen.
++++Sommige van mijn campagnes geven min of meer uit dan de campagnebegrotingen.
 
-* Dit is normaal in een geoptimaliseerde portefeuille die met &quot;[!UICONTROL Auto-adjust campaign budget limits]&quot;optie wordt gevormd. Wanneer deze optie wordt toegelaten, kunt u tot *N* keer de begroting van elke campagne doorgeven, waar *N* de waarde van &quot;[!UICONTROL Multiple]&quot;het plaatsen is. Met deze optie kan de optimalisatiecapaciteit de uitgaven voor afzonderlijke campagnes zo nodig aanpassen en de hele portfolio zo sturen dat de doelstelling wordt gehaald.
+* Dit is normaal in een geoptimaliseerde portefeuille die met &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;optie wordt gevormd. Wanneer deze optie wordt toegelaten, kunt u tot *N* keer de begroting van elke campagne doorgeven, waar *N* de waarde van &quot;[!UICONTROL Multiple]&quot;het plaatsen is. Met deze optie kan de optimalisatiecapaciteit de uitgaven voor afzonderlijke campagnes zo nodig aanpassen en de hele portfolio zo sturen dat de doelstelling wordt gehaald.
 * Als [!DNL Google Ads] campagnes een gedeeld budget gebruiken, dan [!DNL Google Ads] past uitgaven voor individuele campagnes zonodig aan om het volledige gedeelde budget uit te geven.
 +++
