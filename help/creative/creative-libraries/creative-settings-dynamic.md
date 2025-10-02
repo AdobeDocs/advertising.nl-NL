@@ -2,9 +2,9 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: 31651c4e30d22b4d1639ef3fc05d5ff9e02dd040
+source-git-commit: e7642f11503ebb972d23fe6d28020b3b198657b0
 workflow-type: tm+mt
-source-wordcount: '294'
+source-wordcount: '292'
 ht-degree: 0%
 
 ---
@@ -65,11 +65,9 @@ ht-degree: 0%
 
 Geüploade catalogi moeten de ZIP-indeling hebben en het volgende bevatten:
 
-* Één of meerdere voederdossiers in CSV, TSV, of het spreadsheetformaat van Microsoft Excel (XLSX).<!-- Need to add more specs for that -->
+* Een of meer feed-bestanden in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX). De maximale bestandsgrootte is 512 MB.<!-- Need to add more specs for the feed files -->
 
 * Afbeeldingselementen in de GIF-, JPEG-, JPG- of PNG-indeling
-
-* (Optioneel) Video-elementen in MP4- of WEBM-indeling
 
 ### [!UICONTROL Attributes Mapping]
 
