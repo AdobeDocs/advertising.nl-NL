@@ -49,7 +49,7 @@ ht-degree: 0%
 
 **[!UICONTROL Library]:** De creatieve bibliotheek waarin om de advertenties tot stand te brengen. Als u de advertenties maakt vanuit [!UICONTROL Creatives] > [!UICONTROL Creative Libraries] , is de bibliotheeknaam al geselecteerd en is deze alleen-lezen.
 
-**[!UICONTROL Ad Template Size]:** de [ en afmetingen ](/help/creative/creative-libraries/creative-sizes.md) voor het advertentiesjabloon waarvan om de advertentie te creëren. Als u eerst een specifieke [!UICONTROL Ad Template] selecteert, wordt deze waarde automatisch geselecteerd.
+**[!UICONTROL Ad Template Size]:** de [&#x200B; en afmetingen &#x200B;](/help/creative/creative-libraries/creative-sizes.md) voor het advertentiesjabloon waarvan om de advertentie te creëren. Als u eerst een specifieke [!UICONTROL Ad Template] selecteert, wordt deze waarde automatisch geselecteerd.
 
 ## Advertentiesjabloon
 
@@ -79,6 +79,6 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 
 >[!MORELIKETHIS]
 >
->* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
->* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
+>* [&#x200B; geef dynamische creatieve creatieve bibliotheek &#x200B;](creative-edit-dynamic.md) uit
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
