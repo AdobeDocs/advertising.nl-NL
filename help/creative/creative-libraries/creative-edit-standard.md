@@ -3,9 +3,9 @@ title: Standaardcreatieven bewerken in een creatieve bibliotheek
 description: Leer hoe u de instellingen van standaard (niet-dynamische) creatieve creatieven in een creatieve bibliotheek wijzigt.
 feature: Creative Standard Creatives
 exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: cfa8af948774daf3da56d835d739573f4782ac4b
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
@@ -48,11 +48,9 @@ Wanneer u creatieve <!-- or creative variation --> uitgeeft die in een bundel in
 
    >[!NOTE]
    >
-   >* (Alleen Flexibele HTML5-creatieven) U kunt kenmerken alleen bewerken voor afzonderlijke creatieven. <!-- May never be implemented: Also, when you update the template for a parent creative with child variations, the variations are updated with any changes to the template layout, but the attribute values for the variation aren't changed. -->
+   >* (Alleen Flexibele HTML5-creatieve producten) U kunt kenmerken alleen bewerken voor afzonderlijke creatieven.
 
-<!-- Not there as of 1/16/25. If we do add it, verify the applicable ad types:   
-1. (Flexible HTML5 [or third-party should be possible, but not so] creatives; optional) Once you've made your changes, click ![]() to preview the new creative. 
--->
+1. (Flexibele HTML5 creatieve; facultatief) Zodra u uw veranderingen hebt aangebracht, klik ![ Voorproef ](/help/creative/assets/preview.png " boven het beeld om nieuw creatief voor te vertonen.")
 
 1. Klik **sparen**.
 
