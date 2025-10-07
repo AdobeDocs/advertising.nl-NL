@@ -24,9 +24,9 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
    * Een feed-bestand in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam op in de indeling `images/image_name` (bijvoorbeeld `images/300x250_acme_logo.png` ).
 
-     De adverteerder-specifieke gebiedsnamen moeten aan de [ beschikbare gebieden voor dynamische ad voederdossiers ](/help/creative/appendix-available-feed-fields.md) in kaart brengen.
+     De adverteerder-specifieke gebiedsnamen moeten aan de [&#x200B; beschikbare gebieden voor dynamische ad voederdossiers &#x200B;](/help/creative/appendix-available-feed-fields.md) in kaart brengen.
 
-   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
+   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [&#x200B; gesteunde creatieve grootte &#x200B;](/help/creative/creative-libraries/creative-sizes.md).
 
    * (Optioneel) Video-elementen in MP4- of WEBM-indeling
 
@@ -42,7 +42,7 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
 >[!NOTE]
 >
->In plaats van het uploaden van activadossiers, kunt u een catalogus ook direct uploaden wanneer u [ dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
+>In plaats van het uploaden van activadossiers, kunt u een catalogus ook direct uploaden wanneer u [&#x200B; dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Feeds]** .
 
@@ -84,9 +84,9 @@ Alle ZIP-bestanden worden automatisch gedecomprimeerd. Wanneer u een spreadsheet
 
 >[!MORELIKETHIS]
 >
->* [ Beschikbare gebieden voor dynamische en voederdossiers ](/help/creative/appendix-available-feed-fields.md)
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
->* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
->* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
->* [ beheer dynamische ad malplaatjes ](/help/creative/ad-templates/ad-template-manage.md)
->* [ voeg dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe
+>* [&#x200B; Beschikbare gebieden voor dynamische en voederdossiers &#x200B;](/help/creative/appendix-available-feed-fields.md)
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; beheer voedermalplaatjes &#x200B;](/help/creative/feeds/feed-template-manage.md)
+>* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
+>* [&#x200B; beheer dynamische ad malplaatjes &#x200B;](/help/creative/ad-templates/ad-template-manage.md)
+>* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toe
