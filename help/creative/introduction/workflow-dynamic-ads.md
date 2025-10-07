@@ -2,9 +2,9 @@
 title: Workflows voor dynamische advertenties
 description: Leer meer over de workflows voor het beheer van dynamische advertenties.
 feature: Creative Dynamic Creatives
-source-git-commit: f25b0edea0f264f8ebd7c487112a7cbfca32c9e0
+source-git-commit: 0d7a7ab23173a061961c4b5c66ace5b69a746e86
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '571'
 ht-degree: 0%
 
 ---
@@ -44,7 +44,7 @@ U kunt dynamische advertenties op twee manieren instellen:
 
 ## Workflow 2
 
-1. [ creeer een advertentiesjabloon ](/help/creative/ad-templates/ad-template-manage.md) voor uw dynamische advertenties die op de beschikbare activa worden gebaseerd.
+1. [ creeer een advertentiesjabloon ](/help/creative/ad-templates/ad-template-manage.md) voor uw dynamische advertenties die op de beschikbare activa worden gebaseerd. De advertentiesjabloon bevat een HTML5-bestand met de gewenste advertentievorm en (alleen voor dynamische HTML5-advertenties) een bestand met de advertentiekenmerken.
 
 1. Stel uw advertentie-elementen in:
 

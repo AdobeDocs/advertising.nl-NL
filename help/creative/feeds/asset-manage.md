@@ -2,9 +2,9 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 4b3db40b3c0fb68e2b3d84b8d95c5d3fbd549d7b
+source-git-commit: 0d7a7ab23173a061961c4b5c66ace5b69a746e86
 workflow-type: tm+mt
-source-wordcount: '406'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -22,9 +22,9 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
 * Dynamische HTML5-advertenties:
 
-   * Een feed-bestand in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam of een verwijzing naar een Adobe Experience Manager op.<!-- need spec of available column names that the user-created header names must map to; need to reference it in feed template topic too, so make it a separate file/appendix. -->
+   * Een feed-bestand in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam op in de indeling `images/image_name` (bijvoorbeeld `images/300x250_acme_logo.png` ).
 
-     Voor beelden zult u uploaden, verwijs het beeld gebruikend het formaat `images/image_name` (zoals `images/300x250_acme_logo.png`.) <!-- Verify.  Also need to include the spec for how to reference images in AEM -->
+     De adverteerder-specifieke gebiedsnamen moeten aan de [ beschikbare gebieden voor dynamische ad voederdossiers ](/help/creative/appendix-available-feed-fields.md) in kaart brengen.
 
    * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
@@ -84,6 +84,7 @@ Alle ZIP-bestanden worden automatisch gedecomprimeerd. Wanneer u een spreadsheet
 
 >[!MORELIKETHIS]
 >
+>* [ Beschikbare gebieden voor dynamische en voederdossiers ](/help/creative/appendix-available-feed-fields.md)
 >* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
 >* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
 >* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)

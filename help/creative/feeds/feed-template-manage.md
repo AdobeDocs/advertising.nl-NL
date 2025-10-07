@@ -2,9 +2,9 @@
 title: Feed-sjablonen beheren
 description: Leer hoe u voedersjablonen beheert.
 feature: Creative Dynamic Creatives
-source-git-commit: ed0fe4849c1db933f1c68a49fc848acd7c74af5b
+source-git-commit: 0d7a7ab23173a061961c4b5c66ace5b69a746e86
 workflow-type: tm+mt
-source-wordcount: '385'
+source-wordcount: '404'
 ht-degree: 0%
 
 ---
@@ -89,7 +89,9 @@ Gedownloade feed-sjablonen hebben de indeling XLSX (zipped Microsoft Excel sprea
 
 ### [!UICONTROL Field Mapping] instellingen
 
-Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond.<!-- Check w/product: What is displayed where in the UI/reports and published ads? --> Ten minste één veld voor het invoerbestand moet zijn gemarkeerd als &quot; [!UICONTROL Is Unique]&quot;. Als u een veldtoewijzing wilt toevoegen, klikt u op **[!UICONTROL +]** . Als u de laatste veldtoewijzing wilt verwijderen, klikt u op **[!UICONTROL +]** .
+Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond. Zie &quot;[ Beschikbare gebieden voor dynamische en voederdossiers ](/help/creative/appendix-available-feed-fields.md)&quot;voor een lijst van de achterste gebieden en hun vereiste attributen.<!-- Check w/product: What is displayed where in the UI/reports and published ads? -->
+
+Minstens één gebied van het inputdossier moet als &quot;[!UICONTROL Is Unique] worden gemerkt.&quot; Als u een veldtoewijzing wilt toevoegen, klikt u op **[!UICONTROL +]** . Als u de laatste veldtoewijzing wilt verwijderen, klikt u op **[!UICONTROL +]** .
 
 **[!UICONTROL Field Name]:** Het gebied in het voederdossier.
 
@@ -97,7 +99,7 @@ Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-ac
 
 **[!UICONTROL Is Unique]:** Geeft aan dat het veld een unieke id (sleutel) is. Ten minste één veld per voedersjabloon moet uniek zijn. Om deze optie te selecteren, klik de knoop om het naar het recht te bewegen.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
-**[!UICONTROL Backend Field]:** Het veld op de Advertising Creative-achtergrond dat is toegewezen aan de opgegeven [!UICONTROL Field Name] in het feed-bestand.
+**[!UICONTROL Backend Field]:** het [ gebied op de achtergrond van Advertising Creative ](/help/creative/appendix-available-feed-fields.md) dat aan gespecificeerd [!UICONTROL Field Name] in het voederdossier in kaart brengt.
 
 >[!MORELIKETHIS]
 >
