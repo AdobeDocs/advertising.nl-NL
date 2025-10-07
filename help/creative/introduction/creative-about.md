@@ -3,9 +3,9 @@ title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
 exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
-source-git-commit: 41814881a2fc0efde76927d12a8649efad86f4cb
+source-git-commit: 9082d9f455a0d26ca027dc699df29737b9042457
 workflow-type: tm+mt
-source-wordcount: '474'
+source-wordcount: '472'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ U kunt uw doelsegmenten van de eerste partij uit Adobe Audience Manager en Adobe
 
 ### Tenuitvoerlegging van ervaringen als advertenties
 
-Zodra u een ervaring creeert, kunt u een JavaScript of iframe markering voor de ervaring produceren en de markering uitvoeren als derdestandaard vertoning en in een campagne van Advertising DSP of in een andere DSP.<!-- Will add video and other ad formats; not sure if they'll be available for both standard and dynamic ads. -->
+Als u een ervaring hebt gemaakt, kunt u een JavaScript- of iframe-tag voor de ervaring genereren en de tag implementeren als een externe advertentie in een Advertising DSP-campagne of in een andere DSP.
 
 ### Optimalisatie van advertentie-elementen
 

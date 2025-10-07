@@ -2,16 +2,16 @@
 title: Elementbestanden beheren
 description: Leer hoe u het elementbestand voor een adverteerder kunt uploaden en beheren.
 feature: Creative Dynamic Creatives
-source-git-commit: 0d7a7ab23173a061961c4b5c66ace5b69a746e86
+source-git-commit: af29637d42b9932933cd23a64d6a0e2b7084fa31
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '395'
 ht-degree: 0%
 
 ---
 
 # Elementbestanden beheren
 
-Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Microsoft Excel-spreadsheet (XLSX) als de afbeeldingselementen waarnaar in het spreadsheet wordt verwezen (behalve Adobe Experience Manager-elementverwijzingen). Voor statische HTML5-advertenties is slechts één afbeeldingselement per advertentie vereist.
+Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Microsoft Excel-spreadsheet (XLSX) als de afbeeldingselementen waarnaar in het spreadsheet wordt verwezen. Voor statische HTML5-advertenties is slechts één afbeeldingselement per advertentie vereist.
 
 
 >[!NOTE]
@@ -24,13 +24,11 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
    * Een feed-bestand in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX), met één koptekstrij en één gegevensrij voor elke advertentievariatie. Neem in elke rij een afbeeldingsnaam op in de indeling `images/image_name` (bijvoorbeeld `images/300x250_acme_logo.png` ).
 
-     De adverteerder-specifieke gebiedsnamen moeten aan de [&#x200B; beschikbare gebieden voor dynamische ad voederdossiers &#x200B;](/help/creative/appendix-available-feed-fields.md) in kaart brengen.
+     De adverteerder-specifieke gebiedsnamen moeten aan de [ beschikbare gebieden voor dynamische ad voederdossiers ](/help/creative/appendix-available-feed-fields.md) in kaart brengen.
 
-   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [&#x200B; gesteunde creatieve grootte &#x200B;](/help/creative/creative-libraries/creative-sizes.md).
+   * De bijbehorende afbeeldingselementen in de indeling GIF, JPEG, JPG of PNG.<!-- Is this true: The maximum file size is two (2) MB. --> zie [ gesteunde creatieve grootte ](/help/creative/creative-libraries/creative-sizes.md).
 
-   * (Optioneel) Video-elementen in MP4- of WEBM-indeling
-
-  U kunt één enkel XLSX dossier, één enkel beeld of videodossier, of één enkel dossier uploaden van het PIT dat om het even welke combinatie XLSX, beeld, en videodossiers bevat.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
+  U kunt één enkel XLSX- dossier, één enkel beelddossier, of één enkel dossier uploaden dat om het even welke combinatie XLSX en beelddossiers bevat.<!-- Check w/eng re any limitations or best practices WRT number of files and filesize allowed -->
 
 * Statische HTML5-advertenties:
 
@@ -42,7 +40,7 @@ Dynamische HTML5-advertenties vereisen zowel een feed-bestand in de indeling Mic
 
 >[!NOTE]
 >
->In plaats van het uploaden van activadossiers, kunt u een catalogus ook direct uploaden wanneer u [&#x200B; dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
+>In plaats van het uploaden van activadossiers, kunt u een catalogus ook direct uploaden wanneer u [ dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle catalogi die u daar maakt, worden beschikbaar in de [!UICONTROL Catalogs] -weergave voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Feeds]** .
 
@@ -84,9 +82,9 @@ Alle ZIP-bestanden worden automatisch gedecomprimeerd. Wanneer u een spreadsheet
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Beschikbare gebieden voor dynamische en voederdossiers &#x200B;](/help/creative/appendix-available-feed-fields.md)
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
->* [&#x200B; beheer voedermalplaatjes &#x200B;](/help/creative/feeds/feed-template-manage.md)
->* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
->* [&#x200B; beheer dynamische ad malplaatjes &#x200B;](/help/creative/ad-templates/ad-template-manage.md)
->* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toe
+>* [ Beschikbare gebieden voor dynamische en voederdossiers ](/help/creative/appendix-available-feed-fields.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
+>* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
+>* [ beheer dynamische ad malplaatjes ](/help/creative/ad-templates/ad-template-manage.md)
+>* [ voeg dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe
