@@ -20,7 +20,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 >[!TIP]
 >
->De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![ linkerruit van de Verbergen ](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
+>De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![&#x200B; linkerruit van de Verbergen &#x200B;](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
 
 | SSP | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Ondersteunde voorraad |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -48,5 +48,5 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van de Eigenschappen van de Inventaris ](inventory-overview.md)
+>* [&#x200B; Overzicht van de Eigenschappen van de Inventaris &#x200B;](inventory-overview.md)
 
