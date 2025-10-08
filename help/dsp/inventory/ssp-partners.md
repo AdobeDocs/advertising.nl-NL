@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 0e1f2e62394f2997bde7feba82592ab6fef9e4b6
+source-git-commit: 93f2ce3783d80d98a25e5c7a31cfc6ad6c475a94
 workflow-type: tm+mt
-source-wordcount: '485'
+source-wordcount: '486'
 ht-degree: 0%
 
 ---
@@ -32,7 +32,7 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 | [!DNL GumGum] |  | Adobe Advertising | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop en mobiele |
 | [!DNL Index] | [!DNL Index] | [!DNL Adobe Display]<br>[!DNL Adobe Video] | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL Magnite DV+] | [!DNL Magnite] (voorheen [!DNL Rubicon] ) | [!DNL TubeMogul] of Adobe Advertising | PG-ondersteuning | Algemeen | USD | De audio Desktop van de Desktop en mobiele <br><br> Desktop van de Vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
-| [!DNL Magnite SpringServe (formerly Magnite Streaming)] | [!DNL Magnite] (voorheen [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising | PG-ondersteuning | Algemeen | USD | Videodesktop, mobiel en CTV |
+| [!DNL Magnite SpringServe (formerly Magnite Streaming)] | [!DNL Magnite] (voorheen [!DNL Telaria] en [!DNL Tremor]) | [!DNL TubeMogul] of Adobe Advertising | PG-ondersteuning | Algemeen | AUD, USD | Videodesktop, mobiel en CTV |
 | [!DNL Microsoft Monetize] | [!DNL Microsoft] (voorheen [!DNL Xandr] , [!DNL AppNexus] ) | De video identiteitskaart van de Zetel: 9094 <br> identiteitskaart van de Vertoning: 3939 | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL Nexxen] | [!DNL Nexxen] (voorheen [!DNL Unruly] ) | Adobe Advertising | — | VS + EMEA | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL OpenX] | [!DNL OpenX] | [!DNL TubeMogul] of Adobe Advertising | PG-ondersteuning | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
