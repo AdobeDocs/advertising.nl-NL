@@ -3,9 +3,9 @@ title: SSP-partners
 description: Zie een lijst van beschikbare levering-zijplatform (SSP) en open uitwisselingspartners.
 feature: DSP Private Inventory
 exl-id: 13e22d58-b799-46f1-9bce-1a077982c457
-source-git-commit: 93f2ce3783d80d98a25e5c7a31cfc6ad6c475a94
+source-git-commit: bcb22b61886d3929ad4c509489e8e9c15abcc2ee
 workflow-type: tm+mt
-source-wordcount: '486'
+source-wordcount: '501'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,14 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 >[!TIP]
 >
->De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![&#x200B; linkerruit van de Verbergen &#x200B;](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
+>De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![ linkerruit van de Verbergen ](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
 
 | SSP | Bedrijf | Licentie-id | Programmatische Gegarandeerde Steun | Regio | Ondersteunde valuta | Ondersteunde voorraad |
 | --- | --- | --- | --- | --- | --- | --- |
 | [!DNL AdsWizz] | [!DNL Sirius XM (Pandora)] | Adobe Advertising | PG-ondersteuning | Algemeen | USD, EUR, GBP | Audiodesktop en mobiel |
 | [!DNL Cadent] | [!DNL Cadent] (voorheen [!DNL EMX Digital] ) | Adobe Advertising | — | VS/CA | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL DailyMotion] |  | [!DNL TubeMogul] of Adobe Advertising | — | VS + EMEA | USD, EUR | De Desktop van de vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
+| [!DNL Equativ] | [!DNL Equativ] (voorheen [!DNL Smart AdServer] ) | [!DNL TubeMogul] of Adobe Advertising | — | EMEA | USD, EUR | De Desktop van de vertoning en mobiele <br><br> VideoDesktop en mobiele |
 | [!DNL FreeWheel] | [!DNL Comcast] | [!DNL TubeMogul] of Adobe Advertising | PG-ondersteuning | Algemeen | USD, EUR, AUD, GBP | Videodesktop, mobiel en CTV |
 | [!DNL Google Authorized Buyers] (voorheen [!DNL Google AdX] ) | [!DNL Google] | Adobe NA - 44912714 <br> Adobe APAC en EU - 89185975 | PG-ondersteuning | Algemeen | USD, BRL | De audio Desktop van de Desktop en mobiele <br><br> Desktop van de Vertoning en mobiele <br><br> VideoDesktop, mobiel, en CTV |
 | [!DNL GumGum] |  | Adobe Advertising | — | Algemeen | USD | De Desktop van de vertoning en mobiele <br><br> VideoDesktop en mobiele |
@@ -48,5 +49,5 @@ Een platform aan de aanbodzijde (SSP) is een platform voor advertentietechnologi
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van de Eigenschappen van de Inventaris &#x200B;](inventory-overview.md)
+>* [ Overzicht van de Eigenschappen van de Inventaris ](inventory-overview.md)
 
