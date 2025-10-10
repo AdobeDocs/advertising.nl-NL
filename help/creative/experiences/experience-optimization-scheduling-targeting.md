@@ -3,9 +3,9 @@ title: Creatieve optimalisatie en planning aanpassen voor een ervaring
 description: Leer hoe u
 feature: Creative Experiences
 exl-id: 47d1a249-decd-4c3b-ac88-260488d5bcd2
-source-git-commit: ad6f076e24d69cfa93b9306a33d9b0cd4c7e813e
+source-git-commit: 7bcafc7c70333bb6f523873ed08f2bc5123823f7
 workflow-type: tm+mt
-source-wordcount: '1087'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *knopen van het Doel met bestaande slechts creatieve*
 
-Standaard wordt de creatieve rotatie voor een ervaring op algoritmische wijze bepaald om de algemene doorkliksnelheid te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen bundels. U kunt de creatieve rotatie aanpassen om de creatieve elementen in elke bundel handmatig uit te voeren voor een bepaald aangepast Advertising DSP-doel, volgens een opgegeven bundelreeks, met een opgegeven aantal indrukkingen in elke bundelreeks of volgens relatieve gewichten. U kunt ook specifieke creatieve bundels plannen die tijdens gespecificeerde, opeenvolgende tijdsperioden worden uitgevoerd en aangepaste creatieve rotatie-instellingen toepassen voor elk programma.
+Standaard wordt de creatieve rotatie voor een ervaring op algoritmische wijze bepaald om de algemene doorkliksnelheid te optimaliseren, en de instellingen voor creatieve optimalisatie zijn van toepassing op alle toegewezen bundels. U kunt afwisselend algoritmisch optimaliseren voor een bepaald eigen doel van Advertising DSP; bundels roteren volgens een gespecificeerde bundelopeenvolging, met een gespecificeerd aantal indrukkingen over elke bundelopeenvolging; of volgens relatieve gewichten. U kunt ook specifieke creatieve bundels plannen die tijdens gespecificeerde, opeenvolgende tijdsperioden worden uitgevoerd en aangepaste creatieve rotatie-instellingen toepassen voor elk programma.
 
 >[!NOTE]
 >
@@ -34,7 +34,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * *[!UICONTROL Algorithmic]:* toont de meest efficiënte en varianten vaker, die op een gespecificeerd doel worden gebaseerd.
 
-      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md).
+      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
    * *[!UICONTROL Sequencing]:* toont de bijbehorende creatieve bundels in een gespecificeerde orde (met Bundel 1 het eerst wordt gediend, Bundel 2 het tweede, etc.), met een gespecificeerd totaal aantal indrukkingen over elke bundelopeenvolging. De advertentiegrootten die worden gediend worden bepaald door de beschikbare inventaris. U kunt de definitieve bundel in de opeenvolging vormen aan a \) voor onbepaalde tijd (het gebrek) of b \) lijn terug naar de eerste bundel worden getoond. U kunt bijvoorbeeld een willekeurige advertentievariant in Bundel 1 weergeven voor drie (3) impressies, vervolgens een willekeurige advertentievariant in Bundel 2 voor één (1) impressie weergeven, vervolgens een van de ad-varianten in Bundel 3 voor twee (2) impressies weergeven en vervolgens de lus opnieuw starten. Als de varianten van de advertentie in Bundel 3 eenmaal zijn weergegeven, kunt u de varianten van de advertentie ook in de toekomst in Bundel 3 weergeven, in plaats van een lus te maken. Wanneer u het rangschikken inschakelt:
 
@@ -70,7 +70,7 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md).
+         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
       * *[!UICONTROL Sequencing]:* roteert de bijbehorende creatieve bundels in een gespecificeerde orde (met Bundel 1 het eerst, Bundel 2 het tweede, etc.), met een gespecificeerd totaal aantal indrukkingen over elke bundelopeenvolging. De advertentiegrootten die worden gediend worden bepaald door de beschikbare inventaris. U kunt de definitieve bundel in de opeenvolging vormen aan a \) voor onbepaalde tijd (het gebrek) of b \) lijn terug naar de eerste bundel worden getoond. U kunt bijvoorbeeld een van de creatieve elementen in Bundel 1 weergeven voor drie (3) indrukken, vervolgens een creatieve afbeelding weergeven in Bundel 2 voor één (1) indruk, vervolgens een van de creatieve elementen weergeven in Bundel 3 voor twee (2) indrukken en vervolgens de lus opnieuw beginnen. Als de creatieve elementen in Bundel 3 eenmaal zijn weergegeven, kunt u de creatieve elementen ook in de toekomst in Bundel 3 weergeven, in plaats van een lus te maken. Wanneer u het rangschikken inschakelt:
 
@@ -96,7 +96,7 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve elementen in elke bundel algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md).
+         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
       * *[!UICONTROL Sequencing]:* roteert de bijbehorende creatieve bundels in een gespecificeerde orde, met een gespecificeerd totaal aantal beelden over elke bundelopeenvolging. Wanneer u het rangschikken inschakelt:
 
@@ -112,5 +112,5 @@ Wanneer u het plannen gebruikt, moet u bundels door de duur van de ervaring plan
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign &#x200B;](/help/creative/experiences/experience-assign-creative-bundles.md)
->* [&#x200B; pas het volgen URLs voor creatieve personen &#x200B;](/help/creative/experiences/experience-tracking-urls-targeting.md) aan
+>* [ wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign ](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [ pas het volgen URLs voor creatieve personen ](/help/creative/experiences/experience-tracking-urls-targeting.md) aan

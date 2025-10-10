@@ -3,9 +3,9 @@ title: De indeling van de beslissingstructuur
 description: Leer over de lay-out van de beslissingsboom voor ervaringen met het richten.
 feature: Creative Experiences
 exl-id: 1d997422-8177-4a6b-b56a-e1c742b96ad2
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 7bcafc7c70333bb6f523873ed08f2bc5123823f7
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '518'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Aanvankelijk, begint elke beslissingsboom met het wortelniveau, &quot;allen.&quo
 >[!NOTE]
 >
 >You can optionally assign creative bundles to the root level, without targets. However, the [XXXX workflow](experience-create-no-targeting.md) XXXXX is better XXX.<!-- Explain the diff and why to choose the other option. -->
->—>
+—>
 
 ## Voorwaarden
 
@@ -50,7 +50,7 @@ Voor alle bovenliggende knooppunten kunt u optioneel alle onderliggende doelknoo
 
 U kunt creatieve bundels toewijzen aan elk doelknooppunt in de ervaring.
 
-Binnen elke knoop met creatieve bundels, kunt u naar keuze de inbegrepen creatieve creatieven of a) volgens gespecificeerde gewichten of b) algoritmisch roteren om de klikthrough tarief of een douanedoelstelling te optimaliseren. U kunt de creatieve elementen optioneel ook in een bepaalde tijdreeks roteren met dezelfde opties.
+Binnen elk knooppunt met creatieve bundels kunt u optioneel de meegeleverde creatieven a) algoritmisch roteren om de doorkliksnelheid of een aangepast doel, b) volgens opgegeven dikten of c) in een specifieke reeks te optimaliseren. U kunt de creatieve elementen ook optioneel in een bepaalde tijdreeks roteren om het even welke combinatie van de zelfde opties.
 
 U kunt desgewenst de URL&#39;s van de bestemmingspagina, de URL&#39;s voor het bijhouden van de indruk en de URL&#39;s voor het bijhouden van de klikken aanpassen voor de afzonderlijke creatieve personen. <!-- Not in the UI as of 1/31: For flexible HTML5 creatives, you can customize any of the flexible attributes. -->
 
