@@ -16,15 +16,15 @@ Wanneer u &quot;[!UICONTROL Targeting]&quot;optie voor een ervaring toelaat, pla
 
 Aanvankelijk, begint elke beslissingsboom met het wortelniveau, &quot;allen.&quot; U kunt één of meerdere doelknopen toevoegen, en dan creatieve bundels toewijzen aan de definitieve knopen in elke tak van de beslissingsboom. Standaard wordt de beslissingsstructuur verticaal weergegeven, maar u kunt de structuur desgewenst horizontaal weergeven.
 
-![ Voorbeeld van een verticale besluitvormingsboom zonder doelstellingen ](/help/creative/assets/experience-decision-tree-no-targets.png " Voorbeeld van een verticale besluitvormingsboom zonder doelstellingen ")
+![&#x200B; Voorbeeld van een verticale besluitvormingsboom zonder doelstellingen &#x200B;](/help/creative/assets/experience-decision-tree-no-targets.png " Voorbeeld van een verticale besluitvormingsboom zonder doelstellingen ")
 
-![ Voorbeeld van een horizontale besluitvormingsboom zonder doelstellingen ](/help/creative/assets/experience-decision-tree-no-targets-horizontal.png " Voorbeeld van een horizontale besluitvormingsboom zonder doelstellingen ")
+![&#x200B; Voorbeeld van een horizontale besluitvormingsboom zonder doelstellingen &#x200B;](/help/creative/assets/experience-decision-tree-no-targets-horizontal.png " Voorbeeld van een horizontale besluitvormingsboom zonder doelstellingen ")
 
 <!--
 >[!NOTE]
 >
 >You can optionally assign creative bundles to the root level, without targets. However, the [XXXX workflow](experience-create-no-targeting.md) XXXXX is better XXX.<!-- Explain the diff and why to choose the other option. -->
-—>
+>—>
 
 ## Voorwaarden
 
@@ -38,7 +38,7 @@ Aanvankelijk, begint elke beslissingsboom met het wortelniveau, &quot;allen.&quo
 
 Elke beslissingsboom kan tot vijf niveaus van doelstellingen hebben. Elk doelniveau kan meerdere vertakkingen bevatten, elk met een of meer knooppunten met hetzelfde doeltype (doelsegment, type geografische locatie, waarden voor opgegeven gegevensdoorvoersleutels, kenmerken voor een opgegeven herrichtingspixel of apparaatcategorie). U kunt creatieve bundels in elke advertentiegrootte toewijzen waarvoor u een standaardbeeld creatief of video creatief aan de laag-vlakke doelknopen hebt gespecificeerd.
 
-![ Voorbeeld van een besluitvormingsboom met doelstellingen ](/help/creative/assets/experience-decision-tree.png " Voorbeeld van een besluitvormingsboom met doelstellingen ")
+![&#x200B; Voorbeeld van een besluitvormingsboom met doelstellingen &#x200B;](/help/creative/assets/experience-decision-tree.png " Voorbeeld van een besluitvormingsboom met doelstellingen ")
 
 Wanneer u een doelknoop aan het definitieve niveau toevoegt, specificeert u het doel voor de nieuwe knoop. Een extra sibling knoop, &quot;Al Else,&quot;wordt automatisch gecreeerd voor iedereen die niet het gespecificeerde doel aanpast. U kunt dan extra sibling knopen met verschillende doelstellingen van het zelfde type toevoegen.
 
@@ -56,6 +56,6 @@ U kunt desgewenst de URL&#39;s van de bestemmingspagina, de URL&#39;s voor het b
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer ervaringen in Advertising Creative 2.0 ](experience-about.md)
->* [ creeer een ervaring met het richten ](/help/creative/experiences/experience-create-targeting.md)
->* [ gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
+>* [&#x200B; Ongeveer ervaringen in Advertising Creative 2.0 &#x200B;](experience-about.md)
+>* [&#x200B; creeer een ervaring met het richten &#x200B;](/help/creative/experiences/experience-create-targeting.md)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-targeting.md)
