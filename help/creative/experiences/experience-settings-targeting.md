@@ -3,9 +3,9 @@ title: Instellingen voor doelgerichte ervaring
 description: Zie beschrijvingen van alle montages voor gerichte en ervaringen.
 feature: Creative Experiences
 exl-id: cb6fd855-6534-4eac-b34b-323073d186be
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 867abdaea31c78214061c4a0fd8401877edfbe38
 workflow-type: tm+mt
-source-wordcount: '1131'
+source-wordcount: '1184'
 ht-degree: 0%
 
 ---
@@ -37,6 +37,8 @@ Voor ervaringen met beslissingsboom die richten, kunt u de standaardcreatieven m
 * Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![ tonen/verbergen ](/help/creative/assets/hide-show-creatives.png " in het hogere recht van de juiste ruit.")
 
 ## [!UICONTROL Targeting] -sectie
+
+De doelstellingen op ervaringsniveau worden toegepast in combinatie met uw DSP-doelopties. Het hiërarchische doelgedrag kan per DSP verschillen. Adobe Advertising DSP past bijvoorbeeld een ad-level gerichte toepassing toe op de doellocatie (niet in plaats van op het plaatsingsniveau). Zorg ervoor dat uw advertentiervaringen ook gericht zijn die compatibel is met de campagnes waarin u het zult uitvoeren.
 
 **[!UICONTROL Targeting]:** (Alleen-lezen voor bestaande ervaringen) maakt het mogelijk om creatief te zoeken op basis van een beslissingsstructuur en het automatisch maken van tags. Nadat u de ervaring hebt opgeslagen, kunt u deze instelling niet meer wijzigen.
 

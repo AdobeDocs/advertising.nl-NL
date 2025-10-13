@@ -3,9 +3,9 @@ title: Opnieuw doelende pixels beheren
 description: Leer hoe u het opnieuw toewijzen van pixels maakt en implementeert voor gebruik als doel voor advertenties.
 feature: Creative Pixels
 exl-id: dcd13c5a-315d-4380-99f9-6dbab3e1e1be
-source-git-commit: 1d0a1640eb2d19b8765150226e7185602bbfd495
+source-git-commit: ed3bf0200d3d3b31ef80c790c4e702914459c521
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 <!-- Note to self: These aren't segments -- we don't create a pool of users. -->
 
-U kunt een doelpixel maken om bezoekers op de bestemmingspagina&#39;s of conversiepagina&#39;s van een adverteerder te identificeren aan de hand van gebruikerscookies of universele id&#39;s en om specifieke kenmerken vast te leggen die de pagina&#39;s voor deze bezoekers bijhouden. De pixel houdt de meest recente gebeurtenis bij die de bezoeker op de pagina uitvoert. Zodra u de pixel creeert, kunt u een pixelmarkering produceren om in de relevante webpagina&#39;s op te nemen beginnen bezoekers te volgen.<!-- Note to self: surfer id=cookie or universal ID -->
+U kunt een doelpixel maken om bezoekers van de landingspagina&#39;s of conversiepagina&#39;s van een adverteerder te identificeren aan de hand van gebruikerscookies of universele id&#39;s. De pixel houdt de meest recente gebeurtenis bij die de bezoeker op een pagina uitvoert en vangt specifieke attributen die de pagina voor die bezoekers volgt. Wanneer u de pixel hebt gemaakt, genereert u een pixeltag die u in de relevante webpagina&#39;s wilt invoegen om bezoekers te volgen.<!-- Note to self: surfer id=cookie or universal ID -->
 
-Vervolgens kunt u de pixel gebruiken als het doel voor creatieve advertenties binnen een advertentie-ervaring om alleen advertenties weer te geven aan gebruikers met bepaalde kenmerken die eerder de aan de pixel gekoppelde webpagina&#39;s hebben bezocht. Bijvoorbeeld, kon u bezoekers richten die rode schoenen in grootte 10 bekijken, als de webpagina&#39;s die attributenwaarden volgen.<!-- better example? Make sure they match attribute examples below -->
+Vervolgens kunt u de pixel gebruiken als het doel voor creatieve advertenties binnen een advertentie-ervaring om alleen advertenties weer te geven aan gebruikers met bepaalde kenmerken die eerder de aan de pixel gekoppelde webpagina&#39;s hebben bezocht. U kunt bijvoorbeeld bezoekers aanspreken die rode schoenen in grootte 10 bekijken als de webpagina&#39;s deze kenmerkwaarden bijhouden.<!-- better example? Make sure they match attribute examples below --> De ervaringsniveaudoelen worden toegepast in combinatie met de DSP-doelopties. De hiërarchische doelgerichtheid kan per DSP variëren.
 
 Profielen voor opnieuw toewijzen worden 180 dagen opgeslagen.
 
@@ -28,9 +28,9 @@ Voorbeeldpixel:
 
 >[!NOTE]
 >
-> * [!DNL Creative] ondersteunt momenteel alleen universele id&#39;s voor Advertising DSP. Een toekomstige versie zal universele IDs voor derde DSPs steunen.<!-- Clarify this and reword as needed  -->
+> * [!DNL Creative] ondersteunt alleen universele id&#39;s voor Advertising DSP.
 >* U kunt uw eerste-partijpubliek van Adobe Audience Manager en Adobe Analytics als [ creatieve doelstellingen voor uw ervaringen ](/help/creative/experiences/experience-settings-targeting.md) ook gebruiken.
->* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [ markeringen van het douanesegment ](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken.
+>* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [ markeringen van het douanesegment ](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken. Advertising DSP past een ad-level gerichte aanpak toe boven op (niet in plaats van) plaatsing-niveau gerichte doelframes.
 >* Bezoekers van websites die ervoor hebben gekozen om geen advertenties meer te volgen voor advertenties, ontvangen geen advertenties met persoonlijke creatieve inhoud op basis van het doelsegment of het doelprofiel.
 
 ## Een nieuwe doelpixel maken
@@ -75,9 +75,9 @@ Voorbeeldpixel:
 
 1. In de pixelmarkering, specificeer een waarde voor elk attribuut in zowel de `<img src>` als `<script src>` secties door elk &quot;`Insert <attribute>`&quot;met een waarde te vervangen. Geef een ID5-partner-id op als de tag een universele id vastlegt.
 
-   Als u handmatig aanvullende kenmerken toevoegt, moet u URL-codering opnemen.
+   Als u handmatig aanvullende kenmerken toevoegt, neemt u URL-codering op.
 
-   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u gebruikers wilt aanwijzen die bijvoorbeeld rode sandalen van grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=sandals&ut2=red&ut3=10` en voert u ook uw ID5-partner-id in de scripttag in, zoals `&id5pid=0123456789` .
+   Als u bijvoorbeeld de kenmerken &quot;category&quot;, &quot;color&quot; en &quot;size&quot; hebt opgenomen en ID5 universele id&#39;s hebt vastgelegd, bevat de pixeltag de volgende parameters: `&ut1=--Insert category--&ut2=--Insert color--&ut3=--Insert size--` en `&id5pid=--Insert ID5_PARTNER_ID--` . Als u gebruikers wilt aanwijzen die rode sandalen in grootte 10 selecteren, wijzigt u de parameters in zowel de afbeeldingstag als de scripttag in `&ut1=sandals&ut2=red&ut3=10` en voert u ook de id van uw ID5-partner in de scripttag in, zoals `&id5pid=0123456789` .
 
    `<img src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--" />  <script src="https://creative-assets-uat.efrontier.com/creative/scripts/rt.js?advId=141731&cro=F&id5Consent=T&id5pid=--0123456789--&lrConsent=T&pxId=oGwrDCSZRWu5ZQKSEy8Y&ut1=--sandals--&ut2=--red--&ut3=--10--"></script>`
 
