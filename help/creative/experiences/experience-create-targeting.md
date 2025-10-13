@@ -23,7 +23,7 @@ Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructu
 
 1. Klik op **[!UICONTROL Create New Experience]**.
 
-1. Ga de [ algemene ervaringsmontages ](experience-settings-targeting.md) in.
+1. Ga de [&#x200B; algemene ervaringsmontages &#x200B;](experience-settings-targeting.md) in.
 
 1. Klik op **[!UICONTROL Create]**.
 
@@ -35,29 +35,29 @@ Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructu
 
       * U kunt in- of uitzoomen door de schuifregelaar te verplaatsen.
 
-      * Schakelaar tussen het bekijken van een verticale lijst en een horizontale lijst door ![ Mening als Verticale Boom ](/help/creative/assets/tree-vertical.png " Mening als Verticale Boom ") of ![Weergeven als horizontale structuur](/help/creative/assets/tree-horizontal.png "Weergeven als horizontale structuur") te klikken, respectievelijk.
+      * Schakelaar tussen het bekijken van een verticale lijst en een horizontale lijst door ![&#x200B; Mening als Verticale Boom &#x200B;](/help/creative/assets/tree-vertical.png " Mening als Verticale Boom ") of ![Weergeven als horizontale structuur](/help/creative/assets/tree-horizontal.png "Weergeven als horizontale structuur") te klikken, respectievelijk.
 
    1. (Optioneel) Stel de advertentiedoelen en de bijbehorende creatieven op een van de volgende manieren in:
 
       * Doelstellingen:
 
-         * [ voeg een doelknoop aan het definitieve niveau ](experience-target-node-add-final.md) toe.
+         * [&#x200B; voeg een doelknoop aan het definitieve niveau &#x200B;](experience-target-node-add-final.md) toe.
 
-         * [ Tussenvoegsel een doelknoop tussen knopen ](experience-target-node-add-inner.md).
+         * [&#x200B; Tussenvoegsel een doelknoop tussen knopen &#x200B;](experience-target-node-add-inner.md).
 
-         * [ voeg een sibling doelknoop tussen knopen ](experience-target-node-add-sibling.md) toe.
+         * [&#x200B; voeg een sibling doelknoop tussen knopen &#x200B;](experience-target-node-add-sibling.md) toe.
 
-         * [ de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau ](experience-target-node-copy.md).
+         * [&#x200B; de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau &#x200B;](experience-target-node-copy.md).
 
       * Creative-pakketten:
 
-         * [ wijs creatieve middelen aan een definitieve knoop ](experience-assign-creative-bundles.md) toe en unassign.
+         * [&#x200B; wijs creatieve middelen aan een definitieve knoop &#x200B;](experience-assign-creative-bundles.md) toe en unassign.
 
            Als u niet minstens één bundel aan elke definitieve knoop toewijst, kunt u verkiezen om de standaardcreatieven voor elke unassigned knoop te gebruiken wanneer u sparen de ervaring. Om een ervaring te publiceren, moet u of bundels toewijzen of de standaardcreatieven voor elke definitieve knoop gebruiken.
 
-         * [ pas het volgen URLs voor creatieven in de toegewezen bundels ](experience-tracking-urls-targeting.md) aan.
+         * [&#x200B; pas het volgen URLs voor creatieven in de toegewezen bundels &#x200B;](experience-tracking-urls-targeting.md) aan.
 
-         * [ pas creatieve optimalisering aan en het plannen ](experience-optimization-scheduling-targeting.md) voor de toegewezen bundels.
+         * [&#x200B; pas creatieve optimalisering aan en het plannen &#x200B;](experience-optimization-scheduling-targeting.md) voor de toegewezen bundels.
 
 1. (Optioneel) Schakel tussen de beslissingstructuur en de algemene instellingen:
 
@@ -73,25 +73,25 @@ Maak een doelgerichte advertentie-ervaring met behulp van een beslissingsstructu
 
       * Klik op **[!UICONTROL Save as Draft]** om de ervaring zonder alle vereiste creatieve bundels op te slaan.
 
-        U kunt geen ad markering voor a [ ontwerp ](experience-about.md#experience-statuses) ervaring tot stand brengen.
+        U kunt geen ad markering voor a [&#x200B; ontwerp &#x200B;](experience-about.md#experience-statuses) ervaring tot stand brengen.
 
       * Klik op **[!UICONTROL Assign Default Creatives]** als u de standaard creatieve waarde wilt toewijzen aan elk doel waaraan nog geen creatieve bundel is toegewezen. Klik op **[!UICONTROL Save]** en **[!UICONTROL OK]** nadat u de bijgewerkte structuur hebt bekeken waaraan de standaardcreatieven zijn toegewezen.
 
       * Klik op **[!UICONTROL Continue Edit]** als u de beslissingstructuur wilt blijven bewerken.
 
-Wanneer de beleving live is, maakt [!DNL Creative] automatisch één advertentietag voor elke toepasselijke creatieve grootte of videoduur. U kunt dan [ een advertentietag uitvoeren en het in DSP ](/help/creative/experiences/experience-tag-export.md) uitvoeren.
+Wanneer de beleving live is, maakt [!DNL Creative] automatisch één advertentietag voor elke toepasselijke creatieve grootte of videoduur. U kunt dan [&#x200B; een advertentietag uitvoeren en het in DSP &#x200B;](/help/creative/experiences/experience-tag-export.md) uitvoeren.
 
-Voor video&#39;s en ervaringen worden videoclips automatisch door Adobe Advertising DSP getranscodeerd als VAST 2.0-tags, zodat u er een voorvertoning van kunt weergeven. U kunt naar keuze [ transcoderen voor een verschillende DSP ](experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+Voor video&#39;s en ervaringen worden videoclips automatisch door Adobe Advertising DSP getranscodeerd als VAST 2.0-tags, zodat u er een voorvertoning van kunt weergeven. U kunt naar keuze [&#x200B; transcoderen voor een verschillende DSP &#x200B;](experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
 >[!MORELIKETHIS]
 >
->* [ gerichte ervaringsmontages ](experience-settings-targeting.md)
->* [ voeg een doelknoop aan het definitieve niveau toe ](experience-target-node-add-final.md)
->* [ neem een doelknoop tussen knopen ](experience-target-node-add-inner.md) op
->* [ voeg een sibling doelknoop tussen knopen ](experience-target-node-add-sibling.md) toe
->* [ de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau ](experience-target-node-copy.md)
->* [ wijs creatieve elementen aan een definitieve knoop toe ](experience-assign-creative-bundles.md)
->* [ pas het volgen URLs voor creatieven in de toegewezen bundels ](experience-tracking-urls-targeting.md) aan
->* [ pas creatieve optimalisering en het plannen aan ](experience-optimization-scheduling-targeting.md)
->* [ de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit ](/help/creative/experiences/experience-tag-export.md)
->* [ geef een ervaring met beslissingsboom uit richtend ](experience-edit-targeting.md)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](experience-settings-targeting.md)
+>* [&#x200B; voeg een doelknoop aan het definitieve niveau toe &#x200B;](experience-target-node-add-final.md)
+>* [&#x200B; neem een doelknoop tussen knopen &#x200B;](experience-target-node-add-inner.md) op
+>* [&#x200B; voeg een sibling doelknoop tussen knopen &#x200B;](experience-target-node-add-sibling.md) toe
+>* [&#x200B; de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau &#x200B;](experience-target-node-copy.md)
+>* [&#x200B; wijs creatieve elementen aan een definitieve knoop toe &#x200B;](experience-assign-creative-bundles.md)
+>* [&#x200B; pas het volgen URLs voor creatieven in de toegewezen bundels &#x200B;](experience-tracking-urls-targeting.md) aan
+>* [&#x200B; pas creatieve optimalisering en het plannen aan &#x200B;](experience-optimization-scheduling-targeting.md)
+>* [&#x200B; de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit &#x200B;](/help/creative/experiences/experience-tag-export.md)
+>* [&#x200B; geef een ervaring met beslissingsboom uit richtend &#x200B;](experience-edit-targeting.md)

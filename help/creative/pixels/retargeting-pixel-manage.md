@@ -29,8 +29,8 @@ Voorbeeldpixel:
 >[!NOTE]
 >
 > * [!DNL Creative] ondersteunt alleen universele id&#39;s voor Advertising DSP.
->* U kunt uw eerste-partijpubliek van Adobe Audience Manager en Adobe Analytics als [ creatieve doelstellingen voor uw ervaringen ](/help/creative/experiences/experience-settings-targeting.md) ook gebruiken.
->* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [ markeringen van het douanesegment ](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken. Advertising DSP past een ad-level gerichte aanpak toe boven op (niet in plaats van) plaatsing-niveau gerichte doelframes.
+>* U kunt uw eerste-partijpubliek van Adobe Audience Manager en Adobe Analytics als [&#x200B; creatieve doelstellingen voor uw ervaringen &#x200B;](/help/creative/experiences/experience-settings-targeting.md) ook gebruiken.
+>* Wanneer u een ervaring als advertentie gebruikt binnen een plaatsing van Advertising DSP, kunt u de plaatsing aan alle publiek richten beschikbaar aan u in DSP. U kunt [&#x200B; markeringen van het douanesegment &#x200B;](/help/dsp/audiences/custom-segment-create.md) ook tot stand brengen om alle bezoekers aan specifieke het landen pagina&#39;s te volgen en dan die segmenten als creatieve doelstellingen voor een plaatsing te gebruiken. Advertising DSP past een ad-level gerichte aanpak toe boven op (niet in plaats van) plaatsing-niveau gerichte doelframes.
 >* Bezoekers van websites die ervoor hebben gekozen om geen advertenties meer te volgen voor advertenties, ontvangen geen advertenties met persoonlijke creatieve inhoud op basis van het doelsegment of het doelprofiel.
 
 ## Een nieuwe doelpixel maken
@@ -39,11 +39,11 @@ Voorbeeldpixel:
 
 1. Klik boven de datatabel op **[!UICONTROL Creative]** en selecteer vervolgens > **[!UICONTROL Retargeting Pixel]** .
 
-1. Specificeer [ het opnieuw richten pixelmontages ](#retargeting-pixel-settings).
+1. Specificeer [&#x200B; het opnieuw richten pixelmontages &#x200B;](#retargeting-pixel-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. [ produceer de pixelmarkering ](#retargeting-pixel-generate) om aan de adverteerder of websitecontact te verstrekken.
+1. [&#x200B; produceer de pixelmarkering &#x200B;](#retargeting-pixel-generate) om aan de adverteerder of websitecontact te verstrekken.
 
    De pixeltag voor herbestemming moet de laatste handeling op de pagina zijn.<!-- verify here and below -->
 
@@ -55,11 +55,11 @@ Voorbeeldpixel:
 
 1. Plaats de cursor op de naam van de pixel en klik op **[!UICONTROL Edit]** .
 
-1. Bewerk [ opnieuw richtend pixelmontages ](#retargeting-pixel-settings).
+1. Bewerk [&#x200B; opnieuw richtend pixelmontages &#x200B;](#retargeting-pixel-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. [ produceer de pixelmarkering ](#retargeting-pixel-generate) om aan de adverteerder of websitecontact te verstrekken zodat zij de originele markering kunnen vervangen.
+1. [&#x200B; produceer de pixelmarkering &#x200B;](#retargeting-pixel-generate) om aan de adverteerder of websitecontact te verstrekken zodat zij de originele markering kunnen vervangen.
 
    De pixeltag voor herbestemming moet de laatste handeling op de bestemmingspagina zijn.
 
@@ -119,5 +119,5 @@ Als u deze functie wilt gebruiken, moet u of een andere gebruiker van de DSP-acc
 
 >[!MORELIKETHIS]
 >
->* [ Gericht en ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
->* [ Ongeveer en ervaringen ](/help/creative/experiences/experience-about.md)
+>* [&#x200B; Gericht en ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-targeting.md)
+>* [&#x200B; Ongeveer en ervaringen &#x200B;](/help/creative/experiences/experience-about.md)
