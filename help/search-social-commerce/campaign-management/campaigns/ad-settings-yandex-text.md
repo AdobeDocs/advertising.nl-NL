@@ -38,9 +38,9 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->De URL kan ook de vervangingsvariabelen [`{param1}` en `{param2}` ](https://yandex.com/support/direct/statistics/url-tags.html) omvatten. Wanneer u deze gebruikt, worden de variabelen vervangen door de waarden `{param1}` en `{param2}` die zijn gedefinieerd voor het trefwoord dat wordt gebruikt om de advertentie weer te geven.
+>De URL kan ook de vervangingsvariabelen [`{param1}` en `{param2}` &#x200B;](https://yandex.com/support/direct/statistics/url-tags.html) omvatten. Wanneer u deze gebruikt, worden de variabelen vervangen door de waarden `{param1}` en `{param2}` die zijn gedefinieerd voor het trefwoord dat wordt gebruikt om de advertentie weer te geven.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)

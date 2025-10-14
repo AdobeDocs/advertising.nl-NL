@@ -46,7 +46,7 @@ U kunt de transcoderingsopties voor een video en ervaring aanpassen om te zorgen
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
->* [ creeer een ervaring met het richten ](/help/creative/experiences/experience-create-targeting.md)
->* [ creeer manueel een ad markering voor een toepasselijke creatieve grootte ](experience-tag-create-manually.md)
->* [ de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit ](experience-tag-export.md)
+>* [&#x200B; Ongeveer uw creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-libraries-about.md)
+>* [&#x200B; creeer een ervaring met het richten &#x200B;](/help/creative/experiences/experience-create-targeting.md)
+>* [&#x200B; creeer manueel een ad markering voor een toepasselijke creatieve grootte &#x200B;](experience-tag-create-manually.md)
+>* [&#x200B; de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit &#x200B;](experience-tag-export.md)

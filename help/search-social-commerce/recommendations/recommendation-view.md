@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. Klik in de kolom [!UICONTROL Actions] voor de rij op **[!UICONTROL View]** . Als de aanbeveling subaanbevelingen bevat, klikt u op **[!UICONTROL View]** naast de subaanbeveling.
 
-   U kunt naar keuze [ toepassen of ](recommendation-apply-dismiss.md) de aanbevelingen van het advertentienetwerk verwerpen.
+   U kunt naar keuze [&#x200B; toepassen of &#x200B;](recommendation-apply-dismiss.md) de aanbevelingen van het advertentienetwerk verwerpen.
 
 ## Bekijk uw [!DNL Microsoft Advertising] prestatiegegevens
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uitgeversaanbevelingen en inzichten steun ](recommendation-support.md)
->* [ pas of verwerp een uitgeversaanbeveling toe ](recommendation-apply-dismiss.md)
->* [ Mening het logboek van de uitgeversaanbevelingen voor een rekening ](recommendation-view-log.md)
->* [ Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles ](recommendation-best-practices.md)
+>* [&#x200B; Ongeveer uitgeversaanbevelingen en inzichten steun &#x200B;](recommendation-support.md)
+>* [&#x200B; pas of verwerp een uitgeversaanbeveling toe &#x200B;](recommendation-apply-dismiss.md)
+>* [&#x200B; Mening het logboek van de uitgeversaanbevelingen voor een rekening &#x200B;](recommendation-view-log.md)
+>* [&#x200B; Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles &#x200B;](recommendation-best-practices.md)

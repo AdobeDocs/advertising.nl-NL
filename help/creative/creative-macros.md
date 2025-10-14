@@ -52,7 +52,7 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
->* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
->* [ gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
->  &#x200B;>*[ Niet-gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-no-targeting.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
+>* [&#x200B; Standaard creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-targeting.md)
+>  &#x200B;>*[&#x200B; Niet-gerichte ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-no-targeting.md)

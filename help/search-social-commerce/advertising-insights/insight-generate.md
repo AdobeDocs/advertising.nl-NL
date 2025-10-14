@@ -62,10 +62,10 @@ ht-degree: 0%
 
 4. Klik op **[!UICONTROL Generate Insight]**.
 
-   U ontvangt bericht wanneer de baan wordt voltooid of ontbreekt gebaseerd op uw [ gevormde berichtmontages ](/help/search-social-commerce/notifications/notification-edit.md) voor [!UICONTROL Advertising Insights].
+   U ontvangt bericht wanneer de baan wordt voltooid of ontbreekt gebaseerd op uw [&#x200B; gevormde berichtmontages &#x200B;](/help/search-social-commerce/notifications/notification-edit.md) voor [!UICONTROL Advertising Insights].
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Advertising Insights]](insight-about.md)
->* [ Mening of sparen  [!DNL Advertising Insight]](insight-view-save.md)
->* [ Schrap een  [!DNL Advertising Insight]](insight-delete.md)
+>* [&#x200B; Over [!UICONTROL Advertising Insights]](insight-about.md)
+>* [&#x200B; Mening of sparen  [!DNL Advertising Insight]](insight-view-save.md)
+>* [&#x200B; Schrap een  [!DNL Advertising Insight]](insight-delete.md)

@@ -28,7 +28,7 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
    U kunt maximaal 10.000 rijen kopiëren.
 
-1. In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Copy]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Copy]**.
 
    U kunt ook de toetsenbordopdracht &#39;copy&#39; van uw besturingssysteem gebruiken, zoals **[!DNL Ctrl+C]** for [!DNL Microsoft Windows] of **[!DNL Command-C]** for [!DNL Apple Mac] .
 
@@ -40,7 +40,7 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
 1. Bewerk de gegevens volgens de volgende vereisten:
 
-   * De geplakte gegevens moeten een koptekstrij en de noodzakelijke campagneobjecten waarden omvatten; zie de vereiste bulksemolommen voor [ Baidu ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [ Google Adds ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [ Microsoft Advertising ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [ Navigator ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [ Yahoo! Het Netwerk van de vertoning ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), [ Yahoo! Japan ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), en [ Yandex ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md). De kolomvolgorde is niet van belang.
+   * De geplakte gegevens moeten een koptekstrij en de noodzakelijke campagneobjecten waarden omvatten; zie de vereiste bulksemolommen voor [&#x200B; Baidu &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-baidu.md), [&#x200B; Google Adds &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md), [&#x200B; Microsoft Advertising &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md), [&#x200B; Navigator &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md), [&#x200B; Yahoo! Het Netwerk van de vertoning &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-display-network.md), [&#x200B; Yahoo! Japan &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yahoo-japan.md), en [&#x200B; Yandex &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-yandex.md). De kolomvolgorde is niet van belang.
 
       * Voor bestaande objecten die u wilt bewerken, moet u alle relevante ID-kolommen, entiteitsnamen en het kenmerk dat u wilt bewerken opnemen. Bewerk de numerieke id van het object niet.
 
@@ -60,7 +60,7 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
 1. Klik in het hoofdmenu Zoeken, Sociaal en Commerce op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . De weergave openen waarin gegevens moeten worden geplakt (**[!UICONTROL Live]> \[[!UICONTROL Campaigns] \|) [!UICONTROL Ad Groups] \| [!UICONTROL Keywords] \| [!UICONTROL Ads] \]**).
 
-1. In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Paste]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Paste]**.
 
    U kunt ook de toetsenbordopdracht &quot;plakken&quot; van uw besturingssysteem gebruiken, zoals **[!DNL Ctrl+V]** for [!DNL Microsoft Windows] of **[!DNL Command-V]** for [!DNL Apple Mac] .
 
@@ -68,7 +68,7 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
 1. (Optioneel) Voer aanvullende gegevens in:
 
-   * (Als **[!UICONTROL Additional Details]** wordt samengeperst) klik ![ Open ](/help/search-social-commerce/assets/chevron-up.png " Open ") om de details uit te breiden.
+   * (Als **[!UICONTROL Additional Details]** wordt samengeperst) klik ![&#x200B; Open &#x200B;](/help/search-social-commerce/assets/chevron-up.png " Open ") om de details uit te breiden.
 
    * Voer een optionele **[!UICONTROL Job Name]** en/of optionele **[!UICONTROL Job Description]** in.
 
@@ -77,9 +77,9 @@ Met deze functie kunt u bestaande campagneobjecten (met id-velden) bewerken en n
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)
->* [ geef montages direct binnen een rij ](/help/search-social-commerce/common-tasks/settings-edit-within-row.md) uit
->* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
->* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
->* [ beheert advertenties ](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md)
+>* [&#x200B; Ongeveer het beheren van campagnegegevens gebruikend bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md)
+>* [&#x200B; geef montages direct binnen een rij &#x200B;](/help/search-social-commerce/common-tasks/settings-edit-within-row.md) uit
+>* [&#x200B; beheert campagnes &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [&#x200B; beheer en groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert advertenties &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md)

@@ -24,17 +24,17 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
 >[!TIP]
 >
->Om vele advertenties te creëren meteen, gebruik [ exemplaar en deegeigenschap ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele advertenties te creëren meteen, gebruik [&#x200B; exemplaar en deegeigenschap &#x200B;](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [&#x200B; campagnebulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk, de account, de campagne, de advertentiegroep en het advertentietype en klik op **[!UICONTROL Continue]** .
 
-   Voor meer informatie over de verschillende advertentietypes, zie &quot;[ Ongeveer advertenties ](ad-about.md).&quot;
+   Voor meer informatie over de verschillende advertentietypes, zie &quot;[&#x200B; Ongeveer advertenties &#x200B;](ad-about.md).&quot;
 
-1. Ga de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgebreide dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgebreide dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [[!DNL Microsoft Advertising]  product en ](ad-settings-microsoft-product.md), [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.
+1. Ga de [[!DNL Baidu]  tekst en &#x200B;](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en &#x200B;](ad-settings-google-call.md), [[!DNL Google Ads]  uitgebreide dynamische onderzoeksadvertentie &#x200B;](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie &#x200B;](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgebreide dynamische onderzoeksadvertentie &#x200B;](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en &#x200B;](ad-settings-microsoft-multimedia.md), [[!DNL Microsoft Advertising]  product en &#x200B;](ad-settings-microsoft-product.md), [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en &#x200B;](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en &#x200B;](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en &#x200B;](ad-settings-yandex-text.md) montages.
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
 1. Klik op **[!UICONTROL Post]**.
 
-1. (Het kopen advertenties in campagnes met de omzetting van Adobe Advertising het volgen; facultatief) om kliks op de advertentie te volgen, [ produceert het volgen URL gebruikend het het Volgen hulpmiddel URLs ](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het manueel aan de rekening, de campagne, of de montages van de productgroep toe.
+1. (Het kopen advertenties in campagnes met de omzetting van Adobe Advertising het volgen; facultatief) om kliks op de advertentie te volgen, [&#x200B; produceert het volgen URL gebruikend het het Volgen hulpmiddel URLs &#x200B;](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het manueel aan de rekening, de campagne, of de montages van de productgroep toe.
 
 ## Advertentie-instellingen bewerken
 
@@ -54,23 +54,23 @@ U kunt advertenties maken, bewerken en de status ervan wijzigen in de weergave [
 
 >[!TIP]
 >
->Om grote hoeveelheden gegevens in één keer uit te geven, gebruik de [ exemplaar en deegeigenschap ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om grote hoeveelheden gegevens in één keer uit te geven, gebruik de [&#x200B; exemplaar en deegeigenschap &#x200B;](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md) of [&#x200B; campagnebulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Ads]** .
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om montages voor één enkele advertentie uit te geven) Houd de curseur over de voorproef en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ").
+   * (Om montages voor één enkele advertentie uit te geven) Houd de curseur over de voorproef en klik ![&#x200B; uitgeven &#x200B;](/help/search-social-commerce/assets/edit.png " ").
 
    * (Ga als volgt te werk om instellingen voor een of meer advertenties te bewerken:
 
       1. Schakel het selectievakje naast elke rij in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+      1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [[!DNL Baidu]  tekst en ](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en ](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie ](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie ](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en ](ad-settings-microsoft-multimedia.md), [&#128279;](ad-settings-microsoft-product.md) [!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en ](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en ](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en ](ad-settings-yandex-text.md) montages.
+1. Bewerk de [[!DNL Baidu]  tekst en &#x200B;](ad-settings-baidu-text.md), [[!DNL Google Ads]  vraag-slechts en &#x200B;](ad-settings-google-call.md), [[!DNL Google Ads]  uitgevouwen dynamische onderzoeksadvertentie &#x200B;](ad-settings-google-dsa.md) (nu genoemd enkel &quot;dynamische onderzoeksadvertentie&quot;in Google Ads), [[!DNL Google Ads]  ontvankelijke onderzoeksadvertentie &#x200B;](ad-settings-google-rsa.md), [[!DNL Microsoft Advertising]  uitgevouwen dynamische onderzoeksadvertentie &#x200B;](ad-settings-microsoft-dsa.md), [[!DNL Microsoft Advertising]  multimedia en &#x200B;](ad-settings-microsoft-multimedia.md), [&#128279;](ad-settings-microsoft-product.md) [!DNL Microsoft Advertising]  product en [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en &#x200B;](ad-settings-microsoft-responsive.md), [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en &#x200B;](ad-settings-microsoft-rsa.md), of [[!DNL Yandex]  tekst en &#x200B;](ad-settings-yandex-text.md) montages.
 
    Voor meerdere advertenties kunt u alleen de velden bewerken die worden gebruikt voor alle geselecteerde advertenties. De wijzigingen worden toegepast op alle geselecteerde advertenties. Voor sommige alfanumerieke velden kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde. Voor sommige monetaire velden kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet.
 
@@ -92,7 +92,7 @@ U kunt ook alle actieve of gepauzeerde zoekopdrachten verwijderen. Verwijderde a
 
 1. Schakel het selectievakje in naast elke advertentie waarvan u de status wilt wijzigen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik op de statusknop op de werkbalk:
 
@@ -100,18 +100,18 @@ U kunt ook alle actieve of gepauzeerde zoekopdrachten verwijderen. Verwijderde a
 
    * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
-   * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
+   * Om de rijen te schrappen, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [[!DNL Baidu]  tekst en montages ](ad-settings-baidu-text.md)
->* [[!DNL Google Ads]  vraag-slechts ad montages ](ad-settings-google-call.md)
->* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-google-dsa.md)
->* [[!DNL Google Ads]  ontvankelijke onderzoek en montages ](ad-settings-google-rsa.md)
->* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising]  multimedia en montages ](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)
->* [[!DNL Yandex]  tekst en montages ](ad-settings-yandex-text.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [[!DNL Baidu]  tekst en montages &#x200B;](ad-settings-baidu-text.md)
+>* [[!DNL Google Ads]  vraag-slechts ad montages &#x200B;](ad-settings-google-call.md)
+>* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-google-dsa.md)
+>* [[!DNL Google Ads]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-google-rsa.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  multimedia en montages &#x200B;](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising]  product en montages &#x200B;](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages &#x200B;](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-microsoft-rsa.md)
+>* [[!DNL Yandex]  tekst en montages &#x200B;](ad-settings-yandex-text.md)

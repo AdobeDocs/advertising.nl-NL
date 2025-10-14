@@ -23,8 +23,8 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 >[!NOTE]
 >
 >* U kunt gegevens van de voorgaande 13 maanden weergeven, maar bestaande aangepaste weergaven kunnen gegevens van maximaal 180 dagen bevatten.
->* Om vroegere gegevens te bekijken, ga naar [[!UICONTROL Reports] mening ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en stel een basisrapport in werking.
->* U kunt een datumwaaier voor a [ standaardmening of douanemening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) ook bewaren.
+>* Om vroegere gegevens te bekijken, ga naar [[!UICONTROL Reports] mening &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md) en stel een basisrapport in werking.
+>* U kunt een datumwaaier voor a [&#x200B; standaardmening of douanemening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) ook bewaren.
 
 ## Globale datumfilter wijzigen in campagneweergaven
 
@@ -36,7 +36,7 @@ Wanneer u een specifiek datumbereik opslaat voor een standaardweergave of aangep
 
    * Voor een specifiek bereik: selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begin- en einddatum op.
 
-     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![ het pictogram van de Kalender 1&rbrace; van de Kalender ](/help/search-social-commerce/assets/calendar.png " naast elk gebied om de kalender te openen en een datum te selecteren.")
+     Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![&#x200B; het pictogram van de Kalender 1&rbrace; van de Kalender &#x200B;](/help/search-social-commerce/assets/calendar.png " naast elk gebied om de kalender te openen en een datum te selecteren.")
 
 1. (Optioneel) Vergelijk gegevens voor het opgegeven datumbereik met gegevens voor een tweede datumbereik:
 

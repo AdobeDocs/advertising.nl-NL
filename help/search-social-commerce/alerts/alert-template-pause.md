@@ -22,15 +22,15 @@ U kunt actieve waarschuwingssjablonen pauzeren.
 
    * (Als u een of meer sjablonen wilt pauzeren) Schakel het selectievakje in naast elke waarschuwingssjabloon die u wilt pauzeren. In de toolbar, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauze ") van de Pauze  &lbrace;in de dialoogdoos, klik **[!UICONTROL Pause]**.
 
-     Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+     Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanealarm ](alert-about.md)
->* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
->* [ geef een malplaatje van de douanealarm ](alert-template-edit.md) uit
->* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
->* [ Schrap een malplaatje van de douanealarm ](alert-template-delete.md)
->* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
->* [ de douanealarm van de Mening ](alert-view.md)
->* [ de gegevens van de Uitvoer voor douanealarm ](alert-export-data.md)
+>* [&#x200B; Ongeveer douanealarm &#x200B;](alert-about.md)
+>* [&#x200B; creeer een malplaatje van de douanealarm &#x200B;](alert-template-create.md)
+>* [&#x200B; geef een malplaatje van de douanealarm &#x200B;](alert-template-edit.md) uit
+>* [&#x200B; activeer een malplaatje van de douanealarm &#x200B;](alert-template-activate.md)
+>* [&#x200B; Schrap een malplaatje van de douanealarm &#x200B;](alert-template-delete.md)
+>* [&#x200B; de waakzame waakzame malplaatjemontages van de Douane &#x200B;](alert-template-settings.md)
+>* [&#x200B; de douanealarm van de Mening &#x200B;](alert-view.md)
+>* [&#x200B; de gegevens van de Uitvoer voor douanealarm &#x200B;](alert-export-data.md)

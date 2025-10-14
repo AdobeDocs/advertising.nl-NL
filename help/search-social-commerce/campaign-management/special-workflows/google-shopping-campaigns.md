@@ -20,40 +20,40 @@ U kunt controleren welke producten met uw het winkelen advertenties door opstell
 
 ## Stappen voor het opzetten van [!DNL Google Ads] winkelcampagnes
 
-U kunt opstelling het winkelen campagnes door [ voorraadvoedermalplaatjes ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor [!DNL Google Shopping] te gebruiken, door [ bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), of individueel te gebruiken. De volgende instructies bevatten koppelingen naar het maken van afzonderlijke entiteiten.
+U kunt opstelling het winkelen campagnes door [&#x200B; voorraadvoedermalplaatjes &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor [!DNL Google Shopping] te gebruiken, door [&#x200B; bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), of individueel te gebruiken. De volgende instructies bevatten koppelingen naar het maken van afzonderlijke entiteiten.
 
 1. Stel uw [!DNL Google Merchant Center] -account in en vul deze met productgegevens.
 
-1. [ sta Onderzoek, Sociale, &amp; Commerce toe om gegevens van de  [!DNL Google Merchant Center]  rekening ](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md) te downloaden.
+1. [&#x200B; sta Onderzoek, Sociale, &amp; Commerce toe om gegevens van de  [!DNL Google Merchant Center]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md) te downloaden.
 
-1. [ creeer een campagne ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) op het het winkelen netwerk.
+1. [&#x200B; creeer een campagne &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) op het het winkelen netwerk.
 
-1. [ creeer een advertentiegroep ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) binnen de campagne, en plaats het standaardbod voor alle advertenties.
+1. [&#x200B; creeer een advertentiegroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) binnen de campagne, en plaats het standaardbod voor alle advertenties.
 
    U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
 
 1. Productgroepen maken voor de advertentiegroep:
 
-   1. [ creeer een &quot;Alle Producten&quot;productgroep ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
+   1. [&#x200B; creeer een &quot;Alle Producten&quot;productgroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
 
-   1. (Facultatief) [ creeer de groepen van het kindproduct ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
+   1. (Facultatief) [&#x200B; creeer de groepen van het kindproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
 
    >[!NOTE]
    >Je hoeft geen winkeladvertenties te maken. Zelfs als de advertentiegroep geen ad-entiteiten bevat, geeft [!DNL Google Ads] nog steeds advertenties voor de producten weer.
 
-1. (Facultatief) om kliks op de advertentie te volgen, [ produceert het volgen URL gebruikend het Volgen hulpmiddel URLs ](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het dan aan de rekening, de campagne, of de montages van de productgroep toe.
+1. (Facultatief) om kliks op de advertentie te volgen, [&#x200B; produceert het volgen URL gebruikend het Volgen hulpmiddel URLs &#x200B;](/help/search-social-commerce/tools/click-tracking-url-generate.md), en voegt het dan aan de rekening, de campagne, of de montages van de productgroep toe.
 
-1. De prestaties van de monitor door [ te produceren [!UICONTROL AdWords Shopping Performance Report]](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md) en [ [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md).
+1. De prestaties van de monitor door [&#x200B; te produceren [!UICONTROL AdWords Shopping Performance Report]](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md) en [&#x200B; [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md).
 
 1. Indien nodig:
 
-   1. [ geef de campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) uit om het campagnebudget aan te passen.
+   1. [&#x200B; geef de campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) uit om het campagnebudget aan te passen.
 
       Als de campagne deel van een portefeuille uitmaakt, dan staat het portefeuille plaatsen &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;Onderzoek, Sociale, &amp; Commerce toe om de begrotingen voor alle campagnes in de portefeuille te optimaliseren.
 
-   1. [ pas het maximumbod voor bestaande productgroepen ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) aan, [ schrapt productgroepen ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) waarvoor u niet meer advertenties wilt creëren, of a [ nieuwe &quot;alle producten&quot;productgroep ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md)) of [ nieuwe groepen van het kindproduct ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) toevoegen om advertenties voor extra producten tot stand te brengen.
+   1. [&#x200B; pas het maximumbod voor bestaande productgroepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) aan, [&#x200B; schrapt productgroepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) waarvoor u niet meer advertenties wilt creëren, of a [&#x200B; nieuwe &quot;alle producten&quot;productgroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md)) of [&#x200B; nieuwe groepen van het kindproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md) toevoegen om advertenties voor extra producten tot stand te brengen.
 
 >[!NOTE]
 >
->* Zie de vereiste gebieden voor het beheren van [!DNL Google Shopping] campagnes en productgroepen gebruikend [ bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md) en [ de malplaatjes van de inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md).
->* Voor meer informatie over [!DNL Google Shopping] campagnes, zie de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/2454022).
+>* Zie de vereiste gebieden voor het beheren van [!DNL Google Shopping] campagnes en productgroepen gebruikend [&#x200B; bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md) en [&#x200B; de malplaatjes van de inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md).
+>* Voor meer informatie over [!DNL Google Shopping] campagnes, zie de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/2454022).

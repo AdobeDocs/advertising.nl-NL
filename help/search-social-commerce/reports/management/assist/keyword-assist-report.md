@@ -33,22 +33,22 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 
 | Kolom | Standaard? | Beschrijving |
 | ---- | ---- | ---- |
-| [!UICONTROL 1st Keyword] t/m [!UICONTROL 5th Keyword] | Standaard | Het vijf vroegste betaalde onderzoekssleutelwoord of de plaatsing klikt in de omzettingsweg die binnen het venster van de adverteerder [ klikte terugkijkvenster ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imkerraadpleging ](/help/search-social-commerce/glossary.md#i-j) voorkwam.<br><br><b> Nota:</b> als het rapport plaatsingen van inhoud-toegelaten onderzoekscampagnes omvat (die geen sleutelwoorden omvatten), dan tonen deze kolommen de toepasselijke namen van de ad groep, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie,&quot;in plaats daarvan. |
-| [!UICONTROL Path Size] | Standaard | Het aantal sleutelwoorden en/of plaatsen in de omzettingsweg die binnen het paneel van de adverteerder [ voorkwam klikken raadplegings achteruit ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imkerraadpleging ](/help/search-social-commerce/glossary.md#i-j). |
+| [!UICONTROL 1st Keyword] t/m [!UICONTROL 5th Keyword] | Standaard | Het vijf vroegste betaalde onderzoekssleutelwoord of de plaatsing klikt in de omzettingsweg die binnen het venster van de adverteerder [&#x200B; klikte terugkijkvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; venster van de imkerraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j) voorkwam.<br><br><b> Nota:</b> als het rapport plaatsingen van inhoud-toegelaten onderzoekscampagnes omvat (die geen sleutelwoorden omvatten), dan tonen deze kolommen de toepasselijke namen van de ad groep, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie,&quot;in plaats daarvan. |
+| [!UICONTROL Path Size] | Standaard | Het aantal sleutelwoorden en/of plaatsen in de omzettingsweg die binnen het paneel van de adverteerder [&#x200B; voorkwam klikken raadplegings achteruit &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; venster van de imkerraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j). |
 | [!UICONTROL First Keyword] | Standaard | Het eerste trefwoord of de eerste plaatsing in het conversiepad. |
 | [!UICONTROL Last Keyword] | Standaard | Het laatste trefwoord of de laatste plaatsing die tot omzettingen heeft geleid (zelfs als het laatste trefwoord zich buiten de opgegeven padgrootte bevindt). |
 | \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | Aangepast | De waarde voor een aangepaste metrische waarde die u hebt gemaakt en die wordt berekend op basis van bestaande metriek. |
 | \[Specifieke conversiemetriek voor adverteerders\] | Aangepast | Het aantal omzettingen voor een gespecificeerde metrische of metrische plaatsbepaling van de omzetting. |
 | [!UICONTROL % of Total] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elke inbegrepen metrische omzettingen) Het percentage van uw algemene omzettingen over portefeuilles die aan het sleutelwoord en/of plaatsingspatroon werden toegewezen. |
-| [!UICONTROL 6th Keyword] t/m [!UICONTROL 10th Keyword] | Aangepast | Zesde door tiende betaald onderzoekssleutelwoord of plaatsing klikt in de omzettingsweg die binnen het venster van de adverteerder [ klikte raadplegingsterugkijker ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imkerraadpleging ](/help/search-social-commerce/glossary.md#i-j) voorkwam.<br><br><b> Nota:</b> als het rapport plaatsingen van inhoud-toegelaten onderzoekscampagnes omvat (die geen sleutelwoorden omvatten), dan tonen deze kolommen de toepasselijke namen van de ad groep, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie,&quot;in plaats daarvan. |
+| [!UICONTROL 6th Keyword] t/m [!UICONTROL 10th Keyword] | Aangepast | Zesde door tiende betaald onderzoekssleutelwoord of plaatsing klikt in de omzettingsweg die binnen het venster van de adverteerder [&#x200B; klikte raadplegingsterugkijker &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; venster van de imkerraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j) voorkwam.<br><br><b> Nota:</b> als het rapport plaatsingen van inhoud-toegelaten onderzoekscampagnes omvat (die geen sleutelwoorden omvatten), dan tonen deze kolommen de toepasselijke namen van de ad groep, zoals &quot;(adgroup inhoud) Uw Naam van de Groep van de Advertentie,&quot;in plaats daarvan. |
 | [!UICONTROL Avg. Conv. Latency (First Channel To Conversion)] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput voor elke inbegrepen metrisch van de omzetting) De gemiddelde vertraging in dagen van de eerste gebeurtenis (op het eerste sleutelwoord of de plaatsing) aan een omzetting. |
 | [!UICONTROL Avg. Conv. Latency (Last Channel To Conversion)] \[metrisch omzetten\] | Automatisch | (Niet beschikbaar in rapportmontages maar automatisch inbegrepen in rapportoutput) De gemiddelde latentie in dagen van de laatste gebeurtenis (op het laatste sleutelwoord of de plaatsing) aan een omzetting. |
 | [!UICONTROL Path Frequency] | Aangepast | Het aantal keren dat het pad voor deze rij is opgetreden vóór de conversie. |
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer bijstaat rapporten ](assist-report-about.md)
->* [ De [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
->* [ De [!UICONTROL Channel Assist Report]](channel-assist-report.md)
->* [ sta rapportmontages ](assist-report-settings.md) bij
->* [ produceer en bijstaat rapport ](assist-report-generate.md)
+>* [&#x200B; Ongeveer bijstaat rapporten &#x200B;](assist-report-about.md)
+>* [&#x200B; De [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
+>* [&#x200B; De [!UICONTROL Channel Assist Report]](channel-assist-report.md)
+>* [&#x200B; sta rapportmontages &#x200B;](assist-report-settings.md) bij
+>* [&#x200B; produceer en bijstaat rapport &#x200B;](assist-report-generate.md)

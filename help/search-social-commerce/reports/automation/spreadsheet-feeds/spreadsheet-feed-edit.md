@@ -24,7 +24,7 @@ U kunt wijzigen welke rapportsjabloon, [!DNL Microsoft Excel] sjabloon en andere
 
 1. (Optioneel) U kunt als volgt de rapportsjabloon of de sjabloon [!DNL Excel] die wordt gebruikt voor de spreadsheetfeed bijwerken:
 
-   * (Facultatief) om een verschillend of bijgewerkt rapportmalplaatje voor het voer te gebruiken, [ creeer een nieuw  [!DNL Excel]  malplaatje voor het rapportmalplaatje ](spreadsheet-feed-create-excel-template.md).
+   * (Facultatief) om een verschillend of bijgewerkt rapportmalplaatje voor het voer te gebruiken, [&#x200B; creeer een nieuw  [!DNL Excel]  malplaatje voor het rapportmalplaatje &#x200B;](spreadsheet-feed-create-excel-template.md).
 
      In de volgende stap moet u zowel de rapportsjabloon als het nieuwe [!DNL Excel] -bestand uploaden.
 
@@ -34,9 +34,9 @@ U kunt wijzigen welke rapportsjabloon, [!DNL Microsoft Excel] sjabloon en andere
 
    * Klik in het hoofdmenu op **[!UICONTROL Reports]>[!UICONTROL Spreadsheet Feeds]** .
 
-   * Naast de naam van de spreadsheetvoer, klik ![ Mening/geef montagesknoop ](/help/search-social-commerce/assets/settings.png " Mening uit/geef montagesknoop ").
+   * Naast de naam van de spreadsheetvoer, klik ![&#x200B; Mening/geef montagesknoop &#x200B;](/help/search-social-commerce/assets/settings.png " Mening uit/geef montagesknoop ").
 
-   * In de [!UICONTROL Edit Spreadsheet Feed] dialoog, verander de [ montages van de spreadsheetvoer ](spreadsheet-feed-settings.md).
+   * In de [!UICONTROL Edit Spreadsheet Feed] dialoog, verander de [&#x200B; montages van de spreadsheetvoer &#x200B;](spreadsheet-feed-settings.md).
 
    * Klik op **[!UICONTROL Submit]**.
 
@@ -50,10 +50,10 @@ U kunt wijzigen welke rapportsjabloon, [!DNL Microsoft Excel] sjabloon en andere
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
->* [ creeer een spreadsheetrapportvoer ](spreadsheet-feed-create.md)
->* [ creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport ](spreadsheet-feed-create-excel-template.md)
->* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
->* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
->* [ Mening of sparen een dossier van het spreadsheetrapport voer ](spreadsheet-feed-view-or-save.md)
->* [ vernieuw manueel spreadsheetrapportvoer ](spreadsheet-feed-refresh.md)
+>* [&#x200B; Ongeveer het voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-about.md)
+>* [&#x200B; creeer een spreadsheetrapportvoer &#x200B;](spreadsheet-feed-create.md)
+>* [&#x200B; creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-create-excel-template.md)
+>* [&#x200B; geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit &#x200B;](spreadsheet-feed-edit.md)
+>* [&#x200B; montages van de het rapportvoer van het Spreadsheet &#x200B;](spreadsheet-feed-settings.md)
+>* [&#x200B; Mening of sparen een dossier van het spreadsheetrapport voer &#x200B;](spreadsheet-feed-view-or-save.md)
+>* [&#x200B; vernieuw manueel spreadsheetrapportvoer &#x200B;](spreadsheet-feed-refresh.md)

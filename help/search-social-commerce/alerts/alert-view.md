@@ -67,11 +67,11 @@ Als u de campagnes of de campagneentiteiten wilt bewerken die in een waarschuwin
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanealarm ](alert-about.md)
->* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
->* [ geef een malplaatje van de douanealarm ](alert-template-edit.md) uit
->* [ Pauzeer een malplaatje van de douanealarm ](alert-template-pause.md)
->* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
->* [ Schrap een malplaatje van de douanealarm ](alert-template-delete.md)
->* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
->* [ de gegevens van de Uitvoer voor douanealarm ](alert-export-data.md)
+>* [&#x200B; Ongeveer douanealarm &#x200B;](alert-about.md)
+>* [&#x200B; creeer een malplaatje van de douanealarm &#x200B;](alert-template-create.md)
+>* [&#x200B; geef een malplaatje van de douanealarm &#x200B;](alert-template-edit.md) uit
+>* [&#x200B; Pauzeer een malplaatje van de douanealarm &#x200B;](alert-template-pause.md)
+>* [&#x200B; activeer een malplaatje van de douanealarm &#x200B;](alert-template-activate.md)
+>* [&#x200B; Schrap een malplaatje van de douanealarm &#x200B;](alert-template-delete.md)
+>* [&#x200B; de waakzame waakzame malplaatjemontages van de Douane &#x200B;](alert-template-settings.md)
+>* [&#x200B; de gegevens van de Uitvoer voor douanealarm &#x200B;](alert-export-data.md)

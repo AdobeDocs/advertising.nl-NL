@@ -20,25 +20,25 @@ U kunt controleren welke producten met uw het winkelen advertenties door opstell
 
 ## Stappen voor het opzetten van [!DNL Microsoft Advertising] winkelcampagnes
 
-U kunt opstelling het winkelen campagnes door [ voorraadvoedermalplaatjes ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor [!DNL Microsoft Advertising] te gebruiken, door [ bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), of individueel te gebruiken. De volgende instructies bevatten koppelingen naar het maken van afzonderlijke entiteiten.
+U kunt opstelling het winkelen campagnes door [&#x200B; voorraadvoedermalplaatjes &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor [!DNL Microsoft Advertising] te gebruiken, door [&#x200B; bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), of individueel te gebruiken. De volgende instructies bevatten koppelingen naar het maken van afzonderlijke entiteiten.
 
 1. Stel uw [!DNL Microsoft Merchant Center] -account in en vul deze met productgegevens.
 
-1. [ sta Onderzoek, Sociale, &amp; Commerce toe om gegevens van de  [!DNL Microsoft Merchant Center]  rekening ](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md) te downloaden.
+1. [&#x200B; sta Onderzoek, Sociale, &amp; Commerce toe om gegevens van de  [!DNL Microsoft Merchant Center]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md) te downloaden.
 
-1. [ creeer een campagne ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) op het het winkelen netwerk.
+1. [&#x200B; creeer een campagne &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) op het het winkelen netwerk.
 
-1. [ creeer een advertentiegroep ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) binnen de campagne, en plaats het standaardbod voor alle advertenties.
+1. [&#x200B; creeer een advertentiegroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) binnen de campagne, en plaats het standaardbod voor alle advertenties.
 
    U kunt het standaardbod voor afzonderlijke productgroepen overschrijven.
 
 1. Productgroepen maken voor de advertentiegroep:
 
-   1. [ creeer een &quot;Alle Producten&quot;productgroep ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
+   1. [&#x200B; creeer een &quot;Alle Producten&quot;productgroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
 
-   1. (Facultatief) [ creeer de groepen van het kindproduct ](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
+   1. (Facultatief) [&#x200B; creeer de groepen van het kindproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-manage.md).
 
-   1. Creeer [ productadvertenties ](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) met [ bevorderingslijnen potentieel om in elke het winkelen en ](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md) binnen de advertentiegroep te omvatten.
+   1. Creeer [&#x200B; productadvertenties &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) met [&#x200B; bevorderingslijnen potentieel om in elke het winkelen en &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md) binnen de advertentiegroep te omvatten.
 
       Microsoft Advertising genereert dynamisch de advertentie-kopie en de bestemmingspagina-URL voor elke advertentie.
 
@@ -46,15 +46,15 @@ U kunt opstelling het winkelen campagnes door [ voorraadvoedermalplaatjes ](/hel
       >
       >Zelfs als de advertentiegroep geen ad-entiteiten bevat, geeft [!DNL Microsoft Advertising] nog steeds advertenties voor de producten weer.
 
-1. (Facultatief) om kliks op de advertentie te volgen, [ produceert het volgen URL gebruikend het het Volgen hulpmiddel URLs ](/help/search-social-commerce/tools/click-tracking-url-generate.md). U kunt het beste de URL voor bijhouden toevoegen aan het veld [!UICONTROL Tracking Template] in de account-, campagne- of productgroepinstellingen. Voeg het op het hoogst mogelijke niveau toe om het onderhoud te vereenvoudigen.
+1. (Facultatief) om kliks op de advertentie te volgen, [&#x200B; produceert het volgen URL gebruikend het het Volgen hulpmiddel URLs &#x200B;](/help/search-social-commerce/tools/click-tracking-url-generate.md). U kunt het beste de URL voor bijhouden toevoegen aan het veld [!UICONTROL Tracking Template] in de account-, campagne- of productgroepinstellingen. Voeg het op het hoogst mogelijke niveau toe om het onderhoud te vereenvoudigen.
 
-   U kunt ook de URL voor bijhouden toevoegen aan de productgegevens in de [!DNL Microsoft Merchant Center] -account. Om dit te doen, omvat het volgen URL, samen met de waarde in het &quot;verbinding&quot;of &quot;mobile_link&quot;gebied, zoals aangewezen, in een douanekolom &quot;[ bingads_redirect ](https://help.ads.microsoft.com/#apex/3/en/51084)&quot;binnen de productvoer. De waarde in het veld &quot;bingads_redirect&quot; vervangt de waarden in de velden &quot;link&quot; en &quot;mobile_link&quot;. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
+   U kunt ook de URL voor bijhouden toevoegen aan de productgegevens in de [!DNL Microsoft Merchant Center] -account. Om dit te doen, omvat het volgen URL, samen met de waarde in het &quot;verbinding&quot;of &quot;mobile_link&quot;gebied, zoals aangewezen, in een douanekolom &quot;[&#x200B; bingads_redirect &#x200B;](https://help.ads.microsoft.com/#apex/3/en/51084)&quot;binnen de productvoer. De waarde in het veld &quot;bingads_redirect&quot; vervangt de waarden in de velden &quot;link&quot; en &quot;mobile_link&quot;. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
 
-1. De prestaties van de monitor door [ te produceren [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md).
+1. De prestaties van de monitor door [&#x200B; te produceren [!UICONTROL Product Group Report]](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md).
 
 1. Indien nodig:
 
-   1. [ geef de campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) uit om het campagnebudget aan te passen.
+   1. [&#x200B; geef de campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) uit om het campagnebudget aan te passen.
 
       Als de campagne deel van een portefeuille uitmaakt, dan staat het portefeuille plaatsen &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;Onderzoek, Sociale, &amp; Commerce toe om de begrotingen voor alle campagnes in de portefeuille te optimaliseren.
 
@@ -62,5 +62,5 @@ U kunt opstelling het winkelen campagnes door [ voorraadvoedermalplaatjes ](/hel
 
 >[!NOTE]
 >
->* Zie de vereiste gebieden voor het beheren van [!DNL Microsoft Shopping] campagnes en productgroepen gebruikend [ bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md) en [ de malplaatjes van de inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md).
->* Voor meer informatie over [!DNL Microsoft Shopping] campagnes, zie de [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/50903).
+>* Zie de vereiste gebieden voor het beheren van [!DNL Microsoft Shopping] campagnes en productgroepen gebruikend [&#x200B; bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md) en [&#x200B; de malplaatjes van de inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md).
+>* Voor meer informatie over [!DNL Microsoft Shopping] campagnes, zie de [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/50903).

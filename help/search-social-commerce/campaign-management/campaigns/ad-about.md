@@ -36,7 +36,7 @@ U kunt ondersteunde advertentietypen voor advertentiegroepen maken en beheren in
 
   Wanneer de zoekterm van een gebruiker exact overeenkomt met een trefwoord in een van uw op trefwoorden gebaseerde campagnes, wordt een advertentie uit de op trefwoorden gebaseerde campagne weergegeven in plaats van een dynamische zoekadvertentie. Het advertentienetwerk toont een dynamische onderzoeksadvertentie in plaats van een sleutelwoord-gericht en wanneer de het onderzoekstermijn van de gebruiker een brede gelijke of woordgroep aan één van uw sleutelwoorden en uw dynamische onderzoeksadvertentie heeft een hogere rang.
 
-  Voor meer informatie over dynamische onderzoeksadvertenties, zie de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/2471185) en [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/ads/en/56794).
+  Voor meer informatie over dynamische onderzoeksadvertenties, zie de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/2471185) en [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/56794).
 
 * **Multimedia advertenties** voor [!DNL Microsoft Advertising] onderzoekscampagnes. Multimedia-advertenties zijn grote afbeeldingsadvertenties die worden weergegeven op de prominente posities in de mainline en zijbalk en die slechts één multimediadad per pagina bevatten. Ze kunnen meerdere tekst- en afbeeldingselementen bevatten, zoals responsieve advertenties, en het advertentienetwerk verzamelt de advertenties met behulp van de meest effectieve combinaties van advertentie-elementen. Multimedia-advertenties vervangen uw tekst en plaatsingen niet.
 
@@ -44,13 +44,13 @@ U kunt ondersteunde advertentietypen voor advertentiegroepen maken en beheren in
 
   U kunt bepalen welke producten worden weergegeven met uw [!DNL Microsoft Advertising] winkeladvertenties door afzonderlijke productgroepen voor de advertentiegroep in te stellen, vanuit de weergave [!UICONTROL Campaigns] > [!UICONTROL Campaigns] > [!UICONTROL Product Groups] .
 
-  Voor meer informatie over het werkschema voor product/het winkelen advertenties, zie &quot;[ uitvoeren  [!DNL Microsoft Advertising]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md).&quot;  Voor extra informatie over productadvertenties, zie de [ documentatie van Advertising van Microsoft ](https://help.ads.microsoft.com/#apex/3/en/51082).
+  Voor meer informatie over het werkschema voor product/het winkelen advertenties, zie &quot;[&#x200B; uitvoeren  [!DNL Microsoft Advertising]  het winkelen campagnes &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md).&quot;  Voor extra informatie over productadvertenties, zie de [&#x200B; documentatie van Advertising van Microsoft &#x200B;](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 * Responsieve zoekopdrachten voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] -campagnes op het zoeknetwerk. Het advertentienetwerk assembleert dynamisch op tekst gebaseerde responsieve zoekadvertenties van een reeks advertentietitels en beschrijvingen, die combinaties begunstigen die goed samen presteren. De advertentie bevat maximaal drie kopregels, twee beschrijvingen en een aanpasbare URL uit de basis-URL en optionele velden path1 en path2. U kunt desgewenst titels en beschrijvingen vastzetten op specifieke posities.
 
 >[!NOTE]
 >
->[!DNL Google Ads] verstrekt geen gegevens buiten zijn inheemse redacteurs over de tekstcombinaties die als advertenties werden getoond. Voor meer informatie over het melden voor elke tekstcombinatie, zie de [ documentatie van Google Ads ](https://support.google.com/google-ads/answer/7684791).
+>[!DNL Google Ads] verstrekt geen gegevens buiten zijn inheemse redacteurs over de tekstcombinaties die als advertenties werden getoond. Voor meer informatie over het melden voor elke tekstcombinatie, zie de [&#x200B; documentatie van Google Ads &#x200B;](https://support.google.com/google-ads/answer/7684791).
 
 ## De weergave [!UICONTROL Ads]
 
@@ -71,4 +71,4 @@ Deze functie is echter niet beschikbaar voor [!DNL Google Ads] dynamische zoekop
 
 >[!MORELIKETHIS]
 >
->* [ beheert advertenties ](ad-manage.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## Afmelden bij de nieuwe gebruikersinterface
 
-* In het hogere recht van om het even welke pagina, klik ![ Rekening van de Rekening ](/help/search-social-commerce/assets/account.png ", en klik dan ").**[!UICONTROL Sign Out]**
+* In het hogere recht van om het even welke pagina, klik ![&#x200B; Rekening van de Rekening &#x200B;](/help/search-social-commerce/assets/account.png ", en klik dan ").**[!UICONTROL Sign Out]**
 
 ## Afmelden bij de oudere gebruikersinterface
 
@@ -22,9 +22,9 @@ ht-degree: 0%
 >
 >Uw sessie wordt automatisch beëindigd als uw browservenster 30 minuten lang inactief is.
 
-* In het hogere recht van om het even welke pagina, klik ![ het profiel van de Gebruiker 1&rbrace; ](/help/search-social-commerce/assets/user-profile.png ", en klik dan ").**[!UICONTROL Sign Out]**
+* In het hogere recht van om het even welke pagina, klik ![&#x200B; het profiel van de Gebruiker 1&rbrace; &#x200B;](/help/search-social-commerce/assets/user-profile.png ", en klik dan ").**[!UICONTROL Sign Out]**
 
 >[!MORELIKETHIS]
 >
->* [ Teken binnen ](sign-in.md)
->* [ hoe het gebruikersinterface wordt georganiseerd ](user-interface.md)
+>* [&#x200B; Teken binnen &#x200B;](sign-in.md)
+>* [&#x200B; hoe het gebruikersinterface wordt georganiseerd &#x200B;](user-interface.md)

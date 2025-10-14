@@ -30,7 +30,7 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 
 Als u een productgroep voor specifieke productafmetingen hebt gemaakt (dus niet &quot;Alle producten&quot;), maakt u met Zoeken, Sociaal en Commerce automatisch een productgroep voor &quot;Alles anders&quot;.
 
-Voor een lijst van beschikbare productafmetingen, zie &quot;[ het Verkopen de filters van het campagneproduct ](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de instelling voor [!UICONTROL Inventory Filter] van de campagne.
+Voor een lijst van beschikbare productafmetingen, zie &quot;[&#x200B; het Verkopen de filters van het campagneproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de instelling voor [!UICONTROL Inventory Filter] van de campagne.
 
 **[!UICONTROL Excluded]:** (Optioneel voor nieuwe productgroepen; alleen-lezen voor bestaande productgroepen) Hiermee sluit u biedingen op advertenties voor overeenkomende producten uit.
 
@@ -49,7 +49,7 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het winkelen productgroepen ](product-group-about.md)
->* [ beheer het winkelen productgroepen ](product-group-manage.md)
->* [ het Verkopen filters van het campagneproduct ](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
->* [ voert  [!DNL Microsoft Advertising]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md) uit
+>* [&#x200B; Ongeveer het winkelen productgroepen &#x200B;](product-group-about.md)
+>* [&#x200B; beheer het winkelen productgroepen &#x200B;](product-group-manage.md)
+>* [&#x200B; het Verkopen filters van het campagneproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
+>* [&#x200B; voert  [!DNL Microsoft Advertising]  het winkelen campagnes &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md) uit

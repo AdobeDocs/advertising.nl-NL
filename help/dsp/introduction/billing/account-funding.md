@@ -23,10 +23,10 @@ Aangezien cliënten tegen hun krediet of vooruitbetaling uitgeven, verminderen d
 
 Financiering voor clientaccounts wordt in bijna realtime in [!DNL DSP] bijgewerkt. Ga naar [!UICONTROL Settings] > [!UICONTROL Account] om het bruikbare saldo, dat wordt weergegeven als &quot;[!UICONTROL Usable Funds]&quot; in de aankoopvaluta van uw account, te bekijken. Alleen DSP gebruikers met de gebruikersrollen [!UICONTROL General] en [!UICONTROL Admin] kunnen de [!UICONTROL Usable Funds] zien.
 
-![ Nuttige Fondsen voor een rekening ](/help/dsp/assets/account-usable-funds.png)
+![&#x200B; Nuttige Fondsen voor een rekening &#x200B;](/help/dsp/assets/account-usable-funds.png)
 
-De Adobe behoudt zich het recht voor om uw rekening te blokkeren van uitgaven op DSP om redenen die schending van het DSP [ omvatten en het beleid van de vereisten ](/help/policies/ad-requirements-policy.md) of privacytermijnen. Als de Adobe uw account blokkeert, verschijnt er een melding voor geblokkeerd. Werk samen met het accountteam van de Adobe om de reden voor het blok en de manier waarop u de fout kunt corrigeren.
+De Adobe behoudt zich het recht voor om uw rekening te blokkeren van uitgaven op DSP om redenen die schending van het DSP [&#x200B; omvatten en het beleid van de vereisten &#x200B;](/help/policies/ad-requirements-policy.md) of privacytermijnen. Als de Adobe uw account blokkeert, verschijnt er een melding voor geblokkeerd. Werk samen met het accountteam van de Adobe om de reden voor het blok en de manier waarop u de fout kunt corrigeren.
 
 >[!MORELIKETHIS]
 >
->* [ Ondersteunde Valuta&#39;s ](/help/dsp/currency.md)
+>* [&#x200B; Ondersteunde Valuta&#39;s &#x200B;](/help/dsp/currency.md)

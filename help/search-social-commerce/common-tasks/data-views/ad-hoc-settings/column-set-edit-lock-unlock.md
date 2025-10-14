@@ -20,6 +20,6 @@ Als u een kolom &quot;vergrendelt&quot;, worden die kolom en alle andere kolomme
 
 Een slot werkt slechts tot u zich van de entiteitmening beweegt. U kunt het niet opslaan in de standaardweergave of aangepaste weergave.
 
-* (Om een kolomconfiguratie) op de rechterkant van de kolomrubriek te sluiten, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl "), en selecteer dan **[!UICONTROL Lock Column]**.
+* (Om een kolomconfiguratie) op de rechterkant van de kolomrubriek te sluiten, klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl "), en selecteer dan **[!UICONTROL Lock Column]**.
 
-* (Om een kolomconfiguratie) op de rechterkant van om het even welke kolomrubriek in de gesloten kolomreeks te ontgrendelen, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-dropdown.png ", en selecteer dan ").**[!UICONTROL Unlock Column]**
+* (Om een kolomconfiguratie) op de rechterkant van om het even welke kolomrubriek in de gesloten kolomreeks te ontgrendelen, klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-dropdown.png ", en selecteer dan ").**[!UICONTROL Unlock Column]**

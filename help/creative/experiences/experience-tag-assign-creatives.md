@@ -16,7 +16,7 @@ ht-degree: 0%
 
 U kunt creatieve ontwerpen toewijzen aan een advertentietag die voor een ervaring wordt gebruikt. U kunt creatieve elementen uit de creatieve bibliotheek gebruiken die zijn opgegeven in de ervaringsinstellingen. Voor de standaard en ervaring kunt u alleen standaardcreatieven toewijzen. Voor dynamische ad ervaringen, kunt u slechts dynamische creatieve personen toewijzen.<!-- Clarify what this does. It adds the image to the experience, but how does optimization work with multiple ad tags? -->
 
-U kunt later [ volgen URLs ](experience-tracking-urls-no-targeting.md) en [ aanpassen creatieve optimalisering en het plannen ](experience-optimization-scheduling-no-targeting.md) voor de creatieve die creatieve die creatieve die creatieve die agenten voor de advertentietag worden gebruikt.
+U kunt later [&#x200B; volgen URLs &#x200B;](experience-tracking-urls-no-targeting.md) en [&#x200B; aanpassen creatieve optimalisering en het plannen &#x200B;](experience-optimization-scheduling-no-targeting.md) voor de creatieve die creatieve die creatieve die creatieve die agenten voor de advertentietag worden gebruikt.
 
 >[!NOTE]
 >
@@ -38,13 +38,13 @@ U kunt later [ volgen URLs ](experience-tracking-urls-no-targeting.md) en [ aanp
 
 1. Klik op **[!UICONTROL Add Creatives]**.
 
-1. (Facultatief) [ pas het volgen URLs voor de creatieve ](experience-tracking-urls-no-targeting.md) aan.
+1. (Facultatief) [&#x200B; pas het volgen URLs voor de creatieve &#x200B;](experience-tracking-urls-no-targeting.md) aan.
 
-1. (Facultatief) [ pas creatieve optimalisering aan en het plannen voor de creatieve ](experience-optimization-scheduling-no-targeting.md).
+1. (Facultatief) [&#x200B; pas creatieve optimalisering aan en het plannen voor de creatieve &#x200B;](experience-optimization-scheduling-no-targeting.md).
 
 >[!MORELIKETHIS]
->* [ creeer manueel een ad markering voor een toepasselijke creatieve grootte ](experience-tag-create-manually.md)
->* [ pas het volgen URLs voor de creatieve ](experience-tracking-urls-no-targeting.md) aan.
->* [ pas creatieve optimalisering aan en het plannen voor de creatieve ](experience-optimization-scheduling-no-targeting.md)
->* [ pas transcoderingsopties voor een video en ervaringstag aan ](experience-tag-video-transcoding.md)
->* [ de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit ](experience-tag-export.md)
+>* [&#x200B; creeer manueel een ad markering voor een toepasselijke creatieve grootte &#x200B;](experience-tag-create-manually.md)
+>* [&#x200B; pas het volgen URLs voor de creatieve &#x200B;](experience-tracking-urls-no-targeting.md) aan.
+>* [&#x200B; pas creatieve optimalisering aan en het plannen voor de creatieve &#x200B;](experience-optimization-scheduling-no-targeting.md)
+>* [&#x200B; pas transcoderingsopties voor een video en ervaringstag aan &#x200B;](experience-tag-video-transcoding.md)
+>* [&#x200B; de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit &#x200B;](experience-tag-export.md)

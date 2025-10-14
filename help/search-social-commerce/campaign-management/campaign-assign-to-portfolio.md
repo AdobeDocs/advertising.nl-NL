@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Door een campagne toe te wijzen aan een geoptimaliseerde portfolio kunnen Zoeken, Sociaal en Commerce biedingen, campagnebudgetten en streefdoelen voor biedingsstrategieën voor trefwoorden en advertenties in de campagne optimaliseren. U kunt campagnes toewijzen aan een portfolio vanuit de weergave [!UICONTROL Campaigns] , wanneer u het portfolio maakt of door de instellingen van een portfolio te bewerken.
 
-Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimalisering; zie een lijst van [ gesteunde campagnetypen ](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portefeuille kunt omvatten. Bovendien verifieer de [ optimalisatiesteun voor elke strategie van de campagneaanbieding ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy).
+Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimalisering; zie een lijst van [&#x200B; gesteunde campagnetypen &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md) die u in een portefeuille kunt omvatten. Bovendien verifieer de [&#x200B; optimalisatiesteun voor elke strategie van de campagneaanbieding &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md#optimization-by-bid-strategy).
 
 >[!NOTE]
 >
@@ -54,19 +54,19 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![ knoop van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png ", en selecteer dan ") > **[!UICONTROL Assign].[!UICONTROL Portfolio]**
+   * (Om één enkele campagne aan een portefeuille toe te voegen) Houd de curseur over de campagnenaam, klik ![&#x200B; knoop van het Menu &#x200B;](/help/search-social-commerce/assets/arrow-dropdown-menu.png ", en selecteer dan ") > **[!UICONTROL Assign].[!UICONTROL Portfolio]**
 
    * (Voer de volgende handelingen uit als u een of meer campagnes wilt toevoegen aan hetzelfde portfolio:
 
       1. Schakel het selectievakje naast elke campagne in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
          >[!NOTE]
          >
          >Alle campagnes in een portfolio moeten dezelfde valuta gebruiken.
 
-      1. In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.
+      1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Assign]>[!UICONTROL Portfolio]**.
 
 1. Selecteer het portfolio:
 
@@ -92,20 +92,20 @@ Niet zijn alle campagneretypes en advertentienetwerken verkiesbaar voor optimali
 
    U kunt de portfoliolijst filteren in het menu [!UICONTROL Portfolios] in het linkerdeelvenster door een portfoliogroep of het knooppunt [!UICONTROL Ungrouped Portfolios] te selecteren.
 
-1. Naast de portefeuillenaam, klik ![ Mening/geef montagesknoop uit ](/help/search-social-commerce/assets/settings.png " Mening/geef montagesknoop ") uit.
+1. Naast de portefeuillenaam, klik ![&#x200B; Mening/geef montagesknoop uit &#x200B;](/help/search-social-commerce/assets/settings.png " Mening/geef montagesknoop ") uit.
 
 1. Klik in het linkermenu op **[!UICONTROL Campaigns]** en wijzig de campagnes in het portfolio:
 
-   * Om alle gefilterde campagnes in de [!UICONTROL Available Campaigns] sectie toe te voegen, klik ![ toewijs alle campagnes aan portefeuille ](/help/search-social-commerce/assets/arrow-assign-all.png " toewijzen alle campagnes aan portefeuille ").
+   * Om alle gefilterde campagnes in de [!UICONTROL Available Campaigns] sectie toe te voegen, klik ![&#x200B; toewijs alle campagnes aan portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-assign-all.png " toewijzen alle campagnes aan portefeuille ").
 
-   * Om een individuele campagne in de [!UICONTROL Available Campaigns] sectie toe te voegen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Assigned Campaigns] lijst of klik ![ toewijzen campagne aan portefeuille ](/help/search-social-commerce/assets/arrow-assign.png " toewijzen campagne aan portefeuille ").
+   * Om een individuele campagne in de [!UICONTROL Available Campaigns] sectie toe te voegen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Assigned Campaigns] lijst of klik ![&#x200B; toewijzen campagne aan portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-assign.png " toewijzen campagne aan portefeuille ").
 
-   * Om alle toegewezen campagnes te verwijderen, verwijder ![ alle campagnes uit portefeuille ](/help/search-social-commerce/assets/arrow-remove-all.png " alle campagnes uit portefeuille ").
+   * Om alle toegewezen campagnes te verwijderen, verwijder ![&#x200B; alle campagnes uit portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-remove-all.png " alle campagnes uit portefeuille ").
 
-   * Om een individuele campagne te verwijderen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Available Campaigns] lijst of klik ![ verwijderen campagne uit portefeuille ](/help/search-social-commerce/assets/arrow-remove.png " verwijderen campagne uit portefeuille ").
+   * Om een individuele campagne te verwijderen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Available Campaigns] lijst of klik ![&#x200B; verwijderen campagne uit portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-remove.png " verwijderen campagne uit portefeuille ").
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [ verwijdert campagnes uit een portefeuille ](/help/search-social-commerce/campaign-management/campaign-remove-from-portfolio.md)
+>* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](/help/search-social-commerce/campaign-management/campaign-remove-from-portfolio.md)

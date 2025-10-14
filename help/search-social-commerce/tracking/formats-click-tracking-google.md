@@ -70,11 +70,11 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel een van de volgende elementen bevatten:
 
-   * [!DNL Google Ads] rekeningen die het recentste [ formaat van identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id-formats) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
+   * [!DNL Google Ads] rekeningen die het recentste [&#x200B; formaat van identiteitskaart van AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
 
      `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-     Als de rekening een server-kant implementatie van identiteitskaart van AMO heeft en de rekening of campagne die &quot; [!UICONTROL Auto Upload]&quot;plaatsen wordt toegelaten, dan wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement) wordt gebruikt.&quot;
+     Als de rekening een server-kant implementatie van identiteitskaart van AMO heeft en de rekening of campagne die &quot; [!UICONTROL Auto Upload]&quot;plaatsen wordt toegelaten, dan wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement) wordt gebruikt.&quot;
 
    * Alle andere [!DNL Google Ads] -accounts:
 
@@ -92,5 +92,5 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
->* [ formaten van identiteitskaart AMO ](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [&#x200B; Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising &#x200B;](formats-click-tracking-about.md)
+>* [&#x200B; formaten van identiteitskaart AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats)

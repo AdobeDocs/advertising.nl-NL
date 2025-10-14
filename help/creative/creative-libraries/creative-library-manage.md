@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Creatieve bibliotheken beheren
 
-U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek later bevolken met [ standaard creatieve ](creative-add-standard.md), [ dynamische creatieve creatieve ](creative-add-dynamic.md), en [ creatieve bundels ](bundle-manage.md).
+U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke bibliotheek later bevolken met [&#x200B; standaard creatieve &#x200B;](creative-add-standard.md), [&#x200B; dynamische creatieve creatieve &#x200B;](creative-add-dynamic.md), en [&#x200B; creatieve bundels &#x200B;](bundle-manage.md).
 
 ## Een creatieve bibliotheek maken
 
@@ -28,7 +28,7 @@ U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Selecteer de bibliotheek:
 
@@ -50,11 +50,11 @@ U kunt meerdere creatieve bibliotheken maken voor elke adverteerder. U kunt elke
 
 ## Creatieve bibliotheken verwijderen
 
-U kunt bibliotheken met creatieven en bundels schrappen die niet aan a [ levende ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Voor een levende gerichte ervaring, [ verwijder om het even welke creatieve personen of bundels uit de besluitvormingsboom ](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.<!-- Not an option as of 3/4: > For an untargeted live experience, [remove any assigned creatives from the associated ad tag](/help/creative/experiences/experience-tag-assign-creatives.md) before you continue. -->
+U kunt bibliotheken met creatieven en bundels schrappen die niet aan a [&#x200B; levende &#x200B;](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Voor een levende gerichte ervaring, [&#x200B; verwijder om het even welke creatieve personen of bundels uit de besluitvormingsboom &#x200B;](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.<!-- Not an option as of 3/4: > For an untargeted live experience, [remove any assigned creatives from the associated ad tag](/help/creative/experiences/experience-tag-assign-creatives.md) before you continue. -->
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Selecteer de bibliotheken die u wilt verwijderen:
 
@@ -72,6 +72,6 @@ U kunt bibliotheken met creatieven en bundels schrappen die niet aan a [ levende
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ beheer creatieve bundels ](bundle-manage.md)
+>* [&#x200B; Ongeveer uw creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-libraries-about.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; beheer creatieve bundels &#x200B;](bundle-manage.md)

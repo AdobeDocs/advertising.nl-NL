@@ -20,11 +20,11 @@ Gebruik de conversietoewijzingstag om ervoor te zorgen dat de Adobe Advertising 
 
 De conversietoewijzingstag gebruiken:
 
-1. [ stelt de markering van de omzettingsafbeelding ](#deploy-conversion-mapping-tag) op.
+1. [&#x200B; stelt de markering van de omzettingsafbeelding &#x200B;](#deploy-conversion-mapping-tag) op.
 
-1. Als uw organisatie veelvoudige de organisatie IDs van de Dienst van de Identiteit van Adobe Experience Cloud (vroeger genoemd IMS Org IDs) gebruikt, dan [ werk uw omzettingsmarkeringen ](#update-conversion-tags) bij om organisatieidentiteitskaart te omvatten.
+1. Als uw organisatie veelvoudige de organisatie IDs van de Dienst van de Identiteit van Adobe Experience Cloud (vroeger genoemd IMS Org IDs) gebruikt, dan [&#x200B; werk uw omzettingsmarkeringen &#x200B;](#update-conversion-tags) bij om organisatieidentiteitskaart te omvatten.
 
-1. [ bevestigt de markeringsplaatsing ](#validate-conversion-mapping).
+1. [&#x200B; bevestigt de markeringsplaatsing &#x200B;](#validate-conversion-mapping).
 
 ## De JavaScript-omzettingstoewijzingstag voor ITP 2.2 implementeren {#deploy-conversion-mapping-tag}
 

@@ -22,12 +22,12 @@ U kunt op de volgende manieren ophouden met het posten van campagnegegevens die 
 
    1. Klik in de kolom &quot;[!UICONTROL Last Prop. Status]&quot; naast de sjabloonnaam op **[!UICONTROL Cancel]** .
 
-* Als het gegeven reeds wordt verspreid, dan [ annuleert het posten baan van de [!UICONTROL Bulksheets] mening ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-stop-job.md).
+* Als het gegeven reeds wordt verspreid, dan [&#x200B; annuleert het posten baan van de [!UICONTROL Bulksheets] mening &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-stop-job.md).
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](inventory-feeds-about.md)
->* [ gegevens van de Mening die van voer ](propagated-data-view.md) worden geproduceerd
->* [ geeft gegevens uit die van voer ](propagated-data-edit.md) worden geproduceerd uit
->* [ Post campagnegegevens die van voer aan ad netwerken worden geproduceerd ](propagated-data-post.md)
->* [ Statussen van gegevens die uit voer ](propagated-data-status.md) worden geproduceerd
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](inventory-feeds-about.md)
+>* [&#x200B; gegevens van de Mening die van voer &#x200B;](propagated-data-view.md) worden geproduceerd
+>* [&#x200B; geeft gegevens uit die van voer &#x200B;](propagated-data-edit.md) worden geproduceerd uit
+>* [&#x200B; Post campagnegegevens die van voer aan ad netwerken worden geproduceerd &#x200B;](propagated-data-post.md)
+>* [&#x200B; Statussen van gegevens die uit voer &#x200B;](propagated-data-status.md) worden geproduceerd

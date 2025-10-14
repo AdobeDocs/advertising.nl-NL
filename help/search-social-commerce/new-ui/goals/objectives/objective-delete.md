@@ -19,14 +19,14 @@ U kunt een doel verwijderen dat niet is toegewezen aan een portfolio.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") **[!UICONTROL Delete]**.
+1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete-new.png " ") **[!UICONTROL Delete]**.
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Confirm]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ creeer een doel ](objective-create.md)
->* [ geef een doelstelling ](objective-edit.md) uit
->* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
->* [ Objectieve montages ](objective-settings.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
+>* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)
+>* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)

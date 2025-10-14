@@ -22,7 +22,7 @@ Standaard toont het diagram het aantal klikken tegenover kosten tijdens het gese
 >
 >De grafieken van de trend zijn niet beschikbaar wanneer u gegevens voor twee datumwaaiers vergelijkt.
 
-1. Boven de gegevenslijst, klik ![ Haaien ](/help/search-social-commerce/assets/trend-chart.png " om een verborgen trendgrafiek te tonen of een zichtbare trendgrafiek te verbergen.")
+1. Boven de gegevenslijst, klik ![&#x200B; Haaien &#x200B;](/help/search-social-commerce/assets/trend-chart.png " om een verborgen trendgrafiek te tonen of een zichtbare trendgrafiek te verbergen.")
 
 1. (Optioneel voor zichtbare trenddiagrammen) Selecteer een andere valuta en verschillende cijfers die u wilt vergelijken:
 
@@ -30,7 +30,7 @@ Standaard toont het diagram het aantal klikken tegenover kosten tijdens het gese
 
       Wanneer u rekeningen met meerdere valuta&#39;s hebt, worden alle valuta&#39;s voor de desbetreffende rekeningen vermeld; wanneer u de valuta wijzigt, worden alleen gegevens weergegeven voor de rekeningen die die valuta gebruiken. Alle standaardmetriek, adverteerderspecifieke omzettingsmetriek, en douanemetriek u uit bestaande metriek hebt afgeleid zijn vermeld.
 
-   1. Klik ![ sparen ](/help/search-social-commerce/assets/save-checkmark.png " ").
+   1. Klik ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/save-checkmark.png " ").
 
 >[!NOTE]
 >

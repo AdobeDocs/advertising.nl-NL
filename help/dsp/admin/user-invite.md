@@ -34,7 +34,7 @@ Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in beha
 
 >[!MORELIKETHIS]
 >
->* [ herend een In afwachting van de Uitnodiging van de Gebruiker ](user-resend-invite.md)
->* [ unInvestie een In afwachting van Gebruiker ](user-uninvite.md)
+>* [&#x200B; herend een In afwachting van de Uitnodiging van de Gebruiker &#x200B;](user-resend-invite.md)
+>* [&#x200B; unInvestie een In afwachting van Gebruiker &#x200B;](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

@@ -14,12 +14,12 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Advertising Insights]** .
 
-2. In het linkermenu, klik ![ Rapporten ](/help/search-social-commerce/assets/insight-reports.png " Rapporten ").
+2. In het linkermenu, klik ![&#x200B; Rapporten &#x200B;](/help/search-social-commerce/assets/insight-reports.png " Rapporten ").
 
-3. In het [!UICONTROL Report History] paneel, houd de curseur over de rapportinstantie, en klik dan ![ Schrapping ](/help/search-social-commerce/assets/insight-delete.png " Schrapping ").
+3. In het [!UICONTROL Report History] paneel, houd de curseur over de rapportinstantie, en klik dan ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/insight-delete.png " Schrapping ").
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Advertising Insights]](insight-about.md)
->* [ produceer een  [!DNL Advertising Insight]](insight-generate.md)
->* [ Mening of sparen  [!DNL Advertising Insight]](insight-view-save.md)
+>* [&#x200B; Over [!UICONTROL Advertising Insights]](insight-about.md)
+>* [&#x200B; produceer een  [!DNL Advertising Insight]](insight-generate.md)
+>* [&#x200B; Mening of sparen  [!DNL Advertising Insight]](insight-view-save.md)

@@ -26,7 +26,7 @@ U kunt om het even welk rapportmalplaatje schrappen beschikbaar aan u. Wanneer u
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportmalplaatjes ](template-about.md)
->* [ creeer een rapportmalplaatje ](template-create.md)
->* [ geef een rapportmalplaatje ](template-edit.md) uit
->* [ Mening een rapportmalplaatje ](template-view.md)
+>* [&#x200B; Ongeveer rapportmalplaatjes &#x200B;](template-about.md)
+>* [&#x200B; creeer een rapportmalplaatje &#x200B;](template-create.md)
+>* [&#x200B; geef een rapportmalplaatje &#x200B;](template-edit.md) uit
+>* [&#x200B; Mening een rapportmalplaatje &#x200B;](template-view.md)

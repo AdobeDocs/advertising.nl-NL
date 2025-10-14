@@ -16,7 +16,7 @@ U kunt schakelen tussen de nieuwe gebruikersinterface (UI), die de <!-- default 
 
 ## Van de nieuwe interface overschakelen op de oudere gebruikersinterface
 
-* In het hogere recht van de mening, klik ![ Schakelaar aan Oude UI ](/help/search-social-commerce/assets/switch-to-old-ui.png " Schakelaar aan Oude UI ") **[!UICONTROL Switch to Old UI]**.
+* In het hogere recht van de mening, klik ![&#x200B; Schakelaar aan Oude UI &#x200B;](/help/search-social-commerce/assets/switch-to-old-ui.png " Schakelaar aan Oude UI ") **[!UICONTROL Switch to Old UI]**.
 
 ## Overschakelen van de oude gebruikersinterface naar de nieuwe gebruikersinterface
 
@@ -24,4 +24,4 @@ U kunt schakelen tussen de nieuwe gebruikersinterface (UI), die de <!-- default 
 
 >[!MORELIKETHIS]
 >
->* [ hoe het gebruikersinterface wordt georganiseerd ](user-interface.md)
+>* [&#x200B; hoe het gebruikersinterface wordt georganiseerd &#x200B;](user-interface.md)

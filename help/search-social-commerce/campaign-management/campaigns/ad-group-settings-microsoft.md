@@ -66,7 +66,7 @@ Voor [!DNL Microsoft Advertising] advertentiegroepen in het publieksnetwerk, bio
 
 * *[!UICONTROL Select From Below List]:* hiermee worden geselecteerde genres als doel opgegeven. Maak een keuze in de lijst met alle beschikbare genres.
 
-De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en het aantal biedingen. Zie de [ technische vereisten voor CTV advertenties ](https://help.ads.microsoft.com/#apex/ads/en/60102/0/#TechnicalRequirements).
+De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en het aantal biedingen. Zie de [&#x200B; technische vereisten voor CTV advertenties &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60102/0/#TechnicalRequirements).
 
 <!-- **[!UICONTROL Devices]:** -->
 
@@ -76,33 +76,33 @@ De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en h
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt het aantal biedingen optioneel verhogen of verlagen met een bepaald percentage voor elk van de beoogde geslachten.
+* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![&#x200B; omvat &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt het aantal biedingen optioneel verhogen of verlagen met een bepaald percentage voor elk van de beoogde geslachten.
 
-* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
 **[!UICONTROL Age]:** (Publiek en groepen; optioneel) Specifieke leeftijdscategorieën die als doel moeten worden opgenomen of uitgesloten: *[!UICONTROL 18-24]*, *[!UICONTROL 25-34]*, *[!UICONTROL 35-49]*, *[!UICONTROL 50-64]*, *[!UICONTROL 65+]* en *[!UICONTROL Unknown]* . Standaard worden alle leeftijden als doelgroep gebruikt. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt het aantal biedingen voor elke beoogde leeftijd optioneel met een bepaald percentage verhogen of verlagen.
+* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![&#x200B; omvat &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt het aantal biedingen voor elke beoogde leeftijd optioneel met een bepaald percentage verhogen of verlagen.
 
-* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
 **[!UICONTROL Industry]:** (Publiek en groepen; facultatief) specifieke industrieën om als doelstellingen op te nemen of uit te sluiten. Standaard zijn alle industrieën gericht. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt biedingen voor elke beoogde sector optioneel met een bepaald percentage verhogen of verlagen.
+* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![&#x200B; omvat &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt biedingen voor elke beoogde sector optioneel met een bepaald percentage verhogen of verlagen.
 
-* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
 **[!UICONTROL Job Function Targets]:** (Publiek en groepen; facultatief) specifieke baanfuncties om als doelstellingen te omvatten of uit te sluiten. Standaard worden alle functies geactiveerd. Uitsluitingen hebben altijd voorrang op insluitingen.
 
 * Selecteer geen waarden als u alle waarden als doel wilt instellen.
 
-* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt de biedingen optioneel met een bepaald percentage verhogen of verlagen voor elke betreffende taakfunctie.
+* Om een waarde te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![&#x200B; omvat &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt. U kunt de biedingen optioneel met een bepaald percentage verhogen of verlagen voor elke betreffende taakfunctie.
 
-* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+* Om een waarde uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
 ## [!UICONTROL URL Options]
 
@@ -130,8 +130,8 @@ De positie van de aangesloten tv (CTV) is afhankelijk van de videokwaliteit en h
 
 **[!UICONTROL Negative Websites]:** (Campagnes op de vertoning/het inheemse netwerk slechts; facultatief) Plaatsen op het vertoningsnetwerk waarop u uw advertenties niet wilt worden getoond. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Voor informatie over beschikbaarheid, zie [!DNL Microsoft Advertising] hulp aan &quot;[ verhinderen advertenties op specifieke websites ](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
+Voor informatie over beschikbaarheid, zie [!DNL Microsoft Advertising] hulp aan &quot;[&#x200B; verhinderen advertenties op specifieke websites &#x200B;](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
 
 >[!MORELIKETHIS]
 >
->* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [&#x200B; beheer en groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

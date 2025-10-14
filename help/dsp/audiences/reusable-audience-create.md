@@ -36,9 +36,9 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
    >[!NOTE]
    >
-   >Aangezien u het publiek bouwt, worden de gedetailleerde [ gegevens van de publieksgrootte ](audience-about.md) bijgewerkt in het juiste paneel
+   >Aangezien u het publiek bouwt, worden de gedetailleerde [&#x200B; gegevens van de publieksgrootte &#x200B;](audience-about.md) bijgewerkt in het juiste paneel
 
-   * Ga als volgt te werk om de segmentlogica handmatig te maken met behulp van segmenten die beschikbaar zijn op de tabbladen [[!UICONTROL Third Party Segments] , [!UICONTROL First Party Segments] , [!UICONTROL Adobe Segments] , [!UICONTROL Custom Segments] en [!UICONTROL Saved Audiences] ](audience-settings.md) .
+   * Ga als volgt te werk om de segmentlogica handmatig te maken met behulp van segmenten die beschikbaar zijn op de tabbladen [[!UICONTROL Third Party Segments] , [!UICONTROL First Party Segments] , [!UICONTROL Adobe Segments] , [!UICONTROL Custom Segments] en [!UICONTROL Saved Audiences] &#x200B;](audience-settings.md) .
 
       * Als u het eerste segment wilt toevoegen, zoekt u het segment in het linkerdeelvenster en schakelt u het selectievakje naast de segmentnaam in.
 
@@ -72,7 +72,7 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
          * In de montages voor het bestaande publiek, bij de bovenkant van het paneel van de segmentlogica, klik **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
-         * In een tekstredacteur, creeer manueel de segmentlogica gebruikend alfanumerieke segment IDs en [ syntaxis Van Boole ](audience-segment-logic-syntax.md), en kopieer het aan uw klembord.
+         * In een tekstredacteur, creeer manueel de segmentlogica gebruikend alfanumerieke segment IDs en [&#x200B; syntaxis Van Boole &#x200B;](audience-segment-logic-syntax.md), en kopieer het aan uw klembord.
 
       1. Klik op **[!UICONTROL paste in an audience rule to begin building]** , plak de bestaande segmentlogica in het invoerveld en klik op **[!UICONTROL Apply]** .
 
@@ -84,10 +84,10 @@ U kunt herbruikbare soorten publiek opslaan en beheren. Dit zijn groepen publiek
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
->* [ Montages van het publiek ](audience-settings.md)
->* [ Syntaxis voor de Logica van het Segment van het Publiek ](audience-segment-logic-syntax.md)
->* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
->* [ creeer en voer een Segment van de Douane uit ](custom-segment-create.md)
->* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment ](ccpa-opt-out-segment-create.md) uit
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
+>* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
+>* [&#x200B; creeer en voer een Segment van de Douane uit &#x200B;](custom-segment-create.md)
+>* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

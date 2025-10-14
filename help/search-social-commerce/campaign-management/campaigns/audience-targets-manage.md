@@ -26,7 +26,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Targets]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -44,7 +44,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
       1. (Facultatief) om een campagnemijst of een lijst van de advertentiegroep door een tekstkoord te filtreren inbegrepen in de naam, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **[!UICONTROL Enter]** sleutel te drukken.
 
-      1. Specificeer elke campagne en doel van de advertentiegroep voor het gespecificeerde ad netwerk door de aangrenzende lege cirkel te klikken zodat een blauw controleteken (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")) verschijnt.
+      1. Specificeer elke campagne en doel van de advertentiegroep voor het gespecificeerde ad netwerk door de aangrenzende lege cirkel te klikken zodat een blauw controleteken (![&#x200B; Uitgezochte &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt.
 
       U kunt geen doel voor zowel een oudercampagne als een kind vormen ad groep (die automatisch het doel gebruikt).
 
@@ -54,7 +54,7 @@ U kunt publieksdoelstellingen vormen, de biedingsbepalingen voor publieksdoelste
 
    * Klik in de kolom **[!UICONTROL Bid Adjustment]** en voer een waarde in.
 
-   * Schakel het selectievakje naast de doelrij in. In de toolbar, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit "), gaat de biedbepaling in, en klikt dan **[!UICONTROL Post]**.
+   * Schakel het selectievakje naast de doelrij in. In de toolbar, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit "), gaat de biedbepaling in, en klikt dan **[!UICONTROL Post]**.
 
    Waarden kunnen zijn:
 
@@ -80,9 +80,9 @@ U kunt de biedingsbepaling en de status van publieksdoelen wijzigen voor alle so
 
       1. Schakel het selectievakje naast elk doel dat u wilt bewerken in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+      1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
       1. Bewerk de velden **[!UICONTROL Bid Modifier]** en/of **[!UICONTROL Status]** .
 
@@ -112,7 +112,7 @@ U kunt ook een actief of gepauzeerd doel voor het zoekpubliek verwijderen.
 
 1. Schakel het selectievakje in naast elk doelpubliek waarvan u de status wilt wijzigen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik op de statusknop op de werkbalk:
 
@@ -120,9 +120,9 @@ U kunt ook een actief of gepauzeerd doel voor het zoekpubliek verwijderen.
 
    * Om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") 0&rbrace;.
 
-   * Om de rijen te schrappen, klik ![ Meer acties ](/help/search-social-commerce/assets/more.png " Meer acties ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
+   * Om de rijen te schrappen, klik ![&#x200B; Meer acties &#x200B;](/help/search-social-commerce/assets/more.png " Meer acties ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publiek ](audience-about.md)
->* [ beheer publieksuitsluitingen voor campagnes en ad groepen ](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)
+>* [&#x200B; Ongeveer publiek &#x200B;](audience-about.md)
+>* [&#x200B; beheer publieksuitsluitingen voor campagnes en ad groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-exclusions-manage.md)

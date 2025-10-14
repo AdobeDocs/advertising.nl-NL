@@ -56,7 +56,7 @@ Een bestaande advertentie of een bestaand trefwoord wordt verwijderd en er wordt
 
 * Een nieuw feed-bestand bevat een rij voor een advertentie of trefwoord dat a) zich in een vorig bestand bevond, maar b) is sindsdien weggelaten en is gepauzeerd of verwijderd volgens de instellingen van de voedergegevens.
 
-Afhankelijk van de [ montages van voedergegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings), kan een bestaande advertentie of een sleutelwoord worden geschrapt wanneer:
+Afhankelijk van de [&#x200B; montages van voedergegevens &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings), kan een bestaande advertentie of een sleutelwoord worden geschrapt wanneer:
 
 * Een nieuw feed-bestand bevat geen rij voor een bestaande advertentie of een bestaand trefwoord.
 
@@ -111,7 +111,7 @@ Op het tabblad [!UICONTROL Campaigns] in zowel de [!UICONTROL Search, Social, & 
 
 Gebruik het achtervoegsel van een bestemmingspagina alleen voor advertentienetwerken die parallelle tracking ondersteunen. In Zoeken, Sociaal, &amp; Commerce, zowel zouden het volgen malplaatjes als het landen van paginaaanvoegsels een klikherkenningsteken van het advertentienetwerk moeten omvatten, maar het volgen malplaatjes omvatten extra het volgen parameters.
 
-Zie volgende Veelgestelde vragen over [ parallelle het volgen steun ](#parallel-tracking) voor meer informatie over hoe het volgen malplaatjes en het landen paginaaparaafjes worden geladen wanneer een gebruiker een advertentie klikt.
+Zie volgende Veelgestelde vragen over [&#x200B; parallelle het volgen steun &#x200B;](#parallel-tracking) voor meer informatie over hoe het volgen malplaatjes en het landen paginaaparaafjes worden geladen wanneer een gebruiker een advertentie klikt.
 
 +++
 
@@ -119,14 +119,14 @@ Zie volgende Veelgestelde vragen over [ parallelle het volgen steun ](#parallel-
 
 Parallel volgen verzendt klanten direct van uw advertentie naar uw definitieve URL, die toegevoegde parameters van een definitief achtervoegsel URL, of &quot;het landen paginaachtervoegsel&quot;kan omvatten. De URL van de trackingsjabloon (met extra parameters voor klikmeting) wordt afzonderlijk geladen op de achtergrond. Hierdoor wordt de landingspagina sneller geladen.
 
-Zoeken, Sociaal en Commerce ondersteunt parallelle tracering voor zoek- en winkelcampagnes met de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads] ). Gebruik een [ rekening-niveau ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) of [ campagne-niveau ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (geroepen &quot;[!DNL final URL suffix]&quot;in de advertentienetwerken), die aan het landen van pagina URLs wordt toegevoegd om kliks op kindadvertenties van browsers te volgen die parallel volgen steunen. Zie [ vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [ vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Zoeken, Sociaal en Commerce ondersteunt parallelle tracering voor zoek- en winkelcampagnes met de klikidentificatie van het advertentienetwerk (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for [!DNL Google Ads] ). Gebruik een [&#x200B; rekening-niveau &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md#account-settings) of [&#x200B; campagne-niveau &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) [!UICONTROL Landing Page Suffix] (geroepen &quot;[!DNL final URL suffix]&quot;in de advertentienetwerken), die aan het landen van pagina URLs wordt toegevoegd om kliks op kindadvertenties van browsers te volgen die parallel volgen steunen. Zie [&#x200B; vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [&#x200B; vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
-Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar de URL van de trackingsjabloon, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze worden doorgestuurd naar de laatste URL (die mogelijk aanvullende parameters bevat in het achtervoegsel van een bestemmingspagina). Alle volgende sjablonen voor een advertentienetwerkaccount moeten dezelfde klikid-parameter bevatten die u in de [!UICONTROL Landing Page Suffix] gebruikt. Zie [ het volgen malplaatjevormen voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [ het volgen malplaatjeformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Wanneer een gebruiker uw advertentie weergeeft in een browser die geen parallelle tracering ondersteunt, gebruikt het advertentienetwerk in plaats daarvan sequentiële tracking: klanten worden eerst verzonden naar de URL van de trackingsjabloon, die klanten kan doorsturen naar tussenliggende trackingservers voordat ze worden doorgestuurd naar de laatste URL (die mogelijk aanvullende parameters bevat in het achtervoegsel van een bestemmingspagina). Alle volgende sjablonen voor een advertentienetwerkaccount moeten dezelfde klikid-parameter bevatten die u in de [!UICONTROL Landing Page Suffix] gebruikt. Zie [&#x200B; het volgen malplaatjevormen voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [&#x200B; het volgen malplaatjeformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 +++
 
 +++Waarom bevat het bijhouden van URL&#39;s voor mijn advertenties &quot;`&EV_HASH={<hash>}`&quot;?
 
-Wanneer u advertenties uploadt gebruikend de voer van de a [ productinventaris ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor een rekening met het Onderzoek, Sociale, &amp; de pixelomleiding van Commerce en met sleutelwoord en creatief-vlakke volgen, dan voegt het Onderzoek, Sociale, &amp; Commerce de knoeiboelparameter en waarde aan het volgende malplaatje of bestemmingsURL van de advertentie toe om te identificeren dat het gebruikend de eigenschap van de inventarisvoer werd gecreeerd.
+Wanneer u advertenties uploadt gebruikend de voer van de a [&#x200B; productinventaris &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md) voor een rekening met het Onderzoek, Sociale, &amp; de pixelomleiding van Commerce en met sleutelwoord en creatief-vlakke volgen, dan voegt het Onderzoek, Sociale, &amp; Commerce de knoeiboelparameter en waarde aan het volgende malplaatje of bestemmingsURL van de advertentie toe om te identificeren dat het gebruikend de eigenschap van de inventarisvoer werd gecreeerd.
 +++
 
 ## Voorraadvoeding
@@ -158,7 +158,7 @@ Wanneer u gegevens verzendt, kunnen de gegevensvelden voor de kolommen [!UICONTR
 
 +++Mijn campagnes die zijn gegenereerd op basis van voorraadfeeds hebben veel verweesde transacties.
 
-Als de [ montages van voedergegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings) worden gevormd om advertenties in diverse situaties te schrappen, dan om het even welke vertraagde omzettingen die na kliks op de advertentie voorkomen kunnen [ wezen transacties ](/help/search-social-commerce/glossary.md#o-p) veroorzaken. De beste manier is om advertenties te pauzeren in plaats van ze te verwijderen. Als een advertentie na lange tijd nog steeds geen inkomsten heeft ontvangen, kunt u deze verwijderen via een bulksblad of de weergave Advertentiebeheer.
+Als de [&#x200B; montages van voedergegevens &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-settings-manage.md#feed-data-settings) worden gevormd om advertenties in diverse situaties te schrappen, dan om het even welke vertraagde omzettingen die na kliks op de advertentie voorkomen kunnen [&#x200B; wezen transacties &#x200B;](/help/search-social-commerce/glossary.md#o-p) veroorzaken. De beste manier is om advertenties te pauzeren in plaats van ze te verwijderen. Als een advertentie na lange tijd nog steeds geen inkomsten heeft ontvangen, kunt u deze verwijderen via een bulksblad of de weergave Advertentiebeheer.
 +++
 
 ## Prestatieproblemen met betrekking tot account en campagne

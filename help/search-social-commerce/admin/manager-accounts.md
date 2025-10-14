@@ -20,7 +20,7 @@ Geef de referenties op voor uw [!DNL Google Ads] -beheeraccounts waarnaar u conv
 
 U kunt geloofsbrieven voor nieuwe verslagen van de managerrekening toevoegen, of een bestaande managerrekening opnieuw voor authentiek verklaren.
 
-Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van de gekoppelde beheeraccount als alleen-lezen weergegeven in de accountinstellingen. Bovendien wordt in een optionele kolom &quot;[!UICONTROL Manager Account for Cross-Account Conversions]&quot; in de weergave [!UICONTROL Campaigns] > [!UICONTROL Accounts] de id van de beheeraccount voor elke onderliggende account weergegeven en wordt een fout aangegeven wanneer de beheerdersaccount niet is geverifieerd. [!UICONTROL Notification Center] omvat berichten wanneer de geloofsbrieven van een managerrekening ([ ontbreken [!UICONTROL Manager Account Missing Error]](/help/search-social-commerce/notifications/notification-about.md)) of wanneer een teken van de de authentificatieauthentificatie van de managerrekening ([ verloopt [!UICONTROL Manager Account Auth Error]](/help/search-social-commerce/notifications/notification-about.md)).
+Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van de gekoppelde beheeraccount als alleen-lezen weergegeven in de accountinstellingen. Bovendien wordt in een optionele kolom &quot;[!UICONTROL Manager Account for Cross-Account Conversions]&quot; in de weergave [!UICONTROL Campaigns] > [!UICONTROL Accounts] de id van de beheeraccount voor elke onderliggende account weergegeven en wordt een fout aangegeven wanneer de beheerdersaccount niet is geverifieerd. [!UICONTROL Notification Center] omvat berichten wanneer de geloofsbrieven van een managerrekening ([&#x200B; ontbreken [!UICONTROL Manager Account Missing Error]](/help/search-social-commerce/notifications/notification-about.md)) of wanneer een teken van de de authentificatieauthentificatie van de managerrekening ([&#x200B; verloopt [!UICONTROL Manager Account Auth Error]](/help/search-social-commerce/notifications/notification-about.md)).
 
 ## Om geloofsbrieven voor een nieuwe managerrekening toe te voegen
 
@@ -58,6 +58,6 @@ Nadat u referenties voor een beheerdersaccount hebt toegevoegd, wordt de id van 
 
 >[!MORELIKETHIS]
 >
->* [ laat het uploaden van doelstellingen aan toe en netwerken ](/help/search-social-commerce/tools/objective-upload-to-networks.md)
->* [ uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
->* [ geef uw berichtmontages ](/help/search-social-commerce/notifications/notification-edit.md) uit
+>* [&#x200B; laat het uploaden van doelstellingen aan toe en netwerken &#x200B;](/help/search-social-commerce/tools/objective-upload-to-networks.md)
+>* [&#x200B; uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](/help/search-social-commerce/notifications/notification-edit.md) uit

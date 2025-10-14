@@ -88,4 +88,4 @@ Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTR
 
 >[!MORELIKETHIS]
 >
->* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [&#x200B; beheer en groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)

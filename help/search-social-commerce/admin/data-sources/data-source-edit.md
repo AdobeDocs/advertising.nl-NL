@@ -19,18 +19,18 @@ ht-degree: 1%
 
 1. Schakel het selectievakje in naast de gegevensbron die u wilt bewerken.
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [ montages van de gegevensbron ](data-source-settings.md).
+1. Bewerk de [&#x200B; montages van de gegevensbron &#x200B;](data-source-settings.md).
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek ](data-source-about.md)
->* [ Vereisten om a  [!DNL Google Analytics]  gegevensbron ](data-source-prerequisites.md) te vormen
->* [ vorm a  [!DNL Google Analytics]  mening als gegevensbron ](data-source-configure.md)
->* [ de synchronisatie van de pauze van een gegevensbron ](data-source-pause.md)
->* [ verklaart a  [!DNL Google Analytics]  gegevensbron ](data-source-reauthenticate.md) opnieuw voor authentiek
->* [[!DNL Google Analytics]  gegevensbronmontages ](data-source-settings.md)
->* [ Bijlage - Beschikbare  [!DNL Google Analytics]  metriek ](data-source-ga-metrics.md)
+>* [&#x200B; Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek &#x200B;](data-source-about.md)
+>* [&#x200B; Vereisten om a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-prerequisites.md) te vormen
+>* [&#x200B; vorm a  [!DNL Google Analytics]  mening als gegevensbron &#x200B;](data-source-configure.md)
+>* [&#x200B; de synchronisatie van de pauze van een gegevensbron &#x200B;](data-source-pause.md)
+>* [&#x200B; verklaart a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-reauthenticate.md) opnieuw voor authentiek
+>* [[!DNL Google Analytics]  gegevensbronmontages &#x200B;](data-source-settings.md)
+>* [&#x200B; Bijlage - Beschikbare  [!DNL Google Analytics]  metriek &#x200B;](data-source-ga-metrics.md)

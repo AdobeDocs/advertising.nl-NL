@@ -20,7 +20,7 @@ U kunt een rapport produceren dat de gegevensrijen voor één of meerdere campag
 
 U kunt elk gegenereerd rapport verwijderen.
 
-Zie ook &quot;>* [ (Verouderde UI) Download gegevens van een mening van het campagnebeheer ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)&quot;en &quot;[ (Verouderde UI) Schrap een rapport of bulksbladdossier van prestatiesgegevens van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md).&quot;
+Zie ook &quot;>* [&#x200B; (Verouderde UI) Download gegevens van een mening van het campagnebeheer &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)&quot;en &quot;[&#x200B; (Verouderde UI) Schrap een rapport of bulksbladdossier van prestatiesgegevens van het [!UICONTROL Downloads] menu &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md).&quot;
 
 ## Een rapport genereren met de gefilterde gegevensrijen
 
@@ -32,7 +32,7 @@ Zie ook &quot;>* [ (Verouderde UI) Download gegevens van een mening van het camp
 
    * Als u gegevens voor alle campagnes wilt downloaden, hoeft u geen selectievakjes in te schakelen. Alle campagnes worden standaard opgenomen.
 
-1. In de toolbar boven de gegevenslijst, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
 
 1. Voer in de instellingen van [!UICONTROL Grid Reports] een unieke rapportnaam in en klik op **[!UICONTROL Generate]** .
 
@@ -40,7 +40,7 @@ Zie ook &quot;>* [ (Verouderde UI) Download gegevens van een mening van het camp
 
    Het bestand wordt toegevoegd aan de lijst [!UICONTROL Recently Generated] .
 
-1. (Facultatief) om het dossier te downloaden zodra het wordt voltooid, klik ![ Download ](/help/search-social-commerce/assets/download.png " naast het dossier - naam.")
+1. (Facultatief) om het dossier te downloaden zodra het wordt voltooid, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " naast het dossier - naam.")
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -48,9 +48,9 @@ Zie ook &quot;>* [ (Verouderde UI) Download gegevens van een mening van het camp
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Campaigns]** .
 
-1. In de toolbar boven de gegevenslijst, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
 
-1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") naast de dossier - naam.
+1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") naast de dossier - naam.
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -58,12 +58,12 @@ Zie ook &quot;>* [ (Verouderde UI) Download gegevens van een mening van het camp
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Campaigns]** .
 
-1. In de toolbar boven de gegevenslijst, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
 
-1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") naast het dossier - naam.
+1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete-new.png " ") naast het dossier - naam.
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Campaigns view]](campaign-view-about.md)
->* [ (Verouderde UI) Download gegevens van een mening van het campagnebeheer ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
->* [ (Verouderde UI) Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [&#x200B; Over [!UICONTROL Campaigns view]](campaign-view-about.md)
+>* [&#x200B; (Verouderde UI) Download gegevens van een mening van het campagnebeheer &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/download.md)
+>* [&#x200B; (Verouderde UI) Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)

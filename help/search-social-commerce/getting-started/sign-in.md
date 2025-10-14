@@ -22,7 +22,7 @@ Search, Social &amp; Commerce gaat over naar de Adobe Identity Management Servic
 
 Uw huidige aanmeldgegevens voor Zoeken, Sociale Zaken en Commerce blijven gedurende korte tijd actief zodat u zich kunt voorbereiden op de wijziging.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[&#x200B; interface en beleid van Experience Cloud &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
 
 ## Aanmelden via de verouderde aanmeldingspagina voor zoeken, sociale zaken en Commerce
 
@@ -30,13 +30,13 @@ Voor meer informatie over de interface van Experience Cloud, met inbegrip van he
 
 Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kunt voorbereiden.
 
-* Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; gebruikersbenaming en wachtwoord van Commerce.
+* Ga naar [&#x200B; onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [&#x200B; onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/), en teken binnen gebruikend uw erfenisOnderzoek, Sociale, &amp; gebruikersbenaming en wachtwoord van Commerce.
 
   De oudere gebruikersinterface wordt standaard geopend.
 
 ## Een [!DNL Adobe ID] gebruiken voor verificatie
 
-1. Ga naar [ onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [ onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/) en klik **[!UICONTROL Sign in with SSO]**.
+1. Ga naar [&#x200B; onderneming-na.efrontier.com/](https://enterprise-na.efrontier.com/) of [&#x200B; onderneming-intl.efrontier.com/](https://enterprise-intl.efrontier.com/) en klik **[!UICONTROL Sign in with SSO]**.
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
@@ -50,7 +50,7 @@ Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kun
 
 <!-- Later, give them the new direct URL(s) to our UI so they don't have to select the product. -->
 
-1. Ga naar [ experience.adobe.com ](https://experience.adobe.com).
+1. Ga naar [&#x200B; experience.adobe.com &#x200B;](https://experience.adobe.com).
 
 1. Voer uw [!DNL Adobe] -id in en klik op **[!UICONTROL Continue]** .
 
@@ -58,7 +58,7 @@ Deze optie is beschikbaar voor een korte tijd zodat u zich op de verandering kun
 
 1. Klik in de sectie [!UICONTROL Quick Access] van de startpagina op **[!UICONTROL Advertising Search, Social, & Commerce]** .
 
-![ Advertising Onderzoek, Sociale, &amp; Commerce) ](/help/search-social-commerce/assets/search-social-commerce-logo.png " Advertising Onderzoek, Sociale, &amp; Commerce) ")
+![&#x200B; Advertising Onderzoek, Sociale, &amp; Commerce) &#x200B;](/help/search-social-commerce/assets/search-social-commerce-logo.png " Advertising Onderzoek, Sociale, &amp; Commerce) ")
 
 De nieuwe gebruikersinterface wordt standaard geopend.
 
@@ -66,7 +66,7 @@ De nieuwe gebruikersinterface wordt standaard geopend.
 
 >[!MORELIKETHIS]
 >
->* [ Schakelaar tussen de nieuwe en erfenisgebruikersinterfaces ](ui-switch.md)
->* [ Teken uit ](sign-out.md)
->* [ verander uw wachtwoord ](/help/search-social-commerce/tools/password-change.md)
->* [ hoe het gebruikersinterface wordt georganiseerd ](user-interface.md)
+>* [&#x200B; Schakelaar tussen de nieuwe en erfenisgebruikersinterfaces &#x200B;](ui-switch.md)
+>* [&#x200B; Teken uit &#x200B;](sign-out.md)
+>* [&#x200B; verander uw wachtwoord &#x200B;](/help/search-social-commerce/tools/password-change.md)
+>* [&#x200B; hoe het gebruikersinterface wordt georganiseerd &#x200B;](user-interface.md)

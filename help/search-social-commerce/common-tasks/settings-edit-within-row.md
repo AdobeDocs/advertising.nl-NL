@@ -18,7 +18,7 @@ ht-degree: 0%
 
 ## (Nieuwe interface) Instellingen bewerken in een rij
 
-1. Plaats de cursor op de rij en selecteer de waarde. Afhankelijk van de kolom, kunt u ![ moeten klikken geeft ](/help/search-social-commerce/assets/edit-new.png " uit ") of **[!UICONTROL ...]** > ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") naast de waarde. Als u de naam van een entiteit wilt wijzigen, klikt u op de naam en selecteert u **[!UICONTROL Rename]** .
+1. Plaats de cursor op de rij en selecteer de waarde. Afhankelijk van de kolom, kunt u ![&#x200B; moeten klikken geeft &#x200B;](/help/search-social-commerce/assets/edit-new.png " uit ") of **[!UICONTROL ...]** > ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") naast de waarde. Als u de naam van een entiteit wilt wijzigen, klikt u op de naam en selecteert u **[!UICONTROL Rename]** .
 
 1. Wijzig de waarde:
 
@@ -35,10 +35,10 @@ ht-degree: 0%
 
    * (Opties in een lijst) Selecteer een nieuwe optie in de lijst.
 
-   * (Datums) ga een nieuwe datum in, of klik ![ Kalender ](/help/search-social-commerce/assets/calendar.png " om de kalender te openen en ") een nieuwe datum [ te selecteren.](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md)
+   * (Datums) ga een nieuwe datum in, of klik ![&#x200B; Kalender &#x200B;](/help/search-social-commerce/assets/calendar.png " om de kalender te openen en ") een nieuwe datum [&#x200B; te selecteren.](/help/search-social-commerce/common-tasks/navigation-editing-selection/calendar.md)
 
-   * (Vrije-vormwaarden) ga een nieuwe waarde in, en klik dan ![ sparen ](/help/search-social-commerce/assets/select.png " ") of druk **binnengaan** sleutel.
+   * (Vrije-vormwaarden) ga een nieuwe waarde in, en klik dan ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/select.png " ") of druk **binnengaan** sleutel.
 
    >[!MORELIKETHIS]
    >
-   >* [ creeer en geef campagnegegevens in bulk uit gebruikend Exemplaar en Deeg ](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)
+   >* [&#x200B; creeer en geef campagnegegevens in bulk uit gebruikend Exemplaar en Deeg &#x200B;](/help/search-social-commerce/campaign-management/campaigns/copy-paste.md)

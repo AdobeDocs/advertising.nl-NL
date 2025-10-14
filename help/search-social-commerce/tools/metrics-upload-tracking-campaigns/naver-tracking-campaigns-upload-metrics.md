@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *slechts de Rekeningen van de Naver*
 
-U kunt een TSV-, CSV- of TXT-bestand uploaden met dagelijks geaggregeerde verkeersmetriek en conversiemetriek, alleen voor het bijhouden en rapporteren van uw netwerkaccounts. De gegevens moeten a [ gespecificeerd formaat ](naver-tracking-campaigns-data-requirements.md) volgen. Als het bestand gegevens bevat voor entiteiten die niet voorkomen in Zoeken, Sociaal en Commerce, worden deze rijen overgeslagen.
+U kunt een TSV-, CSV- of TXT-bestand uploaden met dagelijks geaggregeerde verkeersmetriek en conversiemetriek, alleen voor het bijhouden en rapporteren van uw netwerkaccounts. De gegevens moeten a [&#x200B; gespecificeerd formaat &#x200B;](naver-tracking-campaigns-data-requirements.md) volgen. Als het bestand gegevens bevat voor entiteiten die niet voorkomen in Zoeken, Sociaal en Commerce, worden deze rijen overgeslagen.
 
 Met Zoeken, Sociaal en Commerce worden geen gegevens gesynchroniseerd met het advertentienetwerk en worden geen biedingen voor het account geplaatst.
 
@@ -28,6 +28,6 @@ Met Zoeken, Sociaal en Commerce worden geen gegevens gesynchroniseerd met het ad
 
 >[!MORELIKETHIS]
 >
->* [ voert  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
->* [ Bijlage - Vereiste bulksheet- gegevens voor  [!DNL Naver]  rekeningen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
->* [ Metrische gegevensvereisten voor  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
+>* [&#x200B; voert  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
+>* [&#x200B; Bijlage - Vereiste bulksheet- gegevens voor  [!DNL Naver]  rekeningen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
+>* [&#x200B; Metrische gegevensvereisten voor  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)

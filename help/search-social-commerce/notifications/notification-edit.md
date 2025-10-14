@@ -18,11 +18,11 @@ U kunt desgewenst een abonnement nemen op e-mail- en webberichten of u kunt een 
 
 1. Open de meldingsinstellingen op een van de volgende manieren:
 
-   * In het hogere recht van om het even welke pagina, klik ![ Meldingen ](/help/search-social-commerce/assets/notifications-panel.png " ") om het [!UICONTROL Notifications] paneel te openen. Klik in de rechterbovenhoek op ![Instellingen](/help/search-social-commerce/assets/settings-nc.png "Instellingen") .
+   * In het hogere recht van om het even welke pagina, klik ![&#x200B; Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-panel.png " ") om het [!UICONTROL Notifications] paneel te openen. Klik in de rechterbovenhoek op ![Instellingen](/help/search-social-commerce/assets/settings-nc.png "Instellingen") .
 
-   * Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** . In het linkermenu, klik ![ Montages ](/help/search-social-commerce/assets/settings-nc.png " Montages ").
+   * Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** . In het linkermenu, klik ![&#x200B; Montages &#x200B;](/help/search-social-commerce/assets/settings-nc.png " Montages ").
 
-1. Verander uw montages voor om het even welke [ berichtcategorie ](notification-about.md):
+1. Verander uw montages voor om het even welke [&#x200B; berichtcategorie &#x200B;](notification-about.md):
 
    * Verplaats de schuifregelaar in de kolom [!UICONTROL Subscribe] als u zich wilt abonneren op meldingen of uw abonnement wilt opzeggen:
 
@@ -34,15 +34,15 @@ U kunt desgewenst een abonnement nemen op e-mail- en webberichten of u kunt een 
 
    * (Wanneer [!UICONTROL Subscribe] is uitgeschakeld) Schakel het selectievakje in de kolom **[!UICONTROL Web]** in als u zich wilt abonneren op webmeldingen in Zoeken, Sociaal en Commerce en op pushmeldingen als deze zijn ingeschakeld voor de browser.
 
-     De berichten van het Web worden geleverd slechts wanneer u [ pushberichten ](notifications-push-enable-disable.md) aan uw browser toelaat.
+     De berichten van het Web worden geleverd slechts wanneer u [&#x200B; pushberichten &#x200B;](notifications-push-enable-disable.md) aan uw browser toelaat.
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
->* [ Mening uw berichten ](notification-view.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ Schrap een bericht ](notification-delete.md)
->* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)
+>* [&#x200B; Ongeveer berichten &#x200B;](/help/search-social-commerce/notifications/notification-about.md)
+>* [&#x200B; Mening uw berichten &#x200B;](notification-view.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; Schrap een bericht &#x200B;](notification-delete.md)
+>* [&#x200B; Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [&#x200B; installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing &#x200B;](notification-app-install-uninstall.md)

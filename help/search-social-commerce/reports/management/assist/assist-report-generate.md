@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Create Report]** , houd de cursor boven **[!UICONTROL Assist Reports]** en klik op het rapporttype.
 
-1. (Facultatief) in het [!UICONTROL Report Settings] venster, verander de standaard [ rapportmontages ](assist-report-settings.md):
+1. (Facultatief) in het [!UICONTROL Report Settings] venster, verander de standaard [&#x200B; rapportmontages &#x200B;](assist-report-settings.md):
 
    1. (Optioneel) Voer een aangepaste naam in voor het rapport en voor de sjabloon (als u het rapport opslaat als een sjabloon).
 
@@ -36,15 +36,15 @@ ht-degree: 0%
 
 1. Klik op **[!UICONTROL Create]**.
 
-Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] mening ](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan de [[!UICONTROL Templates] mening ](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
+Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] mening &#x200B;](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan de [[!UICONTROL Templates] mening &#x200B;](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
 
-Als u om het even welke e-mailadressen voor bericht inging, ontvangt elke ontvanger een bericht wanneer de rapportbaan wordt voltooid of ontbreekt, die op de gebruiker [ wordt gebaseerd gevormde berichtmontages ](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
+Als u om het even welke e-mailadressen voor bericht inging, ontvangt elke ontvanger een bericht wanneer de rapportbaan wordt voltooid of ontbreekt, die op de gebruiker [&#x200B; wordt gebaseerd gevormde berichtmontages &#x200B;](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
 
 >[!MORELIKETHIS]
 >
->* [ sta rapportmontages ](assist-report-settings.md) bij
->* [ De [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
->* [ De [!UICONTROL Channel Assist Report]](channel-assist-report.md)
->* [ De [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
->* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
->* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)
+>* [&#x200B; sta rapportmontages &#x200B;](assist-report-settings.md) bij
+>* [&#x200B; De [!UICONTROL Campaign Assist Report]](campaign-assist-report.md)
+>* [&#x200B; De [!UICONTROL Channel Assist Report]](channel-assist-report.md)
+>* [&#x200B; De [!UICONTROL Keyword Assist Report]](keyword-assist-report.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](/help/search-social-commerce/reports/report-about.md)
+>* [&#x200B; de rapporten van de Schrapping &#x200B;](/help/search-social-commerce/reports/management/report-delete.md)

@@ -20,9 +20,9 @@ U kunt de kolommen die in een van uw weergaven zijn opgenomen, tijdelijk tonen e
 
 >[!NOTE]
 >
->* U kunt de kolommen in een mening tijdelijk veranderen en de soortorde [ van het [!UICONTROL Columns] pictogram ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) op de rechterkant van de toolbar veranderen.
->* U kunt in de kolommen veranderen die voor een specifieke adverteerder door de standaardmening uit te geven of [ creërend een douanemening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view) inbegrepen zijn.
+>* U kunt de kolommen in een mening tijdelijk veranderen en de soortorde [&#x200B; van het [!UICONTROL Columns] pictogram &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-set-edit-sort-icon.md) op de rechterkant van de toolbar veranderen.
+>* U kunt in de kolommen veranderen die voor een specifieke adverteerder door de standaardmening uit te geven of [&#x200B; creërend een douanemening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md#create-custom-view) inbegrepen zijn.
 
-* (Om specifieke kolommen voor alle adverteerders) op de rechterkant van om het even welke kolomrubriek te tonen, klik ![ benedenpijl ](/help/search-social-commerce/assets/arrow-down-expand.png ", benadruk "), selecteer de controledoos naast elke kolom om te omvatten, en klik dan **[!UICONTROL Select Columns]**.**[!UICONTROL Apply]**
+* (Om specifieke kolommen voor alle adverteerders) op de rechterkant van om het even welke kolomrubriek te tonen, klik ![&#x200B; benedenpijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png ", benadruk "), selecteer de controledoos naast elke kolom om te omvatten, en klik dan **[!UICONTROL Select Columns]**.**[!UICONTROL Apply]**
 
 * (Als u specifieke kolommen voor alle adverteerders wilt verbergen) Klik rechts van een kolomkop op  (/help/search-social-commerce/assets/arrow-down-expand.png &quot;pijl omlaag&quot;, markering **[!UICONTROL Select Columns]** , schakel het selectievakje naast elke kolom die u wilt uitsluiten uit en klik op **[!UICONTROL Apply]** .

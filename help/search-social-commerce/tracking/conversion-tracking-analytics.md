@@ -14,9 +14,9 @@ ht-degree: 0%
 
 *Advertisers met slechts Adobe Advertising-Adobe Analytics integratie*
 
-Voor adverteerders met een Adobe Advertising-Adobe Analytics integratie, kan Advertising Cloud uw advertenties en indrukkingen met de plaatsovereenkomst en omzettingsmetriek verbinden die door [!DNL Analytics] wordt gevolgd wanneer u een omleiding met teken (`ef_id` parameter) in uw klik-volgende URLs voor uw [ biedingseenheden ](/help/search-social-commerce/glossary.md#a-b) gebruikt. De [!DNL Analytics] -gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
+Voor adverteerders met een Adobe Advertising-Adobe Analytics integratie, kan Advertising Cloud uw advertenties en indrukkingen met de plaatsovereenkomst en omzettingsmetriek verbinden die door [!DNL Analytics] wordt gevolgd wanneer u een omleiding met teken (`ef_id` parameter) in uw klik-volgende URLs voor uw [&#x200B; biedingseenheden &#x200B;](/help/search-social-commerce/glossary.md#a-b) gebruikt. De [!DNL Analytics] -gegevens worden automatisch naar Advertising Cloud verzonden via een dagelijks feed-bestand.
 
-Zie &quot;[ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/nl/docs/advertising/integrations/analytics/overview){target="_blank"} &quot;voor meer informatie over de integratie.
+Zie &quot;[&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/integrations/analytics/overview){target="_blank"} &quot;voor meer informatie over de integratie.
 
 >[!PREREQUISITES]
 >
@@ -44,4 +44,4 @@ Zodra de integratie is voltooid, ontvangen Search, Social, &amp; Commerce automa
 
 >[!MORELIKETHIS]
 >
->* [ het volgen van de Omzetting opties ](conversion-tracking-about.md)
+>* [&#x200B; het volgen van de Omzetting opties &#x200B;](conversion-tracking-about.md)

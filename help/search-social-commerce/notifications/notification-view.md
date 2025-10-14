@@ -14,11 +14,11 @@ ht-degree: 0%
 
 *de Eigenschap van Beta*
 
-Wanneer u [ aan berichten ](notification-edit.md) over de fouten van de rekeningsauthentificatie, douanealarm wordt ingetekend die worden teweeggebracht, en [!UICONTROL Advertising Insights] die worden geproduceerd, kunt u uw berichten in of het [!UICONTROL Notifications] paneel of [!UICONTROL Notification Center] bekijken.
+Wanneer u [&#x200B; aan berichten &#x200B;](notification-edit.md) over de fouten van de rekeningsauthentificatie, douanealarm wordt ingetekend die worden teweeggebracht, en [!UICONTROL Advertising Insights] die worden geproduceerd, kunt u uw berichten in of het [!UICONTROL Notifications] paneel of [!UICONTROL Notification Center] bekijken.
 
 ## Meldingen weergeven in het deelvenster [!UICONTROL Notifications]
 
-1. In het hogere recht van om het even welke pagina, klik ![ Meldingen ](/help/search-social-commerce/assets/notifications-panel.png " ").
+1. In het hogere recht van om het even welke pagina, klik ![&#x200B; Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-panel.png " ").
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
@@ -26,15 +26,15 @@ Wanneer u [ aan berichten ](notification-edit.md) over de fouten van de rekening
 
      In sommige meldingen bevat de sectie [!UICONTROL Action Recommended] mogelijk een koppeling waarmee een gefilterde weergave van de betrokken of verantwoordelijke entiteiten wordt geopend.
 
-   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![ Teken als Gelezen of Ongelezen ](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
+   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![&#x200B; Teken als Gelezen of Ongelezen &#x200B;](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
 
      De berichten die als *worden gemerkt lezen* zijn in een lichter-gekleurde tekst maar blijven beschikbaar tot u hen schrapt.
 
-   ![ Lees en Ongelezen berichten ](/help/search-social-commerce/assets/notifications-read-vs-unread.png " Gelezen en Ongelezen berichten ")
+   ![&#x200B; Lees en Ongelezen berichten &#x200B;](/help/search-social-commerce/assets/notifications-read-vs-unread.png " Gelezen en Ongelezen berichten ")
 
-   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![ Montages ](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
+   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![&#x200B; Montages &#x200B;](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
 
-   * Om een bericht te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
+   * Om een bericht te schrappen, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
    * Klik op [!UICONTROL Notification Center] om **[!UICONTROL View All]** te openen.
 
@@ -50,19 +50,19 @@ Wanneer u [ aan berichten ](notification-edit.md) over de fouten van de rekening
 
      In sommige meldingen bevat de sectie [!UICONTROL Action Recommended] mogelijk een koppeling waarmee een gefilterde weergave van de betrokken of verantwoordelijke entiteiten wordt geopend.
 
-   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![ Teken als Gelezen of Ongelezen ](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
+   * Om een bericht te merken zoals *leest* of *ongelezen*, houdt de curseur over de waakzame naam en klikt ![&#x200B; Teken als Gelezen of Ongelezen &#x200B;](/help/search-social-commerce/assets/notifications-read-unread.png " Teken als Gelezen of Ongelezen ").
 
      De berichten die als *worden gemerkt lezen* zijn in een lichter-gekleurde tekst maar blijven beschikbaar tot u hen schrapt.
 
-   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![ Montages ](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
+   * Om uw abonnementsvoorkeur voor het berichttype te veranderen, klik ![&#x200B; Montages &#x200B;](/help/search-social-commerce/assets/settings-nc.png " naast het bericht, verander uw montages, en klik dan ").**[!UICONTROL Save]**
 
-   * Om een bericht te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
+   * Om een bericht te schrappen, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ Schrap een bericht ](notification-delete.md)
->* [ geef uw berichtmontages ](notification-edit.md) uit
->* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)
+>* [&#x200B; Ongeveer berichten &#x200B;](/help/search-social-commerce/notifications/notification-about.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; Schrap een bericht &#x200B;](notification-delete.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](notification-edit.md) uit
+>* [&#x200B; Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [&#x200B; installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing &#x200B;](notification-app-install-uninstall.md)

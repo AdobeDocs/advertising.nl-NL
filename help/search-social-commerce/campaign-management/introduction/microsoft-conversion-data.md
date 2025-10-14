@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Microsoft Advertising] conversiegegevens in Zoeken, Sociaal en Commerce
 
-Onderzoek, sociaal, &amp; Commerce synchroniseert automatisch alle omzettingen die door uw [[!DNL Microsoft Advertising]  universele gebeurtenis het volgen (UET) markeringen ](https://help.ads.microsoft.com/#apex/ads/en/53056) voor websiteomzettingen, met inbegrip van mening-door omzettingen, voor rapportering en optimalisering worden gevolgd.
+Onderzoek, sociaal, &amp; Commerce synchroniseert automatisch alle omzettingen die door uw [[!DNL Microsoft Advertising]  universele gebeurtenis het volgen (UET) markeringen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/53056) voor websiteomzettingen, met inbegrip van mening-door omzettingen, voor rapportering en optimalisering worden gevolgd.
 
 Alle metriek zijn automatisch beschikbaar in de weergaven en basisrapporten van uw campagnebeheer en zijn ook beschikbaar voor gebruik in portfoliodoelstellingen voor het optimaliseren van [!DNL Microsoft Advertising] -campagnes.
 
@@ -20,7 +20,7 @@ Alle metriek zijn automatisch beschikbaar in de weergaven en basisrapporten van 
 
 Onderzoek, sociaal, &amp; Commerce synchroniseert gegevens voor omzettingen waarvoor de &quot;[!DNL Include in 'Conversions']&quot;optie wordt toegelaten, trekkend de gegevens voor de laatste 35 dagen en dan trekkend veranderingen in de gegevens dagelijks door 09 :00-10: 00 in de tijdzone van de adverteerder. Historische gegevens kunnen van dag tot dag veranderen aangezien de nieuwe omzettingen voor elke klik worden gevolgd.
 
-Twee metriek voor elke [[!DNL Microsoft Advertising] - gevolgde omzetting ](https://help.ads.microsoft.com/apex/index/3/en-us/n5012) (die u opstelling in [!DNL Microsoft Advertising]) zijn automatisch beschikbaar in Onderzoek, Sociale, &amp; Commerce, gebruikend de omzettingsnamen die in [!DNL Microsoft Advertising] worden gevormd. De meetgegevens voor elke omzetting omvatten:
+Twee metriek voor elke [[!DNL Microsoft Advertising] - gevolgde omzetting &#x200B;](https://help.ads.microsoft.com/apex/index/3/en-us/n5012) (die u opstelling in [!DNL Microsoft Advertising]) zijn automatisch beschikbaar in Onderzoek, Sociale, &amp; Commerce, gebruikend de omzettingsnamen die in [!DNL Microsoft Advertising] worden gevormd. De meetgegevens voor elke omzetting omvatten:
 
 * `<conversion-name>` — De conversiewaarde voor het trefwoord (zoals Aankoop).
 
@@ -36,11 +36,11 @@ Twee metriek voor elke [[!DNL Microsoft Advertising] - gevolgde omzetting ](http
 
 De gegevens zijn beschikbaar op basis van de kliktijd en gebaseerd op de conversie-/transactietijd vanaf de datum waarop de functie voor de account is ingeschakeld.
 
-[!DNL Microsoft Advertising] registreert elke omzetting door [ biedingseenheid ](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Microsoft Advertising] wordt geplaatst; de attributie van Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
+[!DNL Microsoft Advertising] registreert elke omzetting door [&#x200B; biedingseenheid &#x200B;](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Microsoft Advertising] wordt geplaatst; de attributie van Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
 
 >[!NOTE]
 >
->* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit voorkomt, [ verander de vertoningsnaam ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
+>* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit voorkomt, [&#x200B; verander de vertoningsnaam &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
 >* Gegevens op het niveau van de biedingseenheid komen overeen met gegevens in het advertentienetwerk op hetzelfde niveau. Nochtans, kunnen de eigen omzettingsgegevens van het advertentienetwerk voor hogere niveaus extra omzettingen omvatten die niet aan de eenheden van het kindbod worden toegeschreven. Gegevens in Zoeken, Sociaal, &amp; Commerce worden altijd opgevoerd vanaf het niveau van de biedingseenheid, zodat, bijvoorbeeld, zou een campagne-vlakke rapport niet de zelfde totalen kunnen hebben zoals een campagne-vlakke rapport in het advertentienetwerk.
 >* De variantie van gegevens is typisch minder na de ochtendsynchronisatie dan het later op de dag is, wanneer de extra omzettingen nog niet zijn gesynchroniseerd. We raden u aan &#39;s ochtends gegevens te valideren.
 >* De gegevens zijn niet beschikbaar bij het publiek of het geografische plaatsniveau en daarom niet gebruikt om RLSA en plaats biodaanpassingen auto-te optimaliseren.
@@ -77,6 +77,6 @@ In Zoeken, Sociaal, &amp; Commerce, gebruik de mening of rapportoptie om omzetti
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van het uitvoeren van en netwerkrekeningen en campagnes ](campaign-implemention-overview.md)
->* [ Monitor en beheer de prestaties van uw campagnes van het advertentienetwerk ](monitor-performance-campaigns.md)
->* [ Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [&#x200B; Overzicht van het uitvoeren van en netwerkrekeningen en campagnes &#x200B;](campaign-implemention-overview.md)
+>* [&#x200B; Monitor en beheer de prestaties van uw campagnes van het advertentienetwerk &#x200B;](monitor-performance-campaigns.md)
+>* [&#x200B; Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)

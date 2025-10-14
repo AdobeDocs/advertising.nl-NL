@@ -30,7 +30,7 @@ U kunt pushmeldingen uitschakelen volgens de standaardprocedure van de browser.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
 
-2. In het bodemrecht, klik ![ laat dupberichten ](/help/search-social-commerce/assets/notifications-push.png " toe duw berichten ").
+2. In het bodemrecht, klik ![&#x200B; laat dupberichten &#x200B;](/help/search-social-commerce/assets/notifications-push.png " toe duw berichten ").
 
 3. Klik in het bevestigingsbericht op **[!UICONTROL Enable]** .
 
@@ -38,9 +38,9 @@ U kunt pushmeldingen uitschakelen volgens de standaardprocedure van de browser.
 
    De standaardinstellingen voor meldingen variëren per browser en u kunt a) automatisch de optie geven om meldingen van [!UICONTROL Notification Center] of b) toe te staan die u nodig hebt om de meldingsinstellingen handmatig te beheren. In [!DNL Microsoft Edge] kunt u bijvoorbeeld meldingen vanuit [!UICONTROL Notification Center] op de werkbalk van de browser toestaan. Zie de instructies in de Help van de browser.
 
-   ![ waar te om berichtmontages in Microsoft Edge te beheren ](/help/search-social-commerce/assets/notifications-blocked-dialog.png " waar te om berichtmontages in Microsoft Edge te beheren ")
+   ![&#x200B; waar te om berichtmontages in Microsoft Edge te beheren &#x200B;](/help/search-social-commerce/assets/notifications-blocked-dialog.png " waar te om berichtmontages in Microsoft Edge te beheren ")
 
-5. In uw [ berichtmontages ](notification-edit.md), laat [!UICONTROL Web] berichten voor de waakzame types toe u wilt worden geduwd.
+5. In uw [&#x200B; berichtmontages &#x200B;](notification-edit.md), laat [!UICONTROL Web] berichten voor de waakzame types toe u wilt worden geduwd.
 
 ## Pushmeldingen uitschakelen
 
@@ -50,9 +50,9 @@ Zie de instructies in de Help van de browser.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
->* [ Mening uw berichten ](notification-view.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ Schrap een bericht ](notification-delete.md)
->* [ geef uw berichtmontages ](notification-edit.md) uit
->* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)
+>* [&#x200B; Ongeveer berichten &#x200B;](/help/search-social-commerce/notifications/notification-about.md)
+>* [&#x200B; Mening uw berichten &#x200B;](notification-view.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; Schrap een bericht &#x200B;](notification-delete.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](notification-edit.md) uit
+>* [&#x200B; installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing &#x200B;](notification-app-install-uninstall.md)

@@ -28,7 +28,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die a
 
 1. Wanneer het bestand beschikbaar is, klikt u op **[!UICONTROL Download]** in het bericht boven aan de browserpagina om een werkbladbestand (in XLSX-indeling) te downloaden volgens de normale procedure van uw browser.
 
-   ![ Klaar bericht van de Download ](/help/dsp/assets/download-ready.png " Download Klaar bericht ")
+   ![&#x200B; Klaar bericht van de Download &#x200B;](/help/dsp/assets/download-ready.png " Download Klaar bericht ")
 
 1. Open het gedownloade bestand, bewerk de vluchtinformatievelden voor elke advertentierij die u in de vlucht wilt opnemen en sla het bijgewerkte bestand op:
 
@@ -78,7 +78,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor de advertenties di
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van de Plaatsing ](placement-about.md)
->* [ geeft Plaatsen ](placement-edit.md) uit
->* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
->* [ Montages van de Plaatsing ](placement-settings.md)
+>* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
+>* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
+>* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)

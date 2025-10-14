@@ -18,7 +18,7 @@ U kunt meldingen ontvangen en beheren buiten uw browser door een [!UICONTROL Not
 
 Nadat u de [!UICONTROL Notification Center] -toepassing hebt geïnstalleerd, wordt deze automatisch ingeschakeld in het toepassingsbeheer van de browser en wordt deze geladen als een afzonderlijk venster waarvan de lay-out dynamisch wordt gerangschikt op basis van de venstergrootte. U kunt de toepassing openen en sluiten vanuit de toepassingsmanager van de browser of deze vastzetten op de taakbalk of het dock van het besturingssysteem. De toepassing wordt automatisch bijgewerkt.
 
-![ pictogram van het Centrum van het Bericht in Microsoft Windows taskbar ](/help/search-social-commerce/assets/windows-taskbar.png " pictogram van het Centrum van het Bericht in Microsoft Windows taskbar ")
+![&#x200B; pictogram van het Centrum van het Bericht in Microsoft Windows taskbar &#x200B;](/help/search-social-commerce/assets/windows-taskbar.png " pictogram van het Centrum van het Bericht in Microsoft Windows taskbar ")
 
 U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van de browser. Raadpleeg de Help van de browser voor meer informatie over het beheren van webtoepassingen.
 
@@ -26,7 +26,7 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
 
-1. In het bodemrecht, klik ![ installeer het Web-app van het Centrum van het Bericht van het Centrum ](/help/search-social-commerce/assets/notifications-install-app.png " installeer het Web app van het Centrum van het Bericht ").
+1. In het bodemrecht, klik ![&#x200B; installeer het Web-app van het Centrum van het Bericht van het Centrum &#x200B;](/help/search-social-commerce/assets/notifications-install-app.png " installeer het Web app van het Centrum van het Bericht ").
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Add]** .
 
@@ -38,7 +38,7 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
    1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** > **[!UICONTROL Insights & Reports]** > **[!UICONTROL Notification Center Beta]** .
 
-   1. In het bodemrecht, klik ![ installeer het Web-app van het Centrum van het Bericht van het Centrum ](/help/search-social-commerce/assets/notifications-install-app.png " installeer het Web app van het Centrum van het Bericht ").
+   1. In het bodemrecht, klik ![&#x200B; installeer het Web-app van het Centrum van het Bericht van het Centrum &#x200B;](/help/search-social-commerce/assets/notifications-install-app.png " installeer het Web app van het Centrum van het Bericht ").
 
    1. Klik in het bevestigingsbericht op **[!UICONTROL Add]** .
 
@@ -62,9 +62,9 @@ U kunt de toepassing uitschakelen of verwijderen via de toepassingsmanager van d
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
->* [ Mening uw berichten ](notification-view.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ Schrap een bericht ](notification-delete.md)
->* [ geef uw berichtmontages ](notification-edit.md) uit
->* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [&#x200B; Ongeveer berichten &#x200B;](/help/search-social-commerce/notifications/notification-about.md)
+>* [&#x200B; Mening uw berichten &#x200B;](notification-view.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; Schrap een bericht &#x200B;](notification-delete.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](notification-edit.md) uit
+>* [&#x200B; Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)

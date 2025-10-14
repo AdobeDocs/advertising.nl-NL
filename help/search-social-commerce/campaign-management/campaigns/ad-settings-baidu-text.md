@@ -44,5 +44,5 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)

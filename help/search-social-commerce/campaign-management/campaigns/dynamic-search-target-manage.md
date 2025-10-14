@@ -18,7 +18,7 @@ U kunt, de status van dynamische onderzoeksdoelstellingen voor campagnes tot sta
 
 >[!NOTE]
 >
->U kunt grote hoeveelheden doelgegevens tot stand brengen en uitgeven onmiddellijk door [ bulksheet dossiers ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) te uploaden en hen te posten aan het advertentienetwerk.
+>U kunt grote hoeveelheden doelgegevens tot stand brengen en uitgeven onmiddellijk door [&#x200B; bulksheet dossiers &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) te uploaden en hen te posten aan het advertentienetwerk.
 
 ## Een [!DNL Google Ads] dynamisch zoekdoel maken
 
@@ -32,15 +32,15 @@ U kunt alle criteria of maximaal drie afzonderlijke criteria als doel instellen.
 
 >[!TIP]
 >
->Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [ campagnebulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [&#x200B; campagnebulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Auto Targets]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik op **[!UICONTROL Continue]** .
 
-1. Specificeer de [ dynamische montages van het onderzoeksdoel ](#dynamic-search-target-settings).
+1. Specificeer de [&#x200B; dynamische montages van het onderzoeksdoel &#x200B;](#dynamic-search-target-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -50,17 +50,17 @@ U kunt de status of het maximumbod voor een [!DNL Google Ads] dynamisch zoekdoel
 
 >[!TIP]
 >
->Om grote hoeveelheden gegevens in één keer uit te geven, gebruik [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om grote hoeveelheden gegevens in één keer uit te geven, gebruik [&#x200B; campagnebulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]>[!UICONTROL Auto Targets]** .
 
 1. Schakel het selectievakje naast elke rij die u wilt bewerken in.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Specificeer de [ dynamische montages van het onderzoeksdoel ](#dynamic-search-target-settings).
+1. Specificeer de [&#x200B; dynamische montages van het onderzoeksdoel &#x200B;](#dynamic-search-target-settings).
 
    Voor meerdere doelen worden de wijzigingen toegepast op alle geselecteerde doelen. Voor [!UICONTROL Bid field] hebt u opties om bestaande waarden te wijzigen in een opgegeven waarde of om het bedrag met een bepaald percentage of een bepaald geldbedrag te verhogen of te verlagen, met een limiet.
 
@@ -88,9 +88,9 @@ U kunt ook elk dynamisch doel verwijderen.
 
       1. Schakel het selectievakje in naast elk dynamisch doel dat u wilt verwijderen.
 
-     Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+     Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
+      1. In de toolbar, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
 
       1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
@@ -130,4 +130,4 @@ U kunt ook elk dynamisch doel verwijderen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen ](dynamic-search-target-about.md)
+>* [&#x200B; Ongeveer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen &#x200B;](dynamic-search-target-about.md)

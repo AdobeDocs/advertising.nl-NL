@@ -36,7 +36,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
    1. Klik op **[!UICONTROL Create]**.
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het volgen URLs ](/help/creative/assets/edit-gray.png " uitgeven het volgen URLs ") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![&#x200B; het volgen URLs &#x200B;](/help/creative/assets/edit-gray.png " uitgeven het volgen URLs ") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
    Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
 
@@ -50,7 +50,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
       * Als u nog een aangepaste URL wilt toevoegen, klikt u op **[!UICONTROL +]** en voert u de URL in het invoerveld in.
 
-      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![ Schrapping ](/help/creative/assets/delete.png " ").
+      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![&#x200B; Schrapping &#x200B;](/help/creative/assets/delete.png " ").
 
       U kunt maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste URL voor de bestemmingspagina opnemen.
 
@@ -58,5 +58,5 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
 >[!MORELIKETHIS]
 >
->* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
->* [ pas het volgen URLs voor een ervaring met beslissingsboom aan richtend ](experience-tracking-urls-targeting.md)
+>* [&#x200B; wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten &#x200B;](experience-tag-assign-creatives.md)
+>* [&#x200B; pas het volgen URLs voor een ervaring met beslissingsboom aan richtend &#x200B;](experience-tracking-urls-targeting.md)

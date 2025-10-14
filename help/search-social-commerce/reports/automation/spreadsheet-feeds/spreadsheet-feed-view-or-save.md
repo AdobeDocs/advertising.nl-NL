@@ -22,10 +22,10 @@ U kunt gegenereerde spreadsheetfeed weergeven of opslaan in een bestand. De doss
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
->* [ creeer een spreadsheetrapportvoer ](spreadsheet-feed-create.md)
->* [ creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport ](spreadsheet-feed-create-excel-template.md)
->* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
->* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
->* [ vernieuw manueel spreadsheetrapportvoer ](spreadsheet-feed-refresh.md)
->* [ de feeds van het spreadsheetrapport van de Schrapping ](spreadsheet-feed-delete.md)
+>* [&#x200B; Ongeveer het voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-about.md)
+>* [&#x200B; creeer een spreadsheetrapportvoer &#x200B;](spreadsheet-feed-create.md)
+>* [&#x200B; creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-create-excel-template.md)
+>* [&#x200B; geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit &#x200B;](spreadsheet-feed-edit.md)
+>* [&#x200B; montages van de het rapportvoer van het Spreadsheet &#x200B;](spreadsheet-feed-settings.md)
+>* [&#x200B; vernieuw manueel spreadsheetrapportvoer &#x200B;](spreadsheet-feed-refresh.md)
+>* [&#x200B; de feeds van het spreadsheetrapport van de Schrapping &#x200B;](spreadsheet-feed-delete.md)

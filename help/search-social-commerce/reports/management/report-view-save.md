@@ -36,11 +36,11 @@ U kunt een rapport in Webbrowser bekijken, of de rapportgegevens openen of opsla
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
->* [ produceer een basis of geavanceerd rapport ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
->* [ produceer een rapport van de modelnauwkeurigheid ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-generate.md)
->* [ produceer een speciaal rapport ](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
->* [ produceer en bijstaat rapport ](/help/search-social-commerce/reports/management/assist/assist-report-generate.md)
->* [ produceer een rapport van een malplaatje ](/help/search-social-commerce/reports/management/report-generate-from-template.md)
->* [ produceer een rapport van een bestaand rapport ](/help/search-social-commerce/reports/management/report-generate-from-existing.md)
->* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](/help/search-social-commerce/reports/report-about.md)
+>* [&#x200B; produceer een basis of geavanceerd rapport &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
+>* [&#x200B; produceer een rapport van de modelnauwkeurigheid &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-generate.md)
+>* [&#x200B; produceer een speciaal rapport &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
+>* [&#x200B; produceer en bijstaat rapport &#x200B;](/help/search-social-commerce/reports/management/assist/assist-report-generate.md)
+>* [&#x200B; produceer een rapport van een malplaatje &#x200B;](/help/search-social-commerce/reports/management/report-generate-from-template.md)
+>* [&#x200B; produceer een rapport van een bestaand rapport &#x200B;](/help/search-social-commerce/reports/management/report-generate-from-existing.md)
+>* [&#x200B; de rapporten van de Schrapping &#x200B;](/help/search-social-commerce/reports/management/report-delete.md)

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Search, Social &amp; Commerce bevat een uitgebreide reeks prestatierapporten op basis van klik- en conversiegegevens. U kunt elementaire prestatiegegevens voor de verschillende componenten van een portfolio of advertentieaccount bekijken vanuit de weergaven [!UICONTROL Portfolios] en [!UICONTROL Campaigns] en door verschillende basis- en geavanceerd-rapporten te genereren.
 
-Adverteerders die de de conversie volgende dienst van de Adobe Advertising gebruiken kunnen ook het aantal klikken voor een geografische plaats of domeinnaam van een verwijzende website identificeren, hoe de advertenties in elk kanaal en de diverse gebeurtenissen die tot een omzetting leiden tot de algemene omzettingspercentage bijdragen, en de distributie van omzettingen voor één enkele [ omzettings metrische ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) door marketing kanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het team van de Rekening van de Adobe heeft toegang tot alle rapporten.
+Adverteerders die de de conversie volgende dienst van de Adobe Advertising gebruiken kunnen ook het aantal klikken voor een geografische plaats of domeinnaam van een verwijzende website identificeren, hoe de advertenties in elk kanaal en de diverse gebeurtenissen die tot een omzetting leiden tot de algemene omzettingspercentage bijdragen, en de distributie van omzettingen voor één enkele [&#x200B; omzettings metrische &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md) door marketing kanaal. De beschikbare rapporten variëren per type gebruikersaccount. Het team van de Rekening van de Adobe heeft toegang tot alle rapporten.
 
 De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u wilt zien. De volgende standaardmetriek is beschikbaar in de meeste rapporten en op het advertentieniveau berekend:
 
@@ -34,7 +34,7 @@ De meeste rapporten kunnen worden aangepast om slechts de informatie te tonen u 
 
 * {de metriek van de Omzetting 0}:**het totale aantal omzettingen voor elk van de omzettingsmetriek van adverteerders, of transactiegegevens die naar metrische omzettingen worden gevolgd.** Dit kan conversie- en plaatsingsmetriek omvatten, maar niet berekende metriek en geavanceerde berekende metriek, die van Adobe Analytics worden gesynchroniseerd.
 
-  Dit kan ook [[!DNL Google Ads] - bijgehouden omzettingen ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) en [[!DNL Google Analytics] - bijgehouden omzettingen ](/help/search-social-commerce/admin/data-sources/data-source-about.md) omvatten die voor de adverteerderrekening worden gesynchroniseerd.
+  Dit kan ook [[!DNL Google Ads] - bijgehouden omzettingen &#x200B;](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) en [[!DNL Google Analytics] - bijgehouden omzettingen &#x200B;](/help/search-social-commerce/admin/data-sources/data-source-about.md) omvatten die voor de adverteerderrekening worden gesynchroniseerd.
 
 * **de metriek van de Douane:** Uw eigen metriek, die u door formules leidt tot die op bestaande metriek (zoals kosten per orde) worden gebaseerd.
 
@@ -61,5 +61,5 @@ Afhankelijk van de attributieregel u voor het rapport specificeert, zijn de gege
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapporten ](report-about.md)
->* [ Aanvankelijke opstellingstaken voor rapporten ](initial-setup.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](report-about.md)
+>* [&#x200B; Aanvankelijke opstellingstaken voor rapporten &#x200B;](initial-setup.md)

@@ -20,15 +20,15 @@ U kunt gedeelde sitelinks op accountniveau maken en beheren voor elke gesynchron
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Sitelinks]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
-1. Ga de [ gedeelde sitelink montages ](#shared-sitelink-settings) in.
+1. Ga de [&#x200B; gedeelde sitelink montages &#x200B;](#shared-sitelink-settings) in.
 
 1. Klik op **[!UICONTROL Post]**.
 
-Zodra u een sitelink creeert, kunt u het [ toewijzen aan een rekening, een campagne, of een ad groep ](sitelink-extension-associate.md).
+Zodra u een sitelink creeert, kunt u het [&#x200B; toewijzen aan een rekening, een campagne, of een ad groep &#x200B;](sitelink-extension-associate.md).
 
 ## Instellingen voor gedeelde sitelink bewerken
 
@@ -38,9 +38,9 @@ U kunt één gedeelde sitelink tegelijk bewerken.
 
 1. Schakel het selectievakje naast de te bewerken sitelink in.
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [ gedeelde sitelink montages ](#shared-sitelink-settings).
+1. Bewerk de [&#x200B; gedeelde sitelink montages &#x200B;](#shared-sitelink-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -50,15 +50,15 @@ U kunt één gedeelde sitelink tegelijk bewerken.
 
 1. Schakel het selectievakje in naast elke gedeelde sitelink die u wilt verwijderen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. In de toolbar, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
+1. In de toolbar, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 ## Instellingen voor gedeelde sitelink {#shared-sitelink-settings}
 
-Voor extra beleid en redenen voor sitelink afkeuring, zie [[!DNL Google Ads] ](https://support.google.com/adspolicy/answer/1054210) en [[!DNL Microsoft Advertising] ](https://help.ads.microsoft.com/#apex/ads/en/ext60206) vereisten van de sitelink uitbreiding.
+Voor extra beleid en redenen voor sitelink afkeuring, zie [[!DNL Google Ads] &#x200B;](https://support.google.com/adspolicy/answer/1054210) en [[!DNL Microsoft Advertising] &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/ext60206) vereisten van de sitelink uitbreiding.
 
 ### [!UICONTROL Sitelink]
 
@@ -98,7 +98,7 @@ Nadat u de record hebt opgeslagen, bevat de basis-URL alle toevoegingsparameters
 
 * Voor het bijhouden van Adobe Advertising-conversies, die wordt toegepast wanneer de campagneinstellingen &quot;[!UICONTROL EF Redirect]&quot; en &quot;Automatisch uploaden&quot; bevatten, wordt bij Zoeken, Sociaal en Commerce automatisch een voorvoegsel gemaakt voor de eigen code voor het bijhouden van klikken wanneer u de record opslaat.
 
-* Voor gesteunde parameters om definitieve URL in te bedden, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+* Voor gesteunde parameters om definitieve URL in te bedden, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
 * U kunt optioneel URL-parameters en aangepaste parameters die voor de campagne zijn gedefinieerd, van elkaar scheiden door en-tekens (&amp;), zoals `{lpurl}?matchtype={matchtype}&device={device}` .
 
@@ -114,5 +114,5 @@ Nadat u de record hebt opgeslagen, bevat de basis-URL alle toevoegingsparameters
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer sitelink uitbreidingen ](sitelink-extension-about.md)
->* [ associeerde gedeelde sitelinks met rekeningen, campagnes, en ad groepen ](sitelink-extension-associate.md)
+>* [&#x200B; Ongeveer sitelink uitbreidingen &#x200B;](sitelink-extension-about.md)
+>* [&#x200B; associeerde gedeelde sitelinks met rekeningen, campagnes, en ad groepen &#x200B;](sitelink-extension-associate.md)

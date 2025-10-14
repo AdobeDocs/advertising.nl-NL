@@ -18,7 +18,7 @@ Yandex-trefwoorden worden gebruikt voor zoeknetwerken en weergavenetwerken (cont
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** de sleutelwoorduitdrukkingen, met inbegrip van om het even welke [ yandex typesyntaxis ](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor sleutelwoorden. Elk trefwoord mag maximaal zeven woorden bevatten, met uitzondering van stopwoorden.
+**[!UICONTROL Keywords]:** de sleutelwoorduitdrukkingen, met inbegrip van om het even welke [&#x200B; yandex typesyntaxis &#x200B;](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor sleutelwoorden. Elk trefwoord mag maximaal zeven woorden bevatten, met uitzondering van stopwoorden.
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in.
 
@@ -43,4 +43,4 @@ Speciale tekens worden automatisch gecodeerd in UTF-8. Als de gekoppelde adverte
 
 >[!MORELIKETHIS]
 >
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

@@ -14,9 +14,9 @@ ht-degree: 0%
 
 *[!DNL Google Ads], [!DNL Microsoft Advertising] , [!DNL Yahoo! Japan Ads] (alleen acties verwijderen) en [!DNL Yandex] alleen accounts*
 
-Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertentienetwerk te posten, kunt u voorproef de gegevens op één van de volgende manieren. U kunt later [ gegevens ](propagated-data-post.md) van één van beide plaats aan de relevante advertentienetwerken naar keuze posten.
+Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertentienetwerk te posten, kunt u voorproef de gegevens op één van de volgende manieren. U kunt later [&#x200B; gegevens &#x200B;](propagated-data-post.md) van één van beide plaats aan de relevante advertentienetwerken naar keuze posten.
 
-* Als u de optie aan &quot;[!UICONTROL Propagate and Preview] gebruikte,&quot;dan bekijk het geproduceerde bulksblad (genoemd &quot;`<feed file name>_<template name>`&quot;) van de [!UICONTROL Bulksheets] mening. Er worden geen gegevens opgenomen op de tabbladen [!UICONTROL Campaigns] , [!UICONTROL Ad Groups] , [!UICONTROL Keywords] en [!UICONTROL Ads] . Deze optie staat u toe om [ de het landen pagina&#39;s ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-validate-landing-pages.md) te bevestigen verbonden aan de advertenties en de sleutelwoorden alvorens u de gegevens post.
+* Als u de optie aan &quot;[!UICONTROL Propagate and Preview] gebruikte,&quot;dan bekijk het geproduceerde bulksblad (genoemd &quot;`<feed file name>_<template name>`&quot;) van de [!UICONTROL Bulksheets] mening. Er worden geen gegevens opgenomen op de tabbladen [!UICONTROL Campaigns] , [!UICONTROL Ad Groups] , [!UICONTROL Keywords] en [!UICONTROL Ads] . Deze optie staat u toe om [&#x200B; de het landen pagina&#39;s &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-validate-landing-pages.md) te bevestigen verbonden aan de advertenties en de sleutelwoorden alvorens u de gegevens post.
 
 * Als u de optie hebt gebruikt voor &quot;[!UICONTROL Propagate only]&quot;, bekijkt u de gegenereerde gegevens in een hiërarchische weergave van de tabbladen [!UICONTROL Campaigns] , [!UICONTROL Ad Groups] , [!UICONTROL Keywords] en [!UICONTROL Ads] .
 
@@ -39,7 +39,7 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
 
    1. (Optioneel) Voer een van de volgende twee handelingen uit om meer informatie weer te geven:
 
-      * Om de montages voor om het even welke campagne, en groep, sleutelwoord, of advertentie te bekijken, klik [ Mening/geef montagespictogram ](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de naam uit.
+      * Om de montages voor om het even welke campagne, en groep, sleutelwoord, of advertentie te bekijken, klik [&#x200B; Mening/geef montagespictogram &#x200B;](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de naam uit.
 
       * Ga als volgt te werk om de subcomponenten van een campagne of advertentiegroep weer te geven:
 
@@ -51,8 +51,8 @@ Wanneer u voedergegevens verspreidt zonder het tegelijkertijd aan het advertenti
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](inventory-feeds-about.md)
->* [ geeft gegevens uit die van voer ](propagated-data-edit.md) worden geproduceerd uit
->* [ Post campagnegegevens die van voer aan ad netwerken worden geproduceerd ](propagated-data-post.md)
->* [ Einde een het posten baan voor de gegevens van het inventarisvoer ](stop-job.md)
->* [ Statussen van gegevens die uit voer ](propagated-data-status.md) worden geproduceerd
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](inventory-feeds-about.md)
+>* [&#x200B; geeft gegevens uit die van voer &#x200B;](propagated-data-edit.md) worden geproduceerd uit
+>* [&#x200B; Post campagnegegevens die van voer aan ad netwerken worden geproduceerd &#x200B;](propagated-data-post.md)
+>* [&#x200B; Einde een het posten baan voor de gegevens van het inventarisvoer &#x200B;](stop-job.md)
+>* [&#x200B; Statussen van gegevens die uit voer &#x200B;](propagated-data-status.md) worden geproduceerd

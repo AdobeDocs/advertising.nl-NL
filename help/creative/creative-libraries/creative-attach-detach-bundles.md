@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <!-- Edit all, including the metadata and title, plus the links within TOC and bundle-manage.md, once this feature is available.  -->
 
-U kunt standaardvertoningscreatieven aan standaardvertoningsbundels, standaard videocreatieven aan standaardvideobundels, en dynamische vertoningscreatieven aan dynamische vertoningsbundels vastmaken zodat u hen aan [ en ervaringen ](/help/creative/experiences/experience-about.md) kunt toevoegen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte of duur + taal\] bevatten.
+U kunt standaardvertoningscreatieven aan standaardvertoningsbundels, standaard videocreatieven aan standaardvideobundels, en dynamische vertoningscreatieven aan dynamische vertoningsbundels vastmaken zodat u hen aan [&#x200B; en ervaringen &#x200B;](/help/creative/experiences/experience-about.md) kunt toevoegen. Elke bundel kan slechts één van elke combinatie \[creatieve grootte of duur + taal\] bevatten.
 
 <!--
 You can also detach a creative from a bundle to remove the association between the two, so that the creative is no longer used for experiences that target the bundle. Detaching a creative from the bundle doesn't delete the creative from the Creatives tab in your creative library.
@@ -22,7 +22,7 @@ You can also detach a creative from a bundle to remove the association between t
 
 >[!NOTE]
 >
->U kunt <!-- also --> [ maak creatieve elementen aan bundels vast en los creatieve elementen van bundels van de mening van Bundels ](/help/creative/creative-libraries/bundle-manage.md) los.
+>U kunt <!-- also --> [&#x200B; maak creatieve elementen aan bundels vast en los creatieve elementen van bundels van de mening van Bundels &#x200B;](/help/creative/creative-libraries/bundle-manage.md) los.
 
 <!-- Hide header until second procedure is available (if we add that):
 
@@ -32,7 +32,7 @@ You can also detach a creative from a bundle to remove the association between t
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -44,7 +44,7 @@ You can also detach a creative from a bundle to remove the association between t
 
    Elke bundel die in aanmerking komt voor het creatieve type, wordt in het juiste frame weergegeven. Bundels waaraan de creatieve inhoud al is gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0&rbrace; te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![&#x200B; de mening van de Kaart van 0&rbrace; te klikken &#x200B;](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Schakel in het rechterframe het selectievakje in naast elke bundel waaraan u de creatieve inhoud wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -98,5 +98,5 @@ You can also detach a creative from a bundle to remove the association between t
 
 >[!MORELIKETHIS]
 >
->* [ beheer creatieve bundels ](/help/creative/creative-libraries/bundle-manage.md)
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
+>* [&#x200B; beheer creatieve bundels &#x200B;](/help/creative/creative-libraries/bundle-manage.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe

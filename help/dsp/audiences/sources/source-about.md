@@ -30,7 +30,7 @@ Using your first-party data, you can create segments with IDs from the following
 
 U kunt uw eerste-partijsegmenten aan segmenten met voor authentiek verklaarde (deterministische) IDs van de volgende universele partners van identiteitskaart vertalen.
 
-* [[!DNL LiveRamp] [!DNL RampIDs] ](https://liveramp.com/identity-resolution):
+* [[!DNL LiveRamp] [!DNL RampIDs] &#x200B;](https://liveramp.com/identity-resolution):
 
    * Voor het opnieuw richten van het programma geopende gebruikers.
 
@@ -40,11 +40,11 @@ U kunt uw eerste-partijsegmenten aan segmenten met voor authentiek verklaarde (d
 
    * Voor meting met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).
 
-* [[!DNL Unified ID 2.0 (UID2.0)]  IDs ](https://unifiedid.com):
+* [[!DNL Unified ID 2.0 (UID2.0)]  IDs &#x200B;](https://unifiedid.com):
 
    * Voor het opnieuw richten van het programma geopende gebruikers.
 
-     [!DNL UID2 IDs] zijn niet beschikbaar voor gebruikers in de Europese Economische Ruimte en enkele andere landen. Zie de [ lijst van verboden landen ](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
+     [!DNL UID2 IDs] zijn niet beschikbaar voor gebruikers in de Europese Economische Ruimte en enkele andere landen. Zie de [&#x200B; lijst van verboden landen &#x200B;](/help/policies/universal-id-policy.md#prohibited-countries-uid2).
 
      De kosten zijn USD 0,15 per beeldscherm en bij het afspelen van de indruk en USD 0,25 per video en afdruk.
 
@@ -72,11 +72,11 @@ DSP kan ook verbinding maken met aanvullende CDP&#39;s via batch-, streaming- of
 
 ### [!DNL Adobe Real-Time CDP]
 
-DSP is een geïntegreerde *bestemming* voor [  [!DNL Adobe Real-Time CDP] ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl-NL), die deel van Adobe Experience Platform uitmaakt.
+DSP is een geïntegreerde *bestemming* voor [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl-NL), die deel van Adobe Experience Platform uitmaakt.
 
-In [!DNL Real-Time CDP] zijn doelen verbindingen met externe gegevensplatforms die een naadloze activering van gegevens mogelijk maken. U kunt bestemmingen gebruiken om uw gehakte e-mailadressen voor gerichte reclame in DSP te activeren. Voor meer informatie over bestemmingen, zie de Gids van de Doelen van het Experience Platform [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl-NL), met inbegrip van een overzicht van het product, instructies voor [ het creëren van bestemmingswerkruimten ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=nl-NL) en [ het creëren van bestemmingsverbindingen ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=nl-NL), en [ het activeren van gegevens aan bestemmingen ](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html?lang=nl-NL).
+In [!DNL Real-Time CDP] zijn doelen verbindingen met externe gegevensplatforms die een naadloze activering van gegevens mogelijk maken. U kunt bestemmingen gebruiken om uw gehakte e-mailadressen voor gerichte reclame in DSP te activeren. Voor meer informatie over bestemmingen, zie de Gids van de Doelen van het Experience Platform [&#128279;](https://experienceleague.adobe.com/docs/experience-platform/destinations/home.html?lang=nl-NL), met inbegrip van een overzicht van het product, instructies voor [&#x200B; het creëren van bestemmingswerkruimten &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/destinations-workspace.html?lang=nl-NL) en [&#x200B; het creëren van bestemmingsverbindingen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/connect-destination.html?lang=nl-NL), en [&#x200B; het activeren van gegevens aan bestemmingen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/ui/activate/activate-segment-streaming-destinations.html?lang=nl-NL).
 
-Om DSP toe te laten om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten in te voeren en uw gehakte e-mailadressen in universele IDs om te zetten, zie &quot;[ Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  omzetten in Universal IDs ](/help/dsp/audiences/sources/source-adobe-rtcdp.md).&quot;
+Om DSP toe te laten om uw [!DNL Adobe] [!DNL Real-time CDP] eerste-partijsegmenten in te voeren en uw gehakte e-mailadressen in universele IDs om te zetten, zie &quot;[&#x200B; Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  omzetten in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-adobe-rtcdp.md).&quot;
 
 ### [!DNL ActionIQ]
 
@@ -84,23 +84,23 @@ U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL ActionI
 
 ### [!DNL Amperity]
 
-U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Amperity] klantengegevensplatform met DSP delen om uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP om te zetten. Voor meer informatie, zie &quot;[ Verandert Gebruiker IDs van  [!DNL Amperity]  in Universal IDs ](/help/dsp/audiences/sources/source-amperity.md).&quot;
+U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Amperity] klantengegevensplatform met DSP delen om uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP om te zetten. Voor meer informatie, zie &quot;[&#x200B; Verandert Gebruiker IDs van  [!DNL Amperity]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-amperity.md).&quot;
 
 ### [!DNL Optimizely]
 
-U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Optimizely] klantengegevensplatform met DSP delen om uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP om te zetten. Voor meer informatie, zie &quot;[ Verandert Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs ](/help/dsp/audiences/sources/source-optimizely.md).&quot;
+U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Optimizely] klantengegevensplatform met DSP delen om uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP om te zetten. Voor meer informatie, zie &quot;[&#x200B; Verandert Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-optimizely.md).&quot;
 
 ### [!DNL Tealium]
 
-U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Tealium] klantengegevensplatform delen gebruikend [!DNL Amazon Web Services]. Voor meer informatie over het omzetten van uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP, zie &quot;[ Verandert Gebruiker IDs van  [!DNL Tealium]  in Universele IDs ](/help/dsp/audiences/sources/source-tealium.md).&quot;
+U kunt de gegevens van de eerste partij van uw organisatie van het [!DNL Tealium] klantengegevensplatform delen gebruikend [!DNL Amazon Web Services]. Voor meer informatie over het omzetten van uw gehakte e-mailadressen in universele IDs voor gerichte reclame in DSP, zie &quot;[&#x200B; Verandert Gebruiker IDs van  [!DNL Tealium]  in Universele IDs &#x200B;](/help/dsp/audiences/sources/source-tealium.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart ](source-manage.md) te activeren
->* [ Steun voor het Activeren van Universal IDs ](/help/dsp/audiences/universal-ids.md)
->* [ zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universal IDs ](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
->* [ zet Gebruiker IDs van  [!DNL Amperity]  in Universal IDs ](/help/dsp/audiences/sources/source-amperity.md) om
->* [ zet Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs ](/help/dsp/audiences/sources/source-optimizely.md) om
->* [ zet Gebruiker IDs van  [!DNL Tealium]  in Universal IDs ](/help/dsp/audiences/sources/source-tealium.md) om
->* [ Ongeveer het Beheer van het Publiek ](/help/dsp/audiences/audience-about.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart &#x200B;](source-manage.md) te activeren
+>* [&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Amperity]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-amperity.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-optimizely.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Tealium]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-tealium.md) om
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](/help/dsp/audiences/audience-about.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

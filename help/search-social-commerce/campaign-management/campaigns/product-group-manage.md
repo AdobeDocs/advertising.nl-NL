@@ -22,15 +22,15 @@ Alvorens u productgroepen met specifieke attributen kunt tot stand brengen, moet
 
 >[!TIP]
 >
->Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [ campagnebulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [&#x200B; campagnebulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk, de account, de campagne en de advertentiegroep en klik op **[!UICONTROL Continue]** .
 
-1. Specificeer de [[!DNL Google Ads]  montages van de productgroep ](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep ](product-group-settings-microsoft.md).
+1. Specificeer de [[!DNL Google Ads]  montages van de productgroep &#x200B;](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep &#x200B;](product-group-settings-microsoft.md).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -44,7 +44,7 @@ Zodra u minstens een alle-inclusieve &quot;[!UICONTROL All Products]&quot;groep 
 
 >[!TIP]
 >
->Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [ campagnebulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele rekeningscomponenten in één keer tot stand te brengen, gebruik [&#x200B; campagnebulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]>[!UICONTROL Product Groups]** .
 
@@ -52,7 +52,7 @@ Zodra u minstens een alle-inclusieve &quot;[!UICONTROL All Products]&quot;groep 
 
 1. Houd de curseur over de naam van de productgroep, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " Van het Dropdown Menu van de Pijl van de Pijl "), en selecteer dan **[!UICONTROL + Add Node]**.
 
-1. Specificeer de [[!DNL Google Ads]  montages van de productgroep ](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep ](product-group-settings-microsoft.md), met inbegrip van de productdimensie en de attributen.
+1. Specificeer de [[!DNL Google Ads]  montages van de productgroep &#x200B;](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep &#x200B;](product-group-settings-microsoft.md), met inbegrip van de productdimensie en de attributen.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -72,11 +72,11 @@ U kunt de bied- en trackingsjabloon voor knooppunten van de groep eenheidsproduc
 
       1. Schakel het selectievakje naast elk knooppunt in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+      1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [[!DNL Google Ads]  montages van de productgroep ](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep ](product-group-settings-microsoft.md).
+1. Bewerk de [[!DNL Google Ads]  montages van de productgroep &#x200B;](product-group-settings-google.md) of [[!DNL Microsoft Advertising]  montages van de productgroep &#x200B;](product-group-settings-microsoft.md).
 
    Bij meerdere knooppunten worden de wijzigingen toegepast op alle geselecteerde knooppunten. Voor het veld [!UICONTROL Bid] kunt u bestaande waarden wijzigen in een opgegeven waarde of het bedrag met een bepaald percentage of een bepaald geldbedrag verhogen of verlagen, met een limiet. Voor het veld [!UICONTROL Tracking Template] kunt u bestaande waarden wijzigen in een opgegeven waarde, een bestaande tekenreeks vervangen door een opgegeven tekenreeks, een opgegeven voorvoegsel toevoegen aan het begin van elke waarde of een achtervoegsel toevoegen aan het einde van elke waarde.
 
@@ -100,14 +100,14 @@ U kunt elke productgroep verwijderen, met uitzondering van de groep &quot;Alles 
 
       1. Schakel het selectievakje in naast elke productgroep die u wilt verwijderen.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
+      1. In de toolbar, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
 
       1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het winkelen productgroepen ](product-group-about.md)
->* [[!DNL Google Ads]  de montages van de productgroep ](product-group-settings-google.md)
->* [[!DNL Microsoft Advertising]  de montages van de productgroep ](product-group-settings-microsoft.md)
+>* [&#x200B; Ongeveer het winkelen productgroepen &#x200B;](product-group-about.md)
+>* [[!DNL Google Ads]  de montages van de productgroep &#x200B;](product-group-settings-google.md)
+>* [[!DNL Microsoft Advertising]  de montages van de productgroep &#x200B;](product-group-settings-microsoft.md)

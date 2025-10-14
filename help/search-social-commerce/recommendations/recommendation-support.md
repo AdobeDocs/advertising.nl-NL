@@ -26,7 +26,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 * Bekijk in één oogopslag alle ondersteunde aanbevelingen waarvoor geen actie is ondernomen voor een account. De informatie voor elke ingang omvat het aanbevelingstype, de [!DNL Adobe] aanbeveling, de beïnvloede metriek, de beïnvloede entiteit, en een verbinding aan meer details. Voorspelde toenamen tot metriek worden groen gemarkeerd.
 
-  ![ Aanbevelingen UI ](/help/search-social-commerce/assets/recommendations-ui.png " Aanbevelingen UI ")
+  ![&#x200B; Aanbevelingen UI &#x200B;](/help/search-social-commerce/assets/recommendations-ui.png " Aanbevelingen UI ")
 
   De gegevens zijn beschikbaar in real time wanneer u de mening opent. Om de gegevens te verfrissen, verfrissen de klik ![&#128279;](/help/search-social-commerce/assets/refresh.png " ") zich op de bodem links van de pagina vernieuwen.
 
@@ -92,7 +92,7 @@ Binnen [!UICONTROL Insights & Reports] > [!UICONTROL Recommendations & Publisher
 
 >[!MORELIKETHIS]
 >
->* [ Mening uw uitgeversaanbevelingen en prestatiesinzichten ](recommendation-view.md)
->* [ pas of verwerp een uitgeversaanbeveling toe ](recommendation-apply-dismiss.md)
->* [ Mening het logboek van de uitgeversaanbevelingen voor een rekening ](recommendation-view-log.md)
->* [ Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles ](recommendation-best-practices.md)
+>* [&#x200B; Mening uw uitgeversaanbevelingen en prestatiesinzichten &#x200B;](recommendation-view.md)
+>* [&#x200B; pas of verwerp een uitgeversaanbeveling toe &#x200B;](recommendation-apply-dismiss.md)
+>* [&#x200B; Mening het logboek van de uitgeversaanbevelingen voor een rekening &#x200B;](recommendation-view-log.md)
+>* [&#x200B; Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles &#x200B;](recommendation-best-practices.md)

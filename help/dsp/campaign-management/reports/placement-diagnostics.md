@@ -36,7 +36,7 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
       1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-   1. In het hogere recht, klik ![ Diagnostiek van de Plaatsing ](/help/dsp/assets/placement-diagnostics.png).
+   1. In het hogere recht, klik ![&#x200B; Diagnostiek van de Plaatsing &#x200B;](/help/dsp/assets/placement-diagnostics.png).
 
 1. Voer een van de volgende handelingen uit:
 
@@ -56,7 +56,7 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
       1. Klik in de rechterbovenhoek op **[!UICONTROL Ad Approvals]** .
 
-      1. (Facultatief) om de advertentie te pauzeren of te activeren, klik de statusschakelaar (![ schakelaar van de Status ](/help/dsp/assets/status-switch.png)) in de Advertentiekolom).
+      1. (Facultatief) om de advertentie te pauzeren of te activeren, klik de statusschakelaar (![&#x200B; schakelaar van de Status &#x200B;](/help/dsp/assets/status-switch.png)) in de Advertentiekolom).
 
       1. (Optioneel) Als u de instellingen voor een advertentie wilt openen, klikt u op **[!UICONTROL View Ad]** naast de advertentie.
 
@@ -72,6 +72,6 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
 >[!MORELIKETHIS]
 >
->* [ Types van Rapporten van Prestaties in de Meningen van Campaign Management ](campaign-reports-about.md)
->* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van Campaign Management &#x200B;](campaign-reports-about.md)
+>* [&#x200B; Mening het Voorspelde Rapport van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

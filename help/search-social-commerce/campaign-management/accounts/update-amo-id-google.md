@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-De erfenis (voorafgaand aan Oktober 2019) formaat voor [ het volgen van identiteitskaart van AMO code ](/help/integrations/analytics/ids.md#amo-id-formats) voor bestaande [!DNL Google Ads] rekeningen steunt geen sommige eigenschappen in Analytics, zoals het melden bij de campagne en de groepsniveaus voor [!DNL Google Ads] prestaties maximumcampagnes, concepten en experimentatiecampagnes, en andere gebruiksgevallen waarin de zelfde combinatie ad+keyword+match in veelvoudige campagnes bestaat.
+De erfenis (voorafgaand aan Oktober 2019) formaat voor [&#x200B; het volgen van identiteitskaart van AMO code &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats) voor bestaande [!DNL Google Ads] rekeningen steunt geen sommige eigenschappen in Analytics, zoals het melden bij de campagne en de groepsniveaus voor [!DNL Google Ads] prestaties maximumcampagnes, concepten en experimentatiecampagnes, en andere gebruiksgevallen waarin de zelfde combinatie ad+keyword+match in veelvoudige campagnes bestaat.
 
 De huidige indeling bevat parameters voor campagne-id en groep-id:
 
@@ -36,7 +36,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
 
-1. Houd de curseur over de rekeningsnaam, klik ![ pijl dropdown pictogram ](/help/search-social-commerce/assets/arrow-dropdown-menu.png), en selecteer dan **[!UICONTROL Edit]**.
+1. Houd de curseur over de rekeningsnaam, klik ![&#x200B; pijl dropdown pictogram &#x200B;](/help/search-social-commerce/assets/arrow-dropdown-menu.png), en selecteer dan **[!UICONTROL Edit]**.
 
 1. Klik op **[!UICONTROL Set Account Tracking]**.
 
@@ -60,7 +60,7 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 
    * Wanneer de functie [!UICONTROL Auto Upload] is ingeschakeld in de instellingen voor bijhouden, werkt Search, Social &amp; Commerce automatisch de code voor bijhouden bij in het achtervoegsel Landing Page voor dit account en de campagnes. Je hoeft niets te doen.
 
-   * Wanneer de [!UICONTROL Auto Upload]&quot;eigenschap niet wordt toegelaten, en u gebruikt niet de [ server-kant AMO eigenschap van identiteitskaart ](/help/integrations/analytics/ids.md#amo-id-formats), dan moet u de AMO parameter van identiteitskaart in de het Bestaan montages van het Achtervoegsel van de Pagina manueel bijwerken. U kunt rekening en campagne-vlakke achtervoegsels manueel in de [ rekeningsmontages ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) veranderen en [ campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) of door [ uploadend veranderingen in een bulksheet ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md). Als u een achtervoegsel wilt configureren op ad-groepsniveau of lager, gebruikt u de [!DNL Google Ads] -editor.
+   * Wanneer de [!UICONTROL Auto Upload]&quot;eigenschap niet wordt toegelaten, en u gebruikt niet de [&#x200B; server-kant AMO eigenschap van identiteitskaart &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats), dan moet u de AMO parameter van identiteitskaart in de het Bestaan montages van het Achtervoegsel van de Pagina manueel bijwerken. U kunt rekening en campagne-vlakke achtervoegsels manueel in de [&#x200B; rekeningsmontages &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) veranderen en [&#x200B; campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md) of door [&#x200B; uploadend veranderingen in een bulksheet &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md). Als u een achtervoegsel wilt configureren op ad-groepsniveau of lager, gebruikt u de [!DNL Google Ads] -editor.
 
    * Als u de AMO-id opneemt in de Basis-URL-instelling voor een campagnecomponent, verplaatst u deze naar de desbetreffende instelling voor het achtervoegsel van de bestemmingspagina.
 
@@ -68,6 +68,6 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 
 >[!MORELIKETHIS]
 >
->* [ beheer en netwerkrekeningen ](ad-network-account-manage.md)
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [ Overzicht van  [!DNL Analytics for Advertising] ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL){target="_blank"}
+>* [&#x200B; beheer en netwerkrekeningen &#x200B;](ad-network-account-manage.md)
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL){target="_blank"}

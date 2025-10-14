@@ -23,7 +23,7 @@ Wanneer uw advertenties zijn ingesteld, koppelt u elke advertentie aan een of me
 
 ## Beschikbare advertentietypen {#ad-types}
 
-Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [ Specificaties van de Advertentie ](ad-specs.md).
+Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [&#x200B; Specificaties van de Advertentie &#x200B;](ad-specs.md).
 
 * **AudioAdds (derde slechts)**: De audio advertenties spelen tussen inhoud op digitale uitgeversplaatsen en kunnen standalone als audiodossiers of samen met metgezelbanners worden in werking gesteld. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion] .
 
@@ -41,7 +41,7 @@ Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specifica
 
   Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-  Zie &quot;[ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
+  Zie &quot;[&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
 
 ## Goedkeuringen DSP
 
@@ -51,7 +51,7 @@ In eerste instantie wordt in de kolom [!UICONTROL Status] van de advertentie een
 
 Als DSP een advertentie goedkeurt, wordt in de kolom Status van de advertentie een groene stip weergegeven.
 
-![ goedkeuringsindicator in [!UICONTROL Status] kolom ](/help/dsp/assets/ad-approval-status.png)
+![&#x200B; goedkeuringsindicator in [!UICONTROL Status] kolom &#x200B;](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
@@ -59,6 +59,6 @@ Als DSP een advertentie goedkeurt, wordt in de kolom Status van de advertentie e
 
 >[!MORELIKETHIS]
 >
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ Advertentiespecificaties ](ad-specs.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)

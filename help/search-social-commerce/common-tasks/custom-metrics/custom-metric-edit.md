@@ -24,15 +24,15 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
 1. Voer boven de gegevenstabel een van de volgende handelingen uit:
 
-   * Klik de naam van de momenteel-toegepaste mening (![ Mening ](/help/search-social-commerce/assets/view.png " Mening ")). Houd de cursor boven de naam van een bewerkbare weergave en klik op ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") om de weergave-instellingen te openen.
+   * Klik de naam van de momenteel-toegepaste mening (![&#x200B; Mening &#x200B;](/help/search-social-commerce/assets/view.png " Mening ")). Houd de cursor boven de naam van een bewerkbare weergave en klik op ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") om de weergave-instellingen te openen.
 
      De wijzigingen worden in al uw weergaven zichtbaar.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![&#x200B; de Kolommen van de Douane van 0&rbrace; Douane &#x200B;](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
+1. Houd de curseur over de kolomnaam, en klik ![&#x200B; uitgeven &#x200B;](/help/search-social-commerce/assets/edit-new.png " ") naast de kolomnaam.
 
-1. Specificeer de [ douane metrische montages ](custom-metric-settings.md).
+1. Specificeer de [&#x200B; douane metrische montages &#x200B;](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -42,11 +42,11 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![&#x200B; de Kolommen van de Douane van 0&rbrace; Douane &#x200B;](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Houd de curseur over de kolomnaam, en klik ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
+1. Houd de curseur over de kolomnaam, en klik ![&#x200B; uitgeven &#x200B;](/help/search-social-commerce/assets/edit.png " ") naast de kolomnaam.
 
-1. Specificeer de [ douane metrische montages ](custom-metric-settings.md).
+1. Specificeer de [&#x200B; douane metrische montages &#x200B;](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -56,25 +56,25 @@ Als u douane metrisch uitgeeft die als kolom in één van uw standaardmeningen o
 
 1. Klik op de kolomnaam in de linkerkolom of in de rechterkolom en klik vervolgens op **[!UICONTROL Edit]** in de rechtersectie.
 
-1. Bewerk de [ douane metrische montages ](custom-metric-settings.md).
+1. Bewerk de [&#x200B; douane metrische montages &#x200B;](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Submit]**.
 
 ## (Verouderde gebruikersinterface) Een aangepaste metrische waarde bewerken vanuit de weergaven [!UICONTROL Portfolios]
 
-1. Boven de gegevenslijst, geeft de klik ![ Geselecteerde Mening ](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
+1. Boven de gegevenslijst, geeft de klik ![&#x200B; Geselecteerde Mening &#x200B;](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
 
 1. Klik op de tab **[!UICONTROL Columns]** .
 
 1. Klik op de kolomnaam in de lijst [!UICONTROL Available Metrics] of [!UICONTROL Table Columns] en klik vervolgens op **[!UICONTROL Edit]** in de rechtersectie.
 
-1. Bewerk de [ douane metrische montages ](custom-metric-settings.md).
+1. Bewerk de [&#x200B; douane metrische montages &#x200B;](custom-metric-settings.md).
 
 1. Klik op **[!UICONTROL Submit]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanemetriek ](custom-metric-about.md)
->* [ creeer metrische douane ](custom-metric-create.md)
->* [ Schrap metrische douane ](custom-metric-delete.md)
->* [ metrische montages van de Douane ](custom-metric-settings.md)
+>* [&#x200B; Ongeveer douanemetriek &#x200B;](custom-metric-about.md)
+>* [&#x200B; creeer metrische douane &#x200B;](custom-metric-create.md)
+>* [&#x200B; Schrap metrische douane &#x200B;](custom-metric-delete.md)
+>* [&#x200B; metrische montages van de Douane &#x200B;](custom-metric-settings.md)

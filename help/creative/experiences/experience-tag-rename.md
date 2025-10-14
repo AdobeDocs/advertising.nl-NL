@@ -20,7 +20,7 @@ ht-degree: 0%
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke ad markering en klik of ![ uitgeeft markering ](/help/creative/assets/edit-gray.png " uitgeeft markering ") **[!UICONTROL Edit Tag]** of **[!UICONTROL ... More]** > ![Tag bewerken](/help/creative/assets/edit-gray.png "Tag bewerken") **[!UICONTROL Edit Tag]**. <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
+1. Houd de curseur over de rij voor de toepasselijke ad markering en klik of ![&#x200B; uitgeeft markering &#x200B;](/help/creative/assets/edit-gray.png " uitgeeft markering ") **[!UICONTROL Edit Tag]** of **[!UICONTROL ... More]** > ![Tag bewerken](/help/creative/assets/edit-gray.png "Tag bewerken") **[!UICONTROL Edit Tag]**. <!-- Tag Manager has only a list view, but no card view, as of 2/2. -->
 
 1. Voer een uniek **[!UICONTROL Tag Name]** in.
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ (Ervaringen zonder doelframes) Maak handmatig een advertentietag voor een creatieve grootte. ](experience-tag-create-manually.md)
->* [ pas transcoderingsopties voor een video en ervaringstag aan ](experience-tag-video-transcoding.md)
->* [ de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit ](experience-tag-export.md)
+>* [&#x200B; (Ervaringen zonder doelframes) Maak handmatig een advertentietag voor een creatieve grootte. &#x200B;](experience-tag-create-manually.md)
+>* [&#x200B; pas transcoderingsopties voor een video en ervaringstag aan &#x200B;](experience-tag-video-transcoding.md)
+>* [&#x200B; de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit &#x200B;](experience-tag-export.md)

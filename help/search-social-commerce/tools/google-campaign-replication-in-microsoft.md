@@ -26,21 +26,21 @@ U kunt de volgende typen campagnes en de bijbehorende campagnestructuur replicer
 
 U kunt ervoor kiezen de campagnes eenmaal bij te werken, dagelijks wekelijks of maandelijks, of volgens het door [!DNL Microsoft Advertising] aanbevolen schema. U kunt meldingen desgewenst configureren telkens wanneer een importtaak wordt uitgevoerd of wanneer er fouten of wijzigingen optreden. Nadat u uw campagnes hebt geïmporteerd in [!DNL Microsoft Advertising] , kunt u de status van uw importtaak controleren, eventuele foutmeldingen controleren, handmatig een importtaak uitvoeren en uw importschema bewerken, pauzeren, inschakelen of verwijderen.
 
-Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toevoegen aan uw [!DNL Microsoft Advertising] -campagnes. Voor meer informatie over welke gegevens worden ingevoerd, zie [!DNL Microsoft Advertising] hulp op &quot;[ wat wordt ingevoerd van  [!DNL Google Ads] ](https://help.ads.microsoft.com/#apex/ads/en/50851).&quot; Omdat het Onderzoek, Sociaal, &amp; het volgen van Commerce niet wordt ingevoerd, zou u het volgen binnen de [ rekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [ campagne ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ en groep ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [ en ](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) montages ook moeten toevoegen.
+Niet alle campagnegegevens worden gerepliceerd en u moet mogelijk informatie toevoegen aan uw [!DNL Microsoft Advertising] -campagnes. Voor meer informatie over welke gegevens worden ingevoerd, zie [!DNL Microsoft Advertising] hulp op &quot;[&#x200B; wat wordt ingevoerd van  [!DNL Google Ads] &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/50851).&quot; Omdat het Onderzoek, Sociaal, &amp; het volgen van Commerce niet wordt ingevoerd, zou u het volgen binnen de [&#x200B; rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md), [&#x200B; campagne &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [&#x200B; en groep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [&#x200B; en &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) montages ook moeten toevoegen.
 
 ## [!DNL Google Ads] campagnes herhalen
 
 >[!NOTE]
 >
->Als u het winkelen op diervoeder-gebaseerde vertoningscampagnes wilt herhalen, eerst [ repliceer uw  [!DNL Google Merchant Center]  productaanbiedingen in  [!DNL Microsoft Merchant Center] ](https://help.ads.microsoft.com/apex/index/3/en/56870). Wanneer u de campagnes dupliceert, selecteert u de [!DNL Microsoft Merchant Center] -winkel in de importopties om de winkel te koppelen aan uw doelcampagnes op basis van de feed.
+>Als u het winkelen op diervoeder-gebaseerde vertoningscampagnes wilt herhalen, eerst [&#x200B; repliceer uw  [!DNL Google Merchant Center]  productaanbiedingen in  [!DNL Microsoft Merchant Center] &#x200B;](https://help.ads.microsoft.com/apex/index/3/en/56870). Wanneer u de campagnes dupliceert, selecteert u de [!DNL Microsoft Merchant Center] -winkel in de importopties om de winkel te koppelen aan uw doelcampagnes op basis van de feed.
 
-Zie [ wat van  [!DNL Google Ads]  campagnes ](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500) wordt ingevoerd.
+Zie [&#x200B; wat van  [!DNL Google Ads]  campagnes &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500) wordt ingevoerd.
 
 1. Klik in het hoofdmenu Zoeken, Sociaal en Commerce op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]** .
 
 1. Klik op **[!UICONTROL +Import]**.
 
-1. Specificeer de [ invoermontages ](#campaign-import-settings):
+1. Specificeer de [&#x200B; invoermontages &#x200B;](#campaign-import-settings):
 
    1. In de sectie **[!UICONTROL Select accounts]** :
 
@@ -58,17 +58,17 @@ Zie [ wat van  [!DNL Google Ads]  campagnes ](https://help.ads.microsoft.com/#ap
 
 1. Klik op **[!UICONTROL Post]**.
 
-1. (Facultatief) voeg Onderzoek, Sociale, &amp; het volgen van Commerce binnen de [ rekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) toe, [ campagne ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [ en groep ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [ en ](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) montages.
+1. (Facultatief) voeg Onderzoek, Sociale, &amp; het volgen van Commerce binnen de [&#x200B; rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md) toe, [&#x200B; campagne &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md), [&#x200B; en groep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md), of [&#x200B; en &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-manage.md) montages.
 
 ## Planningsinstellingen voor een importtaak voor een campagne bewerken
 
-Zie [ wat van  [!DNL Google Ads]  campagnes ](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500) wordt ingevoerd.
+Zie [&#x200B; wat van  [!DNL Google Ads]  campagnes &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/50851/0-500) wordt ingevoerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Tools] >[!UICONTROL Import Campaigns]** .
 
-1. Selecteer de controledoos naast de de invoerbaan, en klik dan ![ uitgeven ](/help/search-social-commerce/assets/edit.png " ").
+1. Selecteer de controledoos naast de de invoerbaan, en klik dan ![&#x200B; uitgeven &#x200B;](/help/search-social-commerce/assets/edit.png " ").
 
-1. In de **[!UICONTROL Set schedule]** sectie, specificeer de [ planningsmontages ](#campaign-import-settings).
+1. In de **[!UICONTROL Set schedule]** sectie, specificeer de [&#x200B; planningsmontages &#x200B;](#campaign-import-settings).
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -82,7 +82,7 @@ U kunt alle importtaken weergeven, inclusief de bronaccount [!DNL Google Ads] , 
 
      Standaard wordt de weergave geopend op de tab [!UICONTROL List of Import Jobs] .
 
-   * Klik op de tab [[!UICONTROL Import Logs] ](#campaign-import-log) op de tab **[!UICONTROL List of Import Jobs]** .
+   * Klik op de tab [[!UICONTROL Import Logs] &#x200B;](#campaign-import-log) op de tab **[!UICONTROL List of Import Jobs]** .
 
 ## Een importtaak voor de campagne uitvoeren
 
@@ -90,7 +90,7 @@ U kunt alle importtaken weergeven, inclusief de bronaccount [!DNL Google Ads] , 
 
 1. Schakel het selectievakje naast de importtaak in.
 
-1. Klik ![ Looppas nu ](/help/search-social-commerce/assets/run.png " ").
+1. Klik ![&#x200B; Looppas nu &#x200B;](/help/search-social-commerce/assets/run.png " ").
 
 ## Logboeken weergeven voor importtaken voor uw campagne {#campaign-import-log}
 
@@ -130,7 +130,7 @@ Automatisch genereren van [!DNL Microsoft Advertising] -gegevens voor importeren
 
       * Schakel in de kolom [!UICONTROL Campaigns] of [!UICONTROL Adgroups] de campagne of de ad-groep uit, zodat het vinkje verdwijnt.
 
-      * In de [!UICONTROL Selected] kolom, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
+      * In de [!UICONTROL Selected] kolom, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ").
 
 ### [!UICONTROL Customize your import]
 

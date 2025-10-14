@@ -26,8 +26,8 @@ De ontslagen aanbevelingen zijn niet beschikbaar bij het ad netwerk.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uitgeversaanbevelingen en inzichten steun ](recommendation-support.md)
->* [ Mening uw uitgeversaanbevelingen en prestatiesinzichten ](recommendation-view.md)
->* [ pas of verwerp een uitgeversaanbeveling toe ](recommendation-apply-dismiss.md)
->* [ Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles ](recommendation-best-practices.md)
+>* [&#x200B; Ongeveer uitgeversaanbevelingen en inzichten steun &#x200B;](recommendation-support.md)
+>* [&#x200B; Mening uw uitgeversaanbevelingen en prestatiesinzichten &#x200B;](recommendation-view.md)
+>* [&#x200B; pas of verwerp een uitgeversaanbeveling toe &#x200B;](recommendation-apply-dismiss.md)
+>* [&#x200B; Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles &#x200B;](recommendation-best-practices.md)
 

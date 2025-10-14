@@ -13,7 +13,7 @@ ht-degree: 0%
 
 *[!DNL Microsoft Advertising]alleen accounts*
 
-[[!DNL Microsoft Advertising]  verbeterde omzettingen ](https://help.ads.microsoft.com/#apex/ads/en/60178) staat u toe om gebruikers aan off-line omzettingen in kaart te brengen gebruikend uw gegevens van de eerste-partijomzetting. Uitgebreide conversies gebruiken in omgevingen waarin klik-id&#39;s niet beschikbaar zijn, zoals voor het bijhouden van de verkoop via telefoon of e-mail die het resultaat is van websiteleads.
+[[!DNL Microsoft Advertising]  verbeterde omzettingen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60178) staat u toe om gebruikers aan off-line omzettingen in kaart te brengen gebruikend uw gegevens van de eerste-partijomzetting. Uitgebreide conversies gebruiken in omgevingen waarin klik-id&#39;s niet beschikbaar zijn, zoals voor het bijhouden van de verkoop via telefoon of e-mail die het resultaat is van websiteleads.
 
 In Zoeken, Sociaal en Commerce kunt u:
 
@@ -27,18 +27,18 @@ In Zoeken, Sociaal en Commerce kunt u:
 
 Voer de volgende stappen uit om deze functie te gebruiken.
 
-1. Volg alle eerste vereisten in [!DNL Microsoft Advertising] hulp op &quot;[ Verbeterde omzettingen ](https://help.ads.microsoft.com/#apex/ads/en/60178).&quot;
+1. Volg alle eerste vereisten in [!DNL Microsoft Advertising] hulp op &quot;[&#x200B; Verbeterde omzettingen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60178).&quot;
 
-1. [ opstelling een verbeterd omzettingsdoel binnen  [!DNL Microsoft Advertising] ](https://help.ads.microsoft.com/#apex/ads/en/60178).
+1. [&#x200B; opstelling een verbeterd omzettingsdoel binnen  [!DNL Microsoft Advertising] &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60178).
 
-1. Upload zo vaak als nodig gegevens van de eerste partij, inclusief gehashte e-mailadressen of telefoonnummers, om deze aan de conversie voor een opgegeven account toe te wijzen. U kunt deze stap van binnen of [ Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md) of binnen [!DNL Microsoft Advertising] voltooien.
+1. Upload zo vaak als nodig gegevens van de eerste partij, inclusief gehashte e-mailadressen of telefoonnummers, om deze aan de conversie voor een opgegeven account toe te wijzen. U kunt deze stap van binnen of [&#x200B; Onderzoek, Sociale, &amp; Commerce &#x200B;](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md) of binnen [!DNL Microsoft Advertising] voltooien.
 
    * In Zoeken, Sociaal en Commerce kunt u een sjabloon in [!DNL Microsoft Excel] -indeling downloaden, conversiegegevens invoeren en het bestand lokaal opslaan en het bewerkte bestand vervolgens uploaden.
 
      Alle geüploade gegevens worden in realtime gesynchroniseerd met [!DNL Microsoft Advertising] .
 
-   * Voor meer informatie over het uploaden van gegevens binnen [!DNL Microsoft Advertising], zie de sectie &quot;Opstelling Verbeterde omzettingen voor off-line omzettingen&quot;in [!DNL Microsoft Advertising] hulp op &quot;[ Verbeterde omzettingen ](https://help.ads.microsoft.com/#apex/ads/en/60178).&quot;
+   * Voor meer informatie over het uploaden van gegevens binnen [!DNL Microsoft Advertising], zie de sectie &quot;Opstelling Verbeterde omzettingen voor off-line omzettingen&quot;in [!DNL Microsoft Advertising] hulp op &quot;[&#x200B; Verbeterde omzettingen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60178).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ upload off-line omzettingsgegevens voor verbeterde omzettingen ](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
+>* [&#x200B; upload off-line omzettingsgegevens voor verbeterde omzettingen &#x200B;](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)

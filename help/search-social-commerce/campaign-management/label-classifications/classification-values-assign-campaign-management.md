@@ -20,7 +20,7 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 >[!NOTE]
 >
->Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [ niet-veranderbaar ](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
+>Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [&#x200B; niet-veranderbaar &#x200B;](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
 
 1. Klik op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** en selecteer vervolgens de weergave van de accountcomponent.
 
@@ -32,9 +32,9 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
       * Schakel het selectievakje naast elke relevante rij in.
 
-        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      * In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
+      * In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
 
 1. Voer in het [!UICONTROL Assignment Details] een van de volgende handelingen uit:
 
@@ -58,21 +58,21 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
       * Als u een bestaande classificatie wilt gebruiken, klikt u op de classificatienaam om deze uit te vouwen.
 
-      * Klik op [!UICONTROL +] om een classificatie te maken. Op het inputgebied, ga de classificatienaam in, en klik dan ![ sparen ](/help/search-social-commerce/assets/select.png " ") om de classificatie onmiddellijk te bewaren.
+      * Klik op [!UICONTROL +] om een classificatie te maken. Op het inputgebied, ga de classificatienaam in, en klik dan ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/select.png " ") om de classificatie onmiddellijk te bewaren.
 
-        De naam moet uit [ karakters 32-126 van ASCII ](https://www.asciitable.com/) bestaan, en de maximumlengte is 27 single-byte karakters.
+        De naam moet uit [&#x200B; karakters 32-126 van ASCII &#x200B;](https://www.asciitable.com/) bestaan, en de maximumlengte is 27 single-byte karakters.
 
    1. Geef in de kolom **[!UICONTROL Value Name]** de naam van de waarde op:
 
       * Als u een bestaande waarde wilt gebruiken, klikt u op de naam van de waarde om deze te selecteren.
 
-      * Klik op [!UICONTROL +] om een waarde te maken. Op het inputgebied, ga de waarde in, en klik dan ![ sparen ](/help/search-social-commerce/assets/select.png " ") om de waarde onmiddellijk te bewaren.
+      * Klik op [!UICONTROL +] om een waarde te maken. Op het inputgebied, ga de waarde in, en klik dan ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/select.png " ") om de waarde onmiddellijk te bewaren.
 
         De maximumlengte is 100 tekens en kan ASCII- en niet-ASCII-tekens bevatten.
 
 1. (Optioneel) Voer aanvullende gegevens in:
 
-   1. Naast **[!UICONTROL Additional Details]**, klik ![ Open ](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
+   1. Naast **[!UICONTROL Additional Details]**, klik ![&#x200B; Open &#x200B;](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
 
    1. Voer een optionele **[!UICONTROL Project Name]** en/of optionele **[!UICONTROL Description]** in.
 
@@ -80,9 +80,9 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer etiketclassificaties ](classification-about.md)
->* [ creeer een etiketclassificatie ](classification-create.md)
->* [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](classification-values-assign-bulksheets.md)
->* [ verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten ](classification-values-remove.md)
->* [ schrapt etiketclassificatiewaarden ](classification-values-delete.md)
->* [ schrapt etiketclassificaties ](classification-delete.md)
+>* [&#x200B; Ongeveer etiketclassificaties &#x200B;](classification-about.md)
+>* [&#x200B; creeer een etiketclassificatie &#x200B;](classification-create.md)
+>* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets &#x200B;](classification-values-assign-bulksheets.md)
+>* [&#x200B; verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten &#x200B;](classification-values-remove.md)
+>* [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](classification-values-delete.md)
+>* [&#x200B; schrapt etiketclassificaties &#x200B;](classification-delete.md)

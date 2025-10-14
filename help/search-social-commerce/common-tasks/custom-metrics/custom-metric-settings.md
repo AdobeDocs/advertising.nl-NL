@@ -34,7 +34,7 @@ Aangepaste metrische instellingen verschillen enigszins in verschillende delen v
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanemetriek ](custom-metric-about.md)
->* [ creeer metrische douane ](custom-metric-create.md)
->* [ geef metrisch douane ](custom-metric-edit.md) uit
->* [ Schrap metrische douane ](custom-metric-delete.md)
+>* [&#x200B; Ongeveer douanemetriek &#x200B;](custom-metric-about.md)
+>* [&#x200B; creeer metrische douane &#x200B;](custom-metric-create.md)
+>* [&#x200B; geef metrisch douane &#x200B;](custom-metric-edit.md) uit
+>* [&#x200B; Schrap metrische douane &#x200B;](custom-metric-delete.md)

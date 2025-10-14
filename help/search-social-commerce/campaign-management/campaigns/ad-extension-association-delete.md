@@ -20,13 +20,13 @@ U kunt campagne- en advertentiesamenstellingen verwijderen met een willekeurige 
 
 1. Schakel het selectievakje in naast elke koppeling die u wilt verwijderen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, &quot;[ Selecteer veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, &quot;[&#x200B; Selecteer veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. In de toolbar, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
+1. In de toolbar, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**.
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ beheert  [!DNL Google Ads]  callout uitbreidingen ](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
->* [ beheer sitelink uitbreidingen ](sitelink-extension-manage.md)
+>* [&#x200B; beheert  [!DNL Google Ads]  callout uitbreidingen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/callout-extension-manage.md)
+>* [&#x200B; beheer sitelink uitbreidingen &#x200B;](sitelink-extension-manage.md)

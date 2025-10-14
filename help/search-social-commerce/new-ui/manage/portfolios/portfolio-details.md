@@ -26,7 +26,7 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
 * De doeluitgaven versus de werkelijke uitgaven voor actieve portfolio&#39;s. U kunt desgewenst ook de totale campagnebudgetten voor de portfolio opnemen.
 
-* De nauwkeurigheid van kosten, klik, of [ objectieve waarde ](/help/search-social-commerce/glossary.md#o-p) voorspellingen voor actieve portefeuilles door netwerk.<!-- Verify -->
+* De nauwkeurigheid van kosten, klik, of [&#x200B; objectieve waarde &#x200B;](/help/search-social-commerce/glossary.md#o-p) voorspellingen voor actieve portefeuilles door netwerk.<!-- Verify -->
 
 * De portfolioinstellingen.
 
@@ -54,13 +54,13 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
       * Verplaats de schakelaar naast **[!UICONTROL Display predictions]** om de voorspelde metrische waarden te tonen of te verbergen.
 
-      * De schakelaar tussen de grafiekmening (![ Mening van de Grafiek ](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
+      * De schakelaar tussen de grafiekmening (![&#x200B; Mening van de Grafiek &#x200B;](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
 
       * (In grafiekmening) om gegevens voor om het even welk punt op de grafiek te zien, houd de curseur over dat punt.
 
 * (Optioneel) Voer een van de volgende handelingen uit om het [!UICONTROL Model accuracy] trenddiagram aan te passen:
 
-   * De schakelaar tussen de grafiekmening (![ Mening van de Grafiek ](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
+   * De schakelaar tussen de grafiekmening (![&#x200B; Mening van de Grafiek &#x200B;](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
 
    * Schakel tussen het weergeven van gegevens op *[!UICONTROL Click Date]* en *[!UICONTROL Transaction Date]* .
 
@@ -100,12 +100,12 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
 * Klik op **[!UICONTROL Portfolio Settings]** om de portfolioinstellingen weer te geven of te verbergen.
 
-   * Om zichtbare portefeuillemontages uit te geven, geeft de klik ![ uit ](/help/search-social-commerce/assets/edit.png " naast het plaatsen sectie uit en ") geeft de portefeuillemontages [ uit.](portfolio-edit.md)
+   * Om zichtbare portefeuillemontages uit te geven, geeft de klik ![&#x200B; uit &#x200B;](/help/search-social-commerce/assets/edit.png " naast het plaatsen sectie uit en ") geeft de portefeuillemontages [&#x200B; uit.](portfolio-edit.md)
 
 Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, voor meer informatie over de portfolioinstellingen.
 
 >[!MORELIKETHIS]
 >
->* [ (Nieuwe interface) Informatie over portfolio&#39;s ](portfolio-about.md)
->* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
->* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
+>* [&#x200B; (Nieuwe interface) Informatie over portfolio&#39;s &#x200B;](portfolio-about.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
+>* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)

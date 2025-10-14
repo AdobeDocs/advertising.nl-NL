@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Bekijk de Sites, Advertenties, Frequentie, en Details van de Inventaris voor een Plaatsing
 
-Voor elke plaatsing, kunt u a (detailmening [) [!UICONTROL Inspector] openen, die van alle gerichte plaatsen, advertenties, en overeenkomsten in een plaatsing een lijst maakt. ](placement-details-view.md) Het omvat ook frequentiegegevens voor de plaatsing. U kunt de gegevens optioneel vanuit elk tabblad exporteren.
+Voor elke plaatsing, kunt u a (detailmening [) [!UICONTROL Inspector] openen, die van alle gerichte plaatsen, advertenties, en overeenkomsten in een plaatsing een lijst maakt. &#x200B;](placement-details-view.md) Het omvat ook frequentiegegevens voor de plaatsing. U kunt de gegevens optioneel vanuit elk tabblad exporteren.
 
-![ de inspecteur van de Plaatsing ](/help/dsp/assets/placement-inspector.png)
+![&#x200B; de inspecteur van de Plaatsing &#x200B;](/help/dsp/assets/placement-inspector.png)
 
 ## Informatie in de Placement [!UICONTROL Inspector] {#placement-inspector}
 
@@ -34,7 +34,7 @@ Voor elke plaatsing, kunt u a (detailmening [) [!UICONTROL Inspector] openen, di
 
 * **[!UICONTROL Inventory]:** Informatie over alle overeenkomsten die op de plaatsing betrekking hebben.
 
-  Op het tabblad [!UICONTROL Inventory] kunt u snel problemen oplossen door prestatiestatistieken zoals [!UICONTROL Auctions] , [!UICONTROL Bids] en [!UICONTROL Win Rate] weer te geven. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, inclusief [!UICONTROL Edit] , [!UICONTROL View Report] en [[!UICONTROL Auction Insights] voor meer informatie over het oplossen van problemen ](/help/dsp/inventory/private-deal-auction-insights.md) .
+  Op het tabblad [!UICONTROL Inventory] kunt u snel problemen oplossen door prestatiestatistieken zoals [!UICONTROL Auctions] , [!UICONTROL Bids] en [!UICONTROL Win Rate] weer te geven. Het tabblad bevat zoek- en filterfuncties, dezelfde standaard- en aangepaste kolomweergaveopties die beschikbaar zijn op de hoofdpagina, en snelle actieknoppen in elke rij, inclusief [!UICONTROL Edit] , [!UICONTROL View Report] en [[!UICONTROL Auction Insights] voor meer informatie over het oplossen van problemen &#x200B;](/help/dsp/inventory/private-deal-auction-insights.md) .
 
 ## De [!UICONTROL Placement Inspector] openen {#inspector-open}
 
@@ -60,15 +60,15 @@ Voor elke plaatsing, kunt u a (detailmening [) [!UICONTROL Inspector] openen, di
 
 1. Plaats de cursor op de plaatsingsrij en klik op **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Inspector]** .
 
-1. (Facultatief) [ verander de kolommening ](campaign-data-views-manage.md#column-view-change) zoals nodig om de vereiste metriek te bekijken.
+1. (Facultatief) [&#x200B; verander de kolommening &#x200B;](campaign-data-views-manage.md#column-view-change) zoals nodig om de vereiste metriek te bekijken.
 
-1. (Facultatief) om de gegevens over om het even welk lusje uit te voeren, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") in het hogere recht, en klik dan **[!UICONTROL Export]**.
+1. (Facultatief) om de gegevens over om het even welk lusje uit te voeren, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") in het hogere recht, en klik dan **[!UICONTROL Export]**.
 
    De gegevens worden opgeslagen in de standaarddownloadmap van uw browser als een rapport in XLSM-indeling.
 
 ## Een advertentie verwijderen uit een advertentie uit de [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
 
-1. [ open [!UICONTROL Placement Inspector]](#inspector-open).
+1. [&#x200B; open [!UICONTROL Placement Inspector]](#inspector-open).
 
 1. Klik op de tab **[!UICONTROL Ads]** .
 
@@ -90,5 +90,5 @@ Voor elke plaatsing, kunt u a (detailmening [) [!UICONTROL Inspector] openen, di
 
 >[!MORELIKETHIS]
 >
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](campaign-reports-about.md)
->* [ beheert Uw Kijken van Gegevens van de Campagne ](campaign-data-views-manage.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
+>* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](campaign-data-views-manage.md)

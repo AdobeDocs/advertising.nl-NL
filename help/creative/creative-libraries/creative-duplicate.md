@@ -44,6 +44,6 @@ Dupliceer creatieve elementen om nieuwe creatieve elementen met dezelfde instell
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ geeft standaardcreatieve producten ](creative-edit-standard.md) uit
->* [ Standaard creatieve montages ](creative-settings-standard.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; geeft standaardcreatieve producten &#x200B;](creative-edit-standard.md) uit
+>* [&#x200B; Standaard creatieve montages &#x200B;](creative-settings-standard.md)

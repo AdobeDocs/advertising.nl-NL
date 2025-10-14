@@ -17,10 +17,10 @@ ht-degree: 0%
 U kunt negatieve plaatsingen voor een [!DNL Google Ads] ad groep in een campagne tot stand brengen die het vertoningsnetwerk richt. Negatieve plaatsingen zijn sites in het weergavenetwerk die geen advertenties activeren.
 
 >[!NOTE]
->U kunt negatieve plaatsen in de [ montages van de ad groep ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [ campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) ook creëren en uitgeven.
+>U kunt negatieve plaatsen in de [&#x200B; montages van de ad groep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [&#x200B; campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md) ook creëren en uitgeven.
 
 >[!TIP]
->Om vele negatieve plaatsen tezelfdertijd tot stand te brengen, gebruik [ campagnebulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele negatieve plaatsen tezelfdertijd tot stand te brengen, gebruik [&#x200B; campagnebulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Placements] >[!UICONTROL Negatives]** .
 
@@ -34,12 +34,12 @@ U kunt negatieve plaatsingen voor een [!DNL Google Ads] ad groep in een campagne
 
    * Een website: voer een geldige URL in, bijvoorbeeld www.example.com. Zie de toegestane formaten in &quot;hoe te om uw uitsluiting URLs toe te voegen&quot;in https://support.google.com/google-ads/answer/2454012.
 
-   * Een onderwerp, categorie of document verticaal. Zie [[!DNL Google Ads]  richtlijnen ](https://support.google.com/google-ads/editor/answer/30517) en a [ lijst van alle verticals ](https://developers.google.com/adwords/api/docs/appendix/verticals). Voorbeeld: `category::Industries > Energy & Utilities > Oil & Gas` .
+   * Een onderwerp, categorie of document verticaal. Zie [[!DNL Google Ads]  richtlijnen &#x200B;](https://support.google.com/google-ads/editor/answer/30517) en a [&#x200B; lijst van alle verticals &#x200B;](https://developers.google.com/adwords/api/docs/appendix/verticals). Voorbeeld: `category::Industries > Energy & Utilities > Oil & Gas` .
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer plaatsen ](placement-about.md)
->* [ beheert biddable plaatsen ](placement-manage.md)
->* [ verander het statuut van plaatsingen en negatieve plaatsingen ](placement-status-edit.md)
+>* [&#x200B; Ongeveer plaatsen &#x200B;](placement-about.md)
+>* [&#x200B; beheert biddable plaatsen &#x200B;](placement-manage.md)
+>* [&#x200B; verander het statuut van plaatsingen en negatieve plaatsingen &#x200B;](placement-status-edit.md)

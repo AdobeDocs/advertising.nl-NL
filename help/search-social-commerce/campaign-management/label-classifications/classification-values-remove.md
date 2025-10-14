@@ -16,7 +16,7 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 >[!NOTE]
 >
->Om een waarde van een etiketclassificatie te schrappen, zie &quot;[ de waarden van de etiketclassificatie van de Schrapping ](classification-values-delete.md).&quot;
+>Om een waarde van een etiketclassificatie te schrappen, zie &quot;[&#x200B; de waarden van de etiketclassificatie van de Schrapping &#x200B;](classification-values-delete.md).&quot;
 
 1. Selecteer in **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** de entiteitweergave.
 
@@ -28,9 +28,9 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
       * Schakel het selectievakje naast elke rij in.
 
-        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      * In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
+      * In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
 
 1. Selecteer **[!UICONTROL Remove]** in de [!UICONTROL Assignment Details] .
 
@@ -42,7 +42,7 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 1. (Optioneel) Voer aanvullende gegevens in:
 
-   * Naast **[!UICONTROL Additional Details]**, klik ![ Open ](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
+   * Naast **[!UICONTROL Additional Details]**, klik ![&#x200B; Open &#x200B;](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
 
    * Voer een optionele **[!UICONTROL Project Name]** en/of optionele **[!UICONTROL Description]** in.
 
@@ -50,9 +50,9 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer etiketclassificaties ](classification-about.md)
->* [ creeer een etiketclassificatie ](classification-create.md)
->* [ wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe ](classification-values-assign-campaign-management.md)
->* [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](classification-values-assign-bulksheets.md)
->* [ schrapt etiketclassificatiewaarden ](classification-values-delete.md)
->* [ schrapt etiketclassificaties ](classification-delete.md)
+>* [&#x200B; Ongeveer etiketclassificaties &#x200B;](classification-about.md)
+>* [&#x200B; creeer een etiketclassificatie &#x200B;](classification-create.md)
+>* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe &#x200B;](classification-values-assign-campaign-management.md)
+>* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets &#x200B;](classification-values-assign-bulksheets.md)
+>* [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](classification-values-delete.md)
+>* [&#x200B; schrapt etiketclassificaties &#x200B;](classification-delete.md)

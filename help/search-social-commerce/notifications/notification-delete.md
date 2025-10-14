@@ -18,7 +18,7 @@ ht-degree: 0%
 
 1. In het hogere recht van om het even welke pagina, klik ![&#128279;](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") .
 
-1. Klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
+1. Klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 ## Een melding verwijderen binnen [!UICONTROL Notification Center]
 
@@ -26,13 +26,13 @@ ht-degree: 0%
 
 1. (Optioneel) Klik op *[!UICONTROL Notices]* , *[!UICONTROL Recommendations]* , *[!UICONTROL Warnings]* of *[!UICONTROL Issues]* om uw meldingen te filteren op type.
 
-1. Klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
+1. Klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ") naast het bericht.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer berichten ](/help/search-social-commerce/notifications/notification-about.md)
->* [ Mening uw berichten ](notification-view.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ geef uw berichtmontages ](notification-edit.md) uit
->* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)
+>* [&#x200B; Ongeveer berichten &#x200B;](/help/search-social-commerce/notifications/notification-about.md)
+>* [&#x200B; Mening uw berichten &#x200B;](notification-view.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](notification-edit.md) uit
+>* [&#x200B; Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [&#x200B; installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing &#x200B;](notification-app-install-uninstall.md)

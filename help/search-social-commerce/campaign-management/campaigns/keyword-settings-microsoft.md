@@ -35,9 +35,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL van het sleutelwoord of de titel, beschrijving, of basisURL van de advertentie [ het `{Param2}` dynamische substitutiereeks ](https://help.bingads.microsoft.com/#apex/3/en/53079/0) bevat. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u deze gebruikt (de combinatie van Titel 1 en Titel 2 kan bijvoorbeeld maximaal 76 tekens bevatten).
+**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL van het sleutelwoord of de titel, beschrijving, of basisURL van de advertentie [&#x200B; het `{Param2}` dynamische substitutiereeks &#x200B;](https://help.bingads.microsoft.com/#apex/3/en/53079/0) bevat. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u deze gebruikt (de combinatie van Titel 1 en Titel 2 kan bijvoorbeeld maximaal 76 tekens bevatten).
 
-**[!UICONTROL Param3]:** het koord als substitutiewaarde te gebruiken als basisURL van het sleutelwoord of de titel, beschrijving, of basisURL van de advertentie [ het `{Param3}` dynamische substitutiereeks ](https://help.bingads.microsoft.com/#apex/3/en/53079/0) bevat. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u deze gebruikt (de combinatie van Titel 1 en Titel 2 kan bijvoorbeeld maximaal 76 tekens bevatten).
+**[!UICONTROL Param3]:** het koord als substitutiewaarde te gebruiken als basisURL van het sleutelwoord of de titel, beschrijving, of basisURL van de advertentie [&#x200B; het `{Param3}` dynamische substitutiereeks &#x200B;](https://help.bingads.microsoft.com/#apex/3/en/53079/0) bevat. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u deze gebruikt (de combinatie van Titel 1 en Titel 2 kan bijvoorbeeld maximaal 76 tekens bevatten).
 
 ## URL-opties
 
@@ -53,4 +53,4 @@ In dit veld kunnen eventueel de variabelen `{Param2}` en `{Param3}` dynamic word
 
 >[!MORELIKETHIS]
 >
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

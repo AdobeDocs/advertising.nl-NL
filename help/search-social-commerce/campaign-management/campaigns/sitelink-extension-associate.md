@@ -20,7 +20,7 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Associations]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot "), en selecteert dan **[!UICONTROL Sitelink]**.
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot "), en selecteert dan **[!UICONTROL Sitelink]**.
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -28,7 +28,7 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 
    1. Selecteer in de sectie [!UICONTROL Sitelinks] de toepasselijke sitelinks in een lijst met alle sitelinks in de bibliotheek.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
    1. Selecteer in de sectie [!UICONTROL Assignment] de accounts, campagnes en ad-groepen waaraan de geselecteerde sitelinks zijn toegewezen:
 
@@ -36,11 +36,11 @@ Uw sitelinks worden alleen weergegeven met advertenties als u minstens zes actie
 
    * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan **te drukken gaat** sleutel in.
 
-   * Selecteer de cirkel (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")) naast elke entiteit waaraan de sitelinks worden toegewezen.
+   * Selecteer de cirkel (![&#x200B; Uitgezochte &#x200B;](/help/search-social-commerce/assets/include.png " ")) naast elke entiteit waaraan de sitelinks worden toegewezen.
 
 1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer sitelink uitbreidingen ](sitelink-extension-about.md)
->* [ beheer gedeelde sitelink uitbreidingen ](sitelink-extension-manage.md)
+>* [&#x200B; Ongeveer sitelink uitbreidingen &#x200B;](sitelink-extension-about.md)
+>* [&#x200B; beheer gedeelde sitelink uitbreidingen &#x200B;](sitelink-extension-manage.md)

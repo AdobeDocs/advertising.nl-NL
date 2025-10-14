@@ -16,7 +16,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Deze functie is alleen van toepassing op uw oude aanmeldingsgegevens voor Zoeken, Sociaal zoeken en Commerce. De meeste gebruikers gebruiken nu een [!DNL Adobe] id voor verificatie. Om het wachtwoord voor uw [!DNL Adobe] identiteitskaart te veranderen, zie &quot;[ Terugstellen of uw wachtwoord van Adobe veranderen ](https://helpx.adobe.com/nl/manage-account/using/change-or-reset-password.html).&quot;
+>Deze functie is alleen van toepassing op uw oude aanmeldingsgegevens voor Zoeken, Sociaal zoeken en Commerce. De meeste gebruikers gebruiken nu een [!DNL Adobe] id voor verificatie. Om het wachtwoord voor uw [!DNL Adobe] identiteitskaart te veranderen, zie &quot;[&#x200B; Terugstellen of uw wachtwoord van Adobe veranderen &#x200B;](https://helpx.adobe.com/nl/manage-account/using/change-or-reset-password.html).&quot;
 
 Als u uw wachtwoord wijzigt, meldt u zich af van de huidige sessie. Als u wilt doorgaan met werken, moet u zich aanmelden met het nieuwe wachtwoord.
 
@@ -34,5 +34,5 @@ Als u uw wachtwoord wijzigt, meldt u zich af van de huidige sessie. Als u wilt d
 
 >[!MORELIKETHIS]
 >
->* [ Teken binnen ](/help/search-social-commerce/getting-started/sign-in.md)
->* [ Teken uit ](/help/search-social-commerce/getting-started/sign-out.md)
+>* [&#x200B; Teken binnen &#x200B;](/help/search-social-commerce/getting-started/sign-in.md)
+>* [&#x200B; Teken uit &#x200B;](/help/search-social-commerce/getting-started/sign-out.md)

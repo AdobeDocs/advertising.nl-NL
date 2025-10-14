@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Een aangepast rapport downloaden
 
-U kunt om het even welke voltooide rapportinstantie van de laatste vier maanden downloaden, die met de [ status ](report-about.md#custom-report-status) &quot;[!UICONTROL Ready to Download]&quot;of &quot;[!UICONTROL Completed]&quot; heeft.
+U kunt om het even welke voltooide rapportinstantie van de laatste vier maanden downloaden, die met de [&#x200B; status &#x200B;](report-about.md#custom-report-status) &quot;[!UICONTROL Ready to Download]&quot;of &quot;[!UICONTROL Completed]&quot; heeft.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
 
@@ -19,20 +19,20 @@ U kunt om het even welke voltooide rapportinstantie van de laatste vier maanden 
 
    * Klik op **[!UICONTROL Download]** om de meest recente versie van het rapport te downloaden.
 
-   * (Rapporten met veelvoudige instanties) klik ![ de benedenpijl ](/help/dsp/assets/chevron-down.png " de benedenpijl ") naast [!UICONTROL Download], en klik dan de voltooiingsdatum voor het rapport u wilt downloaden. Downloadbare rapportinstanties worden aangeduid met een downloadpictogram (![downloadpictogram](/help/dsp/assets/indicator-downloadable.png "downloadpictogram")).
+   * (Rapporten met veelvoudige instanties) klik ![&#x200B; de benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png " de benedenpijl ") naast [!UICONTROL Download], en klik dan de voltooiingsdatum voor het rapport u wilt downloaden. Downloadbare rapportinstanties worden aangeduid met een downloadpictogram (![downloadpictogram](/help/dsp/assets/indicator-downloadable.png "downloadpictogram")).
 
      Wanneer er veel exemplaren beschikbaar zijn, klikt u indien nodig op **[!UICONTROL Load More]** onder aan de lijst.
 
      Wanneer een rapport veelvoudige tijden op de zelfde dag in werking stelt, zijn de rapportinstanties voor die dag vermeld in chronologische orde, met de meest recente instantie bovenop.
 
-     De ontbroken rapportbanen worden vermeld met een foutenpictogram (![ foutenindicator ](/help/dsp/assets/indicator-critical.png " foutenindicator ")) en kunnen niet worden gedownload. Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
+     De ontbroken rapportbanen worden vermeld met een foutenpictogram (![&#x200B; foutenindicator &#x200B;](/help/dsp/assets/indicator-critical.png " foutenindicator ")) en kunnen niet worden gedownload. Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
->* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
->* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
->* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
->* [ stel een Rapport van de Douane in werking ](/help/dsp/reports/report-run-now.md)
->* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
+>* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
+>* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
+>* [&#x200B; stel een Rapport van de Douane in werking &#x200B;](/help/dsp/reports/report-run-now.md)
+>* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)

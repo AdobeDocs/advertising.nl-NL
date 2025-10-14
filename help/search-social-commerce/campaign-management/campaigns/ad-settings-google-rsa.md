@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # [!DNL Google Ads] responsieve zoekfunctie en instellingen
 
-[!DNL Google Ads] assembleert dynamisch [ ontvankelijke onderzoeksadvertenties ](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
+[!DNL Google Ads] assembleert dynamisch [&#x200B; ontvankelijke onderzoeksadvertenties &#x200B;](https://support.google.com/google-ads/answer/7684791?hl=en) (RSAs) met maximaal drie koppen en twee beschrijvingen.
 
 >[!NOTE]
 >
 >Elke advertentiegroep kan maximaal drie ingeschakelde responsieve zoekadvertenties bevatten.
 
-Zie [!DNL Google Ads] hulp voor [ en grenzen per rekening ](https://support.google.com/google-ads/answer/6372658?hl=en).
+Zie [!DNL Google Ads] hulp voor [&#x200B; en grenzen per rekening &#x200B;](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 ## [!UICONTROL Responsive Search Ad Details]
 
@@ -50,7 +50,7 @@ Zie [!DNL Google Ads] hulp voor [ en grenzen per rekening ](https://support.goog
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Google Ads]  vraag-slechts ad montages ](ad-settings-google-call.md)
->* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-google-dsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Google Ads]  vraag-slechts ad montages &#x200B;](ad-settings-google-call.md)
+>* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-google-dsa.md)

@@ -30,11 +30,11 @@ Voor ervaringen zonder doelgericht gebruik van beslissingsstructuren kunt u de s
 
 * Als u een creatieve standaardafbeelding met verschillende afmetingen wilt toevoegen, klikt u op **[!UICONTROL + Add Sizes]** en schakelt u het selectievakje naast de creatieve elementen in die u vanuit het rechterdeelvenster wilt toevoegen. Klik vervolgens op **[!UICONTROL Add Creatives]** .
 
-* Om gebrek creatief te schrappen, de curseur over de creatieve duimnagel te houden en ![ Schrapping ](/help/creative/assets/delete.png " te klikken schrapt ").
+* Om gebrek creatief te schrappen, de curseur over de creatieve duimnagel te houden en ![&#x200B; Schrapping &#x200B;](/help/creative/assets/delete.png " te klikken schrapt ").
 
-* Om alle standaardcreatieven te schrappen, klik ![ Schrapping ](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
+* Om alle standaardcreatieven te schrappen, klik ![&#x200B; Schrapping &#x200B;](/help/creative/assets/delete.png " ") **[!UICONTROL Delete all]**.
 
-* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![ tonen/verbergen ](/help/creative/assets/hide-show-creatives.png " in het hogere recht van de juiste ruit.")
+* Om de ruit van Creatieven op het recht te tonen of te verbergen, klik ![&#x200B; tonen/verbergen &#x200B;](/help/creative/assets/hide-show-creatives.png " in het hogere recht van de juiste ruit.")
 
 ## [!UICONTROL Targeting] -sectie
 
@@ -56,7 +56,7 @@ Wanneer u een advertentietag voor een specifieke creatieve grootte creeert, word
 
 **[!UICONTROL Label]:**<!-- should be "Labels" --> (Optioneel) Alle [!DNL Creative] -specifieke labels die u op de ervaring wilt toepassen. U kunt ervaringen filteren op label in de weergave Ervaringen en de [!UICONTROL Experience Label] -dimensie opnemen in de [!UICONTROL Custom Creative Report] .
 
-* Om bestaande etiketten te selecteren, klik ![ neer ](/help/creative/assets/chevron-down.png " "), en selecteer de controledoos naast elk etiket om toe te passen.
+* Om bestaande etiketten te selecteren, klik ![&#x200B; neer &#x200B;](/help/creative/assets/chevron-down.png " "), en selecteer de controledoos naast elk etiket om toe te passen.
 
 * Als u naar bestaande labels wilt zoeken, voert u een tekenreeks in de labelnaam in.
 
@@ -64,9 +64,9 @@ Wanneer u een advertentietag voor een specifieke creatieve grootte creeert, word
 
 * Als u een label wilt verwijderen, schakelt u het selectievakje naast de labelnaam uit.
 
-**[!UICONTROL Impression Tracking URL]:** (Optioneel) Een URL voor het bijhouden van de indruk door derden die u aan de URL van de bestemmingspagina wilt toevoegen voor een advertentie die u uit de ervaring hebt gemaakt. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![ pictogram ** ](/help/creative/assets/create.png) en ga URL in.[!UICONTROL Add More]
+**[!UICONTROL Impression Tracking URL]:** (Optioneel) Een URL voor het bijhouden van de indruk door derden die u aan de URL van de bestemmingspagina wilt toevoegen voor een advertentie die u uit de ervaring hebt gemaakt. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#x200B; pictogram ** &#x200B;](/help/creative/assets/create.png) en ga URL in.[!UICONTROL Add More]
 
-Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
+Zodra u URL ingaat, zijn alle [&#x200B; beschikbare macro&#39;s &#x200B;](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![&#x200B; Exemplaar aan klembord &#x200B;](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
 >[!NOTE]
 >
@@ -74,9 +74,9 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 >* U kunt deze URL overschrijven voor elke creatieve functie in de ervaring.
 >* U kunt ook JavaScript-code voor imitatie van derden invoeren in het veld [!UICONTROL Client JS]
 
-**[!UICONTROL Click Tracking URL]:** (Optioneel) (Optioneel) Een URL voor het bijhouden van klikken door derden die wordt toegevoegd aan de URL van de bestemmingspagina. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![ pictogram ](/help/creative/assets/create.png) **[!UICONTROL Add More]** en ga URL in.
+**[!UICONTROL Click Tracking URL]:** (Optioneel) (Optioneel) Een URL voor het bijhouden van klikken door derden die wordt toegevoegd aan de URL van de bestemmingspagina. U kunt maximaal vijf URL&#39;s opnemen. Om extra URL toe te voegen, klik ![&#x200B; pictogram &#x200B;](/help/creative/assets/create.png) **[!UICONTROL Add More]** en ga URL in.
 
-Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![ Exemplaar aan klembord ](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
+Zodra u URL ingaat, zijn alle [&#x200B; beschikbare macro&#39;s &#x200B;](/help/creative/creative-macros.md) en de gegevens waarmee zij worden vervangen vermeld verder onderaan de pagina. Om één van de macro&#39;s in URL op te nemen, houd de curseur over de macrobeschrijving en klik ![&#x200B; Exemplaar aan klembord &#x200B;](/help/creative/assets/copy-to-clipboard.png " Exemplaar aan klembord "), en kleef dan de macro waar u het op het gebied URL wilt.
 
 >[!NOTE]
 >
@@ -91,10 +91,10 @@ Zodra u URL ingaat, zijn alle [ beschikbare macro&#39;s ](/help/creative/creativ
 
 >[!MORELIKETHIS]
 >
->* [ creeer een ervaring zonder beslissingsboom richtend ](experience-create-no-targeting.md)
->* [ geef een ervaring zonder beslissingsboom uit richtend ](experience-edit-no-targeting.md)
->* [ Beschikbare macro&#39;s voor het volgen URLs ](/help/creative/creative-macros.md)
->* [ creeer manueel een ad markering voor een toepasselijke creatieve grootte ](experience-tag-create-manually.md)
->* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
->* [ pas het volgen URLs voor een ervaring aan zonder zich ](experience-tracking-urls-no-targeting.md) te richten
->* [ pas creatieve optimalisering en het plannen voor een ervaring aan zonder zich ](experience-optimization-scheduling-no-targeting.md) te richten
+>* [&#x200B; creeer een ervaring zonder beslissingsboom richtend &#x200B;](experience-create-no-targeting.md)
+>* [&#x200B; geef een ervaring zonder beslissingsboom uit richtend &#x200B;](experience-edit-no-targeting.md)
+>* [&#x200B; Beschikbare macro&#39;s voor het volgen URLs &#x200B;](/help/creative/creative-macros.md)
+>* [&#x200B; creeer manueel een ad markering voor een toepasselijke creatieve grootte &#x200B;](experience-tag-create-manually.md)
+>* [&#x200B; wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten &#x200B;](experience-tag-assign-creatives.md)
+>* [&#x200B; pas het volgen URLs voor een ervaring aan zonder zich &#x200B;](experience-tracking-urls-no-targeting.md) te richten
+>* [&#x200B; pas creatieve optimalisering en het plannen voor een ervaring aan zonder zich &#x200B;](experience-optimization-scheduling-no-targeting.md) te richten

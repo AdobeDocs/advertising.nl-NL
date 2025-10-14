@@ -24,8 +24,8 @@ ht-degree: 1%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
->* [ Basis en geavanceerde rapportmontages ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
->* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
->* [ het rapportmontages van de Specialiteit ](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
->* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](/help/search-social-commerce/reports/report-about.md)
+>* [&#x200B; Basis en geavanceerde rapportmontages &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
+>* [&#x200B; de montages van het modelnauwkeurigheidsrapport &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [&#x200B; de rapporten van de Schrapping &#x200B;](/help/search-social-commerce/reports/management/report-delete.md)

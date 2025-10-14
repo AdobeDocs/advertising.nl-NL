@@ -18,7 +18,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 ## Beschikbare acties
 
-* [ wijst campagnes aan bestaande of nieuwe portefeuilles ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [ unassign campagnes van portefeuilles ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+* [&#x200B; wijst campagnes aan bestaande of nieuwe portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [&#x200B; unassign campagnes van portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
 * [Beperkingen aan campagnes toewijzen en beperkingen van campagnes ongedaan maken](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
@@ -26,7 +26,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 >[!MORELIKETHIS]
 >
->* [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
->* [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
->* [ beheert beperkingstaken voor campagnes ](campaign-constraint-assignments-manage.md)
->* [ gegevens van de Download van de [!UICONTROL Campaigns] mening ](campaign-view-report.md)
+>* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+>* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+>* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](campaign-constraint-assignments-manage.md)
+>* [&#x200B; gegevens van de Download van de [!UICONTROL Campaigns] mening &#x200B;](campaign-view-report.md)

@@ -66,5 +66,5 @@ U kunt om het even welke activa voor uw prestaties maximumcampagnes gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [[!DNL Google Ads]  campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
->* [[!DNL Microsoft Advertising]  campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)
+>* [[!DNL Google Ads]  campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-google.md)
+>* [[!DNL Microsoft Advertising]  campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-settings-microsoft.md)

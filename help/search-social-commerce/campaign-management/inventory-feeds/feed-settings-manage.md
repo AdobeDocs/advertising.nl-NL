@@ -20,7 +20,7 @@ U kunt configureren hoe ad-hocgroepen, trefwoorden en advertenties in bestanden 
 
 1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Settings]** .
 
-1. Specificeer de [ montages van voedergegevens ](#feed-data-settings):
+1. Specificeer de [&#x200B; montages van voedergegevens &#x200B;](#feed-data-settings):
 
    1. Selecteer in de sectie [!UICONTROL Obsolete Item Auto-Processing] informatie in de velden.
 
@@ -112,6 +112,6 @@ Deze optie is standaard uitgeschakeld, zodat alle trefwoorden worden gepost, ong
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
->* [ doorgeven voedergegevens door malplaatjes ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-data-propagate.md)
->* [ Post campagnegegevens die van voer aan ad netwerken worden geproduceerd ](propagated-data-post.md)
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
+>* [&#x200B; doorgeven voedergegevens door malplaatjes &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-data-propagate.md)
+>* [&#x200B; Post campagnegegevens die van voer aan ad netwerken worden geproduceerd &#x200B;](propagated-data-post.md)

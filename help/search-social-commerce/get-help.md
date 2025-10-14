@@ -16,7 +16,7 @@ U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem 
 
 ## Online Help openen
 
-* Om een beschrijving van een termijn met een aangrenzend hulppictogram (![ het pictogram van de Hulp ](/help/search-social-commerce/assets/help-field.png " te bekijken Hulp ")), uw curseur over het hulppictogram te houden tot u wordt gebeëindigd, of binnen de hulp pop-up te klikken om door de inhoud te scrollen.
+* Om een beschrijving van een termijn met een aangrenzend hulppictogram (![&#x200B; het pictogram van de Hulp &#x200B;](/help/search-social-commerce/assets/help-field.png " te bekijken Hulp ")), uw curseur over het hulppictogram te houden tot u wordt gebeëindigd, of binnen de hulp pop-up te klikken om door de inhoud te scrollen.
 
   Om verbindingen binnen een hulponderwerp te openen, kunt u uw browser montages moeten vormen om pop-ups van de plaats van het Onderzoek, Sociale, &amp; Commerce toe te staan u gebruikt (zoals https://enterprise-na.efrontier.com voor Noord-Amerikaanse gebruikers of https://enterprise-intl.efrontier.com voor alle andere gebruikers).
 

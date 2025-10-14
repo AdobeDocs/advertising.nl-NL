@@ -41,11 +41,11 @@ U kunt ook op de volgende plaatsen een toewijzingsregel selecteren om de regel a
 
 ## Laatste gebeurtenis (de standaardwaarde)
 
-Attributes de omzetting aan de laatste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de laatste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [.](/help/search-social-commerce/glossary.md#i-j)
+Attributes de omzetting aan de laatste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [&#x200B; klikt raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de laatste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [.](/help/search-social-commerce/glossary.md#i-j)
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, dan wordt de omzetting beschouwd a *mening-door*, die of volgens 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, dan wordt de omzetting beschouwd a *mening-door*, die of volgens 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
-![ de percentages van de de gebeurtenisattributie van de laatste gebeurtenis ](/help/search-social-commerce/assets/attribution-percent-last-event.png " De percentages van de gebeurtenisattributie ")
+![&#x200B; de percentages van de de gebeurtenisattributie van de laatste gebeurtenis &#x200B;](/help/search-social-commerce/assets/attribution-percent-last-event.png " De percentages van de gebeurtenisattributie ")
 
 <!-- start examples as collapsible content -->
 
@@ -83,11 +83,11 @@ De conversie wordt toegeschreven aan Impression 3. Omdat de conversie een doorki
 
 ## Eerste gebeurtenis
 
-Attributes de omzetting aan de eerste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de eerste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [. ](/help/search-social-commerce/glossary.md#i-j) Deze regel is alleen beschikbaar voor gebeurtenissen op afzonderlijke apparaten.
+Attributes de omzetting aan de eerste betaalde klik in de reeks binnen het 2&rbrace; de imitatieraadplegingsvenster van de adverteerder [&#x200B; klikt raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) of, als geen betaalde kliks voorkwam, aan de eerste indruk binnen het 2&rbrace; imkerraadplegingsvenster van de adverteerder [. &#x200B;](/help/search-social-commerce/glossary.md#i-j) Deze regel is alleen beschikbaar voor gebeurtenissen op afzonderlijke apparaten.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
-![ de percentages van de gebeurtenisattributie van de eerste gebeurtenis ](/help/search-social-commerce/assets/attribution-percent-first-event.png " Eerste percentages van de gebeurtenisattributie ")
+![&#x200B; de percentages van de gebeurtenisattributie van de eerste gebeurtenis &#x200B;](/help/search-social-commerce/assets/attribution-percent-first-event.png " Eerste percentages van de gebeurtenisattributie ")
 
 <!-- start examples as collapsible content -->
 
@@ -126,17 +126,17 @@ De sectie &quot;Attributie&quot; van de rapportinstellingen wordt toegepast:
 
 ## Dikte eerste gebeurtenis meer
 
-Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ het venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en opeenvolgend minder gewicht aan de volgende gebeurtenissen.Deze regel is beschikbaar voor gebeurtenissen over enige slechts apparaten.
+Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [&#x200B; voorkwamen klikken raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; het venster van de imitatieraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en opeenvolgend minder gewicht aan de volgende gebeurtenissen.Deze regel is beschikbaar voor gebeurtenissen over enige slechts apparaten.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
-* In Onderzoek, Sociaal, &amp; Commerce, wordt de [ impressie met voeten getreden gewicht ](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
+* In Onderzoek, Sociaal, &amp; Commerce, wordt de [&#x200B; impressie met voeten getreden gewicht &#x200B;](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP houdt geen rekening met de indruk dat gewichten voorrang hebben op gewichten.
 
-![ de eerste gebeurtenis van het gewicht van 0&rbrace; eerste gebeurtenis meer attributiepercentages {van 1} Gewicht eerste gebeurtenis meer attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-weight-first-more.png "")
+![&#x200B; de eerste gebeurtenis van het gewicht van 0&rbrace; eerste gebeurtenis meer attributiepercentages {van 1} Gewicht eerste gebeurtenis meer attributiepercentages &#x200B;](/help/search-social-commerce/assets/attribution-percent-weight-first-more.png "")
 
 <!-- start examples as collapsible content -->
 
@@ -188,17 +188,17 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 >
 >Deze regel is alleen beschikbaar voor gebeurtenissen op afzonderlijke apparaten.
 
-Attributes evenzeer aan elke gebeurtenis in de reeks die binnen het van de adverteerder [ voorkwam klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ het venster van de imkerraadpleging ](/help/search-social-commerce/glossary.md#i-j).
+Attributes evenzeer aan elke gebeurtenis in de reeks die binnen het van de adverteerder [&#x200B; voorkwam klikken raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; het venster van de imkerraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j).
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
-* In Onderzoek, Sociaal, &amp; Commerce, wordt de [ impressie met voeten getreden gewicht ](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
+* In Onderzoek, Sociaal, &amp; Commerce, wordt de [&#x200B; impressie met voeten getreden gewicht &#x200B;](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP houdt geen rekening met de indruk dat gewichten voorrang hebben op gewichten.
 
-![ Even attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-even.png " de attributiepercentages ")
+![&#x200B; Even attributiepercentages &#x200B;](/help/search-social-commerce/assets/attribution-percent-even.png " de attributiepercentages ")
 
 <!-- start examples as collapsible content -->
 
@@ -248,17 +248,17 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 
 ## Dikte laatste gebeurtenis meer
 
-Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de laatste gebeurtenis en opeenvolgend minder gewicht aan de voorafgaande gebeurtenissen.
+Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [&#x200B; voorkwamen klikken raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; venster van de imitatieraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de laatste gebeurtenis en opeenvolgend minder gewicht aan de voorafgaande gebeurtenissen.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
-* In Onderzoek, Sociaal, &amp; Commerce, wordt de [ impressie met voeten getreden gewicht ](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
+* In Onderzoek, Sociaal, &amp; Commerce, wordt de [&#x200B; impressie met voeten getreden gewicht &#x200B;](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP houdt geen rekening met de indruk dat gewichten voorrang hebben op gewichten.
 
-![ Dikte laatste gebeurtenis meer attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-weight-last-more.png " Dikte laatste gebeurtenis meer attributiepercentages ")
+![&#x200B; Dikte laatste gebeurtenis meer attributiepercentages &#x200B;](/help/search-social-commerce/assets/attribution-percent-weight-last-more.png " Dikte laatste gebeurtenis meer attributiepercentages ")
 
 <!-- start examples as collapsible content -->
 
@@ -306,17 +306,17 @@ Omdat de conversie een doorkijkbenadering is, wordt de doorkijkwaarderingsmethod
 
 ## U-gevormd
 
-Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [ voorkwamen klikken raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en laatste gebeurtenissen, met opeenvolgend minder gewicht aan de gebeurtenissen in het midden van de omzettingsweg.
+Attributes de omzetting aan alle gebeurtenissen in de reeks die binnen het paneel van de adverteerder [&#x200B; voorkwamen klikken raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; venster van de imitatieraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j), maar geeft het meeste gewicht aan de eerste gebeurtenis en laatste gebeurtenissen, met opeenvolgend minder gewicht aan de gebeurtenissen in het midden van de omzettingsweg.
 
-Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [ plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
+Wanneer de omzetting slechts door impressies wordt voorafgegaan, wordt de omzetting beschouwd a *mening-door*, die of volgens het 2&rbrace; mening-door gewicht dat van de adverteerder [&#x200B; plaatst of - zoals gespecificeerd - volgens de mening-door waarderingsmethode wordt gewogen die in het rapport, de mening, of de parameters van de douanesimulatie wordt gespecificeerd.](/help/search-social-commerce/glossary.md#uv)
 
 Wanneer het conversiepad zowel &#39;betaal&#39; als &#39;impressions&#39; bevat, worden de afbeeldingen door verschillende Adobe Advertising-producten anders behandeld:
 
-* In Onderzoek, Sociaal, &amp; Commerce, wordt de [ impressie met voeten getreden gewicht ](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
+* In Onderzoek, Sociaal, &amp; Commerce, wordt de [&#x200B; impressie met voeten getreden gewicht &#x200B;](/help/search-social-commerce/glossary.md#i-j) — die in de de impressie van de adverteerder het gewicht dat en in rapport wordt gespecificeerd, mening, of de parameters van de douanesimulatie — eerst toegepast op de beelden.
 
 * In DSP worden de afbeeldingen genegeerd en worden alleen de klikken gewogen. DSP houdt geen rekening met de indruk dat gewichten voorrang hebben op gewichten.
 
-![ U vormde attributiepercentages ](/help/search-social-commerce/assets/attribution-percent-u-shaped.png " U vormde attributiepercentages ")
+![&#x200B; U vormde attributiepercentages &#x200B;](/help/search-social-commerce/assets/attribution-percent-u-shaped.png " U vormde attributiepercentages ")
 
 <!-- start examples as collapsible content -->
 

@@ -36,9 +36,9 @@ Uitgebreide dynamische zoekopdrachten (eDSA&#39;s) zijn alleen beschikbaar in dy
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Microsoft Advertising]  multimedia en montages ](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  multimedia en montages &#x200B;](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising]  product en montages &#x200B;](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages &#x200B;](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-microsoft-rsa.md)

@@ -17,7 +17,7 @@ ht-degree: 0%
 
       * Klik op **[!UICONTROL Save as Draft]** om de ervaring zonder alle vereiste creatieve bundels op te slaan.
 
-        U kunt geen ad markering voor a [ ontwerp ](/help/creative/experiences/experience-about.md#experience-statuses) ervaring tot stand brengen.
+        U kunt geen ad markering voor a [&#x200B; ontwerp &#x200B;](/help/creative/experiences/experience-about.md#experience-statuses) ervaring tot stand brengen.
 
          * Klik op **[!UICONTROL Assign Default Creatives]** als u de standaard creatieve waarde wilt toewijzen aan elk doel waaraan nog geen creatieve bundel is toegewezen. Klik op **[!UICONTROL Save]** en **[!UICONTROL OK]** nadat u de bijgewerkte structuur hebt bekeken waaraan de standaardcreatieven zijn toegewezen.
 

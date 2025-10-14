@@ -18,7 +18,7 @@ U kunt traceringscampagnes voor uw [!DNL Naver] -accounts maken, zodat u de pres
 
 Bij het bijhouden van campagnes worden uw bestaande campagnes, groepen en trefwoorden gerepliceerd. Nadat u de accountstructuur hebt gemaakt in Zoeken, Sociaal en Commerce en de oorspronkelijke campagnes in het advertentienetwerk hebt bijgehouden, kunt u dagelijkse netwerkverkeersmetingen uploaden voor uw trefwoorden of advertenties. Zoeken, Sociaal en Commerce kunnen uw conversies vervolgens aan uw advertenties en trefwoorden toewijzen.
 
-U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individuele campagne, ad groep, of sleutelwoord/advertentie volgen. U kunt ook informatie over hen in het meest basisch, geavanceerd, en hulprapporten, samen met gegevens voor uw andere advertentienetwerken omvatten. Steun voor het uitvoeren van de metriek naar Adobe Analytics is niet beschikbaar, maar het Onderzoek, Sociale, &amp; Commerce kan [ metriek synchroniseren u binnen  [!DNL Analytics]](/help/integrations/analytics/analytics-data-in-advertising.md) in Onderzoek, Sociale, &amp; Commerce volgt.
+U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individuele campagne, ad groep, of sleutelwoord/advertentie volgen. U kunt ook informatie over hen in het meest basisch, geavanceerd, en hulprapporten, samen met gegevens voor uw andere advertentienetwerken omvatten. Steun voor het uitvoeren van de metriek naar Adobe Analytics is niet beschikbaar, maar het Onderzoek, Sociale, &amp; Commerce kan [&#x200B; metriek synchroniseren u binnen  [!DNL Analytics]](/help/integrations/analytics/analytics-data-in-advertising.md) in Onderzoek, Sociale, &amp; Commerce volgt.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individu
 
 1. Campagnes voor bijhouden maken in Zoeken, Sociaal en Commerce:
 
-   1. Creeer [ dummy details van de netwerkrekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md). Als u meerdere accounts in één advertentienetwerk hebt, consolideert u deze vervolgens in één account in de weergave [!UICONTROL Accounts] .
+   1. Creeer [&#x200B; dummy details van de netwerkrekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md). Als u meerdere accounts in één advertentienetwerk hebt, consolideert u deze vervolgens in één account in de weergave [!UICONTROL Accounts] .
 
       [!DNL Naver] biedt geen API-ondersteuning voor het uploaden van trackingparameters naar het advertentienetwerk. Nochtans, kunt u het volgen parameters produceren gebruikend bulksbladen en manueel hen toevoegen binnen het advertentienetwerk (per Stap 2). Om de volgende parameters te produceren, moet u de &quot;[!UICONTROL EF Redirect]&quot;het volgen methode gebruiken. U kunt optioneel alle gewenste toevoegingsparameters toevoegen.
 
@@ -38,9 +38,9 @@ U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individu
 
          U kunt gegevens over trefwoorden opnemen, zoals de bovenliggende campagnes en ad-groups.
 
-      1. Bewerk het bulksbladdossier, indien nodig, zodat het het Onderzoek, Sociale, &amp; formaat van het Commerce [ bulksheet volgt dat voor  [!DNL Naver]  wordt vereist rekeningen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md).
+      1. Bewerk het bulksbladdossier, indien nodig, zodat het het Onderzoek, Sociale, &amp; formaat van het Commerce [&#x200B; bulksheet volgt dat voor  [!DNL Naver]  wordt vereist rekeningen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md).
 
-      1. In Onderzoek, Sociaal, &amp; Commerce, [ uploadt het bulksbladdossier ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md).
+      1. In Onderzoek, Sociaal, &amp; Commerce, [&#x200B; uploadt het bulksbladdossier &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md).
 
          >[!NOTE]
          >
@@ -48,7 +48,7 @@ U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individu
 
 1. Tekstspatiëring instellen voor de campagnes:
 
-   1. In Onderzoek, Sociaal, &amp; Commerce, [ download een nieuw bulksheet dossier ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) gebruikend de optie aan &quot;[!UICONTROL Generate Tracking URLs].&quot;
+   1. In Onderzoek, Sociaal, &amp; Commerce, [&#x200B; download een nieuw bulksheet dossier &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) gebruikend de optie aan &quot;[!UICONTROL Generate Tracking URLs].&quot;
 
    Als u de optie &quot;[!UICONTROL Generate Tracking URLs]&quot; gebruikt, wordt in het veld [!UICONTROL Destination URL] voor elk trefwoord de code Zoeken, Sociaal en Commerce-tracking toegevoegd, die vooraf aan de waarde [!UICONTROL Base URL] is ingesteld.
 
@@ -60,7 +60,7 @@ U kunt prestatiesmetriek over al uw campagnes en voor om het even welke individu
 
       U kunt URLs aan de relevante entiteiten toevoegen door het dossier aan het netwerk binnen de redacteur van het ad netwerk te uploaden. In dat geval, kunt u sommige kolommen, volgens de gegevensvereisten van het netwerk moeten verwijderen. Anders moet u de URL&#39;s handmatig invoeren in het netwerk.
 
-1. Periodiek download klik en kostengegevens die dagelijks van het advertentienetwerk voor de sleutelwoorden of ad groep-vlakke merkadvertenties worden samengevoegd die u volgt, en dan [ uploadt de klik en kostengegevens ](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md) aan Onderzoek, Sociale, &amp; Commerce in het [ vereiste formaat ](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md).
+1. Periodiek download klik en kostengegevens die dagelijks van het advertentienetwerk voor de sleutelwoorden of ad groep-vlakke merkadvertenties worden samengevoegd die u volgt, en dan [&#x200B; uploadt de klik en kostengegevens &#x200B;](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md) aan Onderzoek, Sociale, &amp; Commerce in het [&#x200B; vereiste formaat &#x200B;](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md).
 
    Neem de volledige accounthiërarchie en alle gegevens op die u wilt opnemen. Zoeken, Sociaal en Commerce komen overeen met de geüploade gegevens met gegevens in bestaande campagnes.
 
@@ -72,7 +72,7 @@ Alle geüploade volggegevens zijn beschikbaar via [!UICONTROL Search, Social, & 
 
 >[!MORELIKETHIS]
 >
->* [ Bijlage - Vereiste bulksheet- gegevens voor  [!DNL Naver]  rekeningen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
->* [ Upload verkeer en omzettingsmetriek voor  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md)
->* [ Metrische gegevensvereisten voor  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
->* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [&#x200B; Bijlage - Vereiste bulksheet- gegevens voor  [!DNL Naver]  rekeningen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-naver.md)
+>* [&#x200B; Upload verkeer en omzettingsmetriek voor  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-upload-metrics.md)
+>* [&#x200B; Metrische gegevensvereisten voor  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/tools/metrics-upload-tracking-campaigns/naver-tracking-campaigns-data-requirements.md)
+>* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)

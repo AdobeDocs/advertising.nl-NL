@@ -24,5 +24,5 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Ad Groups] worden alle adverten
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor ad groepen ](ad-group-constraint-assignments-manage.md)
->* [ gegevens van de Download van de [!UICONTROL Ad Groups] mening ](ad-group-view-report.md)
+>* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](ad-group-constraint-assignments-manage.md)
+>* [&#x200B; gegevens van de Download van de [!UICONTROL Ad Groups] mening &#x200B;](ad-group-view-report.md)

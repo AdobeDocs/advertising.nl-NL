@@ -51,7 +51,7 @@ Het volgende is de kolommen die voor elk rapport beschikbaar zijn. De standaardk
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de rapporten van de modelnauwkeurigheid ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
->* [ De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
->* [ produceer een rapport van de modelnauwkeurigheid ](model-accuracy-report-generate.md)
->* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [&#x200B; Ongeveer de rapporten van de modelnauwkeurigheid &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md)
+>* [&#x200B; De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
+>* [&#x200B; produceer een rapport van de modelnauwkeurigheid &#x200B;](model-accuracy-report-generate.md)
+>* [&#x200B; de montages van het modelnauwkeurigheidsrapport &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)

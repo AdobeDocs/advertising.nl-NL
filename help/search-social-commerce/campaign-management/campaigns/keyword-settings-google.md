@@ -14,7 +14,7 @@ ht-degree: 0%
 
 U kunt sleutelwoorden voor campagnes tot stand brengen die het onderzoek en vertoningsnetwerken gebruiken.
 
-Zie de hulp van Ads van Google voor [ sleutelwoordgrenzen per rekening ](https://support.google.com/google-ads/answer/6372658).
+Zie de hulp van Ads van Google voor [&#x200B; sleutelwoordgrenzen per rekening &#x200B;](https://support.google.com/google-ads/answer/6372658).
 
 ## [!UICONTROL Keyword Details]
 
@@ -40,9 +40,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [ `{param1}` ](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
+**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [&#x200B; `{param1}` &#x200B;](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
 
-**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [ `{param2}` ](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
+**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje [&#x200B; `{param2}` &#x200B;](https://support.google.com/google-ads/answer/6305348) dynamische substitutiereeks bevat.
 
 ## URL-opties
 
@@ -60,4 +60,4 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!MORELIKETHIS]
 >
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

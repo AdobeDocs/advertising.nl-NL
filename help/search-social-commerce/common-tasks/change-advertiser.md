@@ -18,7 +18,7 @@ ht-degree: 0%
 
 * Selecteer de adverteerder in de werkbalk boven de datatabel.
 
-  ![ Advertiser selecteur in toolbar ](/help/search-social-commerce/assets/advertiser-selector.png " Advertiser selecteur in toolbar ")
+  ![&#x200B; Advertiser selecteur in toolbar &#x200B;](/help/search-social-commerce/assets/advertiser-selector.png " Advertiser selecteur in toolbar ")
 
 ## (Verouderde gebruikersinterface) Gegevens weergeven voor een andere adverteerder
 

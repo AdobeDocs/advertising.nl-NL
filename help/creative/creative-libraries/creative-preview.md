@@ -42,13 +42,13 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
    <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
-1. (Facultatief) om creatief te downloaden, klik ![ Download ](/help/creative/assets/download.png " ").
+1. (Facultatief) om creatief te downloaden, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
->* [ geeft standaardcreatieve producten ](/help/creative/creative-libraries/creative-edit-standard.md) uit
->* [ de Creatieven van de Download ](/help/creative/creative-libraries/creative-download.md)
->* [ Schrap creatieve ](/help/creative/creative-libraries/creative-delete.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md) toe
+>* [&#x200B; geeft standaardcreatieve producten &#x200B;](/help/creative/creative-libraries/creative-edit-standard.md) uit
+>* [&#x200B; de Creatieven van de Download &#x200B;](/help/creative/creative-libraries/creative-download.md)
+>* [&#x200B; Schrap creatieve &#x200B;](/help/creative/creative-libraries/creative-delete.md)

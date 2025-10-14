@@ -36,7 +36,7 @@ In de uitgavenaanbevelingen worden de volgende gegevens vermeld:
 
    * Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Spend Planner]** .
 
-   * Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Simulations]** . In de toolbar boven de gegevenslijst, klik ![ de Planner van de Uitgaven ](/help/search-social-commerce/assets/spend-planner-icon.png " de Planner van de Uitgaven ").
+   * Klik in het hoofdmenu op **[!UICONTROL Plan]>[!UICONTROL Simulations]** . In de toolbar boven de gegevenslijst, klik ![&#x200B; de Planner van de Uitgaven &#x200B;](/help/search-social-commerce/assets/spend-planner-icon.png " de Planner van de Uitgaven ").
 
    Het gereedschap [!UICONTROL Spend Recommendation] wordt geopend in de oudere gebruikersinterface.
 
@@ -107,6 +107,6 @@ U kunt rapportgegevens vanuit elke gewenste sectie van het [!UICONTROL Spend Rec
 
 1. Een rapport met aanbevelingen voor uitgaven genereren voor geselecteerde portfolio&#39;s.
 
-1. Boven het rapport, klik ![ Download ](/help/search-social-commerce/assets/download-spend-recommendation.png " Download ").
+1. Boven het rapport, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download-spend-recommendation.png " Download ").
 
    Open of sla het bestand op volgens de normale procedure van uw browser.  Raadpleeg de online Help van uw browser voor meer informatie.

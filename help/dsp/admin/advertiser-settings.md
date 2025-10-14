@@ -51,7 +51,7 @@ Voor de gegevens die in de rapportsuites worden weergegeven, moet de juiste inst
 >
 >Als u een eerder gekoppelde rapportsuite verwijdert, wisselt DSP geen gegevens meer uit met die suite. Verwacht gegevensschommelingen te zien.
 
-Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[ Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
+Voor meer informatie over de integratie met [!DNL Analytics], zie &quot;[&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md).&quot;
 
 **[!UICONTROL Audiences]** > **[!UICONTROL Adobe Analytics Cloud]:** (Advertisers met Adobe Audience Manager of Adobe Analytics; optioneel) Een Audience Manager- of [!DNL Analytics] -account waaruit DSP segmentmetagegevens, hiërarchiegegevens en unieke publieksgegevens opvraagt voor het gehele Adobe-publiek van de adverteerder. Dit omvat gegevens voor:
 
@@ -86,7 +86,7 @@ U kunt naar keuze standaarddoelstellingen voor de nieuwe plaatsen van de adverte
 
 #### [!UICONTROL Contextual Filtering]
 
-Typen [!DNL Comscore]-, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [!DNL Peer39] contextuele filters die moeten worden toegepast. U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
+Typen [!DNL Comscore]-, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [!DNL Peer39] contextuele filters die moeten worden toegepast. U kunt de adverteerder-vlakke montages op het [&#x200B; plaatsingsniveau &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-context}
 
@@ -108,7 +108,7 @@ Typen [!DNL Comscore]-, [!DNL DoubleVerify] -, [!DNL Integral Ad Science] - en [
 
 #### [!UICONTROL Pre-Bid Fraud Blocking] {#prebid-fraud-blocking}
 
-Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en verdachte activiteiten die worden gemeten via [!DNL DoubleVerify] , [!DNL Integral Ad Science] en [!DNL Peer39] . U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
+Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en verdachte activiteiten die worden gemeten via [!DNL DoubleVerify] , [!DNL Integral Ad Science] en [!DNL Peer39] . U kunt de adverteerder-vlakke montages op het [&#x200B; plaatsingsniveau &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-fraud}
 
@@ -126,25 +126,25 @@ Soorten sites die moeten worden geblokkeerd op basis van frauduleus verkeer en v
 
 #### [!UICONTROL Pre-Bid Viewability]
 
-Optionele weergavefilters vóór biedingen door [!DNL DoubleVerify] en [!DNL Integral Ad Science] om toe te passen op plaatsingen. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen. U kunt de adverteerder-vlakke montages op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
+Optionele weergavefilters vóór biedingen door [!DNL DoubleVerify] en [!DNL Integral Ad Science] om toe te passen op plaatsingen. De standaardinstellingen op adverteerderniveau worden geselecteerd voor nieuwe plaatsingen. U kunt de adverteerder-vlakke montages op het [&#x200B; plaatsingsniveau &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) met voeten treden.
 
 ##### [!UICONTROL DoubleVerify] {#doubleverify-viewability}
 
 ###### Video
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Include URL's whose average video viewability rate is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Impressions with Insufficient IAB Viewability Data]**
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Include URL's whose average completion & fully viewable rate is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Include URL's whose average player size composition is]** . Selecteer met deze optie de criteria.
 
-**&#x200B; **&#x200B;[!UICONTROL Impressions with Insufficient Player Size Statistics]**
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Impressions with Insufficient Player Size Statistics]**
 
 ###### Weergave
 
-**&#x200B; **&#x200B;[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
+**&#x200B; &#x200B;**&#x200B;[!UICONTROL Only target URL's or Apps that have historically achieved a display viewability rate of]** . Selecteer met deze optie de criteria.
 
 * **[!UICONTROL Impressions with Insufficient IAB Viewability Performance Data]**
 
@@ -158,13 +158,13 @@ Een optioneel **[!UICONTROL Video Viewability Targets]** filter en een optioneel
 
 #### [!UICONTROL Ads.text]
 
-**[!UICONTROL Ads.txt Filtering]:** Door gebrek, welk niveau van [[!DNL Ads.txt]  pre-bieder filtreren ](https://iabtechlab.com/ads-txt-about/) aan gebruik door de lijst van elke uitgever [!DNL Authorized Digital Sellers] leveraging:
+**[!UICONTROL Ads.txt Filtering]:** Door gebrek, welk niveau van [[!DNL Ads.txt]  pre-bieder filtreren &#x200B;](https://iabtechlab.com/ads-txt-about/) aan gebruik door de lijst van elke uitgever [!DNL Authorized Digital Sellers] leveraging:
 * *[!UICONTROL Opt out of ads.txt (default)]*: voorraad kopen van alle verkopers.
 * *[!UICONTROL Ads.txt sellers + sites without ads.txt]*: prioriteit geven aan inkoopvoorraad van geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers en wederverkopers van een domein.
 * *[!UICONTROL Ads.txt sellers only]*: voorraad alleen kopen bij geautoriseerde directe verkopers van een domein.
 
-U kunt adverteerder-niveau met voeten treden die op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) plaatsen.
+U kunt adverteerder-niveau met voeten treden die op het [&#x200B; plaatsingsniveau &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) plaatsen.
 
 #### [!UICONTROL Safe Site Block]
 
@@ -178,6 +178,6 @@ De id moet beginnen met &quot;51&quot; en uit acht cijfers bestaan. U kunt de id
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Rekening Advertiser ](/help/dsp/admin/advertiser-create.md)
+>* [&#x200B; creeer een Rekening Advertiser &#x200B;](/help/dsp/admin/advertiser-create.md)
 
 <!-- >* [View the Advertiser List for the Account](/help/dsp/admin/advertiser-view.md) -->

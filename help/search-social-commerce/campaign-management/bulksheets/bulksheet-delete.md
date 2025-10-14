@@ -28,6 +28,6 @@ U kunt handmatig werkbladbestanden, bestanden met validatiefouten van de pagina 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
->* [ Einde een bulksbladbaan lopend ](bulksheet-stop-job.md)
->* [ de Uitvoer een geproduceerd of geupload bulksbladdossier ](bulksheet-export.md)
+>* [&#x200B; Ongeveer het beheren van campagnegegevens gebruikend bulksbladen &#x200B;](bulksheet-about.md)
+>* [&#x200B; Einde een bulksbladbaan lopend &#x200B;](bulksheet-stop-job.md)
+>* [&#x200B; de Uitvoer een geproduceerd of geupload bulksbladdossier &#x200B;](bulksheet-export.md)

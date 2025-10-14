@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Productfilters voor winkelcampagne
 
-Zie ook de [!DNL Google Ads] hulp &quot;[ een het winkelen campagne met productgroepen ](https://support.google.com/google-ads/answer/6275317)&quot;en [!DNL Microsoft Advertising] hulp &quot;[ begrijpen en gebruiken productgroepen ](https://help.ads.microsoft.com/#apex/bae/en/56782).&quot;
+Zie ook de [!DNL Google Ads] hulp &quot;[&#x200B; een het winkelen campagne met productgroepen &#x200B;](https://support.google.com/google-ads/answer/6275317)&quot;en [!DNL Microsoft Advertising] hulp &quot;[&#x200B; begrijpen en gebruiken productgroepen &#x200B;](https://help.ads.microsoft.com/#apex/bae/en/56782).&quot;
 
 | Winkelnetwerk | Dimension product | Attributen | Notities |
 |----|----|----|----|
@@ -27,13 +27,13 @@ Zie ook de [!DNL Google Ads] hulp &quot;[ een het winkelen campagne met productg
 
 >[!MORELIKETHIS]
 >
->* [ voert  [!DNL Google Ads]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md) uit
->* [ voert  [!DNL Microsoft Advertising]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md) uit
->* [ Ongeveer het winkelen productgroepen ](product-group-about.md)
->* [ beheer het winkelen productgroepen ](product-group-manage.md)
->* [[!DNL Google Ads]  de montages van de productgroep ](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
->* [[!DNL Microsoft Advertising]  de montages van de productgroep ](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
->* [[!DNL Google Ads]  het winkelen en malplaatjemontages voor inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
->* [[!DNL Microsoft Advertising]  het winkelen en malplaatjemontages voor inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
->* [ Vereiste gegevens voor  [!DNL Google Ads]  bulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
->* [ Vereiste gegevens voor  [!DNL Microsoft Advertising]  bulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)
+>* [&#x200B; voert  [!DNL Google Ads]  het winkelen campagnes &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md) uit
+>* [&#x200B; voert  [!DNL Microsoft Advertising]  het winkelen campagnes &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/microsoft-shopping-campaigns.md) uit
+>* [&#x200B; Ongeveer het winkelen productgroepen &#x200B;](product-group-about.md)
+>* [&#x200B; beheer het winkelen productgroepen &#x200B;](product-group-manage.md)
+>* [[!DNL Google Ads]  de montages van de productgroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-google.md)
+>* [[!DNL Microsoft Advertising]  de montages van de productgroep &#x200B;](/help/search-social-commerce/campaign-management/campaigns/product-group-settings-microsoft.md)
+>* [[!DNL Google Ads]  het winkelen en malplaatjemontages voor inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md)
+>* [[!DNL Microsoft Advertising]  het winkelen en malplaatjemontages voor inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md)
+>* [&#x200B; Vereiste gegevens voor  [!DNL Google Ads]  bulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-google.md)
+>* [&#x200B; Vereiste gegevens voor  [!DNL Microsoft Advertising]  bulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-data-microsoft.md)

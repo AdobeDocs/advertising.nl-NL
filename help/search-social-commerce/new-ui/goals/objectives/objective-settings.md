@@ -17,8 +17,8 @@ Raadpleeg de Help in de gebruikersinterface of in de Optimalisatiegids, die besc
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ creeer een doel ](objective-create.md)
->* [ geef een doelstelling ](objective-edit.md) uit
->* [ Schrap een doelstelling ](objective-delete.md)
->* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
+>* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
+>* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)

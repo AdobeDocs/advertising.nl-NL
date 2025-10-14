@@ -14,7 +14,7 @@ ht-degree: 0%
 
 | Kolom | Beschrijving |
 | ---- | ---- |
-| \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | De waarde voor metrisch metrisch van a [ u ](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md) hebt gecreeerd die van bestaande metriek wordt berekend. |
+| \[Advertiser-specifieke, aangepaste (afgeleide) metriek\] | De waarde voor metrisch metrisch van a [&#x200B; u &#x200B;](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md) hebt gecreeerd die van bestaande metriek wordt berekend. |
 | \[Advertiser-specifieke labelclassificaties\] | Eventuele labelclassificaties die momenteel op entiteitsniveau op de entiteit worden toegepast. Classificaties met meerdere labels worden gescheiden met komma&#39;s (,). |
 | \[Specifieke conversiemetriek voor adverteerders\] | Het aantal omzettingen voor een gespecificeerde metrische of metrische plaatsbepaling van de omzetting. |
 | \[Google-bijgehouden conversies\] | Zie de vermelding voor &quot;GGL\*, GGL_CT\*, and GGL_XD_CT\*.&quot; |
@@ -110,7 +110,7 @@ ht-degree: 0%
 | [!UICONTROL Exclude (yes/no)] | Of biedingen zijn uitgesloten (<i>[!UICONTROL Yes]</i>) of dat biedingen zijn toegestaan (<i>[!UICONTROL No]</i> ) voor advertenties voor overeenkomende producten. |
 | [!UICONTROL First Page CPC] | (Alleen Google-campagnes) De kosten per klik (CPC) voor advertenties die op de eerste pagina met zoekresultaten worden weergegeven tijdens het opgegeven datumbereik. |
 | [!UICONTROL Frequency] | ([!DNL Meta] campagnes slechts) het gemiddelde aantal tijden iemand uw advertentie zag. |
-| `GGL*` , `GGL_CT*` en `GGL_XD_CT*` [[!DNL Google Ads] bijgehouden conversies] | ([!DNL Google Ads] campagnes op de zoek en het winkelen netwerken) [!DNL Google Ads] - getraceerde omzettingen, met maximaal drie afzonderlijke metriek voor elke omzetting:<ul><li>`GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals Aankoop GL).</li><li>`GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).</li><li>`GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door [!DNL Google Ads] te beginnen met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GGL_XD_CT_Purchase).</li></ul><br> elke omzetting wordt geregistreerd door biedingseenheid en klikdatum; het is niet beschikbaar op het gebeurtenisniveau. Voor meer informatie over [!DNL Google Ads] - gevolgde omzettingen, zie &quot;[[!DNL Google Ads]  omzettingsgegevens in Onderzoek, Sociale, &amp; Commerce ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).&quot; |
+| `GGL*` , `GGL_CT*` en `GGL_XD_CT*` [[!DNL Google Ads] bijgehouden conversies] | ([!DNL Google Ads] campagnes op de zoek en het winkelen netwerken) [!DNL Google Ads] - getraceerde omzettingen, met maximaal drie afzonderlijke metriek voor elke omzetting:<ul><li>`GGL*` — (Wanneer u dit bijhoudt) De omzettingswaarde voor het trefwoord, te beginnen met het voorvoegsel &quot;GGL&quot; (zoals Aankoop GL).</li><li>`GGL_CT*` — Het aantal (aantal) conversies, beginnend met het voorvoegsel &quot;GGL_CT&quot; (zoals GGL_CT_Purchase).</li><li>`GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door [!DNL Google Ads] te beginnen met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GGL_XD_CT_Purchase).</li></ul><br> elke omzetting wordt geregistreerd door biedingseenheid en klikdatum; het is niet beschikbaar op het gebeurtenisniveau. Voor meer informatie over [!DNL Google Ads] - gevolgde omzettingen, zie &quot;[[!DNL Google Ads]  omzettingsgegevens in Onderzoek, Sociale, &amp; Commerce &#x200B;](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md).&quot; |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] slechts) het percentage van uw advertentie die als eerste en boven de organische onderzoeksresultaten worden getoond. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] slechts) het percentage van uw advertentie die boven de biologische onderzoeksresultaten wordt getoond. |
 | [!UICONTROL Impressions] | The number of ad impressions during the specified date range. |
@@ -200,6 +200,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer basis en geavanceerde rapporten ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
->* [ produceer een basis of geavanceerd rapport ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
->* [ Basis en geavanceerde rapportmontages ](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)
+>* [&#x200B; Ongeveer basis en geavanceerde rapporten &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-about.md)
+>* [&#x200B; produceer een basis of geavanceerd rapport &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-generate.md)
+>* [&#x200B; Basis en geavanceerde rapportmontages &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/basic-advanced-report-settings.md)

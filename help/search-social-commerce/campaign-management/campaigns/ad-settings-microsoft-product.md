@@ -14,7 +14,7 @@ ht-degree: 0%
 
 De hoofdtekst van de advertentie wordt automatisch gemaakt op basis van de productinformatie in [!DNL Microsoft Merchant Center] , op basis van de productgroepen die voor de advertentiegroep zijn bedoeld. U kunt optioneel promotielijnen maken die u kunt opnemen in productadvertenties in campagnes die gebruikmaken van het winkelnetwerk.
 
-Voor meer informatie over [!DNL Microsoft Advertising] productadvertenties, zie de [ documentatie van Advertising van Microsoft ](https://help.ads.microsoft.com/#apex/3/en/51082).
+Voor meer informatie over [!DNL Microsoft Advertising] productadvertenties, zie de [&#x200B; documentatie van Advertising van Microsoft &#x200B;](https://help.ads.microsoft.com/#apex/3/en/51082).
 
 ## [!UICONTROL Product Ad]
 
@@ -28,9 +28,9 @@ De promotielijn kan op verschillende plaatsen ten opzichte van de advertentie ve
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising]  multimedia en montages ](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  multimedia en montages &#x200B;](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages &#x200B;](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-microsoft-rsa.md)

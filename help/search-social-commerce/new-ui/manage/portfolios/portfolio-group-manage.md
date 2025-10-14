@@ -66,7 +66,7 @@ U kunt portfoliogroepen maken, portfolio&#39;s toevoegen aan en verwijderen uit 
 
 1. Klik in de werkbalk op **[!UICONTROL Portfolio Groups]** .
 
-1. Houd de curseur over de naam van de portefeuillegroep en klik ![ anders noemen de Groep van Portfolio ](/help/search-social-commerce/assets/edit-new.png " anders noemt de Groep van Portfolio ").
+1. Houd de curseur over de naam van de portefeuillegroep en klik ![&#x200B; anders noemen de Groep van Portfolio &#x200B;](/help/search-social-commerce/assets/edit-new.png " anders noemt de Groep van Portfolio ").
 
 1. Bewerk de **[!UICONTROL Name]** en klik op **[!UICONTROL Save]** .
 
@@ -76,7 +76,7 @@ U kunt portfoliogroepen maken, portfolio&#39;s toevoegen aan en verwijderen uit 
 
 1. Klik in de werkbalk op **[!UICONTROL Portfolio Groups]** .
 
-1. Houd de curseur over de naam van de portefeuillegroep en klik ![ Filter door de Groep van Portfolio ](/help/search-social-commerce/assets/filter-new.png " Filter door de Groep van Portfolio ").
+1. Houd de curseur over de naam van de portefeuillegroep en klik ![&#x200B; Filter door de Groep van Portfolio &#x200B;](/help/search-social-commerce/assets/filter-new.png " Filter door de Groep van Portfolio ").
 
 ## Een portfoliogroep verwijderen
 
@@ -84,13 +84,13 @@ U kunt portfoliogroepen maken, portfolio&#39;s toevoegen aan en verwijderen uit 
 
 1. Klik in de werkbalk op **[!UICONTROL Portfolio Groups]** .
 
-1. Houd de curseur over de naam van de portefeuillegroep en klik ![ de Groep van Portfolio van de Schrapping ](/help/search-social-commerce/assets/delete-new.png " de Groep van Portfolio ").
+1. Houd de curseur over de naam van de portefeuillegroep en klik ![&#x200B; de Groep van Portfolio van de Schrapping &#x200B;](/help/search-social-commerce/assets/delete-new.png " de Groep van Portfolio ").
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven ](portfolio-details.md)
->* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
->* [ Ongeveer portefeuilles ](portfolio-about.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven &#x200B;](portfolio-details.md)
+>* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)
+>* [&#x200B; Ongeveer portefeuilles &#x200B;](portfolio-about.md)

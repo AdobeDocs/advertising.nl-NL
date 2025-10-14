@@ -22,18 +22,18 @@ U kunt ook actieve of gepauzeerde zoektrefwoorden of negatieve trefwoorden verwi
 
 1. Schakel het selectievakje in naast elk trefwoord of negatief trefwoord waarvan u de status wilt wijzigen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik op de statusknop op de werkbalk:
 
-   * (Biddable sleutelwoorden slechts) om de rijen te activeren, activeert de klik ![ ](/help/search-social-commerce/assets/activate.png " ").
+   * (Biddable sleutelwoorden slechts) om de rijen te activeren, activeert de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/activate.png " ").
 
    * (Biddable sleutelwoorden slechts) om de rijen te pauzeren, ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ") klikken van de Pauze .
 
-   * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
+   * Om de rijen te schrappen, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer sleutelwoorden ](keyword-about.md)
->* [ beheert biddable sleutelwoorden ](keyword-manage.md)
->* [ creeer negatieve sleutelwoorden ](keyword-negative-create.md)
+>* [&#x200B; Ongeveer sleutelwoorden &#x200B;](keyword-about.md)
+>* [&#x200B; beheert biddable sleutelwoorden &#x200B;](keyword-manage.md)
+>* [&#x200B; creeer negatieve sleutelwoorden &#x200B;](keyword-negative-create.md)

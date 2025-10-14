@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Bijlage - Vereiste bulksbladgegevens voor [!DNL Yandex] -accounts
 
-Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Yandex] -accounts. U kunt of a) [ bulkbladdossiers voor bestaande rekeningen ](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[ Ondersteunde Formaten van het Dossier van het Bulksblad ](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
+Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Yandex] -accounts. U kunt of a) [&#x200B; bulkbladdossiers voor bestaande rekeningen &#x200B;](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[&#x200B; Ondersteunde Formaten van het Dossier van het Bulksblad &#x200B;](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
@@ -32,7 +32,7 @@ Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Me
 
 >[!TIP]
 >
->De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![ linkerruit van de Verbergen ](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
+>De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![&#x200B; linkerruit van de Verbergen &#x200B;](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Sitelink | Beschrijving |
 |----|----|-----|-----|----|----|----|
@@ -76,9 +76,9 @@ Platform,Acct Name,Campaign Name,Campaign Start Date,Campaign Budget,Delivery Me
 
 >[!MORELIKETHIS]
 >
->* [ Bijlage - de fouten van het Bulksheet ](../bulksheet-errors.md)
->* [ Verrichtingen u in bulksbladen kunt uitvoeren ](bulksheet-operations.md)
->* [ Ondersteunde formaten van het bulkbladdossier ](bulksheet-file-formats.md)
->* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
->* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
->* [ upload een bulksheet- dossier of verbeterd foutendossier ](../bulksheet-upload.md)
+>* [&#x200B; Bijlage - de fouten van het Bulksheet &#x200B;](../bulksheet-errors.md)
+>* [&#x200B; Verrichtingen u in bulksbladen kunt uitvoeren &#x200B;](bulksheet-operations.md)
+>* [&#x200B; Ondersteunde formaten van het bulkbladdossier &#x200B;](bulksheet-file-formats.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
+>* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [&#x200B; upload een bulksheet- dossier of verbeterd foutendossier &#x200B;](../bulksheet-upload.md)

@@ -34,5 +34,5 @@ U kunt zien waar een doel-URL een gebruiker daadwerkelijk verzendt door de code 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen ](tracking-tools-about.md)
->* [ produceer een Onderzoek, sociaal, &amp; Commerce klik-volgende URL gebruikend het Volgen hulpmiddel URLs ](click-tracking-url-generate.md)
+>* [&#x200B; Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen &#x200B;](tracking-tools-about.md)
+>* [&#x200B; produceer een Onderzoek, sociaal, &amp; Commerce klik-volgende URL gebruikend het Volgen hulpmiddel URLs &#x200B;](click-tracking-url-generate.md)

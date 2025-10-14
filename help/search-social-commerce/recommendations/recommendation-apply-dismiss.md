@@ -42,8 +42,8 @@ Bekijk de aanbevolen acties en een uitleg van de voordelen van de acties voor ee
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uitgeversaanbevelingen en inzichten steun ](recommendation-support.md)
->* [ Mening uw uitgeversaanbevelingen en prestatiesinzichten ](recommendation-view.md)
->* [ Mening het logboek van de uitgeversaanbevelingen voor een rekening ](recommendation-view-log.md)
->* [ Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles ](recommendation-best-practices.md)
+>* [&#x200B; Ongeveer uitgeversaanbevelingen en inzichten steun &#x200B;](recommendation-support.md)
+>* [&#x200B; Mening uw uitgeversaanbevelingen en prestatiesinzichten &#x200B;](recommendation-view.md)
+>* [&#x200B; Mening het logboek van de uitgeversaanbevelingen voor een rekening &#x200B;](recommendation-view-log.md)
+>* [&#x200B; Beste praktijken voor het gebruiken van uitgeversaanbevelingen met portefeuilles &#x200B;](recommendation-best-practices.md)
 

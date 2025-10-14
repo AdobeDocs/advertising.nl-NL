@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Advertisers met Advertising DSP en[!DNL Advertising Search, Social, & Commerce]*
 
-* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [ schema&#39;s ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/home) en [ datasets ](https://experienceleague.adobe.com/nl/docs/experience-platform/catalog/datasets/overview)) en [ technologieën van de gegevensinzameling ](https://experienceleague.adobe.com/nl/docs/experience-platform/collection/home) (met inbegrip van [ gegevensstromen ](https://experienceleague.adobe.com/nl/docs/experience-platform/datastreams/overview) en [ markeringen ](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home))
+* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [&#x200B; schema&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/home) en [&#x200B; datasets &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/catalog/datasets/overview)) en [&#x200B; technologieën van de gegevensinzameling &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/collection/home) (met inbegrip van [&#x200B; gegevensstromen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/datastreams/overview) en [&#x200B; markeringen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home))
 
   Voor deze technologieën is ondersteuning van uw Experience Platform-sitebeheerder vereist.
 
@@ -26,8 +26,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht ](overview.md)
->* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
->* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
->* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)
->* (de gebruikers van Adobe Analytics) [ verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics ](/help/integrations/analytics/rvars-to-evars.md).
+>* [&#x200B; Overzicht &#x200B;](overview.md)
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
+>* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
+>* [&#x200B; de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics &#x200B;](advertising-data-in-cja.md)
+>* (de gebruikers van Adobe Analytics) [&#x200B; verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics &#x200B;](/help/integrations/analytics/rvars-to-evars.md).

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 ## (Nieuwe interface) Een filterset bewerken in een beheerweergave
 
-1. In de toolbar, klik ![ Filter ](/help/search-social-commerce/assets/filter-new.png " van de Filter ").
+1. In de toolbar, klik ![&#x200B; Filter &#x200B;](/help/search-social-commerce/assets/filter-new.png " van de Filter ").
 
 1. Voer een van de volgende handelingen uit in de filterinstellingen:
 
@@ -28,7 +28,7 @@ ht-degree: 0%
 
       1. Definieer het filter op de kolom:
 
-         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
+         * (Filters zonder inputgebieden) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
 
          * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
@@ -44,11 +44,11 @@ ht-degree: 0%
 
 ## (Verouderde UI) Een filterset bewerken in een campagnebeheerweergave
 
-1. Klik ![ Filter ](/help/search-social-commerce/assets/filter.png " Filter ") in de toolbar.
+1. Klik ![&#x200B; Filter &#x200B;](/help/search-social-commerce/assets/filter.png " Filter ") in de toolbar.
 
 1. Voer een van de volgende handelingen uit in de filterinstellingen:
 
-   * Om een filter toe te voegen, ![ voeg Filter ](/help/search-social-commerce/assets/add.png " toe ") **[!UICONTROL ADD FILTER]**, en doe dan het volgende:
+   * Om een filter toe te voegen, ![&#x200B; voeg Filter &#x200B;](/help/search-social-commerce/assets/add.png " toe ") **[!UICONTROL ADD FILTER]**, en doe dan het volgende:
 
       1. (Optioneel) Als u de kolomnamen wilt filteren op een tekenreeks, voert u de zoektekenreeks in het invoerveld **[!UICONTROL ADD FILTER]** in.
 
@@ -56,7 +56,7 @@ ht-degree: 0%
 
       1. Definieer het filter op de kolom:
 
-         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
+         * (Filters zonder inputgebieden) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
 
          * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    * Als u een bestaand filter wilt bewerken, klikt u op het filter en wijzigt u vervolgens de filterdefinitie.
 
-   * Om een bestaand filter te verwijderen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " naast de filterdefinitie.")
+   * Om een bestaand filter te verwijderen, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " naast de filterdefinitie.")
 
 1. ([!UICONTROL Keywords] mening slechts; facultatief) selecteer of schrap het plaatsen aan &quot;[!UICONTROL Include rows with no performance data].&quot;
 
@@ -84,7 +84,7 @@ ht-degree: 0%
 
 1. Definieer het filter op de kolom opnieuw:
 
-   * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer de controledozen naast elke te omvatten waarde.
+   * (Filters zonder inputgebieden) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer de controledozen naast elke te omvatten waarde.
 
    * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
@@ -96,6 +96,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ pas een gegevensfilter van een menu van de kolomkop toe ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
->* [ pas gegevensfilters van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [&#x200B; pas een gegevensfilter van een menu van de kolomkop toe &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [&#x200B; pas gegevensfilters van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
 >* [ verwijder een kolomfilter ] (/help/onderzoek-sociale handel/gemeenschappelijk-taken/gegeven-meningen/ad-hoc-montages/

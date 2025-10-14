@@ -47,4 +47,4 @@ Als u de service voor het bijhouden van Adoben Advertising voor conversie gebrui
 
 >[!MORELIKETHIS]
 >
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

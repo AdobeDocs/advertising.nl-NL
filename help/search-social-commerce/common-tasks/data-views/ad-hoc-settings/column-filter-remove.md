@@ -16,12 +16,12 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt veelvoudige filters in een filter ook verwijderen dat door [ wordt geplaatst het uitgeven van de filterreeks ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) wordt geplaatst.
+>U kunt veelvoudige filters in een filter ook verwijderen dat door [&#x200B; wordt geplaatst het uitgeven van de filterreeks &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) wordt geplaatst.
 
 * (Indien beschikbaar) Klik boven de gegevenstabel op **[!UICONTROL X]** in de filterdefinitie.
 
 >[!MORELIKETHIS]
 >
->* [ pas een gegevensfilter van een menu van de kolomkop toe ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
->* [ pas gegevensfilters van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
->* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
+>* [&#x200B; pas een gegevensfilter van een menu van de kolomkop toe &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [&#x200B; pas gegevensfilters van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [&#x200B; geef kolomfilters &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit

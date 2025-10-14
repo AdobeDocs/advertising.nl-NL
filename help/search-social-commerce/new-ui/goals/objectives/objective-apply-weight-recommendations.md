@@ -19,8 +19,8 @@ Raadpleeg de Help in de gebruikersinterface of in de Optimization Guide (Engelst
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ creeer een doel ](objective-create.md)
->* [ geef een doelstelling ](objective-edit.md) uit
->* [ Schrap een doelstelling ](objective-delete.md)
->* [ Objectieve montages ](objective-settings.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
+>* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
+>* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)

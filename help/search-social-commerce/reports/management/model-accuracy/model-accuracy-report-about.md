@@ -24,8 +24,8 @@ Onnauwkeurigheden kunnen prestatieproblemen aangeven en het is mogelijk dat u de
 
 >[!MORELIKETHIS]
 >
->* [ De [!UICONTROL Forecast Accuracy Report]](forecast-accuracy-report.md)
->* [ De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
->* [ produceer een rapport van de modelnauwkeurigheid ](model-accuracy-report-generate.md)
->* [ de montages van het modelnauwkeurigheidsrapport ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
->* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
+>* [&#x200B; De [!UICONTROL Forecast Accuracy Report]](forecast-accuracy-report.md)
+>* [&#x200B; De [!UICONTROL Forecast Accuracy (Actuals) Report]](forecast-accuracy-actuals-report.md)
+>* [&#x200B; produceer een rapport van de modelnauwkeurigheid &#x200B;](model-accuracy-report-generate.md)
+>* [&#x200B; de montages van het modelnauwkeurigheidsrapport &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-settings.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](/help/search-social-commerce/reports/report-about.md)

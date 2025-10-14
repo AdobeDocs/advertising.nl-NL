@@ -24,7 +24,7 @@ U kunt gegevens van de voorgaande 36 maanden weergeven.
 
 ## Standaardkolommen
 
-Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor basis en geavanceerde rapporten ](basic-advanced-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[&#x200B; de kolommen van het Rapport voor basis en geavanceerde rapporten &#x200B;](basic-advanced-report-columns.md).&quot;
 
 * [!UICONTROL Label Classification]
 * [!UICONTROL Label Value]
@@ -40,6 +40,6 @@ Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer basis en geavanceerde rapporten ](basic-advanced-report-about.md)
->* [ produceer een basis of geavanceerd rapport ](basic-advanced-report-generate.md)
->* [ Basis en geavanceerde rapportmontages ](basic-advanced-report-settings.md)
+>* [&#x200B; Ongeveer basis en geavanceerde rapporten &#x200B;](basic-advanced-report-about.md)
+>* [&#x200B; produceer een basis of geavanceerd rapport &#x200B;](basic-advanced-report-generate.md)
+>* [&#x200B; Basis en geavanceerde rapportmontages &#x200B;](basic-advanced-report-settings.md)

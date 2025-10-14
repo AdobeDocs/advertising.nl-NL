@@ -30,7 +30,7 @@ U kunt de montages voor om het even welk rapportmalplaatje veranderen u creeerde
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportmalplaatjes ](template-about.md)
->* [ creeer een rapportmalplaatje ](template-create.md)
->* [ Mening een rapportmalplaatje ](template-view.md)
->* [ schrap rapportmalplaatjes ](template-delete.md)
+>* [&#x200B; Ongeveer rapportmalplaatjes &#x200B;](template-about.md)
+>* [&#x200B; creeer een rapportmalplaatje &#x200B;](template-create.md)
+>* [&#x200B; Mening een rapportmalplaatje &#x200B;](template-view.md)
+>* [&#x200B; schrap rapportmalplaatjes &#x200B;](template-delete.md)

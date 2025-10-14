@@ -14,11 +14,11 @@ ht-degree: 0%
 
 *[!DNL Google Ads], [!DNL Microsoft Advertising] , [!DNL Yahoo! Japan Ads] (alleen acties verwijderen) en [!DNL Yandex] alleen accounts*
 
-Wanneer u voedergegevens verspreidt zonder het gelijktijdig te posten aan het advertentienetwerk, kunt u de gegevens op één van beide volgende manieren uitgeven. U kunt later [ gegevens ](propagated-data-post.md) van één van beide plaats aan de relevante advertentienetwerken naar keuze posten:
+Wanneer u voedergegevens verspreidt zonder het gelijktijdig te posten aan het advertentienetwerk, kunt u de gegevens op één van beide volgende manieren uitgeven. U kunt later [&#x200B; gegevens &#x200B;](propagated-data-post.md) van één van beide plaats aan de relevante advertentienetwerken naar keuze posten:
 
 * Als u de optie aan &quot;[!UICONTROL Propagate and Preview] gebruikte,&quot;dan kunt u het geproduceerde dossier van het bulkblad (genoemd &quot;`<feed file name>_<template name>`&quot;) uitgeven door het van de [!UICONTROL Bulksheets] mening te downloaden, het dossier uit te geven, en het opnieuw te uploaden. Er worden geen gegevens opgenomen op de tabbladen [!UICONTROL Campaigns] , [!UICONTROL Ad Groups] , [!UICONTROL Keywords] en [!UICONTROL Ads] .
 
-* Als u de optie aan &quot;[!UICONTROL Propagate only] gebruikte,&quot;dan kunt u de geproduceerde gegevens voor componenten met [[!UICONTROL New] status ](propagated-data-status.md) binnen een mening van de campagnehiërarchie van de [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] lusjes uitgeven.
+* Als u de optie aan &quot;[!UICONTROL Propagate only] gebruikte,&quot;dan kunt u de geproduceerde gegevens voor componenten met [[!UICONTROL New] status &#x200B;](propagated-data-status.md) binnen een mening van de campagnehiërarchie van de [!UICONTROL Campaigns], [!UICONTROL Ad Groups], [!UICONTROL Keywords], en [!UICONTROL Ads] lusjes uitgeven.
 
   In de weergaven van de campagnehiërarchie worden alleen de gegevens weergegeven die zijn gegenereerd uit het feed-bestand, niet de bestaande accountcomponenten. Nadat gegevens voor een component en al zijn subcomponents aan het advertentienetwerk worden gepost, is het niet meer vermeld in de campagnehiërarchie.
 
@@ -45,14 +45,14 @@ Wanneer u voedergegevens verspreidt zonder het gelijktijdig te posten aan het ad
 
       * Als u alles wilt weergeven zoals in een advertentiegroep, klikt u op de naam van de advertentiegroep en vervolgens op de tab [!UICONTROL Ads] .
 
-   1. Klik [ Mening/geef montagespictogram ](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de campagne, ad groep, sleutelwoord, of advertentienaam uit.
+   1. Klik [&#x200B; Mening/geef montagespictogram &#x200B;](/help/search-social-commerce/assets/settings.png "Pictogram Instellingen weergeven/bewerken") naast de campagne, ad groep, sleutelwoord, of advertentienaam uit.
 
    1. Bewerk de instellingen en klik op **[!UICONTROL Save]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](inventory-feeds-about.md)
->* [ gegevens van de Mening die van voer ](propagated-data-view.md) worden geproduceerd
->* [ Post campagnegegevens die van voer aan ad netwerken worden geproduceerd ](propagated-data-post.md)
->* [ Einde een het posten baan voor de gegevens van het inventarisvoer ](stop-job.md)
->* [ Statussen van gegevens die uit voer ](propagated-data-status.md) worden geproduceerd
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](inventory-feeds-about.md)
+>* [&#x200B; gegevens van de Mening die van voer &#x200B;](propagated-data-view.md) worden geproduceerd
+>* [&#x200B; Post campagnegegevens die van voer aan ad netwerken worden geproduceerd &#x200B;](propagated-data-post.md)
+>* [&#x200B; Einde een het posten baan voor de gegevens van het inventarisvoer &#x200B;](stop-job.md)
+>* [&#x200B; Statussen van gegevens die uit voer &#x200B;](propagated-data-status.md) worden geproduceerd

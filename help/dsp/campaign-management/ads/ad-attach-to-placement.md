@@ -52,7 +52,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
       1. Klik op **[!UICONTROL Create a New Placement]**.
 
-      1. Ga de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+      1. Ga de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
          Het plaatsingstype wordt bepaald door het advertentietype.
 
@@ -106,11 +106,11 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ maak en verwijder Pixels van Advertenties vast ](ad-pixel-attach-detach.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ geef een Advertentie uit ](ad-edit.md)
->* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
->* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; maak en verwijder Pixels van Advertenties vast &#x200B;](ad-pixel-attach-detach.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
+>* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
+>* [&#x200B; geef de Advertentieschema&#39;s voor Plaatsen uit &#x200B;](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)

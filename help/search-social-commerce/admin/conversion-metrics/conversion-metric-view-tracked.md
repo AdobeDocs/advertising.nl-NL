@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # De conversiemetriek voor een adverteerder bekijken
 
-U kunt een lijst van alle [ omzettings ](/help/search-social-commerce/glossary.md#c-d) metriek bekijken die Adobe Advertising voor een adverteerder heeft gevolgd. Elke metrische rij omvat de bron van metrisch.
+U kunt een lijst van alle [&#x200B; omzettings &#x200B;](/help/search-social-commerce/glossary.md#c-d) metriek bekijken die Adobe Advertising voor een adverteerder heeft gevolgd. Elke metrische rij omvat de bron van metrisch.
 
 * Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** .
 
@@ -20,10 +20,10 @@ Alle omzettingsmetriek die voor adverteerders, en om het even welke verschillend
 
 >[!TIP]
 >
->Zodra adverteerder (of het advertentienetwerk) ophoudt metrisch te verzamelen, [ verberg het van beheersmeningen en rapporten ](conversion-metric-edit-available.md) tenzij u het voor het bekijken van historische gegevens wilt gebruiken.
+>Zodra adverteerder (of het advertentienetwerk) ophoudt metrisch te verzamelen, [&#x200B; verberg het van beheersmeningen en rapporten &#x200B;](conversion-metric-edit-available.md) tenzij u het voor het bekijken van historische gegevens wilt gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](conversion-metric-about.md)
->* [ verander de omzettingsmetriek beschikbaar in beheersmeningen en rapporten ](conversion-metric-edit-available.md)
->* [ Verandering de vertoningsnaam voor metrische omzettingen ](conversion-metric-edit-display-name.md)
+>* [&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](conversion-metric-about.md)
+>* [&#x200B; verander de omzettingsmetriek beschikbaar in beheersmeningen en rapporten &#x200B;](conversion-metric-edit-available.md)
+>* [&#x200B; Verandering de vertoningsnaam voor metrische omzettingen &#x200B;](conversion-metric-edit-display-name.md)

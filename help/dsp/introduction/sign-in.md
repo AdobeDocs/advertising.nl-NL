@@ -24,15 +24,15 @@ Uw huidige DSP-gebruikersgegevens blijven gedurende een korte tijd actief zodat 
 
 ## Een verouderde DSP-aanmelding voor verificatie gebruiken
 
-* Ga naar [ advertenties.adobe.com ](https://advertising.adobe.com), en teken binnen gebruikend uw geloofsbrieven van erfenisDSP.
+* Ga naar [&#x200B; advertenties.adobe.com &#x200B;](https://advertising.adobe.com), en teken binnen gebruikend uw geloofsbrieven van erfenisDSP.
 
 ## Een [!DNL Adobe ID] gebruiken voor verificatie
 
 1. Open een van de volgende aanmeldingsschermen:
 
-   * Ga naar [ advertentie.adobe.com ](https://advertising.adobe.com). Klik onder &quot;[!UICONTROL Sign in with the Adobe Experience Cloud account]&quot; op **[!UICONTROL Continue]** .
+   * Ga naar [&#x200B; advertentie.adobe.com &#x200B;](https://advertising.adobe.com). Klik onder &quot;[!UICONTROL Sign in with the Adobe Experience Cloud account]&quot; op **[!UICONTROL Continue]** .
 
-   * Ga naar [ experience.adobe.com ](https://experience.adobe.com).
+   * Ga naar [&#x200B; experience.adobe.com &#x200B;](https://experience.adobe.com).
 
 1. Voer uw referenties in:
 
@@ -46,11 +46,11 @@ Uw huidige DSP-gebruikersgegevens blijven gedurende een korte tijd actief zodat 
 
    * Als u toegang hebt tot meerdere IMS-organisaties, selecteert u de juiste organisatie.
 
-Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[ interface en beleid van Experience Cloud ](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
+Voor meer informatie over de interface van Experience Cloud, met inbegrip van het beheren van uw gebruikersprofiel, zie &quot;[&#x200B; interface en beleid van Experience Cloud &#x200B;](https://experienceleague.adobe.com/nl/docs/core-services/interface/experience-cloud).&quot;
 
 ### Problemen oplossen
 
-Voor algemene sign-in kwesties, zie ook &quot;[ de rekening van Adobe ondertekenen-binnen kwesties ](https://helpx.adobe.com/nl/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
+Voor algemene sign-in kwesties, zie ook &quot;[&#x200B; de rekening van Adobe ondertekenen-binnen kwesties &#x200B;](https://helpx.adobe.com/nl/manage-account/kb/account-password-sign-help.linkfree.html).&quot;
 
 #### Zijn er voorwaarden om een nieuwe [!DNL Adobe] IMS-aanmelding in te schakelen?
 
@@ -66,9 +66,9 @@ Ondertussen kun je je oude DSP-gegevens blijven gebruiken.
 
 #### Ik heb me aangemeld met een onjuist e-mailadres, dat me heeft aangemeld bij [!DNL Adobe] maar geen toegang biedt tot DSP.
 
-1. Ga naar [ experience.adobe.com ](https://experience.adobe.com) en teken uit.
+1. Ga naar [&#x200B; experience.adobe.com &#x200B;](https://experience.adobe.com) en teken uit.
 
-1. Ga naar [ advertentie.adobe.com ](https://advertising.adobe.com) en teken binnen met correcte e-mailidentiteitskaart.
+1. Ga naar [&#x200B; advertentie.adobe.com &#x200B;](https://advertising.adobe.com) en teken binnen met correcte e-mailidentiteitskaart.
 
 #### Mijn [!DNL Adobe] IMS-account en DSP-account zijn geregistreerd met verschillende e-mails. Hoe kan ik me aanmelden met mijn [!DNL Adobe] IMS-account?
 

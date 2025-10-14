@@ -22,7 +22,7 @@ U kunt ook een actieve of gepauzeerde plaatsing of een negatieve plaatsing verwi
 
 1. Schakel het selectievakje in naast elke biedbare plaatsing of negatieve plaatsing waarvan u de status wilt wijzigen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik op de statusknop op de werkbalk:
 
@@ -30,10 +30,10 @@ U kunt ook een actieve of gepauzeerde plaatsing of een negatieve plaatsing verwi
 
    * (Biddable plaatsen slechts) om de rijen te pauzeren, klik ![&#128279;](/help/search-social-commerce/assets/pause.png " Pauzeren ").
 
-   * Om de rijen te schrappen, klik ![ Meer ](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
+   * Om de rijen te schrappen, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " ") en selecteer **[!UICONTROL Delete]**. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer plaatsen ](placement-about.md)
->* [ beheert biddable plaatsen ](placement-manage.md)
->* [ creeer negatieve plaatsingen ](placement-negative-create.md)
+>* [&#x200B; Ongeveer plaatsen &#x200B;](placement-about.md)
+>* [&#x200B; beheert biddable plaatsen &#x200B;](placement-manage.md)
+>* [&#x200B; creeer negatieve plaatsingen &#x200B;](placement-negative-create.md)

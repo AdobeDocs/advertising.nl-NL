@@ -34,7 +34,7 @@ Om productgegevens te bekijken en het volgen malplaatjes voor een handelaarreken
 
 1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Create Account]** .
 
-1. Specificeer de [ handelende rekeningsmontages ](#merchant-account-settings):
+1. Specificeer de [&#x200B; handelende rekeningsmontages &#x200B;](#merchant-account-settings):
 
    1. Selecteer in het menu [!UICONTROL Product Source] het middelpunt van de koopman.
 
@@ -46,7 +46,7 @@ Om productgegevens te bekijken en het volgen malplaatjes voor een handelaarreken
    
    -->
 
-   1. (Vereist voor [!DNL Google Ads] rekeningen; facultatief voor [!DNL Microsoft Advertising] rekeningen) sta Onderzoek, Sociale, &amp; Commerce toe om tot de rekening toegang te hebben gebruikend het [[!DNL OAuth]  vergunningsprotocol ](https://oauth.net/2/):
+   1. (Vereist voor [!DNL Google Ads] rekeningen; facultatief voor [!DNL Microsoft Advertising] rekeningen) sta Onderzoek, Sociale, &amp; Commerce toe om tot de rekening toegang te hebben gebruikend het [[!DNL OAuth]  vergunningsprotocol &#x200B;](https://oauth.net/2/):
 
       1. ([!DNL Microsoft Advertising] alleen accounts) Selecteer **[!UICONTROL oAuth]** .
 
@@ -76,9 +76,9 @@ Als de accountgegevens veranderen of als u niet langer gegevens voor een zakelij
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search]\> [!UICONTROL Campaigns] \>[!UICONTROL Products]** , dat wordt geopend op het tabblad [!UICONTROL Accounts] .
 
-1. Naast de rekeningsnaam, klik ![ Mening/geef montages ](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
+1. Naast de rekeningsnaam, klik ![&#x200B; Mening/geef montages &#x200B;](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
 
-1. Bewerk de [ handelende rekeningsmontages ](#merchant-account-settings).
+1. Bewerk de [&#x200B; handelende rekeningsmontages &#x200B;](#merchant-account-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -94,7 +94,7 @@ Wanneer u een zakelijke account uitschakelt, worden via Zoeken, Sociaal zoeken e
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Products]** , dat wordt geopend op het tabblad [!UICONTROL Accounts] .
 
-1. Naast de rekeningsnaam, klik ![ Mening/geef montages ](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
+1. Naast de rekeningsnaam, klik ![&#x200B; Mening/geef montages &#x200B;](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
 
 1. Wijzig [!UICONTROL EF Account Type] in **[!UICONTROL Disabled]** .
 
@@ -108,13 +108,13 @@ Wanneer u een zakelijke account uitschakelt, worden via Zoeken, Sociaal zoeken e
 
 **[!UICONTROL Product Source]:** Het commerciële netwerk. U kunt de waarde van een bestaand account niet wijzigen.
 
-**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] rekeningen slechts) het teken van de rekening om logins toe te staan gebruikend het [[!DNL OAuth]  vergunningsprotocol ](https://oauth.net/2/).
+**[!UICONTROL OAuth Token]:** ([!DNL Google Merchant Center] rekeningen slechts) het teken van de rekening om logins toe te staan gebruikend het [[!DNL OAuth]  vergunningsprotocol &#x200B;](https://oauth.net/2/).
 
 **[!UICONTROL Auth Type]:** ([!DNL Microsoft Advertising]/ [!DNL Microsoft Merchant Center] slechts) of om logins aan de rekening toe te laten gebruikend:
 
 * *[!UICONTROL Client login]:* om login van de cliënt te gebruiken.
 
-* *[!UICONTROL oAuth]* (het gebrek): Om het [[!DNL OAuth]  vergunningsprotocol ](https://oauth.net/2/) te gebruiken.
+* *[!UICONTROL oAuth]* (het gebrek): Om het [[!DNL OAuth]  vergunningsprotocol &#x200B;](https://oauth.net/2/) te gebruiken.
 
 **[!UICONTROL Access Key]:** ([!DNL Microsoft Merchant Center] slechts) de toegangssleutel voor de ontwikkelaarrekening aan gebruik.
 
@@ -138,5 +138,5 @@ Wanneer u een zakelijke account uitschakelt, worden via Zoeken, Sociaal zoeken e
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer ad netwerkrekeningen ](ad-network-account-about.md)
->* [ beheer en netwerkrekeningen ](ad-network-account-manage.md)
+>* [&#x200B; Ongeveer ad netwerkrekeningen &#x200B;](ad-network-account-about.md)
+>* [&#x200B; beheer en netwerkrekeningen &#x200B;](ad-network-account-manage.md)

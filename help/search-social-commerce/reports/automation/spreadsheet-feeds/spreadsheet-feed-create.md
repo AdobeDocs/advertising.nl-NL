@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Stel spreadsheetfeeds in met speciaal opgemaakte [!DNL Excel] spreadsheetsjablonen die u maakt op basis van gewone rapportsjablonen.
 
-1. [ creeer het  [!DNL Excel]  malplaatje om met de rapportgegevens ](spreadsheet-feed-create-excel-template.md) te bevolken.
+1. [&#x200B; creeer het  [!DNL Excel]  malplaatje om met de rapportgegevens &#x200B;](spreadsheet-feed-create-excel-template.md) te bevolken.
 
 2. De werkbladfeed maken:
 
@@ -24,7 +24,7 @@ Stel spreadsheetfeeds in met speciaal opgemaakte [!DNL Excel] spreadsheetsjablon
 
    1. Klik in de werkbalk boven de gegevenstabel op **[!UICONTROL Create]** .
 
-   1. In de **[!UICONTROL Add Spreadsheet Feed]** dialoog, specificeer de [ montages van de spreadsheetvoer ](spreadsheet-feed-settings.md).
+   1. In de **[!UICONTROL Add Spreadsheet Feed]** dialoog, specificeer de [&#x200B; montages van de spreadsheetvoer &#x200B;](spreadsheet-feed-settings.md).
 
    1. Klik op **[!UICONTROL Submit]**.
 
@@ -38,10 +38,10 @@ Stel spreadsheetfeeds in met speciaal opgemaakte [!DNL Excel] spreadsheetsjablon
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het voer van het spreadsheetrapport ](spreadsheet-feed-about.md)
->* [ creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport ](spreadsheet-feed-create-excel-template.md)
->* [ geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit ](spreadsheet-feed-edit.md)
->* [ montages van de het rapportvoer van het Spreadsheet ](spreadsheet-feed-settings.md)
->* [ Mening of sparen een dossier van het spreadsheetrapport voer ](spreadsheet-feed-view-or-save.md)
->* [ vernieuw manueel spreadsheetrapportvoer ](spreadsheet-feed-refresh.md)
->* [ de feeds van het spreadsheetrapport van de Schrapping ](spreadsheet-feed-delete.md)
+>* [&#x200B; Ongeveer het voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-about.md)
+>* [&#x200B; creeer een  [!DNL Excel]  malplaatje voor een voer van het spreadsheetrapport &#x200B;](spreadsheet-feed-create-excel-template.md)
+>* [&#x200B; geeft de montages van de het spreadsheetvoer van het spreadsheetrapport uit &#x200B;](spreadsheet-feed-edit.md)
+>* [&#x200B; montages van de het rapportvoer van het Spreadsheet &#x200B;](spreadsheet-feed-settings.md)
+>* [&#x200B; Mening of sparen een dossier van het spreadsheetrapport voer &#x200B;](spreadsheet-feed-view-or-save.md)
+>* [&#x200B; vernieuw manueel spreadsheetrapportvoer &#x200B;](spreadsheet-feed-refresh.md)
+>* [&#x200B; de feeds van het spreadsheetrapport van de Schrapping &#x200B;](spreadsheet-feed-delete.md)

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ## [!UICONTROL Keyword Details]
 
-**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte is 80 karakters, met inbegrip van om het even welke [[!DNL Yahoo! Japan Ads]  syntaxis van het gelijkentype ](https://ads-help.yahoo-net.jp/s/article/H000044997) voor sleutelwoorden.
+**[!UICONTROL Keywords]:** De sleutelwoorden. De maximumlengte is 80 karakters, met inbegrip van om het even welke [[!DNL Yahoo! Japan Ads]  syntaxis van het gelijkentype &#x200B;](https://ads-help.yahoo-net.jp/s/article/H000044997) voor sleutelwoorden.
 
 U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorden met komma&#39;s of voer deze op aparte regels in.
 
@@ -33,9 +33,9 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 ## Plaatsaanduidingen
 
-**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param1}` [ douaneparameter ](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
+**[!UICONTROL Param1]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param1}` [&#x200B; douaneparameter &#x200B;](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
 
-**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param2}` [ douaneparameter ](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
+**[!UICONTROL Param2]:** het koord als substitutiewaarde te gebruiken als basisURL of het volgen malplaatje de `{param2}` [&#x200B; douaneparameter &#x200B;](https://ads-help.yahoo-net.jp/s/article/H000044803?language=en_US) bevat.
 
 ## URL-opties
 
@@ -49,4 +49,4 @@ U kunt maximaal 2000 trefwoorden invoeren of plakken. Scheid meerdere trefwoorde
 
 >[!MORELIKETHIS]
 >
->* [ beheert sleutelwoorden ](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)
+>* [&#x200B; beheert sleutelwoorden &#x200B;](/help/search-social-commerce/campaign-management/campaigns/keyword-manage.md)

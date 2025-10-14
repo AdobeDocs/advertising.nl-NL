@@ -16,13 +16,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Als u de instellingen voor meerdere portfolio&#39;s tegelijk wilt bewerken, raadpleegt u &quot;[ (Nieuwe UI) Bulk bewerkt portfolioinstellingen met behulp van bulksheet-bestanden ](portfolio-bulksheets.md)&quot;.
+>Als u de instellingen voor meerdere portfolio&#39;s tegelijk wilt bewerken, raadpleegt u &quot;[&#x200B; (Nieuwe UI) Bulk bewerkt portfolioinstellingen met behulp van bulksheet-bestanden &#x200B;](portfolio-bulksheets.md)&quot;.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Portfolios]** .
 
 1. Schakel het selectievakje naast het portfolio in.
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
 
 1. Bewerk de portfolioinstellingen.
 
@@ -34,8 +34,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ (Nieuwe interface) Met bulksgewijs kunt u portfolioinstellingen voor portfolio&#39;s bewerken met behulp van bladbestanden ](portfolio-bulksheets.md)
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven ](portfolio-details.md)
->* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
->* [ Ongeveer portefeuilles ](portfolio-about.md)
+>* [&#x200B; (Nieuwe interface) Met bulksgewijs kunt u portfolioinstellingen voor portfolio&#39;s bewerken met behulp van bladbestanden &#x200B;](portfolio-bulksheets.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven &#x200B;](portfolio-details.md)
+>* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)
+>* [&#x200B; Ongeveer portefeuilles &#x200B;](portfolio-about.md)

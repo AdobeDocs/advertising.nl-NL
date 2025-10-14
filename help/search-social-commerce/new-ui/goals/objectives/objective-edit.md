@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
+1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
 
 1. Wijzig een van de objectieve instellingen.
 
@@ -31,8 +31,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ creeer een doel ](objective-create.md)
->* [ Schrap een doelstelling ](objective-delete.md)
->* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
->* [ Objectieve montages ](objective-settings.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
+>* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)
+>* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)

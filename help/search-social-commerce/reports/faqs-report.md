@@ -15,7 +15,7 @@ ht-degree: 0%
 ## Algemene vragen
 
 +++Wat als de datumwaaier voor het rapport begint alvorens rapportgegevens beschikbaar is?
-Het rapport wordt gegenereerd, maar bevat alleen gegevens voor de datums waarvoor gegevens beschikbaar zijn. Voor meer informatie over wanneer het gegeven voor elk rapporttype beschikbaar is, zie &quot;[ de gegevens die voor rapporten ](data-used-for-reports.md) worden gebruikt.&quot;
+Het rapport wordt gegenereerd, maar bevat alleen gegevens voor de datums waarvoor gegevens beschikbaar zijn. Voor meer informatie over wanneer het gegeven voor elk rapporttype beschikbaar is, zie &quot;[&#x200B; de gegevens die voor rapporten &#x200B;](data-used-for-reports.md) worden gebruikt.&quot;
 +++
 
 +++Wat is het verschil tussen klik datum en transactie op datum-gebaseerde rapporten?
@@ -23,13 +23,13 @@ Wanneer u omzettingen per transactiedatum rapporteert, omvatten de gegevens tran
 
 Wanneer u omzettingen door klikdatum rapporteert, omvatten de gegevens transacties die uit een klik voortvloeiden die tijdens de gespecificeerde tijdspanne voorkwam. Wanneer een portefeuille significante vertragingen tussen kliks en transacties heeft, toont dit type van rapportering de historische opbrengst per klik voor de portefeuille, die u een idee geeft van welk opbrengstgedrag in tijd te verwachten.
 
-![ Rapport door datum tegenover rapport te klikken door transactiedatum ](/help/search-social-commerce/assets/click-date-vs-txn-date.png " Rapport door datum tegenover rapport door transactiedatum ") te klikken
+![&#x200B; Rapport door datum tegenover rapport te klikken door transactiedatum &#x200B;](/help/search-social-commerce/assets/click-date-vs-txn-date.png " Rapport door datum tegenover rapport door transactiedatum ") te klikken
 +++
 
 +++Wat gebeurt als ik het venster van de klikraadpleging of het venster van de imitatieraadpleging verander?
 (Adverteerders met alleen Advertising-service voor het bijhouden van pixelconversies) Gegevens voor gebeurtenissen die het resultaat zijn van de eerste klik worden gedurende een langere of kortere periode verzameld.
 
-Een adverteerder [ klikt raadplegingsvenster ](/help/search-social-commerce/glossary.md#c-d) en [ het venster van de imitatieraadpleging ](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen na een betaalde klik of een vertoningsindruk (respectievelijk) komt voor waarin de gebeurtenis aan een omzetting kan worden toegeschreven. Het kan belangrijk zijn om een waarde te wijzigen in een langere of kortere periode voor adverteerders met bijzonder korte of lange &#39;click-to-Revenue&#39;-periodes of &#39;shadow-to-Revenue&#39;-perioden.
+Een adverteerder [&#x200B; klikt raadplegingsvenster &#x200B;](/help/search-social-commerce/glossary.md#c-d) en [&#x200B; het venster van de imitatieraadpleging &#x200B;](/help/search-social-commerce/glossary.md#i-j) bepaalt het aantal dagen na een betaalde klik of een vertoningsindruk (respectievelijk) komt voor waarin de gebeurtenis aan een omzetting kan worden toegeschreven. Het kan belangrijk zijn om een waarde te wijzigen in een langere of kortere periode voor adverteerders met bijzonder korte of lange &#39;click-to-Revenue&#39;-periodes of &#39;shadow-to-Revenue&#39;-perioden.
 
 **Beste praktijken:** zorg ervoor dat de raadplegingsvensters langer zijn dan de klik-aan-opbrengst en vertoning beeld-aan-opbrengst tijden voor het grootste deel van uw sleutelwoorden of advertenties. Wanneer zij korter zijn, worden sommige omzettingen niet geassocieerd met de aanvankelijke klik of de indruk.
 +++
@@ -66,7 +66,7 @@ Als u bijvoorbeeld een [!UICONTROL Keyword Report] genereert die de apparaatkolo
 
 >[!NOTE]
 >
->U kunt deze functie niet gebruiken om gegevens te aggregeren op basis van labelclassificaties. Alle kolommen met labelclassificatie in het rapport worden weggelaten. In plaats daarvan, gebruik het [ Rapport van de Classificatie van het Etiket ](/help/search-social-commerce/reports/management/basic-advanced/label-classification-report.md).
+>U kunt deze functie niet gebruiken om gegevens te aggregeren op basis van labelclassificaties. Alle kolommen met labelclassificatie in het rapport worden weggelaten. In plaats daarvan, gebruik het [&#x200B; Rapport van de Classificatie van het Etiket &#x200B;](/help/search-social-commerce/reports/management/basic-advanced/label-classification-report.md).
 
 +++
 
@@ -92,9 +92,9 @@ Als u een rapport veelvoudige tijden gebruikend de zelfde rapportparameters maar
 +++Afzonderlijke gegevensvelden zijn onjuist, hoewel de totalen juist zijn.
 Deze situatie kan zich voordoen wanneer de metrische formaten gehelen gebruiken:
 
-* Als u a [ douane metrische ](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md) met het formaat *Aantal met Decimale Punten* (die gegevens als gehelen) toont en het in een mening of een rapport omvat die een gewogen omzettingsattributieregel ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]) gebruikt, dan wordt de output getoond in gehelen, niet decimalen. In dit geval zijn afzonderlijke gegevensvelden mogelijk onjuist, hoewel de totalen juist zijn. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Om de kwestie op te lossen, [ verander het metrische formaat ](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md) in *Aantal in 2 Decimale Punten*.
+* Als u a [&#x200B; douane metrische &#x200B;](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-about.md) met het formaat *Aantal met Decimale Punten* (die gegevens als gehelen) toont en het in een mening of een rapport omvat die een gewogen omzettingsattributieregel ([!UICONTROL Weight First Event More], [!UICONTROL Weight Last Event More], of [!UICONTROL Even Distribution]) gebruikt, dan wordt de output getoond in gehelen, niet decimalen. In dit geval zijn afzonderlijke gegevensvelden mogelijk onjuist, hoewel de totalen juist zijn. Als een volgorde bijvoorbeeld gelijk is verdeeld tussen drie gebeurtenissen, wordt één volgorde (in plaats van 0,33 volgorde) toegewezen aan elk van de drie gebeurtenissen. Om de kwestie op te lossen, [&#x200B; verander het metrische formaat &#x200B;](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-edit.md) in *Aantal in 2 Decimale Punten*.
 
-* Op dezelfde manier als u opbrengst metrisch hebt die zoals in geheel wordt verzonden, dan komt de zelfde kwestie voor. (Het inkomstenformaat wordt gecontroleerd door de omzettingsmarkering die de gegevens indient.) Om de kwestie op te lossen, [ creeer een douane metrisch ](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md) die enkel uit opbrengst metrisch en met het formaat *Aantal aan 2 Decimale Punten* bestaat, en omvat het in meningen en rapporten eerder dan origineel metrisch.
+* Op dezelfde manier als u opbrengst metrisch hebt die zoals in geheel wordt verzonden, dan komt de zelfde kwestie voor. (Het inkomstenformaat wordt gecontroleerd door de omzettingsmarkering die de gegevens indient.) Om de kwestie op te lossen, [&#x200B; creeer een douane metrisch &#x200B;](/help/search-social-commerce/common-tasks/custom-metrics/custom-metric-create.md) die enkel uit opbrengst metrisch en met het formaat *Aantal aan 2 Decimale Punten* bestaat, en omvat het in meningen en rapporten eerder dan origineel metrisch.
 +++
 
 +++Wanneer klik of de opbrengstgegevens ontbreken, hoe ik het verhinderen toekomstige biedingen te beïnvloeden?
@@ -112,7 +112,7 @@ In de volgende gevallen kunt u decimale waarden zien:
 
 * Als u het rapport uitvoert met een andere parameter voor de omzettingstoewijzingsregel dan [!UICONTROL Last Event] of [!UICONTROL First Event] , kunnen de opbrengsten worden gesplitst tussen meerdere gebeurtenissen in het conversiepad.
 
-* In [!UICONTROL Transaction Report], als de veelvoudige [ biedingseenheden ](/help/search-social-commerce/glossary.md#a-b) met verschillende gelijke types zelfde transactie identiteitskaart hebben, dan wordt de opbrengst voor het volgen identiteitskaart verdeeld volgens het aantal klikken op de gespecificeerde klikdatum.
+* In [!UICONTROL Transaction Report], als de veelvoudige [&#x200B; biedingseenheden &#x200B;](/help/search-social-commerce/glossary.md#a-b) met verschillende gelijke types zelfde transactie identiteitskaart hebben, dan wordt de opbrengst voor het volgen identiteitskaart verdeeld volgens het aantal klikken op de gespecificeerde klikdatum.
 +++
 
 ## Standaardprestatiewaarden
@@ -169,7 +169,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of werk-rond:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [ de omzettingsmetriek ter beschikking stellen aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [&#x200B; de omzettingsmetriek ter beschikking stellen aan rapporten &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Controleer of de juiste codes voor het bijhouden van conversies zijn geïmplementeerd op alle toepasselijke webpagina&#39;s. Vraag indien nodig uw Adobe-accountteam om een testtransactie voor elke toepasselijke trackingtag voor conversie te maken en de details van de transactie vast te leggen, zoals de `transactionid` en de gegevens van het cookie (zoals de `trackingid` , `clickid` , enzovoort).
 
@@ -179,7 +179,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
    De doel-URL moet beginnen met &quot;http://pixel.everesttech.net&quot; of &quot;https://pixel.everesttech.net&quot;.
 
-1. Als geen van deze stappen de kwestie oplost, dan [ contacteer de Zorg van de Klant ](/help/search-social-commerce/get-help.md).
+1. Als geen van deze stappen de kwestie oplost, dan [&#x200B; contacteer de Zorg van de Klant &#x200B;](/help/search-social-commerce/get-help.md).
 
    Als de client niet is gestart of pas is gestart, controleert de klantenservice of er een inkomstenparser is ingesteld. Als de parser is ingesteld, verifiëren ze of Search, Social en Commerce pixelomzettingen ontvangen en het probleem oplossen.
 
@@ -197,7 +197,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
 *Mogelijke oplossing of werk-rond:*
 
-1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [ de omzettingsmetriek ter beschikking stellen aan rapporten ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
+1. Controleer of de juiste kolommen zijn opgenomen in de rapporten- of gegevensweergaven. Als de correcte kolommen niet beschikbaar zijn om toe te voegen, dan moet u of uw Team van de Rekening van Adobe [&#x200B; de omzettingsmetriek ter beschikking stellen aan rapporten &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-available.md).
 
 1. Voer de lus [!UICONTROL Portfolio Report] uit. Als deze leeg is, voert u de instructies [!UICONTROL Campaign Report] en [!UICONTROL Search Engine Report] uit om te controleren of de opbrengsten in die rapporten worden weergegeven. Als dat het geval is, worden de campagnes mogelijk niet toegewezen aan de juiste portefeuille.
 
@@ -205,7 +205,7 @@ Het rapport bevat mogelijk geen conversiemetriek waarvoor conversies hebben plaa
 
    Als de indeling of naamgevingsconventie voor bestanden is gewijzigd, corrigeert u het bestand en stuurt u het opnieuw.
 
-1. Als het dossier werd verzonden, dan [ contacteer de Zorg van de Klant ](/help/search-social-commerce/get-help.md).
+1. Als het dossier werd verzonden, dan [&#x200B; contacteer de Zorg van de Klant &#x200B;](/help/search-social-commerce/get-help.md).
 
    De klantenservice controleert of het bestand is ontvangen en geparseerd. Als het bestand zonder fouten is verwerkt, controleren ze op verweesde transacties.
 +++
@@ -234,7 +234,7 @@ De [!UICONTROL Geo Distribution Report] en [!UICONTROL Domain Referral Report] g
 
    Search, Social &amp; Commerce verwacht goed gevormde URL&#39;s (met parameters in naam-waardeparen) binnen de `ef_transaction_properties` -variabele en binnen het `src` -element van de `img` -tag.
 
-1. Als u niet de kwestie kunt bepalen en oplossen, dan [ contacteer de Zorg van de Klant ](/help/search-social-commerce/get-help.md).
+1. Als u niet de kwestie kunt bepalen en oplossen, dan [&#x200B; contacteer de Zorg van de Klant &#x200B;](/help/search-social-commerce/get-help.md).
 
    De zorg van de klant zal proberen om de ontbrekende transacties te identificeren en dan om op weestransacties en transacties te controleren die niet uit een advertentie kwamen (&quot;ongecorreleerde omzettingen&quot;).
 
@@ -258,9 +258,9 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 1. Als een transactie in het feed-bestand ontbreekt in het rapport, controleert u of er een online transactie met dezelfde transactie-id (bijgehouden via de pixel) heeft plaatsgevonden vóór de offline conversie.
 
-1. Als u niet de kwestie kunt bepalen en oplossen, dan [ contacteer de Zorg van de Klant ](/help/search-social-commerce/get-help.md).
+1. Als u niet de kwestie kunt bepalen en oplossen, dan [&#x200B; contacteer de Zorg van de Klant &#x200B;](/help/search-social-commerce/get-help.md).
 
-   De zorg van de klant zal voor gegevens het ontleden fouten en [ wezen transacties ](/help/search-social-commerce/glossary.md#o-p) controleren.
+   De zorg van de klant zal voor gegevens het ontleden fouten en [&#x200B; wezen transacties &#x200B;](/help/search-social-commerce/glossary.md#o-p) controleren.
 
 **Advertisers met andere soorten de voer van omzettingsgegevens**
 
@@ -270,7 +270,7 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 * Het verkeer naar de pagina van de adverteerder kwam van een referentie of een organische onderzoek in plaats van van van een advertentie.
 
-* Er zijn [ verweesde transacties ](/help/search-social-commerce/glossary.md#o-p), zodat het Onderzoek, Sociaal, &amp; Commerce niet alle opbrengst telt die het zou moeten.
+* Er zijn [&#x200B; verweesde transacties &#x200B;](/help/search-social-commerce/glossary.md#o-p), zodat het Onderzoek, Sociaal, &amp; Commerce niet alle opbrengst telt die het zou moeten.
 
 * De adverteerder heeft een zoek-, sociaal en Commerce-rapport gevalideerd op basis van een andere set gegevens dan die welke in de feed zijn verzonden.
 
@@ -288,13 +288,13 @@ Zie de mogelijke oorzaken en oplossingen voor pixelimplementaties hierboven.
 
 1. Als sommige transacties onjuist zijn of ontbreken, dan zorg ervoor dat a) het voederdossier alle vereiste transactie IDs en geen dubbele het volgen IDs bevat en b) de transactie IDs uniek en correct is.
 
-1. Als u niet de kwestie kunt bepalen en oplossen, dan [ contacteer de Zorg van de Klant ](/help/search-social-commerce/get-help.md).
+1. Als u niet de kwestie kunt bepalen en oplossen, dan [&#x200B; contacteer de Zorg van de Klant &#x200B;](/help/search-social-commerce/get-help.md).
 
    De zorg van de klant zal op gegevens het ontleden fouten en wezen transacties controleren.
 +++
 
 +++Opbrengstgegevens verschillen van gegevens in Adobe Analytics
-Zie [ https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL).<!-- change link URL to relative link -->
+Zie [&#x200B; https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/data/data-variances.html?lang=nl-NL).<!-- change link URL to relative link -->
 +++
 
 ## Specifieke verslagen
@@ -328,17 +328,17 @@ Wanneer u beide rapporten per portfolio genereert, zijn de gegevens anders als u
 +++De output van het Rapport omvat een mengeling van datumwaaiers.
 U kunt verschillende datumwaaiers zien als de voer gegevens gebruikend om het even welk niveau van de gegevenssamenvoeging buiten &quot;[!UICONTROL Daily]&quot;samenvoegt.
 
-Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u dagelijks geaggregeerde gegevens in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Microsoft Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Voor meer informatie, zie &quot;[ spreadsheetrapportvoedermontages ](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
+Om het probleem op te lossen, werkt u de spreadsheetfeed bij en voegt u dagelijks geaggregeerde gegevens in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Microsoft Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Voor meer informatie, zie &quot;[&#x200B; spreadsheetrapportvoedermontages &#x200B;](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
 +++
 
 +++A-spreadsheetfeed resulteert in een interne fout.
 Deze fout kan optreden als u de kolommen in de rapportsjabloon wijzigt, maar de sjabloon [!DNL Microsoft Excel] niet dienovereenkomstig bijwerkt.
 
-Als u het probleem wilt verhelpen, werkt u de spreadsheetfeed bij en voegt u de nieuwe kolommen in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Voor meer informatie, zie &quot;[ spreadsheetrapportvoedermontages ](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
+Als u het probleem wilt verhelpen, werkt u de spreadsheetfeed bij en voegt u de nieuwe kolommen in. Deze taak omvat het bijwerken van het rapportmalplaatje, het produceren van een rapport gebruikend het malplaatje, het creëren van een douane [!DNL Excel] malplaatje gebruikend het rapport, en dan het bijwerken van de voedermontages om het nieuwe malplaatje van Excel te omvatten. Voor meer informatie, zie &quot;[&#x200B; spreadsheetrapportvoedermontages &#x200B;](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
 +++
 
 +++Wanneer ik een spreadsheetfeed probeer te openen in [!DNL Excel] , geeft [!DNL Excel] een foutmelding weer dat de inhoud niet kan worden gelezen en worden gegevens uit de herstelde inhoud verwijderd.
 Wanneer de [!DNL Microsoft Excel] -sjabloon gegevens niet op begindatum in oplopende volgorde sorteert, kan de spreadsheetfeed lege rijen bevatten. Met name, [!DNL Excel] meldt de fout &quot;Excel gevonden onleesbare inhoud in &quot;&lt; *rapportnaam*>.xlsx.&quot; Wilt u de inhoud van het werkboek terugkrijgen? Als u de bron van dit werkboek vertrouwt, klik ja.&quot; Als u &quot;ja klikt,&quot;krijgt u het volgende bericht: &quot;Verwijderd Verslagen: De informatie van de cel van /xl/worksheets/sheet1.xml deel,&quot;en de spreadsheetvoer omvat lege rijen.
 
-Als u het probleem wilt verhelpen, bewerkt u de [!DNL Excel] -sjabloon die aan de feed is gekoppeld, om gegevens op [!DNL Start date in Ascending (Oldest to Newest) order] te sorteren. Vervolgens uploadt u de bijgewerkte sjabloon via de instellingen voor de spreadsheetfeed. Voor meer informatie, zie &quot;[ spreadsheetrapportvoer ](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
+Als u het probleem wilt verhelpen, bewerkt u de [!DNL Excel] -sjabloon die aan de feed is gekoppeld, om gegevens op [!DNL Start date in Ascending (Oldest to Newest) order] te sorteren. Vervolgens uploadt u de bijgewerkte sjabloon via de instellingen voor de spreadsheetfeed. Voor meer informatie, zie &quot;[&#x200B; spreadsheetrapportvoer &#x200B;](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-edit.md) uitgeven.&quot;
 +++

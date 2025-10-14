@@ -12,6 +12,6 @@ ht-degree: 0%
 
 # Gegevens vernieuwen in beheerweergaven
 
-* (Nieuwe UI) in de toolbar boven de gegevenslijst, de klik ![ verfrist zich ](/help/search-social-commerce/assets/refresh-new.png).
+* (Nieuwe UI) in de toolbar boven de gegevenslijst, de klik ![&#x200B; verfrist zich &#x200B;](/help/search-social-commerce/assets/refresh-new.png).
 
-* (Verouderde UI) bij de bodem van de gegevenslijst, verfrist de klik ![ zich ](/help/search-social-commerce/assets/refresh.png).
+* (Verouderde UI) bij de bodem van de gegevenslijst, verfrist de klik ![&#x200B; zich &#x200B;](/help/search-social-commerce/assets/refresh.png).

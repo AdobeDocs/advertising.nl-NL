@@ -16,11 +16,11 @@ Als u wilt dat zoekopdrachten, sociale gegevens en Commerce bijhouden, moeten de
 
 1. (Adobe-accountteam) Stel de adverteerder in als een pixelklant.
 
-1. [ specificeer de correcte het volgen opties voor elk van de adverteerders rekeningen van het advertentienetwerk en campagnes ](#set-up-click-tracking-options).
+1. [&#x200B; specificeer de correcte het volgen opties voor elk van de adverteerders rekeningen van het advertentienetwerk en campagnes &#x200B;](#set-up-click-tracking-options).
 
-1. Indien noodzakelijk, [ produceert het volgen URLs en uploadt hen ](#generate-upload-tracking-urls) voor sommige campagneelementen.
+1. Indien noodzakelijk, [&#x200B; produceert het volgen URLs en uploadt hen &#x200B;](#generate-upload-tracking-urls) voor sommige campagneelementen.
 
-1. [ bevestigt het formaat van een paar klik volgende URLs, en test hen om te bevestigen dat de correcte het landen pagina ](#validate-tracking-urls) opent.
+1. [&#x200B; bevestigt het formaat van een paar klik volgende URLs, en test hen om te bevestigen dat de correcte het landen pagina &#x200B;](#validate-tracking-urls) opent.
 
 ## Opties instellen voor het bijhouden van advertenties voor netwerkaccounts en campagnes {#set-up-click-tracking-options}
 
@@ -56,7 +56,7 @@ Als u wilt dat zoekopdrachten, sociale gegevens en Commerce bijhouden, moeten de
 
 ## URL&#39;s voor bijhouden genereren en uploaden {#generate-upload-tracking-urls}
 
-Zie &quot;[ wanneer en hoe te om klik-volgende URLs ](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) te produceren.&quot;
+Zie &quot;[&#x200B; wanneer en hoe te om klik-volgende URLs &#x200B;](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) te produceren.&quot;
 
 ### De indeling van URL&#39;s die klikken bijhouden testen {#validate-tracking-urls}
 
@@ -87,4 +87,4 @@ Valideer dat de juiste landingspagina wordt geopend voor de URL voor het bijhoud
 
 >[!MORELIKETHIS]
 >
->* [ wanneer en hoe te om klik-volgende URLs te produceren ](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
+>* [&#x200B; wanneer en hoe te om klik-volgende URLs te produceren &#x200B;](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)

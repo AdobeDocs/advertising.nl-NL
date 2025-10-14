@@ -44,13 +44,13 @@ Search, Social &amp; Commerce biedt een uitgebreid beheer, optimalisatie, tracer
 
    * Voor portfolio&#39;s bieden receptieve inzichten ook visuele en activeerbare gegevens die u kunt gebruiken om de prestaties te verbeteren.
 
-Zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;voor meer informatie over steun voor verschillende advertentienetwerken en advertentietypes.
+Zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;voor meer informatie over steun voor verschillende advertentienetwerken en advertentietypes.
 
 ## Integratie met Adobe Experience Cloud-oplossingen en -services
 
 Dankzij native integratie met Adobe Analytics en Adobe Audience Manager kunt u uw gegevens- en publiekssegmenten verbinden voor doelgericht gebruik, [!DNL Google Ads] het maken van publiek, optimalisatie en rapportage/analyse.
 
-Voor meer informatie over integratie met deze en andere producten van de Adobe, zie &quot;[ Integratie met de oplossingen en de diensten van Adobe Experience Cloud ](/help/search-social-commerce/introduction/integrations.md).&quot;
+Voor meer informatie over integratie met deze en andere producten van de Adobe, zie &quot;[&#x200B; Integratie met de oplossingen en de diensten van Adobe Experience Cloud &#x200B;](/help/search-social-commerce/introduction/integrations.md).&quot;
 
 ## Conversie bijhouden
 
@@ -62,5 +62,5 @@ Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over te
 
 >[!MORELIKETHIS]
 >
->* [ Gesteunde inventaris ](supported-inventory.md)
->* [ Integratie met de oplossingen en de diensten van Adobe Experience Cloud ](integrations.md)
+>* [&#x200B; Gesteunde inventaris &#x200B;](supported-inventory.md)
+>* [&#x200B; Integratie met de oplossingen en de diensten van Adobe Experience Cloud &#x200B;](integrations.md)

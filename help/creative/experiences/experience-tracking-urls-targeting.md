@@ -32,7 +32,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
       * Als u nog een aangepaste URL wilt toevoegen, klikt u op **[!UICONTROL +]** en voert u de URL in het invoerveld in.
 
-      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![ Schrapping ](/help/creative/assets/delete.png " ").
+      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![&#x200B; Schrapping &#x200B;](/help/creative/assets/delete.png " ").
 
       U kunt maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste URL voor de bestemmingspagina opnemen.
 
@@ -40,5 +40,5 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
 >[!MORELIKETHIS]
 >
->* [ wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign ](/help/creative/experiences/experience-assign-creative-bundles.md)
->* [ pas het volgen URLs voor een ervaring zonder beslissingsboom aan richtend ](experience-tracking-urls-no-targeting.md)
+>* [&#x200B; wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign &#x200B;](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [&#x200B; pas het volgen URLs voor een ervaring zonder beslissingsboom aan richtend &#x200B;](experience-tracking-urls-no-targeting.md)

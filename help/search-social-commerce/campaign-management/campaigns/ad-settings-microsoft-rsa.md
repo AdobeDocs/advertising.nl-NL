@@ -49,9 +49,9 @@ De responsieve zoek- en zoekindeling is beschikbaar voor advertenties in het zoe
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising]  multimedia en montages ](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  multimedia en montages &#x200B;](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising]  product en montages &#x200B;](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages &#x200B;](ad-settings-microsoft-responsive.md)

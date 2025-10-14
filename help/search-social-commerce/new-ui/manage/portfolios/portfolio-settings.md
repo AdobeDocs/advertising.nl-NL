@@ -18,6 +18,6 @@ Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, v
 
 >[!MORELIKETHIS]
 >
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
->* [ Ongeveer portefeuilles ](portfolio-about.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
+>* [&#x200B; Ongeveer portefeuilles &#x200B;](portfolio-about.md)

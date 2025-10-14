@@ -36,10 +36,10 @@ Met behulp van traceringscampagnes kunt u de prestaties bijhouden, rapporteren e
 
 Als u Zoeken, Sociaal en Commerce wilt toestaan conversies toe te wijzen aan kliks, stelt u opties voor bijhouden in de accountrecord in en schakelt u de accountrecord in. Vervolgens kunt u met de opsommingstekens URL&#39;s voor bijhouden van advertenties en trefwoorden genereren en de URL&#39;s voor bijhouden handmatig toevoegen in het advertentiebeheer van [!DNL Naver] .
 
-Zie meer informatie over [!DNL Naver] het volgen-slechts campagnes, zie &quot;[ uitvoeren  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md).&quot;
+Zie meer informatie over [!DNL Naver] het volgen-slechts campagnes, zie &quot;[&#x200B; uitvoeren  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ beheer en netwerkrekeningen ](ad-network-account-manage.md)
->* [ beheert commerciële centrumrekeningen ](merchant-account-manage.md)
->* [ werk de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening ](update-amo-id-google.md) bij
+>* [&#x200B; beheer en netwerkrekeningen &#x200B;](ad-network-account-manage.md)
+>* [&#x200B; beheert commerciële centrumrekeningen &#x200B;](merchant-account-manage.md)
+>* [&#x200B; werk de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening &#x200B;](update-amo-id-google.md) bij

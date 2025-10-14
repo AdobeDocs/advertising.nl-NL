@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads], [!DNL Microsoft Advertising] (voorheen [!DNL Bing Ads]), [!DNL Yahoo! Japan Ads] , [!DNL Yandex] en alleen bestaande [!DNL Baidu] accounts*
 
-De synchronisatie is het proces waardoor Onderzoek, Sociaal, &amp; Commerce bijgewerkte informatie voor de verbonden advertentienetwerkrekeningen van elke adverteerder op [ gesteunde advertentienetwerken ](/help/search-social-commerce/introduction/supported-inventory.md) verzamelt. Deze gegevens omvatten de campagnestructuur en campagneentiteiten van de adverteerder, inclusief de meeste kenmerken die worden beheerd of gerapporteerd in Search, Social &amp; Commerce. Het omvat geen klikgegevens, noch biedingen en biedingsbepalingen ingegaan buiten Onderzoek, Sociale, &amp; Commerce, die afzonderlijk worden verzameld.
+De synchronisatie is het proces waardoor Onderzoek, Sociaal, &amp; Commerce bijgewerkte informatie voor de verbonden advertentienetwerkrekeningen van elke adverteerder op [&#x200B; gesteunde advertentienetwerken &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md) verzamelt. Deze gegevens omvatten de campagnestructuur en campagneentiteiten van de adverteerder, inclusief de meeste kenmerken die worden beheerd of gerapporteerd in Search, Social &amp; Commerce. Het omvat geen klikgegevens, noch biedingen en biedingsbepalingen ingegaan buiten Onderzoek, Sociale, &amp; Commerce, die afzonderlijk worden verzameld.
 
 Zoeken, sociale media en Commerce synchroniseren (synchroniseren) automatisch met uw advertentienetwerkaccounts één keer per dag, en ook telkens wanneer een nieuwe campagne wordt gedetecteerd op een van uw advertentienetwerken. Bovendien verzendt het onmiddellijk alle veranderingen in campagnegegevens die van binnen Onderzoek, Sociale, &amp; Commerce aan het advertentienetwerk worden gemaakt.
 
@@ -24,7 +24,7 @@ Voor campagnes met &quot;[!UICONTROL Auto Upload]&quot;optie, produceert de sync
 
 >[!NOTE]
 >
->Telkens u [ creeert een bulksheet ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), kunt u naar keuze synchronisatie met het advertentienetwerk alvorens bulksheet wordt gecreeerd.
+>Telkens u [&#x200B; creeert een bulksheet &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md), kunt u naar keuze synchronisatie met het advertentienetwerk alvorens bulksheet wordt gecreeerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]>[!UICONTROL Campaigns]** . Selecteer in het submenu **[!UICONTROL Accounts]** om alle campagnes in specifieke accounts te synchroniseren of **[!UICONTROL Campaigns]** om specifieke campagnes te synchroniseren.
 
@@ -39,4 +39,4 @@ een uur of meer om weer te geven.
 
 >[!MORELIKETHIS]
 >
->* [ Download/creeer een bulksheet- dossier ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)

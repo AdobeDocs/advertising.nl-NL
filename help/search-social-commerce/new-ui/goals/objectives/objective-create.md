@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt een doelstelling met een portefeuille associëren wanneer u [ de portefeuille ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) creeert of door later [ de portefeuillemontages ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md) te wijzigen. U kunt hetzelfde doel gebruiken voor meerdere portfolio&#39;s.
+>U kunt een doelstelling met een portefeuille associëren wanneer u [&#x200B; de portefeuille &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) creeert of door later [&#x200B; de portefeuillemontages &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md) te wijzigen. U kunt hetzelfde doel gebruiken voor meerdere portfolio&#39;s.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. In het hogere recht, klik **[!UICONTROL Create Objective]** of ![ voeg ](/help/search-social-commerce/assets/add-new.png " toe ").
+1. In het hogere recht, klik **[!UICONTROL Create Objective]** of ![&#x200B; voeg &#x200B;](/help/search-social-commerce/assets/add-new.png " toe ").
 
    De weergegeven knop is afhankelijk van de breedte van de browser.
 
@@ -35,7 +35,7 @@ De doelstellingen die met &quot;`ADSP_`&quot;worden gepresteerd (niet case-sensi
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ geef een doelstelling ](objective-edit.md) uit
->* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
->* [ Objectieve montages ](objective-settings.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
+>* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)
+>* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)

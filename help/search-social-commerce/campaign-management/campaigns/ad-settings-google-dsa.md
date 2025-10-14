@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Dynamische zoekadvertenties (DSA&#39;s) zijn alleen beschikbaar voor [!DNL Google Ads] dynamische advertentiegroepen doorzoeken in campagnes met alleen zoekopdrachten. Het advertentienetwerk genereert dynamisch de kop en kiest de bestemmingspagina en de weergave-URL voor een dynamische zoekadvertentie en genereert vervolgens automatisch de laatste URL.
 
-Zie de hulp van Advertenties van Google voor [ en grenzen per rekening ](https://support.google.com/google-ads/answer/6372658?hl=en).
+Zie de hulp van Advertenties van Google voor [&#x200B; en grenzen per rekening &#x200B;](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 >[!NOTE]
 >
@@ -36,7 +36,7 @@ Zie de hulp van Advertenties van Google voor [ en grenzen per rekening ](https:/
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Google Ads]  vraag-slechts ad montages ](ad-settings-google-call.md)
->* [[!DNL Google Ads]  ontvankelijke onderzoek en montages ](ad-settings-google-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Google Ads]  vraag-slechts ad montages &#x200B;](ad-settings-google-call.md)
+>* [[!DNL Google Ads]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-google-rsa.md)

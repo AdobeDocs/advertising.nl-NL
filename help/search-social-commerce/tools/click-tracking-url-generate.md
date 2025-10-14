@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Advertisers met slechts het volgen van de omzetting van Adobe Advertising*
 
-Voor informatie over wanneer u moet manueel een klik-volgende URL produceren en uitvoeren, zie &quot;[ wanneer en hoe te klik-volgende URLs ](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) produceren.&quot;
+Voor informatie over wanneer u moet manueel een klik-volgende URL produceren en uitvoeren, zie &quot;[&#x200B; wanneer en hoe te klik-volgende URLs &#x200B;](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md) produceren.&quot;
 
 >[!NOTE]
 >
@@ -82,10 +82,10 @@ Voor informatie over wanneer u moet manueel een klik-volgende URL produceren en 
 
 Voor accounts met doel-URL&#39;s voert u de waarden in de desbetreffende [!UICONTROL Base URL] -velden in.
 
-Voor accounts met uiteindelijke URL&#39;s voert u de waarde op het scherm in het desbetreffende veld [!UICONTROL Tracking Template] in. U moet een parameter voor de laatste URL toevoegen na de parameter `&url=` (zoals `{lpurl}` ). Gebruik voor [!DNL Yahoo! Japan Ads] -accounts de parameter `{lpurl}` . Voor een lijst van [!DNL Google Ads] en [!DNL Microsoft Advertising] parameters om definitieve URLs in het volgen malplaatjes te wijzen, zie de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348) (zie de &quot;het Volgen malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;) en [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799/2).
+Voor accounts met uiteindelijke URL&#39;s voert u de waarde op het scherm in het desbetreffende veld [!UICONTROL Tracking Template] in. U moet een parameter voor de laatste URL toevoegen na de parameter `&url=` (zoals `{lpurl}` ). Gebruik voor [!DNL Yahoo! Japan Ads] -accounts de parameter `{lpurl}` . Voor een lijst van [!DNL Google Ads] en [!DNL Microsoft Advertising] parameters om definitieve URLs in het volgen malplaatjes te wijzen, zie de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348) (zie de &quot;het Volgen malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;) en [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799/2).
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen ](tracking-tools-about.md)
->* [ wanneer en hoe te om klik-volgende URLs te produceren ](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
->* [ decodeer een Onderzoek, Sociale, &amp; klik-volgende URL van Commerce ](click-tracking-url-decode.md)
+>* [&#x200B; Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen &#x200B;](tracking-tools-about.md)
+>* [&#x200B; wanneer en hoe te om klik-volgende URLs te produceren &#x200B;](/help/search-social-commerce/tracking/click-tracking-ways-to-generate.md)
+>* [&#x200B; decodeer een Onderzoek, Sociale, &amp; klik-volgende URL van Commerce &#x200B;](click-tracking-url-decode.md)

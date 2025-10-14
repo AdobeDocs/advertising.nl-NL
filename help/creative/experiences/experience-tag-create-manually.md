@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Ervaringen zonder beslissingsboom richtend slechts*
 
-U kunt een of meer advertentietags maken per taal voor elke creatieve grootte (niet-videocamera&#39;s) of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [ creatieve personen aan de advertentietag ](experience-tag-assign-creatives.md) toewijzen.
+U kunt een of meer advertentietags maken per taal voor elke creatieve grootte (niet-videocamera&#39;s) of videoduur die voor een ervaring wordt gebruikt. U kunt recenter [&#x200B; creatieve personen aan de advertentietag &#x200B;](experience-tag-assign-creatives.md) toewijzen.
 
 >[!NOTE]
 >
@@ -40,13 +40,13 @@ U kunt een of meer advertentietags maken per taal voor elke creatieve grootte (n
 
    U kunt de labelrij uitbreiden om de meegeleverde creatieve elementen te zien.
 
-   Voor video&#39;s en ervaringen worden videoclips automatisch getranscodeerd met Adobe Advertising DSP-codering als VAST 2.0-tags, zodat u een voorvertoning ervan kunt bekijken. U kunt naar keuze [ transcoderen voor verschillende DSP ](experience-tag-video-transcoding.md) toepassen.
+   Voor video&#39;s en ervaringen worden videoclips automatisch getranscodeerd met Adobe Advertising DSP-codering als VAST 2.0-tags, zodat u een voorvertoning ervan kunt bekijken. U kunt naar keuze [&#x200B; transcoderen voor verschillende DSP &#x200B;](experience-tag-video-transcoding.md) toepassen.
 
 >[!MORELIKETHIS]
 >
->* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
->* [ pas het volgen URLs voor een ervaring aan zonder zich ](experience-tracking-urls-no-targeting.md) te richten
->* [ pas creatieve optimalisering en het plannen voor een ervaring aan zonder zich ](experience-optimization-scheduling-no-targeting.md) te richten
->* [ pas transcoderingsopties voor een video en ervaringstag aan ](experience-tag-video-transcoding.md)
->* [ de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit ](experience-tag-export.md)
->* [ noem een advertentietag anders ](experience-tag-rename.md)
+>* [&#x200B; wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten &#x200B;](experience-tag-assign-creatives.md)
+>* [&#x200B; pas het volgen URLs voor een ervaring aan zonder zich &#x200B;](experience-tracking-urls-no-targeting.md) te richten
+>* [&#x200B; pas creatieve optimalisering en het plannen voor een ervaring aan zonder zich &#x200B;](experience-optimization-scheduling-no-targeting.md) te richten
+>* [&#x200B; pas transcoderingsopties voor een video en ervaringstag aan &#x200B;](experience-tag-video-transcoding.md)
+>* [&#x200B; de Uitvoer en voert een markering van de advertentieervaring voor een levende ervaring uit &#x200B;](experience-tag-export.md)
+>* [&#x200B; noem een advertentietag anders &#x200B;](experience-tag-rename.md)

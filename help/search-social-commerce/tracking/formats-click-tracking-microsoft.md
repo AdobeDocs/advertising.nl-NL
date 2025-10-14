@@ -72,7 +72,7 @@ Voorbeeld:
 >
 >* `{TargetId}` vertegenwoordigt identiteitskaart van a) of het sleutelwoord of b) het sleutelwoord en remarketing lijst (publiek) die de advertentie teweegbracht (bijvoorbeeld, &quot;kwd-123:aud-456&quot;voor zowel een sleutelwoord als een remarketing lijst of &quot;kwd-123&quot;voor slechts sleutelwoord).
 >
->* (Optioneel) In plaats van volgsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor het bijhouden van de gegevens toevoegen aan de productgegevens in de [!DNL Microsoft Merchant Center] -account. Om dit te doen, omvat het volgen URL, samen met de waarde op &quot;`link`&quot; of &quot;`mobile_link`&quot;gebied, zoals aangewezen, in een douanekolom &quot;[ bingads_redirect ](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot;binnen de productvoer. De waarde op het &quot;`bingads_redirect`&quot;gebied vervangt de waarden op &quot;`link`&quot; en &quot;`mobile_link`&quot;gebieden. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
+>* (Optioneel) In plaats van volgsjablonen in te voeren op account-, campagne-, groep- of productgroepniveau, kunt u de URL voor het bijhouden van de gegevens toevoegen aan de productgegevens in de [!DNL Microsoft Merchant Center] -account. Om dit te doen, omvat het volgen URL, samen met de waarde op &quot;`link`&quot; of &quot;`mobile_link`&quot;gebied, zoals aangewezen, in een douanekolom &quot;[&#x200B; bingads_redirect &#x200B;](https://help.bingads.microsoft.com/#apex/3/en/51084/0)&quot;binnen de productvoer. De waarde op het &quot;`bingads_redirect`&quot;gebied vervangt de waarden op &quot;`link`&quot; en &quot;`mobile_link`&quot;gebieden. URL&#39;s die met deze methode worden gegenereerd, bevatten geen volgparameters die zijn opgegeven in de instellingen voor Zoeken, Sociaal zoeken en Commerce.
 
 ## Opmaak voor het achtervoegsel van de landingspagina (laatste URL-achtervoegsel)
 
@@ -106,5 +106,5 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
->* [ formaten van identiteitskaart AMO ](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [&#x200B; Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising &#x200B;](formats-click-tracking-about.md)
+>* [&#x200B; formaten van identiteitskaart AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats)

@@ -16,7 +16,7 @@ De volgende indeling is voor sites die gebruikmaken van HTTPS. Voor sites die HT
 
 >[!NOTE]
 >
->Voor informatie over wanneer om Versie 2 tegen Versie 3 te gebruiken, zie [ FAQs op het volgen markeringen ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).
+>Voor informatie over wanneer om Versie 2 tegen Versie 3 te gebruiken, zie [&#x200B; FAQs op het volgen markeringen &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).
 
 ```
 <script language="javascript" src="https://www.everestjs.net/static/st.v2.js"></script>
@@ -42,7 +42,7 @@ waarbij:
 
 * `<ef-userid>` is een unieke, numerieke gebruikersnaam die door Search, Social &amp; Commerce aan de adverteerder wordt toegewezen.
 
-* `<ID5_PartnerID>` is de ID5-partner-id van de organisatie die de organisatie ontvangt na ondertekening van een overeenkomst met [!DNL ID5] . Omvat deze variabele slechts wanneer de organisatie DSP gebruikt en [ douanesegmenten heeft die gebruikers bijhouden verbonden aan ID5 universele IDs ](/help/dsp/audiences/universal-ids.md).
+* `<ID5_PartnerID>` is de ID5-partner-id van de organisatie die de organisatie ontvangt na ondertekening van een overeenkomst met [!DNL ID5] . Omvat deze variabele slechts wanneer de organisatie DSP gebruikt en [&#x200B; douanesegmenten heeft die gebruikers bijhouden verbonden aan ID5 universele IDs &#x200B;](/help/dsp/audiences/universal-ids.md).
 
 * `<propertyname>` is de conversie naar track. Als u bijvoorbeeld een conversie bijhoudt die &#39;registratie&#39; wordt genoemd, bevat de tag de parameter `ev_registration=<registration>` en moet u de werkelijke inkomsten voor elke transactie (zoals `ev_registration=1` ) doorgeven. Wanneer meerdere eigenschappen worden bijgehouden, worden ze samengevoegd door een en-teken (`&`), zoals `ev_registration=<registration>&ev_sale=<sale>` (bijvoorbeeld `ev_registration=1&ev_sale=12.99` ). **Nota:** de bezitsnaam kan geen speciale karakters omvatten.
 
@@ -54,9 +54,9 @@ waarbij:
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Adobe Advertising omzetting-volgende markeringen ](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [ produceer een markering van de Adobe Advertising omzetting ](/help/search-social-commerce/tools/conversion-tag-generate.md)
->* [ Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](format-conversion-tag-jsv2.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 3 ](format-conversion-tag-jsv3.md)
->* [ Formaat van beeldomzetting volgende markeringen ](format-conversion-tag-image.md)
+>* [&#x200B; Ongeveer Adobe Advertising omzetting-volgende markeringen &#x200B;](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+>* [&#x200B; produceer een markering van de Adobe Advertising omzetting &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [&#x200B; Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 2 &#x200B;](format-conversion-tag-jsv2.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 3 &#x200B;](format-conversion-tag-jsv3.md)
+>* [&#x200B; Formaat van beeldomzetting volgende markeringen &#x200B;](format-conversion-tag-image.md)

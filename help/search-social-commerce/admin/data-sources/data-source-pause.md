@@ -27,10 +27,10 @@ Als u een gegevensbron onderbreekt, wordt de synchronisatie met de gegevensbron 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek ](data-source-about.md)
->* [ Vereisten om a  [!DNL Google Analytics]  gegevensbron ](data-source-prerequisites.md) te vormen
->* [ vorm a  [!DNL Google Analytics]  mening als gegevensbron ](data-source-configure.md)
->* [ geef a  [!DNL Google Analytics]  gegevensbron ](data-source-edit.md) uit
->* [ verklaart a  [!DNL Google Analytics]  gegevensbron ](data-source-reauthenticate.md) opnieuw voor authentiek
->* [[!DNL Google Analytics]  gegevensbronmontages ](data-source-settings.md)
->* [ Bijlage - Beschikbare  [!DNL Google Analytics]  metriek ](data-source-ga-metrics.md)
+>* [&#x200B; Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek &#x200B;](data-source-about.md)
+>* [&#x200B; Vereisten om a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-prerequisites.md) te vormen
+>* [&#x200B; vorm a  [!DNL Google Analytics]  mening als gegevensbron &#x200B;](data-source-configure.md)
+>* [&#x200B; geef a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-edit.md) uit
+>* [&#x200B; verklaart a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-reauthenticate.md) opnieuw voor authentiek
+>* [[!DNL Google Analytics]  gegevensbronmontages &#x200B;](data-source-settings.md)
+>* [&#x200B; Bijlage - Beschikbare  [!DNL Google Analytics]  metriek &#x200B;](data-source-ga-metrics.md)

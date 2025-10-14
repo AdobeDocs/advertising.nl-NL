@@ -20,7 +20,7 @@ Deze eigenschap beïnvloedt niet het doel dat voor de ouderknoop wordt gespecifi
 
 <!-- 1. [ways to get to the decision tree] -->
 
-1. Klik de ouderknoop de waarvan kinderen u wilt kopiëren, ![ toevoegen ](/help/creative/assets/add.png " "), en dan of a \) selecteren **[!UICONTROL Copy Children ctrl+c]** of b \) ingaan **[!UICONTROL Ctrl+C]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-C]** ([!DNL Apple Macintosh]) op uw toetsenbord.
+1. Klik de ouderknoop de waarvan kinderen u wilt kopiëren, ![&#x200B; toevoegen &#x200B;](/help/creative/assets/add.png " "), en dan of a \) selecteren **[!UICONTROL Copy Children ctrl+c]** of b \) ingaan **[!UICONTROL Ctrl+C]** ([!DNL Microsoft Windows]) of **[!UICONTROL Command-C]** ([!DNL Apple Macintosh]) op uw toetsenbord.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -39,11 +39,11 @@ These formatted steps are inserted automatically from text in the following file
 
 >[!MORELIKETHIS]
 >
->* [ voeg een doelknoop aan het definitieve niveau toe ](experience-target-node-add-final.md)
->* [ neem een doelknoop tussen knopen ](experience-target-node-add-inner.md) op
->* [ voeg een sibling doelknoop tussen knopen ](experience-target-node-add-sibling.md) toe
->* [ wijs creatieve elementen aan een definitieve knoop toe ](experience-assign-creative-bundles.md)
->* [ Schrap een doelknoop of creatieve bladknoop ](/help/creative/experiences/experience-target-node-delete.md)
->* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
->* [ geef een ervaring met beslissingsboom uit richtend ](experience-edit-targeting.md)
->* [ gerichte ervaringsmontages ](experience-settings-targeting.md)
+>* [&#x200B; voeg een doelknoop aan het definitieve niveau toe &#x200B;](experience-target-node-add-final.md)
+>* [&#x200B; neem een doelknoop tussen knopen &#x200B;](experience-target-node-add-inner.md) op
+>* [&#x200B; voeg een sibling doelknoop tussen knopen &#x200B;](experience-target-node-add-sibling.md) toe
+>* [&#x200B; wijs creatieve elementen aan een definitieve knoop toe &#x200B;](experience-assign-creative-bundles.md)
+>* [&#x200B; Schrap een doelknoop of creatieve bladknoop &#x200B;](/help/creative/experiences/experience-target-node-delete.md)
+>* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
+>* [&#x200B; geef een ervaring met beslissingsboom uit richtend &#x200B;](experience-edit-targeting.md)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](experience-settings-targeting.md)

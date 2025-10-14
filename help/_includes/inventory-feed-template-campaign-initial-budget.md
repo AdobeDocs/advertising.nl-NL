@@ -11,4 +11,4 @@ ht-degree: 0%
 
 >[!TIP]
 >
->[ voeg de campagne aan een portefeuille ](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe en laat de portefeutoptie aan &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;toe om Onderzoek, Sociale, &amp; Commerce automatisch het budget te laten aanpassen om uitgaven voor de volledige portefeuille te optimaliseren.
+>[&#x200B; voeg de campagne aan een portefeuille &#x200B;](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe en laat de portefeutoptie aan &quot;[!UICONTROL Auto adjust campaign budget limits]&quot;toe om Onderzoek, Sociale, &amp; Commerce automatisch het budget te laten aanpassen om uitgaven voor de volledige portefeuille te optimaliseren.

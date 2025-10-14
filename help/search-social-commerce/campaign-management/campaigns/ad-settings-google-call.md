@@ -16,7 +16,7 @@ U kunt vraag-slechts tekstadvertenties voor campagnes tot stand brengen die het 
 
 Zoek, sociale zaken en Commerce houdt alleen contact met advertenties via het achtervoegsel van de landingspagina op accountniveau en de sjabloon voor bijhouden, maar u kunt optioneel de opvolging op accountniveau op advertentieniveau in [!DNL Google Ads] Manager overschrijven.
 
-Zie [!DNL Google Ads] hulp voor [ en grenzen per rekening ](https://support.google.com/google-ads/answer/6372658?hl=en).
+Zie [!DNL Google Ads] hulp voor [&#x200B; en grenzen per rekening &#x200B;](https://support.google.com/google-ads/answer/6372658?hl=en).
 
 <!-- ## Call-only Ad -->
 
@@ -56,7 +56,7 @@ U kunt conversieacties maken en beheren binnen [!DNL Google Ads] .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-google-dsa.md)
->* [[!DNL Google Ads]  ontvankelijke onderzoek en montages ](ad-settings-google-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Google Ads]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-google-dsa.md)
+>* [[!DNL Google Ads]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-google-rsa.md)

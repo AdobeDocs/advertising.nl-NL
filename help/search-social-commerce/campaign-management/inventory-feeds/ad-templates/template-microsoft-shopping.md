@@ -61,9 +61,9 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 * Voor het volgen van de omzetting van de Adobe Advertising, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;doe één van het volgende&quot;:
 
-   * (Aanbevolen) Gebruik het [ het volgen malplaatjeformaat voor het winkelen van Microsoft campagnes ](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
+   * (Aanbevolen) Gebruik het [&#x200B; het volgen malplaatjeformaat voor het winkelen van Microsoft campagnes &#x200B;](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
 
-   * Als u in plaats daarvan een waarde voor elk product in het voer gebruikend de &quot;[!DNL bingads_redirect]&quot;kolom (gebruikend het [ correcte formaat ](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)) omvat, dan ga de parameter `{lpurl}` in. U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen aan de parameter `{lpurl}` .
+   * Als u in plaats daarvan een waarde voor elk product in het voer gebruikend de &quot;[!DNL bingads_redirect]&quot;kolom (gebruikend het [&#x200B; correcte formaat &#x200B;](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md)) omvat, dan ga de parameter `{lpurl}` in. U kunt desgewenst omleidingen en tekstspatiëring van derden toevoegen aan de parameter `{lpurl}` .
 
 * Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -175,8 +175,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer automatiserend en beheer gebruikend inventarisvoer ](../inventory-feeds-about.md)
->* [ het Leiden bepalingen ](../modifiers-manage.md)
->* [ het Leiden dossiers van de materiaalvoer van inventarisgegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
->* [ doorgeven voedergegevens door malplaatjes ](../feed-data-propagate.md)
->* [ de campagnegegevens van inventarisvoer aan ad netwerken ](../propagated-data-post.md)
+>* [&#x200B; Ongeveer automatiserend en beheer gebruikend inventarisvoer &#x200B;](../inventory-feeds-about.md)
+>* [&#x200B; het Leiden bepalingen &#x200B;](../modifiers-manage.md)
+>* [&#x200B; het Leiden dossiers van de materiaalvoer van inventarisgegevens &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
+>* [&#x200B; doorgeven voedergegevens door malplaatjes &#x200B;](../feed-data-propagate.md)
+>* [&#x200B; de campagnegegevens van inventarisvoer aan ad netwerken &#x200B;](../propagated-data-post.md)

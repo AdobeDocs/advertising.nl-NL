@@ -66,9 +66,9 @@ Elke wijziginggroep kan zoveel opties bevatten als u wilt. Elke sjabloon kan sle
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Yes]** .
 
-1. (Indien nodig) [ verwijder verwijzingen naar de bepaling ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md) van alle toepasselijke malplaatjes.
+1. (Indien nodig) [&#x200B; verwijder verwijzingen naar de bepaling &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md) van alle toepasselijke malplaatjes.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
->* [ beheer en malplaatjes ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md)
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/inventory-feeds-about.md)
+>* [&#x200B; beheer en malplaatjes &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md)

@@ -22,7 +22,7 @@ Als u advertentietags van [!DNL Flashtalking] gebruikt voor Advertising DSP-adve
 
 >[!NOTE]
 >
->Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. In plaats daarvan, onderteken binnen aan uw [!DNL Flashtalking] rekening en volg de [!DNL Flashtalking] steundocumentatie in [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) om gegevens-pas macro&#39;s te gebruiken om de `s_kwcid` en `ef_id` het volgen parameters te volgen.
+>Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. In plaats daarvan, onderteken binnen aan uw [!DNL Flashtalking] rekening en volg de [!DNL Flashtalking] steundocumentatie in [&#x200B; https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros &#x200B;](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) om gegevens-pas macro&#39;s te gebruiken om de `s_kwcid` en `ef_id` het volgen parameters te volgen.
 
 Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Flashtalking] voor de volgende typen [!DNL Analytics for Advertising] -implementaties:
 
@@ -68,7 +68,7 @@ Voorbeelden:
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [&#x200B; voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md)
 

@@ -22,7 +22,7 @@ Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, v
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Portfolios]** .
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
 
 1. Ga in de portfolioinstellingen naar de sectie [!UICONTROL Assign Campaigns] en wijzig de toewijzingen voor de campagne.
 
@@ -38,16 +38,16 @@ Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, v
 
    U kunt de portfoliolijst filteren in het menu [!UICONTROL Portfolios] in het linkerdeelvenster door een portfoliogroep of het knooppunt [!UICONTROL Ungrouped Portfolios] te selecteren.
 
-1. Naast de portefeuillenaam, klik ![ Mening/geef montagesknoop uit ](/help/search-social-commerce/assets/settings.png " Mening/geef montagesknoop ") uit.
+1. Naast de portefeuillenaam, klik ![&#x200B; Mening/geef montagesknoop uit &#x200B;](/help/search-social-commerce/assets/settings.png " Mening/geef montagesknoop ") uit.
 
 1. Klik in het linkermenu op **[!UICONTROL Campaigns]** en verwijder de campagnes:
 
-   * Om alle toegewezen campagnes te verwijderen, verwijder ![ alle campagnes uit portefeuille ](/help/search-social-commerce/assets/arrow-remove-all.png " alle campagnes uit portefeuille ").
+   * Om alle toegewezen campagnes te verwijderen, verwijder ![&#x200B; alle campagnes uit portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-remove-all.png " alle campagnes uit portefeuille ").
 
-   * Om een individuele campagne te verwijderen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Available Campaigns] lijst of klik ![ verwijderen campagne uit portefeuille ](/help/search-social-commerce/assets/arrow-remove.png " verwijderen campagne uit portefeuille ").
+   * Om een individuele campagne te verwijderen, klik de campagne, en dan of sleep de campagne in de [!UICONTROL Available Campaigns] lijst of klik ![&#x200B; verwijderen campagne uit portefeuille &#x200B;](/help/search-social-commerce/assets/arrow-remove.png " verwijderen campagne uit portefeuille ").
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [ Wijs campagnes aan een portefeuille ](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe
+>* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe

@@ -26,27 +26,27 @@ U kunt gegevens downloaden vanuit de weergaven [!UICONTROL Search, Social, & Com
 
 >[!NOTE]
 >
->Zie ook hulp bij het downloaden van gegevens in het nieuwe gebruikersinterface van &quot;[[!UICONTROL Portfolios] mening ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)&quot;, &quot;[[!UICONTROL Campaigns] mening ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md),&quot; en &quot;[[!UICONTROL Ad Groups] mening ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md).&quot;
+>Zie ook hulp bij het downloaden van gegevens in het nieuwe gebruikersinterface van &quot;[[!UICONTROL Portfolios] mening &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)&quot;, &quot;[[!UICONTROL Campaigns] mening &#x200B;](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md),&quot; en &quot;[[!UICONTROL Ad Groups] mening &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md).&quot;
 
 1. (Optioneel) Selecteer de afzonderlijke rijen die u in het bestand wilt opnemen.
 
    Anders worden alle gegevens in de weergave opgenomen.
 
-1. Op het recht van de toolbar, klik ![ Download van het Rapport van de Download van het 0&rbrace; ](/help/search-social-commerce/assets/download.png ".")
+1. Op het recht van de toolbar, klik ![&#x200B; Download van het Rapport van de Download van het 0&rbrace; &#x200B;](/help/search-social-commerce/assets/download.png ".")
 
-1. Klik ![ creëren ](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
+1. Klik ![&#x200B; creëren &#x200B;](/help/search-social-commerce/assets/add.png " ") **[!UICONTROL Create]**, voeg naar keuze het dossier toe - noem, en klik dan of **[!UICONTROL Report]** of **[!UICONTROL Bulksheet]**.
 
-1. (Facultatief) Zodra de rapportbaan volledig is, klik ![ Download van het Rapport 1&rbrace; ](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
+1. (Facultatief) Zodra de rapportbaan volledig is, klik ![&#x200B; Download van het Rapport 1&rbrace; &#x200B;](/help/search-social-commerce/assets/download.png " om het ") paneel te bekijken, en dan het rapport te downloaden of te schrappen:[!UICONTROL Available Reports]
 
-   * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![ spreadsheet van de Download ](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
+   * Om het dossier volgens de normale procedure van uw browser te openen of te bewaren, klik ![&#x200B; spreadsheet van de Download &#x200B;](/help/search-social-commerce/assets/download-spreadsheet.png " spreadsheet van de Download ").
 
      Raadpleeg de online Help van uw browser voor meer informatie over de browserprocedure.
 
-   * Om het dossier te schrappen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
+   * Om het dossier te schrappen, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ").
 
 >[!MORELIKETHIS]
 >
->* [ (Verouderde UI) Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu ](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
->* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
->* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Campaigns] mening ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
->* [ (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Ad Groups] mening ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
+>* [&#x200B; (Verouderde UI) Schrap een rapport van prestatiesgegevens of bulksbladdossier van het [!UICONTROL Downloads] menu &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/download-delete-data.md)
+>* [&#x200B; (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
+>* [&#x200B; (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Campaigns] mening &#x200B;](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
+>* [&#x200B; (Nieuwe UI) Beheer de rapporten van de gegevensmening van de [!UICONTROL Ad Groups] mening &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)

@@ -16,7 +16,7 @@ U kunt alle gegenereerde of geüploade bulkbladbestanden, inclusief foutbestande
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Bulksheets]** .
 
-1. (Facultatief) boven de lijst van het bulksblad, [ voeg filters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toe om de dossiers te beperken die vermeld zijn.
+1. (Facultatief) boven de lijst van het bulksblad, [&#x200B; voeg filters &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toe om de dossiers te beperken die vermeld zijn.
 
 1. Klik in de lijst met opsommingstekens op de naam van het bestand.
 
@@ -26,8 +26,8 @@ U kunt alle gegenereerde of geüploade bulkbladbestanden, inclusief foutbestande
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
->* [ Download/creeer een bulksheet- dossier ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
->* [ bevestigt het landen pagina&#39;s in bulksheet dossiers ](bulksheet-validate-landing-pages.md)
->* [ Post bulksbladen of gecorrigeerde foutendossiers ](bulksheet-post.md)
->* [ Opstelling een rekening van FTP voor het uploaden van bulksbladen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-ftp-account.md)
+>* [&#x200B; Ongeveer het beheren van campagnegegevens gebruikend bulksbladen &#x200B;](bulksheet-about.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md)
+>* [&#x200B; bevestigt het landen pagina&#39;s in bulksheet dossiers &#x200B;](bulksheet-validate-landing-pages.md)
+>* [&#x200B; Post bulksbladen of gecorrigeerde foutendossiers &#x200B;](bulksheet-post.md)
+>* [&#x200B; Opstelling een rekening van FTP voor het uploaden van bulksbladen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-ftp-account.md)

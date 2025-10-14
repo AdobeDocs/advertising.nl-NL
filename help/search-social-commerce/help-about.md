@@ -34,4 +34,4 @@ De informatie over specifieke groepen taken en andere informatie is beschikbaar 
 
 >[!NOTE]
 >
->De extra hulp bij optimalisering, met inbegrip van het gebruiken van portefeuilles voor het bieden in het erfenisgebruikersinterface, is beschikbaar bij het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce.
+>De extra hulp bij optimalisering, met inbegrip van het gebruiken van portefeuilles voor het bieden in het erfenisgebruikersinterface, is beschikbaar bij het [!UICONTROL Help] menu (![&#x200B; het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce.

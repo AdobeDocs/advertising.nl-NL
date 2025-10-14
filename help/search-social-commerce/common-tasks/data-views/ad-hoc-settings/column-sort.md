@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <!-- The same in new UI and legacy CM views -->
 
-1. (Indien beschikbaar) op de rechterkant van de kolomrubriek, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ").
+1. (Indien beschikbaar) op de rechterkant van de kolomrubriek, klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ").
 
 1. Selecteer de sorteeroptie:
 

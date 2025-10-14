@@ -39,7 +39,7 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 1. Schakel het selectievakje naast elke relevante rij in.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
@@ -73,7 +73,7 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 1. Schakel het selectievakje in naast de componenten waaruit u de restrictie wilt verwijderen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
@@ -81,4 +81,4 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor campagnes ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
+>* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)

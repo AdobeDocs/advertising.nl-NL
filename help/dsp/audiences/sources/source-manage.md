@@ -32,7 +32,7 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Klik op **[!UICONTROL Add Source]**.
 
-1. In het [!UICONTROL Select a Type] menu, selecteer uw [ platform van klantengegevens ](source-about.md):
+1. In het [!UICONTROL Select a Type] menu, selecteer uw [&#x200B; platform van klantengegevens &#x200B;](source-about.md):
 
    * *[!UICONTROL RT-CDP]*: De [!DNL Adobe Real-Time CDP] .
 
@@ -46,7 +46,7 @@ You can create one source for each combination of universal ID partner and data 
 
 1. Geef de waarde [!UICONTROL Data Visibility Level] : *[!UICONTROL Advertiser]* of *[!UICONTROL Account]* op.
 
-1. Ga de resterende [ bronmontages ](#source-settings) in.
+1. Ga de resterende [&#x200B; bronmontages &#x200B;](#source-settings) in.
 
    Bewaar een kopie van de gegenereerde [!UICONTROL Source Key] . U hebt de waarde later nodig.
 
@@ -54,7 +54,7 @@ You can create one source for each combination of universal ID partner and data 
 
 >[!NOTE]
 >
->Nadat u een bron voor uw platform van klantengegevens creeert, moet u extra stappen voltooien om uw publiek in te voeren. Zie het [ werkschema voor  [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md), <!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> het [ werkschema voor  [!DNL Amperity]](source-amperity.md), het [ werkschema voor  [!DNL Optimizely]](source-optimizely.md), en het [ werkschema voor  [!DNL Tealium]](source-tealium.md).
+>Nadat u een bron voor uw platform van klantengegevens creeert, moet u extra stappen voltooien om uw publiek in te voeren. Zie het [&#x200B; werkschema voor  [!DNL Adobe] [!DNL Real-time CDP]](source-adobe-rtcdp.md), <!-- the [workflow for [!DNL ActionIQ]](source-actioniq.md), --> het [&#x200B; werkschema voor  [!DNL Amperity]](source-amperity.md), het [&#x200B; werkschema voor  [!DNL Optimizely]](source-optimizely.md), en het [&#x200B; werkschema voor  [!DNL Tealium]](source-tealium.md).
 
 ## De id-typen wijzigen voor een publiek-Source
 
@@ -71,7 +71,7 @@ All changes to universal IDs translated from the source are applied after you sa
 
 1. Plaats de cursor op de bronrij en klik op **[!UICONTROL Edit]** .
 
-1. Verander [ IDs die voor de bron ](#source-settings) wordt geselecteerd.
+1. Verander [&#x200B; IDs die voor de bron &#x200B;](#source-settings) wordt geselecteerd.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -117,11 +117,11 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0] zoekt de leverancier elk e-mailadres 
 
 >[!NOTE]
 >
->U kunt slechts één type id in één plaatsing als doel instellen. Om prestaties door type van identiteitskaart te testen, [ creeer een afzonderlijke plaatsing ](/help/dsp/campaign-management/placements/placement-create.md) voor elk type van identiteitskaart in het segment.
+>U kunt slechts één type id in één plaatsing als doel instellen. Om prestaties door type van identiteitskaart te testen, [&#x200B; creeer een afzonderlijke plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-create.md) voor elk type van identiteitskaart in het segment.
 
 * *[!DNL RampID]:* PII in a om te zetten [!DNL RampID]. U kunt [!DNL RampIDs] gebruiken voor het opnieuw toewijzen van gebruikers die zich aanmelden en voor [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) metingen.
 
-* *[!DNL Unified ID2.0] (Beta):* om PII in a [ Verenigde identiteitskaart 2.0 ](https://unifiedid.com) identiteitskaart voor het opnieuw richten van het programma-binnen gebruikers om te zetten.
+* *[!DNL Unified ID2.0] (Beta):* om PII in a [&#x200B; Verenigde identiteitskaart 2.0 &#x200B;](https://unifiedid.com) identiteitskaart voor het opnieuw richten van het programma-binnen gebruikers om te zetten.
 
 <!-- Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
@@ -134,10 +134,10 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0] zoekt de leverancier elk e-mailadres 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de Bronnen van het Publiek van de Eerste Partij ](source-about.md)
->* [ Steun voor het Activeren van Universal IDs ](/help/dsp/audiences/universal-ids.md)
->* [ zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universal IDs ](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
->* [ zet Gebruiker IDs van  [!DNL Amperity]  in Universal IDs ](/help/dsp/audiences/sources/source-amperity.md) om
->* [ zet Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs ](/help/dsp/audiences/sources/source-optimizely.md) om
->* [ zet Gebruiker IDs van  [!DNL Tealium]  in Universal IDs ](/help/dsp/audiences/sources/source-tealium.md) om
->* [ Ongeveer het Beheer van het Publiek ](/help/dsp/audiences/audience-about.md)
+>* [&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](source-about.md)
+>* [&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Amperity]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-amperity.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Optimizely]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-optimizely.md) om
+>* [&#x200B; zet Gebruiker IDs van  [!DNL Tealium]  in Universal IDs &#x200B;](/help/dsp/audiences/sources/source-tealium.md) om
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](/help/dsp/audiences/audience-about.md)

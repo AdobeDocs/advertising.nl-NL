@@ -22,7 +22,7 @@ Als u meerdere instellingen tegelijk wilt bijwerken, kunt u wijzigingen aanbreng
 
 >[!TIP]
 >
->Om meer gebieden voor één of meerdere plaatsen snel uit te geven, zie &quot;[ Plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
+>Om meer gebieden voor één of meerdere plaatsen snel uit te geven, zie &quot;[&#x200B; Plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
 
 ## Instellingen downloaden voor alle locaties in een campagne
 
@@ -44,7 +44,7 @@ Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
    Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
@@ -66,7 +66,7 @@ Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
    Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
@@ -94,7 +94,7 @@ U kunt instellingen voor uw plaatsingen en voor de advertenties en pakketten die
 
    1. Klik op **[!UICONTROL Upload]**.
 
-1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
 Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet met kleurcodering downloaden om te tonen welke instellingen (rijen) zijn opgeslagen en welke zijn mislukt, met een reden voor elke fout. Vervolgens kunt u de problemen in hetzelfde bestand verhelpen en het bestand opnieuw uploaden om de gecorrigeerde gegevens te verwerken.
 
@@ -232,6 +232,6 @@ Check on Brand Safety - Contextual Filtering # with new DV feature/fct change.
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht en geeft de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md)
->* [ geeft Plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uit
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Overzicht en geeft de Montages van de Component van de Campagne uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md)
+>* [&#x200B; geeft Plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uit
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

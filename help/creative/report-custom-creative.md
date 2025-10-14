@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Met [!UICONTROL Custom Creative Report] kunt u de inhoud en levering van rapportgegevens aanpassen voor al uw advertentieervaringen.
 
-U kunt rapporten eenmaal produceren, of u kunt hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
+U kunt rapporten eenmaal produceren, of u kunt hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
@@ -29,7 +29,7 @@ U kunt rapporten eenmaal produceren, of u kunt hen dagelijks, wekelijks, of maan
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create]** .
 
-1. Specificeer de [ rapportmontages ](#report-settings).
+1. Specificeer de [&#x200B; rapportmontages &#x200B;](#report-settings).
 
 1. Klik op **[!UICONTROL Create Custom Report]**.
 
@@ -65,7 +65,7 @@ Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan ops
 
   >[!NOTE]
   >
-  >U kunt ook [ een douanerapport op elk ogenblik ](/help/dsp/reports/report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
+  >U kunt ook [&#x200B; een douanerapport op elk ogenblik &#x200B;](/help/dsp/reports/report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
 
 * *[!UICONTROL On]\&lt;Date\>:* stelt het rapport op een gespecificeerde datum voor voltooiing door 09 :00 in de tijdzone van de rekening in werking.
 
@@ -95,7 +95,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 ### [!UICONTROL Build Your Report] Sectie
 
-**[!UICONTROL Select To Add As Report Headers]:** de gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. Zie &quot;[ Beschikbare Kolommen van het Rapport ](#report-custom-creative-columns)&quot;voor beschrijvingen van alle opties.
+**[!UICONTROL Select To Add As Report Headers]:** de gegevenskolommen, of kopballen, om in het rapport te omvatten. Als u een kolom wilt toevoegen, vouwt u de categorie uit en schakelt u het selectievakje naast de kolomnaam in. De beschikbare kolommen variëren per rapport en alle niet-beschikbare metriek zijn uitgeschakeld. Zie &quot;[&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](#report-custom-creative-columns)&quot;voor beschrijvingen van alle opties.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** de orde van de kolomkopballen. U kunt elke kolom slepen en neerzetten om de volgorde aan te passen.
 
@@ -135,7 +135,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
    * *[!UICONTROL Social Only]:* Verouderd
 
-Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
+Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &#x200B;](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
 **[!UICONTROL Paths as Columns]:** welke soorten omzettingen om te melden wanneer de vroegere gebeurtenissen op het zelfde apparaat voorkwamen. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)] of [!UICONTROL (vt)]):
 
@@ -167,7 +167,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 **[!UICONTROL Email]:** (E-mail bestemmingstype slechts) voor elk adres, ga het adres in en klik **+**.
 
-**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"} waarnaar het douanerapport wordt verzonden.
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"} waarnaar het douanerapport wordt verzonden.
 
 * Selecteer een doelnaam in de lijst om een bestaand doel op te geven. U kunt meerdere doelnamen afzonderlijk selecteren.
 
@@ -175,7 +175,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
    1. Klik **toevoegen Nieuwe Bestemming**.
 
-   1. Ga de [ montages van de rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-settings.md){target="_blank"} in, en klik **sparen**.
+   1. Ga de [&#x200B; montages van de rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md){target="_blank"} in, en klik **sparen**.
 
    1. Terug in de rapportmontages, klik **verfrissen de Namen van de Bestemming.**
 
@@ -244,12 +244,12 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Product Revenue] | (Alleen dynamische advertenties) De totale inkomsten aan bediende advertenties voor een product. Wanneer het product null is, is deze waarde nul (0). |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Revenue] | De totale inkomsten voor bediende reclame. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
-| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | (Advertisers met Advertising DSP) de gewogen som alle omzettingen die in het gespecificeerde [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
+| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | (Advertisers met Advertising DSP) de gewogen som alle omzettingen die in het gespecificeerde [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
 
 {style="table-layout:auto"}
 
 >[!MORELIKETHIS]
 >
->* [ ervaring-vlakke prestatiesrapporten ](/help/creative/experiences/experience-performance-details.md)
->* [ Ongeveer DSP douanerapporten ](/help/dsp/reports/report-about.md){target="_blank"}
->* [ Over [!UICONTROL report destinations]](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}
+>* [&#x200B; ervaring-vlakke prestatiesrapporten &#x200B;](/help/creative/experiences/experience-performance-details.md)
+>* [&#x200B; Ongeveer DSP douanerapporten &#x200B;](/help/dsp/reports/report-about.md){target="_blank"}
+>* [&#x200B; Over [!UICONTROL report destinations]](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}

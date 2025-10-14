@@ -16,7 +16,7 @@ U kunt andere personen zonder aanmelding bij [!DNL Creative] toestaan een voorbe
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -24,10 +24,10 @@ U kunt andere personen zonder aanmelding bij [!DNL Creative] toestaan een voorbe
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Preview]** .
 
-1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share.png " ").
+1. In het hogere recht van de voorproef, klik ![&#x200B; Aandeel &#x200B;](/help/creative/assets/share.png " ").
 
 1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
 >[!MORELIKETHIS]
 >
->* [ Voorproef een ervaring ](/help/creative/experiences/experience-preview.md)
+>* [&#x200B; Voorproef een ervaring &#x200B;](/help/creative/experiences/experience-preview.md)

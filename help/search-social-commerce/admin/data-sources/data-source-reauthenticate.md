@@ -21,13 +21,13 @@ Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een 
 
 1. Schakel het selectievakje in naast de gegevensbron die u opnieuw wilt verifiëren.
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. Bewerk de [ montages van de gegevensbron ](data-source-settings.md):
+1. Bewerk de [&#x200B; montages van de gegevensbron &#x200B;](data-source-settings.md):
 
    1. Ga als volgt te werk in de sectie [!UICONTROL Connect to Google Analytics] .
 
-      1. (Indien nodig) Voer een nieuw e-mailadres in voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet zijn geregistreerd bij een [!DNL Google] -account en de machtiging &quot;Lezen en analyseren&quot; hebben voor de [!DNL Google Analytics] -account. Zie de [ instructies voor het toewijzen van gebruikerstoestemmingen in  [!DNL Google Analytics] ](https://support.google.com/analytics/answer/9305587).
+      1. (Indien nodig) Voer een nieuw e-mailadres in voor toegang tot gegevens voor deze gegevensbron. Het e-mailadres moet zijn geregistreerd bij een [!DNL Google] -account en de machtiging &quot;Lezen en analyseren&quot; hebben voor de [!DNL Google Analytics] -account. Zie de [&#x200B; instructies voor het toewijzen van gebruikerstoestemmingen in  [!DNL Google Analytics] &#x200B;](https://support.google.com/analytics/answer/9305587).
 
          >[!TIP]
          >
@@ -41,10 +41,10 @@ Als u het wachtwoord wijzigt voor het e-mailaccount dat wordt gebruikt voor een 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek ](data-source-about.md)
->* [ Vereisten om a  [!DNL Google Analytics]  gegevensbron ](data-source-prerequisites.md) te vormen
->* [ vorm a  [!DNL Google Analytics]  mening als gegevensbron ](data-source-configure.md)
->* [ geef a  [!DNL Google Analytics]  gegevensbron ](data-source-edit.md) uit
->* [ de synchronisatie van de pauze van een gegevensbron ](data-source-pause.md)
->* [[!DNL Google Analytics]  gegevensbronmontages ](data-source-settings.md)
->* [ Bijlage - Beschikbare  [!DNL Google Analytics]  metriek ](data-source-ga-metrics.md)
+>* [&#x200B; Ongeveer synchroniserend  [!DNL Google Analytics]  omzettingsmetriek &#x200B;](data-source-about.md)
+>* [&#x200B; Vereisten om a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-prerequisites.md) te vormen
+>* [&#x200B; vorm a  [!DNL Google Analytics]  mening als gegevensbron &#x200B;](data-source-configure.md)
+>* [&#x200B; geef a  [!DNL Google Analytics]  gegevensbron &#x200B;](data-source-edit.md) uit
+>* [&#x200B; de synchronisatie van de pauze van een gegevensbron &#x200B;](data-source-pause.md)
+>* [[!DNL Google Analytics]  gegevensbronmontages &#x200B;](data-source-settings.md)
+>* [&#x200B; Bijlage - Beschikbare  [!DNL Google Analytics]  metriek &#x200B;](data-source-ga-metrics.md)

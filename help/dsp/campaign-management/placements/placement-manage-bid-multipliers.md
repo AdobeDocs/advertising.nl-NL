@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Bodmultiplicatoren voor plaatsen beheren
 
-U kunt biedvermenigvuldigers tot stand brengen en beheren, waardoor een algoritmisch gegevens verwerkte bieding wordt vermenigvuldigd om de bieding te verhogen of te verminderen, voor uw bestaande plaatsingsdoelstellingen van [ in aanmerking komende doeltypes ](#bid-multiplier-by-target). U kunt de waarden van de biedvermenigvuldiger voor een plaatsing handmatig bewerken of een spreadsheet met waarden voor een of meer plaatsen uploaden.
+U kunt biedvermenigvuldigers tot stand brengen en beheren, waardoor een algoritmisch gegevens verwerkte bieding wordt vermenigvuldigd om de bieding te verhogen of te verminderen, voor uw bestaande plaatsingsdoelstellingen van [&#x200B; in aanmerking komende doeltypes &#x200B;](#bid-multiplier-by-target). U kunt de waarden van de biedvermenigvuldiger voor een plaatsing handmatig bewerken of een spreadsheet met waarden voor een of meer plaatsen uploaden.
 
 Standaard is de biedvermenigvuldiger voor een doel 1,00, wat betekent dat het bod niet voor dat doel is aangepast. Waarden kunnen variëren van 0,10 tot 10,00. Een inschrijvingsvermenigvuldiger van 0,5 verlaagt bijvoorbeeld een bod van USD 6 naar USD 3 (0,5 x 6). Wanneer een veiling in aanmerking komt voor meerdere biedmodifiers, worden alle toepasselijke biedvermenigvuldigingsfactoren vermenigvuldigd. Als Californië bijvoorbeeld een Bodmultiplier van 2 heeft en San Francisco een Bodmultiplier van 3 heeft, is de laatste Bodmultiplier voor advertenties die in San Francisco lopen 6.
 
@@ -20,9 +20,9 @@ Standaard is de biedvermenigvuldiger voor een doel 1,00, wat betekent dat het bo
 >
 >Bodmultipliers verhogen het bod nooit tot meer dan het maximumbod.
 
-U kunt biedende vermenigvuldigers (met waarden buiten 1.00) voor a [ beperkte aantal doelstellingen ](#bid-multiplier-limits-by-target) plaatsen.
+U kunt biedende vermenigvuldigers (met waarden buiten 1.00) voor a [&#x200B; beperkte aantal doelstellingen &#x200B;](#bid-multiplier-limits-by-target) plaatsen.
 
-Deze functie werkt met uw bestaande plaatsingsdoelen. Om de geselecteerde doelstellingen voor uw plaatsen te veranderen, zie &quot;[ Plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
+Deze functie werkt met uw bestaande plaatsingsdoelen. Om de geselecteerde doelstellingen voor uw plaatsen te veranderen, zie &quot;[&#x200B; Plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
 
 ## Bodvermenigvuldigers voor één plaatsing beheren
 
@@ -38,7 +38,7 @@ U kunt waarden handmatig bewerken of een spreadsheet uploaden voor één plaatsi
 
 1. Pas de biedvermenigvuldigingsfactoren voor in aanmerking komende doelen aan:
 
-   * Om de bewaarde vermenigvuldigingswaarden manueel aan te passen, beweging aan elk [ doel-specifiek lusje ](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en geef de bestaande waarden voor de plaatsingsdoelstellingen uit.
+   * Om de bewaarde vermenigvuldigingswaarden manueel aan te passen, beweging aan elk [&#x200B; doel-specifiek lusje &#x200B;](#bid-multiplier-by-target) ([!UICONTROL Geo], [!UICONTROL Inventory], [!UICONTROL Sites], [!UICONTROL Audience], en [!UICONTROL Brand Safety]) en geef de bestaande waarden voor de plaatsingsdoelstellingen uit.
 
      De meeste doelcategorieën maken een lijst van subcategorieën op de linkerzijde. Klik op een subcategorie om de biedvermenigvuldigingsfactoren voor die subcategorie te beheren, al naar gelang van toepassing.
 
@@ -54,7 +54,7 @@ U kunt waarden handmatig bewerken of een spreadsheet uploaden voor één plaatsi
 
          * Als u een biedwijziging wilt verwijderen, stelt u de vermenigvuldigingswaarde van het bod in op 1,0 of verwijdert u alle informatie voor de rij.
 
-         ![ de rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ](/help/dsp/assets/bid-multiplier-spreadsheet.png " rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ")
+         ![&#x200B; de rij van het Voorbeeld in een bieder multiplier spreadsheetdossier &#x200B;](/help/dsp/assets/bid-multiplier-spreadsheet.png " rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ")
 
       1. Klik op **[!UICONTROL Next]** om naar de sectie [!UICONTROL Upload File] te gaan en sleep a) het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
 
@@ -84,7 +84,7 @@ Upload een spreadsheet om dezelfde waarden toe te passen op alle geselecteerde p
 
       * Als u een biedwijziging wilt verwijderen, stelt u de vermenigvuldigingswaarde van het bod in op 1,0 of verwijdert u alle informatie voor de rij.
 
-      ![ de rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ](/help/dsp/assets/bid-multiplier-spreadsheet.png " rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ")
+      ![&#x200B; de rij van het Voorbeeld in een bieder multiplier spreadsheetdossier &#x200B;](/help/dsp/assets/bid-multiplier-spreadsheet.png " rij van het Voorbeeld in een bieder multiplier spreadsheetdossier ")
 
    1. Klik op **[!UICONTROL Next]** om naar de sectie [!UICONTROL Upload File] te gaan en sleep a) het bewerkte bestand naar het vak of b) klik in het vak om het bestand van uw apparaat of netwerk te selecteren.
 
@@ -125,7 +125,7 @@ U kunt biedvermenigvuldigingsfactoren (met andere waarden dan 1,00) instellen vo
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van de Plaatsing ](placement-about.md)
->* [ geeft Plaatsen ](placement-edit.md) uit
->* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
->* [ Montages van de Plaatsing ](placement-settings.md)
+>* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
+>* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
+>* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)

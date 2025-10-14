@@ -22,7 +22,7 @@ Maak een aparte conversietag voor elke set metriek die u wilt bijhouden en geef 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Tools] >[!UICONTROL Conversion Tags]** .
 
-1. Specificeer de [ montages van de omzettingsmarkering ](#conversion-tag-settings).
+1. Specificeer de [&#x200B; montages van de omzettingsmarkering &#x200B;](#conversion-tag-settings).
 
 1. Genereer de tag:
 
@@ -44,7 +44,7 @@ Maak een aparte conversietag voor elke set metriek die u wilt bijhouden en geef 
 
 * *[!UICONTROL JavaScript]:* om een JavaScript-tag te maken.
 
-Voor meer informatie over de verschillen tussen de markeringstypes, zie &quot;[ FAQs over de omzetting van Adobe Advertising en het volgen van de paginamening markeringen ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
+Voor meer informatie over de verschillen tussen de markeringstypes, zie &quot;[&#x200B; FAQs over de omzetting van Adobe Advertising en het volgen van de paginamening markeringen &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
 
 **[!UICONTROL Tag Properties]:** Een of meer conversiemetriek die moet worden bijgehouden wanneer een eindgebruiker een pagina met de conversietag weergeeft. Om metrisch aan de lijst toe te voegen, ga metrische naam op het &quot;[!UICONTROL Add new property]&quot;gebied in en klik **[!UICONTROL Add]**.
 
@@ -56,13 +56,13 @@ Wanneer de veelvoudige metriek wordt gevolgd, worden zij aangesloten bij door ee
 
 **[!UICONTROL Include unique transaction IDs]:** (Facultatief) omvat een bezit van transactieidentiteitskaart (`ev_transid=<transid>`) in de markering. De optie is standaard geselecteerd.
 
-Wanneer u deze optie selecteert, moet de adverteerder een unieke waarde genereren voor `<transid>` (bijvoorbeeld een werkelijke bestellings-id) wanneer de transactie is voltooid en deze teruggeven aan Adobe Advertising, zoals `ev_transid=0123` . Adobe Advertising gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. Transactie ID kan geen ampersand symbolen (`&`) bevatten, die als parameterseparators worden gereserveerd. De transactie-id is opgenomen in [ de [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md) . Met deze id kunt u gegevens valideren binnen Zoeken, Sociaal en Commerce met de gegevens van de adverteerder.
+Wanneer u deze optie selecteert, moet de adverteerder een unieke waarde genereren voor `<transid>` (bijvoorbeeld een werkelijke bestellings-id) wanneer de transactie is voltooid en deze teruggeven aan Adobe Advertising, zoals `ev_transid=0123` . Adobe Advertising gebruikt de transactie-id om dubbele transacties met dezelfde transactie-id en eigenschapswaarde te voorkomen. Transactie ID kan geen ampersand symbolen (`&`) bevatten, die als parameterseparators worden gereserveerd. De transactie-id is opgenomen in [&#x200B; de [!UICONTROL Transaction Report]](/help/search-social-commerce/reports/management/basic-advanced/transaction-report.md) . Met deze id kunt u gegevens valideren binnen Zoeken, Sociaal en Commerce met de gegevens van de adverteerder.
 
 Als de gegevens geen unieke id per transactie bevatten, genereert Adobe Advertising nog steeds een id op basis van de transactietijd.
 
 >[!NOTE]
 >
->Als u [ de voer van identiteitskaart van de transactie ](/help/search-social-commerce/tracking/feed-transaction-id.md) met omzettingsgegevens voor off-line omzettingen verzendt, dan moet u transactie identiteitskaart (`ev_transid`) voor het online deel van de transactie in de voedergegevens voor off-line delen van de transactie voorleggen.
+>Als u [&#x200B; de voer van identiteitskaart van de transactie &#x200B;](/help/search-social-commerce/tracking/feed-transaction-id.md) met omzettingsgegevens voor off-line omzettingen verzendt, dan moet u transactie identiteitskaart (`ev_transid`) voor het online deel van de transactie in de voedergegevens voor off-line delen van de transactie voorleggen.
 
 **[!UICONTROL Page is inside FB app]:** Verouderd
 
@@ -70,15 +70,15 @@ Als de gegevens geen unieke id per transactie bevatten, genereert Adobe Advertis
 
 **[!UICONTROL JS Version]:** ([!DNL JavaScript] markeringen slechts) Welke versie van de [!DNL JavaScript] markering om te creëren: *[!UICONTROL v2]* (het gebrek) of *[!UICONTROL v3]*.
 
-Zie &quot;[ Veelgestelde vragen over de omzetting van Adobe Advertising en de het volgen markeringen van de paginamening ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot; voor meer informatie over de verschillen .
+Zie &quot;[&#x200B; Veelgestelde vragen over de omzetting van Adobe Advertising en de het volgen markeringen van de paginamening &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot; voor meer informatie over de verschillen .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer conversie-volgende markeringen van Adobe Advertising ](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [ Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen ](tracking-tools-about.md)
->* [ Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 3 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
->* [ Formaat van beeldomzetting volgende markeringen ](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
->* [ de de omzettingsafbeelding van Adobe Advertising JavaScript markering ](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
->* [ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [&#x200B; Ongeveer conversie-volgende markeringen van Adobe Advertising &#x200B;](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+>* [&#x200B; Ongeveer de hulpmiddelen om het volgen markeringen tot stand te brengen en te decoderen &#x200B;](tracking-tools-about.md)
+>* [&#x200B; Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 3 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 2 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
+>* [&#x200B; Formaat van beeldomzetting volgende markeringen &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
+>* [&#x200B; de de omzettingsafbeelding van Adobe Advertising JavaScript markering &#x200B;](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
+>* [&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)

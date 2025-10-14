@@ -14,13 +14,13 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Advertising Insights]** .
 
-2. In het linkermenu, klik ![ Rapporten ](/help/search-social-commerce/assets/insight-reports.png " Rapporten ").
+2. In het linkermenu, klik ![&#x200B; Rapporten &#x200B;](/help/search-social-commerce/assets/insight-reports.png " Rapporten ").
 
 3. Voer in het deelvenster [!UICONTROL Generated Insights] een van de volgende handelingen uit:
 
    * Klik op de rapportinstantie.
 
-   * Houd de curseur over de rapportinstantie, en klik dan ![ Download ](/help/search-social-commerce/assets/insight-download.png " ").
+   * Houd de curseur over de rapportinstantie, en klik dan ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/insight-download.png " ").
 
 4. Open of sla het bestand op volgens de normale procedure van uw browser.
 
@@ -28,6 +28,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Advertising Insights]](insight-about.md)
->* [ produceer een  [!DNL Advertising Insight]](insight-generate.md)
->* [ Schrap een  [!DNL Advertising Insight]](insight-delete.md)
+>* [&#x200B; Over [!UICONTROL Advertising Insights]](insight-about.md)
+>* [&#x200B; produceer een  [!DNL Advertising Insight]](insight-generate.md)
+>* [&#x200B; Schrap een  [!DNL Advertising Insight]](insight-delete.md)

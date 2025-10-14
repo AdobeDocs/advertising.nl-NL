@@ -20,7 +20,7 @@ Alle metriek zijn automatisch beschikbaar in uw meningen van het campagnebeheer 
 
 Onderzoek, sociaal, &amp; Commerce synchroniseert gegevens voor omzettingen waarvoor de &quot;[!DNL Include in 'Conversions']&quot;optie wordt toegelaten, trekkend de gegevens voor de laatste 35 dagen en dan trekkend veranderingen in de gegevens dagelijks door 09 :00-10: 00 in de tijdzone van de adverteerder. Historische gegevens kunnen van dag tot dag veranderen aangezien de nieuwe omzettingen voor elke klik worden gevolgd.
 
-Maximaal drie metriek voor elke [[!DNL Google Ads] bijgehouden conversie ](https://support.google.com/google-ads/answer/4677036) (die u instelt in [!DNL Google Ads] ) zijn automatisch beschikbaar in Zoeken, Sociaal en Commerce, met gebruik van de conversienamen die zijn geconfigureerd in [!DNL Google Ads] . De meetgegevens voor elke omzetting omvatten:
+Maximaal drie metriek voor elke [[!DNL Google Ads] bijgehouden conversie &#x200B;](https://support.google.com/google-ads/answer/4677036) (die u instelt in [!DNL Google Ads] ) zijn automatisch beschikbaar in Zoeken, Sociaal en Commerce, met gebruik van de conversienamen die zijn geconfigureerd in [!DNL Google Ads] . De meetgegevens voor elke omzetting omvatten:
 
 <!--
 
@@ -38,11 +38,11 @@ Maximaal drie metriek voor elke [[!DNL Google Ads] bijgehouden conversie ](https
 
 * `GGL_XD_CT*` — (Indien beschikbaar voor het conversietype, wanneer u deze bijhoudt) Het aantal (aantal) apparaatomzettingen, zoals gemeten door Google, beginnend met het voorvoegsel &quot;GGL_XD_CT_&quot; (zoals GGL_XD_CT_Purchase).
 
-[!DNL Google Ads] registreert elke omzetting door [ biedingseenheid ](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Google Ads] wordt geplaatst; de attributie van Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
+[!DNL Google Ads] registreert elke omzetting door [&#x200B; biedingseenheid &#x200B;](/help/search-social-commerce/glossary.md#a-b), apparaat, en klik datum (niet omzettingsdatum). Attributie is gebaseerd op de standaardattributie die voor elke metrische waarde in [!DNL Google Ads] wordt geplaatst; de attributie van Adobe Advertising wordt niet in rekening gebracht omdat de klik gebeurtenis-vlakke gegevens niet beschikbaar is.
 
 >[!NOTE]
 >
->* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit voorkomt, [ verander de vertoningsnaam ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
+>* Als u meerdere accounts met dezelfde conversienamen hebt, ziet u mogelijk dubbele conversienamen in Adobe Advertising. Als dit voorkomt, [&#x200B; verander de vertoningsnaam &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-edit-display-name.md) voor één van de dubbele metriek in [!UICONTROL Admin] > [!UICONTROL Conversions]. Rapportage is niet correct wanneer twee verschillende metriek de zelfde naam hebben.
 >* Gegevens op het niveau van de biedingseenheid komen overeen met gegevens in [!DNL Google Ads] op hetzelfde niveau. De eigen conversiegegevens van [!DNL Google Ads] voor hogere niveaus kunnen echter aanvullende conversies bevatten die niet aan de onderliggende bodeenheden worden toegewezen. Gegevens in Zoeken, Sociaal, &amp; Commerce worden altijd opgevoerd vanaf het niveau van de biedingseenheid, zodat een campagnerapport bijvoorbeeld mogelijk niet dezelfde totalen heeft als een campagnerapport in Google Ads.
 >* De variantie van gegevens is typisch minder na de ochtendsynchronisatie dan het later op de dag is, wanneer de extra omzettingen nog niet zijn gesynchroniseerd. We raden u aan &#39;s ochtends gegevens te valideren.
 >* Conversiegegevens zijn niet beschikbaar voor advertenties [!DNL Google Display Network] , [!DNL Gmail] , [!DNL Mobile App] en [!DNL YouTube] . Filter deze typen advertenties uit wanneer u gegevens in [!DNL Google Ads] vergelijkt met gegevens in Zoeken, Sociaal en Commerce.
@@ -102,8 +102,8 @@ In Zoeken, Sociaal, &amp; Commerce, gebruik de mening of rapportoptie om omzetti
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van het uitvoeren van en netwerkrekeningen en campagnes ](campaign-implemention-overview.md)
->* [ Monitor en beheer de prestaties van uw campagnes van het advertentienetwerk ](monitor-performance-campaigns.md)
->* [ Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
->* [ creeer een omzettingsmarkering voor  [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
->* [ upload off-line omzettingsgegevens voor verbeterde omzettingen ](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)
+>* [&#x200B; Overzicht van het uitvoeren van en netwerkrekeningen en campagnes &#x200B;](campaign-implemention-overview.md)
+>* [&#x200B; Monitor en beheer de prestaties van uw campagnes van het advertentienetwerk &#x200B;](monitor-performance-campaigns.md)
+>* [&#x200B; Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-view-tracked.md)
+>* [&#x200B; creeer een omzettingsmarkering voor  [!DNL Google Ads]](/help/search-social-commerce/admin/conversion-metrics/conversion-tag-google.md)
+>* [&#x200B; upload off-line omzettingsgegevens voor verbeterde omzettingen &#x200B;](/help/search-social-commerce/admin/conversion-metrics/upload-data-offline-conversions.md)

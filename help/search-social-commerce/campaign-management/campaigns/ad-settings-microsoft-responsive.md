@@ -26,7 +26,7 @@ De responsieve advertentieformaat is beschikbaar voor op afbeeldingen gebaseerde
 >
 >Het advertentienetwerk leidt automatisch tot advertenties voor publiekscampagnes die met een winkelcentrum worden verbonden gebruikend de het productinformatie van de opslag en gebruiker op het niveau van de advertentie richten. U hoeft niet handmatig advertenties te maken.
 
-**[!UICONTROL Images]:** Maximaal 15 JPEG- of PNG-afbeeldingen voor de advertentie. Neem minstens één afbeelding op met een hoogte-breedteverhouding van 1,91:1. Zie de toegelaten aspectraties en de afmetingen voor [ publiek en beelden ](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
+**[!UICONTROL Images]:** Maximaal 15 JPEG- of PNG-afbeeldingen voor de advertentie. Neem minstens één afbeelding op met een hoogte-breedteverhouding van 1,91:1. Zie de toegelaten aspectraties en de afmetingen voor [&#x200B; publiek en beelden &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/56912/0).
 
 Voor publieksadvertenties wordt deze afbeelding door [!DNL Microsoft Advertising] automatisch uitgesneden voor alle mogelijke hoogte-breedteverhoudingen.
 
@@ -54,9 +54,9 @@ Voor publieksadvertenties wordt deze afbeelding door [!DNL Microsoft Advertising
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising]  multimedia en montages ](ad-settings-microsoft-multimedia.md)
->* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  multimedia en montages &#x200B;](ad-settings-microsoft-multimedia.md)
+>* [[!DNL Microsoft Advertising]  product en montages &#x200B;](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-microsoft-rsa.md)

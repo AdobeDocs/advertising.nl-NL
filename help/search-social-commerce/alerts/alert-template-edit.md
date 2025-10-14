@@ -16,11 +16,11 @@ ht-degree: 0%
 
 1. (Optioneel) Filter de weergave om rij met specifieke namen, te evalueren gegevensbereik of andere criteria op te nemen.
 
-   U kunt gegevensfilters [ van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of [ van kolomkopballen ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toepassen.
+   U kunt gegevensfilters [&#x200B; van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of [&#x200B; van kolomkopballen &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toepassen.
 
-1. Naast de malplaatjenaam, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ").
+1. Naast de malplaatjenaam, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ").
 
-1. In het [!UICONTROL Update \[Entity Type\] Alert] venster, geef de [ waakzame montages ](alert-template-settings.md) op **[!UICONTROL Date Range]** uit, **[!UICONTROL Filters]**, en **[!UICONTROL Scheduling and Delivery]** lusjes.
+1. In het [!UICONTROL Update \[Entity Type\] Alert] venster, geef de [&#x200B; waakzame montages &#x200B;](alert-template-settings.md) op **[!UICONTROL Date Range]** uit, **[!UICONTROL Filters]**, en **[!UICONTROL Scheduling and Delivery]** lusjes.
 
    U kunt tussen tabbladen navigeren door op de tabnaam te klikken (bijvoorbeeld &quot;Filters&quot;) of door op **[!UICONTROL Next]** rechtsonder te klikken.
 
@@ -28,11 +28,11 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanealarm ](alert-about.md)
->* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
->* [ Pauzeer een malplaatje van de douanealarm ](alert-template-pause.md)
->* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
->* [ Schrap een malplaatje van de douanealarm ](alert-template-delete.md)
->* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
->* [ de douanealarm van de Mening ](alert-view.md)
->* [ de gegevens van de Uitvoer voor douanealarm ](alert-export-data.md)
+>* [&#x200B; Ongeveer douanealarm &#x200B;](alert-about.md)
+>* [&#x200B; creeer een malplaatje van de douanealarm &#x200B;](alert-template-create.md)
+>* [&#x200B; Pauzeer een malplaatje van de douanealarm &#x200B;](alert-template-pause.md)
+>* [&#x200B; activeer een malplaatje van de douanealarm &#x200B;](alert-template-activate.md)
+>* [&#x200B; Schrap een malplaatje van de douanealarm &#x200B;](alert-template-delete.md)
+>* [&#x200B; de waakzame waakzame malplaatjemontages van de Douane &#x200B;](alert-template-settings.md)
+>* [&#x200B; de douanealarm van de Mening &#x200B;](alert-view.md)
+>* [&#x200B; de gegevens van de Uitvoer voor douanealarm &#x200B;](alert-export-data.md)

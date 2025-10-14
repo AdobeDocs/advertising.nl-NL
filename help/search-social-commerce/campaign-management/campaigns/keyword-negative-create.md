@@ -17,10 +17,10 @@ ht-degree: 0%
 U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne tot stand brengen die het onderzoek of de vertoning of het inheemse netwerk richten. Negatieve trefwoorden activeren geen advertenties.
 
 >[!NOTE]
->U kunt negatieve sleutelwoorden in [ ook creëren en uitgeven en groepsmontages ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [ campagnemontages ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
+>U kunt negatieve sleutelwoorden in [&#x200B; ook creëren en uitgeven en groepsmontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md) en [&#x200B; campagnemontages &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md).
 
 >[!TIP]
->Om vele negatieve sleutelwoorden in één keer tot stand te brengen, gebruik [ campagnebulksheets ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
+>Om vele negatieve sleutelwoorden in één keer tot stand te brengen, gebruik [&#x200B; campagnebulksheets &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Keywords] >[!UICONTROL Negatives]** .
 
@@ -50,6 +50,6 @@ U kunt negatieve sleutelwoorden voor een onderzoek en een groep of een campagne 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer sleutelwoorden ](keyword-about.md)
->* [ beheert biddable sleutelwoorden ](keyword-manage.md)
->* [ Verandering het statuut van sleutelwoorden en negatieve sleutelwoorden ](keyword-status-edit.md)
+>* [&#x200B; Ongeveer sleutelwoorden &#x200B;](keyword-about.md)
+>* [&#x200B; beheert biddable sleutelwoorden &#x200B;](keyword-manage.md)
+>* [&#x200B; Verandering het statuut van sleutelwoorden en negatieve sleutelwoorden &#x200B;](keyword-status-edit.md)

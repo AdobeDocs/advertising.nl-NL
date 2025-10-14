@@ -20,11 +20,11 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
 >[!NOTE]
 >
->Om een doelknoop aan het bodemniveau van een besluitvormingsboom toe te voegen, zie &quot;[ een doelknoop aan het definitieve niveau in een ervaring ](experience-target-node-add-final.md) toevoegen.&quot;
+>Om een doelknoop aan het bodemniveau van een besluitvormingsboom toe te voegen, zie &quot;[&#x200B; een doelknoop aan het definitieve niveau in een ervaring &#x200B;](experience-target-node-add-final.md) toevoegen.&quot;
 
 <!-- 1. [ways to get to the decision tree] -->
 
-1. Onder de knoop waarbij u het doel wilt opnemen, ![ ](/help/creative/assets/add.png " toevoegen ") klikken, en dan selecteren **[!UICONTROL Insert New Target]**.
+1. Onder de knoop waarbij u het doel wilt opnemen, ![&#x200B; &#x200B;](/help/creative/assets/add.png " toevoegen ") klikken, en dan selecteren **[!UICONTROL Insert New Target]**.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -80,7 +80,7 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
          1. Klik op **[!UICONTROL Click to Browse]** om de [!UICONTROL Geo Targeting] -opties te openen, geef een of meer geografische doelen op en klik op **[!UICONTROL Save]** .
 
-            Postcodedoelen hebben opties voor bulkbewerking. Als u meerdere postcodes wilt plakken, klikt u op de tab **[!UICONTROL Paste postal codes]** , selecteert u het land, plakt of voert u postcodes in die door komma&#39;s of op afzonderlijke regels zijn gescheiden, en klikt u op **[!UICONTROL Include All]** . Om een inbegrepen zip codedoel te verwijderen, houd de curseur over het doel en klik ![ verwijder ](/help/creative/assets/delete.png " ") **[!UICONTROL Remove]**.
+            Postcodedoelen hebben opties voor bulkbewerking. Als u meerdere postcodes wilt plakken, klikt u op de tab **[!UICONTROL Paste postal codes]** , selecteert u het land, plakt of voert u postcodes in die door komma&#39;s of op afzonderlijke regels zijn gescheiden, en klikt u op **[!UICONTROL Include All]** . Om een inbegrepen zip codedoel te verwijderen, houd de curseur over het doel en klik ![&#x200B; verwijder &#x200B;](/help/creative/assets/delete.png " ") **[!UICONTROL Remove]**.
 
          1. (Optioneel) Als u meerdere doelknooppunten wilt maken wanneer meerdere geografische doelen zijn opgegeven, selecteert u **[!UICONTROL Split targets to create nodes]** .
 
@@ -90,11 +90,11 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
       * Voor een doel voor gegevensdoorloop past u desgewenst de gegevensdoorvoersleutel aan, voert u één waarde voor de gegevensdoorloop in en klikt u op **[!UICONTROL Apply]** .
 
-        Een standaardwaarde voor de sleutel in het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [ ervaringsmontages ](experience-settings-targeting.md). U kunt de toets desgewenst aanpassen.
+        Een standaardwaarde voor de sleutel in het zeer belangrijk-waardepaar wordt reeds geplaatst op het **[!UICONTROL Data Pass]** gebied in de [!UICONTROL Advanced] sectie van de [&#x200B; ervaringsmontages &#x200B;](experience-settings-targeting.md). U kunt de toets desgewenst aanpassen.
 
       * Selecteer voor een heroriënterend pixeldoel één herrichtingspixel dat u wilt gebruiken en de waarden voor de kenmerken van een pixel die nodig zijn om de creatieve elementen weer te geven. Klik vervolgens op **[!UICONTROL Apply]** .
 
-        De attributen voor het opnieuw richten pixel worden gevormd in [ het opnieuw richten pixelmontages ](/help/creative/pixels/retargeting-pixel-manage.md).
+        De attributen voor het opnieuw richten pixel worden gevormd in [&#x200B; het opnieuw richten pixelmontages &#x200B;](/help/creative/pixels/retargeting-pixel-manage.md).
 
       * Ga als volgt te werk voor apparaatdoelen:
 
@@ -120,9 +120,9 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Facultatief) [ wijst creatieve personen ](experience-assign-creative-bundles.md) aan de nieuwe doelknoop en aan de &quot;Al Else&quot;knoop toe.
+   * (Facultatief) [&#x200B; wijst creatieve personen &#x200B;](experience-assign-creative-bundles.md) aan de nieuwe doelknoop en aan de &quot;Al Else&quot;knoop toe.
 
-   * (Facultatief) [ voeg een sibling doelknoop ](experience-target-node-add-sibling.md) van het gespecificeerde doeltype toe.
+   * (Facultatief) [&#x200B; voeg een sibling doelknoop &#x200B;](experience-target-node-add-sibling.md) van het gespecificeerde doeltype toe.
 
    * (Optioneel) U kunt de ervaring als volgt opslaan:
 
@@ -140,11 +140,11 @@ Om een specifiek doel te bepalen, voeg een extra sibling doelknoop op het zelfde
 
 >[!MORELIKETHIS]
 >
->* [ voeg een doelknoop aan het definitieve niveau toe ](experience-target-node-add-final.md)
->* [ voeg een sibling doelknoop tussen knopen ](experience-target-node-add-sibling.md) toe
->* [ de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau ](experience-target-node-copy.md)
->* [ wijs creatieve elementen aan een definitieve knoop toe ](experience-assign-creative-bundles.md)
->* [ Schrap een doelknoop of creatieve bladknoop ](/help/creative/experiences/experience-target-node-delete.md)
->* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
->* [ geef een ervaring met beslissingsboom uit richtend ](experience-edit-targeting.md)
->* [ gerichte ervaringsmontages ](experience-settings-targeting.md)
+>* [&#x200B; voeg een doelknoop aan het definitieve niveau toe &#x200B;](experience-target-node-add-final.md)
+>* [&#x200B; voeg een sibling doelknoop tussen knopen &#x200B;](experience-target-node-add-sibling.md) toe
+>* [&#x200B; de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau &#x200B;](experience-target-node-copy.md)
+>* [&#x200B; wijs creatieve elementen aan een definitieve knoop toe &#x200B;](experience-assign-creative-bundles.md)
+>* [&#x200B; Schrap een doelknoop of creatieve bladknoop &#x200B;](/help/creative/experiences/experience-target-node-delete.md)
+>* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
+>* [&#x200B; geef een ervaring met beslissingsboom uit richtend &#x200B;](experience-edit-targeting.md)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](experience-settings-targeting.md)

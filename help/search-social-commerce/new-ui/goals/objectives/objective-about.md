@@ -32,8 +32,8 @@ Voor elke metrische waarde in het doel kunt u:
 * Pas gewichtaanbevelingen op de metriek toe.
 
 >[!NOTE]
->* (Onderzoek, Sociaal, &amp; Commerce) U kunt een doelstelling met een portefeuille associëren wanneer u [ de portefeuille ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) creeert of door later [ de portefeuillemontages ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md) te wijzigen.
->* (Advertisers met de rekeningen van DSP die met Onderzoek, Sociale, &amp; rekeningen van Commerce verbonden zijn) in Advertising DSP, kunt u een doelstelling als a [ douaneoptimalisatiedoel ](/help/dsp/campaign-management/packages/package-settings.md) voor een pakket met pakket-vlakke het passen selecteren.
+>* (Onderzoek, Sociaal, &amp; Commerce) U kunt een doelstelling met een portefeuille associëren wanneer u [&#x200B; de portefeuille &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-create.md) creeert of door later [&#x200B; de portefeuillemontages &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-edit.md) te wijzigen.
+>* (Advertisers met de rekeningen van DSP die met Onderzoek, Sociale, &amp; rekeningen van Commerce verbonden zijn) in Advertising DSP, kunt u een doelstelling als a [&#x200B; douaneoptimalisatiedoel &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor een pakket met pakket-vlakke het passen selecteren.
 >* U kunt hetzelfde doel gebruiken voor meerdere zoek-, sociale en Commerce-portfolio&#39;s en/of meerdere DSP-pakketten.
 >* De meetgegevens voor elk doel in de weergave [!UICONTROL Objectives] bevatten geen gegevens van DSP.
 
@@ -41,30 +41,30 @@ Voor elke metrische waarde in het doel kunt u:
 
 U kunt het volgende opnemen in uw doelstellingen:
 
-* De cijfers die Adobe Advertising volgen gebruikend het [ conversie volgende pixel van Adobe Advertising ](/help/search-social-commerce/tracking/conversion-tracking-advertising.md).
+* De cijfers die Adobe Advertising volgen gebruikend het [&#x200B; conversie volgende pixel van Adobe Advertising &#x200B;](/help/search-social-commerce/tracking/conversion-tracking-advertising.md).
 
-* [ Advertiser-Gecontroleerde metriek van de dossiers van de omzetvoer ](/help/search-social-commerce/tracking/conversion-tracking-about.md).<!-- Search only, or might DSP-only clients also have these? -->
+* [&#x200B; Advertiser-Gecontroleerde metriek van de dossiers van de omzetvoer &#x200B;](/help/search-social-commerce/tracking/conversion-tracking-about.md).<!-- Search only, or might DSP-only clients also have these? -->
 
-* (Advertisers met [!DNL Adobe Analytics for Advertising]) [ de metriek van de Omzetting en van de plaatsovereenkomst die van Adobe Analytics ](/help/integrations/analytics/overview.md) wordt gesynchroniseerd.
+* (Advertisers met [!DNL Adobe Analytics for Advertising]) [&#x200B; de metriek van de Omzetting en van de plaatsovereenkomst die van Adobe Analytics &#x200B;](/help/integrations/analytics/overview.md) wordt gesynchroniseerd.
 
-  In Onderzoek, Sociale, &amp; Commerce, worden de volgende [ metriek van de plaatstoezegging ](/help/integrations/analytics/analytics-data-in-advertising.md) automatisch in de portefeuille het bieden algoritmen in aanmerking genomen: `timespent_secs_1stvisit`, `timespent_secs_total`, `pageviews_1stvisit`, `pageviews_total`, en `bounces`.
+  In Onderzoek, Sociale, &amp; Commerce, worden de volgende [&#x200B; metriek van de plaatstoezegging &#x200B;](/help/integrations/analytics/analytics-data-in-advertising.md) automatisch in de portefeuille het bieden algoritmen in aanmerking genomen: `timespent_secs_1stvisit`, `timespent_secs_total`, `pageviews_1stvisit`, `pageviews_total`, en `bounces`.
 
 * [!DNL Google] metrics: <!-- Search only, or might DSP-only clients also have these? -->
 
-   * [[!DNL Google Ads] -tracked conversions ](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) van gesynchroniseerde [!DNL Google Ads] accounts.
+   * [[!DNL Google Ads] -tracked conversions &#x200B;](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md) van gesynchroniseerde [!DNL Google Ads] accounts.
 
-   * (Advertisers met [[!DNL Google Analytics]  integraties ](/help/search-social-commerce/admin/data-sources/data-source-about.md)) de meningen van de Pagina, Zittingen, het Tarief van de Stuiting (berekend als grenzen/zittingen), en Duur van de Zitting.
+   * (Advertisers met [[!DNL Google Analytics]  integraties &#x200B;](/help/search-social-commerce/admin/data-sources/data-source-about.md)) de meningen van de Pagina, Zittingen, het Tarief van de Stuiting (berekend als grenzen/zittingen), en Duur van de Zitting.
 
      In Zoeken, Sociaal en Commerce worden deze meetgegevens automatisch meegenomen in de algoritmen voor het bieden van portfolio&#39;s.
 
 ## Optie om doelstellingen te uploaden naar advertentienetwerken
 
-U kunt naar keuze [ de doelstellingen voor de portefeuilles van de rekening aan  [!DNL Google Ads]  en/of  [!DNL Microsoft Advertising]  als omzettingen ](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploaden zodat u hen voor campagne- of groep-vlakke optimalisering kunt gebruiken. Wanneer u deze optie inschakelt, geven Search, Social en Commerce de gewogen inkomstengegevens op EF-ID-niveau (klik op ID) door aan het advertentienetwerk. Het laat om het even welke ad netwerk-gevolgde metriek weg.
+U kunt naar keuze [&#x200B; de doelstellingen voor de portefeuilles van de rekening aan  [!DNL Google Ads]  en/of  [!DNL Microsoft Advertising]  als omzettingen &#x200B;](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploaden zodat u hen voor campagne- of groep-vlakke optimalisering kunt gebruiken. Wanneer u deze optie inschakelt, geven Search, Social en Commerce de gewogen inkomstengegevens op EF-ID-niveau (klik op ID) door aan het advertentienetwerk. Het laat om het even welke ad netwerk-gevolgde metriek weg.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een doel ](objective-create.md)
->* [ geef een doelstelling ](objective-edit.md) uit
->* [ Schrap een doelstelling ](objective-delete.md)
->* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
->* [ Objectieve montages ](objective-settings.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
+>* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
+>* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)
+>* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)

@@ -21,9 +21,9 @@ Het oudere rapport op plaatsingsniveau bevat een overzicht en secties over [!UIC
 
 >[!MORELIKETHIS]
 >
->* [ Mening de Plaatsen, Advertenties, en Details van de Frequentie voor een Plaatsing ](/help/dsp/campaign-management/reports/placement-details-view.md)
->* [ Mening een Gedetailleerd Rapport voor een Advertentie ](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [ Mening een Gedetailleerd Rapport voor een Campagne ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
->* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
+>* [&#x200B; Mening de Plaatsen, Advertenties, en Details van de Frequentie voor een Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-details-view.md)
+>* [&#x200B; Mening een Gedetailleerd Rapport voor een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [&#x200B; Mening een Gedetailleerd Rapport voor een Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)

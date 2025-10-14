@@ -14,9 +14,9 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** .
 
-1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Report]**, houd de curseur over **[!UICONTROL Specialty Reports]**, en klik dan het [ rapporttype ](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md).
+1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Report]**, houd de curseur over **[!UICONTROL Specialty Reports]**, en klik dan het [&#x200B; rapporttype &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md).
 
-1. (Facultatief) in het [!UICONTROL Report Settings] venster, verander de standaard [ rapportmontages ](specialty-report-settings.md):
+1. (Facultatief) in het [!UICONTROL Report Settings] venster, verander de standaard [&#x200B; rapportmontages &#x200B;](specialty-report-settings.md):
 
    1. (Optioneel) Voer een aangepaste naam in voor het rapport en voor de sjabloon (als u het rapport opslaat als een sjabloon).
 
@@ -38,13 +38,13 @@ ht-degree: 0%
 
 1. Klik op **[!UICONTROL Create]**.
 
-Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] mening ](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan de [[!UICONTROL Templates] mening ](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
+Als u geen rapportprogramma specificeerde, dan wordt het rapport in werking gesteld onmiddellijk; anders, wordt het in werking gesteld volgens het gespecificeerde programma. De rapportnaam wordt toegevoegd aan de [[!UICONTROL Latest Reports] mening &#x200B;](/help/search-social-commerce/reports/report-about.md). Als u het rapport als malplaatje bewaarde, dan wordt het ook toegevoegd aan de [[!UICONTROL Templates] mening &#x200B;](/help/search-social-commerce/reports/report-about.md). Wanneer het rapport is voltooid, kan het bestand worden geopend of opgeslagen. Sjablonen zijn direct beschikbaar.
 
-Als u om het even welke e-mailadressen voor bericht inging, ontvangt elke ontvanger een bericht wanneer de rapportbaan wordt voltooid of ontbreekt, die op de gebruiker [ wordt gebaseerd gevormde berichtmontages ](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
+Als u om het even welke e-mailadressen voor bericht inging, ontvangt elke ontvanger een bericht wanneer de rapportbaan wordt voltooid of ontbreekt, die op de gebruiker [&#x200B; wordt gebaseerd gevormde berichtmontages &#x200B;](/help/search-social-commerce/notifications/notification-edit.md) voor rapporten.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer specialiteitrapporten ](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
->* [ het rapportmontages van de Specialiteit ](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
->* [ de kolommen van het Rapport voor specialiteitrapporten ](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
->* [ de rapporten van de Schrapping ](/help/search-social-commerce/reports/management/report-delete.md)
+>* [&#x200B; Ongeveer specialiteitrapporten &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
+>* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [&#x200B; de kolommen van het Rapport voor specialiteitrapporten &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-columns.md)
+>* [&#x200B; de rapporten van de Schrapping &#x200B;](/help/search-social-commerce/reports/management/report-delete.md)

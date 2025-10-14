@@ -28,5 +28,5 @@ U kunt elke taak met opsommingstekens stoppen, inclusief het posten van een best
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
->* [ Schrap geüploade bulksbladen en foutendossiers ](bulksheet-delete.md)
+>* [&#x200B; Ongeveer het beheren van campagnegegevens gebruikend bulksbladen &#x200B;](bulksheet-about.md)
+>* [&#x200B; Schrap geüploade bulksbladen en foutendossiers &#x200B;](bulksheet-delete.md)

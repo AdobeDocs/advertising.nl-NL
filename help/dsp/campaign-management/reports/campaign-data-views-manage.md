@@ -20,7 +20,7 @@ U kunt de metriek en grafiekwijze voor alle gegevensvisualisaties over campagnes
 
 ### De statistieken voor een gegevensvisualisatie wijzigen
 
-1. In het hogere recht van de gegevensvisualisatie, klik ![ Montages ](/help/dsp/assets/settings-chart.png).
+1. In het hogere recht van de gegevensvisualisatie, klik ![&#x200B; Montages &#x200B;](/help/dsp/assets/settings-chart.png).
 
 1. Selecteer de metriek.
 
@@ -30,7 +30,7 @@ U kunt de metriek en grafiekwijze voor alle gegevensvisualisaties over campagnes
 
 ### De weergavemodus wijzigen voor een gegevensvisualisatie
 
-* In het hogere recht van de gegevensvisualisatie, klik de [!UICONTROL Overlay] schakelaar (![ schakelaar van de Bedekking ](/help/dsp/assets/overlay.png)) om tussen bedekkingswijze (alle grafieken samen bedekte) en de diagramwijze (drie afzonderlijke grafieken) te veranderen.
+* In het hogere recht van de gegevensvisualisatie, klik de [!UICONTROL Overlay] schakelaar (![&#x200B; schakelaar van de Bedekking &#x200B;](/help/dsp/assets/overlay.png)) om tussen bedekkingswijze (alle grafieken samen bedekte) en de diagramwijze (drie afzonderlijke grafieken) te veranderen.
 
 ## Gegevenstabellen beheren {#data-tables-manage}
 
@@ -40,17 +40,17 @@ In alle weergaven voor campagnebeheer ([!UICONTROL Campaigns] , [!UICONTROL Pack
 
 Elk campagnebeheerniveau ([!UICONTROL Campaigns], [!UICONTROL Packages], [!UICONTROL Placements] en [!UICONTROL Ads] ) bevat ingebouwde weergaven [!UICONTROL Pacing] en [!UICONTROL Performance] die relevante meetgegevens voor die entiteit bevatten. Standaard wordt de weergave [!UICONTROL Pacing] weergegeven, zodat u in één oogopslag onderliggende campagnes en campagnecomponenten kunt identificeren. U kunt desgewenst aangepaste kolomsets maken en bewerken.
 
-![ de selecteur van de kolommening ](/help/dsp/assets/column-view-selector.png)
+![&#x200B; de selecteur van de kolommening &#x200B;](/help/dsp/assets/column-view-selector.png)
 
 DSP slaat uw meest recente weergave op als de standaardweergave, zodat u altijd de maateenheden weergeeft die voor u relevant zijn wanneer u terugkeert naar de pagina.
 
 #### De kolomweergave wijzigen {#column-view-change}
 
-* In de selecteur van de Mening, klik ![ benedenpijl ](/help/dsp/assets/chevron-down.png), en klik dan de naam van de gewenste kolommening.
+* In de selecteur van de Mening, klik ![&#x200B; benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png), en klik dan de naam van de gewenste kolommening.
 
 #### Een aangepaste kolomweergave maken {#column-view-create}
 
-1. In de selecteur van de Mening, klik ![ benedenpijl ](/help/dsp/assets/chevron-down.png), en klik dan **[!UICONTROL Create View]**.
+1. In de selecteur van de Mening, klik ![&#x200B; benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png), en klik dan **[!UICONTROL Create View]**.
 
 1. Geef de metriek op die u in de weergave wilt opnemen:
 
@@ -74,9 +74,9 @@ DSP slaat uw meest recente weergave op als de standaardweergave, zodat u altijd 
 >
 >U kunt geen wijzigingen opslaan in een standaardkolomweergave (vooraf gedefinieerd), maar u kunt uw wijzigingen tijdelijk toepassen of ze opslaan in een nieuwe aangepaste weergave.
 
-1. In de selecteur van de Mening, klik ![ benedenpijl ](/help/dsp/assets/chevron-down.png), en klik dan de bestaande naam van de kolommening.
+1. In de selecteur van de Mening, klik ![&#x200B; benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png), en klik dan de bestaande naam van de kolommening.
 
-1. In de selecteur van de Mening, klik ![ benedenpijl ](/help/dsp/assets/chevron-down.png), en klik dan **[!UICONTROL Edit View]**.
+1. In de selecteur van de Mening, klik ![&#x200B; benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png), en klik dan **[!UICONTROL Edit View]**.
 
 1. Bewerk de metriek die u in de weergave wilt opnemen:
 
@@ -100,7 +100,7 @@ DSP slaat uw meest recente weergave op als de standaardweergave, zodat u altijd 
 
 Met filters wijzigt u de gegevens die op het huidige tabblad worden weergegeven. Beschikbare filters variëren per type entiteit, maar kunnen entiteitsnaam, status en extra bezitskolommen omvatten.
 
-1. In de belangrijkste toolbar, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
+1. In de belangrijkste toolbar, klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png).
 1. Klik voor elk filter dat u wilt toepassen op de filternaam in de linkerkolom en geef vervolgens de filterwaarde(n) op.
 1. Klik op **[!UICONTROL Apply]**.
 
@@ -146,7 +146,7 @@ De volgende filters zijn beschikbaar voor uw weergaven [!UICONTROL Campaigns] , 
 
 Wijzig het datumbereik dat in alle standaard- en aangepaste weergaven wordt gebruikt met de datumbereikkiezer boven een gegevenstabel.
 
-![ de bereikselecteur van de Datum ](/help/dsp/assets/date-range-selector.png " de bereikselecteur van de Datum ")
+![&#x200B; de bereikselecteur van de Datum &#x200B;](/help/dsp/assets/date-range-selector.png " de bereikselecteur van de Datum ")
 
 * Voor een vooraf ingesteld bereik: selecteer een optie in de lijst met veelgebruikte tijdstappen. De standaardwaarde is [!UICONTROL Last 30 days]*.
 
@@ -171,9 +171,9 @@ Selecteer *[!UICONTROL 25]* , *[!UICONTROL 50]* of *[!UICONTROL 100]* rechtsonde
 
 >[!MORELIKETHIS]
 >
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](campaign-reports-about.md)
->* [ Mening de Plaatsen, Advertenties, en Details van de Frequentie voor een Plaatsing ](placement-details-view.md)
->* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [ Mening de Diagnostische Rapporten van de Plaatsing ](placement-diagnostics.md)
->* [ Gegevens van de Uitvoer van een Mening van het Beheer van de Campagne ](campaign-export-data.md)
->* [ Video: De Structuur van de Rekening van DSP en Gebruikersinterface ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
+>* [&#x200B; Mening de Plaatsen, Advertenties, en Details van de Frequentie voor een Plaatsing &#x200B;](placement-details-view.md)
+>* [&#x200B; Mening het Voorspelde Rapport van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [&#x200B; Mening de Diagnostische Rapporten van de Plaatsing &#x200B;](placement-diagnostics.md)
+>* [&#x200B; Gegevens van de Uitvoer van een Mening van het Beheer van de Campagne &#x200B;](campaign-export-data.md)
+>* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)

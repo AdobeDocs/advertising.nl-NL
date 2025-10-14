@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads], [!DNL Microsoft Advertising] , [!DNL Yahoo! Japan Ads] (alleen acties verwijderen) en [!DNL Yandex] alleen accounts*
 
-Nadat u een ad netwerk-specifieke voedermalplaatje creeert en een voederdossier of een [!DNL Google] of [!DNL Microsoft] handels centrumrekening met het associeert, kunt u advertenties dynamisch tot stand brengen door de voedergegevens door het malplaatje volgens de [ montages van voedergegevens ](feed-settings-manage.md) te verspreiden. Tijdens propagatie, worden de kolomnamen in het malplaatje vervangen met gegevenswaarden in het voer, en de geproduceerde campagnes en hun componenten hebben de standaardmontages tenzij het malplaatje anders specificeert. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Commerce ofwel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties of wijst u de advertenties toe aan de bestaande accountstructuur.
+Nadat u een ad netwerk-specifieke voedermalplaatje creeert en een voederdossier of een [!DNL Google] of [!DNL Microsoft] handels centrumrekening met het associeert, kunt u advertenties dynamisch tot stand brengen door de voedergegevens door het malplaatje volgens de [&#x200B; montages van voedergegevens &#x200B;](feed-settings-manage.md) te verspreiden. Tijdens propagatie, worden de kolomnamen in het malplaatje vervangen met gegevenswaarden in het voer, en de geproduceerde campagnes en hun componenten hebben de standaardmontages tenzij het malplaatje anders specificeert. Afhankelijk van de sjabloonopties maakt u met Zoeken, Sociaal en Commerce ofwel een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties of wijst u de advertenties toe aan de bestaande accountstructuur.
 
 Wanneer nieuwe feed-gegevens nieuwe gegevenswaarden voor een item bevatten of de sjabloon is gewijzigd, worden bestaande advertenties verwijderd en worden nieuwe advertenties gemaakt. Als de enige wijziging de aanwijzing van [!DNL Google Ads] Param 1 en Param 2 is, worden alleen die waarden bijgewerkt. Er worden nooit dubbele advertenties gemaakt (dezelfde pagina voor kopiëren en landen).
 
@@ -76,7 +76,7 @@ Wanneer elke propagatieactie wordt voltooid, wordt een propagatiesamenvatting to
 
 1. Klik op de tab **[!UICONTROL Propagations]** .
 
-1. Naast de malplaatjenaam, klik ![ Mening/geef montagespictogram ](/help/search-social-commerce/assets/settings.png " Mening/geef montagespictogram ") uit.
+1. Naast de malplaatjenaam, klik ![&#x200B; Mening/geef montagespictogram &#x200B;](/help/search-social-commerce/assets/settings.png " Mening/geef montagespictogram ") uit.
 
 ## Een propagatietaak stoppen
 
@@ -88,10 +88,10 @@ U kunt een propagatietaak voor de gegevens van de inventarisfeed stoppen terwijl
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer inventarisvoer ](inventory-feeds-about.md)
->* [ beheer en malplaatjes voor inventarisvoer ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md)
->* [ gegevens van de Mening die van voer ](propagated-data-view.md) worden geproduceerd
->* [ geeft gegevens uit die van voer ](propagated-data-edit.md) worden geproduceerd uit
->* [ Post campagnegegevens die van voer aan ad netwerken worden geproduceerd ](propagated-data-post.md)
->* [ Einde een het posten baan voor de gegevens van het inventarisvoer ](stop-job.md)
->* [ Statussen van gegevens die uit voer ](propagated-data-status.md) worden geproduceerd
+>* [&#x200B; Ongeveer inventarisvoer &#x200B;](inventory-feeds-about.md)
+>* [&#x200B; beheer en malplaatjes voor inventarisvoer &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/ad-template-manage.md)
+>* [&#x200B; gegevens van de Mening die van voer &#x200B;](propagated-data-view.md) worden geproduceerd
+>* [&#x200B; geeft gegevens uit die van voer &#x200B;](propagated-data-edit.md) worden geproduceerd uit
+>* [&#x200B; Post campagnegegevens die van voer aan ad netwerken worden geproduceerd &#x200B;](propagated-data-post.md)
+>* [&#x200B; Einde een het posten baan voor de gegevens van het inventarisvoer &#x200B;](stop-job.md)
+>* [&#x200B; Statussen van gegevens die uit voer &#x200B;](propagated-data-status.md) worden geproduceerd

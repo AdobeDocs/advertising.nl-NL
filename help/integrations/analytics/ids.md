@@ -24,9 +24,9 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 * Een view-through ingang wordt gevangen wanneer een gebruiker de plaats na het bekijken van een advertentie bezoekt maar niet het klikt. [!DNL Analytics] registreert een mening-door als twee voorwaarden worden voldaan:
 
-   * De bezoeker heeft geen klik-door voor a [!DNL DSP] of [!DNL Search, Social, & Commerce] en tijdens [ klikt raadplegingsvenster ](/help/integrations/analytics/prerequisites.md#lookback-a4adc).
+   * De bezoeker heeft geen klik-door voor a [!DNL DSP] of [!DNL Search, Social, & Commerce] en tijdens [&#x200B; klikt raadplegingsvenster &#x200B;](/help/integrations/analytics/prerequisites.md#lookback-a4adc).
 
-   * De bezoeker heeft minstens één [!DNL DSP] en tijdens het [ venster van de imkerraadpleging ](/help/integrations/analytics/prerequisites.md#lookback-a4adc) gezien. De laatste indruk wordt doorgegeven als de doorkijkhoek.
+   * De bezoeker heeft minstens één [!DNL DSP] en tijdens het [&#x200B; venster van de imkerraadpleging &#x200B;](/help/integrations/analytics/prerequisites.md#lookback-a4adc) gezien. De laatste indruk wordt doorgegeven als de doorkijkhoek.
 
 * Een doorklikitem wordt vastgelegd wanneer een sitebezoeker op een advertentie klikt voordat hij de site betreedt. [!DNL Analytics] legt een doorklikken vast wanneer een van de volgende omstandigheden zich voordoet:
 
@@ -34,11 +34,11 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
    * De URL bevat geen volgcodes, maar de Adobe Advertising JavaScript-code detecteert een klik binnen de laatste twee minuten.
 
-![ op mening-gebaseerde Adobe Advertising [!DNL Analytics] integratie ](/help/integrations/assets/a4adc-view-through-process.png)
+![&#x200B; op mening-gebaseerde Adobe Advertising [!DNL Analytics] integratie &#x200B;](/help/integrations/assets/a4adc-view-through-process.png)
 
 *Figuur 1: Op mening-gebaseerde Adobe Advertising [!DNL Analytics] integratie*
 
-![ Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie ](/help/integrations/assets/a4adc-click-through-process.png)
+![&#x200B; Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie &#x200B;](/help/integrations/assets/a4adc-click-through-process.png)
 
 *Figuur 2: Adobe Advertising klikt op URL-Gebaseerde [!DNL Analytics] integratie*
 
@@ -46,9 +46,9 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of belichting op het niveau van de afzonderlijke browser of het apparaat. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens en Customer Journey Analytics-gegevens naar Adobe Advertising voor het melden en optimaliseren van biedingen binnen Adobe Advertising.
 
-Voor [!DNL Analytics], wordt EF identiteitskaart opgeslagen in [ an  [!DNL Analytics] [!DNL eVar] ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) dimensie (Adobe Advertising EF identiteitskaart).
+Voor [!DNL Analytics], wordt EF identiteitskaart opgeslagen in [&#x200B; an  [!DNL Analytics] [!DNL eVar] &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) dimensie (Adobe Advertising EF identiteitskaart).
 
-Voor Customer Journey Analytics, wordt EF identiteitskaart opgeslagen in het `trackingIdentities` bezit van het `conversionDetails` voorwerp, dat deel van [ uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
+Voor Customer Journey Analytics, wordt EF identiteitskaart opgeslagen in het `trackingIdentities` bezit van het `conversionDetails` voorwerp, dat deel van [&#x200B; uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 ### EF-ID-indelingen {#ef-id-formats}
 
@@ -120,21 +120,21 @@ De parameter wordt op een van de volgende manieren toegevoegd aan de URL&#39;s d
 
       * Voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] -accounts waarvoor de [!UICONTROL Auto Upload] -instelling is ingeschakeld voor de account of campagne, voegt de pixelserver automatisch de parameter s_kwcid toe aan de achtervoegsels van de bestemmingspagina wanneer een eindgebruiker op een advertentie met de Adobe Advertising-pixel klikt.
 
-      * Voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen met [!UICONTROL Auto Upload] gehandicapten plaatsen, voeg manueel de parameter aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
+      * Voor andere advertentienetwerken, of [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen met [!UICONTROL Auto Upload] gehandicapten plaatsen, voeg manueel de parameter aan uw [&#x200B; rekening-niveau parameters &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
 
 * Wanneer de invoegfunctie op de server niet is geïmplementeerd:
 
-   * De klanten van DSP: De [ code van JavaScript ](javascript.md) registreert automatisch klik-door:gaan en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
+   * De klanten van DSP: De [&#x200B; code van JavaScript &#x200B;](javascript.md) registreert automatisch klik-door:gaan en mening-door. Wanneer een browser geen cookies van derden ondersteunt, kunt u nog steeds op klikken gebaseerde conversies bijhouden voor de volgende soorten advertenties:
 
-      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md).&quot; **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
+      * Voor [!DNL Flashtalking] ad markeringen, neem manueel extra macro&#39;s per &quot;[&#x200B; op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-flashtalking.md).&quot; **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [&#x200B; https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros &#x200B;](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
 
-      * Voor [!DNL Google Campaign Manager 360] ad markeringen, neem manueel extra macro&#39;s per &quot;[ op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+      * Voor [!DNL Google Campaign Manager 360] ad markeringen, neem manueel extra macro&#39;s per &quot;[&#x200B; op voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
    * Zoek-, sociale en Commerce-klanten:
 
-      * Voor ([!DNL Google Ads] en [!DNL Microsoft Advertising]) advertenties, voeg manueel de parameter van identiteitskaart van AMO aan uw het landen paginaapara&#39;s toe, idealiter bij het [ rekeningsniveau ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij het verschillend volgen voor individuele rekeningscomponenten noodzakelijk is.
+      * Voor ([!DNL Google Ads] en [!DNL Microsoft Advertising]) advertenties, voeg manueel de parameter van identiteitskaart van AMO aan uw het landen paginaapara&#39;s toe, idealiter bij het [&#x200B; rekeningsniveau &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} tenzij het verschillend volgen voor individuele rekeningscomponenten noodzakelijk is.
 
-      * Voor advertenties op alle andere advertentienetwerken, voeg manueel de parameter van identiteitskaart AMO aan uw [ rekening-niveau parameters ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
+      * Voor advertenties op alle andere advertentienetwerken, voeg manueel de parameter van identiteitskaart AMO aan uw [&#x200B; rekening-niveau parameters &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-manage.md){target="_blank"} toe, die het aan uw basis URLs toevoegen.
 
 Neem contact op met uw Adobe-accountteam als u de invoegfunctie aan de serverzijde wilt implementeren of de beste optie voor uw bedrijf wilt bepalen.
 
@@ -142,13 +142,13 @@ Neem contact op met uw Adobe-accountteam als u de invoegfunctie aan de serverzij
 
 In analyserapporten kunt u zoeken naar AMO-id-gegevens door te zoeken naar de [!UICONTROL AMO ID] -dimensie en de [!UICONTROL AMO ID Instances] -parameter te gebruiken. In de [!UICONTROL AMO ID] -dimensie worden alle vastgelegde AMO-id-waarden opgeslagen, terwijl de [!UICONTROL AMO ID Instances] -meting aangeeft hoe vaak een AMO-id-waarde door de site is vastgelegd. Als bijvoorbeeld vier keer op dezelfde zoekopdracht werd geklikt en Analytics zeven sittems bijhield, zou [!UICONTROL AMO ID Instances] zeven (7) zijn en [!UICONTROL Clicks] vier (4).
 
-Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO-id en de bijbehorende instantie gebruiken. Voor meer informatie, zie &quot;[ Klik-door de Bevestiging van Gegevens voor  [!DNL Analytics for Advertising]](data-variances.md#data-validation)&quot;in &quot;Verwachte Variaties van Gegevens tussen [!DNL Analytics] en Adobe Advertising.&quot;
+Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO-id en de bijbehorende instantie gebruiken. Voor meer informatie, zie &quot;[&#x200B; Klik-door de Bevestiging van Gegevens voor  [!DNL Analytics for Advertising]](data-variances.md#data-validation)&quot;in &quot;Verwachte Variaties van Gegevens tussen [!DNL Analytics] en Adobe Advertising.&quot;
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], is de a [ classificatie ](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
+In [!DNL Analytics], is de a [&#x200B; classificatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising ](data-variances.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising &#x200B;](data-variances.md)

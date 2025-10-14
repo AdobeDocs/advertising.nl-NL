@@ -18,7 +18,7 @@ Als u meerdere instellingen tegelijk wilt bijwerken, uploadt u een geldig bulksh
 
 >[!NOTE]
 >
->U kunt ook de instellingen voor alleen specifieke pakketten en specifieke plaatsingen downloaden en bewerken. Zie &quot;[ Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets ](/help/dsp/campaign-management/packages/package-qa.md)&quot;en &quot;[ Overzicht en geef de Montages van de Plaatsing Gebruikend Bulksheets ](/help/dsp/campaign-management/placements/placement-qa.md) uit.&quot;
+>U kunt ook de instellingen voor alleen specifieke pakketten en specifieke plaatsingen downloaden en bewerken. Zie &quot;[&#x200B; Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/packages/package-qa.md)&quot;en &quot;[&#x200B; Overzicht en geef de Montages van de Plaatsing Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/placements/placement-qa.md) uit.&quot;
 
 ## Downloadinstellingen voor pakketten, plaatsingen en advertenties in een campagne {#download-bulksheet-campaign}
 
@@ -40,7 +40,7 @@ Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
      Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
@@ -68,7 +68,7 @@ Upload instellingen voor pakketten, plaatsen en advertenties in één campagne a
 
    1. Klik op **[!UICONTROL Upload]**.
 
-1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
 Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet met kleurcodering downloaden om te tonen welke instellingen (rijen) zijn opgeslagen en welke zijn mislukt, met een reden voor elke fout. Vervolgens kunt u de problemen in hetzelfde bestand verhelpen en het bestand opnieuw uploaden om de gecorrigeerde gegevens te verwerken.
 
@@ -151,14 +151,14 @@ Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets ](/help/dsp/campaign-management/packages/package-qa.md)
->* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ Overzicht en geeft de Montages van de Plaatsing Gebruikend Bulksheets uit ](/help/dsp/campaign-management/placements/placement-qa.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ Audio Advertentie Montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [ Verbonden de Montages van TV ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [ Vertoning en Montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [ Mobiele Advertentie Montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [ Inheemse Montages van de Vertoning ](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [ pre-rol en Montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [ Universele Video en Montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [&#x200B; Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/packages/package-qa.md)
+>* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; Overzicht en geeft de Montages van de Plaatsing Gebruikend Bulksheets uit &#x200B;](/help/dsp/campaign-management/placements/placement-qa.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Audio Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [&#x200B; Verbonden de Montages van TV &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [&#x200B; Vertoning en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [&#x200B; Mobiele Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [&#x200B; Inheemse Montages van de Vertoning &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [&#x200B; pre-rol en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [&#x200B; Universele Video en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-![ gebruikersinterface ](/help/search-social-commerce/assets/ui-new.png " Gebruikersinterface ")
+![&#x200B; gebruikersinterface &#x200B;](/help/search-social-commerce/assets/ui-new.png " Gebruikersinterface ")
 
 Elke pagina bevat het hoofdmenu en andere op taak en informatie gebaseerde menu&#39;s.
 
@@ -48,7 +48,7 @@ Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
 * **[!UICONTROL Plan]** submenu:
 
-   * **[!UICONTROL Simulations]** opent een nieuwe [[!UICONTROL Simulations] mening ](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), waarvan u alle gebruiker-gecreeerde douaneformaties en automatisch geproduceerde wekelijkse simulaties kunt bekijken, nieuwe douaneformulaties produceren, en bestaande simulaties opnieuw uitvoeren. Met de knop [!UICONTROL Spend Planner] opent u het oudere gereedschap [!UICONTROL Spend Recommendation] op [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] .
+   * **[!UICONTROL Simulations]** opent een nieuwe [[!UICONTROL Simulations] mening &#x200B;](/help/search-social-commerce/new-ui/plan/simulations/simulation-about.md), waarvan u alle gebruiker-gecreeerde douaneformaties en automatisch geproduceerde wekelijkse simulaties kunt bekijken, nieuwe douaneformulaties produceren, en bestaande simulaties opnieuw uitvoeren. Met de knop [!UICONTROL Spend Planner] opent u het oudere gereedschap [!UICONTROL Spend Recommendation] op [!UICONTROL Search, Social, & Commerce] > [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] .
 
    * **[!UICONTROL Spend Planner]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Optimization] > [!UICONTROL Spend Recommendation] -weergave.
 
@@ -62,11 +62,11 @@ Uw rol bepaalt de beschikbare opties:<!-- add link when available -->
 
    * **[!UICONTROL Campaigns]:** opent een nieuwe [!UICONTROL Campaigns] mening, die alle campagnes voor de adverteerder toont. U kunt campagnes toewijzen aan portfolio&#39;s en de beperkte toewijzingen voor geselecteerde campagnes beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel. <!-- Was removed: To see the ad groups for a campaign, click the campaign name. -->
 
-     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
+     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] &#x200B;](/help/search-social-commerce/getting-started/ui-switch.md) .
 
    * **[!UICONTROL Ad Groups]:** opent een nieuwe [!UICONTROL Ad Groups] weergave waarin alle advertentiegroepen voor de adverteerder worden weergegeven. U kunt beperkte toewijzingen voor geselecteerde advertentiegroepen beheren. U kunt ook een rapport downloaden van de inhoud van de datatabel.
 
-     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] ](/help/search-social-commerce/getting-started/ui-switch.md) .
+     Als u campagnes wilt maken, bewerken en verwijderen, gaat u terug naar de oudere gebruikersinterface door te klikken op **[!UICONTROL Set Up]** > **[!UICONTROL Accounts]** in het hoofdmenu of op de knop [[!UICONTROL Switch to Old UI] &#x200B;](/help/search-social-commerce/getting-started/ui-switch.md) .
 
    * **[!UICONTROL Ads]** Sluit de nieuwe site af en opent de verouderde [!UICONTROL Campaigns] > [!UICONTROL Campaigns] -weergave.
 
@@ -122,7 +122,7 @@ Tools > Admin > Data Source Setup
 
 Vouw het hoofdmenu samen als u meer ruimte wilt om gegevens weer te geven.
 
-* Boven het belangrijkste menu op de linkerzijde, klik ![ Vouw samen/breid ](/help/search-social-commerce/assets/collapse-expand.png " samen Vouw/breid ") uit.
+* Boven het belangrijkste menu op de linkerzijde, klik ![&#x200B; Vouw samen/breid &#x200B;](/help/search-social-commerce/assets/collapse-expand.png " samen Vouw/breid ") uit.
 
 ### Opties in hoofdmenu&#39;s zoeken
 
@@ -134,13 +134,13 @@ Gebruik het zoekveld boven het hoofdmenu om te zoeken naar specifieke menuopties
 
 * Een selecteerbare lijst met Experience Cloud-organisaties waartoe u toegang hebt.
 
-* ![ het centrum van de Hulp van het centrum van de Hulp van 0&rbrace; ](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![&#x200B; het centrum van de Hulp van het centrum van de Hulp van 0&rbrace; &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " A hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
-* ![ Meldingen ](/help/search-social-commerce/assets/notifications-aec.png " Meldingen ") het paneellijsten verzoeken, berichten, en aankondigingen van Experience Cloud.
+* ![&#x200B; Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-aec.png " Meldingen ") het paneellijsten verzoeken, berichten, en aankondigingen van Experience Cloud.
 
-* ![ Apps ](/help/search-social-commerce/assets/apps.png " Apps ") Een lijst van de oplossingen en de diensten van Adobe Experience Cloud waartussen u kunt schakelen.
+* ![&#x200B; Apps &#x200B;](/help/search-social-commerce/assets/apps.png " Apps ") Een lijst van de oplossingen en de diensten van Adobe Experience Cloud waartussen u kunt schakelen.
 
-* ![ de Informatie van de Rekening ](/help/search-social-commerce/assets/account.png " van de Rekening ") over uw de rekeningsprofiel van Experience Cloud, waarvan u uw voorkeur kunt uitgeven en uit ondertekenen.
+* ![&#x200B; de Informatie van de Rekening &#x200B;](/help/search-social-commerce/assets/account.png " van de Rekening ") over uw de rekeningsprofiel van Experience Cloud, waarvan u uw voorkeur kunt uitgeven en uit ondertekenen.
 
 ### Tweede rij: Extra menu Zoeken, Sociaal en Commerce
 
@@ -150,17 +150,17 @@ Gebruik het zoekveld boven het hoofdmenu om te zoeken naar specifieke menuopties
 
 * De configureerbare datumwaaier voor de huidige mening
 
-* ![ neem een Rondje UI ](/help/search-social-commerce/assets/take-ui-tour.png " neem een Rondje UI ") Een verbinding aan een rondleiding van het nieuwe gebruikersinterface.
+* ![&#x200B; neem een Rondje UI &#x200B;](/help/search-social-commerce/assets/take-ui-tour.png " neem een Rondje UI ") Een verbinding aan een rondleiding van het nieuwe gebruikersinterface.
 
-* ![ Schakelaar aan Oude UI ](/help/search-social-commerce/assets/switch-to-old-ui.png " Schakelaar aan Oude UI ") opent het erfenisgebruikersinterface in een nieuw lusje of een venster.
+* ![&#x200B; Schakelaar aan Oude UI &#x200B;](/help/search-social-commerce/assets/switch-to-old-ui.png " Schakelaar aan Oude UI ") opent het erfenisgebruikersinterface in een nieuw lusje of een venster.
 
-* ![ Globale synchronisatiestatus ](/help/search-social-commerce/assets/global-sync-status.png " opent een lijst van ") bulkbewerkingstaken.<!--what kind -->
+* ![&#x200B; Globale synchronisatiestatus &#x200B;](/help/search-social-commerce/assets/global-sync-status.png " opent een lijst van ") bulkbewerkingstaken.<!--what kind -->
 
-* ![ Meldingen ](/help/search-social-commerce/assets/notifications.png " Meldingen ") opent een paneel dat van uw Onderzoek, Sociale, &amp; berichten van Commerce een lijst maakt.
+* ![&#x200B; Meldingen &#x200B;](/help/search-social-commerce/assets/notifications.png " Meldingen ") opent een paneel dat van uw Onderzoek, Sociale, &amp; berichten van Commerce een lijst maakt.
 
 ## Oudere gebruikersinterface
 
-![ gebruikersinterface ](/help/search-social-commerce/assets/ui.png " Gebruikersinterface ")
+![&#x200B; gebruikersinterface &#x200B;](/help/search-social-commerce/assets/ui.png " Gebruikersinterface ")
 
 Boven aan elke pagina staan het hoofdmenu en andere op taak en informatie gebaseerde menu&#39;s.
 
@@ -176,7 +176,7 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. Uw rol bepaalt de 
 
 * **[!UICONTROL Optimization]** — Dit menu bevat opties voor het beheren van bedrijfsdoelstellingen, het beheren van portfolio&#39;s op basis van uw bedrijfsdoelstellingen en het controleren van de prestaties van het portfolio, het genereren van de portfolio [!UICONTROL Spend Recommendation Report] , het beheren van inschrijvingsbeperkingen en het weergeven en (sommige gebruikers) het beheren van de [!DNL Google Ads] -regels voor conversiewaarden.
 
-  De afzonderlijke documentatie over deze eigenschappen is beschikbaar van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")).
+  De afzonderlijke documentatie over deze eigenschappen is beschikbaar van het [!UICONTROL Help] menu (![&#x200B; het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")).
 
 * **[!UICONTROL Insights & Reports]** — Dit menu bevat opties voor het genereren van gedetailleerde inzichten en rapporten, het automatiseren van de productie van rapporten met behulp van spreadsheetfeeds, het maken en controleren van waarschuwingen, het configureren van meldingsinstellingen, het bekijken van en de aanbevelingen voor het netwerk en het bekijken van een logboek met wijzigingen die zijn aangebracht in het adverteerderaccount.
 
@@ -188,20 +188,20 @@ De optie [!UICONTROL Search] bevat de volgende submenu&#39;s. Uw rol bepaalt de 
 
 * (Indien van toepassing) Een selecteerbare lijst met adverteerders die u beheert.
 
-* ![ Waakzame berichten ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen van de Waarschuwing ") een paneel dat van uw Onderzoek, Sociale, &amp; berichten van Commerce een lijst maakt.
+* ![&#x200B; Waakzame berichten &#x200B;](/help/search-social-commerce/assets/notifications-panel.png " Meldingen van de Waarschuwing ") een paneel dat van uw Onderzoek, Sociale, &amp; berichten van Commerce een lijst maakt.
 
-  Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
+  Wanneer u [&#x200B; binnen door Adobe Experience Cloud &#x200B;](sign-in.md) wordt ondertekend, toont dit paneel uw berichten van Experience Cloud.
 
-* ![ het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
+* ![&#x200B; het menu van de Hulp van 0&rbrace; &lbrace;het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " een hulpmenu dat verbindingen aan documentatie en andere informatie omvat.")
 
-* ![ de schakelaar van de Oplossing van de Oplossing ](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
+* ![&#x200B; de schakelaar van de Oplossing van de Oplossing &#x200B;](/help/search-social-commerce/assets/menu-icon.png " schakelaar ") een lijst van de oplossingen en de diensten van Adobe Experience Cloud waarnaar u kunt schakelen.
 
-* ![ het profiel van de Gebruiker 1&rbrace; gebruikersprofiel ](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
+* ![&#x200B; het profiel van de Gebruiker 1&rbrace; gebruikersprofiel &#x200B;](/help/search-social-commerce/assets/user-profile.png " Een verbinding aan uw profiel, waarvan u uit kunt ondertekenen.")
 
-  Wanneer u [ binnen door Adobe Experience Cloud ](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
+  Wanneer u [&#x200B; binnen door Adobe Experience Cloud &#x200B;](sign-in.md) wordt ondertekend, kunt u uw profiel van Experience Cloud, met inbegrip van uw wachtwoord van Experience Cloud en berichtmontages ook uitgeven.
 
 >[!MORELIKETHIS]
 >
->* [ Teken binnen ](sign-in.md)
->* [ Teken uit ](sign-out.md)
->* [ Schakelaar tussen nieuwe UI en erfenis UI ](ui-switch.md)
+>* [&#x200B; Teken binnen &#x200B;](sign-in.md)
+>* [&#x200B; Teken uit &#x200B;](sign-out.md)
+>* [&#x200B; Schakelaar tussen nieuwe UI en erfenis UI &#x200B;](ui-switch.md)

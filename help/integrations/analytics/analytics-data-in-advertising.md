@@ -33,8 +33,8 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 * [!UICONTROL Timespent_secs_total]: Het totale aantal seconden dat aan de site is doorgebracht tijdens alle bezoeken in het venster voor terugzoeken van klikken.
 * [!UICONTROL Pageviews_1stvisit]: Het aantal paginaweergaven op de site tijdens het eerste bezoek van de bezoeker.
 * [!UICONTROL Pageviews_total]: Het totale aantal paginaweergaven op de site bij alle bezoeken in het venster voor terugzoeken van klikken.
-* [[!UICONTROL Bounces] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html?lang=nl-NL)
-* [[!UICONTROL Visits] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL)
+* [[!UICONTROL Bounces] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html?lang=nl-NL)
+* [[!UICONTROL Visits] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=nl-NL)
 * [!UICONTROL ef_id_instances]: Het aantal keren dat [!DNL Analytics] een [!UICONTROL EF ID] heeft verzameld.
 
 ## Conversiedetecties
@@ -43,14 +43,14 @@ Het duurt 24 tot 48 uur om nieuwe segmenten in de Adobe Advertising weer te geve
 
 ### Standaardomzettingscijfers
 
-* [[!UICONTROL Revenue] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html?lang=nl-NL)
-* [[!UICONTROL Orders] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html?lang=nl-NL)
-* [[!UICONTROL Units] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html?lang=nl-NL)
-* [[!UICONTROL Carts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html?lang=nl-NL)
-* [[!UICONTROL Cart Views] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html?lang=nl-NL)
-* [[!UICONTROL Checkouts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html?lang=nl-NL)
-* [[!UICONTROL Cart Additions] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html?lang=nl-NL)
-* [[!UICONTROL Cart Removals] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html?lang=nl-NL)
+* [[!UICONTROL Revenue] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html?lang=nl-NL)
+* [[!UICONTROL Orders] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html?lang=nl-NL)
+* [[!UICONTROL Units] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html?lang=nl-NL)
+* [[!UICONTROL Carts] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html?lang=nl-NL)
+* [[!UICONTROL Cart Views] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html?lang=nl-NL)
+* [[!UICONTROL Checkouts] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html?lang=nl-NL)
+* [[!UICONTROL Cart Additions] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html?lang=nl-NL)
+* [[!UICONTROL Cart Removals] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html?lang=nl-NL)
 
 ### Aangepaste omzettingscijfers
 
@@ -58,7 +58,7 @@ Deze metriek is specifiek voor de rapportreeks, zodat variëren de beschikbare m
 
 ### Aangepaste omzettingsstatistieken gemaakt op basis van [!DNL eVars] en [!DNL Props]
 
-De beschikbare meetgegevens variëren per klant. Zie &quot;[ de Metriek van de Omzetting van Adobe Analytics  [!DNL eVars]  en  [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
+De beschikbare meetgegevens variëren per klant. Zie &quot;[&#x200B; de Metriek van de Omzetting van Adobe Analytics  [!DNL eVars]  en  [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
 
 ### Gereserveerde omzettingsstatistieken
 
@@ -66,5 +66,5 @@ Deze metriek is specifiek voor de rapportreeks, zodat variëren de beschikbare m
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Metriek van de Adobe Advertising in Analysis Workspace ](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Metriek van de Adobe Advertising in Analysis Workspace &#x200B;](/help/integrations/analytics/advertising-metrics-in-analytics.md)

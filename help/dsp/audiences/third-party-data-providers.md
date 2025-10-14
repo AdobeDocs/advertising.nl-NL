@@ -43,6 +43,6 @@ Neem voor meer informatie over het importeren van aangepaste segmenten van derde
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
->* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
->* [ Montages van het publiek ](audience-settings.md)
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
+>* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)

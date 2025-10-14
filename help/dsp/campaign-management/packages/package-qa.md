@@ -18,13 +18,13 @@ Als u meerdere instellingen tegelijk wilt bijwerken, kunt u een van de volgende 
 
 * Breng de gewenste wijzigingen aan in de geselecteerde velden, sla het bestand op en upload het bewerkte bulkbladbestand terug naar DSP.
 
-* Als u aanvullende pakketten, plaatsen of advertenties in de campagne wilt wijzigen, downloadt u een bulksblad voor de campagne. Voer of plak bijgewerkte instellingen in het bestand en upload het bestand om de wijzigingen aan te brengen. Voor instructies, zie &quot;[ Overzicht en geef de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md).&quot;
+* Als u aanvullende pakketten, plaatsen of advertenties in de campagne wilt wijzigen, downloadt u een bulksblad voor de campagne. Voer of plak bijgewerkte instellingen in het bestand en upload het bestand om de wijzigingen aan te brengen. Voor instructies, zie &quot;[&#x200B; Overzicht en geef de Montages van de Component van de Campagne uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md).&quot;
 
 Bewerkbare velden bevatten de meeste instellingen die normaal gesproken bewerkbaar zijn.
 
 >[!TIP]
 >
->Om meer gebieden voor één of meerdere pakketten snel uit te geven, zie &quot;[ Pakketten ](/help/dsp/campaign-management/packages/package-edit.md) uitgeven.&quot;
+>Om meer gebieden voor één of meerdere pakketten snel uit te geven, zie &quot;[&#x200B; Pakketten &#x200B;](/help/dsp/campaign-management/packages/package-edit.md) uitgeven.&quot;
 
 ## Instellingen downloaden voor alle pakketten in een campagne
 
@@ -48,7 +48,7 @@ Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
      Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
@@ -74,9 +74,9 @@ Wanneer u instellingen voor specifieke pakketten downloadt, bevat het bulksbladb
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
-     Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[ de Kolommen van de Plaatsing in Gedownloade/Geüploade Bulksbladen ](#qa-sheet-columns)&quot;voor een lijst van de inbegrepen kolommen.
+     Het bestand wordt opgeslagen in de map Downloads van de browser. Zie &quot;[&#x200B; de Kolommen van de Plaatsing in Gedownloade/Geüploade Bulksbladen &#x200B;](#qa-sheet-columns)&quot;voor een lijst van de inbegrepen kolommen.
 
      Als u een van de instellingen wilt bewerken, bewerkt u het bestand rechtstreeks en uploadt u de wijzigingen. Alle bewerkbare kolommen worden gemarkeerd in blauw. Als u de juiste indeling voor een veld wilt gebruiken, selecteert en kopieert u de waarde uit de relevante pakketinstelling of plaatsingsinstelling. Voor sommige doelinstellingen, zoals dagpartering, aangepaste doelen en conversiemetriek, is een kopieeroptie beschikbaar binnen de instelling.
 
@@ -102,7 +102,7 @@ U kunt instellingen voor uw pakketten, inclusief de plaatsingen en advertenties 
 
    1. Klik op **[!UICONTROL Upload]**.
 
-1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
 Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet met kleurcodering downloaden om te tonen welke instellingen (rijen) zijn opgeslagen en welke zijn mislukt, met een reden voor elke fout. Vervolgens kunt u de problemen in hetzelfde bestand verhelpen en het bestand opnieuw uploaden om de gecorrigeerde gegevens te verwerken.
 
@@ -166,6 +166,6 @@ Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht en geeft de Montages van de Component van de Campagne uit Gebruikend Bulksheets ](/help/dsp/campaign-management/campaign-components-review-edit.md)
->* [ geef Pakketten ](/help/dsp/campaign-management/packages/package-edit.md) uit
->* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; Overzicht en geeft de Montages van de Component van de Campagne uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md)
+>* [&#x200B; geef Pakketten &#x200B;](/help/dsp/campaign-management/packages/package-edit.md) uit
+>* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)

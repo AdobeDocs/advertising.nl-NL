@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Advertisers met [!DNL Google Ads] slechts rekeningen en de omzetting van Adobe Advertising het volgen*
 
-Zoeken, sociale media en Commerce kunnen optioneel alle conversiemetriek die erin wordt bijgehouden uploaden naar [!DNL Google Ads] -campagnes die gebruikmaken van de service voor het bijhouden van conversies van Adobe Advertising. [!DNL Google Ads] Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u uw omzettingen van Adobe voor hybride optimalisering wilt gebruiken, zie &quot;[ het uploaden van doelstellingen aan en netwerken ](objective-upload-to-networks.md) toelaten.&quot;
+Zoeken, sociale media en Commerce kunnen optioneel alle conversiemetriek die erin wordt bijgehouden uploaden naar [!DNL Google Ads] -campagnes die gebruikmaken van de service voor het bijhouden van conversies van Adobe Advertising. [!DNL Google Ads] Met deze optie zijn de conversies niet beschikbaar voor hybride optimalisatie. Als u uw omzettingen van Adobe voor hybride optimalisering wilt gebruiken, zie &quot;[&#x200B; het uploaden van doelstellingen aan en netwerken &#x200B;](objective-upload-to-networks.md) toelaten.&quot;
 
 Dagelijkse uploads omvatten bijgehouden `gclid` waarde, de omzettingswaarde die gebruikend het adverteerder-vlakke attributiemodel wordt bepaald, en timestamp. Als het attributiemodel wordt bijgewerkt, dan gebruikt volgende uploadt het nieuwe model, maar het verleden gegevens wordt niet bijgewerkt om het nieuwe model te gebruiken.
 
@@ -30,8 +30,8 @@ Dagelijkse uploads omvatten bijgehouden `gclid` waarde, de omzettingswaarde die 
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [ voeg geloofsbrieven voor uw managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
+1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [&#x200B; voeg geloofsbrieven voor uw managerrekening &#x200B;](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
 
 >[!MORELIKETHIS]
 >
->* [ laat het uploaden van doelstellingen aan toe en netwerken ](objective-upload-to-networks.md)
+>* [&#x200B; laat het uploaden van doelstellingen aan toe en netwerken &#x200B;](objective-upload-to-networks.md)

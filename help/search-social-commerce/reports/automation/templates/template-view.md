@@ -24,7 +24,7 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportmalplaatjes ](template-about.md)
->* [ creeer een rapportmalplaatje ](template-create.md)
->* [ geef een rapportmalplaatje ](template-edit.md) uit
->* [ schrap rapportmalplaatjes ](template-delete.md)
+>* [&#x200B; Ongeveer rapportmalplaatjes &#x200B;](template-about.md)
+>* [&#x200B; creeer een rapportmalplaatje &#x200B;](template-create.md)
+>* [&#x200B; geef een rapportmalplaatje &#x200B;](template-edit.md) uit
+>* [&#x200B; schrap rapportmalplaatjes &#x200B;](template-delete.md)

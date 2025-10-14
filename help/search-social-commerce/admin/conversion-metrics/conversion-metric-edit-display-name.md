@@ -12,13 +12,13 @@ ht-degree: 0%
 
 # De weergavenaam wijzigen voor een metrische omzetting
 
-U kunt naar keuze de naam veranderen die in kolomrubrieken voor leesbaarheid wordt getoond wanneer de metrische a [ omzetting ](/help/search-social-commerce/glossary.md#c-d) [ beschikbaar voor campagne en portefeuillebeheermeningen en in rapporten ](conversion-metric-edit-available.md) is. Bijvoorbeeld, als u registratiegegevens gebruikend metrisch genoemde omzetting *reg* verzamelt, dan kunt u naar keuze de vertoningsnaam veranderen om het als &quot;Registraties te zien.&quot;
+U kunt naar keuze de naam veranderen die in kolomrubrieken voor leesbaarheid wordt getoond wanneer de metrische a [&#x200B; omzetting &#x200B;](/help/search-social-commerce/glossary.md#c-d) [&#x200B; beschikbaar voor campagne en portefeuillebeheermeningen en in rapporten &#x200B;](conversion-metric-edit-available.md) is. Bijvoorbeeld, als u registratiegegevens gebruikend metrisch genoemde omzetting *reg* verzamelt, dan kunt u naar keuze de vertoningsnaam veranderen om het als &quot;Registraties te zien.&quot;
 
 U kunt een bestaande weergavenaam niet verwijderen.
 
 >[!NOTE]
 >
->Voor [ metriek van Google Analytics ](/help/search-social-commerce/admin/data-sources/data-source-about.md), worden om het even welke handveranderingen in de vertoningsnaam beschreven als u de integratie bijwerkt of opnieuw voor authentiek verklaart. Op dezelfde manier worden om het even welke naamveranderingen binnen Google Analytics genegeerd tenzij u [ bijwerkt ](/help/search-social-commerce/admin/data-sources/data-source-edit.md) of [&#128279;](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md) de integratie opnieuw voor authentiek verklaart.
+>Voor [&#x200B; metriek van Google Analytics &#x200B;](/help/search-social-commerce/admin/data-sources/data-source-about.md), worden om het even welke handveranderingen in de vertoningsnaam beschreven als u de integratie bijwerkt of opnieuw voor authentiek verklaart. Op dezelfde manier worden om het even welke naamveranderingen binnen Google Analytics genegeerd tenzij u [&#x200B; bijwerkt &#x200B;](/help/search-social-commerce/admin/data-sources/data-source-edit.md) of [&#128279;](/help/search-social-commerce/admin/data-sources/data-source-reauthenticate.md) de integratie opnieuw voor authentiek verklaart.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Conversions]** .
 
@@ -30,6 +30,6 @@ U kunt een bestaande weergavenaam niet verwijderen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](conversion-metric-about.md)
->* [ Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd ](conversion-metric-view-tracked.md)
->* [ verander de omzettingsmetriek beschikbaar in beheersmeningen en rapporten ](conversion-metric-edit-available.md)
+>* [&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](conversion-metric-about.md)
+>* [&#x200B; Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd &#x200B;](conversion-metric-view-tracked.md)
+>* [&#x200B; verander de omzettingsmetriek beschikbaar in beheersmeningen en rapporten &#x200B;](conversion-metric-edit-available.md)

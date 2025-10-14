@@ -18,11 +18,11 @@ Elke rij in het bestand bevat details over een ervaring, zoals de ervaringsnaam 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
-1. In de hogere juiste toolbar, klik ![ Download ](/help/creative/assets/download.png " ").
+1. In de hogere juiste toolbar, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
 
    Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
 >[!MORELIKETHIS]
->* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
+>* [&#x200B; Ongeveer ervaringen in Advertising Creative &#x200B;](/help/creative/experiences/experience-about.md)

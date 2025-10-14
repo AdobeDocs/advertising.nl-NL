@@ -46,7 +46,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [ gebruikte het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
+**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [&#x200B; gebruikte het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
 
 **[!UICONTROL Wmode]:** De venstermodus: *[!UICONTROL window]* , *[!UICONTROL transparent]* of *[!UICONTROL opaque]* . Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -58,7 +58,7 @@ Gebruik [!UICONTROL VAST] , dat geen meetbaarheid toestaat, wanneer u zich richt
 
 ### [!UICONTROL Pixel]
 
-Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Uiteinde:** om de derde volgende pixel voor veelvoudige advertenties in een plaatsing uit te geven meteen gebruikend de [!UICONTROL Ad Tools] mening, zie &quot;[ het Volgen Pixels van de Derde aan Ads in een Plaatsing ](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads) vastmaken.&quot;
+Alle bestaande pixels voor het bijhouden van gebeurtenissen voor de plaatsing worden automatisch gekoppeld. U kunt bestaande pixels loskoppelen en nieuwe pixels maken wanneer dat nodig is, op basis van uw behoeften voor bijhouden voor de afzonderlijke advertentie. **Uiteinde:** om de derde volgende pixel voor veelvoudige advertenties in een plaatsing uit te geven meteen gebruikend de [!UICONTROL Ad Tools] mening, zie &quot;[&#x200B; het Volgen Pixels van de Derde aan Ads in een Plaatsing &#x200B;](/help/dsp/campaign-management/ads/ad-pixel-attach-detach.md#attach-pixels-ads) vastmaken.&quot;
 
 De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerkt.
 
@@ -74,9 +74,9 @@ De volgende instellingen zijn van toepassing op elke pixel die u maakt of bewerk
 
 >[!MORELIKETHIS]
 >
->* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [ Advertentiespecificaties ](ad-specs.md)
->* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)
+>* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)

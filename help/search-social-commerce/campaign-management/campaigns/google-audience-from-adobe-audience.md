@@ -34,7 +34,7 @@ Elk nieuw publiek van [!DNL Google] heeft de zelfde naam zoals het originele pub
 
    1. (Als u een publiek met een vervolgkeuzelijst voor gebruikers-id wilt maken) Een [!DNL Adobe] admin-gebruiker of accountmanager moet de instelling op adverteerderniveau selecteren om ervoor te zorgen dat het publiek van de klant overeenkomt.
 
-   1. Voer [ versie 2.0 uit van de Identiteitsdienst van Adobe Experience Platform ](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) of hoger.
+   1. Voer [&#x200B; versie 2.0 uit van de Identiteitsdienst van Adobe Experience Platform &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=nl-NL) of hoger.
 
    1. Gebruik de volgende tag zo hoog mogelijk op de webpagina&#39;s van de adverteerder waaruit het publiek moet worden bijgehouden
 
@@ -44,11 +44,11 @@ Elk nieuw publiek van [!DNL Google] heeft de zelfde naam zoals het originele pub
 
       Voorbeeld: `<script src="//pixel.everesttech.net/rlsa/1234" type="text/javascript"> </script>`
 
-   1. (Als niet reeds voltooid) een erkende gebruiker moet de rekening van de adverteerder vormen aan [ synchronisatie met de de organisatierekening van de adverteerder in Adobe Experience Cloud ](/help/search-social-commerce/admin/sync-adobe-audiences.md).
+   1. (Als niet reeds voltooid) een erkende gebruiker moet de rekening van de adverteerder vormen aan [&#x200B; synchronisatie met de de organisatierekening van de adverteerder in Adobe Experience Cloud &#x200B;](/help/search-social-commerce/admin/sync-adobe-audiences.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -68,7 +68,7 @@ Elk nieuw publiek van [!DNL Google] heeft de zelfde naam zoals het originele pub
 
    1. Selecteer de lus **[!UICONTROL Audience Type]** die u wilt maken: **[!UICONTROL Customer List_User ID]** .
 
-      De rekening van adverteerder [!DNL Google Ads] moet [ voor douanegelijke ](https://support.google.com/adspolicy/answer/6299717) verkiesbaar zijn en binnen voor [ gebruiker - identiteitskaart remarketing ](https://support.google.com/google-ads/answer/9199250) verkozen.
+      De rekening van adverteerder [!DNL Google Ads] moet [&#x200B; voor douanegelijke &#x200B;](https://support.google.com/adspolicy/answer/6299717) verkiesbaar zijn en binnen voor [&#x200B; gebruiker - identiteitskaart remarketing &#x200B;](https://support.google.com/google-ads/answer/9199250) verkozen.
 
    1. Schakel het selectievakje in om aan te geven dat u akkoord gaat met de voorwaarden van het [!DNL Adobe] -beleid en het privacybeleid van het netwerk.
 
@@ -82,11 +82,11 @@ Elk nieuw publiek van [!DNL Google] heeft de zelfde naam zoals het originele pub
 >
 >* [!DNL Google] kan 24 uur duren voordat het bestand is verwerkt.
 >
->* Zie [[!DNL Google Ads]  documentatie op hoe de klantengelijken werken en beperkingen ](https://support.google.com/displayvideo/answer/9539301) aanpassen.
+>* Zie [[!DNL Google Ads]  documentatie op hoe de klantengelijken werken en beperkingen &#x200B;](https://support.google.com/displayvideo/answer/9539301) aanpassen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publiek ](audience-about.md)
->* [ creeer a [!DNL Google Ads]  publiek van de klantengelijke van een e-maillijst van Adobe Campaign ](google-audience-from-campaign-email-list.md)
->* [ beheer klant gelijke publiek gebruikend de lijsten van klantengegevens ](audience-from-customer-data-list.md)
->* [ beheer dynamische remarketing publiek ](audience-dynamic-remarketing-manage.md)
+>* [&#x200B; Ongeveer publiek &#x200B;](audience-about.md)
+>* [&#x200B; creeer a [!DNL Google Ads]  publiek van de klantengelijke van een e-maillijst van Adobe Campaign &#x200B;](google-audience-from-campaign-email-list.md)
+>* [&#x200B; beheer klant gelijke publiek gebruikend de lijsten van klantengegevens &#x200B;](audience-from-customer-data-list.md)
+>* [&#x200B; beheer dynamische remarketing publiek &#x200B;](audience-dynamic-remarketing-manage.md)

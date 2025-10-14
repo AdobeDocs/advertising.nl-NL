@@ -16,7 +16,7 @@ U kunt een rapport manueel schrappen dat of nog lopend is. Rapporten worden auto
 
 >[!NOTE]
 >
->Als het rapport werd gecreeerd gebruikend a [ malplaatje ](/help/search-social-commerce/reports/automation/templates/template-about.md), dan schrapt het schrappen van het rapport niet het malplaatje dat wordt gebruikt om het tot stand te brengen en daarom geen toekomstige rapportinstanties beïnvloedt die gepland zijn. Om een rapportprogramma te schrappen, [ schrapt het rapportmalplaatje ](/help/search-social-commerce/reports/automation/templates/template-delete.md).
+>Als het rapport werd gecreeerd gebruikend a [&#x200B; malplaatje &#x200B;](/help/search-social-commerce/reports/automation/templates/template-about.md), dan schrapt het schrappen van het rapport niet het malplaatje dat wordt gebruikt om het tot stand te brengen en daarom geen toekomstige rapportinstanties beïnvloedt die gepland zijn. Om een rapportprogramma te schrappen, [&#x200B; schrapt het rapportmalplaatje &#x200B;](/help/search-social-commerce/reports/automation/templates/template-delete.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Insights & Reports] >[!UICONTROL Reports]** , dat wordt geopend op de tab **[!UICONTROL Latest Reports]** .
 
@@ -28,5 +28,5 @@ U kunt een rapport manueel schrappen dat of nog lopend is. Rapporten worden auto
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapporten ](/help/search-social-commerce/reports/report-about.md)
->* [ Mening of sparen een rapport ](/help/search-social-commerce/reports/management/report-view-save.md)
+>* [&#x200B; Ongeveer rapporten &#x200B;](/help/search-social-commerce/reports/report-about.md)
+>* [&#x200B; Mening of sparen een rapport &#x200B;](/help/search-social-commerce/reports/management/report-view-save.md)

@@ -16,7 +16,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
 >[!NOTE]
 >
->Om gebruikers IDs van consument te volgen opt-out-of-verkoop verzoeken op uw website, per de Wet van de Privacy van de consument van Californië (CCPA), creeer a [ opt-out-of-verkoop segment CCPA ](ccpa-opt-out-segment-create.md).
+>Om gebruikers IDs van consument te volgen opt-out-of-verkoop verzoeken op uw website, per de Wet van de Privacy van de consument van Californië (CCPA), creeer a [&#x200B; opt-out-of-verkoop segment CCPA &#x200B;](ccpa-opt-out-segment-create.md).
 
 ## Vereisten voor segmenten om ID5-id&#39;s bij te houden
 
@@ -26,9 +26,9 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
 * Voor metingen in Adobe Analytics moet u:
 
-   1. Voltooi alle [ eerste vereisten voor het uitvoeren van  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md), en zorg ervoor dat [ identiteitskaart van AMO en identiteitskaart van EF ](/help/integrations/analytics/ids.md) in uw het volgen URLs wordt bevolkt.
+   1. Voltooi alle [&#x200B; eerste vereisten voor het uitvoeren van  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md), en zorg ervoor dat [&#x200B; identiteitskaart van AMO en identiteitskaart van EF &#x200B;](/help/integrations/analytics/ids.md) in uw het volgen URLs wordt bevolkt.
 
-   1. Voeg de volgende parameter aan uw webpagina&#39;s vóór of binnen de [ code van JavaScript toe die voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) wordt vereist — overal alvorens de laatste gebeurtenisdienst wordt geïnitialiseerd.
+   1. Voeg de volgende parameter aan uw webpagina&#39;s vóór of binnen de [&#x200B; code van JavaScript toe die voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md) wordt vereist — overal alvorens de laatste gebeurtenisdienst wordt geïnitialiseerd.
 
       ```window.id5PartnerId=ID5_PartnerID;```
 
@@ -43,7 +43,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
       </script>
       ```
 
-      Zie &quot;[ Formaat van de conversie het volgen van de markeringen van JavaScript versie 3 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)&quot;en &quot;[ Formaat van de omzetting van JavaScript volgende etikettenversie 2 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)&quot;voor het volledige markeringsformaat.
+      Zie &quot;[&#x200B; Formaat van de conversie het volgen van de markeringen van JavaScript versie 3 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)&quot;en &quot;[&#x200B; Formaat van de omzetting van JavaScript volgende etikettenversie 2 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)&quot;voor het volledige markeringsformaat.
 
    1. Gebruik om het even welk browser het zuiveren hulpmiddel om te verifiëren dat elke vraag aan het domein `lasteventf-tm.everesttech.net` in werking wordt gesteld en de parameter `_les_id5` met gecodeerde ID5 als waarde bevat.
 
@@ -107,7 +107,7 @@ U kunt uw eigen gegevens van het eerste publiek verzamelen door een douane DSP s
 
          1. Kopieer de volgende code van de indruk, die &quot; [!UICONTROL Desktop or mobile ads]&quot; wordt geëtiketteerd.
 
-         1. Voeg de tag toe aan de tab [!UICONTROL Pixel] voor elke relevante advertentie of aan de sectie [!UICONTROL Event Pixels] van de instellingen [[!UICONTROL Tracking] voor elke relevante plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking) .
+         1. Voeg de tag toe aan de tab [!UICONTROL Pixel] voor elke relevante advertentie of aan de sectie [!UICONTROL Event Pixels] van de instellingen [[!UICONTROL Tracking] voor elke relevante plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md#placement-tracking) .
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
 
@@ -117,12 +117,12 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
->* [ geef de Informatie van het Segment ](segment-edit.md) uit
->* [ Schrap een Segment ](segment-delete.md)
->* [ Mening Volgend Pixels voor een Segment ](segment-view-pixels.md)
->* [ Aandeel of Einde delend een Segment ](segment-share.md)
->* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment ](ccpa-opt-out-segment-create.md) uit
->* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
->* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
+>* [&#x200B; geef de Informatie van het Segment &#x200B;](segment-edit.md) uit
+>* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
+>* [&#x200B; Mening Volgend Pixels voor een Segment &#x200B;](segment-view-pixels.md)
+>* [&#x200B; Aandeel of Einde delend een Segment &#x200B;](segment-share.md)
+>* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
+>* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

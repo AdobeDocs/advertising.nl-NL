@@ -39,5 +39,5 @@ By clicking on "View Failure" on the right, you can see further details about th
 
 >[!MORELIKETHIS]
 >
->* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)

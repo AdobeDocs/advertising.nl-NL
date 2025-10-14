@@ -26,7 +26,7 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
+U kunt [&#x200B; de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -94,7 +94,7 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 ## Filters toepassen op een tabblad
 
-1. In de toolbar bij de bovenkant van het lusje, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
+1. In de toolbar bij de bovenkant van het lusje, klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png).
 
 1. Selecteer in de linkerkolom een dimensie en selecteer vervolgens een of meer waarden in de rechterkolom, al naar gelang van toepassing.
 
@@ -112,7 +112,7 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel door Adobe Advertising worden bijgehouden als door Adobe Analytics worden bijgehouden.
 
-1. Aan het hogere recht van insight, klik ![ Metrische montages ](/help/dsp/assets/metric-settings.png " Metrische montages ").
+1. Aan het hogere recht van insight, klik ![&#x200B; Metrische montages &#x200B;](/help/dsp/assets/metric-settings.png " Metrische montages ").
 
 1. Selecteer de metriek en klik op **[!UICONTROL Apply]** .
 
@@ -124,13 +124,13 @@ Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel doo
 
 ## Een specifieke Insight downloaden naar een XLSX-bestand
 
-* Aan het hogere recht van insight, klik ![ Download ](/help/creative/assets/download.png " ").
+* Aan het hogere recht van insight, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
->* [ beheert Uw Kijken van Gegevens van de Campagne ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
+>* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

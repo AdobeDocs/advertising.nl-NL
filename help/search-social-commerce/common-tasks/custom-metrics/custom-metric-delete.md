@@ -20,13 +20,13 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 1. Voer boven de gegevenstabel een van de volgende handelingen uit:
 
-   * Klik de naam van de momenteel-toegepaste mening (![ Mening ](/help/search-social-commerce/assets/view.png " Mening ")). Houd de cursor boven de naam van een bewerkbare weergave en klik op ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") om de weergave-instellingen te openen.
+   * Klik de naam van de momenteel-toegepaste mening (![&#x200B; Mening &#x200B;](/help/search-social-commerce/assets/view.png " Mening ")). Houd de cursor boven de naam van een bewerkbare weergave en klik op ![Bewerken](/help/search-social-commerce/assets/edit-new.png "Bewerken") om de weergave-instellingen te openen.
 
      De aangepaste metrische waarde wordt uit al uw weergaven verwijderd.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![&#x200B; de Kolommen van de Douane van 0&rbrace; Douane &#x200B;](/help/search-social-commerce/assets/custom-columns-new.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Houd de curseur over de kolomnaam, en klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") naast de kolomnaam.
+1. Houd de curseur over de kolomnaam, en klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete-new.png " ") naast de kolomnaam.
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Confirm]** .
 
@@ -36,9 +36,9 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
    * Klik op de naam van de standaardweergave of aangepaste weergave om de weergave-instellingen te openen.
 
-   * Klik ![ de Kolommen van de Douane van 0&rbrace; Douane ](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
+   * Klik ![&#x200B; de Kolommen van de Douane van 0&rbrace; Douane &#x200B;](/help/search-social-commerce/assets/custom-columns.png " om de montages van de kolomconfiguratie te openen.")
 
-1. Plaats de cursor op de kolomnaam. Naast de kolomnaam, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " ").
+1. Plaats de cursor op de kolomnaam. Naast de kolomnaam, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " ").
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL OK]** .
 
@@ -52,7 +52,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 ## (Verouderde UI) Verwijder een aangepaste metrische waarde uit de weergaven van [!UICONTROL Portfolios]
 
-1. Boven de gegevenslijst, geeft de klik ![ Geselecteerde Mening ](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
+1. Boven de gegevenslijst, geeft de klik ![&#x200B; Geselecteerde Mening &#x200B;](/help/search-social-commerce/assets/view-settings.png " uit Geselecteerde Mening ").
 
 1. Klik op de tab **[!UICONTROL Columns]** .
 
@@ -62,7 +62,7 @@ Als de aangepaste metrische waarde is opgenomen als een kolom in de huidige weer
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanemetriek ](custom-metric-about.md)
->* [ creeer metrische douane ](custom-metric-create.md)
->* [ geef metrisch douane ](custom-metric-edit.md) uit
->* [ metrische montages van de Douane ](custom-metric-settings.md)
+>* [&#x200B; Ongeveer douanemetriek &#x200B;](custom-metric-about.md)
+>* [&#x200B; creeer metrische douane &#x200B;](custom-metric-create.md)
+>* [&#x200B; geef metrisch douane &#x200B;](custom-metric-edit.md) uit
+>* [&#x200B; metrische montages van de Douane &#x200B;](custom-metric-settings.md)

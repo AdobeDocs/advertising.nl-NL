@@ -20,11 +20,11 @@ Advertenties worden standaard geleverd op desktopapparaten, mobiele apparaten en
 
 ### Ondersteunde externe advertentieservers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
 
 ### Vereisten voor High Definition Video Assets
 
-**Type van VideoMarkering:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID en eenheden moeten aan de [ VPAID 2.0 specificatie ](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals die door het Interactieve Bureau van Advertising (IAB) wordt bepaald naleven.
+**Type van VideoMarkering:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID en eenheden moeten aan de [&#x200B; VPAID 2.0 specificatie &#x200B;](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals die door het Interactieve Bureau van Advertising (IAB) wordt bepaald naleven.
 
 **Videocodec:** MP4/H.264
 
@@ -60,15 +60,15 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innov
 
 * **Disney (incl. Hulu):** zie de 1&rbrace; en specificaties van Disney [.](https://hulu.disneyadsales.com/ad-products/video-commercial/)
 
-* **Max HBO:** zie Max van HBO [ en specificaties ](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Max HBO:** zie Max van HBO [&#x200B; en specificaties &#x200B;](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
-   * [ Digitale Video ](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+   * [&#x200B; Digitale Video &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
-   * [ Livestream ](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+   * [&#x200B; Livestream &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
-   * [ Peacock ](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
+   * [&#x200B; Peacock &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
 * **Paramount:** zie de 2&rbrace; en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
 
@@ -90,7 +90,7 @@ Universal Display wordt ondersteund.
 
 **Aanbevolen ad grootte:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300 x 600, 320 x 50, 320 x 480, 480 x 60, 640 x 480, 88 x 31, 728 x 90, 970 x 250, 970 x 90
 
-**Gesteunde Servers van de Advertentie van de Derde:** u kan markeringsbladen van [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek] gebruiken. Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
+**Gesteunde Servers van de Advertentie van de Derde:** u kan markeringsbladen van [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek] gebruiken. Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
 
 ## Audiobanden
 
@@ -100,7 +100,7 @@ Desktop, mobiel, tablet, slimme luidsprekers en aangesloten tv
 
 ### Ondersteunde externe advertentieservers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en Servende Partners ](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
 
 ### Vereisten voor audio Assets
 
@@ -238,7 +238,7 @@ Vereisten voor kliktrackers:
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ geef een Advertentie uit ](ad-edit.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)

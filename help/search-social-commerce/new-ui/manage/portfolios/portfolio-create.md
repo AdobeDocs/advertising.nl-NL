@@ -17,11 +17,11 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->* Om optimalisering voor een portefeuille te beginnen, verander de portefeuillestatus in [ geoptimaliseerd ](portfolio-about.md#portfolio-status).
+>* Om optimalisering voor een portefeuille te beginnen, verander de portefeuillestatus in [&#x200B; geoptimaliseerd &#x200B;](portfolio-about.md#portfolio-status).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Portfolios]** .
 
-1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Portfolio]** of ![ voeg ](/help/search-social-commerce/assets/add-new.png " toe ").
+1. In de toolbar boven de gegevenslijst, klik **[!UICONTROL Create Portfolio]** of ![&#x200B; voeg &#x200B;](/help/search-social-commerce/assets/add-new.png " toe ").
 
    De weergegeven knop is afhankelijk van de breedte van de browser.
 
@@ -35,9 +35,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
->* [ (Nieuwe interface) Met bulksgewijs kunt u portfolioinstellingen voor portfolio&#39;s bewerken met behulp van bladbestanden ](portfolio-bulksheets.md)
->* [ (Nieuwe interface) Een portfolio dupliceren ](portfolio-duplicate.md)
->* [ (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven ](portfolio-details.md)
->* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
->* [ (Nieuwe interface) Informatie over portfolio&#39;s ](portfolio-about.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
+>* [&#x200B; (Nieuwe interface) Met bulksgewijs kunt u portfolioinstellingen voor portfolio&#39;s bewerken met behulp van bladbestanden &#x200B;](portfolio-bulksheets.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio dupliceren &#x200B;](portfolio-duplicate.md)
+>* [&#x200B; (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven &#x200B;](portfolio-details.md)
+>* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)
+>* [&#x200B; (Nieuwe interface) Informatie over portfolio&#39;s &#x200B;](portfolio-about.md)

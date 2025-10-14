@@ -22,7 +22,7 @@ Dupliceer een campagne om een nieuwe campagne met vergelijkbare instellingen te 
 
 * De vluchtdata van de nieuwe campagne wijzigen
 
-Zie &quot;[ wat niet ](#campaign-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
+Zie &quot;[&#x200B; wat niet &#x200B;](#campaign-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -57,8 +57,8 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 >[!TIP]
 >
->* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
->* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+>* De bulksbladen van het gebruik om [&#x200B; veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md).
+>* Het gebruik ad markeringsbladen aan [&#x200B; uploadt veelvoudige derdeadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 * Onderbreek de nieuwe campagne totdat u deze kunt activeren.
 
@@ -80,12 +80,12 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
    * Maak waar nodig nieuwe plaatsingen voor [!UICONTROL Simple Ad Serving] -deals.
 
-* Voor prestatiecampagnes (d.w.z., campagnes met pakketten die de doelstellingen van de douaneoptimalisering gebruiken), gebruik [[!UICONTROL Linked Package for Optimization Learnings Carryover] het plaatsen ](/help/dsp/campaign-management/packages/package-settings.md) voor elk pakket om de historische gegevens van de vorige campagne als input voor het optimaliseren van het pakket te gebruiken.
+* Voor prestatiecampagnes (d.w.z., campagnes met pakketten die de doelstellingen van de douaneoptimalisering gebruiken), gebruik [[!UICONTROL Linked Package for Optimization Learnings Carryover] het plaatsen &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor elk pakket om de historische gegevens van de vorige campagne als input voor het optimaliseren van het pakket te gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van de Campagne ](campaign-about.md)
->* [ creeer een Campagne ](campaign-create.md)
->* [ geef een Campagne ](campaign-edit.md) uit
->* [ Mening het Logboek van de Verandering voor een Campagne ](campaign-change-log.md)
->* [ Montages van de Campagne ](campaign-settings.md)
+>* [&#x200B; Ongeveer het Beheer van de Campagne &#x200B;](campaign-about.md)
+>* [&#x200B; creeer een Campagne &#x200B;](campaign-create.md)
+>* [&#x200B; geef een Campagne &#x200B;](campaign-edit.md) uit
+>* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
+>* [&#x200B; Montages van de Campagne &#x200B;](campaign-settings.md)

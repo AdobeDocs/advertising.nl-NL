@@ -14,13 +14,13 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-U kunt callout uitbreidingen tot stand brengen en toewijzen aan om het even welke [ gesteunde  [!DNL Google Ads]  campagne of ad groep ](/help/search-social-commerce/introduction/supported-inventory.md) op het onderzoeksnetwerk binnen a [ gesynchroniseerde  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md).
+U kunt callout uitbreidingen tot stand brengen en toewijzen aan om het even welke [&#x200B; gesteunde  [!DNL Google Ads]  campagne of ad groep &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md) op het onderzoeksnetwerk binnen a [&#x200B; gesynchroniseerde  [!DNL Google Ads]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md).
 
 Wijs ten minste twee callouts per campagne of advertentiegroep toe zodat uw advertenties in aanmerking komen om te worden weergegeven met callouts.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Extensions] >[!UICONTROL Associations]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot "), en selecteert dan **[!UICONTROL Callout]**.
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot "), en selecteert dan **[!UICONTROL Callout]**.
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -34,12 +34,12 @@ Wijs ten minste twee callouts per campagne of advertentiegroep toe zodat uw adve
 
       * (Facultatief) om een campagnemijst of een lijst van de ad groep door een tekstkoord inbegrepen in de naam te filtreren, ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter ") te klikken, of het tekstkoord in het inputgebied in te gaan of te kleven, en dan de **te drukken gaat** sleutel in.
 
-      * Om een entiteit te selecteren, klik de aangrenzende cirkel (![ Uitgezochte ](/help/search-social-commerce/assets/include.png " ")).
+      * Om een entiteit te selecteren, klik de aangrenzende cirkel (![&#x200B; Uitgezochte &#x200B;](/help/search-social-commerce/assets/include.png " ")).
 
    1. Klik op **[!UICONTROL Post]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer  [!DNL Google Ads]  callout uitbreidingen ](callout-extension-about.md)
->* [ beheert  [!DNL Google Ads]  callout uitbreidingen ](callout-extension-manage.md)
->* [ Schrap en uitbreidingsverenigingen met campagnes en ad groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-extension-association-delete.md)
+>* [&#x200B; Ongeveer  [!DNL Google Ads]  callout uitbreidingen &#x200B;](callout-extension-about.md)
+>* [&#x200B; beheert  [!DNL Google Ads]  callout uitbreidingen &#x200B;](callout-extension-manage.md)
+>* [&#x200B; Schrap en uitbreidingsverenigingen met campagnes en ad groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-extension-association-delete.md)

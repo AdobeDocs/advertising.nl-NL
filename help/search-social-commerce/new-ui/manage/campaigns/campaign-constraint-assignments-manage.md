@@ -46,7 +46,7 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 1. Schakel het selectievakje naast elke relevante rij in.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
@@ -80,7 +80,7 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 1. Schakel het selectievakje in naast de componenten waaruit u de restrictie wilt verwijderen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
@@ -88,4 +88,4 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
+>* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)

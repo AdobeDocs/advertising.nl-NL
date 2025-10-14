@@ -19,7 +19,7 @@ U kunt uw advertentiecampagnes collectief beheren gebruikend portefeuilles (geli
 
 Sommige gebruikersrollen kunnen portefeuilles tot stand brengen en vormen. Afhankelijk van het type portfolio kunnen de portefeuilleinstellingen de portefeuilledoelstelling, de toegewezen campagnes, de uitgavenstrategie, eventuele inschrijvingsbeperkingen op portefeuilleniveau en de parameters voor modellering en optimalisatie omvatten. Als u klaar bent voor Zoeken, Sociale Zaken en Commerce om te beginnen met optimaliseren voor een portfolio, wijzigt u de status in &quot;geoptimaliseerd&quot;.
 
-U kunt portefeuilles naar keuze groeperen in [ portefeuillegroepen ](portfolio-group-manage.md) zodat u samengestelde gegevens voor de volledige groep kunt bekijken.
+U kunt portefeuilles naar keuze groeperen in [&#x200B; portefeuillegroepen &#x200B;](portfolio-group-manage.md) zodat u samengestelde gegevens voor de volledige groep kunt bekijken.
 
 Afhankelijk van uw rol, kunt u prestatiessimulaties kunnen produceren, die voorspellende modellering gebruiken om uw optimaal uitgavenpunt en gedetailleerde voorspelde nauwkeurigheidsrapporten te identificeren.<!-- Mention this now? In addition, all users can use the Spend Recommendation Tool to identify the optimal budget distribution across portfolios. -->
 
@@ -54,7 +54,7 @@ Een portfolio kan de volgende statussen hebben:
 
 ## De weergave [!UICONTROL Portfolios]
 
-In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weergegeven met aanpasbare prestatiegegevens. U kunt [ de kolommen binnen de mening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) en filtergegevens aanpassen om specifieke portefeuilles [ van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of van de [ kolomrubriek ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) te omvatten.
+In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weergegeven met aanpasbare prestatiegegevens. U kunt [&#x200B; de kolommen binnen de mening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) en filtergegevens aanpassen om specifieke portefeuilles [&#x200B; van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of van de [&#x200B; kolomrubriek &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) te omvatten.
 
 <!-- No options yet to edit anything within the grid, view bid changes, add a portfolio to a portfolio group, edit the Target column, or import/export DOW targets. -->
 
@@ -80,11 +80,11 @@ In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weerg
 
 * [Gegevens over portfolioprestaties weergeven](portfolio-details.md)
 
-* [ gegevens van de Download in de [!UICONTROL Portfolios] mening ](portfolio-view-report.md)
+* [&#x200B; gegevens van de Download in de [!UICONTROL Portfolios] mening &#x200B;](portfolio-view-report.md)
 
 >[!MORELIKETHIS]
 >
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ Dupliceer een portefeuille ](portfolio-duplicate.md)
->* [ geef een portefeuille ](portfolio-edit.md) uit
->* [ beheert de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening ](portfolio-view-report.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; Dupliceer een portefeuille &#x200B;](portfolio-duplicate.md)
+>* [&#x200B; geef een portefeuille &#x200B;](portfolio-edit.md) uit
+>* [&#x200B; beheert de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening &#x200B;](portfolio-view-report.md)

@@ -24,7 +24,7 @@ U kunt gegevens bekijken die op 8 augustus 2022 beginnen.<!-- Later: You can vie
 
 ## Standaardkolommen
 
-Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[&#x200B; de kolommen van het Rapport voor specialiteitrapporten &#x200B;](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Start Date]
 * [!UICONTROL End Date]
@@ -38,6 +38,6 @@ Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
->* [ produceer een speciaal rapport ](specialty-report-generate.md)
->* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)
+>* [&#x200B; Ongeveer specialiteitrapporten &#x200B;](specialty-report-about.md)
+>* [&#x200B; produceer een speciaal rapport &#x200B;](specialty-report-generate.md)
+>* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](specialty-report-settings.md)

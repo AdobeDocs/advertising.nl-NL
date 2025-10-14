@@ -14,9 +14,9 @@ ht-degree: 0%
 
 U kunt het volgende verwijderen:
 
-* creatieven die niet in een bundel zijn die aan a [ levend of ontwerp ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) [ gerichte ervaring ](/help/creative/experiences/experience-about.md) wordt toegewezen.
+* creatieven die niet in een bundel zijn die aan a [&#x200B; levend of ontwerp &#x200B;](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) [&#x200B; gerichte ervaring &#x200B;](/help/creative/experiences/experience-about.md) wordt toegewezen.
 
-* creatieven die niet aan een ad markering voor een levende of ontwerp [ niet-gerichte ervaring ](/help/creative/experiences/experience-about.md) worden toegewezen.
+* creatieven die niet aan een ad markering voor een levende of ontwerp [&#x200B; niet-gerichte ervaring &#x200B;](/help/creative/experiences/experience-about.md) worden toegewezen.
 
 >[!NOTE]
 >
@@ -42,6 +42,6 @@ U kunt het volgende verwijderen:
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ Voorproef creatieve ](creative-preview.md)
->* [ de Creatieven van de Download ](creative-download.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; Voorproef creatieve &#x200B;](creative-preview.md)
+>* [&#x200B; de Creatieven van de Download &#x200B;](creative-download.md)

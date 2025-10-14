@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gegevens exporteren voor aangepaste waarschuwingen
 
-U kunt gegevens voor een teweeggebrachte alarm of gegevens voor het onlangs teweeggebrachte alarm voor een waakzaam malplaatje als a [!DNL Microsoft Excel] werkboek ([ XLS ](/help/search-social-commerce/glossary.md#w-x) dossier), een lusje-gescheiden waarden ([ TSV ](/help/search-social-commerce/glossary.md#s-t)) dossier, of een komma-gescheiden waarden ([ CSV ](/help/search-social-commerce/glossary.md#c-d)) dossier uitvoeren. Downloadbare rapporten zijn beschikbaar gedurende tien dagen nadat de waarschuwing wordt geactiveerd en worden dan automatisch verwijderd.
+U kunt gegevens voor een teweeggebrachte alarm of gegevens voor het onlangs teweeggebrachte alarm voor een waakzaam malplaatje als a [!DNL Microsoft Excel] werkboek ([&#x200B; XLS &#x200B;](/help/search-social-commerce/glossary.md#w-x) dossier), een lusje-gescheiden waarden ([&#x200B; TSV &#x200B;](/help/search-social-commerce/glossary.md#s-t)) dossier, of een komma-gescheiden waarden ([&#x200B; CSV &#x200B;](/help/search-social-commerce/glossary.md#c-d)) dossier uitvoeren. Downloadbare rapporten zijn beschikbaar gedurende tien dagen nadat de waarschuwing wordt geactiveerd en worden dan automatisch verwijderd.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -30,11 +30,11 @@ U kunt gegevens voor een teweeggebrachte alarm of gegevens voor het onlangs tewe
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanealarm ](alert-about.md)
->* [ creeer een malplaatje van de douanealarm ](alert-template-create.md)
->* [ geef een malplaatje van de douanealarm ](alert-template-edit.md) uit
->* [ Pauzeer een malplaatje van de douanealarm ](alert-template-pause.md)
->* [ activeer een malplaatje van de douanealarm ](alert-template-activate.md)
->* [ Schrap een malplaatje van de douanealarm ](alert-template-delete.md)
->* [ de waakzame waakzame malplaatjemontages van de Douane ](alert-template-settings.md)
->* [ de douanealarm van de Mening ](alert-view.md)
+>* [&#x200B; Ongeveer douanealarm &#x200B;](alert-about.md)
+>* [&#x200B; creeer een malplaatje van de douanealarm &#x200B;](alert-template-create.md)
+>* [&#x200B; geef een malplaatje van de douanealarm &#x200B;](alert-template-edit.md) uit
+>* [&#x200B; Pauzeer een malplaatje van de douanealarm &#x200B;](alert-template-pause.md)
+>* [&#x200B; activeer een malplaatje van de douanealarm &#x200B;](alert-template-activate.md)
+>* [&#x200B; Schrap een malplaatje van de douanealarm &#x200B;](alert-template-delete.md)
+>* [&#x200B; de waakzame waakzame malplaatjemontages van de Douane &#x200B;](alert-template-settings.md)
+>* [&#x200B; de douanealarm van de Mening &#x200B;](alert-view.md)

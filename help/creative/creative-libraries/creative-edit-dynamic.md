@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. Plaats de cursor op de creatieve rij en klik op **[!UICONTROL Edit]** .
 
-1. Bewerk de [ dynamische advertentie montages ](creative-settings-dynamic.md).
+1. Bewerk de [&#x200B; dynamische advertentie montages &#x200B;](creative-settings-dynamic.md).
 
 1. Klik op **[!UICONTROL Continue]** om een voorvertoning weer te geven van de creatieve elementen die u wilt genereren. U kunt een van de volgende handelingen uitvoeren in de voorvertoning:
 
@@ -25,7 +25,7 @@ ht-degree: 0%
 
    * Een product zoeken op basis van de unieke id in het zoekveld onder het voorvertoningsgebied.
 
-   * Om de kolommen te veranderen die worden getoond, klik ![ de Filter van de Kolom ](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
+   * Om de kolommen te veranderen die worden getoond, klik ![&#x200B; de Filter van de Kolom &#x200B;](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
 
    * Als u een voorvertoning wilt weergeven van een bepaalde creatieve waarde, schakelt u het selectievakje voor de rij in.
 
@@ -43,7 +43,7 @@ ht-degree: 0%
 
 1. Bespaar de creatieve elementen:
 
-   * Om de advertenties te bewaren en hen toe te voegen aan a [ creatieve bundel ](bundle-manage.md) in de bibliotheek:
+   * Om de advertenties te bewaren en hen toe te voegen aan a [&#x200B; creatieve bundel &#x200B;](bundle-manage.md) in de bibliotheek:
 
       1. Klik op **[!UICONTROL Save and Attach to Bundle]**.
 
@@ -55,6 +55,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Dynamische creatieve montages ](creative-settings-dynamic.md)
->* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; Dynamische creatieve montages &#x200B;](creative-settings-dynamic.md)
+>* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)

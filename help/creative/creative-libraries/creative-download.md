@@ -34,5 +34,5 @@ Download alle geselecteerde creatieve items naar een bestand in ZIP-indeling vol
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ Voorproef creatieve ](creative-preview.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; Voorproef creatieve &#x200B;](creative-preview.md)

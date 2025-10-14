@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor of nadat u gegevens hebt geüpload, kunt u specifieke advertentiesjablonen maken voor de zoekmachine waarmee uw gegevens kunnen worden verwerkt. U kunt sjablonen maken voor tekstadvertenties en uitgebreide/uitgebreide tekstadvertenties, [!DNL Google Ads] en [!DNL Microsoft Advertising] responsieve zoekadvertenties en voor [!DNL Google Ads] - en [!DNL Microsoft Advertising] winkeladvertenties.
 
-U kunt elke sjabloon aan één feed-bestand, [!DNL Google Merchant Center] -account of [!DNL Microsoft Merchant Center] -account koppelen en u kunt meerdere sjablonen aan hetzelfde feed-bestand of dezelfde account koppelen. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen, kunnen de variabelen ook [ een bepalingsgroep ](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) omvatten u opstelling in Onderzoek, Sociaal, &amp; Commerce om veelvoudige advertenties, sleutelwoorden, campagnes, of ad groepen voor elke toepasselijke rij in het gegevensdossier tot stand te brengen. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
+U kunt elke sjabloon aan één feed-bestand, [!DNL Google Merchant Center] -account of [!DNL Microsoft Merchant Center] -account koppelen en u kunt meerdere sjablonen aan hetzelfde feed-bestand of dezelfde account koppelen. Een advertentiesjabloon kan variabelen bevatten, die worden vervangen door feitelijke gegevenskolommen uit een geüpload bestand of een account. In de meeste gevallen, kunnen de variabelen ook [&#x200B; een bepalingsgroep &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) omvatten u opstelling in Onderzoek, Sociaal, &amp; Commerce om veelvoudige advertenties, sleutelwoorden, campagnes, of ad groepen voor elke toepasselijke rij in het gegevensdossier tot stand te brengen. Met de sjabloonopties kunt u een nieuwe accountstructuur (campagnes, groepen en trefwoorden) voor de advertenties maken of de advertenties toewijzen aan de bestaande accountstructuur.
 
 U kunt optioneel nieuwe sjablonen maken door bestaande sjablonen te klonen en bestaande sjablonen te bewerken.
 
@@ -40,9 +40,9 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
 
       1. Klik in de werkbalk boven de datatabel op **[!UICONTROL Create/Clone]** en selecteer vervolgens het toepasselijke advertentienetwerk.
 
-   * (Om een bestaand malplaatje uit te geven) naast de malplaatjenaam, klik ![ Mening/geef montages ](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
+   * (Om een bestaand malplaatje uit te geven) naast de malplaatjenaam, klik ![&#x200B; Mening/geef montages &#x200B;](/help/search-social-commerce/assets/settings.png " Mening uit/geef montages ").
 
-1. Specificeer de montages voor de [ tekst en malplaatje ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads]  het winkelen en malplaatje ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft Advertising]  het winkelen en malplaatje ](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
+1. Specificeer de montages voor de [&#x200B; tekst en malplaatje &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-text-rsa.md), [[!DNL Google Ads]  het winkelen en malplaatje &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-google-shopping.md), of [[!DNL Microsoft Advertising]  het winkelen en malplaatje &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/ad-templates/template-microsoft-shopping.md):
 
    1. Geef boven aan het venster met sjablooninstellingen de naam van de sjabloon en het toepasselijke account op.
 
@@ -50,7 +50,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
 
    1. (Optioneel) Geef in de linkerkolom het bestand met de productfeed of de zakelijke account op waarvan de gegevens via de sjabloon worden doorgegeven:
 
-      * (Voor de dossiers van de productvoer) om een eerder-geupload dossier te selecteren, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl ") en selecteer een dossier van de lijst van beschikbare voederdossiers. Als u een nieuw bestand wilt uploaden, geeft u het bestand op door het volledige pad en de bestandsnaam in te voeren of door op **[!UICONTROL Browse]** te klikken om het bestand op uw apparaat of netwerk te zoeken. Klik vervolgens op **[!UICONTROL Upload]** .
+      * (Voor de dossiers van de productvoer) om een eerder-geupload dossier te selecteren, klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl ") en selecteer een dossier van de lijst van beschikbare voederdossiers. Als u een nieuw bestand wilt uploaden, geeft u het bestand op door het volledige pad en de bestandsnaam in te voeren of door op **[!UICONTROL Browse]** te klikken om het bestand op uw apparaat of netwerk te zoeken. Klik vervolgens op **[!UICONTROL Upload]** .
 
       * (Voor een gesynchroniseerde zakelijke account) Selecteer de naam van de account.
 
@@ -67,7 +67,7 @@ Maak aparte sjablonen voor tekst en uitgebreide/uitgebreide tekstadvertenties, r
       >* U kunt maximaal vier variatiesjablonen per standaardtekst en -sjabloon, vijf en variatiesjablonen per uitgebreide/uitgebreide tekst en sjabloon en drie en variatiesjablonen per responsieve zoekopdracht en sjabloon opnemen.
       >* Elke advertentiegroep kan maximaal drie ingeschakelde responsieve zoekadvertenties bevatten.
       >* U kunt bestaande standaardtekst en -variaties niet bewerken en bestaande sjablonen genereren niet langer standaardtekstadvertenties.
-      >* Als u een advertentievariatiesjabloon verandert, dan kunnen de bestaande advertenties worden geschrapt en de nieuwe degenen kunnen worden gecreeerd wanneer u gegevens door het malplaatje verspreidt, [ afhankelijk van het advertentietype en ad netwerk ](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md).
+      >* Als u een advertentievariatiesjabloon verandert, dan kunnen de bestaande advertenties worden geschrapt en de nieuwe degenen kunnen worden gecreeerd wanneer u gegevens door het malplaatje verspreidt, [&#x200B; afhankelijk van het advertentietype en ad netwerk &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/when-are-components-created-deleted.md).
 
       * Ga als volgt te werk om een advertentievariatie toe te voegen:
 
@@ -155,8 +155,8 @@ U kunt elke gepauzeerde sjabloon voor gegevensinvoer activeren of een actieve sj
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer automatiserend en beheer gebruikend inventarisvoer ](../inventory-feeds-about.md)
->* [ Tekst en ontvankelijke onderzoek en malplaatjemontages ](template-text-rsa.md)
->* [[!DNL Google Ads]  het winkelen en malplaatjemontages ](template-google-shopping.md)
->* [[!DNL Microsoft Advertising]  het winkelen en malplaatjemontages ](template-microsoft-shopping.md)
->* [ doorgeven voedergegevens door malplaatjes ](../feed-data-propagate.md)
+>* [&#x200B; Ongeveer automatiserend en beheer gebruikend inventarisvoer &#x200B;](../inventory-feeds-about.md)
+>* [&#x200B; Tekst en ontvankelijke onderzoek en malplaatjemontages &#x200B;](template-text-rsa.md)
+>* [[!DNL Google Ads]  het winkelen en malplaatjemontages &#x200B;](template-google-shopping.md)
+>* [[!DNL Microsoft Advertising]  het winkelen en malplaatjemontages &#x200B;](template-microsoft-shopping.md)
+>* [&#x200B; doorgeven voedergegevens door malplaatjes &#x200B;](../feed-data-propagate.md)

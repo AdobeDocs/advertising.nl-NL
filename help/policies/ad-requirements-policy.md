@@ -135,4 +135,4 @@ U mag de Services niet gebruiken om discriminatie te plegen in strijd met de wet
 
 >[!MORELIKETHIS]
 >
->* [ Acceptabele Richtlijnen van het Segment van de Gezondheid ](/help/policies/health-segment-guidelines.md)
+>* [&#x200B; Acceptabele Richtlijnen van het Segment van de Gezondheid &#x200B;](/help/policies/health-segment-guidelines.md)

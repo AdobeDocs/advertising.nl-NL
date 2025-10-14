@@ -68,7 +68,7 @@ For any reporting or auditing within [!DNL Analytics], the best practice is to u
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht ](overview.md)
->* [ Eerste vereisten ](prerequisites.md)
->* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
->* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)
+>* [&#x200B; Overzicht &#x200B;](overview.md)
+>* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
+>* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
+>* [&#x200B; de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics &#x200B;](advertising-data-in-cja.md)

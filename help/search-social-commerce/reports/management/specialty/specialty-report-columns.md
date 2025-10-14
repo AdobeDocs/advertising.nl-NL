@@ -42,7 +42,7 @@ ht-degree: 0%
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De opbrengst per omzetting. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) Het element. |
 | [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) De unieke id die een bestaand element identificeert. |
-| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) De [[!DNL Google Ads]  prestatiesclassificatie ](https://support.google.com/google-ads/answer/9564897) voor de activa. |
+| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) De [[!DNL Google Ads]  prestatiesclassificatie &#x200B;](https://support.google.com/google-ads/answer/9564897) voor de activa. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) De elementstatus: *[!UICONTROL Enabled]* of *[!UICONTROL Enabled]* (verwijderd). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) Het elementtype: *[!UICONTROL Creative Title]* of *[!UICONTROL Description]* . |
 | [!UICONTROL Assists] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal tijden een entiteit aan een omzetting verbonden aan een verschillende entiteit heeft bijgedragen. |
@@ -95,13 +95,13 @@ ht-degree: 0%
 | [!UICONTROL EF Portfolio Group ID] | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL EF Search Engine ID] | De numerieke id die Search, Social en Commerce toewijst aan het advertentienetwerk: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd) of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (afgekeurd). |
 | [!UICONTROL End Date] | De laatste dag die is gemeld. |
-| [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] rapporten) de [ vertoningsnaam van de uitbreiding ](https://help.ads.microsoft.com/#apex/ads/en/51001). |
+| [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] rapporten) de [&#x200B; vertoningsnaam van de uitbreiding &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/51001). |
 | [!UICONTROL Extension Type ID] | ([!UICONTROL MSA Ad Extension] reports) ID voor het type van de advertentie uitbreiding. |
 | [!UICONTROL Final URLs] | ([!UICONTROL Google Asset Group Performance Report]) Een lijst van definitieve URLs na alle dwars-domeinomleiding. De URL&#39;s kunnen worden uitgebreid als de uitbreiding van de URL is ingeschakeld voor de campagne. |
 | [!UICONTROL Final Mobile URLs] | ([!UICONTROL Google Asset Group Performance Report]) Een lijst van definitieve URLs voor mobiele apparaten na alle dwars-domeinomleiding. De URL&#39;s kunnen worden uitgebreid als de uitbreiding van de URL is ingeschakeld voor de campagne. |
 | [!UICONTROL Goal] | ([!UICONTROL MSA Ad ExtensionReport] rapporten, [!UICONTROL MSA Network Performance Report]) De naam van het omzettingsdoel. |
 | [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] rapporten, [!UICONTROL MSA Network Performance Report]) Het type conversiedoel. |
-| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) Het aantal online omzettingen die door [ worden gevolgd  [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
+| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) Het aantal online omzettingen die door [&#x200B; worden gevolgd  [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
 | [!UICONTROL Google Converted Clicks] | ([!UICONTROL AdWords Conversion Report]; afgekeurd in 2016) Het aantal klikken dat in één of meerdere omzettingen resulteerde. |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] slechts; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) het percentage van uw advertenties die als eerste en boven de organische onderzoeksresultaten werden getoond. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] slechts; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) het percentage van uw advertenties die boven de organische onderzoeksresultaten worden getoond. |
@@ -182,6 +182,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer specialiteitrapporten ](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
->* [ produceer een speciaal rapport ](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
->* [ het rapportmontages van de Specialiteit ](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [&#x200B; Ongeveer specialiteitrapporten &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
+>* [&#x200B; produceer een speciaal rapport &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
+>* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)

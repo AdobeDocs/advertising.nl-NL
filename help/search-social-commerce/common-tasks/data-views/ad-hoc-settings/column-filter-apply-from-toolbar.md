@@ -18,7 +18,7 @@ U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only 
 
 ## (Nieuwe UI) Gegevensfilters van de toolbar in beheersmeningen toepassen
 
-1. In de toolbar, klik ![ Filter ](/help/search-social-commerce/assets/filter-new.png " van de Filter ").
+1. In de toolbar, klik ![&#x200B; Filter &#x200B;](/help/search-social-commerce/assets/filter-new.png " van de Filter ").
 
 1. Voer een van de volgende handelingen uit in de filterinstellingen:
 
@@ -30,7 +30,7 @@ U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only 
 
       1. Definieer het filter op de kolom:
 
-         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
+         * (Filters zonder inputgebieden) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
 
          * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
@@ -46,11 +46,11 @@ U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only 
 
 ## (Verouderde gebruikersinterface) Gegevensfilters toepassen vanaf de werkbalk in een campagnebeheerweergave
 
-1. In de toolbar, klik ![ Filter ](/help/search-social-commerce/assets/filter.png " van de Filter ").
+1. In de toolbar, klik ![&#x200B; Filter &#x200B;](/help/search-social-commerce/assets/filter.png " van de Filter ").
 
 1. Voer een van de volgende handelingen uit in de filterinstellingen:
 
-   * Om een filter toe te voegen, ![ voeg Filter ](/help/search-social-commerce/assets/add.png " toe ") **[!UICONTROL ADD FILTER]**, en doe dan het volgende:
+   * Om een filter toe te voegen, ![&#x200B; voeg Filter &#x200B;](/help/search-social-commerce/assets/add.png " toe ") **[!UICONTROL ADD FILTER]**, en doe dan het volgende:
 
       1. (Optioneel) Als u de kolomnamen wilt filteren op een tekenreeks, voert u de zoektekenreeks in het invoerveld **[!UICONTROL ADD FILTER]** in.
 
@@ -58,7 +58,7 @@ U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only 
 
       1. Definieer het filter op de kolom:
 
-         * (Filters zonder inputgebieden) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
+         * (Filters zonder inputgebieden) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") naast het tweede menu, en selecteer dan de controledozen naast elke te omvatten waarde.
 
          * (Filters met invoervelden) Selecteer een operator in het tweede menu en voer de toepasselijke waarde in.
 
@@ -74,12 +74,12 @@ U kunt zo vele filters toepassen aangezien u aan een mening wilt.<!-- True only 
 
    * Als u een bestaand filter wilt bewerken, klikt u op het filter en wijzigt u vervolgens de filterdefinitie.
 
-   * Om een bestaand filter te verwijderen, klik ![ Schrapping ](/help/search-social-commerce/assets/delete.png " naast de filterdefinitie.")
+   * Om een bestaand filter te verwijderen, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete.png " naast de filterdefinitie.")
 
 1. Klik op **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
 >
->* [ pas een gegevensfilter van een menu van de kolomkop toe ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
->* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
+>* [&#x200B; pas een gegevensfilter van een menu van de kolomkop toe &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md)
+>* [&#x200B; geef kolomfilters &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
 >* [ verwijder een kolomfilter ] (/help/onderzoek-sociale handel/gemeenschappelijk-taken/gegeven-meningen/ad-hoc-montages/

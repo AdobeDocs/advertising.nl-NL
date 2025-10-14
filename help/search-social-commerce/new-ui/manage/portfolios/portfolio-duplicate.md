@@ -20,7 +20,7 @@ Dupliceer een portfolio om een nieuw portfolio met dezelfde instellingen te make
 
 1. Schakel het selectievakje naast het portfolio in.
 
-1. In de toolbar boven de gegevenslijst, klik ![ ](/help/search-social-commerce/assets/duplicate.png " Dupliceren ") **[!UICONTROL Duplicate]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/duplicate.png " Dupliceren ") **[!UICONTROL Duplicate]**.
 
 1. Bewerk de portfolioinstellingen.
 
@@ -34,8 +34,8 @@ Dupliceer een portfolio om een nieuw portfolio met dezelfde instellingen te make
 
 >[!MORELIKETHIS]
 >
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
->* [ (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven ](portfolio-details.md)
->* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
->* [ Ongeveer portefeuilles ](portfolio-about.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
+>* [&#x200B; (Nieuwe interface) Gegevens over de prestaties van het portfolio weergeven &#x200B;](portfolio-details.md)
+>* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)
+>* [&#x200B; Ongeveer portefeuilles &#x200B;](portfolio-about.md)

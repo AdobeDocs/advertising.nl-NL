@@ -16,14 +16,14 @@ U kunt uw doelstellingen, simulaties, en portefeuilles van het nieuwe gebruikers
 
 In de loop der tijd worden extra functies verplaatst naar de nieuwe interface. Ondertussen kunt u de meeste functies in de oudere gebruikersinterface openen via het hoofdmenu in de nieuwe gebruikersinterface. U kunt ook gemakkelijk schakelen tussen de nieuwe interface en de verouderde UI.
 
-Voor meer informatie over hoe nieuwe UI wordt georganiseerd, zie &quot;[ hoe het gebruikersinterface ](/help/search-social-commerce/getting-started/user-interface.md) wordt georganiseerd.&quot;
+Voor meer informatie over hoe nieuwe UI wordt georganiseerd, zie &quot;[&#x200B; hoe het gebruikersinterface &#x200B;](/help/search-social-commerce/getting-started/user-interface.md) wordt georganiseerd.&quot;
 
 >[!NOTE]
 >
->Beschrijvingen van sommige montages binnen nieuwe UI, evenals conceptuele informatie, beste praktijken, en hulp voor erfeniseigenschappen, is nog beschikbaar in &quot;[!DNL Search, Social, & Commerce Optimization Guide]&quot;. [!DNL Optimization Guide] is beschikbaar van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce.
+>Beschrijvingen van sommige montages binnen nieuwe UI, evenals conceptuele informatie, beste praktijken, en hulp voor erfeniseigenschappen, is nog beschikbaar in &quot;[!DNL Search, Social, & Commerce Optimization Guide]&quot;. [!DNL Optimization Guide] is beschikbaar van het [!UICONTROL Help] menu (![&#x200B; het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce.
 
 >[!MORELIKETHIS]
 >
->* [ hoe het gebruikersinterface wordt georganiseerd ](/help/search-social-commerce/getting-started/user-interface.md)
->* [ Schakelaar tussen de nieuwe en erfenisgebruikersinterfaces ](/help/search-social-commerce/getting-started/ui-switch.md)
+>* [&#x200B; hoe het gebruikersinterface wordt georganiseerd &#x200B;](/help/search-social-commerce/getting-started/user-interface.md)
+>* [&#x200B; Schakelaar tussen de nieuwe en erfenisgebruikersinterfaces &#x200B;](/help/search-social-commerce/getting-started/ui-switch.md)
 >* Hoofdstuk over &quot;Gemeenschappelijke Taken&quot;voor informatie over het beheren van douane en standaardmeningen, het bekijken van gegevens voor een andere adverteerder, het toepassen van gegevensfilters, en andere navigatie en gegeven-verwante taken over het nieuwe en erfenisgebruikersinterface

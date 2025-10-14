@@ -50,5 +50,5 @@ De volgende creatieve grootten zijn van toepassing op alle creatieve typen.
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ geeft standaardcreatieve producten ](/help/creative/creative-libraries/creative-edit-standard.md) uit
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; geeft standaardcreatieve producten &#x200B;](/help/creative/creative-libraries/creative-edit-standard.md) uit

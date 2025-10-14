@@ -14,7 +14,7 @@ ht-degree: 1%
 
 *eigenschap van Beta*
 
-U kunt een douanesimulatie voor een [ geoptimaliseerde of actieve ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portefeuille produceren. U kunt of de parameters van een bestaande simulatie veranderen en de simulatie regenereren of een bestaande simulatie met de bestaande parameters opnieuw uitvoeren.
+U kunt een douanesimulatie voor een [&#x200B; geoptimaliseerde of actieve &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portefeuille produceren. U kunt of de parameters van een bestaande simulatie veranderen en de simulatie regenereren of een bestaande simulatie met de bestaande parameters opnieuw uitvoeren.
 
 Gebruikers van [!UICONTROL Admin] en [!UICONTROL Account Manager] kunnen simulaties bekijken die door andere gebruikers zijn gemaakt. Alle andere gebruikers kunnen alleen de aangepaste simulaties zien die ze maken.
 
@@ -34,7 +34,7 @@ Gebruikers van [!UICONTROL Admin] en [!UICONTROL Account Manager] kunnen simulat
 
    1. Klik op **[!UICONTROL Proceed]**.
 
-1. Specificeer de [ montages van de douanesimulatie ](#custom-simulation-settings):
+1. Specificeer de [&#x200B; montages van de douanesimulatie &#x200B;](#custom-simulation-settings):
 
    1. (Optioneel) Als u het portfolio wilt wijzigen dat voor de simulatie wordt gebruikt, klikt u op **[!UICONTROL Change Portfolio]** naast de naam van het portfolio, selecteert u het portfolio en klikt u op **[!UICONTROL Proceed]** .
 
@@ -66,7 +66,7 @@ Wanneer het simulatierapport beschikbaar is, ontvangen u en alle andere opgegeve
 
 1. Klik boven de gegevenstabel op **[!UICONTROL Run Simulation]** .
 
-1. Specificeer de [ montages van de douanesimulatie ](#custom-simulation-settings):
+1. Specificeer de [&#x200B; montages van de douanesimulatie &#x200B;](#custom-simulation-settings):
 
    1. (Optioneel) Als u het portfolio wilt wijzigen dat voor de simulatie wordt gebruikt, klikt u op **[!UICONTROL Change Portfolio]** naast de naam van het portfolio, selecteert u het portfolio en klikt u op **[!UICONTROL Proceed]** .
 
@@ -98,7 +98,7 @@ U kunt simulaties opnieuw uitvoeren die momenteel niet in de wachtrij staan.
 
 1. Schakel de selectievakjes in naast de simulaties die u opnieuw wilt uitvoeren.
 
-1. In de toolbar boven de gegevenslijst, klik ![ Rerun ](/help/search-social-commerce/assets/rerun.png " opnieuw 10&rbrace;.")
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Rerun &#x200B;](/help/search-social-commerce/assets/rerun.png " opnieuw 10&rbrace;.")
 
 ## Aangepaste simulatie-instellingen {#custom-simulation-settings}
 
@@ -106,5 +106,5 @@ Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociaal en Commerce, voo
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer simulaties ](simulation-about.md)
->* [ simulaties van de Download ](simulation-download.md)
+>* [&#x200B; Ongeveer simulaties &#x200B;](simulation-about.md)
+>* [&#x200B; simulaties van de Download &#x200B;](simulation-download.md)

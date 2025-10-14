@@ -38,9 +38,9 @@ U kunt een doelknooppunt verwijderen, inclusief alle onderliggende doelen en de 
 
 >[!MORELIKETHIS]
 >
->* [ neem een doelknoop tussen knopen ](experience-target-node-add-inner.md) op
->* [ voeg een sibling doelknoop tussen knopen ](experience-target-node-add-sibling.md) toe
->* [ de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau ](experience-target-node-copy.md)
->* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
->* [ geef een ervaring met beslissingsboom uit richtend ](experience-edit-targeting.md)
->* [ gerichte ervaringsmontages ](experience-settings-targeting.md)
+>* [&#x200B; neem een doelknoop tussen knopen &#x200B;](experience-target-node-add-inner.md) op
+>* [&#x200B; voeg een sibling doelknoop tussen knopen &#x200B;](experience-target-node-add-sibling.md) toe
+>* [&#x200B; de kindknopen en creatieven van het Exemplaar aan een andere knoop op het zelfde niveau &#x200B;](experience-target-node-copy.md)
+>* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
+>* [&#x200B; geef een ervaring met beslissingsboom uit richtend &#x200B;](experience-edit-targeting.md)
+>* [&#x200B; gerichte ervaringsmontages &#x200B;](experience-settings-targeting.md)

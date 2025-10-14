@@ -42,7 +42,7 @@ U kunt veelvoudige rapportmalplaatjes voor om het even welk type van prestatiesr
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportmalplaatjes ](template-about.md)
->* [ geef een rapportmalplaatje ](template-edit.md) uit
->* [ Mening een rapportmalplaatje ](template-view.md)
->* [ schrap rapportmalplaatjes ](template-delete.md)
+>* [&#x200B; Ongeveer rapportmalplaatjes &#x200B;](template-about.md)
+>* [&#x200B; geef een rapportmalplaatje &#x200B;](template-edit.md) uit
+>* [&#x200B; Mening een rapportmalplaatje &#x200B;](template-view.md)
+>* [&#x200B; schrap rapportmalplaatjes &#x200B;](template-delete.md)

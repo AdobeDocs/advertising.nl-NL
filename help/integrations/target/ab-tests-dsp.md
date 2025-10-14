@@ -31,19 +31,19 @@ Voor dit gebruiksgeval zijn de volgende producten en integraties vereist:
 
 * [!DNL Target]
 
-* [[!DNL Analytics]  voor Advertising ](/help/integrations/analytics/overview.md) integratie <!-- necessary for testing view-throughs, which most advertisers want to do -->
+* [[!DNL Analytics]  voor Advertising &#x200B;](/help/integrations/analytics/overview.md) integratie <!-- necessary for testing view-throughs, which most advertisers want to do -->
 
-* [[!DNL Analytics]  voor  [!DNL Target] ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL) integratie
+* [[!DNL Analytics]  voor  [!DNL Target] &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL) integratie
 
 * Audience Manager (alleen vereist voor doorkijktests)
 
 ## Stap 1: Opstelling het Click-through Kader {#click-through-framework}
 
-![ klik-door kader ](/help/integrations/assets/target-ct-framework.png)
+![&#x200B; klik-door kader &#x200B;](/help/integrations/assets/target-ct-framework.png)
 
 Wanneer u DSP-macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergegeven wanneer een gebruiker op een advertentie klikt en de landingspagina bereikt), legt DSP automatisch de plaatsingssleutel vast door `${TM_PLACEMENT_ID}` op te nemen in de doorklikURL. In deze macro wordt de alfanumerieke plaatsingssleutel vastgelegd en niet de numerieke plaatsings-id.
 
-![ klik-door URL wordt toegevoegd aan de het landen pagina URL ](/help/integrations/assets/target-ct-url.jpg)
+![&#x200B; klik-door URL wordt toegevoegd aan de het landen pagina URL &#x200B;](/help/integrations/assets/target-ct-url.jpg)
 
 ### (Alleen DSP) DSP-macro&#39;s toevoegen aan uw doorklikURL&#39;s
 
@@ -51,7 +51,7 @@ Wanneer u DSP-macro&#39;s toevoegt aan een doorklikURL (de URL die wordt weergeg
 
 Werk in [!DNL Flashtalking] of Google Campagne Manager 360 de doorklikURL voor elke advertentie handmatig bij om de macro&#39;s op te nemen die nodig zijn om AMO ID-variabelen vast te leggen. De variabelen van AMO ID worden gebruikt om klikgegevens naar Adobe Analytics te verzenden en plaatsingssleutels voor A/B het testen te delen. Zie de volgende pagina&#39;s voor instructies:
 
-* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](/help/integrations/analytics/macros-flashtalking.md). **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
+* [&#x200B; voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-flashtalking.md). **Nota:** Deze procedure is niet noodzakelijk als uw organisatie een direct partnerschap met [!DNL Flashtalking] heeft en u gegevens-pas macro&#39;s gebruikt om de `s_kwcid` en `ef_id` volgende parameters per de [!DNL Flashtalking] steundocumentatie bij [&#x200B; https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros &#x200B;](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) te volgen.
 
 * [Voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe en Markeringen](/help/integrations/analytics/macros-google-campaign-manager.md)
 
@@ -59,15 +59,15 @@ Neem contact op met uw Adobe-accountteam om de vereiste plaatsingssleutel op te 
 
 ## Stap 2: Opstelling het Kader View-through Gebruikend Audience Manager {#view-through-framework}
 
-![ mening-door kader ](/help/integrations/assets/targetr-vt-framework.png)
+![&#x200B; mening-door kader &#x200B;](/help/integrations/assets/targetr-vt-framework.png)
 
 Door een Audience Manager-imitatiepixel toe te voegen in uw advertentietags en plaatsingsinstellingen, kunt u een testsegment maken voor extra mogelijkheden voor doorkijktests.
 
 1. Implementeer een Audience Manager-imitatiepixel in uw advertentietags en DSP-plaatsingsinstellingen.
 
-   Voor instructies, zie &quot;[ de Gegevens van de Belichting van Media van de Campagnes van Advertising DSP ](/help/integrations/audience-manager/media-data-integration/collect.md) verzamelen.&quot;
+   Voor instructies, zie &quot;[&#x200B; de Gegevens van de Belichting van Media van de Campagnes van Advertising DSP &#x200B;](/help/integrations/audience-manager/media-data-integration/collect.md) verzamelen.&quot;
 
-   Zorg ervoor u [ de macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md) toevoegt om alle gegevens te vangen u de pixel van de impositiegebeurtenis wilt teruggeven, met inbegrip van `${TM_PLACEMENT_ID_NUM}` voor numerieke plaatsingsidentiteitskaart
+   Zorg ervoor u [&#x200B; de macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md) toevoegt om alle gegevens te vangen u de pixel van de impositiegebeurtenis wilt teruggeven, met inbegrip van `${TM_PLACEMENT_ID_NUM}` voor numerieke plaatsingsidentiteitskaart
 
    >[!NOTE]
    >
@@ -77,15 +77,15 @@ Door een Audience Manager-imitatiepixel toe te voegen in uw advertentietags en p
 
    1. Controleer of segmentgegevens beschikbaar zijn:
 
-      1. [ Onderzoek naar het signaal ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-signals-search.html?lang=nl-NL) voor het [ zeer belangrijk-waardepaar ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-search-pairs.html?lang=nl-NL) dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd.
+      1. [&#x200B; Onderzoek naar het signaal &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-signals-search.html?lang=nl-NL) voor het [&#x200B; zeer belangrijk-waardepaar &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/data-explorer/signals-search/data-explorer-search-pairs.html?lang=nl-NL) dat bepaalt op welk niveau de segmentgebruikers worden gegroepeerd.
 
-         Gebruik a [ gesteunde sleutel ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=nl-NL) met een waarde die aan een macro beantwoordt die u aan het pixel van de de impositiegebeurtenis van Audience Manager toevoegde.
+         Gebruik a [&#x200B; gesteunde sleutel &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/implementation-integration-guides/media-data-integration/impression-data-pixels.html?lang=nl-NL) met een waarde die aan een macro beantwoordt die u aan het pixel van de de impositiegebeurtenis van Audience Manager toevoegde.
 
          Als u bijvoorbeeld gebruikers voor een bepaalde plaatsing wilt groeperen, gebruikt u de `d_placement` -toets. Voor de waarde gebruikt u een numerieke plaatsing-id (zoals 2501853) die wordt vastgelegd door de DSP-macro `${TM_PLACEMENT_ID_NUM}` . <!-- Explain where to find the placement ID, other than in a custom report. -->
 
          Als de onderzoeksresultaten gebruikertellingen voor het zeer belangrijk-waardepaar tonen, dat erop wijst dat de pixel correct werd geplaatst en de gegevens stromen, dan ga aan de volgende stap verder.
 
-   1. [ creeer een op regel-gebaseerd bezit ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=nl-NL) voor segmentverwezenlijking in Audience Manager.
+   1. [&#x200B; creeer een op regel-gebaseerd bezit &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/traits/trait-builder/create-onboarded-rule-based-traits.html?lang=nl-NL) voor segmentverwezenlijking in Audience Manager.
 
       * Geef de eigenschap een naam, zodat deze binnen de testactiviteiten gemakkelijk kan worden herkend. Sla de eigenschap op in de gewenste map.
 
@@ -93,7 +93,7 @@ Door een Audience Manager-imitatiepixel toe te voegen in uw advertentietags en p
 
       * Gebruik voor de expressie trait `d_event` als de **[!UICONTROL Key]** en `imp` als de **[!UICONTROL Value]** .
 
-   1. [ opstelling een testsegment ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html?lang=nl-NL) voor het nieuwe bezit in Audience Manager, die `Ad Cloud` als **[!UICONTROL Data Source]** selecteren.
+   1. [&#x200B; opstelling een testsegment &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/segments/segment-builder.html?lang=nl-NL) voor het nieuwe bezit in Audience Manager, die `Ad Cloud` als **[!UICONTROL Data Source]** selecteren.
 
       Audience Manager splitst het segment automatisch in een controlegroep die de standaard landende paginaervaring en een testgroep ontvangt die een gepersonaliseerde onsite ervaring ontvingen.
 
@@ -101,15 +101,15 @@ Door een Audience Manager-imitatiepixel toe te voegen in uw advertentietags en p
 
 In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeerd.
 
-1. [ Teken binnen aan Adobe Target ](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html?lang=nl-NL).
+1. [&#x200B; Teken binnen aan Adobe Target &#x200B;](https://experienceleague.adobe.com/docs/target/using/introduction/target-access-from-mac.html?lang=nl-NL).
 
-1. [ creeer een test A/B ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL):
+1. [&#x200B; creeer een test A/B &#x200B;](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL):
 
    1. Voer in het veld **[!UICONTROL Enter Activity URL]** de URL van de bestemmingspagina voor de test in.
 
       >[!NOTE]
       >
-      >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Voor meer informatie, zie &quot;[ Multipage Activiteit ](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html?lang=nl-NL).&quot; U kunt bovenkant ingangen door pagina URL gemakkelijk identificeren door het rapport van de Ingang van de a [ Plaats ](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/integrations/adobe-advertising-dsp/create-advertising-cloud-site-entry-reports) in Analytics te creëren.
+      >U kunt meerdere URL&#39;s gebruiken om het doorzoeken van sites te testen. Voor meer informatie, zie &quot;[&#x200B; Multipage Activiteit &#x200B;](https://experienceleague.adobe.com/docs/target/using/experiences/vec/multipage-activity.html?lang=nl-NL).&quot; U kunt bovenkant ingangen door pagina URL gemakkelijk identificeren door het rapport van de Ingang van de a [&#x200B; Plaats &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-learn/tutorials/integrations/adobe-advertising-dsp/create-advertising-cloud-site-entry-reports) in Analytics te creëren.
 
    1. Voer in het veld **[!UICONTROL Goal]** de succesmaatstaf voor de test in.
 
@@ -121,13 +121,13 @@ In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeer
 
    1. Selecteer in **[!UICONTROL Reporting Settings]** de **[!UICONTROL Company Name]** en **[!UICONTROL Report Suite]** die zijn verbonden met uw DSP-account.
 
-      Voor extra rapporteringsuiteinden, zie &quot;[ het Melden van beste praktijken en het oplossen van problemen ](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html?lang=nl-NL).&quot;
+      Voor extra rapporteringsuiteinden, zie &quot;[&#x200B; het Melden van beste praktijken en het oplossen van problemen &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/reports-analytics/report-troubleshooting.html?lang=nl-NL).&quot;
 
    1. Voer in het veld **[!UICONTROL Date Range]** de juiste begin- en einddatum in voor de test.
 
    1. Soorten publiek toevoegen aan de activiteit:
 
-      1. Kies het [ segment dat u eerder in Audience Manager aan testmening-door publiek ](#view-through-framework) creeerde.
+      1. Kies het [&#x200B; segment dat u eerder in Audience Manager aan testmening-door publiek &#x200B;](#view-through-framework) creeerde.
 
       1. Selecteer **[!UICONTROL Site Pages]** > **[!UICONTROL Landing Page]** > **[!UICONTROL Query]** en typ de DSP-plaatsingssleutel in het **[!UICONTROL Value]** -veld om de parameters van de doelqueryreeks te gebruiken voor doorklikken.
 
@@ -135,7 +135,7 @@ In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeer
 
    1. Sla de activiteit op.
 
-1. Gebruik [ Composer van de Ervaring van het Doel Visuele ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL) om ontwerpveranderingen in het malplaatje van de A/B test het landen van de paginalplaatje aan te brengen.
+1. Gebruik [&#x200B; Composer van de Ervaring van het Doel Visuele &#x200B;](https://experienceleague.adobe.com/docs/target/using/activities/abtest/create/test-create-ab.html?lang=nl-NL) om ontwerpveranderingen in het malplaatje van de A/B test het landen van de paginalplaatje aan te brengen.
 
    * Ervaar A: Bewerk niet omdat het de standaard/controle landende paginaervaring zonder personalisatie is.
 
@@ -151,7 +151,7 @@ In de volgende instructies wordt informatie over het DSP-gebruiksgeval gemarkeer
 
 [!DNL Analytics for Target] (A4T) is een integratie tussen oplossingen waarmee adverteerders [!DNL Target] -activiteiten kunnen maken op basis van [!DNL Analytics] omzettingsmaatstaven en publiekssegmenten en de resultaten vervolgens kunnen meten met [!DNL Analytics] als rapportbron. Alle rapportage en segmentatie voor die activiteit is gebaseerd op [!DNL Analytics] gegevensverzameling.
 
-Voor meer informatie over [!DNL Analytics for Target], met inbegrip van een verbinding aan implementatieinstructies, zie &quot;[ Adobe Analytics als rapporteringsbron voor Adobe Target (A4T) ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL)&quot;.
+Voor meer informatie over [!DNL Analytics for Target], met inbegrip van een verbinding aan implementatieinstructies, zie &quot;[&#x200B; Adobe Analytics als rapporteringsbron voor Adobe Target (A4T) &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4t.html?lang=nl-NL)&quot;.
 
 ### Het deelvenster [!DNL Analytics for Target] instellen
 
@@ -179,7 +179,7 @@ De volgende afmetingen hebben betrekking op [!DNL Analytics for Target] :
 
 Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens minimaal of niet vullen, doet u het volgende:
 
-* Controleer of dezelfde [!UICONTROL Supplemental Data ID] (SDID) wordt gebruikt voor zowel [!DNL Target] als [!DNL Analytics] . U kunt de waarden verifiëren SDID door [ Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html?lang=nl-NL) op de het landen pagina te gebruiken waarop de campagne gebruikers drijft.
+* Controleer of dezelfde [!UICONTROL Supplemental Data ID] (SDID) wordt gebruikt voor zowel [!DNL Target] als [!DNL Analytics] . U kunt de waarden verifiëren SDID door [&#x200B; Debugger van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/target-learn/tutorials/troubleshooting/troubleshoot-with-the-experience-cloud-debugger.html?lang=nl-NL) op de het landen pagina te gebruiken waarop de campagne gebruikers drijft.
 
 [Aanvullende waarden voor de gegevens-id (SDID) in Adobe Debugger](/help/integrations/assets/target-troubleshooting-sdid.png)
 
@@ -193,12 +193,12 @@ Als u in Analysis Workspace opmerkt dat de activiteit en de ervaring gegevens mi
 
 ## Verdere lezing
 
-* [ integreer Doel met Analytics ](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html?lang=nl-NL) - verklaart hoe te opstelling [!DNL Target] rapporterend in Analysis Workspace.
-* [ A/B het Overzicht van de Test ](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=nl-NL) - beschrijft A/B testactiviteiten, die u met de advertenties van DSP kunt gebruiken.
-* [ Ervaringen en aanbiedingen ](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=nl-NL) - Verklaart [!DNL Target] hulpmiddelen om de inhoud ter plaatse te bepalen waaraan de testgebruikers van DSP worden blootgesteld.
-* [ de Signalen, de Sporen, en de Segmenten ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=nl-NL) - bepalen enkele hulpmiddelen van Audience Manager die met het mening-door testen van DSP kunnen helpen.
-* [ Overzicht van Analytics voor Advertising ](/help/integrations/analytics/overview.md) - introduceert Analytics voor Advertising, die u toestaat om klik-door en mening-door plaatsinteractie in uw instanties van Analytics te volgen.
+* [&#x200B; integreer Doel met Analytics &#x200B;](https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/3.2-target-analytics.html?lang=nl-NL) - verklaart hoe te opstelling [!DNL Target] rapporterend in Analysis Workspace.
+* [&#x200B; A/B het Overzicht van de Test &#x200B;](https://experienceleague.adobe.com/docs/target/using/activities/abtest/test-ab.html?lang=nl-NL) - beschrijft A/B testactiviteiten, die u met de advertenties van DSP kunt gebruiken.
+* [&#x200B; Ervaringen en aanbiedingen &#x200B;](https://experienceleague.adobe.com/docs/target/using/experiences/experiences.html?lang=nl-NL) - Verklaart [!DNL Target] hulpmiddelen om de inhoud ter plaatse te bepalen waaraan de testgebruikers van DSP worden blootgesteld.
+* [&#x200B; de Signalen, de Sporen, en de Segmenten &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/signal-trait-segment.html?lang=nl-NL) - bepalen enkele hulpmiddelen van Audience Manager die met het mening-door testen van DSP kunnen helpen.
+* [&#x200B; Overzicht van Analytics voor Advertising &#x200B;](/help/integrations/analytics/overview.md) - introduceert Analytics voor Advertising, die u toestaat om klik-door en mening-door plaatsinteractie in uw instanties van Analytics te volgen.
 
 >[!MORELIKETHIS]
 >
->* [ vorm A/B Tests in Adobe Target voor het Onderzoek van Advertising, Sociale, &amp; Advertenties van Commerce ](ab-tests-search.md)
+>* [&#x200B; vorm A/B Tests in Adobe Target voor het Onderzoek van Advertising, Sociale, &amp; Advertenties van Commerce &#x200B;](ab-tests-search.md)

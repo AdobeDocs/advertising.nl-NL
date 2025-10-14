@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # De conversiemetriek wijzigen die beschikbaar is in beheerweergaven en -rapporten
 
-Wanneer Adobe Advertising a [ omzetting ](/help/search-social-commerce/glossary.md#c-d) metrisch voor adverteerders volgt, is het aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en beheersmeningen. Om metrisch van de omzetting zichtbaar te maken, moet u het uitdrukkelijk ter beschikking stellen, en dan naar keuze veranderen de standaardvertoningsnaam, die de naam is die wordt getoond. De enige uitzondering is dat conversies die worden bijgehouden door de universele tags [!DNL Google Ads] , [!DNL Google Analytics] en [!DNL Microsoft Advertising] voor het bijhouden van gebeurtenissen, automatisch beschikbaar en zichtbaar zijn.
+Wanneer Adobe Advertising a [&#x200B; omzetting &#x200B;](/help/search-social-commerce/glossary.md#c-d) metrisch voor adverteerders volgt, is het aanvankelijk uitgesloten van portefeuilledoelstellingen, rapporten, en beheersmeningen. Om metrisch van de omzetting zichtbaar te maken, moet u het uitdrukkelijk ter beschikking stellen, en dan naar keuze veranderen de standaardvertoningsnaam, die de naam is die wordt getoond. De enige uitzondering is dat conversies die worden bijgehouden door de universele tags [!DNL Google Ads] , [!DNL Google Analytics] en [!DNL Microsoft Advertising] voor het bijhouden van gebeurtenissen, automatisch beschikbaar en zichtbaar zijn.
 
 Op dezelfde manier kunt u een omzettingsmetrisch van portefeuilledoelstellingen, rapporten, en beheersmeningen verbergen. Wanneer u omzettings metrisch verbergt die eerder zichtbaar was, wordt het verwijderd uit om het even welke afgeleide metriek die omzettings metrisch bevatten.
 
@@ -26,7 +26,7 @@ Van de lijst van omzettingsmetriek die beschikbaar zijn, kan elke gebruiker met 
 
    * Om naar een specifieke metrische naam of vertoningsnaam te zoeken, klik ![&#128279;](/help/search-social-commerce/assets/search.png " Onderzoek "), ga het woord of het koord op het inputgebied in, en druk dan de **[!DNL Enter]** sleutel.
 
-     U kunt naar koorden zoeken die overal binnen de uitdrukking (zoals de eerste brief of de laatste drie brieven) verschijnen, en de onderzoekstermijnen zijn niet [ case-sensitive ](/help/search-social-commerce/glossary.md#c-d).
+     U kunt naar koorden zoeken die overal binnen de uitdrukking (zoals de eerste brief of de laatste drie brieven) verschijnen, en de onderzoekstermijnen zijn niet [&#x200B; case-sensitive &#x200B;](/help/search-social-commerce/glossary.md#c-d).
 
    * Om naar omzettingsmetriek door hun beschikbaarheid in beheersmeningen en rapporten te zoeken, klik ![&#128279;](/help/search-social-commerce/assets/filter.png " Filter van de Filter "), en selecteer de filter **[!UICONTROL Show in UI and Reports]**.  Selecteer vervolgens **[!UICONTROL Show]** (om de conversiemetriek weer te geven die beschikbaar is om op te nemen in rapporten en beheerweergaven) of **[!UICONTROL Hide]** (om de conversiemetriek weer te geven die niet beschikbaar is in rapporten en beheerweergaven).
 
@@ -38,13 +38,13 @@ Van de lijst van omzettingsmetriek die beschikbaar zijn, kan elke gebruiker met 
 
       1. Schakel het selectievakje naast elke metrische conversie in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar boven de gegevenslijst, klik ![ tonen ](/help/search-social-commerce/assets/show.png " ") om de metriek te tonen of ![Verbergen](/help/search-social-commerce/assets/hide.png "Verbergen") om de metriek te verbergen.
+      1. In de toolbar boven de gegevenslijst, klik ![&#x200B; tonen &#x200B;](/help/search-social-commerce/assets/show.png " ") om de metriek te tonen of ![Verbergen](/help/search-social-commerce/assets/hide.png "Verbergen") om de metriek te verbergen.
 
       1. (Om metriek te verbergen) In het bevestigingsbericht, klik **[!UICONTROL Yes]** om de metriek te verbergen, met inbegrip van het verwijderen van hen uit om het even welke afgeleide metriek die de metriek bevatten.
 
-1. (Facultatief) [ verander de naam die in kolomrubrieken ](conversion-metric-edit-display-name.md) voor om het even welke omzettingsmetriek verschijnt.
+1. (Facultatief) [&#x200B; verander de naam die in kolomrubrieken &#x200B;](conversion-metric-edit-display-name.md) voor om het even welke omzettingsmetriek verschijnt.
 
    De standaardvertoningsnaam voor elke zichtbare omzettingsmetrisch is de metrische naam aangezien het in de teruggewonnen gegevens wordt gespeld.
 
@@ -54,6 +54,6 @@ Van de lijst van omzettingsmetriek die beschikbaar zijn, kan elke gebruiker met 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](conversion-metric-about.md)
->* [ Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd ](conversion-metric-view-tracked.md)
->* [ Verandering de vertoningsnaam voor metrische omzettingen ](conversion-metric-edit-display-name.md)
+>* [&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](conversion-metric-about.md)
+>* [&#x200B; Mening de omzettingsmetriek die voor een adverteerder wordt gevolgd &#x200B;](conversion-metric-view-tracked.md)
+>* [&#x200B; Verandering de vertoningsnaam voor metrische omzettingen &#x200B;](conversion-metric-edit-display-name.md)

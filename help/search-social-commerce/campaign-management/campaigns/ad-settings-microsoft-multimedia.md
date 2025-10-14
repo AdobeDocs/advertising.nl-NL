@@ -22,7 +22,7 @@ Multimedia-advertenties zijn beschikbaar op het zoeknetwerk. In het advertentien
 
 * Ten minste één vierkante (1:1) afbeelding.
 
-Zie de toegelaten aspectraties en de afmetingen voor [ advertenties van verschillende media ](https://help.ads.microsoft.com/#apex/ads/en/60107/0).
+Zie de toegelaten aspectraties en de afmetingen voor [&#x200B; advertenties van verschillende media &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60107/0).
 
 <!-- Instructions -->
 
@@ -52,9 +52,9 @@ Zie de toegelaten aspectraties en de afmetingen voor [ advertenties van verschil
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer advertenties ](ad-about.md)
->* [ beheert advertenties ](ad-manage.md)
->* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages ](ad-settings-microsoft-dsa.md)
->* [[!DNL Microsoft Advertising]  product en montages ](ad-settings-microsoft-product.md)
->* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages ](ad-settings-microsoft-responsive.md)
->* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages ](ad-settings-microsoft-rsa.md)
+>* [&#x200B; Ongeveer advertenties &#x200B;](ad-about.md)
+>* [&#x200B; beheert advertenties &#x200B;](ad-manage.md)
+>* [[!DNL Microsoft Advertising]  uitgevouwen dynamisch onderzoek en montages &#x200B;](ad-settings-microsoft-dsa.md)
+>* [[!DNL Microsoft Advertising]  product en montages &#x200B;](ad-settings-microsoft-product.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijk (publiek) en montages &#x200B;](ad-settings-microsoft-responsive.md)
+>* [[!DNL Microsoft Advertising]  ontvankelijke onderzoek en montages &#x200B;](ad-settings-microsoft-rsa.md)

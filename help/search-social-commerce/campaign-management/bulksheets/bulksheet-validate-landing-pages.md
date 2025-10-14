@@ -50,9 +50,9 @@ Wanneer de taak begint, wordt een nieuwe rij toegevoegd aan [!UICONTROL Bulkshee
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het beheren van campagnegegevens gebruikend bulksbladen ](bulksheet-about.md)
->* [ Schrap geüploade bulksbladen en foutendossiers ](bulksheet-delete.md)
->* [ Post bulksbladen of gecorrigeerde foutendossiers ](bulksheet-post.md)
->* [ Einde een bulksbladbaan lopend ](bulksheet-stop-job.md)
->* [ upload een bulksheet of verbeterd foutendossier ](bulksheet-upload.md)
->* [ de Uitvoer een geproduceerd of geupload bulksbladdossier ](bulksheet-export.md)
+>* [&#x200B; Ongeveer het beheren van campagnegegevens gebruikend bulksbladen &#x200B;](bulksheet-about.md)
+>* [&#x200B; Schrap geüploade bulksbladen en foutendossiers &#x200B;](bulksheet-delete.md)
+>* [&#x200B; Post bulksbladen of gecorrigeerde foutendossiers &#x200B;](bulksheet-post.md)
+>* [&#x200B; Einde een bulksbladbaan lopend &#x200B;](bulksheet-stop-job.md)
+>* [&#x200B; upload een bulksheet of verbeterd foutendossier &#x200B;](bulksheet-upload.md)
+>* [&#x200B; de Uitvoer een geproduceerd of geupload bulksbladdossier &#x200B;](bulksheet-export.md)

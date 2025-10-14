@@ -49,7 +49,7 @@ Elke advertentie kan één advertentietype bevatten (standaardweergave, standaar
 
 * **de omwenteling van de Advertentie:** roteer de creatieve creatieven algoritmisch volgens het gespecificeerde optimalisatiedoel; volgens een gespecificeerde bundelopeenvolging; of volgens relatieve gewichten.
 
-* **het doel van de Optimalisering:** optimaliseer en elementen voor of het beste klik-door tarief of een bestaand [ de douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md)
+* **het doel van de Optimalisering:** optimaliseer en elementen voor of het beste klik-door tarief of een bestaand [&#x200B; de douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md)
 
   [!DNL Creative] optimaliseert en ervaart door de indruk te wekken dat de best presterende elementen in de ervaring worden gedeeld. Voor ervaringen die specifiek op doelgroepen zijn gericht, kunnen advertenties worden geoptimaliseerd op basis van de prestaties van de afzonderlijke advertentie-elementen voor de doeldoelgroepen. Voor ervaringen zonder specifieke doelwitten voor het publiek worden de advertentie-elementen uitsluitend geoptimaliseerd op basis van de prestaties van de afzonderlijke advertentie-elementen.
 
@@ -57,7 +57,7 @@ U kunt bijvoorbeeld plannen dat Creative 1 gedurende de eerste twee weken wordt 
 
 ## Ervaringen implementeren en beheren
 
-Zodra u een levende ervaring (met alle vereiste ad elementen) creeert, kunt u [ een JavaScript of iframe markering voor de volledige ervaring ](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden.
+Zodra u een levende ervaring (met alle vereiste ad elementen) creeert, kunt u [&#x200B; een JavaScript of iframe markering voor de volledige ervaring &#x200B;](experience-tag-export.md) produceren. U kunt de ervaringstag als een advertentie uploaden naar een campagne in Adobe Advertising DSP of deze als een advertentie implementeren in een DSP van derden.
 
 >[!NOTE]
 >
@@ -69,11 +69,11 @@ De volgende prestatiegegevens zijn beschikbaar:
 
 * Wanneer u de optie [!UICONTROL Metrics] inschakelt in de weergave [!UICONTROL Creative] > [!UICONTROL Experiences] , geeft elke ervaringskaart of rij het aantal indrukken aan en klikt u op de ervaring die u hebt ontvangen.
 
-  ![ optie van Metriek de optie van Metriek ](/help/creative/assets/metrics-option.png " Metriek ")
+  ![&#x200B; optie van Metriek de optie van Metriek &#x200B;](/help/creative/assets/metrics-option.png " Metriek ")
 
-* U kunt [ gedetailleerde prestatiesgegevens voor om het even welke ervaring ](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
+* U kunt [&#x200B; gedetailleerde prestatiesgegevens voor om het even welke ervaring &#x200B;](experience-performance-details.md) van de [!UICONTROL Experiences] mening bekijken.
 
-* Om prestaties over uw ervaringen te controleren, creeer het Rapport van Creative van de a [ Douane ](/help/creative/report-custom-creative.md).
+* Om prestaties over uw ervaringen te controleren, creeer het Rapport van Creative van de a [&#x200B; Douane &#x200B;](/help/creative/report-custom-creative.md).
 
 ## Ervaar statussen {#experience-statuses}
 
@@ -102,21 +102,21 @@ Hier volgen enkele belangrijke acties. Voor een volledige lijst, zie de inhoudst
 
 * [Gegevens downloaden in de weergave](experience-download-view.md)
 
-* [ creeer ](/help/creative/experiences/experience-create-targeting.md) en [ geef ](/help/creative/experiences/experience-edit-targeting.md) een ervaring met het richten uit
+* [&#x200B; creeer &#x200B;](/help/creative/experiences/experience-create-targeting.md) en [&#x200B; geef &#x200B;](/help/creative/experiences/experience-edit-targeting.md) een ervaring met het richten uit
 
-* [ creeer ](/help/creative/experiences/experience-create-no-targeting.md), [ geef ](/help/creative/experiences/experience-edit-no-targeting.md) uit, en [ creeer manueel een ad markering ](/help/creative/experiences/experience-tag-create-manually.md) voor een ervaring zonder zich het richten
+* [&#x200B; creeer &#x200B;](/help/creative/experiences/experience-create-no-targeting.md), [&#x200B; geef &#x200B;](/help/creative/experiences/experience-edit-no-targeting.md) uit, en [&#x200B; creeer manueel een ad markering &#x200B;](/help/creative/experiences/experience-tag-create-manually.md) voor een ervaring zonder zich het richten
 
-* [ Kloon ](experience-clone.md) een ervaring
+* [&#x200B; Kloon &#x200B;](experience-clone.md) een ervaring
 
-* [ Voorproef ](experience-preview.md) een ervaring
+* [&#x200B; Voorproef &#x200B;](experience-preview.md) een ervaring
 
-* [ Deel een demo URL ](experience-share-demo-url.md) voor een ervaring
+* [&#x200B; Deel een demo URL &#x200B;](experience-share-demo-url.md) voor een ervaring
 
-* [ de uitvoer ad markeringen voor een ervaring ](experience-tag-export.md), met inbegrip van naar keuze het uploaden van ad markeringen rechtstreeks aan een campagne van Advertising DSP
+* [&#x200B; de uitvoer ad markeringen voor een ervaring &#x200B;](experience-tag-export.md), met inbegrip van naar keuze het uploaden van ad markeringen rechtstreeks aan een campagne van Advertising DSP
 
-* [ Schrap ](experience-delete.md) een ervaring
+* [&#x200B; Schrap &#x200B;](experience-delete.md) een ervaring
 
 >[!MORELIKETHIS]
 >
->* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
->* [ creeer een ervaring zonder zich ](experience-create-no-targeting.md) te richten
+>* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
+>* [&#x200B; creeer een ervaring zonder zich &#x200B;](experience-create-no-targeting.md) te richten

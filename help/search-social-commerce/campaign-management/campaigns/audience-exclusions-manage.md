@@ -28,7 +28,7 @@ U kunt ook publieksuitsluitingen verwijderen.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Exclusions]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -48,9 +48,9 @@ U kunt ook publieksuitsluitingen verwijderen.
 
       1. Voer een van de volgende handelingen uit:
 
-         * Specificeer elke uitsluiting van de advertentiegroep door de aangrenzende cirkel te klikken zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+         * Specificeer elke uitsluiting van de advertentiegroep door de aangrenzende cirkel te klikken zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
-         * Specificeer elke campagneuitsluiting door de aangrenzende cirkel te klikken zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+         * Specificeer elke campagneuitsluiting door de aangrenzende cirkel te klikken zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
 1. Klik op **[!UICONTROL Post]**.
 
@@ -62,13 +62,13 @@ U kunt ook publieksuitsluitingen verwijderen.
 
 1. Schakel het selectievakje in naast elke publieksuitsluiting waarvan u de status wilt wijzigen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-1. In de toolbar, klik ![ Meer acties ](/help/search-social-commerce/assets/more.png " Meer acties ") en selecteer **[!UICONTROL Delete]**.
+1. In de toolbar, klik ![&#x200B; Meer acties &#x200B;](/help/search-social-commerce/assets/more.png " Meer acties ") en selecteer **[!UICONTROL Delete]**.
 
 1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publiek ](audience-about.md)
->* [ beheer publieksdoelstellingen voor campagnes en ad groepen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)
+>* [&#x200B; Ongeveer publiek &#x200B;](audience-about.md)
+>* [&#x200B; beheer publieksdoelstellingen voor campagnes en ad groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md)

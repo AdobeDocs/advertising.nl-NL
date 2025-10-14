@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Aanvullende inventarissynchronisatie inschakelen
 
-U kunt synchronisatie in- en uitschakelen van [!DNL Google Ads] [!DNL YouTube] campagnes en [!DNL Google Ads] en [!DNL Microsoft Advertising] Smart shopping campagnes waarvoor minder ondersteuning beschikbaar is dan andere soorten campagnes. Voor meer informatie over de functionaliteit beschikbaar voor deze campagnetypes, zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
+U kunt synchronisatie in- en uitschakelen van [!DNL Google Ads] [!DNL YouTube] campagnes en [!DNL Google Ads] en [!DNL Microsoft Advertising] Smart shopping campagnes waarvoor minder ondersteuning beschikbaar is dan andere soorten campagnes. Voor meer informatie over de functionaliteit beschikbaar voor deze campagnetypes, zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
 
 >[!NOTE]
 >
@@ -32,4 +32,4 @@ Deze soorten campagnes worden het zelfde als andere types van campagnes gefactur
 
 >[!MORELIKETHIS]
 >
->* [ Ondersteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)
+>* [&#x200B; Ondersteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)

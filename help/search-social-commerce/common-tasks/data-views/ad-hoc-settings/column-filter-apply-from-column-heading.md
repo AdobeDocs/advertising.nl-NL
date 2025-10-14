@@ -16,15 +16,15 @@ ht-degree: 0%
 
 <!-- Doesn't include instructions for legacy Portfolios or Reports views -->
 
-U kunt zoveel filters toepassen als u wilt in een kolom, één voor één.<!-- True only for entity names, I think: All filters are joined using the AND operator. --> om meer dan één filter tegelijkertijd toe te voegen gebruikend alle beschikbare metriek, zie &quot;[ gegevensfilters van de toolbar ](column-filter-apply-from-toolbar.md) toepassen.&quot;
+U kunt zoveel filters toepassen als u wilt in een kolom, één voor één.<!-- True only for entity names, I think: All filters are joined using the AND operator. --> om meer dan één filter tegelijkertijd toe te voegen gebruikend alle beschikbare metriek, zie &quot;[&#x200B; gegevensfilters van de toolbar &#x200B;](column-filter-apply-from-toolbar.md) toepassen.&quot;
 
-1. Op de rechterkant van de kolomrubriek, klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl "), en klik dan **[!UICONTROL Add Filter]**.
+1. Op de rechterkant van de kolomrubriek, klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-dropdown.png " neer pijl "), en klik dan **[!UICONTROL Add Filter]**.
 
 1. Definieer het filter op de kolom:
 
-   * (Filters zonder inputgebieden) Selecteer de controledozen naast elke te omvatten waarde, en klik dan ![ toevoegen van de Filter van de 0&rbrace; Update ](/help/search-social-commerce/assets/select.png ".")
+   * (Filters zonder inputgebieden) Selecteer de controledozen naast elke te omvatten waarde, en klik dan ![&#x200B; toevoegen van de Filter van de 0&rbrace; Update &#x200B;](/help/search-social-commerce/assets/select.png ".")
 
-   * (Filters met inputgebieden) Selecteer een exploitant van het tweede menu, ga de toepasselijke waarde in, en klik dan ![ Add van de Filter van de Update ](/help/search-social-commerce/assets/select.png " ").
+   * (Filters met inputgebieden) Selecteer een exploitant van het tweede menu, ga de toepasselijke waarde in, en klik dan ![&#x200B; Add van de Filter van de Update &#x200B;](/help/search-social-commerce/assets/select.png " ").
 
      Als u bijvoorbeeld de kolom &quot;[!UICONTROL Clicks]&quot; hebt geselecteerd en alleen rijen met meer dan 100 klikken wilt retourneren, selecteert u *[!UICONTROL greater than]*&quot; en voert u `100` in het invoerveld Afhankelijk van het gegevenstype in, kunnen de beschikbare operatoren *[!UICONTROL greater than]*, *[!UICONTROL less than]*, *[!UICONTROL equals]*, *[!UICONTROL contains]*, *[!UICONTROL doesn't contain]*, *[!UICONTROL starts with]*, *[!UICONTROL ends with]*, *[!UICONTROL no value]*, *[!UICONTROL has value]*,  *[!UICONTROL before]* , *[!UICONTROL after]* of *[!UICONTROL no date].*
 
@@ -35,6 +35,6 @@ U kunt zoveel filters toepassen als u wilt in een kolom, één voor één.<!-- T
 
 >[!MORELIKETHIS]
 >
->* [ pas gegevensfilters van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
->* [ geef kolomfilters ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
+>* [&#x200B; pas gegevensfilters van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) toe
+>* [&#x200B; geef kolomfilters &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-edit.md) uit
 >* [ verwijder een kolomfilter ] (/help/onderzoek-sociale handel/gemeenschappelijk-taken/gegeven-meningen/ad-hoc-montages/

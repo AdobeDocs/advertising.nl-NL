@@ -11,9 +11,9 @@ ht-degree: 0%
 
 De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] - en Customer Journey Analytics-gegevensclassificatie en -opname van advertentiemetriek (zoals indrukken, klikken en kosten) vanuit Adobe Advertising.
 
-Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar afmeting (identiteitskaart van AMO).
+Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar afmeting (identiteitskaart van AMO).
 
-Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [ uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] ](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
+Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [&#x200B; uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 De AMO-id wordt ook wel de `s_kwcid` genoemd, die soms wordt uitgesproken als &quot;[!DNL squid]&quot;.
 
@@ -82,7 +82,7 @@ waarbij:
 >
 >* Voor dynamische zoekopdrachten wordt in {keyword} het automatische doel ingevuld.
 >* Wanneer u reeksspatiëring genereert voor [!DNL Google] winkeladvertenties, wordt een product-id-parameter `{adwords_producttargetid}` ingevoegd vóór de trefwoordparameter. De parameter voor de product-id wordt niet weergegeven in de trackingparameters op accountniveau en op campagneniveau van [!DNL Google Ads] .
->* Om de recentste het volgen van identiteitskaart van AMO code te gebruiken, zie &quot;[ Update de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot; <!-- Update terminology there too. -->
+>* Om de recentste het volgen van identiteitskaart van AMO code te gebruiken, zie &quot;[&#x200B; Update de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot; <!-- Update terminology there too. -->
 
 <!--
 

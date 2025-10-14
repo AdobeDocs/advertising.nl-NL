@@ -28,11 +28,11 @@ Voor [!DNL Microsoft Advertising] -accounts kan het bestand e-mailadressen bevat
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling.
 
-   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ voorbereidend de lijsten van de klantengelijke ](https://help.ads.microsoft.com/#apex/ads/en/56921). U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
+   Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[&#x200B; Formatterende richtlijnen voor het uploaden van gehakte gegevens &#x200B;](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [&#x200B; voorbereidend de lijsten van de klantengelijke &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/56921). U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
 1. Selecteer het advertentienetwerk en de accountnaam en klik op **[!UICONTROL Continue]** .
 
@@ -46,7 +46,7 @@ Voor [!DNL Microsoft Advertising] -accounts kan het bestand e-mailadressen bevat
 
       1. Selecteer [!UICONTROL Data Upload Type]: *[!UICONTROL Emails, Phones, and/or Mailing Addresses]*, *[!UICONTROL User IDs]* of *[!UICONTROL Mobile Device IDs]* .
 
-         De optie van identiteitskaarts van de Gebruiker is beschikbaar slechts aan [!DNL Google Ads] adverteerders in de V.S. die binnen voor [ gebruikersID segmenten ](https://support.google.com/google-ads/answer/9199250) worden gekozen
+         De optie van identiteitskaarts van de Gebruiker is beschikbaar slechts aan [!DNL Google Ads] adverteerders in de V.S. die binnen voor [&#x200B; gebruikersID segmenten &#x200B;](https://support.google.com/google-ads/answer/9199250) worden gekozen
 
       1. (Alleen lijsten met mobiele apparaten) Selecteer **[!UICONTROL OS Type]** (*[!UICONTROL Android™]* of *[!UICONTROL iOS]*) en voer de **[!UICONTROL App ID]** in.
 
@@ -81,7 +81,7 @@ Voor [!DNL Microsoft Advertising] -accounts kan het bestand e-mailadressen bevat
 >[!NOTE]
 >
 >* Het ad-netwerk kan 24 uur duren voordat het bestand is verwerkt.
->* Zie [[!DNL Google Ads]  documentatie op hoe de klantengelijken werken en beperkingen ](https://support.google.com/displayvideo/answer/9539301) aanpassen.
+>* Zie [[!DNL Google Ads]  documentatie op hoe de klantengelijken werken en beperkingen &#x200B;](https://support.google.com/displayvideo/answer/9539301) aanpassen.
 
 ## Een publiek van de Aanpassing van de Klant uitgeven die een Lijst van de Gegevens van de Klant gebruikt
 
@@ -91,13 +91,13 @@ De gegevens moeten van hetzelfde type zijn als de oorspronkelijke lijst met klan
 
 1. Genereer een bestand met de klantgegevens in de vereiste indeling voor het bestaande gegevenstype.
 
-Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[ Formatterende richtlijnen voor het uploaden van gehakte gegevens ](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ het voorbereiden van de lijsten van de klantengelijke ] (https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
+Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algoritme worden gebruikt. <!-- Our UI says all, but GGL docs say don't hash user IDs and device IDs. --> voor [!DNL Google Ads] publiek, zie de [!DNL Google Ads] documentatie over &quot;[&#x200B; Formatterende richtlijnen voor het uploaden van gehakte gegevens &#x200B;](https://support.google.com/google-ads/answer/7476159)&quot;voor een lijst van toegestane gebieden en vereisten van de contactinformatie. Voor [!DNL Microsoft Advertising] publiek, zie de [!DNL Microsoft Advertising] documentatie over [ het voorbereiden van de lijsten van de klantengelijke ] (https://help.ads.microsoft.com/#apex/ads/en/56921. U kunt desgewenst een [!DNL Microsoft Excel] -sjabloon downloaden voor contactgegevens.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** . Klik in de submenu&#39;s op **[!UICONTROL Live]> [!UICONTROL Audiences] >[!UICONTROL Library]** .
 
 1. Schakel het selectievakje naast het publiek dat u wilt bewerken in.
 
-1. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png) uit.
+1. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png) uit.
 
 1. Selecteer de actie: *[!UICONTROL Add]* (om de geüploade gegevens toe te voegen aan de bestaande gegevens, tenzij deze al bestaan), *[!UICONTROL Delete]* (om de geüploade gegevens te verwijderen uit de bestaande gegevens, als deze al bestaan) of *[!UICONTROL Replace]* (om alle bestaande gegevens te verwijderen en te vervangen door de geüploade gegevens).
 
@@ -117,7 +117,7 @@ Voor- en achternamen, e-mailadressen en telefoonnummers moet het SHA-256-algorit
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publiek ](audience-about.md)
->* [ creeer  [!DNL Google Ads]  publiek van de klantenovereenkomst van  [!DNL Adobe]  publiek ](google-audience-from-adobe-audience.md)
->* [ creeer a [!DNL Google Ads]  publiek van de klantengelijke van een e-maillijst van Adobe Campaign ](google-audience-from-campaign-email-list.md)
->* [ beheer dynamische remarketing publiek ](audience-dynamic-remarketing-manage.md)
+>* [&#x200B; Ongeveer publiek &#x200B;](audience-about.md)
+>* [&#x200B; creeer  [!DNL Google Ads]  publiek van de klantenovereenkomst van  [!DNL Adobe]  publiek &#x200B;](google-audience-from-adobe-audience.md)
+>* [&#x200B; creeer a [!DNL Google Ads]  publiek van de klantengelijke van een e-maillijst van Adobe Campaign &#x200B;](google-audience-from-campaign-email-list.md)
+>* [&#x200B; beheer dynamische remarketing publiek &#x200B;](audience-dynamic-remarketing-manage.md)
