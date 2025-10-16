@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  campagnes.
 exl-id: 19973286-b7c8-496e-8b87-767cda6e3542
 feature: Search Campaign Management
-source-git-commit: cbe18b75d49ca53460883931ecea21aa6c2d8326
+source-git-commit: b321c807e3ab470068ad557ed428484d58e95ed4
 workflow-type: tm+mt
-source-wordcount: '2472'
+source-wordcount: '2505'
 ht-degree: 0%
 
 ---
@@ -56,8 +56,11 @@ ht-degree: 0%
 
 {{$include /help/_includes/end-date.md}}
 
-**[!UICONTROL Search Partners]:** (Campagnes die slechts het onderzoeksnetwerk, met inbegrip van het winkelen campagnes richten) toont
-uw advertenties op de netwerken van de onderzoekspartner van het advertentienetwerk. Deze optie is standaard ingesteld op *[!UICONTROL Off]* .
+**[!UICONTROL Search Partners]:** (Campagnes die slechts het onderzoeksnetwerk, met inbegrip van het winkelen campagnes richten) toont uw advertenties op de netwerken van de onderzoekspartner van het advertentienetwerk. Deze optie is standaard ingesteld op *[!UICONTROL Off]* .
+
+**[!UICONTROL AI Max Enabled]:** (Campagnes die slechts het onderzoeksnetwerk richten; read-only) Of de [[!UICONTROL AI Max] eigenschap ](https://support.google.com/google-ads/answer/15910366) wordt toegelaten: *[!UICONTROL On]* of *[!UICONTROL Off]*.
+
+**[!UICONTROL AI Max Bundling]:** (Campagnes die alleen op het zoeknetwerk gericht zijn; campagnes met de AI Max-functie ingeschakeld; alleen-lezen) Of bundeling vereist is: *[!UICONTROL Not Required]*, *[!UICONTROL Required]*, *[!UICONTROL Unknown]* of *[!UICONTROL Unspecified]* .
 
 ## [!UICONTROL Budget Options]
 
@@ -71,11 +74,11 @@ uw advertenties op de netwerken van de onderzoekspartner van het advertentienetw
 
 **[!UICONTROL Bid strategy]:** De biedstrategie voor de campagne:
 
-* *[!UICONTROL Enhanced CPC]:* Afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [&#x200B; verbeterde CPC biedingsstrategieën &#x200B;](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
+* *[!UICONTROL Enhanced CPC]:* Afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [ verbeterde CPC biedingsstrategieën ](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
 
 * *[!UICONTROL Manual CPC]* (standaard): (Niet beschikbaar voor maximale prestatiecampagnes) gebruikt het CPC-model (cost per click). U kunt desgewenst toestaan het advertentienetwerk om biedingen voor de campagne te veranderen:
 
-   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;, die is afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [&#x200B; verbeterde CPC biedingsstrategieën &#x200B;](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
+   * **[!UICONTROL Enable Enhanced CPC]** (standaard uitgeschakeld): dit is hetzelfde als het gebruik van de optie &quot;[!UICONTROL Enhanced CPC]&quot;, die is afgekeurd. [!DNL Google Ads] begon automatisch veranderend bestaande [ verbeterde CPC biedingsstrategieën ](https://support.google.com/google-ads/answer/2464964) aan hand CPC op 15 Maart 2025.
 
 * *[!UICONTROL Maximize Clicks]:* (Onderzoek, vertoning, en het winkelen campagnes) het advertentienetwerk — niet Onderzoek, Sociale, &amp; Commerce — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) in om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Voorzichtigheid:** wanneer u een campagne met deze strategie aan een portefeuille toevoegt, worden de biedingen gedreven door klikgewicht, niet door het portefeuilledoel.
 
@@ -112,7 +115,7 @@ de producten van de campagne worden verkocht . Omdat de producten met doellanden
 
 **Uiteinde:** als u dit het plaatsen gebruikt, sluit geen lokale advertenties in het [!UICONTROL Inventory Filter] plaatsen uit.
 
-**Nota:** Lokale inventarisadvertenties vereisen twee extra voer aan [!DNL Google Merchant Center] - met uw lokale productgegevens en een andere met uw lokale productinventaris. Zie de [!DNL Google Ads] documentatie voor meer informatie over [&#x200B; lokale het winkelen advertenties &#x200B;](https://www.google.com/retail/local-inventory-ads/).
+**Nota:** Lokale inventarisadvertenties vereisen twee extra voer aan [!DNL Google Merchant Center] - met uw lokale productgegevens en een andere met uw lokale productinventaris. Zie de [!DNL Google Ads] documentatie voor meer informatie over [ lokale het winkelen advertenties ](https://www.google.com/retail/local-inventory-ads/).
 
 <!-- **[!UICONTROL Inventory Filter]:** -->
 
@@ -130,19 +133,19 @@ de producten van de campagne worden verkocht . Omdat de producten met doellanden
 
 * Specifieke locaties als doel instellen of uitsluiten:
 
-   * (Landen, staten, metropolitane gebieden, of steden) klik **[!UICONTROL Location Target]** (![&#x200B; Doel van het Doel van de Plaats &#x200B;](/help/search-social-commerce/assets/location-target.png " het Doel van de Plaats ")) en bepaal de plaats om van de plaatsen te omvatten en uit te sluiten:
+   * (Landen, staten, metropolitane gebieden, of steden) klik **[!UICONTROL Location Target]** (![ Doel van het Doel van de Plaats ](/help/search-social-commerce/assets/location-target.png " het Doel van de Plaats ")) en bepaal de plaats om van de plaatsen te omvatten en uit te sluiten:
 
-      * Om een plaats en zijn kindplaatsen te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![&#x200B; omvat &#x200B;](/help/search-social-commerce/assets/include.png " ")) verschijnt.
+      * Om een plaats en zijn kindplaatsen te omvatten, klik eens de aangrenzende cirkel zodat een blauw controleteken (![ omvat ](/help/search-social-commerce/assets/include.png " ")) verschijnt.
 
-      * Om een plaats uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![&#x200B; sluit &#x200B;](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
+      * Om een plaats uit te sluiten, klik tweemaal de aangrenzende cirkel zodat een rood controleteken (![ sluit ](/help/search-social-commerce/assets/exclude.png " uit ")) verschijnt.
 
       * Als u een locatie wilt uitbreiden naar de subcomponenten (zoals de staten, metropolitane gebieden of steden in de VS), klikt u op de naam van de locatie.
 
       * Als u naar een locatie wilt zoeken, typt of plakt u ten minste de eerste drie tekens van de locatie in het invoerveld. Klik in de zoekresultaten op **[!UICONTROL Include]** naast een locatie die u wilt opnemen of op **[!UICONTROL Exclude]** naast een locatie die u wilt uitsluiten.
 
-   * (De plaatsen dichtbij een adres; omvatten slechts doelstellingen) klikken **[!UICONTROL Radius Target]** (![&#x200B; het Doel van het Straal &#x200B;](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klikken dan **[!UICONTROL Address]**. Voer het adres en de straal in mijl of kilometers rond het te richten adres in, en klik vervolgens op **[!UICONTROL Add]**.
+   * (De plaatsen dichtbij een adres; omvatten slechts doelstellingen) klikken **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klikken dan **[!UICONTROL Address]**. Voer het adres en de straal in mijl of kilometers rond het te richten adres in, en klik vervolgens op **[!UICONTROL Add]**.
 
-   * (Plaatsen dichtbij geografische coördinaten; omvat slechts doelstellingen) klik **[!UICONTROL Radius Target]** (![&#x200B; het Doel van het Straal &#x200B;](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klik dan **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik op **[!UICONTROL Add]** .
+   * (Plaatsen dichtbij geografische coördinaten; omvat slechts doelstellingen) klik **[!UICONTROL Radius Target]** (![ het Doel van het Straal ](/help/search-social-commerce/assets/radius-target.png " van het Doel van de Straal ")), en klik dan **[!UICONTROL Coordinate]**. Voer de breedte en lengte en de straal in mijl of kilometers rond de te richten locatie in en klik op **[!UICONTROL Add]** .
 
 * (Voer een waarde voor de bodaanpassing in voor een opgenomen doellocatie.)
 
@@ -201,7 +204,7 @@ per land. Als u niets selecteert, worden alle doelgroepen gebruikt.
 
 * *[!UICONTROL Bid higher for new customers than for existing customers]*
 
-  **Nota:** om dit het plaatsen te gebruiken, moet u het nieuwe doel van de klantenverwerving voor de [!DNL Google Ads] rekening of, indien van toepassing, voor de managerrekening eerst activeren. Het doel bepaalt de in aanmerking komende bestaande klantenlijsten en de extra omzettingswaarde voor nieuwe klanten in de omzettingsmontages. Zie Stappen 1-2 in de [!DNL Google Ads] hulp &quot;[&#x200B; activeert het nieuwe doel van de klantenverwerving &#x200B;](https://support.google.com/google-ads/answer/14007601).&quot;
+  **Nota:** om dit het plaatsen te gebruiken, moet u het nieuwe doel van de klantenverwerving voor de [!DNL Google Ads] rekening of, indien van toepassing, voor de managerrekening eerst activeren. Het doel bepaalt de in aanmerking komende bestaande klantenlijsten en de extra omzettingswaarde voor nieuwe klanten in de omzettingsmontages. Zie Stappen 1-2 in de [!DNL Google Ads] hulp &quot;[ activeert het nieuwe doel van de klantenverwerving ](https://support.google.com/google-ads/answer/14007601).&quot;
 
 * *[!UICONTROL Only bid for new customers]*
 
@@ -261,7 +264,7 @@ per land. Als u niets selecteert, worden alle doelgroepen gebruikt.
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep. <!-- For campaigns created within Search, Social, & Commerce, final URL expansion is automatically enabled for the campaign, and Google Ads replaces this value with a more relevant landing page based on the user's search query and intent, and also customizes the headline based on the landing page content. You can disable final URL expansion, or exclude specific URLs from expansion, from within the [!DNL Google Ads] editor. -->
 
-**[!UICONTROL Images]:** Tot 15 afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads]  beeldspecificaties &#x200B;](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Images]:** Tot 15 afbeeldingen voor de advertentie, waaronder de volgende formaten: 1) ten minste drie vierkante afbeeldingen, 2) ten minste drie liggende afbeeldingen en 3) ten minste één staande afbeelding. Zie de [[!DNL Google Ads]  beeldspecificaties ](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -283,7 +286,7 @@ per land. Als u niets selecteert, worden alle doelgroepen gebruikt.
 
 * Als u afbeeldingen in uw [!UICONTROL Asset Library] wilt selecteren, klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** minimaal één vierkant (1:1) logo en één liggend (4:1) logo. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads]  logospecificaties &#x200B;](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Logos]:** minstens één vierkant (1 :1) embleem en één landschaps (4 :1) embleem. U kunt maximaal vijf van elke grootte opnemen. Zie de [[!DNL Google Ads]  logospecificaties ](https://support.google.com/google-ads/answer/10724492?hl=en&ref_topic=10631992#zippy=,audience-signal-inputs,video-specifications,image-specifications). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -354,26 +357,26 @@ U kunt tekst invoeren of elementen selecteren in uw [!UICONTROL Asset Library], 
 **[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Google Ads] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Google Ads] computerleermodellen gebruiken het publiek om vergelijkbare websurfers te vinden die u als doel wilt gebruiken en kunnen ook advertenties aan het publiek tonen die niet als signalen worden opgegeven om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
->De signalen van het publiek zijn verschillend van [&#x200B; campagne-niveau en ad groep-vlakke publieksdoelstellingen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>De signalen van het publiek zijn verschillend van [ campagne-niveau en ad groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 **[!UICONTROL Primary Status]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Waarom de elementengroep op volledige capaciteit wordt of wordt gebruikt. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.*<!-- GGL also has a Primary Status field for campaigns; if we ever sync that, then we'll need to distinguish between them. -->
 
-**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*&rbrace;
+**[!UICONTROL Primary Status Reason]:** (Alleen-lezen veld voor bestaande elementgroepen in maximale prestatiecampagnes) Aanvullende informatie over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*}
 
 ## [!UICONTROL Conversion Goals]
 
 **[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u ervoor kiest om omzettingsdoelstellingen voor de campagne te specificeren, dan uitgezochte standaarddoelstellingen en/of creeer een douanedoel voor de campagne.
 
-De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de bestaande doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [&#x200B; synchroniseert manueel de gegevens van het advertentienetwerk &#x200B;](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+De doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de bestaande doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [ synchroniseert manueel de gegevens van het advertentienetwerk ](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
-Om een doel van de douaneomzetting tot stand te brengen, klik **[!UICONTROL + Add custom goal]**, ga de naam van het douanedoel in, selecteer de [&#x200B; omzettingsacties &#x200B;](https://support.google.com/google-ads/answer/6032150) om in het douanedoel te omvatten, en klik dan **[!UICONTROL Save]**. **Nota:** Elke campagne kan slechts één douanedoel hebben.
+Om een doel van de douaneomzetting tot stand te brengen, klik **[!UICONTROL + Add custom goal]**, ga de naam van het douanedoel in, selecteer de [ omzettingsacties ](https://support.google.com/google-ads/answer/6032150) om in het douanedoel te omvatten, en klik dan **[!UICONTROL Save]**. **Nota:** Elke campagne kan slechts één douanedoel hebben.
 
 >[!TIP]
 >
 >Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
->Nochtans, voor campagnes in hybride portefeuilles waarvoor u [&#x200B; doelstellingen aan het advertentienetwerk &#x200B;](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsactie voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die [!DNL Google]-gevolgde omzettingen omvatten omdat de netwerk-sporen zijn Niet geüpload naar het advertentienetwerk met het doel.
+>Nochtans, voor campagnes in hybride portefeuilles waarvoor u [ doelstellingen aan het advertentienetwerk ](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsactie voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die [!DNL Google]-gevolgde omzettingen omvatten omdat de netwerk-sporen zijn Niet geüpload naar het advertentienetwerk met het doel.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert campagnes &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)

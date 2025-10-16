@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] ad-groepinstellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  en groepen.
 exl-id: def75630-19b9-4676-ad34-5d9041cc3680
 feature: Search Campaign Management
-source-git-commit: fb38bf6afa181b4560742d3649db68c8aef0e619
+source-git-commit: 345c2af5363ca10412f3809700e281af5b06897f
 workflow-type: tm+mt
-source-wordcount: '419'
+source-wordcount: '452'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,8 @@ Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTR
 >* Als je op trefwoord biedt, maak je trackingsjablonen op trefwoordniveau. Als je op plaatsing biedt, maak je ook trackingsjablonen op plaatsingsniveau. Voor alle andere dimensies maakt u volgsjablonen op advertentieniveau.
 >* Wanneer u op leeftijd, geslacht, interesse en lijst of verticaal biedt voor campagnes in portfolio&#39;s, optimaliseert de optimalisatiefunctie de biedingen voor de dimensie niet. Bovendien wordt alle toewijzing toegepast op de advertentiegroep.
 >* Advertenties op het onderzoeksnetwerk gebruiken altijd sleutelwoordbiedingen.
+
+**[!UICONTROL AI Max Search Term Matching]:** (Campagnes die het onderzoeksnetwerk richten en waarvoor de [ AI Max eigenschap ](https://support.google.com/google-ads/answer/15910366) en de campagne-vlakke gelijke eigenschap van de onderzoeksterm wordt toegelaten; read-only) of de ad groep-vlakke zoekterm aanpassing wordt toegelaten: *[!UICONTROL Disabled]* of *[!UICONTROL Enabled]*.
 
 ## [!UICONTROL Budget Options]
 
@@ -88,4 +90,4 @@ Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTR
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheer en groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
