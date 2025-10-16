@@ -42,7 +42,7 @@ Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTR
 >* Wanneer u op leeftijd, geslacht, interesse en lijst of verticaal biedt voor campagnes in portfolio&#39;s, optimaliseert de optimalisatiefunctie de biedingen voor de dimensie niet. Bovendien wordt alle toewijzing toegepast op de advertentiegroep.
 >* Advertenties op het onderzoeksnetwerk gebruiken altijd sleutelwoordbiedingen.
 
-**[!UICONTROL AI Max Search Term Matching]:** (Campagnes die het onderzoeksnetwerk richten en waarvoor de [ AI Max eigenschap ](https://support.google.com/google-ads/answer/15910366) en de campagne-vlakke gelijke eigenschap van de onderzoeksterm wordt toegelaten; read-only) of de ad groep-vlakke zoekterm aanpassing wordt toegelaten: *[!UICONTROL Disabled]* of *[!UICONTROL Enabled]*.
+**[!UICONTROL AI Max Search Term Matching]:** (Campagnes die het onderzoeksnetwerk richten en waarvoor de [&#x200B; AI Max eigenschap &#x200B;](https://support.google.com/google-ads/answer/15910366) en de campagne-vlakke gelijke eigenschap van de onderzoeksterm wordt toegelaten; read-only) of de ad groep-vlakke zoekterm aanpassing wordt toegelaten: *[!UICONTROL Disabled]* of *[!UICONTROL Enabled]*.
 
 ## [!UICONTROL Budget Options]
 
@@ -90,4 +90,4 @@ Als de campagne gebruikmaakt van een strategie voor slim bieden (zoals [!UICONTR
 
 >[!MORELIKETHIS]
 >
->* [ beheer en groepen ](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
+>* [&#x200B; beheer en groepen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/ad-group-manage.md)
