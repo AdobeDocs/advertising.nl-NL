@@ -16,15 +16,15 @@ U kunt de online Help openen vanuit elke pagina in de gebruikersinterface. Neem 
 
 ## Online Help openen
 
-* Om een beschrijving van een termijn met een aangrenzend hulppictogram (![ het pictogram van de Hulp ](/help/search-social-commerce/assets/help-field.png " te bekijken Hulp ")), uw curseur over het hulppictogram te houden tot u wordt gebeëindigd, of binnen de hulp pop-up te klikken om door de inhoud te scrollen.
+* Om een beschrijving van een termijn met een aangrenzend hulppictogram (![&#x200B; het pictogram van de Hulp &#x200B;](/help/search-social-commerce/assets/help-field.png " te bekijken Hulp ")), uw curseur over het hulppictogram te houden tot u wordt gebeëindigd, of binnen de hulp pop-up te klikken om door de inhoud te scrollen.
 
   Om verbindingen binnen een hulponderwerp te openen, kunt u uw browser montages moeten vormen om pop-ups van de plaats van het Onderzoek, Sociale, &amp; Commerce toe te staan u gebruikt (zoals https://enterprise-na.efrontier.com voor Noord-Amerikaanse gebruikers of https://enterprise-intl.efrontier.com voor alle andere gebruikers).
 
 * Als u volledige Help-sets wilt openen waarin wordt uitgelegd hoe u alle functies kunt gebruiken, klikt u op de volgende koppelingen boven aan elke pagina:
 
-   * ![ Hulp van 0} {Hulp ](/help/search-social-commerce/assets/help-main-menu.png " > ") Onderzoek, Sociale, &amp; Hulp van Commerce **.**
+   * ![&#x200B; Hulp van 0&rbrace; &lbrace;Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " > ") Onderzoek, Sociale, &amp; Hulp van Commerce **.**
 
-   * ![ Hulp van 0} {Hulp ](/help/search-social-commerce/assets/help-main-menu.png " > ") Onderzoek, Sociale, &amp; Gids van de Optimalisering van Commerce **.**
+   * ![&#x200B; Hulp van 0&rbrace; &lbrace;Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " > ") Onderzoek, Sociale, &amp; Gids van de Optimalisering van Commerce **.**
 
 <!--
 ## Ask the Adobe Advertising community
@@ -36,7 +36,7 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 Ga als volgt te werk voor problemen met producten of accounts:
 
-* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [ https://experienceleague.adobe.com/home#support ](https://experienceleague.adobe.com/home?support-tab=home#support).
+* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home#support &#x200B;](https://experienceleague.adobe.com/home?support-tab=home#support).
 
   Selecteer &quot;[!UICONTROL Advertising - Search, Social, & Commerce]&quot; voor het product.
 
