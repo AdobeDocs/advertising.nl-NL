@@ -2,9 +2,10 @@
 title: Help opvragen
 description: Leer hoe u de online Help en gemeenschapsbronnen kunt bekijken en hoe u technische ondersteuning kunt krijgen.
 feature: DSP Introduction
-source-git-commit: c5a4837f1a8439b3fc2565ae78fdf00d6cdb8b75
+exl-id: 2e0226ea-bcd3-4a38-8907-d2e078c758d0
+source-git-commit: 70598a94d2a2bc4c8e34de311d68872a8207006b
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '137'
 ht-degree: 0%
 
 ---
@@ -25,8 +26,15 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 ## Contact [!DNL Adobe]
 
-Neem contact op met uw Adobe-accountteam voor DSP-product- of -accountproblemen.
+Ga als volgt te werk voor problemen met producten of accounts:
 
-Geef gedetailleerde stappen op om het probleem te reproduceren, relevante gegevens en informatie over voorlopige probleemoplossing die u hebt uitgevoerd. Neem ook de naam en versie van de browser op.
+* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [ https://experienceleague.adobe.com/home#support ](https://experienceleague.adobe.com/home?support-tab=home#support).
 
-Voor rapportkwesties, schrap niet het rapport, en verstrek de rapportnaam.
+  Selecteer &quot;[!UICONTROL Advertising - DSP]&quot; voor het product.
+
+* (Adverteerders met full-service contracten) Neem contact op met uw Adobe-accountteam.
+
+In het kaartje of de mededeling, verstrek gedetailleerde stappen om de kwestie, om het even welke relevante gegevens, de browser naam en versie, en informatie over het voorlopige oplossen van problemen te reproduceren u hebt uitgevoerd.
+
+Voor rapportkwesties, schrap niet het rapport, en verstrek de rapportnaam en URL.
+

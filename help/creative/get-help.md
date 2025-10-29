@@ -2,9 +2,10 @@
 title: Hulp vragen
 description: Leer hoe u de online Help en gemeenschapsbronnen kunt bekijken en hoe u technische ondersteuning kunt krijgen.
 feature: Creative Introduction
-source-git-commit: b610a0b8db410759cae79a6193c38abc573c28ba
+exl-id: 88059f73-6da3-4deb-b4ef-fa8e8eaec569
+source-git-commit: 70598a94d2a2bc4c8e34de311d68872a8207006b
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -27,8 +28,15 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 ## Contact [!DNL Adobe]
 
-Neem contact op met uw Adobe-accountteam voor problemen met producten of accounts.
+Ga als volgt te werk voor problemen met producten of accounts:
 
-Geef gedetailleerde stappen op om het probleem te reproduceren, relevante gegevens en informatie over voorlopige probleemoplossing die u hebt uitgevoerd. Neem ook de naam en versie van de browser op.
+* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [ https://experienceleague.adobe.com/home#support ](https://experienceleague.adobe.com/home?support-tab=home#support).
 
-Voor de kwesties van het douanerapport, schrap niet het rapport, en verstrek de rapportnaam.
+  Selecteer &quot;[!UICONTROL Advertising - Creative]&quot; voor het product.
+
+* (Adverteerders met full-service contracten) Neem contact op met uw Adobe-accountteam.
+
+In het kaartje of de mededeling, verstrek gedetailleerde stappen om de kwestie, om het even welke relevante gegevens, de browser naam en versie, en informatie over het voorlopige oplossen van problemen te reproduceren u hebt uitgevoerd.
+
+Voor rapportkwesties, schrap niet het rapport, en verstrek de rapportnaam en URL.
+
