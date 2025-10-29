@@ -36,7 +36,7 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 Ga als volgt te werk voor problemen met producten of accounts:
 
-* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home#support &#x200B;](https://experienceleague.adobe.com/home?support-tab=home#support).
+* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home?lang=nl-NL#support &#x200B;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=home#support).
 
   Selecteer &quot;[!UICONTROL Advertising - Search, Social, & Commerce]&quot; voor het product.
 
