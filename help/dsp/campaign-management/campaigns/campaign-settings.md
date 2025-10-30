@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: daf995b0c40d77434d2c86c738351a33552dc555
+source-git-commit: 1b15b14b0ace6137e79b456c7c8f8444efa8acac
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1062'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
    * *[!UICONTROL Margin % of Total Budget]:* (de standaardwaarde) berekent de kosten als een percentage van [!UICONTROL Gross Budget] . Geef de waarden [!UICONTROL Agency Fee Type] (vast of samengesteld) en [!UICONTROL Margin %] of [!UICONTROL Composite Margin %] op.
 
-   * *[!UICONTROL Apply Markup % on top of individual cost components]:* Voegt een bepaald percentage van [!UICONTROL Gross Budget] toe aan uw mediakosten, gegevens en andere kosten en/of [!DNL Adobe] tech-kosten. Geef de [!UICONTROL Markup %] op en selecteer de componenten waarop de markering moet worden toegepast.
+   * *[!UICONTROL Apply Markup % on top of individual cost components]:* voegt een bepaald percentage toe aan uw mediakosten, gegevens en andere kosten, en/of [!DNL Adobe] aan technische kosten. Geef de [!UICONTROL Markup %] op en selecteer de componenten waarop de markering moet worden toegepast.
 
 * **[!UICONTROL Agency Fee Type]:** (Campagnes die [!UICONTROL Margin % of Total Budget] gebruiken) het type van agentuurkosten.
 
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 * **[!UICONTROL Composite Margin %]:** (Campagnes die [!UICONTROL Margin % of Total Budget] met samengestelde marges gebruiken) De som van agentschapkosten en [!DNL Adobe] tech-kosten, als percentage. Dit bedrag wordt in mindering gebracht op de [!UICONTROL Gross Budget] om het netto campagnebudget te bepalen. De marge wordt niet toegepast op de [!UICONTROL Estimated Tax Withholding] op de [!UICONTROL Gross Budget] .
 
-* **[!UICONTROL Markup %]:** (Campagnes die [!UICONTROL Apply Markup % on top of individual cost components] gebruiken) het percentage van [!UICONTROL Gross Budget] om aan gespecificeerde kostencomponenten toe te voegen.
+* **[!UICONTROL Markup %]:** (Campagnes die [!UICONTROL Apply Markup % on top of individual cost components] gebruiken) het percentage om aan gespecificeerde kostencomponenten toe te voegen.
 
 * **[!UICONTROL Select cost components on which markup will be applied]:** (Campagnes die [!UICONTROL Apply Markup % on top of individual cost components] gebruiken) de kostencomponenten waarvoor [!UICONTROL Markup %] wordt toegepast. Selecteer alle toepasselijke componenten: *[!UICONTROL Media cost]*, *[!UICONTROL Data and Other costs]* en/of *[!UICONTROL Adobe tech fees]* .
 
@@ -96,7 +96,7 @@ Belastingen die moeten worden ingehouden ramen:
 >
 > U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP respecteert de strengste frequentiegrens in de campagnehiërarchie.
 
-**[!UICONTROL Packages]:** de [&#x200B; pakketten &#x200B;](/help/dsp/campaign-management/packages/package-about.md) om in de campagne te omvatten. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten creeert, zie beschrijvingen over de [&#x200B; pakketmontages &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie.
+**[!UICONTROL Packages]:** de [ pakketten ](/help/dsp/campaign-management/packages/package-about.md) om in de campagne te omvatten. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten creeert, zie beschrijvingen over de [ pakketmontages ](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie.
 
 ## [!UICONTROL Campaign Measurement]
 
@@ -134,9 +134,9 @@ Belastingen die moeten worden ingehouden ramen:
 
 **[!UICONTROL Adelaide]:** laat het volgen voor metrisch plaatsing-niveau [!UICONTROL Attention Score] toe (het gewogen gemiddelde aantal [!DNL Adelaide] &quot;[!DNL Attention Units]&quot;over beelden). Metrische gegevens zijn beschikbaar voor alle plaatsingstypen, behalve voor [!DNL Roku] aangesloten tv&#39;s, VPAID-bestanden (pre-roll) en audio die geen podcast is. DSP koppelt automatisch een JavaScript-tag aan alle bijbehorende creatieven, en [!DNL Adelaide] volgt de belichtingsgegevens en stuurt deze dagelijks naar DSP. U kunt de datum gebruiken om uw uitgaven voor plaatsingstactieken handmatig te optimaliseren met betere aandachtscores.
 
-Het [!UICONTROL Attention Score] gebied is beschikbaar in de [!UICONTROL Metrics] sectie van rapporten; binnen [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] meningen; en op [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] lusjes van de [&#x200B; mening van de plaatsingsdetails &#x200B;](/help/dsp/campaign-management/reports/placement-details-view.md).
+Het [!UICONTROL Attention Score] gebied is beschikbaar in de [!UICONTROL Metrics] sectie van rapporten; binnen [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] meningen; en op [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] lusjes van de [ mening van de plaatsingsdetails ](/help/dsp/campaign-management/reports/placement-details-view.md).
 
-Wanneer u [!DNL Adelaide] -segmenten gebruikt voor metingen, wordt voor elke indruk die wordt geleverd door advertenties met [!DNL Adelaide] -meettags een CPM-vergoeding in rekening gebracht. Deze vergoeding is gescheiden van kosten voor [&#x200B; plaatsing-vlakke aandacht richtend &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md).
+Wanneer u [!DNL Adelaide] -segmenten gebruikt voor metingen, wordt voor elke indruk die wordt geleverd door advertenties met [!DNL Adelaide] -meettags een CPM-vergoeding in rekening gebracht. Deze vergoeding is gescheiden van kosten voor [ plaatsing-vlakke aandacht richtend ](/help/dsp/campaign-management/placements/placement-settings.md).
 
 <!--
 Example JavaScript tag:
@@ -154,7 +154,7 @@ Example JavaScript tag:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Campagne &#x200B;](campaign-about.md)
->* [&#x200B; creeer een Campagne &#x200B;](campaign-create.md)
->* [&#x200B; geef een Campagne &#x200B;](campaign-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
+>* [ Ongeveer het Beheer van de Campagne ](campaign-about.md)
+>* [ creeer een Campagne ](campaign-create.md)
+>* [ geef een Campagne ](campaign-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Campagne ](campaign-change-log.md)
