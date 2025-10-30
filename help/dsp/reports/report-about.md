@@ -3,7 +3,7 @@ title: Aangepaste rapporten
 description: Leer over opties om douanerapporten manueel tot stand te brengen of pre-gevormde rapportmalplaatjes te gebruiken.
 feature: DSP Custom Reports
 exl-id: 321062f3-754b-4379-9587-003862c4221b
-source-git-commit: a3e6324edcf5a52f6338ce969034cd9c4b6fb487
+source-git-commit: f2b912a9e4952d2ccb9a461cdbc56c7bc731e690
 workflow-type: tm+mt
 source-wordcount: '1560'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Met aangepaste rapporten kunt u de inhoud en levering van uw rapportgegevens aan
 
 * Kies uit vooraf geconfigureerde rapportsjablonen en pas deze desgewenst verder aan.
 
-U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
+U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
@@ -27,7 +27,7 @@ U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bi
 
 >[!NOTE]
 >
->U kunt gegevens op bestelling op alle niveaus van een campagne (campagne, pakket, plaatsing, of advertentie) ook bekijken [&#x200B; binnen de relevante mening van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md).
+>U kunt gegevens op bestelling op alle niveaus van een campagne (campagne, pakket, plaatsing, of advertentie) ook bekijken [ binnen de relevante mening van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md).
 
 ## Beschikbare rapporttypen
 
@@ -77,9 +77,9 @@ U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bi
 
    * **[!UICONTROL Site]:** door gebrek, omvat standaardmetriek, totale media netto uitgaven, en totale factureerbare netto uitgaven door plaats.
 
-   * **[!UICONTROL Household Reach & Frequency]:** gebruik dit rapport om beelden, bereik en frequentie voor één enkele afmeting over ad formaten op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[&#x200B; FAQs over de Rapporten van de Huishouden &#x200B;](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
+   * **[!UICONTROL Household Reach & Frequency]:** gebruik dit rapport om beelden, bereik en frequentie voor één enkele afmeting over ad formaten op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om uw media mengeling te optimaliseren, prestaties te verbeteren, en mogelijkheden voor stijgende bereik te identificeren. Zie &quot;[ FAQs over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
-   * **[!UICONTROL Household Conversions]:** gebruik dit rapport om mening-door omzettingen op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[&#x200B; FAQs over de Rapporten van de Huishouden &#x200B;](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
+   * **[!UICONTROL Household Conversions]:** gebruik dit rapport om mening-door omzettingen op het niveau van het huishouden te zien die op IP adres, eerder dan op een apparaat/koekjesniveau wordt gebaseerd. Gebruik de inzichten om campagneprestaties te meten en te optimaliseren. Zie &quot;[ FAQs over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)&quot;voor meer informatie. Gegevens zijn niet beschikbaar voor plaatsen die universele id&#39;s als doel hebben.
 
    * **[!UICONTROL Path to Conversion]:** gebruik dit rapport om te identificeren hoe u budgetten optimaliseert en advertenties personaliseert op basis van de best presterende en interactiereeksen. Het rapport bevat de reeks interactiepunten in hetzelfde huishouden die leiden tot elk van de geselecteerde conversiemetriek in het opgegeven gegevensbereik. Het rapport gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting en kan één dimensie omvatten:
 
@@ -95,7 +95,7 @@ U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bi
 
      Tot de 10 meest recente interactiepunten zijn inbegrepen. De padrijen worden geordend met het aantal conversies.
 
-     Voor een vergelijking van dit rapport aan rapporten die door [!DNL Advanced Measurement Services] en Analytische Adobe worden gecreeerd, zie &quot;[&#x200B; FAQs over de Rapporten van de Douane &#x200B;](/help/dsp/reports/faq-reports.md).&quot;
+     Voor een vergelijking van dit rapport aan rapporten die door [!DNL Advanced Measurement Services] en Analytische Adobe worden gecreeerd, zie &quot;[ FAQs over de Rapporten van de Douane ](/help/dsp/reports/faq-reports.md).&quot;
 
    * **[!UICONTROL Path Length]:** gebruik dit rapport om het aantal punten van de gebruikersinteractie te volgen die voor omzettingen in tijd worden vereist zodat u de optimale en frequentie kunt kiezen. Het rapport toont het aantal omzettingen door weglengte (interactiepunten), zoals hoeveel omzettingen voorkwamen nadat de gebruikers slechts één ad interactie, twee en interactie, etc. hadden. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Path Length],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc.
 
@@ -103,13 +103,13 @@ U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bi
 
    * **[!UICONTROL Time to Conversion]:** gebruik dit rapport om het optimale venster van de attributieraadpleging te bepalen en campagnes met langere tijden aan omzetting te identificeren, die van het opnieuw richten kunnen profiteren. Het rapport toont het aantal omzettingen door de tijdsduur in dagen van de laatste interactie (en blootstelling of klik) aan omzetting. Het rapport kan gegevens voor veelvoudige omzettingsmetriek omvatten en gebruikt een gespecificeerde raadplegingsperiode tussen de eerste interactie en een omzetting. De kolommen in het rapport omvatten &quot;[!UICONTROL Time Taken (in days)],&quot; &quot;[!UICONTROL Number of] \&lt;Conversion Metric Name 1\>,&quot; &quot;% \&lt;Conversion Metric Name 1\>,&quot; \&lt;Conversion Metric Name 2\>, &quot;% \&lt;Conversion Metric Name 2\>,&quot; etc. De omzettingen die langer duren dan de raadplegingsperiode worden gegroepeerd in één rij (bijvoorbeeld, als het rapport een periode van de 30 dagraadpleging gebruikt, dan worden alle omzettingen die langer duren dan 30 dagen om voor te komen gegroepeerd in een rij met een &quot;[!UICONTROL Time Taken (in days)]&quot;waarde van &quot;30+&quot;).
 
-   * **[!UICONTROL Content BETA]:** gebruik dit rapport om een goed begrip te krijgen van de aflevering van de indruk en andere maatstaven op basis van opgegeven afmetingen (zoals genre, productiekwaliteit en classificatie van inhoud), zodat u de functie voor afstemmen kunt optimaliseren en de merkveiligheid kunt garanderen. Naast inhoudsafmetingen bevat het rapport de meeste standaardafmetingen, meetgegevens en filters. Gegevens per inhoudsdimensie zijn beschikbaar voor [!DNL Freewheel] , [!DNL Index] , [!DNL Magnite] , [!DNL Microsoft] , [!DNL Nexxen] , [!DNL Pubmatic] , [!DNL Sharethrough] en [!DNL Triplelift] . Inhoudssignalen worden door uitgevers doorgegeven tijdens de bidstream en zijn afhankelijk van beschikbaarheid.
+   * **[!UICONTROL Content]:** gebruik dit rapport om een goed begrip te krijgen van de aflevering van de indruk en andere maatstaven op basis van opgegeven afmetingen (zoals genre, productiekwaliteit en classificatie van inhoud), zodat u de functie voor afstemmen kunt optimaliseren en de merkveiligheid kunt garanderen. Naast inhoudsafmetingen bevat het rapport de meeste standaardafmetingen, meetgegevens en filters. Gegevens per inhoudsdimensie zijn beschikbaar voor [!DNL Freewheel] , [!DNL Index] , [!DNL Magnite] , [!DNL Microsoft] , [!DNL Nexxen] , [!DNL Pubmatic] , [!DNL Sharethrough] en [!DNL Triplelift] . Inhoudssignalen worden door uitgevers doorgegeven tijdens de bidstream en zijn afhankelijk van beschikbaarheid.
 
 ## Rapportage tussen accounts {#cross-account-reporting}
 
 Elke organisatie met meerdere DSP-accounts kan desgewenst gegevens voor meerdere accounts mogelijk maken in aangepaste rapporten, afhankelijk van de behoeften van de organisatie. U kunt bijvoorbeeld Account A toegang geven tot de gegevens van Account B en Account B toegang geven tot de gegevens van Account C (maar niet van Account A). Neem contact op met uw Adobe-accountteam om deze functie in te schakelen en te configureren.
 
-Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [&#128279;](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
+Zodra de eigenschap voor uw organisatie wordt toegelaten, kunt u [ ](report-settings.md) om het even welke volgende rapporttypes door rekening filtreren: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion].
 
 Uw accountinstellingen op [!UICONTROL Settings] > [!UICONTROL Account] geven a) de andere accounts aan waarvan de gegevens beschikbaar zijn voor uw account en b) de andere accounts die toegang hebben tot de gegevens van uw account.
 
@@ -127,7 +127,7 @@ U kunt nieuwe douanerapporten tot stand brengen, bestaande rapporten uitgeven of
 
 * **[!UICONTROL Ready to download]:** (Terugkerende rapporten slechts) één of meerdere instanties van het rapport is beschikbaar om te downloaden, en meer rapportinstanties zijn gepland.
 
-* **[!UICONTROL Failed]:** De rapporttaak is mislukt. Om te zien waarom de individuele rapportinstanties voor een rapportduw ontbroken, klik ![&#x200B; de benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png " pijl ") naast [!UICONTROL Download]. Mislukte rapporttaken zijn vermeld met een foutenpictogram (![foutindicator](/help/dsp/assets/indicator-critical.png "foutindicator")). Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
+* **[!UICONTROL Failed]:** De rapporttaak is mislukt. Om te zien waarom de individuele rapportinstanties voor een rapportduw ontbroken, klik ![ de benedenpijl ](/help/dsp/assets/chevron-down.png " pijl ") naast [!UICONTROL Download]. Mislukte rapporttaken zijn vermeld met een foutenpictogram (![foutindicator](/help/dsp/assets/indicator-critical.png "foutindicator")). Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
 
 * **[!UICONTROL Completed]:** Voor niet-terugkerende rapporten, wordt het rapport voltooid. Voor terugkerende rapporten, worden alle rapportinstanties voltooid. U kunt alle rapporten downloaden die in de laatste vier maanden zijn voltooid.
 
@@ -135,10 +135,10 @@ U kunt nieuwe douanerapporten tot stand brengen, bestaande rapporten uitgeven of
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; Download een Rapport van de Douane &#x200B;](/help/dsp/reports/report-download.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Veelgestelde vragen over de Rapporten van de Huishouden &#x200B;](/help/dsp/reports/faq-reports.md)
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
->* [&#x200B; Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Veelgestelde vragen over de Rapporten van de Huishouden ](/help/dsp/reports/faq-reports.md)
+>* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
+>* [ Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
