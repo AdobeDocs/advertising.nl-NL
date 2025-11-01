@@ -1,9 +1,9 @@
 ---
-title: '[!UICONTROL RSA Asset Report]'
+title: '[!UICONTROL Google Asset Group Performance Report]'
 description: Meer informatie over de [!UICONTROL Google Asset Group Performance Report] .
 feature: Search Reports, Search Specialty Reports
 exl-id: a0e06c53-9ca2-4558-8092-49b9fc9d2b1b
-source-git-commit: f29d5173547a48ea818a93a0b931d5fb27e10044
+source-git-commit: 07731027cb3518650fee9672aa60abd6a5331c6d
 workflow-type: tm+mt
 source-wordcount: '113'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 ## Standaardkolommen
 
-Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[&#x200B; de kolommen van het Rapport voor specialiteitrapporten &#x200B;](specialty-report-columns.md).&quot;
+Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md).&quot;
 
 * [!UICONTROL Campaign Name]
 * [!UICONTROL Network Asset Group Name]
@@ -35,7 +35,7 @@ Voor beschrijvingen van al gebrek en douanekolommen, zie &quot;[&#x200B; de kolo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer specialiteitrapporten &#x200B;](specialty-report-about.md)
->* [&#x200B; produceer een speciaal rapport &#x200B;](specialty-report-generate.md)
->* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](specialty-report-settings.md)
->* [&#x200B; de kolommen van het Rapport voor specialiteitrapporten &#x200B;](specialty-report-columns.md)
+>* [ Ongeveer specialiteitrapporten ](specialty-report-about.md)
+>* [ produceer een speciaal rapport ](specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](specialty-report-settings.md)
+>* [ de kolommen van het Rapport voor specialiteitrapporten ](specialty-report-columns.md)
