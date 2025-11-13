@@ -4,9 +4,9 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
+source-git-commit: 78b177c6f83c7a3ab46df9fef21508c42bb9f0d1
 workflow-type: tm+mt
-source-wordcount: '1877'
+source-wordcount: '1878'
 ht-degree: 2%
 
 ---
@@ -22,10 +22,10 @@ ht-degree: 2%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [&#x200B; Adobe  [!DNL Analytics for Advertising]  (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL){target="_blank"}
-      + [&#x200B; Integratie met Adobe Audience Manager (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Steun voor de privacy van de consument (verbinding)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Beleid en richtlijnen (verbinding)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html?lang=nl-NL){target="_blank"}
+      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
+      + [ Integratie met Adobe Audience Manager (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
+   + [ Steun voor de privacy van de consument (verbinding) ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en richtlijnen (verbinding) ](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -94,13 +94,13 @@ ht-degree: 2%
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Portfolios] -weergave](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
       + Campagnes {#campaigns}
          + [De weergave [!UICONTROL Campaigns]](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
-         + [&#x200B; Wijs campagnes aan een portefeuille  toe](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
-         + [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+         + [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+         + [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
          + [Beperkingstoewijzingen voor campagnes beheren](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Campaigns] -weergave](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
       + Toegevoegde groepen {#ad-groups}
          + [De weergave [!UICONTROL Ad Groups]](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
-         + [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
+         + [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Ad Groups] -weergave](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
    + [Gebruikersbeheer](/help/search-social-commerce/new-ui/user-administration.md)
 + Tekstspatiëring {#tracking}
@@ -119,7 +119,7 @@ ht-degree: 2%
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [&#x200B; de koekjes van Adobe Advertising (verbinding)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html?lang=nl-NL){target="_blank"}
+      + [ de koekjes van Adobe Advertising (verbinding) ](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
       + [De trackingparameter voor AMO-id&#39;s (s_kwcid)](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
@@ -215,7 +215,7 @@ ht-degree: 2%
             + [Beheer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-manage.md)
          + Doelstellingen voor publiek en publiek {#audiences-and-targets}
             + Soorten publiek {#audiences}
-               + [&#x200B; Ongeveer publiek &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
+               + [ Ongeveer publiek ](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
                + [Creeer  [!DNL Google Ads]  publiek van de klantengelijke van  [!DNL Adobe]  publiek](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)
                + [Creeer a  [!DNL Google Ads]  het publiek van de klantengelijke van een e-maillijst van Adobe Campaign](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
                + [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](/help/search-social-commerce/campaign-management/campaigns/audience-from-customer-data-list.md)
@@ -351,6 +351,7 @@ ht-degree: 2%
                + [De [!UICONTROL Bing Ads Search Query Report]](/help/search-social-commerce/reports/management/specialty/bing-ads-search-query-report.md)
                + [De [!UICONTROL Campaign Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/campaign-daily-impression-share-report.md)
                + [De [!UICONTROL Google Asset Group Performance Report]](/help/search-social-commerce/reports/management/specialty/google-asset-group-performance-report.md)
+               + [De [!UICONTROL Google Performance Max Placement Report]](/help/search-social-commerce/reports/management/specialty/google-performance-max-placement-report.md)
                + [De [!UICONTROL Keyword Daily Impression Share Report]](/help/search-social-commerce/reports/management/specialty/keyword-daily-impression-share-report.md)
                + [De [!UICONTROL RSA Asset Report]](/help/search-social-commerce/reports/management/specialty/rsa-asset-report.md)
                + [De [!UICONTROL MSA Ad Extension by Ad Report]](/help/search-social-commerce/reports/management/specialty/msa-ad-extension-detail-report.md)
