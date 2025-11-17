@@ -3,7 +3,7 @@ title: Gegevensverzameling, gegevensoverdracht en rapportage instellen
 description: Leer hoe u gegevensverzameling, gegevensoverdracht en rapportage instelt.
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: a955e2b0-ea1b-4b5c-937b-f8c66603cd36
-source-git-commit: 0cf325946fdc3852b8b94acb29678bf6c47227a0
+source-git-commit: 168a43e0d3b7ccf5e519d76bcbb6bb955fada7e8
 workflow-type: tm+mt
 source-wordcount: '1567'
 ht-degree: 0%
@@ -16,17 +16,17 @@ ht-degree: 0%
 
 De volgende taken zijn vereist voor het weergeven van Cloud-advertentiegegevens in Customer Journey Analytics.
 
-1. (Het Webanalist van uw organisatie; facultatief) [&#x200B; verzamel historische gegevens voor AMO IDs en EF IDs &#x200B;](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
+1. (Het Webanalist van uw organisatie; facultatief) [ verzamel historische gegevens voor AMO IDs en EF IDs ](/help/integrations/analytics/rvars-to-evars.md){target="_blank"}.
 
    Deze stap is alleen van toepassing voor adverteerders met [!DNL Analytics for Advertising] .
 
-1. (Uw de plaatsbeheerder van uw organisatie voor Adobe Experience Platform) [&#x200B; de inzameling van opstellingsgegevens in Experience Platform en voert omzetting volgende markeringen &#x200B;](#data-collection) uit.
+1. (Uw de plaatsbeheerder van uw organisatie voor Adobe Experience Platform) [ de inzameling van opstellingsgegevens in Experience Platform en voert omzetting volgende markeringen ](#data-collection) uit.
 
-1. (Uw de plaatsbeheerder van uw organisatie voor Customer Journey Analytics) [&#x200B; creeert een verbinding aan uw datasets van Experience Platform in Customer Journey Analytics &#x200B;](#dataset-connection).
+1. (Uw de plaatsbeheerder van uw organisatie voor Customer Journey Analytics) [ creeert een verbinding aan uw datasets van Experience Platform in Customer Journey Analytics ](#dataset-connection).
 
-1. (Het Webanalist van uw organisatie) [&#x200B; de meningen van opstellingsgegevens in Customer Journey Analytics &#x200B;](#cja-data-views).
+1. (Het Webanalist van uw organisatie) [ de meningen van opstellingsgegevens in Customer Journey Analytics ](#cja-data-views).
 
-1. (Het Webanalist van uw organisatie) [&#x200B; de rapporten en visualisaties van de Opstelling in Customer Journey Analytics Workspace &#x200B;](#cja-reports).
+1. (Het Webanalist van uw organisatie) [ de rapporten en visualisaties van de Opstelling in Customer Journey Analytics Workspace ](#cja-reports).
 
 De volgende secties bevatten gedetailleerde procedures, die de taken en instellingen omvatten die voor de integratie zijn vereist, maar waarin niet alle functies worden uitgelegd die beschikbaar zijn in de workflows. Zie de gekoppelde bronnen voor volledige informatie.
 
@@ -36,23 +36,23 @@ De volgende taken zijn vereist om gegevensverzameling in Experience Platform in 
 
 ### Gegevens van Adobe Advertising als dataset verzamelen en verzenden naar Experience Platform Edge Network
 
-1. In Experience Platform, [&#x200B; bepaal een handschema &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/ui/resources/schemas) voor de gegevens u wilt verzamelen gebruikend het Model van de Gegevens van de Ervaring (XDM).
+1. In Experience Platform, [ bepaal een handschema ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/ui/resources/schemas) voor de gegevens u wilt verzamelen gebruikend het Model van de Gegevens van de Ervaring (XDM).
 
    * Selecteer [!UICONTROL Schema Details] in het **[!UICONTROL Experience Event]** als basisklasse voor het schema om site-gebeurtenissen vast te leggen. Geef het schema een naam en klik op **[!UICONTROL Finish]** .
 
-   * Voeg in het linkerdeelvenster de veldgroep `[Adobe Advertising Cloud ExperienceEvent Full Extension](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension)` toe om velden toe te voegen die specifiek zijn voor Adobe Advertising. Bij een minimum, omvat het voorwerp conversionDetails met `trackingCode` en `trackingIdentities` eigenschappen, die [&#x200B; identiteitskaart van AMO en EF identiteitskaart &#x200B;](ids.md) omvatten. De andere velden zijn optioneel.
+   * Voeg in het linkerdeelvenster de veldgroep `[Adobe Advertising Cloud ExperienceEvent Full Extension](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension)` toe om velden toe te voegen die specifiek zijn voor Adobe Advertising. Bij een minimum, omvat het voorwerp conversionDetails met `trackingCode` en `trackingIdentities` eigenschappen, die [ identiteitskaart van AMO en EF identiteitskaart ](ids.md) omvatten. De andere velden zijn optioneel.
 
    * (Optioneel) Voeg zo nodig extra veldgroepen toe om extra gegevensvelden te koppelen aan Adobe Advertising-gegevens.
 
    **Nota:** u kunt veelvoudige schema&#39;s tot stand brengen, maar u kunt slechts één schema per dataset en per gegevensstroom gebruiken, die u in de volgende stappen zult creëren.
 
-1. [&#x200B; creeer een dataset &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/catalog/datasets/create) die op het schema wordt gebaseerd om de inzameling van gebeurtenisgegevens op te slaan en te beheren.
+1. [ creeer een dataset ](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/create) die op het schema wordt gebaseerd om de inzameling van gebeurtenisgegevens op te slaan en te beheren.
 
    * Kies de optie **[!UICONTROL Create dataset from schema]** en selecteer het schema.
 
      Adobe Advertising maakt aanvullende gegevenssets voor de gerelateerde gegevens over samenvattingsmetriek (zoals omzettingswaarden) en opzoekgegevens (afmetingen/classificatiemetagegevens, zoals de naam van de Adobe Advertising-campagne) op basis van uw gebeurtenisdataset. De gegevens voor de datasets worden dagelijks in Experience Platform ingevuld.
 
-1. [&#x200B; creeer een gegevensstroom &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/datastreams/configure) voor het schema.
+1. [ creeer een gegevensstroom ](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/configure) voor het schema.
 
    * Selecteer het schema voor de instelling [!UICONTROL Mapping schema] .
 
@@ -66,17 +66,17 @@ De volgende taken zijn vereist om gegevensverzameling in Experience Platform in 
 
 ### De websitegegevens van uw organisatie naar uw Experience Platform-gegevensstroom verzenden
 
-1. De markeringen van Experience Platform van het gebruik [&#x200B; (vroeger gekend als &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home)) om een markering van JavaScript te produceren om de websitegegevens van uw organisatie naar de datastream te verzenden.[!DNL Launch]
+1. De markeringen van Experience Platform van het gebruik [ (vroeger gekend als ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)) om een markering van JavaScript te produceren om de websitegegevens van uw organisatie naar de datastream te verzenden.[!DNL Launch]
 
    * Maak een eigenschap tag, de container voor de tagconfiguratie.
 
-   * Voor uw bezit, [&#x200B; installeer de uitbreiding &quot;Adobe Experience Platform Web SDK&quot;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration) van de uitbreidingscatalogus.
+   * Voor uw bezit, [ installeer de uitbreiding &quot;Adobe Experience Platform Web SDK&quot;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration) van de uitbreidingscatalogus.
 
      Deze extensie verzendt gegevens van uw wegeigenschappen naar Experience Cloud via de Experience Platform Edge Network.
 
      Gebruik de extensie Adobe Advertising niet.
 
-   * Creeer de bouwstijl van SDK van het a [&#x200B; douaneWeb &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#custom-build):
+   * Creeer de bouwstijl van SDK van het a [ douaneWeb ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#custom-build):
 
       * In de [!UICONTROL Custom build components] sectie, laat de **Advertising** component toe.
 
@@ -88,19 +88,19 @@ De volgende taken zijn vereist om gegevensverzameling in Experience Platform in 
 
          * Selecteer in de [!UICONTROL Datastreams] -instellingen de gegevensstroom die u voor elk van uw webomgevingen wilt gebruiken (productie, staging, ontwikkeling).
 
-         * (Organisaties met alleen Adobe Advertising DSP) Schakel in de [[!UICONTROL Adobe Advertising] instellingen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#general) **[!UICONTROL Adobe Advertising DSP]** in om doorzicht mogelijk te maken en geef de adverteerders op waarvoor ze doorzicht moeten inschakelen. U kunt desgewenst id&#39;s verzamelen van universele id&#39;s.
+         * (Organisaties met alleen Adobe Advertising DSP) Schakel in de [[!UICONTROL Adobe Advertising] instellingen ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/web-sdk-extension-configuration#general) **[!UICONTROL Adobe Advertising DSP]** in om doorzicht mogelijk te maken en geef de adverteerders op waarvoor ze doorzicht moeten inschakelen. U kunt desgewenst id&#39;s verzamelen van universele id&#39;s.
 
          * Sla de build op.
 
-   * (Facultatief) [&#x200B; creeer regels &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/ui/rules) zoals nodig om te bepalen wanneer het Web SDK gegevens naar Edge Network zou moeten verzenden.
+   * (Facultatief) [ creeer regels ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/rules) zoals nodig om te bepalen wanneer het Web SDK gegevens naar Edge Network zou moeten verzenden.
 
-      * Voor `[sendEvent](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/extensions/client/web-sdk/action-types#send-event)` acties, gebruik [[!UICONTROL Advertising] het plaatsen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/extensions/client/web-sdk/action-types#advertising) om te bepalen hoe de reclamegegevens voor attributiemeting worden gebruikt. Dit het plaatsen is nuttig wanneer de regel een opeenvolging van veelvoudige acties omvat en beschikbaar slechts wanneer u &quot; [!UICONTROL Advertising]&quot;component voor de douane hebt geselecteerd bouwt component.
+      * Voor `[sendEvent](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#send-event)` acties, gebruik [[!UICONTROL Advertising] het plaatsen ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/extensions/client/web-sdk/action-types#advertising) om te bepalen hoe de reclamegegevens voor attributiemeting worden gebruikt. Dit het plaatsen is nuttig wanneer de regel een opeenvolging van veelvoudige acties omvat en beschikbaar slechts wanneer u &quot; [!UICONTROL Advertising]&quot;component voor de douane hebt geselecteerd bouwt component.
 
-   * Creeer [&#x200B; gegevenselementen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/ui/data-elements) zoals nodig om variabelen op uw website aan de structuur van het XDM schema in kaart te brengen u eerder creeerde.
+   * Creeer [ gegevenselementen ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/data-elements) zoals nodig om variabelen op uw website aan de structuur van het XDM schema in kaart te brengen u eerder creeerde.
 
-1. [&#x200B; publiceer de markering &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/publish/publishing-flow) aan een testmilieu waarin u op de ontwikkeling van markeringen kunt herhalen.
+1. [ publiceer de markering ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/publishing-flow) aan een testmilieu waarin u op de ontwikkeling van markeringen kunt herhalen.
 
-1. Valideer levering van de datasets, en dan [&#x200B; publiceer de markering aan uw levende productiemilieu &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/publish/publishing-flow).
+1. Valideer levering van de datasets, en dan [ publiceer de markering aan uw levende productiemilieu ](https://experienceleague.adobe.com/en/docs/experience-platform/tags/publish/publishing-flow).
 
    De IT-afdeling of andere groep van uw organisatie moet mogelijk de implementatie van tags plannen of hierover worden geïnformeerd.
 
@@ -108,7 +108,7 @@ De volgende taken zijn vereist om gegevensverzameling in Experience Platform in 
 
 Voer de volgende stappen uit om Adobe Advertising-gegevens van uw Experience Platform-gegevenssets naar Customer Journey Analytics te halen. De sitebeheerder van uw organisatie voor Customer Journey Analytics kan deze taken uitvoeren.
 
-1. In Customer Journey Analytics, [&#x200B; creeer een verbinding &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-connections/create-connection) die uw datasets en schema van Experience Platform omvat.
+1. In Customer Journey Analytics, [ creeer een verbinding ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-connections/create-connection) die uw datasets en schema van Experience Platform omvat.
 
    **Nota:** momenteel, moet u gegevens voor alle DSP en Onderzoek, Sociale, &amp; rekeningen van Commerce naar één enkele instantie en zandbak van Experience Platform verzenden.
 
@@ -142,7 +142,7 @@ Voer de volgende stappen uit om Adobe Advertising-gegevens van uw Experience Pla
 
 In Customer Journey Analytics maakt u een of meer gegevensweergaven om de maatstaven en afmetingen voor rapportage te definiëren. Een webanalist kan deze taken uitvoeren.
 
-1. In Customer Journey Analytics, [&#x200B; creeer een gegevensmening &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/create-dataview).
+1. In Customer Journey Analytics, [ creeer een gegevensmening ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/create-dataview).
 
 1. Vorm de mening om de volgende informatie te omvatten.
 
@@ -154,11 +154,11 @@ In Customer Journey Analytics maakt u een of meer gegevensweergaven om de maatst
 
       * Kies metriek van uw gebeurtenissen (metriek) dataset en uw dimensies (classificaties/meta-gegevens) dataset om in de gegevensmening te omvatten.
 
-        U ging reeds bij deze twee datasets in de verbinding die u in de [&#x200B; laatste procedure &#x200B;](#dataset-connection) creeerde.
+        U ging reeds bij deze twee datasets in de verbinding die u in de [ laatste procedure ](#dataset-connection) creeerde.
 
       * Sluit zich aan bij de gebeurtenissendataset aan de summiere dataset, die nog niet aan bij om het even welk wordt aangesloten:
 
-         * Voor elke afmeting met summiere gegevens die u in Customer Journey Analytics beschikbaar wilt zijn, [&#x200B; creeer een afgeleid gebied &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-dataviews/derived-fields).
+         * Voor elke afmeting met summiere gegevens die u in Customer Journey Analytics beschikbaar wilt zijn, [ creeer een afgeleid gebied ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-dataviews/derived-fields).
 
            Als u bijvoorbeeld samenvattingsgegevens voor campagnes wilt weergeven, maakt u een afgeleid veld voor de dimensie `Adobe Advertising Campaign` .
 
@@ -196,16 +196,16 @@ In Customer Journey Analytics maakt u een of meer gegevensweergaven om de maatst
 
 Voer in Customer Journey Analytics Workspace de volgende stappen uit om rapporten en visualisaties te configureren. Een webanalist kan deze taken uitvoeren.
 
-1. [&#x200B; creeer een project &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-workspace/build-workspace-project/create-projects) in Workspace om rapporten en visualisaties te bouwen die op de afmetingen en metriek worden gebaseerd die binnen de gegevensmening worden gevormd.
+1. [ creeer een project ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/build-workspace-project/create-projects) in Workspace om rapporten en visualisaties te bouwen die op de afmetingen en metriek worden gebaseerd die binnen de gegevensmening worden gevormd.
 
 1. (Als u gegevens van [!DNL Google Ads] of [!DNL Microsoft Advertising] hebt) Maak een rapport van door de uitgever bijgehouden omzettingen met velden voor netwerkspecifieke metriek, die worden gegroepeerd als `googleConversions` en `microsoftConversions` .
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht &#x200B;](overview.md)
->* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
->* [&#x200B; Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
->* [&#x200B; de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics &#x200B;](advertising-data-in-cja.md)
->* [&#x200B; verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics &#x200B;](/help/integrations/analytics/rvars-to-evars.md).
->* [&#x200B; Gids van Customer Journey Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/cja-landing)
->* Customer Journey Analytics [&#x200B; gids van de Gebruiker voor de gebruikers van Adobe Analytics &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
+>* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)
+>* [ verzamel Historische Gegevens voor AMO IDs en EF IDs voor Gebruik in Adobe Customer Journey Analytics ](/help/integrations/analytics/rvars-to-evars.md).
+>* [ Gids van Customer Journey Analytics ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-landing)
+>* Customer Journey Analytics [ gids van de Gebruiker voor de gebruikers van Adobe Analytics ](https://experienceleague.adobe.com/en/docs/analytics-platform/using/compare-aa-cja/aa-to-cja-user)
