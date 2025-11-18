@@ -13,7 +13,7 @@ ht-degree: 0%
 
 Met aangepaste rapporten kunt u de inhoud en de levering van uw rapportgegevens aanpassen aan de hand van de maatstaven die het belangrijkst voor u zijn.
 
-U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
+U kunt rapporten eens produceren, of hen dagelijks, wekelijks, of maandelijks bij 03 :00 in de gespecificeerde tijdzone volgens gespecificeerde criteria (zoals om de 15 dagen of op de 1e van elke maand) plannen. Zodra een rapport wordt geproduceerd, kunt u het van [!UICONTROL Reports] > [!UICONTROL Custom Reports] of van verbonden [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md) van de volgende types downloaden:
 
 * [!DNL Amazon Simple Storage Service] ([!DNL S3])
 * FTP
