@@ -3,9 +3,9 @@ role: User
 user-guide-title: Handleiding Advertising Creative
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn om Advertising Creative te gebruiken.
 breadcrumb-title: Handleiding voor Creative
-source-git-commit: 0d7a7ab23173a061961c4b5c66ace5b69a746e86
+source-git-commit: d9b136b296834f3fb83bbd6b70a08dd14c442530
 workflow-type: tm+mt
-source-wordcount: '371'
+source-wordcount: '376'
 ht-degree: 5%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 5%
    + [Informatie over Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
    + [Workflows voor dynamische advertenties](/help/creative/introduction/workflow-dynamic-ads.md)
-   + [&#x200B; Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
-   + [&#x200B; Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"} <!-- This is a duplicate link to this file, so using an absolute link here instead of a relative link. Github doesn't allow duplicate links via relative links. -->
 + Creative-bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
@@ -86,8 +86,10 @@ ht-degree: 5%
 + [Bijlage: Beschikbare velden voor dynamische en feed-bestanden](/help/creative/appendix-available-feed-fields.md)
 + Prestatierapporten {#reports}
    + [Prestatierapporten op ervaringsniveau](/help/creative/experiences/experience-performance-details.md)
-   + [Aangepast Creative-rapport](/help/creative/report-custom-creative.md)
+   + [ de rapporten van de Douane ]{#custom-reports}
+      + [Aangepaste rapporten](/help/creative/report-about.md)
+      + [Aangepaste rapporten beheren](/help/creative/report-manage.md)
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
 + [Hulp vragen](/help/creative/get-help.md)
-+ [&#x200B; de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
