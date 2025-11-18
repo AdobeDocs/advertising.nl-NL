@@ -1,19 +1,17 @@
 ---
-title: '[!UICONTROL Manage custom reports]'
-description: Leer hoe u de kruiservaring genereert [!UICONTROL Custom Creative Report] .
+title: Aangepaste rapporten beheren
+description: Leer hoe u de kruiservaring kunt genereren en beheren [!UICONTROL Custom Creative Report] .
 feature: Creative Reporting
-source-git-commit: 5b644fb2eb881b8180932bb9449dd303a70d9647
+source-git-commit: 455a63be51ca56610cc15ba498e69eeae52ffdba
 workflow-type: tm+mt
-source-wordcount: '1461'
+source-wordcount: '1477'
 ht-degree: 0%
 
 ---
 
 # [!UICONTROL Manage custom reports]
 
-
-
-
+U kunt aangepaste rapporten maken, dupliceren, bewerken, uitvoeren, downloaden en verwijderen.
 
 ## Een aangepast rapport maken {#report-create}
 
@@ -21,7 +19,7 @@ ht-degree: 0%
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create]** .
 
-1. Specificeer de [&#x200B; rapportmontages &#x200B;](#report-settings).
+1. Specificeer de [ rapportmontages ](#report-settings).
 
 1. Klik op **[!UICONTROL Create Custom Report]**.
 
@@ -33,7 +31,7 @@ Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot 
 
 1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Copy]** .
 
-1. (Facultatief) geef de [&#x200B; rapportmontages &#x200B;](#report-settings.md) uit zoals nodig.
+1. (Facultatief) geef de [ rapportmontages ](#report-settings.md) uit zoals nodig.
 
    De rapportnaam, door gebrek, is &quot;\&lt; *bestaande rapportnaam* \> \#2&quot;(of het volgende aantal in de opeenvolging).
 
@@ -43,25 +41,17 @@ Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot 
 
 1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Bewerk de [&#x200B; rapportmontages &#x200B;](#report-settings.md).
+1. Bewerk de [ rapportmontages ](#report-settings.md).
 
 1. Klik op **[!UICONTROL Edit Custom Report]**.
 
-## Een aangepast rapport verwijderen
-
-1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
-
-1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Delete]** .
-
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
-
-## Een aangepast rapport uitvoeren &lbrace;report-run-now&rbrace;
+## Een aangepast rapport uitvoeren {report-run-now}
 
 U kunt elk rapport uitvoeren dat nog niet is verlopen en momenteel niet wordt uitgevoerd.
 
 >[!NOTE]
 >
->U kunt een douanerapport ook in werking stellen wanneer u [&#x200B; &#x200B;](#report-create) creeert of [&#x200B; &#x200B;](#report-edit) het uitgeeft.
+>U kunt een douanerapport ook in werking stellen wanneer u [ ](#report-create) creeert of [ ](#report-edit) het uitgeeft.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
 
@@ -79,13 +69,21 @@ U kunt om het even welke voltooide rapportinstantie van de laatste vier maanden 
 
    * Klik op **[!UICONTROL Download]** om de meest recente versie van het rapport te downloaden.
 
-   * (Rapporten met veelvoudige instanties) klik ![&#x200B; de benedenpijl &#x200B;](/help/dsp/assets/chevron-down.png " de benedenpijl ") naast [!UICONTROL Download], en klik dan de voltooiingsdatum voor het rapport u wilt downloaden. Downloadbare rapportinstanties worden aangeduid met een downloadpictogram (![downloadpictogram](/help/dsp/assets/indicator-downloadable.png "downloadpictogram")).
+   * (Rapporten met veelvoudige instanties) klik ![ de benedenpijl ](/help/dsp/assets/chevron-down.png " de benedenpijl ") naast [!UICONTROL Download], en klik dan de voltooiingsdatum voor het rapport u wilt downloaden. Downloadbare rapportinstanties worden aangeduid met een downloadpictogram (![downloadpictogram](/help/dsp/assets/indicator-downloadable.png "downloadpictogram")).
 
      Wanneer er veel exemplaren beschikbaar zijn, klikt u indien nodig op **[!UICONTROL Load More]** onder aan de lijst.
 
      Wanneer een rapport veelvoudige tijden op de zelfde dag in werking stelt, zijn de rapportinstanties voor die dag vermeld in chronologische orde, met de meest recente instantie bovenop.
 
-     De ontbroken rapportbanen worden vermeld met een foutenpictogram (![&#x200B; foutenindicator &#x200B;](/help/dsp/assets/indicator-critical.png " foutenindicator ")) en kunnen niet worden gedownload. Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
+     De ontbroken rapportbanen worden vermeld met een foutenpictogram (![ foutenindicator ](/help/dsp/assets/indicator-critical.png " foutenindicator ")) en kunnen niet worden gedownload. Plaats de cursor op het foutpictogram voor een beschrijving van de fout.
+
+## Een aangepast rapport verwijderen
+
+1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
+
+1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Delete]** .
+
+1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 ## Rapportinstellingen {#report-settings}
 
@@ -119,7 +117,7 @@ Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan ops
 
   >[!NOTE]
   >
-  >U kunt ook [&#x200B; een douanerapport op elk ogenblik &#x200B;](#report-run-now) van de [!UICONTROL Reports] mening in werking stellen.
+  >U kunt ook [ een douanerapport op elk ogenblik ](#report-run-now) van de [!UICONTROL Reports] mening in werking stellen.
 
 * *[!UICONTROL On]\&lt;Date\>:* stelt het rapport op een gespecificeerde datum voor voltooiing door 09 :00 in de tijdzone van de rekening in werking.
 
@@ -183,7 +181,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
    * *[!UICONTROL Social Only]:* Verouderd
 
-Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &#x200B;](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
+Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
 **[!UICONTROL Paths as Columns]:** welke soorten omzettingen om te melden wanneer de vroegere gebeurtenissen op het zelfde apparaat voorkwamen. U kunt maximaal drie typen opnemen. Voor elk geselecteerd type wordt een aparte kolom opgenomen voor elke omzettingsmetrische waarde en toegevoegd met het opgegeven achtervoegsel ([!UICONTROL (tl)], [!UICONTROL (ct)] of [!UICONTROL (vt)]):
 
@@ -209,13 +207,13 @@ Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &
 
 * *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL FTP SSL] (Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
 
 * *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
 **[!UICONTROL Email]:** (E-mail bestemmingstype slechts) voor elk adres, ga het adres in en klik **+**.
 
-**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"} waarnaar het douanerapport wordt verzonden.
+**[!UICONTROL Destination Name]:** (S3, FTP, sFTP, en de bestemmingstypes van FTP SSL slechts) De namen van de [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"} waarnaar het douanerapport wordt verzonden.
 
 * Selecteer een doelnaam in de lijst om een bestaand doel op te geven. U kunt meerdere doelnamen afzonderlijk selecteren.
 
@@ -223,7 +221,7 @@ Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &
 
    1. Klik **toevoegen Nieuwe Bestemming**.
 
-   1. Ga de [&#x200B; montages van de rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md){target="_blank"} in, en klik **sparen**.
+   1. Ga de [ montages van de rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-settings.md){target="_blank"} in, en klik **sparen**.
 
    1. Terug in de rapportmontages, klik **verfrissen de Namen van de Bestemming.**
 
@@ -329,6 +327,6 @@ Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; ervaring-vlakke prestatiesrapporten &#x200B;](/help/creative/experiences/experience-performance-details.md)
->* [&#x200B; Ongeveer DSP douanerapporten &#x200B;](/help/dsp/reports/report-about.md){target="_blank"}
->* [&#x200B; Over [!UICONTROL report destinations]](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}
+>* [ ervaring-vlakke prestatiesrapporten ](/help/creative/experiences/experience-performance-details.md)
+>* [ Ongeveer DSP douanerapporten ](/help/dsp/reports/report-about.md){target="_blank"}
+>* [ Over [!UICONTROL report destinations]](/help/dsp/reports/report-destinations/report-destination-about.md){target="_blank"}
