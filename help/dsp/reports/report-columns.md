@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: cf86f4b96ff41a9266614e8190120eaf375c8ece
+source-git-commit: 7b7e9687bf79fce564103606efbe8c5997d3c05c
 workflow-type: tm+mt
-source-wordcount: '2359'
+source-wordcount: '2413'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud/film. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Series] | De inhoudsreeks. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Genre] | Het genre van de inhoud. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [&#x200B; wordt bepaald laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [&#x200B; laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [ wordt bepaald laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [ laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Rating] | De classificatie van de inhoud, zoals PG of R. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Livestream] | Geeft aan of de advertentie in een live stream verscheen: `Not Live` of `Live` . |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Length (in seconds)] | De lengte van de inhoud in seconden. Wordt meestal gebruikt voor video of audio. |
@@ -113,114 +113,119 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video Duration] | De videolengte, die na het uploaden wordt verwerkt. |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video ID] | De unieke id voor de creatieve video in DSP. |
 | [!UICONTROL Dimension] | [!UICONTROL Video] | [!UICONTROL Video Name] | De naam van de creatieve die door de gebruiker wordt toegewezen. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL % Distinct Uniques] | De [!UICONTROL App/Site Distinct Uniques] gedeeld door [!UICONTROL App/Site Uniques]. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL App/Site Distinct Uniques] | Het totale aantal apparaten dat alleen voor deze app is bereikt. Een viewer die wordt blootgesteld aan een advertentie voor meerdere uitgevers, wordt niet opgenomen in deze waarde. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Distinct Unique] | De [!UICONTROL Total Spend] gedeeld door [!UICONTROL App/Site Distinct Uniques]. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Cost per Unique] | De [!UICONTROL Total Spend] gedeeld door [!UICONTROL App/Site Uniques]. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated % Reached] | Het geschatte percentage van het beoogde universum van het huishouden dat een blootstelling heeft gekregen. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | Het gemiddelde aantal indrukken dat wordt getoond aan uniques. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) De geschatte indrukkingen voor een bepaalde frequentiesbrainstormsessie. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) Het aantal unieke browsers of apparaten dat voor een bepaalde frequentie is opgenomen. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor wat inventaris, ga niet langs een apparatenherkenningsteken over, en die beelden zijn niet inbegrepen in deze waarde. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | De som van unieke huishoudens die DSP (veilingen) heeft gezien binnen de datumrange. |
-| [!UICONTROL Metric] | [!UICONTROL Frequency] | [!UICONTROL Extended Impressions] | Het totale aantal indrukkingen dat wordt gebruikt als gevolg van het gebruik van een apparaatgrafiek voor op personen gebaseerde, apparaatoverschrijdende doelframes. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Frequency] | De frequentie van de indrukkingen per huishouden. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Frequency Overlap] | De frequentie waarmee huishoudens alleen de gerapporteerde dimensie bereiken, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de frequentie zien die wordt bereikt door afzonderlijke plaatsingen, de frequenties die worden bereikt door een combinatie van twee willekeurige plaatsingen en de frequenties die worden bereikt door combinaties van drie willekeurige plaatsingen. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Incremental Household Reached] | Het aantal huishoudens die door slechts de gemelde afmeting werden bereikt, die als <code>[ IP adressen werd berekend die door slechts de gemelde afmeting ] - [ IP adressen werden bereikt die door een andere afmeting ] werden bereikt</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL % Incremental Household Reached] | Het percentage huishoudens dat door slechts de gemelde afmeting werd bereikt, berekend als <code>[ het percentage van IP adressen die door de afmeting ] - [ werden bereikt de percentageIP adressen die door een andere afmeting ] werden bereikt</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Impressions] | Het totale aantal geserveerde advertenties. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | Het totale aantal meetbare indrukkingen dat alleen door de gerapporteerde dimensie wordt gediend, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de meetbare indrukken zien die worden bereikt door individuele plaatsingen, meetbare indrukken die worden bereikt door een combinatie van twee plaatsen en meetbare indrukken die worden bereikt door combinaties van drie plaatsen. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Total Media Spend] | De totale uitgaven. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Unique Household Reached] | De totale unieke huishoudens (verschillende IP adressen) bereikte. |
-| [!UICONTROL Metric] | [!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | Het totale aantal unieke huishoudens (verschillende IP-adressen) dat alleen door de gerapporteerde dimensie wordt bereikt, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de unieke huishoudens zien die worden bereikt door individuele stages, gemeenschappelijke huishoudens die worden bereikt door een combinatie van twee plaatsen en gemeenschappelijke huishoudens die worden bereikt door combinaties van drie plaatsen. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Cost per Incremental HH] | De totale uitgaven gedeeld door het incrementele huishouden bereikt. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Cost per Unique HH] | De totale uitgaven gedeeld door het unieke huishouden bereikt. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Frequency] | De frequentie van de indrukkingen per huishouden. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Incremental Household Reached] | Het aantal huishoudens die door slechts de gemelde afmeting werden bereikt, die als [ IP adressen werd berekend die door slechts de gemelde afmeting ] - [ IP adressen werden bereikt die door een andere afmeting ] werden bereikt. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL % Incremental Household Reached] | Het percentage huishoudens dat door slechts de gemelde afmeting werd bereikt, berekend als [ het percentage IP adressen die door de afmeting ] - [ werden bereikt de percentageIP adressen die door een andere afmeting ] werden bereikt. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Impressions] | Het totale aantal geserveerde advertenties. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Total Media Spend] | De totale uitgaven. |
-| [!UICONTROL Metric] | [!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached] | De totale unieke huishoudens (verschillende IP adressen) bereikte. |
-| [!UICONTROL Metric] | [!UICONTROL Identifier] | [!UICONTROL Identifier Type] | Het doeltype van id. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van het totale aantal biedingen dat is uitgebracht op de Max CPM. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPA] | De gemiddelde brutokosten per verwerving, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPC] | De gemiddelde brutokosten per klik en klik, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPE] | De gemiddelde brutokosten per ad-service, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Engagements]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPI] | De gemiddelde brutokosten per advertentie, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Impressions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPCV] | De gemiddelde kosten per voltooide videoweergave, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPM] | De gemiddelde kosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross CPV] | De gemiddelde kosten per videoweergave, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Views]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Gross vCPM] | De gemiddelde kosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPC] | De gemiddelde nettokosten per klik en klik, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPI] | De gemiddelde nettokosten per advertentie, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Impressions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPCV] | De gemiddelde nettokosten per voltooide videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPM] | De gemiddelde nettokosten per 1000 beelden, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | De gemiddelde nettokosten per videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Net vCPM] | De gemiddelde nettokosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal afzonderlijke gebruikers waarvoor DSP heeft geboden op de plaatsing. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Agency Fee] | De vergoeding voor de uitzenddienst. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Data Spend] | De totale nettokosten van de via DSP in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Media Spend] | De totale nettokosten van factureerbare media, inclusief de technische kosten, die via DSP in rekening worden gebracht. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Billable Other Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die via DSP in rekening worden gebracht. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Data] | De geschatte belasting op doelgroepen van derden en gegevensdiensten. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | De geschatte belasting op media, inclusief belasting, die wordt toegepast op mediakostenfacturering en services voor technische vergoedingen in DSP. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | De geschatte belasting op andere servicekosten (inclusief controlepartners van derden, onderwerpgerichtheid, enzovoort) die via DSP in rekening wordt gebracht. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Gross Spend] | De bruto uitgaven. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Margin %] | (Wanneer margebeheer is geactiveerd) Het margepercentage, dat wordt berekend door <code> ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Media Cost] | De som van de niet-factureerbare en factureerbare mediakosten zonder technische kosten. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Net vCPM] | De gemiddelde nettokosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Spend] | De totale nettokosten van de kosten voor de gegevens van het publiekssegment die niet via DSP in rekening worden gebracht. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Spend] | De totale nettokosten van niet-factureerbare media, inclusief de technische kosten, die niet via DSP worden gefactureerd. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die niet via DSP in rekening worden gebracht. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Billable Spend] | De som van [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)] en [!UICONTROL Billable Spend (Other)] . |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data eCPM] | De gemiddelde nettogegevenskosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Data Spend] | De totale nettokosten van de kosten van de gegevens van het publiekssegment. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media CPM] | De gemiddelde nettomediakosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Media Spend] | De totale nettokosten van media, inclusief technische kosten. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Net Spend] | De som van [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)] en [!UICONTROL Net Spend (Other)] . |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | De som van [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)] en [!UICONTROL Non-billable Spend (Other)] . |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 afdrukken voor andere kosten, berekend door <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Spend] | [!UICONTROL Total Other Spend] | De totale nettokosten van andere servicekosten (controlepartners van derden, diensten, enzovoort). |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Viewable Completion (%)] | Het percentage zichtbare indrukken dat de advertentie in zijn geheel heeft bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completion Rate] | Het percentage weergaven dat minstens één kwartiel van de advertentie bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completions] | Het aantal weergaven dat minstens één kwartiel van de advertentie bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Completion Rate] | Het percentage weergaven dat minstens twee kwartielen van de advertentie bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Completions] | Het aantal meningen die minstens twee kwartielen van de advertentie keken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Viewable Completion (%)] | Het percentage zichtbare indrukken dat minstens twee kwartielen van de advertentie bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 75% Completion Rate] | Het percentage weergaven dat minstens drie kwartielen van de advertentie bekeken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL 75% Completions] | Het aantal meningen die minstens drie kwartielen van de advertentie keken. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Avg Percent Viewed] | Het gemiddelde percentage van een advertentie werd gecontroleerd op voltooiing, waarbij alle weergaven werden meegenomen. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Banner and Overlay Clicks] | Het aantal klikken op de advertentiebedekking en banners. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Click Through Rate] | Het percentage klikken gedeeld door advertenties. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Clicks Per View Rate] | Het percentage klikken gedeeld door videoweergaven. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion Clicks] | Het aantal bijbehorende banner klikt. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion CTR] | Het percentage kliks gedeeld door de beelden van de metgezelbanner. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion Impressions] | Het aantal bijpassende bannerindrukkingen. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Connection] | Het type internetverbinding dat is gebruikt om de advertentie weer te geven (zoals Wifi of 4g LTE). |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Engagements] | Het aantal interacties op een betekende advertentie. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Impressions] | The total number of ad impressions. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Play Rate] | Het percentage indrukken dat resulteerde in videoweergaven. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Playtime per View] | De gemiddelde duur van een videomening, die in seconden wordt gemeten. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Total Ad Clicks] | De som van alle klikken op een advertentie. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Viewed Minutes] | Het totale aantal minuten dat een video-advertentie is weergegeven. |
-| [!UICONTROL Metric] | [!UICONTROL Standard Metrics] | [!UICONTROL Views] | Het totale aantal video en weergaven. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Avg. Player Width x Height] | De gemiddelde breedte en hoogte van de speler. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Measurable Rate (%)] | Het percentage aangebrachte indrukken dat voor het zicht kon worden gemeten, berekend als <code>[!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - iFrame (%)] | Het percentage indrukken dat vanwege incompatibele iFrames niet kan worden gemeten voor de zichtbaarheid. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Not Supported (%)] | Het aantal indrukkingen dat niet kan worden gemeten voor de weergavemogelijkheid omdat de kijkfunctie op de advertentie-eenheid niet wordt ondersteund. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Other (%)] | Het percentage indrukken dat om andere redenen niet meetbaar is voor het zicht. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable Impressions] | Het aantal en de indrukken zijn niet meetbaar voor het gezichtsvermogen. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable Rate (%)] | Het percentage en de indrukkingen dat niet kan worden gemeten voor het zicht. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable rate (Not supported)] | Het percentage indrukken dat niet kan worden gemeten voor de weergavemogelijkheid vanwege niet-ondersteunde zoekbaarheid op deze advertentie-eenheid. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Viewability Rate (%)] | Het percentage zichtbare indrukken van alle meetbare indrukken, berekend als <code>[!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]</code>. |
-| [!UICONTROL Metric] | [!UICONTROL Viewability] | [!UICONTROL Viewable Impressions] | Het aantal en de indrukken die als viewable worden beschouwd. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL % Distinct Uniques] | De [!UICONTROL App/Site Distinct Uniques] gedeeld door [!UICONTROL App/Site Uniques]. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL App/Site Distinct Uniques] | Het totale aantal apparaten dat alleen voor deze app is bereikt. Een viewer die wordt blootgesteld aan een advertentie voor meerdere uitgevers, wordt niet opgenomen in deze waarde. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Cost per Distinct Unique] | De [!UICONTROL Total Spend] gedeeld door [!UICONTROL App/Site Distinct Uniques]. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Cost per Unique] | De [!UICONTROL Total Spend] gedeeld door [!UICONTROL App/Site Uniques]. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Estimated % Reached] | Het geschatte percentage van het beoogde universum van het huishouden dat een blootstelling heeft gekregen. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Estimated Average Frequency] | Het gemiddelde aantal indrukken dat wordt getoond aan uniques. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Estimated Impressions (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) De geschatte indrukkingen voor een bepaalde frequentiesbrainstormsessie. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor sommige inventarisaties geven uitgevers geen apparaat-id door en worden deze afbeeldingen niet in deze waarde opgenomen. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Estimated Uniques (Device/Browser)] | (Opgenomen in het [!UICONTROL Frequency (by Impression)] -rapport) Het aantal unieke browsers of apparaten dat voor een bepaalde frequentie is opgenomen. De schattingen van DSP zijn gebaseerd op een steekproef van indrukken. Voor wat inventaris, ga niet langs een apparatenherkenningsteken over, en die beelden zijn niet inbegrepen in deze waarde. Er is gelijkaardige metrisch in het [!UICONTROL Frequency (by App/Site)] rapport, maar dat metrisch wordt niet geschat. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Estimated Universe] | De som van unieke huishoudens die DSP (veilingen) heeft gezien binnen de datumrange. |
+| [!UICONTROL Metrics] | [!UICONTROL Frequency] | [!UICONTROL Extended Impressions] | Het totale aantal indrukkingen dat wordt gebruikt als gevolg van het gebruik van een apparaatgrafiek voor op personen gebaseerde, apparaatoverschrijdende doelframes. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Frequency] | De frequentie van de indrukkingen per huishouden. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Frequency Overlap] | De frequentie waarmee huishoudens alleen de gerapporteerde dimensie bereiken, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de frequentie zien die wordt bereikt door afzonderlijke plaatsingen, de frequenties die worden bereikt door een combinatie van twee willekeurige plaatsingen en de frequenties die worden bereikt door combinaties van drie willekeurige plaatsingen. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Incremental Household Reached] | Het aantal huishoudens die door slechts de gemelde afmeting werden bereikt, die als <code>[ IP adressen werd berekend die door slechts de gemelde afmeting ] - [ IP adressen werden bereikt die door een andere afmeting ] werden bereikt</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL % Incremental Household Reached] | Het percentage huishoudens dat door slechts de gemelde afmeting werd bereikt, berekend als <code>[ het percentage van IP adressen die door de afmeting ] - [ werden bereikt de percentageIP adressen die door een andere afmeting ] werden bereikt</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Impressions] | Het totale aantal geserveerde advertenties. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Measurable Impressions (Overlap)] | Het totale aantal meetbare indrukkingen dat alleen door de gerapporteerde dimensie wordt gediend, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de meetbare indrukken zien die worden bereikt door individuele plaatsingen, meetbare indrukken die worden bereikt door een combinatie van twee plaatsen en meetbare indrukken die worden bereikt door combinaties van drie plaatsen. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Total Media Spend] | De totale uitgaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Unique Household Reached] | De totale unieke huishoudens (verschillende IP adressen) bereikte. |
+| [!UICONTROL Metrics] | [!UICONTROL Household] | [!UICONTROL Unique Household (Overlap)] | Het totale aantal unieke huishoudens (verschillende IP-adressen) dat alleen door de gerapporteerde dimensie wordt bereikt, inclusief snijpunten van maximaal drie waarden voor de dimensie. Als u bijvoorbeeld de [!UICONTROL Placement] -dimensie gebruikt, kunt u de unieke huishoudens zien die worden bereikt door individuele stages, gemeenschappelijke huishoudens die worden bereikt door een combinatie van twee plaatsen en gemeenschappelijke huishoudens die worden bereikt door combinaties van drie plaatsen. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Cost per Incremental HH] | De totale uitgaven gedeeld door het incrementele huishouden bereikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Cost per Unique HH] | De totale uitgaven gedeeld door het unieke huishouden bereikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Frequency] | De frequentie van de indrukkingen per huishouden. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Incremental Household Reached] | Het aantal huishoudens die door slechts de gemelde afmeting werden bereikt, die als [ IP adressen werd berekend die door slechts de gemelde afmeting ] - [ IP adressen werden bereikt die door een andere afmeting ] werden bereikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL % Incremental Household Reached] | Het percentage huishoudens dat door slechts de gemelde afmeting werd bereikt, berekend als [ het percentage IP adressen die door de afmeting ] - [ werden bereikt de percentageIP adressen die door een andere afmeting ] werden bereikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Impressions] | Het totale aantal geserveerde advertenties. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Total Media Spend] | De totale uitgaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Household Conversions] | [!UICONTROL Unique Household Reached] | De totale unieke huishoudens (verschillende IP adressen) bereikte. |
+| [!UICONTROL Metrics] | [!UICONTROL Identifier] | [!UICONTROL Identifier Type] | Het doeltype van id. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL % bid at Max CPM] | Het percentage van het totale aantal biedingen dat is uitgebracht op de Max CPM. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPA] | De gemiddelde brutokosten per verwerving, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Custom Goal]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPC] | De gemiddelde brutokosten per klik en klik, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Clicks]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPCV] | De gemiddelde kosten per voltooide videoweergave, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL 100% Completions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPE] | De gemiddelde brutokosten per ad-service, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Engagements]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPI] | De gemiddelde brutokosten per advertentie, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Total Ad Impressions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPM] | De gemiddelde kosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross CPV] | De gemiddelde kosten per videoweergave, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Views]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Gross vCPM] | De gemiddelde kosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Gross Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net CPC] | De gemiddelde nettokosten per klik en klik, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Clicks]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net CPCV] | De gemiddelde nettokosten per voltooide videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL 100% Completions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net CPI] | De gemiddelde nettokosten per advertentie, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Total Ad Impressions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net CPM] | De gemiddelde nettokosten per 1000 beelden, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net CPV] | De gemiddelde nettokosten per videoweergave, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Views]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Net vCPM] | De gemiddelde nettokosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Performance] | [!UICONTROL Unique Users Bid On] | Het aantal afzonderlijke gebruikers waarvoor DSP heeft geboden op de plaatsing. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Agency Fee] | De vergoeding voor de uitzenddienst. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Billable Creative Spend] | De totale uitgaven voor advertenties die vanuit Adobe Creative worden aangeboden. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Billable Data Spend] | De totale nettokosten van de via DSP in rekening gebrachte kosten voor de gegevens van het publiekssegment. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Billable Media Spend] | De totale nettokosten van factureerbare media, inclusief de technische kosten, die via DSP in rekening worden gebracht. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Billable Other Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die via DSP in rekening worden gebracht. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Creative] | De geraamde belasting op de uit Adobe Creative bediende steun. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Data] | De geschatte belasting op doelgroepen van derden en gegevensdiensten. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Media] | De geschatte belasting op media, inclusief belasting, die wordt toegepast op mediakostenfacturering en services voor technische vergoedingen in DSP. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Estimated Tax on Other] | De geschatte belasting op andere servicekosten (inclusief controlepartners van derden, onderwerpgerichtheid, enzovoort) die via DSP in rekening wordt gebracht. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Gross Spend] | De bruto uitgaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Margin %] | (Wanneer margebeheer is geactiveerd) Het margepercentage, dat wordt berekend door <code> ([!UICONTROL Gross Spend] - [!UICONTROL Net Spend]) / [!UICONTROL Gross Spend]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Media Cost] | De som van de niet-factureerbare en factureerbare mediakosten zonder technische kosten. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Net vCPM] | De gemiddelde nettokosten per 1000 zichtbare afdrukken, berekend door <code>[!UICONTROL Net Spend] / [!UICONTROL Viewable Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Non Billable Creative Spend] | De totale uitgaven voor advertenties die niet via Adobe Creative worden gefactureerd. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Data Spend] | De totale nettokosten van de kosten voor de gegevens van het publiekssegment die niet via DSP in rekening worden gebracht. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Media Spend] | De totale nettokosten van niet-factureerbare media, inclusief de technische kosten, die niet via DSP worden gefactureerd. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Non-Billable Other Net Spend] | De totale kosten van andere servicekosten (controlepartners van derden, advertenties, enzovoort) die niet via DSP in rekening worden gebracht. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Profit] | [!UICONTROL Gross Spend] - [!UICONTROL Net Spend] |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Billable Spend] | De som van [!UICONTROL Billable Spend (Media)], [!UICONTROL Billable Spend (Data)] en [!UICONTROL Billable Spend (Other)] . |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Creative CPM] | De gemiddelde nettomediadracht per 1000 impressies voor advertenties die vanuit Adobe Creative worden bediend. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Creative Spend] | De totale factureerbare en niet-factureerbare uitgaven voor advertenties die vanuit Adobe Creative worden aangeboden. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Data eCPM] | De gemiddelde nettogegevenskosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Data)] / [!UICONTROL Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Data Spend] | De totale nettokosten van de kosten van de gegevens van het publiekssegment. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Media CPM] | De gemiddelde nettomediakosten per 1000 afbeeldingen, berekend door <code>[!UICONTROL Net Spend (Media)] / [!UICONTROL Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Media Spend] | De totale nettokosten van media, inclusief technische kosten. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Net Spend] | De som van [!UICONTROL Net Spend (Media)], [!UICONTROL Net Spend (Data)] en [!UICONTROL Net Spend (Other)] . |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | De som van [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)] en [!UICONTROL Non-billable Spend (Other)] . |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 afdrukken voor andere kosten, berekend door <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Other Spend] | De totale nettokosten van andere servicekosten (controlepartners van derden, diensten, enzovoort). |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Viewable Completion (%)] | Het percentage zichtbare indrukken dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completion Rate] | Het percentage weergaven dat minstens één kwartiel van de advertentie bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 25% Completions] | Het aantal weergaven dat minstens één kwartiel van de advertentie bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Completion Rate] | Het percentage weergaven dat minstens twee kwartielen van de advertentie bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Completions] | Het aantal meningen die minstens twee kwartielen van de advertentie keken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 50% Viewable Completion (%)] | Het percentage zichtbare indrukken dat minstens twee kwartielen van de advertentie bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 75% Completion Rate] | Het percentage weergaven dat minstens drie kwartielen van de advertentie bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 75% Completions] | Het aantal meningen die minstens drie kwartielen van de advertentie keken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Avg Percent Viewed] | Het gemiddelde percentage van een advertentie werd gecontroleerd op voltooiing, waarbij alle weergaven werden meegenomen. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Banner and Overlay Clicks] | Het aantal klikken op de advertentiebedekking en banners. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Click Through Rate] | Het percentage klikken gedeeld door advertenties. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Clicks Per View Rate] | Het percentage klikken gedeeld door videoweergaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion Clicks] | Het aantal bijbehorende banner klikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion CTR] | Het percentage kliks gedeeld door de beelden van de metgezelbanner. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Companion Impressions] | Het aantal bijpassende bannerindrukkingen. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Connection] | Het type internetverbinding dat is gebruikt om de advertentie weer te geven (zoals Wifi of 4g LTE). |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Engagements] | Het aantal interacties op een betekende advertentie. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Impressions] | The total number of ad impressions. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Play Rate] | Het percentage indrukken dat resulteerde in videoweergaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Playtime per View] | De gemiddelde duur van een videomening, die in seconden wordt gemeten. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Total Ad Clicks] | De som van alle klikken op een advertentie. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Viewed Minutes] | Het totale aantal minuten dat een video-advertentie is weergegeven. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Views] | Het totale aantal video en weergaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Avg. Player Width x Height] | De gemiddelde breedte en hoogte van de speler. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Measurable Rate (%)] | Het percentage aangebrachte indrukken dat voor het zicht kon worden gemeten, berekend als <code>[!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - iFrame (%)] | Het percentage indrukken dat vanwege incompatibele iFrames niet kan worden gemeten voor de zichtbaarheid. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Not Supported (%)] | Het aantal indrukkingen dat niet kan worden gemeten voor de weergavemogelijkheid omdat de kijkfunctie op de advertentie-eenheid niet wordt ondersteund. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable - Other (%)] | Het percentage indrukken dat om andere redenen niet meetbaar is voor het zicht. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable Impressions] | Het aantal en de indrukken zijn niet meetbaar voor het gezichtsvermogen. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable Rate (%)] | Het percentage en de indrukkingen dat niet kan worden gemeten voor het zicht. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Unmeasurable rate (Not supported)] | Het percentage indrukken dat niet kan worden gemeten voor de weergavemogelijkheid vanwege niet-ondersteunde zoekbaarheid op deze advertentie-eenheid. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewability Rate (%)] | Het percentage zichtbare indrukken van alle meetbare indrukken, berekend als <code>[!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]</code>. |
+| [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewable Impressions] | Het aantal en de indrukken die als viewable worden beschouwd. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
-| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [&#x200B; douanedoel &#x200B;](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
+| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [ douanedoel ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
 
 {style="table-layout:auto"}
 
@@ -229,8 +234,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
->* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
+>* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
