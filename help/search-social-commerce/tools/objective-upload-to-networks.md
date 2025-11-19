@@ -3,9 +3,9 @@ title: Uploaden van doelstellingen naar en netwerken inschakelen
 description: Leer hoe te om doelstellingen voor uw hybride portefeuilles aan  [!DNL Google Ads]  en  [!DNL Microsoft Advertising] te uploaden.
 exl-id: 09ab0b7a-b6ea-45ad-a82c-2c40d518d2e7
 feature: Search Tools
-source-git-commit: 464fd13de476f2710536bea6540e0b9be4684395
+source-git-commit: 8b741fd9e5a2cb950bc7d8ba4f3307dab23e72fe
 workflow-type: tm+mt
-source-wordcount: '681'
+source-wordcount: '680'
 ht-degree: 0%
 
 ---
@@ -26,7 +26,7 @@ Elke geüploade conversie heeft de volgende naam:
 
 waarbij `<network_ID>` de numerieke id is die door Search, Social en Commerce wordt gebruikt voor het advertentienetwerk, is `<objective_id>` de numerieke objectieve id en is `<network_account_ID>` de numerieke id voor de account of het beheerdersaccount van het advertentienetwerk.
 
-Uploads naar [!DNL Google Ads] en [!DNL Microsoft Advertising] vinden plaats gedurende de dag, soms zelfs om het uur. Voor adverteerders met grote accounts of aangepaste configuraties, worden minstens driemaal daags geüpload.
+Uploads naar [!DNL Google Ads] en [!DNL Microsoft Advertising] vinden plaats gedurende de dag, meestal om het uur. Voor adverteerders met grote accounts of aangepaste configuraties, worden minstens driemaal daags geüpload.
 
 >[!IMPORTANT]
 >
@@ -40,11 +40,11 @@ Uploads naar [!DNL Google Ads] en [!DNL Microsoft Advertising] vinden plaats ged
 
 1. Klik op **[!UICONTROL Save]**.
 
-1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [&#x200B; voeg geloofsbrieven voor uw managerrekening &#x200B;](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
+1. (Als uw omzettingen op het niveau van de managerrekening worden gevolgd) [ voeg geloofsbrieven voor uw managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) bij **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** toe.
 
 1. Controleer of elk doel — genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account_ID>` — binnen twee dagen op het advertentienetwerk wordt weergegeven.
 
-   In de [!DNL Google Ads] redacteur, kijk omhoog uw [&#x200B; omzettingsacties &#x200B;](https://support.google.com/google-ads/answer/11461796). In de [!DNL Microsoft Advertising] redacteur, kijk omhoog uw [&#x200B; omzettingsdoelstellingen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/56709).
+   In de [!DNL Google Ads] redacteur, kijk omhoog uw [ omzettingsacties ](https://support.google.com/google-ads/answer/11461796). In de [!DNL Microsoft Advertising] redacteur, kijk omhoog uw [ omzettingsdoelstellingen ](https://help.ads.microsoft.com/#apex/ads/en/56709).
 
    Werk indien nodig het datumbereik bij en voeg de uploaddatum toe.
 
@@ -54,7 +54,7 @@ Het gewogen doel dat aan het advertentienetwerk wordt overgegaan is de som alle 
 
 Stel dat het doel van de doelstelling metrisch is met Cart Additions met een gewicht van 25 en dat uw maateenheden voor assistentie GL_Lead en Revenue met gewichten van 1 en Downloads met een gewicht van 0,5 zijn.
 
-![&#x200B; Voorbeeld van een gewogen doelstelling &#x200B;](/help/search-social-commerce/assets/objective-example.png " Voorbeeld van een gewogen doelstelling ")
+![ Voorbeeld van een gewogen doelstelling ](/help/search-social-commerce/assets/objective-example.png " Voorbeeld van een gewogen doelstelling ")
 
 Stel dat een trefwoord resulteert in de volgende handelingen voor het portfolio:
 
@@ -75,7 +75,7 @@ Als het doel — genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account
 
 * ([!DNL Google Ads]) Controleer of de conversies moeten worden geüpload naar het account- of beheerniveau. Als ze op managementniveau moeten worden geüpload:
 
-   * Controleer of de referenties voor de [!DNL Google Ads] manager-account zijn opgegeven op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** . Indien noodzakelijk, [&#x200B; voeg de geloofsbrieven voor de managerrekening &#x200B;](/help/search-social-commerce/admin/manager-accounts.md) toe.
+   * Controleer of de referenties voor de [!DNL Google Ads] manager-account zijn opgegeven op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Admin] >[!UICONTROL Manager Accounts]** . Indien noodzakelijk, [ voeg de geloofsbrieven voor de managerrekening ](/help/search-social-commerce/admin/manager-accounts.md) toe.
 
    * Controleer of de netwerkaccount voor advertenties al dezelfde metrische naam bevat. Als het, dan metrisch anders noemt zodat het correcte manager-vlakke bezit kan worden gecreeerd.
 
@@ -83,5 +83,5 @@ Als het doel — genaamd `O_ACS_OBJ_<network_ID>_<objective_ID>_<network_account
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
->* [&#x200B; uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](conversion-metrics-upload-to-google.md)
+>* [ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md)
+>* [ uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](conversion-metrics-upload-to-google.md)
