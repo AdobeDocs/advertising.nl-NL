@@ -14,7 +14,7 @@ ht-degree: 30%
 
 # Beleid en richtlijnen voor Adobe Advertising {#policies}
 
-+ [Informatie over het beleid en de richtlijnen voor Adoben Advertising](/help/policies/home.md)
++ [Informatie over Adobe Advertising-beleid en -richtlijnen](/help/policies/home.md)
 + [Beleid voor advertenties](/help/policies/ad-requirements-policy.md)
 + [Beleid voor Universal ID-vereisten](/help/policies/universal-id-policy.md)
 + [Aanvaardbare richtsnoeren voor het ziekteverzekeringssegment](/help/policies/health-segment-guidelines.md)

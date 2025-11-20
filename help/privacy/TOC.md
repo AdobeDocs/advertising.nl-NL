@@ -14,7 +14,7 @@ ht-degree: 56%
 
 # Adobe Advertising-ondersteuning voor consumentenprivacy {#privacy}
 
-+ [Informatie over ondersteuning van Adoben Advertising voor consumentenprivacy](/help/privacy/home.md)
++ [Informatie over Adobe Advertising-ondersteuning voor consumentenprivacy](/help/privacy/home.md)
 + [Ondersteuning voor GDPR](/help/privacy/gdpr.md)
 + Ondersteuning voor CCPA {#ccpa}
    + [Steun voor CCPA: Toegang tot en Verwijderen van consumentengegevens](/help/privacy/ccpa/ccpa-access-delete.md)
