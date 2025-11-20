@@ -15,7 +15,7 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-Simulatierapporten tonen de geraamde marginale kosten-naar-objectieve waarde, de kosten, het aantal kliks en de objectieve waarde die u voor een portefeuille op diverse bestedingsniveaus (kosten) en de overeenkomstige dagelijkse begrotingen of andere doelstellingen kunt verwachten. U kunt naar keuze [ de mening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) aanpassen om extra verkeersmetriek, simulatie montages, en slechts een specifiek simulatietype ([!UICONTROL Weekly] of [!UICONTROL Custom]) te zien.
+Simulatierapporten tonen de geraamde marginale kosten-naar-objectieve waarde, de kosten, het aantal kliks en de objectieve waarde die u voor een portefeuille op diverse bestedingsniveaus (kosten) en de overeenkomstige dagelijkse begrotingen of andere doelstellingen kunt verwachten. U kunt naar keuze [&#x200B; de mening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) aanpassen om extra verkeersmetriek, simulatie montages, en slechts een specifiek simulatietype ([!UICONTROL Weekly] of [!UICONTROL Custom]) te zien.
 
 <!-- Not available as of 6/21/25:
 When the portfolio has a daily budget, you can optionally change the portfolio's spend target to any of the spend targets listed in the simulation.
@@ -29,7 +29,7 @@ When the portfolio has a daily budget, you can optionally change the portfolio's
 
 ### Geautomatiseerde wekelijkse simulaties
 
-Simulatierapporten worden elke week automatisch uitgevoerd met de huidige portfolioinstellingen. De geautomatiseerde wekelijkse simulaties zijn beschikbaar slechts voor periodes waarin de portefeuille [ wordt geoptimaliseerd of actief ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md).
+Simulatierapporten worden elke week automatisch uitgevoerd met de huidige portfolioinstellingen. De geautomatiseerde wekelijkse simulaties zijn beschikbaar slechts voor periodes waarin de portefeuille [&#x200B; wordt geoptimaliseerd of actief &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md).
 
 #### Gedownloade wekelijkse simulaties
 
@@ -37,7 +37,7 @@ Elke gedownloade wekelijkse simulatie bestaat uit één werkboek. Elk werkboek o
 
 #### wekelijkse simulatiegegevens op het scherm
 
-De details van de simulatie op het scherm tonen portefeuille-vlakke visuele en tabelinzichten. Voor gegevens door campagne, en groepen, bied eenheden, of apparaat, [ download in plaats daarvan de simulatie ](simulation-download.md).
+De details van de simulatie op het scherm tonen portefeuille-vlakke visuele en tabelinzichten. Voor gegevens door campagne, en groepen, bied eenheden, of apparaat, [&#x200B; download in plaats daarvan de simulatie &#x200B;](simulation-download.md).
 
 ##### Grafiekweergave
 
@@ -61,7 +61,7 @@ Klik op **[!UICONTROL Portfolio Settings]** in de rechterbovenhoek om de alleen-
 
 ### Aangepaste, door de gebruiker gegenereerde simulaties
 
-U kunt een rapport van de douanesimulatie voor één enkel [ geoptimaliseerd of actief ](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portefeuille tot stand brengen gebruikend de huidige portefeuillemontages of gebruikend de montages van de douaneportefeuille, met of zonder toegepaste beperkingen op het niveau van de biedingseenheid, om de resultaten te zien die die montages zouden produceren zonder hen eigenlijk te veranderen. U kunt bijvoorbeeld een aangepaste simulatie maken om het effect te zien van het gebruik van een andere uitgavenstrategie of een ander leerbudget zonder rekening te houden met actieve beperkingen op biedingseenheden in de portfolio. U kunt de geschatte prestaties weergeven op het niveau van het portfolio, de campagne, de biedeenheid en het apparaat.
+U kunt een rapport van de douanesimulatie voor één enkel [&#x200B; geoptimaliseerd of actief &#x200B;](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-about.md) portefeuille tot stand brengen gebruikend de huidige portefeuillemontages of gebruikend de montages van de douaneportefeuille, met of zonder toegepaste beperkingen op het niveau van de biedingseenheid, om de resultaten te zien die die montages zouden produceren zonder hen eigenlijk te veranderen. U kunt bijvoorbeeld een aangepaste simulatie maken om het effect te zien van het gebruik van een andere uitgavenstrategie of een ander leerbudget zonder rekening te houden met actieve beperkingen op biedingseenheden in de portfolio. U kunt de geschatte prestaties weergeven op het niveau van het portfolio, de campagne, de biedeenheid en het apparaat.
 
 #### Gedownloade aangepaste simulaties
 
@@ -69,7 +69,7 @@ Elke gedownloade douanesimulatie bestaat uit één werkboek. Elk werkboek omvat 
 
 #### Aangepaste simulatiedetails op het scherm
 
-De details van de simulatie op het scherm tonen portefeuille-vlakke visuele en tabelinzichten. Voor gegevens door campagne, en groepen, bied eenheden, of apparaat, [ download in plaats daarvan de simulatie ](simulation-download.md).
+De details van de simulatie op het scherm tonen portefeuille-vlakke visuele en tabelinzichten. Voor gegevens door campagne, en groepen, bied eenheden, of apparaat, [&#x200B; download in plaats daarvan de simulatie &#x200B;](simulation-download.md).
 
 #### Grafiekweergave
 
@@ -99,13 +99,13 @@ De gegevenstabel bevat de voortgang van elke simulatie, een [!UICONTROL Target M
 
 ### Beschikbare acties {#simulations-actions}
 
-* [ pas de mening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) aan om extra metriek, met inbegrip van de geschatte beelden te omvatten; de daadwerkelijke kosten, kliks, impressies, en objectieve waarde; de kosten-aan-objectieve waarde; de kostennauwkeurigheid, kliknauwkeurigheid, en objectieve waardeconfliciteit; en het verschil (delta) tussen de voorspelde en daadwerkelijke objectieve waarde en kosten-aan-objectieve waarde. U kunt ook kolommen voor de meeste simulatie-instellingen en het simulatietype ([!UICONTROL Custom] of [!UICONTROL Weekly] ) opnemen.
+* [&#x200B; pas de mening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) aan om extra metriek, met inbegrip van de geschatte beelden te omvatten; de daadwerkelijke kosten, kliks, impressies, en objectieve waarde; de kosten-aan-objectieve waarde; de kostennauwkeurigheid, kliknauwkeurigheid, en objectieve waardeconfliciteit; en het verschil (delta) tussen de voorspelde en daadwerkelijke objectieve waarde en kosten-aan-objectieve waarde. U kunt ook kolommen voor de meeste simulatie-instellingen en het simulatietype ([!UICONTROL Custom] of [!UICONTROL Weekly] ) opnemen.
 
-* [ produceer of hervat een douanesimulatie ](simulation-create.md) voor één enkele portefeuille. U kunt of een nieuwe simulatie tot stand brengen of een bestaande simulatie in de lijst regenereren.
+* [&#x200B; produceer of hervat een douanesimulatie &#x200B;](simulation-create.md) voor één enkele portefeuille. U kunt of een nieuwe simulatie tot stand brengen of een bestaande simulatie in de lijst regenereren.
 
-* [ Mening een wekelijkse of douanesimulatie op scherm ](simulation-view.md).
+* [&#x200B; Mening een wekelijkse of douanesimulatie op scherm &#x200B;](simulation-view.md).
 
-* [ Download wekelijkse en douanesimulaties ](simulation-download.md) als [!DNL Microsoft Excel] werkboeken in de dossiers van het PIT.
+* [&#x200B; Download wekelijkse en douanesimulaties &#x200B;](simulation-download.md) als [!DNL Microsoft Excel] werkboeken in de dossiers van het PIT.
 
 * Open met de knop [!UICONTROL Spend Planner] het oude gereedschap Aanbeveling voor uitgaven, waarmee u de optimale uitgavenverdeling over portfolio&#39;s kunt identificeren.
 
@@ -121,6 +121,6 @@ De simulatierapporten van de monitor in de volgende situaties:
 
 >[!MORELIKETHIS]
 >
->* [ Looppas of hervat een simulatie ](simulation-create.md)
->* [ de simulatiedetails van de Mening ](simulation-view.md)
->* [ simulaties van de Download ](simulation-download.md)
+>* [&#x200B; Looppas of hervat een simulatie &#x200B;](simulation-create.md)
+>* [&#x200B; de simulatiedetails van de Mening &#x200B;](simulation-view.md)
+>* [&#x200B; simulaties van de Download &#x200B;](simulation-download.md)

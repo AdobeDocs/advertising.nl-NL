@@ -36,6 +36,6 @@ U kunt simulatiedetails op het scherm bekijken als grafiek of lijst.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer simulaties ](simulation-about.md)
->* [ Looppas of hervat een simulatie ](simulation-create.md)
+>* [&#x200B; Ongeveer simulaties &#x200B;](simulation-about.md)
+>* [&#x200B; Looppas of hervat een simulatie &#x200B;](simulation-create.md)
 
