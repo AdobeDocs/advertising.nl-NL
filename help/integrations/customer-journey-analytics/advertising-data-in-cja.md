@@ -92,7 +92,7 @@ In de volgende tabel:
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht ](overview.md)
->* [ Eerste vereisten ](prerequisites.md)
->* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
->* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
+>* [&#x200B; Overzicht &#x200B;](overview.md)
+>* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
+>* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
