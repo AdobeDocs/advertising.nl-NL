@@ -2,7 +2,8 @@
 title: Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics
 description: Verwijs naar de metriek en de afmetingen van Adobe Advertising die in Customer Journey Analytics beschikbaar zijn.
 feature: Integration with Adobe Customer Journey Analytics
-source-git-commit: fabe7312fc4d1ab899bedcf9eae1c8040a4a6532
+exl-id: 97c89e03-ab15-4906-96fc-6bb77ea0cd7c
+source-git-commit: 3ab2e38f6a2f70c03504363575b13dc0dc730282
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
@@ -68,30 +69,30 @@ In de volgende tabel:
 
 | Adobe Advertising-veldnaam | XDM-veldnaam | Weergavenaam XDM-veld | Source |
 |------------------------------|----------------|------------------------|--------|
-| Sleutel | skwcid | Adobe Advertising-id |
-| Advertentieplatform | adobe_advertence_ad_platform | Adobe Advertising Ad Platform |
-| Account | adobe_advertence_account | Adobe Advertising-account |
-| Campagne | adobe_advertence_campagne | Adobe Advertising-campagne |
-| Advertentiegroep | adobe_advertence_ad_group | Adobe Advertising Advertentiegroep |
-| Trefwoord | adobe_advertence_keyword | Adobe Advertising-trefwoord |
-| Advertentie | adobe_advertence_ad | Adobe Advertising Ad |
-| Plaatsing | adobe_advertence_placement | Adobe Advertising-plaatsing |
-| Type afstemmen | adobe_advertence_match_type | Type Adobe Advertising-overeenkomst |
-| Titel van advertentie | adobe_advertence_ad_title | Adobe Advertising Advertentie Titel |
-| Advertentiebeschrijving | adobe_advertence_ad_description | Adobe Advertising - advertentiebeschrijving |
-| Doel-URL toevoegen | adobe_advertence_ad_destination_url | URL Adobe Advertising-advertentie |
-| URL voor advertentie | adobe_advertence_ad_display_url | URL Adobe Advertising AdDisplay |
-| Apparaat | adobe_advertence_device | Adobe Advertising-apparaat |
-| Trefwoord MatchType | adobe_advertence_keyword_matchtype | Adobe Advertising-trefwoordmatchtype |
-| Netwerk | adobe_advertence_network | Adobe Advertising Network |
-| Advertentietype | adobe_advertence_ad_type | Adobe Advertising Advertentietype |
-| Productdoel | adobe_advertence_product_target | Adobe Advertising-productdoel |
-| Landingstype | adobe_advertence_landing_type | Adobe Advertising-landingstype |
-| Optimalisatie | adobe_advertence_optimization | Adobe Advertising optimaliseren |
+| Sleutel | skwcid | Adobe Advertising-id |  |
+| Advertentieplatform | adobe_advertence_ad_platform | Adobe Advertising Ad Platform |  |
+| Account | adobe_advertence_account | Adobe Advertising-account |  |
+| Campagne | adobe_advertence_campagne | Adobe Advertising-campagne |  |
+| Advertentiegroep | adobe_advertence_ad_group | Adobe Advertising Advertentiegroep |  |
+| Trefwoord | adobe_advertence_keyword | Adobe Advertising-trefwoord |  |
+| Advertentie | adobe_advertence_ad | Adobe Advertising Ad |  |
+| Plaatsing | adobe_advertence_placement | Adobe Advertising-plaatsing |  |
+| Type afstemmen | adobe_advertence_match_type | Type Adobe Advertising-overeenkomst |  |
+| Titel van advertentie | adobe_advertence_ad_title | Adobe Advertising Advertentie Titel |  |
+| Advertentiebeschrijving | adobe_advertence_ad_description | Adobe Advertising - advertentiebeschrijving |  |
+| Doel-URL toevoegen | adobe_advertence_ad_destination_url | URL Adobe Advertising-advertentie |  |
+| URL voor advertentie | adobe_advertence_ad_display_url | URL Adobe Advertising AdDisplay |  |
+| Apparaat | adobe_advertence_device | Adobe Advertising-apparaat |  |
+| Trefwoord MatchType | adobe_advertence_keyword_matchtype | Adobe Advertising-trefwoordmatchtype |  |
+| Netwerk | adobe_advertence_network | Adobe Advertising Network |  |
+| Advertentietype | adobe_advertence_ad_type | Adobe Advertising Advertentietype |  |
+| Productdoel | adobe_advertence_product_target | Adobe Advertising-productdoel |  |
+| Landingstype | adobe_advertence_landing_type | Adobe Advertising-landingstype |  |
+| Optimalisatie | adobe_advertence_optimization | Adobe Advertising optimaliseren |  |
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht &#x200B;](overview.md)
->* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
->* [&#x200B; Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
->* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
+>* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
