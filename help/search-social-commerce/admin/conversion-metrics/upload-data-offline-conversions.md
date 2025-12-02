@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]en [!DNL Microsoft Advertising] alleen accounts*
 
-U kunt uw eerste-partij, off-line omzettingsgegevens - met inbegrip van gehakt e-mailadressen en telefoonaantallen - uploaden om aan uw bestaande [[!DNL Google Ads]  verbeterde omzettingen voor lood ](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) en [[!DNL Microsoft Advertising]  verbeterde omzettingen ](https://help.ads.microsoft.com/#apex/ads/en/60178) in kaart te brengen. Alle geüploade gegevens worden in realtime gesynchroniseerd met het advertentienetwerk.
+U kunt uw eerste-partij, off-line omzettingsgegevens - met inbegrip van gehakt e-mailadressen en telefoonaantallen - uploaden om aan uw bestaande [[!DNL Google Ads]  verbeterde omzettingen voor lood &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md) en [[!DNL Microsoft Advertising]  verbeterde omzettingen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60178) in kaart te brengen. Alle geüploade gegevens worden in realtime gesynchroniseerd met het advertentienetwerk.
 
 ## Gegevens uploaden voor verbeterde conversies
 
@@ -22,7 +22,7 @@ U kunt uw eerste-partij, off-line omzettingsgegevens - met inbegrip van gehakt e
 
 1. Selecteer het advertentienetwerk, en dan de rekening.
 
-1. (Facultatief) om een malplaatje met alle [ vereiste gegevensgebieden ](#enhanced-conversions-leads-data) in [!DNL Microsoft Excel] formaat te downloaden, klik **[!UICONTROL View Template]**, en download dan het dossier volgens de normale procedure van uw browser.
+1. (Facultatief) om een malplaatje met alle [&#x200B; vereiste gegevensgebieden &#x200B;](#enhanced-conversions-leads-data) in [!DNL Microsoft Excel] formaat te downloaden, klik **[!UICONTROL View Template]**, en download dan het dossier volgens de normale procedure van uw browser.
 
    U kunt het bestand bewerken om de gegevens op te nemen en uw wijzigingen op te slaan. Vervolgens uploadt u het bestand in de volgende stap.
 
@@ -34,7 +34,7 @@ U kunt uw eerste-partij, off-line omzettingsgegevens - met inbegrip van gehakt e
 
 `Parameters:TimeZone=insert_timezone`
 
-Ga de tijdzone van de rekening of in deze plaats of in &quot;[!UICONTROL Conversion Time]&quot;kolom voor elke rij in. Gebruik of a \) ([!DNL Google Ads only]) het [ gesteunde formaat van identiteitskaart van de tijdzone ](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) of b\) de GMT compensatie, zoals die door + of - en het 4-cijfertijdverschil (zoals - 0500 voor New York, +0100 voor Berlijn, of +0000 voor Greenwich Gemiddelde Tijd) wordt vermeld.
+Ga de tijdzone van de rekening of in deze plaats of in &quot;[!UICONTROL Conversion Time]&quot;kolom voor elke rij in. Gebruik of a \) ([!DNL Google Ads only]) het [&#x200B; gesteunde formaat van identiteitskaart van de tijdzone &#x200B;](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) of b\) de GMT compensatie, zoals die door + of - en het 4-cijfertijdverschil (zoals - 0500 voor New York, +0100 voor Berlijn, of +0000 voor Greenwich Gemiddelde Tijd) wordt vermeld.
 
 ### Tabelkolommen en -waarden voor [!DNL Google Ads]
 
@@ -43,7 +43,7 @@ Ga de tijdzone van de rekening of in deze plaats of in &quot;[!UICONTROL Convers
 | E-mail | Het e-mailadres van de gebruiker, dat moet worden gehasht gebruikend het algoritme SHA-256. Elke rij moet een e-mailwaarde of een waarde van het Aantal van de Telefoon bevatten. |
 | Telefoonnummer | Het telefoonnummer van de gebruiker, dat moet worden hashed gebruikend het algoritme SHA-256. De code moet een landcode bevatten en mag streepjes en andere symbolen bevatten. Elke rij moet een e-mailwaarde of een waarde van het Aantal van de Telefoon bevatten. |
 | Conversienaam | (Vereist) De naam van de conversieactie. |
-| Conversietijd | (Vereist) de tijd de omzettingsgebeurtenis in a [ gesteunde tijdformaat ](https://support.google.com/google-ads/answer/7014069#prepare_data) voorkwam. Als u geen identiteitskaart van de tijdzone van de rekening in `Parameters:TimeZone=insert_timezone` lijn boven de gegevenslijst omvat, dan omvat de tijdzone voor elke rij gebruikend of a\) het [ gesteunde formaat van identiteitskaart van de tijdzone ](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) of b\) de GMT compensatie, zoals die door + of - en het 4-cijfertijdverschil (zoals - 0500 voor New York, +0100 voor Berlijn, of 0 wordt vermeld 000 voor Greenwich Mean Time). |
+| Conversietijd | (Vereist) de tijd de omzettingsgebeurtenis in a [&#x200B; gesteunde tijdformaat &#x200B;](https://support.google.com/google-ads/answer/7014069#prepare_data) voorkwam. Als u geen identiteitskaart van de tijdzone van de rekening in `Parameters:TimeZone=insert_timezone` lijn boven de gegevenslijst omvat, dan omvat de tijdzone voor elke rij gebruikend of a\) het [&#x200B; gesteunde formaat van identiteitskaart van de tijdzone &#x200B;](https://developers.google.com/google-ads/api/data/codes-formats#timezone_ids) of b\) de GMT compensatie, zoals die door + of - en het 4-cijfertijdverschil (zoals - 0500 voor New York, +0100 voor Berlijn, of 0 wordt vermeld 000 voor Greenwich Mean Time). |
 | Conversiewaarde | (Vereist) De numerieke conversiewaarde. |
 | Conversievaluta | De valutacode voor de conversiegebeurtenis. |
 | Gebruikersgegevens toevoegen | (Van toepassing op gegevens die betrekking hebben op gebruikers in de Europese Economische Ruimte (EER) of het Verenigd Koninkrijk (VK)) Geeft aan of er toestemming is gegeven voor het verzenden van gebruikersgegevens naar [!DNL Google] voor persoonlijke doeleinden. Waarden kunnen `Granted`, `Denied` of \[null\] (die als [!DNL Google Ads] naar `Unspecified` wordt verzonden) zijn. **Nota:** [!DNL Google Ads] dwingt momenteel geen toestemming voor verbeterde omzettingen voor lood af, maar het kan dit in de toekomst doen. |
@@ -51,12 +51,12 @@ Ga de tijdzone van de rekening of in deze plaats of in &quot;[!UICONTROL Convers
 
 ### Tabelkolommen en -waarden voor [!DNL Microsoft Advertising]
 
-Voor meer instructies voor het gebruiken van het malplaatje, zie [ https://help.ads.microsoft.com/#apex/3/56852 ](https://help.ads.microsoft.com/#apex/3/56852).
+Voor meer instructies voor het gebruiken van het malplaatje, zie [&#x200B; https://help.ads.microsoft.com/#apex/3/56852 &#x200B;](https://help.ads.microsoft.com/#apex/3/56852).
 
 | Kolom | Beschrijving |
 | ------ | ----------- |
 | Conversienaam | (Vereist) De naam van het omzettingsdoel. |
-| Conversietijd | (Vereist) Het tijdstip waarop de conversiegebeurtenis heeft plaatsgevonden. Als u de tijdzone-id van de account niet opneemt in de `Parameters:TimeZone=insert_timezone` -regel boven de datatabel, neemt u de tijdzone voor elke rij op met behulp van de GMT-verschuiving, zoals aangegeven door + of - en het 4-cijferige tijdverschil (zoals -0500 voor New York, +0100 voor Berlijn of +000 voor Greenwich Mean Time). Voor een lijst van tijdstreken voor diverse steden, zie [ https://learn.microsoft.com/en-us/advertising/guides/time-zones ](https://learn.microsoft.com/en-us/advertising/guides/time-zones), maar zorg ervoor dat u het formaat gebruikt hier in plaats van het formaat in de lijst van de tijdzone wordt gespecificeerd. |
+| Conversietijd | (Vereist) Het tijdstip waarop de conversiegebeurtenis heeft plaatsgevonden. Als u de tijdzone-id van de account niet opneemt in de `Parameters:TimeZone=insert_timezone` -regel boven de datatabel, neemt u de tijdzone voor elke rij op met behulp van de GMT-verschuiving, zoals aangegeven door + of - en het 4-cijferige tijdverschil (zoals -0500 voor New York, +0100 voor Berlijn of +000 voor Greenwich Mean Time). Voor een lijst van tijdstreken voor diverse steden, zie [&#x200B; https://learn.microsoft.com/en-us/advertising/guides/time-zones &#x200B;](https://learn.microsoft.com/en-us/advertising/guides/time-zones), maar zorg ervoor dat u het formaat gebruikt hier in plaats van het formaat in de lijst van de tijdzone wordt gespecificeerd. |
 | Conversiewaarde | (Vereist) De numerieke conversiewaarde. |
 | Conversievaluta | De valutacode voor de conversiegebeurtenis. |
 | Microsoft Click ID | De bijbehorende unieke klikidentificatie [!DNL Microsoft] (MSCLKID). Dit veld is mogelijk leeg voor verbeterde offlineconversies. |
@@ -65,7 +65,7 @@ Voor meer instructies voor het gebruiken van het malplaatje, zie [ https://help.
 
 >[!MORELIKETHIS]
 >
->* [ voer  [!DNL Google Ads]  verbeterde omzettingen voor lood ](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md) uit
->* [ voert  [!DNL Microsoft Advertising]  verbeterde off-line omzettingen uit ](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
->* [ creeer een omzettingsactie voor a  [!DNL Google Ads]  verbeterde omzetting voor lood ](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
->* [ uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
+>* [&#x200B; voer  [!DNL Google Ads]  verbeterde omzettingen voor lood &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/google-enhanced-conversions-leads.md) uit
+>* [&#x200B; voert  [!DNL Microsoft Advertising]  verbeterde off-line omzettingen uit &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/microsoft-enhanced-conversions.md)
+>* [&#x200B; creeer een omzettingsactie voor a  [!DNL Google Ads]  verbeterde omzetting voor lood &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-action-google.md)
+>* [&#x200B; uploadt Onderzoek, Sociale, &amp; Commerce-Gecontroleerde omzettingsmetriek aan  [!DNL Google Ads]](/help/search-social-commerce/tools/conversion-metrics-upload-to-google.md)
