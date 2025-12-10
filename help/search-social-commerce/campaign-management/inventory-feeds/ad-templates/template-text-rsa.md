@@ -69,7 +69,7 @@ Wanneer geen gelijke wordt gevonden, worden alle gegevens voor de campagne geneg
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799/2) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] slechts) gebruik de parameter `!{unescapedurl}` om op de het landen pagina URL te wijzen.
 
@@ -143,7 +143,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 * Voor Yahoo! Japan Adds-accounts, gebruikt u de parameter {lpurl} .
 
-* Voor parameters beschikbaar voor Microsoft Advertising en Google Ads rekeningen, zie de [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of het &quot;Volgend malplaatje slechts &quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters beschikbaar voor Microsoft Advertising en Google Ads rekeningen, zie de [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of het &quot;Volgend malplaatje slechts &quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
 Deze waarde negeert de instellingen op account- en campagnereniveau, maar het bijhouden van sjablonen op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijft deze waarde.
 
@@ -165,7 +165,7 @@ Deze waarde negeert de instellingen op account- en campagnereniveau, maar het bi
 
 **[!UICONTROL Keywords]:** Trefwoorden voor de opgegeven ad-groep (of campagne voor [!DNL Yandex] -accounts), die kunnen bestaan uit een willekeurige combinatie van statische tekst, kolommen in het opgegeven bestand en modifiers. Kolomnamen en modifiers worden vervangen door werkelijke gegevens wanneer het opgegeven voederbestand via de sjabloon wordt doorgegeven.
 
-Om een kolomnaam of een bepalingsgroep als dynamische parameter op te nemen, klik op het inputgebied, en klik dan een kolomnaam in de kolomlijst of a [ bepalingsnaam ](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de lijst van Bepalingen. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis voor het overeenkomende type met trefwoorden rond de kolomnaam om het overeenkomende type op te geven:
+Om een kolomnaam of een bepalingsgroep als dynamische parameter op te nemen, klik op het inputgebied, en klik dan een kolomnaam in de kolomlijst of a [&#x200B; bepalingsnaam &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de lijst van Bepalingen. Als u meerdere trefwoorden of meerdere overeenkomende typen voor hetzelfde trefwoord wilt opgeven, voert u deze op aparte regels in. Gebruik de volgende syntaxis voor het overeenkomende type met trefwoorden rond de kolomnaam om het overeenkomende type op te geven:
 
 * Voor sjablonen [!DNL Google Ads] , [!DNL Microsoft Advertising] en [!DNL Yahoo! Japan Ads] :
 
@@ -177,16 +177,16 @@ Om een kolomnaam of een bepalingsgroep als dynamische parameter op te nemen, kli
 
 * Voor [!DNL Yandex] sjablonen:
 
-   * Voor dynamische parameters: voeg de kolomnaam in, zoals `[keyword]` . Gebruik de [[!DNL Yandex]-specifieke syntaxis ](https://yandex.com/support/direct/keywords/symbols-and-operators.html) om het type van overeenkomst aan te geven. **Nota:** voor brede gelijke termijnen, gebruik de volgende syntaxis: De Herziening van de Overeenkomst van de Brede voor de eerste termijn in de kolom van het Sleutelwoord (zoals +blue suede schoenen) = `+[keyword]`, Brede Verandering van de Overeenkomst voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`
+   * Voor dynamische parameters: voeg de kolomnaam in, zoals `[keyword]` . Gebruik de [[!DNL Yandex]-specifieke syntaxis &#x200B;](https://yandex.com/support/direct/keywords/symbols-and-operators.html) om het type van overeenkomst aan te geven. **Nota:** voor brede gelijke termijnen, gebruik de volgende syntaxis: De Herziening van de Overeenkomst van de Brede voor de eerste termijn in de kolom van het Sleutelwoord (zoals +blue suede schoenen) = `+[keyword]`, Brede Verandering van de Overeenkomst voor elke termijn in de kolom van het Sleutelwoord (zoals +blue +suede +schoenen) = `+[keyword]+`
 
-   * Voor statische trefwoorden: alleen zoektrefwoorden worden ondersteund. Gebruik de [[!DNL Yandex] - specifieke syntaxis ](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor het sleutelwoord. De haakjes (`[]`) om op woordorde te wijzen worden niet gesteund.
+   * Voor statische trefwoorden: alleen zoektrefwoorden worden ondersteund. Gebruik de [[!DNL Yandex] - specifieke syntaxis &#x200B;](https://yandex.com/support/direct/keywords/symbols-and-operators.html) voor het sleutelwoord. De haakjes (`[]`) om op woordorde te wijzen worden niet gesteund.
 
 >[!NOTE]
 >
 >* U kunt handmatig meerdere wijzigingwaarden opnemen in het veld Trefwoorden door met komma&#39;s gescheiden waarden tussen haakjes in te sluiten voor of na een trefwoordparameter (maar niet op beide plaatsen). `(cheap, discount, affordable)[product]` maakt bijvoorbeeld drie afzonderlijke advertenties voor elk product.
 >* Als u geen overeenkomend type specificeert, dan wordt het standaard gelijke type &quot;breed&quot;gebruikt.
 >* Negatieve overeenkomsten worden niet ondersteund.
->* Google-trefwoorden voor brede overeenkomsten hebben nu hetzelfde gedrag als woordcombinaties die overeenkomen voor bepaalde talen en u kunt geen nieuwe trefwoorden voor uitgebreide overeenkomsten maken. Zie de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/10286719) voor meer informatie.
+>* Google-trefwoorden voor brede overeenkomsten hebben nu hetzelfde gedrag als woordcombinaties die overeenkomen voor bepaalde talen en u kunt geen nieuwe trefwoorden voor uitgebreide overeenkomsten maken. Zie de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/10286719) voor meer informatie.
 
 **[!UICONTROL Map Only]:** voegt nieuwe advertenties toe aan advertentiegroepen (of aan campagnes voor [!DNL Yandex] accounts) waarin de opgegeven trefwoorden worden gevonden, in plaats van nieuwe trefwoorden te maken. Schakel het selectievakje in om deze optie in te schakelen. Wanneer deze optie wordt toegelaten, zijn om het even welk Param 1 en Paragraaf 2 variabelen in de gespecificeerde sleutelwoorden niet van toepassing omdat de sleutelwoorden bestaan.
 
@@ -207,7 +207,7 @@ Als u een feed [!DNL Google Merchant Center] gebruikt en deze waarde opneemt in 
 
 * De URL van de landingspagina aangeven:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] slechts) gebruik de parameter `!{lpurl}` om op de het landen pagina URL te wijzen.
 
@@ -239,7 +239,7 @@ De gegevensvelden in het feed-bestand mogen maximaal 25 tekens hebben en mogen a
 
 **[!UICONTROL Param 3]:** ([!DNL Microsoft Advertising] slechts malplaatjes) het koord om als substitutiewaarde in een advertentie te gebruiken als de titel, de tekst, vertoning URL, of definitieve URL het `{Param3}` dynamische vervangingskoord bevat. De maximumlengte is 70 tekens, maar houd rekening met de maximumlengte van de advertentie-elementen waarin u de titel gebruikt (een advertentitel kan bijvoorbeeld maximaal 25 tekens bevatten).
 
-**[!UICONTROL Initial Bid (<Match Type or Ad Type>)]:** Het aanvankelijke bod voor elk sleutelwoord met het gespecificeerde gelijke type of advertentietype.
+**[!UICONTROL Initial Bid (&lt;Match Type or Ad Type>)]:** Het aanvankelijke bod voor elk sleutelwoord met het gespecificeerde gelijke type of advertentietype.
 
 ## [!UICONTROL Ads]
 
@@ -321,7 +321,7 @@ Voor responsieve zoekadvertenties voegt u een advertentieklanker in met de volge
 
 **[!UICONTROL Base URL]:** (Rekeningen met bestemmingsURLs slechts) de pagina waaraan de gebruikers worden genomen. Het kan herrichtings- en volgcode van derden bevatten. Als u de Adobe Advertising-service voor het bijhouden van conversies gebruikt en de campagnemontages het gebruik van [!UICONTROL EF Redirect] omvatten en het bijhouden van wijzigingen op advertentieniveau toevoegen, voegt Search, Social &amp; Commerce automatisch een eigen omleiding en trackingcode toe aan de advertentie.
 
-Om een kolomnaam of bepalingsgroep als dynamische parameter op te nemen, klik op het inputgebied, en klik dan een kolomnaam in de kolomlijst of a [ bepalingsnaam ](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de [!UICONTROL Modifiers] lijst.
+Om een kolomnaam of bepalingsgroep als dynamische parameter op te nemen, klik op het inputgebied, en klik dan een kolomnaam in de kolomlijst of a [&#x200B; bepalingsnaam &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/modifiers-manage.md) in de [!UICONTROL Modifiers] lijst.
 
 **[!UICONTROL Final URL]:** (Accounts met final/advanced URLs) De bestemmingspagina-URL waarnaar gebruikers worden geleid wanneer zij op uw advertentie klikken. De URL moet hetzelfde domein bevatten als de URL van de weergave en alle parameters in de uiteindelijke URL moeten overeenkomen met de parameters in de URL van de bestemmingspagina na de advertentie. Het kan omleidingen binnen het landende paginadomein of subdomain bevatten maar geen omleidingen buiten het landende paginadomein.
 
@@ -340,7 +340,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 * Voor Yahoo! Japan Adds-accounts, gebruikt u de parameter {lpurl} .
 
-* Voor parameters beschikbaar voor Microsoft Advertising en Google Ads rekeningen, zie de [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of het &quot;Volgend malplaatje slechts &quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+* Voor parameters beschikbaar voor Microsoft Advertising en Google Ads rekeningen, zie de [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of het &quot;Volgend malplaatje slechts &quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
 **\[Alternatieve advertentievelden onder de originele advertentievelden\]:** (Facultatief) een afwisselende reeks van een advertentiekopie, die kan worden gebruikt als om het even welke lijnen in origineel en exemplaar de maximum toegestane lengte overschrijden zodra om het even welke dynamische parameters met gegevens tijdens propagatie worden gevuld.
 
@@ -386,8 +386,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden. De URL van de land
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer automatiserend en beheer gebruikend inventarisvoer ](../inventory-feeds-about.md)
->* [ het Leiden bepalingen ](../modifiers-manage.md)
->* [ het Leiden dossiers van de materiaalvoer van inventarisgegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
->* [ doorgeven voedergegevens door malplaatjes ](../feed-data-propagate.md)
->* [ de campagnegegevens van inventarisvoer aan ad netwerken ](../propagated-data-post.md)
+>* [&#x200B; Ongeveer automatiserend en beheer gebruikend inventarisvoer &#x200B;](../inventory-feeds-about.md)
+>* [&#x200B; het Leiden bepalingen &#x200B;](../modifiers-manage.md)
+>* [&#x200B; het Leiden dossiers van de materiaalvoer van inventarisgegevens &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
+>* [&#x200B; doorgeven voedergegevens door malplaatjes &#x200B;](../feed-data-propagate.md)
+>* [&#x200B; de campagnegegevens van inventarisvoer aan ad netwerken &#x200B;](../propagated-data-post.md)

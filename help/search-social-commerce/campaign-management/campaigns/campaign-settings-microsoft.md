@@ -168,7 +168,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 **[!UICONTROL Negative Websites]:** (Campagnes op de vertoning/het inheemse netwerk slechts; facultatief) Plaatsen op het vertoningsnetwerk waarop u uw advertenties niet wilt worden getoond. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quot;[ verhinderen advertenties op specifieke websites ](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
+Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quot;[&#x200B; verhinderen advertenties op specifieke websites &#x200B;](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
 
 ## [!UICONTROL Campaign Tracking]
 
@@ -210,7 +210,7 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep.
 
-**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising]  beeldrichtlijnen ](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising]  beeldrichtlijnen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -232,7 +232,7 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 * Als u afbeeldingen in uw [!UICONTROL Asset Library] wilt selecteren, klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** minstens één embleem. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising]  activarichtlijnen ](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Logos]:** minstens één embleem. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising]  activarichtlijnen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -291,7 +291,7 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 **[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft Advertising] computerleermodellen gebruiken het publiek om vergelijkbare websurfers te vinden die u als doel wilt gebruiken en kunnen ook advertenties aan het publiek tonen die niet als signalen worden opgegeven om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
->De signalen van het publiek zijn verschillend van [ en groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>De signalen van het publiek zijn verschillend van [&#x200B; en groep-vlakke publieksdoelstellingen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 <!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
 
@@ -301,14 +301,14 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 ## [!UICONTROL Conversion Goals]
 
-**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Nota:** de Doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [ synchroniseert manueel de gegevens van het advertentienetwerk ](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Nota:** de Doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [&#x200B; synchroniseert manueel de gegevens van het advertentienetwerk &#x200B;](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
 >[!TIP]
 >
 >Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
-> Nochtans, voor campagnes in hybride portefeuilles waarvoor u [ doelstellingen aan het advertentienetwerk ](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsdoel voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omzettingen omvatten die door de [!DNL Microsoft Advertising] universele gebeurtenis het volgen (markering van UET worden gevolgd) omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
+> Nochtans, voor campagnes in hybride portefeuilles waarvoor u [&#x200B; doelstellingen aan het advertentienetwerk &#x200B;](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsdoel voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omzettingen omvatten die door de [!DNL Microsoft Advertising] universele gebeurtenis het volgen (markering van UET worden gevolgd) omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
 
 >[!MORELIKETHIS]
 >
->* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [&#x200B; beheert campagnes &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)

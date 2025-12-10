@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Bijlage - Vereiste bulksbladgegevens voor [!DNL Microsoft Advertising] -accounts
 
-Als u [!DNL Microsoft Advertising] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Microsoft Advertising] -accounts. U kunt of a) [ bulkbladdossiers voor bestaande rekeningen ](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[ Ondersteunde Formaten van het Dossier van het Bulksblad ](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
+Als u [!DNL Microsoft Advertising] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Microsoft Advertising] -accounts. U kunt of a) [&#x200B; bulkbladdossiers voor bestaande rekeningen &#x200B;](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[&#x200B; Ondersteunde Formaten van het Dossier van het Bulksblad &#x200B;](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
 
-Elk bulksheet moet de kopbalgebieden en overeenkomstige gegevensgebieden omvatten die voor de [ worden vereist specifieke verrichtingen u ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md) (zoals het creëren van een advertentie) wilt uitvoeren. Als een veld niet vereist is, kunt u het weglaten uit de koptekst- en gegevensrijen. Alle aangepaste kolommen worden verwijderd wanneer u het bulkbladbestand uploadt.
+Elk bulksheet moet de kopbalgebieden en overeenkomstige gegevensgebieden omvatten die voor de [&#x200B; worden vereist specifieke verrichtingen u &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-data-formats/bulksheet-operations.md) (zoals het creëren van een advertentie) wilt uitvoeren. Als een veld niet vereist is, kunt u het weglaten uit de koptekst- en gegevensrijen. Alle aangepaste kolommen worden verwijderd wanneer u het bulkbladbestand uploadt.
 
 Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tabellen die aangeven welke velden vereist zijn om gegevens voor afzonderlijke entiteiten (zoals campagnes en trefwoorden) toe te voegen, te bewerken of te verwijderen.
 
@@ -22,7 +22,7 @@ Hieronder volgt een tabel met alle beschikbare gegevensvelden en aanvullende tab
 
 In de volgende tabel worden alle beschikbare gegevensvelden beschreven.
 
-Voor de gegevensgebieden relevant voor rekeningsentiteiten, zie &quot;[ Gebieden die worden vereist om, elke rekeningscomponent ](#bulksheet-fields-per-component-microsoft) tot stand te brengen uit te geven of te schrappen.&quot;
+Voor de gegevensgebieden relevant voor rekeningsentiteiten, zie &quot;[&#x200B; Gebieden die worden vereist om, elke rekeningscomponent &#x200B;](#bulksheet-fields-per-component-microsoft) tot stand te brengen uit te geven of te schrappen.&quot;
 
 | Veld | Beschrijving |
 |----|----|
@@ -36,7 +36,7 @@ Voor de gegevensgebieden relevant voor rekeningsentiteiten, zie &quot;[ Gebieden
 | [!UICONTROL Has EU Political Ads] | (Van toepassing op campagnes die gericht zijn op het publiek in de Europese Unie (EU)) Of de campagne al dan niet politieke reclame per behoefte bevat voor advertenties die in de Europese Unie worden bediend krachtens EU-Verordening 2024/90: <i>[!UICONTROL Yes]</i> of <i>[!UICONTROL No]</i> . |
 | [!UICONTROL Merchant ID] | (Winkelcampagnes en publiekscampagnes die alleen zijn gekoppeld aan een commerciële feed) De klant-id van het zakelijke account waarvan de producten voor de campagne worden gebruikt. |
 | [!UICONTROL Sales Country] | (Alleen winkelcampagnes; alleen-lezen voor bestaande campagnes) Het land waar de producten van de campagne worden verkocht. Omdat de producten met doellanden worden geassocieerd, bepaalt dit het plaatsen welke producten in de campagne worden geadverteerd. |
-| [!UICONTROL Product Scope Filter] | (Campagnes die het winkelnetwerk slechts gebruiken) De producten in uw handelaarrekening waarvoor productadvertenties voor de campagne kunnen worden gecreeerd. U kunt maximaal zeven productafmetingen en kenmerkcombinaties ingaan waarop om uw producten te filtreren, gebruikend het formaat dimensi=attribute. Scheid meerdere filters met een scheidingsteken &quot;>>&quot;. Voor een lijst van beschikbare productafmetingen, zie &quot;[ het Verkopen de filters van het campagneproduct ](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot;<br><br> Voorbeeld: &quot;`CategoryL1==Animals & Pet Supplies>>CategoryL2=Pet Supplies>>Brand=Acme Pet Supplies`&quot;<br><br> om de bestaande waarden te schrappen, gebruik de waarde `[delete]` (met inbegrip van de steunen). |
+| [!UICONTROL Product Scope Filter] | (Campagnes die het winkelnetwerk slechts gebruiken) De producten in uw handelaarrekening waarvoor productadvertenties voor de campagne kunnen worden gecreeerd. U kunt maximaal zeven productafmetingen en kenmerkcombinaties ingaan waarop om uw producten te filtreren, gebruikend het formaat dimensi=attribute. Scheid meerdere filters met een scheidingsteken &quot;>>&quot;. Voor een lijst van beschikbare productafmetingen, zie &quot;[&#x200B; het Verkopen de filters van het campagneproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot;<br><br> Voorbeeld: &quot;`CategoryL1==Animals & Pet Supplies>>CategoryL2=Pet Supplies>>Brand=Acme Pet Supplies`&quot;<br><br> om de bestaande waarden te schrappen, gebruik de waarde `[delete]` (met inbegrip van de steunen). |
 | [!UICONTROL DSA Domain Name] | (Campagnes van type a) &quot;<i>[!UICONTROL DynamicSearchAds]</i>&quot; of b) &quot;<i>[!UICONTROL Search]</i>&quot; wanneer het [!DNL ExperimentId] element niet wordt geplaatst) De domeinnaam van de website aan doel voor dynamische onderzoeksadvertenties. De maximale lengte is 2.048 tekens. Als de domeinnaam `www` bevat, wordt deze bijgesneden en niet gebruikt.<br><br> voor bestaande campagnes, kunt u niet het domein uitgeven, maar u moet het omvatten om andere eigenschappen bij te werken. |
 | [!UICONTROL DSA Domain Language] | (Campagnes van type a) &quot;<i>[!UICONTROL DynamicSearchAds]</i>&quot; of b) &quot;<i>[!UICONTROL Search]</i>&quot; wanneer het [!DNL ExperimentId] element niet wordt geplaatst) De taal van de websitepagina&#39;s aan doel voor dynamische onderzoeksadvertenties. De ondersteunde domeintalen zijn [!UICONTROL Dutch], [!UICONTROL English], [!UICONTROL French], [!UICONTROL German], [!UICONTROL Italian], [!UICONTROL Spanish] en [!UICONTROL Swedish] .<br><br> voor bestaande campagnes, kunt u niet de taal uitgeven, maar u moet het omvatten om andere eigenschappen bij te werken. |
 | [!UICONTROL Ad Group Name] | De unieke naam die een advertentiegroep identificeert. De maximumlengte is 128 tekens. Navolgende lege tekens worden niet opgeslagen (zoals &#39;Groep 1 toevoegen&#39; wordt opgeslagen als &#39;Groep 1 toevoegen&#39;). |
@@ -66,8 +66,8 @@ Voor de gegevensgebieden relevant voor rekeningsentiteiten, zie &quot;[ Gebieden
 | [!UICONTROL Display Path 1] | (Alleen uitgebreide tekstadvertenties, dynamische zoekadvertenties en responsieve zoekadvertenties) Een extra weergavepad. Zie de vermelding voor [!UICONTROL Display Path 1] .<br><br> Voorbeeld: Als [!UICONTROL Display Path 1] &quot;overeenkomsten&quot;is en [!UICONTROL Display Path 2] &quot;lokaal is,&quot;dan zou de vertoning URL &lt; <i> vertoning URL </i>>/deals/local, zoals www.example.com/deals/local zijn. |
 | [!UICONTROL Start Date] | (Alleen verbeterde sitelinks) De eerste datum waarop biedingen voor de sitelink mogen worden ingediend, in de tijdzone van de adverteerder en in een van de volgende formaten: m/d/jjjj, m/d/jj, m-d-jjjj of m-d-jj. De standaard voor nieuwe verbeterde sitelinks is de huidige dag. <b> Nota:</b> Nieuwe verbeterde sitelinks kan slechts in campagnes met bestaande verbeterde sitelinks of geen sitelinks worden gecreeerd. |
 | [!UICONTROL End Date] | De laatste datum waarop de sitelink met advertenties kan worden weergegeven in de tijdzone van de adverteerder en in een van de volgende notaties: m/d/jjjj, m/d/jj, m-d-jjjj of m-d-jj. Voor een nieuwe sitelink is de standaardwaarde `[blank]` (dat wil zeggen, geen einddatum). |
-| [!UICONTROL Call To Action] | De call to action die in de advertentie moet worden opgenomen. Zie de [ API verwijzing voor een lijst van mogelijke waarden ](https://learn.microsoft.com/en-us/advertising/campaign-management-service/calltoaction), maar ga multi-woordvraag aan actie als veelvoudige woorden (zoals &quot;Bet nu&quot;in plaats van &quot;BetNow&quot;) in bulksbladen in. |
-| [!UICONTROL Call To Action Language] | De taal voor de call to action-opties. Zie de [ API verwijzing voor een lijst van mogelijke talen ](https://learn.microsoft.com/en-us/advertising/campaign-management-service/languagename). |
+| [!UICONTROL Call To Action] | De call to action die in de advertentie moet worden opgenomen. Zie de [&#x200B; API verwijzing voor een lijst van mogelijke waarden &#x200B;](https://learn.microsoft.com/en-us/advertising/campaign-management-service/calltoaction), maar ga multi-woordvraag aan actie als veelvoudige woorden (zoals &quot;Bet nu&quot;in plaats van &quot;BetNow&quot;) in bulksbladen in. |
+| [!UICONTROL Call To Action Language] | De taal voor de call to action-opties. Zie de [&#x200B; API verwijzing voor een lijst van mogelijke talen &#x200B;](https://learn.microsoft.com/en-us/advertising/campaign-management-service/languagename). |
 | [!UICONTROL Base URL/Final URL] | De bestemmingspagina URL waarnaar de gebruikers van de onderzoeksmotor worden genomen wanneer zij uw advertentie klikken, met inbegrip van om het even welke toevoegingsparameters die voor de campagne of de rekening worden gevormd. Basis/definitieve URLs op het sleutelwoordniveau treedt die op het advertentieniveau en hoger met voeten.<br><br> om de bestaande waarde te schrappen, gebruik de waarde `[delete]` (met inbegrip van de steunen). |
 | [!UICONTROL Destination URL] | (Opgenomen in gegenereerde bulksbladen voor informatiedoeleinden; niet gepost naar het zoekprogramma) Voor accounts met bestemmings-URL&#39;s is dit de URL die een advertentie koppelt aan een basis-URL/bestemmingspagina op de website van de adverteerder (soms via een andere site die de klik bijhoudt en de gebruiker vervolgens omleidt naar de bestemmingspagina). Het bevat alle toevoegingsparameters die zijn geconfigureerd voor de campagne of account voor Zoeken, Sociaal zoeken en Commerce. Als u URL&#39;s voor bijhouden hebt gegenereerd, is dit gebaseerd op de volgende parameters in uw accountinstellingen en campagnemontages. Als u specifieke parameters voor zoekprogramma&#39;s hebt toegevoegd, kunnen deze worden vervangen door de equivalente parameters voor Zoeken, Sociaal en Commerce.<br><br> voor rekeningen met definitieve URLs, toont deze kolom de zelfde waarde zoals de Basis URL/Definitieve kolom URL. |
 | [!UICONTROL Custom URL Param] | Gegevens die de dynamische variabele `{custom_code}` moeten vervangen wanneer de variabele is opgenomen in de volgende parameters voor de instellingen van de zoekaccount of campagne. Als u de aangepaste waarde in de URL voor bijhouden wilt invoegen, moet u het bestand met de opsommingstekens uploaden met de optie URL&#39;s voor reeksspatiëring genereren. |
@@ -75,7 +75,7 @@ Voor de gegevensgebieden relevant voor rekeningsentiteiten, zie &quot;[ Gebieden
 | [!UICONTROL Ad Group Start Date] | De eerste datum waarop biedingen voor de advertentiegroep mogen worden ingediend, in de tijdzone van de adverteerder en in een van de volgende formaten: m/d/jjjj, m/d/jj, m-d-jjjj of m-d-jj. Voor een nieuwe advertentiegroep is de standaardwaarde de huidige datum. |
 | [!UICONTROL Ad Group End Date] | De laatste datum waarop biedingen voor de advertentiegroep mogen worden ingediend, in de tijdzone van de adverteerder en in een van de volgende formaten: m/d/jjjj, m/d/jj, m-d-jjjj of m-d-jj. Voor een nieuwe advertentiegroep, is het gebrek [ leeg ] (namelijk geen einddatum). |
 | [!UICONTROL Tracking Template] | (Optioneel) De sjabloon voor reeksspatiëring, die alle parameters voor het omleiden en bijhouden van domeinen opgeeft en de laatste URL in een parameter insluit. De het volgen malplaatje op het meest korrelige niveau (met sleutelwoord als meest korrelig) treedt de waarden op alle hogere niveaus met voeten.<br><br> voor het omzetten van Adobe Advertising volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce voegt automatisch omleiding en het volgen code toe wanneer u sparen het verslag.<br><br> voor derdeomleiding en het volgen, ga een waarde in.<br><br> voor een lijst van parameters om definitieve URLs in het volgen malplaatjes aan te geven, zie de [!DNL Microsoft Advertising] documentatie.<br><br> Als u de bestaande waarde wilt verwijderen, gebruikt u de waarde `[delete]` (inclusief de vierkante haakjes). |
-| [!UICONTROL Landing Page Suffix] | Alle parameters die aan het einde van de uiteindelijke URL&#39;s moeten worden toegevoegd om informatie bij te houden. Voorbeeld: `param2=value1&param3=value2`<br><br> zie &quot;[ klik-volgende formaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).&quot;<br><br> definitieve URL achtervoegsels op lagere niveaus treden het rekening-vlakke achtervoegsel met voeten. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Als u een achtervoegsel wilt configureren op ad-groepsniveau of lager, gebruikt u de [!DNL Microsoft Advertising] -editor. |
+| [!UICONTROL Landing Page Suffix] | Alle parameters die aan het einde van de uiteindelijke URL&#39;s moeten worden toegevoegd om informatie bij te houden. Voorbeeld: `param2=value1&param3=value2`<br><br> zie &quot;[&#x200B; klik-volgende formaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).&quot;<br><br> definitieve URL achtervoegsels op lagere niveaus treden het rekening-vlakke achtervoegsel met voeten. Gebruik voor een eenvoudiger onderhoud alleen het achtervoegsel op accountniveau, tenzij het bijhouden van wijzigingen voor afzonderlijke accountcomponenten nodig is. Als u een achtervoegsel wilt configureren op ad-groepsniveau of lager, gebruikt u de [!DNL Microsoft Advertising] -editor. |
 | Netwerkstatus zoeken | Of u advertenties voor de advertentiegroep op verschillende elementen van het Zoeknetwerk wilt plaatsen:<ul><li><i> allen:</i> om advertenties op alle het onderzoeksnetwerken van de Bing en gesynchroniseerde onderzoekspartners te plaatsen.</li><li><i> OwnedAndOperatedOnly:</i> om advertenties slechts op Bing en Yahoo te plaatsen! websites.</li><li><i> SyndicatedSearchOnly:</i> om advertenties slechts op Bing en Yahoo te plaatsen! gesynchroniseerde zoekpartners.</li><li><i> weg:</i> om advertenties op het Netwerk van de Inhoud slechts (niet het Netwerk van het Onderzoek) te plaatsen.</li></ul> Voor nieuwe advertentiegroepen is de standaardwaarde Aan. |
 | [!UICONTROL Content Network Status] | Vervangen |
 | [!UICONTROL Languages] | De doeltaal voor advertenties in de advertentiegroep: [!UICONTROL English], [!UICONTROL French], [!UICONTROL Finnish], [!UICONTROL German], [!UICONTROL Norwegian], [!UICONTROL Spanish] of [!UICONTROL Swedish] . De standaardwaarde voor nieuwe campagnes is [!UICONTROL English].<br><br> dit het plaatsen bepaalt de landen en de gebieden waarin uw advertentie kan worden getoond. Zorg ervoor dat u een taal kiest die compatibel is met de locatiedoelen van de campagne. |
@@ -127,7 +127,7 @@ De volgende secties bevatten de velden die relevant zijn voor specifieke rekenin
 
 ### Campagnevelden
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -156,7 +156,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Groepsvelden toevoegen
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -180,7 +180,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Trefwoordvelden
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -211,7 +211,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -227,16 +227,16 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 | \[Advertiserspecifieke labelclassificatie\] | Optioneel |
 | [!UICONTROL Campaign ID] | Optioneel |
 | [!UICONTROL Ad Group ID] | Optioneel |
-| [!UICONTROL Ad ID] | Vereist slechts wanneer u de advertentiestatus verandert, tenzij de rij a&amp;rpar; voldoende en bezitskolommen omvat om de advertentie te identificeren of b&amp;rpar; &quot;[!UICONTROL AMO ID]&quot;. Als u echter noch de kolommen [!UICONTROL Ad ID] noch [!UICONTROL AMO ID] opneemt en de kolommen met de eigenschap ad overeenkomen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
+| [!UICONTROL Ad ID] | Vereist slechts wanneer u de advertentiestatus verandert, tenzij de rij a&rpar; voldoende en bezitskolommen omvat om de advertentie te identificeren of b&rpar; &quot;[!UICONTROL AMO ID]&quot;. Als u echter noch de kolommen [!UICONTROL Ad ID] noch [!UICONTROL AMO ID] opneemt en de kolommen met de eigenschap ad overeenkomen met meerdere advertenties, verandert de status voor slechts een van de advertenties. |
 | [!UICONTROL AMO ID] | Vereist om de gegevens te bewerken of te verwijderen, tenzij u de entiteit-id en de bovenliggende entiteit-id opneemt.<br><br> Onderzoek, Sociale, &amp; Commerce gebruikt de waarde om de correcte identiteit te bepalen uit te geven maar post identiteitskaart niet aan het advertentienetwerk. |
 
 ### Product (winkelen) en velden
 
-Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[ voert  [!DNL Microsoft Advertising]  het winkelen campagnes ](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/microsoft-shopping-campaigns.html) uit.&quot;
+Voor meer informatie over het creëren van het winkelen adverteert, zie &quot;[&#x200B; voert  [!DNL Microsoft Advertising]  het winkelen campagnes &#x200B;](https://experienceleague.adobe.com/docs/advertising/search-social-commerce/campaign-management/management/special-workflows/microsoft-shopping-campaigns.html) uit.&quot;
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -260,7 +260,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -286,7 +286,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Responsive Search Ad]&quot; in het dialoogvenster [!UICONTROL Download Bulksheet] .
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -318,7 +318,7 @@ Gebruik voor dit advertentietype de rij &quot;[!UICONTROL Creative (except RSA)]
 >
 >Uitgebreide tekstadvertenties zijn vervangen. U kunt alleen bestaande tekstadvertenties verwijderen.
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -348,7 +348,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 >
 >Ondersteuning voor maken is niet beschikbaar.
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -369,7 +369,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Velden voor productgroepen kopen
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -393,7 +393,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Sitemeelinktvelden op campagnereniveau
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -415,7 +415,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Locatiedoelvelden
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -430,7 +430,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### Apparaatdoelvelden op campagnereniveau en op ad-groepniveau
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -446,7 +446,7 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 ### De doelgebieden van RLSA van het campagne-niveau en van het ad groep
 
-Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegevensgebieden ](#bulksheet-fields-all-microsoft).&quot;
+Voor een beschrijving van elk gegevensgebied, zie &quot;[&#x200B; Alle beschikbare gegevensgebieden &#x200B;](#bulksheet-fields-all-microsoft).&quot;
 
 | Veld | Vereist? |
 | ---- | ---- |
@@ -464,9 +464,9 @@ Voor een beschrijving van elk gegevensgebied, zie &quot;[ Alle beschikbare gegev
 
 >[!MORELIKETHIS]
 >
->* [ Bijlage - de fouten van het Bulksheet ](../bulksheet-errors.md)
->* [ Verrichtingen u in bulksbladen kunt uitvoeren ](bulksheet-operations.md)
->* [ Ondersteunde formaten van het bulkbladdossier ](bulksheet-file-formats.md)
->* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
->* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
->* [ upload een bulksheet- dossier of verbeterd foutendossier ](../bulksheet-upload.md)
+>* [&#x200B; Bijlage - de fouten van het Bulksheet &#x200B;](../bulksheet-errors.md)
+>* [&#x200B; Verrichtingen u in bulksbladen kunt uitvoeren &#x200B;](bulksheet-operations.md)
+>* [&#x200B; Ondersteunde formaten van het bulkbladdossier &#x200B;](bulksheet-file-formats.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
+>* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [&#x200B; upload een bulksheet- dossier of verbeterd foutendossier &#x200B;](../bulksheet-upload.md)
