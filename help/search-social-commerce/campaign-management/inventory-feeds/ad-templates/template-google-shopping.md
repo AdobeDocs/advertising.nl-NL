@@ -3,9 +3,9 @@ title: '[!DNL Google Ads] winkelen en sjablooninstellingen voor voorraadfeeds'
 description: Verwijs de montages voor  [!DNL Google Ads]  het winkelen en malplaatjes voor inventarisvoer.
 exl-id: 36cbe719-f984-4456-8575-94b9d3e6094e
 feature: Search Inventory Feeds
-source-git-commit: e16bc62127a708de8f4deb1eddfa53a14405cbc2
+source-git-commit: c5739a7c3564f84c57500b54f17ca25591e09a43
 workflow-type: tm+mt
-source-wordcount: '483'
+source-wordcount: '520'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Gebruik winkels en sjablonen om winkeladvertenties te configureren.
 
 **[!UICONTROL Campaign Tracking Template]:** (Facultatief voor malplaatjes voor de dossiers van de cliëntvoer) het campagne-vlakke het volgen malplaatje, dat alle off-landing domeinomleidingen en het volgen parameters specificeert en definitieve URL in een parameter inbedt. Deze waarde overschrijft de instelling op accountniveau, maar sjablonen bijhouden op meer granulaire niveaus (met trefwoord als meest korrelige) overschrijven deze waarde.
 
-Voor het omzetten van de Adobe Advertising het volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;gebruik het [&#x200B; volgende malplaatjeformaat voor Google Ads het winkelen campagnes &#x200B;](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
+Voor het omzetten van Adobe Advertising het volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;gebruik het [ volgende malplaatjeformaat voor Google Ads het winkelen campagnes ](/help/search-social-commerce/tracking/formats-click-tracking-google.md). Als de hele account is toegewezen aan winkeladvertenties, kunt u in plaats daarvan een trackingsjabloon op accountniveau definiëren.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -103,6 +103,8 @@ de prioriteit van de campagne om eerst te bepalen welke campagne (en het bijbeho
 
 {{$include /help/_includes/inventory-feed-template-campaign-locations.md}}
 
+**[!UICONTROL Has EU Political Ads]:** ([!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes slechts; van toepassing op campagnes die doelgroepen in de Europese Unie (EU) richten) of de campagne al dan niet politieke reclame per behoefte voor advertenties bevat die in de Europese Unie worden bediend krachtens EU-verordening 2024/90: *[!UICONTROL Yes]* of *[!UICONTROL No]*.
+
 ## [!UICONTROL Ad Groups]
 
 <!-- **[!UICONTROL Ad Group]:** -->
@@ -119,7 +121,7 @@ de prioriteit van de campagne om eerst te bepalen welke campagne (en het bijbeho
 
 **[!UICONTROL Ad Group Tracking Template]:** (Facultatief) een a-groep-vlakke het volgen malplaatje, dat alle off-landing domeinomleidingen en het volgen parameters specificeert en definitieve URL in een parameter inbedt. Deze waarde overschrijft de instellingen op account- en campagnereniveau, maar sjablonen bijhouden op meer granulaire niveaus overschrijven deze waarde.
 
-Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
+Voor het bijhouden van Adobe Advertising-conversies hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -142,7 +144,7 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 **[!UICONTROL Tracking Template]:** (Eenheden zonder onderliggende productgroepen; facultatief) het volgen malplaatje voor het product
 groep, die alle parameters voor het omleiden en bijhouden van domeinen buiten de landinstelling opgeeft en de laatste URL in een parameter [!DNL ValueTrack] insluit. Deze sjabloon negeert sjablonen op hogere niveaus.
 
-Voor het bijhouden van Adoben Advertising hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
+Voor het bijhouden van Adobe Advertising-conversies hoeft u geen waarde in te voeren. De waarde op campagnereniveau is voldoende.
 
 Voer een waarde in voor omleidingen en bijhouden door derden.
 
@@ -162,8 +164,8 @@ Voer een waarde in voor omleidingen en bijhouden door derden.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer automatiserend en beheer gebruikend inventarisvoer &#x200B;](../inventory-feeds-about.md)
->* [&#x200B; het Leiden bepalingen &#x200B;](../modifiers-manage.md)
->* [&#x200B; het Leiden dossiers van de materiaalvoer van inventarisgegevens &#x200B;](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
->* [&#x200B; doorgeven voedergegevens door malplaatjes &#x200B;](../feed-data-propagate.md)
->* [&#x200B; de campagnegegevens van inventarisvoer aan ad netwerken &#x200B;](../propagated-data-post.md)
+>* [ Ongeveer automatiserend en beheer gebruikend inventarisvoer ](../inventory-feeds-about.md)
+>* [ het Leiden bepalingen ](../modifiers-manage.md)
+>* [ het Leiden dossiers van de materiaalvoer van inventarisgegevens ](/help/search-social-commerce/campaign-management/inventory-feeds/feed-files-manage.md)
+>* [ doorgeven voedergegevens door malplaatjes ](../feed-data-propagate.md)
+>* [ de campagnegegevens van inventarisvoer aan ad netwerken ](../propagated-data-post.md)

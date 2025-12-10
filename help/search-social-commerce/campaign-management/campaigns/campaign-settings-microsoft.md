@@ -3,9 +3,9 @@ title: '[!DNL Microsoft Advertising] campagne-instellingen'
 description: Verwijs de montages voor  [!DNL Microsoft Advertising]  campagnes.
 exl-id: f11cb61e-d627-4074-870d-e186f3e65572
 feature: Search Campaign Management
-source-git-commit: b8aa2461d261af50e1bf66c4ae29e4e453dfd182
+source-git-commit: c5739a7c3564f84c57500b54f17ca25591e09a43
 workflow-type: tm+mt
-source-wordcount: '2041'
+source-wordcount: '2075'
 ht-degree: 0%
 
 ---
@@ -31,7 +31,7 @@ de campagne kan het volgende bevatten :
 
 * *[!UICONTROL Audience Video]:* toont standaardvideoadvertenties op het publieksnetwerk.
 
-* *[!UICONTROL Performance Max]:* toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft Advertising] slimme het bieden. Binnen de montages van de campagne, moet u één of meerdere activa specificeren, die beelden, logo&#39;s, koppen, beschrijvingen, een facultatieve vraag aan actie, en publiekssignalen omvatten. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
+* *[!UICONTROL Performance Max]:* toont veelvoudige advertentietypes over alle netwerken gebruikend [!DNL Microsoft Advertising] slimme het bieden. Binnen de instellingen voor de campagne moet u een of meer elementgroepen opgeven, zoals afbeeldingen, logo&#39;s, koppen, beschrijvingen, een optionele call to action en publiekssignalen. Het advertentienetwerk combineert automatisch de activa om advertenties te dienen die op het kanaal worden gebaseerd.
 
 ## [!UICONTROL Campaign Details]
 
@@ -46,6 +46,8 @@ de campagne kan het volgende bevatten :
 <!-- **[!UICONTROL End Date]:** -->
 
 {{$include /help/_includes/end-date.md}}
+
+**[!UICONTROL Contains EU Political Ads]:** (Van toepassing op campagnes die gericht zijn op het publiek in de Europese Unie (EU)) Of de campagne al dan niet politieke reclame bevat per vereisten voor advertenties die in de Europese Unie worden bediend krachtens EU-verordening 2024/90: *[!UICONTROL Yes]* of *[!UICONTROL No]* .
 
 ## [!UICONTROL Budget Options]
 
@@ -75,7 +77,7 @@ de campagne kan het volgende bevatten :
 
 * *[!UICONTROL Manual CPA]:* ([!DNL Microsoft Store Ads] campagnes) gebruikt de kosten per aanschafmodel (CPA).
 
-* *[!UICONTROL Manual CPM]* (Publiek campagnes en publieksvideocampagnes slechts) gebruikt het kosten-per-duizend-impressies (CPM) model, waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
+* *[!UICONTROL Manual CPM]* (Publiek campagnes en publieksvideocampagnes slechts) gebruikt het kosten-per-duizend-impressiemodel (CPM), waarvoor u specificeert wat u per 1.000 bekeken beelden wilt uitgeven. Campagnes met deze biedstrategie worden niet geoptimaliseerd wanneer ze in portfolio&#39;s worden opgenomen.
 
 * *[!UICONTROL Maximize Clicks]:* (Zoeken en winkelen) Het advertentienetwerk — niet Zoeken, Sociaal, &amp; Commerce — optimaliseert biedingen om kliks te maximaliseren. Voer desgewenst een **[!UICONTROL Max CPC]** (kosten per klik) in om ervoor te zorgen dat het advertentienetwerk niet meer betaalt dan een bepaald bedrag voor elke klik. **Voorzichtigheid:** wanneer u een campagne met deze strategie aan een portefeuille toevoegt, drijft het klikgewicht (niet het portefeuilledoel) biedingen.
 
@@ -166,7 +168,7 @@ Als u de campagne eenmaal aan een winkel hebt gekoppeld en de instellingen hebt 
 
 **[!UICONTROL Negative Websites]:** (Campagnes op de vertoning/het inheemse netwerk slechts; facultatief) Plaatsen op het vertoningsnetwerk waarop u uw advertenties niet wilt worden getoond. Voer een geldige URL in, bijvoorbeeld www.example.com. Als u meerdere tekenreeksen wilt opgeven, scheidt u deze met komma&#39;s of voert u ze op afzonderlijke regels in.
 
-Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quot;[&#x200B; verhinderen advertenties op specifieke websites &#x200B;](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
+Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quot;[ verhinderen advertenties op specifieke websites ](https://help.ads.microsoft.com/#apex/bae/en/14061/0) verschijnen.&quot;
 
 ## [!UICONTROL Campaign Tracking]
 
@@ -208,7 +210,7 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 **[!UICONTROL Final URL]:** De laatste URL voor alle advertenties die zijn gemaakt op basis van de elementgroep.
 
-**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising]  beeldrichtlijnen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Images]:** Maximaal 20 afbeeldingen voor de advertentie, inclusief ten minste één vierkante afbeelding en één liggende afbeelding. Zie de [[!DNL Microsoft Advertising]  beeldrichtlijnen ](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -230,7 +232,7 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 * Als u afbeeldingen in uw [!UICONTROL Asset Library] wilt selecteren, klikt u op **[!UICONTROL Asset Library]** en selecteert u de afbeeldingen.
 
-**[!UICONTROL Logos]:** minstens één embleem. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising]  activarichtlijnen &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
+**[!UICONTROL Logos]:** minstens één embleem. U kunt maximaal vijf opnemen. Zie de [[!DNL Microsoft Advertising]  activarichtlijnen ](https://help.ads.microsoft.com/#apex/ads/en/60204/0). U kunt afbeeldingen uploaden of ze selecteren vanuit uw [!UICONTROL Asset Library] , maar niet in beide bewerkingen.
 
 * Afbeeldingen uploaden:
 
@@ -282,14 +284,14 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 * Als u elementen wilt selecteren in uw [!UICONTROL Asset Library] , klikt u op **[!UICONTROL Asset Library]** en selecteert u de elementen.
 
-**[!UICONTROL Call to Action]:** De vraag aan actie om in de advertentie te omvatten. Standaard is *[!UICONTROL Act Now]* geselecteerd.
+**[!UICONTROL Call to Action]:** De call to action die in de advertentie moet worden opgenomen. Standaard is *[!UICONTROL Act Now]* geselecteerd.
 
 **[!UICONTROL Business Name]:** De bedrijfsnaam, met een maximum van 25 karakters. Het kan geen manuscripten, HTML, of andere prijsverhogingstaal bevatten.
 
-**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. In de leermodellen van [!DNL Microsoft Advertising] -computers wordt gebruikgemaakt van het publiek om vergelijkbare websurfers te zoeken waarop kan worden gezocht en kunnen ook advertenties voor het publiek worden weergegeven die niet als signalen zijn opgegeven, zodat u uw prestatiedoelen kunt halen. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
+**[!UICONTROL Audience Signal]:** (Optioneel) [!DNL Microsoft Advertising] publiek dat als publiekssignalen voor de campagne moet worden gebruikt. [!DNL Microsoft Advertising] computerleermodellen gebruiken het publiek om vergelijkbare websurfers te vinden die u als doel wilt gebruiken en kunnen ook advertenties aan het publiek tonen die niet als signalen worden opgegeven om u te helpen uw prestatiedoelen te bereiken. Kies het publiek dat het meest waarschijnlijk wordt omgezet.
 
 >[!NOTE]
->De signalen van het publiek zijn verschillend van [&#x200B; en groep-vlakke publieksdoelstellingen &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
+>De signalen van het publiek zijn verschillend van [ en groep-vlakke publieksdoelstellingen ](/help/search-social-commerce/campaign-management/campaigns/audience-targets-manage.md).
 
 <!-- **[!UICONTROL Display Path 1]**, **[!UICONTROL Display Path 2]:** -->
 
@@ -299,14 +301,14 @@ Voor informatie over beschikbaarheid, zie de hulp van Microsoft Advertising &quo
 
 ## [!UICONTROL Conversion Goals]
 
-**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Nota:** de Doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [&#x200B; synchroniseert manueel de gegevens van het advertentienetwerk &#x200B;](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
+**[!UICONTROL Conversion Goal]:** Of *[!UICONTROL Use account conversion goals for this campaign]* (de standaardwaarde) of *[!UICONTROL Use campaign specific conversion goals]*. Als u verkiest om omzettingsdoelstellingen voor de campagne te specificeren, dan selecteer de doelstellingen van de lijst van alle beschikbare doelstellingen. **Nota:** de Doelstellingen worden gesynchroniseerd dagelijks, zodat kunnen de doelstellingen die in de vorige 24 uren worden gecreeerd niet worden vermeld. Om de lijst bij te werken, [ synchroniseert manueel de gegevens van het advertentienetwerk ](/help/search-social-commerce/campaign-management/campaigns/sync-network.md).
 
 >[!TIP]
 >
 >Als de campagne deel uitmaakt van een hybride portfolio, kunt u het beste campagnedoelen gebruiken die overeenkomen met de conversiedoelstellingen in de doelstelling van de portfolio. Het opnemen van aanvullende conversiedoelstellingen kan van invloed zijn op de prestaties van het portfolio.
 >
-> Nochtans, voor campagnes in hybride portefeuilles waarvoor u [&#x200B; doelstellingen aan het advertentienetwerk &#x200B;](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsdoel voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omzettingen omvatten die door de [!DNL Microsoft Advertising] universele gebeurtenis het volgen (markering van UET worden gevolgd) omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
+> Nochtans, voor campagnes in hybride portefeuilles waarvoor u [ doelstellingen aan het advertentienetwerk ](/help/search-social-commerce/tools/objective-upload-to-networks.md) uploadt, doe het volgende binnen de redacteur van het advertentienetwerk in plaats van hier: a) voeg het geuploade Onderzoek toe, Sociale, &amp; de portefeuilledoelstelling van Commerce (die met &quot;O_ACS_OBJ&quot;begint) als omzettingsdoel voor de campagne, en b) voeg om het even welke campagnedoelstellingen toe die omzettingen omvatten die door de [!DNL Microsoft Advertising] universele gebeurtenis het volgen (markering van UET worden gevolgd) omdat de ad netwerk-geleide metriek niet aan het ad netwerk met het doel worden geupload.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert campagnes &#x200B;](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
+>* [ beheert campagnes ](/help/search-social-commerce/campaign-management/campaigns/campaign-manage.md)
