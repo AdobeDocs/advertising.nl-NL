@@ -3,9 +3,9 @@ role: User
 user-guide-title: Handleiding Advertising Creative
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn om Advertising Creative te gebruiken.
 breadcrumb-title: Handleiding voor Creative
-source-git-commit: 3ab2e38f6a2f70c03504363575b13dc0dc730282
+source-git-commit: 39f77087769eda3cc200447aeb0a6d1648e23b42
 workflow-type: tm+mt
-source-wordcount: '376'
+source-wordcount: '378'
 ht-degree: 5%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 5%
    + [Informatie over Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
    + [Workflows voor dynamische advertenties](/help/creative/introduction/workflow-dynamic-ads.md)
-   + [&#x200B; Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative-bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
@@ -86,10 +86,11 @@ ht-degree: 5%
 + [Bijlage: Beschikbare velden voor dynamische en feed-bestanden](/help/creative/appendix-available-feed-fields.md)
 + Prestatierapporten {#reports}
    + [Prestatierapporten op ervaringsniveau](/help/creative/experiences/experience-performance-details.md)
+   + [Waarschuwingen weergeven](/help/creative/reports/alerts-view.md)
    + [ de rapporten van de Douane ]{#custom-reports}
       + [Aangepaste rapporten](/help/creative/reports/reports-about.md)
       + [Aangepaste rapporten beheren](/help/creative/reports/report-manage.md)
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
 + [Hulp vragen](/help/creative/get-help.md)
-+ [&#x200B; de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
