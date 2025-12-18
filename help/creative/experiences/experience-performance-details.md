@@ -3,7 +3,7 @@ title: Prestatierapporten op ervaringsniveau
 description: Leer hoe u prestatierapporten op ervaringsniveau kunt weergeven.
 feature: Creative Experiences
 exl-id: 5e7c4c9d-b992-460a-9765-4276027f9a61
-source-git-commit: 39f77087769eda3cc200447aeb0a6d1648e23b42
+source-git-commit: 39e0b8b57fd54e99b09e56ecf9cef753b0c6ea44
 workflow-type: tm+mt
 source-wordcount: '779'
 ht-degree: 0%
@@ -34,7 +34,7 @@ De rapportweergave bevat de volgende gegevens:
      ![Default rate](/help/creative/assets/experience-report-default-rate.png "Default rate"){width="100" zoomable="yes"} 
      -->
 
-   * **sectie van de Onderbreking van 0&rbrace; Prestaties &lbrace;:**
+   * **sectie van de Onderbreking van 0} Prestaties {:**
 
       * **Regionale prestaties:*: individuele meetgegevens per geografische locatie.
 
@@ -58,7 +58,7 @@ De rapportweergave bevat de volgende gegevens:
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
 1. Selecteer de ervaring:
 
@@ -74,15 +74,15 @@ De rapportweergave bevat de volgende gegevens:
 
       * Om een vooraf ingestelde periode te specificeren, selecteer het rapport: (*[!UICONTROL Last Month-to-date],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Last 7 days],* *[!UICONTROL Last 30 days],* *[!UICONTROL Today],* of *[!UICONTROL Yesterday]*.
 
-      * Om een waaier van de douanedatum te specificeren, ga de begindatum en einddatum in of klik ![&#x200B; kalenderpictogram &#x200B;](/help/search-social-commerce/assets/calendar.png) naast een gebied en selecteer een datum.
+      * Om een waaier van de douanedatum te specificeren, ga de begindatum en einddatum in of klik ![ kalenderpictogram ](/help/search-social-commerce/assets/calendar.png) naast een gebied en selecteer een datum.
 
-   * (Facultatief) om de regel te veranderen die wordt gebruikt om omzettingsgegevens in een reeks gebeurtenissen te kenmerken die tot een omzetting leiden, ![&#x200B; Montages &#x200B;](/help/creative/assets/settings.png) klikken en **[!UICONTROL Attribution Rule]** veranderen.
+   * (Facultatief) om de regel te veranderen die wordt gebruikt om omzettingsgegevens in een reeks gebeurtenissen te kenmerken die tot een omzetting leiden, ![ Montages ](/help/creative/assets/settings.png) klikken en **[!UICONTROL Attribution Rule]** veranderen.
 
-     Voor meer informatie over attributieregels, zie &quot;[&#x200B; hoe de attributieregels &#x200B;](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
+     Voor meer informatie over attributieregels, zie &quot;[ hoe de attributieregels ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
-   * (Facultatief) om de gemelde omzettingen te veranderen, klik ![&#x200B; Montages &#x200B;](/help/creative/assets/settings.png) en selecteer de omzettingsnamen in het **[!UICONTROL Conversions]** menu. Momenteel is alleen &quot;Alles selecteren&quot; beschikbaar voor alle conversiemetriek.
+   * (Facultatief) om de gemelde omzettingen te veranderen, klik ![ Montages ](/help/creative/assets/settings.png) en selecteer de omzettingsnamen in het **[!UICONTROL Conversions]** menu. Momenteel is alleen &quot;Alles selecteren&quot; beschikbaar voor alle conversiemetriek.
 
-     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. De lijst kan omzettings en metriek van de plaatsovereenkomst omvatten die van Adobe Analytics wordt gesynchroniseerd wanneer adverteerder [&#x200B;  [!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md) heeft. [!DNL Analytics] berekende metriek en geavanceerde berekende metriek zijn niet beschikbaar. Voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[&#x200B; Ongeveer het leiden van de omzettingsmetriek van een adverteerder &#x200B;](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
+     De beschikbare conversiekolommen bevatten de conversies die beschikbaar zijn in Advertising Search, Social en Commerce, of u nu een klant voor Zoeken, Sociaal en Commerce bent of niet. De lijst kan omzettings en metriek van de plaatsovereenkomst omvatten die van Adobe Analytics wordt gesynchroniseerd wanneer adverteerder [  [!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md) heeft. [!DNL Analytics] berekende metriek en geavanceerde berekende metriek zijn niet beschikbaar. Voor meer informatie over het omvatten van verzamelde omzettingen in rapporten, zie het Onderzoek, Sociale, &amp; het onderwerp van de Gids van Commerce &quot;[ Ongeveer het leiden van de omzettingsmetriek van een adverteerder ](/help/search-social-commerce/admin/conversion-metrics/conversion-metric-about.md).&quot;
 
 1. (Op het tabblad [!UICONTROL Overview] ):
 
@@ -106,7 +106,7 @@ De rapportweergave bevat de volgende gegevens:
 
    * Op de subtab [!UICONTROL Creatives] kunt u het volgende doen:
 
-      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#x200B; Grafiek &#x200B;](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
+      * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![ Grafiek ](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
 
       * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
@@ -114,7 +114,7 @@ De rapportweergave bevat de volgende gegevens:
 
 1. Als u gegevens wilt weergeven op basis van een bundel (ervaring met het toewijzen van beslisboom als doel) of op basis van een ad-tag (ervaring zonder doelbinding voor beslissingsstructuur), klikt u op het subtabblad **[!UICONTROL Bundles]** . U kunt een van de volgende handelingen uitvoeren:
 
-   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![&#x200B; Grafiek &#x200B;](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
+   * (Facultatief) om tussen grafiekmening en netmening te schakelen, klik ![ Grafiek ](/help/creative/assets/chart-view-button.png " en "), respectievelijk.![Raster](/help/creative/assets/table-view-button.png "Raster")
 
    * (Optioneel) Houd de cursor in de grafiekweergave boven een punt in het diagram om gegevens voor dat punt weer te geven.
 
@@ -122,14 +122,14 @@ De rapportweergave bevat de volgende gegevens:
 
 ## Download prestatierapporten voor een ervaring
 
-* In de toolbar bij de bovenkant van de prestatiesrapporten, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
+* In de toolbar bij de bovenkant van de prestatiesrapporten, klik ![ Download ](/help/creative/assets/download.png " ").
 
   Het bestand wordt gedownload in een [!DNL Microsoft Excel] -bestand in spreadsheet (XLSX) indeling, volgens de normale procedure van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/creative/reports/reports-about.md)
->* [&#x200B; beheer douanerapporten &#x200B;](/help/creative/reports/report-manage.md)
->* [&#x200B; Download alle ervaringen in de mening &#x200B;](/help/creative/experiences/experience-download-view.md)
->* [&#x200B; Ongeveer ervaringen in Advertising Creative &#x200B;](/help/creative/experiences/experience-about.md)
->* [&#x200B; alarm van de Mening &#x200B;](/help/creative/experiences/alerts.md)
+>* [ Ongeveer douanerapporten ](/help/creative/reports/reports-about.md)
+>* [ beheer douanerapporten ](/help/creative/reports/report-manage.md)
+>* [ Download alle ervaringen in de mening ](/help/creative/experiences/experience-download-view.md)
+>* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
+>* [ alarm van de Mening ](/help/creative/reports/alerts-view.md)
