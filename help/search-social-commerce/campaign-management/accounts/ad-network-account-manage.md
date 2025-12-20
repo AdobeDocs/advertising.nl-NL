@@ -20,7 +20,7 @@ Hieronder vindt u instructies voor het maken en bewerken van gegevens van een ne
 
 <!-- Also update Description metadata to "Learn how to set up and manage account details for an ad network account synced via the ad network API." -->
 
-Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
+Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
 
 ## Gegevens van een advertentienetwerkaccount maken {#create-account}
 
@@ -35,15 +35,15 @@ Om het synchroniseren of het volgen van een rekening toe te laten, moet u een ov
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
 
-1. In de toolbar boven de gegevenslijst, leidt de klik ![ ](/help/search-social-commerce/assets/add.png " tot ").
+1. In de toolbar boven de gegevenslijst, leidt de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/add.png " tot ").
 
-1. Specificeer de [ rekeningsmontages ](#account-settings):
+1. Specificeer de [&#x200B; rekeningsmontages &#x200B;](#account-settings):
 
    1. Klik op de naam van het advertentienetwerk en klik vervolgens op **[!UICONTROL Next]** .
 
    1. Voer in de sectie **[!UICONTROL Account Details]** de accountgegevens in.
 
-      Voor advertentienetwerken die het login toestemmingstype &quot;[!UICONTROL oAuth] gebruiken,&quot;sta Onderzoek, Sociale, &amp; Commerce toe om tot de rekening toegang te hebben gebruikend het [ OAuth vergunningsprotocol ](https://oauth.net/2/):
+      Voor advertentienetwerken die het login toestemmingstype &quot;[!UICONTROL oAuth] gebruiken,&quot;sta Onderzoek, Sociale, &amp; Commerce toe om tot de rekening toegang te hebben gebruikend het [&#x200B; OAuth vergunningsprotocol &#x200B;](https://oauth.net/2/):
 
       1. Voer de **[!UICONTROL Login]** -waarde voor de account in, voer desgewenst het wachtwoord in en klik op **[!UICONTROL Authenticate]** .
 
@@ -75,9 +75,9 @@ Als de verificatiegegevens van de account veranderen, wilt u de standaardparamet
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
 
-1. Houd de curseur over de rekeningsnaam, klik ![ Meer ](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**.
+1. Houd de curseur over de rekeningsnaam, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**.
 
-1. Bewerk de [ rekeningsmontages ](#account-settings):
+1. Bewerk de [&#x200B; rekeningsmontages &#x200B;](#account-settings):
 
    1. (Optioneel) Bewerk de accountgegevens.
 
@@ -93,7 +93,7 @@ Als de verificatiegegevens van de account veranderen, wilt u de standaardparamet
 
 *de rekeningsmanager van het Agentschap, de rekeningsmanager van Adobe, en slechts de rollen van de beheerdergebruiker*
 
-Als het Onderzoek, Sociaal, &amp; Commerce tot de rekening toegang heeft gebruikend het [ OAuth vergunningsprotocol ](https://oauth.net/2/) en de veranderingen van de rekeningsgeloofsbrieven, of als de extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Commerce te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
+Als het Onderzoek, Sociaal, &amp; Commerce tot de rekening toegang heeft gebruikend het [&#x200B; OAuth vergunningsprotocol &#x200B;](https://oauth.net/2/) en de veranderingen van de rekeningsgeloofsbrieven, of als de extra toegang wordt vereist om nieuwe eigenschappen in Onderzoek, Sociale, &amp; Commerce te steunen, dan moet u een nieuw toegangstoken voor de rekening krijgen.
 
 Uw Adobe-accountteam zal u informeren als voor nieuwe functies een nieuwe token nodig is.
 
@@ -101,7 +101,7 @@ Uw Adobe-accountteam zal u informeren als voor nieuwe functies een nieuwe token 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Search, Social, & Commerce]** \> **[!UICONTROL Campaigns]** \> **[!UICONTROL Campaigns]** . Klik in het submenu op **[!UICONTROL Live]** \> **[!UICONTROL Accounts]** .
 
-1. Houd de curseur over de rekeningsnaam, klik ![ Meer ](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**.
+1. Houd de curseur over de rekeningsnaam, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**.
 
 1. Krijg een nieuw toegangstoken:
 
@@ -125,15 +125,15 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseren Zoeken, Socia
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om de status voor één enkele rekening te veranderen) Houd de curseur over de rekeningsnaam, klik ![ Meer ](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**. Verander **[!UICONTROL Status]** in *Toegelaten* of *Gehandicapten*, en klik dan **[!UICONTROL Post]**.
+   * (Om de status voor één enkele rekening te veranderen) Houd de curseur over de rekeningsnaam, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more-filters.png " "), en selecteer dan **[!UICONTROL Edit]**. Verander **[!UICONTROL Status]** in *Toegelaten* of *Gehandicapten*, en klik dan **[!UICONTROL Post]**.
 
    * (Ga als volgt te werk om de status van een of meer accounts te wijzigen:
 
       1. Schakel het selectievakje naast elke account in.
 
-         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+         Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      1. In de toolbar boven de gegevenslijst, activeert de klik ![ pictogram ](/help/search-social-commerce/assets/activate.png " pictogram ") activeren om de rekening toe te laten of ![Pictogram uitschakelen](/help/search-social-commerce/assets/disable.png "Pictogram uitschakelen") om de rekening onbruikbaar te maken.
+      1. In de toolbar boven de gegevenslijst, activeert de klik ![&#x200B; pictogram &#x200B;](/help/search-social-commerce/assets/activate.png " pictogram ") activeren om de rekening toe te laten of ![Pictogram uitschakelen](/help/search-social-commerce/assets/disable.png "Pictogram uitschakelen") om de rekening onbruikbaar te maken.
 
 ## Instellingen voor een netwerkaccount toevoegen {#account-settings}
 
@@ -147,7 +147,7 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseren Zoeken, Socia
 
 >[!NOTE]
 >
->De rekeningen van de Adnetwork manager worden hier niet gesteund. Als u een beheerdersaccount wilt identificeren voor [!DNL Microsoft Advertising] of [!DNL Yandex] , gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Aan [ opstellingsgeloofsbrieven voor de rekening van de a  [!DNL Google Ads]  manager ](/help/search-social-commerce/admin/manager-accounts.md), ga [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
+>De rekeningen van de Adnetwork manager worden hier niet gesteund. Als u een beheerdersaccount wilt identificeren voor [!DNL Microsoft Advertising] of [!DNL Yandex] , gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Aan [&#x200B; opstellingsgeloofsbrieven voor de rekening van de a  [!DNL Google Ads]  manager &#x200B;](/help/search-social-commerce/admin/manager-accounts.md), ga [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
 
 **[!UICONTROL Account Name]:** De naam die voor het account in Search, Social &amp; Commerce moet worden weergegeven.
 
@@ -157,7 +157,7 @@ Wanneer u een advertentienetwerkaccount inschakelt, synchroniseren Zoeken, Socia
 
 **[!UICONTROL Login Details]: \[Login Type \]** - ([!DNL Microsoft Advertising]/ [!DNL Microsoft Merchant Center] slechts) of om logins aan de rekening toe te laten gebruikend:
 
-* *[!UICONTROL oAuth]* (het gebrek): Om het [[!DNL OAuth]  vergunningsprotocol ](https://oauth.net/2/) te gebruiken.
+* *[!UICONTROL oAuth]* (het gebrek): Om het [[!DNL OAuth]  vergunningsprotocol &#x200B;](https://oauth.net/2/) te gebruiken.
 
 * *[!UICONTROL Password]:* om het wachtwoord van de cliënt te gebruiken.
 
@@ -165,7 +165,7 @@ Voor [!DNL Microsoft Advertising] -accounts kunnen alleen door [!DNL oAuth] geau
 
 **[!UICONTROL Login Details]: [!UICONTROL Login]:** (Alle advertentienetwerken behalve [!DNL Naver]) De login naam of identiteitskaart om API toegang tot de rekening toe te laten.
 
-**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth] - toegelaten en alle andere netwerken behalve [!DNL Meta] en [!DNL Yandex]) het teken van de rekening om logins toe te staan gebruikend het [[!DNL OAuth]  vergunningsprotocol ](https://oauth.net/2/).
+**[!UICONTROL Login Details]: [!UICONTROL OAuth Token]:** ([!DNL Microsoft Advertising] [!DNL oAuth] - toegelaten en alle andere netwerken behalve [!DNL Meta] en [!DNL Yandex]) het teken van de rekening om logins toe te staan gebruikend het [[!DNL OAuth]  vergunningsprotocol &#x200B;](https://oauth.net/2/).
 
 **[!UICONTROL Login Details]: [!UICONTROL Password]:** (Alle en netwerken behalve [!DNL Naver]) Het wachtwoord voor de account. Voor accounts waarvoor een wachtwoord is ingeschakeld op [!DNL Microsoft Advertising] , [!DNL Yahoo! Japan Ads] en [!DNL Yandex] , is dit veld vereist. Voor accounts waarvoor [!DNL oAuth] is ingeschakeld, is dit veld optioneel. Gebruik dit veld wanneer u het wachtwoord wilt versleutelen en opslaan, zodat accountbeheerders tokens naar behoefte kunnen vernieuwen.
 
@@ -177,7 +177,7 @@ Voor [!DNL Microsoft Advertising] -accounts kunnen alleen door [!DNL oAuth] geau
 
 Voorbeeld: `param1=value1&param2=value2`
 
-Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) van het advertentienetwerk in het achtervoegsel opnemen. Accounts met een Adobe Analytics-integratie moeten de parameter AMO ID gebruiken (te beginnen met `s_kwcid`). Als de account een AMO-id-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie [ vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [ vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) van het advertentienetwerk in het achtervoegsel opnemen. Accounts met een Adobe Analytics-integratie moeten de parameter AMO ID gebruiken (te beginnen met `s_kwcid`). Als de account een AMO-id-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie [&#x200B; vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [&#x200B; vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
 >[!NOTE]
 >
@@ -195,7 +195,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] slechts) gebruik de parameter `!{lpurl}` om op de het landen pagina URL te wijzen.
 
@@ -251,13 +251,13 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * **S_kwcid Formaat:** (Bestaande [!DNL Google Ads] rekeningen voor adverteerders met een integratie Adobe Advertising-Adobe Analytics en waarvoor AMO identiteitskaart (s_kwcid) niet reeds is gemigreerd)
 
-Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. Het [ recentste formaat ](/help/integrations/analytics/ids.md#amo-id-formats) omvat parameters voor campagne identiteitskaart en identiteitskaart van de advertentiegroep, die noodzakelijk zijn om bij de campagne en ad groepsniveaus voor [!DNL Google Ads] prestaties te rapporteren maximum campagnes en concepten en experimentatiecampagnes in Analytics:
+Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. Het [&#x200B; recentste formaat &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats) omvat parameters voor campagne identiteitskaart en identiteitskaart van de advertentiegroep, die noodzakelijk zijn om bij de campagne en ad groepsniveaus voor [!DNL Google Ads] prestaties te rapporteren maximum campagnes en concepten en experimentatiecampagnes in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
 Als dit account op campagne- en advertentieniveau moet rapporteren, klikt u op het pictogram [!UICONTROL Edit] (potlood) en vervolgens **[!UICONTROL Migrate to new s_kwcid format]** om naar de nieuwe indeling te gaan. Voor accounts die deze typen campagnes niet bevatten, is het migreren naar de nieuwe indeling optioneel, maar aanbevolen.
 
-Voor volledige instructies, zie &quot;[ Update de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot;
+Voor volledige instructies, zie &quot;[&#x200B; Update de het volgen code van identiteitskaart AMO voor a  [!DNL Google Ads]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md).&quot;
 
 **de Namen van de Reeks van het Rapport:** (voor EF richt slechts met teken; adverteerders met een integratie Adobe Advertising-Adobe Analytics; facultatief) één of meerdere Analytics- rapportsuites waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt het van het advertentienetwerk, met inbegrip van entiteitclassificaties verzamelt en gegevens voor de rekening klikt. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
@@ -265,6 +265,6 @@ Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-z
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer ad netwerkrekeningen ](ad-network-account-about.md)
->* [ beheert commerciële centrumrekeningen ](merchant-account-manage.md)
->* [ Werk s_kwcid het volgen code voor a  [!DNL Google Ads]  rekening ](update-amo-id-google.md) bij
+>* [&#x200B; Ongeveer ad netwerkrekeningen &#x200B;](ad-network-account-about.md)
+>* [&#x200B; beheert commerciële centrumrekeningen &#x200B;](merchant-account-manage.md)
+>* [&#x200B; Werk s_kwcid het volgen code voor a  [!DNL Google Ads]  rekening &#x200B;](update-amo-id-google.md) bij
