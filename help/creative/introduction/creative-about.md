@@ -67,7 +67,7 @@ U kunt gedetailleerde prestatierapporten op ervaringsniveau weergeven binnen Cre
 
 U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u uw [!DNL Creative] -ervaringen als advertenties gebruikt in DSP-campagnes, zijn de prestatiegegevens voor die advertenties beschikbaar in aanvullende aangepaste rapporten, net als gegevens voor andere DSP-advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports. -->
 
-U kunt naar keuze uw douanerapporten aan gespecificeerde [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
+U kunt naar keuze uw douanerapporten aan gespecificeerde [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
 
 <!--
 >* [Overview of implementing Adobe Advertising Creative](/help/creative/introduction/implementation-overview.md)
@@ -76,5 +76,5 @@ U kunt naar keuze uw douanerapporten aan gespecificeerde [ rapportbestemmingen ]
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
->* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
+>* [&#x200B; Ongeveer uw creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-libraries-about.md)
+>* [&#x200B; Ongeveer ervaringen in Advertising Creative &#x200B;](/help/creative/experiences/experience-about.md)

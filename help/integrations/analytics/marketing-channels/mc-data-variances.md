@@ -26,12 +26,12 @@ De twee gegevenssets hebben verschillende hoofdgebruikscenario&#39;s:
 
   Om deze gegevens te verzamelen, gaat de [!DNL Analytics for Advertising] integratie ruwe AMO IDs over die als klikthrough en mening-door het volgen codes in de dimensie van identiteitskaart AMO van Adobe Analytics kunnen worden vertaald — die of als douanevariabele (eVar) of een gereserveerde variabele (rVar) wordt opgeslagen. Doorklikken voor andere kanalen wordt niet ingesteld in de AMO ID-dimensie, zodat de AMO ID-dimensie de invoer van deze andere kanalen niet kan bijhouden. Het resultaat is dat de AMO-id doorloopt via [!DNL Marketing Channels] -ingangspunten.
 
-Voor meer informatie over mogelijke gegevensvariaties tussen Adobe Advertising-Getraceerde gegevens en [!DNL Analytics] - getraceerde gegevens, zie &quot;[ Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising ](../data-variances.md).&quot;
+Voor meer informatie over mogelijke gegevensvariaties tussen Adobe Advertising-Getraceerde gegevens en [!DNL Analytics] - getraceerde gegevens, zie &quot;[&#x200B; Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising &#x200B;](../data-variances.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising ](/help/integrations/analytics/data-variances.md)
->* [ Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [ Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  Regels van de Verwerking ](mc-ids.md) te creëren
->* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de Gegevens van Adobe Advertising ](mc-ac-data.md)
->* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Verwachte Variaties van Gegevens tussen  [!DNL Analytics]  en Adobe Advertising &#x200B;](/help/integrations/analytics/data-variances.md)
+>* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
+>* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  Regels van de Verwerking &#x200B;](mc-ids.md) te creëren
+>* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de Gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
