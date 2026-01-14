@@ -3,9 +3,9 @@ title: Beste praktijken voor de Campagnes van Prestaties van de Opstelling
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: 802c75920bb11f262cbe0d76d2554971aaf35831
+source-git-commit: de2a2a097802cc4a7b5ac63bee2eb326895e70f1
 workflow-type: tm+mt
-source-wordcount: '1263'
+source-wordcount: '1264'
 ht-degree: 0%
 
 ---
@@ -22,17 +22,17 @@ DSP kan uw prestatiegerichte campagnes optimaliseren. Raadpleeg de volgende aanb
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. Prestatiecampagnes hebben de [optimalisatiedoelstellingen](/help/dsp/optimization/optimization-goals.md) &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Geef voor elk pakket in de campagne dienovereenkomstig het optimalisatiedoel op.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. De campagnes van prestaties hebben de [ optimalisatiedoelstellingen ](/help/dsp/optimization/optimization-goals.md) &quot; [!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Geef voor elk pakket in de campagne dienovereenkomstig het optimalisatiedoel op.
 
-![optimalisatiedoel](/help/dsp/assets/optimization-goals.png)
+![ optimalisatiedoel ](/help/dsp/assets/optimization-goals.png)
 
-U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel leiden en dienovereenkomstig aangepaste doelen maken. Geef voor elk pakket een aangepast doel op dat moet worden gebruikt met het algemene optimalisatiedoel voor rapportage en algoritmische optimalisatie met behulp van [!DNL Adobe Sensei]. Voor meer informatie over het creëren van douanedoelstellingen, met inbegrip van beste praktijken, zie [Aangepaste doelen](custom-goal.md).
+U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel leiden en dienovereenkomstig aangepaste doelen maken. Geef voor elk pakket een aangepast doel op dat moet worden gebruikt met het algemene optimalisatiedoel voor rapportage en algoritmische optimalisatie met [!DNL Adobe AI] . Voor meer informatie over het creëren van douanedoelstellingen, met inbegrip van beste praktijken, zie [ Doelen van de Douane ](custom-goal.md).
 
 ## Stap 2 - Bepaal uw strategie
 
 ### Verkennende strategieën
 
-Pakketten met bovengrondse treinen bevatten plaatsingen met een zeer brede doelgerichtheid om nieuwe consumenten te bereiken.
+De pakketten van de funnel in de eerste plaats bevatten plaatsen die zeer breed zijn gericht op het bereiken van nieuwe consumenten.
 
 #### Aanbevolen plaatsingsstrategieën voor prospectie
 
@@ -43,53 +43,53 @@ Pakketten met bovengrondse treinen bevatten plaatsingen met een zeer brede doelg
    * Contextafhankelijke doelframes.
    * Doellocatie/categorie.
 
-* Gebruik RON (RON)-doelframes: het is belangrijk dat u een runtime voor netwerkplaatsing opneemt zonder doelgroepen en met een brede inventarisdoelgerichtheid. Dit maakt het mogelijk [!DNL Adobe Sensei] algoritme om waardevolle gebruikers te vinden die nieuwere cookies kunnen hebben die nog niet in een publiek zijn gecategoriseerd.
+* De looppas van het gebruik van netwerk (RON) richtend: Het is belangrijk om een looppas van netwerkplaatsing zonder publiek te omvatten richtend en met brede inventarisgericht. Hierdoor kan het algoritme met [!DNL Adobe AI] waardevolle gebruikers vinden die nieuwere cookies hebben die nog niet in een publiek zijn gecategoriseerd.
 
 ### Strategieën opnieuw rangschikken
 
-Lagere treintpakketten bevatten plaatsingen die bedoeld zijn voor gebruikers die al op de webpagina van de adverteerder zijn geweest of voor wie de adverteerder CRM-gegevens heeft.
+Lagere funnel-pakketten bevatten plaatsen die gebruikers betreffen die al op de webpagina van de adverteerder zijn geweest of waarvoor de adverteerder CRM-gegevens heeft.
 
 #### Aanbevolen plaatsingsstrategieën voor opnieuw toewijzen
 
-* Als de adverteerder een Adobe Analytics- of Adobe Audience Manager-klant is, kunt u eerste-partijsegmenten (zoals bezoekers van de homepage, productpagina&#39;s of winkels voor winkelwagens) maken en deze als plaatsingsdoelen in DSP gebruiken.
+* Als de adverteerder een Adobe Analytics- of Adobe Audience Manager-klant is, kunt u eerste-partijsegmenten (zoals bezoekers van de homepage, productpagina&#39;s of winkels voor winkelwagens) maken en deze gebruiken als plaatsingsdoelen in DSP.
 
 * Vermijd het toewijzen van te veel budget aan een doelgerichte plaatsing. Als algemene regel geldt dat budget $30 per 1.000 gebruikers per maand bedraagt.
 
 ## Stap 3 - Pakketten maken
 
-De beste praktijk is het maken van afzonderlijke pakketten voor de prospectie van de bovenste trechter en voor de herbestemming van de ondertrechter. Optimalisatie vindt plaats op pakketniveau, zodat de prestatiegegevens van alle plaatsen binnen een pakket worden samengevoegd. Daarom groepeert u plaatsingen in pakketten met vergelijkbare verwachte prestaties.
+De beste praktijken moeten afzonderlijke pakketten voor het hogere funnel prospecteren en voor het lagere herrichten van funnel tot stand brengen. Optimalisatie vindt plaats op pakketniveau, zodat de prestatiegegevens van alle plaatsen binnen een pakket worden samengevoegd. Daarom groepeert u plaatsingen in pakketten met vergelijkbare verwachte prestaties.
 
-![voorbeeld van afzonderlijke pakketten voor prospectie en heroriëntering](/help/dsp/assets/p-r.png)
+![ voorbeeld van afzonderlijke pakketten voor het prospecteren en het opnieuw richten ](/help/dsp/assets/p-r.png)
 
 Gebruik ook de volgende instellingen.
 
 ### Doelstellingen en budget
 
-* **Tussenruimte en uitlijnen:** Als u een doel voor de optimalisatie van CPA of ROAS wilt selecteren, moet het pakket pakketniveau gebruiken. Dit zorgt ervoor dat alle plaatsen binnen het pakket worden geoptimaliseerd om uitgaven op basis van prestaties en schaal aan de geselecteerde doelstellingen te verdelen.
+* **Pacing &amp; het Afschilderen:** om een CPA of het optimalisatiedoel van ROAS te selecteren, moet het pakket pakket-vlakke het oppassen gebruiken. Dit zorgt ervoor dat alle plaatsen binnen het pakket worden geoptimaliseerd om uitgaven op basis van prestaties en schaal aan de geselecteerde doelstellingen te verdelen.
 
-* **Vluchtdatums:** (Pakketten met vooruitzichten) Als uw campagne langer dan 25 dagen wordt uitgevoerd, kunt u de opdracht [!UICONTROL Activate Custom Flighting] gebruiken. Stel eerst een aangepaste vlucht voor de eerste 10 dagen in op ongeveer 75% van de dagelijkse begroting die nodig is om de uitgaven tijdens de *leerfase*. Stel vervolgens een tweede aangepaste vlucht in voor de rest van de begroting.
+* **Datums van de Vlucht:** (Verkennende pakketten) wanneer uw campagne langer dan 25 dagen loopt, gebruik de [!UICONTROL Activate Custom Flighting] eigenschap. Eerst, plaats een douanevlucht voor de eerste 10 dagen bij ongeveer 75% van het noodzakelijke dagelijkse budget om uitgaven tijdens de *het leren fase* te verminderen. Stel vervolgens een tweede aangepaste vlucht in voor de rest van de begroting.
 
   Als u bijvoorbeeld $100.000 wilt besteden in 30 dagen, stelt u het budget voor vlucht 1 (dagen 1-10) in op $25.000 (75% x $100.000/30 dagen = $2.500 per dag). Gebruik het resterende budget van $75.000 voor Vlucht 2 (Dagen 11-30).
 
-* **Begroting:** DSP probeert altijd 100% van de pakketbegroting gelijkmatig over alle plaatsen in een pakket te verdelen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te staan om aan stages met schaal toe te wijzen. 24-48 uur toestaan voor begrotingswijzigingen.
+* **Begroting:** DSP probeert altijd om 100% van het pakketbudget gelijkmatig tussen alle plaatsen in een pakket toe te wijzen. Als een baan weinig of geen uitgaven heeft, adviseren wij begroting die de plaatsing begrenzen om meer van het budget toe te staan om aan stages met schaal toe te wijzen. 24-48 uur toestaan voor begrotingswijzigingen.
 
-* **Optimalisatiedoelstellingen:** Gebruik een van de twee optimalisatiedoelen voor prestaties. *[!UICONTROL Highest Return on Ad Spend]* of *[!UICONTROL Lowest Cost per Acquisition]*, afhankelijk van het pakketdoel. Met deze doelen wordt het pakket automatisch geoptimaliseerd in de richting van respectievelijk de beste ROAS- of laagste CPA-plaatsing.
+* **Doelstellingen van de Optimalisering:** gebruik één van de twee doelstellingen van de prestatiesoptimalisering, *[!UICONTROL Highest Return on Ad Spend]* of *[!UICONTROL Lowest Cost per Acquisition]*, afhankelijk van het pakketdoel. Met deze doelen wordt het pakket automatisch geoptimaliseerd in de richting van respectievelijk de beste ROAS- of laagste CPA-plaatsing.
 
-* **Aangepaste doelen:**
+* **Doelen van de Douane:**
    * Als een nieuw pakket hetzelfde doel heeft als een bestaand pakket, kunt u optioneel het bestaande pakket koppelen, zodat het algoritme de bestaande leergegevens voor computers kan gebruiken.
-   * Voer de juiste gegevens in [!UICONTROL Target CPA] of [!UICONTROL Target ROAS].
+   * Voer de juiste [!UICONTROL Target CPA] of [!UICONTROL Target ROAS] in.
 
-* **Tussenruimte voor vluchten en intradayafstand:** Selecteer voor beide typen spatiëring de optie *[!UICONTROL Even]* om uw prestatiedoelstellingen te maximaliseren door uniform door elke dag en door de volledige vlucht te passen.
+* **Vlucht het Pacing en Intraday het Pacing:** voor beide types van het Pakkeren, selecteer *[!UICONTROL Even]* om uw prestatiesdoelstellingen te maximaliseren door uniform door elke dag en door de volledige vlucht te passen.
 
   >[!CAUTION]
   >
-  >Gebruiken *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* voor de vluchtfrequentie en *[!UICONTROL ASAP]* het plaatsen voor intraday het verpakken slechts wanneer u volledig aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatief uw gewenste prestaties KPIs kunnen beïnvloeden.
+  >Gebruik *[!UICONTROL FrontLoad]* en *[!UICONTROL Aggressive Front Load]* voor het plaatsen van vluchten en *[!UICONTROL ASAP]* het plaatsen voor intraday-pacing slechts wanneer u volledig voorrang geeft aan levering en besteedt over prestatiesoptimalisering omdat die strategieën negatieve gevolgen voor uw gewenste prestaties KPIs kunnen hebben.
 
 ## Stap 4 - Plaatsingsstructuur maken
 
 Minder is meer. Als u minder dan zes plaatsen per pakket kunt instellen, dan kan het beschikbare budget dynamisch verschuiven naar de best presterende plaatsen het gemakkelijkst.
 
-Zorg er ook voor dat u elke plaatsing aan een pakket toevoegt met het doeltype van het pakket *[!UICONTROL Prospecting]* of *[!UICONTROL Retargeting]* in voorkomend geval.
+Zorg er ook voor dat u elke plaatsing aan een pakket met het doeltype van het pakket *[!UICONTROL Prospecting]* of *[!UICONTROL Retargeting]* toevoegt.
 
 Hieronder vindt u de aanbevolen plaatsingsinstellingen voor prestatiecampagnes.
 
@@ -97,25 +97,25 @@ Hieronder vindt u de aanbevolen plaatsingsinstellingen voor prestatiecampagnes.
 
 U moet CPA of ROAS optimalisering op het pakketniveau vormen (zie Stap 3 - creeer Pakketten), maar u kunt extra plaatsing-vlakke montages toevoegen.
 
-* **Maximumbod:**
+* **Maximale BOD:**
    * Gebruik een laag maximumbod ($5) voor het zoeken naar plaatsen.
    * Gebruik een hoog maximumbod ($12) als u plaatsingen opnieuw wilt toewijzen.
 
-* **Filters vóór bod:** Minimaliseer of vermijd bij voorkeur het instellen van agressieve voorbiedingsfilters, die voorkomen dat de plaatsing schaalbaar wordt. De beste praktijken omvatten het volgende:
+* **Vooraf biedende Filters:** minimaliseer, of vermijd idealiter, plaatsend agressieve voorbiedingsfilters, die de plaatsing verhinderen schaal te bereiken. De beste praktijken omvatten het volgende:
 
    * Gebruik één (1) voorbiedingsfilter per plaatsing. Wanneer u meerdere filters voor een voorbod gebruikt, moet aan beide voorwaarden worden voldaan, waardoor de schaal afneemt.
 
    * U kunt minder strikte voorbiedingsfilters instellen in gevallen waarin extra doelframes (zoals publiek, geo en doellocatie) worden toegepast.
 
-Zie de beschrijvingen van wanneer u elk vooraf biedfilter moet gebruiken op [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](/help/dsp/optimization/optimization-pre-bid-filters.md).
+Zie beschrijvingen van wanneer om elk pre-bieder filter op [ plaats-vlakke pre-Biedfilters te gebruiken en hoe te om hen ](/help/dsp/optimization/optimization-pre-bid-filters.md) te gebruiken.
 
 ### Inventaris
 
-Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchange) en [!UICONTROL On Demand] voorraad.
+Gebruik [!UICONTROL Public] (Open Exchange) en [!UICONTROL On Demand] -voorraad om de schaal te maximaliseren.
 
 ### Sitedoelen
 
-* **[!UICONTROL Traffic Type]**: [!UICONTROL Websites] alleen
+* **[!UICONTROL Traffic Type]** : [!UICONTROL Websites] alleen
 * **[!UICONTROL Site Tier]**: [!UICONTROL All sites]
 
 ### Doelgerichtheid publiek
@@ -139,25 +139,25 @@ Als u de schaal wilt maximaliseren, gebruikt u [!UICONTROL Public] (Open Exchang
    * Stel voor het opnieuw plaatsen de primaire plaatsingsdop in op 6-10 indrukkingen per dag en de secundaire dop op 1 indruk per uur.
 
 * **[!UICONTROL Device Targeting]**:
-   * Inclusief [!UICONTROL Computer], [!UICONTROL Mobile], en [!UICONTROL Tablet].
-   * Niet instellen [!UICONTROL Firefox] en [!UICONTROL Safari] vanwege beperkingen inzake doelgerichtheid en meting. Neem contact op met het accountteam van de Adobe voor meer informatie over [!DNL Adobe] steun voor [!DNL Safari ITP].
-   * Als u mobiel webverkeer als doel instelt, schakelt u alle mobiele browsers uit, behalve [!UICONTROL Chrome] en [!UICONTROL Edge].
+   * Neem [!UICONTROL Computer], [!UICONTROL Mobile] en [!UICONTROL Tablet] op.
+   * Niet richten [!UICONTROL Firefox] en [!UICONTROL Safari] wegens het richten en metingsbeperkingen. Neem contact op met uw Adobe-accountteam voor meer informatie over [!DNL Adobe] ondersteuning voor [!DNL Safari ITP] .
+   * Als u mobiel webverkeer als doel instelt, schakelt u alle mobiele browsers uit, behalve [!UICONTROL Chrome] en [!UICONTROL Edge] .
 
 ### Merk, veiligheid en mediakwaliteit
 
-Contextafhankelijke filtering, blokkering van voorbiedingsfraude en/of [!UICONTROL Ads.txt] het filtreren beperkt de schaal van uw plaatsingen, maar gebruik hen indien nodig.
+Door contextafhankelijke filters, het blokkeren van voorbiedingsfraude en/of het filteren van [!UICONTROL Ads.txt] wordt de schaal van uw plaatsingen beperkt, maar kunt u ze indien nodig gebruiken.
 
 ## Stap 5 - De juiste Creative Assets gebruiken
 
 * De beste manier is om zoveel mogelijk unieke advertentiegrootten op te nemen om het bereik te maximaliseren. Met de universele weergavesjabloon kunt u elke standaardweergave en -grootte uploaden.
-* Zorg ervoor dat alle plaatsen bevatten *ten minste* alle primaire schermen en formaten (300x250, 728x90, 160x600, 300x600, 320x50 en 300x50).
+* Zorg ervoor alle plaatsen *minstens* alle primaire vertoning en grootte (300x250, 728x90, 160x600, 300x600, 320x50, en 300x50) bevatten.
 * Werk creatieve middelen regelmatig bij om creatieve vermoeidheid te voorkomen.
 
 >[!MORELIKETHIS]
 >
->* [Pakketinstellingen](/help/dsp/campaign-management/packages/package-settings.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
-> * [Hoe DSP uw campagnes optimaliseert](optimization-how-dsp-optimizes-campaigns.md)
->* [Optimalisatiedoelstellingen en hoe deze te gebruiken](optimization-goals.md)
->* [Filters op plaatsingsniveau vóór het bieden en hoe deze te gebruiken](optimization-pre-bid-filters.md)
->* [Controlelijst voor starten van campagne](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+> * [ hoe DSP Uw campagnes optimaliseert ](optimization-how-dsp-optimizes-campaigns.md)
+>* [ Doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
+>* [ plaatsing-vlakke pre-Bodende Filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md)
+>* [ Controlelijst van de Lancering van de Campagne ](/help/dsp/campaign-management/campaign-launch-checklist.md)

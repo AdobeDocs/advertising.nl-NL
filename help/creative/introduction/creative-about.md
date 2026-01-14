@@ -3,9 +3,9 @@ title: Informatie over Adobe Advertising Creative
 description: Meer informatie over  [!DNL Creative].
 feature: Creative Introduction
 exl-id: 2cc12119-5924-4fcd-a54b-30f7887ae6a7
-source-git-commit: 9082d9f455a0d26ca027dc699df29737b9042457
+source-git-commit: de2a2a097802cc4a7b5ac63bee2eb326895e70f1
 workflow-type: tm+mt
-source-wordcount: '472'
+source-wordcount: '470'
 ht-degree: 0%
 
 ---
@@ -40,7 +40,7 @@ Als u een ervaring hebt gemaakt, kunt u een JavaScript- of iframe-tag voor de er
 
 ### Optimalisatie van advertentie-elementen
 
-U kunt [!DNL Creative] desgewenst toestaan om de advertentie-elementen te optimaliseren voor elke ervaring op basis van prestaties — of u nu specifieke doelwitten voor het publiek definieert of niet — met behulp van geoptimaliseerde, gewogen en rotatie, die wordt aangedreven door Adobe Sensei.
+U kunt desgewenst toestaan dat [!DNL Creative] de advertentie-elementen optimaliseert voor elke ervaring op basis van prestaties — of u nu specifieke doelwitten voor het publiek definieert of niet — door gebruik te maken van geoptimaliseerde, gewogen en rotatie, aangedreven door [!DNL Adobe AI] .
 
 <!--
 [!DNL Creative] serves first-party ads and triggers third-party ads for the experience based on the specified targeting (when applicable), scheduling, ad rotation, and optimization goal options 
@@ -67,7 +67,7 @@ U kunt gedetailleerde prestatierapporten op ervaringsniveau weergeven binnen Cre
 
 U kunt ook aangepaste Creative-rapporten maken via Rapporten > Aangepaste rapporten om de prestaties op ervaringsniveau in al uw ervaringen te controleren. Als u uw [!DNL Creative] -ervaringen als advertenties gebruikt in DSP-campagnes, zijn de prestatiegegevens voor die advertenties beschikbaar in aanvullende aangepaste rapporten, net als gegevens voor andere DSP-advertenties. <!-- Verify that [!DNL Creative] users have access to ALL other reports. -->
 
-U kunt naar keuze uw douanerapporten aan gespecificeerde [&#x200B; rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
+U kunt naar keuze uw douanerapporten aan gespecificeerde [ rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md) leveren.
 
 <!--
 >* [Overview of implementing Adobe Advertising Creative](/help/creative/introduction/implementation-overview.md)
@@ -76,5 +76,5 @@ U kunt naar keuze uw douanerapporten aan gespecificeerde [&#x200B; rapportbestem
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer uw creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-libraries-about.md)
->* [&#x200B; Ongeveer ervaringen in Advertising Creative &#x200B;](/help/creative/experiences/experience-about.md)
+>* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
+>* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
