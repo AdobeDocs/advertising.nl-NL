@@ -34,4 +34,4 @@ Voor meer informatie over mogelijke gegevensvariaties tussen Adobe Advertising-G
 >* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  Regels van de Verwerking &#x200B;](mc-ids.md) te creëren
 >* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de Gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
->* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=nl-NL) meldt
