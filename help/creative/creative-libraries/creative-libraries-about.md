@@ -3,9 +3,9 @@ title: Over uw creatieve bibliotheken
 description: Meer informatie over het beheren van de creatieve projecten voor uw advertentiervaringen.
 feature: Creative Libraries, Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: 77dc6528-a455-4406-98b6-15e7ce529370
-source-git-commit: 76e3ae8369fda1c4d95c06ecb085a8669dcf142b
+source-git-commit: 24846adba9ff856571d117261f44aff408e70c50
 workflow-type: tm+mt
-source-wordcount: '1383'
+source-wordcount: '1529'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ Met uw creatieve bibliotheken kunt u de creatieve projecten beheren die u in uw 
 
 Uw bibliotheken kunnen het volgende bevatten:
 
-* **Individuele creatieven:** u kunt individuele creatieve personen direct binnen en ervaringen omvatten die geen bepaalde gebruikersdoelstellingen hebben. U kunt uw creatieven ook gebruiken om bundels tot stand te brengen, die u in gerichte [&#x200B; en ervaringen &#x200B;](/help/creative/experiences/experience-about.md) kunt omvatten.
+* **Individuele creatieven:** u kunt individuele creatieve personen direct binnen en ervaringen omvatten die geen bepaalde gebruikersdoelstellingen hebben. U kunt uw creatieven ook gebruiken om bundels tot stand te brengen, die u in gerichte [ en ervaringen ](/help/creative/experiences/experience-about.md) kunt omvatten.
 
-   * **Standaard creatieven:** u kunt creatieve elementen in [&#x200B; diverse formaten &#x200B;](#creative-creative-formats) uploaden en beheren. Geef voor elke creatieve advertentie de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
+   * **Standaard creatieven:** u kunt creatieve elementen in [ diverse formaten ](#creative-creative-formats) uploaden en beheren. Geef voor elke creatieve advertentie de standaardtaal op voor elke advertentie waarmee u de creatieve pagina en de standaard openingspagina koppelt die wordt geopend wanneer een gebruiker op een advertentie klikt die de creatieve pagina bevat. U kunt desgewenst labels opgeven die u als filters wilt gebruiken in verschillende weergaven binnen [!DNL Creative] en als kolomwaarden in [!UICONTROL Custom Creative Report] wanneer u de [!UICONTROL Creative Label] -dimensie gebruikt.
 
    * **Dynamische creatieven:** u kunt dynamisch geproduceerde creatieve elementen tot stand brengen door dynamische variabelen in een advertentiemalplaatje aan waarden in een voederdossier in kaart te brengen. Alle gebruikers kunnen bestaande dynamische advertenties voorvertonen, dupliceren en verwijderen.
 
@@ -28,7 +28,7 @@ Uw bibliotheken kunnen het volgende bevatten:
 
 ### Formaten voor standaardcreatieve producten
 
-U kunt de volgende creatieve types in de [&#x200B; gesteunde creatieve grootte toevoegen en beheren &#x200B;](creative-sizes.md).
+U kunt de volgende creatieve types in de [ gesteunde creatieve grootte toevoegen en beheren ](creative-sizes.md).
 
 >[!IMPORTANT]
 >
@@ -40,13 +40,26 @@ U kunt de volgende creatieve types in de [&#x200B; gesteunde creatieve grootte t
 
 Flexibele HTML5-creatieven zijn HTML5-creatieven met al hun afbeeldingen en andere kenmerken als standaard HTML-tags, die u rechtstreeks in [!DNL Creative] kunt bewerken, in een creatieve bibliotheek of in een individuele ervaring (waardoor een variatie van de originele creatieve elementen ontstaat). In DSP zijn flexibele HTML5-creatieven bedoeld voor één specifieke advertentiegrootte (in pixels). U kunt desgewenst de standaardwaarden wijzigen van de kenmerken die zijn opgegeven in een flexibele creatieve HTML5. Later kunt u aangepaste waarden opgeven voor de kenmerken binnen een bepaalde ervaring. Hierdoor wordt een variatie van de bovenliggende creatieve elementen gemaakt.
 
-U kunt flexibele HTML5-creatieven uploaden als ZIP-bestanden of een van de sjablonen gebruiken die beschikbaar zijn voor uw account als startpunt. Zie de [&#x200B; specificaties voor flexibele HTML5 creatieven &#x200B;](html5-creative-specification.md).
+U kunt flexibele HTML5-creatieven uploaden als ZIP-bestanden of een van de sjablonen gebruiken die beschikbaar zijn voor uw account als startpunt. Zie de [ specificaties voor flexibele HTML5 creatieven ](html5-creative-specification.md).
 
-#### HTML5-creatieven
+#### Standaard beeldschermcreaties
 
-U kunt eenvoudige of statische HTML5-creatieven uploaden, met alle kenmerken en afbeeldingen opgegeven als ZIP-bestanden. U kunt geen kenmerken bewerken of afbeeldingen toevoegen. U kunt in plaats daarvan een nieuw ZIP-bestand uploaden om een nieuwe creatieve functie toe te voegen. Zie de [&#x200B; specificaties voor eenvoudige en statische HTML5 creatieven &#x200B;](html5-creative-specification.md).
+Standaardweergaveadvertenties zijn:
 
-#### Afbeeldingscreatieven
+* HTML5-creatieven die lokaal of vanuit Adobe GenStudio for Performance Marketing zijn geüpload.
+* Afbeeldingsbestanden die lokaal of vanuit Adobe Experience Manager zijn geüpload.
+
+##### HTML5-creatieven
+
+* **ervaringen van GenStudio:** u kunt alle ad varianten van a [ vertoning en ervaring ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/display-ad-experiences) in [ GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) als HTML5 invoeren creatief. Externe koppelingen worden omgezet in lokale verwijzingen. De HTML-inhoud kan maximaal 20 MB zijn en afzonderlijke afbeeldingen kunnen maximaal 50 MB groot zijn.
+
+  Als u deze functie wilt gebruiken, moeten zowel de GenStudio-account als de Advertising Creative-account dezelfde organisatie-id gebruiken en moet de gebruiker rechten hebben om toegang te krijgen tot GenStudio.
+
+  Nadat u een GenStudio-ervaring hebt geïmporteerd, kunt u de metagegevens (naam, taal, tags) voor de geïmporteerde creatieve inhoud bewerken, maar niet voor de creatieve inhoud. Als u de GenStudio-ervaring in GenStudio bewerkt, importeert u de ervaring in [!DNL Creative] opnieuw om de nieuwste versie te gebruiken.
+
+* **Geüploade dossiers:** u kunt eenvoudige of statische HTML5 creatieve producten, met alle gespecificeerde attributen en beelden, als dossiers van het PIT ook uploaden. U kunt geen kenmerken bewerken of afbeeldingen toevoegen. U kunt in plaats daarvan een nieuw ZIP-bestand uploaden om een nieuwe creatieve functie toe te voegen. Zie de [ specificaties voor eenvoudige en statische HTML5 creatieven ](html5-creative-specification.md).
+
+##### Afbeeldingscreatieven
 
 U kunt creatieve afbeeldingen opnemen in de indeling GIF, JPEG, JPG of PNG. U kunt goedgekeurde afbeeldingen uploaden vanaf uw Adobe Experience Manager-accounts of vanaf uw apparaat of netwerk.
 
@@ -62,9 +75,9 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 
 #### Videocreatieven {#creative-video-specs}
 
-U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. DSP transcodeert automatisch alle videocamera&#39;s als VAST 2.0-tags, zodat u deze kunt bekijken. In [!UICONTROL Tag Manager], kunt u naar keuze [&#x200B; DSP-Specifieke transcodering &#x200B;](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
+U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. DSP transcodeert automatisch alle videocamera&#39;s als VAST 2.0-tags, zodat u deze kunt bekijken. In [!UICONTROL Tag Manager], kunt u naar keuze [ DSP-Specifieke transcodering ](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
-Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [&#x200B; Vereisten voor Video Assets van High-Definition &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
+Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [ Vereisten voor Video Assets van High-Definition ](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
 
 **Type van Dossier:** .mov, .mp4, .webm
 
@@ -98,7 +111,7 @@ U kunt creatieve elementen dynamisch genereren in statische HTML5- en dynamische
 
 ## De weergaven [!UICONTROL Creative Libraries]
 
-Zie &quot;[&#x200B; uw gegevensmeningen &#x200B;](/help/creative/introduction/customize-data-views.md)&quot;voor meer informatie aanpassen over het aanpassen van elke mening.
+Zie &quot;[ uw gegevensmeningen ](/help/creative/introduction/customize-data-views.md)&quot;voor meer informatie aanpassen over het aanpassen van elke mening.
 
 ### De hoofdweergave van [!UICONTROL Creative Libraries]
 
@@ -144,7 +157,7 @@ Op het tabblad [!UICONTROL Standard Ads] worden alle standaardcreatieve elemente
 
 #### [!UICONTROL Dynamic Ads]
 
-Het [!UICONTROL Dynamic Ads] lusje toont alle dynamische creatieve creatieve creatieve die dynamisch voor uw creatieve catalogi, behalve om het even welke dynamische creatieve creatieve creatieve die u [&#x200B; manueel schrapte &#x200B;](creative-delete.md) van het [!UICONTROL Dynamic Ads] lusje werden gecreeerd. Als u [&#x200B; manueel gedupliceerde &#x200B;](creative-duplicate.md) om het even welke dynamische creatieve personen <!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, dan omvat de lijst van creatieve personen voor die catalogus ook de dubbele creatieve elementen.
+Het [!UICONTROL Dynamic Ads] lusje toont alle dynamische creatieve creatieve creatieve die dynamisch voor uw creatieve catalogi, behalve om het even welke dynamische creatieve creatieve creatieve die u [ manueel schrapte ](creative-delete.md) van het [!UICONTROL Dynamic Ads] lusje werden gecreeerd. Als u [ manueel gedupliceerde ](creative-duplicate.md) om het even welke dynamische creatieve personen <!-- I don't think existing ads are deletd via feeds, so this probably isn't true: since a catalog was last processed -->, dan omvat de lijst van creatieve personen voor die catalogus ook de dubbele creatieve elementen.
 
 De gegevens voor elke creatieve functie omvatten het creatieve type, de creatieve grootte, het aantal catalogi waartoe de creatieve functie behoort, en de aanmaakdatum. De tabelmodus bevat ook kolommen voor de advertentiesjabloon waarmee de creatieve items zijn gegenereerd en het aantal aanbiedingen.
 
@@ -190,7 +203,7 @@ In de weergave [!UICONTROL Bundles] worden al uw standaard- en dynamische bundel
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheer creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-library-manage.md)
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
->* [&#x200B; beheer creatieve bundels &#x200B;](bundle-manage.md)
->* [&#x200B; pas uw gegevensmeningen &#x200B;](/help/creative/introduction/customize-data-views.md) aan
+>* [ beheer creatieve bibliotheken ](/help/creative/creative-libraries/creative-library-manage.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
+>* [ beheer creatieve bundels ](bundle-manage.md)
+>* [ pas uw gegevensmeningen ](/help/creative/introduction/customize-data-views.md) aan
