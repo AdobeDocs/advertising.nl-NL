@@ -4,9 +4,9 @@ description: Leer hoe u de instellingen voor meerdere portfolio's kunt bewerken 
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: 20f7419d-9f5e-4477-ae8d-8b85a79b1e81
-source-git-commit: 04b6fbaf4a8b360bc3a60bdad4871694d50f1bf9
+source-git-commit: 8b63f697278b5dc4ecbb720af44053fbc771273f
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '388'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ Een portfoliowerkblad is een bestand dat portfolioinstellingen in een specifieke
 
 * Een alleen-lezen [!UICONTROL Instructions] werkblad met informatie over het bewerken van de velden.
 
-* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [&#x200B; uploadt het uitgegeven dossier &#x200B;](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce. De bewerkbare velden worden in kleur gemarkeerd.
+* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [ uploadt het uitgegeven dossier ](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce. De bewerkbare velden worden in kleur gemarkeerd.
 
 ## Een bulkbladbestand met portfolioinstellingen downloaden
 
@@ -41,17 +41,17 @@ Een portfoliowerkblad is een bestand dat portfolioinstellingen in een specifieke
 
 Het bestand moet de XLSX-indeling hebben.
 
-1. Klik op **[!UICONTROL Bulk Operations]** > **[!UICONTROL Import Portfolio Details]** op de werkbalk boven de datatabel. &lt;!— Moet &quot;Import Portfolio Settings&quot; zijn — &quot;Details&quot; kunnen te vaag zijn en suggereren dat het iets anders kan bevatten. —>
+1. Klik op **[!UICONTROL Bulk Operations]** > **[!UICONTROL Import Portfolio Details]** op de werkbalk boven de datatabel.
 
-1. In het dialoogvenster [!UICONTROL Import Portfolio Details File] :<!-- reword if we change the name of the operation -->
+1. In het dialoogvenster [!UICONTROL Import Portfolio Details File] :
 
-   1. Sleep een bestand naar het vak of klik op **[!UICONTROL Browse File]**<!-- "Browse for file" or just "Browse"??? -->om een bestand van het apparaat of het netwerk te selecteren.
+   1. Sleep een bestand naar het vak of klik op **[!UICONTROL Browse File]** om een bestand van het apparaat of het netwerk te selecteren.
 
    1. Klik op **[!UICONTROL Import]**.
 
-U kunt het statuut van uploaden van de [!UICONTROL Global Sync Status] knoop (![&#x200B; Globale Status van de Synchronisatie &#x200B;](/help/search-social-commerce/assets/global-sync-status.png " Globale Status van de Synchronisatie ")) naast de selecteur van de datumwaaier controleren.<!-- icon similar to Refresh -->. Als een van de wijzigingen niet is gelukt, kunt u een foutbestand downloaden waarin wordt aangegeven wat is mislukt.
+U kunt het statuut van uploaden van de [!UICONTROL Global Sync Status] knoop (![ Globale Status van de Synchronisatie ](/help/search-social-commerce/assets/global-sync-status.png " Globale Status van de Synchronisatie ")) naast de selecteur van de datumwaaier controleren. Als een van de wijzigingen niet is gelukt, kunt u een foutbestand downloaden waarin wordt aangegeven wat is mislukt.
 
-De berichten worden ook toegevoegd aan het Centrum van het Bericht, en u kunt de ruit van Meldingen van het ![&#x200B; pictogram van Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-new.png " ") naast de [!UICONTROL Global Sync Status] knoop (![Status van algemene synchronisatie](/help/search-social-commerce/assets/global-sync-status.png "Status van algemene synchronisatie")) openen.
+De berichten worden ook toegevoegd aan het Centrum van het Bericht, en u kunt de ruit van Meldingen van het ![ pictogram van Meldingen ](/help/search-social-commerce/assets/notifications-new.png " ") naast de [!UICONTROL Global Sync Status] knoop (![Status van algemene synchronisatie](/help/search-social-commerce/assets/global-sync-status.png "Status van algemene synchronisatie")) openen.
 
 ## Gegevensvereisten voor geüploade bulkbladbestanden
 
@@ -85,6 +85,6 @@ Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociaal en Commerce, voo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
->* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
->* [&#x200B; (Nieuwe interface) Informatie over portfolio&#39;s &#x200B;](portfolio-about.md)
+>* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
+>* [ creeer een portefeuille ](portfolio-create.md)
+>* [ (Nieuwe interface) Informatie over portfolio&#39;s ](portfolio-about.md)
