@@ -19,7 +19,7 @@ Een portfoliowerkblad is een bestand dat portfolioinstellingen in een specifieke
 
 * Een alleen-lezen [!UICONTROL Instructions] werkblad met informatie over het bewerken van de velden.
 
-* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [ uploadt het uitgegeven dossier ](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce. De bewerkbare velden worden in kleur gemarkeerd.
+* Een [!UICONTROL Portfolio Settings Edit] -tabblad met één rij per opgenomen portfolio. U kunt naar keuze de gebieden uitgeven zoals nodig, sparen het dossier plaatselijk, en dan [&#x200B; uploadt het uitgegeven dossier &#x200B;](#portfolio-bulksheet-upload) aan Onderzoek, Sociale, &amp; Commerce. De bewerkbare velden worden in kleur gemarkeerd.
 
 ## Een bulkbladbestand met portfolioinstellingen downloaden
 
@@ -49,9 +49,9 @@ Het bestand moet de XLSX-indeling hebben.
 
    1. Klik op **[!UICONTROL Import]**.
 
-U kunt het statuut van uploaden van de [!UICONTROL Global Sync Status] knoop (![ Globale Status van de Synchronisatie ](/help/search-social-commerce/assets/global-sync-status.png " Globale Status van de Synchronisatie ")) naast de selecteur van de datumwaaier controleren. Als een van de wijzigingen niet is gelukt, kunt u een foutbestand downloaden waarin wordt aangegeven wat is mislukt.
+U kunt het statuut van uploaden van de [!UICONTROL Global Sync Status] knoop (![&#x200B; Globale Status van de Synchronisatie &#x200B;](/help/search-social-commerce/assets/global-sync-status.png " Globale Status van de Synchronisatie ")) naast de selecteur van de datumwaaier controleren. Als een van de wijzigingen niet is gelukt, kunt u een foutbestand downloaden waarin wordt aangegeven wat is mislukt.
 
-De berichten worden ook toegevoegd aan het Centrum van het Bericht, en u kunt de ruit van Meldingen van het ![ pictogram van Meldingen ](/help/search-social-commerce/assets/notifications-new.png " ") naast de [!UICONTROL Global Sync Status] knoop (![Status van algemene synchronisatie](/help/search-social-commerce/assets/global-sync-status.png "Status van algemene synchronisatie")) openen.
+De berichten worden ook toegevoegd aan het Centrum van het Bericht, en u kunt de ruit van Meldingen van het ![&#x200B; pictogram van Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-new.png " ") naast de [!UICONTROL Global Sync Status] knoop (![Status van algemene synchronisatie](/help/search-social-commerce/assets/global-sync-status.png "Status van algemene synchronisatie")) openen.
 
 ## Gegevensvereisten voor geüploade bulkbladbestanden
 
@@ -85,6 +85,6 @@ Zie de Optimalisatiegids, die beschikbaar is in Zoeken, Sociaal en Commerce, voo
 
 >[!MORELIKETHIS]
 >
->* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
->* [ creeer een portefeuille ](portfolio-create.md)
->* [ (Nieuwe interface) Informatie over portfolio&#39;s ](portfolio-about.md)
+>* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
+>* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
+>* [&#x200B; (Nieuwe interface) Informatie over portfolio&#39;s &#x200B;](portfolio-about.md)
