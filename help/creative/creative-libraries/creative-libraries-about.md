@@ -51,7 +51,7 @@ Standaardweergaveadvertenties zijn:
 
 ##### HTML5-creatieven
 
-* **ervaringen van GenStudio:** u kunt alle ad varianten van a [&#x200B; vertoning en ervaring &#x200B;](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/create/display-ad-experiences) in [&#x200B; GenStudio for Performance Marketing &#x200B;](https://experienceleague.adobe.com/en/docs/genstudio-for-performance-marketing/user-guide/home) als individuele HTML5 creatieve personen invoeren. Externe koppelingen worden omgezet in lokale verwijzingen. De HTML-inhoud kan maximaal 20 MB zijn en afzonderlijke afbeeldingen kunnen maximaal 50 MB groot zijn.
+* **ervaringen van GenStudio:** u kunt alle ad varianten van a [&#x200B; vertoning en ervaring &#x200B;](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/create/display-ad-experiences) in [&#x200B; GenStudio for Performance Marketing &#x200B;](https://experienceleague.adobe.com/nl/docs/genstudio-for-performance-marketing/user-guide/home) als individuele HTML5 creatieve personen invoeren. Externe koppelingen worden omgezet in lokale verwijzingen. De HTML-inhoud kan maximaal 20 MB zijn en afzonderlijke afbeeldingen kunnen maximaal 50 MB groot zijn.
 
   Nadat u een GenStudio-ervaring hebt geïmporteerd, kunt u de metagegevens (naam, taal, tags) voor de geïmporteerde creatieve inhoud bewerken, maar niet voor de creatieve inhoud. Als u de GenStudio-ervaring in GenStudio bewerkt, importeert u de ervaring in [!DNL Creative] opnieuw om de nieuwste versie te gebruiken.
 
@@ -79,7 +79,7 @@ Voer JavaScript-trackingtags in voor creatieve producten die worden gehost op ex
 
 U kunt eersteklas videoclips voor het web, mobiele apparaten of aangesloten tv uploaden vanaf uw apparaat of netwerk. Voor elke standaardvideo en -ervaring is een creatieve standaardvideo vereist voor elke creatieve duur die aan de ervaring wordt toegewezen. DSP transcodeert automatisch alle videocamera&#39;s als VAST 2.0-tags, zodat u deze kunt bekijken. In [!UICONTROL Tag Manager], kunt u naar keuze [&#x200B; DSP-Specifieke transcodering &#x200B;](/help/creative/experiences/experience-tag-video-transcoding.md) op om het even welke video en ervaringstag toepassen.
 
-Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [&#x200B; Vereisten voor Video Assets van High-Definition &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
+Bekijk de volgende creatieve videovereisten. **Nota:** als u videoervaringen aan Advertising DSP zult uploaden, dan zie ook DSP [&#x200B; Vereisten voor Video Assets van High-Definition &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/dsp/campaign-management/ads/ad-specs#requirements-for-high-definition-video-assets), die meer beperkt kunnen zijn.
 
 **Type van Dossier:** .mov, .mp4, .webm
 
