@@ -46,7 +46,7 @@ U kunt een creatief element toevoegen aan meerdere bundels.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -58,7 +58,7 @@ U kunt een creatief element toevoegen aan meerdere bundels.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -106,13 +106,13 @@ U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, stand
 
 >[!NOTE]
 >
->U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties [ ook vastmaken.](creative-attach-detach-bundles.md)
+>U kunt creatieve elementen aan bundels van de StandaardAdvertenties en de Dynamische meningen van Advertenties [&#x200B; ook vastmaken.](creative-attach-detach-bundles.md)
 
 ### Creatieve elementen uit de lijst met bundels aan een bundel koppelen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -126,7 +126,7 @@ U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, stand
 
    Elke creatieve waarde die in aanmerking komt voor het bundeltype, wordt in het rechterframe weergegeven. Creatieve elementen die al aan de bundel zijn gekoppeld, worden wel vermeld, maar kunnen niet worden geselecteerd.
 
-1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![ de mening van de Kaart van 0} te klikken ](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
+1. (Facultatief) schakelaar tussen de standaardlijstmening en een kaartmening van de beschikbare bundels door ![&#x200B; de mening van de Kaart van 0&rbrace; te klikken &#x200B;](/help/creative/assets/card-view-button.png " om de kaartmening te openen of ") om aan de lijstmening terug te keren.![Tabel-/lijstweergave](/help/creative/assets/table-view-button.png "Tabelweergave")
 
 1. Selecteer in het rechterframe het selectievakje naast de creatieve elementen die u aan de bundel wilt koppelen en klik op **[!UICONTROL Attach Creative to Bundle]** .
 
@@ -134,7 +134,7 @@ U kunt bestaande standaardweergavefuncties aan een standaardweergavesuite, stand
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -156,7 +156,7 @@ Als u een creatief element loskoppelt uit de bundel, wordt het creatieve element
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -182,7 +182,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -204,7 +204,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 <!-- Verify:  Will the creative click be tracked like a regular ad click but not linked to a publisher and placement? Explain effect/consequences. -->
 
-1. (Facultatief) om creatief te downloaden, klik ![ Download ](/help/creative/assets/download.png " ").
+1. (Facultatief) om creatief te downloaden, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -234,7 +234,7 @@ U kunt een voorvertoning weergeven van een creatieve afbeelding, zoals hyperlink
 
 1. (Optioneel) U kunt als volgt een demo-URL delen zodat andere personen zonder aanmelding bij [!DNL Creative] een voorvertoning van de creatieve documenten kunnen weergeven:
 
-   1. Klik ![ Aandeel 1} van het Aandeel ](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
+   1. Klik ![&#x200B; Aandeel 1&rbrace; van het Aandeel &#x200B;](/help/creative/assets/share.png " in het hogere recht van de voorproef.")
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
@@ -272,11 +272,11 @@ The custom URL and tags are applied to a creative when the bundle is assigned to
 
 ## Bundels verwijderen
 
-U kunt bundels schrappen die niet aan a [ levende ](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Als een bundel aan een levende ervaring wordt toegewezen, dan [ verwijder de bundel uit de beslissingsboom ](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.
+U kunt bundels schrappen die niet aan a [&#x200B; levende &#x200B;](/help/creative/experiences/experience-about.md#experience-statuses-experience-statuses) ervaring worden toegewezen. Als een bundel aan een levende ervaring wordt toegewezen, dan [&#x200B; verwijder de bundel uit de beslissingsboom &#x200B;](/help/creative/experiences/experience-target-node-delete.md) voor de ervaring alvorens u verdergaat.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
@@ -303,8 +303,8 @@ U kunt bundels schrappen die niet aan a [ levende ](/help/creative/experiences/e
 
 >[!MORELIKETHIS]
 >
->* [ wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign ](/help/creative/experiences/experience-assign-creative-bundles.md)
->* [ Voorproef creatieve ](/help/creative/creative-libraries/creative-preview.md)
->* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
->* [ beheer creatieve bibliotheken ](/help/creative/creative-libraries/creative-library-manage.md)
->* [ Ongeveer uw creatieve bibliotheken ](/help/creative/creative-libraries/creative-libraries-about.md)
+>* [&#x200B; wijs creatieve bundels aan een definitieve knoop in een ervaring toe en unassign &#x200B;](/help/creative/experiences/experience-assign-creative-bundles.md)
+>* [&#x200B; Voorproef creatieve &#x200B;](/help/creative/creative-libraries/creative-preview.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md) toe
+>* [&#x200B; beheer creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-library-manage.md)
+>* [&#x200B; Ongeveer uw creatieve bibliotheken &#x200B;](/help/creative/creative-libraries/creative-libraries-about.md)

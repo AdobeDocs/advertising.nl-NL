@@ -20,15 +20,15 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
 1. (Optioneel) Wijzig de gegevens in het rapport op een van de volgende manieren:
 
-   * (Om kolommen te tonen of te verbergen) klik ![ neer pijl ](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") op de rechterkant van om het even welke kolomrubriek, benadruk **[!UICONTROL Columns]**, en selecteer dan de controledoos naast elke kolom om de controledoos naast elke kolom te omvatten en te ontruimen om uit te sluiten.
+   * (Om kolommen te tonen of te verbergen) klik ![&#x200B; neer pijl &#x200B;](/help/search-social-commerce/assets/arrow-down-expand.png " neer pijl ") op de rechterkant van om het even welke kolomrubriek, benadruk **[!UICONTROL Columns]**, en selecteer dan de controledoos naast elke kolom om de controledoos naast elke kolom te omvatten en te ontruimen om uit te sluiten.
 
      De kolomconfiguratie wordt toegepast op uw mening over al uw adverteerders.
 
    * (Voer een van de volgende handelingen uit om de gegevens te filteren op kolomwaarde:
 
-      * [ pas een filter toe gebruikend de **[!UICONTROL Add Filter]** verbinding ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
+      * [&#x200B; pas een filter toe gebruikend de **[!UICONTROL Add Filter]** verbinding &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md).
 
-      * [ pas een filter van een menu van de kolomkop ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toe.
+      * [&#x200B; pas een filter van een menu van de kolomkop &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) toe.
 
    * (Ga als volgt te werk om het datumbereik voor het rapport te wijzigen:
 
@@ -40,7 +40,7 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
          * (Voor een specifiek bereik) — Selecteer **[!UICONTROL Custom Date Range]** en geef vervolgens de begindatum en de einddatum op.
 
-           Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![ Kalender ](/help/search-social-commerce/assets/calendar.png " naast elk gebied van de Kalender 1} om de kalender te openen en een datum te selecteren. ") U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
+           Ga data in het formaat MM/DD/JJJJ of MM-DD-JJJJ in, of klik ![&#x200B; Kalender &#x200B;](/help/search-social-commerce/assets/calendar.png " naast elk gebied van de Kalender 1&rbrace; om de kalender te openen en een datum te selecteren. ") U kunt alleen gegevens van de afgelopen 31 dagen opnemen.
 
       1. Klik op **[!UICONTROL Apply]**.
 
@@ -50,6 +50,6 @@ U kunt de gegevens in elke kolom sorteren en filteren.
 
       Nadat het rapport is voltooid, wordt het weergegeven in het menu [!UICONTROL Download] .
 
-   1. (Om de rapportgegevens in een dossier te openen of te bewaren) klik ![ Rapport van de Download als het Rapport van de Download XLS ](/help/search-social-commerce/assets/download-spreadsheet2.png " als XLS ") naast het dossier - naam, en dan open of sparen het dossier volgens de normale procedure van uw browser.
+   1. (Om de rapportgegevens in een dossier te openen of te bewaren) klik ![&#x200B; Rapport van de Download als het Rapport van de Download XLS &#x200B;](/help/search-social-commerce/assets/download-spreadsheet2.png " als XLS ") naast het dossier - naam, en dan open of sparen het dossier volgens de normale procedure van uw browser.
 
       Raadpleeg de online Help van uw browser voor meer informatie.
