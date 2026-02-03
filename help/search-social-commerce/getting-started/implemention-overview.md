@@ -1,11 +1,11 @@
 ---
 title: Overzicht van het implementeren van Search, Social en Commerce
-description: Meer informatie
+description: Meer informatie over de algemene workflow voor het starten en onderhouden van een portfolio.
 exl-id: c99dc029-81e4-4416-89b1-7cf8d66658b2
 feature: Search Getting Started
-source-git-commit: 0af1c5591a59b9e1813209fea3ac6aaecc0e649b
+source-git-commit: 9c7f3d2aec0952b38d2fd3097d0b3499d33bf3b8
 workflow-type: tm+mt
-source-wordcount: '820'
+source-wordcount: '830'
 ht-degree: 0%
 
 ---
@@ -44,13 +44,13 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    * Als de accounts nog geen campagnegegevens bevatten, voegt u campagnes, ad-groepen, trefwoorden, advertenties en plaatsingen toe vanuit Zoeken, Sociaal en Commerce of vanuit het advertentienetwerk.
 
-     Raadpleeg het Help-hoofdstuk over &quot;Campaign Management&quot; voor meer informatie over het instellen van zoekcampagnes.
+     Zie het Help-hoofdstuk over Campagnebeheer voor meer informatie over het instellen van zoekcampagnes.
 
-1. Stel het bijhouden van wijzigingen in voor alle advertenties waarvoor u de Adobe Advertising wilt laten uitvoeren:
+1. Stel het bijhouden van wijzigingen in voor alle advertenties waarvoor Adobe Advertising conversies wilt bijhouden:
 
    1. (Indien nodig) Stel klikspatiëring in voor advertenties en eventueel voor trefwoorden, [!DNL Google Ads] -plaatsingen en [!DNL Google Ads] -extensies door klik-URL&#39;s te genereren en te uploaden.
 
-      Klik op URL&#39;s bijhouden voor adverteerders met de Adobe Advertising van de service voor het bijhouden van pixelconversies, inclusief omleiding naar [!DNL Adobe] -servers.
+      Klik op URL&#39;s bijhouden voor adverteerders met de Adobe Advertising-service voor het bijhouden van pixelconversies. U kunt de URL&#39;s ook omleiden naar [!DNL Adobe] -servers.
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de juiste webpagina&#39;s en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die u met uw eigen methode hebt verzameld.
 
@@ -58,13 +58,13 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
 1. Integraties instellen met extra producten:
 
-   1. (Adverteerders met Adobe Analytics en/of Adobe Audience Manager) Integraties tussen de verschillende accounts instellen, zodat de Adobe Advertising gegevens met hen kan uitwisselen.
+   1. (Adverteerders met Adobe Analytics en/of Adobe Audience Manager) Integraties tussen de verschillende accounts instellen, zodat Adobe Advertising gegevens met hen kan uitwisselen.
 
-      Zie de gids op &quot;[&#x200B; Integraties met Experience Cloud &#x200B;](/help/integrations/home.md).&quot;
+      Zie de gids op &quot;[ Integraties met Experience Cloud ](/help/integrations/home.md).&quot;
 
    1. (Advertisers met [!DNL Google Analytics] ) Synchroniseer omzettingsmetriek voor een [!DNL Google Analytics] rekening, bezit, en meningscombinatie voor optimalisering en rapportering.
 
-      Zie hulpsubhoofdstuk &quot;Admin&quot; > &quot;[&#x200B; het Vormen Gegevensbronnen &#x200B;](/help/search-social-commerce/admin/data-sources/data-source-about.md).&quot;
+      Zie hulpsubhoofdstuk &quot;Admin&quot; > &quot;[ het Vormen Gegevensbronnen ](/help/search-social-commerce/admin/data-sources/data-source-about.md).&quot;
 
 1. Portfolio&#39;s instellen en starten:
 
@@ -76,7 +76,7 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    1. Nadat er voldoende gegevens beschikbaar zijn om een basislijn te maken, kan het team het portfolio starten. Met Zoeken, Sociaal en Commerce kunnen biedingen en/of budgetten voor het portfolio worden geoptimaliseerd op basis van het optimalisatietype.
 
-   Voor details over vestiging en lancering portefeuilles, zie de hulp op &quot;Optimalisering,&quot;die van het [!UICONTROL Help] menu (![&#x200B; het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce beschikbaar is.
+   Voor details over vestiging en lancering portefeuilles, zie de hulp op &quot;Optimalisering,&quot;die van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociaal, &amp; Commerce beschikbaar is.
 
 1. De prestaties van uw portfolio&#39;s bewaken:
 
@@ -86,7 +86,7 @@ Hieronder ziet u de algemene workflow voor het implementeren en gebruiken van Zo
 
    Zie het Help-hoofdstuk over &quot;Inzichten en rapporten&quot; voor meer informatie over het uitvoeren van reclame-inzichten en het opstellen van rapporten.
 
-1. (Facultatief) vorm uw [&#x200B; meningen van prestatiesgegevens &#x200B;](/help/search-social-commerce/common-tasks/data-views/data-views-about.md) om de gegevens te tonen die u wilt zien.
+1. (Facultatief) vorm uw [ meningen van prestatiesgegevens ](/help/search-social-commerce/common-tasks/data-views/data-views-about.md) om de gegevens te tonen die u wilt zien.
 
 ## Lopende taken
 
@@ -108,4 +108,4 @@ Na de eerste keer starten zijn de volgende lopende taken vereist. Afhankelijk va
 
    * Voeg nieuwe portfolio&#39;s toe.
 
-Voor instructies bij het controleren van portefeuilles en het aanpassen van de portefeuillestrategieën, zie hulpsubhoofdstuk &quot;Optimalisering&quot;> &quot;het Leiden Portfolio&#39;s&quot;> &quot;Controle en het Leiden Prestaties,&quot;die van het [!UICONTROL Help] menu (![&#x200B; het menu van de Hulp &#x200B;](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociale, &amp; Commerce beschikbaar is.
+Voor instructies bij het controleren van portefeuilles en het aanpassen van de portefeuillestrategieën, zie hulpsubhoofdstuk &quot;Optimalisering&quot;> &quot;Beheersende Portfolio&#39;s&quot;> &quot;Controle en het Leiden Prestaties,&quot;die van het [!UICONTROL Help] menu (![ het menu van de Hulp ](/help/search-social-commerce/assets/help-main-menu.png " menu van de Hulp ")) in het hogere recht van om het even welke pagina binnen Onderzoek, Sociale, &amp; Commerce beschikbaar is.

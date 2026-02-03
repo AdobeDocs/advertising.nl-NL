@@ -1,11 +1,11 @@
 ---
 title: Creatieve optimalisatie en planning aanpassen voor een ervaring
-description: Leer hoe u
+description: Leer hoe u optimalisatie en advertentieschema kunt configureren voor ervaringen zonder u hiervoor te hoeven inzetten.
 feature: Creative Experiences
 exl-id: 9398df69-6a48-4b72-8c5c-a79341bf3b8a
-source-git-commit: ad6f076e24d69cfa93b9306a33d9b0cd4c7e813e
+source-git-commit: 9c7f3d2aec0952b38d2fd3097d0b3499d33bf3b8
 workflow-type: tm+mt
-source-wordcount: '1165'
+source-wordcount: '1174'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![&#x200B; het Programma van de Toevoegen &#x200B;](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Creative Optimization]** uitgeven.&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het Programma van de Toevoegen ](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Creative Optimization]** uitgeven.&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
 1. Schakel **[!UICONTROL Schedule]** uit.
 
@@ -38,7 +38,7 @@ Wanneer creatieve planning is uitgeschakeld, gelden de instellingen voor creatie
 
    * *[!UICONTROL Algorithmic]:* toont de meest efficiënte en varianten vaker, die op een gespecificeerd doel worden gebaseerd.
 
-      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md).
+      * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan selecteer een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md).
 
    * *[!UICONTROL Sequencing]:* toont de bijbehorende creatieve bundels in een gespecificeerde orde (met Bundel 1 het eerst wordt gediend, Bundel 2 het tweede, etc.), met een gespecificeerd totaal aantal indrukkingen over elke bundelopeenvolging. De advertentiegrootten die worden gediend worden bepaald door de beschikbare inventaris. U kunt de definitieve bundel in de opeenvolging vormen aan a \) voor onbepaalde tijd (het gebrek) of b \) lijn terug naar de eerste bundel worden getoond. U kunt bijvoorbeeld een willekeurige advertentievariant in Bundel 1 weergeven voor drie (3) impressies, vervolgens een willekeurige advertentievariant in Bundel 2 voor één (1) impressie weergeven, vervolgens een van de ad-varianten in Bundel 3 voor twee (2) impressies weergeven en vervolgens de lus opnieuw starten. Als de varianten van de advertentie in Bundel 3 eenmaal zijn weergegeven, kunt u de varianten van de advertentie ook in de toekomst in Bundel 3 weergeven, in plaats van een lus te maken. Wanneer u het rangschikken inschakelt:
 
@@ -66,7 +66,7 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
    * Houd in de tabelweergave de cursor boven de rij, klik op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Tag Manager]** .
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![&#x200B; het Programma van de Toevoegen &#x200B;](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Creative Optimization]** uitgeven. <!-- For targeted experiences, this is "Edit Schedules" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
+1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![ het Programma van de Toevoegen ](/help/creative/assets/edit-gray.png " het volgen URLs ") **[!UICONTROL Creative Optimization]** uitgeven. <!-- For targeted experiences, this is "Edit Schedules" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
 
 1. Schakel **[!UICONTROL Schedule]** in.
 
@@ -82,7 +82,7 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+         * Selecteer **[!UICONTROL Optimization Goal]** (standaardvideo en -ervaringen) *[!UICONTROL Click Through Rate]* of *[!UICONTROL Completion Rate]* voor de *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
       * *[!UICONTROL Sequencing]:* roteert de bijbehorende creatieve bundels in een gespecificeerde orde (met Bundel 1 het eerst, Bundel 2 het tweede, etc.), met een gespecificeerd totaal aantal indrukkingen over elke bundelopeenvolging. De advertentiegrootten die worden gediend worden bepaald door de beschikbare inventaris. U kunt de definitieve bundel in de opeenvolging vormen aan a \) voor onbepaalde tijd (het gebrek) of b \) lijn terug naar de eerste bundel worden getoond. U kunt bijvoorbeeld een van de creatieve elementen in Bundel 1 weergeven voor drie (3) indrukken, vervolgens een creatieve afbeelding weergeven in Bundel 2 voor één (1) indruk, vervolgens een van de creatieve elementen weergeven in Bundel 3 voor twee (2) indrukken en vervolgens de lus opnieuw beginnen. Als de creatieve elementen in Bundel 3 eenmaal zijn weergegeven, kunt u de creatieve elementen ook in de toekomst in Bundel 3 weergeven, in plaats van een lus te maken. Wanneer u het rangschikken inschakelt:
 
@@ -108,7 +108,7 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
       * *[!UICONTROL Algorithmic]:* roteert de creatieve producten algoritmisch volgens een gespecificeerd optimalisatiedoel.
 
-         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [&#x200B; douanedoel van Advertising DSP &#x200B;](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
+         * Selecteer voor de **[!UICONTROL Optimization Goal]** de optie *[!UICONTROL Click Through Rate]* of *[!UICONTROL Custom Objective]* .  Als u *[!UICONTROL Custom Objective]* selecteert, dan een bestaand [ douanedoel van Advertising DSP ](/help/dsp/optimization/custom-goal.md) selecteert.<!-- Verify -->
 
       * *[!UICONTROL Sequencing]:* roteert de bijbehorende creatieve bundels in een gespecificeerde orde, met een gespecificeerd totaal aantal beelden over elke bundelopeenvolging. Wanneer u het rangschikken inschakelt:
 
@@ -124,6 +124,6 @@ Wanneer u het plannen gebruikt, moet u creatieve middelen door de duur van de er
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer manueel een ad markering voor een toepasselijke creatieve grootte &#x200B;](/help/creative/experiences/experience-tag-create-manually.md)
->* [&#x200B; wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten &#x200B;](experience-tag-assign-creatives.md)
->* [&#x200B; pas het volgen URLs voor een ervaring zonder beslissingsboom aan richtend &#x200B;](experience-tracking-urls-no-targeting.md)
+>* [ creeer manueel een ad markering voor een toepasselijke creatieve grootte ](/help/creative/experiences/experience-tag-create-manually.md)
+>* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
+>* [ pas het volgen URLs voor een ervaring zonder beslissingsboom aan richtend ](experience-tracking-urls-no-targeting.md)
