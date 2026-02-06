@@ -3,23 +3,22 @@ title: Ondersteunde valuta's
 description: Zie een lijst met de ondersteunde valuta's.
 feature: DSP Custom Reports, DSP Campaign Data Views
 exl-id: 97d49cce-4438-40c4-94a4-e5d90ebaf651
-source-git-commit: 7f35b3f3b33ed320ac186d219cbd0f826666bb3b
+source-git-commit: 5fa4ba523b3036b8fc184dea082ae5a77ef71919
 workflow-type: tm+mt
-source-wordcount: '142'
+source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# Valuta&#39;s die worden ondersteund in reclame voor Adobe
+# In Adobe Advertising ondersteunde valuta&#39;s
 
 Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
-
 >[!NOTE]
 >
->Adobe Analytics-ondersteuning [een groter aantal valuta &#39; s](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html?lang=nl-NL).
+>Adobe Analytics steunt [ een grotere reeks valuta ](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html).
 
-## DSP en creatief
+## DSP en Creative
 
 | Code | Valutanaam |
 | ------ | -------------- |
@@ -30,7 +29,7 @@ Adobe Advertising ondersteunt de volgende valuta&#39;s.
 | CNY | Chinese renminbi |
 | DKK | Deense kroon |
 | EUR | Euro |
-| GBP | Verenigd Koninkrijk |
+| GBP | Verenigd Koninkrijk Pond |
 | HKD | Hongkongse dollar |
 | INR | Indiase roepie |
 | JPY | Japans Yen |
@@ -45,9 +44,9 @@ Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
 >[!NOTE]
 >
-> [!DNL DSP] uitsluitend de volgende valuta&#39;s worden gefactureerd: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD en USD.
+> [!DNL DSP] biedt alleen facturering in de volgende valuta&#39;s: CAD, DKK, EUR, GBP, HKD, JPY, NZD, SGD en USD.
 
 ## [!DNL Adobe Advertising Search, Social, & Commerce]
 
-Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is hetzelfde als [door [!DNL Google Ads]](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is het zelfde als [ die door  [!DNL Google Ads] worden gesteund ](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
 
