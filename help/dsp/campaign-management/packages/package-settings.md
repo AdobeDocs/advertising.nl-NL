@@ -3,7 +3,7 @@ title: Pakketinstellingen
 description: Zie beschrijvingen van de beschikbare pakketinstellingen.
 feature: DSP Packages
 exl-id: 20ec5e8e-4980-4fa0-80c9-531f5b02c0f9
-source-git-commit: 26c9c553dbd4086aa114b97dabdf4d9be10cdebe
+source-git-commit: 86d77d23fbec15b1f80f3f9c41e66aab34a46079
 workflow-type: tm+mt
 source-wordcount: '1086'
 ht-degree: 0%
@@ -28,7 +28,7 @@ ht-degree: 0%
 >
 >Billable-kosten worden weergegeven in de [!UICONTROL Net CPM] -norm.
 
-U kunt pakket-niveau met voeten treden dat op het [&#x200B; plaatsingsniveau &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) plaatst.
+U kunt pakket-niveau met voeten treden dat op het [ plaatsingsniveau ](/help/dsp/campaign-management/placements/placement-settings.md) plaatst.
 
 ## [!UICONTROL Goals & Budget]
 
@@ -53,12 +53,11 @@ Voor pakketten met aangepaste flighting is de budgetinterval altijd *[!UICONTROL
 
 **[!UICONTROL Gross Budget]:** (Pakketten met pakketniveau het passen en dynamisch margebeheer slechts) het bruto begrotingsmaximum voor de duur van het pakket.
 
-**[!UICONTROL Optimization Goal]:** (Pakketten met pakket-vlakke het verpakken slechts) het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel bij [&#x200B; de Doelstellingen van de Optimalisering en hoe te om hen &#x200B;](/help/dsp/optimization/optimization-goals.md) te gebruiken.
-
+**[!UICONTROL Optimization Goal]:** (Pakketten met pakket-vlakke het verpakken slechts) het optimalisatiedoel voor het pakket. Zie beschrijvingen van elk optimalisatiedoel bij [ de Doelstellingen van de Optimalisering en hoe te om hen ](/help/dsp/optimization/optimization-goals.md) te gebruiken.
 
 **[!UICONTROL Link PG Placements for Incremental Reach Optimization]:** (Pakketten met pakket-vlakke verpakking en met &quot;[!UICONTROL Always Max Bid & Maximize Reach]&quot;en &quot;[!UICONTROL Lowest Cost per Reach]&quot;optimaliseringsdoelstellingen slechts) gebruikt huishuisgegevens van alle programmatic gewaarborgde plaatsen in de campagne om voor stijgende bereik te optimaliseren.
 
-**[!UICONTROL Custom Goal for Model Learning]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [&#x200B; douanedoel &#x200B;](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrisch CPA of ROAS te berekenen. Het aangepaste doel moet extra gewogen bovenkanaalgebeurtenissen (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS metrisch voor pakketoptimalisatie moeten worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[&#x200B; Doelen van de Douane &#x200B;](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[&#x200B; Beste praktijken voor de Campagnes van Prestaties van de Vestiging &#x200B;](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
+**[!UICONTROL Custom Goal for Model Learning]:** (Pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) A [ douanedoel ](/help/dsp/optimization/custom-goal.md) dat de opbrengst of omzettingsgebeurtenissen omvat die worden gebruikt om metrisch CPA of ROAS te berekenen. Het aangepaste doel moet extra gewogen funnel-gebeurtenissen (zoals paginabezoeken en winkelwagentoevoegingen) omvatten die naast de CPA of ROAS-maatstaf voor pakketoptimalisatie moeten worden gebruikt. Voor meer informatie over douanedoelstellingen, met inbegrip van de beste praktijken voor het creëren voor douanedoelstellingen en campagnes die hen gebruiken, zie &quot;[ Doelen van de Douane ](/help/dsp/optimization/custom-goal.md)&quot; en &quot;[ Beste praktijken voor de Campagnes van Prestaties van de Vestiging ](/help/dsp/optimization/campaign-best-practices-performance.md).&quot;<!-- At some point, all of the objectives will be prefixed with "ADSP_," but probably that won't show up in the Custom Goal list in the DSP UI. -->
 
 **[!UICONTROL Consider Only Click Conversions for Model Learning]:** (Facultatief; pakketten met &quot;[!UICONTROL Highest Return on Ad Spend]&quot;en &quot;[!UICONTROL Lowest Cost per Acquisition]&quot;optimaliseringsdoelstellingen slechts) vertelt het optimalisatiemodel om slechts van op klik-gebaseerde omzettingen te leren. Anders leert het optimalisatiemodel van zowel klik- als op indruk gebaseerde omzettingen.
 
@@ -128,9 +127,9 @@ Voor bestaande pakketten zonder ingeschakelde optie &quot;[!UICONTROL Automatica
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Pakket &#x200B;](package-about.md)
->* [&#x200B; creeer een Pakket &#x200B;](package-create.md)
->* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
->* [&#x200B; maak een Plaatsing aan een Pakket &#x200B;](package-attach-placement.md) vast
->* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
->* [&#x200B; Veelgestelde vragen over Campaign Management &#x200B;](/help/dsp/campaign-management/faq-campaign-management.md)
+>* [ Ongeveer het Beheer van het Pakket ](package-about.md)
+>* [ creeer een Pakket ](package-create.md)
+>* [ geef een Pakket ](package-edit.md) uit
+>* [ maak een Plaatsing aan een Pakket ](package-attach-placement.md) vast
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ Veelgestelde vragen over het Beheer van de Campagne ](/help/dsp/campaign-management/faq-campaign-management.md)
