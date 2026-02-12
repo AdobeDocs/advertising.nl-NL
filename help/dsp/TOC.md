@@ -4,9 +4,9 @@ user-guide-title: Handleiding Adverteren met DSP
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn voor het beheren, optimaliseren en rapporteren van uw advertentiestrategieën met behulp van DSP.
 breadcrumb-title: DSP-handleiding
 index: true
-source-git-commit: 3ab2e38f6a2f70c03504363575b13dc0dc730282
+source-git-commit: b0eb55e27f32af0c1ceed0980dbfdaa7497db226
 workflow-type: tm+mt
-source-wordcount: '957'
+source-wordcount: '964'
 ht-degree: 3%
 
 ---
@@ -24,8 +24,8 @@ ht-degree: 3%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta&#39;s](/help/dsp/currency.md)
-   + [&#x200B; Steun voor de Privacy van de Consumenten &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL)
-   + [&#x200B; Beleid en Richtlijnen &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL)
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + Campagnebeheer {#campaign-management}
    + [Overzicht van de structuur van het Campagnebeheer](/help/dsp/campaign-management/campaign-management-overview.md)
@@ -76,7 +76,7 @@ ht-degree: 3%
       + [Advertentiegegevens controleren met behulp van spreadsheets](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [&#x200B; maak en verwijder Advertenties van Plaatsen vast &#x200B;](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html?lang=nl-NL)
+      + [ maak en verwijder Advertenties van Plaatsen vast ](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)
       + [De aan een advertentie gekoppelde plaatsen weergeven](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Een gedetailleerd rapport voor een advertentie weergeven](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -116,6 +116,7 @@ ht-degree: 3%
    + [Ondersteuning voor het activeren van Universal ID&#39;s](/help/dsp/audiences/universal-ids.md)
    + Herbruikbare soorten publiek {#reusable-audiences}
       + [Een herbruikbaar publiek maken](/help/dsp/audiences/reusable-audience-create.md)
+      + [Een herbruikbaar publiek maken met Generative AI](/help/dsp/audiences/reusable-audience-create-using-ai.md)
       + [Een herbruikbaar publiek dupliceren](/help/dsp/audiences/reusable-audience-duplicate.md)
       + [Een herbruikbaar publiek bewerken](/help/dsp/audiences/reusable-audience-edit.md)
       + [Details weergeven over een herbruikbaar publiek](/help/dsp/audiences/reusable-audience-view-details.md)
@@ -147,7 +148,7 @@ ht-degree: 3%
    + [Beschikbare gegevensleveranciers van derden](/help/dsp/audiences/third-party-data-providers.md)
 + Inventaris {#inventory}
    + [Overzicht van voorraadfuncties](/help/dsp/inventory/inventory-overview.md)
-   + [&#x200B; [!DNL Roku Inventory] gebruiken](/help/dsp/inventory/roku-inventory.md)
+   + [ [!DNL Roku Inventory] gebruiken](/help/dsp/inventory/roku-inventory.md)
    + [SSP-partners](/help/dsp/inventory/ssp-partners.md)
    + [!DNL On Demand] Overzicht {#on-demand}
       + [Ongeveer  [!DNL On Demand]  Overzicht van de Premium](/help/dsp/inventory/on-demand-inventory-about.md)
@@ -231,9 +232,9 @@ ht-degree: 3%
    + Meldingen {#notifications}
       + [Informatie over abonnementen op berichten](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [&#x200B; Integraties met Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL)
++ [ Integraties met Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
 + [Help opvragen](/help/dsp/get-help.md)
-+ [&#x200B; de Nota&#39;s van de Versie van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL)
++ [ de Nota&#39;s van de Versie van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
 
 
 <!-- add back to about below "Edit the Advertisers with Access to a Deal ID" when reintroduced:
