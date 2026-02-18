@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: 9eb020f9cb243dc4cf38adbc5af7f723439797d2
+source-git-commit: bd85b4451624e14c95157c84537fdfb53662773f
 workflow-type: tm+mt
-source-wordcount: '2467'
+source-wordcount: '2724'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud/film. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Series] | De inhoudsreeks. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Genre] | Het genre van de inhoud. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [&#x200B; wordt bepaald laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [&#x200B; laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [ wordt bepaald laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [ laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Rating] | De classificatie van de inhoud, zoals PG of R. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Livestream] | Geeft aan of de advertentie in een live stream verscheen: `Not Live` of `Live` . |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Length (in seconds)] | De lengte van de inhoud in seconden. Wordt meestal gebruikt voor video of audio. |
@@ -219,6 +219,25 @@ ht-degree: 0%
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Total Ad Clicks] | De som van alle klikken op een advertentie. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Viewed Minutes] | Het totale aantal minuten dat een video-advertentie is weergegeven. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL Views] | Het totale aantal video en weergaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 100% Completion Rate] | (Aangepast Creative-rapport) Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 100% Completions] | (Aangepast Creative-rapport) Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 25% Completion Rate] | (Aangepast Creative-rapport) Het percentage weergaven dat minstens één kwartiel van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 25% Completions] | (Aangepast Creative-rapport) Het aantal weergaven dat minstens één kwartiel van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 50% Completion Rate] | (Aangepast Creative-rapport) Het percentage weergaven dat minstens twee kwartiels van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 50% Completions] | (Aangepast Creative-rapport) Het aantal weergaven dat minstens twee kwartiels van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 75% Completion Rate] | (Aangepast Creative-rapport) Het percentage weergaven dat minstens drie kwartiels van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL 75% Completions] | (Aangepast Creative-rapport) Het aantal weergaven dat minstens drie kwartiels van de advertentie heeft bekeken. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Avg Percent Viewed] | (Aangepast Creative-rapport) Het gemiddelde percentage dat een advertentie naar voltooiing werd gecontroleerd, waarbij alle weergaven werden verwerkt. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Play Rate] | (Aangepast Creative-rapport) Het percentage indrukken dat heeft geleid tot videoweergaven. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Playtime per View] | (Aangepast Creative-rapport) De gemiddelde duur van een videoweergave, uitgedrukt in seconden. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Mute] | (Aangepast Creative-rapport) Het totale aantal keer dat de video is gedempt. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Pause] | (Aangepast Creative-rapport) Het totale aantal keer dat de video is gepauzeerd. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Resume] | (Aangepast Creative-rapport) Het totale aantal keren dat de video is hervat na het pauzeren. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Rewind] | (Aangepast Creative-rapport) Het totale aantal keren dat de video is teruggespoeld. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Start] | (Aangepast Creative-rapport) Het totale aantal keren dat de video is gestart. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Video Unmute] | (Aangepast Creative-rapport) Het totale aantal keren dat de video niet is gedempt. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Viewed Minutes] | (Aangepast Creative-rapport) Het totale aantal minuten dat een video-advertentie is weergegeven. |
+| [!UICONTROL Metrics] | [!UICONTROL Video] | [!UICONTROL Views] | (Aangepast Creative-rapport) Het totale aantal video en weergaven. |
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Avg. Player Width x Height] | De gemiddelde breedte en hoogte van de speler. |
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Measurable Impressions] | Het totale aantal geserveerde indrukken dat kon worden gemeten voor het zicht. |
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Measurable Rate (%)] | Het percentage aangebrachte indrukken dat voor het zicht kon worden gemeten, berekend als <code>[!UICONTROL Measurable Impressions] x 1000 / [!UICONTROL Impressions]</code>. |
@@ -231,7 +250,7 @@ ht-degree: 0%
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewability Rate (%)] | Het percentage zichtbare indrukken van alle meetbare indrukken, berekend als <code>[!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]</code>. |
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewable Impressions] | Het aantal en de indrukken die als viewable worden beschouwd. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
-| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [&#x200B; douanedoel &#x200B;](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
+| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [ douanedoel ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
 
 {style="table-layout:auto"}
 
@@ -239,8 +258,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
->* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
+>* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)

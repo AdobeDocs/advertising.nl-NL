@@ -2,9 +2,10 @@
 title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
-source-git-commit: e7642f11503ebb972d23fe6d28020b3b198657b0
+exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
+source-git-commit: 4e809ac18720f22f636b2df2ad4a5b1db355e729
 workflow-type: tm+mt
-source-wordcount: '292'
+source-wordcount: '423'
 ht-degree: 0%
 
 ---
@@ -13,61 +14,49 @@ ht-degree: 0%
 
 <!-- add a description -->
 
-<!-- This looks the same for me for either HTML5 type as of 9/24:
-
-## Dynamic ad settings for static HTML5 ads {#dynamic-ad-settings-static-html5}
-
-### Basic Details
-
-**[!UICONTROL Advertiser]:** The advertiser for which to create the ads.
-
-**[!UICONTROL Library]:** The creative library in which to create the ads.
-
-**[!UICONTROL Dynamic Ad Name]:** A unique name for the creative.
-
-**[!UICONTROL Ad Template Size]:** The ad dimensions for the ad template from which to create the ad. If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
-
-**[!UICONTROL Ad Template Type]:** The type of ad template from which to create the ad: *[!UICONTROL Static HTML5]* or *[!UICONTROL Dynamic HTML5]*.  If you first select a specific [!UICONTROL Ad Template], then this value is automatically selected.
-
-**[!UICONTROL Ad Template]:** The ad template from which to create the ad.
-
-**[!UICONTROL clickURL]:** A valid landing page URL to which users are redirected when they click the ad.
-
-### [!UICONTROL Attributes Details]
-
--->
-
 ## Dynamische advertentie-instellingen <!-- for dynamic HTML5 ads {#dynamic-ad-settings-dynamic-html5}-->
 
 <!-- add a description -->
 
 ### Basic Details
 
-**[!UICONTROL Dynamic Ad Name]:** Een unieke naam voor de creatieve.
+**[!UICONTROL Creative Type]:** Of creatief een *[!UICONTROL Display]* advertentie (HTML5) of een *[!UICONTROL Video]* advertentie is.
 
-**[!UICONTROL Advertiser]:** De adverteerder waarvoor de advertenties moeten worden gemaakt.
+**[!UICONTROL Dynamic Display Ad Name]** of **[!UICONTROL Dynamic Video Ad Name]:** Een unieke naam voor creatief.
+
+**[!UICONTROL Advertiser]:** De adverteerder waarvoor de advertenties moeten worden gemaakt. Als u de advertenties maakt vanuit [!UICONTROL Creatives] > [!UICONTROL Creative Libraries] , is de adverteerder al geselecteerd en is deze alleen-lezen.
 
 **[!UICONTROL Library]:** De creatieve bibliotheek waarin om de advertenties tot stand te brengen. Als u de advertenties maakt vanuit [!UICONTROL Creatives] > [!UICONTROL Creative Libraries] , is de bibliotheeknaam al geselecteerd en is deze alleen-lezen.
 
-**[!UICONTROL Ad Template Size]:** de [&#x200B; en afmetingen &#x200B;](/help/creative/creative-libraries/creative-sizes.md) voor het advertentiesjabloon waarvan om de advertentie te creëren. Als u eerst een specifieke [!UICONTROL Ad Template] selecteert, wordt deze waarde automatisch geselecteerd.
+**[!UICONTROL Ad Template Size]:** (Dynamische vertoningsadvertenties slechts) de [ en afmetingen ](/help/creative/creative-libraries/creative-sizes.md) voor het advertentiemalplaatje waarvan om de advertentie tot stand te brengen. Als u eerst een specifieke [!UICONTROL Ad Template] selecteert, wordt deze waarde automatisch geselecteerd.
 
 ## Advertentiesjabloon
 
-**[!UICONTROL Ad Template]:** De advertentiesjabloon waaruit de advertenties moeten worden gemaakt. Selecteer een bestaand advertentiemalplaatje, of upload een nieuw advertentiemalplaatje en selecteer het malplaatjetype (*Statisch* of *Dynamisch*). Een geüploade sjabloon moet de ZIP-indeling hebben en HTML5-bestanden en het sjabloondefinitiebestand (template.TDF) bevatten. <!-- Need to add more specs for that -->
+**[!UICONTROL Ad Template]:** De advertentiesjabloon waaruit de advertenties moeten worden gemaakt. Selecteer een bestaand advertentiemalplaatje, of upload een nieuw advertentiemalplaatje en selecteer het malplaatjetype (*Statisch* of *Dynamisch*). De sjabloon moet de ZIP-indeling hebben en het volgende bevatten:<!-- Need to add more specs for templates -->
 
-**[!UICONTROL Number of offers (Max 50)]:** Het aantal producten dat in een carrousel moet worden getoond.
+* Creatief weergeven: HTML5-bestanden met de gewenste advertentievorm en (alleen dynamische HTML5-advertenties) een bestand met de advertentiekenmerken (.tdf)
+
+* Videoontwerpers: Een scènebestand met de gewenste advertentievorm. Het ZIP-bestand kan maximaal 512 MB groot zijn.
+
+Klik op **[!UICONTROL Select Ad Template]** om door te gaan.
+
+**[!UICONTROL Card Count (Max 50)]:** (Alleen advertenties weergeven) Het aantal producten dat in een carrousel moet worden weergegeven.
+
+**[!UICONTROL Duration]:** (Alleen videolagen; alleen-lezen) De videoduur die is afgeleid van de geselecteerde advertentiesjabloon. De duur van elke video moet tussen 1 en 90 seconden liggen.
 
 ## Catalogi
 
 **[!UICONTROL Template]:** De voedermalplaatje aan gebruik om de advertenties tot stand te brengen.
 
-**\ [Catalogi\]**: Één of meerdere catalogi waarvan om advertenties te produceren. Selecteer een bestaande catalogus of maak een nieuwe catalogus door een bestaande voedersjabloon te downloaden en de nieuwe catalogus te maken en te uploaden.
+**\ [Catalogi\]**: Één of meerdere catalogi waarvan om advertenties te produceren. Selecteer een bestaande catalogus of maak een nieuwe catalogus door een bestaande voedersjabloon te downloaden en de nieuwe catalogus te maken en te uploaden. Klik op **[!UICONTROL Select Catalog]**.
 
 Geüploade catalogi moeten de ZIP-indeling hebben en het volgende bevatten:
 
-* Een of meer feed-bestanden in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX). De maximale bestandsgrootte is 512 MB.<!-- Need to add more specs for the feed files -->
+* (Dynamische weergave- en videoadvertenties) Een of meer feed-bestanden in de indeling CSV, TSV of Microsoft Excel-spreadsheet (XLSX). De maximale bestandsgrootte is 512 MB.<!-- Need to add more specs for the feed files -->
 
-* Afbeeldingselementen in de GIF-, JPEG-, JPG- of PNG-indeling
+* (Advertenties weergeven) Afbeeldingselementen in GIF-, JPEG-, JPG- of PNG-indeling
+
+* (Videoadvertenties) Video-elementen in MP4-, MOV- of WEBM-indeling. Tot de ondersteunde advertentiesjablonen behoren startkaart, eindkaart, overlay bovenaan, bedekking onderaan of L-vormig. De duur van elke video moet tussen 1 en 90 seconden liggen.
 
 ### [!UICONTROL Attributes Mapping]
 
@@ -79,6 +68,6 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
->* [&#x200B; geef dynamische creatieve creatieve bibliotheek &#x200B;](creative-edit-dynamic.md) uit
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
+>* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
