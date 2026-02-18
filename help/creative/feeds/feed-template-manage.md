@@ -22,7 +22,7 @@ U kunt een voedermalplaatje met veelvoudige advertentiesjablonen gebruiken.
 
 >[!TIP]
 >
->Voor alle rekeningen met dynamische video&#39;s, is de beste praktijken [ het malplaatje van de hoofdvoer [!UICONTROL Adobe Creative Template]](feed-template-manage.md) te downloaden, elk gebied in het activadossier in kaart te brengen aan een gebied op de Advertising Creative achterkant, en dan het voedermalplaatje anders te noemen en te uploaden. Gebruik het nieuwe voedermalplaatje, samen met het activadossier, om een catalogus [ tot stand te brengen. ](catalog-manage.md)
+>Voor alle rekeningen met dynamische video&#39;s, is de beste praktijken [&#x200B; het malplaatje van de hoofdvoer [!UICONTROL Adobe Creative Template]](feed-template-manage.md) te downloaden, elk gebied in het activadossier in kaart te brengen aan een gebied op de Advertising Creative achterkant, en dan het voedermalplaatje anders te noemen en te uploaden. Gebruik het nieuwe voedermalplaatje, samen met het activadossier, om een catalogus [&#x200B; tot stand te brengen. &#x200B;](catalog-manage.md)
 
 ## Een voedersjabloon maken
 
@@ -32,7 +32,7 @@ U kunt een voedermalplaatje met veelvoudige advertentiesjablonen gebruiken.
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create]** > **[!UICONTROL Template]** .
 
-1. Specificeer de [ montages van het voedermalplaatje ](#feed-template-settings).
+1. Specificeer de [&#x200B; montages van het voedermalplaatje &#x200B;](#feed-template-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -46,7 +46,7 @@ U kunt een voedermalplaatje met veelvoudige advertentiesjablonen gebruiken.
 
 1. Plaats de cursor op de sjabloonrij en klik op **[!UICONTROL Duplicate]** .
 
-1. Bewerk de [ montages van het voedermalplaatje ](#feed-template-settings) zoals nodig.
+1. Bewerk de [&#x200B; montages van het voedermalplaatje &#x200B;](#feed-template-settings) zoals nodig.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -66,7 +66,7 @@ U kunt een voedermalplaatje met veelvoudige advertentiesjablonen gebruiken.
 
 1. Plaats de cursor op de sjabloonrij en klik op **[!UICONTROL Duplicate]** .
 
-1. Voer in het scherm [!UICONTROL Duplicate Template] een unieke **[!UICONTROL Template Name]** in. Als u een sjabloon dupliceert die door iemand anders is gemaakt, selecteert u de **[!UICONTROL Advertiser]** . Naar keuze geef andere [ montages van het voedermalplaatje ](#feed-template-settings) uit zoals nodig.
+1. Voer in het scherm [!UICONTROL Duplicate Template] een unieke **[!UICONTROL Template Name]** in. Als u een sjabloon dupliceert die door iemand anders is gemaakt, selecteert u de **[!UICONTROL Advertiser]** . Naar keuze geef andere [&#x200B; montages van het voedermalplaatje &#x200B;](#feed-template-settings) uit zoals nodig.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -94,7 +94,7 @@ Gedownloade feed-sjablonen hebben de indeling XLSX (zipped Microsoft Excel sprea
 
 ### [!UICONTROL Field Mapping] instellingen
 
-Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond. Zie &quot;[ Beschikbare gebieden voor dynamische en voederdossiers ](/help/creative/appendix-available-feed-fields.md)&quot;voor een lijst van de achterste gebieden en hun vereiste attributen.<!-- Check w/product: What is displayed where in the UI/reports and published ads? -->
+Wijs elk veld in het feed-bestand toe aan een veld op de Advertising Creative-achtergrond. Zie &quot;[&#x200B; Beschikbare gebieden voor dynamische en voederdossiers &#x200B;](/help/creative/appendix-available-feed-fields.md)&quot;voor een lijst van de achterste gebieden en hun vereiste attributen.<!-- Check w/product: What is displayed where in the UI/reports and published ads? -->
 
 Minstens één gebied van het inputdossier moet als &quot;[!UICONTROL Is Unique] worden gemerkt.&quot; Als u een veldtoewijzing wilt toevoegen, klikt u op **[!UICONTROL +]** . Als u de laatste veldtoewijzing wilt verwijderen, klikt u op **[!UICONTROL +]** .
 
@@ -104,13 +104,13 @@ Minstens één gebied van het inputdossier moet als &quot;[!UICONTROL Is Unique]
 
 **[!UICONTROL Is Unique]:** Geeft aan dat het veld een unieke id (sleutel) is. Ten minste één veld per voedersjabloon moet uniek zijn. Om deze optie te selecteren, klik de knoop om het naar het recht te bewegen.<!-- **Note: The unique identifier is different from the feed "trigger" in experience settings. -->
 
-**[!UICONTROL Backend Field]:** het [ gebied op de achtergrond van Advertising Creative ](/help/creative/appendix-available-feed-fields.md) dat aan gespecificeerd [!UICONTROL Field Name] in het voederdossier in kaart brengt.
+**[!UICONTROL Backend Field]:** het [&#x200B; gebied op de achtergrond van Advertising Creative &#x200B;](/help/creative/appendix-available-feed-fields.md) dat aan gespecificeerd [!UICONTROL Field Name] in het voederdossier in kaart brengt.
 
 >[!MORELIKETHIS]
 >
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
->* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
->* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
->* [ Spoor het statuut van catalogusverwerkingstaken ](/help/creative/feeds/job-status-track.md)
->* [ beheer dynamische ad malplaatjes ](/help/creative/ad-templates/ad-template-manage.md)
->* [ voeg dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; beheert activa dossiers &#x200B;](/help/creative/feeds/asset-manage.md)
+>* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
+>* [&#x200B; Spoor het statuut van catalogusverwerkingstaken &#x200B;](/help/creative/feeds/job-status-track.md)
+>* [&#x200B; beheer dynamische ad malplaatjes &#x200B;](/help/creative/ad-templates/ad-template-manage.md)
+>* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toe
