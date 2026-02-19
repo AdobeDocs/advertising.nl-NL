@@ -3,20 +3,20 @@ title: Dynamische creatieve creatieve elementen toevoegen aan een creatieve bibl
 description: Leer hoe u dynamische creatieve projecten aan een creatieve bibliotheek kunt toevoegen.
 feature: Creative Dynamic Creatives
 exl-id: 26162314-bdaa-4d1c-b0c2-696ec6dbb138
-source-git-commit: 8a304eb74549ca1a81257e9f672d311d39987b79
+source-git-commit: 2a89d5f3997345c051728d41af865dc0e75541f5
 workflow-type: tm+mt
-source-wordcount: '506'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
 
 # Dynamische creatieve creatieve elementen toevoegen aan een creatieve bibliotheek
 
-Voeg dynamische creatieve creatieven aan uw [&#x200B; creatieve bibliotheken &#x200B;](creative-library-manage.md) toe om met dynamische [&#x200B; en ervaringen &#x200B;](/help/creative/experiences/experience-about.md) te gebruiken. U kunt één statische HTML5- of dynamische HTML5-advertentie maken op basis van één advertentiesjabloon. Gebruik voor dynamische HTML5-advertenties elementen in opgegeven catalogi die zijn gemaakt op basis van feed-bestanden.
+Voeg dynamische creatieve creatieven aan uw [ creatieve bibliotheken ](creative-library-manage.md) toe om met dynamische [ en ervaringen ](/help/creative/experiences/experience-about.md) te gebruiken. U kunt één statische HTML5- of dynamische HTML5-advertentie maken op basis van één advertentiesjabloon. Gebruik voor dynamische HTML5-advertenties elementen in opgegeven catalogi die zijn gemaakt op basis van feed-bestanden.
 
 >[!PREREQUISITES]
 >
->Voordat u dynamische creatieve elementen aan een creatieve bibliotheek kunt toevoegen, moet u andere stappen uitvoeren, zoals het maken van de advertentiesjabloon, het uploaden van elementen en (dynamische HTML5-advertenties) het maken van een feedbacksjabloon en een catalogus. Zie &quot;[&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md).&quot;
+>Voordat u dynamische creatieve elementen aan een creatieve bibliotheek kunt toevoegen, moet u andere stappen uitvoeren, zoals het maken van de advertentiesjabloon, het uploaden van elementen en (dynamische HTML5-advertenties) het maken van een feedbacksjabloon en een catalogus. Zie &quot;[ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md).&quot;
 
 <!-- This does't work for me 9/24 -- I still have to select a catalog:
 
@@ -58,7 +58,7 @@ Voeg dynamische creatieve creatieven aan uw [&#x200B; creatieve bibliotheken &#x
 
       1. Plaats de cursor op de rij voor de advertentiesjabloon en klik op **[!UICONTROL Create Dynamic Ad]** .
 
-1. Specificeer de [&#x200B; dynamische ad montages &#x200B;](/help/creative/creative-libraries/creative-settings-dynamic.md):
+1. Specificeer de [ dynamische ad montages ](/help/creative/creative-libraries/creative-settings-dynamic.md):
 
    1. Geef de basis- en details op, inclusief het creatieve type.
 
@@ -78,13 +78,13 @@ Voeg dynamische creatieve creatieven aan uw [&#x200B; creatieve bibliotheken &#x
 
       * Een product zoeken op basis van de unieke id in het zoekveld onder het voorvertoningsgebied.
 
-      * Om de kolommen te veranderen die worden getoond, klik ![&#x200B; de Filter van de Kolom &#x200B;](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
+      * Om de kolommen te veranderen die worden getoond, klik ![ de Filter van de Kolom ](/help/creative/assets/custom-columns.png " onder het voorproefgebied van de Filter van de Kolom.")
 
       * Als u een voorvertoning wilt weergeven van een bepaalde creatieve waarde, schakelt u het selectievakje voor de rij in.
 
       * Wijzig de inhoud:
 
-         * Als u de waarde van een cel in de tabel wilt bewerken, klikt u in de cel en bewerkt u de waarde. Klik buiten de cel of druk op **[!DNL Enter]** om de wijzigingen op te slaan.
+         * (Alleen advertenties weergeven) Als u de waarde van een cel in de tabel wilt bewerken, klikt u in de cel en bewerkt u de waarde. Klik buiten de cel of druk op **[!DNL Enter]** om de wijzigingen op te slaan.
 
          * Om één enkel product als gebrek <!--Explain what this means. --> te merken, houd de curseur over de rij en klik **[!UICONTROL ...]** > **[!UICONTROL Set as Default]**.
 
@@ -96,7 +96,7 @@ Voeg dynamische creatieve creatieven aan uw [&#x200B; creatieve bibliotheken &#x
 
 1. Bespaar de creatieve elementen:
 
-   * Om de advertenties te bewaren en hen toe te voegen aan a [&#x200B; creatieve bundel &#x200B;](/help/creative/creative-libraries/bundle-manage.md) in de bibliotheek:
+   * Om de advertenties te bewaren en hen toe te voegen aan a [ creatieve bundel ](/help/creative/creative-libraries/bundle-manage.md) in de bibliotheek:
 
       1. Klik op **[!UICONTROL Save and Attach to Bundle]**.
 
@@ -108,6 +108,6 @@ Voeg dynamische creatieve creatieven aan uw [&#x200B; creatieve bibliotheken &#x
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Dynamische creatieve montages &#x200B;](creative-settings-dynamic.md)
->* [&#x200B; geef dynamisch creatief in een creatieve bibliotheek uit &#x200B;](creative-edit-dynamic.md)
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ Dynamische creatieve montages ](creative-settings-dynamic.md)
+>* [ geef dynamisch creatief in een creatieve bibliotheek uit ](creative-edit-dynamic.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
