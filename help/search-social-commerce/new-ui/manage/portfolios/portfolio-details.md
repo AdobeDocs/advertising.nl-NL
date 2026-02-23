@@ -3,9 +3,10 @@ title: (Nieuwe interface) Geef prestatiegegevens van portfolio's weer
 description: Leer hoe u de prestatiegegevens van een portfolio kunt bekijken, inclusief werkelijke en voorspelde cijfers op portfolioniveau en voor elke toegewezen campagne.
 feature: Search Portfolios, Search Optimization
 hide: true
-source-git-commit: 62de95d7e3d21ae6c7f0a6f40e97352af71411e1
+exl-id: b5178856-1b0e-45cf-a351-6f31c0b0ec76
+source-git-commit: fee9c6e4649c348cad7561f81a9d45d92eb672ec
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '686'
 ht-degree: 0%
 
 ---
@@ -26,7 +27,7 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
 * De doeluitgaven versus de werkelijke uitgaven voor actieve portfolio&#39;s. U kunt desgewenst ook de totale campagnebudgetten voor de portfolio opnemen.
 
-* De nauwkeurigheid van kosten, klik, of [&#x200B; objectieve waarde &#x200B;](/help/search-social-commerce/glossary.md#o-p) voorspellingen voor actieve portefeuilles door netwerk.<!-- Verify -->
+* De nauwkeurigheid van kosten, klik, of [ objectieve waarde ](/help/search-social-commerce/glossary.md#o-p) voorspellingen voor actieve portefeuilles door netwerk.<!-- Verify -->
 
 * De portfolioinstellingen.
 
@@ -54,13 +55,13 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
       * Verplaats de schakelaar naast **[!UICONTROL Display predictions]** om de voorspelde metrische waarden te tonen of te verbergen.
 
-      * De schakelaar tussen de grafiekmening (![&#x200B; Mening van de Grafiek &#x200B;](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
+      * De schakelaar tussen de grafiekmening (![ Mening van de Grafiek ](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
 
       * (In grafiekmening) om gegevens voor om het even welk punt op de grafiek te zien, houd de curseur over dat punt.
 
 * (Optioneel) Voer een van de volgende handelingen uit om het [!UICONTROL Model accuracy] trenddiagram aan te passen:
 
-   * De schakelaar tussen de grafiekmening (![&#x200B; Mening van de Grafiek &#x200B;](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
+   * De schakelaar tussen de grafiekmening (![ Mening van de Grafiek ](/help/search-social-commerce/assets/chart-view.png " Mening van de Grafiek ")) en lijstmening (![Tabelweergave](/help/search-social-commerce/assets/table-view.png "Tabelweergave")).
 
    * Schakel tussen het weergeven van gegevens op *[!UICONTROL Click Date]* en *[!UICONTROL Transaction Date]* .
 
@@ -82,6 +83,8 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
    * Om gegevens voor om het even welk punt op de grafiek te zien, houd de curseur over dat punt.
 
+1. Klik op **[!UICONTROL Download report]**.
+
 ## De campagnes in het portfolio weergeven
 
 * Klik op de tab **[!UICONTROL Campaigns]** .
@@ -100,12 +103,20 @@ De weergave met portfoliogegevens bevat de volgende informatie over een portfoli
 
 * Klik op **[!UICONTROL Portfolio Settings]** om de portfolioinstellingen weer te geven of te verbergen.
 
-   * Om zichtbare portefeuillemontages uit te geven, geeft de klik ![&#x200B; uit &#x200B;](/help/search-social-commerce/assets/edit.png " naast het plaatsen sectie uit en ") geeft de portefeuillemontages [&#x200B; uit.](portfolio-edit.md)
+   * Om zichtbare portefeuillemontages uit te geven, geeft de klik ![ uit ](/help/search-social-commerce/assets/edit.png " naast het plaatsen sectie uit en ") geeft de portefeuillemontages [ uit.](portfolio-edit.md)
 
 Zie de Optimalisatiegids, die beschikbaar is in Search, Social &amp; Commerce, voor meer informatie over de portfolioinstellingen.
 
+## Profielprestatierapporten downloaden en lijsten met portfoliocomponenten
+
+1. Klik in de werkbalk op **[!UICONTROL Download report]** .
+
+1. Schakel het selectievakje in naast elk prestatierapport en type portfoliocomponent dat u wilt opnemen.
+
+   Voor sommige prestatierapporten kunt u kiezen of u de gegevens als winkelwagentje of als tabel wilt downloaden.
+
 >[!MORELIKETHIS]
 >
->* [&#x200B; (Nieuwe interface) Informatie over portfolio&#39;s &#x200B;](portfolio-about.md)
->* [&#x200B; (Nieuwe interface) Een portfolio bewerken &#x200B;](portfolio-edit.md)
->* [&#x200B; (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave &#x200B;](portfolio-view-report.md)
+>* [ (Nieuwe interface) Informatie over portfolio&#39;s ](portfolio-about.md)
+>* [ (Nieuwe interface) Een portfolio bewerken ](portfolio-edit.md)
+>* [ (Nieuwe interface) Download gegevens in de [!UICONTROL Portfolios] weergave ](portfolio-view-report.md)
