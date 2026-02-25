@@ -20,9 +20,9 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 >[!NOTE]
 >
->Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [ niet-veranderbaar ](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
+>Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [&#x200B; niet-veranderbaar &#x200B;](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
 
-1. [ Download een bulksheet ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) dat de entiteiten omvat waaraan u de waarden van de etiketclassificatie wilt toewijzen:
+1. [&#x200B; Download een bulksheet &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-download.md) dat de entiteiten omvat waaraan u de waarden van de etiketclassificatie wilt toewijzen:
 
    * Vouw op het tabblad [!UICONTROL Rows and Columns] de lijst [!UICONTROL Campaign] in het deelvenster [!UICONTROL Bulksheet Columns] uit.
 
@@ -38,7 +38,7 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
    Naast het toevoegen van waarden, kunt u bestaande waarden ook schrappen door hen uit de relevante rijen te verwijderen. Om waarden te verwijderen uit zowel een moederentiteit als haar onderliggende entiteiten, ofwel a) alleen de rij van de moederentiteit opnemen en de bestaande classificatiewaarde verwijderen, ofwel b) zowel de moederentiteit als haar onderliggende entiteiten opnemen, en de bestaande classificatiewaarde verwijderen uit alle bovenliggende en onderliggende rijen.
 
-1. [ upload het dossier ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md) om de verenigingen tot stand te brengen.<!-- Update once the new bulksheet UI is GA -->
+1. [&#x200B; upload het dossier &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-upload.md) om de verenigingen tot stand te brengen.<!-- Update once the new bulksheet UI is GA -->
 
 De geüploade labelwaarden zijn zichtbaar in de relevante entiteitsweergaven.
 
@@ -60,9 +60,9 @@ Dit voorbeeld bevat kolommen voor de labelindelingen &quot;Color&quot; en &quot;
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer etiketclassificaties ](classification-about.md)
->* [ creeer een etiketclassificatie ](classification-create.md)
->* [ wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe ](classification-values-assign-campaign-management.md)
->* [ verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten ](classification-values-remove.md)
->* [ schrapt etiketclassificatiewaarden ](classification-values-delete.md)
->* [ schrapt etiketclassificaties ](classification-delete.md)
+>* [&#x200B; Ongeveer etiketclassificaties &#x200B;](classification-about.md)
+>* [&#x200B; creeer een etiketclassificatie &#x200B;](classification-create.md)
+>* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe &#x200B;](classification-values-assign-campaign-management.md)
+>* [&#x200B; verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten &#x200B;](classification-values-remove.md)
+>* [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](classification-values-delete.md)
+>* [&#x200B; schrapt etiketclassificaties &#x200B;](classification-delete.md)

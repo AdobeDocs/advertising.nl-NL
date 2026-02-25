@@ -29,5 +29,5 @@ Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie met
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor ad groepen ](ad-group-constraint-assignments-manage.md)
->* [ gegevens van de Download van de [!UICONTROL Ad Groups] mening ](ad-group-view-report.md)
+>* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](ad-group-constraint-assignments-manage.md)
+>* [&#x200B; gegevens van de Download van de [!UICONTROL Ad Groups] mening &#x200B;](ad-group-view-report.md)

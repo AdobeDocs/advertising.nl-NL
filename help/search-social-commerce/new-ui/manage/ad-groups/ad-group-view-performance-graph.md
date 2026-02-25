@@ -17,15 +17,15 @@ U kunt een prestatiesgrafiek openen en vormen met maximaal drie metriek in totaa
 
 ## Een prestatiegrafiek weergeven
 
-1. Boven de gegevenslijst, klik ![ Helden ](/help/search-social-commerce/assets/charts.png " van Grafieken 1}.")
+1. Boven de gegevenslijst, klik ![&#x200B; Helden &#x200B;](/help/search-social-commerce/assets/charts.png " van Grafieken 1&rbrace;.")
 
 1. (Optioneel) Geef de valuta en maximaal drie cijfers op die u in de grafiek wilt opnemen.
 
 ## Een zichtbare prestatiegrafiek verbergen
 
-* Boven de gegevenslijst, klik ![ Helden ](/help/search-social-commerce/assets/charts.png " van Grafieken 1}.")
+* Boven de gegevenslijst, klik ![&#x200B; Helden &#x200B;](/help/search-social-commerce/assets/charts.png " van Grafieken 1&rbrace;.")
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Ad Groups view]](ad-group-view-about.md)
->* [ gegevens van de Download van de [!UICONTROL Ad Groups] mening ](ad-group-view-report.md)
+>* [&#x200B; Over [!UICONTROL Ad Groups view]](ad-group-view-about.md)
+>* [&#x200B; gegevens van de Download van de [!UICONTROL Ad Groups] mening &#x200B;](ad-group-view-report.md)
