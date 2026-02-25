@@ -23,7 +23,7 @@ Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie met
 
 * [Een prestatiesgrafiek weergeven voor alle campagnes in de weergave](campaign-view-performance-graph.md)
 
-* [&#x200B; wijst campagnes aan bestaande of nieuwe portefeuilles &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [&#x200B; unassign campagnes van portefeuilles &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+* [&#x200B; wijst campagnes aan bestaande of nieuwe portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [&#x200B; unassign campagnes van portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
 * [Beperkingen aan campagnes toewijzen en beperkingen van campagnes ongedaan maken](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
@@ -31,7 +31,7 @@ Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie met
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
->* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+>* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+>* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 >* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](campaign-constraint-assignments-manage.md)
 >* [&#x200B; gegevens van de Download van de [!UICONTROL Campaigns] mening &#x200B;](campaign-view-report.md)
