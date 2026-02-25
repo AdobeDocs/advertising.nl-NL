@@ -12,7 +12,7 @@ ht-degree: 0%
 
 <!-- Move all related files into one page? -->
 
-Als u online en netwerken gebruikt waarvoor Search, Social &amp; Commerce geen API-ondersteuning biedt, kunt u inhoud van de campagne en offline kosten uploaden, klikken en conversiegegevens voor een account voor rapportage- en prestatiesimulaties. Adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md) kunnen gegevens voor hun rekeningen binnen Adobe Analytics ook bekijken.
+Als u online en netwerken gebruikt waarvoor Search, Social &amp; Commerce geen API-ondersteuning biedt, kunt u inhoud van de campagne en offline kosten uploaden, klikken en conversiegegevens voor een account voor rapportage- en prestatiesimulaties. Adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md) kunnen gegevens voor hun rekeningen binnen Adobe Analytics ook bekijken.
 
 Deze functie is beschikbaar voor advertentienetwerken die de standaardcampagnestructuur met drie lagen volgen (campagne, advertentiegroep of advertentieset, en biedingseenheid (ad of trefwoord)). Voor Adobe DSP is de functie beschikbaar voor pakketten en de plaatsingen die aan een pakket zijn toegewezen, maar niet voor campagnes of plaatsingen met plaatsingsniveau.
 
@@ -43,13 +43,13 @@ Op Zoeken, Sociaal en Commerce klikken en Adobe Advertising converteren volgen w
 
 <!-- subtitle wording? -->
 
-1. [ opstelling een dummy rekeningsverslag ](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md).
+1. [&#x200B; opstelling een dummy rekeningsverslag &#x200B;](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md).
 
 1. Creeer een gegevensdossier voor één enkele rekening <!--  in what file format? -->, met inbegrip van de status op het dagniveau voor campagnes, en groepen, en advertenties.
 
 De gegevens moeten de gegevensvereisten voor het advertentienetwerk volgen, zodat kunnen de gegevensgebieden voor elke entiteit door ad netwerk variëren.
 
-1. <!-- For all ad networks (excluding DSP), -->Upload de initiële gegevens voor één account op een van de volgende manieren:
+1. &#x200B;<!-- For all ad networks (excluding DSP), -->Upload de initiële gegevens voor één account op een van de volgende manieren:
 
 * Upload een bestand handmatig van uw apparaat of netwerk.
 
@@ -64,14 +64,14 @@ De gegevens moeten de gegevensvereisten voor het advertentienetwerk volgen, zoda
 
 1. Zodra u gegevens voor 30 dagen hebt geupload, kunt u naar keuze de campagnes aan <!--what type? how should we refer to them? --> portefeuilles toevoegen en simulaties produceren.
 
-U kunt [ een logboek van elke gegevens bekijken uploadt ](upload-log.md) om zijn status te zien. Bovendien als u een upload in werking stelt maar uploadt niet volledig succesvol is, dan ontvangt u een foutenmelding via [ Centrum van het Bericht ](/help/search-social-commerce/notifications/notification-about.md), dat op uw berichtmontages wordt gebaseerd.
+U kunt [&#x200B; een logboek van elke gegevens bekijken uploadt &#x200B;](upload-log.md) om zijn status te zien. Bovendien als u een upload in werking stelt maar uploadt niet volledig succesvol is, dan ontvangt u een foutenmelding via [&#x200B; Centrum van het Bericht &#x200B;](/help/search-social-commerce/notifications/notification-about.md), dat op uw berichtmontages wordt gebaseerd.
 
 <!-- Data validation, and any troubleshooting? -->
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het uploaden rekeningsgegevens voor het melden en simulaties ](data-upload-accounts-about.md)
->* [ uploadt rekeningsgegevens aan een  [!DNL Amazon] [!DNL S3] emmertje ](upload-data-from-s3-bucket.md)
->* [ uploadt manueel rekeningsgegevens ](upload-data-manually.md)
->* [ Mening een logboek van geüploade dossiers van rekeningsgegevens ](upload-log.md)
->* [ beheer en netwerkrekeningen voor gegevensupload ](/help/search-social-commerce/campaign-management/accounts/data-upload-account-manage.md)
+>* [&#x200B; Ongeveer het uploaden rekeningsgegevens voor het melden en simulaties &#x200B;](data-upload-accounts-about.md)
+>* [&#x200B; uploadt rekeningsgegevens aan een  [!DNL Amazon] [!DNL S3] emmertje &#x200B;](upload-data-from-s3-bucket.md)
+>* [&#x200B; uploadt manueel rekeningsgegevens &#x200B;](upload-data-manually.md)
+>* [&#x200B; Mening een logboek van geüploade dossiers van rekeningsgegevens &#x200B;](upload-log.md)
+>* [&#x200B; beheer en netwerkrekeningen voor gegevensupload &#x200B;](/help/search-social-commerce/campaign-management/accounts/data-upload-account-manage.md)

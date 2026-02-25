@@ -37,12 +37,12 @@ Met behulp van traceringscampagnes kunt u de prestaties bijhouden, rapporteren e
 
 Als u Zoeken, Sociaal en Commerce wilt toestaan conversies toe te wijzen aan kliks, stelt u opties voor bijhouden in de accountrecord in en schakelt u de accountrecord in. Vervolgens kunt u met de opsommingstekens URL&#39;s voor bijhouden van advertenties en trefwoorden genereren en de URL&#39;s voor bijhouden handmatig toevoegen in het advertentiebeheer van [!DNL Naver] .
 
-U kunt geen nieuwe [!DNL Naver] accounts instellen in Zoeken, Sociaal en Commerce. Zie meer informatie over [!DNL Naver] het volgen-slechts campagnes, zie &quot;[ uitvoeren  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md).&quot;
+U kunt geen nieuwe [!DNL Naver] accounts instellen in Zoeken, Sociaal en Commerce. Zie meer informatie over [!DNL Naver] het volgen-slechts campagnes, zie &quot;[&#x200B; uitvoeren  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md).&quot;
 
 >[!MORELIKETHIS]
 >
->* [ beheer en netwerkrekeningen via API verbinding ](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
->* [ beheer en netwerkrekeningen voor gegevensupload ](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
->* [ beheert  [!DNL Naver]  rekeningen voor het volgen slechts ](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
->* [ voert  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
->* [ beheert commerciële centrumrekeningen ](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
+>* [&#x200B; beheer en netwerkrekeningen via API verbinding &#x200B;](/help/search-social-commerce/new-ui/set-up/accounts/api-accounts/api-account-manage.md)
+>* [&#x200B; beheer en netwerkrekeningen voor gegevensupload &#x200B;](/help/search-social-commerce/new-ui/set-up/accounts/data-upload-accounts/data-upload-account-manage.md)
+>* [&#x200B; beheert  [!DNL Naver]  rekeningen voor het volgen slechts &#x200B;](/help/search-social-commerce/new-ui/set-up/accounts/template-account-manage.md)
+>* [&#x200B; voert  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
+>* [&#x200B; beheert commerciële centrumrekeningen &#x200B;](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)

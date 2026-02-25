@@ -13,9 +13,9 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-Na zijn instructies voor het beheren van [[!DNL Naver]  rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) om prestaties voor de advertenties te volgen, te rapporteren en te visualiseren die u direct van het advertentienetwerk koopt. Zoeken, sociale media en Commerce synchroniseren geen gegevens met het advertentienetwerk, bieden geen geautomatiseerde biedingen en bieden geen optimalisatie of simulaties.
+Na zijn instructies voor het beheren van [[!DNL Naver]  rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) om prestaties voor de advertenties te volgen, te rapporteren en te visualiseren die u direct van het advertentienetwerk koopt. Zoeken, sociale media en Commerce synchroniseren geen gegevens met het advertentienetwerk, bieden geen geautomatiseerde biedingen en bieden geen optimalisatie of simulaties.
 
-Voor details over de beschikbare functionaliteit, zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
+Voor details over de beschikbare functionaliteit, zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
 
 ## Gegevens van een advertentienetwerkaccount maken {#create-account}
 
@@ -31,11 +31,11 @@ Om het volgen van een rekening toe te laten, moet u een overeenkomstig rekenings
 
 1. Klik op de naam van het advertentienetwerk en klik vervolgens op **[!UICONTROL Next]** .
 
-1. Specificeer de [ rekeningsmontages ](#account-settings-naver):
+1. Specificeer de [&#x200B; rekeningsmontages &#x200B;](#account-settings-naver):
 
    1. Geef op het tabblad **[!UICONTROL Enter Account Details]** de algemene accountinstellingen op.
 
-   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en selecteer alle [!DNL Analytics] rapporteringssuites voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en selecteer alle [!DNL Analytics] rapporteringssuites voor het volgen en het melden van campagneactiviteit te gebruiken.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -55,11 +55,11 @@ Als u de accountnaam wilt wijzigen, de accountstatus wilt wijzigen of de [!DNL A
 
    * Plaats de cursor boven de accountnaam, klik op **..** en klik vervolgens op **[!UICONTROL Edit]** .
 
-1. Bewerk de [ rekeningsmontages ](#account-settings-api):
+1. Bewerk de [&#x200B; rekeningsmontages &#x200B;](#account-settings-api):
 
    1. (Optioneel) Bewerk op het tabblad **[!UICONTROL Account Details]** de accountgegevens.
 
-   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
 
    <!-- What are the repercussions of changing the suites? Timing of updated data? -->
 
@@ -117,11 +117,11 @@ When you enable an ad network account, Search, Social, & Commerce synchronizes c
 
 ## [!UICONTROL Setup Analytics] tab
 
-**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md); facultatief) Één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt u voor het advertentienetwerk, met inbegrip van entiteitclassificaties uploadt en gegevens voor de rekening klikt.
+**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md); facultatief) Één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt u voor het advertentienetwerk, met inbegrip van entiteitclassificaties uploadt en gegevens voor de rekening klikt.
 
 Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-zij eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of (b) adverteerder-niveau dat aan &quot; [!UICONTROL Enable Advertising reporting in Analytics]&quot;plaatst wordt toegelaten. Daarnaast moet het [!DNL Analytics] -account van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met uw Adobe-accountteam.
 
 >[!MORELIKETHIS]
 >
->* [ voert  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
->* [ Ongeveer ad netwerkrekeningen ](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
+>* [&#x200B; voert  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
+>* [&#x200B; Ongeveer ad netwerkrekeningen &#x200B;](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)

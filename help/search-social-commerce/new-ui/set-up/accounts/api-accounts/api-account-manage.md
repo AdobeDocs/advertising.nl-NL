@@ -21,7 +21,7 @@ Hieronder vindt u instructies voor het beheer van advertentienetwerkaccounts waa
 
 <!-- Move out info about Naver into a separate page -->
 
-Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
+Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
 
 ## Gegevens van een advertentienetwerkaccount maken {#create-account}
 
@@ -39,13 +39,13 @@ Om het synchroniseren van een rekening toe te laten, moet u een overeenkomstig r
 
 1. (Alle advertentienetwerken behalve [!DNL Yandex] ) Meld u met de referenties aan bij het advertentienetwerk. Selecteer de optie Account tracking voor dit account. Klik vervolgens in de rechterbovenhoek op **[!UICONTROL Next]** .
 
-1. Specificeer de [ rekeningsmontages ](#account-settings-api):
+1. Specificeer de [&#x200B; rekeningsmontages &#x200B;](#account-settings-api):
 
    1. Geef op het tabblad **[!UICONTROL Select Accounts]** de algemene accountinstellingen op. Geef voor [!DNL Yandex] -accounts de accountgegevens op.
 
    1. Klik op de tab **[!UICONTROL Setup Tracking]** en voer de instellingen voor bijhouden in.
 
-   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en selecteer alle [!DNL Analytics] rapporteringssuites voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en selecteer alle [!DNL Analytics] rapporteringssuites voor het volgen en het melden van campagneactiviteit te gebruiken.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -67,13 +67,13 @@ Als u de accountinstellingen opnieuw wilt verifiëren om de verbinding te vernie
 
    * Plaats de cursor boven de accountnaam, klik op **..** en klik vervolgens op **[!UICONTROL Edit]** .
 
-1. Bewerk de [ rekeningsmontages ](#account-settings-api):
+1. Bewerk de [&#x200B; rekeningsmontages &#x200B;](#account-settings-api):
 
    1. (Optioneel) Bewerk op het tabblad **[!UICONTROL Account Details]** de accountgegevens.
 
    1. (Optioneel) Klik op het tabblad **[!UICONTROL Setup Tracking]** en bewerk de instellingen voor bijhouden.
 
-   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
 
    <!-- What are the repercussions of changing the suites? Timing of updated data? -->
 
@@ -167,7 +167,7 @@ De accountinstellingen variëren per advertentienetwerk. Mogelijk ziet u niet al
 
 >[!NOTE]
 >
->De rekeningen van de Adnetwork manager worden hier niet gesteund. Als u een beheerdersaccount voor [!DNL Microsoft Advertising] wilt identificeren, gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Aan [ opstellingsgeloofsbrieven voor de rekening van de a  [!DNL Google Ads]  manager ](/help/search-social-commerce/admin/manager-accounts.md), ga [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
+>De rekeningen van de Adnetwork manager worden hier niet gesteund. Als u een beheerdersaccount voor [!DNL Microsoft Advertising] wilt identificeren, gebruikt u respectievelijk het veld Hoofdaccount-id of MCC-account. Aan [&#x200B; opstellingsgeloofsbrieven voor de rekening van de a  [!DNL Google Ads]  manager &#x200B;](/help/search-social-commerce/admin/manager-accounts.md), ga [!UICONTROL Admin] \> [!UICONTROL Manager Accounts].
 
 **[!UICONTROL Currency]:** (Alleen-lezen) De afkorting van de valuta die voor de account wordt gebruikt. Deze waarde wordt automatisch gevuld met de valuta die voor de account op het advertentienetwerk is geconfigureerd als u de record opslaat.
 
@@ -201,7 +201,7 @@ Om deze eigenschap toe te laten, zet **[het Volgen]** toe.
 >* Als u schakelt van [!UICONTROL Standard] naar [!UICONTROL Token] of vice versa, moet u URL&#39;s voor het bijhouden van een account opnieuw genereren.
 >* U kunt de instelling op accountniveau op campagneniveau overschrijven.
 
-**[!UICONTROL Auto Update]:** (Wanneer Zoeken, Sociaal, &amp; het volgen van Commerce wordt toegelaten) normaliseert uw het volgen URLs voor verenigbaarheid over browsers en servers. Met Zoeken, Sociaal en Commerce wordt het volgende automatisch naar het advertentienetwerk geüpload tijdens de volgende synchronisatie: a) parameters voor het bijhouden van sjablonen zoeken, Sociaal en Commerce en dezelfde parameters die aan de uiteindelijke URL&#39;s zijn toegevoegd, of b) nieuwe doel-URL&#39;s die zijn ingesloten met code voor het bijhouden van zoekopdrachten, sociale gegevens en Commerce. Voor adverteerders met een [ Adobe Advertising-Adobe Analytics integratie ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) en een server-kantAMO identiteitskaart (s_kwcid) configuratie, omvat de upload ook [ parameters van identiteitskaart van AMO ](/help/integrations/analytics/ids.md#amo-id) voor uw [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen. De standaardinstelling op accountniveau wordt overgenomen van de instellingen voor bijhouden van adverteerders. U kunt de instelling op accountniveau op campagneniveau overschrijven.
+**[!UICONTROL Auto Update]:** (Wanneer Zoeken, Sociaal, &amp; het volgen van Commerce wordt toegelaten) normaliseert uw het volgen URLs voor verenigbaarheid over browsers en servers. Met Zoeken, Sociaal en Commerce wordt het volgende automatisch naar het advertentienetwerk geüpload tijdens de volgende synchronisatie: a) parameters voor het bijhouden van sjablonen zoeken, Sociaal en Commerce en dezelfde parameters die aan de uiteindelijke URL&#39;s zijn toegevoegd, of b) nieuwe doel-URL&#39;s die zijn ingesloten met code voor het bijhouden van zoekopdrachten, sociale gegevens en Commerce. Voor adverteerders met een [&#x200B; Adobe Advertising-Adobe Analytics integratie &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) en een server-kantAMO identiteitskaart (s_kwcid) configuratie, omvat de upload ook [&#x200B; parameters van identiteitskaart van AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id) voor uw [!DNL Google Ads] en [!DNL Microsoft Advertising] rekeningen. De standaardinstelling op accountniveau wordt overgenomen van de instellingen voor bijhouden van adverteerders. U kunt de instelling op accountniveau op campagneniveau overschrijven.
 
 URL&#39;s bijhouden wordt dagelijks alleen bijgewerkt voor entiteiten die niet meer gesynchroniseerd zijn (dat wil zeggen nieuwe entiteiten die zijn toegevoegd en bestaande entiteiten waarvan de eigenschappen zijn gewijzigd). Als u deze instelling wijzigt van uitgeschakeld in ingeschakeld voor een bestaande adverteerder/account/campagne, worden URL&#39;s die worden bijgehouden niet bijgewerkt voor bestaande entiteiten die al gesynchroniseerd zijn. Als u de URL&#39;s van bestaande, synchrone entiteiten wilt bijhouden, neemt u contact op met uw Adobe-accountteam en vraagt u een eenmalig, handmatig synchronisatieproces. Het automatische uploadproces zal toekomstige veranderingen behandelen.
 
@@ -219,7 +219,7 @@ URL&#39;s bijhouden wordt dagelijks alleen bijgewerkt voor entiteiten die niet m
 
 Voorbeeld: `param1=value1&param2=value2`
 
-Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) van het advertentienetwerk in het achtervoegsel opnemen. Accounts met een Adobe Analytics-integratie moeten de parameter AMO ID gebruiken (te beginnen met `s_kwcid`). Als de account een AMO-id-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie [ vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [ vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
+Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikidentificatie (`msclkid` for [!DNL Microsoft Advertising]; `gclid` for Google) van het advertentienetwerk in het achtervoegsel opnemen. Accounts met een Adobe Analytics-integratie moeten de parameter AMO ID gebruiken (te beginnen met `s_kwcid`). Als de account een AMO-id-implementatie aan de serverzijde heeft, wordt de parameter automatisch toegevoegd wanneer een gebruiker op een advertentie klikt; anders moet u deze hier handmatig toevoegen. Zie [&#x200B; vereiste achtervoegselformaten voor  [!DNL Google Ads]](/help/search-social-commerce/tracking/formats-click-tracking-google.md) en [&#x200B; vereiste achtervoegselformaten voor  [!DNL Microsoft Advertising]](/help/search-social-commerce/tracking/formats-click-tracking-microsoft.md).
 
 >[!NOTE]
 >
@@ -230,7 +230,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * De uiteindelijke URL insluiten:
 
-   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie ](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie ](https://support.google.com/google-ads/answer/6305348).
+   * ([!DNL Google Ads] en [!DNL Microsoft Advertising] slechts) voor een lijst van parameters om definitieve URLs in het volgen van malplaatjes te wijzen, zie ([!DNL Microsoft Advertising] slechts) [[!DNL Microsoft Advertising]  documentatie &#x200B;](https://help.ads.microsoft.com/#apex/3/en/56799) of ([!DNL Google Ads] slechts) de &quot;Volgend malplaatje slechts&quot;parameters in de sectie over &quot;Beschikbare [!DNL ValueTrack] Parameters&quot;in de [[!DNL Google Ads]  documentatie &#x200B;](https://support.google.com/google-ads/answer/6305348).
 
    * ([!DNL Yahoo! Japan Ads] slechts) gebruik de parameter `!{lpurl}` om op de het landen pagina URL te wijzen.
 
@@ -248,12 +248,12 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 ## [!UICONTROL Setup Analytics] tab
 
-**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md); facultatief) één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt het van het advertentienetwerk, met inbegrip van entiteitclassificaties en gegevens voor de rekening klikt. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
+**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md); facultatief) één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt het van het advertentienetwerk, met inbegrip van entiteitclassificaties en gegevens voor de rekening klikt. Deze functie is alleen beschikbaar voor ondersteunde advertentienetwerken.
 
 Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-zij eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of (b) adverteerder-niveau dat aan &quot; [!UICONTROL Enable Advertising reporting in Analytics]&quot;plaatst wordt toegelaten. Daarnaast moet het [!DNL Analytics] -account van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met uw Adobe-accountteam.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer ad netwerkrekeningen ](../ad-network-account-about.md)
->* [ beheert commerciële centrumrekeningen ](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
->* [ Werk s_kwcid het volgen code voor a  [!DNL Google Ads]  rekening ](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md) bij
+>* [&#x200B; Ongeveer ad netwerkrekeningen &#x200B;](../ad-network-account-about.md)
+>* [&#x200B; beheert commerciële centrumrekeningen &#x200B;](/help/search-social-commerce/campaign-management/accounts/merchant-account-manage.md)
+>* [&#x200B; Werk s_kwcid het volgen code voor a  [!DNL Google Ads]  rekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/update-amo-id-google.md) bij
