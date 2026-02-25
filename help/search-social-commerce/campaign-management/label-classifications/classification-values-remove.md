@@ -3,9 +3,9 @@ title: Waarden voor labelclassificatie verwijderen uit accountcomponenten
 description: Leer hoe u koppelingen kunt verwijderen tussen classificatiewaarden van labels en accountcomponenten.
 exl-id: 8697367b-0bf9-48c9-8dd3-e733360e1df2
 feature: Search Label Classifications
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: d68107b04762ea149dd74fb30ab7ea9d8850915f
 workflow-type: tm+mt
-source-wordcount: '241'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -16,23 +16,43 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 >[!NOTE]
 >
->Om een waarde van een etiketclassificatie te schrappen, zie &quot;[&#x200B; de waarden van de etiketclassificatie van de Schrapping &#x200B;](classification-values-delete.md).&quot;
+>Om een waarde van een etiketclassificatie te schrappen, zie &quot;[ de waarden van de etiketclassificatie van de Schrapping ](classification-values-delete.md).&quot;
+
+## (Nieuwe interface) Waarden voor labelclassificatie verwijderen uit accountcomponenten
+
+U kunt classificatiewaarden verwijderen uit alle toepasselijke accountcomponenten die beschikbaar zijn in de nieuwe interface.
+
+1. Open de entiteitmening van het **[!UICONTROL Manage]** of **[!UICONTROL Target]** menu.
+
+1. Schakel het selectievakje naast elke relevante rij in.
+
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+
+1. Klik op de werkbalk voor bulkacties op **-[!UICONTROL Unassign]** > **[!UICONTROL Label Classification]** .
+
+1. Schakel het selectievakje naast elke classificatiewaarde in om deze uit de geselecteerde entiteiten te verwijderen.<!-- As of 2/24/26, no way to tell which entity each value is assigned to -->
+
+   Klik op **[!UICONTROL Select All]** om alle toegewezen waarden te selecteren. Klik op **[!UICONTROL Deselect All]** om alle toegewezen waarden te deselecteren.
+
+1. Klik op **[!UICONTROL Unassign Selected]**.
+
+## (Verouderde UI) De waarden van de etiketclassificatie van rekeningscomponenten verwijderen
 
 1. Selecteer in **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** de entiteitweergave.
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om waarden uit één enkele entiteit te verwijderen) Houd de curseur over de entiteitsnaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.
+   * (Om waarden uit één enkele entiteit te verwijderen) Houd de curseur over de entiteitsnaam, klik ![ knoop van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png ", en selecteer dan ").**[!UICONTROL Classification]**
 
    * (Voer de volgende handelingen uit als u waarden uit een of meer entiteiten wilt verwijderen:
 
       * Schakel het selectievakje naast elke rij in.
 
-        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      * In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
+      * In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
 
-1. Selecteer **[!UICONTROL Remove]** in de [!UICONTROL Assignment Details] .
+1. Selecteer [!UICONTROL Assignment Details] in de **[!UICONTROL Remove]** .
 
 1. Ga als volgt te werk voor elke classificatiewaarde die u wilt verwijderen:
 
@@ -42,7 +62,7 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 1. (Optioneel) Voer aanvullende gegevens in:
 
-   * Naast **[!UICONTROL Additional Details]**, klik ![&#x200B; Open &#x200B;](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
+   * Naast **[!UICONTROL Additional Details]**, klik ![ Open ](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
 
    * Voer een optionele **[!UICONTROL Project Name]** en/of optionele **[!UICONTROL Description]** in.
 
@@ -50,9 +70,9 @@ Als u een classificatiewaarde verwijdert, wordt de koppeling met de accountcompo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer etiketclassificaties &#x200B;](classification-about.md)
->* [&#x200B; creeer een etiketclassificatie &#x200B;](classification-create.md)
->* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe &#x200B;](classification-values-assign-campaign-management.md)
->* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets &#x200B;](classification-values-assign-bulksheets.md)
->* [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](classification-values-delete.md)
->* [&#x200B; schrapt etiketclassificaties &#x200B;](classification-delete.md)
+>* [ Ongeveer etiketclassificaties ](classification-about.md)
+>* [ creeer een etiketclassificatie ](classification-create.md)
+>* [ wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe ](classification-values-assign-campaign-management.md)
+>* [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](classification-values-assign-bulksheets.md)
+>* [ schrapt etiketclassificatiewaarden ](classification-values-delete.md)
+>* [ schrapt etiketclassificaties ](classification-delete.md)

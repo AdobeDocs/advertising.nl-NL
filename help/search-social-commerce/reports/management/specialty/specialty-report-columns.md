@@ -3,9 +3,9 @@ title: Kolommen rapporteren voor speciale rapporten
 description: Meer informatie over de beschikbare gegevenskolommen voor speciale rapporten.
 exl-id: c4533105-a0a8-4c76-bda9-ae653e7fd911
 feature: Search Reports, Search Specialty Reports
-source-git-commit: 3ab2e38f6a2f70c03504363575b13dc0dc730282
+source-git-commit: 6080412a58466d8a87924b27ac038991a287b849
 workflow-type: tm+mt
-source-wordcount: '2922'
+source-wordcount: '3140'
 ht-degree: 0%
 
 ---
@@ -35,14 +35,16 @@ ht-degree: 0%
 | [!UICONTROL Advertiser] | De naam van de adverteerder. |
 | [!UICONTROL Advertiser ID] | De numerieke id van de account van de adverteerder Zoeken, Sociaal en Commerce. |
 | [!UICONTROL All Conversion Rate] | ([!UICONTROL MSA Ad Extension] rapporteert) De conversiesnelheid als een percentage. |
-| [!UICONTROL All Conversions] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
+| [!UICONTROL All Conversions] | ([!UICONTROL Google AI Max Search Term Combination] en [!UICONTROL MSA Ad Extension] rapporteert) Het totale aantal conversies. Voor [!UICONTROL Google AI Max Search Term Combination Report] omvat deze waarde conversiehandelingen die niet in de hoofdkolom Conversies zijn opgenomen. |
 | [!UICONTROL All Conversions Qualified] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
+| [!UICONTROL All Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van alle omzettingen. |
+| [!UICONTROL All Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van alle omzettingen gedeeld door de totale kosten van ad interactie (zoals kliks of videomeningen). |
 | [!UICONTROL All Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De kosten per omzetting. |
 | [!UICONTROL All Return on Ad Spend] | ([!UICONTROL MSA Ad Extension] rapporten) De totale opbrengst gedeeld door uitgaven, uitgedrukt als percentage. |
 | [!UICONTROL All Revenue Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De opbrengst per omzetting. |
 | [!UICONTROL Asset] | ([!UICONTROL RSA Asset Report]) Het element. |
 | [!UICONTROL Asset ID] | ([!UICONTROL RSA Asset Report]) De unieke id die een bestaand element identificeert. |
-| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) De [[!DNL Google Ads]  prestatiesclassificatie &#x200B;](https://support.google.com/google-ads/answer/9564897) voor de activa. |
+| [!UICONTROL Asset Performance Label] | ([!UICONTROL RSA Asset Report]) De [[!DNL Google Ads]  prestatiesclassificatie ](https://support.google.com/google-ads/answer/9564897) voor de activa. |
 | [!UICONTROL Asset Status] | ([!UICONTROL RSA Asset Report]) De elementstatus: *[!UICONTROL Enabled]* of *[!UICONTROL Enabled]* (verwijderd). |
 | [!UICONTROL Asset Type] | ([!UICONTROL RSA Asset Report]) Het elementtype: *[!UICONTROL Creative Title]* of *[!UICONTROL Description]* . |
 | [!UICONTROL Assists] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal tijden een entiteit aan een omzetting verbonden aan een verschillende entiteit heeft bijgedragen. |
@@ -53,6 +55,7 @@ ht-degree: 0%
 | [!UICONTROL Audience Impression Share Percent] | Het geschatte percentage indrukken op de [!DNL Microsoft Audience Network] gedeeld door de totale beschikbare indrukken die u had kunnen ontvangen. |
 | [!UICONTROL Audience Status] | De status van het publiek. |
 | [!UICONTROL Average CPC] | De gemiddelde kosten per klik. |
+| [!UICONTROL Average CPM] | De gemiddelde kosten per duizend (mille) indrukken. |
 | [!UICONTROL Average Position], [!UICONTROL Avg Position] | De gemiddelde positie van de advertenties tijdens het opgegeven datumbereik.<br><br> Voor [!DNL Google Ads] en [!DNL Yahoo! Japan Ads] campagnes, zijn deze gegevens beschikbaar slechts door September 2019. Voor [!DNL Microsoft Advertising] zijn deze gegevens alleen beschikbaar tot en met 22 januari 2021. |
 | [!UICONTROL Bid Match Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het matrixtype verbonden aan het sleutelwoord dat op werd geboden. |
 | [!UICONTROL Campaign Budget] | ([!UICONTROL Campaign Daily Impression Share Report]) Het campagnebudget. |
@@ -68,15 +71,18 @@ ht-degree: 0%
 | [!UICONTROL Content IS% (Google)] | ([!DNL Google Ads] slechts; [!UICONTROL Campaign Daily Impression Share Report]) Het aantal beelden u voor advertenties op het vertoning/publieksnetwerk ontving gedeeld door het geschatte aantal beelden die u verkreeg te ontvangen. De percentages onder 10% worden vermeld als &quot;`<10%`,&quot;en de percentages boven 90% worden vermeld als &quot;`>90%`&quot;. |
 | [!UICONTROL Content IS% Lost to Budget (Google)] | ([!DNL Google Ads] slechts; [!UICONTROL Campaign Daily Impression Share Report]) Het geschatte percentage van indrukken die uw advertenties op het vertoning/publieksnetwerk niet kregen omdat uw dagelijks of maandelijks budget te laag was. De percentages onder 10% worden vermeld als &quot;`<10%`,&quot;en de percentages boven 90% worden vermeld als &quot;`>90%`&quot;. |
 | [!UICONTROL Content IS% Lost to Rank (Google)] | ([!DNL Google Ads] slechts; [!UICONTROL Campaign Daily Impression Share Report]) het geschatte percentage van indrukken dat uw advertenties op de vertoning/het publieksnetwerk niet wegens een slechte advertentie werden getoond. De percentages onder 10% worden vermeld als &quot;`<10%`,&quot;en de percentages boven 90% worden vermeld als &quot;`>90%`&quot;. |
-| [!UICONTROL Cost Micros] | ([!UICONTROL Google Asset Group Performance Report]) De som van uw kosten per klik (CPC) en kosten per duizend impressies (CPM) tijdens de gespecificeerde periode. |
 | [!UICONTROL Conversion Rate] | Het aantal conversies gedeeld door het totale aantal klikken. |
 | [!UICONTROL Conversion Type] | Het door de gebruiker gedefinieerde conversietype dat op de website van de adverteerder is bijgehouden. |
-| [!UICONTROL Conversions] | ([!UICONTROL MSA Ad Extension] en [!UICONTROL Google Asset Group Performance] rapporten) De waarde van omzettingen voor de gespecificeerde periode. Voor [!UICONTROL MSA Ad Extension] is dit het aantal klikken dat heeft geleid tot een verkoop of een andere mate van succes. |
+| [!UICONTROL Conversions] | ([!UICONTROL Google AI Max Search Term Combination], [!UICONTROL Google Asset Group Performance], en [!UICONTROL MSA Ad Extension] rapporten) De totale omzettingen voor de gespecificeerde periode. Voor het [!UICONTROL MSA Ad Extension] -rapport is dit het aantal klikken dat heeft geleid tot een verkoop of een andere mate van succes. Voor het [!UICONTROL Google AI Max Search Term Combination] -rapport is dit het totale aantal conversies van conversieacties waarvoor &quot;Opnemen in conversies&quot; is ingeschakeld |
 | [!UICONTROL Conversions from Interactions Rate] | ([!UICONTROL Google Asset Group Performance Report]) Het aantal omzettingen van en interactie gedeeld door het aantal ad interacties. Deze waarde houdt alleen rekening met omzettingsacties waarvoor het kenmerk `include_in_conversions_metric` is ingesteld op `true` . |
 | [!UICONTROL Conversions Qualified] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal omzettingen. |
+| [!UICONTROL Conversions Value] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van alle omzettingen van omzettingsacties waarvoor &quot;omvat in omzettingen&quot;wordt toegelaten. |
+| [!UICONTROL Conversions Value Per Cost] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van alle omzettingen gedeeld door de totale kosten van ad interactie (zoals kliks of videomeningen). Het omvat slechts omzettingen van omzettingsacties waarvoor &quot;omvat in omzettingen&quot;wordt toegelaten. |
 | [!UICONTROL Cost] | De totale kosten voor advertenties tijdens het opgegeven datumbereik. |
+| [!UICONTROL Cost Micros] | ([!UICONTROL Google Asset Group Performance Report]) De som van uw kosten per klik (CPC) en kosten per duizend impressies (CPM) tijdens de gespecificeerde periode. |
+| [!UICONTROL Cost Per All Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) De kosten van en interactie gedeeld door alle omzettingen. |
 | [!UICONTROL Cost Per Assist] | ([!UICONTROL MSA Ad Extension] rapporten) De totale kosten per hulp. |
-| [!UICONTROL Cost Per Conversion] | ([!UICONTROL MSA Ad Extension] rapporten) De totale kosten per omzetting. |
+| [!UICONTROL Cost Per Conversion] | ([!UICONTROL Google AI Max Search Term Combination Report] en [!UICONTROL MSA Ad Extension] rapporten) De kosten van en interacties gedeeld door conversies. Voor Google Ads omvat dit alleen conversies van conversiehandelingen waarvoor &quot;Opnemen in conversies&quot; is ingeschakeld. |
 | [!UICONTROL Country] | ([!UICONTROL AdWords Geo Report] en [!UICONTROL Bing Ads Geo Report]) Een land waarvan kliks van oorsprong waren. Het wordt bepaald van het IP van de gebruiker adres. |
 | [!UICONTROL CPC] | De kosten per klik (CPC) voor advertenties tijdens het opgegeven datumbereik. |
 | [!UICONTROL Creative Description 1], [!UICONTROL Creative Description 2] | De eerste en tweede regel van de advertentie. |
@@ -85,6 +91,7 @@ ht-degree: 0%
 | [!UICONTROL Creative Status] | ([!UICONTROL MSA Ad Extension] rapporten) De status van de advertentie. |
 | [!UICONTROL Creative Name] | (Transactierapport; [!DNL Yahoo! Japan] alleen) De naam van de advertentieafbeelding. |
 | [!UICONTROL Creative Title] | De titel of titel van de advertentie. |
+| [!UICONTROL Cross Device Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) Conversies die het resultaat zijn wanneer een gebruiker op een advertentie klikt en vervolgens op een ander apparaat of een andere browser converteert. Alle conversies tussen apparaten worden opgenomen in Alle conversies. |
 | [!UICONTROL CTR] | De doorklikfrequentie. Dit is het aantal klikken gedeeld door het aantal indrukken voor de opgenomen advertenties. |
 | [!UICONTROL Current Quality Score] | ([!DNL Google Ads] en [!DNL Microsoft Advertising] campagnes slechts) De huidige kwaliteitsscore voor het sleutelwoord of de biedingseenheid, zoals aangewezen door het advertentienetwerk. Het varieert van 1 (laag) tot 10 (perfect). Voor één enkel sleutelwoord en gelijke typecombinatie, is deze waarde de huidige score voor die combinatie. Wanneer in meerdere campagnes dezelfde combinatie van trefwoorden en typen wordt gebruikt, is deze waarde de maximale huidige score voor alle campagnes.<br><br> de advertentienetwerken gebruiken de kwaliteitsscore om biedprijzen en advertentiepunten te bepalen. Het wordt berekend volgens vele factoren, met inbegrip van de relevantie van het sleutelwoord aan zijn bijbehorende advertentie en aan de het onderzoeksvraag van de gebruiker en de kwaliteit van de het landen pagina. Voor trefwoorden in [!DNL Google Ads] wordt ook rekening gehouden met de doorklikfrequentie van het trefwoord. Voor trefwoorden in [!DNL Microsoft Advertising] wordt ook rekening gehouden met de gebruikerservaring die door de openingspagina wordt geboden. |
 | [!UICONTROL Delivered Match Type] | ([!UICONTROL MSA Ad Extension] rapporten) Het gelijke type het advertentienetwerk dat wordt gebruikt om de advertentie te leveren. |
@@ -96,14 +103,16 @@ ht-degree: 0%
 | [!UICONTROL EF Portfolio Group ID] | De numerieke id voor de portfoliogroep waartoe het portfolio behoort. |
 | [!UICONTROL EF Search Engine ID] | De numerieke id die Search, Social en Commerce toewijst aan het advertentienetwerk: <i>[!UICONTROL 3]</i> for [!DNL Google Ads], <i>[!UICONTROL 10]</i> for [!DNL Microsoft Advertising], <i>[!UICONTROL 45]</i> for [!DNL Meta], <i>[!UICONTROL 86]</i> for [!DNL Yahoo! Display Network], <i>[!UICONTROL 87]</i> for [!DNL Naver], <i>[!UICONTROL 88]</i> for [!DNL Baidu], <i>[!UICONTROL 90]</i> for [!DNL Yandex], <i>[!UICONTROL 94]</i> for [!DNL Yahoo! Japan Ads], <i>[!UICONTROL 105]</i> for [!DNL Yahoo Native] (afgekeurd) of <i>[!UICONTROL 106]</i> for [!DNL Pinterest] (afgekeurd). |
 | [!UICONTROL End Date] | De laatste dag die is gemeld. |
-| [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] rapporten) de [&#x200B; vertoningsnaam van de uitbreiding &#x200B;](https://help.ads.microsoft.com/#apex/ads/en/51001). |
+| [!UICONTROL Extension Property Value] | ([!UICONTROL MSA Ad Extension] rapporten) de [ vertoningsnaam van de uitbreiding ](https://help.ads.microsoft.com/#apex/ads/en/51001). |
 | [!UICONTROL Extension Type ID] | ([!UICONTROL MSA Ad Extension] reports) ID voor het type van de advertentie uitbreiding. |
 | [!UICONTROL Final URLs] | ([!UICONTROL Google Asset Group Performance Report]) Een lijst van definitieve URLs na alle dwars-domeinomleiding. De URL&#39;s kunnen worden uitgebreid als de uitbreiding van de URL is ingeschakeld voor de campagne. |
 | [!UICONTROL Final Mobile URLs] | ([!UICONTROL Google Asset Group Performance Report]) Een lijst van definitieve URLs voor mobiele apparaten na alle dwars-domeinomleiding. De URL&#39;s kunnen worden uitgebreid als de uitbreiding van de URL is ingeschakeld voor de campagne. |
 | [!UICONTROL Goal] | ([!UICONTROL MSA Ad ExtensionReport] rapporten, [!UICONTROL MSA Network Performance Report]) De naam van het omzettingsdoel. |
 | [!UICONTROL Goal Type] | ([!UICONTROL MSA Ad Extension] rapporten, [!UICONTROL MSA Network Performance Report]) Het type conversiedoel. |
-| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) Het aantal online omzettingen die door [&#x200B; worden gevolgd  [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
+| [!UICONTROL Google Conversions] | ([!UICONTROL AdWords Conversion Report]) Het aantal online omzettingen die door [ worden gevolgd  [!DNL Google Ads Conversion Optimizer]](/help/search-social-commerce/campaign-management/introduction/google-conversion-data.md). |
 | [!UICONTROL Google Converted Clicks] | ([!UICONTROL AdWords Conversion Report]; afgekeurd in 2016) Het aantal klikken dat in één of meerdere omzettingen resulteerde. |
+| [!UICONTROL Headline 1] | ([!UICONTROL Google AI Max Search Term Combination Report]) De eerste kop voor de advertentie. |
+| [!UICONTROL Headline 2] | ([!UICONTROL Google AI Max Search Term Combination Report]) De tweede kop voor de advertentie. |
 | [!UICONTROL Impr. (Abs. Top) %] | ([!DNL Google Ads] slechts; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) het percentage van uw advertenties die als eerste en boven de organische onderzoeksresultaten werden getoond. |
 | [!UICONTROL Impr. (Top) %] | ([!DNL Google Ads] slechts; [!UICONTROL AdWords and Bing Audience Target Report], [!UICONTROL Campaign Daily Impression Share Report], en [!UICONTROL Keyword Daily Impression Share Report]) het percentage van uw advertenties die boven de organische onderzoeksresultaten worden getoond. |
 | [!UICONTROL Impression Lost To Budget Percent] | Het geschatte percentage van de tijd dat uw advertenties niet werden weergegeven omdat uw dagelijkse of maandelijkse budget te laag was. |
@@ -116,6 +125,7 @@ ht-degree: 0%
 | [!UICONTROL Keyword Extension Number] | ([!UICONTROL MSA Ad Extension by Keyword Report]) The version attribute for the add extension. |
 | [!UICONTROL Keyword Extension Type] | ([!UICONTROL MSA Ad Extension by Keyword Report]) Het extensietype advertentie. |
 | [!UICONTROL Keyword Status] | De status van het trefwoord waaraan de zoekterm is gekoppeld: *[!UICONTROL Active]*, *[!UICONTROL Paused]*, [!UICONTROL Deleted]*of[!UICONTROL Disapproved]* . |
+| [!UICONTROL Landing Page] | ([!UICONTROL Google AI Max Search Term Combination Report]) De openingspagina voor de advertentie. |
 | [!UICONTROL Language] | ([!UICONTROL Campaign Daily Impression Share Report]) De doeltaal. |
 | [!UICONTROL Language and Region] | ([!UICONTROL Bing Ads Geo Report]) De doeltaal en -markt voor de advertentiegroep (zoals Engels-UK). |
 | [!UICONTROL Location] | ([!UICONTROL Campaign Daily Impression Share Report]) De doelpubliekslocatie. |
@@ -138,7 +148,7 @@ ht-degree: 0%
 | [!UICONTROL Portfolio Spend Strategy] | (Portfolio-rapport) De uitgavenstrategie voor het portfolio: *[!UICONTROL Daily]*, *[!UICONTROL Weekly]*, *[!UICONTROL Monthly]*, *[!UICONTROL ROI]*, *[!UICONTROL Day of week]*, *[!UICONTROL Day of month]*, *[!UICONTROL CPT]*, *[!UICONTROL Marginal CPT]*, *[!UICONTROL Google Target CPA]* of *[!UICONTROL Google Target ROAS]* . |
 | [!UICONTROL Portfolio Status] | De status van het portfolio:<ul><li>*[!UICONTROL Optimize]*: De optimalisatiecapaciteit is het verzamelen van klik- en inkomstengegevens voor de relevante campagnes, het modelleren van de gegevens die voor optimalisering worden gebruikt, en het optimaliseren van biedingen, campagnebudgetten, en campagnedoelstellingen voor de biedingsstrategie (afhankelijk van het optimalisatietype en de biedingsstrategieën).</li><li>*[!UICONTROL Active]*: De optimalisatiefunctie verzamelt klik- en inkomstengegevens voor de relevante campagnes en modelleert de gegevens, maar optimaliseert geen biedingen of campagnebudgetten.</li><li>*[!UICONTROL Inactive]*: De optimalisatiefunctie verzamelt klikgegevens voor de relevante campagnes voor rapportagedoeleinden, maar ze modelleert de gegevens niet en optimaliseert biedingen of campagnebudgetten niet.</li></ul> |
 | [!UICONTROL Primary Status] | ([!UICONTROL Google Asset Group Performance Report]) waarom de activagroep bij volledige capaciteit al dan niet dienst doet. Hierbij wordt rekening gehouden met de status van de activagroep en met andere signalen, zoals beleids- en kwaliteitsgoedkeuringen. De waarden kunnen *IN AANMERKING KOMEND,* *BEPERKT,* *NIET_ELIGIBLE,* *BEHANDELD,* *PENDING,* *VERWIJDERD,* *ONBEKEND,* of *ONBEKEND omvatten.* |
-| [!UICONTROL Primary Status Reason] | ([!UICONTROL Google Asset Group Performance Report]) Aanvullende details over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*&rbrace; |
+| [!UICONTROL Primary Status Reason] | ([!UICONTROL Google Asset Group Performance Report]) Aanvullende details over de primaire status van de elementgroep. De waarden kunnen *ASSET_GROUP_DISAPPED,* *ASSET_GROUP_LIMITED,* *ASSET_GROUP_PAUSED,* *ASSET_GROUP_REMOVED,* *ASSET_GROUP_UNDER_REVIEW,* *CAMPAUW omvatten N_ENDED,* *CAMPAIGN_PAUSED,* *CAMPAIGN_PENDING,* *CAMPAIGN_REMOVED,* *ONBEKEND,* of *NIET GESPECIFICEERD.*} |
 | [!UICONTROL Product ID] | ([!UICONTROL AdWords Shopping Performance Report]) De product-id van het product dat met de advertentie wordt weergegeven. <b> Nota:</b> identiteitskaart wordt gevangen slechts wanneer de productlijst de volgende parameter `ev_plx=<GMC product ID>` omvat, die u binnen [!DNL Google Merchant Center] moet toevoegen. |
 | [!UICONTROL Product Type] ([!UICONTROL 1st level] - [!UICONTROL 5th level]) | ([!UICONTROL AdWords Shopping Performance Report]) het eerste niveau door producttypes op het vijfde niveau (uw zelf-bepaalde attributen voor de productgroep). |
 | [!UICONTROL Query Match Type] | (AdWords het Rapport van de Vraag van het Onderzoek) het sleutelwoordgelijke type voor de onderzoeksvraag. |
@@ -167,7 +177,7 @@ ht-degree: 0%
 | [!UICONTROL Search lost IS (rank)] | ([!DNL Google Ads] only; [!UICONTROL Keyword Daily Impression Share Report]) Het percentage van tijd dat uw advertenties niet werden getoond wegens een slechte advertentie rang. Percentages boven 90% worden aangegeven als &quot;`>90%`&quot; of &quot;`0.9001`&quot;. |
 | [!UICONTROL Search lost top IS (budget)] | ([!DNL Google Ads] en [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] en [!UICONTROL Keyword Daily Impression Share Report]) Het percentage van de tijd dat uw advertenties niet werden weergegeven boven de resultaten van de organische zoekopdracht omdat uw dagelijkse of maandelijkse budget te laag was. Voor [!DNL Google Ads] campagnes, worden de percentages meer dan 90% vermeld als &quot; `>90%`&quot; of &quot;`0.9001`&quot;. |
 | [!UICONTROL Search lost top IS (rank)] | ([!DNL Google Ads] en [!DNL Microsoft Advertising]; [!UICONTROL Campaign Daily Impression Share Report] en [!UICONTROL [!UICONTROL Keyword Daily Impression Share Report]]) Het tijdpercentage dat uw advertenties niet boven de organische zoekresultaten werden weergegeven vanwege een slechte advertentie-rang. Voor [!DNL Google Ads] campagnes, worden de percentages meer dan 90% vermeld als &quot; `>90%`&quot; of &quot;`0.9001`&quot;. |
-| [!UICONTROL Search Term] | (AdWords het Rapport van de Vraag van het Onderzoek van de Vraag en het Rapport van de Vraag van de Vraag van Bing Advertentie) Een termijn van het gebruikersonderzoek waarvan klikken voortvloeiden. |
+| [!UICONTROL Search Term] | ([!UICONTROL AdWords Search Query Report], [!UICONTROL Bing Ads Search Query Report], en [!UICONTROL Google AI Max Search Term Combination Report]) Een zoekterm voor gebruikers waarvan de klik afkomstig is. |
 | [!UICONTROL Start Date] | De eerste dag die werd gerapporteerd. |
 | [!UICONTROL Status] | ([!UICONTROL Google Asset Group Performance Report]) De status van de elementgroep. |
 | [!UICONTROL Store ID] | De id van het advertentienetwerk die voor de winkelcentrum. |
@@ -182,10 +192,12 @@ ht-degree: 0%
 | [!UICONTROL Top vs. Other] | ([!UICONTROL MSA Ad Extension] rapporten) De positie van uw advertentie op de pagina met zoekresultaten. |
 | [!UICONTROL Total Clicks] | ([!UICONTROL MSA Ad Extension] rapporten) Het aantal klikken toen het advertentie-element in het advertentiekopie aanwezig was, of het al dan niet werd geklikt. |
 | [!UICONTROL User SE Account ID] | De numerieke id die door Search, Social &amp; Commerce wordt toegewezen aan het advertentienetwerk. |
+| [!UICONTROL Value Per All Conversions] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van alle omzettingen die door het aantal alle omzettingen worden gedeeld. |
+| [!UICONTROL Value Per Conversion] | ([!UICONTROL Google AI Max Search Term Combination Report]) De waarde van omzettingen gedeeld door het aantal omzettingen. Het omvat slechts omzettingen van omzettingsacties waarvoor &quot;omvat in omzettingen&quot;wordt toegelaten. |
 | [!UICONTROL ViewThroughConversions] | ([!UICONTROL Bing Ads Geo Report]; advertenties op het publieksnetwerk) het aantal omzettingen die uit één of meerdere beelden resulteerden maar geen kliks. |
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer specialiteitrapporten &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
->* [&#x200B; produceer een speciaal rapport &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
->* [&#x200B; het rapportmontages van de Specialiteit &#x200B;](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)
+>* [ Ongeveer specialiteitrapporten ](/help/search-social-commerce/reports/management/specialty/specialty-report-about.md)
+>* [ produceer een speciaal rapport ](/help/search-social-commerce/reports/management/specialty/specialty-report-generate.md)
+>* [ het rapportmontages van de Specialiteit ](/help/search-social-commerce/reports/management/specialty/specialty-report-settings.md)

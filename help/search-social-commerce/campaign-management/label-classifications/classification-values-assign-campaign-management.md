@@ -3,9 +3,9 @@ title: Classificatiewaarden toewijzen aan accountcomponenten vanuit campagnebehe
 description: Leer hoe u classificatiewaarden toewijst aan accountcomponenten.
 exl-id: 5a3cb059-9cff-4a2e-b8aa-be8626774377
 feature: Search Label Classifications
-source-git-commit: d0f1c413134a0868ddec79ded7672af316267edd
+source-git-commit: d68107b04762ea149dd74fb30ab7ea9d8850915f
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '764'
 ht-degree: 0%
 
 ---
@@ -20,21 +20,55 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 >[!NOTE]
 >
->Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [&#x200B; niet-veranderbaar &#x200B;](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
+>Uw sleutelwoorden en advertentiekopie voor sommige advertentienetwerken en campagneretypes zijn [ niet-veranderbaar ](/help/search-social-commerce/campaign-management/faqs-campaigns.md), zo betekent het dat het uitgeven van hen de bestaande entiteit schrapt en tot nieuwe leidt. Wanneer een bestaande entiteit op deze manier wordt geschrapt, wordt de etiketclassificatie niet toegewezen aan de nieuwe entiteit.
+
+## (Nieuwe interface) Classificatiewaarden toewijzen aan accountcomponenten
+
+U kunt classificatiewaarden toewijzen aan alle toepasselijke accountcomponenten die beschikbaar zijn in de nieuwe interface.
+
+1. Open de entiteitmening van het **[!UICONTROL Manage]** of **[!UICONTROL Target]** menu.
+
+1. Schakel het selectievakje naast elke relevante rij in.
+
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+
+1. Klik op de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL Label Classification]** .
+
+1. Voer voor elke toepasselijke indelingswaarde de volgende handelingen uit:
+
+   1. Geef in de kolom **[!UICONTROL Classifications]** de classificatie op:
+
+      * Als u een bestaande classificatie wilt gebruiken, klikt u op de classificatienaam om deze uit te vouwen.
+
+      * Als u een classificatie wilt maken, klikt u op [!UICONTROL +] in de kolomkop. Op het inputgebied, ga de classificatienaam in, en klik dan ![ sparen ](/help/search-social-commerce/assets/save-checkmark.png " ") om de classificatie onmiddellijk te bewaren. Als u de nieuwe classificatie wilt gebruiken, klikt u op de classificatienaam om deze uit te vouwen.
+
+        De naam moet uit [ karakters 32-126 van ASCII ](https://www.asciitable.com/) bestaan, en de maximumlengte is 27 single-byte karakters.
+
+   1. Geef in de kolom **[!UICONTROL Value Name]** de waarde voor de geselecteerde classificatie op:
+
+      * Als u een bestaande waarde wilt gebruiken, selecteert u de waarde.
+
+      * Als u een waarde wilt maken, klikt u op [!UICONTROL +] in de kolomkop. Op het inputgebied, ga de waarde in, en klik dan ![ sparen ](/help/search-social-commerce/assets/save-checkmark.png " ") om de waarde onmiddellijk te bewaren en het door gebrek te selecteren.
+
+        De maximumlengte is 100 tekens en kan ASCII- en niet-ASCII-tekens bevatten.
+
+1. Klik op **+[!UICONTROL Assign Now]** .
+
+## (Verouderde UI) Classificatiewaarden toewijzen aan accountcomponenten
 
 1. Klik op **[!UICONTROL Search, Social, & Commerce]> [!UICONTROL Campaigns] >[!UICONTROL Campaigns]** en selecteer vervolgens de weergave van de accountcomponent.
 
 1. Voer een van de volgende handelingen uit:
 
-   * (Om waarden aan één enkele entiteit toe te wijzen) Houd de curseur over de entiteitsnaam, klik ![&#128279;](/help/search-social-commerce/assets/arrow-dropdown-menu.png " knoop van het Menu "), en selecteer dan **[!UICONTROL Classification]**.
+   * (Om waarden aan één enkele entiteit toe te wijzen) Houd de curseur over de entiteitsnaam, klik ![ knoop van het Menu ](/help/search-social-commerce/assets/arrow-dropdown-menu.png ", en selecteer dan ").**[!UICONTROL Classification]**
 
    * (Ga als volgt te werk om waarden toe te wijzen aan een of meer entiteiten:
 
       * Schakel het selectievakje naast elke relevante rij in.
 
-        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+        Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
-      * In de toolbar boven de gegevenslijst, klik ![&#x200B; Meer &#x200B;](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
+      * In de toolbar boven de gegevenslijst, klik ![ Meer ](/help/search-social-commerce/assets/more.png " "), en klik dan **[!UICONTROL Classification]**.
 
 1. Voer in het [!UICONTROL Assignment Details] een van de volgende handelingen uit:
 
@@ -58,21 +92,21 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
       * Als u een bestaande classificatie wilt gebruiken, klikt u op de classificatienaam om deze uit te vouwen.
 
-      * Klik op [!UICONTROL +] om een classificatie te maken. Op het inputgebied, ga de classificatienaam in, en klik dan ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/select.png " ") om de classificatie onmiddellijk te bewaren.
+      * Klik op [!UICONTROL +] om een classificatie te maken. Op het inputgebied, ga de classificatienaam in, en klik dan ![ sparen ](/help/search-social-commerce/assets/select.png " ") om de classificatie onmiddellijk te bewaren.
 
-        De naam moet uit [&#x200B; karakters 32-126 van ASCII &#x200B;](https://www.asciitable.com/) bestaan, en de maximumlengte is 27 single-byte karakters.
+        De naam moet uit [ karakters 32-126 van ASCII ](https://www.asciitable.com/) bestaan, en de maximumlengte is 27 single-byte karakters.
 
    1. Geef in de kolom **[!UICONTROL Value Name]** de naam van de waarde op:
 
       * Als u een bestaande waarde wilt gebruiken, klikt u op de naam van de waarde om deze te selecteren.
 
-      * Klik op [!UICONTROL +] om een waarde te maken. Op het inputgebied, ga de waarde in, en klik dan ![&#x200B; sparen &#x200B;](/help/search-social-commerce/assets/select.png " ") om de waarde onmiddellijk te bewaren.
+      * Klik op [!UICONTROL +] om een waarde te maken. Op het inputgebied, ga de waarde in, en klik dan ![ sparen ](/help/search-social-commerce/assets/select.png " ") om de waarde onmiddellijk te bewaren.
 
         De maximumlengte is 100 tekens en kan ASCII- en niet-ASCII-tekens bevatten.
 
 1. (Optioneel) Voer aanvullende gegevens in:
 
-   1. Naast **[!UICONTROL Additional Details]**, klik ![&#x200B; Open &#x200B;](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
+   1. Naast **[!UICONTROL Additional Details]**, klik ![ Open ](/help/search-social-commerce/assets/chevron-up.png " ") om de details uit te breiden.
 
    1. Voer een optionele **[!UICONTROL Project Name]** en/of optionele **[!UICONTROL Description]** in.
 
@@ -80,9 +114,9 @@ De waarden van het etiket worden geërft door kindentiteiten, zodat ga geen waar
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer etiketclassificaties &#x200B;](classification-about.md)
->* [&#x200B; creeer een etiketclassificatie &#x200B;](classification-create.md)
->* [&#x200B; wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets &#x200B;](classification-values-assign-bulksheets.md)
->* [&#x200B; verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten &#x200B;](classification-values-remove.md)
->* [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](classification-values-delete.md)
->* [&#x200B; schrapt etiketclassificaties &#x200B;](classification-delete.md)
+>* [ Ongeveer etiketclassificaties ](classification-about.md)
+>* [ creeer een etiketclassificatie ](classification-create.md)
+>* [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](classification-values-assign-bulksheets.md)
+>* [ verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten ](classification-values-remove.md)
+>* [ schrapt etiketclassificatiewaarden ](classification-values-delete.md)
+>* [ schrapt etiketclassificaties ](classification-delete.md)

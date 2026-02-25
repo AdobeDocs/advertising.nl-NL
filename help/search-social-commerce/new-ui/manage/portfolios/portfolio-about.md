@@ -4,9 +4,9 @@ description: Meer informatie over portfolio's.
 feature: Search Portfolios, Search Optimization
 hide: true
 exl-id: 8d023c22-a1dd-4608-8c72-0a61f055e7e5
-source-git-commit: f7c63646b3eae20fd3413446789fe06ce583e23e
+source-git-commit: de3c527bd359e0d5285b90e54278983104a2a5b5
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '725'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ U kunt uw advertentiecampagnes collectief beheren gebruikend portefeuilles (geli
 
 Sommige gebruikersrollen kunnen portefeuilles tot stand brengen en vormen. Afhankelijk van het type portfolio kunnen de portefeuilleinstellingen de portefeuilledoelstelling, de toegewezen campagnes, de uitgavenstrategie, eventuele inschrijvingsbeperkingen op portefeuilleniveau en de parameters voor modellering en optimalisatie omvatten. Als u klaar bent voor Zoeken, Sociale Zaken en Commerce om te beginnen met optimaliseren voor een portfolio, wijzigt u de status in &quot;geoptimaliseerd&quot;.
 
-U kunt portefeuilles naar keuze groeperen in [&#x200B; portefeuillegroepen &#x200B;](portfolio-group-manage.md) zodat u samengestelde gegevens voor de volledige groep kunt bekijken.
+U kunt portefeuilles naar keuze groeperen in [ portefeuillegroepen ](portfolio-group-manage.md) zodat u samengestelde gegevens voor de volledige groep kunt bekijken.
 
 Afhankelijk van uw rol, kunt u prestatiessimulaties kunnen produceren, die voorspellende modellering gebruiken om uw optimaal uitgavenpunt en gedetailleerde voorspelde nauwkeurigheidsrapporten te identificeren.<!-- Mention this now? In addition, all users can use the Spend Recommendation Tool to identify the optimal budget distribution across portfolios. -->
 
@@ -54,7 +54,9 @@ Een portfolio kan de volgende statussen hebben:
 
 ## De weergave [!UICONTROL Portfolios]
 
-In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weergegeven met aanpasbare prestatiegegevens. U kunt [&#x200B; de kolommen binnen de mening &#x200B;](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) en filtergegevens aanpassen om specifieke portefeuilles [&#x200B; van de toolbar &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of van de [&#x200B; kolomrubriek &#x200B;](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) te omvatten.
+In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weergegeven met aanpasbare prestatiegegevens. U kunt [ de kolommen binnen de mening ](/help/search-social-commerce/common-tasks/data-views/custom-default-views-manage.md) en filtergegevens aanpassen om specifieke portefeuilles [ van de toolbar ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-toolbar.md) of van de [ kolomrubriek ](/help/search-social-commerce/common-tasks/data-views/ad-hoc-settings/column-filter-apply-from-column-heading.md) te omvatten.
+
+Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie metriek in totaal over alle portefeuilles in de mening voor de gespecificeerde datumwaaier.
 
 <!-- No options yet to edit anything within the grid, view bid changes, add a portfolio to a portfolio group, edit the Target column, or import/export DOW targets. -->
 
@@ -78,13 +80,15 @@ In de weergave [!UICONTROL Portfolios] worden uw bestaande portfolio&#39;s weerg
 
 * [Portefeuilleinstellingen voor bulkbewerking met behulp van bladbestanden](portfolio-bulksheets.md)
 
+* [Een prestatiegrafiek weergeven voor alle portfolio&#39;s in de weergave](portfolio-view-performance-graph.md)
+
 * [Gegevens over portfolioprestaties weergeven](portfolio-details.md)
 
-* [&#x200B; gegevens van de Download in de [!UICONTROL Portfolios] mening &#x200B;](portfolio-view-report.md)
+* [ gegevens van de Download in de [!UICONTROL Portfolios] mening ](portfolio-view-report.md)
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een portefeuille &#x200B;](portfolio-create.md)
->* [&#x200B; Dupliceer een portefeuille &#x200B;](portfolio-duplicate.md)
->* [&#x200B; geef een portefeuille &#x200B;](portfolio-edit.md) uit
->* [&#x200B; beheert de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening &#x200B;](portfolio-view-report.md)
+>* [ creeer een portefeuille ](portfolio-create.md)
+>* [ Dupliceer een portefeuille ](portfolio-duplicate.md)
+>* [ geef een portefeuille ](portfolio-edit.md) uit
+>* [ beheert de rapporten van de gegevensmening van de [!UICONTROL Portfolios] mening ](portfolio-view-report.md)
