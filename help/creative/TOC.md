@@ -3,7 +3,7 @@ role: User
 user-guide-title: Handleiding Advertising Creative
 user-guide-description: Leer meer over de belangrijkste functies, taken, instellingen en andere bronnen die nodig zijn om Advertising Creative te gebruiken.
 breadcrumb-title: Handleiding voor Creative
-source-git-commit: 39f77087769eda3cc200447aeb0a6d1648e23b42
+source-git-commit: 0f1355be9eab674970207afb03c56d2857ea24ae
 workflow-type: tm+mt
 source-wordcount: '378'
 ht-degree: 5%
@@ -18,8 +18,8 @@ ht-degree: 5%
    + [Informatie over Adobe Advertising Creative](/help/creative/introduction/creative-about.md)
    + [Uw gegevensweergaven aanpassen](/help/creative/introduction/customize-data-views.md)
    + [Workflows voor dynamische advertenties](/help/creative/introduction/workflow-dynamic-ads.md)
-   + [&#x200B; Steun voor de Privacy van de Consumenten](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Beleid en Richtlijnen](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
+   + [ Steun voor de Privacy van de Consumenten ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en Richtlijnen ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
 + Creative-bibliotheken {#creative-libraries}
    + [Over uw creatieve bibliotheken](/help/creative/creative-libraries/creative-libraries-about.md)
    + [Ondersteunde creatieve formaten](/help/creative/creative-libraries/creative-sizes.md)
@@ -58,8 +58,8 @@ ht-degree: 5%
             + [Een doelknooppunt of een creatief bladknooppunt verwijderen](/help/creative/experiences/experience-target-node-delete.md)
          + Creative-pakketten en -creatieven {#bundles}
             + [Creatieve bundels toewijzen aan en toewijzen aan een definitief knooppunt](/help/creative/experiences/experience-assign-creative-bundles.md)
-            + [De URL&#39;s voor het bijhouden van wijzigingen aanpassen voor Creative Cloud](/help/creative/experiences/experience-tracking-urls-targeting.md)
             + [Creatieve optimalisatie en planning aanpassen](/help/creative/experiences/experience-optimization-scheduling-targeting.md)
+            + [De URL&#39;s voor het bijhouden van wijzigingen aanpassen voor Creative Cloud](/help/creative/experiences/experience-tracking-urls-targeting.md)
    + Ervaringen zonder doelgerichtheid {#experience-nontargeted}
       + [Maak een ervaring zonder doelgericht iets te zoeken](/help/creative/experiences/experience-create-no-targeting.md)
       + [Een ervaring bewerken zonder de focus te plaatsen](/help/creative/experiences/experience-edit-no-targeting.md)
@@ -67,8 +67,8 @@ ht-degree: 5%
       + Advertentietags en creatieve producten{#non-targeted-creatives}
          + [Handmatig een advertentietag maken voor een toepasselijk creatief formaat](/help/creative/experiences/experience-tag-create-manually.md)
          + [Creatieve personen toewijzen aan een advertentietag voor ervaringen zonder zich te richten op](/help/creative/experiences/experience-tag-assign-creatives.md)
-         + [De URL&#39;s voor bijhouden aanpassen voor een ervaring zonder focus te plaatsen](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
          + [Creatieve optimalisatie en planning voor een ervaring aanpassen zonder uw doelgroep te kiezen](/help/creative/experiences/experience-optimization-scheduling-no-targeting.md)
+         + [De URL&#39;s voor bijhouden aanpassen voor een ervaring zonder focus te plaatsen](/help/creative/experiences/experience-tracking-urls-no-targeting.md)
    + [Klonen en een ervaring](/help/creative/experiences/experience-clone.md)
    + [Een voorbeeld van een ervaring bekijken](/help/creative/experiences/experience-preview.md)
    + [Transcoderingsopties voor een video aanpassen en tags beleven](/help/creative/experiences/experience-tag-video-transcoding.md)
@@ -93,4 +93,4 @@ ht-degree: 5%
 + [Pixels opnieuw rangschikken](/help/creative/pixels/retargeting-pixel-manage.md)
 + [Beschikbare macro&#39;s voor het bijhouden van URL&#39;s](/help/creative/creative-macros.md)
 + [Hulp vragen](/help/creative/get-help.md)
-+ [&#x200B; de versienota&#39;s van Adobe Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL){target="_blank"}
++ [ de versienota&#39;s van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html){target="_blank"}
