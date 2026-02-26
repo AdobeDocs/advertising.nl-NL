@@ -1,7 +1,7 @@
 ---
 title: Offline accountgegevens uploaden voor rapportage en simulaties
 description: Leer hoe te om off-line rekeningsgegevens manueel te uploaden of aan een  [!DNL Amazon] [!DNL S3] emmer voor rapportering en simulatiesteun. Logbestanden volgen de voortgang van uploadtaken.
-source-git-commit: bfa5403ff66bed73797fc4c7115b8c043856745d
+source-git-commit: 8ba0f8fa6050a3e6ec93bcf08df2c0204191fc02
 workflow-type: tm+mt
 source-wordcount: '683'
 ht-degree: 1%
@@ -56,7 +56,7 @@ See "XXX" for information about supported ad networks and account structures.
 
       1. Klik op **[!UICONTROL Save]**.
 
-&#x200B;# Accountgegevens uploaden naar een [!DNL Amazon] [!DNL S3] emmertje {#data-upload-s3}
+## Accountgegevens uploaden naar een [!DNL Amazon] [!DNL S3] emmertje {#data-upload-s3}
 
 U kunt een account vullen met inhoud en kosten voor de campagne, klikken en conversiegegevens door de gegevens te uploaden naar een door Zoeken, Sociaal en Commerce toegewezen map in een [!DNL Amazon Web Services] (AWS) [!DNL Simple Storage Service] ([!DNL S3]) emmer.
 
@@ -113,7 +113,7 @@ See "XXX" for information about supported ad networks and account structures.
 
 1. (Eenmaal per organisatie) Stel uw lokale AWS-omgeving in:
 
-   1. Download en installeer [!DNL AWS Command Line Interface] (AWS CLI), van de volgende plaats: [&#x200B; https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html &#x200B;](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
+   1. Download en installeer [!DNL AWS Command Line Interface] (AWS CLI), van de volgende plaats: [ https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html ](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html).
 
    1. Configureer uw AWS-gebruikersgegevens:
 
@@ -143,7 +143,7 @@ See "XXX" for information about supported ad networks and account structures.
 
 1. Plaats de cursor boven de accountnaam, klik op **..** en klik vervolgens op **[!UICONTROL Upload Logs]** .
 
-1. (Facultatief) om de gegevens voor een geupload dossier te downloaden, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " in de ") kolom en download het dossier volgens de normale procedure van uw browser.[!UICONTROL Download]
+1. (Facultatief) om de gegevens voor een geupload dossier te downloaden, klik ![ Download ](/help/search-social-commerce/assets/download.png " in de ") kolom en download het dossier volgens de normale procedure van uw browser.[!UICONTROL Download]
 
 ## Vereiste gegevens
 
