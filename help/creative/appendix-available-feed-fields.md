@@ -2,16 +2,17 @@
 title: Beschikbare velden voor dynamische en feed-bestanden
 description: Leer meer over de velden die u kunt opnemen in de feed-bestanden die u gebruikt om dynamische advertenties te maken.
 feature: Creative Dynamic Creatives
-source-git-commit: 67ee38860ac5cb7e9340f8e9d4667353e509b1ec
+exl-id: 9cd3fa29-d4db-4e9f-9ffd-87b44b62a3e2
+source-git-commit: 5bf0474f49160775d31dff0d434ba1e069f27959
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '391'
 ht-degree: 0%
 
 ---
 
 # Bijlage: Beschikbare velden voor dynamische en feed-bestanden
 
-De volgende feed-velden zijn beschikbaar op de Advertising Creative-achtergrond. U kunt a [&#x200B; voederdossier &#x200B;](/help/creative/feeds/asset-manage.md) uploaden dat uw organisatie-specifieke gebiedsnamen gebruikt. Nochtans, alvorens u a [&#x200B; catalogus &#x200B;](/help/creative/feeds/catalog-manage.md) van uw voederdossier kunt tot stand brengen, moet u elk gebied in het voederdossier aan één van de volgende gebieden in het [&#x200B; voedermalplaatje &#x200B;](/help/creative/feeds/feed-template-manage.md) in kaart brengen dat u zult gebruiken om de catalogus tot stand te brengen.
+De volgende feed-velden zijn beschikbaar op de Advertising Creative-achtergrond. U kunt a [ voederdossier ](/help/creative/feeds/asset-manage.md) uploaden dat uw organisatie-specifieke gebiedsnamen gebruikt. Nochtans, alvorens u a [ catalogus ](/help/creative/feeds/catalog-manage.md) van uw voederdossier kunt tot stand brengen, moet u elk gebied in het voederdossier aan één van de volgende gebieden in het [ voedermalplaatje ](/help/creative/feeds/feed-template-manage.md) in kaart brengen dat u zult gebruiken om de catalogus tot stand te brengen.
 
 Het enige veld dat een equivalent moet hebben in het feed-bestand is `PART_NUM` .
 
@@ -39,14 +40,37 @@ TRUE FOR CSV AND TSV? character encoding on text format files should be UTF-8 --
 
 | Veldnaam | Gegevenstype | Vereist? |
 |------------|-----------|-----------|
-| PART_NUM | varchar(64) | JA |
-| PRODUCT_NAME | text | NEE |
-| PRODUCT_URL | text | NEE |
-| PRIJS | decimaal (10,2) | NEE |
+| AD_SIZE | varchar(32) | NEE |
+| ADDITIONAL_PRICE_1 | decimaal (10,2) | NEE |
+| ADDITIONAL_PRICE_2 | decimaal (10,2) | NEE |
+| ADDITIONAL_PRICE_3 | decimaal (10,2) | NEE |
+| AREA_CODE | text | NEE |
+| AUDIENCE_SEGMENT | text | NEE |
+| AUDIO_1 | varchar(1024) | NEE |
+| AUDIO_2 | varchar(1024) | NEE |
+| AUDIO_3 | varchar(1024) | NEE |
+| AUDIO_4 | varchar(1024) | NEE |
+| AUDIO_5 | varchar(1024) | NEE |
+| STAD | text | NEE |
+| LAND | text | NEE |
+| CREATIVE_ATTRIBUTE_1 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_2 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_3 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_4 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_5 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_6 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_7 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_8 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_9 | varchar(256) | NEE |
+| CREATIVE_ATTRIBUTE_10 | varchar(256) | NEE |
+| DATAPASS_FILTER_1 | text | NEE |
+| DATAPASS_FILTER_2 | text | NEE |
+| DATAPASS_FILTER_3 | text | NEE |
+| DATAPASS_FILTER_4 | text | NEE |
+| DATAPASS_FILTER_5 | text | NEE |
 | DISCOUNT_PRICE | decimaal (10,2) | NEE |
+| DMA | text | NEE |
 | AFBEELDING | varchar(1024) | NEE |
-| IMAGE_HEIGHT | int | NEE |
-| IMAGE_WIDTH | int | NEE |
 | IMAGE_1 | varchar(1024) | NEE |
 | IMAGE_2 | varchar(1024) | NEE |
 | IMAGE_3 | varchar(1024) | NEE |
@@ -57,6 +81,21 @@ TRUE FOR CSV AND TSV? character encoding on text format files should be UTF-8 --
 | IMAGE_8 | varchar(1024) | NEE |
 | IMAGE_9 | varchar(1024) | NEE |
 | IMAGE_10 | varchar(1024) | NEE |
+| IMAGE_HEIGHT | int | NEE |
+| IMAGE_WIDTH | int | NEE |
+| IS_DEFAULT | enum | NEE |
+| TAAL | text | NEE |
+| PART_NUM | varchar(64) | JA |
+| PRIJS | decimaal (10,2) | NEE |
+| PRODUCT_NAME | text | NEE |
+| PRODUCT_URL | text | NEE |
+| PROFILE_FILTER_1 | text | NEE |
+| PROFILE_FILTER_2 | text | NEE |
+| PROFILE_FILTER_3 | text | NEE |
+| PROFILE_FILTER_4 | text | NEE |
+| PROFILE_FILTER_5 | text | NEE |
+| RANK | int | NEE |
+| STAAT | text | NEE |
 | TEXT_1 | text | NEE |
 | TEXT_2 | text | NEE |
 | TEXT_3 | text | NEE |
@@ -72,43 +111,16 @@ TRUE FOR CSV AND TSV? character encoding on text format files should be UTF-8 --
 | TEXT_13 | text | NEE |
 | TEXT_14 | text | NEE |
 | TEXT_15 | text | NEE |
-| ADDITIONAL_PRICE_1 | decimaal (10,2) | NEE |
-| ADDITIONAL_PRICE_2 | decimaal (10,2) | NEE |
-| ADDITIONAL_PRICE_3 | decimaal (10,2) | NEE |
-| AD_SIZE | varchar(32) | NEE |
-| RANK | int | NEE |
-| LAND | text | NEE |
-| STAAT | text | NEE |
-| STAD | text | NEE |
+| VIDEO_1 | varchar(1024) | NEE |
+| VIDEO_2 | varchar(1024) | NEE |
+| VIDEO_3 | varchar(1024) | NEE |
+| VIDEO_4 | varchar(1024) | NEE |
+| VIDEO_5 | varchar(1024) | NEE |
 | ZIP | text | NEE |
-| DMA | text | NEE |
-| PROFILE_FILTER_1 | text | NEE |
-| PROFILE_FILTER_2 | text | NEE |
-| PROFILE_FILTER_3 | text | NEE |
-| PROFILE_FILTER_4 | text | NEE |
-| PROFILE_FILTER_5 | text | NEE |
-| DATAPASS_FILTER_1 | text | NEE |
-| DATAPASS_FILTER_2 | text | NEE |
-| DATAPASS_FILTER_3 | text | NEE |
-| DATAPASS_FILTER_4 | text | NEE |
-| DATAPASS_FILTER_5 | text | NEE |
-| AUDIENCE_SEGMENT | text | NEE |
-| TAAL | text | NEE |
-| CREATIVE_ATTRIBUTE_1 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_2 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_3 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_4 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_5 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_6 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_7 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_8 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_9 | varchar(256) | NEE |
-| CREATIVE_ATTRIBUTE_10 | varchar(256) | NEE |
-| IS_DEFAULT | enum | NEE |
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
->* [&#x200B; beheert activa dossiers &#x200B;](/help/creative/feeds/asset-manage.md)
->* [&#x200B; beheer voedermalplaatjes &#x200B;](/help/creative/feeds/feed-template-manage.md)
->* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
+>* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
+>* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
