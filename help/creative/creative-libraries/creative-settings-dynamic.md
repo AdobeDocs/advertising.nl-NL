@@ -3,9 +3,9 @@ title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
 exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
-source-git-commit: 4e809ac18720f22f636b2df2ad4a5b1db355e729
+source-git-commit: 164ee92f85c0e649dc2bd6c0224a531eb72d1962
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
@@ -28,8 +28,6 @@ ht-degree: 0%
 
 **[!UICONTROL Library]:** De creatieve bibliotheek waarin om de advertenties tot stand te brengen. Als u de advertenties maakt vanuit [!UICONTROL Creatives] > [!UICONTROL Creative Libraries] , is de bibliotheeknaam al geselecteerd en is deze alleen-lezen.
 
-**[!UICONTROL Ad Template Size]:** (Dynamische vertoningsadvertenties slechts) de [&#x200B; en afmetingen &#x200B;](/help/creative/creative-libraries/creative-sizes.md) voor het advertentiemalplaatje waarvan om de advertentie tot stand te brengen. Als u eerst een specifieke [!UICONTROL Ad Template] selecteert, wordt deze waarde automatisch geselecteerd.
-
 ## Advertentiesjabloon
 
 **[!UICONTROL Ad Template]:** De advertentiesjabloon waaruit de advertenties moeten worden gemaakt. Selecteer een bestaand advertentiemalplaatje, of upload een nieuw advertentiemalplaatje en selecteer het malplaatjetype (*Statisch* of *Dynamisch*). De sjabloon moet de ZIP-indeling hebben en het volgende bevatten:<!-- Need to add more specs for templates -->
@@ -40,13 +38,13 @@ ht-degree: 0%
 
 Klik op **[!UICONTROL Select Ad Template]** om door te gaan.
 
+**[!UICONTROL Size]:** (Dynamische vertoningsadvertenties slechts; read-only) [ en afmetingen ](/help/creative/creative-libraries/creative-sizes.md) voor het geselecteerde advertentiemalplaatje, dat wordt gebruikt om tot de advertenties te leiden.
+
 **[!UICONTROL Card Count (Max 50)]:** (Alleen advertenties weergeven) Het aantal producten dat in een carrousel moet worden weergegeven.
 
 **[!UICONTROL Duration]:** (Alleen videolagen; alleen-lezen) De videoduur die is afgeleid van de geselecteerde advertentiesjabloon. De duur van elke video moet tussen 1 en 90 seconden liggen.
 
 ## Catalogi
-
-**[!UICONTROL Template]:** De voedermalplaatje aan gebruik om de advertenties tot stand te brengen.
 
 **\ [Catalogi\]**: Één of meerdere catalogi waarvan om advertenties te produceren. Selecteer een bestaande catalogus of maak een nieuwe catalogus door een bestaande voedersjabloon te downloaden en de nieuwe catalogus te maken en te uploaden. Klik op **[!UICONTROL Select Catalog]**.
 
@@ -68,6 +66,6 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
->* [&#x200B; geef dynamische creatieve creatieve bibliotheek &#x200B;](creative-edit-dynamic.md) uit
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
+>* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
