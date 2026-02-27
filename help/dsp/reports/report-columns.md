@@ -3,9 +3,9 @@ title: Beschikbare rapportkolommen
 description: Zie beschrijvingen van beschikbare kolommen in douanerapporten.
 feature: DSP Custom Reports
 exl-id: 6dc30603-8a45-4188-aca6-591f3422b74a
-source-git-commit: bd85b4451624e14c95157c84537fdfb53662773f
+source-git-commit: c318c29e78f33c665380e5e5ac0b58a653f8987a
 workflow-type: tm+mt
-source-wordcount: '2724'
+source-wordcount: '2933'
 ht-degree: 0%
 
 ---
@@ -34,8 +34,8 @@ ht-degree: 0%
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Title] | De titel van de inhoud/film. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Series] | De inhoudsreeks. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Genre] | Het genre van de inhoud. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [&#x200B; wordt bepaald laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
-| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [&#x200B; laboratorium van de Technologie IAB &#x200B;](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL ProdQ] | De productiekwaliteit, zoals die door het [ wordt bepaald laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md). Waarden kunnen `Unknown`, `Professionally Produced`, `Prosumer` of `User Generated` zijn. |
+| [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Context] | Het type van inhoud, zoals die door het [ laboratorium van de Technologie IAB ](https://github.com/InteractiveAdvertisingBureau/AdCOM/blob/main/AdCOM%20v1.0%20FINAL.md) wordt bepaald. Waarden kunnen `Video,` `Game` , `Music` , `Application` , `Text` , `Other` of `Unknown` zijn. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Rating] | De classificatie van de inhoud, zoals PG of R. |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Livestream] | Geeft aan of de advertentie in een live stream verscheen: `Not Live` of `Live` . |
 | [!UICONTROL Dimension] | [!UICONTROL Content] | [!UICONTROL Content Length (in seconds)] | De lengte van de inhoud in seconden. Wordt meestal gebruikt voor video of audio. |
@@ -194,6 +194,19 @@ ht-degree: 0%
 | [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Non-Billable Net Spend] | De som van [!UICONTROL Non-billable Spend (Media)], [!UICONTROL Non-billable Spend (Data)] en [!UICONTROL Non-billable Spend (Other)] . |
 | [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Other eCPM] | De gemiddelde nettokosten per 1000 afdrukken voor andere kosten, berekend door <code>[!UICONTROL Net Spend (Other)] / [!UICONTROL Impressions] x 1000</code>. |
 | [!UICONTROL Metrics] | [!UICONTROL Spend] | [!UICONTROL Total Other Spend] | De totale nettokosten van andere servicekosten (controlepartners van derden, diensten, enzovoort). |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Clicks] | Het totaal klikt. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL CTR] | Het percentage klikken gedeeld door indrukken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Engagements] | Het aantal interacties op een betekende advertentie. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Engagement Rate] | Het percentage interacties op een server en gedeeld door indrukken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Impressions] | De totale indrukken. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Media Match Rate] | Het aandeel van de indrukken (of gebeurtenissen) waarvoor de creatieve projecten zijn afgestemd op de beoogde media/inventaris of het beoogde publiek. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product Clicks] | De totale kliks die aan een specifiek product worden toegeschreven. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product Conversions] | De totale omzettingen die aan een specifiek product worden toegeschreven. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product Conversion Rate] | [!UICONTROL Product Conversions] gedeeld door [!UICONTROL Product Impressions] die aan een specifiek product wordt toegewezen. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product CTR] | [!UICONTROL Product Clicks] gedeeld door [!UICONTROL Product Impressions] die aan een specifiek product wordt toegewezen. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product Impressions] | De totale indrukkingen die aan een specifiek product worden toegeschreven. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Product Revenue] | De totale opbrengsten die aan een specifiek product worden toegerekend. Gebruik deze optie wanneer uw creatieve producten meerdere producten tonen (bijvoorbeeld in een carrouseladvertentie) en u per product rapporteert. |
+| [!UICONTROL Metrics] | [!UICONTROL Standard] | [!UICONTROL Revenue] | De totale inkomsten. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completion Rate] | Het percentage weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Completions] | Het aantal weergaven dat de advertentie in zijn geheel heeft bekeken. |
 | [!UICONTROL Metrics] | [!UICONTROL Standard Metrics] | [!UICONTROL 100% Viewable Completion (%)] | Het percentage zichtbare indrukken dat de advertentie in zijn geheel heeft bekeken. |
@@ -250,7 +263,7 @@ ht-degree: 0%
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewability Rate (%)] | Het percentage zichtbare indrukken van alle meetbare indrukken, berekend als <code>[!UICONTROL Viewable Impressions] / [!UICONTROL Measurable Impressions]</code>. |
 | [!UICONTROL Metrics] | [!UICONTROL Viewability] | [!UICONTROL Viewable Impressions] | Het aantal en de indrukken die als viewable worden beschouwd. |
 | [!UICONTROL Conversion Metrics] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifieke omzetting ] | Het totaal voor een opgegeven, voor adverteerders specifieke conversie-metrische of Adobe Analytics-gebeurtenis. |
-| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [&#x200B; douanedoel &#x200B;](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
+| [!UICONTROL Custom Goals] | [ Gegroepeerd door adverteerder in rapportmontages ] | [ Advertiser-specifiek douanedoel ] | De gewogen som van alle omzettingen die in het gespecificeerde [ douanedoel ](/help/dsp/optimization/custom-goal.md) inbegrepen zijn. |
 
 {style="table-layout:auto"}
 
@@ -258,8 +271,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
->* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
+>* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
