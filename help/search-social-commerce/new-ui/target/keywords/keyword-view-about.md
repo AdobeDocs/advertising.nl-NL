@@ -26,4 +26,4 @@ De weergave [!UICONTROL Manage] > [!UICONTROL Keywords] bevat twee tabbladen:
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor sleutelwoorden ](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+>* [&#x200B; beheert beperkingstaken voor sleutelwoorden &#x200B;](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
