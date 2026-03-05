@@ -1,17 +1,16 @@
 ---
-title: Beperkingstoewijzingen voor advertentiegroepen beheren
-description: Leer hoe u beperkingen aan advertentiegroepen toewijst.
+title: Beperkingstoewijzingen voor advertenties beheren
+description: Leer hoe u beperkingen aan advertenties kunt toewijzen.
 feature: Search Optimization, Search Campaign Management
 hide: true
-exl-id: c9960b5a-4b6c-4ef0-8501-5478af2c40da
 source-git-commit: 8cf0817adc26709a3ad662207a522ac4cf833a92
 workflow-type: tm+mt
-source-wordcount: '369'
+source-wordcount: '435'
 ht-degree: 0%
 
 ---
 
-# (Nieuwe interface) Beperkingstoewijzingen voor ad-groepen beheren
+# (Nieuwe interface) Beperkingstoewijzingen voor advertenties beheren
 
 *eigenschap van Beta*
 
@@ -21,11 +20,18 @@ Restricties worden overgeërfd door onderliggende entiteiten, zodat u geen beper
 
 Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountcomponenten en alle onderliggende componenten verwijderd en zijn de rapportgegevens voor de beperking niet meer beschikbaar voor die componenten. Als u de toewijzing van een beperking opheft, worden de beperking en de accountcomponenten zelf niet verwijderd.
 
-## Een beperking toewijzen aan geselecteerde advertentiegroepen vanuit de nieuwe [!UICONTROL Ad Groups] weergave
+>[!NOTE]
+>
+>* Als u later een trefwoord of de advertentiekopie voor een advertentie bewerkt — waarbij een nieuw trefwoord of een nieuwe advertentie wordt gemaakt — wordt de beperking niet toegewezen aan de nieuwe entiteit.
+>* Actieve beperkingen beperken alleen biedingen voor toegewezen biedingseenheden in geoptimaliseerde oudere portfolio&#39;s op trefwoordniveau. Ze worden genegeerd voor biedingseenheden in actieve portefeuilles, in hybride portefeuilles of niet in portfolio&#39;s.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Ad Groups]** .
+## Beperking toewijzen aan geselecteerde advertenties vanuit de nieuwe [!UICONTROL Ads] -weergave
 
-1. Schakel het selectievakje in naast elke advertentiegroep waaraan u één beperking wilt toewijzen.
+U kunt één beperking toewijzen aan een of meer campagnes.
+
+1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Ads]** .
+
+1. Schakel het selectievakje naast elke advertentie in waaraan u één beperking wilt toewijzen.
 
 1. Klik op de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
@@ -53,11 +59,11 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 
 1. Klik op **[!UICONTROL Save]**.
 
-## Toewijzing van beperkingen uit geselecteerde advertentiegroepen ongedaan maken vanuit de nieuwe [!UICONTROL Ad Groups] weergave
+## Toewijzing van restricties uit geselecteerde campagnes ongedaan maken vanuit de nieuwe [!UICONTROL Ads] weergave
 
-1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Ad Groups]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Manage]>[!UICONTROL Ads]** .
 
-1. Schakel het selectievakje in naast elke advertentiegroep waarvan u de toewijzing van beperkingen ongedaan maakt.
+1. Schakel het selectievakje naast elke advertentie in waarvan u de toewijzing van beperkingen ongedaan maakt.
 
 1. Klik op de werkbalk voor bulkacties op **-[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
@@ -82,4 +88,4 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 >[!MORELIKETHIS]
 >
 >* [ beheert beperkingstaken voor campagnes ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
->* [ beheert beperkingstaken voor advertenties ](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+>* [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)

@@ -4,9 +4,9 @@ description: Leer wat u kunt doen in de [!UICONTROL Ad Groups] weergave.
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 10922ae6-b2b5-4498-bc6a-424f3249e16a
-source-git-commit: de3c527bd359e0d5285b90e54278983104a2a5b5
+source-git-commit: 8cf0817adc26709a3ad662207a522ac4cf833a92
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '85'
 ht-degree: 0%
 
 ---
@@ -15,13 +15,18 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-In de weergave [!UICONTROL Manage] > [!UICONTROL Ad Groups] worden alle advertentiegroepen in uw account weergegeven.
-
-Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie metriek in totaal over alle ad groepen in de mening voor de gespecificeerde datumwaaier.
+In de weergave [!UICONTROL Manage] > [!UICONTROL Ad Groups] worden alle advertentiegroepen in de gefilterde weergave voor het geselecteerde advertentieaccount weergegeven.
 
 ## Beschikbare acties
 
-* [Een prestatiesgrafiek weergeven voor alle advertentiegroepen in de weergave](ad-group-view-performance-graph.md)
+<!-- Not available as of 3/4/26:
+
+* [View a performance graph across all ad groups in the view](ad-group-view-performance-graph.md)
+-->
+
+* Wijzig de naam van een advertentiegroep vanuit de rij.
+
+* Verwijder of wijzig de status van een advertentiegroep vanuit de rij.
 
 * [Beperkingen toewijzen aan ad-groepen en beperkingen van ad-groepen opheffen](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
 
@@ -29,5 +34,5 @@ Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie met
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](ad-group-constraint-assignments-manage.md)
->* [&#x200B; gegevens van de Download van de [!UICONTROL Ad Groups] mening &#x200B;](ad-group-view-report.md)
+>* [ beheert beperkingstaken voor ad groepen ](ad-group-constraint-assignments-manage.md)
+>* [ gegevens van de Download van de [!UICONTROL Ad Groups] mening ](ad-group-view-report.md)

@@ -4,9 +4,9 @@ description: Leer wat u kunt doen in de [!UICONTROL Campaigns] weergave.
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 7d261ac3-5d89-4357-9866-19a7e3aab837
-source-git-commit: de3c527bd359e0d5285b90e54278983104a2a5b5
+source-git-commit: 8cf0817adc26709a3ad662207a522ac4cf833a92
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '121'
 ht-degree: 0%
 
 ---
@@ -15,15 +15,20 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagnes in uw account weergegeven. U kunt een lijst met advertentiegroepen openen in de campagne door op de naam van de campagne te klikken.
-
-Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie metriek in totaal over alle campagnes in de mening voor de gespecificeerde datumwaaier.
+In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagnes in de gefilterde weergave voor het geselecteerde adverteerderaccount weergegeven. U kunt een lijst met advertentiegroepen openen in de campagne door op de naam van de campagne te klikken.
 
 ## Beschikbare acties
 
-* [Een prestatiesgrafiek weergeven voor alle campagnes in de weergave](campaign-view-performance-graph.md)
+<!-- Not available as of 3/4/26:
 
-* [&#x200B; wijst campagnes aan bestaande of nieuwe portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [&#x200B; unassign campagnes van portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+* [View a performance graph across all campaigns in the view](campaign-view-performance-graph.md)
+-->
+
+* Wijzig de naam van een campagne vanuit de rij.
+
+* Verwijder of wijzig de status van een campagne vanuit de rij.
+
+* [ wijst campagnes aan bestaande of nieuwe portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [ unassign campagnes van portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
 * [Beperkingen aan campagnes toewijzen en beperkingen van campagnes ongedaan maken](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
@@ -31,7 +36,7 @@ Boven de gegevenstabel kunt u een prestatiesgrafiek openen met maximaal drie met
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
->* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
->* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](campaign-constraint-assignments-manage.md)
->* [&#x200B; gegevens van de Download van de [!UICONTROL Campaigns] mening &#x200B;](campaign-view-report.md)
+>* [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+>* [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+>* [ beheert beperkingstaken voor campagnes ](campaign-constraint-assignments-manage.md)
+>* [ gegevens van de Download van de [!UICONTROL Campaigns] mening ](campaign-view-report.md)
