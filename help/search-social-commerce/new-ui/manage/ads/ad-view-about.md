@@ -22,4 +22,4 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Ads] worden alle advertenties w
 
 >[!MORELIKETHIS]
 >
->* [ beheert beperkingstaken voor advertenties ](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
+>* [&#x200B; beheert beperkingstaken voor advertenties &#x200B;](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
