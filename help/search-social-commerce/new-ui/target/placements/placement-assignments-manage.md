@@ -1,6 +1,6 @@
 ---
-title: Restrictietoewijzingen voor trefwoorden beheren
-description: Leer hoe u beperkingen aan trefwoorden toewijst.
+title: Beperkingstoewijzingen voor plaatsing beheren
+description: Leer hoe u beperkingen aan plaatsingen toewijst.
 feature: Search Optimization, Search Campaign Management
 hide: true
 source-git-commit: 0e863a638d8f3d055fd566db65d7967126fd5f89
@@ -10,7 +10,7 @@ ht-degree: 0%
 
 ---
 
-# (Nieuwe interface) Beperkingstoewijzingen voor trefwoorden beheren
+# (Nieuwe interface) Beperkingstoewijzingen voor plaatsingen beheren
 
 *eigenschap van Beta*
 
@@ -25,13 +25,13 @@ Als u de toewijzing van een beperking opheft, wordt de koppeling met de accountc
 >* Als u later een trefwoord of de advertentiekopie voor een advertentie bewerkt — waarbij een nieuw trefwoord of een nieuwe advertentie wordt gemaakt — wordt de beperking niet toegewezen aan de nieuwe entiteit.
 >* Actieve beperkingen beperken alleen biedingen voor toegewezen biedingseenheden in geoptimaliseerde oudere portfolio&#39;s op trefwoordniveau. Ze worden genegeerd voor biedingseenheden in actieve portefeuilles, in hybride portefeuilles of niet in portfolio&#39;s.
 
-## Beperking toewijzen aan geselecteerde advertenties vanuit de nieuwe [!UICONTROL Keywords] -weergave
+## Een beperking toewijzen aan geselecteerde plaatsen vanuit de nieuwe [!UICONTROL Placements] weergave
 
-U kunt één beperking toewijzen aan een of meer campagnes.
+U kunt één beperking toewijzen aan een of meer plaatsen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Target]>[!UICONTROL Keywords]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Target]>[!UICONTROL Placements]** .
 
-1. Schakel op het tabblad **[!UICONTROL Keywords]** het selectievakje in naast elk trefwoord waaraan u één beperking wilt toewijzen.
+1. Schakel op het tabblad **[!UICONTROL Placements]** het selectievakje in naast elke plaatsing waaraan u één beperking wilt toewijzen.
 
 1. Klik op de werkbalk voor bulkacties op **+[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
@@ -59,11 +59,11 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 1. Klik op **[!UICONTROL Save]**.
 
-## Toewijzing van restricties uit geselecteerde campagnes ongedaan maken vanuit de nieuwe [!UICONTROL Keywords] weergave
+## Toewijzing van beperkingen van geselecteerde locaties vanuit de nieuwe [!UICONTROL Placements] -weergave ongedaan maken
 
-1. Klik in het hoofdmenu op **[!UICONTROL Target]>[!UICONTROL Keywords]** .
+1. Klik in het hoofdmenu op **[!UICONTROL Target]>[!UICONTROL Placements]** .
 
-1. Schakel op het tabblad **[!UICONTROL Keywords]** het selectievakje in naast elk trefwoord waarvan u de toewijzing van beperkingen ongedaan maakt.
+1. Schakel op het tabblad **[!UICONTROL Placements]** het selectievakje in naast elke plaatsing waarvan u de toewijzing van beperkingen ongedaan maakt.
 
 1. Klik op de werkbalk voor bulkacties op **-[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
@@ -90,4 +90,4 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 >* [ beheert beperkingstaken voor campagnes ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 >* [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
 >* [ beheert beperkingstaken voor advertenties ](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
->* [ beheert beperkingstaken voor plaatsen ](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
+>* [ beheert beperkingstaken voor sleutelwoorden ](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
