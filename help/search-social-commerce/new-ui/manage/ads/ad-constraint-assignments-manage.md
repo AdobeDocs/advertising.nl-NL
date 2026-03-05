@@ -4,9 +4,9 @@ description: Leer hoe u beperkingen aan advertenties kunt toewijzen.
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 9755abb2-a62f-4292-a6b4-314b49de3edd
-source-git-commit: aed5f6db36b1aab4d7b4f7d40812a361f0363440
+source-git-commit: 8be53fad67732e5091ec6b578a30dfb5a1b5af36
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: '445'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 1. Schakel het selectievakje naast elke relevante rij in.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Assign]** > **[!UICONTROL Constraint]** .
 
@@ -80,7 +80,7 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 1. Schakel het selectievakje in naast de componenten waaruit u de restrictie wilt verwijderen.
 
-   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[&#x200B; Uitgezochte veelvoudige rijen &#x200B;](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
+   Voor uiteinden bij het selecteren van veelvoudige rijen, zie &quot;[ Uitgezochte veelvoudige rijen ](/help/search-social-commerce/common-tasks/navigation-editing-selection/multiple-rows-select.md).&quot;
 
 1. Klik in de werkbalk boven de datatabel op **[!UICONTROL More]** en klik vervolgens op **[!UICONTROL Unassign]** > **[!UICONTROL Constraint]** .
 
@@ -88,6 +88,7 @@ U kunt één beperking toewijzen aan een of meer campagnes.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
->* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
->[&#x200B; beheert beperkingstaken voor sleutelwoorden &#x200B;](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+>* [ beheert beperkingstaken voor campagnes ](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
+>* [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
+>* [ beheert beperkingstaken voor sleutelwoorden ](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+>* [ beheert beperkingstaken voor plaatsen ](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
