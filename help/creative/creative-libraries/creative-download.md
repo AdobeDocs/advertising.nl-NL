@@ -34,6 +34,6 @@ Download alle geselecteerde creatieve items naar een bestand in ZIP-indeling vol
 
 >[!MORELIKETHIS]
 >
->* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
->* [ Voorproef creatieve ](creative-preview.md)
->* [ Mening het veranderingslogboek voor creatief ](/help/creative/creative-libraries/creative-view-change-log.md)
+>* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
+>* [&#x200B; Voorproef creatieve &#x200B;](creative-preview.md)
+>* [&#x200B; Mening het veranderingslogboek voor creatief &#x200B;](/help/creative/creative-libraries/creative-view-change-log.md)
