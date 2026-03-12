@@ -3,9 +3,9 @@ title: Standaardcreatieven bewerken in een creatieve bibliotheek
 description: Leer hoe u de instellingen van standaard (niet-dynamische) creatieve creatieven in een creatieve bibliotheek wijzigt.
 feature: Creative Standard Creatives
 exl-id: 333ab2ea-293a-44e2-89e7-06782578318f
-source-git-commit: cfa8af948774daf3da56d835d739573f4782ac4b
+source-git-commit: 84ef17f304fbd9eda82682368dfd59727971281d
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '414'
 ht-degree: 0%
 
 ---
@@ -20,13 +20,13 @@ Wanneer u creatieve <!-- or creative variation --> uitgeeft die in een bundel in
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 
 1. Selecteer op het tabblad **[!UICONTROL Creatives]** > **[!UICONTROL Standard Ads]** de creatieve elementen:
 
-   * (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke creatieven te omvatten.
+   * (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke creatieven te omvatten.
 
    * Een enkele creatieve bewerking bewerken:
 
@@ -38,7 +38,7 @@ Wanneer u creatieve <!-- or creative variation --> uitgeeft die in een bundel in
 
      Als u alle rijen wilt selecteren, schakelt u het selectievakje Algemeen linksboven in.
 
-1. Bewerk de [&#x200B; beeld creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image), [&#x200B; HTML5 creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5), [&#x200B; flexibele HTML5 creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5), of [&#x200B; derde creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party). <!-- , or [dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md) -->
+1. Bewerk de [ beeld creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-image), [ HTML5 creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-html5), [ flexibele HTML5 creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-flexible-html5), of [ derde creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party). <!-- , or [dynamic creative settings](/help/creative/creative-libraries/creative-settings-dynamic.md) -->
 
    Wanneer u meerdere creatieve objecten tegelijk bewerkt:
 
@@ -50,7 +50,7 @@ Wanneer u creatieve <!-- or creative variation --> uitgeeft die in een bundel in
    >
    >* (Alleen Flexibele HTML5-creatieve producten) U kunt kenmerken alleen bewerken voor afzonderlijke creatieven.
 
-1. (Flexibele HTML5 creatieve; facultatief) Zodra u uw veranderingen hebt aangebracht, klik ![&#x200B; Voorproef &#x200B;](/help/creative/assets/preview.png " boven het beeld om nieuw creatief voor te vertonen.")
+1. (Flexibele HTML5 creatieve; facultatief) Zodra u uw veranderingen hebt aangebracht, klik ![ Voorproef ](/help/creative/assets/preview.png " boven het beeld om nieuw creatief voor te vertonen.")
 
 1. Klik **sparen**.
 
@@ -60,6 +60,7 @@ Wanneer u creatieve <!-- or creative variation --> uitgeeft die in een bundel in
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
->* [&#x200B; Standaard creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md)
->* [&#x200B; Voorproef creatieve &#x200B;](/help/creative/creative-libraries/creative-preview.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
+>* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md)
+>* [ Voorproef creatieve ](/help/creative/creative-libraries/creative-preview.md)
+>* [ Mening het veranderingslogboek voor creatief ](/help/creative/creative-libraries/creative-view-change-log.md)

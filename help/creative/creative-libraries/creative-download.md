@@ -3,9 +3,9 @@ title: Creatieve klanten downloaden
 description: Leer hoe u een creatief bestand als ZIP-bestand downloadt.
 feature: Creative Standard Creatives
 exl-id: 6507d472-be25-4f20-a32e-ad73250d78d4
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: 84ef17f304fbd9eda82682368dfd59727971281d
 workflow-type: tm+mt
-source-wordcount: '123'
+source-wordcount: '130'
 ht-degree: 0%
 
 ---
@@ -34,5 +34,6 @@ Download alle geselecteerde creatieve items naar een bestand in ZIP-indeling vol
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
->* [&#x200B; Voorproef creatieve &#x200B;](creative-preview.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
+>* [ Voorproef creatieve ](creative-preview.md)
+>* [ Mening het veranderingslogboek voor creatief ](/help/creative/creative-libraries/creative-view-change-log.md)
