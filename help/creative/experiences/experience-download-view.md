@@ -3,9 +3,9 @@ title: Gegevens downloaden uit de weergave [!UICONTROL Experiences]
 description: Leer hoe u metagegevens exporteert vanuit de [!UICONTROL Experiences] -weergave.
 feature: Creative Experiences
 exl-id: 8362ac34-0de8-4bed-873d-dc20f39946bf
-source-git-commit: 9c7f3d2aec0952b38d2fd3097d0b3499d33bf3b8
+source-git-commit: 2cf156702b44fe01d217f0f3ca4893a5af64e95f
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '153'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,12 @@ Elke rij in het bestand bevat details over een ervaring, zoals: de ervaringsnaam
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
-1. In de hogere juiste toolbar, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
+1. In de hogere juiste toolbar, klik ![ Download ](/help/creative/assets/download.png " ").
 
    Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
 >[!MORELIKETHIS]
->* [&#x200B; Ongeveer ervaringen in Advertising Creative &#x200B;](/help/creative/experiences/experience-about.md)
+>* [ Ongeveer ervaringen in Advertising Creative ](/help/creative/experiences/experience-about.md)
+>* [ Mening het veranderingslogboek voor een ervaring ](/help/creative/experiences/experience-view-change-log.md)
