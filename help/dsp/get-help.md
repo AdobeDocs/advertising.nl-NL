@@ -16,7 +16,7 @@ U kunt een query voor AI-assistentie verzenden in alle [!DNL DSP] - en (advertee
 
 ## Zoeken naar informatie met behulp van een AI-interface voor chatten
 
-Zie &quot;[ Onderzoek naar productdocumentatie gebruikend een AI-Geassisteerde interface van de praatje ](/help/dsp/agent-chat.md).&quot;
+Zie &quot;[&#x200B; Onderzoek naar productdocumentatie gebruikend een AI-Geassisteerde interface van de praatje &#x200B;](/help/dsp/agent-chat.md).&quot;
 
 ## Een volledige gebruikershandleiding openen
 
@@ -32,7 +32,7 @@ Look for answers to your questions in the [Adobe Advertising community forums](h
 
 Ga als volgt te werk voor problemen met producten of accounts:
 
-* (Adverteerders met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [ https://experienceleague.adobe.com/home#support ](https://experienceleague.adobe.com/home?support-tab=home#support).
+* (Adverteerders met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home#support &#x200B;](https://experienceleague.adobe.com/home?support-tab=home#support).
 
   Selecteer &quot;[!UICONTROL Advertising - DSP]&quot; voor het product.
 
