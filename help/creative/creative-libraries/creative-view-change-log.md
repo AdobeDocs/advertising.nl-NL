@@ -13,7 +13,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Creative Libraries]** .
 
-1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
+1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke bibliotheken te omvatten.
 
 1. Klik op de naam van de bibliotheek.
 

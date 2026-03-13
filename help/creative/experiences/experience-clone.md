@@ -26,6 +26,6 @@ Maak een ervaring door een bestaande ervaring te klonen. De nieuwe ervaring heef
 
 >[!MORELIKETHIS]
 >
->* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
->* [ creeer een ervaring zonder beslissingsboom richtend ](experience-create-no-targeting.md)
->* [ Mening het veranderingslogboek voor een ervaring ](/help/creative/experiences/experience-view-change-log.md)
+>* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
+>* [&#x200B; creeer een ervaring zonder beslissingsboom richtend &#x200B;](experience-create-no-targeting.md)
+>* [&#x200B; Mening het veranderingslogboek voor een ervaring &#x200B;](/help/creative/experiences/experience-view-change-log.md)
