@@ -27,14 +27,14 @@ Als u een volledige gebruikershandleiding wilt openen waarin wordt uitgelegd hoe
 <!--
 ## Ask the Adobe Advertising community
 
-Look for answers to your questions in the [Adobe Advertising community forums](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising/ct-p/adobe-advertising-cloud-community).
+Look for answers to your questions in the [Adobe Advertising community forums](https://experienceleaguecommunities.adobe.com/t5/adobe-advertising/ct-p/adobe-advertising-cloud-community?profile.language=nl).
 -->
 
 ## Contact [!DNL Adobe]
 
 Ga als volgt te werk voor problemen met producten of accounts:
 
-* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home#support &#x200B;](https://experienceleague.adobe.com/home?support-tab=home#support).
+* (Advertisers met zelfbedieningscontracten) Open een kaartje voor uw organisatie in [&#x200B; https://experienceleague.adobe.com/home?lang=nl-NL#support &#x200B;](https://experienceleague.adobe.com/home?lang=nl-NL&support-tab=home#support).
 
   Selecteer &quot;[!UICONTROL Advertising - Creative]&quot; voor het product.
 
