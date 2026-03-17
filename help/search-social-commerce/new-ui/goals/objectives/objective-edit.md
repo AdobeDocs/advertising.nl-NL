@@ -4,9 +4,9 @@ description: Leer hoe u een doelstelling kunt bewerken.
 feature: Search Objectives, Search Optimization
 hide: true
 exl-id: b2363781-d767-4a4a-9137-17834088721e
-source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
+source-git-commit: 67bbcbd318144022adfac7688c7bd2e0fee588d5
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, geeft de klik ![&#x200B; &#x200B;](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
+1. Schakel het selectievakje naast het doel in. In de toolbar boven de gegevenslijst, geeft de klik ![ ](/help/search-social-commerce/assets/edit.png " uit ") **[!UICONTROL Edit]**.
 
 1. Wijzig een van de objectieve instellingen.
 
@@ -31,8 +31,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
->* [&#x200B; creeer een doel &#x200B;](objective-create.md)
->* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
->* [&#x200B; pas gewichtaanbevelingen op een doelstelling toe &#x200B;](objective-apply-weight-recommendations.md)
->* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)
+>* [ Ongeveer doelstellingen ](objective-about.md)
+>* [ creeer een doel ](objective-create.md)
+>* [ Schrap een doelstelling ](objective-delete.md)
+>* [ pas gewichtaanbevelingen op een doelstelling toe ](objective-apply-weight-recommendations.md)
+>* [ Objectieve montages ](objective-settings.md)
+>* [ de prestatiegegevens van de Download voor doelstellingen ](objective-download-performance-data.md)

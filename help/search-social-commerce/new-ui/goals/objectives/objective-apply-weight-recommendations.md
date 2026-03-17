@@ -4,9 +4,9 @@ description: Leer waar u informatie kunt vinden over het toepassen van aanbevole
 feature: Search Objectives, Search Optimization
 hide: true
 exl-id: 70a231e5-cedb-4a02-8ee9-13549460c034
-source-git-commit: df5d34c7d86174107278e0cd4f5a99329a21ca61
+source-git-commit: 67bbcbd318144022adfac7688c7bd2e0fee588d5
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '64'
 ht-degree: 0%
 
 ---
@@ -19,8 +19,9 @@ Raadpleeg de Help in de gebruikersinterface of in de Optimization Guide (Engelst
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
->* [&#x200B; creeer een doel &#x200B;](objective-create.md)
->* [&#x200B; geef een doelstelling &#x200B;](objective-edit.md) uit
->* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
->* [&#x200B; Objectieve montages &#x200B;](objective-settings.md)
+>* [ Ongeveer doelstellingen ](objective-about.md)
+>* [ creeer een doel ](objective-create.md)
+>* [ geef een doelstelling ](objective-edit.md) uit
+>* [ Schrap een doelstelling ](objective-delete.md)
+>* [ Objectieve montages ](objective-settings.md)
+>* [ de prestatiegegevens van de Download voor doelstellingen ](objective-download-performance-data.md)
