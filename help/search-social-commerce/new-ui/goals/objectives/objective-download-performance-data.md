@@ -28,7 +28,7 @@ U kunt het aantal bijbehorende portefeuilles downloaden, waarde klikken, kosten 
 
    * Als u gegevens voor alle doelstellingen wilt downloaden, hoeft u geen selectievakjes in te schakelen. Alle doelstellingen worden standaard opgenomen.
 
-1. In de toolbar boven de gegevenslijst, klik ![ Rapport van de Download ](/help/search-social-commerce/assets/download.png " Download ").
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Rapport van de Download &#x200B;](/help/search-social-commerce/assets/download.png " Download ").
 
 1. Voer in de instellingen van [!UICONTROL Grid Reports] een unieke rapportnaam in en klik op **[!UICONTROL Generate]** .
 
@@ -36,7 +36,7 @@ U kunt het aantal bijbehorende portefeuilles downloaden, waarde klikken, kosten 
 
    Het bestand wordt toegevoegd aan de lijst [!UICONTROL Recently Generated] .
 
-1. (Facultatief) om het dossier te downloaden zodra het wordt voltooid, klik ![ Download ](/help/search-social-commerce/assets/download.png " naast het dossier - naam.")
+1. (Facultatief) om het dossier te downloaden zodra het wordt voltooid, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " naast het dossier - naam.")
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -44,9 +44,9 @@ U kunt het aantal bijbehorende portefeuilles downloaden, waarde klikken, kosten 
 
 Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. In de toolbar boven de gegevenslijst, klik ![ Rapport van de Download ](/help/search-social-commerce/assets/download.png " Download ").
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Rapport van de Download &#x200B;](/help/search-social-commerce/assets/download.png " Download ").
 
-1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") naast de dossier - naam.
+1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") naast de dossier - naam.
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -54,12 +54,12 @@ Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
 1. Klik in het hoofdmenu op **[!UICONTROL Goals]>[!UICONTROL Objectives]** .
 
-1. In de toolbar boven de gegevenslijst, klik ![ Download ](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
+1. In de toolbar boven de gegevenslijst, klik ![&#x200B; Download &#x200B;](/help/search-social-commerce/assets/download.png " ") **[!UICONTROL Report]**.
 
-1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![ Schrapping ](/help/search-social-commerce/assets/delete-new.png " ") naast het dossier - naam.
+1. In de [!UICONTROL Recently Generated] lijst in de [!UICONTROL Grid Reports] dialoog, klik ![&#x200B; Schrapping &#x200B;](/help/search-social-commerce/assets/delete-new.png " ") naast het dossier - naam.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer doelstellingen ](objective-about.md)
->* [ creeer een doel ](objective-create.md)
->* [ Schrap een doelstelling ](objective-delete.md)
+>* [&#x200B; Ongeveer doelstellingen &#x200B;](objective-about.md)
+>* [&#x200B; creeer een doel &#x200B;](objective-create.md)
+>* [&#x200B; Schrap een doelstelling &#x200B;](objective-delete.md)
