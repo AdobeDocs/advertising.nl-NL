@@ -60,13 +60,13 @@ Deze pagina bevat informatie over alle accounttypen, zoals hoe u de campagnestru
 
    1. Conversie bijhouden instellen. Afhankelijk van de implementatie kan dit het toevoegen van codes voor het bijhouden van conversies aan de webpagina&#39;s van de adverteerder en/of het instellen van een dagelijkse feed-drop voor conversiegegevens die de adverteerder afzonderlijk heeft verzameld.
 
-      Als u de de conversie volgende dienst van Adobe Advertising gebruikt, kunt u conversie volgende markeringen [&#x200B; binnen Onderzoek, Sociaal, &amp; Commerce produceren of &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md) markeringen van Adobe Experience Platform [&#x200B; gebruiken (vroeger genoemd als Adobe Experience Platform Launch).](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html)
+      Als u de de conversie volgende dienst van Adobe Advertising gebruikt, kunt u conversie volgende markeringen [&#x200B; binnen Onderzoek, Sociaal, &amp; Commerce produceren of &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md) markeringen van Adobe Experience Platform [&#x200B; gebruiken (vroeger genoemd als Adobe Experience Platform Launch).](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/overview.html?lang=nl-NL)
 
    1. Valideer de gegevens die worden bijgehouden.
 
    Zie het hoofdstuk over &quot;Tekstspatiëring&quot; voor meer informatie over het instellen van tekstspatiëring.
 
-1. (Advertisers met Adobe Analytics) [&#x200B; integreer Adobe Advertising en Analytics &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html) zodat zij gegevens kunnen ruilen.
+1. (Advertisers met Adobe Analytics) [&#x200B; integreer Adobe Advertising en Analytics &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL) zodat zij gegevens kunnen ruilen.
 
 1. (Om Onderzoek toe te staan, sociaal, &amp; Commerce om biedingen, campagnebegrotingen, en/of de strategiedoelstellingen van de campagnebiet te optimaliseren; [&#x200B; gesteunde campagnetypes &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md) slechts) [&#x200B; wijs de campagne aan een portefeuille &#x200B;](/help/search-social-commerce/campaign-management/campaign-assign-to-portfolio.md) toe.
 

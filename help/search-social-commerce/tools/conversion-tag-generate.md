@@ -78,13 +78,13 @@ Zie &quot;[&#x200B; Veelgestelde vragen over de omzetting van Adobe Advertising 
 
 U kunt conversietracering instellen voor Zoeken, Sociaal en Commerce met tags in Adobe Experience Platform (voorheen Adobe Experience Platform Launch genoemd). De markeringen zijn beschikbaar aan klanten van Adobe Experience Cloud als inbegrepen, waarde-toevoegt eigenschap.
 
-De volgende taken zijn vereist om conversietrackingtags voor Zoeken, Sociaal en Commerce te configureren vanuit de Experience Platform-gebruikersinterface of vanuit de Experience Platform Data Collection-gebruikersinterface. Voor volledige informatie en instructies voor het vormen van markeringen, zie de Gids van de Markeringen van Experience Platform, die met het &quot;[&#x200B; overzicht van Markeringen &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home)&quot;begint en &quot;[&#x200B; gids van QuickStart &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/get-started/quick-start).&quot;
+De volgende taken zijn vereist om conversietrackingtags voor Zoeken, Sociaal en Commerce te configureren vanuit de Experience Platform-gebruikersinterface of vanuit de Experience Platform Data Collection-gebruikersinterface. Voor volledige informatie en instructies voor het vormen van markeringen, zie de Gids van de Markeringen van Experience Platform, die met het &quot;[&#x200B; overzicht van Markeringen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home)&quot;begint en &quot;[&#x200B; gids van QuickStart &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/get-started/quick-start).&quot;
 
 >[!PREREQUISITES]
 >
 >Als u de vereiste tagextensie wilt installeren, vraagt u de systeembeheerder van uw organisatie om toegang tot de functies voor gegevensverzameling in de gebruikersinterface, inclusief de machtiging `manage_properties` .
 
-1. Van [&#x200B; de Inzameling UI van Gegevens &#x200B;](https://experience.adobe.com/#/data-collection/), installeer de Uitbreiding van Adobe Advertising [&#x200B; &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/extensions/overview):
+1. Van [&#x200B; de Inzameling UI van Gegevens &#x200B;](https://experience.adobe.com/#/data-collection/), installeer de Uitbreiding van Adobe Advertising [&#x200B; &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/ui/extensions/overview):
 
    1. Van het toepasselijke bezit, open de uitbreidingscatalogus en selecteer **Adobe Advertising**.
 
@@ -132,7 +132,7 @@ De volgende taken zijn vereist om conversietrackingtags voor Zoeken, Sociaal en 
 
          **Naam van het Bezit van de Omzetting:** De naam van het omzettingsbezit (bijvoorbeeld, `form_completes`).
 
-         **Waarde:** de numerieke waarde van het omzettingsbezit (bijvoorbeeld `1` aan track form_completes), of kies een bestaand [&#x200B; gegevenselement &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/ui/data-elements).
+         **Waarde:** de numerieke waarde van het omzettingsbezit (bijvoorbeeld `1` aan track form_completes), of kies een bestaand [&#x200B; gegevenselement &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/ui/data-elements).
 
       1. Klik **houden Veranderingen**.
 
