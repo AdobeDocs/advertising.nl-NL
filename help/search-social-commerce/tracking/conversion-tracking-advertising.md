@@ -1,37 +1,39 @@
 ---
-title: Tags voor conversie naar Adobe Advertising bijhouden
-description: Meer informatie over het gebruik van conversie-trackingtags voor Adoben Advertising.
+title: Informatie over Adobe Advertising-tags voor conversie en bijhouden
+description: Meer informatie over het gebruik van de Adobe Advertising-tags voor conversie-tracking.
 exl-id: 8194d5eb-9a5d-4c4e-bb02-e578ffb84d18
 feature: Search Tracking
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 3f91cd92a364a8e9dd569bd590c59740ea1493d7
 workflow-type: tm+mt
 source-wordcount: '500'
 ht-degree: 0%
 
 ---
 
-# Tags voor conversie naar Adobe Advertising bijhouden
+# Informatie over Adobe Advertising-tags voor conversie en bijhouden
 
-Adobe Advertising houdt conversies bij die het resultaat zijn van klikken op advertenties met behulp van trackingcodes voor Adobe Advertising conversie die worden ingevoegd in de webpagina&#39;s die worden geopend wanneer een conversiegebeurtenis plaatsvindt, zoals een pagina &quot;success&quot;. De tags bevatten ingesloten informatie om de transactiegegevens samen met het cookie van de Adobe Advertising van de gebruiker naar een trackingserver te verzenden, waaruit de transactie wordt gecrediteerd naar de juiste advertentie-klik of -indruk (volgens de toewijzingsinstellingen van de converteerder).
+Adobe Advertising houdt conversies bij die het resultaat zijn van klikken op advertenties die gebruikmaken van trackingtags voor Adobe Advertising-conversie en die worden ingevoegd in de webpagina&#39;s die worden geopend wanneer een conversiegebeurtenis plaatsvindt, zoals een pagina &quot;success&quot;. De tags bevatten ingesloten informatie om de transactiegegevens samen met de Adobe Advertising-cookie van de gebruiker naar een trackingserver te verzenden, van waaruit de transactie wordt gecrediteerd naar de juiste advertentie-klik of -indruk (volgens de conversie-attributie-instellingen van de adverteerder).
+
+U kunt [ conversie-volgende markeringen ](/help/search-social-commerce/tools/conversion-tag-generate.md) binnen Onderzoek, Sociaal, &amp; Commerce produceren of markeringen in Adobe Experience Platform (vroeger genoemd als Adobe Experience Platform Launch) gebruiken.
 
 >[!NOTE]
 >
->Als de gebruiker geen geldige cookie heeft, rapporteert de Adobe Advertising de conversie niet.
+>Als de gebruiker geen geldige cookie heeft, rapporteert Adobe Advertising de conversie niet.
 
-Voor elke set conversiemetriek die u wilt bijhouden, moet u een aparte conversietag maken. Geef de tags aan de adverteerder of het bureau een lijst met webpagina&#39;s waarop u ze wilt invoegen. U kunt een van de volgende typen conversietags genereren. Zie &quot;[Een conversietag voor Adoben Advertising genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)&quot; voor instructies.
+Voor elke set conversiemetriek die u wilt bijhouden, moet u een aparte conversietag maken en implementeren. U kunt een van de volgende typen conversietags genereren.
 
 * (Aanbevolen) JavaScript-tags (versie 3 of versie 2) die niet zichtbaar zijn op de webpagina&#39;s.
 
-* HTML-afbeeldingstags om transparante afbeeldingen (pixels) van 1 pixel x 1 pixel weer te geven, die onzichtbaar zijn voor eindgebruikers, op de webpagina&#39;s. Gebruik afbeeldingstags alleen wanneer het bedrijf een beleid heeft dat is ingesteld tegen het gebruik van JavaScript-tags.
+* HTML-afbeeldingstags voor het weergeven van transparante afbeeldingen (pixels) van 1 x 1 pixel (onzichtbaar voor eindgebruikers) op webpagina&#39;s. Gebruik afbeeldingstags alleen als het bedrijf een beleid heeft tegen het gebruik van JavaScript-tags.
 
-Raadpleeg voor meer informatie over de verschillen tussen de verschillende tagtypen &quot;[Veelgestelde vragen over trackingtags voor Advertising Cloud-conversie](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
+Voor meer informatie over de verschillen tussen de markeringstypes, zie &quot;[ FAQs over de omzetting van de Wolk van de Reclame volgende markeringen ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
 
 >[!NOTE]
 >
->* Deze functie voegt geen afbeeldingstags of JavaScript-tags toe aan de webpagina&#39;s van de adverteerder. De tags moeten worden toegevoegd volgens de normale procedure van de adverteerder voor het bijwerken van webpagina&#39;s.
+>* Met deze functie worden geen afbeeldingstags of JavaScript-tags toegevoegd aan de webpagina&#39;s van de adverteerder. De tags moeten worden toegevoegd volgens de normale procedure van de adverteerder voor het bijwerken van webpagina&#39;s.
 >* Denk na over de tijd die nodig is om de tags te implementeren. Afhankelijk van het beleid van het bedrijf kan de implementatie weken of zelfs maanden duren.
 
-## Functies van de conversietags voor Adoben Advertising
+## Functies van de Adobe Advertising-tags voor conversietracering
 
 Met de pixel voor het bijhouden van conversies kan Adobe Advertising het volgende doen:
 
@@ -45,7 +47,7 @@ Met de pixel voor het bijhouden van conversies kan Adobe Advertising het volgend
 
 * Rapporteer en optimaliseer de bewerkingen op verschillende toewijzingsniveaus (zoals conversies toewijzen aan de laatste gerelateerde gebeurtenis of alle gebeurtenissen gelijkmatig afwegen).
 
-* U kunt de hulp bij klikken (zoektrefwoorden of plaatsen die hebben bijgedragen aan een conversietrechter) en kanaalassistenten (gebruikersgebeurtenissen die hebben bijgedragen aan een conversietrechter, mogelijk via meerdere marketingkanalen) zichtbaar maken.
+* U kunt hulp bieden bij klikken (zoektrefwoorden of plaatsen die hebben bijgedragen aan een conversie-funnel) en kanaalassistenten (gebruikersgebeurtenissen die hebben bijgedragen aan een conversie-funnel, mogelijk via meerdere marketingkanalen).
 
 * Geef zichtbaarheid in de geografische distributie- en verwijzingsdomeinen van uw siteverkeer en conversies zodat u uw geografische en websitegerichtheid kunt verfijnen.
 
@@ -53,10 +55,10 @@ Met de pixel voor het bijhouden van conversies kan Adobe Advertising het volgend
 
 >[!MORELIKETHIS]
 >
->* [Opties voor bijhouden van conversie](conversion-tracking-about.md)
->* [Een conversietag voor Adoben Advertising genereren](/help/search-social-commerce/tools/conversion-tag-generate.md)
->* [Indeling van JavaScript-tags voor conversie bijhouden versie 3](format-conversion-tag-jsv3.md)
->* [Indeling van JavaScript-tags voor bijhouden van conversie versie 2](format-conversion-tag-jsv2.md)
->* [Opmaak van trackingtags voor afbeeldingsconversie](format-conversion-tag-image.md)
->* [Veelgestelde vragen over tags voor conversie en bijhouden van paginaweergaven](faqs-conversion-page-view-tracking-tags.md)
->* [De JavaScript-conversietoewijzingstag Adobe Advertising](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
+>* [ het volgen van de Omzetting opties ](conversion-tracking-about.md)
+>* [ produceer en voer een de omzettingsmarkering van Adobe Advertising uit ](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [ Formaat van de conversie van JavaScript volgmerkversie 3 ](format-conversion-tag-jsv3.md)
+>* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](format-conversion-tag-jsv2.md)
+>* [ Formaat van beeldomzetting volgende markeringen ](format-conversion-tag-image.md)
+>* [ Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening ](faqs-conversion-page-view-tracking-tags.md)
+>* [ de de omzettingsafbeelding van Adobe Advertising JavaScript markering ](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
