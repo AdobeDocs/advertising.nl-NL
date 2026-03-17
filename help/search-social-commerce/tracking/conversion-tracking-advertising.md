@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Adobe Advertising houdt conversies bij die het resultaat zijn van klikken op advertenties die gebruikmaken van trackingtags voor Adobe Advertising-conversie en die worden ingevoegd in de webpagina&#39;s die worden geopend wanneer een conversiegebeurtenis plaatsvindt, zoals een pagina &quot;success&quot;. De tags bevatten ingesloten informatie om de transactiegegevens samen met de Adobe Advertising-cookie van de gebruiker naar een trackingserver te verzenden, van waaruit de transactie wordt gecrediteerd naar de juiste advertentie-klik of -indruk (volgens de conversie-attributie-instellingen van de adverteerder).
 
-U kunt [ conversie-volgende markeringen ](/help/search-social-commerce/tools/conversion-tag-generate.md) binnen Onderzoek, Sociaal, &amp; Commerce produceren of markeringen in Adobe Experience Platform (vroeger genoemd als Adobe Experience Platform Launch) gebruiken.
+U kunt [&#x200B; conversie-volgende markeringen &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md) binnen Onderzoek, Sociaal, &amp; Commerce produceren of markeringen in Adobe Experience Platform (vroeger genoemd als Adobe Experience Platform Launch) gebruiken.
 
 >[!NOTE]
 >
@@ -26,7 +26,7 @@ Voor elke set conversiemetriek die u wilt bijhouden, moet u een aparte conversie
 
 * HTML-afbeeldingstags voor het weergeven van transparante afbeeldingen (pixels) van 1 x 1 pixel (onzichtbaar voor eindgebruikers) op webpagina&#39;s. Gebruik afbeeldingstags alleen als het bedrijf een beleid heeft tegen het gebruik van JavaScript-tags.
 
-Voor meer informatie over de verschillen tussen de markeringstypes, zie &quot;[ FAQs over de omzetting van de Wolk van de Reclame volgende markeringen ](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
+Voor meer informatie over de verschillen tussen de markeringstypes, zie &quot;[&#x200B; FAQs over de omzetting van de Wolk van de Reclame volgende markeringen &#x200B;](/help/search-social-commerce/tracking/faqs-conversion-page-view-tracking-tags.md).&quot;
 
 >[!NOTE]
 >
@@ -55,10 +55,10 @@ Met de pixel voor het bijhouden van conversies kan Adobe Advertising het volgend
 
 >[!MORELIKETHIS]
 >
->* [ het volgen van de Omzetting opties ](conversion-tracking-about.md)
->* [ produceer en voer een de omzettingsmarkering van Adobe Advertising uit ](/help/search-social-commerce/tools/conversion-tag-generate.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 3 ](format-conversion-tag-jsv3.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](format-conversion-tag-jsv2.md)
->* [ Formaat van beeldomzetting volgende markeringen ](format-conversion-tag-image.md)
->* [ Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening ](faqs-conversion-page-view-tracking-tags.md)
->* [ de de omzettingsafbeelding van Adobe Advertising JavaScript markering ](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
+>* [&#x200B; het volgen van de Omzetting opties &#x200B;](conversion-tracking-about.md)
+>* [&#x200B; produceer en voer een de omzettingsmarkering van Adobe Advertising uit &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 3 &#x200B;](format-conversion-tag-jsv3.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 2 &#x200B;](format-conversion-tag-jsv2.md)
+>* [&#x200B; Formaat van beeldomzetting volgende markeringen &#x200B;](format-conversion-tag-image.md)
+>* [&#x200B; Veelgestelde vragen over omzetting en de het volgen markeringen van de paginamening &#x200B;](faqs-conversion-page-view-tracking-tags.md)
+>* [&#x200B; de de omzettingsafbeelding van Adobe Advertising JavaScript markering &#x200B;](/help/search-social-commerce/tracking/itp-conversion-mapping-tag.md)
