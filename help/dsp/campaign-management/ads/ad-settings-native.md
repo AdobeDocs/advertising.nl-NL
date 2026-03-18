@@ -1,16 +1,16 @@
 ---
-title: Instellingen voor eigen weergave
+title: Systeemeigen weergave- en instellingen
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor native weergaveadvertenties.
 feature: DSP Ads
 exl-id: 64ce1946-072d-4ca9-b3a8-348987580403
-source-git-commit: 863bf7a4d8304e42b7004742de59b9e1a09f81b7
+source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor eigen weergave
+# Systeemeigen weergave- en instellingen
 
 ## [!UICONTROL Ad Options]
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** De URL waarop de viewer landt wanneer deze op de advertentie klikt.
 
-**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [!UICONTROL Landing Page] het volgen van Advertising DSP macro&#39;s [&#x200B; opgenomen, als toepasselijk.](/help/dsp/campaign-management/macros.md)
+**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [!UICONTROL Landing Page] het volgen van Advertising DSP macro&#39;s [ opgenomen, als toepasselijk.](/help/dsp/campaign-management/macros.md)
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** De adverteerder voor de advertentie.
 
@@ -48,8 +48,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

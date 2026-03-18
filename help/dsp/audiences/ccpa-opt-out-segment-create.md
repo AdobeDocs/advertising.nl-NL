@@ -1,67 +1,67 @@
 ---
-title: Creeer en voer een CCPA uit Opt-uit-van-Verkoop segment
+title: Een CCPA-opt-out-of-sales-segment maken en implementeren
 description: Leer hoe u een segment maakt en implementeert om gebruikers-id's te traceren op basis van verzoeken van consumenten om te weigeren een product te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: e61f3c7d066a72f9a438ef292122cdf99370fd0c
 workflow-type: tm+mt
-source-wordcount: '403'
+source-wordcount: '405'
 ht-degree: 0%
 
 ---
 
-# Creeer en voer een CCPA uit Opt-uit-van-Verkoop segment
+# Een CCPA-opt-out-of-sales-segment maken en implementeren
 
 U kunt een segment tot stand brengen om gebruikers IDs van consument van uit-verkoopverzoeken op uw website te volgen, volgens de Wet van de Privacy van de consument van Californië (CCPA). De gebruikers blijven in opt-out van CCPA-segmenten voor onbepaalde tijd.
 
-Zodra de segmentpixel-tag is geïmplementeerd, begint de Adobe Advertising een pool met id&#39;s te verzamelen namens de adverteerder.
+Zodra de segmentpixel-tag is geïmplementeerd, begint Adobe Advertising namens de adverteerder een pool met id&#39;s te verzamelen.
 
 >[!NOTE]
 >
->* Voor informatie over hoe te om CCPA mee te delen - uit-van-verkoop verzoeken aan Adobe Advertising gebruikend Adobe Experience Platform Privacy Service API, zie [https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL).
->* Als u gebruikers wilt volgen die webpagina&#39;s bezoeken voor doeleinden die geen verband houden met het volgen van CCPA-opt-out-of-sale gebeurtenissen, en gebruikers die worden blootgesteld aan advertenties van desktop-, mobiele en CTV-apparaten, maakt u een [aangepast segment](/help/dsp/audiences/custom-segment-create.md).
+>* Voor informatie over hoe te om opting-uit-van-verkoop CCPA verzoeken aan Adobe Advertising mee te delen gebruikend Adobe Experience Platform Privacy Service API, zie [ https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html ](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html).
+>* Om gebruikers te volgen die webpagina&#39;s voor doeleinden bezoeken die niet met het volgen van opting-uit-van-verkoop gebeurtenissen CCPA verwant zijn, evenals gebruikers die aan advertenties van Desktop, mobiel, en apparaten CTV worden blootgesteld, creeer a [ douanesegment ](/help/dsp/audiences/custom-segment-create.md).
 
 1. Maak het segment:
 
-   1. Klik in het hoofdmenu op **Soorten publiek > Segmenten**.
+   1. In het belangrijkste menu, klik **Soorten publiek > Segmenten**.
 
-   1. Klik boven de gegevenstabel op **[!UICONTROL Create]**.
+   1. Klik boven de gegevenstabel op **[!UICONTROL Create]** .
 
-   1. Voer een unieke waarde in **[!UICONTROL Segment Name]**.
+   1. Voer een uniek **[!UICONTROL Segment Name]** in.
 
-      Aanbevolen segmentnaam: &quot;&lt;*De naam van uw adverteerder*> - CCPA niet meer in de handel&quot; (zoals &quot;Acme - CCPA niet meer in de handel&quot;)
+      Aanbevolen segmentnaam: &quot;&lt; *Uw Naam Advertiser*> - CCPA uit Verkoop&quot;(zoals &quot;Acme - CCPA uit Verkoop&quot;)
 
-   1. Voor de [!UICONTROL Segment Type], selecteert u **[!UICONTROL CCPA Opt-out of sale]**.
+   1. Selecteer [!UICONTROL Segment Type] voor **[!UICONTROL CCPA Opt-out of sale]** .
 
    1. Klik op **[!UICONTROL Save]**.
 
 1. Kopieer en implementeer een pixeltag om het segment bij te houden:
 
-   1. Terug naar **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
+   1. Ga terug naar **[!UICONTROL Audiences]** > **[!UICONTROL Segments]** .
 
-   1. Houd de cursor in de segmentrij boven het nieuwe segment en klik op **[!UICONTROL Get pixel]**.
+   1. Houd de cursor in de segmentrij boven het nieuwe segment en klik op **[!UICONTROL Get pixel]** .
 
-   1. De afbeeldingspixel kopiëren (beginnen met `<img src="https://rtd-tm.everesttech.net"`) om gebruikers-id&#39;s van bezoekers van het bureaublad en mobiele apparaten te verzamelen op een webpagina.
+   1. Kopieer de afbeeldingspixel (beginnend met `<img src="https://rtd-tm.everesttech.net"` ) om gebruikers-id&#39;s van gebruikers van het bureaublad en mobiele bezoekers te verzamelen naar een webpagina.
 
    1. Geef de tag door aan de adverteerder of de websitecontactpersoon voor implementatie met behulp van het mechanisme dat het bedrijf gebruikt om CCPA-verzoeken om niet te verkopen (zoals het gebruik van een platform voor beheer van toestemming) bij te houden.
 
       De IT-afdeling of andere groep van de adverteerder moet mogelijk de implementatie van de tag plannen of hierover worden geïnformeerd.
 
-      Zodra de pixel wordt uitgevoerd, begint de Adobe Advertising een pool van IDs namens de adverteerder te verzamelen.
+      Nadat de pixel is geïmplementeerd, begint Adobe Advertising namens de adverteerder een pool met id&#39;s te verzamelen.
 
       Hoewel de keuze en logica van de implementatie bij de adverteerder liggen, ziet u hier een voorbeeld van hoe een adverteerder de pixel kan afvuren:
 
       1. Een consument landt op de homepage van de adverteerder.
       1. De consument zoekt en klikt op de knop CCPA-optie om de adverteerder te weigeren.
       1. De consument krijgt een lijst van dienstverleners te zien waarmee de adverteerder werkt.
-      1. De consument schakelt het selectievakje uit om gegevens niet aan de Adobe Advertising te verkopen.
+      1. De consument schakelt het selectievakje uit om gegevens niet aan Adobe Advertising te verkopen.
 
-         Deze actie activeert de pixel om in brand te steken en de koekjesidentiteitskaart van de consument binnen gespecificeerde te verzamelen &quot;[!UICONTROL CCPA Opt-out of sale]&quot; segment.
+         Deze actie brengt de pixel aan brand en om koekjesidentiteitskaart van de consument binnen het gespecificeerde &quot;[!UICONTROL CCPA Opt-out of sale]&quot;segment te verzamelen.
 
 >[!MORELIKETHIS]
 >
->* [Adobe Advertising Support for the California Consumer Privacy Act: Consumer Opt-out Support](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
->* [Info [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en rapporten](ccpa-opt-out-about.md)
->* [Rapporten over verkoopopties voor consumenten ophalen](ccpa-opt-out-segment-report-retrieve.md)
->* [Een aangepast segment maken en implementeren](custom-segment-create.md)
->* [Informatie over Audience Management](audience-about.md)
+>* [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [ Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten ](ccpa-opt-out-about.md)
+>* [ wint consument op opt-out-of-verkoop rapporten ](ccpa-opt-out-segment-report-retrieve.md)
+>* [ creeer en voer een Segment van de Douane uit ](custom-segment-create.md)
+>* [ Ongeveer het Beheer van het Publiek ](audience-about.md)

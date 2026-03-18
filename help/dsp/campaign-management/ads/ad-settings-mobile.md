@@ -1,16 +1,16 @@
 ---
-title: Instellingen voor mobiele advertentie
+title: Mobiele advertentie-instellingen
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor mobiele advertenties.
 feature: DSP Ads
 exl-id: 45e8da8c-d6a2-4c42-8932-4cf551f6f899
-source-git-commit: 863bf7a4d8304e42b7004742de59b9e1a09f81b7
+source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
 workflow-type: tm+mt
 source-wordcount: '513'
 ht-degree: 0%
 
 ---
 
-# Instellingen voor mobiele advertentie
+# Mobiele advertentie-instellingen
 
 ## [!UICONTROL Insert Ad Tag]
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 **[!UICONTROL Display Code]:** De URL van het creatieve middel van een derde. Om het even welke [ timestamp ] en [[ timestamp ]] parameters worden vervangen met daadwerkelijke waarden.
 
-**[!UICONTROL Final Display Code]:** URL voor de derde creatieve activa, met de noodzakelijke [&#x200B; het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
+**[!UICONTROL Final Display Code]:** URL voor de derde creatieve activa, met de noodzakelijke [ het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
 
 ### [!UICONTROL Basic]: video-advertenties
 
@@ -76,7 +76,7 @@ Dit is hetzelfde als het veld **[!UICONTROL Height]** .
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als het creatieve element.
 
-**[!UICONTROL Final VAST Tag]:** (Adds die VAST markeringen gebruiken slechts; read-only) de derde VAST markering u als creatief activa met de noodzakelijke [&#x200B; gebruikte het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
+**[!UICONTROL Final VAST Tag]:** (Adds die VAST markeringen gebruiken slechts; read-only) de derde VAST markering u als creatief activa met de noodzakelijke [ gebruikte het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
 
 **[!UICONTROL Wmode]:** (Sommige advertenties) De venstermodus: *[!UICONTROL window]*, *[!UICONTROL transparent]* of *[!UICONTROL opaque]* .
 
@@ -92,8 +92,8 @@ Vervangen
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

@@ -1,16 +1,16 @@
 ---
-title: Certified Ad Serving Partners
+title: Gecertificeerde en serverende partners
 description: Bekijk alle gecertificeerde advertentieservers en advertentie-eenheden.
 feature: DSP Ads
 exl-id: 1435efdd-8823-4f07-b9e4-65bd4789226e
-source-git-commit: 70224b9e9c248d45a5ce227d296f2604dd06c222
+source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
 workflow-type: tm+mt
 source-wordcount: '332'
 ht-degree: 0%
 
 ---
 
-# Certified Ad Serving Partners
+# Gecertificeerde en serverende partners
 
 | Advertentieserver | Audio | Weergave | Weergave met hoge impact | Video | Speciale vereisten en opmerkingen |
 | --- | --- | --- | --- | --- | --- |
@@ -43,7 +43,7 @@ ht-degree: 0%
 | [!DNL Innovid] | X | X | | X | |
 | [!DNL Inskin] | | | X | | Skins met een hoog effect (inclusief conversationele Cavai-advertenties) moeten worden uitgediept uit een 180x150-id voor de weergavedeal in het inventarisnetwerk Inskin. |
 | [!DNL Jivox] | | X | | | |
-| [!DNL Kargo] | | X | | X | 320x50 Anker, BYOC, Hover, Breakout, Breakaway, Runway, en Sidekick; 300x250 Outstream, HighRise; Standaard desktopbeeldscherm (specifieke id&#39;s voor insteekmodules zijn niet vereist); Videoanker (alleen VAST); CTV via [!DNL Pubmatic]</br></br> Neem contact op met uw Adobe-accountteam voor hulp bij het instellen. |
+| [!DNL Kargo] | | X | | X | 320x50 Anker, BYOC, Hover, Breakout, Breakaway, Runway en Sidekick; 300x250 Outstream, HighRise; Standaarddesktopbeeldscherm (specifieke id&#39;s voor insteekmodules zijn niet vereist); Videoanker (alleen VAST); CTV via [!DNL Pubmatic]</br></br> Neem contact op met uw Adobe-accountteam voor hulp bij het instellen van eenheden. |
 | [!DNL Linkstorm] | | | X | | |
 | [!DNL mCanvas] | | | X | | |
 | [!DNL Medialets] | | X | | | |
