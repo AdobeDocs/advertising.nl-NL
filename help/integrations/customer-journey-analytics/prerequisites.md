@@ -20,7 +20,7 @@ ht-degree: 0%
 
   U zult steun van uw interne Webanalist aan opstelling een verbinding aan uw dataset nodig hebben en rapportering vormen.
 
-* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [&#x200B; schema&#39;s &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/home) en [&#x200B; datasets &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/overview)) en [&#x200B; technologieën van de gegevensinzameling &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/collection/home) (met inbegrip van [&#x200B; gegevensstromen &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/datastreams/overview) en [&#x200B; markeringen &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/tags/home))
+* Adobe Experience Platform gegevens modelleren en beheerstechnologieën (met inbegrip van [&#x200B; schema&#39;s &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/home) en [&#x200B; datasets &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/catalog/datasets/overview)) en [&#x200B; technologieën van de gegevensinzameling &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/collection/home) (met inbegrip van [&#x200B; gegevensstromen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/datastreams/overview) en [&#x200B; markeringen &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/tags/home))
 
   Voor deze technologieën is ondersteuning van uw Experience Platform-sitebeheerder vereist.
 
