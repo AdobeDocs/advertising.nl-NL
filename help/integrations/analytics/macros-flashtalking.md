@@ -1,16 +1,16 @@
 ---
-title: Voeg  [!DNL Analytics for Advertising]  Macro's aan  [!DNL Flashtalking]  toe en Markeringen
+title: Voeg  [!DNL Analytics for Advertising]  macro's aan  [!DNL Flashtalking]  toe en markeringen
 description: Leer waarom en hoe te om  [!DNL Analytics for Advertising]  macro's aan uw  [!DNL Flashtalking]  toe te voegen en markeringen
 feature: Integration with Adobe Analytics
 exl-id: ce81824c-60bf-487c-8358-d18fcb3cc95f
-source-git-commit: 26a4451fb09f2a42ac60ba123ddf0cf38323312d
+source-git-commit: 0b95d99a1370a047642f8d1e4bbafe35ad5187f6
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 0%
 
 ---
 
-# [!DNL Analytics for Advertising] Macro&#39;s toevoegen aan [!DNL Flashtalking] Tags toevoegen
+# [!DNL Analytics for Advertising] macros toevoegen aan [!DNL Flashtalking] -advertentietags
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
@@ -22,7 +22,7 @@ Als u advertentietags van [!DNL Flashtalking] gebruikt voor Advertising DSP-adve
 
 >[!NOTE]
 >
->Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. In plaats daarvan, onderteken binnen aan uw [!DNL Flashtalking] rekening en volg de [!DNL Flashtalking] steundocumentatie in [&#x200B; https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros &#x200B;](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) om gegevens-pas macro&#39;s te gebruiken om de `s_kwcid` en `ef_id` het volgen parameters te volgen.
+>Als uw organisatie een directe samenwerking met [!DNL Flashtalking] heeft, dan is deze procedure niet noodzakelijk voor u. In plaats daarvan, onderteken binnen aan uw [!DNL Flashtalking] rekening en volg de [!DNL Flashtalking] steundocumentatie in [ https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros ](https://support.flashtalking.com/hc/en-us/articles/4409808166419-Accessing-Data-Pass-Macros) om gegevens-pas macro&#39;s te gebruiken om de `s_kwcid` en `ef_id` het volgen parameters te volgen.
 
 Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Flashtalking] voor de volgende typen [!DNL Analytics for Advertising] -implementaties:
 
@@ -34,7 +34,7 @@ Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Flashtalking] 
 
 * **Advertisers de van wie websites niet de [!DNL Analytics for Advertising] code van JavaScript gebruiken en in plaats daarvan op [!DNL Analytics] server-zij het door:sturen voor klikthrough slechts gegevens** (zonder om het even welke mening-door gegevens) baseren: De volgende macro&#39;s worden vereist om op-plaats klikactiviteit te melden die van advertenties wordt gedreven u door Adobe Advertising koopt.
 
-## Ad-tags weergeven
+## Advertentietags weergeven
 
 Voeg binnen de instellingen voor [!DNL Flashtalking] ad-tag de volgende macro toe aan het einde van de doorklikURL in het veld `Clicktag` :
 
@@ -50,7 +50,7 @@ Voorbeelden:
 
 `https://www.adobe.com/products/photoshop?cid=email&[ftqs:[AdobeAMO]]`
 
-## Video-advertentietags
+## Video en tags
 
 Voeg binnen de instellingen voor [!DNL Flashtalking] ad-tag de volgende macro toe aan het einde van de doorklikURL in het veld `Clicktag` :
 
@@ -68,7 +68,7 @@ Voorbeelden:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [&#x200B; voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md)
+>* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md)
 
