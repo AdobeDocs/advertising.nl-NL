@@ -22,7 +22,7 @@ In het verslag op het niveau van de deal worden het aantal veilingen, de biedkoe
 
 >[!MORELIKETHIS]
 >
->* [ de Inzichten van de Veiling van de Mening voor een Privé Overeenkomst ](/help/dsp/inventory/private-deal-auction-insights.md)
->* [ Ongeveer  [!DNL On Demand]  Premium- Overzicht ](on-demand-inventory-about.md)
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [&#x200B; de Inzichten van de Veiling van de Mening voor een Privé Overeenkomst &#x200B;](/help/dsp/inventory/private-deal-auction-insights.md)
+>* [&#x200B; Ongeveer  [!DNL On Demand]  Premium- Overzicht &#x200B;](on-demand-inventory-about.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)

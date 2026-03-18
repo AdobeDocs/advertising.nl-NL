@@ -18,7 +18,7 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 >[!NOTE]
 >
-> U kunt ook [ de individuele adverteerders met toegang tot de rekening ](deal-id-edit-advertisers.md) uitgeven.
+> U kunt ook [&#x200B; de individuele adverteerders met toegang tot de rekening &#x200B;](deal-id-edit-advertisers.md) uitgeven.
 
 ## Deel een identiteitskaart van de Overeenkomst met rekeningen
 
@@ -44,6 +44,6 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ geef Advertisers met Toegang tot identiteitskaart van de Overeenkomst ](/help/dsp/inventory/deal-id-edit-advertisers.md) uit
->* [ Hand de Montages van identiteitskaart van de Overeenkomst ](deal-id-settings.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; geef Advertisers met Toegang tot identiteitskaart van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-edit-advertisers.md) uit
+>* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)

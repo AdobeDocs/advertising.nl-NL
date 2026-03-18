@@ -18,7 +18,7 @@ U kunt bepaalde instellingen bewerken voor een [!UICONTROL Simple Ad Serving] -d
 
 1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
 
-1. Bewerk de [ overeenkomstenmontages ](simple-deal-settings.md).
+1. Bewerk de [&#x200B; overeenkomstenmontages &#x200B;](simple-deal-settings.md).
 
    U kunt de [!UICONTROL Deal Name], [!UICONTROL Publisher maximum ad length], [!UICONTROL Publisher minimum ad length], [!UICONTROL CPM], [!UICONTROL Flight dates] en [!UICONTROL Impressions] bewerken.
 
@@ -26,10 +26,10 @@ U kunt bepaalde instellingen bewerken voor een [!UICONTROL Simple Ad Serving] -d
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [ creeer a [!UICONTROL Simple Ad Serving] Overeenkomst ](simple-deal-create.md)
->* [[!UICONTROL Simple Ad Serving] Instellingen ](simple-deal-settings.md)
->* [ Mening een Gedetailleerd Rapport voor een Overeenkomst ](/help/dsp/inventory/deal-view-report.md)
+>* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] Overeenkomst &#x200B;](simple-deal-create.md)
+>* [[!UICONTROL Simple Ad Serving] Instellingen &#x200B;](simple-deal-settings.md)
+>* [&#x200B; Mening een Gedetailleerd Rapport voor een Overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
 >* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)

@@ -28,7 +28,7 @@ Voor het instellen van door het programma gegarandeerde deals voor uitgevers op 
 
    Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer bij uw advertentie opnemen.
 
-1. [ keurt overeenkomstidentiteitskaart ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL Freewheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
+1. [&#x200B; keurt overeenkomstidentiteitskaart &#x200B;](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL Freewheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 
@@ -36,11 +36,11 @@ Voor het instellen van door het programma gegarandeerde deals voor uitgevers op 
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
+1. [&#x200B; Controle de status van de advertentie voorlegging &#x200B;](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
->* [ voorlegt een Advertentie voor een Programmatische Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
->* [ Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Overeenkomsten ](freewheel-check-status.md)
->* [ Codes van de Fout voor  [!DNL Freewheel]  Advertentie ](freewheel-error-codes.md)
+>* [&#x200B; keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed &#x200B;](deal-id-inbox-accept.md)
+>* [&#x200B; voorlegt een Advertentie voor een Programmatische Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
+>* [&#x200B; Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Overeenkomsten &#x200B;](freewheel-check-status.md)
+>* [&#x200B; Codes van de Fout voor  [!DNL Freewheel]  Advertentie &#x200B;](freewheel-error-codes.md)

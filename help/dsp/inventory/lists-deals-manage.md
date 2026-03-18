@@ -72,7 +72,7 @@ In custom reports, you can a) filter data by deal lists and deals and b) include
 
 >[!MORELIKETHIS]
 >
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
->* [ Ongeveer Privé Inventaris ](/help/dsp/inventory/private-inventory-about.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](/help/dsp/inventory/private-inventory-about.md)

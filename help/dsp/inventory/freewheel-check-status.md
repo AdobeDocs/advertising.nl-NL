@@ -36,19 +36,19 @@ Neem contact op met uw Adobe-accountteam voor aanvullende vragen of problemen me
 
    * Klik onder [!UICONTROL Deal ID inbox] op **[!UICONTROL View Freewheel creative status]** .
 
-   * In om het even welke overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL see Freewheel status]**.
+   * In om het even welke overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL see Freewheel status]**.
 
 1. (Optioneel) Filter de gegevens om u te helpen specifieke deals en advertenties te zoeken.
 
    De kolom [!UICONTROL Submission Status] geeft aan of de advertentie is verzonden en goedgekeurd.
 
-   Voor mislukte verzendingen geeft de kolom [!UICONTROL API] Reactie de fout aan. Voor een volledige lijst van foutencodes voor ontbroken voorlegging, en volgende stappen om hen te verbeteren, zie &quot;[ Codes van de Fout voor  [!DNL FreeWheel]  Advertentie ](freewheel-error-codes.md).&quot;
+   Voor mislukte verzendingen geeft de kolom [!UICONTROL API] Reactie de fout aan. Voor een volledige lijst van foutencodes voor ontbroken voorlegging, en volgende stappen om hen te verbeteren, zie &quot;[&#x200B; Codes van de Fout voor  [!DNL FreeWheel]  Advertentie &#x200B;](freewheel-error-codes.md).&quot;
 
 1. (Optioneel) Als u een advertentie opnieuw ter goedkeuring wilt verzenden, houdt u de cursor boven de rij voor de advertentie en klikt u op **[!UICONTROL More]** > **[!UICONTROL Resubmit]** .
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in  [!DNL Freewheel]](freewheel-overview.md)
->* [ voorlegt een Advertentie voor een Programmatische Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
->* [ Codes van de Fout voor  [!DNL Freewheel]  Advertentie ](freewheel-error-codes.md)
->* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
+>* [&#x200B; Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in  [!DNL Freewheel]](freewheel-overview.md)
+>* [&#x200B; voorlegt een Advertentie voor een Programmatische Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
+>* [&#x200B; Codes van de Fout voor  [!DNL Freewheel]  Advertentie &#x200B;](freewheel-error-codes.md)
+>* [&#x200B; keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed &#x200B;](deal-id-inbox-accept.md)
