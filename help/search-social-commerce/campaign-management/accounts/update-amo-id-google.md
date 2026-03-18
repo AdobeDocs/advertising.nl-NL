@@ -70,4 +70,4 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 >
 >* [&#x200B; beheer en netwerkrekeningen &#x200B;](ad-network-account-manage.md)
 >* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL){target="_blank"}
