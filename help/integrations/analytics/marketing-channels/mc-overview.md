@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Deze pagina bevat belangrijke informatie over [!DNL Analytics Marketing Channels] die [!DNL Analytics for Advertising] -gebruikers moeten begrijpen.
 
-Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[ Begonnen met  [!DNL Marketing Channels] ](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
+Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[&#x200B; Begonnen met  [!DNL Marketing Channels] &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html).&quot;
 
 ## Overzicht van [!DNL Marketing Channels]
 
@@ -22,7 +22,7 @@ Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[ Begonnen m
 
 Neem bijvoorbeeld het volgende voorbeeld van een reis tijdens een kruisbezoek. Elk bezoek aan uw website wordt aangegeven door het marketingkanaal van waaruit de bezoeker is gekomen. Het eerste bezoek, ook wel First Touch Channel genoemd, is E-mail. Weergeven bij bezoek twee is een deelnemend kanaal en Natuurlijk zoeken wordt beschouwd als het laatste aanraakkanaal. Als u [!UICONTROL Last Touch Attribution] gebruikt binnen [!UICONTROL Attribution IQ] , ontvangt Natural Search volledige creditering voor de conversiegebeurtenis $250. Met de Experience Cloud ID Service kunt u deze individuele bezoeken aan elkaar koppelen om één reis door één enkele bezoeker te onthullen.
 
-![ de reis van de het dwars-bezoek van het voorbeeld in de Kanalen van de Marketing ](/help/integrations/assets/a4adc-mc-sample-journey.png)
+![&#x200B; de reis van de het dwars-bezoek van het voorbeeld in de Kanalen van de Marketing &#x200B;](/help/integrations/assets/a4adc-mc-sample-journey.png)
 
 Door [!UICONTROL Marketing Channels] Regels van de Verwerking te gebruiken, kunt u reeksen logica tot stand brengen om de kanalen te bepalen die verkeer drijven en elk kanaal te volgen aangezien de gebruikers naar uw plaats komen. Het [!UICONTROL Email] -kanaal wordt bijvoorbeeld aangegeven met een unieke trackingcode die wordt gegenereerd wanneer u op dit kanaal klikt. Als u het kanaal door Adobe Analytics hebt geregistreerd, wordt het bezoek gecategoriseerd als afkomstig van een marketingcampagne voor e-mail.
 
@@ -36,12 +36,12 @@ Andere kanalen hebben geen trackable wegen URL en hebben verdere logica voor ide
 
 Adobe raadt u aan samen te werken met uw analyseteam om een uitgebreide set [!DNL Marketing Channels] -verwerkingsregels op te stellen om alle kanalen te volgen die relevant zijn voor uw bedrijf. Zo kunt u krachtige rapportage van toewijzingen maken.
 
-Om te begrijpen hoe Adobe Advertising aan de signalen kan bijdragen noodzakelijk om douanegeleidende kanalen tot stand te brengen, zie &quot;[ Gebruikend Advertising IDs om  [!DNL Marketing Channels]  Regels ](mc-ids.md) tot stand te brengen.&quot;
+Om te begrijpen hoe Adobe Advertising aan de signalen kan bijdragen noodzakelijk om douanegeleidende kanalen tot stand te brengen, zie &quot;[&#x200B; Gebruikend Advertising IDs om  [!DNL Marketing Channels]  Regels &#x200B;](mc-ids.md) tot stand te brengen.&quot;
 
 >[!MORELIKETHIS]
 >
->* [ Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels ](mc-ids.md) te creëren
->* [ waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
->* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising ](mc-ac-data.md)
->* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
->* [ Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
+>* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels &#x200B;](mc-ids.md) te creëren
+>* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
+>* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)

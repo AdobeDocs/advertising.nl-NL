@@ -18,7 +18,7 @@ ht-degree: 0%
 >
 >* Adobe Advertising geeft verkeersmaatstaven en -afmetingen door aan [!DNL Analytics] per dag.
 >* Met [!DNL Analytics] worden doorklikbewerkingen en doorzoekacties van Adobe Advertising in real-time vastgelegd.
->* Voor [!DNL Search, Social, & Commerce] wordt deze functie ondersteund voor de meeste advertentienetwerken en campagneretypen. Zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;in de [!DNL Search, Social, & Commerce] Gids voor meer informatie.
+>* Voor [!DNL Search, Social, & Commerce] wordt deze functie ondersteund voor de meeste advertentienetwerken en campagneretypen. Zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;in de [!DNL Search, Social, & Commerce] Gids voor meer informatie.
 
 ## Verkeersmetriek van Adobe Advertising
 
@@ -78,5 +78,5 @@ U kunt de volgende maatstaven voor uw Adobe Advertising-gegevens maken.
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [[!DNL Analytics]  Gegevens in Adobe Advertising ](/help/integrations/analytics/analytics-data-in-advertising.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [[!DNL Analytics]  Gegevens in Adobe Advertising &#x200B;](/help/integrations/analytics/analytics-data-in-advertising.md)

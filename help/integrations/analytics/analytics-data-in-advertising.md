@@ -33,8 +33,8 @@ Het duurt 24 tot 48 uur om nieuwe segmenten weer te geven in Adobe Advertising. 
 * [!UICONTROL Timespent_secs_total]: Het totale aantal seconden dat aan de site is doorgebracht tijdens alle bezoeken in het venster voor terugzoeken van klikken.
 * [!UICONTROL Pageviews_1stvisit]: Het aantal paginaweergaven op de site tijdens het eerste bezoek van de bezoeker.
 * [!UICONTROL Pageviews_total]: Het totale aantal paginaweergaven op de site bij alle bezoeken in het venster voor terugzoeken van klikken.
-* [[!UICONTROL Bounces] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
-* [[!UICONTROL Visits] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
+* [[!UICONTROL Bounces] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/bounces.html)
+* [[!UICONTROL Visits] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)
 * [!UICONTROL ef_id_instances]: Het aantal keren dat [!DNL Analytics] een [!UICONTROL EF ID] heeft verzameld.
 
 ## Omzettingsmetriek
@@ -43,14 +43,14 @@ Het duurt 24 tot 48 uur om nieuwe segmenten weer te geven in Adobe Advertising. 
 
 ### Standaardomzettingscijfers
 
-* [[!UICONTROL Revenue] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html)
-* [[!UICONTROL Orders] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html)
-* [[!UICONTROL Units] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html)
-* [[!UICONTROL Carts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html)
-* [[!UICONTROL Cart Views] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html)
-* [[!UICONTROL Checkouts] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
-* [[!UICONTROL Cart Additions] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
-* [[!UICONTROL Cart Removals] metrisch ](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
+* [[!UICONTROL Revenue] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/revenue.html)
+* [[!UICONTROL Orders] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/orders.html)
+* [[!UICONTROL Units] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/units.html)
+* [[!UICONTROL Carts] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/carts.html)
+* [[!UICONTROL Cart Views] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-views.html)
+* [[!UICONTROL Checkouts] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/checkouts.html)
+* [[!UICONTROL Cart Additions] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-additions.html)
+* [[!UICONTROL Cart Removals] metrisch &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/metrics/cart-removals.html)
 
 ### Eigen conversiemetingen
 
@@ -58,7 +58,7 @@ Deze metriek is specifiek voor de rapportreeks, zodat variëren de beschikbare m
 
 ### Aangepaste omzettingsmetriek gemaakt van [!DNL eVars] en [!DNL Props]
 
-De beschikbare meetgegevens variëren per klant. Zie &quot;[ de Metriek van de Omzetting van Adobe Analytics  [!DNL eVars]  en  [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
+De beschikbare meetgegevens variëren per klant. Zie &quot;[&#x200B; de Metriek van de Omzetting van Adobe Analytics  [!DNL eVars]  en  [!DNL Props]](/help/integrations/analytics/conversion-metrics-from-evars.md).&quot;
 
 ### Gereserveerde omzettingswaarden
 
@@ -66,5 +66,5 @@ Deze metriek is specifiek voor de rapportreeks, zodat variëren de beschikbare m
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Metriek van Adobe Advertising in Analysis Workspace ](/help/integrations/analytics/advertising-metrics-in-analytics.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Metriek van Adobe Advertising in Analysis Workspace &#x200B;](/help/integrations/analytics/advertising-metrics-in-analytics.md)

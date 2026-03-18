@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *Toepasselijk op Advertising DSP slechts*
 
-Als u advertentietags van [!DNL Google Campaign Manager 360] gebruikt voor uw Advertising DSP-advertenties, voegt u [!DNL Analytics for Advertising] -parameters toe aan de URL&#39;s van de bestemmingspagina met de [`%p` macro ](https://support.google.com/campaignmanager/table/6096962) . De parameters registreren AMO-id (`s_kwcid`) en `ef_id` query-tekenreeksparameters in de bestemmingspagina-URL, zodat Adobe Advertising klikgegevens voor de advertenties naar Adobe Analytics kan verzenden.
+Als u advertentietags van [!DNL Google Campaign Manager 360] gebruikt voor uw Advertising DSP-advertenties, voegt u [!DNL Analytics for Advertising] -parameters toe aan de URL&#39;s van de bestemmingspagina met de [`%p` macro &#x200B;](https://support.google.com/campaignmanager/table/6096962) . De parameters registreren AMO-id (`s_kwcid`) en `ef_id` query-tekenreeksparameters in de bestemmingspagina-URL, zodat Adobe Advertising klikgegevens voor de advertenties naar Adobe Analytics kan verzenden.
 
 Gebruik macro&#39;s voor weergave- en videoadvertenties van [!DNL Campaign Manager 360] voor de volgende typen [!DNL Analytics for Advertising] -implementaties:
 
@@ -42,17 +42,17 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 >[!NOTE]
 >
->>* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de parameter `amo` vóór het hashsymbool.
+>&#x200B;>* Als de bestemmingspagina-URL een hash-symbool (#) bevat, wat niet gebruikelijk is, plaatst u de parameter `amo` vóór het hashsymbool.
 >* Als er geen andere parameters zijn opgenomen na de parameter `amo` , voegt u er vervolgens een parameter (bijvoorbeeld &amp;a=b) aan toe. Voorbeeld: `https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;&a=b#login`
 
 ### Het URL-achtervoegsel van de landingspagina op advertentieniveau configureren
 
-1. Zie de [ instructies om de adverteerdereigenschappen ](https://support.google.com/campaignmanager/answer/2829344) te openen.
+1. Zie de [&#x200B; instructies om de adverteerdereigenschappen &#x200B;](https://support.google.com/campaignmanager/answer/2829344) te openen.
 1. Neem [!UICONTROL Landing page URL suffix] op in het veld `%pamo!;` in de instellingen van [!UICONTROL URL suffix] .
 
 ### Het URL-achtervoegsel van de landingspagina op campagneniveau configureren
 
-1. Zie de [ instructies om de campagneeigenschappen ](https://support.google.com/campaignmanager/answer/2838056#set) te openen.
+1. Zie de [&#x200B; instructies om de campagneeigenschappen &#x200B;](https://support.google.com/campaignmanager/answer/2838056#set) te openen.
 1. Neem [!UICONTROL Landing page URL suffix] op in het veld `%pamo!;` in de instellingen van [!UICONTROL URL suffix] .
 
 ### Het URL-achtervoegsel van de bestemmingspagina op creatief niveau configureren
@@ -64,7 +64,7 @@ https://www.adobe.com/home?someparam1=somevalue1&%pamo=!;
 
 Wanneer u in DSP een advertentie maakt die de parameter [!DNL Analytics for Advertising] (`amo`) bevat, worden de macro&#39;s `ef_id` en `s_kwcid` automatisch toegevoegd aan de klik-URL. U kunt het beste de tag in DSP controleren om te controleren of de macro&#39;s `ef_id` en `s_kwcid` aanwezig zijn.
 
-Het volgende is een voorbeeld van a [!DNL Google Campaign Manager 360] [ ins markering ](https://support.google.com/campaignmanager/answer/6080468) aangezien het in DSP verschijnt.
+Het volgende is een voorbeeld van a [!DNL Google Campaign Manager 360] [&#x200B; ins markering &#x200B;](https://support.google.com/campaignmanager/answer/6080468) aangezien het in DSP verschijnt.
 
 ```
 <ins class='dcmads' style='display:inline-block;width:160px;height:600px'
@@ -82,6 +82,6 @@ Wanneer een gebruiker op de advertentie klikt, ziet [!DNL Google Campaign Manage
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [ voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen ](macros-flashtalking.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [&#x200B; voeg  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  toe - Markeringen &#x200B;](macros-flashtalking.md)

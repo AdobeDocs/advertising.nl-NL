@@ -14,11 +14,11 @@ ht-degree: 0%
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-U kunt Adobe Advertising IDs ([ identiteitskaart van AMO en EF identiteitskaart ](../ids.md)) gebruiken om [!DNL Marketing Channels] verwerkingsregels in Adobe Analytics te vormen. Gebruik Adobe Advertising-id&#39;s voor specifieke regels voor Adobe Advertising-campagnes.
+U kunt Adobe Advertising IDs ([&#x200B; identiteitskaart van AMO en EF identiteitskaart &#x200B;](../ids.md)) gebruiken om [!DNL Marketing Channels] verwerkingsregels in Adobe Analytics te vormen. Gebruik Adobe Advertising-id&#39;s voor specifieke regels voor Adobe Advertising-campagnes.
 
 ## De AMO-id in verwerkingsregels
 
-De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
+De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
 
 * Doorklikken: Adobe Advertising stelt de parameter voor de `s_kwcid` querytekenreeks in een koppeling in en [!DNL Analytics] haalt de parameter op via de URL van de bestemmingspagina wanneer er doorklikken plaatsvindt.
 * Beeld-door het volgen ([!DNL DSP] slechts): De Laatste Dienst van de Gebeurtenis ontdekt een mening-door op de serverzijde en verzendt AMO identiteitskaart naar [!DNL Analytics]. In dit geval bevat de URL geen parameter `s_kwcid` .
@@ -51,11 +51,11 @@ De rest van de AMO-id kan worden genegeerd.
 
 De [!DNL Marketing Channels] -verwerkingsregel voor het [!UICONTROL Paid Search] -kanaal ziet er als volgt uit:
 
-![ Voorbeeld van a [!UICONTROL Paid Search] regel ](/help/integrations/assets/a4adc-mc-rule-paidsearch.png)
+![&#x200B; Voorbeeld van a [!UICONTROL Paid Search] regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-paidsearch.png)
 
 De [!DNL Marketing Channels] -verwerkingsregel voor het [!UICONTROL YouTube Video Ads] -kanaal ziet er als volgt uit:
 
-![ Voorbeeld van a [!UICONTROL YouTube Video Ads] regel ](/help/integrations/assets/a4adc-mc-rule-youtube-video.png)
+![&#x200B; Voorbeeld van a [!UICONTROL YouTube Video Ads] regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-youtube-video.png)
 
 >[!IMPORTANT]
 >
@@ -81,18 +81,18 @@ Maak een marketingkanaal Doorklikken weergeven door alleen doorklikbewerkingen v
 
 Soms worden doorklikkingen gevolgd door URL (het gebrek). In andere gevallen worden doorklikbewerkingen bijgehouden via de laatste gebeurtenisservice aan de serverzijde en bevat de URL dus niet de parameter `ef_id` . De regel controleert daarom voorwaarden waarin de EF identiteitskaart variabele of de `ef_id` parameter van het vraagkoord met &quot;:d&quot;beëindigt. Gebruik &quot;`Any`&quot;exploitant omdat u deze regel voor één van beide voorwaarde wilt teweegbrengen.
 
-![ Voorbeeld van een vertoning klik-door regel ](/help/integrations/assets/a4adc-mc-rule-display-ct.png)
+![&#x200B; Voorbeeld van een vertoning klik-door regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-ct.png)
 
 #### Weergaveregel
 
 Om een vertoning mening-door kanaal tot stand te brengen, creeer een regel waarin EF identiteitskaart met &quot;:i&quot;beëindigt. Omdat de bezoeker niet op de advertentie heeft geklikt, bevat de doorkijkbewerking niet de `ef_id` of `s_kwcid` in de URL, zodat de regel slechts één voorwaarde vereist.
 
-![ Voorbeeld van een vertoning mening-door regel ](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
+![&#x200B; Voorbeeld van een vertoning mening-door regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-vt.png)
 
 >[!MORELIKETHIS]
 >
->* [ Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [ waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
->* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising ](mc-ac-data.md)
->* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
+>* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
+>* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt

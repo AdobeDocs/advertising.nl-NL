@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Voor Advertising DSP houdt de [!DNL Analytics for Advertising] -integratie de weergave en doorklikinteracties van sites bij. Doorklikbezoeken worden bijgehouden aan de hand van de standaard Adobe Analytics-code op uw webpagina&#39;s. De [!DNL Analytics] -code legt de parameters AMO ID en EF ID vast in de URL van de bestemmingspagina en volgt deze in hun respectievelijke gereserveerde [!DNL eVars] . U kunt doorkijkbezoeken volgen door een JavaScript-fragment in uw webpagina&#39;s te implementeren.
 
-In de eerste paginaweergave van een bezoek aan de site controleert de Adobe Advertising JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en niet de plaats via een klik-door tijdens het [ klikt raadplegingsvenster ](/help/integrations/analytics/prerequisites.md#lookback-a4adc) binnen Adobe Advertising is geplaatst, dan gebruikt de code van Adobe Advertising JavaScript of a) de [ Dienst van identiteitskaart van Experience Cloud ](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een supplementaire identiteitskaart (`SDID`) te produceren of b) de Adobe Experience Platform [!DNL Web SDK] `generateRandomID` methode om een `[!DNL StitchID]` te produceren. Een van beide id&#39;s wordt gebruikt om gegevens van Adobe Advertising aan te sluiten op de hit Adobe Analytics van de bezoeker. Adobe Analytics vraagt vervolgens Adobe Advertising om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectievelijke [!DNL eVars] ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
+In de eerste paginaweergave van een bezoek aan de site controleert de Adobe Advertising JavaScript-code of de bezoeker een advertentie heeft gezien of erop heeft geklikt. Als de gebruiker eerder via een doorklik de site is binnengekomen of geen advertentie heeft gezien, wordt de bezoeker genegeerd. Als de bezoeker een advertentie heeft gezien en niet de plaats via een klik-door tijdens het [&#x200B; klikt raadplegingsvenster &#x200B;](/help/integrations/analytics/prerequisites.md#lookback-a4adc) binnen Adobe Advertising is geplaatst, dan gebruikt de code van Adobe Advertising JavaScript of a) de [&#x200B; Dienst van identiteitskaart van Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/home.html) om een supplementaire identiteitskaart (`SDID`) te produceren of b) de Adobe Experience Platform [!DNL Web SDK] `generateRandomID` methode om een `[!DNL StitchID]` te produceren. Een van beide id&#39;s wordt gebruikt om gegevens van Adobe Advertising aan te sluiten op de hit Adobe Analytics van de bezoeker. Adobe Analytics vraagt vervolgens Adobe Advertising om de AMO-id en EF-id die aan de advertentie zijn gekoppeld. De AMO-id en EF-id&#39;s worden vervolgens in hun respectievelijke [!DNL eVars] ingevuld. Deze waarden blijven gedurende een bepaalde periode bestaan (standaard 60 dagen).
 
 [!DNL Analytics] verzendt de metriek van het plaatsverkeer (zoals paginameningen, bezoeken, en bestede tijd) en om het even welke [!DNL Analytics] douane of standaardgebeurtenissen naar Adobe Advertising per uur, gebruikend EF identiteitskaart als sleutel. Deze [!DNL Analytics] metriek loopt dan door het attributiesysteem van Adobe Advertising om de omzettingen aan de klik en de belichtingsgeschiedenis te verbinden.
 
@@ -88,7 +88,7 @@ De JavaScript-bibliotheek bestaat uit twee regels waarmee [!DNL Analytics] en Ad
 
 De functie [!DNL Analytics for Advertising] JavaScript moet na de Experience Cloud ID Service komen, maar voordat de Metingscode van de Analytics App wordt uitgevoerd. Dit zorgt ervoor dat extra identiteitskaart (`SDID`) of `[!DNL StitchID]` inbegrepen in uw vraag van de Analyse is.
 
-![ plaatsing van de Code ](/help/integrations/assets/a4adc-code-placement.png)
+![&#x200B; plaatsing van de Code &#x200B;](/help/integrations/assets/a4adc-code-placement.png)
 
 ### Implementatie van code valideren
 
@@ -102,7 +102,7 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles] , [!D
 
 1. Filter de tab [!UICONTROL Network] op `last` en bekijk twee rijen:
 
-   ![ Filtrerend op laatste ](/help/integrations/assets/a4adc-code-validation-filter-last.png)
+   ![&#x200B; Filtrerend op laatste &#x200B;](/help/integrations/assets/a4adc-code-validation-filter-last.png)
 
    * De eerste rij is de aanroep naar de JavaScript-bibliotheek en krijgt de naam `last-event-tag-latest.min.js` .
    * De tweede rij is de vraag die het verzoek naar Adobe Advertising verzendt. Het begint als volgt: `_les_imsOrgId=[your_imsOrgId_here]&_les_url=[your_encoded_url]`
@@ -114,11 +114,11 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles] , [!D
 
 1. (Implementaties die de code Experience Cloud Identity Service `visitorAPI.js` gebruiken) Filter op `/b/ss` om de treffer voor Analytics te zien.
 
-   ![ Filteren op `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
+   ![&#x200B; Filteren op `/b/ss`](/help/integrations/assets/a4adc-code-validation-filter-bss.png)
 
 1. (Implementaties die de Experience Platform [!DNL Web SDK] `alloy.js` code) gebruiken filter op `/interact` om te controleren of de lading van de verzoeklading aan Edge Network `advertisingStitchID` bevat.
 
-   ![ Filteren op `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
+   ![&#x200B; Filteren op `/interact`](/help/integrations/assets/a4adc-code-validation-filter-interact.png)
 
 1. Vergelijk de id-waarden tussen de twee treffers. Alle waarden moeten in de parameters van het vraagkoord behalve rapportreeks ID in de treffer van Analytics zijn, die de weg URL onmiddellijk na `/b/ss/` is.
 
@@ -134,18 +134,18 @@ U kunt validatie uitvoeren met elk pakketsniffertype (zoals [!DNL Charles] , [!D
 
 #### De code bevestigen met [!DNL Adobe Experience Cloud Debugger]
 
-1. Open [[!DNL Adobe Experience Cloud Debugger] ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) op uw homepage.
+1. Open [[!DNL Adobe Experience Cloud Debugger] &#x200B;](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) op uw homepage.
 1. Ga naar de tab [!UICONTROL Network] .
 1. Klik in de werkbalk [!UICONTROL Solutions Filter] op [!UICONTROL Adobe Advertising] en [!UICONTROL Analytics] .
 1. Zoek in de parameterrij [!UICONTROL Request URL - Hostname] naar `lasteventf-tm.everesttech.net` .
-1. In de [!UICONTROL Request - Parameters] rij, controle de gegenereerde signalen, gelijkend op Stap 3 in &quot;[ hoe te om de Code met  [!DNL Chrome Developer Tools]](#validate-js-chrome) te bevestigen.&quot;
+1. In de [!UICONTROL Request - Parameters] rij, controle de gegenereerde signalen, gelijkend op Stap 3 in &quot;[&#x200B; hoe te om de Code met  [!DNL Chrome Developer Tools]](#validate-js-chrome) te bevestigen.&quot;
    * (Implementaties die de code Experience Cloud Identity Service `visitorAPI.js` gebruiken) Zorg ervoor dat de parameter `Sdid` overeenkomt met de parameter `Supplemental Data ID` in het Adobe Analytics-filter.
    * (Implementaties die de Experience Platform-code [!DNL Web SDK] `alloy.js` gebruiken) Zorg ervoor dat de waarde van de parameter `advertisingStitchID` overeenkomt met de `Sdid` die naar de Experience Platform Edge Network wordt verzonden.
    * Als de code niet wordt gegenereerd, controleert u of de Adobe Advertising-cookie is verwijderd op het tabblad [!UICONTROL Application] . Nadat de pagina is verwijderd, vernieuwt u de pagina en herhaalt u het proces.
 
-   ![ [!DNL Analytics for Advertising] JavaScript-code controleren in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
+   ![&#x200B; [!DNL Analytics for Advertising] JavaScript-code controleren in [!DNL Experience Cloud Debugger]](/help/integrations/assets/a4adc-js-audit-debugger.png)
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ Eerste vereisten en belangrijkste informatie voor het uitvoeren van  [!DNL Analytics for Advertising]](prerequisites.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; Eerste vereisten en belangrijkste informatie voor het uitvoeren van  [!DNL Analytics for Advertising]](prerequisites.md)

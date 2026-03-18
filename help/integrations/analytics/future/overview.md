@@ -42,19 +42,19 @@ Met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics
 
 <!-- Verify all -->
 
-Binnen [!DNL Search, Social, & Commerce] kunt u met behulp van uw bestaande [!DNL Google Ads] -segmenten [!DNL Analytics] overeenkomende soorten publiek voor Google-klanten maken op basis van gebruikers-id&#39;s. Dit zijn onder andere Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die met de Adobe Experience Cloud [!DNL Audience Library] zijn gemaakt. Voor meer informatie, zie &quot;[  [!DNL Google Ads]  de publiek van de klantengelijke van  [!DNL Adobe]  publiek ](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) creëren.&quot;
+Binnen [!DNL Search, Social, & Commerce] kunt u met behulp van uw bestaande [!DNL Google Ads] -segmenten [!DNL Analytics] overeenkomende soorten publiek voor Google-klanten maken op basis van gebruikers-id&#39;s. Dit zijn onder andere Adobe Analytics-segmenten die naar Adobe Experience Cloud worden gepubliceerd en segmenten die met de Adobe Experience Cloud [!DNL Audience Library] zijn gemaakt. Voor meer informatie, zie &quot;[&#x200B;  [!DNL Google Ads]  de publiek van de klantengelijke van  [!DNL Adobe]  publiek &#x200B;](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md) creëren.&quot;
 
-[ de gelijke van de Klant publiek van gebruiker IDs ](https://support.google.com/google-ads/answer/9199250) werk als website op markering-gebaseerde publiek, maar niet-PII identiteitskaart wordt toegewezen aan unieke publieksleden voor duidelijke voordelen over standaardklantengelijke en website op markering-gebaseerde publiek.
+[&#x200B; de gelijke van de Klant publiek van gebruiker IDs &#x200B;](https://support.google.com/google-ads/answer/9199250) werk als website op markering-gebaseerde publiek, maar niet-PII identiteitskaart wordt toegewezen aan unieke publieksleden voor duidelijke voordelen over standaardklantengelijke en website op markering-gebaseerde publiek.
 
 Om tot de noodzakelijke gebruikers-ids te leiden, moet u een markering van Adobe Advertising JavaScript <!-- with a user ID parameter --> op uw websites gebruiken. Neem contact op met uw Adobe-accountteam voor meer informatie.
 
-![ proces van de segmentverwezenlijking ](/help/integrations/assets/ad_search_user_id_pic.png)
+![&#x200B; proces van de segmentverwezenlijking &#x200B;](/help/integrations/assets/ad_search_user_id_pic.png)
 
-Zodra u het publiek creeert, kunt u hen in [!DNL Google Ads] campagnes als [ campagne-niveau of ad groep-vlakke doelstellingen of uitsluitingen ](#audience-manager-targets) gebruiken.
+Zodra u het publiek creeert, kunt u hen in [!DNL Google Ads] campagnes als [&#x200B; campagne-niveau of ad groep-vlakke doelstellingen of uitsluitingen &#x200B;](#audience-manager-targets) gebruiken.
 
 ### Gebruik [!DNL Analytics] segmenten om advertenties te activeren of uit te sluiten {#analytics-targets}
 
-* (Opted-in adverteerders met [!DNL Search, Social, & Commerce]) U kunt om het even welk [!DNL Google Ads] publiek gebruiken dat [ werd gecreeerd gebruikend  [!DNL Analytics]  segmenten ](#audience-manager-google-audiences) als campagne-niveau of ad groep-vlakke doelstellingen of uitsluitingen in uw [!DNL Google Ads] campagnes.
+* (Opted-in adverteerders met [!DNL Search, Social, & Commerce]) U kunt om het even welk [!DNL Google Ads] publiek gebruiken dat [&#x200B; werd gecreeerd gebruikend  [!DNL Analytics]  segmenten &#x200B;](#audience-manager-google-audiences) als campagne-niveau of ad groep-vlakke doelstellingen of uitsluitingen in uw [!DNL Google Ads] campagnes.
 
 * (Advertisers met DSP) U kunt uw bestaande [!DNL Analytics] -segmenten gebruiken als doelen voor uw advertentieplaatsen. U kunt de segmenten desgewenst opnemen in herbruikbare doelgroepen, die u kunt gebruiken als doelen of uitsluitingen voor meerdere plaatsingen.
 
