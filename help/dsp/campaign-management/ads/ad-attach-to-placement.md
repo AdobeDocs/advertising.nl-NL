@@ -3,7 +3,7 @@ title: Advertenties aan plaatsen koppelen en eruit verwijderen
 description: Leer hoe u advertenties koppelt aan plaatsingen en advertenties verwijdert uit plaatsingen.
 feature: DSP Ads
 exl-id: bca590c9-e0d0-41e6-96b1-26ea5b2f842f
-source-git-commit: 72306c4cd44abe093fd9db0dabd5a8b5dde5dd4d
+source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
 workflow-type: tm+mt
 source-wordcount: '360'
 ht-degree: 1%
@@ -18,7 +18,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 >
 >Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-## Advertenties koppelen aan plaatsingen vanuit de [!UICONTROL Placements] -weergave {#attach-ads-placement}
+## Advertenties vanuit de [!UICONTROL Placements] -weergave koppelen aan plaatsing {#attach-ads-placement}
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -36,7 +36,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
 1. Klik op **[!UICONTROL Attach Selected Ads]**.
 
-## Een advertentie toevoegen aan plaatsingen vanuit de weergave [!UICONTROL Ads] {#attach-ads}
+## Een advertentie koppelen aan plaatsen vanuit de weergave [!UICONTROL Ads] {#attach-ads}
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -52,7 +52,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
       1. Klik op **[!UICONTROL Create a New Placement]**.
 
-      1. Ga de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+      1. Ga de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
          Het plaatsingstype wordt bepaald door het advertentietype.
 
@@ -72,7 +72,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
       1. Klik op **[!UICONTROL I'm done for now]**.
 
-## Advertenties uit Plaatsen verwijderen uit de [!UICONTROL Placements] -weergave {#remove-ads-placement}
+## Advertenties uit plaatsingen verwijderen uit de [!UICONTROL Placements] -weergave {#remove-ads-placement}
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -90,7 +90,7 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
 1. Klik op **[!UICONTROL Detach Selected Ads]**.
 
-## Een advertentie verwijderen uit een advertentie uit de [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
+## Een advertentie verwijderen uit een plaatsing vanuit de [!UICONTROL Placement Inspector] {#remove-ads-placement-inspector}
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -106,11 +106,11 @@ U kunt advertenties aan plaatsen koppelen en eruit verwijderen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; maak en verwijder Pixels van Advertenties vast &#x200B;](ad-pixel-attach-detach.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
->* [&#x200B; geef de Advertentieschema&#39;s voor Plaatsen uit &#x200B;](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ maak en verwijder Pixels van Advertenties vast ](ad-pixel-attach-detach.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
+>* [ geef een Advertentie uit ](ad-edit.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
+>* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
+>* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)

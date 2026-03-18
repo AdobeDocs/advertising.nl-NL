@@ -1,20 +1,20 @@
 ---
-title: Over Advertentiebeheer in Advertising DSP
+title: Over advertentiebeheer in Advertising DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 41dbe28e-a476-4601-a3d8-a9111eae3f6b
-source-git-commit: e9ce180e302f619c85a3d6db813c83903e437d04
+source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 0%
 
 ---
 
-# Over Advertentiebeheer in Advertising DSP
+# Over advertentiebeheer in Advertising DSP
 
 <!-- add "The Ads View (Dashboard?)" section -->
 
-DSP ondersteunt ad-leveranties via tags van derden voor advertenties (zoals Google, Flash Talk of Sizmek) voor verschillende advertentietypen en de directe asset-upload voor native weergaveadvertenties. U kunt tags van derden afzonderlijk of in bulk uploaden. Bulkuploads gebruiken de pagina&#39;s van de partnermarkering of een bulkmarkeringsmalplaatje.
+DSP biedt ondersteuning voor ad-levering via externe en voedingstags (zoals Google, Flash Talk of Sizmek) voor verschillende advertentietypen en voor het direct uploaden van middelen voor native weergaveadvertenties. U kunt tags van derden afzonderlijk of in bulk uploaden. Bulkuploads gebruiken de pagina&#39;s van de partnermarkering of een bulkmarkeringsmalplaatje.
 
 <!-- The bulk upload feature requires you to either a) upload DoubleClick and Flashtalking tag sheets or b) download a template, input your tags into the template, and then re-upload the template. -->
 <!-- need a list of all supported third-party ad servers; see file in future-tbd folder -->
@@ -23,11 +23,11 @@ Wanneer uw advertenties zijn ingesteld, koppelt u elke advertentie aan een of me
 
 ## Beschikbare advertentietypen {#ad-types}
 
-Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [&#x200B; Specificaties van de Advertentie &#x200B;](ad-specs.md).
+Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [ Specificaties van de Advertentie ](ad-specs.md).
 
 * **AudioAdds (derde slechts)**: De audio advertenties spelen tussen inhoud op digitale uitgeversplaatsen en kunnen standalone als audiodossiers of samen met metgezelbanners worden in werking gesteld. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion] .
 
-* **Advertenties van de Vertoning (derde slechts)**: De advertenties van de vertoning zijn geanimeerde of statische beelden die in Webbrowsers of in apps worden getoond. Als u op de advertentie-eenheid klikt, gaat de gebruiker naar een site of microsite met merknaam. De vertoning wordt best gebruikt om efficiënte CPMs te drijven, berichtvereniging te verhogen, extra merk of productaanraakpunten toe te voegen, en gebruikers te drijven onderaan de aanschaftrechter. Tot de belangrijkste prestatie-indicatoren voor de weergave behoren [!UICONTROL Clicks] , [!UICONTROL Cost per Click] , [!UICONTROL Conversions] en [!UICONTROL Cost per Conversion] . DSP ondersteunt een groot aantal verschillende advertentiegrootten.
+* **Advertenties van de Vertoning (derde slechts)**: De advertenties van de vertoning zijn geanimeerde of statische beelden die in Webbrowsers of in apps worden getoond. Als u op de advertentie-eenheid klikt, gaat de gebruiker naar een site of microsite met merknaam. De vertoning wordt best gebruikt om efficiënte CPMs te drijven, berichtvereniging te verhogen, extra merk of productaanraakpunten toe te voegen, en gebruikers te drijven onderaan de aankoop funnel. Tot de belangrijkste prestatie-indicatoren voor de weergave behoren [!UICONTROL Clicks] , [!UICONTROL Cost per Click] , [!UICONTROL Conversions] en [!UICONTROL Cost per Conversion] . DSP biedt ondersteuning voor een groot aantal verschillende advertentiegrootten.
 
 * **Mobiele Advertenties (derde slechts)**: De mobiele advertenties kunnen in pre-rolvideo (VAST, MRAID) of standaardvertoningsformaat zijn. Mobiele voorrolvideo kan automatisch worden afgespeeld of met een klik worden afgespeeld en kan het beste worden gebruikt om gebruikers op verschillende schermen te bereiken. Mobiel standaardbeeldscherm is een statisch beeld dat wordt weergegeven in mobiele webbrowsers of in apps en is het meest geschikt voor het aanvullen van digitale videoaankopen, het koppelen van schijfberichten en het toevoegen van extra branding of productaanraakpunten. Mobiele advertenties kunnen ook functioneren als overnames op volledig scherm of als mobiele interstitiële apparaten. Dit zijn zeer geavanceerde mobiele advertenties die het beste kunnen worden gebruikt om het bewustzijn van het merk voor mobiele doelgroepen en stationsomzettingen te ontwikkelen.
 
@@ -41,24 +41,24 @@ Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specifica
 
   Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-  Zie &quot;[&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
+  Zie &quot;[ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
 
-## Goedkeuringen DSP
+## DSP en goedkeuringen
 
-Wanneer u een advertentie maakt, controleert DSP deze voor gevoelige categorieën, klikt u op URL-functionaliteit en geeft u een voorvertoning van de rendering weer.
+Wanneer u een advertentie maakt, controleert DSP deze op gevoelige categorieën, klikt u op URL-functionaliteit en geeft u een voorvertoning van de rendering weer.
 
 In eerste instantie wordt in de kolom [!UICONTROL Status] van de advertentie een rode stip weergegeven. Het herzieningsproces duurt gewoonlijk 24 tot 48 uur. Een verbroken advertentie kan echter langer dan 48 uur in behandeling zijn, dus u hebt tijd om fouten op te lossen voordat de advertentie wordt afgewezen. Geweigerde advertenties bevatten een reden voor de afwijzing.
 
 Als DSP een advertentie goedkeurt, wordt in de kolom Status van de advertentie een groene stip weergegeven.
 
-![&#x200B; goedkeuringsindicator in [!UICONTROL Status] kolom &#x200B;](/help/dsp/assets/ad-approval-status.png)
+![ goedkeuringsindicator in [!UICONTROL Status] kolom ](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
->Uw advertentie kan alleen worden aangeboden als zowel DSP als het SSP de creatieve advertentie hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
+>Je advertentie kan alleen worden aangeboden als zowel DSP als het SSP hun goedkeuring hebben gehecht aan de creatieve. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
+>* [ Advertentiespecificaties ](ad-specs.md)

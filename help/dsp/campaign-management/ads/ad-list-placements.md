@@ -1,16 +1,16 @@
 ---
-title: De aan een advertentie gekoppelde plaatsen weergeven
+title: De plaatsingen weergeven die aan een advertentie zijn gekoppeld
 description: Leer hoe u de plaatsingen kunt zien die aan een advertentie zijn gekoppeld.
 feature: DSP Ads
 exl-id: e7c6ce90-b1c9-4ed4-a7db-9e279de15520
-source-git-commit: 9d9330847c9356180928337a4a452f35e7024545
+source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# De aan een advertentie gekoppelde plaatsen weergeven
+# De plaatsingen weergeven die aan een advertentie zijn gekoppeld
 
 Bekijk een lijst met plaatsen die aan een advertentie zijn gekoppeld om de prestatiegegevens te bekijken door plaatsing en bewerk indien nodig de plaatsingsinstellingen.
 
@@ -21,7 +21,7 @@ Bekijk een lijst met plaatsen die aan een advertentie zijn gekoppeld om de prest
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
->* [&#x200B; geeft Plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uit
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ geef een Advertentie uit ](ad-edit.md)
+>* [ geeft Plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uit
+>* [ Mening een Gedetailleerd Rapport voor een Plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)

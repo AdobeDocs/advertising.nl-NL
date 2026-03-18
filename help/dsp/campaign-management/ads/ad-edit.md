@@ -3,7 +3,7 @@ title: Een advertentie bewerken
 description: Leer hoe u een advertentie kunt bewerken.
 feature: DSP Ads
 exl-id: 149eeb61-b4d1-4c88-8dcd-ad11e135a486
-source-git-commit: c97fcf61f444ab3363d9d55398402ec9f162be99
+source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 0%
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Als u de pixels voor het bijhouden van derden voor meerdere advertenties tegelijk wilt wijzigen, raadpleegt u &quot;[Advertenties toevoegen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md).&quot;
+>Om de derde volgende pixel voor veelvoudige advertenties te veranderen in één keer, zie &quot;[ Advertenties aan Plaatsingen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken.&quot;
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
 1. Klik op de naam van de campagne.
 
-1. Klik in het submenu op **[!UICONTROL Ads]**.
+1. Klik in het submenu op **[!UICONTROL Ads]** .
 
-1. Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
+1. Klik naast de naam van de advertentie op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. De advertentie-instellingen bewerken voor [audioadvertenties](ad-settings-audio.md), [aangesloten tv](ad-settings-connected-tv.md), [advertenties weergeven](ad-settings-display.md), [mobiele advertenties](ad-settings-mobile.md), [native advertenties](ad-settings-native.md), [pre-rol advertenties](ad-settings-pre-roll.md), of [universele videobanden](ad-settings-universal-video.md).
+1. Bewerk de advertentiemontages voor [ audioadvertenties ](ad-settings-audio.md), [ verbonden TV ](ad-settings-connected-tv.md), [ vertoningsadvertenties ](ad-settings-display.md), [ mobiele advertenties ](ad-settings-mobile.md), [ inheemse advertenties ](ad-settings-native.md), [ pre-rol advertenties ](ad-settings-pre-roll.md), of [ universele videoadvertenties ](ad-settings-universal-video.md).
 
    >[!NOTE]
    >
@@ -32,17 +32,17 @@ ht-degree: 0%
 
 1. Klik op **[!UICONTROL Save and Close]**.
 
-   De bewerkte advertentie doorloopt een nieuwe [advertentie bekijken](ad-about.md), die 24-48 uur in beslag neemt en controles voor gevoelige categorieën bevat, klikt u op URL-functionaliteit en rendervoorvertoning. De [!UICONTROL Status] de kolom geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
+   Bewerkte advertentie gaat door een nieuwe [ en overzicht ](ad-about.md), die 24-48 uren vergt en controles voor gevoelige categorieën omvat, klikt functionaliteit URL, en voorproef het teruggeven. De kolom [!UICONTROL Status] geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
 
    >[!NOTE]
    >
-   >Uw advertentie kan alleen worden aangeboden als zowel DSP als het SSP de creatieve advertentie hebben goedgekeurd. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
+   >Je advertentie kan alleen worden aangeboden als zowel DSP als het SSP hun goedkeuring hebben gehecht aan de creatieve. Elk SSP heeft zijn eigen goedkeuringsvereisten en proces.
 
 >[!MORELIKETHIS]
 >
->* [Over Advertentiebeheer](ad-about.md)
->* [Eén advertentie maken](ad-create.md)
->* [Meerdere externe advertenties maken](ad-create-multiple.md)
->* [Een advertentie dupliceren](ad-duplicate.md)
->* [De aan een advertentie gekoppelde plaatsen weergeven](ad-list-placements.md)
->* [Ad-specificaties](ad-specs.md)
+>* [ Ongeveer Advertentiebeheer ](ad-about.md)
+>* [ creeer Één enkele Advertentie ](ad-create.md)
+>* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
+>* [ dupliceer een Advertentie ](ad-duplicate.md)
+>* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
