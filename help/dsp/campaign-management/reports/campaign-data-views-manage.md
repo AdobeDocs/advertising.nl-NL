@@ -176,4 +176,4 @@ Selecteer **[!UICONTROL Items per page]** , *[!UICONTROL 25]* of *[!UICONTROL 50
 >* [&#x200B; Mening het Voorspelde Rapport van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-forecast.md)
 >* [&#x200B; Mening de Diagnostische Rapporten van de Plaatsing &#x200B;](placement-diagnostics.md)
 >* [&#x200B; Gegevens van de Uitvoer van een Mening van het Beheer van de Campagne &#x200B;](campaign-export-data.md)
->* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
