@@ -32,8 +32,8 @@ U kunt ook stoppen met het delen van een segment met andere DSP-gebruikersaccoun
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een Segment van de Douane ](custom-segment-create.md)
->* [ geef de Informatie van het Segment ](segment-edit.md) uit
->* [ Schrap een Segment ](segment-delete.md)
->* [ Mening Volgend Pixels voor een Segment ](segment-view-pixels.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een Segment van de Douane &#x200B;](custom-segment-create.md)
+>* [&#x200B; geef de Informatie van het Segment &#x200B;](segment-edit.md) uit
+>* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
+>* [&#x200B; Mening Volgend Pixels voor een Segment &#x200B;](segment-view-pixels.md)

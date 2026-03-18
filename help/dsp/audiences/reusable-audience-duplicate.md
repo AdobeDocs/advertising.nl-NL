@@ -24,18 +24,18 @@ U kunt een publiek maken door een bestaand publiek te dupliceren.
 
 1. Klik op **[!UICONTROL Duplicate]**.
 
-1. (Facultatief) [ verfijnen het nieuwe publiek ](reusable-audience-edit.md).
+1. (Facultatief) [&#x200B; verfijnen het nieuwe publiek &#x200B;](reusable-audience-edit.md).
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
->* [ geef een Herbruikbare Publiek ](reusable-audience-edit.md) uit
->* [ Details van de Mening over een Herbruikbaar publiek ](reusable-audience-view-details.md)
->* [ deel een Herbruikbare Publiek ](reusable-audience-share.md)
->* [ de Uitvoer een Herbruikbaar publiek ](reusable-audience-export.md)
->* [ Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord ](reusable-audience-clipboard.md)
->* [ Schrap een Herbruikbaar publiek ](reusable-audience-delete.md)
->* [ Montages van het publiek ](audience-settings.md)
->* [ Syntaxis voor de Logica van het Segment van het Publiek ](audience-segment-logic-syntax.md)
->* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; geef een Herbruikbare Publiek &#x200B;](reusable-audience-edit.md) uit
+>* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
+>* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
+>* [&#x200B; de Uitvoer een Herbruikbaar publiek &#x200B;](reusable-audience-export.md)
+>* [&#x200B; Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord &#x200B;](reusable-audience-clipboard.md)
+>* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
+>* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)

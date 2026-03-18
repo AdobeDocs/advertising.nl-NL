@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord
 
-U kunt de alfanumerieke segmentsleutel (ID) voor een publiek naar het klembord kopiëren. U kunt segmentsleutels aan [ gebruiken manueel bepalen segmentlogica ](audience-segment-logic-syntax.md) voor andere herbruikbare toehoorders.
+U kunt de alfanumerieke segmentsleutel (ID) voor een publiek naar het klembord kopiëren. U kunt segmentsleutels aan [&#x200B; gebruiken manueel bepalen segmentlogica &#x200B;](audience-segment-logic-syntax.md) voor andere herbruikbare toehoorders.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]** .
 
@@ -22,16 +22,16 @@ U kunt de alfanumerieke segmentsleutel (ID) voor een publiek naar het klembord k
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
->* [ dupliceer een Herbruikbaar publiek ](reusable-audience-duplicate.md)
->* [ geef een Herbruikbare Publiek ](reusable-audience-edit.md) uit
->* [ Details van de Mening over een Herbruikbaar publiek ](reusable-audience-view-details.md)
->* [ deel een Herbruikbare Publiek ](reusable-audience-share.md)
->* [ de Uitvoer een Herbruikbaar publiek ](reusable-audience-export.md)
->* [ Schrap een Herbruikbaar publiek ](reusable-audience-delete.md)
->* [ deel een Herbruikbare Publiek ](reusable-audience-share.md)
->* [ Schrap een Herbruikbaar publiek ](reusable-audience-delete.md)
->* [ Montages van het publiek ](audience-settings.md)
->* [ Syntaxis voor de Logica van het Segment van het Publiek ](audience-segment-logic-syntax.md)
->* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; dupliceer een Herbruikbaar publiek &#x200B;](reusable-audience-duplicate.md)
+>* [&#x200B; geef een Herbruikbare Publiek &#x200B;](reusable-audience-edit.md) uit
+>* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
+>* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
+>* [&#x200B; de Uitvoer een Herbruikbaar publiek &#x200B;](reusable-audience-export.md)
+>* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
+>* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
+>* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
+>* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)

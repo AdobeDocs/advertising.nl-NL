@@ -24,7 +24,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 
 >[!MORELIKETHIS]
 >
->* [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
->* [ Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten ](ccpa-opt-out-about.md)
->* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment ](ccpa-opt-out-segment-create.md) uit
->* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [&#x200B; de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun &#x200B;](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [&#x200B; Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten &#x200B;](ccpa-opt-out-about.md)
+>* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)

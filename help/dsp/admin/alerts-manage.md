@@ -54,7 +54,7 @@ ht-degree: 0%
 
 * Een waarschuwing bewerken in een abonnement:
 
-   1. Aan het recht van de abonnementsnaam, geeft de klik ![ ](/help/dsp/assets/edit.png) uit.
+   1. Aan het recht van de abonnementsnaam, geeft de klik ![&#x200B; &#x200B;](/help/dsp/assets/edit.png) uit.
 
    1. Bewerk de waarschuwingsparameters.
 
@@ -84,4 +84,4 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->[ Ongeveer waakzame abonnementen ](alerts-about.md)
+>[&#x200B; Ongeveer waakzame abonnementen &#x200B;](alerts-about.md)

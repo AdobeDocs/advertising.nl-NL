@@ -21,7 +21,7 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 1. Klik op **[!UICONTROL Create]**.
 
-1. Specificeer de [ adverteerdermontages ](advertiser-settings.md):
+1. Specificeer de [&#x200B; adverteerdermontages &#x200B;](advertiser-settings.md):
 
    1. In de [!UICONTROL General] -instellingen:
 
@@ -37,4 +37,4 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 >[!MORELIKETHIS]
 >
->* [ Advertiser Montages ](/help/dsp/admin/advertiser-settings.md)
+>* [&#x200B; Advertiser Montages &#x200B;](/help/dsp/admin/advertiser-settings.md)
