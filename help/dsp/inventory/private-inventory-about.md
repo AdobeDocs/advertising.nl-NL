@@ -3,9 +3,9 @@ title: Informatie over privé-voorraad
 description: Informatie over privé-voorraad
 feature: DSP Private Inventory
 exl-id: 34fc1926-a839-4f2d-8628-557542fb7835
-source-git-commit: c813954c0489d5cae067b3ea43d3527fc80c261a
+source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
 workflow-type: tm+mt
-source-wordcount: '452'
+source-wordcount: '449'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,7 @@ Adverteerders die verder kijken dan RTB kunnen privéinventarisaties gebruiken o
 
 ## Deal IDs
 
+
 Als u directe relaties hebt met uitgevers, kunt u het aankoopproces en de workflow voor media stroomlijnen met behulp van uw eigen persoonlijke deals, met hun via onderhandelingen tot stand gekomen inventaris en prijzen, in uw Advertising DSP-aanbiedingen. DSP integreert met al uw uitgevers wanneer u een account instelt. Als u later toegang tot extra uitgevers wilt, neemt u contact op met uw Adobe-accountteam om toegang in te stellen. <!-- + sentence from Ramey? (no longer here) about how we certify the publishers -->
 
 Al uw persoonlijke deals met een deal-id worden gefinancierd en gefactureerd door [!DNL Adobe].
@@ -26,13 +27,13 @@ U kunt overeenkomst IDs op één van beide volgende manieren gebruiken:
 
 * (Optionele functie die activering vereist) Vanuit [!UICONTROL Deal ID Inbox] kunt u de gegarandeerde en niet-gegarandeerde privé-voorraaddeals van uitgevers op de volgende platformen aan de aanbodzijde (SSP&#39;s) controleren en snel accepteren: [!DNL FreeWheel] [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]) en [!DNL Magnite DV+] (voorheen [!DNL Rubicon]) van de [!UICONTROL Deal ID inbox] .
 
-  Voor meer informatie, zie &quot;[&#x200B; Ongeveer [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
+  Voor meer informatie, zie &quot;[ Ongeveer [!UICONTROL Deal ID Inbox]](deal-id-inbox-about.md).&quot;
 
 * U kunt opstellingsinformatie over een privé overeenkomst manueel plaatsen u reeds hebt onderhandeld.
 
 U kunt elke privé overeenkomst als plaatsingsdoel voor veelvoudige campagnes over gespecificeerde adverteerders gebruiken. Voor gewaarborgde overeenkomsten, moet u een standaardplaatsing tot stand brengen na het creëren van de overeenkomst, maar u kunt de zelfde overeenkomst aan extra plaatsen toevoegen om de standaardplaatsing te negeren.
 
-## De mening van Overeenkomsten
+## De weergave [!UICONTROL Deals]
 
 In de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, kunt u privé overeenkomstenmontages tot stand brengen. U kunt sommige overeenkomstenmontages ook uitgeven; maak een lijst van de plaatsen en de advertenties, en maak extra plaatsingen en advertenties, aan een privé overeenkomst vast; geef adverteerders en de rekeningen uit die tot een privé overeenkomst kunnen toegang hebben; bekijk een prestatiesrapport voor een overeenkomst; bekijk veilinginzichten voor een privé overeenkomst, of archiveer of unarchiveer een overeenkomst.<!-- ; or edit the attribute tags for a deal -->
 
@@ -40,14 +41,14 @@ De kolom &quot;Gezondheid van de Overeenkomst&quot;wijst op de gezondheidsstatus
 
 U kunt aanpassen hoe de bestaande overeenkomstengegevens worden voorgesteld door filters toe te passen, de zichtbare kolommen aan te passen en naar keuze douanemeningen op te slaan, de kolommen te sorteren, en de gegevens als grafieken te bekijken.
 
-## De mening van de Lijsten van de Overeenkomst
+## De weergave [!UICONTROL Deal Lists]
 
 In de weergave [!UICONTROL Inventory] > [!UICONTROL Deal Lists] kunt u uw persoonlijke deals groeperen in lijsten, zodat u ze eenvoudiger kunt plaatsen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van de Eigenschappen van de Inventaris &#x200B;](/help/dsp/inventory/inventory-overview.md)
->* [&#x200B; Over [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
->* [&#x200B; keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed &#x200B;](deal-id-inbox-accept.md)
->* [&#x200B; creeer manueel Deal ID Details &#x200B;](deal-id-create.md)
->* [&#x200B; beheert de Lijsten van de Overeenkomst &#x200B;](/help/dsp/inventory/lists-deals-manage.md)
+>* [ Overzicht van de Eigenschappen van de Inventaris ](/help/dsp/inventory/inventory-overview.md)
+>* [ Over [!UICONTROL Deal ID Inbox]](/help/dsp/inventory/deal-id-inbox-about.md)
+>* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
+>* [ creeer manueel Deal ID Details ](deal-id-create.md)
+>* [ beheert de Lijsten van de Overeenkomst ](/help/dsp/inventory/lists-deals-manage.md)

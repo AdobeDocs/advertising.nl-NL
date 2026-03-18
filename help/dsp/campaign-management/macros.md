@@ -1,16 +1,16 @@
 ---
-title: Advertising DSP Macros
+title: Advertising DSP macros
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
-source-git-commit: 195e75386e64c3659d3f4db3c2508ac903e9e311
+source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
 
 ---
 
-# Advertising DSP Macros
+# Advertising DSP macros
 
 Een macro is een korte opdracht of korte opdracht voor een instructie en volgt doorgaans de indeling `${MACRO_NAME}` . Macro&#39;s die zijn opgenomen in creatieve code of doorklikken-URL&#39;s, worden uitgebreid naar een langere codereeks die de advertentieserver kan begrijpen. De DSP en de server voeren macro&#39;s uit wanneer de advertentie wordt bediend of geklikt.
 
@@ -18,7 +18,7 @@ Servermacro&#39;s zijn handig om belangrijke informatie door te geven aan DSP of
 
 U kunt een macro overal, zoals in een markering VAST, in om het even welke URL, of in een DSP of derdegebeurtenispixel manueel opnemen. Elke DSP-client en -partner heeft echter een andere indeling voor een advertentietag en de macro&#39;s moeten dienovereenkomstig op verschillende plaatsen in de tag worden ingevoegd. Elke keer dat u met een nieuwe klant of partner werkt, vraagt u hen om documentatie over waar u de macro&#39;s in hun advertentietags moet invoegen die door DSP worden verhandeld.
 
-## Algemene trackingsmacro&#39;s
+## Algemene volgmacro&#39;s
 
 Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en tagtypen om zo nodig specifieke gegevens door te geven.
 
@@ -43,7 +43,7 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 | ` ${TM_SITE_NAME}` | De sitenaam voor de plaatsing. | string |
 | `${TM_SITE_URL_URLENC}` | De URL die in de biedaanvraag is doorgegeven; URL-gecodeerd. Niet ondersteund voor in-banner, klik-aan-spel advertenties. | string |
 | `${TM_SITE_ID_NUM}` | De site-id voor de plaatsing. | integer |
-| `${TM_TIMESTAMP}` | De Unix-tijdstempel die aangeeft hoeveel seconden zijn verstreken sinds middernacht (00:00 UTC) op 1 januari 1970. | lang |
+| `${TM_TIMESTAMP}` | Tijdstempel Unix die het aantal seconden aangeeft dat is verstreken sinds middernacht (00 :00 UTC) op 1 januari 1970. | lang |
 | ` ${TM_VIDEO_DURATION}` | De duur van de advertentievideo in seconden. | integer |
 
 {style="table-layout:auto"}
@@ -67,7 +67,7 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 
 {style="table-layout:auto"}
 
-## Klik op Macro&#39;s voor externe weergaveadvertenties
+## Klik op macro&#39;s voor andere weergaveadvertenties
 
 DSP vereist een klikmacro voor de weergave om op nauwkeurige wijze te kunnen bijhouden voor advertenties die gebruikmaken van externe weergavetags. Er is slechts één versie van de macro vereist; de relevante macro is afhankelijk van het type code.
 
@@ -87,7 +87,7 @@ Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, toont DSP
 
 ## [!DNL Analytics for Advertising] Macro&#39;s
 
-Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[&#x200B;  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  Advertentietags &#x200B;](/help/integrations/analytics/macros-flashtalking.md)&quot;toevoegen en &quot;[&#x200B; voegt  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  Advertentietags ](/help/integrations/analytics/macros-flashtalking.md)&quot;toevoegen en &quot;[ voegt  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
 ## Problemen met macrofouten oplossen
 
@@ -100,10 +100,10 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Audio Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [&#x200B; Verbonden TV en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [&#x200B; Vertoning en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [&#x200B; Mobiele Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [&#x200B; Inheemse Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [&#x200B; pre-rol en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [&#x200B; Universele Video en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [ Audio Advertentie Montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [ Verbonden TV en Montages ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [ Vertoning en Montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [ Mobiele Advertentie Montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [ Inheemse Montages ](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [ pre-rol en Montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [ Universele Video en Montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

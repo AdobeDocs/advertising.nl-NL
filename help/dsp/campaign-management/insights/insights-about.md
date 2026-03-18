@@ -3,7 +3,7 @@ title: Informatie over inzichten
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: 0f022babeab6c044949760cedc103323eb0cc950
+source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt [&#x200B; de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
+U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
-### [!UICONTROL Home] Tab
+### [!UICONTROL Home] tab
 
 Het tabblad [!UICONTROL Home] bevat belangrijke standaard-, prestatie- en weergavemetriek voor alle campagnes van een adverteerder. Standaard worden kruisplaatsingsgegevens voor een specifieke adverteerder en een aangepast doel weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder, een verschillend douanedoel, of een specifieke plaatsing te tonen. <!-- I don't see campaigns or packages anymore:  You can optionally configure filters to show data for a different advertiser or data for only specific campaigns, packages, custom goals, and placements. --> De inzichten omvatten:
 
@@ -38,7 +38,7 @@ Het tabblad [!UICONTROL Home] bevat belangrijke standaard-, prestatie- en weerga
 
 * **[!UICONTROL Delivery Breakdown]:** Een verdeling van de gegevens voor specifieke metriek door drie klant-gespecificeerde afmetingen, zoals door campagne, uitgever, en media type. Voor elke dimensionale verdeling kunt u een andere metrische waarde kiezen.
 
-### [!UICONTROL Household Reach] Tab
+### [!UICONTROL Household Reach] tab
 
 Het tabblad [!UICONTROL Household Reach] bevat cijfers over het bereik van huishoudens in alle campagnes van een adverteerder. Standaard worden gegevens over andere campagnes weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder, voor een specifieke campagne, over pakketten of plaatsen, of voor een specifiek pakket of een plaatsing te tonen. De inzichten omvatten:
 
@@ -62,7 +62,7 @@ Het tabblad [!UICONTROL Household Reach] bevat cijfers over het bereik van huish
    * **Gematigd effect**
    * **Beperkte invloed:** vereist aandacht
 
-### [!UICONTROL Household Conversion] Tab
+### [!UICONTROL Household Conversion] tab
 
 Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over alle campagnes van een adverteerder <!-- active only? -->. Standaard worden cross-campagnegegevens voor een specifieke adverteerder en een specifieke omzettingsmetrische waarde weergegeven. U kunt filters naar keuze vormen om gegevens voor een verschillende adverteerder of omzettingsmetrisch, voor een specifieke campagne, over pakketten of plaatsen, of voor een specifiek pakket of een plaatsing te tonen. De inzichten omvatten:
 
@@ -84,7 +84,7 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
    * **Gematigd effect**
    * **Beperkte invloed:** vereist aandacht
 
-## Open Performance Insiders
+## Open prestatieinzicht
 
 * (Als u inzichten voor alle campagnes wilt openen) Klik in het hoofdmenu op **[!UICONTROL Insights BETA]** .
 
@@ -92,9 +92,9 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 * (Als u inzichten voor een specifieke plaatsing wilt openen) klikt u naast de naam van de entiteit in de weergave [!UICONTROL Campaigns] , [!UICONTROL Packages] of [!UICONTROL Placements] op **[!UICONTROL ...]** > **[!UICONTROL Analyze]** > **[!UICONTROL Insights]** .
 
-## Filters toepassen op een tabblad
+## Filters toepassen op een tab
 
-1. In de toolbar bij de bovenkant van het lusje, klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png).
+1. In de toolbar bij de bovenkant van het lusje, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
 
 1. Selecteer in de linkerkolom een dimensie en selecteer vervolgens een of meer waarden in de rechterkolom, al naar gelang van toepassing.
 
@@ -104,15 +104,15 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 1. (Optioneel) Als u de gegevens verder wilt beperken, selecteert u het type entiteit op de werkbalk en selecteert u een specifieke entiteitswaarde (één campagne, pakket of plaatsing).
 
-## Dimension-rapporten wijzigen voor een Insight
+## De dimensie wijzigen die wordt gerapporteerd voor een insight
 
 * Selecteer de dimensie in het keuzemenu linksboven in de insight.
 
-## De Metriek wijzigen die wordt gerapporteerd voor een Insight
+## De gegevens wijzigen die worden gerapporteerd voor een insight
 
 Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel door Adobe Advertising worden bijgehouden als door Adobe Analytics worden bijgehouden.
 
-1. Aan het hogere recht van insight, klik ![&#x200B; Metrische montages &#x200B;](/help/dsp/assets/metric-settings.png " Metrische montages ").
+1. Aan het hogere recht van insight, klik ![ Metrische montages ](/help/dsp/assets/metric-settings.png " Metrische montages ").
 
 1. Selecteer de metriek en klik op **[!UICONTROL Apply]** .
 
@@ -122,15 +122,15 @@ Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel doo
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
-## Een specifieke Insight downloaden naar een XLSX-bestand
+## Een specifieke insight downloaden naar een XLSX-bestand
 
-* Aan het hogere recht van insight, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
+* Aan het hogere recht van insight, klik ![ Download ](/help/creative/assets/download.png " ").
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
->* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [ beheer uw meningen van campagnegegevens ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

@@ -3,7 +3,7 @@ title: Plaatsen dupliceren
 description: Leer hoe u een of meer stages dupliceert.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
-source-git-commit: 860761bf65dd6ea35abbb3b04863d78c6461fe0f
+source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Dupliceer een of meer plaatsen om plaatsingen met gelijkaardige montages tot sta
 * (Voor dubbele plaatsen binnen de originele campagnes) Naar keuze dupliceer de originele advertenties
 * De status en vluchtdata van de nieuwe plaatsingen wijzigen
 
-Zie &quot;[&#x200B; wat niet &#x200B;](#placement-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
+Zie &quot;[ wat niet ](#placement-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -70,12 +70,12 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
    * Adds
    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segmenten (die de adverteerders-vlakke segmenten met voeten treden)
 
-## Beste praktijken om de Nieuwe Plaatsen te vormen
+## Tips en trucs om de nieuwe plaatsingen te configureren
 
 >[!TIP]
 >
->* De bulksbladen van het gebruik om [&#x200B; veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md).
->* Het gebruik ad markeringsbladen aan [&#x200B; uploadt veelvoudige derdeadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+>* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
+>* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 * Onderbreek de nieuwe plaatsingen tot u bereid bent om hen te activeren.
 
@@ -97,8 +97,8 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
->* [&#x200B; creeer een Plaatsing &#x200B;](placement-create.md)
->* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)
+>* [ Ongeveer het Beheer van de Plaatsing ](placement-about.md)
+>* [ creeer een Plaatsing ](placement-create.md)
+>* [ geeft Plaatsen ](placement-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
+>* [ Montages van de Plaatsing ](placement-settings.md)

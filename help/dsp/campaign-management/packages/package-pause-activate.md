@@ -2,7 +2,8 @@
 title: Een pakket onderbreken of activeren
 description: Leer hoe u een pakket pauzeert of activeert.
 feature: DSP Packages
-source-git-commit: 81f761e44b6f5a0bef9524468b57d97c021ef2b2
+exl-id: c4a6fb08-14db-4c8b-ab7a-0bbc0f201390
+source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -17,9 +18,9 @@ Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking ze
 
 ## Een pakket pauzeren
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
-1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Pause]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
+1. Klik op de naam van de campagne om de weergave [!UICONTROL Packages] te openen.
+1. Klik naast de pakketnaam op **[!UICONTROL ...]** > **[!UICONTROL Pause]** .
 
 >[!NOTE]
 >
@@ -27,12 +28,12 @@ Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking ze
 
 ## Een pakket activeren
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
-1. Klik op de naam van de campagne om het dialoogvenster [!UICONTROL Packages] weergeven.
-1. Klik naast de pakketnaam op  **[!UICONTROL ...]** > **[!UICONTROL Activate]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
+1. Klik op de naam van de campagne om de weergave [!UICONTROL Packages] te openen.
+1. Klik naast de pakketnaam op **[!UICONTROL ...]** > **[!UICONTROL Activate]** .
 
 >[!MORELIKETHIS]
 >
->* [Een pakket bewerken](package-edit.md)
->* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Een pakket archiveren](package-archive-unarchive.md)
+>* [ geef een Pakket ](package-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ Archiveer een Pakket ](package-archive-unarchive.md)

@@ -3,7 +3,7 @@ title: Een pakket dupliceren
 description: Leer hoe u een pakket dupliceert.
 feature: DSP Packages
 exl-id: 75842776-a024-43c9-aaf8-1126c0b9d717
-source-git-commit: 860761bf65dd6ea35abbb3b04863d78c6461fe0f
+source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
 workflow-type: tm+mt
 source-wordcount: '410'
 ht-degree: 0%
@@ -22,7 +22,7 @@ Dupliceer een pakket om een pakket met gelijkaardige montages tot stand te breng
 
 * De vluchtdatums van het nieuwe pakket wijzigen
 
-Zie &quot;[&#x200B; wat niet &#x200B;](#package-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
+Zie &quot;[ wat niet ](#package-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -48,7 +48,7 @@ Zie &quot;[&#x200B; wat niet &#x200B;](#package-not-duplicated)&quot;voor een li
 
 1. Klik op **[!UICONTROL Submit]**.
 
-## Wat is niet gedupliceerd {#package-not-duplicated}
+## Wat wordt niet gedupliceerd {#package-not-duplicated}
 
 Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
@@ -63,12 +63,12 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
    * Adds
    * Placement-level [!DNL DoubleVerify Authentic Brand Safety] segmenten (die de adverteerders-vlakke segmenten met voeten treden)
 
-## Beste praktijken om het Nieuwe Pakket te vormen
+## Aanbevolen procedures voor het configureren van het nieuwe pakket
 
 >[!TIP]
 >
->* De bulksbladen van het gebruik om [&#x200B; veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md).
->* Het gebruik ad markeringsbladen aan [&#x200B; uploadt veelvoudige derdeadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+>* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
+>* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 * Onderbreek het nieuwe pakket totdat u het kunt activeren.
 
@@ -90,12 +90,12 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
    * Maak waar nodig nieuwe plaatsingen voor [!UICONTROL Simple Ad Serving] -deals.
 
-* Voor pakketten die aangepaste optimalisatiedoelstellingen gebruiken, gebruik [[!UICONTROL Linked Package for Optimization Learnings Carryover] plaatsend &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor elk pakket om de historische gegevens van de vorige campagne als input voor het optimaliseren van het pakket te gebruiken.
+* Voor pakketten die aangepaste optimalisatiedoelstellingen gebruiken, gebruik [[!UICONTROL Linked Package for Optimization Learnings Carryover] plaatsend ](/help/dsp/campaign-management/packages/package-settings.md) voor elk pakket om de historische gegevens van de vorige campagne als input voor het optimaliseren van het pakket te gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Pakket &#x200B;](package-about.md)
->* [&#x200B; creeer een Pakket &#x200B;](package-create.md)
->* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](package-settings.md)
+>* [ Ongeveer het Beheer van het Pakket ](package-about.md)
+>* [ creeer een Pakket ](package-create.md)
+>* [ geef een Pakket ](package-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ de Montages van het Pakket ](package-settings.md)

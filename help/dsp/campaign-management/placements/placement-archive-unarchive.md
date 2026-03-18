@@ -3,7 +3,7 @@ title: Een plaatsing archiveren of archiveren
 description: Leer hoe u een plaatsing archiveert of decodeert.
 feature: DSP Placements
 exl-id: 4304452d-4573-46b3-892e-299950a75d4f
-source-git-commit: 18c68edec80a80d236df138c05fba8d857c9ed9e
+source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 0%
@@ -28,7 +28,7 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 
 >[!NOTE]
 >
->Om gearchiveerde plaatsen te bekijken, filter de [!UICONTROL Placements] mening: klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png), klik **[!UICONTROL Placement status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
+>Om gearchiveerde plaatsen te bekijken, filter de [!UICONTROL Placements] mening: klik ![ knoop van de Filter ](/help/dsp/assets/filter.png), klik **[!UICONTROL Placement status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
 
 ## Een plaatsing verwijderen
 
@@ -40,6 +40,6 @@ U kunt een plaatsing desarchiveren om zijn vorige status op elk ogenblik te hers
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; deactivate of activeert een Plaatsing &#x200B;](placement-pause-activate.md)
->* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
+>* [ deactivate of activeert een Plaatsing ](placement-pause-activate.md)
+>* [ geeft Plaatsen ](placement-edit.md) uit
+>* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
