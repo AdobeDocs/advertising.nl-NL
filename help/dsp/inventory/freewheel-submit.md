@@ -1,32 +1,32 @@
 ---
-title: Verzend een Advertentie voor een Overeenkomst van PG aan [!DNL FreeWheel]
-description: Leer hoe te om goedkeuring voor een advertentie voor een programma gewaarborgde overeenkomst met een uitgever te verzoeken op [!DNL Freewheel].
+title: Verzend een advertentie voor een overeenkomst van PG aan  [!DNL FreeWheel]
+description: Leer hoe te om goedkeuring voor een advertentie voor een programmatic gewaarborgde overeenkomst met een uitgever op  [!DNL Freewheel] te verzoeken.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 18d91f0c-4a27-4e40-b762-6c5e97e9a21a
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
 workflow-type: tm+mt
-source-wordcount: '239'
+source-wordcount: '240'
 ht-degree: 0%
 
 ---
 
-# Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]
+# Een advertentie voor een door het programma gegarandeerde deal indienen bij [!DNL Freewheel]
 
-*Accounts met de [!DNL FreeWheel] Alleen via programmacode gegarandeerde machtiging*
+*slechts Rekeningen met de [!DNL FreeWheel] Programmatic gewaarborgde toestemming*
 
-Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox), met inbegrip van het selecteren van een advertentie en het creëren van programmatic gewaarborgde standaardplaatsing voor de overeenkomst te gebruiken, moet u de advertentie voorleggen aan [!DNL Freewheel] ter goedkeuring.
+Zodra u [ een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goedkeurt, met inbegrip van het selecteren van een advertentie en het creëren van de programmatic gewaarborgde standaardplaatsing voor de overeenkomst, moet u de advertentie aan [!DNL Freewheel] voor goedkeuring voorleggen.
 
 >[!PREREQUISITES]
 >
->Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] account heeft toestemming om de [!DNL FreeWheel] programmatisch gegarandeerde workflow.
+>Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] -account toestemming heeft om de door het programma gegarandeerde workflow van [!DNL FreeWheel] te gebruiken.
 
-1. Kopieer de advertentiesleutel voor de advertentie die met de [!DNL Freewheel] deal:
+1. Kopieer de advertentiesleutel voor de advertentie die met de [!DNL Freewheel] overeenkomst wordt gebruikt:
 
    1. Klik op de naam van de campagne.
 
-   1. Klik in het submenu op **[!UICONTROL Ads]**.
+   1. Klik in het submenu op **[!UICONTROL Ads]** .
 
-   1. Klikken  **[!UICONTROL ...]** > **[!UICONTROL Edit]** naast de naam van de advertentie.
+   1. Klik op **[!UICONTROL ...]** > **[!UICONTROL Edit]** naast de advertentienaam.
 
    1. Wanneer de advertentie-instellingen zijn geopend, kopieert u de alfanumerieke advertentietoets in de URL die wordt weergegeven in de adresbalk van de browser.
 
@@ -36,23 +36,23 @@ Eenmaal [aanvaarden een programmatic gewaarborgde overeenkomst met een uitgever 
       https://advertising.adobe.com/configurator/ad/3NtNC5ZbaGZtqbei8jD3?referrer=/playtime/ads
       ```
 
-1. De advertentie verzenden naar [!DNL Freewheel]:
+1. De advertentie verzenden naar [!DNL Freewheel] :
 
    1. Voer een van de volgende handelingen uit:
 
-      * Klik naast de naam van de advertentie op  **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]**.
+      * Klik naast de naam van de advertentie op **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]** .
 
-      * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]**. In de overeenkomstenrij, klik ![Menu Opties](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
-   1. Verifieer overeenkomstenidentiteitskaart, ga in **[!UICONTROL Ad Key]** u hebt gekopieerd in Stap 1 en klikt vervolgens op **[!UICONTROL Submit]**.
+      * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** . In de overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
+
+   1. Verifieer overeenkomstenidentiteitskaart, ga **[!UICONTROL Ad Key]** in u in Stap 1 kopieerde, en klik dan **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [De verzendstatus van de advertentie controleren](freewheel-check-status.md).
+1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]](freewheel-overview.md)
->* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](freewheel-check-status.md)
->* [Foutcodes voor [!DNL Freewheel] Advertentie verzenden](freewheel-error-codes.md)
-
+>* [ Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in  [!DNL Freewheel]](freewheel-overview.md)
+>* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
+>* [ Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Overeenkomsten ](freewheel-check-status.md)
+>* [ Codes van de Fout voor  [!DNL Freewheel]  Advertentie ](freewheel-error-codes.md)

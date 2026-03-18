@@ -1,48 +1,46 @@
 ---
-title: Overzicht van de Overeenkomsten van PG van de Opstelling in [!DNL Freewheel]
-description: Meer informatie over de vereisten en extra stappen die nodig zijn om advertenties voor gegarandeerde programmacontracten met uitgevers uit te voeren op [!DNL Freewheel].
+title: Overzicht van het opzetten van de overeenkomsten van PG in  [!DNL Freewheel]
+description: Leer over de eerste vereisten en extra stappen noodzakelijk om advertenties voor programmatic gewaarborgde overeenkomsten met uitgevers op  [!DNL Freewheel] in werking te stellen.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: b9c60248-8104-42ef-8afb-2f9db67b33b0
-source-git-commit: 14f78b89dea8cc680756232c6116975c652feee5
+source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
 workflow-type: tm+mt
-source-wordcount: '223'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL Freewheel]
+# Overzicht van het instellen van door het programma gegarandeerde deals in [!DNL Freewheel]
 
-Programma&#39;s gegarandeerde deals met uitgevers opzetten op [!DNL Freewheel] vereist extra machtigingen en stappen.
+Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL Freewheel] zijn extra machtigingen en stappen vereist.
 
 >[!PREREQUISITES]
 >
->Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] account heeft de volgende machtigingen:
+>Werk samen met uw Adobe-accountteam om ervoor te zorgen dat uw [!DNL DSP] -account de volgende machtigingen heeft:
 >
->* Machtiging om de [!DNL FreeWheel] programmatic gegarandeerde workflow, die vereist is om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel].
+>* Toestemming om de door het programma gegarandeerde workflow van [!DNL FreeWheel] te gebruiken. Deze is vereist om een advertentie voor een door het programma gegarandeerde deal in te dienen bij [!DNL FreeWheel] .
 >
->* (Als u met Britse uitgevers werkt die een [!DNL Clearcast] kloknummer bij elke advertentie) toestemming om kloknummers op te nemen in uw advertenties.
-
+>* (Als u met Britse uitgevers werkt die een [!DNL Clearcast] kloknummer voor elke advertentie nodig hebben), kunt u kloknummers in uw advertenties opnemen.
 
 ## Workflow
 
 1. Creeer een advertentie met het media type dat in de overeenkomst wordt gespecificeerd.
 
-   Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer met je advertentie.
+   Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer bij uw advertentie opnemen.
 
-1. [Accepteer deal-id](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) die u al hebt onderhandeld met een uitgever op [!DNL Freewheel] het gebruiken van identiteitskaart van de Overeenkomst Inbox.
+1. [ keurt overeenkomstidentiteitskaart ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL Freewheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 
-1. [De advertentie verzenden naar [!DNL Freewheel]](freewheel-submit.md)
+1. [De advertentie verzenden naar  [!DNL Freewheel]](freewheel-submit.md)
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [De verzendstatus van de advertentie controleren](freewheel-check-status.md).
+1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Verzend Ad voor een Programma Gegarandeerde Overeenkomst aan [!DNL Freewheel]](freewheel-submit.md)
->* [Controleer de status van advertenties voor [!DNL FreeWheel] Door programmacode gegarandeerde deals](freewheel-check-status.md)
->* [Foutcodes voor [!DNL Freewheel] Advertentie verzenden](freewheel-error-codes.md)
-
+>* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
+>* [ voorlegt een Advertentie voor een Programmatische Gegarandeerde Overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
+>* [ Controle de Status van Advertenties voor  [!DNL FreeWheel]  Programmatic Gegarandeerde Overeenkomsten ](freewheel-check-status.md)
+>* [ Codes van de Fout voor  [!DNL Freewheel]  Advertentie ](freewheel-error-codes.md)
