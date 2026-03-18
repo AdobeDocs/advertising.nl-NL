@@ -18,7 +18,7 @@ De volgende richtlijnen schetsen onaanvaardbare en aanvaardbare volkssegmenten o
 
 Deze richtlijnen worden samengevat in de [!DNL Network Advertising Alliance (NAI)] .
 
-Zie ook [ Adobe Advertising en vereisten beleid ](/help/policies/ad-requirements-policy.md) om te bepalen of een op gezondheid betrekking hebbende publiekssegment per Adobe Advertising het richten beleid bruikbaar is.
+Zie ook [&#x200B; Adobe Advertising en vereisten beleid &#x200B;](/help/policies/ad-requirements-policy.md) om te bepalen of een op gezondheid betrekking hebbende publiekssegment per Adobe Advertising het richten beleid bruikbaar is.
 
 ## Gezondheidssegmenten die niet mogen worden gebruikt
 
@@ -50,4 +50,4 @@ Alle volgende waarden moeten waar zijn:
 
 >[!MORELIKETHIS]
 >
->* [ Adds vereisten beleid ](/help/policies/ad-requirements-policy.md)
+>* [&#x200B; Adds vereisten beleid &#x200B;](/help/policies/ad-requirements-policy.md)
