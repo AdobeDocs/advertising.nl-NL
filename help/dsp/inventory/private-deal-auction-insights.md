@@ -1,46 +1,46 @@
 ---
-title: Inzichten in veilingen weergeven voor een persoonlijke deal
+title: veilinginzichten weergeven voor een persoonlijke deal
 description: Leer hoe te om veilinginzichten te gebruiken om de overeenkomstensamenstelling van privé overeenkomst te analyseren.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: bbb99f6a-0276-4eb8-9607-75500d5634d9
-source-git-commit: 1ac58da2d538cc682161ebc944a0412ad4a8af17
+source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 0%
 
 ---
 
-# Inzichten in veilingen weergeven voor een persoonlijke deal
+# veilinginzichten weergeven voor een persoonlijke deal
 
-De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Met behulp van gegevensvisualisaties toont dit gereedschap de trend en de relatieve verhoudingen van waarden die worden ontvangen voor [belangrijke veilingkenmerken](#auction-attributes) binnen een bepaalde termijn.
+De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Gebruikend gegevensvisualisaties, toont dit hulpmiddel de trend en relatieve aandelen van waarden die voor [ worden ontvangen zeer belangrijke veilingsattributen ](#auction-attributes) binnen een specifieke tijdspanne.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]**.
 
 >[!NOTE]
 >
->Veilinginzichten zijn ook beschikbaar via de plaatsing [!UICONTROL Inspector] gebruiken. Om ze te openen, [de plaatsing openen [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan de [!UICONTROL Inventory tab]en klik vervolgens op **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in de overeenkomstenrij.
+>Veilinginzichten zijn ook beschikbaar via het plaatsingsprogramma [!UICONTROL Inspector] . Om hen te openen, [ open de plaatsing [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan [!UICONTROL Inventory tab], en klik dan **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in de overeenkomstenrij.
 
-## Veilingskenmerken {#auction-attributes}
+## Veilingkenmerken {#auction-attributes}
 
 Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
-* **Type advertentie:** Het advertentietype dat is aangevraagd in de veiling (zoals Weergave of Audio).
+* **Type van Advertentie:** het gevraagde advertentietype in de veiling (zoals Vertoning of Audio).
 
-* **Browser:** De browser van waaruit de veiling is gestart (zoals Chrome of Firefox).
+* **Browser:** browser waarvan de veiling (zoals Chrome of Firefox) voortkwam.
 
-* **Besturingssysteem:** Het besturingssysteem (OS) van waaruit de veiling is gestart (zoals Android of iOS).
+* **OS:** het werkende systeem (OS) waarvan de veiling (zoals Android of iOS) voortkwam.
 
-* **Apparaattype:** Het apparaat waarvan de veiling is gestart (zoals mobiele telefoon of bureaublad).
+* **Type van Apparaat:** het apparaat waarvan de veiling (zoals Mobiele Telefoon of Desktop) voortkwam.
 
-* **Duur advertentie:** De maximale en maximale duur die in een veiling is aangevraagd (bijvoorbeeld 15 of 30).
+* **Add Duur:** het maximum en de duur die in veiling (zoals 15s of 30s) wordt gevraagd.
 
-* **Beveiligen:** Geeft aan of de veiling beveiligde HTTPS URL-creatieve middelen vereist. Waarden: <i>Beveiligen</i> of <i>Niet-beveiligd</i>.
+* **Veilig:** wijst erop als de veiling veilige HTTPS URL creatieve activa vereist. Waarden: <i> Veilig </i> of <i> niet-veilig </i>.
 
-* **MIME-type:** Het ad creative MIME-type dat is aangevraagd in de veiling (zoals mp4 of mov).
+* **Type Mime:** het ad creatieve type MIME dat in de veiling (zoals mp4 of mov) wordt gevraagd.
 
-![veilinginzichten](/help/dsp/assets/auction-insights.png)
+![ veilinginzichten ](/help/dsp/assets/auction-insights.png)
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
 >[!MORELIKETHIS]
 >
->* [Informatie over privé-voorraad](private-inventory-about.md)
->* [Plaatsingen en advertenties voor een identiteitskaart van de Overeenkomst specificeren](deal-id-attach-placements.md)
->* [Bekijk een Gedetailleerd Rapport voor een Overeenkomst](deal-view-report.md)
->* [Typen prestatierapporten in Campaign Management-weergaven](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
+>* [ specificeer Plaatsingen en Advertenties voor identiteitskaart van de Overeenkomst ](deal-id-attach-placements.md)
+>* [ Mening een Gedetailleerd Rapport voor een Overeenkomst ](deal-view-report.md)
+>* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)

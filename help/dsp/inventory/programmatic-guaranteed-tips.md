@@ -1,26 +1,26 @@
 ---
-title: Tips voor onderhandelingen over een gegarandeerde programmatische deal
+title: Tips voor het onderhandelen over een door het programma gegarandeerde deal
 description: Leer tips voor het onderhandelen over een PG-deal (met gegarandeerde programmacode) en lijsten met de verantwoordelijkheden van kopers en uitgevers.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 41a2a307-5cb2-4b41-bb3b-edee1e15c5fa
-source-git-commit: 7e614ecb517515217d812926f61ca10437820efd
+source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
 workflow-type: tm+mt
-source-wordcount: '145'
-ht-degree: 0%
+source-wordcount: '147'
+ht-degree: 1%
 
 ---
 
-# Tips voor onderhandelingen over een gegarandeerde programmatische deal
+# Tips voor het onderhandelen over een door het programma gegarandeerde deal
 
 Bij het onderhandelen over een gegarandeerde programmatic deal moeten de koper en uitgever de volgende items bespreken en bevestigen:
 
 * Vluchtdatum
 * Geos
-* Inventarisatietypen
-* Creatieve lengten
+* Inventaristypen
+* Creative-lengten
 * Weergavegrootten
 * Prestatiedoelen
-* Bandveiligheidseisen
+* Veiligheidseisen voor merken
 * Doelgroep
 * Impressies
 * Begroting
@@ -29,23 +29,22 @@ Bij het onderhandelen over een gegarandeerde programmatic deal moeten de koper e
 * Dagscheiding
 * Activeringsproces
 
-## Verantwoordelijkheden van de koper voor een door programmacode gegarandeerde overeenkomst
+## Verantwoordelijkheden van de koper voor een door het programma gegarandeerde deal
 
 * Installatie en activering van deals
 * Opzetten van een door het programma gegarandeerde plaatsing
 * Problemen oplossen
-* Aflevering
+* Afleveringscontrole
 * Het uitvoeren van een 95%-100% bieder/reactiepercentage
 
-## Verantwoordelijkheden van uitgever voor een Programma Gegarandeerde Overeenkomst
+## Uitgever verantwoordelijkheden voor een programmatiegarandeerde deal
 
-* Aflevering van de onderhandelde begroting, indrukkingen, CPM, geos, publiek, frequentie en overdag binnen de vereiste vluchtdata
+* Aflevering van de onderhandelde begroting, indrukken, CPM, geos, publiek, frequentie en overdag binnen de vereiste vluchtdata
 * Voldoen aan de KPI- en merkveiligheidseisen binnen de vereiste vluchtdata
 * Problemen oplossen
 
 >[!MORELIKETHIS]
 >
->* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
->* [Opstelling een Programma Gegarandeerde Overeenkomst](programmatic-guaranteed-set-up.md)
->* [SSP-partners](ssp-partners.md)
-
+>* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ SSP Partners ](ssp-partners.md)

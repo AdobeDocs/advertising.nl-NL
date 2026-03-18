@@ -1,67 +1,67 @@
 ---
-title: Opstelling een Programma Gegarandeerde Overeenkomst
+title: Opstelling een programmatically gewaarborgde overeenkomst
 description: Leer hoe te opstelling een programma gewaarborgde (PG) overeenkomst u met een uitgever hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: d962942f-c248-4b48-97bd-baa2df3a519e
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
 
-# Opstelling een Programma Gegarandeerde Overeenkomst
+# Opstelling een programmatically gewaarborgde overeenkomst
 
-*[Alleen ondersteunde platforms aan de aanbodzijde](programmatic-guaranteed-about.md)*
+*[Ondersteunde slechts platforms van de aanbodzijde](programmatic-guaranteed-about.md)*
 
-Nadat u een programmatic gewaarborgde (PG) overeenkomst met een gesteunde uitgever onderhandelt, kunt u opstelling de overeenkomst binnen DSP of door te gebruiken [!DNL Deal ID inbox] of door de overeenkomstendetails manueel in te gaan.
+Nadat u een programma gewaarborgde (PG) overeenkomst met een gesteunde uitgever onderhandelt, kunt u opstelling de overeenkomst binnen DSP of door te gebruiken [!DNL Deal ID inbox] of door de overeenkomstendetails manueel in te gaan.
 
 >[!NOTE]
 >
 > Voor PG-deals verwerkt de uitgever alle budgettaire mogelijkheden, budgetplafonds en doelframes. Alle SSPs die PG door DSP toestaan bevestigen dat de uitgever begroting het begrenzen kan plaatsen.
 >
-> Door middel van programmacode gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van de Opstelling Programma Gegarandeerde Overeenkomsten in [!DNL FreeWheel]](freewheel-overview.md)&quot; voor meer informatie .
+> Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist. Zie &quot;[ Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in  [!DNL FreeWheel]](freewheel-overview.md)&quot;voor meer informatie.
 
-## Opstelling een Programmatic Gegarandeerde Overeenkomst Gebruikend [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
+## Opstelling een programmatic gewaarborgde overeenkomst gebruikend [!DNL Deal ID Inbox] {#pg-setup-deal-id-inbox}
 
-De volgende methode heeft de voorkeur voor [!DNL FreeWheel], [!DNL Google Authorized Buyers], en [!DNL Magnite DV+].
+De volgende methode heeft de voorkeur voor [!DNL FreeWheel] , [!DNL Google Authorized Buyers] en [!DNL Magnite DV+] .
 
-1. [Accepteer de deal](deal-id-inbox-accept.md).
+1. [ keurt de overeenkomst ](deal-id-inbox-accept.md) goed.
 
 1. Nadat u de overeenkomst opslaat, selecteer de advertenties (of 1x1 het volgen pixel voor uitgever-beheerde advertenties) om voor de overeenkomst te gebruiken en tot een programmatic gewaarborgde standaardplaatsing (PG) te leiden, zoals ertoe aangezet.
 
-   Het creëren van een standaardplaatsing van PG voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
+   Het creëren van een standaardplaatsing van PG voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit type plaatsing heeft geen doel, zodat DSP een bod kan uitbrengen op elke aanvraag voor een bod van de uitgever.
 
    * Als u één enkele overeenkomst goedkeurt, wordt u automatisch opnieuw gericht aan het werkschema van de de creatie van de plaatsing van PG gebrek.
 
-     Alles [!DNL FreeWheel] overeenkomsten worden voorgesteld als één enkele overeenkomst .
+     Alle [!DNL FreeWheel] -deals worden voorgesteld als één enkele deal.
 
    * Als u een voorstel met veelvoudige PG deal IDs goedkeurt, dan identificeer elke PG standaardplaatsing u moet creëren. Wanneer u alle vereiste plaatsingen hebt gemaakt, wordt de knop Doorgaan ingeschakeld.
 
-1. (Optioneel) Bepaal de PG-deal in extra PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Facultatief) richt de overeenkomst PG in extra plaatsing PG of niet-PG door ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]** te klikken.
 
    Een deal kan gericht zijn op meerdere plaatsingen die elke combinatie van mediatypen ondersteunen (zoals aangesloten tv, bureaublad en audio).
 
-## Opstelling manueel een Programma Gegarandeerde Overeenkomst
+## Handmatig een door het programma gegarandeerde deal instellen
 
 Gebruik deze methode voor alle andere SSPs.
 
-1. [Handmatig de details van de deal-id instellen](deal-id-create.md).
+1. [ manueel opstelling de details van identiteitskaart van de overeenkomst ](deal-id-create.md).
 
 1. Nadat u sparen de overeenkomst, de advertenties (of 1x1 het volgen pixel voor uitgever-beheerde advertenties) om voor de overeenkomst te gebruiken en een PG standaardplaatsing tot stand te brengen, zoals ertoe aangezet.
 
-   Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit soort plaatsing heeft geen doel, zodat DSP een bod op elke biedaanvraag van de uitgever kan retourneren.
+   Het creëren van een PG standaardplaatsing voor de overeenkomst is verplicht om 100% van uw aankoop te leveren. Dit type plaatsing heeft geen doel, zodat DSP een bod kan uitbrengen op elke aanvraag voor een bod van de uitgever.
 
-1. (Optioneel) Bepaal de PG-deal in extra PG- of niet-PG-plaatsing door op ![Menu Opties](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]**.
+1. (Facultatief) richt de overeenkomst PG in extra plaatsing PG of niet-PG door ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL Attach new placement]** te klikken.
 
    Een deal kan gericht zijn op meerdere plaatsingen die elke combinatie van mediatypen ondersteunen (zoals aangesloten tv, bureaublad en audio).
 
 >[!MORELIKETHIS]
 >
->* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
->* [Tips voor onderhandelingen over een gegarandeerde programmatische deal](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
->* [Accepteer een Overeenkomst in identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-accept.md)
->* [Handmatig details van deal-id maken](deal-id-create.md)
->* [SSP-partners](ssp-partners.md)
->* [Overzicht van voorraadfuncties](inventory-overview.md)
+>* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ Uiteinden voor het Onderhandelingen van een Programma Gegarandeerde Overeenkomst ](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [ voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [ keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed ](deal-id-inbox-accept.md)
+>* [ creeer manueel Deal ID Details ](deal-id-create.md)
+>* [ SSP Partners ](ssp-partners.md)
+>* [ Overzicht van de Eigenschappen van de Inventaris ](inventory-overview.md)

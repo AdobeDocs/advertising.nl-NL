@@ -1,38 +1,37 @@
 ---
-title: Een wijzigingslogboek voor een campagne weergeven
+title: Een wijzigingslogboek voor de campagne weergeven
 description: Leer hoe u de wijzigingen in de campagne kunt bekijken.
 feature: DSP Campaigns
 exl-id: ba96a277-937a-4475-bab6-6e0a4f5ced13
-source-git-commit: ff50eda8d8b12579d664cf636c3c9e56069d8bb9
+source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 0%
 
 ---
 
-# Het Wijzigingslogboek voor een campagne weergeven
+# Het wijzigingslogboek weergeven voor een campagne
 
 Wijzigingslogbestanden bevatten wijzigingen die in de campagne zijn aangebracht tijdens het geselecteerde datumbereik, zoals de naam van de campagne, het type entiteit (campagne), het type wijziging, de nieuwe en oude waarden, de gebruiker die de wijziging heeft aangebracht en de datum. U kunt desgewenst notities toevoegen aan elke invoer.
 
 U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-1. Klik naast de naam van de campagne op  **[!UICONTROL ...]** > **[!UICONTROL Change logs]**.
+1. Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Change logs]** .
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
-   * Als u wilt schakelen tussen het weergeven van de gegevens in tabelvorm en in tabel- en diagramformulieren, klikt u op ![Tabel- en grafiekweergave](/help/dsp/assets/table-plus-chart-view.png "Tabel- en grafiekweergave") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de rechterbovenwerkbalk.
+   * Om tussen het bekijken van de gegevens in lijstvorm slechts en in zowel lijst als grafiekvormen te schakelen, klik ![ Lijst en grafiekmening ](/help/dsp/assets/table-plus-chart-view.png " Lijst en grafiekmening ") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de hogere juiste toolbar.
 
-   * Als u een notitie aan een bericht wilt toevoegen, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL Add Notes]**. Typ tekst in de invoervelden en klik vervolgens op **[!UICONTROL Save]**.
+   * Als u een notitie wilt toevoegen aan een item, houdt u de cursor boven de kolom [!UICONTROL Notes] voor de rij en klikt u op **[!UICONTROL Add Notes]** . Voer tekst in de invoervelden in en klik op **[!UICONTROL Save]** .
 
-   * Als u de details van een item in een pop-upvenster wilt weergeven, houdt u de cursor boven de [!UICONTROL Notes] kolom voor de rij en klik vervolgens op **[!UICONTROL More]>[!UICONTROL View Details]**.
+   * Als u de details van een item in een pop-upvenster wilt weergeven, houdt u de cursor boven de kolom [!UICONTROL Notes] voor de rij en klikt u op **[!UICONTROL More]>[!UICONTROL View Details]** .
 
 >[!MORELIKETHIS]
 >
->* [Informatie over Campaign Management](campaign-about.md)
->* [Een campagne maken](campaign-create.md)
->* [Een campagne bewerken](campaign-edit.md)
->* [Campagne-instellingen](campaign-settings.md)
->* [Een campagne onderbreken of activeren](campaign-pause-activate.md)
-
+>* [ Ongeveer het Beheer van de Campagne ](campaign-about.md)
+>* [ creeer een Campagne ](campaign-create.md)
+>* [ geef een Campagne ](campaign-edit.md) uit
+>* [ Montages van de Campagne ](campaign-settings.md)
+>* [ Pauzeren of een Campagne activeren ](campaign-pause-activate.md)
