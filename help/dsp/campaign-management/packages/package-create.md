@@ -32,4 +32,4 @@ Wanneer u een pakket hebt gemaakt, kunt u er plaatsingen aan toewijzen.
 >* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
 >* [&#x200B; Pauze of activeer een Pakket &#x200B;](package-pause-activate.md)
 >* [&#x200B; de Montages van het Pakket &#x200B;](package-settings.md)
->* [&#x200B; Video: Hoe te om een Pakket &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html) te creëren
+>* [&#x200B; Video: Hoe te om een Pakket &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/package-create.html?lang=nl-NL) te creëren
