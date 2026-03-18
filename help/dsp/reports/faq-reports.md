@@ -2,7 +2,7 @@
 title: Veelgestelde vragen over aangepaste rapporten
 description: Meer informatie over aangepaste rapporten, waaronder rapporten van het huishouden en analytische rapporten over het omzetpad.
 exl-id: 3ffd178e-de41-4663-b85f-bd8ce3eb0dad
-source-git-commit: a1ece707f43af4a6a3fc5573e41c75622f9b502f
+source-git-commit: 800f2c90bf95f029a0ecb42f45c29fa9e2ac3d55
 workflow-type: tm+mt
 source-wordcount: '1178'
 ht-degree: 0%
@@ -11,9 +11,9 @@ ht-degree: 0%
 
 # Veelgestelde vragen over aangepaste rapporten
 
-## Huishoudelijke rapporten
+## Huishoudelijke verslagen
 
-### Het [!UICONTROL Household Reach & Frequency] -rapport
+### Het rapport [!UICONTROL Household Reach & Frequency]
 
 #### Hoe verschillen [!UICONTROL Household Reach & Frequency] -rapporten van andere aangepaste rapporten?
 
@@ -23,11 +23,11 @@ Zelfs als er bijvoorbeeld één indruk wordt gemaakt op drie apparaten binnen é
 
 ##### Ondersteunde afmetingen
 
-Het [!UICONTROL Household Reach & Frequency] rapport steunt [&#x200B; volgende afmetingen &#x200B;](/help/dsp/reports/report-columns.md): &quot;[!UICONTROL Campaign],&quot;[!UICONTROL Package], &quot;[!UICONTROL Placement],&quot;&quot;[!UICONTROL Site/Apps]&quot; (die geen toegang tot overlappende metriek) verleent, &quot;[!UICONTROL Media Type], &quot;[!UICONTROL Feed Type], &quot;[!UICONTROL Device],&quot;&quot;[!UICONTROL Publisher], &quot;[!UICONTROL Audience],&quot;&quot;[!UICONTROL Creative Length],&quot; en gebruiker-gecreeerde plaatsing &quot;[!UICONTROL Tags].&quot; |
+Het [!UICONTROL Household Reach & Frequency] rapport steunt [ volgende afmetingen ](/help/dsp/reports/report-columns.md): &quot;[!UICONTROL Campaign],&quot;[!UICONTROL Package], &quot;[!UICONTROL Placement],&quot;&quot;[!UICONTROL Site/Apps]&quot; (die geen toegang tot overlappende metriek) verleent, &quot;[!UICONTROL Media Type], &quot;[!UICONTROL Feed Type], &quot;[!UICONTROL Device],&quot;&quot;[!UICONTROL Publisher], &quot;[!UICONTROL Audience],&quot;&quot;[!UICONTROL Creative Length],&quot; en gebruiker-gecreeerde plaatsing &quot;[!UICONTROL Tags].&quot; |
 
 ##### Ondersteunde metriek
 
-De [&#x200B; beschikbare metriek &#x200B;](/help/dsp/reports/report-columns.md) omvatten:
+De [ beschikbare metriek ](/help/dsp/reports/report-columns.md) omvatten:
 
 * Overlap metriek: [!UICONTROL Frequency Overlap] , [!UICONTROL Measurable Impressions (Overlap)] en [!UICONTROL Unique Household (Overlap)] .
 
@@ -41,7 +41,7 @@ De metriek van de omzetting en douanedoelstellingen worden niet gesteund.
 
 In de volgende afbeelding ziet u drie meeteenheden (Unieke waarde voor huishoudens bereikt, Incrementele huishoudens bereikt en Incrementele huishoudens (overlapping)) voor drie campagnes (A, B en C).
 
-![&#x200B; Illustratie van huisoverlap metriek &#x200B;](/help/dsp/assets/household-overlap-metrics-illustration.png " Illustratie van huisoverlap metriek ")
+![ Illustratie van huisoverlap metriek ](/help/dsp/assets/household-overlap-metrics-illustration.png " Illustratie van huisoverlap metriek ")
 
 * Unieke huishoudens die zijn bereikt (totaal), geven de unieke huishoudens aan die door elk van de campagnes zijn bereikt of het totale oppervlak van elk van de cirkels. In de figuur is het unieke huishouden bereikt door A = het incrementele huishouden bereikt door A + (A+B) + (A+C) + (A+B+C)
 
@@ -51,7 +51,7 @@ In de volgende afbeelding ziet u drie meeteenheden (Unieke waarde voor huishoude
 
 #### Workflow
 
-Volg de normale stappen om [&#x200B; tot een douanerapport &#x200B;](report-create.md) te leiden.
+Volg de normale stappen om [ tot een douanerapport ](report-create.md) te leiden.
 
 Het [!UICONTROL Household Reach & Frequency] -rapport kan slechts één dimensie bevatten. Het kan ook a) metriek door om het even welke afmeting behalve Plaats/Apps of b) niet-overlappende metriek omvatten, maar niet allebei.
 
@@ -67,11 +67,11 @@ Deze metriek in [!UICONTROL Household] rapporten wordt berekend gebruikend de da
 
 #### Hoe configureer ik het rapport voor de [!UICONTROL Placement Tags] -dimensie?
 
-Om markeringen voor de plaatsing tot stand te brengen, [&#x200B; open de plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) en ga waarden op het [&#x200B; gebied van de Markeringen van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in.
+Om markeringen voor de plaatsing tot stand te brengen, [ open de plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-edit.md) en ga waarden op het [ gebied van de Markeringen van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md) in.
 
 Wanneer een plaatsing veelvoudige markeringen omvat, beschouwt het rapport het volledige koord als één markering. Het rapport bevat één rij voor elke unieke tekenreeks.
 
-### Het [!UICONTROL Household Conversions] -rapport
+### Het rapport [!UICONTROL Household Conversions]
 
 #### Welke toewijzingsmethoden worden ondersteund in het [!UICONTROL Household Conversions] -rapport?
 
@@ -91,7 +91,7 @@ Er worden twee typen toewijzingsmethoden ondersteund:
 
 ### [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] Rapporten versus gegevens van [!DNL Advanced Measurement Services]
 
-Voor geavanceerde rapportering over huishouden-gebaseerd bereik en frequentie of omzettingen, kan het [[!DNL Strategic Advertising Consulting]  team &#x200B;](/help/dsp/introduction/advanced-measurement-services.md) hoogst klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Neem voor meer informatie over [!DNL Advanced Measurement Services] contact op met uw Adobe-accountteam.
+Voor geavanceerde rapportering over huishouden-gebaseerd bereik en frequentie of omzettingen, kan het [[!DNL Strategic Advertising Consulting]  team ](/help/dsp/introduction/advanced-measurement-services.md) hoogst klantgerichte rapporten samen met holistische strategische aanbevelingen verstrekken. Neem voor meer informatie over [!DNL Advanced Measurement Services] contact op met uw Adobe-accountteam.
 
 #### Als ik [!DNL Advanced Measurement Services] al gebruik, waarom zou ik [!UICONTROL Household Reach & Frequency] en [!UICONTROL Household Conversions] rapporten moeten gebruiken?
 
@@ -101,7 +101,7 @@ In de rapporten [!UICONTROL Household Reach & Frequency] en [!UICONTROL Househol
 
 Het ideale geval is om zowel het [!UICONTROL Household] -rapport als de [!DNL Advanced Measurement Services] -services voor rapportage en advies samen te gebruiken. Beschouw het [!UICONTROL Household] -rapport als transactie, dat bedoeld is om dagelijkse optimalisaties te informeren, en [!DNL Advanced Measurement Services] als strategischer, dat bedoeld is om holistische lessen te informeren en overgangen te maken die verband houden met overkoepelende bedrijfsdoelstellingen.
 
-## Analyserapporten van pad voor conversie
+## Conversiepadanalyseverslagen
 
 ### Hoe verhoudt het rapport Pad naar conversie zich tot rapporten die zijn gemaakt door [!DNL Advanced Measurement Services] en Adobe Analytics Analysis Workspace?
 
@@ -117,12 +117,12 @@ Het ideale geval is om zowel het [!UICONTROL Household] -rapport als de [!DNL Ad
 | Marketingkanalen | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | DSP + Zoeken (van Zoeken, Sociaal en Commerce) | Marketingkanalen die niet worden bijgehouden door de Adobe Advertising klikken via EF-id (zoals Organic Search, Organic Social, Email en Affiliate) |
 | Ondersteunde omzettingsstatistieken | Metrisch bijgehouden met Adobe Advertising-gebeurtenispixel (AMO-id) en Adobe Analytics-tracking | Klikken (geen conversies) | Metrische gegevens bijgehouden met gebruik van Adobe Analytics tracking |
 
-Voor meer informatie over het Geavanceerde Effect van de Halo van de Diensten van de Meting van de Meting op het Onderzoek die, zie &quot;[&#x200B; Geavanceerde Diensten van de Meting &#x200B;](/help/dsp/introduction/advanced-measurement-services.md) melden.&quot;
+Voor meer informatie over het Geavanceerde Effect van de Halo van de Diensten van de Meting van de Meting op het Onderzoek die, zie &quot;[ Geavanceerde Diensten van de Meting ](/help/dsp/introduction/advanced-measurement-services.md) melden.&quot;
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
+>* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
+>* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
+>* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
+>* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
