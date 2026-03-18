@@ -20,7 +20,7 @@ U kunt pakketten handmatig maken of bestaande pakketten dupliceren. U kunt ook p
 
 Het dashboard van [!UICONTROL Packages] centraliseert prestaties en economische rapportering over al uw pakketstrategieën, die snelle momentopnamen verstrekken van hoe uw pakketten tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
 
-![ het dashboard van Pakketten ](/help/dsp/assets/package-dashboard.png)
+![&#x200B; het dashboard van Pakketten &#x200B;](/help/dsp/assets/package-dashboard.png)
 
 Het dashboard bevat een aanpasbare trendgrafiek op hoog niveau met drie cijfers.
 
@@ -28,14 +28,14 @@ Het toont ook het verpakken en leveringsmetriek door pakket, door gebrek. U kunt
 
 >[!NOTE]
 >
->U kunt de inhoud en de levering van pakket verder aanpassen rapporterend via [ douanerapporten ](/help/dsp/reports/report-about.md).
+>U kunt de inhoud en de levering van pakket verder aanpassen rapporterend via [&#x200B; douanerapporten &#x200B;](/help/dsp/reports/report-about.md).
 
 Als u alle plaatsen in een pakket en de vluchtdatums voor het pakket wilt zien, klikt u op de pakketnaam.
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Pakket ](package-create.md)
->* [ geef een Pakket ](package-edit.md) uit
->* [ maak een Plaatsing aan een Pakket ](package-attach-placement.md) vast
->* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
->* [ de Montages van het Pakket ](package-settings.md)
+>* [&#x200B; creeer een Pakket &#x200B;](package-create.md)
+>* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
+>* [&#x200B; maak een Plaatsing aan een Pakket &#x200B;](package-attach-placement.md) vast
+>* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
+>* [&#x200B; de Montages van het Pakket &#x200B;](package-settings.md)

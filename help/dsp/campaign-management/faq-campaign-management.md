@@ -44,6 +44,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ Beste praktijken voor de Campagnes van Prestaties van de Opstelling ](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Beste praktijken voor de Campagnes van Prestaties van de Opstelling &#x200B;](/help/dsp/optimization/campaign-best-practices-performance.md)

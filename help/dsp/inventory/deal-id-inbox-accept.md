@@ -18,7 +18,7 @@ Gebruik [!UICONTROL Deal ID inbox] om snel een persoonlijke deal te accepteren d
 
 >[!NOTE]
 >
->Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist. Zie &quot;[ Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in FreeWheel ](freewheel-overview.md)&quot;voor meer informatie.
+>Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist. Zie &quot;[&#x200B; Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in FreeWheel &#x200B;](freewheel-overview.md)&quot;voor meer informatie.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -30,13 +30,13 @@ Gebruik [!UICONTROL Deal ID inbox] om snel een persoonlijke deal te accepteren d
 
 1. (Als u eerder de overeenkomst hebt genegeerd) Klik de **[!UICONTROL Ignored Deals]** tabel.
 
-1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en ![ Overzicht ](/help/dsp/assets/review.png) te klikken.
+1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en ![&#x200B; Overzicht &#x200B;](/help/dsp/assets/review.png) te klikken.
 
 1. Voer een van de volgende handelingen uit:
 
    * Klik op **[!UICONTROL Accept]** in de details van de deal.
 
-   * In [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![ Accepteren ](/help/dsp/assets/accept.png).
+   * In [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![&#x200B; Accepteren &#x200B;](/help/dsp/assets/accept.png).
 
 1. In de overeenkomstendetails:
    1. Voltooi de vereiste informatie: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, en **[!UICONTROL Deal Access]** (de adverteerders met toegang tot de deal).
@@ -50,8 +50,8 @@ Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID in
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer identiteitskaart Inbox van de Overeenkomst ](deal-id-inbox-about.md)
->* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)
->* [ voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
->* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
->* [ Overzicht van de Eigenschappen van de Inventaris ](inventory-overview.md)
+>* [&#x200B; Ongeveer identiteitskaart Inbox van de Overeenkomst &#x200B;](deal-id-inbox-about.md)
+>* [&#x200B; opstelling een Programma Gegarandeerde Overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
+>* [&#x200B; voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [&#x200B; Ongeveer Programmatic gewaarborgde Overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
+>* [&#x200B; Overzicht van de Eigenschappen van de Inventaris &#x200B;](inventory-overview.md)

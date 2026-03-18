@@ -85,4 +85,4 @@ Neem contact op met uw Adobe-accountteam voor informatie over alle geavanceerde 
 
 >[!MORELIKETHIS]
 >
->[ Gesteunde Valuta&#39;s in Adobe Advertising ](/help/dsp/currency.md)
+>[&#x200B; Gesteunde Valuta&#39;s in Adobe Advertising &#x200B;](/help/dsp/currency.md)

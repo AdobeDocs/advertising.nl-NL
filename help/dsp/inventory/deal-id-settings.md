@@ -18,7 +18,7 @@ ht-degree: 0%
 | | [!UICONTROL External deal ID] | Identiteitskaart die door uw uitgever en SSP wordt gebruikt om deze overeenkomst te identificeren. | Ja | Nee |
 | | [!UICONTROL Publisher] | De naam van de uitgever die deze voorraad verkoopt. | Ja | Nee |
 | | [!UICONTROL SSP] | Het platform aan de aanbodzijde (SSP) waardoor deze overeenkomst loopt. | Ja | Nee |
-| | [!UICONTROL Media type] | Het type media dat door deze deal wordt gekocht: *[!UICONTROL Desktop video]*, *[!UICONTROL Mobile video]*, *[!UICONTROL Connected TV]*, *[!UICONTROL Display]*, *[!UICONTROL Audio]* of *[!UICONTROL Publisher Managed]*. De opties variëren door SSP.<br><br> als de overeenkomst veelvoudige media types toestaat, selecteer het media type voor de standaardplaatsing wanneer u de overeenkomst creeert. Later, kunt u de waarde veranderen, of u kunt [ een nieuwe plaatsing met het extra media type ](deal-id-attach-placements.md) enkel vastmaken.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Ja | Nee |
+| | [!UICONTROL Media type] | Het type media dat door deze deal wordt gekocht: *[!UICONTROL Desktop video]*, *[!UICONTROL Mobile video]*, *[!UICONTROL Connected TV]*, *[!UICONTROL Display]*, *[!UICONTROL Audio]* of *[!UICONTROL Publisher Managed]*. De opties variëren door SSP.<br><br> als de overeenkomst veelvoudige media types toestaat, selecteer het media type voor de standaardplaatsing wanneer u de overeenkomst creeert. Later, kunt u de waarde veranderen, of u kunt [&#x200B; een nieuwe plaatsing met het extra media type &#x200B;](deal-id-attach-placements.md) enkel vastmaken.<!-- It would be ideal if this field was multi-select rather than a radio button, so you don't have to "change" the value later. --> | Ja | Nee |
 | | [!UICONTROL Deal type] | De overeenkomst verplichting en het tarief structuur:<br><ul><li>*[!UICONTROL Non guaranteed (floor)]*: U en de uitgever hebben zich niet verbonden aan een vast aantal impliciete afleveringen. De transactie specificeert de minimumprijs voor de voorraad, hoewel de CPM kan fluctueren en stijgen afhankelijk van de marktomstandigheden.</li><li>*[!UICONTROL Non guaranteed (fixed)]*: U en de uitgever hebben zich niet verbonden aan een vast aantal impliciete afleveringen. Prijzen worden vastgesteld tegen een door onderhandelingen bepaalde vaste koers.</li><li>*[!UICONTROL Guaranteed (fixed)]*: U en de uitgever zijn het eens geworden over een vooraf gedefinieerd aantal indrukken, doelen, vluchtdatums en vaste prijs.<br><br><b> Nota:</b> de gewaarborgde overeenkomsten vereisen vluchtdata en een gespecificeerd aantal beelden in de [!UICONTROL Tracking] sectie. U moet ook een standaard programmatic gegarandeerde plaatsing (PG) voor de overeenkomst tot stand brengen, en u kunt naar keuze de overeenkomst voor andere plaatsen in plaats daarvan gebruiken.</li></ul> | Ja | Nee |
 | | [!UICONTROL CPM] | De overeengekomen kosten per 1000 beelden (CPM). | Ja | Ja |
 | | [ Valuta ] | De valuta voor de deal.<br><br> Alle SSPs keurt overeenkomsten in USD goed. Als het SSP de valuta voor je DSP-account accepteert, is die valuta ook beschikbaar. | Ja | Nee |
@@ -32,6 +32,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ creeer manueel Deal ID Details ](deal-id-create.md)
->* [ SSP Partners ](ssp-partners.md)
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
+>* [&#x200B; creeer manueel Deal ID Details &#x200B;](deal-id-create.md)
+>* [&#x200B; SSP Partners &#x200B;](ssp-partners.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)

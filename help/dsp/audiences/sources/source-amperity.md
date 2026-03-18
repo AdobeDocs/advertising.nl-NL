@@ -16,15 +16,15 @@ ht-degree: 0%
 
 Gebruik de DSP-integratie met het [!DNL Amperity] -klantgegevensplatform om de gehashte e-mailadressen van de eerste partij van uw organisatie om te zetten in universele id&#39;s voor gerichte advertenties.
 
-1. (Om e-mailadressen in [!DNL RampIDs]<!-- or [!DNL ID5] IDs --> om te zetten; adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [ Opstelling het volgen om  [!DNL Analytics]  meting ](#analytics-tracking) toe te laten.
+1. (Om e-mailadressen in [!DNL RampIDs]<!-- or [!DNL ID5] IDs --> om te zetten; adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) [&#x200B; Opstelling het volgen om  [!DNL Analytics]  meting &#x200B;](#analytics-tracking) toe te laten.
 
-1. [ creeer een publieksbron in DSP ](#source-create).
+1. [&#x200B; creeer een publieksbron in DSP &#x200B;](#source-create).
 
-1. [ voorbereidingen treffen en deel segment-afbeelding gegevens ](#map-data).
+1. [&#x200B; voorbereidingen treffen en deel segment-afbeelding gegevens &#x200B;](#map-data).
 
-1. [ Verzoek om een gegevensduw van  [!DNL Amperity]  aan DSP ](#push-data).
+1. [&#x200B; Verzoek om een gegevensduw van  [!DNL Amperity]  aan DSP &#x200B;](#push-data).
 
-1. [ vergelijk het aantal universele IDs met het aantal gehakte e-mailadressen ](#compare-id-count).
+1. [&#x200B; vergelijk het aantal universele IDs met het aantal gehakte e-mailadressen &#x200B;](#compare-id-count).
 
 ## Stap 1: Tekstspatiëring instellen voor [!DNL Analytics] -meting {#analytics-tracking}
 
@@ -32,7 +32,7 @@ Gebruik de DSP-integratie met het [!DNL Amperity] -klantgegevensplatform om de g
 
 Als u e-mailadressen wilt converteren naar [!DNL RampIDs] - of [!DNL ID5] -id&#39;s, moet u het volgende doen:
 
-1. (Als u dit nog niet hebt gedaan) voltooi alle [ eerste vereisten voor het uitvoeren van  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) en zorg ervoor dat [ identiteitskaart van AMO en identiteitskaart EF ](/help/integrations/analytics/ids.md) in uw het volgen URLs wordt bevolkt.
+1. (Als u dit nog niet hebt gedaan) voltooi alle [&#x200B; eerste vereisten voor het uitvoeren van  [!DNL Analytics for Advertising]](/help/integrations/analytics/prerequisites.md) en zorg ervoor dat [&#x200B; identiteitskaart van AMO en identiteitskaart EF &#x200B;](/help/integrations/analytics/ids.md) in uw het volgen URLs wordt bevolkt.
 
 1. Registreer u bij de partner voor de universele id en implementeer de specifieke code voor de universele id op uw webpagina&#39;s om de conversies van de id&#39;s in de webbrowsers voor bureaublad en mobiele apparaten (maar niet voor mobiele apps) aan te passen aan de doorzoekresultaten:
 
@@ -40,7 +40,7 @@ Als u e-mailadressen wilt converteren naar [!DNL RampIDs] - of [!DNL ID5] -id&#3
 
 ## Stap 2: Een publieksbron maken in DSP {#source-create}
 
-1. [ creeer een publieksbron ](source-manage.md) om publiek in uw rekening van DSP of een adverteerderrekening in te voeren. U kunt verkiezen om uw gebruikersherkenningstekens in om het even welke [ beschikbare universele formaten van identiteitskaart ](source-about.md) om te zetten.
+1. [&#x200B; creeer een publieksbron &#x200B;](source-manage.md) om publiek in uw rekening van DSP of een adverteerderrekening in te voeren. U kunt verkiezen om uw gebruikersherkenningstekens in om het even welke [&#x200B; beschikbare universele formaten van identiteitskaart &#x200B;](source-about.md) om te zetten.
 
    De bronmontages zullen een auto-geproduceerde bronsleutel omvatten, die u zult gebruiken om de segmentgegevens te duwen.
 
@@ -82,17 +82,17 @@ De segmenten worden vernieuwd op de manier die voor de adverteerder is geconfigu
 
 Nadat DSP de segmentgegevens heeft ontvangen, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn.
 
-Vergelijk in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen de plaatsingsinstellingen) het aantal universele id&#39;s met het aantal oorspronkelijke gehashte e-mailadressen. Voor informatie over aanvaardbare identiteitskaart vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[ Varianties van Gegevens tussen E-mail IDs en Universele IDs ](#universal-ids-data-variances).&quot;
+Vergelijk in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen de plaatsingsinstellingen) het aantal universele id&#39;s met het aantal oorspronkelijke gehashte e-mailadressen. Voor informatie over aanvaardbare identiteitskaart vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[&#x200B; Varianties van Gegevens tussen E-mail IDs en Universele IDs &#x200B;](#universal-ids-data-variances).&quot;
 
 ## Problemen oplossen
 
-Om vertaaltarief en gebruikerstellingskwesties problemen op te lossen, zie &quot;[ Steun voor het Activeren van Universal IDs ](/help/dsp/audiences/universal-ids.md).&quot;
+Om vertaaltarief en gebruikerstellingskwesties problemen op te lossen, zie &quot;[&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md).&quot;
 
 Neem contact op met uw Adobe-accountteam of `adcloud-support@adobe.com` om problemen met de conversieprocedure op te lossen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de Bronnen van het Publiek van de Eerste Partij ](/help/dsp/audiences/sources/source-about.md)
->* [ beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart ](source-manage.md) te activeren
->* [ Steun voor het Activeren van Universal IDs ](/help/dsp/audiences/universal-ids.md)
->* [ Ongeveer het Beheer van het Publiek ](/help/dsp/audiences/audience-about.md)
+>* [&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](/help/dsp/audiences/sources/source-about.md)
+>* [&#x200B; beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart &#x200B;](source-manage.md) te activeren
+>* [&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](/help/dsp/audiences/audience-about.md)

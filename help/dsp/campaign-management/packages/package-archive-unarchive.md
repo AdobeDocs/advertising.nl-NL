@@ -25,7 +25,7 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 >[!NOTE]
 >
->Om gearchiveerde pakketten te bekijken, filter de [!UICONTROL Packages] mening: klik ![ knoop van de Filter ](/help/dsp/assets/filter.png), klik **[!UICONTROL Package status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
+>Om gearchiveerde pakketten te bekijken, filter de [!UICONTROL Packages] mening: klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png), klik **[!UICONTROL Package status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
 
 ## Het archiveren van een pakket ongedaan maken
 
@@ -36,6 +36,6 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 >[!MORELIKETHIS]
 >
->* [ geef een Pakket ](package-edit.md) uit
->* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
->* [ Pauze of activeer een Pakket ](package-pause-activate.md)
+>* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
+>* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
+>* [&#x200B; Pauze of activeer een Pakket &#x200B;](package-pause-activate.md)

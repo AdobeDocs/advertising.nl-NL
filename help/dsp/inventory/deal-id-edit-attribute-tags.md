@@ -15,7 +15,7 @@ U kunt labels maken en toewijzen om te gaan met id&#39;s om vergelijkbare deals 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
 
-1. In de overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL edit tags]**.
+1. In de overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL edit tags]**.
 
 1. Voer in de [!UICONTROL Ad & Deal Tagging] -instellingen een van de volgende handelingen uit:
 
@@ -29,5 +29,5 @@ U kunt labels maken en toewijzen om te gaan met id&#39;s om vergelijkbare deals 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ geef Privé Montages van de Overeenkomst ](/help/dsp/inventory/deal-id-edit.md) uit
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; geef Privé Montages van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-edit.md) uit

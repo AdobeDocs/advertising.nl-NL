@@ -32,8 +32,8 @@ U kunt de naam en het raadplegingsvenster voor een douanesegment, of de naam van
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
->* [ creeer een Segment van de Douane ](custom-segment-create.md)
->* [ Schrap een Segment ](segment-delete.md)
->* [ Mening Volgend Pixels voor een Segment ](segment-view-pixels.md)
->* [ Aandeel of Einde delend een Segment ](segment-share.md)
+>* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
+>* [&#x200B; creeer een Segment van de Douane &#x200B;](custom-segment-create.md)
+>* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
+>* [&#x200B; Mening Volgend Pixels voor een Segment &#x200B;](segment-view-pixels.md)
+>* [&#x200B; Aandeel of Einde delend een Segment &#x200B;](segment-share.md)

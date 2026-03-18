@@ -26,7 +26,7 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 
 >[!NOTE]
 >
->Als u gearchiveerde advertenties wilt weergeven, filtert u de [!UICONTROL Ads] weergave: klik op ![[!UICONTROL Filter] knop ](/help/dsp/assets/filter.png) , klik op **[!UICONTROL Ad status]** en selecteer **[!UICONTROL Archived]** en klik vervolgens op **[!UICONTROL Apply].**
+>Als u gearchiveerde advertenties wilt weergeven, filtert u de [!UICONTROL Ads] weergave: klik op ![[!UICONTROL Filter] knop &#x200B;](/help/dsp/assets/filter.png) , klik op **[!UICONTROL Ad status]** en selecteer **[!UICONTROL Archived]** en klik vervolgens op **[!UICONTROL Apply].**
 
 ## Een advertentie verwijderen
 
@@ -38,6 +38,6 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 
 >[!MORELIKETHIS]
 >
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ geef een Advertentie uit ](ad-edit.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)

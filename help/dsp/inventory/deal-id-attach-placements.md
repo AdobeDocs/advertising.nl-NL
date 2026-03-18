@@ -16,11 +16,11 @@ Voor niet-gegarandeerde deals kunt u vanuit de weergave [!UICONTROL Placements] 
 
 Voor door het programma gegarandeerde (PG) deals kunt u vanuit de [!UICONTROL Deals] -weergave plaatsen met opgegeven advertenties maken.
 
-U kunt ook [ advertenties aan plaatsen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) verbonden aan PG en niet-gewaarborgde overeenkomsten op elk ogenblik vastmaken.
+U kunt ook [&#x200B; advertenties aan plaatsen &#x200B;](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) verbonden aan PG en niet-gewaarborgde overeenkomsten op elk ogenblik vastmaken.
 
 ## Geef een niet-gegarandeerde deal op als inventarisdoel voor een plaatsing
 
-* [ creeer een plaatsing van de [!UICONTROL Placements] mening ](/help/dsp/campaign-management/placements/placement-create.md). In de [!UICONTROL Inventory Targeting] montages, selecteer de privé overeenkomst.
+* [&#x200B; creeer een plaatsing van de [!UICONTROL Placements] mening &#x200B;](/help/dsp/campaign-management/placements/placement-create.md). In de [!UICONTROL Inventory Targeting] montages, selecteer de privé overeenkomst.
 
 ## Plaatsen en advertenties aan een PG-deal koppelen
 
@@ -40,7 +40,7 @@ U kunt ook [ advertenties aan plaatsen ](/help/dsp/campaign-management/ads/ad-at
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Facultatief) geef de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
+      1. (Facultatief) geef de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
@@ -54,8 +54,8 @@ De plaatsing begint lopend nadat de uitgever uw PG overeenkomst ID activeert.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ maak een lijst van de Plaatsen en Adverten voor een PrivéOvereenkomst ](/help/dsp/inventory/private-deal-view-placements.md)
->* [ creeer manueel Deal ID Details ](deal-id-create.md)
->* [ Hand de Montages van identiteitskaart van de Overeenkomst ](deal-id-settings.md)
->* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; maak een lijst van de Plaatsen en Adverten voor een PrivéOvereenkomst &#x200B;](/help/dsp/inventory/private-deal-view-placements.md)
+>* [&#x200B; creeer manueel Deal ID Details &#x200B;](deal-id-create.md)
+>* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)
+>* [&#x200B; opstelling een Programma Gegarandeerde Overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)

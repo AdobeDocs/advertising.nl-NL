@@ -73,7 +73,7 @@ De prognose bevat de volgende informatie:
 
 1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Zoek de sectie **[!UICONTROL Forecast]** in de rechterbovenhoek. Indien nodig, klik ![ Voorspelde ](/help/dsp/assets/placement-forecast.png).
+1. Zoek de sectie **[!UICONTROL Forecast]** in de rechterbovenhoek. Indien nodig, klik ![&#x200B; Voorspelde &#x200B;](/help/dsp/assets/placement-forecast.png).
 
    >[!NOTE]
    >
@@ -81,6 +81,6 @@ De prognose bevat de volgende informatie:
 
 >[!MORELIKETHIS]
 >
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](campaign-reports-about.md)
->* [ Mening de Diagnostische Rapporten van de Plaatsing ](/help/dsp/campaign-management/reports/placement-diagnostics.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
+>* [&#x200B; Mening de Diagnostische Rapporten van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

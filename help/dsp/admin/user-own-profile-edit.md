@@ -63,6 +63,6 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
 
 >[!MORELIKETHIS]
 >
->* [ nodig een Nieuwe Gebruiker voor Uw Rekening van de Organisatie ](user-invite.md) uit
+>* [&#x200B; nodig een Nieuwe Gebruiker voor Uw Rekening van de Organisatie &#x200B;](user-invite.md) uit
 
 <!-- >* [User Profile and Organization Account Settings](user-and-account-settings.md) -->
