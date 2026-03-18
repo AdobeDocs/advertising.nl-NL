@@ -32,7 +32,7 @@ DSP vraagt je niet om deze signalen naar Audience Manager te sturen. U betaalt e
 
 * U kunt de campagnegegevens voor dergelijke gebruiksgevallen gebruiken, zoals het aftappen van de frequentie over creatieve personen, het herrichten van gebruikers die aan vorige campagnes werden blootgesteld, en het analyseren van stroomafwaarts plaatsgedrag en ingangspunten.
 
-* De bijeengevoegde gegevens verstrekken een verenigde mening van campagneprestaties, hulp identificeert de wegen van de douaneomzetting, en kunnen worden gebruikt om de opeenvolging van gebeurtenissen te verbeteren die tot omzettingen door Audience Manager [!DNL Audience Optimization Reports] of door een [[!DNL Audience Analytics]  integratie met Adobe Analytics ](/help/integrations/audience-manager/audience-analytics.md) leiden.
+* De bijeengevoegde gegevens verstrekken een verenigde mening van campagneprestaties, hulp identificeert de wegen van de douaneomzetting, en kunnen worden gebruikt om de opeenvolging van gebeurtenissen te verbeteren die tot omzettingen door Audience Manager [!DNL Audience Optimization Reports] of door een [[!DNL Audience Analytics]  integratie met Adobe Analytics &#x200B;](/help/integrations/audience-manager/audience-analytics.md) leiden.
 
 ## Hoe de gegevens worden bijgehouden
 
@@ -40,17 +40,17 @@ De Audience Manager-indruk en klik op gebeurtenispixels zijn gebaseerd op cookie
 
 ### Pixels voor het bijhouden van indrukken
 
-Audience Manager houdt de gegevens bij van de indruk van een advertentie wanneer u een pixel van 1 pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen van een cliënt-specifiek subdomain van [`demdex.net` ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is, en parameters als zeer belangrijk-waardeparen bevat. Met de gebeurtenisaanroep worden indruk- en conversiegegevens verzameld en naar de Audience Manager-servers voor gegevensverzameling verzonden.
+Audience Manager houdt de gegevens bij van de indruk van een advertentie wanneer u een pixel van 1 pixel transparante gebeurtenis aan de advertentie vastmaakt. De gebeurtenispixel wordt geladen telkens wanneer de advertentie aan een gebruiker wordt gediend en door Webbrowser wordt geladen. De pixel wordt geladen van een cliënt-specifiek subdomain van [`demdex.net` &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager is, en parameters als zeer belangrijk-waardeparen bevat. Met de gebeurtenisaanroep worden indruk- en conversiegegevens verzameld en naar de Audience Manager-servers voor gegevensverzameling verzonden.
 
 ### Klikken en pixels bijhouden
 
-Audience Manager houdt kliks op dezelfde manier als indrukken, behalve dat het niet de transparante gebeurtenispixel laadt telkens als de advertentie wordt gediend. In plaats daarvan worden de klikgegevens bijgehouden in de doorklikURL van de advertentie. De advertentie wijst naar een cliënt-specifiek subdomain van [`demdex.net` ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager, voor verwerking door de servers van de de gegevensinzameling van Audience Manager is. De server leidt de gebruiker vervolgens om naar de bedoelde bestemmingspagina. De URL bevat parameters als sleutel-waardeparen.
+Audience Manager houdt kliks op dezelfde manier als indrukken, behalve dat het niet de transparante gebeurtenispixel laadt telkens als de advertentie wordt gediend. In plaats daarvan worden de klikgegevens bijgehouden in de doorklikURL van de advertentie. De advertentie wijst naar een cliënt-specifiek subdomain van [`demdex.net` &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/reference/demdex-calls.html), dat een erfenisdomein voor Audience Manager, voor verwerking door de servers van de de gegevensinzameling van Audience Manager is. De server leidt de gebruiker vervolgens om naar de bedoelde bestemmingspagina. De URL bevat parameters als sleutel-waardeparen.
 
 >[!NOTE]
 >
->Als uw organisatie [!DNL Analytics] tracking gebruikt, is het mogelijk dat u geen Audience Manager-functie voor bijhouden van klikken nodig hebt. Adobe Analytics vangt signalen vast en kan hen naar Audience Manager door [ server-kant door:sturen ](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html) verzenden.
+>Als uw organisatie [!DNL Analytics] tracking gebruikt, is het mogelijk dat u geen Audience Manager-functie voor bijhouden van klikken nodig hebt. Adobe Analytics vangt signalen vast en kan hen naar Audience Manager door [&#x200B; server-kant door:sturen &#x200B;](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/server-side-forwarding/ssf.html) verzenden.
 
 >[!MORELIKETHIS]
 >
->* [ verzamel klik en indruk gegevens van de campagnes van Advertising DSP ](collect.md)
->* [ Gevallen van het Gebruik ](use-cases.md)
+>* [&#x200B; verzamel klik en indruk gegevens van de campagnes van Advertising DSP &#x200B;](collect.md)
+>* [&#x200B; Gevallen van het Gebruik &#x200B;](use-cases.md)

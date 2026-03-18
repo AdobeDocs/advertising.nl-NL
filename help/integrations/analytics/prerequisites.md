@@ -23,7 +23,7 @@ Bekijk de volgende informatie voordat u Adobe Advertising integreert met Adobe A
    * Experience Cloud Identity Service: `visitorAPI.js` versie 2.0 of hoger
 * Elke versie van Adobe Analytics (inclusief [!DNL Prime] , [!DNL Premium] of [!DNL Ultimate] )
 * Adobe Analytics: `appMeasurement.js` versie 2.1 of hoger
-* (Advertising DSP klanten) een [ fragment van Advertising DSP JavaScript ](javascript.md) opgesteld in uw webpagina&#39;s om mening-door bezoeken te volgen.
+* (Advertising DSP klanten) een [&#x200B; fragment van Advertising DSP JavaScript &#x200B;](javascript.md) opgesteld in uw webpagina&#39;s om mening-door bezoeken te volgen.
 
 >[!TIP]
 >
@@ -41,15 +41,15 @@ Geef het Adobe Advertising-implementatieteam de volgende informatie:
 * De rapportsuite-id van [!DNL Analytics] die moet worden gebruikt voor rapportage over betaalde media-activiteiten en voor het doorvoeren van siteactiviteiten voor optimalisatie en rapportage in Adobe Advertising
 * De Experience Cloud-organisatie-id (Org ID) van het bedrijf.
 
-U kunt allebei van deze IDs op het [ Summiere lusje van Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) vinden.
+U kunt allebei van deze IDs op het [&#x200B; Summiere lusje van Debugger van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html) vinden.
 
-![ het Summiere scherm van Foutopsporing van de Wolk van de Ervaring ](/help/integrations/assets/a4adc-debugger-summary.png)
+![&#x200B; het Summiere scherm van Foutopsporing van de Wolk van de Ervaring &#x200B;](/help/integrations/assets/a4adc-debugger-summary.png)
 
 ## [!DNL Analytics] Gegevens in Adobe Advertising {#lookback-a4adc}
 
 Omdat [!DNL Analytics] -gegevens naar Adobe Advertising worden verzonden voor rapportage en optimalisatie, zijn de gegevens onderworpen aan de toewijzingsregels, inclusief de indruk en klik op terugzoekvensters, die zijn geconfigureerd voor de adverteerder in Adobe Advertising.
 
-![ adverteerder-vlakke terugkijkvenstermontages in Adobe Advertising ](/help/integrations/assets/a4adc-lookbacks.png)
+![&#x200B; adverteerder-vlakke terugkijkvenstermontages in Adobe Advertising &#x200B;](/help/integrations/assets/a4adc-lookbacks.png)
 
 * Adobe Advertising-toewijzing klikt op lookback-venster: het aantal dagen na de eerste klik waarin de klik kan worden toegewezen aan een conversie. Deze waarde is standaard 60 dagen; het maximum is 90 dagen
 * Het terugkijkvenster van Adobe Advertising-toewijzingsindruk: het aantal dagen na een advertentie waarin de indruk aan een conversie kan worden toegeschreven. Deze waarde is standaard ingesteld op 14 dagen; de maximale waarde is 30 dagen
@@ -58,7 +58,7 @@ Omdat [!DNL Analytics] -gegevens naar Adobe Advertising worden verzonden voor ra
   >
   > Het venster voor het terugzoeken van de indruk is specifiek voor Adobe Advertising, niet [!DNL Analytics for Advertising] voor rapportage.
 
-De JavaScript van [!DNL Analytics for Advertising] gebruikt deze instellingen om te bepalen hoe ver het is om een doorkijkitem of doorklikitem als geldig voor de site te beschouwen. Voor meer informatie over hoe mening-door en klik-door wordt bepaald, zie &quot;[ Adobe Advertising IDs die door Analytics ](ids.md) wordt gebruikt.&quot;
+De JavaScript van [!DNL Analytics for Advertising] gebruikt deze instellingen om te bepalen hoe ver het is om een doorkijkitem of doorklikitem als geldig voor de site te beschouwen. Voor meer informatie over hoe mening-door en klik-door wordt bepaald, zie &quot;[&#x200B; Adobe Advertising IDs die door Analytics &#x200B;](ids.md) wordt gebruikt.&quot;
 
 ## Adobe Advertising-gegevens in [!DNL Analytics]
 
@@ -68,7 +68,7 @@ Met [!DNL Analytics] worden Adobe Advertising-id&#39;s (AMO-id&#39;s) ingesteld 
 
 >[!NOTE]
 >
->Om gegevens voor een verschillend chronologie te segmenteren, kunt u [ opstellings douanesegmenten ](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) met verschillende raadplegingsvensters binnen Analysis Workspace.
+>Om gegevens voor een verschillend chronologie te segmenteren, kunt u [&#x200B; opstellings douanesegmenten &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html) met verschillende raadplegingsvensters binnen Analysis Workspace.
 
 ## Ondersteunde advertentieomgevingen
 
@@ -91,7 +91,7 @@ Neem contact op met uw Adobe-accountteam voor de meest recente ondersteunde adve
 
 * De integratie geeft alleen [!DNL Analytics] standaard- en aangepaste gebeurtenissen door aan Adobe Advertising voor optimalisatie van biedingen voor daaropvolgende betaalde media- en advertentieactiviteiten. [!DNL Analytics] segmenten, berekende maatstaven en [!DNL eVars] worden niet doorgegeven aan Adobe Advertising voor Bodoptimalisatie.
 
-* Adobe Advertising leidt tot blijvende IDs binnen [!DNL Analytics] die op laatste geklikte of bekeken reclame wordt gebaseerd alvorens de gebruiker de plaats ingaat, op [ wordt gebaseerd klikt en mening-door raadplegingsvensters ](#lookback-a4adc) die in Adobe Advertising worden gevormd. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel heeft en de klik zich binnen de terugzoekperiode bevindt, overschrijft de doorklikeid van de bezoeker de weergave-via-id voor siterapportage.
+* Adobe Advertising leidt tot blijvende IDs binnen [!DNL Analytics] die op laatste geklikte of bekeken reclame wordt gebaseerd alvorens de gebruiker de plaats ingaat, op [&#x200B; wordt gebaseerd klikt en mening-door raadplegingsvensters &#x200B;](#lookback-a4adc) die in Adobe Advertising worden gevormd. Als een bezoeker van de site beide typen interactie voor site-invoer binnen zijn profiel heeft en de klik zich binnen de terugzoekperiode bevindt, overschrijft de doorklikeid van de bezoeker de weergave-via-id voor siterapportage.
 
 * [!DNL Analytics for Advertising] voor het bijhouden van conversies in Adobe Analytics wordt een configureerbaar terugzoekvenster (standaard 60 dagen) gebruikt. Adobe Advertising-rapporten weerspiegelen de omzettingen van sites en de betrokkenheid aan het einde van dit terugzoekvenster.
 
@@ -111,7 +111,7 @@ Voorbeeld: `sdid=2F3C18E511F618CC-45F83E994AEE93A0`
 
 Voor een nauwkeurige gegevensintegratie moeten alle Adobe Advertising-aanroepen die door een [!DNL Analytics for Advertising] -activiteit worden gebruikt om inhoud te leveren of de doel-metrische waarde op te nemen, een overeenkomende [!DNL Analytics] hit hebben die dezelfde aanvullende id heeft.
 
-Als u problemen oplost in [!DNL Analytics] , moet u controleren of de aanvullende id aanwezig is voor [!DNL Analytics] -treffers. In [ Debugger van Adobe Experience Cloud ](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), kunt u deze identiteitskaart in het lusje van Adobe Advertising als `sdid` parameter zien.
+Als u problemen oplost in [!DNL Analytics] , moet u controleren of de aanvullende id aanwezig is voor [!DNL Analytics] -treffers. In [&#x200B; Debugger van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/debugger/using-v2/summary.html), kunt u deze identiteitskaart in het lusje van Adobe Advertising als `sdid` parameter zien.
 
 >[!NOTE]
 >
@@ -119,5 +119,5 @@ Als u problemen oplost in [!DNL Analytics] , moet u controleren of de aanvullend
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
->* [ code van JavaScript voor Analytics voor Advertising ](/help/integrations/analytics/javascript.md)
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [&#x200B; code van JavaScript voor Analytics voor Advertising &#x200B;](/help/integrations/analytics/javascript.md)
