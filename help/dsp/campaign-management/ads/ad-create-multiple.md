@@ -77,5 +77,5 @@ Met de meegeleverde sjabloon kunt u [!DNL DoubleClick] - en [!DNL Flashtalking] 
 >* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
 >* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
 >* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; Video: Hoe te bulk uploadt de Markeringen van de Derde Ad &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [&#x200B; Video: Hoe te bulk uploadt de Markeringen van de Derde Ad &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html?lang=nl-NL)
 >* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
