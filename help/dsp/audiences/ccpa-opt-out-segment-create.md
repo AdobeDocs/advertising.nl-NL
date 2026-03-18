@@ -3,7 +3,7 @@ title: Een CCPA-opt-out-of-sales-segment maken en implementeren
 description: Leer hoe u een segment maakt en implementeert om gebruikers-id's te traceren op basis van verzoeken van consumenten om te weigeren een product te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 0623c52e-02ea-4e06-bc54-8abb7a87765a
-source-git-commit: e61f3c7d066a72f9a438ef292122cdf99370fd0c
+source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -18,8 +18,8 @@ Zodra de segmentpixel-tag is geïmplementeerd, begint Adobe Advertising namens d
 
 >[!NOTE]
 >
->* Voor informatie over hoe te om opting-uit-van-verkoop CCPA verzoeken aan Adobe Advertising mee te delen gebruikend Adobe Experience Platform Privacy Service API, zie [&#x200B; https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html?lang=nl-NL).
->* Om gebruikers te volgen die webpagina&#39;s voor doeleinden bezoeken die niet met het volgen van opting-uit-van-verkoop gebeurtenissen CCPA verwant zijn, evenals gebruikers die aan advertenties van Desktop, mobiel, en apparaten CTV worden blootgesteld, creeer a [&#x200B; douanesegment &#x200B;](/help/dsp/audiences/custom-segment-create.md).
+>* Voor informatie over hoe te om opting-uit-van-verkoop CCPA verzoeken aan Adobe Advertising mee te delen gebruikend Adobe Experience Platform Privacy Service API, zie [ https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html ](https://experienceleague.adobe.com/docs/advertising/privacy/ccpa/ccpa-opt-out-of-sale.html).
+>* Om gebruikers te volgen die webpagina&#39;s voor doeleinden bezoeken die niet met het volgen van opting-uit-van-verkoop gebeurtenissen CCPA verwant zijn, evenals gebruikers die aan advertenties van Desktop, mobiel, en apparaten CTV worden blootgesteld, creeer a [ douanesegment ](/help/dsp/audiences/custom-segment-create.md).
 
 1. Maak het segment:
 
@@ -60,8 +60,8 @@ Zodra de segmentpixel-tag is geïmplementeerd, begint Adobe Advertising namens d
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun &#x200B;](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
->* [&#x200B; Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten &#x200B;](ccpa-opt-out-about.md)
->* [&#x200B; wint consument op opt-out-of-verkoop rapporten &#x200B;](ccpa-opt-out-segment-report-retrieve.md)
->* [&#x200B; creeer en voer een Segment van de Douane uit &#x200B;](custom-segment-create.md)
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
+>* [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [ Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten ](ccpa-opt-out-about.md)
+>* [ wint consument op opt-out-of-verkoop rapporten ](ccpa-opt-out-segment-report-retrieve.md)
+>* [ creeer en voer een Segment van de Douane uit ](custom-segment-create.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)

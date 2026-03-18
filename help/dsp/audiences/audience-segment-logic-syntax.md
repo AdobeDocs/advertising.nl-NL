@@ -1,28 +1,28 @@
 ---
-title: Syntaxis voor Audience Segment Logic
+title: Syntaxis voor publiekssegmentlogica
 description: Verwijs naar de syntaxis u kunt gebruiken om de logica voor publiekssegmenten te bepalen.
 feature: DSP Audiences
 exl-id: fb73f35f-1f65-463b-b93c-90804a8d19a9
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
-# Syntaxis voor Audience Segment Logic
+# Syntaxis voor publiekssegmentlogica
 
 Wanneer u herbruikbare soorten publiek maakt, kunt u de segmentlogica handmatig definiëren met alfanumerieke segment-id&#39;s (sleutels) en de volgende syntaxis:
 
 * () om een groep aan te geven
 * `||` for [!DNL OR] <!-- || escaped with backticks so Jenkins doesn't think it's a Markdown table -->
-* &amp;&amp; voor [!DNL AND]
-* ! for [!DNL NOT] (uitsluiten)
+* &amp;&amp; for [!DNL AND]
+* ! for [!DNL NOT] (exclude)
 
 >[!NOTE]
 >
 >* Alle gespecificeerde segmentgroepen zijn inbegrepen tenzij zij door worden voorafgegaan ! (exclusief deze).
->* U kunt [zoek segmentidentiteitskaart voor een publiek](reusable-audience-clipboard.md) van [!UICONTROL Audiences] > [!UICONTROL All audiences].
+>* U kunt [ segmentidentiteitskaart voor een publiek ](reusable-audience-clipboard.md) van [!UICONTROL Audiences] vinden > [!UICONTROL All audiences].
 
 De volgende logica:
 
@@ -42,8 +42,8 @@ means (in normale Engelse taal)
 
 >[!MORELIKETHIS]
 >
->* [Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord](reusable-audience-clipboard.md)
->* [Informatie over Audience Management](audience-about.md)
->* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Instellingen voor publiek](audience-settings.md)
->* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
+>* [ Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord ](reusable-audience-clipboard.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
+>* [ Montages van het publiek ](audience-settings.md)
+>* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)

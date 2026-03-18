@@ -3,7 +3,7 @@ title: Een herbruikbaar publiek delen
 description: Leer hoe u een herbruikbaar publiek deelt met andere adverteerders die beschikbaar zijn voor uw account.
 feature: DSP Audiences
 exl-id: c0369efe-464d-43d1-9b21-1113a38fc9bb
-source-git-commit: 443f8907644bf3e480626e14713e8abb9bfca284
+source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -16,25 +16,24 @@ Als u nog geen publiek deelt met de adverteerders die voor uw account beschikbaa
 
 Als u eenmaal een publiek deelt, kunt u het niet langer delen.
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL All audiences]** .
 
-1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Share]**.
+1. Plaats de cursor op de personenrij en klik op **[!UICONTROL Share]** .
 
-1. Selecteer de optie die u wilt **[!UICONTROL Share with all advertisers in my account]**.
+1. Selecteer de optie die u wilt **[!UICONTROL Share with all advertisers in my account]** .
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [Over Audience Management](audience-about.md)
->* [Een herbruikbaar publiek maken](reusable-audience-create.md)
->* [Een herbruikbaar publiek dupliceren](reusable-audience-duplicate.md)
->* [Een herbruikbaar publiek bewerken](reusable-audience-edit.md)
->* [Details weergeven over een herbruikbaar publiek](reusable-audience-view-details.md)
->* [Een herbruikbaar publiek exporteren](reusable-audience-export.md)
->* [Kopieer de segmentsleutel voor een herbruikbaar publiek naar het klembord](reusable-audience-clipboard.md)
->* [Een herbruikbaar publiek verwijderen](reusable-audience-delete.md)
->* [Instellingen publiek](audience-settings.md)
->* [Syntaxis voor Audience Segment Logic](audience-segment-logic-syntax.md)
->* [Beschikbare gegevensleveranciers van derden](third-party-data-providers.md)
-
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een Herbruikbaar publiek ](reusable-audience-create.md)
+>* [ dupliceer een Herbruikbaar publiek ](reusable-audience-duplicate.md)
+>* [ geef een Herbruikbare Publiek ](reusable-audience-edit.md) uit
+>* [ Details van de Mening over een Herbruikbaar publiek ](reusable-audience-view-details.md)
+>* [ de Uitvoer een Herbruikbaar publiek ](reusable-audience-export.md)
+>* [ Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord ](reusable-audience-clipboard.md)
+>* [ Schrap een Herbruikbaar publiek ](reusable-audience-delete.md)
+>* [ Montages van het publiek ](audience-settings.md)
+>* [ Syntaxis voor de Logica van het Segment van het Publiek ](audience-segment-logic-syntax.md)
+>* [ Beschikbare Leveranciers van Gegevens van derden ](third-party-data-providers.md)

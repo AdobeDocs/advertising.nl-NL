@@ -1,15 +1,15 @@
 ---
-title: Account voor adverteerders maken
+title: Een advertentieaccount maken
 description: Leer hoe u een advertentieaccount kunt maken.
 role: User, Admin
-source-git-commit: bd29bf822385670a3420cf5dac346cecdecabf3d
+source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
 
 ---
 
-# Account voor adverteerders maken
+# Een advertentieaccount maken
 
 *niet Beschikbaar aan Read-only Gebruikers*
 
@@ -21,13 +21,13 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 1. Klik op **[!UICONTROL Create]**.
 
-1. Specificeer de [&#x200B; adverteerdermontages &#x200B;](advertiser-settings.md):
+1. Specificeer de [ adverteerdermontages ](advertiser-settings.md):
 
    1. In de [!UICONTROL General] -instellingen:
 
       1. Geef de [!UICONTROL General] -instellingen op.
 
-      1. (Optioneel) Als u integratie tussen DSP en andere Adobe Experience Cloud-producten wilt configureren, voert u de organisatie-id van het Experience Cloud van de adverteerder in de sectie [!UICONTROL Adobe IMS IDs] in en configureert u de productintegratie in de sectie [!UICONTROL Integrations] .
+      1. (Optioneel) Als u integratie tussen DSP en andere Adobe Experience Cloud-producten wilt configureren, voert u de Experience Cloud-organisatie-id van de adverteerder in de sectie [!UICONTROL Adobe IMS IDs] in en configureert u de productintegratie in de sectie [!UICONTROL Integrations] .
 
    1. (Optioneel) Geef in de secties [!UICONTROL Targeting] standaarddoelen op voor elke nieuwe plaatsing.
 
@@ -37,4 +37,4 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Advertiser Montages &#x200B;](/help/dsp/admin/advertiser-settings.md)
+>* [ Advertiser Montages ](/help/dsp/admin/advertiser-settings.md)

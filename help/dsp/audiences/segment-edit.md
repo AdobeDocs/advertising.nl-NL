@@ -3,7 +3,7 @@ title: Segmentinformatie bewerken
 description: Leer hoe te om informatie over een douane of CCPA uit verkoopsegment uit te geven.
 feature: DSP Segments
 exl-id: 1df6bf2a-4008-46ec-8b4a-e3d0c8322e44
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -32,8 +32,8 @@ U kunt de naam en het raadplegingsvenster voor een douanesegment, of de naam van
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
->* [&#x200B; creeer een Segment van de Douane &#x200B;](custom-segment-create.md)
->* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
->* [&#x200B; Mening Volgend Pixels voor een Segment &#x200B;](segment-view-pixels.md)
->* [&#x200B; Aandeel of Einde delend een Segment &#x200B;](segment-share.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een Segment van de Douane ](custom-segment-create.md)
+>* [ Schrap een Segment ](segment-delete.md)
+>* [ Mening Volgend Pixels voor een Segment ](segment-view-pixels.md)
+>* [ Aandeel of Einde delend een Segment ](segment-share.md)
