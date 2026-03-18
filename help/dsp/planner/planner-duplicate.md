@@ -14,10 +14,10 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Planner]** .
 
-1. 
+1. &#x200B;
    1. Plaats de cursor op de planrij en klik op **[!UICONTROL More]** > **[!UICONTROL Duplicate]** .
 
-1. (Facultatief) geef de plannaam en [ planmontages ](planner-settings.md) uit.
+1. (Facultatief) geef de plannaam en [&#x200B; planmontages &#x200B;](planner-settings.md) uit.
 
    Door gebrek, wordt het nieuwe plan genoemd &quot;`<existing plan name> duplicate`&quot;.
 
@@ -25,14 +25,14 @@ ht-degree: 0%
 
    Zodra u sparen het plan, de voorspelde output wordt getoond.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet**, klikt u in de rechterbovenhoek op **[!UICONTROL ...]** en vervolgens op **[!UICONTROL Export]** .
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet&#x200B;**, klikt u in de rechterbovenhoek op &#x200B;** [!UICONTROL ...] **&#x200B; en vervolgens op &#x200B;** [!UICONTROL Export]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Hulpmiddel van de Planner van DSP ](planner-about.md)
->* [ creeer een Verbonden Plan van het Bereik van TV ](planner-create.md)
->* [ geef een Verbonden Plan van het Bereik van TV uit ](planner-edit.md)
->* [ de Uitvoer een Verbonden Plan van het Bereik van TV ](planner-export.md)
->* [ Regenereer de Voorspelling voor een Verbonden Plan van het Bereik van TV ](planner-forecast.md)
->* [ archiveer een Verbonden Plan van het Bereik van TV ](planner-archive.md)
->* [ Montages voor de Verbonden Plannen van het Bereik van TV ](planner-settings.md)
+>* [&#x200B; Ongeveer het Hulpmiddel van de Planner van DSP &#x200B;](planner-about.md)
+>* [&#x200B; creeer een Verbonden Plan van het Bereik van TV &#x200B;](planner-create.md)
+>* [&#x200B; geef een Verbonden Plan van het Bereik van TV uit &#x200B;](planner-edit.md)
+>* [&#x200B; de Uitvoer een Verbonden Plan van het Bereik van TV &#x200B;](planner-export.md)
+>* [&#x200B; Regenereer de Voorspelling voor een Verbonden Plan van het Bereik van TV &#x200B;](planner-forecast.md)
+>* [&#x200B; archiveer een Verbonden Plan van het Bereik van TV &#x200B;](planner-archive.md)
+>* [&#x200B; Montages voor de Verbonden Plannen van het Bereik van TV &#x200B;](planner-settings.md)

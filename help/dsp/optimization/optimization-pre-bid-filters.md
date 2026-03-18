@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ hoe DSP Uw campagnes optimaliseert ](optimization-how-dsp-optimizes-campaigns.md)
->* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ Montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [ Doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
+>* [&#x200B; hoe DSP Uw campagnes optimaliseert &#x200B;](optimization-how-dsp-optimizes-campaigns.md)
+>* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [&#x200B; Doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
