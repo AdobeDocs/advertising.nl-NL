@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-Als uw organisatie de erfenisAdobe Analytics `visitorAPI.js` bibliotheek voor gegevensinzameling gebruikt, kunt u naar keuze schakelen aan het gebruiken van [&#x200B; Adobe Experience Platform  [!DNL Web SDK] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) bibliotheek (`alloy.js`), die u toestaat om met de diverse diensten van Experience Cloud door [!DNL Edge Network] in wisselwerking te staan.
+Als uw organisatie de erfenisAdobe Analytics `visitorAPI.js` bibliotheek voor gegevensinzameling gebruikt, kunt u naar keuze schakelen aan het gebruiken van [&#x200B; Adobe Experience Platform  [!DNL Web SDK] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=nl-NL) bibliotheek (`alloy.js`), die u toestaat om met de diverse diensten van Experience Cloud door [!DNL Edge Network] in wisselwerking te staan.
 
 In de [!DNL Analytics for Advertising] [!DNL Last Event Service] JavaScript-bibliotheek, &#39;as-is&#39;, worden de gebeurtenissen view-through en click-through vastgelegd en worden deze met een aanvullende id (`SDID`) aan de bijbehorende conversies gekoppeld. De [!DNL Web SDK] -bibliotheek levert echter geen [!DNL stitch ID] . Als u de tag [!DNL Web SDK] for [!DNL Analytics for Advertising] wilt gebruiken, moet u 1) de tag [!DNL Last Event Service] die u gebruikt op uw webpagina&#39;s wijzigen en 2) de opdrachten [!DNL Web SDK] `sendEvent` dienovereenkomstig.
 

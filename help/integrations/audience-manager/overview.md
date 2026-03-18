@@ -42,7 +42,7 @@ Zodra u het publiek creeert, kunt u hen in [!DNL Google Ads] campagnes als [&#x2
 
 >[!NOTE]
 >
->Voor meer informatie over hoe te om publiek in Audience Manager en Experience Cloud [!DNL Audience Library] interfaces tot stand te brengen, en gemeenschappelijke gebruiksgevallen voor verschillende publiekstypes, zie &quot;[&#x200B; de schepingsopties van het Publiek &#x200B;](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html).&quot;
+>Voor meer informatie over hoe te om publiek in Audience Manager en Experience Cloud [!DNL Audience Library] interfaces tot stand te brengen, en gemeenschappelijke gebruiksgevallen voor verschillende publiekstypes, zie &quot;[&#x200B; de schepingsopties van het Publiek &#x200B;](https://experienceleague.adobe.com/docs/experience-cloud-kcs/kbarticles/KA-16471.html?lang=nl-NL).&quot;
 
 ## DSP-mediabelichtingsgegevens naar Audience Manager verzenden
 
@@ -54,6 +54,6 @@ Zie &quot;[&#x200B; Overzicht van het verzenden van de media van DSP blootstelli
 
 ## Meer inzicht in de activiteiten van sites krijgt u met Audience Analytics
 
-Adobe Advertising-klanten met [[!DNL Adobe Audience Analytics] &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) kunnen zowel Adobe Advertising-bijgehouden gegevens als Audience Manager-segmenten naar [!DNL Analytics] verzenden voor verrijkte inzichten in siteactiviteit.
+Adobe Advertising-klanten met [[!DNL Adobe Audience Analytics] &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL) kunnen zowel Adobe Advertising-bijgehouden gegevens als Audience Manager-segmenten naar [!DNL Analytics] verzenden voor verrijkte inzichten in siteactiviteit.
 
 Voor meer informatie, zie &quot;[[!DNL Adobe Audience Analytics]  voor de klanten van Adobe Advertising &#x200B;](/help/integrations/audience-manager/audience-analytics.md).&quot;
