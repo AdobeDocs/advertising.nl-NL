@@ -3,10 +3,10 @@ title: Creatieve HTML5-specificatie
 description: Verwijs naar de creatieve specificatie van HTML5 voor Advertising Creative.
 feature: Creative Standard Creatives
 exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
-source-git-commit: e966058f5fe3fe9eb039f74bda8ea950f717e123
+source-git-commit: a8723bafa57e726fc920c98f2fd44f99f444ed3e
 workflow-type: tm+mt
 source-wordcount: '1157'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 In dit document worden de vereisten en API-ondersteuning voor HTML5-creatieven in [!DNL Creative] beschreven. De API ondersteunt de ontwikkeling van HTML5-creatieven waarvan de kenmerken kunnen worden geconfigureerd op het moment van creatieve levering.
 
-## Toepassingsgebied
+## Bereik
 
 [!DNL Creative] biedt ondersteuning voor HTML5-banners met niet-rijke mediagrocreatieven die binnen ingestelde randen op een pagina worden weergegeven. U kunt de volgende typen HTML5-creatieven gebruiken:
 
@@ -299,4 +299,4 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md) toe
+>* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe
