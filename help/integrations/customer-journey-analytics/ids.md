@@ -3,7 +3,7 @@ title: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 description: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
-source-git-commit: dede10acca1540a10699be3c14564a6f9360edd2
+source-git-commit: 7fa058da06edadf9b98aa49b0e5a1110ea68808c
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -62,13 +62,13 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 In Analytics reports, you can find AMO ID data by searching for the [!UICONTROL AMO ID] dimension and using the [!UICONTROL AMO ID Instances] metric. The [!UICONTROL AMO ID] dimension houses all AMO ID values captured, whereas the [!UICONTROL AMO ID Instances] metric indicates how often an AMO ID value was captured by the site. For example, if the same search ad was clicked four times but Analytics tracked seven site entries, then [!UICONTROL AMO ID Instances] would be seven (7) and [!UICONTROL Clicks] would be four (4).
 
-For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-Through Data Validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected Data Variances Between [!DNL Analytics] and Adobe Advertising."
+For any reporting or auditing within [!DNL Analytics], the best practice is to use the AMO ID along with its corresponding instance. For more information, see "[Click-through data validation for [!DNL Analytics for Advertising]](data-variances.md#data-validation)" in "Expected data variances between [!DNL Analytics] and Adobe Advertising."
 
 -->
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht &#x200B;](overview.md)
->* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
->* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
->* [&#x200B; de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics &#x200B;](advertising-data-in-cja.md)
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
+>* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)

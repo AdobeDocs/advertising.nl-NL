@@ -1,28 +1,28 @@
 ---
-title: Met de [!DNL Last Event Service] JavaScript-bibliotheek met [!DNL Web SDK]
-description: Leer de stappen om over te schakelen van het gebruiken van [!DNL Analytics] [!DNL visitorAPI] aan de [!DNL Experience Platform] [!DNL Web SDK] bibliotheek voor [!DNL Analytics for Advertising] uitvoering.
+title: Het gebruiken van de  [!DNL Last Event Service]  bibliotheek van JavaScript met  [!DNL Web SDK]
+description: Leer de stappen om van het gebruiken van de  [!DNL Analytics] [!DNL visitorAPI] bibliotheek aan de  [!DNL Experience Platform] [!DNL Web SDK] bibliotheek voor uw  [!DNL Analytics for Advertising]  implementatie over te schakelen.
 feature: Integration with Adobe Analytics
 exl-id: 764724a2-536a-43b9-955d-28d6146db29a
-source-git-commit: e517dd5f5fa283ff8a2f57728612937148889732
+source-git-commit: 7fa058da06edadf9b98aa49b0e5a1110ea68808c
 workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 0%
 
 ---
 
-# Met de [!DNL Last Event Service] JavaScript-bibliotheek met Adobe Experience Platform [!DNL Web SDK]
+# De [!DNL Last Event Service] JavaScript-bibliotheek gebruiken met Adobe Experience Platform [!DNL Web SDK]
 
-*Adverteerders met alleen Adobe Advertising-Adobe Analytics-integratie*
+*Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-Als uw organisatie de oudere Adobe Analytics gebruikt `visitorAPI.js` bibliotheek voor gegevensverzameling, kunt u naar keuze schakelen om de [Adobe Experience Platform [!DNL Web SDK]](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html?lang=nl-NL) bibliotheek (`alloy.js`), waardoor u via de [!DNL Edge Network].
+Als uw organisatie de erfenisAdobe Analytics `visitorAPI.js` bibliotheek voor gegevensinzameling gebruikt, kunt u naar keuze schakelen aan het gebruiken van [ Adobe Experience Platform  [!DNL Web SDK] ](https://experienceleague.adobe.com/docs/experience-platform/edge/home.html) bibliotheek (`alloy.js`), die u toestaat om met de diverse diensten van Experience Cloud door [!DNL Edge Network] in wisselwerking te staan.
 
-De [!DNL Analytics for Advertising] [!DNL Last Event Service] De bibliotheek van JavaScript, ongewijzigd, registreert mening-door en klik-door gebeurtenissen en stitseert hen aan de bijbehorende omzettingen gebruikend een extra identiteitskaart (`SDID`). De [!DNL Web SDK] bibliotheek, echter, levert geen [!DNL stitch ID]. Als u de opdracht [!DNL Web SDK] for [!DNL Analytics for Advertising], moet u 1) wijzigen [!DNL Last Event Service] -tags die u op uw webpagina&#39;s gebruikt en 2) uw [!DNL Web SDK] `sendEvent` opdrachten dienovereenkomstig.
+In de [!DNL Analytics for Advertising] [!DNL Last Event Service] JavaScript-bibliotheek, &#39;as-is&#39;, worden de gebeurtenissen view-through en click-through vastgelegd en worden deze met een aanvullende id (`SDID`) aan de bijbehorende conversies gekoppeld. De [!DNL Web SDK] -bibliotheek levert echter geen [!DNL stitch ID] . Als u de tag [!DNL Web SDK] for [!DNL Analytics for Advertising] wilt gebruiken, moet u 1) de tag [!DNL Last Event Service] die u gebruikt op uw webpagina&#39;s wijzigen en 2) de opdrachten [!DNL Web SDK] `sendEvent` dienovereenkomstig.
 
-## Stap 1: Bewerk uw [!DNL Last Event Service] Tags om een `[!DNL StitchID]`
+## Stap 1: bewerk de tag [!DNL Last Event Service] om een `[!DNL StitchID]` -element te genereren
 
-In de [!DNL Analytics for Advertising] [!DNL Last Event Service] -tag die u gebruikt op uw webpagina&#39;s, voegt u code toe om de `[!DNL StitchID]` met de willekeurige id-generator die in de bibliotheek is gebundeld.
+Voeg in de tag [!DNL Analytics for Advertising] [!DNL Last Event Service] die u op uw webpagina&#39;s gebruikt code toe om de `[!DNL StitchID]` te genereren met behulp van de willekeurige id-generator die in de bibliotheek is gebundeld.
 
-**Oudere tag:**
+**Verouderde markering:**
 
 ```
 <script>
@@ -31,7 +31,7 @@ In de [!DNL Analytics for Advertising] [!DNL Last Event Service] -tag die u gebr
 </script>
 ```
 
-**Nieuwe tag:**
+**Nieuwe markering:**
 
 ```
 <script>
@@ -40,11 +40,11 @@ In de [!DNL Analytics for Advertising] [!DNL Last Event Service] -tag die u gebr
 </script>
 ```
 
-## Stap 2: gebruik [!DNL Web SDK] om de [!DNL StitchID] als XDM-gegevens voor [!DNL Analytics]
+## Stap 2: Gebruik [!DNL Web SDK] om de [!DNL StitchID] als XDM-gegevens voor [!DNL Analytics] te verzenden
 
-Voeg de volgende eigenschap in uw [!DNL Web SDK] `sendEvent` opdracht om de [!DNL StitchID] tot [!DNL Experience Edge] als [!DNL Experience Data Model] (XDM) gegevens voor [!DNL Analytics].<!-- The library sends the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] gebruikt de waarde als een `SDID`.
+Voeg de volgende eigenschap in de opdracht [!DNL Web SDK] `sendEvent` in om de gegevens [!DNL StitchID] naar [!DNL Experience Edge] as [!DNL Experience Data Model] (XDM) voor [!DNL Analytics] te verzenden. <!-- The library sends the StitchID to [!DNL Experience Edge] as `[_adcloud.advertisingStitchID](https://github.com/adobe/xdm/blob/master/docs/reference/adobe/experience/adcloud/stitch.schema.md)`. --> [!DNL Analytics] gebruikt de waarde als een `SDID` .
 
-**Toe te voegen eigenschap:**
+**Bezit om toe te voegen:**
 
 ```
      "_adcloud": {
@@ -73,5 +73,5 @@ Voeg de volgende eigenschap in uw [!DNL Web SDK] `sendEvent` opdracht om de [!DN
 
 >[!MORELIKETHIS]
 >
->* [Overzicht van [!DNL Analytics for Advertising]](overview.md)
->* [JavaScript-code voor [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
+>* [ Overzicht van  [!DNL Analytics for Advertising]](overview.md)
+>* [ code van JavaScript voor  [!DNL Analytics for Advertising]](/help/integrations/analytics/javascript.md)
