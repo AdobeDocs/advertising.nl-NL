@@ -34,6 +34,6 @@ Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking ze
 
 >[!MORELIKETHIS]
 >
->* [ geef een Pakket ](package-edit.md) uit
->* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
->* [ Archiveer een Pakket ](package-archive-unarchive.md)
+>* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
+>* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
+>* [&#x200B; Archiveer een Pakket &#x200B;](package-archive-unarchive.md)

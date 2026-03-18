@@ -24,7 +24,7 @@ ht-degree: 0%
 
    Het plaatsingstype bepaalt het advertentietype dat de plaatsing kan omvatten.
 
-1. Ga de [ plaatsingsmontages ](placement-settings.md) in:
+1. Ga de [&#x200B; plaatsingsmontages &#x200B;](placement-settings.md) in:
 
    1. Geef de [!UICONTROL Placement Basics] -instellingen op.
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
       1. Versmal het publiek. Dit omvat het selecteren van publiekssegmenten om binnen de plaatsing te richten.
 
-         Voor [!DNL Roku] plaatsen, kunt u hefboomwerking [ DSP uniek publiek die met  [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) aanpassen door één of meerdere publiekssegmenten te omvatten die tegen [!DNL Roku] (opted-in) deterministische dataset kunnen worden aangepast.
+         Voor [!DNL Roku] plaatsen, kunt u hefboomwerking [&#x200B; DSP uniek publiek die met  [!DNL Roku]](/help/dsp/inventory/roku-inventory.md) aanpassen door één of meerdere publiekssegmenten te omvatten die tegen [!DNL Roku] (opted-in) deterministische dataset kunnen worden aangepast.
 
          De segmenten van eerste-partij RampID die niet aan een actieve, geplande, of gepauzeerde plaatsing in bijlage zijn worden gepauzeerd. Het segment wordt in de segmentlijst genoteerd als &quot;Automatisch gepauzeerd&quot;.
 
@@ -80,7 +80,7 @@ ht-degree: 0%
 
          1. Klik op **[!UICONTROL Create a New Ad].**
 
-         1. Specificeer de advertentiemontages voor [ audioadvertenties ](/help/dsp/campaign-management/ads/ad-settings-audio.md), [ verbonden TV ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [ vertoningsadvertenties ](/help/dsp/campaign-management/ads/ad-settings-display.md), [ mobiele advertenties ](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [ inheemse advertenties ](/help/dsp/campaign-management/ads/ad-settings-native.md), [ pre-rol advertenties ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [ universele videoadvertenties ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
+         1. Specificeer de advertentiemontages voor [&#x200B; audioadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md), [&#x200B; verbonden TV &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md), [&#x200B; vertoningsadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md), [&#x200B; mobiele advertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md), [&#x200B; inheemse advertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md), [&#x200B; pre-rol advertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md), of [&#x200B; universele videoadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md).
 
         >[!NOTE]
         >
@@ -136,15 +136,15 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer het Beheer van de Plaatsing ](placement-about.md)
->* [ geeft Plaatsen ](placement-edit.md) uit
->* [ beheert Bodmultipliers voor Plaatsingen ](placement-manage-bid-multipliers.md)
->* [ geef de Advertentieschema&#39;s voor Plaatsen uit ](placement-edit-ad-schedule.md)
->* [ deactivate of activeert een Plaatsing ](placement-pause-activate.md)
->* [ Mening het Logboek van de Verandering voor een Plaatsing ](placement-change-log.md)
->* [ Montages van de Plaatsing ](placement-settings.md)
->* [ Mening het Voorspelde Rapport van de Plaatsing ](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)
->* [ Sneltoetsen ](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
->* [ Prestaties van het oplossen van problemen ](/help/dsp/optimization/troubleshooting-performance.md)
->* [ Video: Hoe te om een StandaardPlaatsing van de Vertoning te creëren ](https://video.tv.adobe.com/v/340454)
+>* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
+>* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
+>* [&#x200B; beheert Bodmultipliers voor Plaatsingen &#x200B;](placement-manage-bid-multipliers.md)
+>* [&#x200B; geef de Advertentieschema&#39;s voor Plaatsen uit &#x200B;](placement-edit-ad-schedule.md)
+>* [&#x200B; deactivate of activeert een Plaatsing &#x200B;](placement-pause-activate.md)
+>* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
+>* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)
+>* [&#x200B; Mening het Voorspelde Rapport van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
+>* [&#x200B; Sneltoetsen &#x200B;](/help/dsp/campaign-management/reports/keyboard-shortcuts.md)
+>* [&#x200B; Prestaties van het oplossen van problemen &#x200B;](/help/dsp/optimization/troubleshooting-performance.md)
+>* [&#x200B; Video: Hoe te om een StandaardPlaatsing van de Vertoning te creëren &#x200B;](https://video.tv.adobe.com/v/340454)

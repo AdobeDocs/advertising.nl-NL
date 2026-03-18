@@ -21,7 +21,7 @@ Het rapport op ad-niveau <!--legacy --> bevat [!UICONTROL Overview] , [!UICONTRO
 
 >[!MORELIKETHIS]
 >
->* [ Mening een gedetailleerd rapport voor een plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [ Mening een gedetailleerd rapport voor een campagne ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
