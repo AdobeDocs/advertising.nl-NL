@@ -1,20 +1,20 @@
 ---
-title: Beleid inzake Adobe Advertising en vereisten
+title: Beleid voor Adobe Advertising en vereisten
 description: Zie het beleid voor advertentievereisten.
 feature: Policies, DSP Ads
 exl-id: 217cce8e-3bb3-407a-a05e-7fff2978eac8
-source-git-commit: 5a13aee5b7dcefa9f74d26322078c75e53f18a69
+source-git-commit: 7dc1d2dd2459d0b0049e755f121a6e6d1a9ab789
 workflow-type: tm+mt
 source-wordcount: '2190'
 ht-degree: 0%
 
 ---
 
-# Beleid inzake Adobe Advertising en vereisten
+# Beleid voor Adobe Advertising en vereisten
 
 *Beleid laatst bijgewerkt: 17 juli, 2024<!-- (except for formatting changes unrelated to content)-->*
 
-*voor Adobe Advertising DSP en het Onderzoek van de Adobe Advertising, Sociale, &amp; Commerce*
+*voor Adobe Advertising DSP en Adobe Advertising Onderzoek, Sociale, &amp; Commerce*
 
 In dit beleid voor Adds-vereisten (&quot;Beleid&quot;) worden de vereisten uiteengezet voor advertenties die via [!DNL Adobe’s] On-demand Services for Adobe Advertising (&quot;Services&quot;) worden gedistribueerd. Dit beleid wordt door middel van verwijzing opgenomen in de Overeenkomst tussen [!DNL Adobe] en de Klant (&quot;u&quot;) die de On-demand Services gebruikt. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
 
@@ -24,9 +24,9 @@ Naast de vereisten die hieronder en in de Overeenkomst worden vermeld, moet u aa
 
 ## Vereisten voor advertentie-inhoud
 
-### Creatieve vereisten
+### Creative-vereisten
 
-Alle Advertenties die via On-demand Services worden verzonden, opgeslagen, weergegeven, gedistribueerd of anderszins door u beschikbaar worden gesteld, moeten in overeenstemming zijn met de advertentiespecificaties in de Adobe Advertising advertentiesoorten, zoals die van tijd tot tijd door [!DNL Adobe] kunnen worden herzien.
+Alle Advertenties die via On-demand Services worden verzonden, opgeslagen, weergegeven, gedistribueerd of anderszins door u beschikbaar worden gesteld, moeten in overeenstemming zijn met de advertentiespecificaties in de Adobe Advertising Ad Specs, zoals die van tijd tot tijd door [!DNL Adobe] kunnen worden herzien.
 
 ### Verboden advertenties
 
@@ -62,7 +62,7 @@ U moet ervoor zorgen dat uw advertenties en de website(s) waarnaar een advertent
 
 * **Verkoop van lichaamsdelen**. Steun mag de verkoop van lichaamsdelen of lichaamsvloeistoffen niet bevorderen.
 
-* **Afleidende Advertenties**. Advertenties mogen geen afleidende, ongewenste of oncomfortabele functies of inhoud bevatten, zoals automatisch afspeelbare functies (zoals advertenties die automatisch audio of video afspelen), inhoud die knippert, schokken, pulsen, knippert of te geanimeerde objecten, tekst of afbeeldingen bevat, lokaal gedeelde objecten (waaronder flash-cookies en lokale HTML5-opslag) en advertenties die de gebruikerservaring onderbreken (bijvoorbeeld door boven op andere inhoud te plaatsen) ).
+* **Afleidende Advertenties**. Advertenties mogen geen afleidende, ongewenste of oncomfortabele functies of inhoud bevatten, zoals automatisch afspeelbare functies (zoals advertenties die automatisch audio of video afspelen), inhoud die knippert, schokken, pulsen, knippert of te geanimeerde objecten, tekst of afbeeldingen bevat, lokaal gedeelde objecten (waaronder flash cookies en HTML5 lokale opslag) en advertenties die de gebruikerservaring onderbreken (bijvoorbeeld door boven op andere inhoud te plaatsen).
 
 * **Politieke inhoud**. Politieke inhoud omvat communicatie die: (1) wordt betaald door een kandidaat voor een functie (federaal, nationaal, lokaal of internationaal) of campagne van een kandidaat; (2) wordt betaald door een entiteit die is geregistreerd of rapporteert krachtens het campagnerefinancieringsrecht van een rechtsgebied (federaal, staat, lokaal, of internationaal); (3) uitdrukkelijk pleit voor of tegen een duidelijk geïdentificeerde kandidaat (federaal, staat, lokaal, of internationaal), of (4) anderszins onder rechtsmacht valt. de wet inzake campagnerefinanciering. Dit verbod omvat onder meer, maar is niet beperkt tot, het uitvaardigen van advertentievormen die direct of indirect verband houden met verkiezingen, politieke campagne, kandidaten voor een openbaar ambt, stemmen, steminitiatief, wetgeving of referendum.
 
@@ -86,7 +86,7 @@ Advertenties die inhoud bevatten in de onderstaande categorieën zijn toegestaan
 
 * **Adds Verwant aan het Verlies van het Gewicht**. Toevoegingen die gewichtsverlies of eetlustsuppressieve pillen en supplementen bevorderen, zijn niet toegestaan, met inbegrip van producten die humaan choriongonadotropine (hCG) bevatten. Ads mag geen onwaarschijnlijke of gevaarlijke claims over gewichtsverlies bevorderen of misleidende beelden van voor en na gewichtsverlies vertonen.
 
-### Advertising naar Minors
+### Advertising naar minderjarigen
 
 Advertenties mogen geen persoonsgegevens gebruiken om doelbewust gebruikers onder de 16 jaar te treffen. Naast de bovengenoemde verboden advertenties en beperkte advertenties mogen advertenties de volgende producten of diensten niet bewust op de markt brengen of adverteren voor gebruikers jonger dan 18 jaar:
 
@@ -102,7 +102,7 @@ Advertenties mogen geen persoonsgegevens gebruiken om doelbewust gebruikers onde
 * Gokproducten en diensten, met inbegrip van loterijen
 * Bandmering zoals tatoeage, piercings of permanente cosmetica
 
-## Gerichte advertenties
+## Doeladvertenties
 
 De services kunnen niet worden gebruikt om advertenties aan gebruikers te richten of om gebruikers uit te sluiten van doelgerichte advertenties, waaronder om gebruikers opnieuw te richten op basis van bezoeken aan uw websites of andere onlineservices, op een manier die impliceert dat u zich bewust bent van mogelijk gevoelige informatie over hen.
 
@@ -135,4 +135,4 @@ U mag de Services niet gebruiken om discriminatie te plegen in strijd met de wet
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Acceptabele Richtlijnen van het Segment van de Gezondheid &#x200B;](/help/policies/health-segment-guidelines.md)
+>* [ Acceptabele richtlijnen van het gezondheidssegment ](/help/policies/health-segment-guidelines.md)

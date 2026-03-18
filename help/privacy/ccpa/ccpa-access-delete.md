@@ -1,17 +1,17 @@
 ---
-title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer Data Access and Delete Support
+title: Adobe Advertising support for the California Consumer Privacy Act &#58; Consumer data access and delete support
 description: Leer meer over de ondersteunde typen gegevensaanvragen, de vereiste instellingen en veldwaarden en voorbeelden van API-toegangsaanvragen met oude product-id's en geretourneerde gegevensvelden.
 feature: CCPA
 role: User, Developer
 exl-id: e7808411-7dc3-499c-bda1-1f5882f651b2
-source-git-commit: a3e39ca4fa89f84ddc2669662c34bccb4425a2bb
+source-git-commit: 7dc1d2dd2459d0b0049e755f121a6e6d1a9ab789
 workflow-type: tm+mt
-source-wordcount: '1039'
+source-wordcount: '1041'
 ht-degree: 0%
 
 ---
 
-# Adobe Advertising Support for the California Consumer Privacy Act: Consumer Data Access and Delete Support
+# Adobe Advertising support for the California Consumer Privacy Act: Consumer data access and delete support
 
 *voor [!DNL Adobe Advertising Search, Social, & Commerce]; Adobe Advertising DSP; Adobe Advertising Creative; en Adobe Advertising DCO*
 
@@ -27,11 +27,11 @@ Als uw dienstverlener, verleent Adobe Advertising steun voor uw zaken om aan zij
 
 In dit document wordt beschreven hoe [!DNL Advertising Search, Social, & Commerce] , Advertising Creative, Advertising DSP (Demand Side Platform) en [!DNL Advertising DCO] (als serviceproviders) het recht van consumenten op toegang tot en verwijdering van persoonlijke gegevens met de Adobe [!DNL Experience Platform Privacy Service API] en [!DNL Privacy Service UI] ondersteunen.
 
-Voor informatie over hoe Advertising DSP het recht van de consument steunt om van de verkoop van persoonlijke informatie te sluiten, zie [&#x200B; Steun van Adobe Advertising voor de Wet van de Privacy van de consument van Californië: De Steun van de Opt-out van de consument &#x200B;](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
+Voor informatie over hoe Advertising DSP het recht van de consument steunt om van de verkoop van persoonlijke informatie af te zien, zie [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenconsument van Californië: De opt-out van de verkoopsteun van de consument ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-Voor meer informatie over de diensten van de Privacy van Adobe voor CCPA, zie het [&#x200B; Centrum van de Privacy van Adobe &#x200B;](https://www.adobe.com/privacy/ccpa.html).
+Voor meer informatie over de diensten van de Privacy van Adobe voor CCPA, zie het [ Centrum van de Privacy van Adobe ](https://www.adobe.com/privacy/ccpa.html).
 
-## Ondersteunde gegevenstypen voor Adobe Advertising
+## Ondersteunde typen gegevensaanvragen voor Adobe Advertising
 
 Adobe Experience Platform biedt bedrijven de mogelijkheid om de volgende taken uit te voeren:
 
@@ -55,7 +55,7 @@ Om verzoeken tot toegang tot en verwijdering van persoonlijke gegevens van consu
 
    >[!NOTE]
    >
-   >Het verwijderen van persoonlijke gegevens is anders dan het uitschakelen van gegevens, waardoor een eindgebruiker niet meer doelgericht met publiekssegmenten werkt. Wanneer een klant echter om het verwijderen van persoonlijke gegevens uit [!DNL Creative] , [!DNL DSP] of [!DNL DCO] vraagt, verzendt de bibliotheek ook een verzoek aan Adobe Advertising om de klant te weigeren zich te richten op een segment. Voor adverteerders met [!DNL Search, Social, & Commerce], adviseren wij dat u uw klanten een verbinding aan [&#x200B; https://www.adobe.com/privacy/opt-out.html#customeruse &#x200B;](https://www.adobe.com/privacy/opt-out.html#customeruse) verstrekt, die verklaart hoe te om uit doelgericht van het publiekssegment te kiezen.
+   >Het verwijderen van persoonlijke gegevens is anders dan het uitschakelen van gegevens, waardoor een eindgebruiker niet meer doelgericht met publiekssegmenten werkt. Wanneer een klant echter om het verwijderen van persoonlijke gegevens uit [!DNL Creative] , [!DNL DSP] of [!DNL DCO] vraagt, verzendt de bibliotheek ook een verzoek aan Adobe Advertising om de klant te weigeren zich te richten op een segment. Voor adverteerders met [!DNL Search, Social, & Commerce], adviseren wij dat u uw klanten een verbinding aan [ https://www.adobe.com/privacy/opt-out.html#customeruse ](https://www.adobe.com/privacy/opt-out.html#customeruse) verstrekt, die verklaart hoe te om uit doelgericht van het publiekssegment te kiezen.
 
 1. Identificeer uw organisatie-id van Experience Cloud en zorg ervoor dat deze is gekoppeld aan uw Adobe Advertising-accounts.
 
@@ -65,7 +65,7 @@ Om verzoeken tot toegang tot en verwijdering van persoonlijke gegevens van consu
    >
    >Neem contact op met de Adobe Advertising-vertegenwoordiger van uw bedrijf om te bevestigen dat alle Adobe Advertising-accounts van uw organisatie, inclusief [!DNL DSP] accounts of adverteerders, [!DNL Search, Social, & Commerce] accounts en [!DNL Creative] - zijn gekoppeld aan uw Experience Cloud-organisatie-id. [!DNL DCO]
 
-1. Gebruik of [&#x200B; Adobe Experience Platform Privacy Service API &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html?lang=nl-NL) (voor geautomatiseerde verzoeken) of [&#x200B; Privacy Service UI &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html?lang=nl-NL) (voor ad-hocverzoeken) om verzoeken om tot en schrapping persoonlijke informatie aan Adobe Advertising namens consumenten toegang te hebben, en de status van bestaande verzoeken te controleren.
+1. Gebruik of [ Adobe Experience Platform Privacy Service API ](https://experienceleague.adobe.com/docs/experience-platform/privacy/api/privacy-jobs.html) (voor geautomatiseerde verzoeken) of [ Privacy Service UI ](https://experienceleague.adobe.com/docs/experience-platform/privacy/ui/user-guide.html) (voor ad-hocverzoeken) om verzoeken om tot en schrapping persoonlijke informatie aan Adobe Advertising namens consumenten toegang te hebben, en de status van bestaande verzoeken te controleren.
 
    Voor adverteerders die een mobiele app hebben om te communiceren met klanten en campagnes te starten met [!DNL DSP] , moet u de voor privacy geschikte mobiele SDK&#39;s voor Experience Cloud downloaden. Met de Mobile SDK&#39;s kunnen bedrijven statusmarkeringen voor weigeren instellen, de apparaat-id van de consument (naamruimte-id: `deviceID` ) ophalen en aanvragen naar de Privacy Service API verzenden. Voor uw mobiele app is een SDK versie 4.15.0 of hoger vereist.
 
@@ -77,7 +77,7 @@ Om verzoeken tot toegang tot en verwijdering van persoonlijke gegevens van consu
    >
    >Als uw bedrijf meerdere Experience Cloud-organisatie-id&#39;s heeft, moet u voor elke id een afzonderlijke API-aanvraag verzenden. U kunt echter één API-aanvraag indienen voor meerdere Adobe Advertising-suboplossingen ( [!DNL Search, Social, & Commerce] , [!DNL Creative] , [!DNL DSP] en [!DNL DCO] ) met één account per suboplossing.
 
-Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [&#x200B; https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html?lang=nl-NL) zien.
+Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer informatie over deze en andere verwante taken moet u het gebruiken van Adobe Experience Platform Privacy Service uitvoeren, en waar te om de noodzakelijke punten te vinden, [ https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html ](https://experienceleague.adobe.com/docs/experience-platform/privacy/home.html) zien.
 
 ## Vereiste veldwaarden in Adobe Advertising JSON-verzoeken
 
@@ -94,15 +94,15 @@ Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer i
 
 * `"user IDs":`
 
-   * `"namespace": **411**` (die op de [[!DNL AdCloud]  koekjesruimte &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/privacy/api/appendix) wijst)
+   * `"namespace": **411**` (die op de [[!DNL AdCloud]  koekjesruimte ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) wijst)
 
    * `"value":` &lt;*de waarde van de de koekjesidentiteitskaart van de daadwerkelijke klant zoals die van`AdobePrivacy.js`* wordt teruggewonnen>
 
-* `"include": **adCloud**` (dat is het [[!DNL Adobe]  product &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/privacy/api/appendix) dat op het verzoek van toepassing is)
+* `"include": **adCloud**` (dat is het [[!DNL Adobe]  product ](https://experienceleague.adobe.com/en/docs/experience-platform/privacy/api/appendix) dat op het verzoek van toepassing is)
 
 * `"regulation": **ccpa**` (dit is de privacyverordening die van toepassing is op het verzoek)
 
-## Voorbeeld van een aanvraag die door een consument is ingediend met een Adobe Advertising-gebruikersnaam die is opgehaald van AdobePrivacy.js
+## Voorbeeld van een verzoek dat door een consument is ingediend met een Adobe Advertising-gebruikersnaam die is opgehaald uit AdobePrivacy.js
 
 ```
 {
@@ -133,7 +133,7 @@ Alle stappen zijn nodig om steun van Adobe Advertising te ontvangen. Voor meer i
 }
 ```
 
-## Gegevensvelden die worden geretourneerd voor toegangsverzoeken
+## Gegevensvelden die worden geretourneerd voor toegangsaanvragen
 
 Hieronder ziet u een voorbeeld van een reactie van Adobe Advertising op de toegang tot persoonlijke gegevens.
 
