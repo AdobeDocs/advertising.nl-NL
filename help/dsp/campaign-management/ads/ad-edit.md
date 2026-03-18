@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->Om de derde volgende pixel voor veelvoudige advertenties te veranderen in één keer, zie &quot;[ Advertenties aan Plaatsingen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken.&quot;
+>Om de derde volgende pixel voor veelvoudige advertenties te veranderen in één keer, zie &quot;[&#x200B; Advertenties aan Plaatsingen &#x200B;](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken.&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 1. Klik naast de naam van de advertentie op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Bewerk de advertentiemontages voor [ audioadvertenties ](ad-settings-audio.md), [ verbonden TV ](ad-settings-connected-tv.md), [ vertoningsadvertenties ](ad-settings-display.md), [ mobiele advertenties ](ad-settings-mobile.md), [ inheemse advertenties ](ad-settings-native.md), [ pre-rol advertenties ](ad-settings-pre-roll.md), of [ universele videoadvertenties ](ad-settings-universal-video.md).
+1. Bewerk de advertentiemontages voor [&#x200B; audioadvertenties &#x200B;](ad-settings-audio.md), [&#x200B; verbonden TV &#x200B;](ad-settings-connected-tv.md), [&#x200B; vertoningsadvertenties &#x200B;](ad-settings-display.md), [&#x200B; mobiele advertenties &#x200B;](ad-settings-mobile.md), [&#x200B; inheemse advertenties &#x200B;](ad-settings-native.md), [&#x200B; pre-rol advertenties &#x200B;](ad-settings-pre-roll.md), of [&#x200B; universele videoadvertenties &#x200B;](ad-settings-universal-video.md).
 
    >[!NOTE]
    >
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. Klik op **[!UICONTROL Save and Close]**.
 
-   Bewerkte advertentie gaat door een nieuwe [ en overzicht ](ad-about.md), die 24-48 uren vergt en controles voor gevoelige categorieën omvat, klikt functionaliteit URL, en voorproef het teruggeven. De kolom [!UICONTROL Status] geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
+   Bewerkte advertentie gaat door een nieuwe [&#x200B; en overzicht &#x200B;](ad-about.md), die 24-48 uren vergt en controles voor gevoelige categorieën omvat, klikt functionaliteit URL, en voorproef het teruggeven. De kolom [!UICONTROL Status] geeft aan of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
 
    >[!NOTE]
    >
@@ -40,9 +40,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ dupliceer een Advertentie ](ad-duplicate.md)
->* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
->* [ Advertentiespecificaties ](ad-specs.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; dupliceer een Advertentie &#x200B;](ad-duplicate.md)
+>* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)

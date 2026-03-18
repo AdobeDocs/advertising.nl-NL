@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Eén advertentie maken
 
-U kunt een individuele inheemse vertoningsadvertentie of een derdeadvertentie in diverse [ en types ](ad-about.md#ad-types) tot stand brengen.
+U kunt een individuele inheemse vertoningsadvertentie of een derdeadvertentie in diverse [&#x200B; en types &#x200B;](ad-about.md#ad-types) tot stand brengen.
 
-Om veelvoudige derdeadvertenties in een tijd tot stand te brengen, zie [ Veelvoudige Adds van de Derde ](ad-create-multiple.md) creëren.
+Om veelvoudige derdeadvertenties in een tijd tot stand te brengen, zie [&#x200B; Veelvoudige Adds van de Derde &#x200B;](ad-create-multiple.md) creëren.
 
 >[!NOTE]
 >
@@ -24,9 +24,9 @@ Om veelvoudige derdeadvertenties in een tijd tot stand te brengen, zie [ Veelvou
 
 1. Klik op de naam van de campagne waarin u de advertentie wilt opnemen.
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Create]** . In de [!UICONTROL Ad Types] sectie van het menu, klik het [ ad type ](ad-about.md#ad-types).
+1. Klik boven de gegevenstabel op **[!UICONTROL Create]** . In de [!UICONTROL Ad Types] sectie van het menu, klik het [&#x200B; ad type &#x200B;](ad-about.md#ad-types).
 
-1. Specificeer de advertentiemontages voor [ audioadvertenties ](ad-settings-audio.md), [ verbonden TV ](ad-settings-connected-tv.md), [ vertoningsadvertenties ](ad-settings-display.md), [ mobiele advertenties ](ad-settings-mobile.md), [ inheemse advertenties ](ad-settings-native.md), [ pre-rol advertenties ](ad-settings-pre-roll.md), of [ universele videoadvertenties ](ad-settings-universal-video.md):
+1. Specificeer de advertentiemontages voor [&#x200B; audioadvertenties &#x200B;](ad-settings-audio.md), [&#x200B; verbonden TV &#x200B;](ad-settings-connected-tv.md), [&#x200B; vertoningsadvertenties &#x200B;](ad-settings-display.md), [&#x200B; mobiele advertenties &#x200B;](ad-settings-mobile.md), [&#x200B; inheemse advertenties &#x200B;](ad-settings-native.md), [&#x200B; pre-rol advertenties &#x200B;](ad-settings-pre-roll.md), of [&#x200B; universele videoadvertenties &#x200B;](ad-settings-universal-video.md):
 
    >[!NOTE]
    >
@@ -42,7 +42,7 @@ Om veelvoudige derdeadvertenties in een tijd tot stand te brengen, zie [ Veelvou
 
 1. Klik op **[!UICONTROL Save & Submit for Review]** wanneer de advertentie is voltooid.
 
-   De [ adrevisie ](ad-about.md) neemt 24-48 uren en omvat controles voor gevoelige categorieën, klikt functionaliteit URL, en voorproef het teruggeven. In de kolom Status wordt aangegeven of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
+   De [&#x200B; adrevisie &#x200B;](ad-about.md) neemt 24-48 uren en omvat controles voor gevoelige categorieën, klikt functionaliteit URL, en voorproef het teruggeven. In de kolom Status wordt aangegeven of DSP de advertentie heeft goedgekeurd. Gebroken advertenties hebben mogelijk een status in behandeling die langer is dan 24-48 uur, dus u hebt tijd om fouten op te lossen voordat ze worden afgewezen.
 
    >[!NOTE]
    >
@@ -50,8 +50,8 @@ Om veelvoudige derdeadvertenties in een tijd tot stand te brengen, zie [ Veelvou
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Veelvoudige Derde Advertenties ](ad-create-multiple.md)
->* [ geef een Advertentie uit ](ad-edit.md)
->* [ Advertentiespecificaties ](ad-specs.md)
->* [ Veelgestelde vragen over Universele Video ](/help/dsp/campaign-management/faq-universal-video.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
