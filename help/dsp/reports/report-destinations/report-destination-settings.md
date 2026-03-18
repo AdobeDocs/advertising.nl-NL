@@ -72,7 +72,7 @@ De details die voor niet-e-mailrapportbestemmingen worden vereist variëren door
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [ Maak een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [ Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [ Verwijderen a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [&#x200B; Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [&#x200B; Maak een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [&#x200B; Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
+>* [&#x200B; Verwijderen a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)

@@ -42,7 +42,7 @@ Deze sectie bepaalt de data waarop het rapport in werking wordt gesteld. Aan ops
 
   >[!NOTE]
   >
-  >U kunt ook [ een douanerapport op elk ogenblik ](report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
+  >U kunt ook [&#x200B; een douanerapport op elk ogenblik &#x200B;](report-run-now.md) van de [!UICONTROL Reports] mening in werking stellen.
 
 * *[!UICONTROL On]\&lt;Date\>:* stelt het rapport op een gespecificeerde datum voor voltooiing door 09 :00 in de tijdzone van de rekening in werking.
 
@@ -74,7 +74,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 * (Optioneel) Voeg aanvullende criteria toe aan het filter.
 * (Optioneel) Voeg aanvullende filters toe, elk met een of meer criteria.
 
-\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor [ cross-account rapportering ](report-about.md#cross-account-reporting) wordt gevormd: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met uw Adobe-accountteam voor meer informatie over cross-account rapportage.
+\* *[!UICONTROL Account]* is beschikbaar voor de volgende rapporttypes slechts wanneer uw organisatie voor [&#x200B; cross-account rapportering &#x200B;](report-about.md#cross-account-reporting) wordt gevormd: [!UICONTROL Custom], [!UICONTROL Site], [!UICONTROL Segment], [!UICONTROL Geo], [!UICONTROL Device], [!UICONTROL Frequency (by Impression)], en [!UICONTROL Conversion]. Neem contact op met uw Adobe-accountteam voor meer informatie over cross-account rapportage.
 
 **[!UICONTROL Include data from Adobe Advertising SSC]:** (Pad naar Conversie, de Lengte van de Weg, en de Tijd aan Conversie rapporten slechts) omvat gegevens voor kliks op onderzoeksadvertenties van gespecificeerde Advertising onderzoek, Sociale, &amp; campagnes van Commerce. Wanneer u deze optie selecteert:
 
@@ -105,7 +105,7 @@ Ga als volgt te werk om een of meer filters toe te passen:
 
 * [!UICONTROL Custom Goals] (gesorteerd op adverteerder)
 
-Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor beschrijvingen van alle opties.
+Zie &quot;[&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](report-columns.md)&quot;voor beschrijvingen van alle opties.
 
 **[!UICONTROL Drag to Re-Order Report Headers Below]:** de orde van de kolomkopballen. U kunt elke kolom slepen en neerzetten om de volgorde aan te passen.
 
@@ -145,7 +145,7 @@ Zie &quot;[ Beschikbare Kolommen van het Rapport ](report-columns.md)&quot;voor 
 
    * *[!UICONTROL Social Only]:* Verouderd
 
-Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
+Zie ook &quot;[&#x200B; hoe de Regels van de Attributie voor Adobe Advertising &#x200B;](/help/search-social-commerce/reports/attribution-rules.md) worden berekend.&quot;
 
 * **Lookback:** ([!UICONTROL Household Conversion] rapporten met [!UICONTROL Conversion Metrics] of [!UICONTROL Custom Goals] kolommen, en [!UICONTROL Path to Conversion], [!UICONTROL Path Length], of [!UICONTROL Time to Conversion] rapporten met [!UICONTROL Conversion Metrics] slechts kolommen; adverteerders met de omzetting van Adobe Advertising het volgen slechts) binnen het rapport, het maximumaantal dagen na een impeilingsgebeurtenis of een klikgebeurtenis (voor [!UICONTROL Path to Conversion], [!UICONTROL Path Length], of [!UICONTROL Time to Conversion] rapporten) waarin een omzettingsgebeurtenis kan worden toegeschreven aan de Commissie. De standaardwaarde is *[!UICONTROL 30 days]* en het maximum is 92 dagen.
 
@@ -183,7 +183,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 * *[!UICONTROL FTP]:* om het voltooide rapport naar één of meerdere plaatsen van FTP te verzenden, die u op het **[!UICONTROL Destination Name]** gebied moet selecteren.
 
-* *[!UICONTROL FTP SSL](Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
+* *[!UICONTROL FTP SSL] (Momenteel in Beta):* Als u het voltooide rapport wilt verzenden naar een of meer FTP SSL-locaties, moet u deze selecteren in het veld **[!UICONTROL Destination Name]** .
 
 * *[!UICONTROL Email]:* Om e-mailadres(sen) op te geven waarnaar voltooide rapporten of meldingen moeten worden verzonden als het rapport door fouten wordt geannuleerd.
 
@@ -197,7 +197,7 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
    1. Klik **toevoegen Nieuwe Bestemming**.
 
-   1. Ga de [ montages van de rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-settings.md) in, en klik **sparen**.
+   1. Ga de [&#x200B; montages van de rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md) in, en klik **sparen**.
 
    1. Terug in de rapportmontages, klik **verfrissen de Namen van de Bestemming.**
 
@@ -205,12 +205,12 @@ Zie ook &quot;[ hoe de Regels van de Attributie voor Adobe Advertising ](/help/s
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer de Rapporten van de Douane ](/help/dsp/reports/report-about.md)
->* [ creeer een Rapport van de Douane ](/help/dsp/reports/report-create.md)
->* [ dupliceer een Rapport van de Douane ](/help/dsp/reports/report-copy.md)
->* [ geef een Rapport van de Douane uit ](/help/dsp/reports/report-edit.md)
->* [ Download een Rapport van de Douane ](/help/dsp/reports/report-download.md)
->* [ stel een Rapport van de Douane in werking ](/help/dsp/reports/report-run-now.md)
->* [ de Montages van het Rapport van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Ongeveer de Doelen van het Rapport ](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [ Beschikbare Kolommen van het Rapport ](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
+>* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
+>* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
+>* [&#x200B; Download een Rapport van de Douane &#x200B;](/help/dsp/reports/report-download.md)
+>* [&#x200B; stel een Rapport van de Douane in werking &#x200B;](/help/dsp/reports/report-run-now.md)
+>* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Ongeveer de Doelen van het Rapport &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)

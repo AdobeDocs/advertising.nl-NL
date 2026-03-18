@@ -20,7 +20,7 @@ U kunt lijsten met website- en toepassings-URL&#39;s voor plaatsingsdoeleinden m
 
 1. Klik op de lijstnaam.
 
-1. (Facultatief) om de geselecteerde lijst naar een formaat uit te voeren XLSX ([!DNL Microsoft Excel] spreadsheet), klik ![ de Uitvoer van de Uitvoer ](/help/dsp/assets/export.png " ") **[!UICONTROL Export]**.
+1. (Facultatief) om de geselecteerde lijst naar een formaat uit te voeren XLSX ([!DNL Microsoft Excel] spreadsheet), klik ![&#x200B; de Uitvoer van de Uitvoer &#x200B;](/help/dsp/assets/export.png " ") **[!UICONTROL Export]**.
 
    Het bestand wordt gedownload volgens de normale procedure van uw browser.
 
@@ -60,7 +60,7 @@ U kunt lijsten met website- en toepassings-URL&#39;s voor plaatsingsdoeleinden m
 
       1. De taakstatus bekijken, inclusief het aantal toegevoegde URL&#39;s en het aantal mislukte waarden:
 
-         1. Klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+         1. Klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
          1. (Als er geen rijen zijn toegevoegd) Als u een foutbestand met de mislukte waarden wilt downloaden, klikt u op **[!UICONTROL Download]** naast de taak.
 
@@ -128,7 +128,7 @@ U kunt lijsten met website- en toepassings-URL&#39;s voor plaatsingsdoeleinden m
 
       1. De taakstatus bekijken, inclusief het aantal toegevoegde URL&#39;s en het aantal mislukte waarden:
 
-         1. Klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+         1. Klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
          1. (Als er geen rijen zijn toegevoegd) Als u een foutbestand met de mislukte waarden wilt downloaden, klikt u op **[!UICONTROL Download]** naast de taak.
 
@@ -168,12 +168,12 @@ U kunt lijsten met website- en toepassings-URL&#39;s voor plaatsingsdoeleinden m
 
 1. Klik op de lijstnaam.
 
-1. Klik ![ Uitvoer van de Uitvoer van 0} ](/help/dsp/assets/export.png " ").**[!UICONTROL Export]**
+1. Klik ![&#x200B; Uitvoer van de Uitvoer van 0&rbrace; &#x200B;](/help/dsp/assets/export.png " ").**[!UICONTROL Export]**
 
    Het bestand wordt gedownload in de XLSX-indeling ( [!DNL Microsoft Excel] spreadsheet) volgens de normale procedure van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ Ongeveer account-Vlak en Advertiser-Vlakke Geblokkeerde Lijsten van Plaatsen ](/help/dsp/admin/blocked-sites-list-about.md)
->* [ geef een account-Vlakke of Advertiser-Vlakke Geblokkeerde Lijst van Plaatsen ](/help/dsp/admin/blocked-sites-list-edit.md) uit
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer account-Vlak en Advertiser-Vlakke Geblokkeerde Lijsten van Plaatsen &#x200B;](/help/dsp/admin/blocked-sites-list-about.md)
+>* [&#x200B; geef een account-Vlakke of Advertiser-Vlakke Geblokkeerde Lijst van Plaatsen &#x200B;](/help/dsp/admin/blocked-sites-list-edit.md) uit
