@@ -32,7 +32,7 @@ ht-degree: 0%
 
 **[!UICONTROL Landing Page]:** De URL waarop de viewer landt wanneer deze op de advertentie klikt.
 
-**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [!UICONTROL Landing Page] het volgen van Advertising DSP macro&#39;s [ opgenomen, als toepasselijk.](/help/dsp/campaign-management/macros.md)
+**[!UICONTROL Final Landing Page]:** URL met de noodzakelijke [!UICONTROL Landing Page] het volgen van Advertising DSP macro&#39;s [&#x200B; opgenomen, als toepasselijk.](/help/dsp/campaign-management/macros.md)
 
 **[!UICONTROL Sponsored By (Advertiser Name)]:** De adverteerder voor de advertentie.
 
@@ -48,8 +48,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [ Advertentiespecificaties ](ad-specs.md)
->* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)

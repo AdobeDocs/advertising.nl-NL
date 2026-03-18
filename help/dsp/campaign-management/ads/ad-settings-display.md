@@ -38,9 +38,9 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 **[!UICONTROL Display Code]:** (Alleen advertenties van derden) De URL van het creatieve middel van derden. Om het even welke [ timestamp ] en [[ timestamp ]] parameters worden vervangen met daadwerkelijke waarden.
 
-**[!UICONTROL Final Display Code]:** (De derdeadvertenties slechts) URL voor de derde creatieve activa, met de noodzakelijke [ het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
+**[!UICONTROL Final Display Code]:** (De derdeadvertenties slechts) URL voor de derde creatieve activa, met de noodzakelijke [&#x200B; het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
 
-**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet a [ gesteunde standaardvertoning en grootte ](ad-specs.md) zijn. U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code] invoeren. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
+**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet a [&#x200B; gesteunde standaardvertoning en grootte &#x200B;](ad-specs.md) zijn. U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code] invoeren. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
 
 >[!IMPORTANT]
 >
@@ -54,8 +54,8 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Advertentiebeheer ](ad-about.md)
->* [ creeer Één enkele Advertentie ](ad-create.md)
->* [ maak een lijst van de Plaatsen verbonden aan een Advertentie ](ad-list-placements.md)
->* [ Advertentiespecificaties ](ad-specs.md)
->* [ Macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)
+>* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
+>* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
+>* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
