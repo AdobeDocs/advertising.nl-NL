@@ -56,4 +56,4 @@ Alle actieve, goedgekeurde advertenties in een actieve plaatsing in een actieve 
 >* [&#x200B; Beste praktijken voor de Campagnes van Prestaties van de Opstelling &#x200B;](/help/dsp/optimization/campaign-best-practices-performance.md)
 >* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
 >* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
->* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
