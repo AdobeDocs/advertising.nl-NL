@@ -27,23 +27,23 @@ Nadat u om een individuele overeenkomst verzoekt of op alle overeenkomsten van e
 
 Goedkeuring of weigering van uitgever kan worden gebaseerd op het accounttype en de campagnecategorie voor het account, de categorie adverteerders en de lijst met geblokkeerde adverteerders van de uitgever.
 
-* ![ volledig goedgekeurd ](/help/dsp/assets/approved.png) voor overeenkomstenverzoeken die voor alle adverteerders in de rekening werden goedgekeurd
+* ![&#x200B; volledig goedgekeurd &#x200B;](/help/dsp/assets/approved.png) voor overeenkomstenverzoeken die voor alle adverteerders in de rekening werden goedgekeurd
 
-* ![ gedeeltelijk goedgekeurd ](/help/dsp/assets/partly-approved.png) voor overeenkomstenverzoeken die voor sommige, maar niet allen, adverteerders in de rekening werden goedgekeurd
+* ![&#x200B; gedeeltelijk goedgekeurd &#x200B;](/help/dsp/assets/partly-approved.png) voor overeenkomstenverzoeken die voor sommige, maar niet allen, adverteerders in de rekening werden goedgekeurd
 
-  Om te zien waarom een verzoek voor een adverteerder werd ontkend, klik ![ gedeeltelijk goedgekeurd ](/help/dsp/assets/partly-approved.png).
+  Om te zien waarom een verzoek voor een adverteerder werd ontkend, klik ![&#x200B; gedeeltelijk goedgekeurd &#x200B;](/help/dsp/assets/partly-approved.png).
 
-* ![ ontkend ](/help/dsp/assets/denied.png) voor overeenkomstenverzoeken die voor alle adverteerders in de rekening werden ontkend
+* ![&#x200B; ontkend &#x200B;](/help/dsp/assets/denied.png) voor overeenkomstenverzoeken die voor alle adverteerders in de rekening werden ontkend
 
-  Om te zien waarom een verzoek voor elke adverteerder werd ontkend, klik ![ ontkend ](/help/dsp/assets/denied.png). Als de reden voor de ontkenning iets is dat kan worden opgelost, dan kunt u [ de overeenkomst ](/help/dsp/inventory/on-demand-inventory-rerequest.md) opnieuw verzoeken.
+  Om te zien waarom een verzoek voor elke adverteerder werd ontkend, klik ![&#x200B; ontkend &#x200B;](/help/dsp/assets/denied.png). Als de reden voor de ontkenning iets is dat kan worden opgelost, dan kunt u [&#x200B; de overeenkomst &#x200B;](/help/dsp/inventory/on-demand-inventory-rerequest.md) opnieuw verzoeken.
 
 Neem contact op met uw Adobe-accountteam als u vragen hebt over het goedkeuringsproces.
 
 >[!MORELIKETHIS]
 >
->* [ Abonneren en de Toegang van het Verzoek tot  [!DNL On Demand]  de Deals van de Inventaris van de Premium ](on-demand-inventory-subscribe.md)
->* [ re-Request de Overeenkomsten van de Inventaris van de Premium op bestelling ](on-demand-inventory-rerequest.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Azië Pacific ](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Australië en Nieuw-Zeeland ](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Europa, het Midden-Oosten, en Afrika ](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Noord-Amerika ](on-demand-inventory-publishers-na.md)
+>* [&#x200B; Abonneren en de Toegang van het Verzoek tot  [!DNL On Demand]  de Deals van de Inventaris van de Premium &#x200B;](on-demand-inventory-subscribe.md)
+>* [&#x200B; re-Request de Overeenkomsten van de Inventaris van de Premium op bestelling &#x200B;](on-demand-inventory-rerequest.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Azië Pacific &#x200B;](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Australië en Nieuw-Zeeland &#x200B;](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Europa, het Midden-Oosten, en Afrika &#x200B;](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Noord-Amerika &#x200B;](on-demand-inventory-publishers-na.md)

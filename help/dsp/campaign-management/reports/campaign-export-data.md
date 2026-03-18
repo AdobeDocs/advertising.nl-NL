@@ -30,5 +30,5 @@ U kunt een momentopname van de huidige, gefilterde mening van het campagnebeheer
 
 >[!MORELIKETHIS]
 >
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](campaign-reports-about.md)
->* [ beheert Uw Kijken van Gegevens van de Campagne ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
+>* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

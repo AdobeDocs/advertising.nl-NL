@@ -29,12 +29,12 @@ U kunt een overeenkomst unarchive om zijn vorige status op elk ogenblik te herst
 
 >[!NOTE]
 >
->Om gearchiveerde overeenkomsten te bekijken, klik ![ Filter ](/help/dsp/assets/filter.png) boven de overeenkomstenlijst; klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Archived]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
+>Om gearchiveerde overeenkomsten te bekijken, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png) boven de overeenkomstenlijst; klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Archived]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 ## Een persoonlijke deal verwijderen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
-1. Boven de overeenkomstenlijst, klik ![ Filter ](/help/dsp/assets/filter.png); klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Archived]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
+1. Boven de overeenkomstenlijst, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png); klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Archived]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Unarchive]**.
 1. Klik in het bevestigingsbericht op **[!UICONTROL Unarchive]** .
 
@@ -42,9 +42,9 @@ Als de uitgever of SSP eerder de overeenkomst had gedeactiveerd en u het opnieuw
 
 >[!NOTE]
 >
->Om unarchived (levende) overeenkomsten te bekijken, klik ![ Filter ](/help/dsp/assets/filter.png) boven de overeenkomstenlijst; klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Live]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
+>Om unarchived (levende) overeenkomsten te bekijken, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png) boven de overeenkomstenlijst; klik **[!UICONTROL Status]** en selecteer *[!UICONTROL Live]*; en klik dan **[!UICONTROL Apply]**.<!-- Verify the text to apply the filter(s).)-->
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ geef Privé Montages van de Overeenkomst ](/help/dsp/inventory/deal-id-edit.md) uit
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; geef Privé Montages van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-edit.md) uit

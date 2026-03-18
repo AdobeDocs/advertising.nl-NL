@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # veilinginzichten weergeven voor een persoonlijke deal
 
-De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Gebruikend gegevensvisualisaties, toont dit hulpmiddel de trend en relatieve aandelen van waarden die voor [ worden ontvangen zeer belangrijke veilingsattributen ](#auction-attributes) binnen een specifieke tijdspanne.
+De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u toestaat om de overeenkomstensamenstelling van zowel gewaarborgde als niet gewaarborgde privé overeenkomsten te analyseren. Gebruikend gegevensvisualisaties, toont dit hulpmiddel de trend en relatieve aandelen van waarden die voor [&#x200B; worden ontvangen zeer belangrijke veilingsattributen &#x200B;](#auction-attributes) binnen een specifieke tijdspanne.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -20,7 +20,7 @@ De Inzichten van de veiling is een het oplossen van problemenhulpmiddel dat u to
 
 >[!NOTE]
 >
->Veilinginzichten zijn ook beschikbaar via het plaatsingsprogramma [!UICONTROL Inspector] . Om hen te openen, [ open de plaatsing [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan [!UICONTROL Inventory tab], en klik dan **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in de overeenkomstenrij.
+>Veilinginzichten zijn ook beschikbaar via het plaatsingsprogramma [!UICONTROL Inspector] . Om hen te openen, [&#x200B; open de plaatsing [!UICONTROL Inspector]](/help/dsp/campaign-management/reports/placement-details-view.md) aan [!UICONTROL Inventory tab], en klik dan **[!UICONTROL ...]** > **[!UICONTROL Auction Insights]** in de overeenkomstenrij.
 
 ## Veilingkenmerken {#auction-attributes}
 
@@ -40,7 +40,7 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
 * **Type Mime:** het ad creatieve type MIME dat in de veiling (zoals mp4 of mov) wordt gevraagd.
 
-![ veilinginzichten ](/help/dsp/assets/auction-insights.png)
+![&#x200B; veilinginzichten &#x200B;](/help/dsp/assets/auction-insights.png)
 
 >[!NOTE]
 >
@@ -48,7 +48,7 @@ Vlakkaarten zijn beschikbaar voor de volgende veilingkenmerken:
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
->* [ specificeer Plaatsingen en Advertenties voor identiteitskaart van de Overeenkomst ](deal-id-attach-placements.md)
->* [ Mening een Gedetailleerd Rapport voor een Overeenkomst ](deal-view-report.md)
->* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; specificeer Plaatsingen en Advertenties voor identiteitskaart van de Overeenkomst &#x200B;](deal-id-attach-placements.md)
+>* [&#x200B; Mening een Gedetailleerd Rapport voor een Overeenkomst &#x200B;](deal-view-report.md)
+>* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)

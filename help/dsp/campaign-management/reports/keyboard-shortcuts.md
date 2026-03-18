@@ -34,6 +34,6 @@ Gebruik sneltoetsen om snel door <!-- and to create ads and placements --> te na
 
 >[!MORELIKETHIS]
 >
->* [ creeer een Plaatsing ](/help/dsp/campaign-management/placements/placement-create.md)
->* [ geeft Plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uit
->* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; creeer een Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-create.md)
+>* [&#x200B; geeft Plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uit
+>* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
