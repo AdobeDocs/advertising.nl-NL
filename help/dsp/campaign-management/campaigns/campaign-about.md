@@ -35,4 +35,4 @@ Als u alle pakketten, plaatsen en advertenties in een campagne wilt weergeven, k
 >
 >* [&#x200B; creeer een Campagne &#x200B;](campaign-create.md)
 >* [&#x200B; Montages van de Campagne &#x200B;](campaign-settings.md)
->* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html)
+>* [&#x200B; Video: De Structuur van de Rekening van DSP en Gebruikersinterface &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/ui.html?lang=nl-NL)
