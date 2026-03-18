@@ -1,16 +1,16 @@
 ---
-title: Het rapport Placement Forecast weergeven
+title: Het rapport met de plaatsingsprognose weergeven
 description: Bekijk het aantal indrukkingen, uitgaven en het optimale maximumbod dat is voorspeld voor een bepaalde doelstrategie voor een plaatsing.
 feature: DSP Placements
 exl-id: 6ff228b2-b656-493e-a299-98c7a68a0f51
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
 
 ---
 
-# Het rapport Placement Forecast weergeven
+# Het rapport met de plaatsingsprognose weergeven
 
 <!-- Does this really belong in the Campaign Management > Reports section or in the Placements section? -->
 
@@ -27,17 +27,17 @@ De prognose bevat de volgende informatie:
 
 * **[!UICONTROL Summary]:**
 
-   * **[!UICONTROL Estimated CPM]:** De geschatte kosten per duizend indrukken (eCPM) die de het richten montages kunnen verwachten te bereiken.
+   * **[!UICONTROL Estimated CPM]:** De geschatte kosten per duizend beelden (eCPM) die de het richten montages kunnen verwachten te bereiken.
 
-   * **[!UICONTROL Budget]:** Het geschatte budget voor de doelinstellingen.
+   * **[!UICONTROL Budget]:** Het geschatte budget voor de instellingen voor doelframes.
 
-   * **[!UICONTROL Impression]:** Het geschatte aantal afbeeldingen voor de doelinstellingen.
+   * **[!UICONTROL Impression]:** Het geschatte aantal indrukken voor de doelinstellingen.
 
 * **[!UICONTROL Budget Yield Curve]:** Het geschatte aantal indrukken die de plaatsing op verschillende begrotingsniveaus kan leveren als alle andere het richten montages het zelfde zijn.
 
-* **[!UICONTROL Max Bid Yield Curve]:** De geschatte uitgave voor de plaatsing op verschillende Max. biedniveaus, wanneer alle andere het richten montages het zelfde zijn.
+* **[!UICONTROL Max Bid Yield Curve]:** De geschatte uitgave voor de plaatsing op verschillende Maximale biedniveaus, wanneer alle andere het richten montages het zelfde zijn.
 
-* **[!UICONTROL Message]:** Verstrekt informatie over de voorspelde output, met inbegrip van om het even welke scenario&#39;s waarin de voorspelling niet kon worden geproduceerd. Ook worden de instellingen voor het opgeven van doelen gemarkeerd die in dat scenario zijn herzien, maar die in dat scenario niet in overweging zijn genomen vanwege een gebrek aan gegevens.
+* **[!UICONTROL Message]:** verstrekt informatie over de voorspelde output, met inbegrip van om het even welke scenario&#39;s waarin de voorspelling niet kon worden geproduceerd. Ook worden de instellingen voor het opgeven van doelen gemarkeerd die in dat scenario zijn herzien, maar die in dat scenario niet in overweging zijn genomen vanwege een gebrek aan gegevens.
 
 ### Begrotingsberekening
 
@@ -65,15 +65,15 @@ De prognose bevat de volgende informatie:
 
      Een plaatsing is gewoonlijk een inzameling van veelvoudige advertentiesjablonen zoals die door levering-zijplatforms worden bepaald. Dus zelfs als de plaatsing al lange tijd bestaat, als de onderliggende advertentiesjabloon nieuw is, dan kan het voorspellingsinstrument geen prognose maken.
 
-## Het rapport Placement Forecast openen
+## Het plaatsingsrapport openen
 
-1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
-1. Klik op de naam van de campagne en klik vervolgens op **[!UICONTROL Placements]**.
+1. Klik op de naam van de campagne en klik vervolgens op **[!UICONTROL Placements]** .
 
-1. Klik naast de plaatsingsnaam op  **[!UICONTROL ...]** > **[!UICONTROL Edit]**.
+1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Zoek de **[!UICONTROL Forecast]** rechtsboven. Klik indien nodig op ![Voorspelling](/help/dsp/assets/placement-forecast.png).
+1. Zoek de sectie **[!UICONTROL Forecast]** in de rechterbovenhoek. Indien nodig, klik ![ Voorspelde ](/help/dsp/assets/placement-forecast.png).
 
    >[!NOTE]
    >
@@ -81,6 +81,6 @@ De prognose bevat de volgende informatie:
 
 >[!MORELIKETHIS]
 >
->* [Typen prestatierapporten in Campaign Management-weergaven](campaign-reports-about.md)
->* [De Placement Diagnostic Reports weergeven](/help/dsp/campaign-management/reports/placement-diagnostics.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne ](campaign-reports-about.md)
+>* [ Mening de Diagnostische Rapporten van de Plaatsing ](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

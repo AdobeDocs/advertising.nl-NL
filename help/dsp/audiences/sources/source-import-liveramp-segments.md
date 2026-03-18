@@ -1,20 +1,20 @@
 ---
-title: Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]
-description: Ervaar meer over het activeren van geverifieerde doelgroepen via [!DNL LiveRamp].
+title: Handmatig geverifieerde segmenten importeren uit  [!DNL LiveRamp]
+description: Leer over het activeren van voor authentiek verklaard publiek door  [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
-source-git-commit: 0a1555875fd18b326297475bc19fcfd6f28ea0c5
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
 
 ---
 
-# Geverifieerde segmenten handmatig importeren uit [!DNL LiveRamp]
+# Geautoriseerde segmenten handmatig importeren uit [!DNL LiveRamp]
 
-*Beta, functie*
+*eigenschap van Beta*
 
-U kunt geverifieerde gegevens handmatig verzenden [!DNL LiveRamp] segmenten die moeten worden DSP [!DNL LiveRamp] [!DNL Connect] dashboard. U kunt geïmporteerde segmenten gebruiken voor plaatsing als doel. Voor de segmenten van de eerste partij bedragen de vergoedingen 0,15 USD per geleverde display en indruk en 0,25 USD per video en indruk.
+Met het dashboard [!DNL LiveRamp] [!DNL LiveRamp] kunt u geverifieerde [!DNL Connect] -segmenten handmatig naar DSP verzenden. U kunt geïmporteerde segmenten gebruiken voor plaatsing als doel. Voor de segmenten van de eerste partij bedragen de vergoedingen 0,15 USD per geleverde display en indruk en 0,25 USD per video en indruk.
 
 Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeven dagen duren.
 
@@ -28,21 +28,21 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 
  -->
 
-1. Voer de volgende stappen uit in het dialoogvenster [!DNL Connect] dashboard:
+1. Voer de volgende stappen uit in het dashboard van [!DNL Connect] :
 
-   1. De doeltegel activeren **[!DNL AAC API 1P Onboarding]**.
+   1. Activeer de doeltegel **[!DNL AAC API 1P Onboarding]** .
 
-   1. Set [!DNL Identifier Settings] tot **[!DNL Ramp ID]** alleen.
+   1. Stel [!DNL Identifier Settings] alleen in op **[!DNL Ramp ID]** .
 
-      ![Instellingen voor id](/help/dsp/assets/liveramp-tile-settings.png)
+      ![ montages van het Herkenningsteken ](/help/dsp/assets/liveramp-tile-settings.png)
 
-   1. (Optioneel) Als u nog steeds op cookies gebaseerde id&#39;s wilt ontvangen, maakt u een tweede id [!DNL AAC API 1P Onboarding] doeltegel met &quot;[!DNL Cookies],&quot; &quot;[!DNL IDFA],&quot; en &quot;[!DNL AAID]&quot; geselecteerd.
+   1. (Optioneel) Als u nog steeds op cookies gebaseerde id&#39;s wilt ontvangen, maakt u een tweede [!DNL AAC API 1P Onboarding] doeltegel met &quot;[!DNL Cookies]&quot;, &quot;[!DNL IDFA]&quot; en &quot;[!DNL AAID]&quot; geselecteerd.
 
-   1. Verifieer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen plaatsingsinstellingen) dat het gehele aantal segmenten is geïmporteerd.
+   1. Controleer in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen de plaatsingsinstellingen) of het gehele aantal segmenten is geïmporteerd.
 
 >[!MORELIKETHIS]
 >
->* [Ongeveer de Bronnen van het Publiek van de Eerste Partij](source-about.md)
->* [Bronnen voor publiek beheren om Universal ID-publiek te activeren](source-manage.md)
->* [Adobe Advertising DSP-verbinding](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
->* [Informatie over Audience Management](/help/dsp/audiences/audience-about.md)
+>* [ Ongeveer de Bronnen van het Publiek van de Eerste Partij ](source-about.md)
+>* [ beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart ](source-manage.md) te activeren
+>* [ Verbinding van Adobe Advertising DSP ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [ Ongeveer het Beheer van het Publiek ](/help/dsp/audiences/audience-about.md)

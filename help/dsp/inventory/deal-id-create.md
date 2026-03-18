@@ -3,7 +3,7 @@ title: Handmatig details van deal-id maken
 description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
@@ -14,21 +14,21 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. Klik boven de gegevenstabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Deal ID]**.
+1. Klik boven de datatabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Deal ID]** .
 
-1. Voer de [deal-instellingen](deal-id-settings.md):
+1. Ga de [ overeenkomstenmontages ](deal-id-settings.md) in:
 
-   1. In de [!UICONTROL Deal ID basics] van de sectie, specificeer de overeenkomstendetails en adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
+   1. In de [!UICONTROL Deal ID basics] sectie, specificeer de overeenkomstendetails en de adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
 
       U kunt het afvangen van gewaarborgde overeenkomsten volgen door de &quot;Pacing van de Impressie Pacing&quot;uitgavenkolom van PG in de Inventaris > de mening van Overeenkomsten te omvatten.
 
-   1. (Alleen gebruikers van beheerder; optioneel) In het dialoogvenster [!UICONTROL Technical] de standaardinstellingen naar wens bewerken.
+   1. (Alleen gebruikers van beheerders; optioneel) Bewerk in de sectie [!UICONTROL Technical] de standaardinstellingen.
 
    1. Klik op **[!UICONTROL Save]**.
 
 1. (Gegarandeerde overeenkomsten slechts) selecteer de advertenties voor de overeenkomst (of 1x1 pixel voor uitgever-beheerde advertenties) te gebruiken en creeer een standaard programmatic gewaarborgde plaatsing (PG).
 
-   De standaardPG plaatsingen zorgen ervoor dat uw overeenkomst altijd een bod voor elke biedingsverzoek terugkeert. Als u geen standaardplaatsing van PG creeert, dan om het even welke plaatsen die de overeenkomst richten plaatsen geen biedingen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] weergave, standaard-PG-plaatsingen hebben een [!UICONTROL Sub-type] kolomwaarde van &quot;[!UICONTROL PG Default].&quot;
+   De standaardPG plaatsingen zorgen ervoor dat uw overeenkomst altijd een bod voor elke biedingsverzoek terugkeert. Als u geen standaardplaatsing van PG creeert, dan om het even welke plaatsen die de overeenkomst richten plaatsen geen biedingen tenzij zij opstelling correct zijn. U moet altijd een standaard-PG-plaatsing maken. In de [!UICONTROL Placements] mening, hebben de gebrek PG plaatsingen een [!UICONTROL Sub-type] kolomwaarde van &quot; [!UICONTROL PG Default]&quot;.
 
    U kunt naar keuze de overeenkomst als inventarisdoel in extra plaatsingen gebruiken maar moet hen opstelling correct om biedingen te plaatsen.
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Optioneel) Bewerk de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md), inclusief het overschrijven van het standaardbod, dat automatisch wordt gevuld met de CPM-waarde van de overeenkomst, het wijzigen van het datumbereik of het toevoegen van meer advertenties.
+      1. (Facultatief) geef de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
@@ -60,14 +60,14 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 
 >[!TIP]
 >
->* In de [!UICONTROL Inventory] > [!UICONTROL Deals] de [!UICONTROL Pacing & Budget] de kolom toont hoe de overeenkomst aan het gespecificeerde vliegdatum en imperiatiedoel past.
+>* In de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, toont de [!UICONTROL Pacing & Budget] kolom hoe de overeenkomst aan de gespecificeerde vluchtdatum en imperiatiedoel past.
 >
 >* Als de levering onderaan of overpakking is, contacteer uw uitgever om aan te passen hoeveel volume het door de overeenkomst verzendt.
 
 >[!MORELIKETHIS]
 >
->* [Instellingen voor handmatige deal-id](deal-id-settings.md)
->* [Opstelling een Programma Gegarandeerde Overeenkomst](programmatic-guaranteed-set-up.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
->* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
+>* [ Hand de Montages van identiteitskaart van de Overeenkomst ](deal-id-settings.md)
+>* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
 <!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->

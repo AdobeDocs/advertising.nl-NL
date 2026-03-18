@@ -2,7 +2,7 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: f2f24b85ad2f6068739b54e4a72a2e7bef6cd31b
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%
@@ -15,7 +15,7 @@ Adverteerders hebben vaak moeite om te begrijpen hoe hun verschillende mediakana
 
 In een gegevensgestuurd medialandschap biedt attributiemeting een oplossing voor deze uitdaging. Het team Advanced Measurement &amp; Strategy (AMS) helpt merk- en agentspartners te meten hoe elementen van hun Adobe Advertising, samen met hun [!DNL Adobe] integratie, aandrijvingsresultaten kopen. Met robuust aanbod van attributitemetingen kan AMS gekrulde doelstrategieën implementeren met behulp van geavanceerde meetframeworks, waardoor het voor merken eenvoudig is om hun mediaprijzen aan te sluiten op resultaten in de praktijk die hun bedrijven aansturen. Het team kan u helpen om:
 
-* Metingsstudies activeren voor digitale mediacampagnes met volledige trechter
+* Metingsstudies activeren voor digitale mediacampagnes van volledige funnel
 
 * Maak uw campagneverhaal beter met verpakte rapporteringsoplossingen
 
@@ -57,7 +57,7 @@ De volgende pakketten met meetoplossingen zijn beschikbaar om het succes van uw 
 
   Vergelijk het gedrag van gerandomiseerde, wederzijds uitsluitende monstergroepen met eenvoudige, schone A/B-tests.
 
-## Perfecte maatstaf zoeken: oplossingen op verticale wijze
+## De perfecte maateenheid zoeken: oplossingen op basis van verticaal
 
 * **Alle Verticals:**
 
@@ -85,4 +85,4 @@ Neem contact op met uw Adobe-accountteam voor informatie over alle geavanceerde 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gesteunde Valuta&#39;s in Adobe Advertising &#x200B;](/help/dsp/currency.md)
+>[ Gesteunde Valuta&#39;s in Adobe Advertising ](/help/dsp/currency.md)

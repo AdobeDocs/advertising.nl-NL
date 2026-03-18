@@ -1,33 +1,33 @@
 ---
-title: Trackingpixels voor een segment weergeven
+title: Pixels voor bijhouden weergeven voor een segment
 description: Leer hoe te om de het volgen pixel voor een douane of CCPA uit verkoopsegment te bekijken.
 feature: DSP Segments
 exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
-source-git-commit: 8e3afe50db8f3d0795838c071a01f3c5688f701f
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
 
 ---
 
-# Trackingpixels voor een segment weergeven
+# Pixels voor bijhouden weergeven voor een segment
 
-1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]**.
+1. Klik in het hoofdmenu op **[!UICONTROL Audiences]** > **[!UICONTROL Segments]** .
 
-1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]**.
+1. Plaats de cursor op de segmentrij en klik op **[!UICONTROL Get Pixel]** .
 
-   * De tag voor het bijhouden van de paginaweergave, waarmee bezoekers van een desktopcomputer en mobiel netwerk naar een webpagina worden getraceerd, krijgt het label &quot;[!UICONTROL Desktop or mobile websites].&quot; Voor segmenten die worden bijgehouden [!DNL ID5] ID&#39;s, vervangen `ID5_PARTNER_ID` in de gekopieerde tag met de partner-id die [!DNL ID5] toegewezen aan uw organisatie toen deze een overeenkomst ondertekende met [!DNL ID5]. Neem contact op met het accountteam van de Adobe als u uw partner-id niet kent.
+   * De volgende markering van de paginamening, die Desktop en mobiele bezoekers aan een webpagina volgt, wordt geëtiketteerd &quot;[!UICONTROL Desktop or mobile websites]&quot;. Voor segmenten die [!DNL ID5] id&#39;s bijhouden, vervangt u `ID5_PARTNER_ID` in de gekopieerde tag door de partner-id die [!DNL ID5] aan uw organisatie heeft toegewezen toen deze een overeenkomst ondertekende met [!DNL ID5] . Neem contact op met uw Adobe-accountteam als u uw partner-id niet kent.
 
      Voeg de tag toe aan de pagina&#39;s waarvan u de weergaven wilt bijhouden.
 
-   * (Alleen aangepaste segmenten) De impressietag, die gebruikers volgt die aan een advertentie-eenheid op een desktopcomputer, mobiel of CTV-apparaat worden blootgesteld, is gelabeld &quot;[!UICONTROL Desktop or mobile ads].&quot; Voeg de tag toe aan de advertenties waarvan u de weergaven wilt bijhouden. U kunt desgewenst de tag toevoegen aan een plaatsing en deze standaard koppelen aan alle advertenties die aan de plaatsing zijn gekoppeld.
+   * (Alleen aangepaste segmenten) De impressietag, die gebruikers volgt die aan een advertentie-eenheid op desktop-, mobiel- of CTV-apparaten worden blootgesteld, wordt aangeduid met &quot;[!UICONTROL Desktop or mobile ads]&quot;. Voeg de tag toe aan de advertenties waarvan u de weergaven wilt bijhouden. U kunt desgewenst de tag toevoegen aan een plaatsing en deze standaard koppelen aan alle advertenties die aan de plaatsing zijn gekoppeld.
 
 Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieksdoelstellingen of uitsluitingen voor om het even welke plaatsing gebruiken.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over Audience Management](audience-about.md)
->* [Een aangepast segment maken](custom-segment-create.md)
->* [Segmentinformatie bewerken](segment-edit.md)
->* [Een segment verwijderen](segment-delete.md)
->* [Een segment delen of delen stoppen](segment-share.md)
+>* [ Ongeveer het Beheer van het Publiek ](audience-about.md)
+>* [ creeer een Segment van de Douane ](custom-segment-create.md)
+>* [ geef de Informatie van het Segment ](segment-edit.md) uit
+>* [ Schrap een Segment ](segment-delete.md)
+>* [ Aandeel of Einde delend een Segment ](segment-share.md)

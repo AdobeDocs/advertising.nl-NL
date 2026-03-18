@@ -1,26 +1,26 @@
 ---
-title: Over pakketbeheer in DSP voor advertenties
+title: Over pakketbeheer in Advertising DSP
 description: Meer informatie over pakketbeheer.
 feature: DSP Packages
 exl-id: 26985635-c03a-471e-8372-fd33e89a30e9
-source-git-commit: 2b0513691e5db2db28222d4cf7edf8bca2f014ca
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '229'
 ht-degree: 0%
 
 ---
 
-# Over pakketbeheer in DSP voor advertenties
+# Over pakketbeheer in Advertising DSP
 
 Gebruik pakketten om plaatsingen voor levering aan een vastgestelde begroting, prestatiesdoel, en de strategie van het douanepakket te groeperen. DSP optimaliseert pakketten door budgetten te verschuiven naar de best presterende locaties in het pakket. U kunt pakketten ordenen op plaatsingsindeling, voorraadtype, gegevensaanbieder, persona of andere onderscheidbare kenmerken. Pakketten zijn optioneel.
 
 U kunt pakketten handmatig maken of bestaande pakketten dupliceren. U kunt ook plaatsen bewerken en toevoegen aan een willekeurig pakket.
 
-## De [!UICONTROL Packages] Dashboard
+## Het dashboard [!UICONTROL Packages]
 
-De [!UICONTROL Packages] het dashboard centraliseert prestaties en economische rapportering over al uw pakketstrategieën, die snelle momentopnamen verstrekken van hoe uw pakketten tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
+Het dashboard van [!UICONTROL Packages] centraliseert prestaties en economische rapportering over al uw pakketstrategieën, die snelle momentopnamen verstrekken van hoe uw pakketten tijdens een gespecificeerde datumwaaier hebben uitgevoerd.
 
-![Pakketdashboard](/help/dsp/assets/package-dashboard.png)
+![ het dashboard van Pakketten ](/help/dsp/assets/package-dashboard.png)
 
 Het dashboard bevat een aanpasbare trendgrafiek op hoog niveau met drie cijfers.
 
@@ -28,14 +28,14 @@ Het toont ook het verpakken en leveringsmetriek door pakket, door gebrek. U kunt
 
 >[!NOTE]
 >
->U kunt de inhoud en levering van pakketrapporten verder aanpassen via [aangepaste rapporten](/help/dsp/reports/report-about.md).
+>U kunt de inhoud en de levering van pakket verder aanpassen rapporterend via [ douanerapporten ](/help/dsp/reports/report-about.md).
 
 Als u alle plaatsen in een pakket en de vluchtdatums voor het pakket wilt zien, klikt u op de pakketnaam.
 
 >[!MORELIKETHIS]
 >
->* [Een pakket maken](package-create.md)
->* [Een pakket bewerken](package-edit.md)
->* [Een plaatsing koppelen aan een pakket](package-attach-placement.md)
->* [Het Wijzigingslogboek voor een pakket weergeven](package-change-log.md)
->* [Pakketinstellingen](package-settings.md)
+>* [ creeer een Pakket ](package-create.md)
+>* [ geef een Pakket ](package-edit.md) uit
+>* [ maak een Plaatsing aan een Pakket ](package-attach-placement.md) vast
+>* [ Mening het Logboek van de Verandering voor een Pakket ](package-change-log.md)
+>* [ de Montages van het Pakket ](package-settings.md)

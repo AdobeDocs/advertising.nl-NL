@@ -3,43 +3,43 @@ title: Een lijst met geblokkeerde sites op accountniveau of op adverteerdernivea
 description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
 role: User, Admin
 exl-id: b2261b3a-ead2-4d88-a363-66c53653de1a
-source-git-commit: 0e771df5470c287702850a227f9ac20d5679b775
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
-source-wordcount: '182'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---
 
 # Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken
 
-1. Klik in het hoofdmenu op **Instellingen > Sites.**
+1. In het belangrijkste menu, klik **Montages > Plaatsen.**
 
-1. Selecteer het lijstniveau: *Account* of *Adverteerder*.
+1. Selecteer het lijstniveau: *Rekening* of *Advertiser*.
 
 1. Voer een van de volgende handelingen uit:
 
    * (Optioneel) U kunt maximaal 10.000 waarden plakken of invoeren:
 
-      1. Klikken **Plakken in sites/apps**.
+      1. Klik **Deeg in Plaatsen/Toepassingen**.
 
-      1. Typ of plak in het invoerveld één waarde per regel en klik vervolgens op **Doorgaan**.
+      1. Op het inputgebied, ga of kleef één waarde per lijn in, en klik dan **verdergaan**.
 
-      1. (Als een waarde ongeldig wordt genoemd) Klik op de knop **Plakken in sites en apps** , corrigeert u de waarden en klikt u op **Doorgaan**.
+      1. (Als om het even welke waarden als ongeldig worden geïdentificeerd) klik het **Deeg in plaatsen &amp; apps** lusje, verbeter de waarden, en klik dan **verdergaan**.
 
-      1. Klikken **Voltooien**.
+      1. Klik **Afwerking**.
 
    * (Optioneel) Voer een van de volgende handelingen uit om een of meer waarden te verwijderen:
 
-      * Klik op **Alles wissen**. Klik in het bevestigingsbericht **OK**.
+      * Om alle waarden te verwijderen, klik **allen** ontruimen. In het bevestigingsbericht, klik **O.K.**.
 
-      * Als u een of meer waarden wilt verwijderen, schakelt u het selectievakje naast elkaar in en klikt u op **Geselecteerde verwijderen**.
+      * Om één of meerdere waarden te verwijderen, selecteer de controledoos naast elk, en klik dan **Geraakte Schrapping**.
 
       * Om één enkele waarden te verwijderen, klik **X** naast de waarde.
 
-   * (Optioneel) De lijst exporteren naar een [!DNL Microsoft Excel]  spreadsheet in komma-gescheiden waarden (CV) formaat, klik **Exporteren**.
+   * (Facultatief) om de lijst naar a [!DNL Microsoft Excel] spreadsheet in komma-gescheiden waarden (CV) formaat uit te voeren, klik **Uitvoer**.
 
 >[!MORELIKETHIS]
 >
->* [Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau](/help/dsp/admin/blocked-sites-list-about.md)
-> [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer account-Vlak en Advertiser-Vlakke Geblokkeerde Lijsten van Plaatsen ](/help/dsp/admin/blocked-sites-list-about.md)
+> [Merk Veiligheid en de Kwaliteit van Media ](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

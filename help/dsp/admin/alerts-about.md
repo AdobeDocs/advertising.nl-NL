@@ -1,16 +1,16 @@
 ---
-title: Informatie over abonnementen op berichten
+title: Informatie over abonnementen
 description: Meer weten over automatische e-mailberichten?
 role: User, Admin
 exl-id: f3578f10-4f66-4133-a6e0-1ca8001dd2c9
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
 
 ---
 
-# Informatie over abonnementen op berichten
+# Informatie over abonnementen
 
 U kunt groepen automatische e-mailwaarschuwingen maken, abonnementen genoemd, die e-mailmeldingen verzenden wanneer aan de opgegeven parameters voor account, campagne en persoonlijke voorraaddeal is voldaan.
 
@@ -62,4 +62,4 @@ U kunt waarschuwingen toevoegen aan of verwijderen uit een abonnement, de gebrui
 
 >[!MORELIKETHIS]
 >
->[Waarschuwingsabonnementen beheren](alerts-manage.md)
+>[ beheert Alarmabonnementen ](alerts-manage.md)

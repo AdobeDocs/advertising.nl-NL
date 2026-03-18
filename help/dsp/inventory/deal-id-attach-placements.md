@@ -1,46 +1,46 @@
 ---
-title: Plaatsingen en advertenties voor een persoonlijke deal opgeven
+title: Plaatsen en advertenties voor een persoonlijke deal opgeven
 description: Leer hoe u een persoonlijke deal met extra plaatsingen en advertenties kunt gebruiken.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 09119471-429d-413e-8033-e29e1558abb0
-source-git-commit: 4b9cc5956d573b346eacdf71a8ea490c162b4660
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '278'
 ht-degree: 0%
 
 ---
 
-# Plaatsingen en advertenties voor een persoonlijke deal opgeven
+# Plaatsen en advertenties voor een persoonlijke deal opgeven
 
-Voor niet-gegarandeerde deals kunt u de deal opgeven als een inventarisatiedoel voor nieuwe plaatsingen van de [!UICONTROL Placements] weergeven.
+Voor niet-gegarandeerde deals kunt u vanuit de weergave [!UICONTROL Placements] de deal opgeven als een inventarisatiedoel voor nieuwe plaatsingen.
 
-Voor PG-deals (programmeergegarandeerd) kunt u plaatsingen maken met opgegeven advertenties vanuit de [!UICONTROL Deals] weergeven.
+Voor door het programma gegarandeerde (PG) deals kunt u vanuit de [!UICONTROL Deals] -weergave plaatsen met opgegeven advertenties maken.
 
-U kunt [advertenties koppelen aan plaatsingen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) te allen tijde verband houden met PG en niet-gegarandeerde deals.
+U kunt ook [ advertenties aan plaatsen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) verbonden aan PG en niet-gewaarborgde overeenkomsten op elk ogenblik vastmaken.
 
-## Specificeer een Niet-Gegarandeerde Overeenkomst als Doel van de Inventaris voor een Plaatsing
+## Geef een niet-gegarandeerde deal op als inventarisdoel voor een plaatsing
 
-* [Een plaatsing maken op basis van de [!UICONTROL Placements] weergave](/help/dsp/campaign-management/placements/placement-create.md). In de [!UICONTROL Inventory Targeting] montages, selecteer de privé overeenkomst.
+* [ creeer een plaatsing van de [!UICONTROL Placements] mening ](/help/dsp/campaign-management/placements/placement-create.md). In de [!UICONTROL Inventory Targeting] montages, selecteer de privé overeenkomst.
 
-## Plaatsingen en advertenties aan een Overeenkomst van PG vastmaken
+## Plaatsen en advertenties aan een PG-deal koppelen
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Attach New Placement]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Attach New Placement]**.
 
-1. In de [!UICONTROL Ad & Campaign Selection] Selecteer de advertenties die u voor de plaatsing wilt gebruiken:
+1. Selecteer in de [!UICONTROL Ad & Campaign Selection] -instellingen de advertenties die u voor de plaatsing wilt gebruiken:
 
        1. Selecteer de adverteerder, de campagne en het type advertentie. Selecteer desgewenst een advertentiestatus waarmee de advertenties moeten worden gefilterd.
        
-       1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie om voor de overeenkomst te gebruiken.
+        1. Van de lijst van beschikbare advertenties, selecteer de controledoos naast elke advertentie om voor de overeenkomst te gebruiken.
        
-       1. Klikken **[!UICONTROL Apply]**.
+        1. Klik op **[!UICONTROL Apply]**.
    
    1. In het scherm met plaatsingsinstellingen:
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Optioneel) Bewerk de [plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md), inclusief het overschrijven van het standaardbod, dat automatisch wordt gevuld met de CPM-waarde van de overeenkomst, het wijzigen van het datumbereik of het toevoegen van meer advertenties.
+      1. (Facultatief) geef de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
@@ -54,8 +54,8 @@ De plaatsing begint lopend nadat de uitgever uw PG overeenkomst ID activeert.
 
 >[!MORELIKETHIS]
 >
->* [Informatie over privé-voorraad](private-inventory-about.md)
->* [Maak een lijst van de Plaatsingen en Adverten voor een PrivéOvereenkomst](/help/dsp/inventory/private-deal-view-placements.md)
->* [Handmatig details van deal-id maken](deal-id-create.md)
->* [Instellingen voor handmatige deal-id](deal-id-settings.md)
->* [Opstelling een Programma Gegarandeerde Overeenkomst](programmatic-guaranteed-set-up.md)
+>* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
+>* [ maak een lijst van de Plaatsen en Adverten voor een PrivéOvereenkomst ](/help/dsp/inventory/private-deal-view-placements.md)
+>* [ creeer manueel Deal ID Details ](deal-id-create.md)
+>* [ Hand de Montages van identiteitskaart van de Overeenkomst ](deal-id-settings.md)
+>* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)

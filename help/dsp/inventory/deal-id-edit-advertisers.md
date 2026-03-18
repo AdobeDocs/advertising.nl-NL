@@ -1,31 +1,30 @@
 ---
-title: Geef Advertisers met Toegang tot een Privé Overeenkomst uit
+title: De adverteerders toegang geven tot een persoonlijke deal
 description: Leer hoe te om te specificeren welke adverteerders tot een privé overeenkomst kunnen toegang hebben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
-source-git-commit: 1a98b3ba7c37a768825e9e48db7d847f12daa9a0
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
 
 ---
 
-# Geef Advertisers met Toegang tot een Privé Overeenkomst uit
+# De adverteerders toegang geven tot een persoonlijke deal
 
 >[!NOTE]
 >
->U kunt ook [delen en ophouden delend een overeenkomst identiteitskaart met alle adverteerders binnen gespecificeerde rekeningen](deal-id-share.md).
+>U kunt ook [ delen en ophouden delend een overeenkomstenidentiteitskaart met alle adverteerders binnen gespecificeerde rekeningen ](deal-id-share.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. In de overeenkomstenrij, klik  **[!UICONTROL ...]** > **[!UICONTROL Manage Advertisers]**.
+1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL Manage Advertisers]**.
 
 1. In de overeenkomstenmontages, selecteer de controledoos naast elke adverteerder die toegang tot de overeenkomst zou moeten hebben, en ontruim de controledoos naast elke adverteerder die geen toegang zou moeten hebben.
 
-1. Klikken **[!UICONTROL Save]** om de overeenkomstenmontages te bewaren.
+1. Klik **[!UICONTROL Save]** om de overeenkomstenmontages te bewaren.
 
 >[!MORELIKETHIS]
->* [Informatie over privé-voorraad](private-inventory-about.md)
->* [Bewerk de accounts met toegang tot een deal-id](/help/dsp/inventory/deal-id-share.md)
->* [Instellingen voor handmatige deal-id](deal-id-settings.md)
-
+>* [ Ongeveer Privé Inventaris ](private-inventory-about.md)
+>* [ geef de Rekeningen met Toegang tot identiteitskaart van de Overeenkomst ](/help/dsp/inventory/deal-id-share.md) uit
+>* [ Hand de Montages van identiteitskaart van de Overeenkomst ](deal-id-settings.md)

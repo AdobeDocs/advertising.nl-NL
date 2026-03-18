@@ -1,31 +1,31 @@
 ---
-title: Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
+title: Over geblokkeerde sites op accountniveau en op adverteerderniveau
 description: Meer weten over de lijst met geblokkeerde sites voor een account of adverteerder?
 role: User, Admin
 exl-id: e147159b-54f2-492b-8dbc-054b97897fa6
-source-git-commit: ec7d7f5531c038eb772339a36d13208fc97d2728
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
-# Over geblokkeerde sitelijsten op accountniveau en op advertentieniveau
+# Over geblokkeerde sites op accountniveau en op adverteerderniveau
 
-U kunt de lijst met geblokkeerde sites bewerken die wordt gebruikt voor de gehele DSP account en aanvullende lijsten voor afzonderlijke adverteerders in de account.
+U kunt de lijst met geblokkeerde sites bewerken die wordt gebruikt voor de gehele DSP-account en aanvullende lijsten voor afzonderlijke adverteerders in de account.
 
-In de lijst met geblokkeerde sites worden sets met doelen gedefinieerd die u voor uw plaatsing wilt uitsluiten. Elke lijst kan bestaan uit websitedomeinen van het hoogste niveau en elk niveau van subdomeinen (zoals example.com, my.example.com of my.new.example.com) en mobiele toepassings-id&#39;s of pakketnamen (zoals com.example.app123).
+In de lijst met geblokkeerde sites worden sets met doelen gedefinieerd die u voor uw plaatsing wilt uitsluiten. Elke lijst kan bestaan uit websitedomeinen op het hoogste niveau en elk niveau van subdomeinen (zoals example.com, my.example.com of my.new.example.com) en mobiele toepassings-id&#39;s of pakketnamen (zoals com.example.app123).
 
 Lijsten op advertentieniveau overschrijven lijsten op accountniveau.
 
 >[!NOTE]
 >
->* Naast de DSP worden lijsten met geblokkeerde sites op accountniveau en op adverteerderniveau toegepast [globaal geblokkeerde sitelijst](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), waaronder plaatsen die onveilig worden geacht voor advertenties.
+>* De rekening-niveau en adverteerder-vlakke geblokkeerde plaatslijsten worden toegepast naast DSP [ globaal geblokkeerde plaatsenlijst ](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), die plaatsen omvatten die onveilig voor advertenties worden geacht.
 >* Gebruikers kunnen ook gerichte sites toevoegen aan elke gewenste plaatsing.
 >* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
 >[!MORELIKETHIS]
 >
->* [Een lijst met geblokkeerde sites op accountniveau of op adverteerderniveau bewerken](/help/dsp/admin/blocked-sites-list-edit.md)
->* [Merk, veiligheid en mediakwaliteit](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [Plaatsingsinstellingen](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ geef een account-Vlakke of Advertiser-Vlakke Geblokkeerde Lijst van Plaatsen ](/help/dsp/admin/blocked-sites-list-edit.md) uit
+>* [ Merk Veiligheid en de Kwaliteit van Media ](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [ Montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

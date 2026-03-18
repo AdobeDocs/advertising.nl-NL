@@ -1,22 +1,22 @@
 ---
-title: Ondersteunde valuta's
+title: Ondersteunde valuta
 description: Zie een lijst met de ondersteunde valuta's.
 feature: DSP Custom Reports, DSP Campaign Data Views
 exl-id: 97d49cce-4438-40c4-94a4-e5d90ebaf651
-source-git-commit: 5fa4ba523b3036b8fc184dea082ae5a77ef71919
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 0%
 
 ---
 
-# In Adobe Advertising ondersteunde valuta&#39;s
+# In Adobe Advertising ondersteunde valuta
 
 Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
 >[!NOTE]
 >
->Adobe Analytics steunt [&#x200B; een grotere reeks valuta &#x200B;](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html?lang=nl-NL).
+>Adobe Analytics steunt [ een grotere reeks valuta ](https://experienceleague.adobe.com/docs/analytics/implementation/vars/config-vars/currencycode.html).
 
 ## DSP en Creative
 
@@ -48,5 +48,5 @@ Adobe Advertising ondersteunt de volgende valuta&#39;s.
 
 ## [!DNL Adobe Advertising Search, Social, & Commerce]
 
-Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is het zelfde als [&#x200B; die door  [!DNL Google Ads] worden gesteund &#x200B;](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
+Alle valuta&#39;s die worden ondersteund door ondersteunde zoekmachines. Dit is het zelfde als [ die door  [!DNL Google Ads] worden gesteund ](https://developers.google.com/adwords/api/docs/appendix/codes-formats#currency-codes).
 

@@ -3,7 +3,7 @@ title: Veelgestelde vragen over Universal Video
 description: Meer weten over universele videobanden?
 feature: DSP Placements, DSP Ads
 exl-id: 48c744ae-90a3-47e9-a5dc-c4e3c01b75a0
-source-git-commit: 8d65069b7da5d3c33cc7713c6c80af27eb6bf227
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
 source-wordcount: '348'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Veelgestelde vragen over Universal Video
 
-[Universele video-advertenties](/help/dsp/campaign-management/ads/ad-about.md#ad-types) kunt u de videovoorraad van desktop-, mobiel- en aangesloten tv-omgevingen richten op VPAID- en VAST-inventarisatie met behulp van één videoplaatsing.
+[ Universele videoadvertenties ](/help/dsp/campaign-management/ads/ad-about.md#ad-types) staan u toe om videoinventaris van Desktop, mobiele, en aangesloten milieu&#39;s van TV voor VPAID en VAST inventaris te richten gebruikend één enkele videoplaatsing.
 
 ## Hoe kunt u universele videoplaatsen en advertenties maken?
 
@@ -20,35 +20,35 @@ Universal video placements can contain only Universal video ads, and Universal v
 
 Maak universele videoplaatsingen en advertenties die vergelijkbaar zijn met de manier waarop u andere typen plaatsingen en video&#39;s maakt:
 
-1. In de gewenste campagne [universele videoplaatsing maken](/help/dsp/campaign-management/placements/placement-create.md), selecteert u de [!UICONTROL Placement Type] **[!UICONTROL Universal Video]**.
+1. Binnen de gewenste campagne, [ creeer een universele videoplaatsing ](/help/dsp/campaign-management/placements/placement-create.md), die [!UICONTROL Placement Type] **[!UICONTROL Universal Video]** selecteert.
 
-   U moet ten minste één omgeving (Desktop, Mobiel, Verbonden tv) opgeven om als doel in te stellen.
+   U moet ten minste één omgeving (Desktop, Mobiel, Verbonden tv) opgeven als doel.
 
-1. In dezelfde campagne als de universele videoplaatsing, [één universele video-advertentie maken](/help/dsp/campaign-management/ads/ad-create.md) of [meerdere universele videobanden maken](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+1. In de zelfde campagne zoals de universele videoplaatsing, [ creeer één enkele universele video en ](/help/dsp/campaign-management/ads/ad-create.md) of [ creeer veelvoudige universele videoadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
-   Als u meerdere advertenties maakt, moet u &quot;[!UICONTROL Universal Video]&quot; als de [!UICONTROL Ad Type]:
+   Als u meerdere advertenties maakt, moet u &quot;[!UICONTROL Universal Video]&quot; opgeven als de [!UICONTROL Ad Type] :
 
-   * Voor [!DNL Google] of [!DNL Flashtalking] advertenties: In het veld &quot;[!UICONTROL Review ad types]&quot; nadat u het bestand hebt geüpload, klikt u op de knop **[!UICONTROL Ad Type]** veld en selecteer **[!UICONTROL Universal Video]**.
+   * Voor [!DNL Google] - of [!DNL Flashtalking] -advertenties: klik in de stap &quot;[!UICONTROL Review ad types]&quot; nadat u het bestand hebt geüpload op het veld **[!UICONTROL Ad Type]** en selecteer **[!UICONTROL Universal Video]** .
 
-   * Voor andere typen advertentietags: Geef in het werkbladbestand dat u uploadt het veld Advertentietype voor elke advertentie op als **[!UICONTROL Universal Video]**.
+   * Voor andere typen advertentietags: binnen het spreadsheetbestand dat u uploadt, geeft u het veld Advertentietype voor elke advertentie op als **[!UICONTROL Universal Video]** .
 
-1. [De advertentie-instellingen openen](/help/dsp/campaign-management/ads/ad-edit.md) voor elke nieuwe advertentie en selecteer het toepasselijke videoformaat:
+1. [ open de advertentiemontages ](/help/dsp/campaign-management/ads/ad-edit.md) voor elke nieuwe advertentie en selecteer het toepasselijke videoformaat:
 
-   * **[!UICONTROL VPAID]:** Zichtbaarheid wordt altijd gemeten.
-   * **[!UICONTROL VPAID & VAST (Default)]:** Omvat voorraad die geen viewability meting toestaat.
+   * **[!UICONTROL VPAID]:** De weergavabiliteit wordt altijd gemeten.
+   * **[!UICONTROL VPAID & VAST (Default)]:** omvat inventaris die viewability meting niet toestaat.
    * **[!UICONTROL VAST]** - Geschikt voor online tv-inventarisatie.
 
-   Zie &quot;[Instellingen voor Universal Video Add](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot; voor meer informatie .
+   Zie &quot;[ Universele Video en Montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)&quot;voor meer informatie.
 
-1. [De nieuwe Universal Video Adads bijvoegen](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) naar de universele plaatsing van video.
+1. [ maak de nieuwe universele videoadvertenties ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) aan de universele videoplaatsing vast.
 
 ## Waarom zijn sommige optimalisatiedoelstellingen en pakketten niet beschikbaar wanneer de Connected TV-omgeving is geselecteerd voor een universele plaatsing van video?
 
 Doelstellingen die niet compatibel zijn met standaard aangesloten tv-plaatsingen, zoals de laagste kosten per klik, worden niet ondersteund voor de aangesloten tv-omgeving in universele videoplaatsingen. Pakketten met niet-compatibele optimalisatiedoelen kunnen ook niet worden geselecteerd.
 
-## Wanneer moet de **[!UICONTROL VAST]** video-indeling wordt gebruikt voor universele videoadvertenties?
+## Wanneer moet de video-indeling **[!UICONTROL VAST]** worden gebruikt voor universele videoadvertenties?
 
-Gebruiken **[!UICONTROL VAST]** in een van de volgende scenario&#39;s:
+Gebruik **[!UICONTROL VAST]** in een van de volgende scenario&#39;s:
 
 * De plaatsingsdoelstellingen verbonden TV-inventaris.
 * De plaatsing is gericht op videoinventarisatie van Google Ad Manager, Appnexus, SpotX of Freeschijf. Deze SSPs steunt niet VPAID &amp; VAST videoformaat.

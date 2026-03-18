@@ -1,57 +1,57 @@
 ---
-title: Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
-description: Leer hoe u een persoonlijke deal accepteert die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), and [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]) die identiteitskaart Inbox van de Overeenkomst gebruiken.
+title: Accepteer een deal in de [!UICONTROL Deal ID Inbox]
+description: Leer hoe te om een privé overeenkomst goed te keuren u reeds met een uitgever op  [!DNL FreeWheel], [!DNL Google Authorized Buyers]  (vroeger gekend als  [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger  [!DNL Rubicon]) gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 7c681ab7-3051-451d-ab83-fc75bdd6eaad
-source-git-commit: d5a291c8d1f464e1c22777512d29f4e041bb7988
+source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '311'
 ht-degree: 0%
 
 ---
 
-# Accepteer een Overeenkomst in [!UICONTROL Deal ID Inbox]
+# Accepteer een deal in de [!UICONTROL Deal ID Inbox]
 
-*Gebruikers in DSP accounts die alleen zijn toegewezen aan SSP-accounts*
+*Gebruikers in de Rekeningen van DSP die aan SSP slechts Rekeningen* worden toegewezen
 
-Gebruik de [!UICONTROL Deal ID inbox] om een privé overeenkomst snel goed te keuren u met een uitgever reeds hebt onderhandeld op [!DNL FreeWheel], [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX]), en [!DNL Magnite DV+] (voorheen) [!DNL Rubicon]).
+Gebruik [!UICONTROL Deal ID inbox] om snel een persoonlijke deal te accepteren die u al met een uitgever hebt onderhandeld op [!DNL FreeWheel] , [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX] ) en [!DNL Magnite DV+] (voorheen [!DNL Rubicon] ).
 
 >[!NOTE]
 >
->Door middel van programmacode gegarandeerde deals met uitgevers opzetten op [!DNL FreeWheel] vereist extra machtigingen en stappen. Zie &quot;[Overzicht van het Opzetten van Programmatic Gegarandeerde Overeenkomsten in FreeWheel](freewheel-overview.md)&quot; voor meer informatie .
+>Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist. Zie &quot;[ Overzicht van de Programmatische Gegarandeerde Overeenkomsten van de Opstelling in FreeWheel ](freewheel-overview.md)&quot;voor meer informatie.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
-1. Boven de lijst met [!UICONTROL Deals]klikt u op de blauwe balk om het dialoogvenster [!UICONTROL Deal ID inbox].
+1. Klik boven de lijst met [!UICONTROL Deals] op de blauwe balk om het dialoogvenster [!UICONTROL Deal ID inbox] te openen.
 
-1. (Facultatief) om de overeenkomstendetails te verfrissen, klik **[!UICONTROL Refresh]**.
+1. (Optioneel) Klik op **[!UICONTROL Refresh]** om de details van de deal te vernieuwen.
 
-   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks om 4:30 a.m. EST. Het verfrist ook alle [!DNL FreeWheel] deals en updates van bestaande deals van [!DNL Google] en [!DNL Magnite DV+] uur.
+   DSP vernieuwt automatisch alle overeenkomstendetails dagelijks bij 4 :30 a.m. EST. Ook worden alle [!DNL FreeWheel] -deals vernieuwd en worden bestaande deals vanuit [!DNL Google] en [!DNL Magnite DV+] uur bijgewerkt.
 
-1. (Als u eerder de overeenkomst negeerde) klik **[!UICONTROL Ignored Deals]** tab.
+1. (Als u eerder de overeenkomst hebt genegeerd) Klik de **[!UICONTROL Ignored Deals]** tabel.
 
-1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en te klikken ![Controleren](/help/dsp/assets/review.png).
+1. Om de overeenkomstendetails, zoals de uitgever en de data te herzien en te bevestigen, de curseur over de overeenkomstenrij te houden en ![ Overzicht ](/help/dsp/assets/review.png) te klikken.
 
 1. Voer een van de volgende handelingen uit:
 
-   * In de overeenkomstendetails, klik **[!UICONTROL Accept]**.
+   * Klik op **[!UICONTROL Accept]** in de details van de deal.
 
-   * In de [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![Accepteren](/help/dsp/assets/accept.png).
+   * In [!UICONTROL Deal ID inbox], houd de curseur over de overeenkomstenrij en klik ![ Accepteren ](/help/dsp/assets/accept.png).
 
 1. In de overeenkomstendetails:
-   1. Voer de vereiste gegevens in: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, en **[!UICONTROL Deal Access]** (de adverteerders die toegang hebben tot de deal).
+   1. Voltooi de vereiste informatie: **[!UICONTROL Publisher]**, **[!UICONTROL Media Type]**, en **[!UICONTROL Deal Access]** (de adverteerders met toegang tot de deal).
    1. (Facultatief) specificeer extra rekeningen waarmee om de overeenkomst te delen of etiketten aan het overeenkomstenverslag vast te maken.
 
    1. Klik op **[!UICONTROL Save]**.
 
 1. (Programmatic gewaarborgde overeenkomsten slechts) volg de herinneringen om een advertentie (of een 1x1 het volgen pixel voor uitgever-beheerde advertenties) voor de overeenkomst te selecteren en een programmatic gewaarborgde standaardplaatsing tot stand te brengen die de overeenkomst richt.
 
-Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in elke plaatsing [!UICONTROL Inventory Targeting] sectie.
+Zodra u een overeenkomst goedkeurt, wordt het bewogen van [!UICONTROL Deal ID inbox] aan de [!UICONTROL Inventory] > [!UICONTROL Deals] mening, en de overeenkomst is beschikbaar als privé inventarisbron in de sectie van elke plaatsing [!UICONTROL Inventory Targeting].
 
 >[!MORELIKETHIS]
 >
->* [Ongeveer identiteitskaart Inbox van de Overeenkomst](deal-id-inbox-about.md)
->* [Opstelling een Programma Gegarandeerde Overeenkomst](programmatic-guaranteed-set-up.md)
->* [Verzend een Advertentie voor een Programma Gegarandeerde Overeenkomst met [!DNL FreeWheel]](freewheel-submit.md)
->* [Ongeveer Programma Gegarandeerde Overeenkomsten](programmatic-guaranteed-about.md)
->* [Overzicht van voorraadfuncties](inventory-overview.md)
+>* [ Ongeveer identiteitskaart Inbox van de Overeenkomst ](deal-id-inbox-about.md)
+>* [ opstelling een Programma Gegarandeerde Overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [ Ongeveer Programmatic gewaarborgde Overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ Overzicht van de Eigenschappen van de Inventaris ](inventory-overview.md)
