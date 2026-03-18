@@ -3,7 +3,7 @@ title: Aangepaste doelen
 description: Leer over douanedoelstellingen om uw succesgebeurtenissen te bepalen in pakketten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization
 exl-id: e40b82bc-2558-4e78-b269-9b9a3f0f5219
-source-git-commit: de2a2a097802cc4a7b5ac63bee2eb326895e70f1
+source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
 workflow-type: tm+mt
 source-wordcount: '1189'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Elk douanedoel (doelstelling) bestaat uit één of meerdere omzettingsmetriek en
 
 Stel dat drie conversiemetriek bijvoorbeeld relevant zijn voor een specifiek pakket in een van uw campagnes: &quot;PDF Download&quot; gewaardeerd op 20 USD, &quot;Email Signup&quot; gewaardeerd op 30 USD en &quot;Order Confirmation&quot; gewaardeerd op 40 USD. Als u gewicht wilt geven volgens de eenmalige monetaire waarde van de actie van de klant, dan zouden de relatieve gewichten van de metriek 1, 1.5, en 2 zijn.
 
-Zodra u [&#x200B; een douanedoel &#x200B;](#custom-goal-create) creeert, kunt u het [&#x200B; toewijzen aan een pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor het melden van en algoritmische optimalisering gebruikend [!DNL Adobe AI].
+Zodra u [ een douanedoel ](#custom-goal-create) creeert, kunt u het [ toewijzen aan een pakket ](/help/dsp/campaign-management/packages/package-settings.md) voor het melden van en algoritmische optimalisering gebruikend [!DNL Adobe AI].
 
 De aanbevelingen van het gewicht worden automatisch geproduceerd voor DSP-toegeschreven metriek in doelstellingen, en kunnen alle gewichtsaanbevelingen met één klik toepassen. Alle gewichtswijzigingen in doelstellingen die vooraf zijn vastgesteld met &quot;ADSP_&quot; worden binnen twee dagen algoritmisch toegepast in DSP. Zie het hoofdstuk over &quot;Doelstellingen&quot; in het hoofdstuk over zoekopdrachten, sociale zaken en Commerce voor meer informatie over het gewicht.
 
@@ -31,7 +31,7 @@ De aanbevelingen van het gewicht worden automatisch geproduceerd voor DSP-toeges
 
 Als u een aangepast doel wilt maken, moet de DSP-account vanuit de [!DNL Search, Social, & Commerce] -client-instellingen zijn gekoppeld aan een [!DNL Search, Social, & Commerce] -account met dezelfde Adobe Experience Cloud-organisatie-id. Als uw DSP-account niet is gekoppeld aan een [!DNL Search, Social, & Commerce] -account, neemt u contact op met uw Adobe-accountteam.
 
-1. [&#x200B; Teken binnen aan het Onderzoek van Advertising, Sociale, &amp; Commerce &#x200B;](/help/search-social-commerce/getting-started/sign-in.md){target="_blank"}.
+1. [ Teken binnen aan het Onderzoek van Advertising, Sociale, &amp; Commerce ](/help/search-social-commerce/getting-started/sign-in.md){target="_blank"}.
 
 1. Zorg ervoor dat de meetgegevens die u in uw doel wilt opnemen, zijn bijgehouden, beschikbaar zijn in het product en een weergavenaam bevatten:
 
@@ -47,7 +47,7 @@ Als u een aangepast doel wilt maken, moet de DSP-account vanuit de [!DNL Search,
 
    1. Als metrisch geen waarde in de **[!UICONTROL Display Name]** kolom heeft, dan klik in de cel, ga de vertoningsnaam in, en klik **[!UICONTROL Apply].**
 
-1. [&#x200B; creeer het douanedoel als *doelstelling*](/help/search-social-commerce/new-ui/goals/objectives/objective-create.md){target="_blank"}. Overweeg het volgende:
+1. [ creeer het douanedoel als *doelstelling*](/help/search-social-commerce/new-ui/goals/objectives/objective-create.md){target="_blank"}. Overweeg het volgende:
 
    * Voor doelstellingen die voor pakketten Advertising DSP worden gebruikt, moet de objectieve naam met &quot;ADSP_&quot;zoals &quot;ADSP_Registrations worden vooraf bepaald.&quot; De prefix is niet hoofdlettergevoelig.
 
@@ -64,17 +64,17 @@ Als u een aangepast doel wilt maken, moet de DSP-account vanuit de [!DNL Search,
 
    >[!TIP]
    >
-   >Voor optimale prestaties, moeten de gecombineerde metriek in het douanedoel (doelstelling) minstens tien omzettingen per dag in totaal omvatten. Als dat niet het geval is, kunt u het beste aanvullende ondersteunende conversiemetriek, zoals productpagina&#39;s of het starten van de toepassing, aan het doel toevoegen. Zie [&#x200B; Beste praktijken voor de Bouw van een Doel van de Douane &#x200B;](#custom-goal-best-practices) voor richtlijnen.
+   >Voor optimale prestaties, moeten de gecombineerde metriek in het douanedoel (doelstelling) minstens tien omzettingen per dag in totaal omvatten. Als dat niet het geval is, kunt u het beste aanvullende ondersteunende conversiemetriek, zoals productpagina&#39;s of het starten van de toepassing, aan het doel toevoegen. Zie [ Beste praktijken voor de Bouw van een Doel van de Douane ](#custom-goal-best-practices) voor richtlijnen.
 
 In de het pakketmontages van DSP voor pakketten die het optimalisatiedoel &quot; [!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)] gebruiken,&quot;is de objectieve naam nu inbegrepen in de [!UICONTROL Custom Goals] lijst. Wanneer u het doel selecteert als het aangepaste doel voor een pakket, bevat de lijst van [!UICONTROL Conversion Metric] alle maatstaven voor het doel.
 
-## Beste praktijken voor het Bouwen van een Doel van de Douane {#custom-goal-best-practices}
+## Aanbevolen werkwijzen voor het opbouwen van een aangepast doel {#custom-goal-best-practices}
 
-### Aangepaste doelen met één metrisch
+### Aangepaste doelen met één metrische waarde
 
 De volgende voorbeelden tonen hoe u doelstellingen zou kunnen vormen die één enkele metrische omzetting richten.
 
-#### Voorbeeld voor een Campagne met het &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)]&quot;Doel van de Optimalisering
+#### Voorbeeld voor een campagne met het &quot;[!UICONTROL Highest Return on Ad Spend (ROAS)]&quot;optimaliseringsdoel
 
 Als uw campagnedoel opbrengst ([!UICONTROL Highest Return on Ad Spend (ROAS)]) is, en de opbrengst van alle apparatentypes is even belangrijk voor u, dan omvat &quot;[!UICONTROL Revenue]&quot;metrisch met een niet-mobiel gewicht van één (1); het mobiele gewicht wordt genegeerd. Selecteer het metrische type *[!UICONTROL Goal]* .
 
@@ -88,7 +88,7 @@ Als uw campagnedoel opbrengst ([!UICONTROL Highest Return on Ad Spend (ROAS)]) i
 >
 > Een niet-mobiel gewicht van 1 (1) is gelijk aan de waarde 1 (1) voor elke $1 aan opbrengst die voor vertoningsadvertenties op om het even welk apparaat wordt gevolgd. Een conversie van € 250 met een niet-mobiel gewicht van 1 (1) wordt bijvoorbeeld gerapporteerd als $250 voor conversies. Als de omzettingsmetrische waarde een niet-mobiel gewicht van 0.5 wordt toegewezen, dan wordt $250 omzetting gemeld als $125 in Adobe Advertising ($250 Omzetting * 0.5 [!UICONTROL Non-mobile Weight] = $125).
 
-#### Voorbeeld voor een Campagne met het &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot;Doel van de Optimalisering
+#### Voorbeeld voor een campagne met het &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)]&quot;optimaliseringsdoel
 
 Als uw campagnedoel de laagste kosten per aanschaf (CPA) is en het slechts één succesgebeurtenis (zoals &quot;Toepassing voorlegt&quot;) vereist, dan omvat die één metrisch en specificeer metrisch type als *[!UICONTROL Goal]*. De beste manier is om het niet-mobiele gewicht in te stellen als één (1); het mobiele gewicht wordt genegeerd.
 
@@ -102,7 +102,7 @@ Als uw campagnedoel de laagste kosten per aanschaf (CPA) is en het slechts één
 >
 > Een niet-mobiel gewicht van één (1) is gelijk aan een waarde van één (1) voor elke omzetting die voor vertoningsadvertenties op om het even welk apparaat wordt gevolgd. Als bijvoorbeeld 10 omzettingen van Toepassing verzenden worden bijgehouden, worden 10 omzettingen van Toepassing verzenden gerapporteerd. Als de omzettingsmetrische waarde echter een niet-mobiel gewicht van 0,5 krijgt, worden de 10 omzettingen gerapporteerd als vijf (5) in Adobe Advertising (10 Omzettingen * 0,5 [!UICONTROL Non-mobile Weight] = 5).
 
-### Aangepaste doelen met meerdere meetwaarden
+### Aangepaste doelen met meerdere meetgegevens
 
 Er zijn twee scenario&#39;s waarin u veelvoudige metriek in een douanedoel zou gebruiken:
 
@@ -130,6 +130,6 @@ Als, in plaats daarvan, u de bezoeken van de Pagina van het Aanlanden evenzeer a
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
-> * [&#x200B; hoe DSP Uw campagnes optimaliseert &#x200B;](optimization-how-dsp-optimizes-campaigns.md)
+>* [ Doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
+>* [ de Montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+> * [ hoe DSP Uw campagnes optimaliseert ](optimization-how-dsp-optimizes-campaigns.md)
