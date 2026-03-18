@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), die deel van Adobe Experience Platform uitmaakt, om uw gehakt e-mailadressen in universele IDs voor gerichte reclame om te zetten.
+Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl-NL), die deel van Adobe Experience Platform uitmaakt, om uw gehakt e-mailadressen in universele IDs voor gerichte reclame om te zetten.
 
 1. (E-mailadressen omzetten in [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)) Tekstspatiëring instellen voor [!DNL Analytics] meting:
 
@@ -30,7 +30,7 @@ Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;
 
 1. In Adobe Experience Platform configureert u een Advertising DSP-doelverbinding met de [!UICONTROL Source Key] die is gegenereerd in de DSP-broninstellingen.
 
-   Voor instructies om de de bestemmingsverbinding van DSP te activeren, die segmenten, en tot controletoestemmingen toegang hebben, zie &quot;[&#x200B; de verbinding van DSP van de Advertising Cloud van Adobe Advertising &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
+   Voor instructies om de de bestemmingsverbinding van DSP te activeren, die segmenten, en tot controletoestemmingen toegang hebben, zie &quot;[&#x200B; de verbinding van DSP van de Advertising Cloud van Adobe Advertising &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL).&quot;
 
    De bron-e-mailadressen moeten worden gehashed gebruikend het algoritme SHA-256.
 
@@ -50,7 +50,7 @@ Neem contact op met uw Adobe-accountteam of `adcloud-support@adobe.com` om probl
 >
 >* [&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](/help/dsp/audiences/sources/source-about.md)
 >* [&#x200B; beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart &#x200B;](source-manage.md) te activeren
->* [&#x200B; Verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* Adobe Experience Platform [&#x200B; het catalogusoverzicht van Doelen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
+>* [&#x200B; Verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
+>* Adobe Experience Platform [&#x200B; het catalogusoverzicht van Doelen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=nl-NL)
 >* [&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
 >* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](/help/dsp/audiences/audience-about.md)
