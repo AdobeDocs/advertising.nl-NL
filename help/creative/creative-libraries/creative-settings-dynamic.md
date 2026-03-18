@@ -38,7 +38,7 @@ ht-degree: 0%
 
 Klik op **[!UICONTROL Select Ad Template]** om door te gaan.
 
-**[!UICONTROL Size]:** (Dynamische vertoningsadvertenties slechts; read-only) [ en afmetingen ](/help/creative/creative-libraries/creative-sizes.md) voor het geselecteerde advertentiemalplaatje, dat wordt gebruikt om tot de advertenties te leiden.
+**[!UICONTROL Size]:** (Dynamische vertoningsadvertenties slechts; read-only) [&#x200B; en afmetingen &#x200B;](/help/creative/creative-libraries/creative-sizes.md) voor het geselecteerde advertentiemalplaatje, dat wordt gebruikt om tot de advertenties te leiden.
 
 **[!UICONTROL Card Count (Max 50)]:** (Alleen advertenties weergeven) Het aantal producten dat in een carrousel moet worden weergegeven.
 
@@ -66,6 +66,6 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 
 >[!MORELIKETHIS]
 >
->* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
->* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
->* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
+>* [&#x200B; geef dynamische creatieve creatieve bibliotheek &#x200B;](creative-edit-dynamic.md) uit
+>* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
