@@ -20,13 +20,13 @@ De veranderingen in een rapportbestemming beïnvloeden de levering van alle verb
 
 1. Voor het gewenste doel klikt u op Bewerken
 
-1. Bewerk de [ montages van de rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-settings.md).
+1. Bewerk de [&#x200B; montages van de rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md).
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [ creeer een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [ de bestemmingsmontages van het Rapport ](/help/dsp/reports/report-destinations/report-destination-settings.md)
->* [ Schrap een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [&#x200B; Ongeveer rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [&#x200B; creeer een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [&#x200B; de bestemmingsmontages van het Rapport &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [&#x200B; Schrap een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-delete.md)

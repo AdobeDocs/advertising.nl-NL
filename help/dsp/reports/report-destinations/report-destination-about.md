@@ -35,11 +35,11 @@ U kunt nieuwe bestemmingen tot stand brengen, en bestaande bestemmingen uitgeven
 >
 >Het bijwerken van de geloofsbrieven voor uw bestaande rapportbestemmingen onderbreekt rapportlevering niet zolang de geloofsbrieven geldig zijn.
 
-![ Doelen van het Rapport ](/help/dsp/assets/report-destinations.png)
+![&#x200B; Doelen van het Rapport &#x200B;](/help/dsp/assets/report-destinations.png)
 
 >[!MORELIKETHIS]
 >
->* [ creeer een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [ de bestemmingsmontages van het Rapport ](/help/dsp/reports/report-destinations/report-destination-settings.md)
->* [ Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [ Schrap een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [&#x200B; creeer een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [&#x200B; de bestemmingsmontages van het Rapport &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [&#x200B; Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
+>* [&#x200B; Schrap een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-delete.md)

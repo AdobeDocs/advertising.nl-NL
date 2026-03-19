@@ -16,18 +16,18 @@ ht-degree: 1%
 
 1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Bewerk de [ rapportmontages ](/help/dsp/reports/report-settings.md).
+1. Bewerk de [&#x200B; rapportmontages &#x200B;](/help/dsp/reports/report-settings.md).
 
 1. Klik op **[!UICONTROL Edit Custom Report]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
->* [ Download een douanerapport ](/help/dsp/reports/report-download.md)
->* [ creeer een douanerapport ](/help/dsp/reports/report-create.md)
->* [ Dupliceer een douanerapport ](/help/dsp/reports/report-copy.md)
->* [ stel een douanerapport in werking ](/help/dsp/reports/report-run-now.md)
->* [ Schrap een douanerapport ](/help/dsp/reports/report-delete.md)
->* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Download een douanerapport &#x200B;](/help/dsp/reports/report-download.md)
+>* [&#x200B; creeer een douanerapport &#x200B;](/help/dsp/reports/report-create.md)
+>* [&#x200B; Dupliceer een douanerapport &#x200B;](/help/dsp/reports/report-copy.md)
+>* [&#x200B; stel een douanerapport in werking &#x200B;](/help/dsp/reports/report-run-now.md)
+>* [&#x200B; Schrap een douanerapport &#x200B;](/help/dsp/reports/report-delete.md)
+>* [&#x200B; het rapportmontages van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Beschikbare rapportkolommen &#x200B;](/help/dsp/reports/report-columns.md)

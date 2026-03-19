@@ -16,7 +16,7 @@ U kunt elk rapport uitvoeren dat nog niet is verlopen en momenteel niet wordt ui
 
 >[!NOTE]
 >
->U kunt een douanerapport ook in werking stellen wanneer u [ ](report-create.md) creeert of [ ](report-edit.md) het uitgeeft.
+>U kunt een douanerapport ook in werking stellen wanneer u [&#x200B; &#x200B;](report-create.md) creeert of [&#x200B; &#x200B;](report-edit.md) het uitgeeft.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Reports]** > **[!UICONTROL Custom Reports]** .
 
@@ -26,10 +26,10 @@ U kunt elk rapport uitvoeren dat nog niet is verlopen en momenteel niet wordt ui
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
->* [ Download een douanerapport ](/help/dsp/reports/report-download.md)
->* [ creeer een douanerapport ](/help/dsp/reports/report-create.md)
->* [ Dupliceer een douanerapport ](/help/dsp/reports/report-copy.md)
->* [ geef een douanerapport ](/help/dsp/reports/report-edit.md) uit
->* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Download een douanerapport &#x200B;](/help/dsp/reports/report-download.md)
+>* [&#x200B; creeer een douanerapport &#x200B;](/help/dsp/reports/report-create.md)
+>* [&#x200B; Dupliceer een douanerapport &#x200B;](/help/dsp/reports/report-copy.md)
+>* [&#x200B; geef een douanerapport &#x200B;](/help/dsp/reports/report-edit.md) uit
+>* [&#x200B; het rapportmontages van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Beschikbare rapportkolommen &#x200B;](/help/dsp/reports/report-columns.md)

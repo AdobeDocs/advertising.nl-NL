@@ -16,7 +16,7 @@ ht-degree: 2%
 
 1. Klik op **[!UICONTROL Add Destination]**.
 
-1. Specificeer de [ montages van de rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-settings.md), die door bestemmingstype variëren.
+1. Specificeer de [&#x200B; montages van de rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md), die door bestemmingstype variëren.
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -26,7 +26,7 @@ ht-degree: 2%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [ de bestemmingsmontages van het Rapport ](/help/dsp/reports/report-destinations/report-destination-settings.md)
->* [ Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [ Schrap een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [&#x200B; Ongeveer rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [&#x200B; de bestemmingsmontages van het Rapport &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [&#x200B; Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
+>* [&#x200B; Schrap een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-delete.md)

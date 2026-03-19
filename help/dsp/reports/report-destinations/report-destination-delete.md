@@ -22,7 +22,7 @@ Het schrappen van een rapportbestemming beïnvloedt de levering van alle verbond
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [ creeer een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [ de bestemmingsmontages van het Rapport ](/help/dsp/reports/report-destinations/report-destination-settings.md)
->* [ Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
+>* [&#x200B; Ongeveer rapportbestemmingen &#x200B;](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [&#x200B; creeer een rapportbestemming &#x200B;](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [&#x200B; de bestemmingsmontages van het Rapport &#x200B;](/help/dsp/reports/report-destinations/report-destination-settings.md)
+>* [&#x200B; Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)

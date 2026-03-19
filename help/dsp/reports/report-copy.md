@@ -18,7 +18,7 @@ Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot 
 
 1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Copy]** .
 
-1. (Facultatief) geef de [ rapportmontages ](/help/dsp/reports/report-settings.md) uit zoals nodig.
+1. (Facultatief) geef de [&#x200B; rapportmontages &#x200B;](/help/dsp/reports/report-settings.md) uit zoals nodig.
 
    De rapportnaam, door gebrek, is &quot;\&lt; *bestaande rapportnaam* \> \#2&quot;(of het volgende aantal in de opeenvolging).
 
@@ -26,9 +26,9 @@ Dupliceer een douanerapport om een nieuw rapport met gelijkaardige montages tot 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
->* [ creeer een douanerapport ](/help/dsp/reports/report-create.md)
->* [ geef een douanerapport ](/help/dsp/reports/report-edit.md) uit
->* [ Download een douanerapport ](/help/dsp/reports/report-download.md)
->* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
->* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; creeer een douanerapport &#x200B;](/help/dsp/reports/report-create.md)
+>* [&#x200B; geef een douanerapport &#x200B;](/help/dsp/reports/report-edit.md) uit
+>* [&#x200B; Download een douanerapport &#x200B;](/help/dsp/reports/report-download.md)
+>* [&#x200B; het rapportmontages van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; Beschikbare rapportkolommen &#x200B;](/help/dsp/reports/report-columns.md)
