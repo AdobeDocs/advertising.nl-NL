@@ -3,7 +3,7 @@ title: Rapporten met betrekking tot de opt-out van de consument ophalen
 description: Leer hoe u rapporten ophaalt van id's die zijn ingediend voor aanvragen om niet te verkopen.
 feature: CCPA, DSP Segments
 exl-id: 94133ce3-4e2c-4a24-90c9-61bf10731668
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 0%
@@ -24,7 +24,7 @@ U kunt maandelijkse rapporten ophalen van id&#39;s die klanten hebben ingediend 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun &#x200B;](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
->* [&#x200B; Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten &#x200B;](ccpa-opt-out-about.md)
->* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De opt-out van de consument van verkoopsteun ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md)
+>* [ Ongeveer [!UICONTROL CCPA Opt-out-of-Sale] Segmenten en Rapporten ](ccpa-opt-out-about.md)
+>* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] segment ](ccpa-opt-out-segment-create.md) uit
+>* [ Ongeveer publieksbeheer ](audience-about.md)

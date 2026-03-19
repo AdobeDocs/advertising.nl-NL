@@ -3,7 +3,7 @@ title: Hoe DSP je campagnes optimaliseert
 description: Leer hoe DSP de pakketten optimaliseert in uw campagnes.
 feature: DSP Optimization
 exl-id: 92d411cf-4307-4449-97b4-da3817f2a0b4
-source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
 source-wordcount: '679'
 ht-degree: 0%
@@ -32,7 +32,7 @@ DSP kan uw levering op twee fundamentele manieren optimaliseren, waarbij 20 vari
 
 * Prioriteit geven aan kostenefficiëntie voor balancering met prestatiesnelheid
 
-Zie [&#x200B; Doelstellingen van de Optimalisering en hoe te om hen &#x200B;](optimization-goals.md) te gebruiken om te bepalen welk optimalisatiedoel u kunt helpen uw KPI(s) bereiken.
+Zie [ de doelstellingen van de Optimalisering en hoe te om hen te gebruiken ](optimization-goals.md) om te bepalen welk optimalisatiedoel u kan helpen uw KPI(s) bereiken.
 
 ### Pakketten die de prestatiessnelheid voorrang geven
 
@@ -80,12 +80,12 @@ Plaatsingsfilters voor voorbiedingen zijn de strengste manier om goede prestatie
 >
 >De beschikbare filters voor voorbiedingen variëren per advertentietype. Voor een standaardplaatsing van het beeldscherm kunt u bijvoorbeeld filteren op doorklikfrequentie en gezichtsvermogen, maar niet op voltooiingsfrequentie.
 
-Zie [&#x200B; plaatsing-vlakke pre-Bodende Filters en hoe te om hen &#x200B;](optimization-pre-bid-filters.md) te gebruiken om te bepalen welke pre-biederfilter u kan helpen uw KPI(s) bereiken.
+Zie [ plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md) om te bepalen welke pre-biederfilter u kan helpen uw KPI(s) bereiken.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
->* [&#x200B; Doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
->* [&#x200B; plaatsing-vlakke pre-Bodende Filters en hoe te om hen te gebruiken &#x200B;](optimization-pre-bid-filters.md)
->* [&#x200B; Prestaties van het oplossen van problemen &#x200B;](/help/dsp/optimization/troubleshooting-performance.md)
+>* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ de doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
+>* [ plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md)
+>* [ prestaties van het Oplossen van problemen ](/help/dsp/optimization/troubleshooting-performance.md)

@@ -3,7 +3,7 @@ title: Aanbevolen werkwijzen voor het opzetten van prestatiecampagnes
 description: Leer beste praktijken voor het opzetten van uw prestaties-gerichte campagnes, die plaatsingen omvatten die voor laagste CPA of hoogste ROAS worden geoptimaliseerd.
 feature: DSP Optimization, DSP Best Practices
 exl-id: bc297796-0c89-4d91-87aa-0668462526ae
-source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
 source-wordcount: '1264'
 ht-degree: 0%
@@ -22,11 +22,11 @@ DSP kan uw prestatiegerichte campagnes optimaliseren. Raadpleeg de volgende aanb
 
 ## Stap 1 - Bepaal uw doel
 
-Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. De campagnes van prestaties hebben de [&#x200B; optimalisatiedoelstellingen &#x200B;](/help/dsp/optimization/optimization-goals.md) &quot; [!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Geef voor elk pakket in de campagne dienovereenkomstig het optimalisatiedoel op.
+Het is belangrijk om het doel van de campagne te begrijpen, zoals het bereiken van hoogst mogelijke ROAS of laagst mogelijke CPA. De campagnes van prestaties hebben de [ optimalisatiedoelstellingen ](/help/dsp/optimization/optimization-goals.md) &quot; [!UICONTROL Highest Return on Ad Spend (ROAS)"] of &quot;[!UICONTROL Lowest Cost per Acquisition (CPA)].&quot; Geef voor elk pakket in de campagne dienovereenkomstig het optimalisatiedoel op.
 
-![&#x200B; optimalisatiedoel &#x200B;](/help/dsp/assets/optimization-goals.png)
+![ optimalisatiedoel ](/help/dsp/assets/optimization-goals.png)
 
-U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel leiden en dienovereenkomstig aangepaste doelen maken. Geef voor elk pakket een aangepast doel op dat moet worden gebruikt met het algemene optimalisatiedoel voor rapportage en algoritmische optimalisatie met [!DNL Adobe AI] . Voor meer informatie over het creëren van douanedoelstellingen, met inbegrip van beste praktijken, zie [&#x200B; Doelen van de Douane &#x200B;](custom-goal.md).
+U moet ook de succesgebeurtenis(sen) bepalen die tot het algemene doel leiden en dienovereenkomstig aangepaste doelen maken. Geef voor elk pakket een aangepast doel op dat moet worden gebruikt met het algemene optimalisatiedoel voor rapportage en algoritmische optimalisatie met [!DNL Adobe AI] . Voor meer informatie over het creëren van douanedoelstellingen, met inbegrip van beste praktijken, zie [ de doelstellingen van de Douane ](custom-goal.md).
 
 ## Stap 2 - Definieer uw strategie
 
@@ -59,7 +59,7 @@ Lagere funnel-pakketten bevatten plaatsen die gebruikers betreffen die al op de 
 
 De beste praktijken moeten afzonderlijke pakketten voor het hogere funnel prospecteren en voor het lagere herrichten van funnel tot stand brengen. Optimalisatie vindt plaats op pakketniveau, zodat de prestatiegegevens van alle plaatsen binnen een pakket worden samengevoegd. Daarom groepeert u plaatsingen in pakketten met vergelijkbare verwachte prestaties.
 
-![&#x200B; voorbeeld van afzonderlijke pakketten voor het prospecteren en het opnieuw richten &#x200B;](/help/dsp/assets/p-r.png)
+![ voorbeeld van afzonderlijke pakketten voor het prospecteren en het opnieuw richten ](/help/dsp/assets/p-r.png)
 
 Gebruik ook de volgende instellingen.
 
@@ -107,7 +107,7 @@ U moet CPA of ROAS optimalisering op het pakketniveau vormen (zie Stap 3 - creee
 
    * U kunt minder strikte voorbiedingsfilters instellen in gevallen waarin extra doelframes (zoals publiek, geo en doellocatie) worden toegepast.
 
-Zie beschrijvingen van wanneer om elk pre-bieder filter op [&#x200B; plaats-vlakke pre-Biedfilters te gebruiken en hoe te om hen &#x200B;](/help/dsp/optimization/optimization-pre-bid-filters.md) te gebruiken.
+Zie beschrijvingen van wanneer om elk pre-bieder filter bij [ plaats-vlakke pre-bieder filters te gebruiken en hoe te om hen te gebruiken ](/help/dsp/optimization/optimization-pre-bid-filters.md).
 
 ### Inventaris
 
@@ -155,9 +155,9 @@ Door contextafhankelijke filters, het blokkeren van voorbiedingsfraude en/of het
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
-> * [&#x200B; hoe DSP Uw campagnes optimaliseert &#x200B;](optimization-how-dsp-optimizes-campaigns.md)
->* [&#x200B; Doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
->* [&#x200B; plaatsing-vlakke pre-Bodende Filters en hoe te om hen te gebruiken &#x200B;](optimization-pre-bid-filters.md)
->* [&#x200B; Controlelijst van de Lancering van de Campagne &#x200B;](/help/dsp/campaign-management/campaign-launch-checklist.md)
+>* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ hoe DSP uw campagnes optimaliseert ](optimization-how-dsp-optimizes-campaigns.md)
+>* [ de doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
+>* [ plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md)
+>* [ de lanceringchecklist van de Campagne ](/help/dsp/campaign-management/campaign-launch-checklist.md)

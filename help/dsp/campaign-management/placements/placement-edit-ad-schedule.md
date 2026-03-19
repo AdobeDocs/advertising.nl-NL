@@ -3,16 +3,16 @@ title: Advertentieschema's voor plaatsing bewerken
 description: Leer hoe u de advertentieschema's voor de advertenties wijzigt die bij plaatsingen horen.
 feature: DSP Placements
 exl-id: 4c981d57-032f-4cde-858a-e9ac2bf2e6f2
-source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
-source-wordcount: '439'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
 
 # Advertentieschema&#39;s voor plaatsing bewerken
 
-## Advertentieschema&#39;s voor een of meer plaatsen bewerken
+## De advertentieschema&#39;s voor een of meer plaatsen bewerken
 
 U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die aan meerdere plaatsen zijn gekoppeld met behulp van een [!DNL Microsoft Excel] -spreadsheet. Elke advertentie kan actief zijn tijdens meerdere vluchten.
 
@@ -28,7 +28,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor advertenties die a
 
 1. Wanneer het bestand beschikbaar is, klikt u op **[!UICONTROL Download]** in het bericht boven aan de browserpagina om een werkbladbestand (in XLSX-indeling) te downloaden volgens de normale procedure van uw browser.
 
-   ![&#x200B; Klaar bericht van de Download &#x200B;](/help/dsp/assets/download-ready.png " Download Klaar bericht ")
+   ![ Klaar bericht van de Download ](/help/dsp/assets/download-ready.png " Download Klaar bericht ")
 
 1. Open het gedownloade bestand, bewerk de vluchtinformatievelden voor elke advertentierij die u in de vlucht wilt opnemen en sla het bijgewerkte bestand op:
 
@@ -78,7 +78,7 @@ U kunt de geplande vliegdatums en de ad-rotatie wijzigen voor de advertenties di
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
->* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)
+>* [ Ongeveer plaatsingsbeheer in Advertising DSP ](placement-about.md)
+>* [ geeft plaatsingen ](placement-edit.md) uit
+>* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)
+>* [ montages van de Plaatsing ](placement-settings.md)

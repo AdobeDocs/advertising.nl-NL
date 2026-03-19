@@ -3,7 +3,7 @@ title: Tips voor het onderhandelen over een door het programma gegarandeerde dea
 description: Leer tips voor het onderhandelen over een PG-deal (met gegarandeerde programmacode) en lijsten met de verantwoordelijkheden van kopers en uitgevers.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
 exl-id: 41a2a307-5cb2-4b41-bb3b-edee1e15c5fa
-source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 1%
@@ -45,6 +45,6 @@ Bij het onderhandelen over een gegarandeerde programmatic deal moeten de koper e
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Programmatic gewaarborgde Overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
->* [&#x200B; opstelling een Programma Gegarandeerde Overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
->* [&#x200B; SSP Partners &#x200B;](ssp-partners.md)
+>* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ SSP Partners ](ssp-partners.md)

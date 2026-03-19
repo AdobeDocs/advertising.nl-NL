@@ -2,7 +2,7 @@
 title: Gebeurtenispixels weergeven voor een [!UICONTROL Simple Ad Serving] -deal
 description: Leer hoe u een kopie van de pixels voor het bijhouden van gebeurtenissen ophaalt voor een [!UICONTROL Simple Ad Serving] -deal.
 feature: DSP Simple Ad Serving
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: 54f69e4c0fa20b918a037cc5d2003d67db889913
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
@@ -17,14 +17,14 @@ De gebeurtenispixels omvatten een [!UICONTROL Clickthrough] pixel en een [!UICON
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
 
-1. In de overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
+1. In de overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
 
 1. Kopieer de pixels voor het bijhouden van gebeurtenissen en geef deze door aan uw uitgever.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] Overeenkomst &#x200B;](simple-deal-create.md)
->* [&#x200B; geeft [!UICONTROL Simple Ad Serving] Montages van de Overeenkomst &#x200B;](simple-deal-edit.md) uit
->* [[!UICONTROL Simple Ad Serving] Instellingen &#x200B;](simple-deal-settings.md)
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
+>* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
+>* [[!UICONTROL Simple Ad Serving] settings ](simple-deal-settings.md)
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
