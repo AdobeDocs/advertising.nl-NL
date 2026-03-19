@@ -14,7 +14,7 @@ ht-degree: 0%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 1. Klik in de weergave [!UICONTROL Campaigns] op **[!UICONTROL Create campaign]** .
-1. Ga de [ campagnemontages ](campaign-settings.md) in:
+1. Ga de [&#x200B; campagnemontages &#x200B;](campaign-settings.md) in:
    1. Geef de waarde [!UICONTROL Basic Campaign Details] op.
    1. (Alleen gebruikers van beheerders) Geef in de sectie [!UICONTROL Ad Cloud Admin Fields] de beheerinstellingen op.
    1. Geef in de sectie [!UICONTROL Campaign Goals] het budget op. U kunt desgewenst de standaardinstellingen voor het doel wijzigen en eventueel bestaande pakketten selecteren en/of pakketten maken die u in de campagne wilt opnemen.
@@ -23,9 +23,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer campagnebeheer in Advertising DSP ](campaign-about.md)
->* [ Dupliceer een campagne ](campaign-duplicate.md)
->* [ geef een campagne ](campaign-edit.md) uit
->* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
->* [ montages van de Campagne ](campaign-settings.md)
->* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
+>* [&#x200B; Ongeveer campagnebeheer in Advertising DSP &#x200B;](campaign-about.md)
+>* [&#x200B; Dupliceer een campagne &#x200B;](campaign-duplicate.md)
+>* [&#x200B; geef een campagne &#x200B;](campaign-edit.md) uit
+>* [&#x200B; Mening het veranderingslogboek voor een campagne &#x200B;](campaign-change-log.md)
+>* [&#x200B; montages van de Campagne &#x200B;](campaign-settings.md)
+>* [&#x200B; Pauze of activeer een campagne &#x200B;](campaign-pause-activate.md)

@@ -14,13 +14,13 @@ ht-degree: 1%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 1. Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
-1. Bewerk de [ campagnemontages ](campaign-settings.md).
+1. Bewerk de [&#x200B; campagnemontages &#x200B;](campaign-settings.md).
 1. Klik op **[!UICONTROL Save Campaign]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer campagnebeheer in Advertising DSP ](campaign-about.md)
->* [ creeer een campagne ](campaign-create.md)
->* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
->* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
->* [ montages van de Campagne ](campaign-settings.md)
+>* [&#x200B; Ongeveer campagnebeheer in Advertising DSP &#x200B;](campaign-about.md)
+>* [&#x200B; creeer een campagne &#x200B;](campaign-create.md)
+>* [&#x200B; Mening het veranderingslogboek voor een campagne &#x200B;](campaign-change-log.md)
+>* [&#x200B; Pauze of activeer een campagne &#x200B;](campaign-pause-activate.md)
+>* [&#x200B; montages van de Campagne &#x200B;](campaign-settings.md)

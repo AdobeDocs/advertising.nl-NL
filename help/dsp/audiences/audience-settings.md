@@ -38,10 +38,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
->* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
->* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
->* [ creeer en voer een douanesegment ](custom-segment-create.md) uit
->* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] segment ](ccpa-opt-out-segment-create.md) uit
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; Beschikbare leveranciers van derdegegevens &#x200B;](third-party-data-providers.md)
+>* [&#x200B; Syntaxis voor de logica van het publiekssegment &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; creeer en voer een douanesegment &#x200B;](custom-segment-create.md) uit
+>* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] segment &#x200B;](ccpa-opt-out-segment-create.md) uit
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

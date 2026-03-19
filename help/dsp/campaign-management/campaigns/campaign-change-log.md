@@ -22,7 +22,7 @@ U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
-   * Om tussen het bekijken van de gegevens in lijstvorm slechts en in zowel lijst als grafiekvormen te schakelen, klik ![ Lijst en grafiekmening ](/help/dsp/assets/table-plus-chart-view.png " Lijst en grafiekmening ") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de hogere juiste toolbar.
+   * Om tussen het bekijken van de gegevens in lijstvorm slechts en in zowel lijst als grafiekvormen te schakelen, klik ![&#x200B; Lijst en grafiekmening &#x200B;](/help/dsp/assets/table-plus-chart-view.png " Lijst en grafiekmening ") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de hogere juiste toolbar.
 
    * Als u een notitie wilt toevoegen aan een item, houdt u de cursor boven de kolom [!UICONTROL Notes] voor de rij en klikt u op **[!UICONTROL Add Notes]** . Voer tekst in de invoervelden in en klik op **[!UICONTROL Save]** .
 
@@ -30,8 +30,8 @@ U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer campagnebeheer in Advertising DSP ](campaign-about.md)
->* [ creeer een campagne ](campaign-create.md)
->* [ geef een campagne ](campaign-edit.md) uit
->* [ montages van de Campagne ](campaign-settings.md)
->* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
+>* [&#x200B; Ongeveer campagnebeheer in Advertising DSP &#x200B;](campaign-about.md)
+>* [&#x200B; creeer een campagne &#x200B;](campaign-create.md)
+>* [&#x200B; geef een campagne &#x200B;](campaign-edit.md) uit
+>* [&#x200B; montages van de Campagne &#x200B;](campaign-settings.md)
+>* [&#x200B; Pauze of activeer een campagne &#x200B;](campaign-pause-activate.md)

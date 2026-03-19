@@ -24,7 +24,7 @@ U kunt een campagne desarchiveren om zijn vorige status op elk ogenblik te herst
 
 >[!NOTE]
 >
->Om gearchiveerde campagnes te bekijken, filter de [!UICONTROL Campaigns] mening: klik ![ knoop van de Filter ](/help/dsp/assets/filter.png), klik **[!UICONTROL Campaign status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
+>Om gearchiveerde campagnes te bekijken, filter de [!UICONTROL Campaigns] mening: klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png), klik **[!UICONTROL Campaign status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
 
 ## Een campagne archiveren
 
@@ -34,6 +34,6 @@ U kunt een campagne desarchiveren om zijn vorige status op elk ogenblik te herst
 
 >[!MORELIKETHIS]
 >
->* [ geef een campagne ](campaign-edit.md) uit
->* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
->* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
+>* [&#x200B; geef een campagne &#x200B;](campaign-edit.md) uit
+>* [&#x200B; Mening het veranderingslogboek voor een campagne &#x200B;](campaign-change-log.md)
+>* [&#x200B; Pauze of activeer een campagne &#x200B;](campaign-pause-activate.md)

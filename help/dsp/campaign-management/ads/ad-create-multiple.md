@@ -42,15 +42,15 @@ Met de meegeleverde sjabloon kunt u [!DNL DoubleClick] - en [!DNL Flashtalking] 
 
    1. (Universal video ads die [!DNL Google] - of [!DNL Flashtalking] -tags gebruiken) Klik op het veld **[!UICONTROL Ad Type]** en selecteer **[!UICONTROL Universal Video]** .
 
-   1. (Universele videoadvertenties) voor elke nieuwe advertentie, klik ![ uitgeven ](/help/dsp/assets/edit.png), selecteer het [ toepasselijke videoformaat ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md), en klik dan **sparen**.
+   1. (Universele videoadvertenties) voor elke nieuwe advertentie, klik ![&#x200B; uitgeven &#x200B;](/help/dsp/assets/edit.png), selecteer het [&#x200B; toepasselijke videoformaat &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md), en klik dan **sparen**.
 
    1. Controleer de status van elke advertentie, die is gebaseerd op validatiecontroles van de geüploade tag.
 
    1. (Optioneel) Voer een van de volgende handelingen uit voor elke advertentie:
 
-      * Aan voorproef een advertentie, klik ![ spel ](/help/dsp/assets/play.png) in de advertentierij.
+      * Aan voorproef een advertentie, klik ![&#x200B; spel &#x200B;](/help/dsp/assets/play.png) in de advertentierij.
 
-      * Om de advertentiedetails uit te geven, ![ uitgeven ](/help/dsp/assets/edit.png), geef de details uit, en klik dan **sparen**.
+      * Om de advertentiedetails uit te geven, ![&#x200B; uitgeven &#x200B;](/help/dsp/assets/edit.png), geef de details uit, en klik dan **sparen**.
 
       * Als u een advertentie wilt verwijderen, klikt u op **[!UICONTROL X]** in de rij met toevoegingen.
 
@@ -74,8 +74,8 @@ Met de meegeleverde sjabloon kunt u [!DNL DoubleClick] - en [!DNL Flashtalking] 
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
->* [ Advertentiespecificaties ](ad-specs.md)
->* [ creeer één enkele advertentie ](ad-create.md)
->* [ Video: Hoe te om derdeadvertentietags in bulk te uploaden ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
->* [ Veelgestelde vragen over universele video ](/help/dsp/campaign-management/faq-universal-video.md)
+>* [&#x200B; Ongeveer en beheer in Advertising DSP &#x200B;](ad-about.md)
+>* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [&#x200B; creeer één enkele advertentie &#x200B;](ad-create.md)
+>* [&#x200B; Video: Hoe te om derdeadvertentietags in bulk te uploaden &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-upload-third-party-ad-tags.html)
+>* [&#x200B; Veelgestelde vragen over universele video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)

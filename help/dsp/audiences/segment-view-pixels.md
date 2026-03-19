@@ -26,8 +26,8 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een douanesegment ](custom-segment-create.md)
->* [ geef segmentinformatie ](segment-edit.md) uit
->* [ Schrap een segment ](segment-delete.md)
->* [ Aandeel of eind delend een segment ](segment-share.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een douanesegment &#x200B;](custom-segment-create.md)
+>* [&#x200B; geef segmentinformatie &#x200B;](segment-edit.md) uit
+>* [&#x200B; Schrap een segment &#x200B;](segment-delete.md)
+>* [&#x200B; Aandeel of eind delend een segment &#x200B;](segment-share.md)

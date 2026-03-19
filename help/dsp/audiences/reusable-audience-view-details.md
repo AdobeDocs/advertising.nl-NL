@@ -16,20 +16,20 @@ ht-degree: 0%
 
 1. Plaats de cursor op de personenrij en klik op **[!UICONTROL View Details]** .
 
-1. (Facultatief) om het aantal actieve publieksleden door apparatentype (voor op koekje-gebaseerde IDs) en door universeel type van identiteitskaart te zien, klik ![ de onderbreking van het Apparaat ](/help/dsp/assets/device-breakdown.png) naast de publieksgrootte.
+1. (Facultatief) om het aantal actieve publieksleden door apparatentype (voor op koekje-gebaseerde IDs) en door universeel type van identiteitskaart te zien, klik ![&#x200B; de onderbreking van het Apparaat &#x200B;](/help/dsp/assets/device-breakdown.png) naast de publieksgrootte.
 
-1. (Facultatief) om de publieksmontages uit te geven, klik **[!UICONTROL Edit Audience]** en [ geef de publieksnaam en de configuratie ](reusable-audience-edit.md) uit.
+1. (Facultatief) om de publieksmontages uit te geven, klik **[!UICONTROL Edit Audience]** en [&#x200B; geef de publieksnaam en de configuratie &#x200B;](reusable-audience-edit.md) uit.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
->* [ dupliceer een herbruikbaar publiek ](reusable-audience-duplicate.md)
->* [ geef een herbruikbaar publiek ](reusable-audience-edit.md) uit
->* [ deel een herbruikbaar publiek ](reusable-audience-share.md)
->* [ de Uitvoer een herbruikbaar publiek ](reusable-audience-export.md)
->* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
->* [ Schrap een herbruikbaar publiek ](reusable-audience-delete.md)
->* [ montages van het publiek ](audience-settings.md)
->* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
->* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; dupliceer een herbruikbaar publiek &#x200B;](reusable-audience-duplicate.md)
+>* [&#x200B; geef een herbruikbaar publiek &#x200B;](reusable-audience-edit.md) uit
+>* [&#x200B; deel een herbruikbaar publiek &#x200B;](reusable-audience-share.md)
+>* [&#x200B; de Uitvoer een herbruikbaar publiek &#x200B;](reusable-audience-export.md)
+>* [&#x200B; Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord &#x200B;](reusable-audience-clipboard.md)
+>* [&#x200B; Schrap een herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
+>* [&#x200B; montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Syntaxis voor de logica van het publiekssegment &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; Beschikbare leveranciers van derdegegevens &#x200B;](third-party-data-providers.md)

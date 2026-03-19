@@ -22,7 +22,7 @@ ht-degree: 0%
 
    Het geselecteerde pakket wordt automatisch geselecteerd in de plaatsingsinstellingen.
 
-1. Ga de resterende [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+1. Ga de resterende [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
 ## Een nieuwe of bestaande plaatsing koppelen vanuit de [!UICONTROL Packages] -weergave
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
       1. Selecteer het advertentietype voor de plaatsing en klik op **[!UICONTROL Build this placement]** .
 
-      1. Ga de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+      1. Ga de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
    * Een bestaande plaatsing toevoegen aan de campagne:
 
@@ -58,8 +58,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer pakketbeheer in Advertising DSP ](package-about.md)
->* [ creeer een pakket ](package-create.md)
->* [ Mening het veranderingslogboek voor een pakket ](package-change-log.md)
->* [ de montages van het Pakket ](package-settings.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer pakketbeheer in Advertising DSP &#x200B;](package-about.md)
+>* [&#x200B; creeer een pakket &#x200B;](package-create.md)
+>* [&#x200B; Mening het veranderingslogboek voor een pakket &#x200B;](package-change-log.md)
+>* [&#x200B; de montages van het Pakket &#x200B;](package-settings.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

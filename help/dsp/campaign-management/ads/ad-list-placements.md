@@ -21,7 +21,7 @@ Bekijk een lijst met plaatsen die aan een advertentie zijn gekoppeld om de prest
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
->* [ geef een advertentie uit ](ad-edit.md)
->* [ geeft plaatsingen ](/help/dsp/campaign-management/placements/placement-edit.md) uit
->* [ Mening een gedetailleerd rapport voor een plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [&#x200B; Ongeveer en beheer in Advertising DSP &#x200B;](ad-about.md)
+>* [&#x200B; geef een advertentie uit &#x200B;](ad-edit.md)
+>* [&#x200B; geeft plaatsingen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uit
+>* [&#x200B; Mening een gedetailleerd rapport voor een plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
