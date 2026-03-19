@@ -3,7 +3,7 @@ title: Beschikbare gegevensleveranciers van derden in Advertising DSP
 description: Zie een lijst met alle beschikbare externe gegevensproviders.
 feature: DSP Audiences
 exl-id: 081d1513-b105-4d32-a98c-145c7122cb89
-source-git-commit: 5110e9b4c966f5d719743d09b5a3aebbb37e0a05
+source-git-commit: cff6b5ad2c66699a6e0402bce6685acc536fd0a0
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
@@ -43,6 +43,6 @@ Neem voor meer informatie over het importeren van aangepaste segmenten van derde
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ montages van het publiek ](audience-settings.md)

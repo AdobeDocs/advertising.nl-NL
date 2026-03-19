@@ -3,7 +3,7 @@ title: Pixels voor bijhouden weergeven voor een segment
 description: Leer hoe te om de het volgen pixel voor een douane of CCPA uit verkoopsegment te bekijken.
 feature: DSP Segments
 exl-id: 3b67ab72-d7bb-45a0-b5ba-e4b811b7d2b3
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: cff6b5ad2c66699a6e0402bce6685acc536fd0a0
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -26,8 +26,8 @@ Zodra een volgende markering wordt uitgevoerd, kunt u het segment in de publieks
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
->* [&#x200B; creeer een Segment van de Douane &#x200B;](custom-segment-create.md)
->* [&#x200B; geef de Informatie van het Segment &#x200B;](segment-edit.md) uit
->* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
->* [&#x200B; Aandeel of Einde delend een Segment &#x200B;](segment-share.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een douanesegment ](custom-segment-create.md)
+>* [ geef segmentinformatie ](segment-edit.md) uit
+>* [ Schrap een segment ](segment-delete.md)
+>* [ Aandeel of eind delend een segment ](segment-share.md)

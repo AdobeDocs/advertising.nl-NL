@@ -3,7 +3,7 @@ title: Instellingen voor publiek
 description: Zie beschrijvingen van de beschikbare publieksinstellingen.
 feature: DSP Audiences
 exl-id: ea69ed6e-2d68-4ac5-8465-2ee7d798ae1d
-source-git-commit: e61f3c7d066a72f9a438ef292122cdf99370fd0c
+source-git-commit: edf86b00a04fb1e0b8c45101a7f19a1543fc60e6
 workflow-type: tm+mt
 source-wordcount: '187'
 ht-degree: 0%
@@ -38,10 +38,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](audience-about.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
->* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
->* [&#x200B; creeer en voer een Segment van de Douane uit &#x200B;](custom-segment-create.md)
->* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
+>* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
+>* [ creeer en voer een douanesegment ](custom-segment-create.md) uit
+>* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] segment ](ccpa-opt-out-segment-create.md) uit
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

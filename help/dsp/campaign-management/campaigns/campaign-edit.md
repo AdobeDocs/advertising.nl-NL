@@ -3,10 +3,10 @@ title: Een campagne bewerken
 description: Leer hoe u een campagne kunt bewerken.
 feature: DSP Campaigns
 exl-id: d0cbcd11-138a-41be-a027-e5e49e24afa2
-source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 2%
+source-wordcount: '51'
+ht-degree: 1%
 
 ---
 
@@ -14,13 +14,13 @@ ht-degree: 2%
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 1. Klik naast de naam van de campagne op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
-1. Bewerk de [&#x200B; campagnemontages &#x200B;](campaign-settings.md).
+1. Bewerk de [ campagnemontages ](campaign-settings.md).
 1. Klik op **[!UICONTROL Save Campaign]**.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Campagne &#x200B;](campaign-about.md)
->* [&#x200B; creeer een Campagne &#x200B;](campaign-create.md)
->* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
->* [&#x200B; Pauzeren of een Campagne activeren &#x200B;](campaign-pause-activate.md)
->* [&#x200B; Montages van de Campagne &#x200B;](campaign-settings.md)
+>* [ Ongeveer campagnebeheer in Advertising DSP ](campaign-about.md)
+>* [ creeer een campagne ](campaign-create.md)
+>* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
+>* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
+>* [ montages van de Campagne ](campaign-settings.md)

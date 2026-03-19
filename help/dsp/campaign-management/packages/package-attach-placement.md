@@ -3,9 +3,9 @@ title: Een plaatsing aan een pakket koppelen
 description: Leer hoe u een plaatsing aan een pakket koppelt.
 feature: DSP Packages
 exl-id: dbee2db6-6cb7-4c56-9c14-816ea071b760
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '206'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
    Het geselecteerde pakket wordt automatisch geselecteerd in de plaatsingsinstellingen.
 
-1. Ga de resterende [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+1. Ga de resterende [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
 ## Een nieuwe of bestaande plaatsing koppelen vanuit de [!UICONTROL Packages] -weergave
 
@@ -40,7 +40,7 @@ ht-degree: 0%
 
       1. Selecteer het advertentietype voor de plaatsing en klik op **[!UICONTROL Build this placement]** .
 
-      1. Ga de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
+      1. Ga de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) in, en klik dan **[!UICONTROL Create Placement]**.
 
    * Een bestaande plaatsing toevoegen aan de campagne:
 
@@ -58,8 +58,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van het Pakket &#x200B;](package-about.md)
->* [&#x200B; creeer een Pakket &#x200B;](package-create.md)
->* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](package-settings.md)
->* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer pakketbeheer in Advertising DSP ](package-about.md)
+>* [ creeer een pakket ](package-create.md)
+>* [ Mening het veranderingslogboek voor een pakket ](package-change-log.md)
+>* [ de montages van het Pakket ](package-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

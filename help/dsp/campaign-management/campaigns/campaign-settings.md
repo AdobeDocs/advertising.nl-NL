@@ -3,9 +3,9 @@ title: Campagne-instellingen
 description: Zie beschrijvingen van de beschikbare campagnemontages.
 feature: DSP Campaigns
 exl-id: 461c3f9e-ef69-46e7-8eb1-37ccc085ba1f
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '1434'
+source-wordcount: '1437'
 ht-degree: 0%
 
 ---
@@ -106,9 +106,9 @@ Belastingen die moeten worden ingehouden ramen:
 >
 > U kunt frequentiecappen instellen op campagne-, pakket- en plaatsingsniveaus. DSP respecteert de strengste frequentiegrens in de campagnehiërarchie.
 
-**[!UICONTROL Packages]:** de [&#x200B; pakketten &#x200B;](/help/dsp/campaign-management/packages/package-about.md) om in de campagne te omvatten. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten creeert, zie beschrijvingen over de [&#x200B; pakketmontages &#x200B;](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie.
+**[!UICONTROL Packages]:** de [ pakketten ](/help/dsp/campaign-management/packages/package-about.md) om in de campagne te omvatten. Selecteer bestaande pakketten en/of maak pakketten die u wilt opnemen. Als u pakketten creeert, zie beschrijvingen over de [ pakketmontages ](/help/dsp/campaign-management/packages/package-settings.md) voor meer informatie.
 
-## [!UICONTROL Campaign Measurement]
+## [!UICONTROL Campaign measurement]
 
 >[!NOTE]
 >
@@ -116,7 +116,7 @@ Belastingen die moeten worden ingehouden ramen:
 
 ### [!UICONTROL 3rd Party Metrics]
 
-#### [!UICONTROL Viewability, Fraud, & Brand Safety]
+#### [!UICONTROL Viewability, fraud, & brand safety]
 
 **[!UICONTROL IAS]:** (Optioneel) Hiermee schakelt u [!DNL IAS] het meten en rapporteren van de zichtbaarheid, fraude, merkveiligheid en publieksverificatie in met de opgegeven instellingen. Er zijn extra kosten van toepassing.
 
@@ -144,9 +144,9 @@ Belastingen die moeten worden ingehouden ramen:
 
 **[!UICONTROL Adelaide]:** laat het volgen voor metrisch plaatsing-niveau [!UICONTROL Attention Score] toe (het gewogen gemiddelde aantal [!DNL Adelaide] &quot;[!DNL Attention Units]&quot;over beelden). Metrische gegevens zijn beschikbaar voor alle plaatsingstypen, behalve voor [!DNL Roku] aangesloten tv&#39;s, VPAID-bestanden (pre-roll) en audio die geen podcast is. DSP koppelt automatisch een JavaScript-tag aan alle bijbehorende creatieven, en [!DNL Adelaide] volgt de belichtingsgegevens en stuurt deze dagelijks naar DSP. U kunt de datum gebruiken om uw uitgaven voor plaatsingstactieken handmatig te optimaliseren met betere aandachtscores.
 
-Het [!UICONTROL Attention Score] gebied is beschikbaar in de [!UICONTROL Metrics] sectie van rapporten; binnen [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] meningen; en op [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] lusjes van de [&#x200B; mening van de plaatsingsdetails &#x200B;](/help/dsp/campaign-management/reports/placement-details-view.md).
+Het [!UICONTROL Attention Score] gebied is beschikbaar in de [!UICONTROL Metrics] sectie van rapporten; binnen [!UICONTROL Campaigns], [!UICONTROL Packages], en [!UICONTROL Placements] meningen; en op [!UICONTROL Sites], [!UICONTROL Ads], en [!UICONTROL Inventory] lusjes van de [ mening van de plaatsingsdetails ](/help/dsp/campaign-management/reports/placement-details-view.md).
 
-Wanneer u [!DNL Adelaide] -segmenten gebruikt voor metingen, wordt voor elke indruk die wordt geleverd door advertenties met [!DNL Adelaide] -meettags een CPM-vergoeding in rekening gebracht. Deze vergoeding is gescheiden van kosten voor [&#x200B; plaatsing-vlakke aandacht richtend &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md).
+Wanneer u [!DNL Adelaide] -segmenten gebruikt voor metingen, wordt voor elke indruk die wordt geleverd door advertenties met [!DNL Adelaide] -meettags een CPM-vergoeding in rekening gebracht. Deze vergoeding is gescheiden van kosten voor [ plaatsing-vlakke aandacht richtend ](/help/dsp/campaign-management/placements/placement-settings.md).
 
 <!--
 Example JavaScript tag:
@@ -164,7 +164,7 @@ Example JavaScript tag:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Campagne &#x200B;](campaign-about.md)
->* [&#x200B; creeer een Campagne &#x200B;](campaign-create.md)
->* [&#x200B; geef een Campagne &#x200B;](campaign-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
+>* [ Ongeveer campagnebeheer in Advertising DSP ](campaign-about.md)
+>* [ creeer een campagne ](campaign-create.md)
+>* [ geef een campagne ](campaign-edit.md) uit
+>* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)

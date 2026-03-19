@@ -3,9 +3,9 @@ title: Instellingen voor pre-roll en
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor pre-roladvertenties.
 feature: DSP Ads
 exl-id: d0ba4346-13ae-405c-92b6-a0c32dd09d0a
-source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '447'
+source-wordcount: '450'
 ht-degree: 0%
 
 ---
@@ -58,7 +58,7 @@ Dit is hetzelfde als het veld **[!UICONTROL Height]** .
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [&#x200B; gebruikte het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
+**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [ gebruikte het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
 
 **[!UICONTROL Wmode]:** (Interactief pre-rol slechts) de vensterwijze: *[!UICONTROL window]*, *[!UICONTROL transparent]*, of *[!UICONTROL opaque]*.
 
@@ -74,8 +74,8 @@ Dit is hetzelfde als het veld **[!UICONTROL Height]** .
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ maak een lijst van de plaatsen verbonden aan een advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ de macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

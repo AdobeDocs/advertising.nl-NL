@@ -3,7 +3,7 @@ title: Broninstellingen voor publiek
 description: Meer informatie over de instellingen voor publieksbronnen.
 feature: DSP Audiences
 exl-id: 274ea502-ad15-4d3d-922a-17caddb87f69
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: cff6b5ad2c66699a6e0402bce6685acc536fd0a0
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0] zoekt de leverancier elk e-mailadres 
 
 >[!NOTE]
 >
->U kunt slechts één type id in één plaatsing als doel instellen. Om prestaties door type van identiteitskaart te testen, [&#x200B; creeer een afzonderlijke plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-create.md) voor elk type van identiteitskaart in het segment.
+>U kunt slechts één type id in één plaatsing als doel instellen. Om prestaties door type van identiteitskaart te testen, [ creeer een afzonderlijke plaatsing ](/help/dsp/campaign-management/placements/placement-create.md) voor elk type van identiteitskaart in het segment.
 
 * *[!DNL RampID]:* PII in a om te zetten [!DNL RampID]. U kunt [!DNL RampIDs] gebruiken voor het opnieuw toewijzen van gebruikers die zich aanmelden en voor [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) metingen.
 
-* *[!DNL Unified ID2.0] (Beta):* om PII in a [&#x200B; Verenigde identiteitskaart 2.0 &#x200B;](https://unifiedid.com) identiteitskaart voor het opnieuw richten van het programma-binnen gebruikers om te zetten.
+* *[!DNL Unified ID2.0](Beta):* om PII in a [ Verenigde identiteitskaart 2.0 ](https://unifiedid.com) identiteitskaart voor het opnieuw richten van het programma-binnen gebruikers om te zetten.
 
 <!-- Later
 * *[!DNL ID5] (Beta):* To convert PII to an [!DNL ID5] ID. You can use [!DNL ID5] IDs for retargeting logging-in users and for [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) measurement.
@@ -43,8 +43,8 @@ Voor [!DNL RampID] en [!DNL Unified ID2.0] zoekt de leverancier elk e-mailadres 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart &#x200B;](source-manage.md) te activeren
->* [&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](source-about.md)
->* [&#x200B; manueel de Invoer Authenticated Segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [&#x200B; Verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
->* [&#x200B; Ongeveer het Beheer van het Publiek &#x200B;](/help/dsp/audiences/audience-about.md)
+>* [ beheert publieksbronnen om universele identiteitskaart te activeren ](source-manage.md)
+>* [ Ongeveer eerste-partijpublieksbronnen ](source-about.md)
+>* [ voert manueel geverifieerde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md) in
+>* [ verbinding van Adobe Advertising DSP ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [ Ongeveer publieksbeheer ](/help/dsp/audiences/audience-about.md)

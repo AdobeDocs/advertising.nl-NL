@@ -3,7 +3,7 @@ title: Details exporteren over een herbruikbaar publiek
 description: Leer hoe te om de configuratie, publieksgrootte, en gerichte plaatsen voor een herbruikbaar publiek te bekijken.
 feature: DSP Audiences
 exl-id: 6d69706e-4398-41e0-b7a3-04ba72b08bfc
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: edf86b00a04fb1e0b8c45101a7f19a1543fc60e6
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 0%
@@ -22,14 +22,14 @@ U kunt een [!DNL Microsoft Excel] aantekenveldossier met de regel van de publiek
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; dupliceer een Herbruikbaar publiek &#x200B;](reusable-audience-duplicate.md)
->* [&#x200B; geef een Herbruikbare Publiek &#x200B;](reusable-audience-edit.md) uit
->* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
->* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
->* [&#x200B; Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord &#x200B;](reusable-audience-clipboard.md)
->* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
->* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
->* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
->* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ dupliceer een herbruikbaar publiek ](reusable-audience-duplicate.md)
+>* [ geef een herbruikbaar publiek ](reusable-audience-edit.md) uit
+>* [ details van de Mening over een herbruikbaar publiek ](reusable-audience-view-details.md)
+>* [ deel een herbruikbaar publiek ](reusable-audience-share.md)
+>* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
+>* [ Schrap een herbruikbaar publiek ](reusable-audience-delete.md)
+>* [ montages van het publiek ](audience-settings.md)
+>* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
+>* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)

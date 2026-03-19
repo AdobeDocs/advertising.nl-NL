@@ -3,9 +3,9 @@ title: Universele instellingen voor video en video
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor universele videoadvertenties.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
-source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '381'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,7 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [&#x200B; gebruikte het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
+**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [ gebruikte het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
 
 **[!UICONTROL Wmode]:** De venstermodus: *[!UICONTROL window]* , *[!UICONTROL transparent]* of *[!UICONTROL opaque]* . Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -64,9 +64,9 @@ Gebruik [!UICONTROL VAST] , dat geen meetbaarheid toestaat, wanneer u zich richt
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Veelgestelde vragen over universele video ](/help/dsp/campaign-management/faq-universal-video.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ maak een lijst van de plaatsen verbonden aan een advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ de macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

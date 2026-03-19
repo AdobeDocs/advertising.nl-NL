@@ -3,7 +3,7 @@ title: Een herbruikbaar publiek bewerken
 description: Leer hoe u een herbruikbaar publiek kunt bewerken.
 feature: DSP Audiences
 exl-id: 4de6b9a4-2907-474d-92bf-83686a1f0b31
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: edf86b00a04fb1e0b8c45101a7f19a1543fc60e6
 workflow-type: tm+mt
 source-wordcount: '459'
 ht-degree: 0%
@@ -26,11 +26,11 @@ Wanneer u een publiek uitgeeft dat in om het even welke plaatsen of ander herbru
 
    >[!NOTE]
    >
-   >Als u de logica van het publiekssegment uitgeeft, worden de gedetailleerde [&#x200B; gegevens van de publieksgrootte &#x200B;](audience-about.md) bijgewerkt in het juiste paneel.
+   >Als u de logica van het publiekssegment uitgeeft, worden de gedetailleerde [ gegevens van de publieksgrootte ](audience-about.md) bijgewerkt in het juiste paneel.
 
-   * (Facultatief) om **[!UICONTROL Audience Name]** uit te geven klik ![&#x200B; uitgeeft &#x200B;](/help/dsp/assets/edit.png) naast de publieksnaam, ga een unieke publieksnaam in, en klik dan **[!UICONTROL Apply]**.
+   * (Facultatief) om **[!UICONTROL Audience Name]** uit te geven klik ![ uitgeeft ](/help/dsp/assets/edit.png) naast de publieksnaam, ga een unieke publieksnaam in, en klik dan **[!UICONTROL Apply]**.
 
-   * (Optioneel) Ga als volgt te werk als u de segmentlogica handmatig wilt bewerken met behulp van segmenten die beschikbaar zijn op de tabbladen [[!UICONTROL Third Party Segments] , [!UICONTROL First Party Segments] , [!UICONTROL Adobe Segments] , [!UICONTROL Custom Segments] en [!UICONTROL Saved Audiences] &#x200B;](audience-settings.md) .
+   * (Optioneel) Ga als volgt te werk als u de segmentlogica handmatig wilt bewerken met behulp van segmenten die beschikbaar zijn op de tabbladen [[!UICONTROL Third Party Segments] , [!UICONTROL First Party Segments] , [!UICONTROL Adobe Segments] , [!UICONTROL Custom Segments] en [!UICONTROL Saved Audiences] ](audience-settings.md) .
 
       * Een segment toevoegen aan een bestaande segmentgroep:
 
@@ -62,7 +62,7 @@ Wanneer u een publiek uitgeeft dat in om het even welke plaatsen of ander herbru
 
          * In de montages voor het bestaande publiek, bij de bovenkant van het paneel van de segmentlogica, klik **[!UICONTROL More]** > **[!UICONTROL Copy to Clipboard]**.
 
-         * In een tekstredacteur, creeer manueel de segmentlogica gebruikend alfanumerieke segment IDs en [&#x200B; syntaxis Van Boole &#x200B;](audience-segment-logic-syntax.md), en kopieer het aan uw klembord.
+         * In een tekstredacteur, creeer manueel de segmentlogica gebruikend alfanumerieke segment IDs en [ syntaxis Van Boole ](audience-segment-logic-syntax.md), en kopieer het aan uw klembord.
 
       1. Klik op **[!UICONTROL paste in an audience rule to begin building]** , plak de bestaande segmentlogica in het invoerveld en klik op **[!UICONTROL Apply]** .
 
@@ -76,14 +76,14 @@ Wanneer u een publiek uitgeeft dat in om het even welke plaatsen of ander herbru
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; dupliceer een Herbruikbaar publiek &#x200B;](reusable-audience-duplicate.md)
->* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
->* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
->* [&#x200B; de Uitvoer een Herbruikbaar publiek &#x200B;](reusable-audience-export.md)
->* [&#x200B; Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord &#x200B;](reusable-audience-clipboard.md)
->* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
->* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
->* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
->* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ dupliceer een herbruikbaar publiek ](reusable-audience-duplicate.md)
+>* [ details van de Mening over een herbruikbaar publiek ](reusable-audience-view-details.md)
+>* [ deel een herbruikbaar publiek ](reusable-audience-share.md)
+>* [ de Uitvoer een herbruikbaar publiek ](reusable-audience-export.md)
+>* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
+>* [ Schrap een herbruikbaar publiek ](reusable-audience-delete.md)
+>* [ montages van het publiek ](audience-settings.md)
+>* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
+>* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)

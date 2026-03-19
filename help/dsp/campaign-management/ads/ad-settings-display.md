@@ -3,9 +3,9 @@ title: Instellingen voor advertentie weergeven
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor weergaveadvertenties.
 feature: DSP Ads
 exl-id: cff65a48-486f-401e-9759-2bb63871448f
-source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: '317'
 ht-degree: 0%
 
 ---
@@ -38,9 +38,9 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 **[!UICONTROL Display Code]:** (Alleen advertenties van derden) De URL van het creatieve middel van derden. Om het even welke [ timestamp ] en [[ timestamp ]] parameters worden vervangen met daadwerkelijke waarden.
 
-**[!UICONTROL Final Display Code]:** (De derdeadvertenties slechts) URL voor de derde creatieve activa, met de noodzakelijke [&#x200B; het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
+**[!UICONTROL Final Display Code]:** (De derdeadvertenties slechts) URL voor de derde creatieve activa, met de noodzakelijke [ het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) opgenomen, als toepasselijk.
 
-**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet a [&#x200B; gesteunde standaardvertoning en grootte &#x200B;](ad-specs.md) zijn. U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code] invoeren. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
+**[!UICONTROL Ad Size]:** De breedte en hoogte van de advertentie. Het moet a [ gesteunde standaardvertoning en grootte ](ad-specs.md) zijn. U kunt de advertentiegrootte handmatig invoeren voordat u de advertentie uploadt of een [!UICONTROL Display Code] invoeren. Als u de advertentiegrootte niet invoert, worden de afmetingen van de geüploade advertentie of advertentietag automatisch ingevoerd als alleen-lezen.
 
 >[!IMPORTANT]
 >
@@ -54,8 +54,8 @@ De volgende instellingen gelden voor standaardweergaveadvertenties.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; Macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ maak een lijst van de plaatsen verbonden aan een advertentie ](ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ de macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

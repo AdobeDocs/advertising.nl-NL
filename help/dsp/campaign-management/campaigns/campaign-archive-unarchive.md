@@ -3,7 +3,7 @@ title: Een campagne archiveren of archiveren
 description: Leer hoe u een campagne archiveert of het archief ervan opheft.
 feature: DSP Campaigns
 exl-id: 3b1fac7b-1c3e-417e-b6f6-142aa48b1135
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
 workflow-type: tm+mt
 source-wordcount: '142'
 ht-degree: 0%
@@ -24,7 +24,7 @@ U kunt een campagne desarchiveren om zijn vorige status op elk ogenblik te herst
 
 >[!NOTE]
 >
->Om gearchiveerde campagnes te bekijken, filter de [!UICONTROL Campaigns] mening: klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png), klik **[!UICONTROL Campaign status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
+>Om gearchiveerde campagnes te bekijken, filter de [!UICONTROL Campaigns] mening: klik ![ knoop van de Filter ](/help/dsp/assets/filter.png), klik **[!UICONTROL Campaign status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
 
 ## Een campagne archiveren
 
@@ -34,6 +34,6 @@ U kunt een campagne desarchiveren om zijn vorige status op elk ogenblik te herst
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef een Campagne &#x200B;](campaign-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
->* [&#x200B; Pauzeren of een Campagne activeren &#x200B;](campaign-pause-activate.md)
+>* [ geef een campagne ](campaign-edit.md) uit
+>* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
+>* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
