@@ -3,7 +3,7 @@ title: Instellingen van campagnecomponenten met behulp van bulksbladen bekijken 
 description: Leer hoe u sleutelpakket-, plaatsings- en advertentie-instellingen bulksgewijs kunt bekijken en bewerken met behulp van spreadsheets.
 feature: DSP Placements
 exl-id: 1ec8362a-d37b-4fd7-becd-3a5b4f0c9504
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: 658c8a10c4085690ce4dd7e791883dbf31f1cb10
 workflow-type: tm+mt
 source-wordcount: '570'
 ht-degree: 0%
@@ -18,7 +18,7 @@ Als u meerdere instellingen tegelijk wilt bijwerken, uploadt u een geldig bulksh
 
 >[!NOTE]
 >
->U kunt ook de instellingen voor alleen specifieke pakketten en specifieke plaatsingen downloaden en bewerken. Zie &quot;[&#x200B; Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/packages/package-qa.md)&quot;en &quot;[&#x200B; Overzicht en geef de Montages van de Plaatsing Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/placements/placement-qa.md) uit.&quot;
+>U kunt ook de instellingen voor alleen specifieke pakketten en specifieke plaatsingen downloaden en bewerken. Zie &quot;[ Overzicht en geef pakketmontages uit gebruikend bulksbladen ](/help/dsp/campaign-management/packages/package-qa.md)&quot; en &quot;[ Overzicht en geef plaatsingsmontages uit gebruikend bulksbladen ](/help/dsp/campaign-management/placements/placement-qa.md).&quot;
 
 ## Downloadinstellingen voor de pakketten, plaatsen en advertenties in een campagne {#download-bulksheet-campaign}
 
@@ -40,9 +40,9 @@ Een bericht geeft aan wanneer het bestand beschikbaar is om te downloaden.
 
    * Klik in het meldingsbericht op **[!UICONTROL Download].**
 
-   * In het recht van de hoogste menubar, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
+   * In het recht van de hoogste menubar, klik ![ Banen ](/help/dsp/assets/downloads.png). Klik op **[!UICONTROL Download]** naast de taak.
 
-     Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement Columns in Downloaded/Uploaded Spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
+     Het bestand wordt opgeslagen in de map Downloads van de browser.<!-- See "[Placement columns in downloaded/uploaded spreadsheets](#qa-sheet-columns)" for a list of the included columns. -->
 
      Als u een van de instellingen wilt bewerken, bewerkt u het bestand rechtstreeks en uploadt u de wijzigingen. Alle bewerkbare kolommen worden gemarkeerd in blauw. Als u de juiste indeling voor een veld wilt gebruiken, selecteert en kopieert u de waarde uit de relevante pakketinstelling of plaatsingsinstelling. Voor sommige doelinstellingen, zoals dagpartering, aangepaste doelen en conversiemetriek, is een kopieeroptie beschikbaar binnen de instelling.
 
@@ -68,7 +68,7 @@ Upload instellingen voor pakketten, plaatsen en advertenties in één campagne a
 
    1. Klik op **[!UICONTROL Upload]**.
 
-1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![&#x200B; Banen &#x200B;](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
+1. (Facultatief) om te verifiëren dat de updates werden verwerkt, klik ![ Banen ](/help/dsp/assets/downloads.png) in het recht van de hoogste menubar.
 
 Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet met kleurcodering downloaden om te tonen welke instellingen (rijen) zijn opgeslagen en welke zijn mislukt, met een reden voor elke fout. Vervolgens kunt u de problemen in hetzelfde bestand verhelpen en het bestand opnieuw uploaden om de gecorrigeerde gegevens te verwerken.
 
@@ -151,14 +151,14 @@ Wanneer een instellingsupdate mislukt, kunt u een foutbestand voor een bulksheet
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht en geef de Montages van het Pakket uit Gebruikend Bulksheets &#x200B;](/help/dsp/campaign-management/packages/package-qa.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
->* [&#x200B; Overzicht en geeft de Montages van de Plaatsing Gebruikend Bulksheets uit &#x200B;](/help/dsp/campaign-management/placements/placement-qa.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
->* [&#x200B; Audio Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [&#x200B; Verbonden de Montages van TV &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [&#x200B; Vertoning en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [&#x200B; Mobiele Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [&#x200B; Inheemse Montages van de Vertoning &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [&#x200B; pre-rol en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [&#x200B; Universele Video en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [ Overzicht en geef pakketmontages uit gebruikend bulksbladen ](/help/dsp/campaign-management/packages/package-qa.md)
+>* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ Overzicht en geef plaatsingsmontages uit gebruikend bulksbladen ](/help/dsp/campaign-management/placements/placement-qa.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Audio en montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [ Verbonden montages van TV ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [ Vertoning en montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [ Mobiele en montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [ Inheemse vertoning en montages ](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [ pre-rol en montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [ Universele video en montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

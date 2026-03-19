@@ -3,7 +3,7 @@ title: Advertising DSP macros
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: 658c8a10c4085690ce4dd7e791883dbf31f1cb10
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -85,9 +85,9 @@ DSP voegt automatisch klikmacro&#39;s in een weergavetag van derden in wanneer u
 
 Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, toont DSP een waarschuwingsbericht, dat u ertoe aanzet om de aangewezen vertoning manueel op te nemen klikt macro in het correcte gebied van de markering.
 
-## [!DNL Analytics for Advertising] Macro&#39;s
+## [!DNL Analytics for Advertising] macro&#39;s
 
-Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[&#x200B;  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Flashtalking]  Advertentietags &#x200B;](/help/integrations/analytics/macros-flashtalking.md)&quot;toevoegen en &quot;[&#x200B; voegt  [!DNL Analytics for Advertising]  Macro&#39;s aan  [!DNL Google Campaign Manager 360]  toe - Markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Flashtalking]  toevoegen en markeringen ](/help/integrations/analytics/macros-flashtalking.md) &quot;[ toevoegt  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Google Campaign Manager 360]  en markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
 ## Problemen met macrofouten oplossen
 
@@ -100,10 +100,10 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Audio Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [&#x200B; Verbonden TV en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [&#x200B; Vertoning en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [&#x200B; Mobiele Advertentie Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [&#x200B; Inheemse Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [&#x200B; pre-rol en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [&#x200B; Universele Video en Montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [ Audio en montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [ Verbonden TV en montages ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [ Vertoning en montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [ Mobiele en montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [ Inheemse en montages ](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [ pre-rol en montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [ Universele video en montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
