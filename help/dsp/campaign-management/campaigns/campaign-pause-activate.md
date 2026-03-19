@@ -32,5 +32,5 @@ Alle plaatsingen die zijn gepauzeerd voordat een campagne wordt gepauzeerd, blij
 
 >[!MORELIKETHIS]
 >
->* [ geef een campagne ](campaign-edit.md) uit
->* [ archiveer een campagne ](campaign-archive-unarchive.md)
+>* [&#x200B; geef een campagne &#x200B;](campaign-edit.md) uit
+>* [&#x200B; archiveer een campagne &#x200B;](campaign-archive-unarchive.md)
