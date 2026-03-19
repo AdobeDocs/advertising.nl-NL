@@ -87,7 +87,7 @@ Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, toont DSP
 
 ## [!DNL Analytics for Advertising] macro&#39;s
 
-Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Flashtalking]  toevoegen en markeringen ](/help/integrations/analytics/macros-flashtalking.md) &quot;[ toevoegt  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Google Campaign Manager 360]  en markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[&#x200B;  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Flashtalking]  toevoegen en markeringen &#x200B;](/help/integrations/analytics/macros-flashtalking.md) &quot;[&#x200B; toevoegt  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Google Campaign Manager 360]  en markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
 ## Problemen met macrofouten oplossen
 
@@ -100,10 +100,10 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 
 >[!MORELIKETHIS]
 >
->* [ Audio en montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [ Verbonden TV en montages ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [ Vertoning en montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [ Mobiele en montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [ Inheemse en montages ](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [ pre-rol en montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [ Universele video en montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [&#x200B; Audio en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [&#x200B; Verbonden TV en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [&#x200B; Vertoning en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [&#x200B; Mobiele en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [&#x200B; Inheemse en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [&#x200B; pre-rol en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [&#x200B; Universele video en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

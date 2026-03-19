@@ -17,13 +17,13 @@ Gebruik de DSP-integratie met het [!DNL ActionIQ] -klantgegevensplatform om uw g
 
 Er zijn <!-- NN --> stappen om gegevens van [!DNL ActionIQ] met DSP te delen:
 
-1. [ creeer een publieksbron in DSP ](#source-create).
+1. [&#x200B; creeer een publieksbron in DSP &#x200B;](#source-create).
 
 1. ?
 
 ## Stap 1: Een publieksbron maken in DSP {#source-create}
 
-1. [ creeer een publieksbron ](source-manage.md) om publiek in uw rekening van DSP of een adverteerderrekening in te voeren, specificerend de [ universele formaten van identiteitskaart ](source-about.md) waarnaar u uw gebruikersidentificatiecodes wilt omzetten.
+1. [&#x200B; creeer een publieksbron &#x200B;](source-manage.md) om publiek in uw rekening van DSP of een adverteerderrekening in te voeren, specificerend de [&#x200B; universele formaten van identiteitskaart &#x200B;](source-about.md) waarnaar u uw gebruikersidentificatiecodes wilt omzetten.
 
 1. Nadat u de publieksbron hebt gemaakt, deelt u de broncodesleutel met de [!DNL ActionIQ] -gebruiker.
 
@@ -33,20 +33,20 @@ Er zijn <!-- NN --> stappen om gegevens van [!DNL ActionIQ] met DSP te delen:
 
 1. Controleer in uw publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen de plaatsingsinstellingen) of het segment vult en vergelijk het aantal universele id&#39;s met het aantal oorspronkelijke gehashte e-mailadressen.
 
-   De segmenten moeten binnen 24 uur beschikbaar zijn in DSP. Nadat DSP de segmentgegevens heeft ontvangen, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn. Voor informatie over aanvaardbare identiteitskaart vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[ de variaties van Gegevens tussen e-mail IDs en universele IDs ](#universal-ids-data-variances).&quot;
+   De segmenten moeten binnen 24 uur beschikbaar zijn in DSP. Nadat DSP de segmentgegevens heeft ontvangen, moet het aantal gebruikers binnen negen (9) uur zichtbaar zijn. Voor informatie over aanvaardbare identiteitskaart vertaaltarieven en waarom de segmenttellingen kunnen variëren, zie &quot;[&#x200B; de variaties van Gegevens tussen e-mail IDs en universele IDs &#x200B;](#universal-ids-data-variances).&quot;
 
 Segmenten worden elke 24 uur vernieuwd.
 
 ## Problemen oplossen
 
-Om vertaaltarief en gebruikerstellingskwesties problemen op te lossen, zie &quot;[ Steun voor het activeren van universele IDs ](/help/dsp/audiences/universal-ids.md).&quot;
+Om vertaaltarief en gebruikerstellingskwesties problemen op te lossen, zie &quot;[&#x200B; Steun voor het activeren van universele IDs &#x200B;](/help/dsp/audiences/universal-ids.md).&quot;
 
 Neem contact op met uw Adobe-accountteam of `adcloud-support@adobe.com` om problemen met de conversieprocedure op te lossen.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer eerste-partijpublieksbronnen ](/help/dsp/audiences/sources/source-about.md)
->* [ beheert publieksbronnen om universele identiteitskaart te activeren ](source-manage.md)
->* [ zet gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in universele IDs ](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
->* [ zet gebruiker IDs van  [!DNL Tealium]  in universele IDs ](/help/dsp/audiences/sources/source-tealium.md) om
->* [ Ongeveer publieksbeheer ](/help/dsp/audiences/audience-about.md)
+>* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](/help/dsp/audiences/sources/source-about.md)
+>* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](source-manage.md)
+>* [&#x200B; zet gebruiker IDs van  [!DNL Adobe Real-Time CDP]  in universele IDs &#x200B;](/help/dsp/audiences/sources/source-adobe-rtcdp.md) om
+>* [&#x200B; zet gebruiker IDs van  [!DNL Tealium]  in universele IDs &#x200B;](/help/dsp/audiences/sources/source-tealium.md) om
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
