@@ -1,9 +1,9 @@
 ---
 title: Gedetailleerd rapport weergeven voor een campagne
-description: Leer hoe u rapporten op campagnereniveau kunt openen met secties over de gegevens Geografie, Apparaat, Viewability en Publiek.
+description: Leer hoe u rapporten op campagneniveau opent met secties over geografie, apparaat, viewability en de prestaties van het publiek.
 feature: DSP Campaigns, DSP Campaign Data Views
 exl-id: ce0d8b44-63cb-47da-adac-d9ae330c52bf
-source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
+source-git-commit: 05b374b1d15121f71035b10e6c27a2b70fb642fa
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Het rapport op campagnereniveau van <!--legacy --> bevat een overzicht en sectie
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; Mening het Logboek van de Verandering voor een Campagne &#x200B;](campaign-change-log.md)
->* [&#x200B; Pauzeren of een Campagne activeren &#x200B;](campaign-pause-activate.md)
+>* [ Mening een gedetailleerd rapport voor een plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [ Mening een gedetailleerd rapport voor een advertentie ](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
+>* [ Pauze of activeer een campagne ](campaign-pause-activate.md)

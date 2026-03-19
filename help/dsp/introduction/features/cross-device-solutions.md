@@ -3,7 +3,7 @@ title: Apparaatoplossingen
 description: Meer informatie over functies voor verschillende apparaten.
 feature: DSP Introduction
 exl-id: d21917ef-5cac-46f8-8222-099667797683
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 2c7ba1862b1883b4523d9121d8b0761129ad70fb
 workflow-type: tm+mt
 source-wordcount: '997'
 ht-degree: 0%
@@ -42,7 +42,7 @@ Met op personen gebaseerd frequentiebeheer kunt u frequentiecappen op persoonlij
 
 * **Campagnes:** wanneer u een nieuwe campagne creeert, kunt u a [!UICONTROL Cross-Device Level] het plaatsen specificeren. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer op de campagne, het pakket, en plaatsingsniveau. De frequentiecaps zijn van toepassing op alle bekende apparaten van een persoon.
 
-Voor meer informatie, zie [&#x200B; Montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+Voor meer informatie, zie [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 Wanneer u een campagne hebt opgeslagen, kunt u de instelling voor [!UICONTROL Cross Device Level] niet meer wijzigen.
 
@@ -58,7 +58,7 @@ Door op mensen gebaseerde doelgroepen te kiezen, kunt u klanten zoeken op versch
 
 * **Campagnes:** wanneer u een nieuwe campagne creeert, kunt u a [!UICONTROL Cross-Device Level] het plaatsen specificeren. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer.
 
-Voor meer informatie, zie [&#x200B; Montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+Voor meer informatie, zie [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 * **Plaatsen:** wanneer u publieksdoelstellingen voor een plaatsing in een campagne met een gespecificeerde apparatengrafiek selecteert, staat een [!UICONTROL Cross-Device Targeting] optie u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn.
 
@@ -96,7 +96,7 @@ Wanneer een apparaatgrafiek is ingeschakeld voor attributiemeting, bevat het rap
 
 * &lt;*Omzetting*> [!UICONTROL (xd)]: (Facultatief) omvat slechts omzettingen waarvoor meer dan één apparaat in de omzettingsweg werd gevolgd. In het rapport, &quot;[!UICONTROL (xd)]&quot;wordt toegevoegd aan de metrische naam van de omzetting, regeltype, en omzettingstypes in de omzettingsweg (bijvoorbeeld, &quot;Reacties (le) (tl) (xd))).
 
-#### Het rapport [!UICONTROL Conversion] interpreteren
+#### Het [!UICONTROL Conversion] -rapport interpreteren
 
 Sorteer het percentage van totale omzettingen die dwars-apparaat ([!UICONTROL (xd)] zijn/ [!UICONTROL (tl)]) van hoog aan laag om te begrijpen wat boven-gemiddelde dwars-apparatenomzettingen drijft. U kunt dit gebruiken om uw creatieve of het richten strategie te informeren om overseinen en kanaalinvestering aan gebruikersgedrag aan te passen.
 
@@ -112,7 +112,7 @@ Sorteer het percentage van totale omzettingen die dwars-apparaat ([!UICONTROL (x
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Montages van het Rapport &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ montages van het Rapport ](/help/dsp/reports/report-settings.md)
+>* [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
