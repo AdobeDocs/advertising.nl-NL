@@ -38,7 +38,7 @@ Door ervoor te kiezen om de universele id&#39;s te gebruiken die via de services
 
 ### UID2 verboden landen
 
-Door ervoor te kiezen om UID2 universele IDs via de Diensten te gebruiken stemt u ermee in om ervoor te zorgen dat alle Gegevens van de Cliënt die, via de On-demand Diensten voor dergelijk gebruik in verband met UID2 universele IDs worden overgebracht, worden getoond, worden verspreid of anderszins door u worden verstrekt over om het even welk individu dat een ingezetene van om het even welke [ UID2 Verboden Landen is die op Uitgang A ](#prohibited-countries-uid2) hier worden vermeld.
+Door ervoor te kiezen om UID2 universele IDs via de Diensten te gebruiken stemt u ermee in om ervoor te zorgen dat alle Gegevens van de Cliënt die, via de On-demand Diensten voor dergelijk gebruik in verband met UID2 universele IDs worden overgebracht, worden getoond, worden verspreid of anderszins door u worden verstrekt over om het even welk individu dat een ingezetene van om het even welke [&#x200B; UID2 Verboden Landen is die op Uitgang A &#x200B;](#prohibited-countries-uid2) hier worden vermeld.
 
 ## Geen discriminatie
 
