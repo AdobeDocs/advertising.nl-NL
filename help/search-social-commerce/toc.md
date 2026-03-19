@@ -4,7 +4,7 @@ user-guide-title: Handleiding voor Advertising, Search, Social, & Commerce
 user-guide-description: Deze handleiding verklaart de belangrijkste functies, taken, instellingen, en overige bronnen die vereist zijn voor het beheren, volgen en rapporteren van uw advertentiecampagnes voor Search, Social en Commerce.
 breadcrumb-title: Handleiding voor Advertising, Search, Social, & Commerce
 index: true
-source-git-commit: 4dee5ed12fdbb5bc842277f3828086e5f9da99af
+source-git-commit: 1e95e0882588a1caff28bd6ab40dd134bf6acf96
 workflow-type: tm+mt
 source-wordcount: '2021'
 ht-degree: 2%
@@ -13,7 +13,7 @@ ht-degree: 2%
 
 # Handleiding voor Advertising, Search, Social, &amp; Commerce {#search-social-commerce}
 
-<!-- When we  use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
+<!-- When we use UICONTROL and DNL tags in a title here, make sure they're within the entry but don't cover the entire link text or else the link doesn't work (i.e., you can't use [[!UICONTROL Model Accuracy Report]](whatever.md) -->
 
 + [Nieuwe functies](home.md)
 + [Over deze handleiding](help-about.md)
@@ -22,10 +22,10 @@ ht-degree: 2%
    + [Ondersteunde voorraad](/help/search-social-commerce/introduction/supported-inventory.md)
    + Integratie met Adobe Experience Cloud {#integrations}
       + [Integratie met Adobe Experience Cloud-oplossingen en -services](/help/search-social-commerce/introduction/integrations.md)
-      + [&#x200B; Adobe  [!DNL Analytics for Advertising]  (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html?lang=nl-NL){target="_blank"}
-      + [&#x200B; Integratie met Adobe Audience Manager (verbinding)](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Steun voor de privacy van de consument (verbinding)](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL){target="_blank"}
-   + [&#x200B; Beleid en richtlijnen (verbinding)](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html?lang=nl-NL){target="_blank"}
+      + [ Adobe  [!DNL Analytics for Advertising]  (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/analytics/overview.html){target="_blank"}
+      + [ Integratie met Adobe Audience Manager (verbinding) ](https://experienceleague.adobe.com/docs/advertising/integrations/audience-manager/overview.html){target="_blank"}
+   + [ Steun voor de privacy van de consument (verbinding) ](https://experienceleague.adobe.com/docs/advertising/privacy/home.html){target="_blank"}
+   + [ Beleid en richtlijnen (verbinding) ](https://experienceleague.adobe.com/docs/advertising/policies/ad-requirements-policy.html){target="_blank"}
 + Aan de slag {#getting-started}
    + [Overzicht van implementatie](/help/search-social-commerce/getting-started/implemention-overview.md)
    + [Systeemvereisten](/help/search-social-commerce/getting-started/system-requirements.md)
@@ -97,33 +97,33 @@ ht-degree: 2%
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Portfolios] -weergave](/help/search-social-commerce/new-ui/manage/portfolios/portfolio-view-report.md)
       + Campagnes {#campaigns}
          + [De weergave [!UICONTROL Campaigns]](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-about.md)
-         + [&#x200B; Wijs campagnes aan een portefeuille  toe](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio)
-         + [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+         + [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+         + [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
          + [Beperkingstoewijzingen voor campagnes beheren](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Campaigns] -weergave](/help/search-social-commerce/new-ui/manage/campaigns/campaign-view-report.md)
       + Toegevoegde groepen {#ad-groups}
          + [De weergave [!UICONTROL Ad Groups]](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-about.md)
-         + [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
+         + [ beheert beperkingstaken voor ad groepen ](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-constraint-assignments-manage.md)
          + [Rapporten in de gegevensweergave beheren vanuit de [!UICONTROL Ad Groups] -weergave](/help/search-social-commerce/new-ui/manage/ad-groups/ad-group-view-report.md)
       + Adds {#ads}
          + [De weergave [!UICONTROL Ads]](/help/search-social-commerce/new-ui/manage/ads/ad-view-about.md)
          + [Beperkingstoewijzingen voor advertenties beheren](/help/search-social-commerce/new-ui/manage/ads/ad-constraint-assignments-manage.md)
    + Rapporten {#reports}
       + Classificaties van labels {#label-classifications}
-         + [&#x200B; Ongeveer etiketclassificaties &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
-         + [&#x200B; creeer een etiketclassificatie &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-create)
-         + [&#x200B; wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management)
-         + [&#x200B; wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-bulksheets)
-         + [&#x200B; verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
-         + [&#x200B; schrapt etiketclassificatiewaarden &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
-         + [&#x200B; schrapt etiketclassificaties &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
-+ Doel {#target}
-   + Trefwoorden {#keywords}
-      + [De weergave [!UICONTROL Keywords]](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
-      + [Restrictietoewijzingen voor trefwoorden beheren](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
-   + Plaatsen {#placements}
-      + [De weergave [!UICONTROL Placements]](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
-      + [Beperkingstoewijzingen voor plaatsing beheren](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
+         + [ Ongeveer etiketclassificaties ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-about)
+         + [ creeer een etiketclassificatie ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-create)
+         + [ wijs classificatiewaarden aan rekeningscomponenten van de meningen van het campagnebeheer toe ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-campaign-management)
+         + [ wijs classificatiewaarden aan rekeningscomponenten toe gebruikend bulksheets ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-assign-bulksheets)
+         + [ verwijdert de waarden van de etiketclassificatie uit rekeningscomponenten ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-remove)
+         + [ schrapt etiketclassificatiewaarden ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-values-delete)
+         + [ schrapt etiketclassificaties ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/label-classifications/classification-delete)
+   + Doel {#target}
+      + Trefwoorden {#keywords}
+         + [De weergave [!UICONTROL Keywords]](/help/search-social-commerce/new-ui/target/keywords/keyword-view-about.md)
+         + [Restrictietoewijzingen voor trefwoorden beheren](/help/search-social-commerce/new-ui/target/keywords/keyword-assignments-manage.md)
+      + Plaatsen {#placements}
+         + [De weergave [!UICONTROL Placements]](/help/search-social-commerce/new-ui/target/placements/placement-view-about.md)
+         + [Beperkingstoewijzingen voor plaatsing beheren](/help/search-social-commerce/new-ui/target/placements/placement-assignments-manage.md)
    + Instellen {#setup}
       + Accounts {#accounts}
          + [Informatie over netwerkaccounts](/help/search-social-commerce/new-ui/set-up/accounts/ad-network-account-about.md)
@@ -150,13 +150,13 @@ ht-degree: 2%
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yahoo! Japan Ads]](/help/search-social-commerce/tracking/formats-click-tracking-yahoo-japan.md)
             + [Opmaak voor het bijhouden van klikken voor  [!DNL Yandex]](/help/search-social-commerce/tracking/formats-click-tracking-yandex.md)
          + [Optionele trackingparameters voor URL&#39;s die klikken en volgen](/help/search-social-commerce/tracking/click-tracking-urls-optional-parameters.md)
-      + [&#x200B; de koekjes van Adobe Advertising (verbinding)](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html?lang=nl-NL){target="_blank"}
+      + [ de koekjes van Adobe Advertising (verbinding) ](https://experienceleague.adobe.com/docs/core-services/interface/ec-cookies/cookies-advertising-cloud.html){target="_blank"}
       + [De trackingparameter voor AMO-id&#39;s (s_kwcid)](/help/search-social-commerce/tracking/amo-id-tracking-parameter.md)
    + Conversie bijhouden {#conversion-tracking}
       + [Opties voor bijhouden van conversie](/help/search-social-commerce/tracking/conversion-tracking-about.md)
       + Adobe Advertising-conversie bijhouden {#advertising-conversion-tracking}
          + [Informatie over Adobe Advertising-tags voor conversie en bijhouden](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
-         + [&#x200B; produceer en voer een de omzettingsmarkering van Adobe Advertising uit &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate)
+         + [ produceer en voer een de omzettingsmarkering van Adobe Advertising uit ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/tools/tracking/conversion-tag-generate)
          + [Formaat voor trackingtags voor JavaScript-conversie versie 3](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
          + [Formaat voor trackingtags voor JavaScript-conversie versie 2](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
          + [Opmaak van trackingtags voor afbeeldingsconversie](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
@@ -247,7 +247,7 @@ ht-degree: 2%
             + [Beheer  [!DNL Google Ads]  dynamische onderzoeksdoelstellingen](/help/search-social-commerce/campaign-management/campaigns/dynamic-search-target-manage.md)
          + Doelstellingen voor publiek en publiek {#audiences-and-targets}
             + Doelgroepen {#audiences}
-               + [&#x200B; Ongeveer publiek &#x200B;](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
+               + [ Ongeveer publiek ](/help/search-social-commerce/campaign-management/campaigns/audience-about.md)
                + [Creeer  [!DNL Google Ads]  publiek van de klantengelijke van  [!DNL Adobe]  publiek](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-adobe-audience.md)
                + [Creeer a  [!DNL Google Ads]  het publiek van de klantengelijke van een e-maillijst van Adobe Campaign](/help/search-social-commerce/campaign-management/campaigns/google-audience-from-campaign-email-list.md)
                + [Beheer klanten gelijke soorten publiek gebruikend de lijsten van klantengegevens](/help/search-social-commerce/campaign-management/campaigns/audience-from-customer-data-list.md)
