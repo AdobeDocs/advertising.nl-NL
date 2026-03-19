@@ -14,11 +14,11 @@ ht-degree: 0%
 
 *Advertisers met slechts een integratie Adobe Advertising-Adobe Analytics*
 
-U kunt Adobe Advertising IDs ([ identiteitskaart van AMO en EF identiteitskaart ](../ids.md)) gebruiken om [!DNL Marketing Channels] verwerkingsregels in Adobe Analytics te vormen. Gebruik Adobe Advertising-id&#39;s voor specifieke regels voor Adobe Advertising-campagnes. De volgorde waarin u de regels verwerkt, bepaalt of alle mogelijke gegevens correct worden vastgelegd.
+U kunt Adobe Advertising IDs ([&#x200B; identiteitskaart van AMO en EF identiteitskaart &#x200B;](../ids.md)) gebruiken om [!DNL Marketing Channels] verwerkingsregels in Adobe Analytics te vormen. Gebruik Adobe Advertising-id&#39;s voor specifieke regels voor Adobe Advertising-campagnes. De volgorde waarin u de regels verwerkt, bepaalt of alle mogelijke gegevens correct worden vastgelegd.
 
 ## De AMO-id in verwerkingsregels
 
-De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
+De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
 
 * Doorklikken: Adobe Advertising stelt de parameter voor de `s_kwcid` querytekenreeks in een koppeling in en [!DNL Analytics] haalt de parameter op via de URL van de bestemmingspagina wanneer er doorklikken plaatsvindt.
 
@@ -70,9 +70,9 @@ Andere kanalen zijn opgenomen in het voorbeeldraster dat is opgenomen om de aanb
 
 >[!IMPORTANT]
 >
->Zie &quot;[ Orde van verrichtingen voor  [!DNL Marketing Channels]  regels ](#rule-order)&quot;voor informatie over de orde waarin uw regels zouden moeten worden verwerkt.
+>Zie &quot;[&#x200B; Orde van verrichtingen voor  [!DNL Marketing Channels]  regels &#x200B;](#rule-order)&quot;voor informatie over de orde waarin uw regels zouden moeten worden verwerkt.
 
-![ Voorbeeld van een reeks verwerkingsregels ](/help/integrations/assets/a4adc-mc-rule-set-example.png)
+![&#x200B; Voorbeeld van een reeks verwerkingsregels &#x200B;](/help/integrations/assets/a4adc-mc-rule-set-example.png)
 
 ### Toegepaste zoekregel
 
@@ -86,15 +86,15 @@ Stel de waarde van het kanaal niet in op de AMO-id. In plaats daarvan, plaats he
 
 <!-- Explain that comment about relevancy -- do I need to repeat this for each rule example?  -->
 
-![ Voorbeeld van een Betaalde regel van het Onderzoek ](/help/integrations/assets/a4adc-mc-rule-paid-search.png " Voorbeeld van een Betaalde regel van het Onderzoek ")
+![&#x200B; Voorbeeld van een Betaalde regel van het Onderzoek &#x200B;](/help/integrations/assets/a4adc-mc-rule-paid-search.png " Voorbeeld van een Betaalde regel van het Onderzoek ")
 
 ### Natuurlijke zoekregel
 
-Voor [!UICONTROL Natural Search], zorg ervoor dat uw [[!UICONTROL Paid Search] ontdekkingsregels ](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/t-paid-search-detection) de `ef_id` en `s_kwcid` parameters van het vraagkoord omvatten. (Dit wordt meestal automatisch geconfigureerd wanneer Advertising Search, Social &amp; Commerce is geïntegreerd in [!DNL Analytics] , maar controleer dit voor het geval een [!DNL Analytics] -beheerder de logica heeft gewijzigd nadat de integratie was geconfigureerd.)
+Voor [!UICONTROL Natural Search], zorg ervoor dat uw [[!UICONTROL Paid Search] ontdekkingsregels &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/t-paid-search-detection) de `ef_id` en `s_kwcid` parameters van het vraagkoord omvatten. (Dit wordt meestal automatisch geconfigureerd wanneer Advertising Search, Social &amp; Commerce is geïntegreerd in [!DNL Analytics] , maar controleer dit voor het geval een [!DNL Analytics] -beheerder de logica heeft gewijzigd nadat de integratie was geconfigureerd.)
 
 Stel de regel in op &quot;Regels voor zoeken in overeenkomst met natuurlijke zoekopdrachten&quot; (dit is doorgaans de standaardinstelling voor dit kanaal).
 
-![ Voorbeeld van een Natuurlijke regel van het Onderzoek ](/help/integrations/assets/a4adc-mc-rule-natural-search.png " Voorbeeld van een Natuurlijke regel van het Onderzoek ")
+![&#x200B; Voorbeeld van een Natuurlijke regel van het Onderzoek &#x200B;](/help/integrations/assets/a4adc-mc-rule-natural-search.png " Voorbeeld van een Natuurlijke regel van het Onderzoek ")
 
 ### Doorklikregel 1 weergeven
 
@@ -102,35 +102,35 @@ Creeer een marketing kanaal van ClickThrough van de Vertoning door slechts klik-
 
 Soms worden doorklikkingen gevolgd door URL (het gebrek). In andere gevallen worden doorklikbewerkingen bijgehouden via de laatste gebeurtenisservice aan de serverzijde en bevat de URL dus niet de parameter `ef_id` . De regel controleert daarom voorwaarden waarin de EF identiteitskaart variabele of de `ef_id` parameter van het vraagkoord met &quot;:d&quot;beëindigt. Gebruik &quot;`Any`&quot;exploitant omdat u deze regel voor één van beide voorwaarde wilt teweegbrengen.
 
-![ Voorbeeld van een eerste Display ClickThrough regel ](/help/integrations/assets/a4adc-mc-rule-display-ct.png " Voorbeeld van een eerste DisplayClickThrough regel ")
+![&#x200B; Voorbeeld van een eerste Display ClickThrough regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-ct.png " Voorbeeld van een eerste DisplayClickThrough regel ")
 
 ### Regel voor natuurlijke verwijzende domeinen
 
 (Optioneel) U kunt het beste een voorwaarde &#39;Is First Page of Visit&#39; met de operator &#39;Any&#39; toevoegen aan de standaardregel [!UICONTROL Natural Referring Domains] . Hoewel deze regel optioneel is, kan deze helpen voorkomen dat het randhoofdlettergebruik van natuurlijke referenties wordt ingesteld wanneer de gebruiker op de knop Terug klikt om terug te keren naar de bestemmingspagina.
 
-![ Voorbeeld van een Natuurlijke Verwijzende regel van Domeinen ](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png " Voorbeeld van een Natuurlijke Verwijzende regel van Domeinen ")
+![&#x200B; Voorbeeld van een Natuurlijke Verwijzende regel van Domeinen &#x200B;](/help/integrations/assets/a4adc-mc-rule-natural-referring-domains.png " Voorbeeld van een Natuurlijke Verwijzende regel van Domeinen ")
 
 ### Doorkijkregel voor CTV weergeven
 
 Als u de [!DNL DSP] weergave van een aangesloten tv (CTV) wilt bijhouden, maakt u een regel waarbij de AMO-id eindigt met `"!ctv"` . Omdat de bezoeker niet op de advertentie heeft geklikt, bevat de doorkijkbewerking de URL `ef_id` of `s_kwcid` niet en is voor de regel slechts één voorwaarde vereist.
 
-![ Voorbeeld van een CTV van de Vertoning regel ](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png " Voorbeeld van een CTV van de Vertoning regel ")
+![&#x200B; Voorbeeld van een CTV van de Vertoning regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-ctv-vt.png " Voorbeeld van een CTV van de Vertoning regel ")
 
 ### Weergaveregel
 
 Om een kanaal tot stand te brengen DisplayThrough, creeer een regel waarin EF identiteitskaart met &quot;:i&quot;beëindigt. Omdat de bezoeker niet op de advertentie heeft geklikt, bevat de doorkijkbewerking de URL `ef_id` of `s_kwcid` niet en is voor de regel slechts één voorwaarde vereist.
 
-![ Voorbeeld van een DisplayThrough regel ](/help/integrations/assets/a4adc-mc-rule-display-vt.png " Voorbeeld van een regel DisplayThrough ")
+![&#x200B; Voorbeeld van een DisplayThrough regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-vt.png " Voorbeeld van een regel DisplayThrough ")
 
 ### Doorklikregel nr. 2 weergeven
 
 Voor de tweede regel van Display ClickThrough, plaats **identiteitskaart van AMO begint met &quot;AC!&quot;**. Deze tweede regel bestaat voor het vastleggen van de klik-/kosten-/afbeeldingsgegevens voor het weergavekanaal dat rechtstreeks van Adobe Advertising naar [!DNL Analytics] afkomstig is. Deze gegevens worden toegeschreven aan een AMO-id, maar bevatten geen URL met de queryreeks `ef_id` , zodat deze resultaten niet zijn gekoppeld aan een AMO EF-id, wat de eerste Display ClickThrough-regel vastlegt.
 
-![ Voorbeeld van een tweede DisplayClickThrough regel ](/help/integrations/assets/a4adc-mc-rule-display-ct2.png " Voorbeeld van een tweede DisplayClickThrough regel ")
+![&#x200B; Voorbeeld van een tweede DisplayClickThrough regel &#x200B;](/help/integrations/assets/a4adc-mc-rule-display-ct2.png " Voorbeeld van een tweede DisplayClickThrough regel ")
 
 ## Volgorde van bewerkingen voor [!DNL Marketing Channels] regels {#rule-order}
 
-![ Ideale orde van verrichtingen voor op Adobe Advertising betrekking hebbende regels ](/help/integrations/assets/a4adc-mc-rule-order.png " Ideale orde van verrichtingen voor op Adobe Advertising betrekking hebbende regels ")
+![&#x200B; Ideale orde van verrichtingen voor op Adobe Advertising betrekking hebbende regels &#x200B;](/help/integrations/assets/a4adc-mc-rule-order.png " Ideale orde van verrichtingen voor op Adobe Advertising betrekking hebbende regels ")
 
 * Zet [!UICONTROL Paid Search] *vóór* [!UICONTROL Natural Search]. Anders kunnen betaalde zoekgegevens worden toegewezen aan natuurlijke zoekopdrachten.
 
@@ -150,8 +150,8 @@ Voor de tweede regel van Display ClickThrough, plaats **identiteitskaart van AMO
 
 >[!MORELIKETHIS]
 >
->* [ Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
->* [ waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
->* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising ](mc-ac-data.md)
->* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
+>* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
+>* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
+>* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
