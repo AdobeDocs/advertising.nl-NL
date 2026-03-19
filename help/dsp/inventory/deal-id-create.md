@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. Klik boven de datatabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Deal ID]** .
 
-1. Ga de [ overeenkomstenmontages ](deal-id-settings.md) in:
+1. Ga de [&#x200B; overeenkomstenmontages &#x200B;](deal-id-settings.md) in:
 
    1. In de [!UICONTROL Deal ID basics] sectie, specificeer de overeenkomstendetails en de adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Facultatief) geef de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
+      1. (Facultatief) geef de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
@@ -66,8 +66,8 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 
 >[!MORELIKETHIS]
 >
->* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)
->* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
->* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
->* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
+>* [&#x200B; Hand de montages van overeenkomstidentiteitskaart &#x200B;](deal-id-settings.md)
+>* [&#x200B; opstelling een programmatic gewaarborgde overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
+>* [&#x200B; voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [&#x200B; Ongeveer programmatic gewaarborgde overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
 <!-- >* [Specify placements and ads for a private deal](deal-id-attach-placements.md)-->

@@ -18,24 +18,24 @@ U kunt de plaatsingsnaam, de status, het maximumbod en het budget bewerken zonde
 
 >[!TIP]
 >
-> Om het even welke plaatsing uit te geven die, zie &quot;[ plaatsen ](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
+> Om het even welke plaatsing uit te geven die, zie &quot;[&#x200B; plaatsen &#x200B;](/help/dsp/campaign-management/placements/placement-edit.md) uitgeven.&quot;
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 1. Klik op de naam van de campagne.
 1. Klik in het submenu op **[!UICONTROL Placements]** .
 1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** > **[!UICONTROL Quick Edit]** .
-1. Bewerk om het even welke beschikbare [ plaatsingsmontages ](placement-settings.md): **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, en **[!UICONTROL Budget]**.
+1. Bewerk om het even welke beschikbare [&#x200B; plaatsingsmontages &#x200B;](placement-settings.md): **[!UICONTROL Placement Name]**, **[!UICONTROL Status]**, **[!UICONTROL Max Bid]**, en **[!UICONTROL Budget]**.
 1. Klik op **[!UICONTROL Apply]**.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer plaatsingsbeheer in Advertising DSP ](placement-about.md)
->* [ creeer een plaatsing ](placement-create.md)
->* [ geeft plaatsingen ](placement-edit.md) uit
->* [ dupliceer een plaatsing ](placement-duplicate.md)
->* [ beheert biedvermenigvuldigers voor plaatsen ](placement-manage-bid-multipliers.md)
->* [ geef de advertentieschema&#39;s voor plaatsen ](placement-edit-ad-schedule.md) uit
->* [ deactivate of activeer een plaatsing ](placement-pause-activate.md)
->* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)
->* [ montages van de Plaatsing ](placement-settings.md)
->* [ Video: Hoe te om plaatsingen uit te geven gebruikend bulk geef hulpmiddelen ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html) uit
+>* [&#x200B; Ongeveer plaatsingsbeheer in Advertising DSP &#x200B;](placement-about.md)
+>* [&#x200B; creeer een plaatsing &#x200B;](placement-create.md)
+>* [&#x200B; geeft plaatsingen &#x200B;](placement-edit.md) uit
+>* [&#x200B; dupliceer een plaatsing &#x200B;](placement-duplicate.md)
+>* [&#x200B; beheert biedvermenigvuldigers voor plaatsen &#x200B;](placement-manage-bid-multipliers.md)
+>* [&#x200B; geef de advertentieschema&#39;s voor plaatsen &#x200B;](placement-edit-ad-schedule.md) uit
+>* [&#x200B; deactivate of activeer een plaatsing &#x200B;](placement-pause-activate.md)
+>* [&#x200B; Mening het veranderingslogboek voor een plaatsing &#x200B;](placement-change-log.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](placement-settings.md)
+>* [&#x200B; Video: Hoe te om plaatsingen uit te geven gebruikend bulk geef hulpmiddelen &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/dsp/bulk-edit-placement-tools.html) uit

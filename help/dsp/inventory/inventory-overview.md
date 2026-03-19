@@ -40,8 +40,8 @@ Tot de beschikbare voorraadtypen behoren:
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer voorraad op bestelling ](on-demand-inventory-about.md)
->* [ Ongeveer overeenkomstenidentiteitskaart inbox ](deal-id-inbox-about.md)
->* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
->* [ SSP Partners ](ssp-partners.md)
->* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [&#x200B; Ongeveer voorraad op bestelling &#x200B;](on-demand-inventory-about.md)
+>* [&#x200B; Ongeveer overeenkomstenidentiteitskaart inbox &#x200B;](deal-id-inbox-about.md)
+>* [&#x200B; Ongeveer programmatic gewaarborgde overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
+>* [&#x200B; SSP Partners &#x200B;](ssp-partners.md)
+>* [&#x200B; Ongeveer privé inventaris &#x200B;](private-inventory-about.md)

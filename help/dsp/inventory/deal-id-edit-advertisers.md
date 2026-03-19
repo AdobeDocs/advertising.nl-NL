@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook [ delen en ophouden delend een overeenkomstenidentiteitskaart met alle adverteerders binnen gespecificeerde rekeningen ](deal-id-share.md).
+>U kunt ook [&#x200B; delen en ophouden delend een overeenkomstenidentiteitskaart met alle adverteerders binnen gespecificeerde rekeningen &#x200B;](deal-id-share.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 1. Klik **[!UICONTROL Save]** om de overeenkomstenmontages te bewaren.
 
 >[!MORELIKETHIS]
->* [ Ongeveer privé inventaris ](private-inventory-about.md)
->* [ geef de rekeningen met toegang tot een privé overeenkomst ](/help/dsp/inventory/deal-id-share.md) uit
->* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)
+>* [&#x200B; Ongeveer privé inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; geef de rekeningen met toegang tot een privé overeenkomst &#x200B;](/help/dsp/inventory/deal-id-share.md) uit
+>* [&#x200B; Hand de montages van overeenkomstidentiteitskaart &#x200B;](deal-id-settings.md)

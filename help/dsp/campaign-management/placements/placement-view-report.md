@@ -21,9 +21,9 @@ Het oudere rapport op plaatsingsniveau bevat een overzicht en secties over [!UIC
 
 >[!MORELIKETHIS]
 >
->* [ Mening de plaatsen, de advertenties, en frequentiedetails voor een plaatsing ](/help/dsp/campaign-management/reports/placement-details-view.md)
->* [ Mening een gedetailleerd rapport voor een advertentie ](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [ Mening een gedetailleerd rapport voor een campagne ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
->* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)
+>* [&#x200B; Mening de plaatsen, de advertenties, en frequentiedetails voor een plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-details-view.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Mening het veranderingslogboek voor een plaatsing &#x200B;](placement-change-log.md)

@@ -18,7 +18,7 @@ De veranderingen in een toegelaten overeenkomst worden niet gesynchroniseerd van
 
 1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL edit]**.
 
-1. Bewerk de [ overeenkomstenmontages ](deal-id-settings.md).
+1. Bewerk de [&#x200B; overeenkomstenmontages &#x200B;](deal-id-settings.md).
 
    U kunt [!UICONTROL Deal Name] uitgeven, [!UICONTROL Media Type] (wanneer de overeenkomst veelvoudige media types) omvat, [!UICONTROL CPM] waarde, [!UICONTROL Account email], [!UICONTROL Advertisers that can access this deal], [!UICONTROL Flight dates], en [!UICONTROL Impressions].
 
@@ -28,9 +28,9 @@ De veranderingen in een toegelaten overeenkomst worden niet gesynchroniseerd van
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer privé inventaris ](private-inventory-about.md)
->* [ creeer manueel dealID details ](deal-id-create.md)
->* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)
->* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
->* [ specificeer plaatsen en advertenties voor een privé overeenkomst ](/help/dsp/inventory/deal-id-attach-placements.md)
->* [ archiveer of unarchive een privé overeenkomst ](/help/dsp/inventory/private-deal-archive-unarchive.md)
+>* [&#x200B; Ongeveer privé inventaris &#x200B;](private-inventory-about.md)
+>* [&#x200B; creeer manueel dealID details &#x200B;](deal-id-create.md)
+>* [&#x200B; Hand de montages van overeenkomstidentiteitskaart &#x200B;](deal-id-settings.md)
+>* [&#x200B; opstelling een programmatic gewaarborgde overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
+>* [&#x200B; specificeer plaatsen en advertenties voor een privé overeenkomst &#x200B;](/help/dsp/inventory/deal-id-attach-placements.md)
+>* [&#x200B; archiveer of unarchive een privé overeenkomst &#x200B;](/help/dsp/inventory/private-deal-archive-unarchive.md)
