@@ -3,7 +3,7 @@ title: De accounts bewerken met toegang tot een persoonlijke deal
 description: Leer hoe u een persoonlijke deal met verschillende accounts kunt delen en niet meer delen.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: fb67ef24-8b7f-4a2f-973b-8102a97f0acb
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -18,9 +18,9 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 >[!NOTE]
 >
-> U kunt ook [&#x200B; de individuele adverteerders met toegang tot de rekening &#x200B;](deal-id-edit-advertisers.md) uitgeven.
+> U kunt ook [ de individuele adverteerders met toegang tot de rekening ](deal-id-edit-advertisers.md) uitgeven.
 
-## Deel een identiteitskaart van de Overeenkomst met rekeningen
+## Een deal-id delen met accounts
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
 
@@ -32,7 +32,7 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
    1. Klik op **[!UICONTROL Share]**.
 
-## Stop delend een identiteitskaart van de Overeenkomst met rekeningen
+## Stoppen met het delen van een deal-id met accounts
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
 
@@ -44,6 +44,6 @@ U kunt ophouden delend een overeenkomst met rekeningen om het uitgeven en het ri
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
->* [&#x200B; geef Advertisers met Toegang tot identiteitskaart van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-edit-advertisers.md) uit
->* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [ geeft adverteerders met toegang tot overeenkomstenidentiteitskaart ](/help/dsp/inventory/deal-id-edit-advertisers.md) uit
+>* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)

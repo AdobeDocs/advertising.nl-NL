@@ -3,7 +3,7 @@ title: Een gedetailleerd rapport weergeven voor een persoonlijke, [!UICONTROL On
 description: Leer hoe te om een deal-vlakke rapport te openen.
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals, DSP On Demand Inventory, DSP Simple Ad Serving
 exl-id: 8a2e142e-0a05-47c7-9888-935665f06ad3
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -22,7 +22,7 @@ In het verslag op het niveau van de deal worden het aantal veilingen, de biedkoe
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; de Inzichten van de Veiling van de Mening voor een Privé Overeenkomst &#x200B;](/help/dsp/inventory/private-deal-auction-insights.md)
->* [&#x200B; Ongeveer  [!DNL On Demand]  Premium- Overzicht &#x200B;](on-demand-inventory-about.md)
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [ de veilinginzichten van de Mening voor een privé overeenkomst ](/help/dsp/inventory/private-deal-auction-insights.md)
+>* [ Ongeveer  [!DNL On Demand]  premieinventaris ](on-demand-inventory-about.md)
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)

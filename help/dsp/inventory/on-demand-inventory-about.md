@@ -3,9 +3,9 @@ title: Ongeveer  [!DNL On Demand]  premieinventaris
 description: Meer informatie over de deals die DSP vooraf heeft gesloten met eersteklas uitgevers-partners.
 feature: DSP On Demand Inventory
 exl-id: 2e8dd4a0-7a7b-45e9-8f0f-e5435cf0d9ee
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
-source-wordcount: '457'
+source-wordcount: '455'
 ht-degree: 0%
 
 ---
@@ -53,10 +53,10 @@ De details voor elke overeenkomst omvatten gegevens in de volgende kolommen:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Abonneren en de Toegang van het Verzoek tot  [!DNL On Demand]  de Deals van de Inventaris van de Premium &#x200B;](on-demand-inventory-subscribe.md)
->* [&#x200B; re-Request de Overeenkomsten van de Inventaris van de Premium op bestelling &#x200B;](on-demand-inventory-rerequest.md)
->* [&#x200B; Mening de Status van Uw  [!DNL On Demand]  Verzoeken van de Overeenkomst en Abonnementen &#x200B;](on-demand-inventory-view-status.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Azië Pacific &#x200B;](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Australië en Nieuw-Zeeland &#x200B;](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premium in Europa, het Midden-Oosten, en Afrika &#x200B;](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand]  Uitgevers van de Inventaris van de Premie in Noord-Amerika &#x200B;](on-demand-inventory-publishers-na.md)
+>* [ Abonneren en verzoek toegang tot  [!DNL On Demand]  de overeenkomsten van de premiuminventaris ](on-demand-inventory-subscribe.md)
+>* [ re-request  [!DNL On Demand]  premieinventarisovereenkomsten ](on-demand-inventory-rerequest.md)
+>* [ Mening het statuut van uw  [!DNL On Demand]  overeenkomstenverzoeken en abonnementen ](on-demand-inventory-view-status.md)
+>* [[!DNL On Demand]  de uitgevers van de premiuminventaris in Azië Pacific ](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand]  de uitgevers van de premieinventaris in Australië en Nieuw-Zeeland ](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand]  eersteklas uitgevers in Europa, het Midden-Oosten, en Afrika ](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand]  Uitgevers van de premiuminventaris in Noord-Amerika ](on-demand-inventory-publishers-na.md)

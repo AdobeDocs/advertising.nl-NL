@@ -3,9 +3,9 @@ title: Persoonlijke deal-instellingen bewerken
 description: Leer hoe te om details voor een privé overeenkomst uit te geven.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: c6ab7d39-5581-423b-90aa-3e142c235072
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '123'
 ht-degree: 0%
 
 ---
@@ -18,19 +18,19 @@ De veranderingen in een toegelaten overeenkomst worden niet gesynchroniseerd van
 
 1. In de overeenkomstenrij, klik **[!UICONTROL ...]** > **[!UICONTROL edit]**.
 
-1. Bewerk de [&#x200B; overeenkomstenmontages &#x200B;](deal-id-settings.md).
+1. Bewerk de [ overeenkomstenmontages ](deal-id-settings.md).
 
    U kunt [!UICONTROL Deal Name] uitgeven, [!UICONTROL Media Type] (wanneer de overeenkomst veelvoudige media types) omvat, [!UICONTROL CPM] waarde, [!UICONTROL Account email], [!UICONTROL Advertisers that can access this deal], [!UICONTROL Flight dates], en [!UICONTROL Impressions].
 
-   U kunt [!UICONTROL Deal ID], [!UICONTROL Publisher], [!UICONTROL SSP], [!UICONTROL Deal Type], of [!UICONTROL Billing Method] niet uitgeven.
+   U kunt de instellingen [!UICONTROL Deal ID] , [!UICONTROL Publisher] , [!UICONTROL SSP] , [!UICONTROL Deal Type] of [!UICONTROL Billing Method] niet bewerken.
 
 1. Klik op **[!UICONTROL Save]**.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
->* [&#x200B; creeer manueel Deal ID Details &#x200B;](deal-id-create.md)
->* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)
->* [&#x200B; opstelling een Programma Gegarandeerde Overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
->* [&#x200B; Bevestig Plaatsingen en Advertenties aan een Privé Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-attach-placements.md)
->* [&#x200B; Archiveer of unarchive een Privé Overeenkomst &#x200B;](/help/dsp/inventory/private-deal-archive-unarchive.md)
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [ creeer manueel dealID details ](deal-id-create.md)
+>* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)
+>* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ specificeer plaatsen en advertenties voor een privé overeenkomst ](/help/dsp/inventory/deal-id-attach-placements.md)
+>* [ archiveer of unarchive een privé overeenkomst ](/help/dsp/inventory/private-deal-archive-unarchive.md)

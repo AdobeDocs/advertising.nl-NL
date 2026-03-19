@@ -3,7 +3,7 @@ title: Gedetailleerd rapport voor plaatsing weergeven
 description: Leer hoe u een rapport op plaatsingsniveau opent met secties over [!UICONTROL Geography] , [!UICONTROL Device] , [!UICONTROL Viewability] , [!UICONTROL Audience Performance] , [!UICONTROL Notifications] en [!UICONTROL Ads] gegevens.
 feature: DSP Placements, DSP Campaign Data Views
 exl-id: ddfae530-1dc6-4470-9910-ae13abcbaa8b
-source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -21,9 +21,9 @@ Het oudere rapport op plaatsingsniveau bevat een overzicht en secties over [!UIC
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Mening de Plaatsen, Advertenties, en Details van de Frequentie voor een Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-details-view.md)
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
+>* [ Mening de plaatsen, de advertenties, en frequentiedetails voor een plaatsing ](/help/dsp/campaign-management/reports/placement-details-view.md)
+>* [ Mening een gedetailleerd rapport voor een advertentie ](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [ Mening een gedetailleerd rapport voor een campagne ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)

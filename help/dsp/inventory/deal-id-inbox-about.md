@@ -1,24 +1,24 @@
 ---
 title: Over de [!UICONTROL Deal ID Inbox]
-description: Leer over de [!UICONTROL Deal ID inbox] eigenschap, die u toestaat om privé overeenkomsten goed te keuren u reeds met uitgevers op  [!DNL FreeWheel], [!DNL Google Authorized Buyers]  (vroeger gekend als  [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger  [!DNL Rubicon]) hebt onderhandeld.
+description: Leer over de [!UICONTROL Deal ID Inbox] eigenschap, die u toestaat om privé overeenkomsten goed te keuren u reeds met uitgevers op  [!DNL FreeWheel], [!DNL Google Authorized Buyers]  (vroeger gekend als  [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger  [!DNL Rubicon]) hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
-source-wordcount: '491'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
 
 # Over de [!UICONTROL Deal ID Inbox]
 
-Met Advertising DSP [!UICONTROL Deal ID inbox] kunt u snel deals instellen die DSP van uitgevers heeft geïmporteerd via leveranciers (SSPs), zodat u niet elke deal handmatig hoeft in te stellen. U kunt de gegarandeerde en niet-gegarandeerde privé-voorraadtransacties accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel] , [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX] ) en [!DNL Magnite DV+] (voorheen [!DNL Rubicon] ) van de [!UICONTROL Deal ID inbox] .
+Met Advertising DSP [!UICONTROL Deal ID Inbox] kunt u snel deals instellen die DSP van uitgevers heeft geïmporteerd via leveranciers (SSPs), zodat u niet elke deal handmatig hoeft in te stellen. U kunt de gegarandeerde en niet-gegarandeerde privé-voorraadtransacties accepteren die u al met uitgevers hebt onderhandeld op [!DNL FreeWheel] , [!DNL Google Authorized Buyers] (voorheen bekend als [!DNL AdX] ) en [!DNL Magnite DV+] (voorheen [!DNL Rubicon] ) van de [!UICONTROL Deal ID Inbox] .
 
 >[!NOTE]
 >
 >Advertising DSP is de eerste DSP die met de [!DNL FreeWheel] API wordt geïntegreerd.
 
-In [!UICONTROL Deal ID inbox], kunt u de details van de overeenkomst zien aangezien uw uitgever hen ziet, uw overeenkomstenopstelling versnelt, en handingangsfouten vermijdt.
+In [!UICONTROL Deal ID Inbox], kunt u de details van de overeenkomst zien aangezien uw uitgever hen ziet, uw overeenkomstenopstelling versnelt, en handingangsfouten vermijdt.
 
 <!-- 
 Accepting a deal automatically pre-populates a new Deal ID record with details from the publisher, and you need to enter only the publisher [always? or just in some cases?], the media type, who can access the deal, and any attribute labels to apply to the deal so it's easy to find. [Are labels a dimension you can report on?]
@@ -36,11 +36,11 @@ DSP vernieuwt automatisch alle overeenkomstendetails dagelijks bij 4 :30 a.m. ES
 
 >[!NOTE]
 >
->Voor programmatic gegarandeerde deals via [!DNL Google Authorized Buyers] moet u ten minste 90% van uw budget leveren, anders verliest uw account de toegang tot [!DNL Google] -deals in de [!UICONTROL Deal ID inbox] .
+>Voor programmatic gegarandeerde deals via [!DNL Google Authorized Buyers] moet u ten minste 90% van uw budget leveren, anders verliest uw account de toegang tot [!DNL Google] -deals in de [!UICONTROL Deal ID Inbox] .
 
-## De [!UICONTROL Deal ID inbox] implementeren
+## De [!UICONTROL Deal ID Inbox] implementeren
 
-Als u uw deals in de [!UICONTROL Deal ID inbox] wilt ontvangen, moet uw SSP-account de DSP-account van uw organisatie toewijzen aan uw SSP-account. DSP kan de accountnamen van de organisatie delen met de relevante SSP&#39;s. Neem contact op met uw Adobe-accountteam voor instructies.
+Als u uw deals in de [!UICONTROL Deal ID Inbox] wilt ontvangen, moet uw SSP-account de DSP-account van uw organisatie toewijzen aan uw SSP-account. DSP kan de accountnamen van de organisatie delen met de relevante SSP&#39;s. Neem contact op met uw Adobe-accountteam voor instructies.
 
 Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de koper in plaats van aan de bovenliggende DSP-account. De overeenkomstenherkenningsteken kan een naam of een identiteitskaart, afhankelijk van SSP zijn.
 
@@ -48,15 +48,15 @@ Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de kope
 
 * **de overeenkomsten van het Overzicht** om te verifiëren dat SSP de correcte uitgever, vluchtdata, CPM, en andere overeenkomstendetails heeft verzonden. Als de uitgever een fout heeft gemaakt, contacteer hen buiten DSP zodat kunnen zij de overeenkomst verbeteren en opnieuw verzenden.
 
-* **keurt overeenkomsten** na het herzien goed, en zij verschijnen niet meer in [!UICONTROL Deal ID inbox]. Accepteerde deals worden weergegeven in [!UICONTROL Inventory] > [!UICONTROL Deals] en zijn gereed om zich te richten binnen de plaatsen van adverteerders.
+* **keurt overeenkomsten** na het herzien goed, en zij verschijnen niet meer in [!UICONTROL Deal ID Inbox]. Accepteerde deals worden weergegeven in [!UICONTROL Inventory] > [!UICONTROL Deals] en zijn gereed om zich te richten binnen de plaatsen van adverteerders.
 
-* **negeer overeenkomsten** die niet nodig zijn of ongevraagd zijn. Genegeerde deals worden verplaatst naar het tabblad [!UICONTROL Ignored Deals] in [!UICONTROL Deal ID inbox] , dat als archief fungeert. DSP waarschuwt geen SSPs en uitgevers wanneer u een overeenkomst negeert.
+* **negeer overeenkomsten** die niet nodig zijn of ongevraagd zijn. Genegeerde deals worden verplaatst naar het tabblad [!UICONTROL Ignored Deals] in [!UICONTROL Deal ID Inbox] , dat als archief fungeert. DSP waarschuwt geen SSPs en uitgevers wanneer u een overeenkomst negeert.
 
-* **wijzigt details voor reeds-toegelaten overeenkomsten** van [!UICONTROL Inventory] > [!UICONTROL Deals] (niet in [!UICONTROL Deal ID inbox]). Op dezelfde manier zijn adverteerders die wijzigingen in deals verzenden, verantwoordelijk voor de implementatie van deze wijzigingen in [!UICONTROL Inventory] > [!UICONTROL Deals] omdat de wijzigingen van de SSP&#39;s door [!UICONTROL Deal ID inbox] niet worden gesynchroniseerd nadat deals zijn ingesteld.
+* **wijzigt details voor reeds-toegelaten overeenkomsten** van [!UICONTROL Inventory] > [!UICONTROL Deals] (niet in [!UICONTROL Deal ID Inbox]). Op dezelfde manier zijn adverteerders die wijzigingen in deals verzenden, verantwoordelijk voor de implementatie van deze wijzigingen in [!UICONTROL Inventory] > [!UICONTROL Deals] omdat de wijzigingen van de SSP&#39;s door [!UICONTROL Deal ID Inbox] niet worden gesynchroniseerd nadat deals zijn ingesteld.
 
 ## Welke soorten overeenkomsten kunnen niet worden geaccepteerd?
 
-Wanneer een overeenkomstenlijst niet a ![&#x200B; omvat Accepteer &#x200B;](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID inbox] goedkeuren. In plaats daarvan, kunt u [&#x200B; de details van identiteitskaart van de overeenkomst manueel &#x200B;](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
+Wanneer een overeenkomstenlijst niet a ![ omvat Accepteer ](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID Inbox] goedkeuren. In plaats daarvan, kunt u [ de details van identiteitskaart van de overeenkomst manueel ](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
 
 U kunt de volgende typen overeenkomsten niet accepteren:
 
@@ -74,5 +74,5 @@ De overeenkomstendetails omvatten de reden dat de overeenkomst niet beschikbaar 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; keurt een Overeenkomst in identiteitskaart Inbox van de Overeenkomst goed &#x200B;](deal-id-inbox-accept.md)
->* [&#x200B; Overzicht van de Eigenschappen van de Inventaris &#x200B;](inventory-overview.md)
+>* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [ Overzicht van inventariseigenschappen ](inventory-overview.md)

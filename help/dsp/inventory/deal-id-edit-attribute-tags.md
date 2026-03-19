@@ -1,21 +1,21 @@
 ---
-title: Bewerk de kenmerkcodes voor een deal-id
+title: De kenmerkcodes voor een deal-id bewerken
 description: Leer hoe te om de attributenmarkeringen voor een overeenkomstidentiteitskaart tot stand te brengen en uit te geven
 feature: DSP Private Inventory, DSP Deal IDs, DSP Programmatic Guaranteed Deals
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
 
 ---
 
-# Bewerk de kenmerkcodes voor een deal-id
+# De kenmerkcodes voor een deal-id bewerken
 
 U kunt labels maken en toewijzen om te gaan met id&#39;s om vergelijkbare deals te groeperen. Wanneer u een plaatsing maakt of bewerkt, kunt u de beschikbare voorraad doorzoeken op tagnaam.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** .
 
-1. In de overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL edit tags]**.
+1. In de overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL edit tags]**.
 
 1. Voer in de [!UICONTROL Ad & Deal Tagging] -instellingen een van de volgende handelingen uit:
 
@@ -29,5 +29,5 @@ U kunt labels maken en toewijzen om te gaan met id&#39;s om vergelijkbare deals 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
->* [&#x200B; geef Privé Montages van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-edit.md) uit
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [ geef privé overeenkomstenmontages ](/help/dsp/inventory/deal-id-edit.md) uit

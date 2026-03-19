@@ -3,7 +3,7 @@ title: Het plaatsingsrapport [!UICONTROL Diagnostics] weergeven
 description: Leer hoe u problemen kunt diagnosticeren met de plaatsingsinstellingen en -pakking.
 feature: DSP Placements
 exl-id: 95e88c9c-09f2-44f1-9d6c-3fe533963f9a
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '306'
 ht-degree: 0%
@@ -36,7 +36,7 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
       1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-   1. In het hogere recht, klik ![&#x200B; Diagnostiek van de Plaatsing &#x200B;](/help/dsp/assets/placement-diagnostics.png).
+   1. In het hogere recht, klik ![ Diagnostiek van de Plaatsing ](/help/dsp/assets/placement-diagnostics.png).
 
 1. Voer een van de volgende handelingen uit:
 
@@ -56,7 +56,7 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
       1. Klik in de rechterbovenhoek op **[!UICONTROL Ad Approvals]** .
 
-      1. (Facultatief) om de advertentie te pauzeren of te activeren, klik de statusschakelaar (![&#x200B; schakelaar van de Status &#x200B;](/help/dsp/assets/status-switch.png)) in de Advertentiekolom).
+      1. (Facultatief) om de advertentie te pauzeren of te activeren, klik de statusschakelaar (![ schakelaar van de Status ](/help/dsp/assets/status-switch.png)) in de Advertentiekolom).
 
       1. (Optioneel) Als u de instellingen voor een advertentie wilt openen, klikt u op **[!UICONTROL View Ad]** naast de advertentie.
 
@@ -72,6 +72,6 @@ Diagnostische rapporten kunnen u helpen problemen met de plaatsingsinstellingen 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
->* [&#x200B; Mening het Voorspelde Rapport van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-forecast.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](campaign-reports-about.md)
+>* [ Mening het rapport van de plaatsingsvoorspelling ](/help/dsp/campaign-management/reports/placement-forecast.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

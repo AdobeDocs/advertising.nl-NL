@@ -3,7 +3,7 @@ title: De adverteerders toegang geven tot een persoonlijke deal
 description: Leer hoe te om te specificeren welke adverteerders tot een privé overeenkomst kunnen toegang hebben.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 51f3fa66-de70-4233-a866-ec48d72e88dc
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '109'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->U kunt ook [&#x200B; delen en ophouden delend een overeenkomstenidentiteitskaart met alle adverteerders binnen gespecificeerde rekeningen &#x200B;](deal-id-share.md).
+>U kunt ook [ delen en ophouden delend een overeenkomstenidentiteitskaart met alle adverteerders binnen gespecificeerde rekeningen ](deal-id-share.md).
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
@@ -25,6 +25,6 @@ ht-degree: 0%
 1. Klik **[!UICONTROL Save]** om de overeenkomstenmontages te bewaren.
 
 >[!MORELIKETHIS]
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
->* [&#x200B; geef de Rekeningen met Toegang tot identiteitskaart van de Overeenkomst &#x200B;](/help/dsp/inventory/deal-id-share.md) uit
->* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
+>* [ geef de rekeningen met toegang tot een privé overeenkomst ](/help/dsp/inventory/deal-id-share.md) uit
+>* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)

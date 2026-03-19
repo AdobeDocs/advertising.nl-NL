@@ -1,22 +1,22 @@
 ---
-title: Handmatig details van deal-id maken
-description: Leer hoe te om details voor een identiteitskaart van de Overeenkomst manueel in te gaan.
+title: Handmatig id-details maken
+description: Leer hoe te om details voor een overeenkomstenidentiteitskaart manueel in te gaan.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: 20a57919-c68f-4c9d-a8e1-f49484f74655
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
 source-wordcount: '427'
 ht-degree: 0%
 
 ---
 
-# Handmatig details van deal-id maken
+# Handmatig id-details maken
 
 1. Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals].**
 
 1. Klik boven de datatabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Deal ID]** .
 
-1. Ga de [&#x200B; overeenkomstenmontages &#x200B;](deal-id-settings.md) in:
+1. Ga de [ overeenkomstenmontages ](deal-id-settings.md) in:
 
    1. In de [!UICONTROL Deal ID basics] sectie, specificeer de overeenkomstendetails en de adverteerders die tot de overeenkomst kunnen toegang hebben. Voor gegarandeerde deals moet u ook de geplande vluchtdata en het geschatte aantal indrukken specificeren, alleen voor traceringsdoeleinden.
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 
       1. Voer de plaatsingsnaam in.
 
-      1. (Facultatief) geef de [&#x200B; plaatsingsmontages &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
+      1. (Facultatief) geef de [ plaatsingsmontages ](/help/dsp/campaign-management/placements/placement-settings.md) uit, met inbegrip van het beschrijven van het standaardbod, dat automatisch met de waarde van CPM van de overeenkomst wordt bevolkt; het veranderen van de datumwaaier; of het vastmaken van meer advertenties.
 
       De overeenkomst wordt automatisch gericht in de sectie van de Streefcijfers van de Inventaris. Alle andere doelopties zijn niet van toepassing.
 
@@ -66,8 +66,8 @@ Nadat u de overeenkomst creeert, kunt u de overeenkomst als inventarisdoel voor 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Hand de Montages van identiteitskaart van de Overeenkomst &#x200B;](deal-id-settings.md)
->* [&#x200B; opstelling een Programma Gegarandeerde Overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
->* [&#x200B; voorlegt een Advertentie voor een Programma Gegarandeerde Overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
->* [&#x200B; Ongeveer Programmatic gewaarborgde Overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
-<!-- >* [Specify Placements and Ads for a Private Deal](deal-id-attach-placements.md)-->
+>* [ Hand de montages van overeenkomstidentiteitskaart ](deal-id-settings.md)
+>* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
+>* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst met  [!DNL FreeWheel]](freewheel-submit.md)
+>* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
+<!-- >* [Specify placements and ads for a private deal](deal-id-attach-placements.md)-->

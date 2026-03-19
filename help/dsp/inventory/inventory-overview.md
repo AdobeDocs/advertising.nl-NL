@@ -3,9 +3,9 @@ title: Overzicht van voorraadfuncties in Advertising DSP
 description: Meer informatie over de beschikbare voorraadfuncties.
 feature: DSP On Demand Inventory, DSP Private Inventory, DSP Deal IDs
 exl-id: e55b9276-0d13-436e-9c09-968de963d551
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '241'
 ht-degree: 0%
 
 ---
@@ -40,8 +40,8 @@ Tot de beschikbare voorraadtypen behoren:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Voorraad Op bestelling &#x200B;](on-demand-inventory-about.md)
->* [&#x200B; Ongeveer identiteitskaart Inbox van de Overeenkomst &#x200B;](deal-id-inbox-about.md)
->* [&#x200B; Ongeveer Programmatic gewaarborgde Overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
->* [&#x200B; SSP Partners &#x200B;](ssp-partners.md)
->* [&#x200B; Ongeveer Privé Inventaris &#x200B;](private-inventory-about.md)
+>* [ Ongeveer voorraad op bestelling ](on-demand-inventory-about.md)
+>* [ Ongeveer overeenkomstenidentiteitskaart inbox ](deal-id-inbox-about.md)
+>* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
+>* [ SSP Partners ](ssp-partners.md)
+>* [ Ongeveer privé inventaris ](private-inventory-about.md)
