@@ -3,7 +3,7 @@ title: Over advertentiebeheer in Advertising DSP
 description: Meer informatie over advertentiebeheer.
 feature: DSP Ads
 exl-id: 41dbe28e-a476-4601-a3d8-a9111eae3f6b
-source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
+source-git-commit: 7f9b118ffe0b8e972296f79b19f6dcd2a9dedabe
 workflow-type: tm+mt
 source-wordcount: '737'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Wanneer uw advertenties zijn ingesteld, koppelt u elke advertentie aan een of me
 
 ## Beschikbare advertentietypen {#ad-types}
 
-Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [&#x200B; Specificaties van de Advertentie &#x200B;](ad-specs.md).
+Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specificaties voor elk advertentietype, zie de [ specificaties van de Advertentie ](ad-specs.md).
 
 * **AudioAdds (derde slechts)**: De audio advertenties spelen tussen inhoud op digitale uitgeversplaatsen en kunnen standalone als audiodossiers of samen met metgezelbanners worden in werking gesteld. Audio kan het best worden gebruikt om merkbekendheid te geven en om onderweg publiek te maken. Tot de belangrijkste prestatie-indicatoren voor audio behoren [!UICONTROL Completion Rate] en [!UICONTROL Cost per Completion] .
 
@@ -41,7 +41,7 @@ Alle volgende advertentietypen zijn beschikbaar in DSP. Voor volledige specifica
 
   Universele video-advertenties kunnen alleen worden gekoppeld aan universele video-opnamen.
 
-  Zie &quot;[&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
+  Zie &quot;[ FAQs over universele video ](/help/dsp/campaign-management/faq-universal-video.md)&quot;voor meer informatie over universele videoadvertenties.
 
 ## DSP en goedkeuringen
 
@@ -51,7 +51,7 @@ In eerste instantie wordt in de kolom [!UICONTROL Status] van de advertentie een
 
 Als DSP een advertentie goedkeurt, wordt in de kolom Status van de advertentie een groene stip weergegeven.
 
-![&#x200B; goedkeuringsindicator in [!UICONTROL Status] kolom &#x200B;](/help/dsp/assets/ad-approval-status.png)
+![ goedkeuringsindicator in [!UICONTROL Status] kolom ](/help/dsp/assets/ad-approval-status.png)
 
 >[!NOTE]
 >
@@ -59,6 +59,6 @@ Als DSP een advertentie goedkeurt, wordt in de kolom Status van de advertentie e
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
+>* [ Advertentiespecificaties ](ad-specs.md)

@@ -3,9 +3,9 @@ title: Advertentiespecificaties
 description: Algemene en uitgeverspecifieke referentiespecificaties.
 feature: DSP Ads
 exl-id: 133dfc0d-d839-4e06-a819-21e3e630830c
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: 7f9b118ffe0b8e972296f79b19f6dcd2a9dedabe
 workflow-type: tm+mt
-source-wordcount: '870'
+source-wordcount: '873'
 ht-degree: 0%
 
 ---
@@ -20,11 +20,11 @@ Advertenties worden standaard geleverd op desktopapparaten, mobiele apparaten en
 
 ### Ondersteunde externe en servers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en het dienen partners ](certified-ad-servers.md).&quot;
 
 ### Vereisten voor high-definition video-elementen
 
-**Type van VideoMarkering:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID en eenheden moeten aan de [&#x200B; VPAID 2.0 specificatie &#x200B;](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals die door het Interactieve Bureau van Advertising (IAB) wordt bepaald naleven.
+**Type van VideoMarkering:** VPAID 2.0 JavaScript of VAST (CTV). Alle VPAID en eenheden moeten aan de [ VPAID 2.0 specificatie ](https://iabtechlab.com/wp-content/uploads/2016/04/VPAID_2_0_Final_04-10-2012.pdf) zoals die door het Interactieve Bureau van Advertising (IAB) wordt bepaald naleven.
 
 **Videocodec:** MP4/H.264
 
@@ -52,25 +52,25 @@ U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innov
 
 **Audioniveaus:** 24 LKFS (+/- 2.0 dB) in de V.S. volgens ATSC A/85; 23 LUFS (+/- 1.0) in de EU volgens EBU R128
 
-#### Aanvullende vereisten voor uitgevers voor aangesloten tv-advertenties
+#### Aanvullende uitgeververeisten voor aangesloten tv-advertenties
 
-* **A+E Netwerk:** zie A+E 2&rbrace; en specificaties van het Netwerk van A+E [&#128279;](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
+* **A+E Netwerk:** zie A+E 2} en specificaties van het Netwerk van A+E [](/help/dsp/assets/a-e-networks-tve-video-ad-specs.pdf)
 
-* **Ontdekking:** zie de 2&rbrace; en specificaties van Ontdekking [.](/help/dsp/assets/discovery-networks-ad-specs.pdf)
+* **Ontdekking:** zie de 2} en specificaties van Ontdekking [.](/help/dsp/assets/discovery-networks-ad-specs.pdf)
 
-* **Disney (incl. Hulu):** zie de 1&rbrace; en specificaties van Disney [.](https://www.disneyadvertising.com/mediakit/#specifications)
+* **Disney (incl. Hulu):** zie de 1} en specificaties van Disney [.](https://www.disneyadvertising.com/mediakit/#specifications)
 
-* **Max HBO:** zie Max van HBO [&#x200B; en specificaties &#x200B;](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
+* **Max HBO:** zie Max van HBO [ en specificaties ](/help/dsp/assets/hbo-max-ad-specs-2022.xlsx).
 
 * **NBCUniversal:**
 
-   * [&#x200B; Digitale Video &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
+   * [ Digitale video ](https://together.nbcuni.com/nbcu-creative-guidelines/digital-video/)
 
-   * [&#x200B; Livestream &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
+   * [ Livestream ](https://together.nbcuni.com/nbcu-creative-guidelines/livestream/)
 
-   * [&#x200B; Peacock &#x200B;](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
+   * [ Peacock ](https://together.nbcuni.com/nbcu-creative-guidelines/peacock/)
 
-* **Paramount:** zie de 2&rbrace; en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
+* **Paramount:** zie de 2} en specificaties van het Hoofdbedrag [.](https://www.paramount.com/digital-ads)
 
 ## Advertenties weergeven
 
@@ -90,7 +90,7 @@ Universal Display wordt ondersteund.
 
 **Aanbevolen ad grootte:** 120x60, 160x600, 180x150, 300x50, 300x100, 300x1050, 300x250, 300 x 600, 320 x 50, 320 x 480, 480 x 60, 640 x 480, 88 x 31, 728 x 90, 970 x 250, 970 x 90
 
-**Gesteunde Servers van de Advertentie van de Derde:** u kan markeringsbladen van [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek] gebruiken. Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
+**Gesteunde Servers van de Advertentie van de Derde:** u kan markeringsbladen van [!DNL DCM], [!DNL Flashtalking], [!DNL Innovid], en [!DNL Sizmek] gebruiken. Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en het dienen partners ](certified-ad-servers.md).&quot;
 
 ## Audioadvertenties
 
@@ -100,7 +100,7 @@ Desktop, mobiel, tablet, slimme luidsprekers en aangesloten tv
 
 ### Ondersteunde externe en servers
 
-U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[&#x200B; Verklaarde en Servende Partners &#x200B;](certified-ad-servers.md).&quot;
+U kunt tagbladen gebruiken vanuit [!DNL DCM] , [!DNL Flashtalking] , [!DNL Innovid] en [!DNL Sizmek] . Voor een volledige lijst van gesteunde verkopers, zie &quot;[ Verklaarde en het dienen partners ](certified-ad-servers.md).&quot;
 
 ### Vereisten voor audio-elementen
 
@@ -196,7 +196,7 @@ Advertenties worden standaard geleverd op desktopapparaten en mobiele apparaten.
 
 **Grootte van het Dossier:** minder dan 1 MB (het Beeld zou vrij van tekst moeten zijn.)
 
-#### Advertiserlogo
+#### Logo adverteerder
 
 **Resolutie:** minimum 80x80px; geadviseerd minimum van 300x300px
 
@@ -238,7 +238,7 @@ Vereisten voor kliktrackers:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
+>* [ geef een advertentie uit ](ad-edit.md)

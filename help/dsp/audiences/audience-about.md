@@ -3,9 +3,9 @@ title: Over publieksbeheer in Advertising DSP
 description: Meer informatie over de functies voor publieksbeheer.
 feature: DSP Audiences, DSP Segments
 exl-id: 44cfe67e-e495-447f-b08f-d3789bd4dd09
-source-git-commit: 82a501ec03a5d0d32d2281d6a9c9a67180853026
+source-git-commit: 7f9b118ffe0b8e972296f79b19f6dcd2a9dedabe
 workflow-type: tm+mt
-source-wordcount: '1324'
+source-wordcount: '1321'
 ht-degree: 0%
 
 ---
@@ -16,13 +16,13 @@ In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt geb
 
 * Verzamel uw eigen gegevens over het eerste publiek door DSP-segmenten te maken en te implementeren. U kunt gebruikers in het segment later opnieuw toewijzen met advertenties of u kunt voorkomen dat gebruikers in het segment advertenties ontvangen. U kunt de volgende typen segmenten maken:
 
-   * [&#x200B; de segmenten van de Douane &#x200B;](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers te volgen die aan advertenties van Desktop en mobiele apparaten en b) gebruikers worden blootgesteld die specifieke webpagina&#39;s bezoeken. De tag tracking kan gebruikers bijhouden die zijn gebaseerd op cookies of gebruikers die zijn gekoppeld aan universele id&#39;s van ID5.
+   * [ de segmenten van de Douane ](/help/dsp/audiences/custom-segment-create.md) om a) gebruikers te volgen die aan advertenties van Desktop en mobiele apparaten en b) gebruikers worden blootgesteld die specifieke webpagina&#39;s bezoeken. De tag tracking kan gebruikers bijhouden die zijn gebaseerd op cookies of gebruikers die zijn gekoppeld aan universele id&#39;s van ID5.
 
-   * [&#x200B; CCPA opt-out-of-sale segmenten &#x200B;](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om gebruikers IDs van consument opt-out-of-verkoop verzoeken op uw website, per de Wet van de Privacy van de consument van Californië (CCPA) te volgen. U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
+   * [ CCPA opt-out-of-sale segmenten ](/help/dsp/audiences/ccpa-opt-out-segment-create.md) om gebruikers IDs van consument opt-out-of-verkoop verzoeken op uw website, per de Wet van de Privacy van de consument van Californië (CCPA) te volgen. U kunt maandelijkse rapporten van de gebruikers-id&#39;s ophalen uit aanvragen om niet te verkopen.
 
-     Voor meer informatie over de steun van Adobe Advertising voor CCPA opt-out-of-sale verzoeken, zie [&#x200B; de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De consument opt-out van verkoopsteun &#x200B;](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
+     Voor meer informatie over de steun van Adobe Advertising voor CCPA opt-out-of-sale verzoeken, zie [ de steun van Adobe Advertising voor de Wet van de Privacy van de Consumentenbescherming van Californië: De consument opt-out van verkoopsteun ](/help/privacy/ccpa/ccpa-opt-out-of-sale.md).
 
-* (De eigenschap van Beta) [&#x200B; verkrijgt en gebruikt universele IDs voor het kokieloze richten &#x200B;](/help/dsp/audiences/universal-ids.md):
+* (De eigenschap van Beta) [ verkrijgt en gebruikt universele IDs voor het kokieloze richten ](/help/dsp/audiences/universal-ids.md):
 
    * Verzend uw geverifieerde [!DNL LiveRamp] [!DNL RampID] -segmenten handmatig rechtstreeks naar DSP.
 
@@ -30,7 +30,7 @@ In DSP kunt u publiekssegmenten en publiekssets maken en beheren, die u kunt geb
 
    * Neem zonder extra stappen ook segmenten van derden op die universele id&#39;s in uw plaatsingsdoelen bevatten.
 
-* Creeer een publieksbibliotheek van [&#x200B; herbruikbare publiek &#x200B;](/help/dsp/audiences/reusable-audience-create.md). Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
+* Creeer een publieksbibliotheek van [ herbruikbare publiek ](/help/dsp/audiences/reusable-audience-create.md). Opgeslagen doelgroepen bestaan uit een van uw beschikbare doelsegmenten en een van uw andere opgeslagen doelgroepen. Wijzigingen die u aanbrengt in een opgeslagen publiek, worden automatisch toegepast op alle plaatsen die het publiek als doel hebben of uitsluiten en op alle andere soorten publiek die het opgeslagen publiek bevatten.
 
   Opgeslagen publiek stelt mediaplanners in staat om het publiek zo nodig te groeperen door meerdere segmenten met behulp van complexe Booleaanse logica in te sluiten en uit te sluiten. De (doelbare) grootte van elk individueel segment en de algemene actieve publieksgrootte worden vermeld aangezien u een publiek bouwt. De managers van de campagne kunnen één of meerdere bewaarde publiek dan eenvoudig selecteren als plaatsingsdoelstellingen eerder dan manueel publieksdoelstellingen voor elke plaatsing vormen.
 
@@ -40,9 +40,9 @@ Er zijn ook extra publiekstypen beschikbaar voor plaatsing als doel.
 
 U hebt vele opties om de segmenten van de eerste partij en van de derdegegevens in DSP in te voeren, gebruikend de gebruikersinterface van DSP en/of door de diensten van de douaneinvoer.
 
-* DSP kan uw Adobe Audience Manager en andere [!DNL Adobe] doelgroepen gebruiken. Voor eerste vereisten en instructies, zie &quot;[&#x200B; de segmenten van Adobe Audience Manager van de Invoer voor en richten &#x200B;](/help/integrations/audience-manager/import-audiences.md).
+* DSP kan uw Adobe Audience Manager en andere [!DNL Adobe] doelgroepen gebruiken. Voor eerste vereisten en instructies, zie &quot;[ de segmenten van Adobe Audience Manager van de Invoer voor en richten ](/help/integrations/audience-manager/import-audiences.md).
 
-* DSP kan de segmenten van de eerste partijgegevens van gesteunde platforms van klantengegevens aan segmenten met universele IDs vertalen gebruikend de [&#x200B; Broneigenschap &#x200B;](/help/dsp/audiences/sources/source-about.md). U kunt ook [&#x200B; uw voor authentiek verklaarde  [!DNL LiveRamp] [!DNL RampID] segmenten direct naar DSP &#x200B;](/help/dsp/audiences/sources/source-import-liveramp-segments.md) manueel verzenden.
+* DSP kan de segmenten van de eerste partijgegevens van gesteunde platforms van klantengegevens aan segmenten met universele IDs vertalen gebruikend de [ Broneigenschap ](/help/dsp/audiences/sources/source-about.md). U kunt ook [ uw voor authentiek verklaarde  [!DNL LiveRamp] [!DNL RampID] segmenten direct naar DSP ](/help/dsp/audiences/sources/source-import-liveramp-segments.md) manueel verzenden.
 
 * DSP kan uw andere gegevenssegmenten van de eerste partij rechtstreeks vanuit uw gegevenbeheerplatform (DMP) importeren en deze naar alle mogelijke adverteerders doorgeven.
 
@@ -66,11 +66,11 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
 * Alle geïmporteerde gegevenssegmenten van de eerste partij, inclusief segmenten die naar universele id&#39;s zijn vertaald.
 
-  Er worden extra kosten in rekening gebracht voor afdrukken die aan universele id&#39;s worden geleverd. Zie &quot;[&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](/help/dsp/audiences/sources/source-about.md)&quot;voor tarieven.
+  Er worden extra kosten in rekening gebracht voor afdrukken die aan universele id&#39;s worden geleverd. Zie &quot;[ Ongeveer eerste-partijpublieksbronnen ](/help/dsp/audiences/sources/source-about.md)&quot;voor tarieven.
 
 * Alle geïmporteerde gegevenssegmenten van derden.
 
-* (Plaatsen richtend de V.S. slechts) [&#x200B; Alle derdegegevenssegmenten beschikbaar aan de klanten van DSP van meer dan 30 leveranciers &#x200B;](/help/dsp/audiences/third-party-data-providers.md), met inbegrip van [!DNL eXelate], ([!DNL Eyeota]), ([!DNL LiveRamp]), [!DNL Lotame], [!DNL Neustar], en vele meer.
+* (Plaatsen richtend de V.S. slechts) [ Alle derdegegevenssegmenten beschikbaar aan de klanten van DSP van meer dan 30 leveranciers ](/help/dsp/audiences/third-party-data-providers.md), met inbegrip van [!DNL eXelate], ([!DNL Eyeota]), ([!DNL LiveRamp]), [!DNL Lotame], [!DNL Neustar], en vele meer.
 
   U kunt zich richten op specifieke segmenten, die gebruikers richten die op publieksgegevens (bijvoorbeeld, gebruikers met specifieke demografie, belangen of intents, en/of gedragsprofielen) worden gebaseerd. U kunt bladeren door gegevensleverancier en categorie, naar segmenten door naam of segmentidentiteitskaart zoeken, of de resultaten door gegevensleverancier, actieve segmentgrootte, Webbrowser telling, of apparatentelling filtreren.
 
@@ -84,37 +84,37 @@ U kunt uw plaatsingen aan alle volgende soorten publiek richten.
 
   >[!NOTE]
   >
-  >Zie de documentatie voor [&#x200B; Audience Manager &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html?lang=nl-NL), [&#x200B; Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=nl-NL), en [&#x200B;  [!DNL Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html?lang=nl-NL) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
+  >Zie de documentatie voor [ Audience Manager ](https://experienceleague.adobe.com/docs/audience-manager/user-guide/aam-home.html), [ Analytics ](https://experienceleague.adobe.com/docs/analytics.html), en [  [!DNL Real-Time CDP] ](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/segmentation/segment-builder-guide.html) voor informatie over vestiging en het verzamelen van gegevens voor segmenten in die oplossingen.
 
 ## Groottegegevens publiek
 
 In Soorten publiek > Alle Soorten publiek en in de sectie Doelgroep van het publiek van plaatsingsmontages, kunt u elke segmentlijst door formaatwaaier, met inbegrip van afzonderlijke waaiers voor specifieke apparatentypen of universele types van identiteitskaart filtreren.
 
-![&#x200B; filter door publieksgrootte &#x200B;](/help/dsp/assets/audience-size-filter.png)
+![ filter door publieksgrootte ](/help/dsp/assets/audience-size-filter.png)
 
 U kunt ook gedetailleerde gegevens over de publieksgrootte zien:
 
 * De actieve, gededupliceerde publieksgrootte voor alle geselecteerde segmenten en het opgeslagen publiek wordt weergegeven en u kunt details bekijken op apparaattype (browser, mobiel of aangesloten tv).
 
-  ![&#x200B; de gecombineerde publieksgrootte &#x200B;](/help/dsp/assets/audience-size.png)
+  ![ de gecombineerde publieksgrootte ](/help/dsp/assets/audience-size.png)
 
 * Voor afzonderlijke segmenten worden de actieve publieksgrootte en CPM (indien van toepassing) naast de segmentnaam weergegeven.
 
-  ![&#x200B; de individuele segmentgrootte &#x200B;](/help/dsp/assets/audience-size-segment.png)
+  ![ de individuele segmentgrootte ](/help/dsp/assets/audience-size-segment.png)
 
 * U kunt meer details over een afzonderlijk segment of een opgeslagen publiek weergeven, zoals de grootte per browser, mobiel, aangesloten tv en partner voor het universele-id-type. Voor opgeslagen publiek is de totale actieve publieksgrootte het gedupliceerde totaal.
 
-  ![&#x200B; het individuele segment of de bewaarde publieksdetails &#x200B;](/help/dsp/assets/audience-size-segment-details.png)
+  ![ het individuele segment of de bewaarde publieksdetails ](/help/dsp/assets/audience-size-segment-details.png)
 
-## De weergave Soorten publiek
+## De weergaven [!UICONTROL Audiences]
 
-### De weergave Alle soorten publiek
+### De weergave [!UICONTROL All Audiences]
 
 In de weergave [!UICONTROL All Audiences] of Audience Library kunt u herbruikbare soorten publiek opslaan en beheren, waaronder groepen publiekssegmenten en zelfs andere opgeslagen soorten publiek. U kunt doelgroepen gebruiken als doelen voor meerdere plaatsen. Het aantal plaatsen waarin elk publiek wordt gebruikt wordt vermeld naast de plaatsingsnaam.
 
 U kunt een publiek bewerken, klonen, verwijderen, exporteren of delen.
 
-### De weergave Segmenten
+### De weergave [!UICONTROL Segments]
 
 In de [!UICONTROL Segments] -weergave kunnen alle gebruikers extra aangepaste segmenten maken.
 
@@ -134,22 +134,22 @@ In de weergave [!UICONTROL Segments] worden ook de volgende segmenttypen weergeg
 
   U kunt segmenten van derden die met u zijn gedeeld, niet bewerken of delen. Neem contact op met uw Adobe-accountteam als u segmenten van derden met extra gebruikers wilt delen.
 
-### De Bronweergave
+### De weergave [!UICONTROL Sources]
 
 In de [!UICONTROL Sources] mening, kunt u bronnen voor eerste-partijsegmenten in gesteunde platforms van klantengegevens vormen die u in segmenten wilt omzetten die gespecificeerde universele types van identiteitskaart bevatten. De bronmontages omvatten een auto-geproduceerde bronsleutel, die u aan uw platform van klantengegevens zult verstrekken om de verbinding te vestigen.
 
-Voor meer informatie over de gesteunde platforms van klantengegevens, gesteunde universele types van identiteitskaart, en de werkschema&#39;s aan opstellingsverbindingen aan elk platform van klantengegevens, zie &quot;[&#x200B; Ongeveer Bronnen &#x200B;](/help/dsp/audiences/sources/source-about.md).&quot;
+Voor meer informatie over de gesteunde platforms van klantengegevens, gesteunde universele types van identiteitskaart, en de werkschema&#39;s aan opstellingsverbindingen aan elk platform van klantengegevens, zie &quot;[ Ongeveer eerste-partijpublieksbronnen ](/help/dsp/audiences/sources/source-about.md).&quot;
 
 De vertaalde segmenten zijn beschikbaar om in herbruikbaar publiek en in plaatsingsmontages voor het kiezen zonder koken te omvatten.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Steun voor het Activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; creeer en voer een Segment van de Douane uit &#x200B;](custom-segment-create.md)
->* [&#x200B; creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] Segment &#x200B;](ccpa-opt-out-segment-create.md) uit
->* [&#x200B; Ongeveer de Bronnen van het Publiek van de Eerste Partij &#x200B;](/help/dsp/audiences/sources/source-about.md)
->* [&#x200B; beheert de Bronnen van het Publiek om Universele Soorten van identiteitskaart &#x200B;](/help/dsp/audiences/sources/source-manage.md) te activeren
->* [&#x200B; manueel de Invoer Authenticated Segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md)
->* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Steun voor het activeren van Universal IDs ](/help/dsp/audiences/universal-ids.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ creeer en voer een douanesegment ](custom-segment-create.md) uit
+>* [ creeer en voer a [!UICONTROL CCPA Opt-Out-of-Sale] segment ](ccpa-opt-out-segment-create.md) uit
+>* [ Ongeveer eerste-partijpublieksbronnen ](/help/dsp/audiences/sources/source-about.md)
+>* [ beheert publieksbronnen om universele identiteitskaart te activeren ](/help/dsp/audiences/sources/source-manage.md)
+>* [ voert manueel geverifieerde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md) in
+>* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

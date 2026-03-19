@@ -1,9 +1,9 @@
 ---
 title: Gedetailleerd rapport weergeven voor een advertentie
-description: Leer hoe u een rapport op ad-level niveau opent met gegevens over overzicht, geografische ligging en weergavemogelijkheden.
+description: Leer hoe u een rapport op ad-niveau opent met overzicht, geografie en weergavegegevens.
 feature: DSP Ads, DSP Campaign Data Views
 exl-id: 61e964af-b133-4c86-9672-27167ac6bad1
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: 41be6988fdc3f824f5f838c109c608e2b3f3afee
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 0%
@@ -21,7 +21,7 @@ Het rapport op ad-niveau <!--legacy --> bevat [!UICONTROL Overview] , [!UICONTRO
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Mening een gedetailleerd rapport voor een plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [&#x200B; Mening een gedetailleerd rapport voor een campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
->* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [ Mening een gedetailleerd rapport voor een plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [ Mening een gedetailleerd rapport voor een campagne ](/help/dsp/campaign-management/campaigns/campaign-view-report.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)

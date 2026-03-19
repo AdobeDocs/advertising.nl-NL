@@ -3,7 +3,7 @@ title: Informatie over abonnementen
 description: Meer weten over automatische e-mailberichten?
 role: User, Admin
 exl-id: f3578f10-4f66-4133-a6e0-1ca8001dd2c9
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 7f9b118ffe0b8e972296f79b19f6dcd2a9dedabe
 workflow-type: tm+mt
 source-wordcount: '180'
 ht-degree: 0%
@@ -62,4 +62,4 @@ U kunt waarschuwingen toevoegen aan of verwijderen uit een abonnement, de gebrui
 
 >[!MORELIKETHIS]
 >
->[&#x200B; beheert Alarmabonnementen &#x200B;](alerts-manage.md)
+>[ beheert waakzame abonnementen ](alerts-manage.md)

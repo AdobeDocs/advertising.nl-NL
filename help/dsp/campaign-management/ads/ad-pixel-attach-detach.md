@@ -3,9 +3,9 @@ title: Pixels aan advertenties koppelen en eruit verwijderen
 description: Leer hoe u pixels die van derden worden bijgehouden, kunt toevoegen aan of verwijderen uit advertenties.
 feature: DSP Ads
 exl-id: 7b386a58-5300-49cf-9de8-4ce982a5181d
-source-git-commit: 3538c1d881a3032863c5a6f8c7361ac1c0bc35f9
+source-git-commit: 7f9b118ffe0b8e972296f79b19f6dcd2a9dedabe
 workflow-type: tm+mt
-source-wordcount: '604'
+source-wordcount: '607'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
 ## Pixels van derden bijvoegen bij opnamen in een plaatsing {#attach-pixels-ads}
 
-1. [&#x200B; open de [!UICONTROL Ad Tools] mening &#x200B;](#ad-tools-open).
+1. [ open de [!UICONTROL Ad Tools] mening ](#ad-tools-open).
 
    Het tabblad **[!UICONTROL Attach Pixels]** wordt geopend.
 
@@ -36,7 +36,7 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
    1. (Optioneel) Zoek op de volgende manieren advertenties en pixels van derden:
 
-      * Boven de linkerlijst, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
+      * Boven de linkerlijst, klik ![ Filter ](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
 
       * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
 
@@ -66,11 +66,11 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
    1. Klik in de rechterbenedenhoek op **[!UICONTROL Attach]** .
 
-1. (Facultatief) om op de meningen van het campagnedetail terug te keren, klik ![&#x200B; Terugkeer aan omslag &#x200B;](/help/dsp/assets/breadcrumb-return.png " Terugkeer aan omslag ") links van [!UICONTROL Ad Tools] en selecteer de campagnenaam.
+1. (Facultatief) om op de meningen van het campagnedetail terug te keren, klik ![ Terugkeer aan omslag ](/help/dsp/assets/breadcrumb-return.png " Terugkeer aan omslag ") links van [!UICONTROL Ad Tools] en selecteer de campagnenaam.
 
 ## Pixels van andere leveranciers loskoppelen van advertenties in een plaatsing {#detach-pixels-ads}
 
-1. [&#x200B; open de [!UICONTROL Ad Tools] mening &#x200B;](#ad-tools-open).
+1. [ open de [!UICONTROL Ad Tools] mening ](#ad-tools-open).
 
    Het tabblad **[!UICONTROL Attach Pixels]** wordt geopend.
 
@@ -78,7 +78,7 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
    1. (Optioneel) Zoek op de volgende manieren advertenties en pixels van derden:
 
-      * Boven de linkerlijst, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
+      * Boven de linkerlijst, klik ![ Filter ](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
 
       * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
 
@@ -90,11 +90,11 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
    1. Klik in de rechterbenedenhoek op **[!UICONTROL Detach]** .
 
-1. (Facultatief) om op de meningen van het campagnedetail terug te keren, klik ![&#x200B; Terugkeer aan omslag &#x200B;](/help/dsp/assets/breadcrumb-return.png " Terugkeer aan omslag ") links van [!UICONTROL Ad Tools] en selecteer de campagnenaam.
+1. (Facultatief) om op de meningen van het campagnedetail terug te keren, klik ![ Terugkeer aan omslag ](/help/dsp/assets/breadcrumb-return.png " Terugkeer aan omslag ") links van [!UICONTROL Ad Tools] en selecteer de campagnenaam.
 
 ## Pixels weergeven die zijn gekoppeld aan advertenties {#view-pixels-ads}
 
-1. [&#x200B; open de [!UICONTROL Ad Tools] mening &#x200B;](#ad-tools-open).
+1. [ open de [!UICONTROL Ad Tools] mening ](#ad-tools-open).
 
    Het tabblad **[!UICONTROL Attach Pixels]** wordt geopend.
 
@@ -102,21 +102,21 @@ U kunt pixels die van derden worden bijgehouden, aan advertenties koppelen en va
 
 1. (Optioneel) Zoek zo nodig advertenties en pixels van derden:
 
-   * Boven de linkerlijst, klik ![&#x200B; Filter &#x200B;](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
+   * Boven de linkerlijst, klik ![ Filter ](/help/dsp/assets/filter.png) en filter de lijsten door ad status, ad type, pixel integratiegebeurtenis, of pixeltype.
 
    * Zoek boven de linker- en rechtertabellen naar specifieke tekstreeksen in de namen van advertenties en pixels.
 
 1. Klik op een willekeurige advertentierij in de linkertabel om de gekoppelde pixels in de rechtertabel weer te geven.
 
-1. (Optioneel) Als u meer pixels aan de advertenties wilt koppelen, schakelt u over naar de weergave **[!UICONTROL Edit]** in de rechterbovenhoek. Zie Stap 3 in de vorige procedure, &quot;[&#x200B; het Volgen Pixels van de Derde aan Ads in een Plaatsing &#x200B;](#attach-pixels-ads) vastmaken,&quot;voor instructies.
+1. (Optioneel) Als u meer pixels aan de advertenties wilt koppelen, schakelt u over naar de weergave **[!UICONTROL Edit]** in de rechterbovenhoek. Zie Stap 3 in de vorige procedure, &quot;[ verbind derde volgende pixel aan advertenties in een plaatsing ](#attach-pixels-ads),&quot;voor instructies.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer Advertentiebeheer &#x200B;](ad-about.md)
->* [&#x200B; Advertenties aan Plaatsingen &#x200B;](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vastmaken
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
->* [&#x200B; maak een lijst van de Plaatsen verbonden aan een Advertentie &#x200B;](ad-list-placements.md)
->* [&#x200B; geef de Advertentieschema&#39;s voor Plaatsen uit &#x200B;](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md)
->* [&#x200B; Veelgestelde vragen over Universele Video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ maak advertenties aan plaatsen ](/help/dsp/campaign-management/ads/ad-attach-to-placement.md) vast
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
+>* [ geef een advertentie uit ](ad-edit.md)
+>* [ maak een lijst van de plaatsen verbonden aan een advertentie ](ad-list-placements.md)
+>* [ geef de advertentieschema&#39;s voor plaatsen ](/help/dsp/campaign-management/placements/placement-edit-ad-schedule.md) uit
+>* [ Veelgestelde vragen over universele video ](/help/dsp/campaign-management/faq-universal-video.md)
