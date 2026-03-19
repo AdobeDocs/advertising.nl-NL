@@ -2,7 +2,7 @@
 title: Een advertentieaccount maken
 description: Leer hoe u een advertentieaccount kunt maken.
 role: User, Admin
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: c83ad42f7d703e66713c9a34cbc6c9b5acbbc981
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 1%
@@ -21,7 +21,7 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 1. Klik op **[!UICONTROL Create]**.
 
-1. Specificeer de [&#x200B; adverteerdermontages &#x200B;](advertiser-settings.md):
+1. Specificeer de [ adverteerdermontages ](advertiser-settings.md):
 
    1. In de [!UICONTROL General] -instellingen:
 
@@ -37,4 +37,4 @@ Adverteerders zijn beschikbaar voor alle gebruikers in de organisatie-account.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Advertiser Montages &#x200B;](/help/dsp/admin/advertiser-settings.md)
+>* [ Advertiser montages ](/help/dsp/admin/advertiser-settings.md)

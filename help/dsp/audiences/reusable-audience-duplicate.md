@@ -3,7 +3,7 @@ title: Een herbruikbaar publiek dupliceren
 description: Leer hoe u een herbruikbaar publiek dupliceert.
 feature: DSP Audiences
 exl-id: 8ff72e13-d0ae-4f61-904b-5d544878f58b
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: c83ad42f7d703e66713c9a34cbc6c9b5acbbc981
 workflow-type: tm+mt
 source-wordcount: '115'
 ht-degree: 0%
@@ -24,18 +24,18 @@ U kunt een publiek maken door een bestaand publiek te dupliceren.
 
 1. Klik op **[!UICONTROL Duplicate]**.
 
-1. (Facultatief) [&#x200B; verfijnen het nieuwe publiek &#x200B;](reusable-audience-edit.md).
+1. (Facultatief) [ verfijnen het nieuwe publiek ](reusable-audience-edit.md).
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
->* [&#x200B; creeer een Herbruikbaar publiek &#x200B;](reusable-audience-create.md)
->* [&#x200B; geef een Herbruikbare Publiek &#x200B;](reusable-audience-edit.md) uit
->* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
->* [&#x200B; deel een Herbruikbare Publiek &#x200B;](reusable-audience-share.md)
->* [&#x200B; de Uitvoer een Herbruikbaar publiek &#x200B;](reusable-audience-export.md)
->* [&#x200B; Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord &#x200B;](reusable-audience-clipboard.md)
->* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
->* [&#x200B; Montages van het publiek &#x200B;](audience-settings.md)
->* [&#x200B; Syntaxis voor de Logica van het Segment van het Publiek &#x200B;](audience-segment-logic-syntax.md)
->* [&#x200B; Beschikbare Leveranciers van Gegevens van derden &#x200B;](third-party-data-providers.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
+>* [ geef een herbruikbaar publiek ](reusable-audience-edit.md) uit
+>* [ details van de Mening over een herbruikbaar publiek ](reusable-audience-view-details.md)
+>* [ deel een herbruikbaar publiek ](reusable-audience-share.md)
+>* [ de Uitvoer een herbruikbaar publiek ](reusable-audience-export.md)
+>* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
+>* [ Schrap een herbruikbaar publiek ](reusable-audience-delete.md)
+>* [ montages van het publiek ](audience-settings.md)
+>* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
+>* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)

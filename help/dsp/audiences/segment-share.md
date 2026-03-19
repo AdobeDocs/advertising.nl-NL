@@ -3,7 +3,7 @@ title: Een segment delen of het delen ervan beëindigen
 description: Leer hoe u een aangepast of CCPA-opt-out-segment voor verkoop kunt delen of niet meer delen met andere DSP-gebruikersaccounts.
 feature: DSP Segments
 exl-id: ea5cafb3-58b0-4b05-9b02-c022466d9b8c
-source-git-commit: 7cf17457ba777d2dfe9fc1607f9891a340da9031
+source-git-commit: c83ad42f7d703e66713c9a34cbc6c9b5acbbc981
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -32,8 +32,8 @@ U kunt ook stoppen met het delen van een segment met andere DSP-gebruikersaccoun
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
->* [&#x200B; creeer een Segment van de Douane &#x200B;](custom-segment-create.md)
->* [&#x200B; geef de Informatie van het Segment &#x200B;](segment-edit.md) uit
->* [&#x200B; Schrap een Segment &#x200B;](segment-delete.md)
->* [&#x200B; Mening Volgend Pixels voor een Segment &#x200B;](segment-view-pixels.md)
+>* [ Ongeveer publieksbeheer ](audience-about.md)
+>* [ creeer een douanesegment ](custom-segment-create.md)
+>* [ geef segmentinformatie ](segment-edit.md) uit
+>* [ Schrap een segment ](segment-delete.md)
+>* [ Mening die pixel voor een segment volgen ](segment-view-pixels.md)
