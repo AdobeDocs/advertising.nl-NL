@@ -3,7 +3,7 @@ title: Accountfinanciering
 description: Meer weten over accountfinanciering voor DSP?
 feature: DSP Introduction
 exl-id: 95e1fd75-ed38-41e3-a464-afe5e23c1c22
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 9b5c00cdb0942ec4e7fbf69d7ce638ab50439915
 workflow-type: tm+mt
 source-wordcount: '263'
 ht-degree: 0%
@@ -23,10 +23,10 @@ Aangezien cliënten tegen hun krediet of vooruitbetaling uitgeven, verminderen d
 
 Financiering voor clientaccounts wordt in bijna realtime in [!DNL DSP] bijgewerkt. Ga naar [!UICONTROL Usable Funds] > [!UICONTROL Settings] om het bruikbare saldo, dat wordt weergegeven als &quot;[!UICONTROL Account]&quot; in de aankoopvaluta van uw account, te bekijken. Alleen DSP-gebruikers met de gebruikersrollen [!UICONTROL General] en [!UICONTROL Admin] kunnen de [!UICONTROL Usable Funds] zien.
 
-![&#x200B; Nuttige Fondsen voor een rekening &#x200B;](/help/dsp/assets/account-usable-funds.png)
+![ Nuttige Fondsen voor een rekening ](/help/dsp/assets/account-usable-funds.png)
 
-Adobe behoudt zich het recht voor om uw rekening te blokkeren om het uitgeven aan DSP om redenen die schending van het DSP [&#x200B; omvatten en het beleid van de vereisten &#x200B;](/help/policies/ad-requirements-policy.md) of privacytermijnen. Als Adobe uw account blokkeert, verschijnt er een melding voor geblokkeerd. Werk samen met uw Adobe-accountteam om de oorzaak van het blok en de manier waarop u de fout kunt corrigeren te achterhalen.
+Adobe behoudt zich het recht voor om uw rekening te blokkeren om het uitgeven aan DSP om redenen die schending van het DSP [ omvatten en het beleid van de vereisten ](/help/policies/ad-requirements-policy.md) of privacytermijnen. Als Adobe uw account blokkeert, verschijnt er een melding voor geblokkeerd. Werk samen met uw Adobe-accountteam om de oorzaak van het blok en de manier waarop u de fout kunt corrigeren te achterhalen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ondersteunde Valuta&#39;s &#x200B;](/help/dsp/currency.md)
+>* [ Ondersteunde Valuta&#39;s ](/help/dsp/currency.md)

@@ -2,7 +2,7 @@
 title: Geavanceerde meetoplossingen
 description: Zie een lijst met de beschikbare oplossingen voor geavanceerde metingen.
 exl-id: b179488f-d008-4744-8aa2-640d0b6db5ae
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 9b5c00cdb0942ec4e7fbf69d7ce638ab50439915
 workflow-type: tm+mt
 source-wordcount: '455'
 ht-degree: 0%
@@ -85,4 +85,4 @@ Neem contact op met uw Adobe-accountteam voor informatie over alle geavanceerde 
 
 >[!MORELIKETHIS]
 >
->[&#x200B; Gesteunde Valuta&#39;s in Adobe Advertising &#x200B;](/help/dsp/currency.md)
+>[ Valuta&#39;s die in Adobe Advertising worden gesteund ](/help/dsp/currency.md)

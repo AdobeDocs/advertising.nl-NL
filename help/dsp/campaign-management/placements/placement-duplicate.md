@@ -3,9 +3,9 @@ title: Plaatsen dupliceren
 description: Leer hoe u een of meer stages dupliceert.
 feature: DSP Placements
 exl-id: 41021f5b-13d1-419f-af03-c5507f9fed4d
-source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
+source-git-commit: 9b5c00cdb0942ec4e7fbf69d7ce638ab50439915
 workflow-type: tm+mt
-source-wordcount: '437'
+source-wordcount: '440'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ Dupliceer een of meer plaatsen om plaatsingen met gelijkaardige montages tot sta
 * (Voor dubbele plaatsen binnen de originele campagnes) Naar keuze dupliceer de originele advertenties
 * De status en vluchtdata van de nieuwe plaatsingen wijzigen
 
-Zie &quot;[&#x200B; wat niet &#x200B;](#placement-not-duplicated)&quot;voor een lijst van plaatsingsmontages gedupliceerd is die niet worden gedupliceerd.
+Zie &quot;[ wat niet ](#placement-not-duplicated)&quot;voor een lijst van plaatsingsmontages wordt gedupliceerd die niet worden gedupliceerd.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Campaigns]** .
 
@@ -55,7 +55,7 @@ Zie &quot;[&#x200B; wat niet &#x200B;](#placement-not-duplicated)&quot;voor een 
 
 1. Klik op **[!UICONTROL Submit]**.
 
-## Wat is niet gedupliceerd {#placement-not-duplicated}
+## Wat wordt niet gedupliceerd {#placement-not-duplicated}
 
 Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
@@ -74,8 +74,8 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 >[!TIP]
 >
->* De bulksbladen van het gebruik om [&#x200B; veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen &#x200B;](/help/dsp/campaign-management/campaign-components-review-edit.md).
->* Het gebruik ad markeringsbladen aan [&#x200B; uploadt veelvoudige derdeadvertenties &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+>* De bulksbladen van het gebruik om [ veranderingen in veelvoudige campagnecomponenten in één keer aan te brengen ](/help/dsp/campaign-management/campaign-components-review-edit.md).
+>* Het gebruik ad markeringsbladen aan [ uploadt veelvoudige derdeadvertenties ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
 * Onderbreek de nieuwe plaatsingen tot u bereid bent om hen te activeren.
 
@@ -97,8 +97,8 @@ Alle instellingen van de originele plaatsingen worden gedupliceerd, behalve:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Beheer van de Plaatsing &#x200B;](placement-about.md)
->* [&#x200B; creeer een Plaatsing &#x200B;](placement-create.md)
->* [&#x200B; geeft Plaatsen &#x200B;](placement-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Plaatsing &#x200B;](placement-change-log.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](placement-settings.md)
+>* [ Ongeveer plaatsingsbeheer in Advertising DSP ](placement-about.md)
+>* [ creeer een plaatsing ](placement-create.md)
+>* [ geeft plaatsingen ](placement-edit.md) uit
+>* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)
+>* [ montages van de Plaatsing ](placement-settings.md)
