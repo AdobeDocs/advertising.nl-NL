@@ -20,12 +20,12 @@ Lijsten op advertentieniveau overschrijven lijsten op accountniveau.
 
 >[!NOTE]
 >
->* De rekening-niveau en adverteerder-vlakke geblokkeerde plaatslijsten worden toegepast naast DSP [ globaal geblokkeerde plaatsenlijst ](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), die plaatsen omvatten die onveilig voor advertenties worden geacht.
+>* De rekening-niveau en adverteerder-vlakke geblokkeerde plaatslijsten worden toegepast naast DSP [&#x200B; globaal geblokkeerde plaatsenlijst &#x200B;](/help/dsp/introduction/features/brand-safety-media-quality.md#global-blocked-sites), die plaatsen omvatten die onveilig voor advertenties worden geacht.
 >* Gebruikers kunnen ook gerichte sites toevoegen aan elke gewenste plaatsing.
 >* Lijsten met geblokkeerde sites hebben altijd voorrang op lijsten met doelsites. Als een plaatsing zowel het zelfde doel voor een advertentie uitsluit als omvat, dan wordt het doel uitgesloten.
 
 >[!MORELIKETHIS]
 >
->* [ geef een rekening-niveau of adverteerder-niveau geblokkeerde plaatsenlijst uit ](/help/dsp/admin/blocked-sites-list-edit.md)
->* [ Merk veiligheid en media kwaliteit ](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; geef een rekening-niveau of adverteerder-niveau geblokkeerde plaatsenlijst uit &#x200B;](/help/dsp/admin/blocked-sites-list-edit.md)
+>* [&#x200B; Merk veiligheid en media kwaliteit &#x200B;](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

@@ -24,7 +24,7 @@ Beheerdergebruikers kunnen de uitnodiging voor een gebruiker in behandeling ophe
 
 >[!MORELIKETHIS]
 >
->* [ nodig een nieuwe gebruiker voor uw organisatierekening ](user-invite.md) uit
->* [ herend een hangende gebruikersuitnodiging ](user-resend-invite.md)
+>* [&#x200B; nodig een nieuwe gebruiker voor uw organisatierekening &#x200B;](user-invite.md) uit
+>* [&#x200B; herend een hangende gebruikersuitnodiging &#x200B;](user-resend-invite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

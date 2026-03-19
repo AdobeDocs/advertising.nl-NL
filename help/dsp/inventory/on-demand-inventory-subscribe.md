@@ -16,7 +16,7 @@ ht-degree: 0%
 
 U kunt individuele deals aanvragen of u kunt een abonnement nemen op een uitgever om alle deals van de uitgever aan te vragen. Wanneer u zich abonneert op een uitgever, vraagt DSP automatisch om nieuwe deals die de uitgever namens u aanbiedt.
 
-Zodra een overeenkomst [ wordt goedgekeurd ](/help/dsp/inventory/on-demand-inventory-view-status.md), is het inbegrepen door gebrek als doel voor nieuwe plaatsen die alle [!DNL On Demand] inventaris richten. De nieuwe overeenkomst is ook beschikbaar als doel voor bestaande plaatsingen, maar u moet de plaatsingsmontages manueel uitgeven om de overeenkomst als doel toe te voegen.
+Zodra een overeenkomst [&#x200B; wordt goedgekeurd &#x200B;](/help/dsp/inventory/on-demand-inventory-view-status.md), is het inbegrepen door gebrek als doel voor nieuwe plaatsen die alle [!DNL On Demand] inventaris richten. De nieuwe overeenkomst is ook beschikbaar als doel voor bestaande plaatsingen, maar u moet de plaatsingsmontages manueel uitgeven om de overeenkomst als doel toe te voegen.
 
 ## Abonneren op alle deals van een uitgever
 
@@ -84,10 +84,10 @@ Zodra een overeenkomst [ wordt goedgekeurd ](/help/dsp/inventory/on-demand-inven
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer  [!DNL On Demand]  premieinventaris ](on-demand-inventory-about.md)
->* [ Mening het statuut van uw  [!DNL On Demand]  overeenkomstenverzoeken en abonnementen ](on-demand-inventory-view-status.md)
->* [ re-request  [!DNL On Demand]  premieinventarisovereenkomsten ](on-demand-inventory-rerequest.md)
->* [[!DNL On Demand]  de uitgevers van de premiuminventaris in Azië Pacific ](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand]  de uitgevers van de premieinventaris in Australië en Nieuw-Zeeland ](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand]  eersteklas uitgevers in Europa, het Midden-Oosten, en Afrika ](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand]  Uitgevers van de premiuminventaris in Noord-Amerika ](on-demand-inventory-publishers-na.md)
+>* [&#x200B; Ongeveer  [!DNL On Demand]  premieinventaris &#x200B;](on-demand-inventory-about.md)
+>* [&#x200B; Mening het statuut van uw  [!DNL On Demand]  overeenkomstenverzoeken en abonnementen &#x200B;](on-demand-inventory-view-status.md)
+>* [&#x200B; re-request  [!DNL On Demand]  premieinventarisovereenkomsten &#x200B;](on-demand-inventory-rerequest.md)
+>* [[!DNL On Demand]  de uitgevers van de premiuminventaris in Azië Pacific &#x200B;](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand]  de uitgevers van de premieinventaris in Australië en Nieuw-Zeeland &#x200B;](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand]  eersteklas uitgevers in Europa, het Midden-Oosten, en Afrika &#x200B;](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand]  Uitgevers van de premiuminventaris in Noord-Amerika &#x200B;](on-demand-inventory-publishers-na.md)

@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & upload [Media Type]]
 
-(Nieuwe slechts advertenties) Screens om een nieuwe [ derdeadvertentie ](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
+(Nieuwe slechts advertenties) Screens om een nieuwe [&#x200B; derdeadvertentie &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
 
 ### [!UICONTROL Feed details]
 
@@ -80,10 +80,10 @@ But I see:
 
 >[!MORELIKETHIS]
 >
->* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
->* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
->* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
+>* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] overeenkomst &#x200B;](simple-deal-create.md)
+>* [&#x200B; geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages &#x200B;](simple-deal-edit.md) uit
+>* [&#x200B; Mening een gedetailleerd rapport voor een overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
 >* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)

@@ -18,7 +18,7 @@ U kunt [!DNL On Demand] -inventarisdeals waarvoor u bent geweigerd opnieuw aanvr
 
 Als een overeenkomst niet wordt goedgekeurd nadat u het opnieuw verzoekt, contacteer uw Team van de Rekening van Adobe om te zien of heeft de uitgever extra beperkingen die uw rekening van de toegang tot van de overeenkomst verhinderen.
 
-Zodra een overeenkomst [ wordt goedgekeurd ](/help/dsp/inventory/on-demand-inventory-view-status.md), is het inbegrepen door gebrek als doel voor nieuwe plaatsen die alle [!DNL On Demand] inventaris richten. De nieuwe overeenkomst is ook beschikbaar als doel voor bestaande plaatsingen, maar u moet de plaatsingsmontages manueel uitgeven om de overeenkomst als doel toe te voegen.
+Zodra een overeenkomst [&#x200B; wordt goedgekeurd &#x200B;](/help/dsp/inventory/on-demand-inventory-view-status.md), is het inbegrepen door gebrek als doel voor nieuwe plaatsen die alle [!DNL On Demand] inventaris richten. De nieuwe overeenkomst is ook beschikbaar als doel voor bestaande plaatsingen, maar u moet de plaatsingsmontages manueel uitgeven om de overeenkomst als doel toe te voegen.
 
 1. Bevestig met uw Adobe-accountteam dat de [!UICONTROL Account Type] voor de DSP-account van uw organisatie juist is.
 
@@ -52,10 +52,10 @@ Zodra een overeenkomst [ wordt goedgekeurd ](/help/dsp/inventory/on-demand-inven
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer  [!DNL On Demand]  premieinventaris ](on-demand-inventory-about.md)
->* [ Mening het statuut van uw  [!DNL On Demand]  overeenkomstenverzoeken en abonnementen ](on-demand-inventory-view-status.md)
->* [ Abonneren en verzoek toegang tot  [!DNL On Demand]  de overeenkomsten van de premiuminventaris ](on-demand-inventory-subscribe.md)
->* [[!DNL On Demand]  de uitgevers van de premiuminventaris in Azië Pacific ](on-demand-inventory-publishers-apac.md)
->* [[!DNL On Demand]  de uitgevers van de premieinventaris in Australië en Nieuw-Zeeland ](on-demand-inventory-publishers-anz.md)
->* [[!DNL On Demand]  eersteklas uitgevers in Europa, het Midden-Oosten, en Afrika ](on-demand-inventory-publishers-emea.md)
->* [[!DNL On Demand]  Uitgevers van de premiuminventaris in Noord-Amerika ](on-demand-inventory-publishers-na.md)
+>* [&#x200B; Ongeveer  [!DNL On Demand]  premieinventaris &#x200B;](on-demand-inventory-about.md)
+>* [&#x200B; Mening het statuut van uw  [!DNL On Demand]  overeenkomstenverzoeken en abonnementen &#x200B;](on-demand-inventory-view-status.md)
+>* [&#x200B; Abonneren en verzoek toegang tot  [!DNL On Demand]  de overeenkomsten van de premiuminventaris &#x200B;](on-demand-inventory-subscribe.md)
+>* [[!DNL On Demand]  de uitgevers van de premiuminventaris in Azië Pacific &#x200B;](on-demand-inventory-publishers-apac.md)
+>* [[!DNL On Demand]  de uitgevers van de premieinventaris in Australië en Nieuw-Zeeland &#x200B;](on-demand-inventory-publishers-anz.md)
+>* [[!DNL On Demand]  eersteklas uitgevers in Europa, het Midden-Oosten, en Afrika &#x200B;](on-demand-inventory-publishers-emea.md)
+>* [[!DNL On Demand]  Uitgevers van de premiuminventaris in Noord-Amerika &#x200B;](on-demand-inventory-publishers-na.md)

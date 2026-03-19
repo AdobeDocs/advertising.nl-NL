@@ -40,6 +40,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer rekening-niveau en adverteerder-niveau geblokkeerde plaatsen lijsten ](/help/dsp/admin/blocked-sites-list-about.md)
-> [Merk veiligheid en media kwaliteit ](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Ongeveer rekening-niveau en adverteerder-niveau geblokkeerde plaatsen lijsten &#x200B;](/help/dsp/admin/blocked-sites-list-about.md)
+> [Merk veiligheid en media kwaliteit &#x200B;](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

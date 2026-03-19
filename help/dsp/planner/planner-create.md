@@ -16,20 +16,20 @@ ht-degree: 0%
 
 1. Klik in de rechterbovenhoek op **[!UICONTROL Create]** .
 
-1. Bewerk de [ planmontages ](planner-settings.md).
+1. Bewerk de [&#x200B; planmontages &#x200B;](planner-settings.md).
 
 1. Klik op **[!UICONTROL Save and Forecast]**.
 
    Zodra u sparen het plan, de voorspelde output wordt getoond.
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet**, klikt u in de rechterbovenhoek op **[!UICONTROL ...]** en vervolgens op **[!UICONTROL Export]** .
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet&#x200B;**, klikt u in de rechterbovenhoek op &#x200B;** [!UICONTROL ...] **&#x200B; en vervolgens op &#x200B;** [!UICONTROL Export]** .
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
->* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
->* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
->* [ de Uitvoer een verbonden plan van het het bereik van TV ](planner-export.md)
->* [ Regenereer de voorspelling voor een verbonden plan van het bereik van TV ](planner-forecast.md)
->* [ archiveer een verbonden het bereikplan van TV ](planner-archive.md)
->* [ Montages voor verbonden TV bereiken plannen ](planner-settings.md)
+>* [&#x200B; Ongeveer DSP [!UICONTROL Planner] hulpmiddel &#x200B;](planner-about.md)
+>* [&#x200B; Dupliceer een verbonden het bereikplan van TV &#x200B;](planner-duplicate.md)
+>* [&#x200B; geef een verbonden plan van het het bereik van TV uit &#x200B;](planner-edit.md)
+>* [&#x200B; de Uitvoer een verbonden plan van het het bereik van TV &#x200B;](planner-export.md)
+>* [&#x200B; Regenereer de voorspelling voor een verbonden plan van het bereik van TV &#x200B;](planner-forecast.md)
+>* [&#x200B; archiveer een verbonden het bereikplan van TV &#x200B;](planner-archive.md)
+>* [&#x200B; Montages voor verbonden TV bereiken plannen &#x200B;](planner-settings.md)

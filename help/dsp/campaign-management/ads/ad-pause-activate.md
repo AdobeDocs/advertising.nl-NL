@@ -47,6 +47,6 @@ Als u een advertentie wilt pauzeren op een individuele plaatsing, gebruikt u de 
 
 >[!MORELIKETHIS]
 >
->* [ creeer één enkele advertentie ](ad-create.md)
->* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
->* [ archiveer een advertentie ](ad-archive-unarchive.md)
+>* [&#x200B; creeer één enkele advertentie &#x200B;](ad-create.md)
+>* [&#x200B; creeer veelvoudige derdeadvertenties &#x200B;](ad-create-multiple.md)
+>* [&#x200B; archiveer een advertentie &#x200B;](ad-archive-unarchive.md)

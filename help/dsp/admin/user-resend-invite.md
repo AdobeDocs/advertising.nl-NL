@@ -22,11 +22,11 @@ Beheerders kunnen een uitnodiging opnieuw verzenden naar een gebruiker met een u
 
    * Klik in het hoofdmenu op **[!UICONTROL Settings]** > **[!UICONTROL Account]** en klik vervolgens op **[!UICONTROL Edit users]** .
 
-1. In de **sectie van Uitnodigingen**, klik ![ opnieuw beëindigt ](/help/dsp/assets/resend.png).
+1. In de **sectie van Uitnodigingen**, klik ![&#x200B; opnieuw beëindigt &#x200B;](/help/dsp/assets/resend.png).
 
 >[!MORELIKETHIS]
 >
->* [ nodig een nieuwe gebruiker voor uw organisatierekening ](user-invite.md) uit
->* [ unInvestie een hangende gebruiker ](user-uninvite.md)
+>* [&#x200B; nodig een nieuwe gebruiker voor uw organisatierekening &#x200B;](user-invite.md) uit
+>* [&#x200B; unInvestie een hangende gebruiker &#x200B;](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

@@ -30,6 +30,6 @@ Deactiveer een actieve plaatsing, of activeer een gepauzeerde plaatsing wanneer 
 
 >[!MORELIKETHIS]
 >
->* [ Archief of unarchive een plaatsing ](placement-archive-unarchive.md)
->* [ geeft plaatsingen ](placement-edit.md) uit
->* [ Mening het veranderingslogboek voor een plaatsing ](placement-change-log.md)
+>* [&#x200B; Archief of unarchive een plaatsing &#x200B;](placement-archive-unarchive.md)
+>* [&#x200B; geeft plaatsingen &#x200B;](placement-edit.md) uit
+>* [&#x200B; Mening het veranderingslogboek voor een plaatsing &#x200B;](placement-change-log.md)

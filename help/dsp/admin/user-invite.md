@@ -34,7 +34,7 @@ Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in beha
 
 >[!MORELIKETHIS]
 >
->* [ herend een hangende gebruikersuitnodiging ](user-resend-invite.md)
->* [ unInvestie een hangende gebruiker ](user-uninvite.md)
+>* [&#x200B; herend een hangende gebruikersuitnodiging &#x200B;](user-resend-invite.md)
+>* [&#x200B; unInvestie een hangende gebruiker &#x200B;](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

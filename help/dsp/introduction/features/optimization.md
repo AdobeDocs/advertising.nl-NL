@@ -20,7 +20,7 @@ Voor elk van uw plaatsen en pakketten, kunt u een optimalisatiedoel kiezen. De b
 
 >[!MORELIKETHIS]
 >
-> * [ hoe DSP uw campagnes optimaliseert ](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
->* [ de doelstellingen van de optimalisering en hoe te om hen te gebruiken ](/help/dsp/optimization/optimization-goals.md)
->* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+> * [&#x200B; hoe DSP uw campagnes optimaliseert &#x200B;](/help/dsp/optimization/optimization-how-dsp-optimizes-campaigns.md)
+>* [&#x200B; de doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](/help/dsp/optimization/optimization-goals.md)
+>* [&#x200B; de montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
