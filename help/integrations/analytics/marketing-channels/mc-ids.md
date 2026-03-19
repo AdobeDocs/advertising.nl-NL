@@ -18,7 +18,7 @@ U kunt Adobe Advertising IDs ([&#x200B; identiteitskaart van AMO en EF identitei
 
 ## De AMO-id in verwerkingsregels
 
-De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
+De AMO-id is de primaire trackingcode die wordt gebruikt om Adobe Advertising-gegevens binnen [!DNL Analytics] te rapporteren. De AMO-id is een aaneenschakeling van dynamische waarden die door Adobe worden beheerd voor korrelige rapportage binnen [!DNL Analytics] . Het is opgeslagen in een [!DNL Analytics] [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of rVar dimensie (identiteitskaart van AMO). De AMO-id kan op twee manieren worden ingesteld in [!DNL Analytics] :
 
 * Doorklikken: Adobe Advertising stelt de parameter voor de `s_kwcid` querytekenreeks in een koppeling in en [!DNL Analytics] haalt de parameter op via de URL van de bestemmingspagina wanneer er doorklikken plaatsvindt.
 
@@ -90,7 +90,7 @@ Stel de waarde van het kanaal niet in op de AMO-id. In plaats daarvan, plaats he
 
 ### Natuurlijke zoekregel
 
-Voor [!UICONTROL Natural Search], zorg ervoor dat uw [[!UICONTROL Paid Search] ontdekkingsregels &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/t-paid-search-detection) de `ef_id` en `s_kwcid` parameters van het vraagkoord omvatten. (Dit wordt meestal automatisch geconfigureerd wanneer Advertising Search, Social &amp; Commerce is geïntegreerd in [!DNL Analytics] , maar controleer dit voor het geval een [!DNL Analytics] -beheerder de logica heeft gewijzigd nadat de integratie was geconfigureerd.)
+Voor [!UICONTROL Natural Search], zorg ervoor dat uw [[!UICONTROL Paid Search] ontdekkingsregels &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/paid-search-detection/t-paid-search-detection) de `ef_id` en `s_kwcid` parameters van het vraagkoord omvatten. (Dit wordt meestal automatisch geconfigureerd wanneer Advertising Search, Social &amp; Commerce is geïntegreerd in [!DNL Analytics] , maar controleer dit voor het geval een [!DNL Analytics] -beheerder de logica heeft gewijzigd nadat de integratie was geconfigureerd.)
 
 Stel de regel in op &quot;Regels voor zoeken in overeenkomst met natuurlijke zoekopdrachten&quot; (dit is doorgaans de standaardinstelling voor dit kanaal).
 
@@ -153,5 +153,5 @@ Voor de tweede regel van Display ClickThrough, plaats **identiteitskaart van AMO
 >* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
 >* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
->* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=nl-NL) meldt
 >* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
