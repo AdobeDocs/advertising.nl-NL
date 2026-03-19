@@ -3,9 +3,9 @@ title: Doelinstellingen rapporteren
 description: Zie de details die voor uw rapportbestemmingen, door bestemmingstype worden vereist.
 feature: DSP Custom Reports
 exl-id: 1437ceea-111a-4c2e-a439-037b3a35865c
-source-git-commit: ff8ee25c4effdc22515b5d57d44964bcb5264044
+source-git-commit: 1584db3ec3871dfc82ac3309f7bb2c33e3886836
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '267'
 ht-degree: 0%
 
 ---
@@ -72,7 +72,7 @@ De details die voor niet-e-mailrapportbestemmingen worden vereist variëren door
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Report Destinations]](/help/dsp/reports/report-destinations/report-destination-about.md)
->* [&#x200B; Maak een [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-create.md)
->* [&#x200B; Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
->* [&#x200B; Verwijderen a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-delete.md)
+>* [ Ongeveer rapportbestemmingen ](/help/dsp/reports/report-destinations/report-destination-about.md)
+>* [ creeer een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-create.md)
+>* [ Bewerk a [!UICONTROL Report Destination]](/help/dsp/reports/report-destinations/report-destination-edit.md)
+>* [ Schrap een rapportbestemming ](/help/dsp/reports/report-destinations/report-destination-delete.md)

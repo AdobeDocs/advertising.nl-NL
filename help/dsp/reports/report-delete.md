@@ -3,7 +3,7 @@ title: Een aangepast rapport verwijderen
 description: Leer hoe u een aangepast rapport verwijdert.
 feature: DSP Custom Reports
 exl-id: e3cebb69-bab6-4f41-94fd-b4471f9bbdb9
-source-git-commit: 800f2c90bf95f029a0ecb42f45c29fa9e2ac3d55
+source-git-commit: 1584db3ec3871dfc82ac3309f7bb2c33e3886836
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
->* [&#x200B; geef een Rapport van de Douane uit &#x200B;](/help/dsp/reports/report-edit.md)
->* [&#x200B; Download een Rapport van de Douane &#x200B;](/help/dsp/reports/report-download.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ creeer een douanerapport ](/help/dsp/reports/report-create.md)
+>* [ Dupliceer een douanerapport ](/help/dsp/reports/report-copy.md)
+>* [ geef een douanerapport ](/help/dsp/reports/report-edit.md) uit
+>* [ Download een douanerapport ](/help/dsp/reports/report-download.md)
+>* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)

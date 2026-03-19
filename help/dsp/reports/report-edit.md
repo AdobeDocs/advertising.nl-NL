@@ -1,9 +1,9 @@
 ---
 title: Een aangepast rapport bewerken
-description: Leer hoe u aangepaste rapportinstellingen kunt bewerken.
+description: Leer hoe u de instellingen voor aangepaste rapporten bewerkt.
 feature: DSP Custom Reports
 exl-id: 42208276-d766-41c8-a764-c79a20e302e6
-source-git-commit: ff8ee25c4effdc22515b5d57d44964bcb5264044
+source-git-commit: 1584db3ec3871dfc82ac3309f7bb2c33e3886836
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 1%
@@ -16,18 +16,18 @@ ht-degree: 1%
 
 1. Klik naast de rapportnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Bewerk de [&#x200B; rapportmontages &#x200B;](/help/dsp/reports/report-settings.md).
+1. Bewerk de [ rapportmontages ](/help/dsp/reports/report-settings.md).
 
 1. Klik op **[!UICONTROL Edit Custom Report]**.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer de Rapporten van de Douane &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; Download een Rapport van de Douane &#x200B;](/help/dsp/reports/report-download.md)
->* [&#x200B; creeer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-create.md)
->* [&#x200B; dupliceer een Rapport van de Douane &#x200B;](/help/dsp/reports/report-copy.md)
->* [&#x200B; stel een Rapport van de Douane in werking &#x200B;](/help/dsp/reports/report-run-now.md)
->* [&#x200B; Schrap een Rapport van de Douane &#x200B;](/help/dsp/reports/report-delete.md)
->* [&#x200B; de Montages van het Rapport van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Beschikbare Kolommen van het Rapport &#x200B;](/help/dsp/reports/report-columns.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ Download een douanerapport ](/help/dsp/reports/report-download.md)
+>* [ creeer een douanerapport ](/help/dsp/reports/report-create.md)
+>* [ Dupliceer een douanerapport ](/help/dsp/reports/report-copy.md)
+>* [ stel een douanerapport in werking ](/help/dsp/reports/report-run-now.md)
+>* [ Schrap een douanerapport ](/help/dsp/reports/report-delete.md)
+>* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
