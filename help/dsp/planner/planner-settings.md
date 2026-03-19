@@ -3,9 +3,9 @@ title: Instellingen voor bereikplannen voor verbonden tv
 description: Zie beschrijvingen van de montages voor verbonden TV bereiken plannen.
 feature: DSP Planner
 exl-id: 65edd6f5-557c-44d1-a0ed-8cd26d8a2f6e
-source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
-source-wordcount: '414'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -32,10 +32,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Hulpmiddel van de Planner van DSP &#x200B;](planner-about.md)
->* [&#x200B; creeer een Verbonden Plan van het Bereik van TV &#x200B;](planner-create.md)
->* [&#x200B; dupliceer een Verbonden Plan van het Bereik van TV &#x200B;](planner-duplicate.md)
->* [&#x200B; geef een Verbonden Plan van het Bereik van TV uit &#x200B;](planner-edit.md)
->* [&#x200B; de Uitvoer een Verbonden Plan van het Bereik van TV &#x200B;](planner-export.md)
->* [&#x200B; Regenereer de Voorspelling voor een Verbonden Plan van het Bereik van TV &#x200B;](planner-forecast.md)
->* [&#x200B; archiveer een Verbonden Plan van het Bereik van TV &#x200B;](planner-archive.md)
+>* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
+>* [ creeer een verbonden plan van het het bereik van TV ](planner-create.md)
+>* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
+>* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
+>* [ de Uitvoer een verbonden plan van het het bereik van TV ](planner-export.md)
+>* [ Regenereer de voorspelling voor een verbonden plan van het bereik van TV ](planner-forecast.md)
+>* [ archiveer een verbonden het bereikplan van TV ](planner-archive.md)

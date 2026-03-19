@@ -3,7 +3,7 @@ title: Voorbiedingsfilters op plaatsingsniveau en hoe deze te gebruiken
 description: Verwijs naar de beschikbare voorbiedingsfilters op plaatsingsniveau en zie hoe u deze kunt gebruiken.
 feature: DSP Optimization
 exl-id: 34a15666-7ca2-416d-9064-8638ca81e5b3
-source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
@@ -24,8 +24,8 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; hoe DSP Uw campagnes optimaliseert &#x200B;](optimization-how-dsp-optimizes-campaigns.md)
->* [&#x200B; de Montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
->* [&#x200B; Montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [&#x200B; Doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
+>* [ hoe DSP uw campagnes optimaliseert ](optimization-how-dsp-optimizes-campaigns.md)
+>* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [ de doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)

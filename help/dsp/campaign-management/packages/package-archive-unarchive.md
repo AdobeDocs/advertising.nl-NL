@@ -3,7 +3,7 @@ title: Een pakket archiveren of archiveren
 description: Leer hoe u een pakket archiveert of archiveert.
 feature: DSP Packages
 exl-id: 12d1b498-2239-401a-8571-9210956e32b2
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -25,7 +25,7 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 >[!NOTE]
 >
->Om gearchiveerde pakketten te bekijken, filter de [!UICONTROL Packages] mening: klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png), klik **[!UICONTROL Package status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
+>Om gearchiveerde pakketten te bekijken, filter de [!UICONTROL Packages] mening: klik ![ knoop van de Filter ](/help/dsp/assets/filter.png), klik **[!UICONTROL Package status]** en selecteer **[!UICONTROL Archived]**, en klik dan **[!UICONTROL Apply].**
 
 ## Het archiveren van een pakket ongedaan maken
 
@@ -36,6 +36,6 @@ U kunt een pakket desarchiveren om zijn vorige status op elk ogenblik te herstel
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
->* [&#x200B; Pauze of activeer een Pakket &#x200B;](package-pause-activate.md)
+>* [ geef een pakket ](package-edit.md) uit
+>* [ Mening het veranderingslogboek voor een pakket ](package-change-log.md)
+>* [ Pauze of activeer een pakket ](package-pause-activate.md)

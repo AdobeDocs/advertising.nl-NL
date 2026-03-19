@@ -2,7 +2,7 @@
 title: Gebruikersprofiel bewerken
 description: Leer hoe u uw gebruikersprofiel kunt bewerken.
 exl-id: 8dc15996-db6e-4c37-a919-d0d49e7b8396
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 2%
@@ -63,6 +63,6 @@ Uw accountprofiel bevat uw aanmeldingsgegevens en andere gegevens. Sommige gebru
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; nodig een Nieuwe Gebruiker voor Uw Rekening van de Organisatie &#x200B;](user-invite.md) uit
+>* [ nodig een nieuwe gebruiker voor uw organisatierekening ](user-invite.md) uit
 
 <!-- >* [User Profile and Organization Account Settings](user-and-account-settings.md) -->

@@ -3,7 +3,7 @@ title: Het rapport met de plaatsingsprognose weergeven
 description: Bekijk het aantal indrukkingen, uitgaven en het optimale maximumbod dat is voorspeld voor een bepaalde doelstrategie voor een plaatsing.
 feature: DSP Placements
 exl-id: 6ff228b2-b656-493e-a299-98c7a68a0f51
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '548'
 ht-degree: 0%
@@ -73,7 +73,7 @@ De prognose bevat de volgende informatie:
 
 1. Klik naast de plaatsingsnaam op **[!UICONTROL ...]** > **[!UICONTROL Edit]** .
 
-1. Zoek de sectie **[!UICONTROL Forecast]** in de rechterbovenhoek. Indien nodig, klik ![&#x200B; Voorspelde &#x200B;](/help/dsp/assets/placement-forecast.png).
+1. Zoek de sectie **[!UICONTROL Forecast]** in de rechterbovenhoek. Indien nodig, klik ![ Voorspelde ](/help/dsp/assets/placement-forecast.png).
 
    >[!NOTE]
    >
@@ -81,6 +81,6 @@ De prognose bevat de volgende informatie:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
->* [&#x200B; Mening de Diagnostische Rapporten van de Plaatsing &#x200B;](/help/dsp/campaign-management/reports/placement-diagnostics.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](campaign-reports-about.md)
+>* [ Mening de plaatsing kenmerkende rapporten ](/help/dsp/campaign-management/reports/placement-diagnostics.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

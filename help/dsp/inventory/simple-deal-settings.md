@@ -3,7 +3,7 @@ title: '[!UICONTROL Simple Ad Serving] deal-instellingen'
 description: Meer informatie over de beschikbare instellingen voor [!UICONTROL Simple Ad Serving] -deals.
 feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & upload [Media Type]]
 
-(Nieuwe slechts advertenties) Screens om een nieuwe [&#x200B; derdeadvertentie &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
+(Nieuwe slechts advertenties) Screens om een nieuwe [ derdeadvertentie ](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
 
 ### [!UICONTROL Feed details]
 
@@ -51,7 +51,7 @@ ht-degree: 0%
 {style="table-layout:auto"}
 
 <!-- 
-## Existing Simple Ad Serving Deals
+## Existing [!UICONTROL Simple Ad Serving] deals
 
 Changes aren't applied retroactively.
 -->
@@ -80,11 +80,11 @@ But I see:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] Overeenkomst &#x200B;](simple-deal-create.md)
->* [&#x200B; geeft [!UICONTROL Simple Ad Serving] Montages van de Overeenkomst &#x200B;](simple-deal-edit.md) uit
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
+>* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

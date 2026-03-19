@@ -3,7 +3,7 @@ title: Uitnodiging voor gebruiker in behandeling opheffen
 description: Leer hoe u een uitnodiging in behandeling intrekt.
 role: Admin
 exl-id: 62a5d50c-b836-4a15-ba5a-6eb7a0f26570
-source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -24,7 +24,7 @@ Beheerdergebruikers kunnen de uitnodiging voor een gebruiker in behandeling ophe
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; nodig een Nieuwe Gebruiker voor Uw Rekening van de Organisatie &#x200B;](user-invite.md) uit
->* [&#x200B; herend een In afwachting van de Uitnodiging van de Gebruiker &#x200B;](user-resend-invite.md)
+>* [ nodig een nieuwe gebruiker voor uw organisatierekening ](user-invite.md) uit
+>* [ herend een hangende gebruikersuitnodiging ](user-resend-invite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

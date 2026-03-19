@@ -3,7 +3,7 @@ title: Een [!UICONTROL Simple Ad Serving] -deal maken
 description: Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] -deal.
 feature: DSP Simple Ad Serving
 exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '386'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. Klik boven de datatabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Simple Ad Serving]** .
 
-1. Ga de [&#x200B; overeenkomstenmontages &#x200B;](simple-deal-settings.md) in:
+1. Ga de [ overeenkomstenmontages ](simple-deal-settings.md) in:
 
    1. Geef in de sectie [!UICONTROL Select Ad Source] informatie op over de uitgever, de adverteerder en de campagne, en het type advertentie. Klik vervolgens op **[!UICONTROL Next]** .
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Selecteer voor bestaande advertenties de advertenties die u wilt gebruiken.
 
-         * Voor nieuwe advertenties, creeer een volmacht [&#x200B; derde advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+         * Voor nieuwe advertenties, creeer een volmacht [ derde advertentie ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
       >[!NOTE]
       > DSP heeft geen advertenties die u opgeeft. De uitgever dient de advertentie.
@@ -53,7 +53,7 @@ ht-degree: 0%
 
    * (Optioneel) Stuur de pixels voor het bijhouden van gebeurtenissen handmatig naar de uitgever:
 
-      1. In de overeenkomstenrij binnen de [!UICONTROL Deals] mening, klik ![&#x200B; het menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
+      1. In de overeenkomstenrij binnen de [!UICONTROL Deals] mening, klik ![ het menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
 
          De gebeurtenispixels omvatten een [!UICONTROL Clickthrough] pixel en een [!UICONTROL Impression] pixel. Video- en audioadvertenties bevatten ook gebeurtenispixels op kwartaalbasis voltooid (van [!UICONTROL 25% Complete] tot [!UICONTROL 100% Complete] ).
 
@@ -61,10 +61,10 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [[!UICONTROL Simple Ad Serving] Instellingen &#x200B;](simple-deal-settings.md)
->* [&#x200B; Mening een Gedetailleerd Rapport voor een Overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [[!UICONTROL Simple Ad Serving] settings ](simple-deal-settings.md)
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
 
 <!-- add back when reimplemented:
->* [View Event-Tracking Pixels for a [!UICONTROL Simple Ad Serving] Deal](simple-deal-show-pixels.md)
+>* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

@@ -3,7 +3,7 @@ title: Gegevens exporteren vanuit een campagnebeheerweergave
 description: Leer hoe u de gegevens vanuit een willekeurige weergave voor campagnebeheer exporteert naar een spreadsheetbestand.
 feature: DSP Campaign Data Views
 exl-id: 181b2648-5c8c-47e5-b4bc-5733dd7f47b7
-source-git-commit: 4843d706930c33a54aa442f719229e292d7174ad
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -30,5 +30,5 @@ U kunt een momentopname van de huidige, gefilterde mening van het campagnebeheer
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Types van Rapporten van Prestaties in de Meningen van het Beheer van de Campagne &#x200B;](campaign-reports-about.md)
->* [&#x200B; beheert Uw Kijken van Gegevens van de Campagne &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](campaign-reports-about.md)
+>* [ beheer uw meningen van campagnegegevens ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

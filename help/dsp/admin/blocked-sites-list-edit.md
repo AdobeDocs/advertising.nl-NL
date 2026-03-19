@@ -3,7 +3,7 @@ title: Een lijst met geblokkeerde sites op accountniveau of op adverteerdernivea
 description: Leer hoe u de lijst met geblokkeerde sites beheert voor een account of adverteerder.
 role: User, Admin
 exl-id: b2261b3a-ead2-4d88-a363-66c53653de1a
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
@@ -40,6 +40,6 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer account-Vlak en Advertiser-Vlakke Geblokkeerde Lijsten van Plaatsen &#x200B;](/help/dsp/admin/blocked-sites-list-about.md)
-> [Merk Veiligheid en de Kwaliteit van Media &#x200B;](/help/dsp/introduction/features/brand-safety-media-quality.md)
->* [&#x200B; Montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer rekening-niveau en adverteerder-niveau geblokkeerde plaatsen lijsten ](/help/dsp/admin/blocked-sites-list-about.md)
+> [Merk veiligheid en media kwaliteit ](/help/dsp/introduction/features/brand-safety-media-quality.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)

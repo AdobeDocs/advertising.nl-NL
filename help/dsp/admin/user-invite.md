@@ -3,7 +3,7 @@ title: Nieuwe gebruiker uitnodigen voor uw organisatieaccount
 description: Leer hoe u een nieuwe gebruiker kunt uitnodigen voor deelname aan het account.
 role: Admin
 exl-id: 5aba8db8-a27b-44a0-88f3-ea49311f4d76
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '134'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Indien nodig kunt u de uitnodiging aan een gebruiker met een uitnodiging in beha
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; herend een In afwachting van de Uitnodiging van de Gebruiker &#x200B;](user-resend-invite.md)
->* [&#x200B; unInvestie een In afwachting van Gebruiker &#x200B;](user-uninvite.md)
+>* [ herend een hangende gebruikersuitnodiging ](user-resend-invite.md)
+>* [ unInvestie een hangende gebruiker ](user-uninvite.md)
 
 <!-- >* [Edit User Permissions or Delete a User](user-edit.md) -->

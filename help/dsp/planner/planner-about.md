@@ -1,16 +1,16 @@
 ---
-title: Informatie over het gereedschap DSP Planner
+title: Het gereedschap DSP [!UICONTROL Planner]
 description: Leer meer over het plannerhulpmiddel om het unieke bereik voor online-tv-plaatsingen (CTV) te voorspellen volgens gespecificeerde budget- en doelcriteria.
 feature: DSP Planner
 exl-id: b25d4ac5-e85f-4a38-8765-6c5261987668
-source-git-commit: 4b7d525eb944545dfceaf4dec94199e188bb2ab2
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '543'
 ht-degree: 0%
 
 ---
 
-# Informatie over het gereedschap DSP Planner
+# Het gereedschap DSP [!UICONTROL Planner]
 
 <!-- rename all titles/descriptions from "CTV reach planner" to "campaign reach planner" -->
 
@@ -24,7 +24,7 @@ Het planningshulpmiddel gebruikt historische bod, indruk, en bereikt gegevens va
 
 Elke prognose bestaat uit een prognoscurve voor het bereik van de begroting, die aangeeft hoeveel bereik met de planinstellingen haalbaar is. Beweeg de curseur over visualisatie om stijgende bereikkansen met hogere begrotingen te zien.
 
-![&#x200B; de prognoses van de Planner van de Planner &#x200B;](/help/dsp/assets/planner-forecast.png " ")
+![ de prognoses van de Planner van de Planner ](/help/dsp/assets/planner-forecast.png " ")
 
 De voorspelde uitvoer bevat ook een [!UICONTROL Inventory Breakdown] -sectie waarin wordt aangegeven hoe verschillende uitgevers bijdragen aan een uniek bereik en waardevolle ontdekkingsmogelijkheden bieden.
 
@@ -33,7 +33,7 @@ De voorspelde uitvoer bevat ook een [!UICONTROL Inventory Breakdown] -sectie waa
 >* In de sectie [!UICONTROL Inventory Breakdown] worden alleen gegevens weergegeven voor de persoonlijke inventaris en de [!UICONTROL On Demand] -voorraad.
 >* Het geschatte unieke bereik dat voor twee uitgevers wordt weergegeven, kan overlappen.
 
-## De weergave Planner
+## De plannerweergave
 
 In de [!UICONTROL Planner] -weergave kunt u uw bestaande bereikplannen voor CTV bekijken en nieuwe plannen maken.
 
@@ -73,11 +73,11 @@ Ja, u kunt een voorspelling exporteren naar een [!DNL Microsoft Excel] -spreadsh
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het Hulpmiddel van de Planner van DSP &#x200B;](planner-about.md)
->* [&#x200B; creeer een Verbonden Plan van het Bereik van TV &#x200B;](planner-create.md)
->* [&#x200B; dupliceer een Verbonden Plan van het Bereik van TV &#x200B;](planner-duplicate.md)
->* [&#x200B; geef een Verbonden Plan van het Bereik van TV uit &#x200B;](planner-edit.md)
->* [&#x200B; de Uitvoer een Verbonden Plan van het Bereik van TV &#x200B;](planner-export.md)
->* [&#x200B; Regenereer de Voorspelling voor een Verbonden Plan van het Bereik van TV &#x200B;](planner-forecast.md)
->* [&#x200B; archiveer een Verbonden Plan van het Bereik van TV &#x200B;](planner-archive.md)
->* [&#x200B; Montages voor de Verbonden Plannen van het Bereik van TV &#x200B;](planner-settings.md)
+>* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
+>* [ creeer een verbonden plan van het het bereik van TV ](planner-create.md)
+>* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
+>* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
+>* [ de Uitvoer een verbonden plan van het het bereik van TV ](planner-export.md)
+>* [ Regenereer de voorspelling voor een verbonden plan van het bereik van TV ](planner-forecast.md)
+>* [ archiveer een verbonden het bereikplan van TV ](planner-archive.md)
+>* [ Montages voor verbonden TV bereiken plannen ](planner-settings.md)

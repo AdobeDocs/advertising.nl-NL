@@ -3,7 +3,7 @@ title: Een advertentie archiveren of de archivering ongedaan maken
 description: Leer hoe u een advertentie archiveert of de archivering ongedaan maakt.
 feature: DSP Ads
 exl-id: 086c120f-df55-43b0-a6fb-51d68d00a29e
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -26,7 +26,7 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 
 >[!NOTE]
 >
->Als u gearchiveerde advertenties wilt weergeven, filtert u de [!UICONTROL Ads] weergave: klik op ![[!UICONTROL Filter] knop &#x200B;](/help/dsp/assets/filter.png) , klik op **[!UICONTROL Ad status]** en selecteer **[!UICONTROL Archived]** en klik vervolgens op **[!UICONTROL Apply].**
+>Als u gearchiveerde advertenties wilt weergeven, filtert u de [!UICONTROL Ads] weergave: klik op ![[!UICONTROL Filter] knop ](/help/dsp/assets/filter.png) , klik op **[!UICONTROL Ad status]** en selecteer **[!UICONTROL Archived]** en klik vervolgens op **[!UICONTROL Apply].**
 
 ## Een advertentie verwijderen
 
@@ -38,6 +38,6 @@ U kunt een advertentie desarchiveren om op elk gewenst moment de vorige status t
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; geef een Advertentie uit &#x200B;](ad-edit.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
+>* [ geef een advertentie uit ](ad-edit.md)

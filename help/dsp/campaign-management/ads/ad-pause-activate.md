@@ -3,7 +3,7 @@ title: Een advertentie pauzeren of activeren
 description: Leer hoe u een advertentie pauzeert of activeert.
 feature: DSP Ads
 exl-id: f39d36c2-4c62-462b-bb92-29458890661e
-source-git-commit: 1d4c22686227da4a60ee4f6856b2815da863f359
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 0%
@@ -47,6 +47,6 @@ Als u een advertentie wilt pauzeren op een individuele plaatsing, gebruikt u de 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer Één enkele Advertentie &#x200B;](ad-create.md)
->* [&#x200B; creeer Veelvoudige Derde Advertenties &#x200B;](ad-create-multiple.md)
->* [&#x200B; archiveer een Advertentie &#x200B;](ad-archive-unarchive.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ creeer veelvoudige derdeadvertenties ](ad-create-multiple.md)
+>* [ archiveer een advertentie ](ad-archive-unarchive.md)

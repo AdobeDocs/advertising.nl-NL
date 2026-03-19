@@ -5,7 +5,7 @@ feature: DSP Audiences
 hidefromtoc: true
 hide: true
 exl-id: 82c9f122-2bdd-409f-a4d6-1da21ecbe913
-source-git-commit: 62d27f4af9705194f4254ffcb3145719dfd5af2f
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '1037'
 ht-degree: 0%
@@ -46,11 +46,11 @@ Gebruik de AI-ondersteunde publieksagent om nieuwe, herbruikbare soorten publiek
 
 1. Het publiek opbouwen:
 
-   Voor gebruikers met bètamachtigingen is de optie AI de standaardinstelling. Om [&#x200B; het publiek te assembleren zelf &#x200B;](/help/dsp/audiences/reusable-audience-create.md), klik de &quot;Schakelaar aan handwijze&quot;knoop bij de bodem.
+   Voor gebruikers met bètamachtigingen is de optie AI de standaardinstelling. Om [ het publiek te assembleren zelf ](/help/dsp/audiences/reusable-audience-create.md), klik de &quot;Schakelaar aan handwijze&quot;knoop bij de bodem.
 
-   1. Voer een of meer aanwijzingen in om de publiekskenmerken te beschrijven die u wilt opnemen en uitsluiten. Om elke herinnering voor te leggen, klik ![&#x200B; voorlegt herinnering &#x200B;](/help/dsp/assets/submit-prompt.png " voorlegt herinnering ").
+   1. Voer een of meer aanwijzingen in om de publiekskenmerken te beschrijven die u wilt opnemen en uitsluiten. Om elke herinnering voor te leggen, klik ![ voorlegt herinnering ](/help/dsp/assets/submit-prompt.png " voorlegt herinnering ").
 
-      Voor meer informatie, zie &quot;[&#x200B; het Schrijven van Herinneringen &#x200B;](#writing-prompts)&quot; en &quot;[&#x200B; Beste praktijken voor het Creëren van een Korf van de Publiek &#x200B;](#audience-brief-best-practices).&quot;
+      Voor meer informatie, zie &quot;[ het Schrijven herinneringen ](#writing-prompts)&quot; en &quot;[ Beste praktijken voor het creëren van een publiekssamenvatting ](#audience-brief-best-practices).&quot;
 
       Aangezien de publieksagent relevante segmenten vindt, leidt het tot een publieksuitdrukking die op uw criteria wordt gebaseerd. Het vraagt ook om uw goedkeuring alvorens passende segmenten te zoeken om het publiek samen te stellen.
 
@@ -68,9 +68,9 @@ Gebruik de AI-ondersteunde publieksagent om nieuwe, herbruikbare soorten publiek
 
    >[!NOTE]
    >
-   >U kunt het publiek later niet uitgeven gebruikend de publieksagent. In plaats daarvan, [&#x200B; geef manueel de publieksuitdrukking uit &#x200B;](/help/dsp/audiences/reusable-audience-edit.md).
+   >U kunt het publiek later niet uitgeven gebruikend de publieksagent. In plaats daarvan, [ geef manueel de publieksuitdrukking uit ](/help/dsp/audiences/reusable-audience-edit.md).
 
-## Basisbeginselen van schrijfverzoeken {#writing-prompts}
+## Grondbeginselen van het schrijven van vragen {#writing-prompts}
 
 ### Wat zou een herinnering moeten omvatten?
 
@@ -94,7 +94,7 @@ Gebruik de AI-ondersteunde publieksagent om nieuwe, herbruikbare soorten publiek
 
   De publieksagent slaat niet automatisch een gegenereerde publieksexpressie op als een publiek. U kunt een publiek alleen opslaan door op de knop [!UICONTROL Create] te klikken. Deze knop bevindt zich buiten het gebied met de vraag, zodat u alle wijzigingen ongedaan kunt maken die u niet wilt behouden.
 
-Zie &quot;[&#x200B; Beste praktijken voor het Creëren van een Kort van het Publiek &#x200B;](#audience-brief-best-practices)&quot;voor verdere manieren om herinneringen voor publiek te optimaliseren.
+Zie &quot;[ Beste praktijken voor het creëren van een publiekssamenvatting ](#audience-brief-best-practices)&quot;voor verdere manieren om herinneringen voor publiek te optimaliseren.
 
 <!-- I think these are happening later:
 
@@ -196,10 +196,10 @@ Hieronder ziet u een voorbeeld van een uitgebreide publieksnotatie voor een camp
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; dupliceer een Herbruikbaar publiek &#x200B;](/help/dsp/audiences/reusable-audience-duplicate.md)
->* [&#x200B; geef een Herbruikbare Publiek &#x200B;](/help/dsp/audiences/reusable-audience-edit.md) uit
->* [&#x200B; Details van de Mening over een Herbruikbaar publiek &#x200B;](/help/dsp/audiences/reusable-audience-view-details.md)
->* [&#x200B; deel een Herbruikbare Publiek &#x200B;](/help/dsp/audiences/reusable-audience-share.md)
->* [&#x200B; de Uitvoer een Herbruikbaar publiek &#x200B;](/help/dsp/audiences/reusable-audience-export.md)
->* [&#x200B; Kopieer de Sleutel van het Segment voor een Herbruikbaar publiek aan het Klembord &#x200B;](/help/dsp/audiences/reusable-audience-clipboard.md)
->* [&#x200B; Schrap een Herbruikbaar publiek &#x200B;](/help/dsp/audiences/reusable-audience-delete.md)
+>* [ dupliceer een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-duplicate.md)
+>* [ geef een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-edit.md) uit
+>* [ details van de Mening over een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-view-details.md)
+>* [ deel een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-share.md)
+>* [ de Uitvoer een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-export.md)
+>* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](/help/dsp/audiences/reusable-audience-clipboard.md)
+>* [ Schrap een herbruikbaar publiek ](/help/dsp/audiences/reusable-audience-delete.md)

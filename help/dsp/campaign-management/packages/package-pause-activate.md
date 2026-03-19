@@ -3,7 +3,7 @@ title: Een pakket onderbreken of activeren
 description: Leer hoe u een pakket pauzeert of activeert.
 feature: DSP Packages
 exl-id: c4a6fb08-14db-4c8b-ab7a-0bbc0f201390
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 0%
@@ -34,6 +34,6 @@ Alle plaatsen die binnen een verpakking zijn gepauzeerd voordat de verpakking ze
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef een Pakket &#x200B;](package-edit.md) uit
->* [&#x200B; Mening het Logboek van de Verandering voor een Pakket &#x200B;](package-change-log.md)
->* [&#x200B; Archiveer een Pakket &#x200B;](package-archive-unarchive.md)
+>* [ geef een pakket ](package-edit.md) uit
+>* [ Mening het veranderingslogboek voor een pakket ](package-change-log.md)
+>* [ archiveer een pakket ](package-archive-unarchive.md)
