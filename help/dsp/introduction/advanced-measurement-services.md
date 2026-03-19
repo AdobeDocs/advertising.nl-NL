@@ -85,4 +85,4 @@ Neem contact op met uw Adobe-accountteam voor informatie over alle geavanceerde 
 
 >[!MORELIKETHIS]
 >
->[ Valuta&#39;s die in Adobe Advertising worden gesteund ](/help/dsp/currency.md)
+>[&#x200B; Valuta&#39;s die in Adobe Advertising worden gesteund &#x200B;](/help/dsp/currency.md)

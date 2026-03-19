@@ -18,10 +18,10 @@ U kunt de [!UICONTROL Budget vs Reach] voorspelling exporteren naar een [!DNL Mi
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
->* [ creeer een verbonden plan van het het bereik van TV ](planner-create.md)
->* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
->* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
->* [ Regenereer de voorspelling voor een verbonden plan van het bereik van TV ](planner-forecast.md)
->* [ archiveer een verbonden het bereikplan van TV ](planner-archive.md)
->* [ Montages voor verbonden TV bereiken plannen ](planner-settings.md)
+>* [&#x200B; Ongeveer DSP [!UICONTROL Planner] hulpmiddel &#x200B;](planner-about.md)
+>* [&#x200B; creeer een verbonden plan van het het bereik van TV &#x200B;](planner-create.md)
+>* [&#x200B; Dupliceer een verbonden het bereikplan van TV &#x200B;](planner-duplicate.md)
+>* [&#x200B; geef een verbonden plan van het het bereik van TV uit &#x200B;](planner-edit.md)
+>* [&#x200B; Regenereer de voorspelling voor een verbonden plan van het bereik van TV &#x200B;](planner-forecast.md)
+>* [&#x200B; archiveer een verbonden het bereikplan van TV &#x200B;](planner-archive.md)
+>* [&#x200B; Montages voor verbonden TV bereiken plannen &#x200B;](planner-settings.md)
