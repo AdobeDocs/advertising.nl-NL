@@ -22,7 +22,7 @@ Wanneer u herbruikbare soorten publiek maakt, kunt u de segmentlogica handmatig 
 >[!NOTE]
 >
 >* Alle gespecificeerde segmentgroepen zijn inbegrepen tenzij zij door worden voorafgegaan ! (exclusief deze).
->* U kunt [ segmentidentiteitskaart voor een publiek ](reusable-audience-clipboard.md) van [!UICONTROL Audiences] vinden > [!UICONTROL All audiences].
+>* U kunt [&#x200B; segmentidentiteitskaart voor een publiek &#x200B;](reusable-audience-clipboard.md) van [!UICONTROL Audiences] vinden > [!UICONTROL All audiences].
 
 De volgende logica:
 
@@ -42,8 +42,8 @@ means (in normale Engelse taal)
 
 >[!MORELIKETHIS]
 >
->* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
->* [ montages van het publiek ](audience-settings.md)
->* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
+>* [&#x200B; Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord &#x200B;](reusable-audience-clipboard.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Beschikbare leveranciers van derdegegevens &#x200B;](third-party-data-providers.md)

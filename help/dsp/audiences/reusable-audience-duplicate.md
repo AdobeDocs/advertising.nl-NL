@@ -24,18 +24,18 @@ U kunt een publiek maken door een bestaand publiek te dupliceren.
 
 1. Klik op **[!UICONTROL Duplicate]**.
 
-1. (Facultatief) [ verfijnen het nieuwe publiek ](reusable-audience-edit.md).
+1. (Facultatief) [&#x200B; verfijnen het nieuwe publiek &#x200B;](reusable-audience-edit.md).
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer publieksbeheer ](audience-about.md)
->* [ creeer een herbruikbaar publiek ](reusable-audience-create.md)
->* [ geef een herbruikbaar publiek ](reusable-audience-edit.md) uit
->* [ details van de Mening over een herbruikbaar publiek ](reusable-audience-view-details.md)
->* [ deel een herbruikbaar publiek ](reusable-audience-share.md)
->* [ de Uitvoer een herbruikbaar publiek ](reusable-audience-export.md)
->* [ Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord ](reusable-audience-clipboard.md)
->* [ Schrap een herbruikbaar publiek ](reusable-audience-delete.md)
->* [ montages van het publiek ](audience-settings.md)
->* [ Syntaxis voor de logica van het publiekssegment ](audience-segment-logic-syntax.md)
->* [ Beschikbare leveranciers van derdegegevens ](third-party-data-providers.md)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](audience-about.md)
+>* [&#x200B; creeer een herbruikbaar publiek &#x200B;](reusable-audience-create.md)
+>* [&#x200B; geef een herbruikbaar publiek &#x200B;](reusable-audience-edit.md) uit
+>* [&#x200B; details van de Mening over een herbruikbaar publiek &#x200B;](reusable-audience-view-details.md)
+>* [&#x200B; deel een herbruikbaar publiek &#x200B;](reusable-audience-share.md)
+>* [&#x200B; de Uitvoer een herbruikbaar publiek &#x200B;](reusable-audience-export.md)
+>* [&#x200B; Kopieer de segmentsleutel voor een herbruikbaar publiek aan het klembord &#x200B;](reusable-audience-clipboard.md)
+>* [&#x200B; Schrap een herbruikbaar publiek &#x200B;](reusable-audience-delete.md)
+>* [&#x200B; montages van het publiek &#x200B;](audience-settings.md)
+>* [&#x200B; Syntaxis voor de logica van het publiekssegment &#x200B;](audience-segment-logic-syntax.md)
+>* [&#x200B; Beschikbare leveranciers van derdegegevens &#x200B;](third-party-data-providers.md)
