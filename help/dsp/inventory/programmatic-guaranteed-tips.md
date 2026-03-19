@@ -45,6 +45,6 @@ Bij het onderhandelen over een gegarandeerde programmatic deal moeten de koper e
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer programmatic gewaarborgde overeenkomsten ](programmatic-guaranteed-about.md)
->* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
->* [ SSP Partners ](ssp-partners.md)
+>* [&#x200B; Ongeveer programmatic gewaarborgde overeenkomsten &#x200B;](programmatic-guaranteed-about.md)
+>* [&#x200B; opstelling een programmatic gewaarborgde overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
+>* [&#x200B; SSP Partners &#x200B;](ssp-partners.md)

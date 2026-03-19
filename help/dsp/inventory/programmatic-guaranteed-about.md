@@ -39,7 +39,7 @@ Voor PG-deals is een standaardplaatsing van PG en advertenties (of een 1 pixel v
 
 >[!MORELIKETHIS]
 >
->* [ Uiteinden voor het onderhandelen van een programmatic gewaarborgde overeenkomst ](/help/dsp/inventory/programmatic-guaranteed-tips.md)
->* [ opstelling een programmatic gewaarborgde overeenkomst ](programmatic-guaranteed-set-up.md)
->* [ SSP partners ](ssp-partners.md)
->* [ Overzicht van inventariseigenschappen in Advertising DSP ](inventory-overview.md)
+>* [&#x200B; Uiteinden voor het onderhandelen van een programmatic gewaarborgde overeenkomst &#x200B;](/help/dsp/inventory/programmatic-guaranteed-tips.md)
+>* [&#x200B; opstelling een programmatic gewaarborgde overeenkomst &#x200B;](programmatic-guaranteed-set-up.md)
+>* [&#x200B; SSP partners &#x200B;](ssp-partners.md)
+>* [&#x200B; Overzicht van inventariseigenschappen in Advertising DSP &#x200B;](inventory-overview.md)

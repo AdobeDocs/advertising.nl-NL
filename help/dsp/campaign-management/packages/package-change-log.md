@@ -24,7 +24,7 @@ U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 1. (Optioneel) Voer een van de volgende handelingen uit:
 
-   * Om tussen het bekijken van de gegevens in lijstvorm slechts en in zowel lijst als grafiekvormen te schakelen, klik ![ Lijst en grafiekmening ](/help/dsp/assets/table-plus-chart-view.png " Lijst en grafiekmening ") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de hogere juiste toolbar.
+   * Om tussen het bekijken van de gegevens in lijstvorm slechts en in zowel lijst als grafiekvormen te schakelen, klik ![&#x200B; Lijst en grafiekmening &#x200B;](/help/dsp/assets/table-plus-chart-view.png " Lijst en grafiekmening ") of ![Tabelweergave](/help/dsp/assets/table-view.png "Tabelweergave") in de hogere juiste toolbar.
 
    * Als u een notitie wilt toevoegen aan een item, houdt u de cursor boven de kolom [!UICONTROL Notes] voor de rij en klikt u op **[!UICONTROL Add Notes]** . Voer tekst in de invoervelden in en klik op **[!UICONTROL Save]** .
 
@@ -32,8 +32,8 @@ U kunt de gegevens op elke kolom sorteren, behalve Nieuwe waarde en Oude waarde.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer pakketbeheer in Advertising DSP ](package-about.md)
->* [ creeer een pakket ](package-create.md)
->* [ geef een pakket ](package-edit.md) uit
->* [ maak een plaatsing aan een pakket ](package-attach-placement.md) vast
->* [ de montages van het Pakket ](package-settings.md)
+>* [&#x200B; Ongeveer pakketbeheer in Advertising DSP &#x200B;](package-about.md)
+>* [&#x200B; creeer een pakket &#x200B;](package-create.md)
+>* [&#x200B; geef een pakket &#x200B;](package-edit.md) uit
+>* [&#x200B; maak een plaatsing aan een pakket &#x200B;](package-attach-placement.md) vast
+>* [&#x200B; de montages van het Pakket &#x200B;](package-settings.md)

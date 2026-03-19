@@ -32,7 +32,7 @@ DSP kan uw levering op twee fundamentele manieren optimaliseren, waarbij 20 vari
 
 * Prioriteit geven aan kostenefficiëntie voor balancering met prestatiesnelheid
 
-Zie [ de doelstellingen van de Optimalisering en hoe te om hen te gebruiken ](optimization-goals.md) om te bepalen welk optimalisatiedoel u kan helpen uw KPI(s) bereiken.
+Zie [&#x200B; de doelstellingen van de Optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md) om te bepalen welk optimalisatiedoel u kan helpen uw KPI(s) bereiken.
 
 ### Pakketten die de prestatiessnelheid voorrang geven
 
@@ -80,12 +80,12 @@ Plaatsingsfilters voor voorbiedingen zijn de strengste manier om goede prestatie
 >
 >De beschikbare filters voor voorbiedingen variëren per advertentietype. Voor een standaardplaatsing van het beeldscherm kunt u bijvoorbeeld filteren op doorklikfrequentie en gezichtsvermogen, maar niet op voltooiingsfrequentie.
 
-Zie [ plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md) om te bepalen welke pre-biederfilter u kan helpen uw KPI(s) bereiken.
+Zie [&#x200B; plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken &#x200B;](optimization-pre-bid-filters.md) om te bepalen welke pre-biederfilter u kan helpen uw KPI(s) bereiken.
 
 >[!MORELIKETHIS]
 >
->* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ de doelstellingen van de optimalisering en hoe te om hen te gebruiken ](optimization-goals.md)
->* [ plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken ](optimization-pre-bid-filters.md)
->* [ prestaties van het Oplossen van problemen ](/help/dsp/optimization/troubleshooting-performance.md)
+>* [&#x200B; de montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; de doelstellingen van de optimalisering en hoe te om hen te gebruiken &#x200B;](optimization-goals.md)
+>* [&#x200B; plaatsing-vlakke pre-bid filters en hoe te om hen te gebruiken &#x200B;](optimization-pre-bid-filters.md)
+>* [&#x200B; prestaties van het Oplossen van problemen &#x200B;](/help/dsp/optimization/troubleshooting-performance.md)
