@@ -20,7 +20,7 @@ ht-degree: 0%
 
 <!-- How will this work once we have unified shell, which has its own version of AI Assistant? -->
 
-Gebruik de AI interface van het praatje aan onderzoek naar conceptueel en hoe te inhoud over de [&#x200B; Gids van Advertising DSP &#x200B;](/help/dsp/home.md) en (adverteerders met Advertising Creative) de [&#x200B; Gids van Advertising Creative &#x200B;](/help/creative/home.md). De antwoorden zijn gebaseerd slechts op wat voor deze producten in [&#x200B; Experience League &#x200B;](https://experienceleague.adobe.com/en/docs/advertising) gedocumenteerd is.
+Gebruik de AI interface van het praatje aan onderzoek naar conceptueel en hoe te inhoud over de [&#x200B; Gids van Advertising DSP &#x200B;](/help/dsp/home.md) en (adverteerders met Advertising Creative) de [&#x200B; Gids van Advertising Creative &#x200B;](/help/creative/home.md). De antwoorden zijn gebaseerd slechts op wat voor deze producten in [&#x200B; Experience League &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising) gedocumenteerd is.
 
 De reacties omvatten citaties evenals extra herinneringen en follow-upvragen om u te helpen uw vraag verfijnen en meer informatie vinden. Uw praatjegeschiedenis wordt gehandhaafd, en uw vragen worden niet gedeeld met andere gebruikers.
 
