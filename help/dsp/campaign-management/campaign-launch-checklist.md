@@ -30,6 +30,6 @@ Bevestig dat alle advertenties zijn gekoppeld, goedgekeurd en actief. Controleer
 
 >[!MORELIKETHIS]
 >
->* [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
->* [ Beste praktijken voor de campagnes van opstellingsprestaties ](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [&#x200B; montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; Beste praktijken voor de campagnes van opstellingsprestaties &#x200B;](/help/dsp/optimization/campaign-best-practices-performance.md)
