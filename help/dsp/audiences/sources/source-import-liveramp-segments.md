@@ -44,5 +44,5 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 >
 >* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](source-about.md)
 >* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](source-manage.md)
->* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
 >* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
