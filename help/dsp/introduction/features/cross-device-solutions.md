@@ -42,7 +42,7 @@ Met op personen gebaseerd frequentiebeheer kunt u frequentiecappen op persoonlij
 
 * **Campagnes:** wanneer u een nieuwe campagne creeert, kunt u a [!UICONTROL Cross-Device Level] het plaatsen specificeren. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer op de campagne, het pakket, en plaatsingsniveau. De frequentiecaps zijn van toepassing op alle bekende apparaten van een persoon.
 
-Voor meer informatie, zie [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+Voor meer informatie, zie [&#x200B; montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 Wanneer u een campagne hebt opgeslagen, kunt u de instelling voor [!UICONTROL Cross Device Level] niet meer wijzigen.
 
@@ -58,7 +58,7 @@ Door op mensen gebaseerde doelgroepen te kiezen, kunt u klanten zoeken op versch
 
 * **Campagnes:** wanneer u een nieuwe campagne creeert, kunt u a [!UICONTROL Cross-Device Level] het plaatsen specificeren. Schakel &quot;[!UICONTROL Same Device]&quot; -> &quot;[!UICONTROL People]&quot; in en selecteer een apparaatgrafiek. De gespecificeerde apparatengrafiek wordt gebruikt voor zowel dwars-apparaat richtend op het plaatsingsniveau als voor op mensen-gebaseerd frequentiebeheer.
 
-Voor meer informatie, zie [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md).
+Voor meer informatie, zie [&#x200B; montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md).
 
 * **Plaatsen:** wanneer u publieksdoelstellingen voor een plaatsing in een campagne met een gespecificeerde apparatengrafiek selecteert, staat een [!UICONTROL Cross-Device Targeting] optie u toe om uw het richten over alle bekende apparaten van een persoon (per de apparatengrafiek uit te breiden die in de campagnemontages wordt gespecificeerd), zelfs apparaten die niet in de gespecificeerde segmenten zijn.
 
@@ -112,7 +112,7 @@ Sorteer het percentage van totale omzettingen die dwars-apparaat ([!UICONTROL (x
 
 >[!MORELIKETHIS]
 >
->* [ montages van het Rapport ](/help/dsp/reports/report-settings.md)
->* [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [ de montages van het Pakket ](/help/dsp/campaign-management/packages/package-settings.md)
->* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [&#x200B; montages van het Rapport &#x200B;](/help/dsp/reports/report-settings.md)
+>* [&#x200B; montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [&#x200B; de montages van het Pakket &#x200B;](/help/dsp/campaign-management/packages/package-settings.md)
+>* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)

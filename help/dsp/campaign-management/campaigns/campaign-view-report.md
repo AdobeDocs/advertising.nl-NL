@@ -21,9 +21,9 @@ Het rapport op campagnereniveau van <!--legacy --> bevat een overzicht en sectie
 
 >[!MORELIKETHIS]
 >
->* [ Mening een gedetailleerd rapport voor een plaatsing ](/help/dsp/campaign-management/placements/placement-view-report.md)
->* [ Mening een gedetailleerd rapport voor een advertentie ](/help/dsp/campaign-management/ads/ad-view-report.md)
->* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
->* [ Mening het veranderingslogboek voor een campagne ](campaign-change-log.md)
->* [ Pauze of activeer een campagne ](campaign-pause-activate.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-view-report.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-view-report.md)
+>* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
+>* [&#x200B; Mening het veranderingslogboek voor een campagne &#x200B;](campaign-change-log.md)
+>* [&#x200B; Pauze of activeer een campagne &#x200B;](campaign-pause-activate.md)
