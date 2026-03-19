@@ -3,7 +3,7 @@ title: Controlelijst voor starten van campagne
 description: Leer wat u moet doen voordat u een campagne start.
 feature: DSP Placements, DSP Ads
 exl-id: 9a8c2b3e-233e-4401-8311-daffde6cda68
-source-git-commit: 4264d6032a8d31004e66fd4ee033d9ecd51918c8
+source-git-commit: a5a29233034121a310ee172fe2cf6997047733c2
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 0%
@@ -30,6 +30,6 @@ Bevestig dat alle advertenties zijn gekoppeld, goedgekeurd en actief. Controleer
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; montages van de Campagne &#x200B;](/help/dsp/campaign-management/campaigns/campaign-settings.md)
->* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
->* [&#x200B; Beste praktijken voor de campagnes van opstellingsprestaties &#x200B;](/help/dsp/optimization/campaign-best-practices-performance.md)
+>* [ montages van de Campagne ](/help/dsp/campaign-management/campaigns/campaign-settings.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Beste praktijken voor de campagnes van opstellingsprestaties ](/help/dsp/optimization/campaign-best-practices-performance.md)

@@ -3,7 +3,7 @@ title: Informatie over inzichten
 description: Leer meer over prestatiesinzichten met visualisaties.
 feature: DSP Campaigns, DSP Packages, DSP Placements
 exl-id: 0b7943c4-650c-4515-ae19-4417714ea7dd
-source-git-commit: db8e4bd75063216c27a7e14c8d7699e2f4e09ba4
+source-git-commit: a5a29233034121a310ee172fe2cf6997047733c2
 workflow-type: tm+mt
 source-wordcount: '942'
 ht-degree: 0%
@@ -26,7 +26,7 @@ Prestatieinzichten gebruiken voor:
 
 U kunt alle visualisaties voor een tabblad exporteren naar een PDF-bestand of de gegevens voor een specifieke insight downloaden zonder visualisaties in de indeling Microsoft Excel-spreadsheet (XLSX).
 
-U kunt [&#x200B; de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
+U kunt [ de datumwaaier ook veranderen, de mening vormen, en een douanemening opslaan ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md){target="_blank"} als u voor de meningen van het campagnebeheer kunt.
 
 ## Typen inzichten
 
@@ -94,7 +94,7 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 ## Filters toepassen op een tab
 
-1. In de toolbar bij de bovenkant van het lusje, klik ![&#x200B; knoop van de Filter &#x200B;](/help/dsp/assets/filter.png).
+1. In de toolbar bij de bovenkant van het lusje, klik ![ knoop van de Filter ](/help/dsp/assets/filter.png).
 
 1. Selecteer in de linkerkolom een dimensie en selecteer vervolgens een of meer waarden in de rechterkolom, al naar gelang van toepassing.
 
@@ -112,7 +112,7 @@ Het [!UICONTROL Household Conversion] lusje verstrekt huisomzettingsmetriek over
 
 Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel door Adobe Advertising worden bijgehouden als door Adobe Analytics worden bijgehouden.
 
-1. Aan het hogere recht van insight, klik ![&#x200B; Metrische montages &#x200B;](/help/dsp/assets/metric-settings.png " Metrische montages ").
+1. Aan het hogere recht van insight, klik ![ Metrische montages ](/help/dsp/assets/metric-settings.png " Metrische montages ").
 
 1. Selecteer de metriek en klik op **[!UICONTROL Apply]** .
 
@@ -124,13 +124,13 @@ Voor conversiemetriek is ondersteuning beschikbaar voor conversies die zowel doo
 
 ## Een specifieke insight downloaden naar een XLSX-bestand
 
-* Aan het hogere recht van insight, klik ![&#x200B; Download &#x200B;](/help/creative/assets/download.png " ").
+* Aan het hogere recht van insight, klik ![ Download ](/help/creative/assets/download.png " ").
 
   Het bestand wordt opgeslagen in de standaardmap Downloads van uw browser.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer douanerapporten &#x200B;](/help/dsp/reports/report-about.md)
->* [&#x200B; Types van prestatiesrapporten in de meningen van het campagnebeheer &#x200B;](/help/dsp/campaign-management/reports/campaign-reports-about.md)
->* [&#x200B; Beschikbare rapportkolommen &#x200B;](/help/dsp/reports/report-columns.md)
->* [&#x200B; beheer uw meningen van campagnegegevens &#x200B;](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)
+>* [ Ongeveer douanerapporten ](/help/dsp/reports/report-about.md)
+>* [ Types van prestatiesrapporten in de meningen van het campagnebeheer ](/help/dsp/campaign-management/reports/campaign-reports-about.md)
+>* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [ beheer uw meningen van campagnegegevens ](/help/dsp/campaign-management/reports/campaign-data-views-manage.md)

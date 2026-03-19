@@ -3,7 +3,7 @@ title: Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics
 description: Verwijs naar de metriek en de afmetingen van Adobe Advertising die in Customer Journey Analytics beschikbaar zijn.
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: 97c89e03-ab15-4906-96fc-6bb77ea0cd7c
-source-git-commit: 7fa058da06edadf9b98aa49b0e5a1110ea68808c
+source-git-commit: 5040589b0fecceffbe365fc83c8e96be15f182cf
 workflow-type: tm+mt
 source-wordcount: '437'
 ht-degree: 0%
@@ -63,6 +63,8 @@ In de volgende tabel:
 
 In de volgende tabel:
 
+<!-- Need to fill in the "Source" column -->
+
 * &quot;XDM Field Name&quot; is de veldnaam in Adobe Experience Platform.
 
 * &quot;Weergavenaam XDM-veld&quot; geeft de weergavenaam aan in Customer Journey Analytics.
@@ -92,7 +94,7 @@ In de volgende tabel:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht &#x200B;](overview.md)
->* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
->* [&#x200B; Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
->* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ Adobe Advertising IDs die door  [!DNL Customer Journey Analytics]](ids.md) wordt gebruikt
+>* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
