@@ -3,7 +3,7 @@ title: Beleid voor Adobe Advertising Universal ID-vereisten
 description: Zie het beleid voor het gebruik van universele id's.
 feature: Policies, DSP Ads
 exl-id: a21dcc56-a618-476d-9f5b-7b1260f27331
-source-git-commit: 7dc1d2dd2459d0b0049e755f121a6e6d1a9ab789
+source-git-commit: c7438ee214e6b5d5cfb6e6c72eb480bc334596c7
 workflow-type: tm+mt
 source-wordcount: '700'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Laatst bijgewerkt: 29 februari 2024
 
-In dit beleid voor Universal ID Requirements Policy (&quot;Policy&quot;) worden de vereisten uiteengezet voor het gebruik van Universal ID&#39;s in verband met advertenties die via [!DNL Adobe's] On-demand Services for Adobe Advertising (&quot;Services&quot;) worden gedistribueerd. Dit beleid wordt door middel van verwijzing opgenomen in de Overeenkomst tussen [!DNL Adobe] en de Klant (&quot;u&quot;) die de On-demand Services gebruikt. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
+In dit beleid voor Universal ID Requirements Policy (&quot;Policy&quot;) worden de vereisten voor het gebruik van universele id&#39;s uiteengezet in verband met advertenties die via [!DNL Adobe's] On-demand Services for Adobe Advertising (&quot;Services&quot;) worden gedistribueerd. Dit beleid wordt door middel van verwijzing opgenomen in de Overeenkomst tussen [!DNL Adobe] en de Klant (&quot;u&quot;) die de On-demand Services gebruikt. De termen met hoofdletters die in dit beleid worden gebruikt maar hierin niet worden gedefinieerd, hebben de betekenis die in die overeenkomst wordt vermeld.
 
 [!DNL Adobe] behoudt zich het recht voor om naar eigen goeddunken vast te stellen of een advertentie of de website(s) waarnaar de advertentie doorleidt of koppelt, in strijd is met de vereisten van dit beleid, in welk geval [!DNL Adobe] die advertentie kan afwijzen en/of de toegang tot de services op die basis kan beëindigen of opschorten.
 
@@ -24,7 +24,7 @@ Naast de vereisten die hieronder en in de Overeenkomst worden vermeld, moet u aa
 
 ### Verboden gegevens
 
-Door ervoor te kiezen om de Universal IDs te gebruiken die via de Diensten ter beschikking worden gesteld gaat u ermee akkoord om ervoor te zorgen dat alle Gegevens van de Cliënt die, worden overgebracht opgeslagen, getoond, verspreid, of anderszins door u via de On-demand Diensten worden verstrekt met de volgende Universele identiteitskaart specificaties en om het even welke andere vereisten van dit Beleid, zoals die door [!DNL Adobe] van tijd tot tijd kunnen worden herzien.
+Door ervoor te kiezen om de universele id&#39;s te gebruiken die via de services beschikbaar worden gesteld, gaat u ermee akkoord dat alle clientgegevens die u via On-demand Services verzendt, opslaat, verspreidt of anderszins beschikbaar stelt, consistent zijn met de volgende Universal ID-specificaties en andere vereisten van dit beleid, zoals die van tijd tot tijd door [!DNL Adobe] kunnen worden herzien.
 
 * Clientgegevens zijn door u rechtstreeks verzameld bij gebruikers of in licentie gegeven door een andere partij die i) de clientgegevens rechtstreeks heeft verzameld bij de gebruikers waarop deze gegevens betrekking hebben of ii) de clientgegevens heeft verkregen via intermediairs die de gegevens hebben verkregen van een andere partij die dergelijke gegevens van de gebruiker heeft verzameld, op voorwaarde dat u de oorspronkelijke partij kunt identificeren die de clientgegevens heeft verzameld bij de gebruikers waarop de gegevens betrekking hebben.
 
@@ -38,7 +38,7 @@ Door ervoor te kiezen om de Universal IDs te gebruiken die via de Diensten ter b
 
 ### UID2 verboden landen
 
-Door te verkiezen om UID2 Universele IDs via de Diensten te gebruiken gaat u ermee akkoord om ervoor te zorgen dat alle Gegevens van de Cliënt die, via de On-demand Diensten voor zulk gebruik in verband met UID2 Universal IDs worden overgebracht, worden getoond, worden verspreid of anderszins door u via de On-demand Diensten voor dergelijk gebruik in verband met2 Universele IDs worden verstrekt niet op om het even welk individu betrekking heeft die een ingezetene is van om het even welke [&#x200B; UID2 Verboden die op Exhibood landen die op Exhibit A &#x200B;](#prohibited-countries-uid2) vermeld op  is.
+Door ervoor te kiezen om UID2 universele IDs via de Diensten te gebruiken stemt u ermee in om ervoor te zorgen dat alle Gegevens van de Cliënt die, via de On-demand Diensten voor dergelijk gebruik in verband met UID2 universele IDs worden overgebracht, worden getoond, worden verspreid of anderszins door u worden verstrekt over om het even welk individu dat een ingezetene van om het even welke [ UID2 Verboden Landen is die op Uitgang A ](#prohibited-countries-uid2) hier worden vermeld.
 
 ## Geen discriminatie
 
