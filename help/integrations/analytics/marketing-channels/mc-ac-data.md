@@ -55,5 +55,5 @@ U kunt de analyse verder verbeteren door een Stapelgrafiek te gebruiken die aan 
 >* [&#x200B; Grondbeginselen van  [!DNL Analytics Marketing Channels]](mc-overview.md)
 >* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels &#x200B;](mc-ids.md) te creëren
 >* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
->* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html) meldt
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=nl-NL) meldt
 >* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
