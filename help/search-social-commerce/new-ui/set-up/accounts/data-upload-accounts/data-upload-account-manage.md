@@ -3,7 +3,7 @@ title: Netwerkaccounts configureren voor het uploaden van gegevens
 description: Leer hoe u accountdetails voor een advertentienetwerkaccount instelt en beheert.
 feature: Search Campaign Management
 exl-id: 7e8fb475-21f9-446b-a112-e0f27a4c4172
-source-git-commit: 00565a6c9e784472fab9c9d223c83b0c7cbb91b1
+source-git-commit: 0305fde5c3448899c8ab8d45777a7bc4ed7089ce
 workflow-type: tm+mt
 source-wordcount: '541'
 ht-degree: 0%
@@ -16,11 +16,11 @@ ht-degree: 0%
 
 Hieronder vindt u instructies voor het beheren van accountgegevens voor advertentienetwerkaccounts waarvoor u de accountgegevens uploadt.
 
-Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[&#x200B; Gesteunde Inventaris &#x200B;](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
+Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zie &quot;[ Gesteunde Inventaris ](/help/search-social-commerce/introduction/supported-inventory.md)&quot;.
 
 >[!NOTE]
 >
->Voor instructies over het beheren van rekeningsdetails voor een advertentienetwerkrekening die Onderzoek, Sociale, &amp; Commerce syncs gebruikend API van het advertentienetwerk, zie &quot;[&#x200B; leiden en netwerkrekeningen via API verbinding &#x200B;](../api-accounts/api-account-manage.md)&quot; in plaats daarvan.
+>Voor instructies over het beheren van rekeningsdetails voor een advertentienetwerkrekening die Onderzoek, Sociale, &amp; Commerce syncs gebruikend API van het advertentienetwerk, zie &quot;[ leiden en netwerkrekeningen via API verbinding ](../api-accounts/api-account-manage.md)&quot; in plaats daarvan.
 
 ## Accountdetails maken {#create-account}
 
@@ -28,11 +28,11 @@ Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zi
 
 1. Klik op de naam van het advertentienetwerk en klik vervolgens op **[!UICONTROL Next]** .
 
-1. Specificeer de [&#x200B; rekeningsmontages &#x200B;](#account-settings):
+1. Specificeer de [ rekeningsmontages ](#account-settings):
 
    1. Bewerk op het tabblad **[!UICONTROL Account Details]** de accountgegevens.
 
-   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
 
    1. (Optioneel) Upload op het tabblad **[!UICONTROL Upload File]** gegevensbestanden voor de account.
 
@@ -48,11 +48,11 @@ Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zi
 
    * Plaats de cursor boven de accountnaam, klik op **..** en klik vervolgens op **[!UICONTROL Edit]** .
 
-1. Bewerk de [&#x200B; rekeningsmontages &#x200B;](#account-settings-upload):
+1. Bewerk de [ rekeningsmontages ](#account-settings-upload):
 
    1. (Optioneel) Bewerk op het tabblad **[!UICONTROL Account Details]** de accountgegevens.
 
-   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
+   1. (Facultatief; adverteerders met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md)) klik het **[!UICONTROL Set up Adobe Analytics]** lusje, en geef [!DNL Analytics] rapporteringssuites uit voor het volgen en het melden van campagneactiviteit te gebruiken.
 
    1. (Optioneel) Upload op het tabblad **[!UICONTROL Upload File]** gegevensbestanden voor de account.
 
@@ -102,9 +102,9 @@ Voor details over de functionaliteit beschikbaar voor elk advertentienetwerk, zi
 
 **[!UICONTROL Account Synchronization and Management]> [!UICONTROL Account Enabled]:** Met Zoeken, Sociaal en Commerce kunnen gegevens automatisch worden opgehaald voor een opgegeven S3-emmertje.
 
-## [!UICONTROL Setup Analytics] tab
+### [!UICONTROL Setup Analytics] tab
 
-**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie &#x200B;](/help/integrations/analytics/overview.md); facultatief) Één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt u voor het advertentienetwerk, met inbegrip van entiteitclassificaties uploadt en gegevens voor de rekening klikt.
+**[!UICONTROL Adobe Analytics Report Suite]:** (Advertisers met een [[!DNL Adobe Analytics for Advertising]  integratie ](/help/integrations/analytics/overview.md); facultatief) Één of meerdere het rapportreeksen van Analytics waaraan Onderzoek, Sociale, &amp; Commerce gegevens verzendt u voor het advertentienetwerk, met inbegrip van entiteitclassificaties uploadt en gegevens voor de rekening klikt.
 
 Voor de gegevens om in de rapportreeksen te verschijnen, of (a) moet de server-zij eigenschap van identiteitskaart van AMO voor de rekening worden gevormd of (b) adverteerder-niveau dat aan &quot; [!UICONTROL Enable Advertising reporting in Analytics]&quot;plaatst wordt toegelaten. Daarnaast moet het [!DNL Analytics] -account van de adverteerder zijn geconfigureerd voor het ontvangen van gegevens van Search, Social en Commerce. Neem voor meer informatie contact op met uw Adobe-accountteam.
 
