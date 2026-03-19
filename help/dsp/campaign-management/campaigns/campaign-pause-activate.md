@@ -3,7 +3,7 @@ title: Een campagne onderbreken of activeren
 description: Leer hoe u een live campagne kunt onderbreken of activeren.
 feature: DSP Campaigns
 exl-id: ed199864-8532-411b-b8ea-443ee1c149a2
-source-git-commit: 21ed5558a39ea9b097be8e70ef81bcf8e59c14b4
+source-git-commit: 85d0697069569bed352af5ec1fea023220eec263
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 0%
@@ -32,5 +32,5 @@ Alle plaatsingen die zijn gepauzeerd voordat een campagne wordt gepauzeerd, blij
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; geef een Campagne &#x200B;](campaign-edit.md) uit
->* [&#x200B; archiveer een Campagne &#x200B;](campaign-archive-unarchive.md)
+>* [ geef een campagne ](campaign-edit.md) uit
+>* [ archiveer een campagne ](campaign-archive-unarchive.md)
