@@ -45,10 +45,10 @@ Vul uw [!DNL Naver] -accounts in Zoeken, Sociaal en Commerce door een bulksbladb
 
 >[!MORELIKETHIS]
 >
->* [ Bijlage - de fouten van het Bulksheet ](../bulksheet-errors.md)
->* [ Verrichtingen u in bulksbladen kunt uitvoeren ](bulksheet-operations.md)
->* [ Ondersteunde formaten van het bulkbladdossier ](bulksheet-file-formats.md)
->* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
->* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
->* [ upload een bulksheet- dossier of verbeterd foutendossier ](../bulksheet-upload.md)
->* [ voert  [!DNL Naver]  het volgen-slechts rekeningen ](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit
+>* [&#x200B; Bijlage - de fouten van het Bulksheet &#x200B;](../bulksheet-errors.md)
+>* [&#x200B; Verrichtingen u in bulksbladen kunt uitvoeren &#x200B;](bulksheet-operations.md)
+>* [&#x200B; Ondersteunde formaten van het bulkbladdossier &#x200B;](bulksheet-file-formats.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
+>* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [&#x200B; upload een bulksheet- dossier of verbeterd foutendossier &#x200B;](../bulksheet-upload.md)
+>* [&#x200B; voert  [!DNL Naver]  het volgen-slechts rekeningen &#x200B;](/help/search-social-commerce/campaign-management/naver-tracking-only-account-implement.md) uit

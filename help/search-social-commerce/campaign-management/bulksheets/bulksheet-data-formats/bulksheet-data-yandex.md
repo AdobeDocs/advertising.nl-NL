@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Bijlage - Vereiste bulksbladgegevens voor [!DNL Yandex] -accounts
 
-Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Yandex] -accounts. U kunt of a) [ bulkbladdossiers voor bestaande rekeningen ](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[ Ondersteunde Formaten van het Dossier van het Bulksblad ](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
+Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt u de bulkbladbestanden Zoeken, Sociaal en Commerce gebruiken die specifiek zijn opgemaakt voor [!DNL Yandex] -accounts. U kunt of a) [&#x200B; bulkbladdossiers voor bestaande rekeningen &#x200B;](../bulksheet-download.md) in het vereiste dossierformaat of b) manueel tot hen leiden (zie &quot;[&#x200B; Ondersteunde Formaten van het Dossier van het Bulksblad &#x200B;](bulksheet-file-formats.md)&quot;voor algemene informatie over de gesteunde dossierformaten).
 
 {{$include /help/_includes/bulksheet-appendices-intro.md}}
 
@@ -22,7 +22,7 @@ Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt 
 
 >[!TIP]
 >
->De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![ linkerruit van de Verbergen ](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
+>De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![&#x200B; linkerruit van de Verbergen &#x200B;](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Sitelink | Beschrijving |
 |----|----|-----|-----|----|----|----|
@@ -52,7 +52,7 @@ Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt 
 | [!UICONTROL Ad Group Status] | nvt | Optioneel: maak of bewerk <br> Vereist: Verwijderen | nvt | nvt | nvt | De weergavestatus van de advertentiegroep: <i>[!UICONTROL active]</i>, <i>[!UICONTROL archived]</i>, <i>[!UICONTROL deleted]</i>, <i>[!UICONTROL disapproved]</i>, <i>[!UICONTROL pending]</i> of <i>[!UICONTROL stop]</i> (gepauzeerd). De standaardwaarde voor nieuwe advertentiegroepen is <i>[!UICONTROL active]</i> .<br><br><b> Nota&#39;s:</b><ul></li>Als een advertentiegroep ooit actief is geweest, kunt u het niet schrappen. archiveer het.</li><li>U kunt de status niet handmatig instellen op <i>[!UICONTROL disapproved]</i> of <i>[!UICONTROL pending]</i> , en deze statussen niet wijzigen.</li></ul> |
 | [!UICONTROL Ad Status] | nvt | nvt | nvt | Optioneel: maak of bewerk <br> Vereist: Verwijderen | nvt | De weergavestatus van de banner (advertentie): <i>[!UICONTROL active]</i>, <i>[!UICONTROL archived]</i>, <i>[!UICONTROL deleted]</i>, <i>[!UICONTROL disapproved]</i>, <i>[!UICONTROL pending]</i> of <i>[!UICONTROL stop]</i> (gepauzeerd). De standaardwaarde voor nieuwe banners is <i>[!UICONTROL active]</i> .<br><br><b> Nota: U kunt niet manueel de status plaatsen aan <i>[!UICONTROL disapproved]</i> of <i>[!UICONTROL pending]</i>, noch die statussen veranderen. |
 | [!UICONTROL Keyword Status] | nvt | nvt | Optioneel: maak of bewerk <br> Vereist: Verwijderen | nvt | nvt | De weergavestatus van de woordgroep (trefwoord): <i>[!UICONTROL active]</i> . De standaardwaarde voor nieuwe woordgroepen is <i>[!UICONTROL active]</i> .<br><br><b> Nota: U kunt niet manueel de status plaatsen aan <i>[!UICONTROL disapproved]</i> of <i>[!UICONTROL pending]</i>, noch die statussen veranderen. |
-| [!UICONTROL SiteLink Status] | nvt | nvt | nvt | nvt | Optioneel: maak of bewerk <br> Vereist: Verwijderen | De vertoningsstatus van sitelink: <i>[*UICONTROL Actieve ]</i> of <i>[*UICONTROL gepauzeerd ]</i>. Het gebrek voor nieuwe sitelinks is <i>[*UICONTROL Actieve ]</i>. |
+| [!UICONTROL SiteLink Status] | nvt | nvt | nvt | nvt | Optioneel: maak of bewerk <br> Vereist: Verwijderen | De vertoningsstatus van sitelink: <i>[!UICONTROL * Actieve &#x200B;]</i> of <i>[!UICONTROL * gepauzeerd &#x200B;]</i>. Het gebrek voor nieuwe sitelinks is <i>[!UICONTROL * Actieve &#x200B;]</i>. |
 | [!UICONTROL Campaign ID] | n/a: Creeer <br> Vereist/Optioneel: geef <br> Facultatief uit: Schrapping | Optioneel | Optioneel | Optioneel | Optioneel | De unieke id die een bestaande campagne identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1 ] Vereist slechts wanneer u de campagnenaam verandert, tenzij de rij een identiteitskaart van AMO voor de campagne omvat. |
 | [!UICONTROL Ad Group ID] | nvt | n/a: Creeer <br> Vereist/Optioneel: geef <br> Facultatief uit: Schrapping | Optioneel | Optioneel | nvt | De unieke id die een bestaande advertentiegroep identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1 ] Vereist slechts wanneer u de naam van de advertentiegroep verandert, tenzij de rij een AMO-id voor de advertentiegroep omvat. |
 | [!UICONTROL Ad ID] | nvt | nvt | nvt | n.v.t.: creeer <br> Vereist/Facultatief: geef uit of schrap | nvt | De unieke id die een bestaand trefwoord identificeert. In CSV- en TSV-bestanden moet dit worden voorafgegaan door één aanhalingsteken (&#39;).[^1 ] Vereist slechts wanneer u de sleutelwoordnaam verandert, tenzij de rij a) voldoende bezitskolommen omvat om het sleutelwoord te identificeren of b) een identiteitskaart van AMO. |
@@ -66,9 +66,9 @@ Als u [!DNL Yandex] -campagnegegevens bulksgewijs wilt maken en bijwerken, kunt 
 
 >[!MORELIKETHIS]
 >
->* [ Bijlage - de fouten van het Bulksheet ](../bulksheet-errors.md)
->* [ Verrichtingen u in bulksbladen kunt uitvoeren ](bulksheet-operations.md)
->* [ Ondersteunde formaten van het bulkbladdossier ](bulksheet-file-formats.md)
->* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
->* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
->* [ upload een bulksheet- dossier of verbeterd foutendossier ](../bulksheet-upload.md)
+>* [&#x200B; Bijlage - de fouten van het Bulksheet &#x200B;](../bulksheet-errors.md)
+>* [&#x200B; Verrichtingen u in bulksbladen kunt uitvoeren &#x200B;](bulksheet-operations.md)
+>* [&#x200B; Ondersteunde formaten van het bulkbladdossier &#x200B;](bulksheet-file-formats.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
+>* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [&#x200B; upload een bulksheet- dossier of verbeterd foutendossier &#x200B;](../bulksheet-upload.md)

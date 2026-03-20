@@ -45,4 +45,4 @@ U kunt gegevens voor [!DNL Yahoo! Display Network] -accounts bulksgewijs downloa
 
 >[!MORELIKETHIS]
 >
->* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
+>* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
