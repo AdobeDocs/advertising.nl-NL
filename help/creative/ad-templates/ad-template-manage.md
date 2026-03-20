@@ -2,9 +2,10 @@
 title: Dynamische advertentiesjablonen beheren
 description: Leer hoe u dynamische advertentiesjablonen beheert en er advertenties van maakt.
 feature: Creative Templates
-source-git-commit: 9c7f3d2aec0952b38d2fd3097d0b3499d33bf3b8
+exl-id: 248f1467-ebd3-47f2-a24c-043bbfadcc6e
+source-git-commit: 7945887cf34c5ff390a35f1b9a6ede2888254c65
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '453'
 ht-degree: 0%
 
 ---
@@ -21,13 +22,13 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 
 >[!NOTE]
 >
->U kunt een dynamisch advertentiemalplaatje ook uploaden wanneer u [&#x200B; dynamische creatieve creatieven aan een creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle advertentiesjablonen die u daar maakt, worden beschikbaar in de weergave [!UICONTROL Ad Templates] voor toekomstig gebruik.
+>U kunt een dynamisch advertentiemalplaatje ook uploaden wanneer u [ dynamische creatieve creatieven aan een creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toevoegt. Alle advertentiesjablonen die u daar maakt, worden beschikbaar in de weergave [!UICONTROL Ad Templates] voor toekomstig gebruik.
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]** .
 
 1. Klik rechtsboven op **[!UICONTROL Create Ad Template]**
 
-1. Specificeer [&#x200B; en malplaatjemontages &#x200B;](#ad-template-settings)
+1. Specificeer [ en malplaatjemontages ](#ad-template-settings)
 
 1. Klik op **[!UICONTROL Create]**.
 
@@ -37,7 +38,7 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 
 1. Plaats de cursor op de rij voor de advertentiesjabloon en klik op **[!UICONTROL Edit]** .
 
-1. Bewerk de [&#x200B; montages van het advertentiesjabloon &#x200B;](#ad-template-settings).
+1. Bewerk de [ montages van het advertentiesjabloon ](#ad-template-settings).
 
 1. Klik op **[!UICONTROL Save]**.
 
@@ -57,13 +58,13 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 
 1. Plaats de cursor op de rij voor de advertentiesjabloon en klik op **[!UICONTROL Delete]** .
 
-1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** . <!-- Confirm -->
+1. Klik in het bevestigingsbericht op **[!UICONTROL Delete]** .
 
 ## Dynamische advertenties maken van een advertentiesjabloon
 
 >[!NOTE]
 >
->U kunt dynamische creatieve creatieven aan een creatieve bibliotheek [&#x200B; van binnen een creatieve bibliotheek ook toevoegen.](/help/creative/creative-libraries/creative-add-dynamic.md)
+>U kunt dynamische creatieve creatieven aan een creatieve bibliotheek [ van binnen een creatieve bibliotheek ook toevoegen.](/help/creative/creative-libraries/creative-add-dynamic.md)
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Ad Templates]** .
 
@@ -71,7 +72,7 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 
    In het [!UICONTROL New Dynamic Ad] -scherm worden de velden [!UICONTROL Ad Template Size] , [!UICONTROL Ad Template Type] en [!UICONTROL Ad Template] automatisch geselecteerd en hebben deze het kenmerk Alleen-lezen.
 
-1. Specificeer de dynamische ad montages om [&#x200B; de dynamische advertenties &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) tot stand te brengen.
+1. Specificeer de dynamische ad montages om [ de dynamische advertenties ](/help/creative/creative-libraries/creative-add-dynamic.md) tot stand te brengen.
 
 ## Sjablooninstellingen toevoegen {#ad-template-settings}
 
@@ -87,19 +88,15 @@ Maak een aparte advertentiesjabloon voor elke combinatie van advertentietype (st
 
 **[!UICONTROL Description]**: (Optioneel) Informatie die nuttig is voor iedereen die de advertentiesjabloon gebruikt.
 
-<!-- I don't see this on 9/24:
+### (Statische HTML5-advertentiesjablonen) Klik op Codes
 
-### (Static HTML5 ad templates) Click Tags
-
-**\[Click Tag Parameter\]**: The click tag parameters to allow click-tracking redirects from ads created using the ad template. To add a parameter, click **[!UICONTROL + Add More]** and enter an additional parameter. You can include up to five parameters.
-
--->
+**\ [klik de Parameter van de Markering \]**: De parameters van de klikmarkering om klik-volgende omleidingen van advertenties toe te staan die gebruikend het advertentiemalplaatje worden gecreeerd. Als u een parameter wilt toevoegen, klikt u op **[!UICONTROL + Add More]** en voert u een extra parameter in. U kunt maximaal vijf parameters opnemen.
 
 ### HTML5 zip
 
 Een gecomprimeerd HTML5-bestand met de gewenste advertentievorm. Als u al een bestand hebt geüpload, wordt de bestandsnaam weergegeven.
 
-Zie [&#x200B; HTML5 creatieve specificatie &#x200B;](/help/creative/creative-libraries/html5-creative-specification.md).
+Zie [ HTML5 creatieve specificatie ](/help/creative/creative-libraries/html5-creative-specification.md).
 
 Een bestand uploaden:
 
@@ -109,9 +106,7 @@ Een bestand uploaden:
 
 ### (Dynamisch HTML5-advertentiesjablonen) Attributenbestand
 
-<!-- EXPLAIN -->Een bestand dat kenmerken bevat voor de advertentiesjabloon. Als u al een bestand hebt geüpload, wordt de bestandsnaam weergegeven.
-
-<!-- Add specs for this file type -->
+<!-- EXPLAIN and ad specs below for this file type -->Een bestand dat kenmerken bevat voor de advertentiesjabloon. Als u al een bestand hebt geüpload, wordt de bestandsnaam weergegeven.
 
 Een bestand uploaden:
 
@@ -121,9 +116,8 @@ Een bestand uploaden:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
->* [&#x200B; beheert activa dossiers &#x200B;](/help/creative/feeds/asset-manage.md)
->* [&#x200B; beheer voedermalplaatjes &#x200B;](/help/creative/feeds/feed-template-manage.md)
->* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
->* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-dynamic.md) toe
-
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
+>* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
+>* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)
+>* [ voeg dynamische creatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-dynamic.md) toe

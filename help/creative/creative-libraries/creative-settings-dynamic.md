@@ -3,7 +3,7 @@ title: Dynamische creatieve instellingen
 description: Verwijs naar de instellingen voor dynamische creatieven.
 feature: Creative Dynamic Creatives
 exl-id: 9dcd7245-fa02-4082-9abb-8c0792322a68
-source-git-commit: a8723bafa57e726fc920c98f2fd44f99f444ed3e
+source-git-commit: 7945887cf34c5ff390a35f1b9a6ede2888254c65
 workflow-type: tm+mt
 source-wordcount: '405'
 ht-degree: 0%
@@ -38,7 +38,7 @@ ht-degree: 0%
 
 Klik op **[!UICONTROL Select Ad Template]** om door te gaan.
 
-**[!UICONTROL Size]:** (Dynamische vertoningsadvertenties slechts; read-only) [&#x200B; en afmetingen &#x200B;](/help/creative/creative-libraries/creative-sizes.md) voor het geselecteerde advertentiemalplaatje, dat wordt gebruikt om tot de advertenties te leiden.
+**[!UICONTROL Size]:** (Dynamische vertoningsadvertenties slechts; read-only) [ en afmetingen ](/help/creative/creative-libraries/creative-sizes.md) voor het geselecteerde advertentiemalplaatje, dat wordt gebruikt om tot de advertenties te leiden.
 
 **[!UICONTROL Card Count (Max 50)]:** (Alleen advertenties weergeven) Het aantal producten dat in een carrousel moet worden weergegeven.
 
@@ -58,7 +58,7 @@ Geüploade catalogi moeten de ZIP-indeling hebben en het volgende bevatten:
 
 ### [!UICONTROL Attributes Mapping]
 
-**[!UICONTROL Enable targeting]**: <!-- "targeting options/filters," but I don't think this means user targeting since that is set in the experience/ad on DSP --> de types van kolommen in het voederdossier waarvoor de waarden moeten aanwezig zijn om tot advertenties te leiden: *[!UICONTROL Profile data]*, * [!UICONTROL Geographic data], * [!UICONTROL Data pass], *[!UICONTROL Audience Segment]*.  **Nota:** Deze montages werken onafhankelijk van de geavanceerde montages in en ervaringsmontages.<!-- Clarify what qualifies for each, and explain more -->
+**[!UICONTROL Enable targeting]**: De typen kolommen in het voederbestand waarvoor waarden aanwezig moeten zijn om advertenties te maken: *[!UICONTROL Profile data]*, * [!UICONTROL Geographic data], * [!UICONTROL Data pass], *[!UICONTROL Audience Segment]* .  **Nota:** Deze montages werken onafhankelijk van de geavanceerde montages in en ervaringsmontages.<!-- Clarify what qualifies for each, and explain more -->
 
 **[!UICONTROL Dynamic Ad Fields]** / **[!UICONTROL Maps to Catalog Labels]:**
 
@@ -66,6 +66,6 @@ Wijs elk kenmerk (dynamisch en veld) in de opgegeven advertentiesjabloon toe aan
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg dynamische creatieve creatieve bibliotheek &#x200B;](creative-add-dynamic.md) toe
->* [&#x200B; geef dynamische creatieve creatieve bibliotheek &#x200B;](creative-edit-dynamic.md) uit
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ voeg dynamische creatieve creatieve bibliotheek ](creative-add-dynamic.md) toe
+>* [ geef dynamische creatieve creatieve bibliotheek ](creative-edit-dynamic.md) uit
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)

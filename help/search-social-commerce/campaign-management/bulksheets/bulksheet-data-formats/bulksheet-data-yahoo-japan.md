@@ -3,7 +3,7 @@ title: Bulksheet gegevens voor  [!DNL Yahoo! Japan]  rekeningen
 description: Verwijzing de kopbalgebieden en gegevensgebieden in gedownloade bulksbladen voor  [!DNL Yahoo! Japan]  rekeningen.
 exl-id: 78eb41ce-3854-454c-adf2-ba0339e2aef7
 feature: Search Bulksheets
-source-git-commit: 5c750153ff9e4be2d02f572d96b171d7aa293dd9
+source-git-commit: 7945887cf34c5ff390a35f1b9a6ede2888254c65
 workflow-type: tm+mt
 source-wordcount: '2672'
 ht-degree: 0%
@@ -14,21 +14,11 @@ ht-degree: 0%
 
 U kunt gegevens voor [!DNL Yahoo! Japan] -accounts bulksgewijs downloaden, maar u kunt geen bulksbladen uploaden of posten naar het advertentienetwerk.
 
-<!-- Hiding because this is probably too long a list to be useful.
-
-## Available header fields
-
-Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adjustment,Location,Location Type,Ad Group Name,Max CPC,Keyword,Match Type,First Page Bid, Quality Score,Ad Name (Yahoo JP),Creative Preferred Devices,Ad Title,Ad Title2,Description Line 1,Description Line 2,Creative Type,Display URL,Display Path 1,Display Path 2,Base URL/Final URL,Destination URL,Tracking Template,Campaign Status,Ad Group Status,Keyword Status,Ad Status,Location Status,[Advertiser-specific Label Classification],Constraints,Campaign ID,Ad Group ID,Keyword ID,Ad ID,AMO ID,Error Message
-
-{{$include /help/_includes/bulksheet-headers-note.md}}
-
--->
-
 ## Beschikbare gegevensvelden
 
 >[!TIP]
 >
->De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![&#x200B; linkerruit van de Verbergen &#x200B;](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
+>De volgende tabel is breed. Om uw het bekijken gebied uit te breiden, kunt u tijdelijk de inhoudstafel en de juiste ruit verbergen door ![ linkerruit van de Verbergen ](/help/dsp/assets/hide-left-pane.png " te klikken verberg verlaten ruit ") bij de bovenkant van de linkerruit en ![Rechtervenster verbergen](/help/dsp/assets/hide-right-pane.png "Rechtervenster verbergen") bij de bovenkant van de juiste ruit. U kunt ook de volledige inhoud weergeven met de schuifbalk onder aan de tabel.
 
 | Veld | Campagne | Advertentiegroep | Trefwoord | Tekst toevoegen | Doel campagnelocatie | Beschrijving |
 |----|----|----|----|----|----|----|
@@ -57,7 +47,7 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 | [!UICONTROL Display Path 1], [!UICONTROL Display Path 2] | nvt | nvt | nvt | Optioneel / n.v.t. | nvt | (Alleen uitgebreide tekstadvertenties; optioneel) Tekst die aan de weergave-URL wordt toegevoegd en die automatisch wordt opgehaald uit de laatste URL. Het is voorafgegaan in URL door een voorwaartse schuine streep (`/`). Een weg kan geen voorwaartse schuine streep (`/`) of newline (`\n`) karakters bevatten. De maximumlengte is 15 tekens of 7 double-byte tekens.<br><br> om een advertentieconditionator op te nemen, gebruik de volgende formaten, waar `Default text` een facultatieve waarde aan tussenvoegsel is wanneer uw voederdossier geen geldige waarde omvat:<ul><li>[!DNL Google Ads]: `{CUSTOMIZER.AdCustomizerName:Default text}, such as {CUSTOMIZER.Discount:10%}`</li><li>[!DNL Microsoft Advertising]: `{CUSTOMIZER.Attribute name:Default text}, such as {CUSTOMIZER.Discount:10%}`</li></ul>Als [!UICONTROL Display Path 1] bijvoorbeeld &#39;deals&#39; is, is de weergave-URL `&lt;display URL&gt;/deals` , zoals www.example.com/deals. |
 | [!UICONTROL Base URL/Final URL] | nvt | nvt | Optioneel | Vereist | nvt | De bestemmingspagina URL waaraan de eind - gebruikers worden genomen wanneer zij uw advertentie klikken, met inbegrip van om het even welke toevoegingsparameters die voor de campagne of de rekening worden gevormd. Basis/definitieve URLs op het sleutelwoordniveau treedt URLs op het advertentieniveau en hoger met voeten. |
 | [!UICONTROL Destination URL] | nvt | nvt | nvt | nvt | nvt | (Opgenomen in gegenereerde bulksbladen voor informatiedoeleinden; niet gepost naar het advertentienetwerk) Voor accounts met doel-URL&#39;s is deze URL de URL die een advertentie koppelt aan een basis-URL/bestemmingspagina op de website van de adverteerder (soms via een andere site die de klik bijhoudt en de gebruiker vervolgens doorstuurt naar de bestemmingspagina). Het bevat alle toevoegingsparameters die zijn geconfigureerd voor de campagne of account voor Zoeken, Sociaal zoeken en Commerce. Als u URL&#39;s voor bijhouden hebt gegenereerd, is dit gebaseerd op de volgende parameters in uw accountinstellingen en campagnemontages. Als u netwerkspecifieke parameters toevoegt, kunnen deze worden vervangen door de equivalente parameters voor Zoeken, Sociale en Commerce.<br><br> voor rekeningen met definitieve URLs, toont deze kolom de zelfde waarde zoals de Basis URL/Definitieve kolom URL.<br><br> Doel URLs op het sleutelwoord of plaatsingsniveau treedt URLs op het advertentieniveau met voeten. |
-| [!UICONTROL Tracking Template] | Optioneel | Optioneel | Optioneel | Optioneel | Optioneel | (Optioneel) De URL voor reeksspatiëring of reeksspatiëring, die alle omleidingen en volgparameters van het niet-landende domein opgeeft en ook de URL van de laatste/landingspagina in een parameter insluit. Gebruik de parameter `!{lpurl}` om de bestemmingspagina-URL aan te geven. Voorbeeld: `{lpurl}?source={network}&id=5` of `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` om een omleiding op te nemen.<br><br> u kunt naar keuze derde toe te voegen richt en het volgen.<br><br> voor Adobe Advertising conversie het volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce vooraf bevestigt automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.<br><br> het volgen malplaatje op het meest korrelige niveau treedt de waarden op alle hogere niveaus met voeten. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast. |
+| [!UICONTROL Tracking Template] | Optioneel | Optioneel | Optioneel | Optioneel | Optioneel | (Optioneel) De URL voor reeksspatiëring of reeksspatiëring, die alle omleidingen en volgparameters van het niet-landende domein opgeeft en ook de URL van de laatste/landingspagina in een parameter insluit. Gebruik de parameter `!{lpurl}` om de bestemmingspagina-URL aan te geven. Voorbeeld: `{lpurl}?source={network}&id=5` of `http://www.trackingservice.example.com/?url={lpurl}?source={network}&id=5` om een omleiding op te nemen.<br><br> u kunt naar keuze derde toe te voegen richt en het volgen.<br><br> voor het omzetten van Adobe Advertising het volgen, die wordt toegepast wanneer de campagnemontages &quot; [!UICONTROL EF Redirect]&quot;en &quot;[!UICONTROL Auto Upload] omvatten,&quot;Onderzoek, Sociale, &amp; Commerce vooraf bevestigt automatisch zijn eigen omleiding en het volgen code wanneer u sparen het verslag.<br><br> het volgen malplaatje op het meest korrelige niveau treedt de waarden op alle hogere niveaus met voeten. Als zowel de accountinstellingen als de trefwoordinstellingen bijvoorbeeld een waarde bevatten, wordt de trefwoordwaarde toegepast. |
 | [!UICONTROL Campaign Status] | Optioneel: maak of bewerk <br><br> Vereist: Verwijderen | nvt | nvt | nvt | nvt | De weergavestatus van de campagne: *[!UICONTROL Active]* (de standaardinstelling voor nieuwe campagnes), *[!UICONTROL Paused]*, *[!UICONTROL Ended]* (alleen bestaande campagnes) of *[!UICONTROL Deleted]* (alleen bestaande campagnes). |
 | [!UICONTROL Ad Group Status] | nvt | Optioneel: maak of bewerk <br><br> Vereist: Verwijderen | nvt | nvt | nvt | De weergavestatus van de advertentiegroep:  *[!UICONTROL Active]* , *[!UICONTROL Paused]* of *[!UICONTROL Deleted]* (alleen bestaande advertentiegroepen). De standaardwaarde voor nieuwe advertentiegroepen is [!UICONTROL Active] . Als u een actieve of gepauzeerde advertentiegroep wilt verwijderen, voert u de waarde `Deleted` in. |
 | [!UICONTROL Keyword Status] | nvt | nvt | Optioneel: maak of bewerk <br><br> Vereist: Verwijderen | nvt | nvt | De weergavestatus van het trefwoord: *[!UICONTROL Active]*, *[!UICONTROL Deleted]* (alleen bestaande trefwoorden), *[!UICONTROL Disapproved]* (niet bewerkbaar), *[!UICONTROL Paused]* (alleen bestaande trefwoorden) of *[!UICONTROL Pending]* (niet bewerkbaar). De standaardwaarde voor nieuwe trefwoorden is [!UICONTROL Active] . Voer de waarde `Deleted` in om een trefwoord te verwijderen. |
@@ -77,9 +67,9 @@ Platform,Acct Name,Campaign Name,Campaign Budget,Delivery Method,Mobile Bid Adju
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Bijlage - de fouten van het Bulksheet &#x200B;](../bulksheet-errors.md)
->* [&#x200B; Verrichtingen u in bulksbladen kunt uitvoeren &#x200B;](bulksheet-operations.md)
->* [&#x200B; Ondersteunde formaten van het bulkbladdossier &#x200B;](bulksheet-file-formats.md)
->* [&#x200B; Download/creeer een bulksheet- dossier &#x200B;](../bulksheet-download.md)
->* [&#x200B; klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
->* [&#x200B; upload een bulksheet- dossier of verbeterd foutendossier &#x200B;](../bulksheet-upload.md)
+>* [ Bijlage - de fouten van het Bulksheet ](../bulksheet-errors.md)
+>* [ Verrichtingen u in bulksbladen kunt uitvoeren ](bulksheet-operations.md)
+>* [ Ondersteunde formaten van het bulkbladdossier ](bulksheet-file-formats.md)
+>* [ Download/creeer een bulksheet- dossier ](../bulksheet-download.md)
+>* [ klik-volgende formaten voor  [!DNL Naver]](/help/search-social-commerce/tracking/formats-click-tracking-naver.md)
+>* [ upload een bulksheet- dossier of verbeterd foutendossier ](../bulksheet-upload.md)
