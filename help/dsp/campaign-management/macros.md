@@ -3,7 +3,7 @@ title: Advertising DSP macros
 description: Verwijs naar de beschikbare macro's voor het algemene volgen en om kliks op derdevertoningsadvertenties te volgen.
 feature: DSP Ads
 exl-id: 7058c988-c544-4a61-84dd-eec4ce88ceba
-source-git-commit: 658c8a10c4085690ce4dd7e791883dbf31f1cb10
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '940'
 ht-degree: 0%
@@ -48,7 +48,8 @@ Gebruik algemene &#39;tracking&#39;-macro&#39;s voor alle advertentietypen en ta
 
 {style="table-layout:auto"}
 
-<!-- Removed because not found in code base:
+<!--
+ Removed because not found in code base:
 |` ${TM_MACRO_PROMOTED_AD_KEY}` | The promoted ad key for the placement. Required for [!DNL AppsFlyer] click trackers for mobile app install ads. | string |
  -->
 
@@ -87,7 +88,7 @@ Als een klikmacro ontbreekt wanneer u een vertoningsadvertentie bouwt, toont DSP
 
 ## [!DNL Analytics for Advertising] macro&#39;s
 
-Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[&#x200B;  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Flashtalking]  toevoegen en markeringen &#x200B;](/help/integrations/analytics/macros-flashtalking.md) &quot;[&#x200B; toevoegt  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Google Campaign Manager 360]  en markeringen &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
+Voor extra macro&#39;s beschikbaar specifiek voor [[!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) klanten, zie &quot;[  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Flashtalking]  toevoegen en markeringen ](/help/integrations/analytics/macros-flashtalking.md) &quot;[ toevoegt  [!DNL Analytics for Advertising]  macro&#39;s aan  [!DNL Google Campaign Manager 360]  en markeringen ](/help/integrations/analytics/macros-google-campaign-manager.md).&quot;
 
 ## Problemen met macrofouten oplossen
 
@@ -100,10 +101,10 @@ Er worden fouten gegenereerd als er tekens ontbreken aan het begin of einde van 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Audio en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-audio.md)
->* [&#x200B; Verbonden TV en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
->* [&#x200B; Vertoning en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-display.md)
->* [&#x200B; Mobiele en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
->* [&#x200B; Inheemse en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-native.md)
->* [&#x200B; pre-rol en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
->* [&#x200B; Universele video en montages &#x200B;](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)
+>* [ Audio en montages ](/help/dsp/campaign-management/ads/ad-settings-audio.md)
+>* [ Verbonden TV en montages ](/help/dsp/campaign-management/ads/ad-settings-connected-tv.md)
+>* [ Vertoning en montages ](/help/dsp/campaign-management/ads/ad-settings-display.md)
+>* [ Mobiele en montages ](/help/dsp/campaign-management/ads/ad-settings-mobile.md)
+>* [ Inheemse en montages ](/help/dsp/campaign-management/ads/ad-settings-native.md)
+>* [ pre-rol en montages ](/help/dsp/campaign-management/ads/ad-settings-pre-roll.md)
+>* [ Universele video en montages ](/help/dsp/campaign-management/ads/ad-settings-universal-video.md)

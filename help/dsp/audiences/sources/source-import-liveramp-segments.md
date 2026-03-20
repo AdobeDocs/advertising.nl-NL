@@ -3,7 +3,7 @@ title: Handmatig geverifieerde segmenten importeren uit  [!DNL LiveRamp]
 description: Leer over het activeren van voor authentiek verklaard publiek door  [!DNL LiveRamp].
 feature: DSP Audiences
 exl-id: c56a54c7-5300-4cda-96d0-82d86e76ee39
-source-git-commit: cff6b5ad2c66699a6e0402bce6685acc536fd0a0
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 0%
@@ -18,7 +18,8 @@ Met het dashboard [!DNL LiveRamp] [!DNL LiveRamp] kunt u geverifieerde [!DNL Con
 
 Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeven dagen duren.
 
-<!--Is this first step relevant for this process?
+<!--
+Is this first step relevant for this process?
 
 1. For measurement using [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md):
 
@@ -34,7 +35,7 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 
    1. Stel [!DNL Identifier Settings] alleen in op **[!DNL Ramp ID]** .
 
-      ![&#x200B; montages van het Herkenningsteken &#x200B;](/help/dsp/assets/liveramp-tile-settings.png)
+      ![ montages van het Herkenningsteken ](/help/dsp/assets/liveramp-tile-settings.png)
 
    1. (Optioneel) Als u nog steeds op cookies gebaseerde id&#39;s wilt ontvangen, maakt u een tweede [!DNL AAC API 1P Onboarding] doeltegel met &quot;[!DNL Cookies]&quot;, &quot;[!DNL IDFA]&quot; en &quot;[!DNL AAID]&quot; geselecteerd.
 
@@ -42,7 +43,7 @@ Het in kaart brengen en uploaden van segmenten voor elke invoerbaan kan tot zeve
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](source-about.md)
->* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](source-manage.md)
->* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
+>* [ Ongeveer eerste-partijpublieksbronnen ](source-about.md)
+>* [ beheert publieksbronnen om universele identiteitskaart te activeren ](source-manage.md)
+>* [ verbinding van Adobe Advertising DSP ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [ Ongeveer publieksbeheer ](/help/dsp/audiences/audience-about.md)

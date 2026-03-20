@@ -3,7 +3,7 @@ title: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 description: Adobe Advertising-id's gebruikt door Customer Journey Analytics
 feature: Integration with Adobe Customer Journey Analytics
 exl-id: af60dcb4-4d1a-4097-ac30-688bd8b9f644
-source-git-commit: 7fa058da06edadf9b98aa49b0e5a1110ea68808c
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 0%
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 Adobe Advertising gebruikt twee IDs voor prestaties het volgen ter plaatse: *EF identiteitskaart* en *identiteitskaart van AMO*.
 
-<!-- Rewrite for CJA:
+<!--
+ Rewrite for CJA:
 
 When an ad impression occurs, Adobe Advertising creates the AMO ID and EF ID values and stores them. For click-through traffic, these IDs are included in the landing page URL using the `ef_id` and `s_kwcid` (for the AMO ID) query string parameters.
 
@@ -56,7 +57,8 @@ Adobe Advertising distinguishes between a click-through or view-through entry to
 
 {{$include /help/_includes/amo-id.md}}
 
-<!-- rewrite for CJA:
+<!--
+ rewrite for CJA:
 
 ### AMO ID Dimension in [!DNL Customer Journey Analytics]
 
@@ -68,7 +70,7 @@ For any reporting or auditing within [!DNL Analytics], the best practice is to u
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht &#x200B;](overview.md)
->* [&#x200B; Eerste vereisten &#x200B;](prerequisites.md)
->* [&#x200B; de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden &#x200B;](set-up.md)
->* [&#x200B; de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics &#x200B;](advertising-data-in-cja.md)
+>* [ Overzicht ](overview.md)
+>* [ Eerste vereisten ](prerequisites.md)
+>* [ de inzameling van opstellingsgegevens, gegevensoverdracht, en het melden ](set-up.md)
+>* [ de metriek en de afmetingen van Adobe Advertising in Customer Journey Analytics ](advertising-data-in-cja.md)

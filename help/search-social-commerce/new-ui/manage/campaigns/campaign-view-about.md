@@ -4,7 +4,7 @@ description: Leer wat u kunt doen in de [!UICONTROL Campaigns] weergave.
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 7d261ac3-5d89-4357-9866-19a7e3aab837
-source-git-commit: 8cf0817adc26709a3ad662207a522ac4cf833a92
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 0%
@@ -19,7 +19,8 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 ## Beschikbare acties
 
-<!-- Not available as of 3/4/26:
+<!--
+ Not available as of 3/4/26:
 
 * [View a performance graph across all campaigns in the view](campaign-view-performance-graph.md)
 -->
@@ -28,7 +29,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 * Verwijder of wijzig de status van een campagne vanuit de rij.
 
-* [&#x200B; wijst campagnes aan bestaande of nieuwe portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [&#x200B; unassign campagnes van portefeuilles &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+* [ wijst campagnes aan bestaande of nieuwe portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe, en [ unassign campagnes van portefeuilles ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
 
 * [Beperkingen aan campagnes toewijzen en beperkingen van campagnes ongedaan maken](/help/search-social-commerce/new-ui/manage/campaigns/campaign-constraint-assignments-manage.md)
 
@@ -36,7 +37,7 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Campaigns] worden alle campagne
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Wijs campagnes aan een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
->* [&#x200B; verwijdert campagnes uit een portefeuille &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
->* [&#x200B; beheert beperkingstaken voor campagnes &#x200B;](campaign-constraint-assignments-manage.md)
->* [&#x200B; gegevens van de Download van de [!UICONTROL Campaigns] mening &#x200B;](campaign-view-report.md)
+>* [ Wijs campagnes aan een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-assign-to-portfolio) toe
+>* [ verwijdert campagnes uit een portefeuille ](https://experienceleague.adobe.com/en/docs/advertising/search-social-commerce/campaign-management/campaign-remove-from-portfolio)
+>* [ beheert beperkingstaken voor campagnes ](campaign-constraint-assignments-manage.md)
+>* [ gegevens van de Download van de [!UICONTROL Campaigns] mening ](campaign-view-report.md)

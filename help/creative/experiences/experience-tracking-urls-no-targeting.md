@@ -3,9 +3,9 @@ title: De URL's voor bijhouden aanpassen voor een ervaring zonder focus te plaat
 description: Leer hoe u de URL's voor bijhouden voor elke creatieve gebruiker aanpast in een ervaring zonder doelversie van de boomstructuur.
 feature: Creative Experiences
 exl-id: 03a10285-c0df-4bc3-92c7-c1c2ea3f8129
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
    1. Klik op **[!UICONTROL Create]**.
 
-1. Houd de curseur over de rij voor de toepasselijke advertentietag en klik ![&#x200B; het volgen URLs &#x200B;](/help/creative/assets/edit-gray.png " uitgeven het volgen URLs ") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs" -->&lt;!— Tagbeheer heeft alleen een lijstweergave, maar geen kaartweergave, vanaf 2/2. >
+1. Houd de curseur over de rij voor de toepasselijke ad markering en klik ![ het volgen URLs ](/help/creative/assets/edit-gray.png " uitgeven het volgen URLs ") **[!UICONTROL Tracking URLs]**. <!-- For targeted experiences, this is "EDIT Tracking URLs"  Tag Manager has only a list view, but no card view, as of 2/2. -->
 
    Op de tabbladen [!UICONTROL Click Tracking URLs] , [!UICONTROL Impression Tracking URLs] en [!UICONTROL Landing URLs] staan de namen van alle creatieve elementen in de toepasselijke grootten in de toegewezen bundels vermeld. De grootte van de standaardcreatieven voor de ervaring bepaalt de beschikbare grootte.<!-- There's no distinct "Creative Sizes" setting. -->
 
@@ -50,7 +50,7 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
       * Als u nog een aangepaste URL wilt toevoegen, klikt u op **[!UICONTROL +]** en voert u de URL in het invoerveld in.
 
-      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![&#x200B; Schrapping &#x200B;](/help/creative/assets/delete.png " ").
+      * Om een douane URL te verwijderen, houd de curseur over de creatieve rij en klik ![ Schrapping ](/help/creative/assets/delete.png " ").
 
       U kunt maximaal vijf aangepaste URL&#39;s voor het bijhouden van afbeeldingen, vijf aangepaste URL&#39;s voor het bijhouden van klikken en één aangepaste URL voor de bestemmingspagina opnemen.
 
@@ -58,5 +58,5 @@ De aangepaste URL&#39;s worden alleen gebruikt voor advertenties die zijn gemaak
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten &#x200B;](experience-tag-assign-creatives.md)
->* [&#x200B; pas het volgen URLs voor een ervaring met beslissingsboom aan richtend &#x200B;](experience-tracking-urls-targeting.md)
+>* [ wijs creatieve elementen aan een ad markering voor ervaringen toe zonder zich te richten ](experience-tag-assign-creatives.md)
+>* [ pas het volgen URLs voor een ervaring met beslissingsboom aan richtend ](experience-tracking-urls-targeting.md)

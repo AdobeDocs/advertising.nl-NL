@@ -3,7 +3,7 @@ title: Creatieve elementen dupliceren
 description: Leer hoe u creatieve creatieve artikelen kunt dupliceren.
 feature: Creative Standard Creatives, Creative Dynamic Creatives
 exl-id: ec6ce2f5-fe2e-4c95-b0d9-dc09f3ce55c4
-source-git-commit: 84ef17f304fbd9eda82682368dfd59727971281d
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '195'
 ht-degree: 0%
@@ -36,7 +36,8 @@ Dupliceer creatieve elementen om nieuwe creatieve elementen met dezelfde instell
 
    De nieuwe creatieve elementen krijgen de naam `<original name> (copy) # 1` (of het volgende nummer in de reeks). Als u bijvoorbeeld twee duplicaten maakt van &quot;Afbeelding testen&quot;, krijgen de duplicaten de naam &quot;Afbeelding testen (kopie) # 1&quot; en &quot;Afbeelding testen (kopie) # 2&quot;.
 
-<!-- Add to TOC later when this feature is available to users:
+<!--
+ Add to TOC later when this feature is available to users:
 
 >* [Edit dynamic creatives](creative-edit-dynamic.md)
 >* [Dynamic ad settings](creative-settings-dynamic.md)
@@ -44,7 +45,7 @@ Dupliceer creatieve elementen om nieuwe creatieve elementen met dezelfde instell
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](creative-add-standard.md) toe
->* [&#x200B; geeft standaardcreatieve producten &#x200B;](creative-edit-standard.md) uit
->* [&#x200B; Standaard creatieve montages &#x200B;](creative-settings-standard.md)
->* [&#x200B; Mening het veranderingslogboek voor creatief &#x200B;](/help/creative/creative-libraries/creative-view-change-log.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](creative-add-standard.md) toe
+>* [ geeft standaardcreatieve producten ](creative-edit-standard.md) uit
+>* [ Standaard creatieve montages ](creative-settings-standard.md)
+>* [ Mening het veranderingslogboek voor creatief ](/help/creative/creative-libraries/creative-view-change-log.md)

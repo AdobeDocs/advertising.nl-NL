@@ -3,7 +3,7 @@ title: Uw gegevensweergaven aanpassen
 description: Leer hoe u de gegevens aanpast in elk van de beschikbare weergaven.
 feature: Creative Introduction
 exl-id: 5255e0e4-a7f8-41d2-9b38-0e276dc1f3f0
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '281'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 * Selecteer in de weergaven [!UICONTROL Creative Libraries] en [!UICONTROL Experiences] de adverteerder in de lijst met adverteerders rechtsboven.
 
-![&#x200B; Voorbeeld van een adverteerderlijst &#x200B;](/help/creative/assets/advertiser.png " Voorbeeld van een adverteerderlijst ")
+![ Voorbeeld van een adverteerderlijst ](/help/creative/assets/advertiser.png " Voorbeeld van een adverteerderlijst ")
 
 ## Gegevens weergeven als kaarten of als tabellen
 
@@ -24,15 +24,16 @@ Geef de gegevens in de weergaven [!UICONTROL Creative Libraries] en [!UICONTROL 
 
 Wanneer u schakelt tussen de kaartweergave en de tabelweergave, blijven de filters en selecties behouden.
 
-![&#x200B; mening van de Kaart van de Kaart &#x200B;](/help/creative/assets/card-view-button.png " mening ") opent de kaartmening
+![ mening van de Kaart van de Kaart ](/help/creative/assets/card-view-button.png " mening ") opent de kaartmening
 
-![&#x200B; Voorbeeld van een kaartmening &#x200B;](/help/creative/assets/card-view-example.png " Voorbeeld van een kaartmening ")
+![ Voorbeeld van een kaartmening ](/help/creative/assets/card-view-example.png " Voorbeeld van een kaartmening ")
 
-![&#x200B; Lijst/lijstmening &#x200B;](/help/creative/assets/table-view-button.png " de mening van de Lijst ") opent de lijstmening
+![ Lijst/lijstmening ](/help/creative/assets/table-view-button.png " de mening van de Lijst ") opent de lijstmening
 
-![&#x200B; Voorbeeld van een lijstmening &#x200B;](/help/creative/assets/table-view-example.png " Voorbeeld van een lijstmening ")
+![ Voorbeeld van een lijstmening ](/help/creative/assets/table-view-example.png " Voorbeeld van een lijstmening ")
 
-<!-- not implemented as of 11-26:
+<!--
+ not implemented as of 11-26:
 In card view, you can increase or decrease the size of the cards.
 
 In either view, you can:
@@ -44,7 +45,7 @@ Refresh the pane to see any changes that other users have made.
 
 ## Een weergave filteren
 
-(Indien beschikbaar) Filter (![&#x200B; knoop van de Filter &#x200B;](/help/creative/assets/filter.png " knoop van de Filter ")) de entiteiten die worden getoond om slechts het volgende te omvatten:
+(Indien beschikbaar) Filter (![ knoop van de Filter ](/help/creative/assets/filter.png " knoop van de Filter ")) de entiteiten die worden getoond om slechts het volgende te omvatten:
 
 * **[!UICONTROL Creative Libraries]> [!UICONTROL Creatives] > [!UICONTROL Standard Ads]** Specifieke creatieve formaten, creatieve typen, grootten en bijbehorende labels of talen
 
@@ -54,7 +55,8 @@ Refresh the pane to see any changes that other users have made.
 
 * **[!UICONTROL Experiences]:** Specifieke statussen (*Levende*, *Ontwerp*, *Verwerking*) en bijbehorende etiketten
 
-<!-- Only available to non-admin users in Phase 1
+<!--
+ Only available to non-admin users in Phase 1
 
 * **[!UICONTROL Feeds] > [!UICONTROL Catalog]:** Specific library [??? different than the statuses for the Template tab, which I'd expect to show something different anyway] statuses (*Active*, *Inactive*, *Deleted*)
 
@@ -74,7 +76,7 @@ U kunt zoeken naar een specifieke tekenreeks in de naam van de entiteit. Gebruik
 
 * **[!UICONTROL Experiences]:** zoek een specifieke ervaringsnaam.
 
-![&#x200B; het onderzoeksinputgebied van het Voorbeeld &#x200B;](/help/creative/assets/search-field.png " het onderzoeksinputgebied van het Voorbeeld ")
+![ het onderzoeksinputgebied van het Voorbeeld ](/help/creative/assets/search-field.png " het onderzoeksinputgebied van het Voorbeeld ")
 
 ## Een weergave sorteren
 
@@ -86,4 +88,4 @@ U kunt de volgende weergaven sorteren in de kaartmodus:
 
 * [!UICONTROL Experiences]: Sorteer op ([!UICONTROL Experience Name]) begindatum ([!UICONTROL Start On]), of einddatum ([!UICONTROL End On]).
 
-![&#x200B; Voorbeeld van soortopties &#x200B;](/help/creative/assets/sort.png " Voorbeeld van soortopties ")
+![ Voorbeeld van soortopties ](/help/creative/assets/sort.png " Voorbeeld van soortopties ")

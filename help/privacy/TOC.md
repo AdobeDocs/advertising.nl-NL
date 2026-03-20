@@ -4,7 +4,7 @@ user-guide-title: Adobe Advertising-ondersteuning voor de privacy van consumente
 user-guide-description: Meer informatie over de beveiliging en privacycontroles die Adobe Advertising biedt om adverteerders te helpen te voldoen aan de privacywetgeving voor de consument.
 breadcrumb-title: Steun voor de privacy van consumenten
 index: true
-source-git-commit: 7dc1d2dd2459d0b0049e755f121a6e6d1a9ab789
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 31%

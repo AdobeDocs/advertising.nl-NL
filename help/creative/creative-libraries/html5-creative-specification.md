@@ -3,7 +3,7 @@ title: Creatieve HTML5-specificatie
 description: Verwijs naar de creatieve specificatie van HTML5 voor Advertising Creative.
 feature: Creative Standard Creatives
 exl-id: 06d29442-d688-4fb8-ad6f-cba0a897fde0
-source-git-commit: a8723bafa57e726fc920c98f2fd44f99f444ed3e
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '1157'
 ht-degree: 1%
@@ -18,7 +18,8 @@ In dit document worden de vereisten en API-ondersteuning voor HTML5-creatieven i
 
 [!DNL Creative] biedt ondersteuning voor HTML5-banners met niet-rijke mediagrocreatieven die binnen ingestelde randen op een pagina worden weergegeven. U kunt de volgende typen HTML5-creatieven gebruiken:
 
-<!--Remove to simplify:
+<!--
+Remove to simplify:
 
 * **Simple HTML5:** Supports a single landing page URL that can be configured during creative creation and trafficking.
 
@@ -52,7 +53,8 @@ Het HTML-hoofdbestand (en geen andere bestanden) moet een verwijzing naar het Ja
 
 Dit bestand bevat functies om ervoor te zorgen dat gebeurtenissen bij afsluiten lokaal wordt getest zonder problemen.
 
-<!-- Remove to simplify:
+<!--
+ Remove to simplify:
 
 ### Simple HTML5 creative requirements
 
@@ -72,7 +74,8 @@ var clickTag = “http://www.example.com”;
 
 -->
 
-<!-- Renamed to simplify:
+<!--
+ Renamed to simplify:
 ### Static HTML5 creative requirements
 -->
 
@@ -299,4 +302,4 @@ De meeste uitwisselingen van displays die in Advertising DSP beschikbaar zijn, h
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md) toe
+>* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md) toe

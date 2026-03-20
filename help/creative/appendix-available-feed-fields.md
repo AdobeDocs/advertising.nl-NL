@@ -3,7 +3,7 @@ title: Beschikbare velden voor dynamische en feed-bestanden
 description: Leer meer over de velden die u kunt opnemen in de feed-bestanden die u gebruikt om dynamische advertenties te maken.
 feature: Creative Dynamic Creatives
 exl-id: 9cd3fa29-d4db-4e9f-9ffd-87b44b62a3e2
-source-git-commit: 5bf0474f49160775d31dff0d434ba1e069f27959
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 0%
@@ -12,11 +12,12 @@ ht-degree: 0%
 
 # Bijlage: Beschikbare velden voor dynamische en feed-bestanden
 
-De volgende feed-velden zijn beschikbaar op de Advertising Creative-achtergrond. U kunt a [&#x200B; voederdossier &#x200B;](/help/creative/feeds/asset-manage.md) uploaden dat uw organisatie-specifieke gebiedsnamen gebruikt. Nochtans, alvorens u a [&#x200B; catalogus &#x200B;](/help/creative/feeds/catalog-manage.md) van uw voederdossier kunt tot stand brengen, moet u elk gebied in het voederdossier aan één van de volgende gebieden in het [&#x200B; voedermalplaatje &#x200B;](/help/creative/feeds/feed-template-manage.md) in kaart brengen dat u zult gebruiken om de catalogus tot stand te brengen.
+De volgende feed-velden zijn beschikbaar op de Advertising Creative-achtergrond. U kunt a [ voederdossier ](/help/creative/feeds/asset-manage.md) uploaden dat uw organisatie-specifieke gebiedsnamen gebruikt. Nochtans, alvorens u a [ catalogus ](/help/creative/feeds/catalog-manage.md) van uw voederdossier kunt tot stand brengen, moet u elk gebied in het voederdossier aan één van de volgende gebieden in het [ voedermalplaatje ](/help/creative/feeds/feed-template-manage.md) in kaart brengen dat u zult gebruiken om de catalogus tot stand te brengen.
 
 Het enige veld dat een equivalent moet hebben in het feed-bestand is `PART_NUM` .
 
-<!-- Questions:
+<!--
+ Questions:
 
 What are these?
 Rank
@@ -120,7 +121,7 @@ TRUE FOR CSV AND TSV? character encoding on text format files should be UTF-8 --
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Werkstromen voor dynamische advertenties &#x200B;](/help/creative/introduction/workflow-dynamic-ads.md)
->* [&#x200B; beheert activa dossiers &#x200B;](/help/creative/feeds/asset-manage.md)
->* [&#x200B; beheer voedermalplaatjes &#x200B;](/help/creative/feeds/feed-template-manage.md)
->* [&#x200B; beheert catalogi &#x200B;](/help/creative/feeds/catalog-manage.md)
+>* [ Werkstromen voor dynamische advertenties ](/help/creative/introduction/workflow-dynamic-ads.md)
+>* [ beheert activa dossiers ](/help/creative/feeds/asset-manage.md)
+>* [ beheer voedermalplaatjes ](/help/creative/feeds/feed-template-manage.md)
+>* [ beheert catalogi ](/help/creative/feeds/catalog-manage.md)

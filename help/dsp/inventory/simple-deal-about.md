@@ -3,7 +3,7 @@ title: Info [!UICONTROL Simple Ad Serving]
 description: Meer informatie over [!UICONTROL Simple Ad Serving] -deals met behulp van pixels die gebeurtenissen bijhouden.
 feature: DSP Simple Ad Serving
 exl-id: 327a2c93-d729-42e1-856f-f0e05efab7ca
-source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '227'
 ht-degree: 0%
@@ -30,11 +30,12 @@ U kunt een [!UICONTROL Simple Ad Serving] deal maken in de weergave [!UICONTROL 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] overeenkomst &#x200B;](simple-deal-create.md)
->* [&#x200B; geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages &#x200B;](simple-deal-edit.md) uit
->* [[!UICONTROL Simple Ad Serving] settings &#x200B;](simple-deal-settings.md)
->* [&#x200B; Mening een gedetailleerd rapport voor een overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
+>* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
+>* [[!UICONTROL Simple Ad Serving] settings ](simple-deal-settings.md)
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
 
-<!-- add back when reimplemented:
+<!--
+ add back when reimplemented:
 >* [View event-tracking pixels for a [!UICONTROL Simple Ad Serving] deal](simple-deal-show-pixels.md)
 -->

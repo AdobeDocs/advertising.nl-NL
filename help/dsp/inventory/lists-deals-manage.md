@@ -3,7 +3,7 @@ title: Overeenkomstlijsten beheren
 description: Leer hoe te om overeenkomstenlijsten voor plaatsing te creëren en te beheren richten.
 feature: DSP Private Inventory, DSP On Demand Inventory, DSP Deal IDs, DSP Placements
 exl-id: 18a2c2d2-d84d-4347-93af-ca7489a1a8fb
-source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '236'
 ht-degree: 1%
@@ -14,7 +14,8 @@ ht-degree: 1%
 
 U kunt lijsten met persoonlijke deals en [!DNL On Demand] -deals voor plaatsingsdoeleinden maken en beheren. Doel of sluit specifieke privé overeenkomstenlijsten binnen plaatsingsmontages uit.
 
-<!-- Later:
+<!--
+ Later:
 In custom reports, you can a) filter data by deal lists and deals and b) include the [!UICONTROL Feed] dimensions "[!UICONTROL Deal list]" and "[!UICONTROL Deal]" in the [!UICONTROL Build Your Report] section
 -->
 
@@ -72,7 +73,7 @@ In custom reports, you can a) filter data by deal lists and deals and b) include
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
->* [&#x200B; het rapportmontages van de Douane &#x200B;](/help/dsp/reports/report-settings.md)
->* [&#x200B; Beschikbare rapportkolommen &#x200B;](/help/dsp/reports/report-columns.md)
->* [&#x200B; Ongeveer privé inventaris &#x200B;](/help/dsp/inventory/private-inventory-about.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ het rapportmontages van de Douane ](/help/dsp/reports/report-settings.md)
+>* [ Beschikbare rapportkolommen ](/help/dsp/reports/report-columns.md)
+>* [ Ongeveer privé inventaris ](/help/dsp/inventory/private-inventory-about.md)

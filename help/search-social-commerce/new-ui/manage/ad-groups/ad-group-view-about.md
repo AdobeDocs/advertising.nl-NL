@@ -4,7 +4,7 @@ description: Leer wat u kunt doen in de [!UICONTROL Ad Groups] weergave.
 feature: Search Optimization, Search Campaign Management
 hide: true
 exl-id: 10922ae6-b2b5-4498-bc6a-424f3249e16a
-source-git-commit: 8cf0817adc26709a3ad662207a522ac4cf833a92
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -19,7 +19,8 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Ad Groups] worden alle adverten
 
 ## Beschikbare acties
 
-<!-- Not available as of 3/4/26:
+<!--
+ Not available as of 3/4/26:
 
 * [View a performance graph across all ad groups in the view](ad-group-view-performance-graph.md)
 -->
@@ -34,5 +35,5 @@ In de weergave [!UICONTROL Manage] > [!UICONTROL Ad Groups] worden alle adverten
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; beheert beperkingstaken voor ad groepen &#x200B;](ad-group-constraint-assignments-manage.md)
->* [&#x200B; gegevens van de Download van de [!UICONTROL Ad Groups] mening &#x200B;](ad-group-view-report.md)
+>* [ beheert beperkingstaken voor ad groepen ](ad-group-constraint-assignments-manage.md)
+>* [ gegevens van de Download van de [!UICONTROL Ad Groups] mening ](ad-group-view-report.md)

@@ -3,7 +3,7 @@ title: Beschikbare macro's voor het bijhouden van URL's
 description: Verwijs naar de macro's die u aan uw het landen pagina URLs, het volgen URLs, en derdecreatieven kunt toevoegen.
 feature: Creative Experiences, Creative Experiences
 exl-id: d0cbbb21-467d-4ed1-bc6e-ded1b045b98b
-source-git-commit: f7d5bf3193cb41ca2a0d4415998209e5a9b724ba
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -18,7 +18,8 @@ U kunt elk van de volgende macro&#39;s opnemen in uw ontwerpen van derden, in UR
 
 Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatisch opgenomen in ervaringstags.
 
-<!-- Later: 
+<!--
+ Later: 
 
 | Macro | Description | Automatically in experience tags for Advertising DSP? | Automatically in experience tags for [!DNL Google Campaign Manager 360]? |
 | --- | --- | --- | --- |
@@ -52,7 +53,7 @@ Sommige beschikbare macro&#39;s, of de equivalente macro&#39;s, worden automatis
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; voeg standaardcreatieve creatieve bibliotheek &#x200B;](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
->* [&#x200B; Standaard creatieve montages &#x200B;](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
->* [&#x200B; gerichte ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-targeting.md)
->  &#x200B;>*[&#x200B; Niet-gerichte ervaringsmontages &#x200B;](/help/creative/experiences/experience-settings-no-targeting.md)
+>* [ voeg standaardcreatieve creatieve bibliotheek ](/help/creative/creative-libraries/creative-add-standard.md#creative-add-third-party) toe
+>* [ Standaard creatieve montages ](/help/creative/creative-libraries/creative-settings-standard.md#creative-settings-third-party)
+>* [ gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-targeting.md)
+>*[ Niet-gerichte ervaringsmontages ](/help/creative/experiences/experience-settings-no-targeting.md)

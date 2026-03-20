@@ -3,7 +3,7 @@ title: '[!DNL Google Ads] productgroepinstellingen'
 description: Verwijs de montages voor  [!DNL Google Ads]  het winkelen productgroepen.
 exl-id: 2cfef9de-b265-4fa5-b1bd-84e6cba79914
 feature: Search Campaign Management
-source-git-commit: 7e4d2aa502f26b480a5fd76d68411586c24f68b2
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -30,7 +30,7 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 
 Als u een productgroep voor specifieke productafmetingen hebt gemaakt (dus niet &quot;Alle producten&quot;), maakt u met Zoeken, Sociaal en Commerce automatisch een productgroep voor &quot;Alles anders&quot;.
 
-Voor een lijst van beschikbare productafmetingen, zie &quot;[&#x200B; het Verkopen de filters van het campagneproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de instelling voor [!UICONTROL Inventory Filter] van de campagne.
+Voor een lijst van beschikbare productafmetingen, zie &quot;[ het Verkopen de filters van het campagneproduct ](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md).&quot; Uw lijst met afmetingen kan beperkt zijn op basis van de instelling voor [!UICONTROL Inventory Filter] van de campagne.
 
 **[!UICONTROL Excluded]:** (Optioneel voor nieuwe productgroepen; alleen-lezen voor bestaande productgroepen) Hiermee sluit u biedingen op advertenties voor overeenkomende producten uit.
 
@@ -38,7 +38,8 @@ Voor een lijst van beschikbare productafmetingen, zie &quot;[&#x200B; het Verkop
 
 <!-- **[!UICONTROL Tracking Template]:** -->
 
-<!-- ExL can't handle the same include twice in the same file, so using a snippet for the second occurrence.
+<!--
+ ExL can't handle the same include twice in the same file, so using a snippet for the second occurrence.
 
 {{$include /help/_includes/tracking-template-google.md}}
 -->
@@ -49,7 +50,7 @@ Deze sjabloon negeert sjablonen op hogere niveaus en wordt alleen gebruikt voor 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer het winkelen productgroepen &#x200B;](product-group-about.md)
->* [&#x200B; beheer het winkelen productgroepen &#x200B;](product-group-manage.md)
->* [&#x200B; het Verkopen filters van het campagneproduct &#x200B;](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
->* [&#x200B; voert  [!DNL Google Ads]  het winkelen campagnes &#x200B;](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md) uit
+>* [ Ongeveer het winkelen productgroepen ](product-group-about.md)
+>* [ beheer het winkelen productgroepen ](product-group-manage.md)
+>* [ het Verkopen filters van het campagneproduct ](/help/search-social-commerce/campaign-management/campaigns/shopping-campaign-product-filters.md)
+>* [ voert  [!DNL Google Ads]  het winkelen campagnes ](/help/search-social-commerce/campaign-management/special-workflows/google-shopping-campaigns.md) uit

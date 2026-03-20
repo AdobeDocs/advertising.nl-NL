@@ -4,7 +4,7 @@ user-guide-description: Meer informatie over de integratie van DSP en advertenti
 breadcrumb-title: Integraties met Experience Cloud
 role: User, Developer
 index: true
-source-git-commit: 79b4294df79fcc16916a01ac2d1a57f0b968d368
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '265'
 ht-degree: 10%
@@ -53,4 +53,4 @@ ht-degree: 10%
    + [Adobe Advertising-id&#39;s gebruikt door Customer Journey Analytics](/help/integrations/customer-journey-analytics/ids.md)
    + [Gegevensverzameling, gegevensoverdracht en rapportage instellen](/help/integrations/customer-journey-analytics/set-up.md)
    + [Adobe Advertising-cijfers en -afmetingen in Customer Journey Analytics](/help/integrations/customer-journey-analytics/advertising-data-in-cja.md)
-+ [&#x200B; Videozelfstudies over de integratie van Adobe Advertising &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html?lang=nl-NL)
++ [ Videozelfstudies over de integratie van Adobe Advertising ](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/overview.html)

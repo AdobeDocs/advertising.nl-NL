@@ -3,7 +3,7 @@ title: Een voorbeeld van een ervaring bekijken
 description: Leer hoe u een voorvertoning van de creatieve projecten kunt bekijken in een advertentie.
 feature: Creative Experiences
 exl-id: 2ac8f580-7d3d-4de6-ba14-5d72b30188d7
-source-git-commit: a271589a2cb51ec50c37a52254fd8d1b535f279a
+source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
 workflow-type: tm+mt
 source-wordcount: '554'
 ht-degree: 0%
@@ -28,7 +28,7 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -52,7 +52,8 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
       1. Selecteer de advertentiegrootte.
 
-     <!-- I don't see this as of 2/3:
+     <!--
+      I don't see this as of 2/3:
      1. Select whether to group the creatives by Rotation Type or Ad Size.
      -->
 
@@ -60,7 +61,8 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
    * Klik op **[!UICONTROL Entire Tree]** als u een voorvertoning van alle creatieve elementen in de ervaring wilt weergeven.
 
-     <!-- I don't see this as of 2/3:
+     <!--
+      I don't see this as of 2/3:
      1. Click **[!UICONTROL Entire Tree]**.
      1. Select the ad size.
      1. Select whether to group the creatives by Rotation Type or Ad Size.
@@ -74,7 +76,7 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
 1. (Optioneel) U kunt als volgt een demo-URL van de ervaring kopiëren en deze delen met anderen zonder zich aan te melden bij [!DNL Creative] :
 
-   1. In het hogere recht van de voorproef, klik ![&#x200B; Aandeel &#x200B;](/help/creative/assets/share.png " ").
+   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share.png " ").
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
@@ -82,7 +84,7 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
 1. Klik in het hoofdmenu op **[!UICONTROL Creative]** > **[!UICONTROL Experiences]** .
 
-1. (Facultatief) [&#x200B; pas de mening &#x200B;](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
+1. (Facultatief) [ pas de mening ](/help/creative/introduction/customize-data-views.md) aan om specifieke ervaringen te omvatten.
 
 1. Voer een van de volgende handelingen uit:
 
@@ -102,11 +104,11 @@ U kunt een voorvertoning weergeven van de creatieve personen met een specifieke 
 
 1. (Optioneel) U kunt als volgt een demo-URL van de ervaring kopiëren en deze delen met anderen zonder zich aan te melden bij [!DNL Creative] :
 
-   1. In het hogere recht van de voorproef, klik ![&#x200B; Aandeel &#x200B;](/help/creative/assets/share.png " ").
+   1. In het hogere recht van de voorproef, klik ![ Aandeel ](/help/creative/assets/share.png " ").
 
    1. Klik in het dialoogvenster [!UICONTROL Share Demo URL] op **[!UICONTROL Copy]** om de URL naar het klembord te kopiëren, zodat u deze met iemand anders kunt delen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; creeer een ervaring met beslissingsboom richtend &#x200B;](experience-create-targeting.md)
->* [&#x200B; creeer een ervaring zonder beslissingsboom richtend &#x200B;](/help/creative/experiences/experience-create-no-targeting.md)
+>* [ creeer een ervaring met beslissingsboom richtend ](experience-create-targeting.md)
+>* [ creeer een ervaring zonder beslissingsboom richtend ](/help/creative/experiences/experience-create-no-targeting.md)
