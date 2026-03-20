@@ -27,18 +27,18 @@ Het volgende is van toepassing op de volgende tags voor Adobe Advertising-conver
 >[!NOTE]
 >
 >* Voor alle nieuwe implementaties wordt JavaScript versie 3 gebruikt.
->* De markering van JavaScript met ECID gebruikt de [ identiteitskaart van Adobe Experience Cloud (ECID) Dienst ](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) evenals erfenis ef_id en gsurferid om omzettingen te meten. Deze recentste markering leidt [ eerste-partijExperience Cloud s_ecid koekjes ](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) en verstrekt strakkere integratie met andere producten van Experience Cloud.
+>* De markering van JavaScript met ECID gebruikt de [&#x200B; identiteitskaart van Adobe Experience Cloud (ECID) Dienst &#x200B;](https://experienceleague.adobe.com/docs/id-service/using/intro/overview.html) evenals erfenis ef_id en gsurferid om omzettingen te meten. Deze recentste markering leidt [&#x200B; eerste-partijExperience Cloud s_ecid koekjes &#x200B;](https://experienceleague.adobe.com/docs/core-services/interface/administration/ec-cookies/cookies-first-party.html) en verstrekt strakkere integratie met andere producten van Experience Cloud.
 >* Gebruik alleen JavaScript Version 2-tags als deze al zijn geïmplementeerd op de webpagina&#39;s van de adverteerder.
 >* De beste manier is om JavaScript-tags te gebruiken in plaats van afbeeldingstags, tenzij de site een beleid heeft tegen het gebruik ervan.
 >* JavaScript-tags zijn vereist voor adverteerders die hun doelgroep willen maken voor in Adobe Experience Cloud gemaakte, in Adobe Audience Manager gemaakte of vanuit Audience Manager of Adobe Analytics naar Adobe Experience Cloud gepubliceerde soorten publiek.
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer conversie-volgende markeringen van Adobe Advertising ](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
->* [ produceer een Adobe Advertising omzettingsmarkering ](/help/search-social-commerce/tools/conversion-tag-generate.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 3 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
->* [ Formaat van de conversie van JavaScript volgmerkversie 2 ](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
->* [ Formaat van beeldomzetting volgende markeringen ](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
+>* [&#x200B; Ongeveer conversie-volgende markeringen van Adobe Advertising &#x200B;](/help/search-social-commerce/tracking/conversion-tracking-advertising.md)
+>* [&#x200B; produceer een Adobe Advertising omzettingsmarkering &#x200B;](/help/search-social-commerce/tools/conversion-tag-generate.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 3 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv3.md)
+>* [&#x200B; Formaat van de conversie van JavaScript volgmerkversie 2 &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-jsv2.md)
+>* [&#x200B; Formaat van beeldomzetting volgende markeringen &#x200B;](/help/search-social-commerce/tracking/format-conversion-tag-image.md)
 
 <!--
  add if I keep the file:  

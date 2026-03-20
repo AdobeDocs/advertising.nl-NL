@@ -30,10 +30,10 @@ U kunt een [!UICONTROL Simple Ad Serving] deal maken in de weergave [!UICONTROL 
 
 >[!MORELIKETHIS]
 >
->* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
->* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
->* [[!UICONTROL Simple Ad Serving] settings ](simple-deal-settings.md)
->* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
+>* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] overeenkomst &#x200B;](simple-deal-create.md)
+>* [&#x200B; geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages &#x200B;](simple-deal-edit.md) uit
+>* [[!UICONTROL Simple Ad Serving] settings &#x200B;](simple-deal-settings.md)
+>* [&#x200B; Mening een gedetailleerd rapport voor een overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
 
 <!--
  add back when reimplemented:

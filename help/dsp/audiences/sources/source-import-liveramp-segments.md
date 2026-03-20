@@ -35,7 +35,7 @@ Is this first step relevant for this process?
 
    1. Stel [!DNL Identifier Settings] alleen in op **[!DNL Ramp ID]** .
 
-      ![ montages van het Herkenningsteken ](/help/dsp/assets/liveramp-tile-settings.png)
+      ![&#x200B; montages van het Herkenningsteken &#x200B;](/help/dsp/assets/liveramp-tile-settings.png)
 
    1. (Optioneel) Als u nog steeds op cookies gebaseerde id&#39;s wilt ontvangen, maakt u een tweede [!DNL AAC API 1P Onboarding] doeltegel met &quot;[!DNL Cookies]&quot;, &quot;[!DNL IDFA]&quot; en &quot;[!DNL AAID]&quot; geselecteerd.
 
@@ -43,7 +43,7 @@ Is this first step relevant for this process?
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer eerste-partijpublieksbronnen ](source-about.md)
->* [ beheert publieksbronnen om universele identiteitskaart te activeren ](source-manage.md)
->* [ verbinding van Adobe Advertising DSP ](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* [ Ongeveer publieksbeheer ](/help/dsp/audiences/audience-about.md)
+>* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](source-about.md)
+>* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](source-manage.md)
+>* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
+>* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
