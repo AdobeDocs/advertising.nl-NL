@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # [!DNL Adobe] [!DNL Audience Analytics] voor Adobe Advertising-klanten
 
-[[!DNL Adobe] [!DNL Audience Analytics] &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html) is een integratie tussen Adobe Audience Manager en Adobe Analytics die klanten van Audience Manager toestaat om segmenten naar [!DNL Analytics] voor verrijkte inzichten over plaatsactiviteit te verzenden.
+[[!DNL Adobe] [!DNL Audience Analytics] &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL) is een integratie tussen Adobe Audience Manager en Adobe Analytics die klanten van Audience Manager toestaat om segmenten naar [!DNL Analytics] voor verrijkte inzichten over plaatsactiviteit te verzenden.
 
 Adobe Advertising-klanten kunnen hiervan profiteren door [!DNL Audience Analytics] te gebruiken. Dankzij de integratie kunt u:
 
@@ -20,7 +20,7 @@ Adobe Advertising-klanten kunnen hiervan profiteren door [!DNL Audience Analytic
 
 * Bepaal de marketingkanalen en de toegangspunten van de site op basis van de blootstellingsadvertenties in de bovenste funnel.
 
-* Laag de integratie met [!DNL Analytics for Advertising] om derde demografische segmenten van [&#x200B; Audience Manager  [!DNL Audience Marketplace] &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html) met [!DNL Analytics for Advertising] gegevens voor meer inzicht over gebruikersprofielen op te nemen.
+* Laag de integratie met [!DNL Analytics for Advertising] om derde demografische segmenten van [&#x200B; Audience Manager  [!DNL Audience Marketplace] &#x200B;](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/audience-marketplace/audience-marketplace.html?lang=nl-NL) met [!DNL Analytics for Advertising] gegevens voor meer inzicht over gebruikersprofielen op te nemen.
 
   [!DNL Audience Marketplace] biedt toegang tot gegevensfeeds van derden met abonnementmodellen voor activering, waarmee kopers gegevens naar een bestemming kunnen verzenden. Als de gegevens worden gebruikt binnen een [!DNL Analytics] -bestemming, worden geen activeringskosten toegepast.
 
@@ -28,7 +28,7 @@ Adobe Advertising-klanten kunnen hiervan profiteren door [!DNL Audience Analytic
 
   Advertising DSP kan belichtingsgegevens naar Audience Manager verzenden als activeerbare signalen via de implementatie van Adobe Experience Platform- of Audience Manager-pixels die de indruk bijhouden. Door dezelfde gegevens naar [!DNL Analytics] te verzenden, kunt u geavanceerde gegevensanalyse uitvoeren. Zie &quot;[&#x200B; Overzicht van het verzenden van de media van DSP blootstellingsgegevens naar Adobe Audience Manager &#x200B;](/help/integrations/audience-manager/media-data-integration/overview.md)&quot;voor meer informatie.
 
-Voor meer informatie over [!DNL Audience Analytics], met inbegrip van zijn eerste vereisten en werkschema, zie &quot;[&#x200B; overzicht van Audience Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html).&quot;
+Voor meer informatie over [!DNL Audience Analytics], met inbegrip van zijn eerste vereisten en werkschema, zie &quot;[&#x200B; overzicht van Audience Analytics &#x200B;](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL).&quot;
 
 ## Voorbeelden van het gebruik van [!DNL Audience Analytics] -gegevens met Adobe Advertising-gegevens
 
