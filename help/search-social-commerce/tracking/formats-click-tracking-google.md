@@ -70,7 +70,7 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel een van de volgende elementen bevatten:
 
-   * [!DNL Google Ads] rekeningen die het recentste [&#x200B; formaat van identiteitskaart van AMO &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
+   * [!DNL Google Ads] rekeningen die het recentste [&#x200B; formaat van identiteitskaart van AMO &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-id#dimension-items) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
 
      `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
@@ -93,4 +93,4 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 >[!MORELIKETHIS]
 >
 >* [&#x200B; Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising &#x200B;](formats-click-tracking-about.md)
->* [&#x200B; formaten van identiteitskaart AMO &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)
+>* [&#x200B; formaten van identiteitskaart AMO &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-id#dimension-items)

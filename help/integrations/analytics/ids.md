@@ -46,13 +46,13 @@ Adobe Advertising maakt een onderscheid tussen een doorklikitem of een doorkijki
 
 De EF-id is een unieke token die Adobe Advertising gebruikt om activiteit te koppelen aan een online klik of belichting op het niveau van de afzonderlijke browser of het apparaat. EF-id&#39;s fungeren voornamelijk als sleutels voor het verzenden van [!DNL Analytics] -gegevens en Customer Journey Analytics-gegevens naar Adobe Advertising voor het melden en optimaliseren van biedingen binnen Adobe Advertising.
 
-Voor [!DNL Analytics], wordt EF identiteitskaart opgeslagen in [&#x200B; an  [!DNL Analytics] [!DNL eVar] &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of [!DNL rVar] (gereserveerde [!DNL eVar]) dimensie (Adobe Advertising EF identiteitskaart).
+Voor [!DNL Analytics], wordt EF identiteitskaart opgeslagen in [&#x200B; an  [!DNL Analytics] [!DNL eVar] &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=nl-NL) of [!DNL rVar] (gereserveerde [!DNL eVar]) dimensie (Adobe Advertising EF identiteitskaart).
 
-Voor Customer Journey Analytics, wordt EF identiteitskaart opgeslagen in het `trackingIdentities` bezit van het `conversionDetails` voorwerp, dat deel van [&#x200B; uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
+Voor Customer Journey Analytics, wordt EF identiteitskaart opgeslagen in het `trackingIdentities` bezit van het `conversionDetails` voorwerp, dat deel van [&#x200B; uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 ### EF-id-indelingen {#ef-id-formats}
 
-Zie de [&#x200B; formaten voor EF de afmetingspunten van identiteitskaart &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id#dimension-items) in de &quot;Gids van de Componenten van Adobe Analytics.&quot;
+Zie de [&#x200B; formaten voor EF de afmetingspunten van identiteitskaart &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-ef-id#dimension-items) in de &quot;Gids van de Componenten van Adobe Analytics.&quot;
 
 >[!NOTE]
 >
@@ -152,7 +152,7 @@ Voor elke rapportage of controle binnen [!DNL Analytics] kunt u het beste de AMO
 
 ## Informatie over analytische classificaties
 
-In [!DNL Analytics], is de a [&#x200B; classificatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
+In [!DNL Analytics], is de a [&#x200B; classificatie &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=nl-NL) een stuk van meta-gegevens voor een bepaalde het volgen code, zoals Rekening, Campagne, of Advertentie. Adobe Advertising categoriseert onbewerkte Adobe Advertising-gegevens aan de hand van classificaties, zodat u de gegevens op verschillende manieren kunt weergeven (bijvoorbeeld op Advertentietype of Campagne) wanneer u rapporten genereert. Classificaties vormen de basis voor Adobe Advertising-rapportage in [!DNL Analytics] en kunnen worden gebruikt met AMO-metriek, zoals [!UICONTROL Adobe Advertising Cost] , [!UICONTROL Adobe Advertising Impressions] en [!UICONTROL AMO Clicks] , en met aangepaste en standaard onsite gebeurtenissen zoals [!UICONTROL Visits] , [!UICONTROL Leads] , [!UICONTROL Orders] en [!UICONTROL Revenue] .
 
 >[!MORELIKETHIS]
 >

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **en variatie:** Om het even welke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**[identiteitskaart van AMO &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen. Het begint met `s_kwcid=` .
+**[identiteitskaart van AMO &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen. Het begint met `s_kwcid=` .
 
 **biedingseenheid:** de termijn van een Onderzoek, van Sociale, &amp; van Commerce voor een eenheid waarop de biedingen worden geplaatst.
 
@@ -88,7 +88,7 @@ ht-degree: 0%
 
 **eCPM:** de efficiënte CPM, of de gemiddelde kosten die per 1000 beelden tijdens een gespecificeerde datumwaaier worden betaald. eCPM-waarden kunnen worden berekend voor CPM- of CPC-campagnes.
 
-**[EF identiteitskaart &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id):** Een volgende code die Adobe Advertising toestaat om activiteit met een online klik of blootstelling toe te voegen en gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen.
+**[EF identiteitskaart &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-ef-id):** Een volgende code die Adobe Advertising toestaat om activiteit met een online klik of blootstelling toe te voegen en gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen.
 
 ## G-H {#g-h}
 

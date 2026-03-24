@@ -251,7 +251,7 @@ Accounts die gebruikmaken van Adobe Advertising click tracking, moeten de klikid
 
 * **S_kwcid Formaat:** (Bestaande [!DNL Google Ads] rekeningen voor adverteerders met een integratie Adobe Advertising-Adobe Analytics en waarvoor AMO identiteitskaart (s_kwcid) niet reeds is gemigreerd)
 
-Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. Het [&#x200B; recentste formaat &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) omvat parameters voor campagne identiteitskaart en identiteitskaart van de advertentiegroep, die noodzakelijk zijn om bij de campagne en ad groepsniveaus voor [!DNL Google Ads] prestaties te rapporteren maximum campagnes en concepten en experimentatiecampagnes in Analytics:
+Dit account gebruikt de oudere indeling voor de trackingcode van de AMO-id, waarmee Adobe Advertising gegevens over het account kan delen met Adobe Analytics. Het [&#x200B; recentste formaat &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-id#dimension-items) omvat parameters voor campagne identiteitskaart en identiteitskaart van de advertentiegroep, die noodzakelijk zijn om bij de campagne en ad groepsniveaus voor [!DNL Google Ads] prestaties te rapporteren maximum campagnes en concepten en experimentatiecampagnes in Analytics:
 
 `s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 

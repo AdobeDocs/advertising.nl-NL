@@ -16,7 +16,7 @@ ht-degree: 0%
 
 *[!DNL Google Ads]alleen accounts*
 
-De erfenis (voorafgaand aan Oktober 2019) formaat voor [&#x200B; het volgen van identiteitskaart van AMO code &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) voor bestaande [!DNL Google Ads] rekeningen steunt geen sommige eigenschappen in Analytics, zoals het melden bij de campagne en de groepsniveaus voor [!DNL Google Ads] prestaties maximumcampagnes, concepten en experimentatiecampagnes, en andere gebruiksgevallen waarin de zelfde combinatie ad+keyword+match in veelvoudige campagnes bestaat.
+De erfenis (voorafgaand aan Oktober 2019) formaat voor [&#x200B; het volgen van identiteitskaart van AMO code &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/dimensions/amo-id#dimension-items) voor bestaande [!DNL Google Ads] rekeningen steunt geen sommige eigenschappen in Analytics, zoals het melden bij de campagne en de groepsniveaus voor [!DNL Google Ads] prestaties maximumcampagnes, concepten en experimentatiecampagnes, en andere gebruiksgevallen waarin de zelfde combinatie ad+keyword+match in veelvoudige campagnes bestaat.
 
 De huidige indeling bevat parameters voor campagne-id en groep-id:
 
@@ -70,4 +70,4 @@ Alle nieuwe [!DNL Google Ads] accounts gebruiken automatisch de huidige indeling
 >
 >* [&#x200B; beheer en netwerkrekeningen &#x200B;](ad-network-account-manage.md)
 >* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md) wordt gebruikt
->* [&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html){target="_blank"}
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising] &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL){target="_blank"}
