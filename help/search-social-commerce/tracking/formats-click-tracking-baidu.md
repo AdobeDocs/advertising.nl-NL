@@ -1,16 +1,16 @@
 ---
-title: Opmaak voor het bijhouden van klikken voor [!DNL Baidu]
-description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Baidu] rekeningen.
-exl-id: a57ff0cf-0bcf-4d55-9a86-7551db8a08e7
+title: Opmaak voor het bijhouden van klikken voor  [!DNL Baidu]
+description: Leer over de klik-volgende formaten voor  [!DNL Baidu]  rekeningen.
+exl-id: 4f4ed518-aa25-4a29-b263-c01f78b69b92
 feature: Search Tracking
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: 546e391745b1469efbcc9c2024dfc193224f0ed0
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '98'
 ht-degree: 0%
 
 ---
 
-# Opmaak voor het bijhouden van klikken voor gesponsorde advertenties op [!DNL Baidu]
+# Opmaak voor het bijhouden van klikken op gesponsorde advertenties op [!DNL Baidu]
 
 De volgende basis-bestemmings-URL-indeling is van toepassing op gesponsorde advertenties:
 
@@ -22,9 +22,9 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
 >* `<campaignID>` is een variabele voor de numerieke campagne-id.
 >
@@ -32,5 +32,5 @@ Voorbeeld:
 
 >[!MORELIKETHIS]
 >
->* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [AMO-id-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
+>* [ Vormen van identiteitskaart AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

@@ -3,9 +3,9 @@ title: Verklarende woordenlijst
 description: Zie definities van sleuteltermen.
 exl-id: 87ce61b5-8340-4a6b-bd98-89ef73b2a9d8
 feature: Search Introduction
-source-git-commit: d1e2e92532b1f930420436c66c687676a2b7de6a
+source-git-commit: 546e391745b1469efbcc9c2024dfc193224f0ed0
 workflow-type: tm+mt
-source-wordcount: '2308'
+source-wordcount: '2342'
 ht-degree: 0%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 **en variatie:** Om het even welke advertentie binnen een advertentiegroep of advertentiestrategie.
 
-**[identiteitskaart van AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen. Het begint met `s_kwcid=` .
+**[identiteitskaart van AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id):** Een het volgen code die Adobe Advertising toestaat om gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen. Het begint met `s_kwcid=` .
 
 **biedingseenheid:** de termijn van een Onderzoek, van Sociale, &amp; van Commerce voor een eenheid waarop de biedingen worden geplaatst.
 
@@ -52,7 +52,7 @@ ht-degree: 0%
 
 **omzetting het volgen:** Conversie het volgen gebruikt koekjes om a) klikken op de advertenties van een adverteerder op de advertentienetwerken en b) de resulterende transacties op de website van de adverteerder te volgen.
 
-**kostennauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke uitgaven voor een portefeuille die door de voorspelde uitgaven wordt gedeeld. [&#x200B; Modelnauwkeurigheidsrapporten &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kostenmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight &#x200B;](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
+**kostennauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke uitgaven voor een portefeuille die door de voorspelde uitgaven wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de kostenmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
 
 **kostenmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die kostenvolume, de bieding voorspelt die wordt vereist om elke positie of plaatsing te winnen, en CPC (onderzoek) of CPM (vertoning) voor elke biedingseenheid gebruikend historische gegevens en wiskundige het voorspellen technieken.
 
@@ -88,6 +88,8 @@ ht-degree: 0%
 
 **eCPM:** de efficiënte CPM, of de gemiddelde kosten die per 1000 beelden tijdens een gespecificeerde datumwaaier worden betaald. eCPM-waarden kunnen worden berekend voor CPM- of CPC-campagnes.
 
+**[EF identiteitskaart ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-ef-id):** Een volgende code die Adobe Advertising toestaat om activiteit met een online klik of blootstelling toe te voegen en gegevens over campagnes met Adobe Analytics en Adobe Customer Journey Analytics te delen.
+
 ## G-H {#g-h}
 
 **half-leven:** de tijd die voor een hoeveelheid wordt vereist om aan de helft van zijn aanvankelijke waarde te verminderen. Voor elke portefeuille, kunt u halfwaardetijden specificeren om erop te wijzen hoe lang gegevens voor kostenmodellen en opbrengstmodellen relevant zijn.
@@ -99,7 +101,7 @@ Zie &quot;halfwaardetijd van het kostenmodel&quot; en &quot;halfwaardetijd van h
 
 **venster van de imitatieraadpleging:** (Vertoning en sociale campagnes slechts) een adverteerder-niveau dat het aantal dagen specificeert nadat een advertentie voorkomt dat de indruk aan een omzetting kan worden toegeschreven.
 
-**de impressie met voeten treedt gewicht:** Een gespecificeerd percentage van een omzettingswaarde om aan impressies toe te schrijven die binnen het venster van de de imperiatieraadpleging van de cliënt voorkomen wanneer de omzetting door zowel betaalde kliks als impressies wordt voorafgegaan. Wanneer een conversie alleen wordt voorafgegaan door indrukken, wordt het doorkijkgewicht van de adverteerder in plaats van het gewicht dat de indruk overschrijft, toegepast op de impressies.
+**de impressie met voeten treedt gewicht:** Een gespecificeerd percentage van een omzettingswaarde aan beelden toe te schrijven die binnen het venster van de de impresuslookback van de cliënt voorkomen wanneer de omzetting door zowel betaalde kliks als impressies wordt voorafgegaan. Wanneer een conversie alleen wordt voorafgegaan door indrukken, wordt het doorkijkgewicht van de adverteerder in plaats van het gewicht dat de indruk overschrijft, toegepast op de impressies.
 
 ## K-L {#k-l}
 
@@ -163,7 +165,7 @@ Dit heeft dezelfde waarde als de oudere kolom &quot;Gewogen Opbrengst.&quot;
 
 **rendement op investering:** (ROI) Inkomsten minus kosten.
 
-**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [&#x200B; Modelnauwkeurigheidsrapporten &#x200B;](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight &#x200B;](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
+**opbrengstnauwkeurigheid:** (Advertisers met portefeuilles) de daadwerkelijke opbrengst voor een portefeuille die door de voorspelde opbrengst wordt gedeeld. [ Modelnauwkeurigheidsrapporten ](/help/search-social-commerce/reports/management/model-accuracy/model-accuracy-report-about.md) wijzen op de nauwkeurigheid van de opbrengstmodellen die voor optimalisering worden gebruikt, en [[!UICONTROL Model Accuracy] insight ](/help/search-social-commerce/advertising-insights/insight-about.md) omvat meer details, naast aanbevelingen om modelnauwkeurigheid te verbeteren.
 
 **opbrengstmodel:** (Advertisers met portefeuilles) Onderzoek, Sociale, &amp; technologie van Commerce die de omzettingspercentage en het geschatte rendement voor elke biedingseenheid voorspelt, die op de klikgegevens (onderzoek en sociale) of (vertoning) beeldgegevens en de omzettingsgegevens van adverteerders wordt gebaseerd.
 

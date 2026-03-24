@@ -3,9 +3,9 @@ title: Opmaak voor het bijhouden van klikken voor  [!DNL Google Ads]
 description: Leer over de klik-volgende formaten voor  [!DNL Google Ads]  rekeningen.
 exl-id: d09c3b4e-1274-45fb-abb6-dddfe60f1477
 feature: Search Tracking
-source-git-commit: 79b4294df79fcc16916a01ac2d1a57f0b968d368
+source-git-commit: 546e391745b1469efbcc9c2024dfc193224f0ed0
 workflow-type: tm+mt
-source-wordcount: '547'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---
@@ -70,11 +70,11 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 * Wanneer de adverteerder een Adobe Analytics-integratie heeft, moet het achtervoegsel een van de volgende elementen bevatten:
 
-   * [!DNL Google Ads] rekeningen die het recentste [&#x200B; formaat van identiteitskaart van AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
+   * [!DNL Google Ads] rekeningen die het recentste [ formaat van identiteitskaart van AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) (beginnend met `s_kwcid`) gebruiken, dat campagne- en ad groep-vlakke rapportering voor prestaties max campagnes en concepten en experimentatiecampagnes steunt:
 
      `ef_id={gclid}:G:s&s_kwcid=AL!{userid}!3!{creative}!{matchtype}!{placement}!{network}!{product_partition_id}!{keyword}!{campaignid}!{adgroupid}`
 
-     Als de rekening een server-kant implementatie van identiteitskaart van AMO heeft en de rekening of campagne die &quot; [!UICONTROL Auto Upload]&quot;plaatsen wordt toegelaten, dan wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id-implement) wordt gebruikt.&quot;
+     Als de rekening een server-kant implementatie van identiteitskaart van AMO heeft en de rekening of campagne die &quot; [!UICONTROL Auto Upload]&quot;plaatsen wordt toegelaten, dan wordt de parameter automatisch toegevoegd. Anders moet u het handmatig toevoegen. Zie &quot;[ Adobe Advertising IDs die door  [!DNL Analytics] wordt gebruikt ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id-implement).&quot;
 
    * Alle andere [!DNL Google Ads] -accounts:
 
@@ -92,5 +92,5 @@ Accounts die gebruikmaken van het bijhouden van Adobe Advertising-conversies, mo
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising &#x200B;](formats-click-tracking-about.md)
->* [&#x200B; formaten van identiteitskaart AMO &#x200B;](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
+>* [ formaten van identiteitskaart AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)

@@ -1,16 +1,16 @@
 ---
-title: Opmaak voor het bijhouden van klikken voor [!DNL Naver]
-description: Meer informatie over de indelingen voor klikken en bijhouden voor [!DNL Naver] rekeningen.
-exl-id: ff243eb5-d768-4e5c-b5b3-015fe22c9d5a
+title: Opmaak voor het bijhouden van klikken voor  [!DNL Naver]
+description: Leer over de klik-volgende formaten voor  [!DNL Naver]  rekeningen.
+exl-id: b438652e-6e98-4223-8169-2bfb37500670
 feature: Search Tracking
-source-git-commit: 05b9a55e19c9f76060eedb35c41cdd2e11753c24
+source-git-commit: 546e391745b1469efbcc9c2024dfc193224f0ed0
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# Opmaak voor het bijhouden van klikken voor gesponsorde advertenties op [!DNL Naver]
+# Opmaak voor het bijhouden van klikken op gesponsorde advertenties op [!DNL Naver]
 
 De volgende basis-bestemmings-URL-indeling is van toepassing op gesponsorde advertenties:
 
@@ -22,13 +22,13 @@ Voorbeeld:
 
 >[!NOTE]
 >
->* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder binnen de Adobe Advertising.
+>* `<advertiser_ID>` is een variabele voor de unieke id van de adverteerder in Adobe Advertising.
 >
->* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als het doorgeven van token is uitgeschakeld, kunt u dit vervangen `cq?` na `<advertiser_ID>` with `c?`.
+>* Deze indeling geeft aan dat tokendoorgeven is ingeschakeld voor de campagne (de standaardinstelling). Als tokendoorgeven is uitgeschakeld, vervangt u `cq?` after `<advertiser_ID>` with `c?` .
 >
->* `<the landing page>` is een variabele die de URL op uw site vertegenwoordigt waarnaar eindgebruikers worden geleid.
+* `<the landing page>` is een variabele die de URL op uw site vertegenwoordigt waarnaar eindgebruikers worden geleid.
 
 >[!MORELIKETHIS]
 >
->* [Over URL-indelingen voor het bijhouden van klikken voor de service Adobe Advertising converteren](formats-click-tracking-about.md)
->* [AMO ID-indelingen](/help/integrations/analytics/ids.md#amo-id-formats)
+>* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
+>* [ formaten van identiteitskaart AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)
