@@ -16,9 +16,9 @@ ht-degree: 0%
 
 Adobe Advertising deelt gegevens over uw campagnes met Adobe Analytics aan de hand van de toevoegingsparameter van de AMO-id, ook wel de `s_kwcid` -parameter genoemd. Deze bestaat uit ad-channel en ad-netwerkspecifieke elementen.
 
-Voor informatie over hoe te om de parameter van identiteitskaart van AMO aan uw het volgen URLs toe te voegen, en de formaten van identiteitskaart van AMO voor DSP en Onderzoek, Sociale, &amp; Commerce, zie &quot;[ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id) wordt gebruikt.&quot;
+Voor informatie over hoe te om de parameter van identiteitskaart van AMO aan uw het volgen URLs toe te voegen, en de formaten van identiteitskaart van AMO voor DSP en Onderzoek, Sociale, &amp; Commerce, zie &quot;[&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id) wordt gebruikt.&quot;
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
->* [ Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"} wordt gebruikt
+>* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md){target="_blank"}
+>* [&#x200B; Adobe Advertising IDs die door  [!DNL Analytics]](/help/integrations/analytics/ids.md#amo-id){target="_blank"} wordt gebruikt

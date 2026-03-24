@@ -11,15 +11,15 @@ ht-degree: 0%
 
 De AMO-id houdt elke unieke advertentiecombinatie bij op een minder korrelig niveau en wordt gebruikt voor [!DNL Analytics] - en Customer Journey Analytics-gegevensclassificatie en -opname van advertentiemetriek (zoals indrukken, klikken en kosten) vanuit Adobe Advertising.
 
-Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [ eVar ](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO).
+Voor [!DNL Analytics], wordt identiteitskaart AMO opgeslagen in een [&#x200B; eVar &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html) of rVar afmeting (identiteitskaart van AMO).
 
-Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [ uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] ](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
+Voor Customer Journey Analytics, wordt identiteitskaart van AMO opgeslagen in het `trackingCode` bezit van het `conversionDetails` voorwerp, dat deel van [&#x200B; uitmaakt [!UICONTROL Adobe Advertising Cloud ExperienceEvent Full Extension] &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/xdm/field-groups/event/advertising-full-extension).
 
 De AMO-id wordt ook wel de `s_kwcid` genoemd, die soms wordt uitgesproken als &quot;[!DNL squid]&quot;.
 
 ### AMO ID-indelingen {#amo-id-formats}
 
-Zie de [ formaten voor de afmetingspunten van AMO identiteitskaart ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) in de &quot;Gids van de Componenten van Adobe Analytics.&quot;
+Zie de [&#x200B; formaten voor de afmetingspunten van AMO identiteitskaart &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items) in de &quot;Gids van de Componenten van Adobe Analytics.&quot;
 
 <!-- Legacy content:
 

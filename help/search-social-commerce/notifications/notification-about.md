@@ -16,7 +16,7 @@ ht-degree: 0%
 
 U kunt uw berichtmontages vormen om aan, of unsubscribe van, verschillende types van alarm in te tekenen. U kunt uw meldingen op een van de volgende manieren weergeven:
 
-* Van het [!UICONTROL Notifications] paneel, dat van het belangrijkste menu bij ![ Meldingen ](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") beschikbaar is.
+* Van het [!UICONTROL Notifications] paneel, dat van het belangrijkste menu bij ![&#x200B; Meldingen &#x200B;](/help/search-social-commerce/assets/notifications-panel.png " Meldingen ") beschikbaar is.
 
 * Vanuit [!UICONTROL Insights & Reports] > [!UICONTROL Notification Center Beta] .
 
@@ -44,11 +44,11 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
 * [!UICONTROL Campaign Management]
 
-   * **[!UICONTROL Bulksheets]**: Meldingen dat a [ bulksheet verrichting ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) werd voltooid of ontbroken.
+   * **[!UICONTROL Bulksheets]**: Meldingen dat a [&#x200B; bulksheet verrichting &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md) werd voltooid of ontbroken.
 
-   * **[!UICONTROL Manager Account Missing]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce de geloofsbrieven voor een [ en rekening van de netwerkmanager ](/help/search-social-commerce/admin/manager-accounts.md) mist, die voor de correcte opstelling van kritieke functies worden vereist.
+   * **[!UICONTROL Manager Account Missing]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce de geloofsbrieven voor een [&#x200B; en rekening van de netwerkmanager &#x200B;](/help/search-social-commerce/admin/manager-accounts.md) mist, die voor de correcte opstelling van kritieke functies worden vereist.
 
-   * **[!UICONTROL UI Actions]**: Meldingen dat uw taken die op de achtergrond worden uitgevoerd, zijn voltooid of mislukt. De baantypes omvatten [ bulksheet banen ](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), bulksgewijs geeft banen binnen de gegevenslijst uit of het gebruiken van de toolbar, de banen van de entiteittaak, of andere acties binnen het gebruikersinterface (zoals het synchroniseren met advertentienetwerken, het kleven rijen, of het anders noemen van entiteiten). De taken van de entiteit omvatten het toewijzen van of het ongedaan maken van de waarde van de a [ etiketclassificatie ](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md) aan om het even welke entiteit, het toewijzen van een campagne aan een portefeuille, en het toewijzen van of het ongedaan maken van een beperking aan een portefeuille.<!--Link "constraint" to constraint-about.md if that file is ever public -->
+   * **[!UICONTROL UI Actions]**: Meldingen dat uw taken die op de achtergrond worden uitgevoerd, zijn voltooid of mislukt. De baantypes omvatten [&#x200B; bulksheet banen &#x200B;](/help/search-social-commerce/campaign-management/bulksheets/bulksheet-about.md), bulksgewijs geeft banen binnen de gegevenslijst uit of het gebruiken van de toolbar, de banen van de entiteittaak, of andere acties binnen het gebruikersinterface (zoals het synchroniseren met advertentienetwerken, het kleven rijen, of het anders noemen van entiteiten). De taken van de entiteit omvatten het toewijzen van of het ongedaan maken van de waarde van de a [&#x200B; etiketclassificatie &#x200B;](/help/search-social-commerce/campaign-management/label-classifications/classification-about.md) aan om het even welke entiteit, het toewijzen van een campagne aan een portefeuille, en het toewijzen van of het ongedaan maken van een beperking aan een portefeuille.<!--Link "constraint" to constraint-about.md if that file is ever public -->
 
    * [!UICONTROL Data Upload]
 
@@ -58,11 +58,11 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
    * [!UICONTROL Network Errors]
 
-      * **[!UICONTROL Account Auth Error]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce tot een [ en netwerkrekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) wegens ongeldige geloofsbrieven of een ongeldig of verlopen toestemmingstoken niet kon toegang hebben.
+      * **[!UICONTROL Account Auth Error]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce tot een [&#x200B; en netwerkrekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) wegens ongeldige geloofsbrieven of een ongeldig of verlopen toestemmingstoken niet kon toegang hebben.
 
-      * **[!UICONTROL Account Missing]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce de geloofsbrieven voor een [ en netwerkrekening ](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) mist.
+      * **[!UICONTROL Account Missing]**: Meldingen dat het Onderzoek, Sociale, &amp; Commerce de geloofsbrieven voor een [&#x200B; en netwerkrekening &#x200B;](/help/search-social-commerce/campaign-management/accounts/ad-network-account-about.md) mist.
 
-      * **[!UICONTROL Manager Account Auth Error]**: Meldingen dat het Onderzoek, Sociaal, &amp; Commerce niet met een [ en rekening van de netwerkmanager ](/help/search-social-commerce/admin/manager-accounts.md) wegens ongeldige geloofsbrieven of een ongeldig of verlopen toestemmingstoken kon synchroniseren.
+      * **[!UICONTROL Manager Account Auth Error]**: Meldingen dat het Onderzoek, Sociaal, &amp; Commerce niet met een [&#x200B; en rekening van de netwerkmanager &#x200B;](/help/search-social-commerce/admin/manager-accounts.md) wegens ongeldige geloofsbrieven of een ongeldig of verlopen toestemmingstoken kon synchroniseren.
 
   <!--
   * [!UICONTROL Setup Errors]
@@ -74,13 +74,13 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
 * [!UICONTROL Insights & Reports]
 
-   * **[!UICONTROL Advertising Insights]**: Meldingen dat [ an  [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-about.md) werd voltooid of ontbroken.
+   * **[!UICONTROL Advertising Insights]**: Meldingen dat [&#x200B; an  [!DNL Advertising Insight]](/help/search-social-commerce/advertising-insights/insight-about.md) werd voltooid of ontbroken.
 
-   * **[!UICONTROL Custom Alerts]**: Meldingen dat [ waakzame instanties ](/help/search-social-commerce/alerts/alert-about.md) voor een waakzaam malplaatje werden teweeggebracht.
+   * **[!UICONTROL Custom Alerts]**: Meldingen dat [&#x200B; waakzame instanties &#x200B;](/help/search-social-commerce/alerts/alert-about.md) voor een waakzaam malplaatje werden teweeggebracht.
 
-   * **[!UICONTROL Reports]**: Meldingen dat a [ douane of gepland rapport ](/help/search-social-commerce/reports/report-about.md) werd voltooid of ontbroken.
+   * **[!UICONTROL Reports]**: Meldingen dat a [&#x200B; douane of gepland rapport &#x200B;](/help/search-social-commerce/reports/report-about.md) werd voltooid of ontbroken.
 
-   * **[!UICONTROL Spreadsheet Feeds]**: Meldingen dat de voer van het a [ spreadsheet ](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md) werd voltooid of ontbroken.
+   * **[!UICONTROL Spreadsheet Feeds]**: Meldingen dat de voer van het a [&#x200B; spreadsheet &#x200B;](/help/search-social-commerce/reports/automation/spreadsheet-feeds/spreadsheet-feed-about.md) werd voltooid of ontbroken.
 
 <!--
 * [!UICONTROL Optimization]
@@ -105,9 +105,9 @@ U kunt uw meldingen weergeven, meldingen markeren als gelezen of ongelezen, en m
 
 >[!MORELIKETHIS]
 >
->* [ Mening uw berichten ](notification-view.md)
->* [ Teken een bericht als gelezen of ongelezen ](notification-mark-read-unread.md)
->* [ Schrap een bericht ](notification-delete.md)
->* [ geef uw berichtmontages ](notification-edit.md) uit
->* [ Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
->* [ installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing ](notification-app-install-uninstall.md)
+>* [&#x200B; Mening uw berichten &#x200B;](notification-view.md)
+>* [&#x200B; Teken een bericht als gelezen of ongelezen &#x200B;](notification-mark-read-unread.md)
+>* [&#x200B; Schrap een bericht &#x200B;](notification-delete.md)
+>* [&#x200B; geef uw berichtmontages &#x200B;](notification-edit.md) uit
+>* [&#x200B; Pushmeldingen in- en uitschakelen vanuit [!UICONTROL Notification Center]](notifications-push-enable-disable.md)
+>* [&#x200B; installeer en desinstalleer de [!UICONTROL Notification Center] Webtoepassing &#x200B;](notification-app-install-uninstall.md)

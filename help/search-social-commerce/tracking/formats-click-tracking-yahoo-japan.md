@@ -34,5 +34,5 @@ Voorbeeld:
 
 >[!MORELIKETHIS]
 >
->* [ Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising ](formats-click-tracking-about.md)
->* [ formaten van identiteitskaart AMO ](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)
+>* [&#x200B; Ongeveer klik-volgende formaten URL voor de conversie het volgen dienst van Adobe Advertising &#x200B;](formats-click-tracking-about.md)
+>* [&#x200B; formaten van identiteitskaart AMO &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/dimensions/amo-id#dimension-items)
