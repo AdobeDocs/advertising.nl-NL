@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *eigenschap van Beta*
 
-Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html), die deel van Adobe Experience Platform uitmaakt, om uw gebruiker IDs — met inbegrip van gehakte e-mailadressen, koekjes, en mobiele reclame IDs — aan universele IDs voor gerichte reclame om te zetten.
+Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/rtcdp/overview.html?lang=nl-NL), die deel van Adobe Experience Platform uitmaakt, om uw gebruiker IDs — met inbegrip van gehakte e-mailadressen, koekjes, en mobiele reclame IDs — aan universele IDs voor gerichte reclame om te zetten.
 
 1. (Gebruikers-id&#39;s omzetten in [!DNL RampIDs]<!-- or [!DNL ID5] IDs -->; adverteerders met [[!DNL Adobe] [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md) ) Tekstspatiëring instellen voor [!DNL Analytics] -meting:
 
@@ -32,11 +32,11 @@ Gebruik de integratie van DSP met [&#x200B;  [!DNL Adobe Real-Time CDP] &#x200B;
 
    De e-mailadressen moeten worden gehakt gebruikend het algoritme SHA-256.
 
-   Voor instructies voor het activeren van de de bestemmingsverbinding van DSP, het activeren van publiek, en het bevestigen van gegevensuitvoer, zie &quot;[&#x200B; de verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html).&quot;
+   Voor instructies voor het activeren van de de bestemmingsverbinding van DSP, het activeren van publiek, en het bevestigen van gegevensuitvoer, zie &quot;[&#x200B; de verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL).&quot;
 
    >[!NOTE]
    >
-   >De erfenisverbinding, die steun voor slechts gehakt e-mailadressen omvat, wordt nu genoemd &quot;[&#x200B; Verouderde de verbinding van DSP van de Advertising Cloud van Adobe Advertising &#x200B;](https://experienceleague.adobe.com/en/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection-legacy). Als u reeds de erfenisverbinding gebruikt, te hoeven u om geen veranderingen onmiddellijk aan te brengen. De verouderde verbinding wordt echter uiteindelijk verwijderd.
+   >De erfenisverbinding, die steun voor slechts gehakt e-mailadressen omvat, wordt nu genoemd &quot;[&#x200B; Verouderde de verbinding van DSP van de Advertising Cloud van Adobe Advertising &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection-legacy). Als u reeds de erfenisverbinding gebruikt, te hoeven u om geen veranderingen onmiddellijk aan te brengen. De verouderde verbinding wordt echter uiteindelijk verwijderd.
 
 1. Controleer in de publieksbibliotheek (die beschikbaar is wanneer u een publiek maakt of bewerkt vanuit [!UICONTROL Audiences] > [!UICONTROL All Audiences] of binnen de plaatsingsinstellingen) of het segment vult en vergelijk het aantal universele id&#39;s met het aantal oorspronkelijke gebruikers-id&#39;s.
 
@@ -54,7 +54,7 @@ Neem contact op met uw Adobe-accountteam of `adcloud-support@adobe.com` om probl
 >
 >* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](/help/dsp/audiences/sources/source-about.md)
 >* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](source-manage.md)
->* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html)
->* Adobe Experience Platform [&#x200B; het catalogusoverzicht van Doelen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html)
+>* [&#x200B; verbinding van Adobe Advertising DSP &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/advertising/adobe-advertising-cloud-connection.html?lang=nl-NL)
+>* Adobe Experience Platform [&#x200B; het catalogusoverzicht van Doelen &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/destinations/catalog/overview.html?lang=nl-NL)
 >* [&#x200B; Steun voor het activeren van Universal IDs &#x200B;](/help/dsp/audiences/universal-ids.md)
 >* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
