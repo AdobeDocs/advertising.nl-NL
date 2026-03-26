@@ -3,9 +3,9 @@ title: Ondersteuning voor het activeren van universele id's
 description: Leer over steun om uw universele segmenten van identiteitskaart in te voeren, douanesegmenten tot stand te brengen om universele IDs te volgen, en andere gebruikersidentificatoren in uw eerste-partijsegmenten in universele IDs voor het kokieloze richten om te zetten.
 feature: DSP Audiences
 exl-id: e238537b-217f-44bb-8a69-8adc83dbdfb9
-source-git-commit: cff6b5ad2c66699a6e0402bce6685acc536fd0a0
+source-git-commit: 2dddf3560e1f98dab7158c28625bcd54b4efbdb2
 workflow-type: tm+mt
-source-wordcount: '1500'
+source-wordcount: '1513'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 DSP ondersteunt universele id&#39;s op basis van personen voor apparaten zonder cookie, één apparaat (geen cross-device) die zich richten op digitale indelingen die door DSP worden ondersteund.
 
-* U kunt uw geverifieerde [[!DNL LiveRamp] [!DNL RampIDs]] handmatig rechtstreeks naar DSP verzenden via het dashboard [!DNL LiveRamp] [!DNL Connect] . Zie &quot;[&#x200B; manueel invoer voor authentiek verklaarde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md).&quot;
+* U kunt uw geverifieerde [[!DNL LiveRamp] [!DNL RampIDs]] handmatig rechtstreeks naar DSP verzenden via het dashboard [!DNL LiveRamp] [!DNL Connect] . Zie &quot;[ manueel invoer voor authentiek verklaarde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md).&quot;
 
-* DSP kan uw eerste-partijsegmenten samenvoegen die bestaan uit gehashte e-mailadressen die in het CDP (Customer Data Platform) zijn ingebouwd en deze converteren naar [!DNL LiveRamp] [!DNL RampIDs] - en [!DNL Unified ID 2.0 (UID2.0)] -id&#39;s. Voor meer informatie over de gesteunde platforms van klantengegevens, zien de beschikbare eigenschappen voor elk gesteund universeel type van identiteitskaart, en de verwante werkschema&#39;s, &quot;[&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](/help/dsp/audiences/sources/source-about.md).&quot;
+* DSP kan uw eerste-partijsegmenten die in uw CDP (Customer Data Platform) zijn gemaakt, opnemen en deze converteren naar [!DNL LiveRamp] [!DNL RampIDs] - en [!DNL Unified ID 2.0 (UID2.0)] -id&#39;s. Voor meer informatie over de gesteunde platforms van klantengegevens en de types van gebruikersherkenningstekens, de beschikbare eigenschappen voor elk gesteund universeel type van identiteitskaart, en de verwante werkschema&#39;s, zie &quot;[ Ongeveer de Bronnen van het Publiek van de Eerste Partij ](/help/dsp/audiences/sources/source-about.md).&quot;
 
-* U kunt aangepaste segmenten maken die gebruikers bijhouden die zijn gekoppeld aan universele id&#39;s van ID5 en die worden blootgesteld aan advertenties van mobiele en desktopapparaten en die specifieke webpagina&#39;s bezoeken. ID5 gebruikt een probabilistisch model om een identiteitskaart toe te wijzen die uit diverse gebruikerssignalen en browser signalen wordt afgeleid. Voor instructies, zie &quot;[&#x200B; creëren en een douanesegment &#x200B;](/help/dsp/audiences/custom-segment-create.md) uitvoeren.&quot;
+* U kunt aangepaste segmenten maken die gebruikers bijhouden die zijn gekoppeld aan universele id&#39;s van ID5 en die worden blootgesteld aan advertenties van mobiele en desktopapparaten en die specifieke webpagina&#39;s bezoeken. ID5 gebruikt een probabilistisch model om een identiteitskaart toe te wijzen die uit diverse gebruikerssignalen en browser signalen wordt afgeleid. Voor instructies, zie &quot;[ creëren en een douanesegment ](/help/dsp/audiences/custom-segment-create.md) uitvoeren.&quot;
 
 * Secties van derden van sommige leveranciers kunnen automatisch universele id&#39;s bevatten naast gebruikers die worden bijgehouden door cookies of apparaat-id&#39;s. Segmenten van [!DNL Eyeota] kunnen bijvoorbeeld automatisch ID5-id&#39;s bevatten en segmenten van [!DNL Lotame] kunnen UID2.0-id&#39;s bevatten. De segmentdetails omvatten de grootte voor elk type. De gebruikelijke gebruiksvergoeding voor elk segment, die naast de segmentnaam wordt vermeld, is van toepassing; er worden geen extra kosten in rekening gebracht voor de ID5-id&#39;s.
 
@@ -34,7 +34,7 @@ DSP ondersteunt universele id&#39;s op basis van personen voor apparaten zonder 
 
   >[!IMPORTANT]
   >
-  >Voor juiste omzettingsattributie, zorg ervoor dat klikthrough URLs voor uw advertenties zowel [&#x200B; EF identiteitskaart als AMO identiteitskaart &#x200B;](/help/integrations/analytics/ids.md) omvatten.
+  >Voor juiste omzettingsattributie, zorg ervoor dat klikthrough URLs voor uw advertenties zowel [ EF identiteitskaart als AMO identiteitskaart ](/help/integrations/analytics/ids.md) omvatten.
 
 * **de details van het Segment:** voor alle segmenttypes, omvatten de segmentdetails de publieksgrootte door universeel type van identiteitskaart en door het apparatentype dat door koekjes of apparaat IDs wordt gevolgd.
 
@@ -66,7 +66,7 @@ Ga als volgt te werk in een nieuwe, geplande of gepauzeerde plaatsing:
 
          Voordat u gegevens kunt converteren naar een nieuw type id, moet een gebruiker in de DSP-account de serviceovereenkomst accepteren. De voorwaarden moeten slechts eenmaal per ID-type per account worden geaccepteerd.
 
-Zie &quot;[&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md).&quot;
+Zie &quot;[ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md).&quot;
 
 ## Aanbevolen procedures voor het testen en valideren van gegevens
 
@@ -74,7 +74,7 @@ Gebruik de volgende aanbevolen procedures voor op [!DNL RampID] gebaseerde segme
 
 * Ongeveer 24 uur nadat u een segment activeert, controleer het omgezette aantal identiteitskaart voor het segment binnen [!UICONTROL Audiences] > [!UICONTROL All Audiences]. Neem contact op met uw Adobe-accountteam als het aantal id&#39;s onverwacht is.
 
-  Zie &quot;[&#x200B; de variaties van Gegevens tussen e-mail IDs en universele IDs &#x200B;](#universal-ids-data-variances)&quot;voor meer informatie over hoe de segmenttellingen kunnen variëren.
+  Zie &quot;[ de variaties van Gegevens tussen e-mail IDs en universele IDs ](#universal-ids-data-variances)&quot;voor meer informatie over hoe de segmenttellingen kunnen variëren.
 
 * Wijzig de bestaande pakketten en plaatsen niet. Nochtans, als u geen stijgende begroting hebt om universele IDs te testen, dan verminder de originele begrotingen om de tests te financieren.
 
@@ -97,6 +97,8 @@ Gebruik de volgende aanbevolen procedures voor op [!DNL RampID] gebaseerde segme
 * Herinner dat het bereik voor voor authentiek verklaarde publiekssegmenten natuurlijk kleiner is dan het bereik voor op koekjes-gebaseerde segmenten, en dat het gebruiken van extra het richten opties uw bereik verder vermindert. Wees voorzichtig met het gebruik van korrelige doelen, vooral door meerdere doelen te verbinden met AND-instructies.
 
 ## Gegevensvariaties tussen e-mailadressen en universele id&#39;s {#universal-ids-data-variances}
+
+Deze sectie is alleen van toepassing op e-mailadressen die naar universele id&#39;s worden vertaald.
 
 ### Aanvaardbare variantieniveaus
 
@@ -122,11 +124,11 @@ Neem voor [!DNL RampIDs] contact op met uw Adobe-accountteam voor verder onderzo
 
 Als u het aantal gebruikers niet ziet, of als uw publieksgrootte laag is, dan controleer het volgende:
 
-* Als u [!DNL Flashtalking] - of [!DNL Google Campaign Manager 360] -advertenties gebruikt, moet u ervoor zorgen dat de juiste macro&#39;s worden toegevoegd wanneer u op URL&#39;s van uw advertenties klikt. Zie de macro&#39;s voor [[!DNL Flashtalking]  advertenties &#x200B;](/help/integrations/analytics/macros-flashtalking.md) en [[!DNL Google Campaign Manager 360]  advertenties &#x200B;](/help/integrations/analytics/macros-google-campaign-manager.md).
+* Als u [!DNL Flashtalking] - of [!DNL Google Campaign Manager 360] -advertenties gebruikt, moet u ervoor zorgen dat de juiste macro&#39;s worden toegevoegd wanneer u op URL&#39;s van uw advertenties klikt. Zie de macro&#39;s voor [[!DNL Flashtalking]  advertenties ](/help/integrations/analytics/macros-flashtalking.md) en [[!DNL Google Campaign Manager 360]  advertenties ](/help/integrations/analytics/macros-google-campaign-manager.md).
 
 * Zorg ervoor dat de juiste, universele id partnerspecifieke code op uw website wordt geïmplementeerd om gebeurtenissen en advertentieblootstellingen op locatie te laten overeenkomen. Werk zo nodig samen met uw [!DNL LiveRamp] - of [!DNL ID5] -vertegenwoordiger.
 
-* (Voor [!DNL RampIDs] en [!DNL UID 2.0] IDs) zorg ervoor dat uw [&#x200B; gegevensbron van DSP correct &#x200B;](/help/dsp/audiences/sources/source-manage.md#source-settings) wordt gevormd, en dat de gebruikertellingen voor de geproduceerde publiekssegmenten bevolkt zijn.
+* (Voor [!DNL RampIDs] en [!DNL UID 2.0] IDs) zorg ervoor dat uw [ gegevensbron van DSP correct ](/help/dsp/audiences/sources/source-manage.md#source-settings) wordt gevormd, en dat de gebruikertellingen voor de geproduceerde publiekssegmenten bevolkt zijn.
 
 * Als uw bereik kleiner is dan u verwacht, controleert u of de logica van het publiekssegment niet te korrelig is.
 
@@ -136,9 +138,9 @@ Neem contact op met uw Adobe-accountteam als u het probleem niet kunt oplossen.
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer eerste-partijpublieksbronnen &#x200B;](/help/dsp/audiences/sources/source-about.md)
->* [&#x200B; beheert publieksbronnen om universele identiteitskaart te activeren &#x200B;](/help/dsp/audiences/sources/source-manage.md)
->* [&#x200B; creeer en voer een douanesegment &#x200B;](/help/dsp/audiences/custom-segment-create.md) uit
->* [&#x200B; voert manueel geverifieerde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md) in
->* [&#x200B; Ongeveer publieksbeheer &#x200B;](/help/dsp/audiences/audience-about.md)
->* [&#x200B; montages van de Plaatsing &#x200B;](/help/dsp/campaign-management/placements/placement-settings.md)
+>* [ Ongeveer eerste-partijpublieksbronnen ](/help/dsp/audiences/sources/source-about.md)
+>* [ beheert publieksbronnen om universele identiteitskaart te activeren ](/help/dsp/audiences/sources/source-manage.md)
+>* [ creeer en voer een douanesegment ](/help/dsp/audiences/custom-segment-create.md) uit
+>* [ voert manueel geverifieerde segmenten van  [!DNL LiveRamp]](/help/dsp/audiences/sources/source-import-liveramp-segments.md) in
+>* [ Ongeveer publieksbeheer ](/help/dsp/audiences/audience-about.md)
+>* [ montages van de Plaatsing ](/help/dsp/campaign-management/placements/placement-settings.md)
