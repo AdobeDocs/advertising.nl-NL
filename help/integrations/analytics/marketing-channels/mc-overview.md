@@ -14,7 +14,7 @@ ht-degree: 0%
 
 Deze pagina bevat belangrijke informatie over [!DNL Analytics Marketing Channels] die [!DNL Analytics for Advertising] -gebruikers moeten begrijpen.
 
-Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[&#x200B; Begonnen met  [!DNL Marketing Channels] &#x200B;](https://experienceleague.adobe.com/en/docs/analytics/components/marketing-channels/c-getting-started-mchannel).&quot;
+Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[&#x200B; Begonnen met  [!DNL Marketing Channels] &#x200B;](https://experienceleague.adobe.com/nl/docs/analytics/components/marketing-channels/c-getting-started-mchannel).&quot;
 
 ## Overzicht van [!DNL Marketing Channels]
 
@@ -43,5 +43,5 @@ Om te begrijpen hoe Adobe Advertising aan de signalen kan bijdragen noodzakelijk
 >* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels &#x200B;](mc-ids.md) te creëren
 >* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
 >* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
->* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc) meldt
+>* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/nl/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc) meldt
 >* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
