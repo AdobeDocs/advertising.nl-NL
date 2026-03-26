@@ -3,9 +3,9 @@ title: Grondbeginselen van  [!DNL Marketing Channels]
 description: Leer zeer belangrijke informatie over  [!DNL Analytics Marketing Channels]  dat  [!DNL Analytics for Advertising]  de gebruikers zouden moeten begrijpen.
 feature: Integration with Adobe Analytics
 exl-id: de02dff5-86ce-41e8-89c6-3c11f6375b77
-source-git-commit: e0436d3840fc138bad6ee3e3599cffd2385750cd
+source-git-commit: 81943936f828fa9472cff1b5b1c09e473396b818
 workflow-type: tm+mt
-source-wordcount: '550'
+source-wordcount: '542'
 ht-degree: 0%
 
 ---
@@ -14,17 +14,17 @@ ht-degree: 0%
 
 Deze pagina bevat belangrijke informatie over [!DNL Analytics Marketing Channels] die [!DNL Analytics for Advertising] -gebruikers moeten begrijpen.
 
-Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[&#x200B; Begonnen met  [!DNL Marketing Channels] &#x200B;](https://experienceleague.adobe.com/docs/analytics/components/marketing-channels/c-getting-started-mchannel.html?lang=nl-NL).&quot;
+Voor volledige documentatie op [!DNL Marketing Channels], zie &quot;[ Begonnen met  [!DNL Marketing Channels] ](https://experienceleague.adobe.com/en/docs/analytics/components/marketing-channels/c-getting-started-mchannel).&quot;
 
 ## Overzicht van [!DNL Marketing Channels]
 
 [!DNL Marketing Channels] zijn een belangrijke functie van Adobe Analytics. In [!DNL Marketing Channels] worden rapporten weergegeven waarin wordt aangegeven hoe klanten via het rapportagevenster naar uw website komen en hoe elk kanaal invloed heeft op de inkomsten of het gedrag op de locatie.
 
-Neem bijvoorbeeld het volgende voorbeeld van een reis tijdens een kruisbezoek. Elk bezoek aan uw website wordt aangegeven door het marketingkanaal van waaruit de bezoeker is gekomen. Het eerste bezoek, ook wel First Touch Channel genoemd, is E-mail. Weergeven bij bezoek twee is een deelnemend kanaal en Natuurlijk zoeken wordt beschouwd als het laatste aanraakkanaal. Als u [!UICONTROL Last Touch Attribution] gebruikt binnen [!UICONTROL Attribution IQ] , ontvangt Natural Search volledige creditering voor de conversiegebeurtenis $250. Met de Experience Cloud ID Service kunt u deze individuele bezoeken aan elkaar koppelen om één reis door één enkele bezoeker te onthullen.
+Neem bijvoorbeeld het volgende voorbeeld van een reis tijdens een kruisbezoek. Elk bezoek aan uw website wordt aangegeven door het marketingkanaal van waaruit de bezoeker is gekomen. Het eerste bezoek, ook wel First Touch Channel genoemd, is E-mail. Weergeven bij bezoek twee is een deelnemend kanaal en Natuurlijk zoeken wordt beschouwd als het laatste aanraakkanaal. Als u [!UICONTROL Last Touch Attribution] in [!UICONTROL Attribution IQ] gebruikt, ontvangt Natural Search volledige creditering voor de conversiegebeurtenis $250. Met de Experience Cloud ID Service kunt u deze individuele bezoeken aan elkaar koppelen om één reis door één enkele bezoeker te onthullen.
 
-![&#x200B; de reis van de het dwars-bezoek van het voorbeeld in de Kanalen van de Marketing &#x200B;](/help/integrations/assets/a4adc-mc-sample-journey.png)
+![ de reis van de het dwars-bezoek van het voorbeeld in de Kanalen van de Marketing ](/help/integrations/assets/a4adc-mc-sample-journey.png)
 
-Door [!UICONTROL Marketing Channels] verwerkingsregels te gebruiken, kunt u reeksen logica tot stand brengen om de kanalen te bepalen die verkeer drijven en elk kanaal te volgen aangezien de gebruikers naar uw plaats komen. Het [!UICONTROL Email] -kanaal wordt bijvoorbeeld aangegeven met een unieke trackingcode die wordt gegenereerd wanneer u op dit kanaal klikt. Als u het kanaal door Adobe Analytics hebt geregistreerd, wordt het bezoek gecategoriseerd als afkomstig van een marketingcampagne voor e-mail.
+Door [!UICONTROL Marketing Channels] verwerkingsregels te gebruiken, kunt u reeksen logica tot stand brengen om de kanalen te bepalen die verkeer drijven en elk kanaal te volgen aangezien de gebruikers naar uw plaats komen. Het kanaal van [!UICONTROL Email] wordt bijvoorbeeld aangegeven met een unieke trackingcode die wordt gegenereerd wanneer Adobe Analytics het bezoek afmeldt en vervolgens categoriseert als afkomstig van een marketingcampagne voor e-mail.
 
 ## Verwerkingsregels en de wijze waarop afzetkanalen worden ingesteld
 
@@ -32,16 +32,16 @@ Elke keer dat een gebruiker naar een website komt, doet hij dat via een URL waar
 
 Vaak voegen marketers code voor het bijhouden van querytekenreeksparameters toe aan kanaal-URL&#39;s om het effect van het kanaal op hun site te volgen. U kunt [!DNL Marketing Channels] verwerkingsregels zodanig configureren dat wordt geluisterd naar specifieke trackingparameters en -waarden om het kanaal te bepalen zonder dat er meer tekstspatiëring nodig is. Als bijvoorbeeld alle URL&#39;s van e-mailcampagnes de indeling `www.adobe.com?cid=email…` volgen (waar de URL de parameter en waarde van de queryreeks bevat `cid=email` ), kunt u een regel maken om naar deze trackingcode te luisteren en het bezoek in het [!UICONTROL Email] -kanaal te stoppen.
 
-Andere kanalen hebben geen trackable wegen URL en hebben verdere logica voor identificatie nodig. [!UICONTROL Earned Social] , waarin een gebruiker bijvoorbeeld op een koppeling klikt die een andere gebruiker organisch op een sociaal netwerk heeft gedeeld, is een belangrijk kanaal om te volgen. Nochtans, heeft de teller geen manier om een parameter het volgen code van het vraagkoord aan URL toe te voegen die wordt gedeeld. In dit geval kunt u een verwerkingsregel maken om te luisteren naar het verwijzende domein van sociale netwerken van interesse en naar het ontbreken van betaalcodes om het kanaal te bepalen. De bezoeken die aan deze vereisten voldoen zouden dan als Verdiende Sociale binnen het rapport van de Kanalen van de Marketing worden gevolgd.
+Andere kanalen hebben geen trackable wegen URL en hebben verdere logica voor identificatie nodig. [!UICONTROL Earned Social] , waarin een gebruiker bijvoorbeeld op een koppeling klikt die een andere gebruiker organisch op een sociaal netwerk heeft gedeeld, is een belangrijk kanaal om te volgen. Nochtans, heeft de teller geen manier om een parameter het volgen code van het vraagkoord aan URL toe te voegen die wordt gedeeld. In dit geval kunt u een verwerkingsregel maken om te luisteren naar het verwijzende domein van sociale netwerken van interesse en naar het ontbreken van betaalcodes om het kanaal te bepalen. De bezoeken die aan deze vereisten dan voldoen zouden als Geëist Sociaal binnen het rapport van de Kanalen van de Marketing worden gevolgd.
 
-Adobe raadt u aan samen te werken met uw analyseteam om een uitgebreide set [!DNL Marketing Channels] -verwerkingsregels op te stellen om alle kanalen te volgen die relevant zijn voor uw bedrijf. Zo kunt u krachtige rapportage van toewijzingen maken.
+Adobe raadt u aan om samen met uw [!DNL Analytics] -team een uitgebreide set [!DNL Marketing Channels] -verwerkingsregels te maken die alle relevante kanalen bijhouden. Zo kunt u krachtige rapportage van toewijzingen maken.
 
-Om te begrijpen hoe Adobe Advertising aan de signalen kan bijdragen noodzakelijk om douanegeleidende kanalen tot stand te brengen, zie &quot;[&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels &#x200B;](mc-ids.md) tot stand te brengen.&quot;
+Om te begrijpen hoe Adobe Advertising aan de signalen kan bijdragen noodzakelijk om douanegeleidende kanalen tot stand te brengen, zie &quot;[ Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels ](mc-ids.md) tot stand te brengen.&quot;
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels &#x200B;](mc-ids.md) te creëren
->* [&#x200B; waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
->* [&#x200B; Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising &#x200B;](mc-ac-data.md)
->* [&#x200B; Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die &#x200B;](https://experienceleague.adobe.com/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc.html?lang=nl-NL) meldt
->* [&#x200B; Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)
+>* [ Gebruikend Adobe Advertising IDs om  [!DNL Marketing Channels]  verwerkingsregels ](mc-ids.md) te creëren
+>* [ waarom de kanaalgegevens tussen Adobe Advertising en  [!DNL Marketing Channels]](mc-data-variances.md) kunnen variëren
+>* [ Gebruikend  [!DNL Analytics Marketing Channels]  met de gegevens van Adobe Advertising ](mc-ac-data.md)
+>* [ Video: Gebruikend  [!DNL Marketing Channels]  voor Adobe Advertising die ](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/analytics/analytics-reporting-a4adc) meldt
+>* [ Overzicht van  [!DNL Analytics for Advertising]](/help/integrations/analytics/overview.md)

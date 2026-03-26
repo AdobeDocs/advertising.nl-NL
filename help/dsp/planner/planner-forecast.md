@@ -3,7 +3,7 @@ title: De prognose voor een bereik van verbonden tv opnieuw genereren
 description: Leer hoe u een nieuwe prognose maakt voor een bereik van verbonden tv.
 feature: DSP Planner
 exl-id: ec3de39c-c2b3-4004-8d86-eb6479608121
-source-git-commit: dad30b0bd24c0286c1de6520471cb90707046ff3
+source-git-commit: 81943936f828fa9472cff1b5b1c09e473396b818
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -18,14 +18,14 @@ U kunt de voorspelling voor een bereik van een aangesloten tv opnieuw genereren 
 
 1. Plaats de cursor op de planrij en klik op **[!UICONTROL Forecast]** .
 
-1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet&#x200B;**, klikt u in de rechterbovenhoek op &#x200B;** [!UICONTROL ...] **&#x200B; en vervolgens op &#x200B;** [!UICONTROL Export]** .
+1. (Optioneel) Als u de [!UICONTROL Budget vs Reach] voorspelling wilt exporteren naar een [!DNL Microsoft Excel] spreadsheet**, klikt u in de rechterbovenhoek op **[!UICONTROL ...]** en vervolgens op **[!UICONTROL Export]** .
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer DSP [!UICONTROL Planner] hulpmiddel &#x200B;](planner-about.md)
->* [&#x200B; creeer een verbonden plan van het het bereik van TV &#x200B;](planner-create.md)
->* [&#x200B; Dupliceer een verbonden het bereikplan van TV &#x200B;](planner-duplicate.md)
->* [&#x200B; geef een verbonden plan van het het bereik van TV uit &#x200B;](planner-edit.md)
->* [&#x200B; de Uitvoer een verbonden plan van het het bereik van TV &#x200B;](planner-export.md)
->* [&#x200B; archiveer een verbonden het bereikplan van TV &#x200B;](planner-archive.md)
->* [&#x200B; Montages voor verbonden TV bereiken plannen &#x200B;](planner-settings.md)
+>* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
+>* [ creeer een verbonden plan van het het bereik van TV ](planner-create.md)
+>* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
+>* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
+>* [ de Uitvoer een verbonden plan van het het bereik van TV ](planner-export.md)
+>* [ archiveer een verbonden het bereikplan van TV ](planner-archive.md)
+>* [ Montages voor verbonden TV bereiken plannen ](planner-settings.md)
