@@ -3,7 +3,7 @@ title: '[!UICONTROL Simple Ad Serving] deal-instellingen'
 description: Meer informatie over de beschikbare instellingen voor [!UICONTROL Simple Ad Serving] -deals.
 feature: DSP Simple Ad Serving
 exl-id: 20e23182-d3d0-457f-a821-0ad4770a138d
-source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
+source-git-commit: 90cc9d56a090136bc94270b048573d89503231c6
 workflow-type: tm+mt
 source-wordcount: '468'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 | **[!UICONTROL Serving Type]** | Het mediatype voor deze deal: *[!UICONTROL Video],* *[!UICONTROL Display],* of *[!UICONTROL Audio].* |
 | **[!UICONTROL Publisher Site Served On]** | De naam van de uitgever die deze voorraad verkoopt. Zoek naar een uitgever door minstens de eerste twee karakters in de naam in te gaan. Neem contact op met uw Adobe-accountteam als u een niet-vermelde uitgever wilt toevoegen. |
 | **[!UICONTROL Advertiser]** | Één enkele adverteerder in de rekening die tot deze overeenkomst kan toegang hebben. Selecteer ook de campagne en (naar keuze) het pakket waarin de overeenkomst beschikbaar is. |
-| **[!UICONTROL Media Quality Assessment?]** | (Sommige gebruikers) Hiermee schakelt u de advertentie in op een andere DSP voor verificatie door derden. <!-- Who can select this? It's disabled for me. Need to see if there are additional fields when this is enabled. --> |
+| **[!UICONTROL Media Quality Assessment?]** | (Sommige gebruikers) Hiermee schakelt u de advertentie in op een andere DSP voor verificatie door derden. |
 | **[!UICONTROL Ad Source]** | De enige optie is *[!UICONTROL Site Serve (Event Pixels)]* . |
 | **[!UICONTROL Ad Creation]** | (Alleen nieuwe deals) Of:<ul><li>*[!UICONTROL Create New]:* om een advertentie voor deze overeenkomst tot stand te brengen.</li><li>*[!UICONTROL Select Ads]:* om een bestaande advertentie voor deze overeenkomst te gebruiken.</li></ul> |
 | **[!UICONTROL Ad Type]** | Het advertentietype voor deze overeenkomst. Als u advertenties voor de overeenkomst gaat creëren, omvat de advertentiegrootte of de duur, zoals gevraagd. De beschikbare opties variëren per mediatype. |
@@ -34,7 +34,7 @@ ht-degree: 0%
 
 ### [!UICONTROL Select & upload [Media Type]]
 
-(Nieuwe slechts advertenties) Screens om een nieuwe [&#x200B; derdeadvertentie &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
+(Nieuwe slechts advertenties) Screens om een nieuwe [ derdeadvertentie ](/help/dsp/campaign-management/ads/ad-create-multiple.md) tot stand te brengen.
 
 ### [!UICONTROL Feed details]
 
@@ -81,10 +81,10 @@ But I see:
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [&#x200B; creeer a [!UICONTROL Simple Ad Serving] overeenkomst &#x200B;](simple-deal-create.md)
->* [&#x200B; geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages &#x200B;](simple-deal-edit.md) uit
->* [&#x200B; Mening een gedetailleerd rapport voor een overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [ creeer a [!UICONTROL Simple Ad Serving] overeenkomst ](simple-deal-create.md)
+>* [ geeft [!UICONTROL Simple Ad Serving] overeenkomstenmontages ](simple-deal-edit.md) uit
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
 
 <!--
  add back when reimplemented:
