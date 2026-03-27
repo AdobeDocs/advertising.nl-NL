@@ -14,7 +14,7 @@ ht-degree: 0%
 
 *slechts Rekeningen met de [!DNL FreeWheel] Programmatic gewaarborgde toestemming*
 
-Zodra u [ een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goedkeurt, met inbegrip van het selecteren van een advertentie en het creëren van de programmatic gewaarborgde standaardplaatsing voor de overeenkomst, moet u de advertentie aan [!DNL FreeWheel] voor goedkeuring voorleggen.
+Zodra u [&#x200B; een programmatic gewaarborgde overeenkomst met een uitgever op FreeWheel &#x200B;](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goedkeurt, met inbegrip van het selecteren van een advertentie en het creëren van de programmatic gewaarborgde standaardplaatsing voor de overeenkomst, moet u de advertentie aan [!DNL FreeWheel] voor goedkeuring voorleggen.
 
 >[!PREREQUISITES]
 >
@@ -42,17 +42,17 @@ Zodra u [ een programmatic gewaarborgde overeenkomst met een uitgever op FreeWhe
 
       * Klik naast de naam van de advertentie op **[!UICONTROL ...]** > **[!UICONTROL submit to FreeWheel]** .
 
-      * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** . In de overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
+      * Klik in het hoofdmenu op **[!UICONTROL Inventory]** > **[!UICONTROL Deals]** . In de overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) > **[!UICONTROL submit to FreeWheel]**.
 
    1. Verifieer overeenkomstenidentiteitskaart, ga **[!UICONTROL Ad Key]** in u in Stap 1 kopieerde, en klik dan **[!UICONTROL Submit]**.
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
+1. [&#x200B; Controle de status van de advertentie voorlegging &#x200B;](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL FreeWheel]](freewheel-overview.md)
->* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [ Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG ](freewheel-check-status.md)
->* [ de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen ](freewheel-error-codes.md)
+>* [&#x200B; Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL FreeWheel]](freewheel-overview.md)
+>* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [&#x200B; Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG &#x200B;](freewheel-check-status.md)
+>* [&#x200B; de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen &#x200B;](freewheel-error-codes.md)

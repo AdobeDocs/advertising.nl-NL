@@ -36,19 +36,19 @@ Neem contact op met uw Adobe-accountteam voor aanvullende vragen of problemen me
 
    * Klik onder [!UICONTROL Deal ID Inbox] op **[!UICONTROL View FreeWheel creative status]** .
 
-   * In om het even welke overeenkomstenrij, klik ![ menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL See FreeWheel status]**.
+   * In om het even welke overeenkomstenrij, klik ![&#x200B; menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL See FreeWheel status]**.
 
 1. (Optioneel) Filter de gegevens om u te helpen specifieke deals en advertenties te zoeken.
 
    De kolom [!UICONTROL Submission Status] geeft aan of de advertentie is verzonden en goedgekeurd.
 
-   Voor mislukte verzendingen geeft de kolom [!UICONTROL API] Reactie de fout aan. Voor een volledige lijst van foutencodes voor ontbroken voorlegging, en volgende stappen om hen te verbeteren, zie &quot;[ codes van de Fout voor  [!DNL FreeWheel]  en voorlegging ](freewheel-error-codes.md).&quot;
+   Voor mislukte verzendingen geeft de kolom [!UICONTROL API] Reactie de fout aan. Voor een volledige lijst van foutencodes voor ontbroken voorlegging, en volgende stappen om hen te verbeteren, zie &quot;[&#x200B; codes van de Fout voor  [!DNL FreeWheel]  en voorlegging &#x200B;](freewheel-error-codes.md).&quot;
 
 1. (Optioneel) Als u een advertentie opnieuw ter goedkeuring wilt verzenden, houdt u de cursor boven de rij voor de advertentie en klikt u op **[!UICONTROL More]** > **[!UICONTROL Resubmit]** .
 
 >[!MORELIKETHIS]
 >
->* [ Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL FreeWheel]](freewheel-overview.md)
->* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](freewheel-submit.md)
->* [ de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen ](freewheel-error-codes.md)
->* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [&#x200B; Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL FreeWheel]](freewheel-overview.md)
+>* [&#x200B; voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](freewheel-submit.md)
+>* [&#x200B; de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen &#x200B;](freewheel-error-codes.md)
+>* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed

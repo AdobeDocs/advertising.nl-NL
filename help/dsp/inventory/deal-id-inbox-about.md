@@ -56,7 +56,7 @@ Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de kope
 
 ## Welke soorten overeenkomsten kunnen niet worden geaccepteerd?
 
-Wanneer een overeenkomstenlijst niet a ![ omvat Accepteer ](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID Inbox] goedkeuren. In plaats daarvan, kunt u [ de details van identiteitskaart van de overeenkomst manueel ](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
+Wanneer een overeenkomstenlijst niet a ![&#x200B; omvat Accepteer &#x200B;](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID Inbox] goedkeuren. In plaats daarvan, kunt u [&#x200B; de details van identiteitskaart van de overeenkomst manueel &#x200B;](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
 
 U kunt de volgende typen overeenkomsten niet accepteren:
 
@@ -74,5 +74,5 @@ De overeenkomstendetails omvatten de reden dat de overeenkomst niet beschikbaar 
 
 >[!MORELIKETHIS]
 >
->* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [ Overzicht van inventariseigenschappen ](inventory-overview.md)
+>* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [&#x200B; Overzicht van inventariseigenschappen &#x200B;](inventory-overview.md)

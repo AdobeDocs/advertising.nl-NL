@@ -22,11 +22,11 @@ Adobe Advertising DSP (DSP) verhoogt de mediabeleid van adverteerders door geava
 
 * [**de kwaliteitsreeks van Media**](features/brand-safety-media-quality.md): DSP neemt een pro-actieve benadering van kwesties die uw merk en reclame investeringen kunnen beïnvloeden. De DSP Media Quality Suite is 100% transparant en heeft een veelzijdige aanpak om ervoor te zorgen dat de investeringen van adverteerders worden beschermd. Dit omvat merkveiligheid, gezichtsvermogen, fraudebescherming, en [!DNL Ads.Txt].
 
-* **Integraties met [ Adobe Analytics ](/help/integrations/analytics/overview.md), Adobe Audience Manager, en Adobe Experience Platform**: De integratie met uw bestaande producten van Adobe staat u toe om uw eerste-partijgegevens te maximaliseren en reclame op het zelfde niveau te zetten zoals de rest bedrijfsinzichten.
+* **Integraties met [&#x200B; Adobe Analytics &#x200B;](/help/integrations/analytics/overview.md), Adobe Audience Manager, en Adobe Experience Platform**: De integratie met uw bestaande producten van Adobe staat u toe om uw eerste-partijgegevens te maximaliseren en reclame op het zelfde niveau te zetten zoals de rest bedrijfsinzichten.
 
 * [**Premiere-tv-ervaring met [!DNL Roku]**](/help/dsp/inventory/roku-inventory.md): [!DNL Roku] en DSP hebben een unieke relatie waarmee u uw gegevens van de eerste en derde partij in een [!DNL Roku] -voorraad kunt activeren. Dankzij dit partnerschap kunt u op efficiënte wijze het publiek op het grote scherm bereiken, op grote schaal. Door het enige platform met de capaciteit te gebruiken om met [!DNL Roku] IDs te synchroniseren, kunnen de marketers uit deterministisch 1 voordeel halen :1 richten met precisie en nauwkeurigheid. Marktdeelnemers hebben ook toegang tot [!DNL Roku] voorraad en unieke meetinzichten.
 
 >[!MORELIKETHIS]
 >
->* [ Video: Inleiding aan Advertising DSP ](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/dsp/intro)
->* [ Video: de rekeningsstructuur en gebruikersinterface van DSP ](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/dsp/ui)
+>* [&#x200B; Video: Inleiding aan Advertising DSP &#x200B;](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/dsp/intro)
+>* [&#x200B; Video: de rekeningsstructuur en gebruikersinterface van DSP &#x200B;](https://experienceleague.adobe.com/en/docs/advertising-learn/tutorials/dsp/ui)

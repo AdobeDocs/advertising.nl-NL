@@ -28,7 +28,7 @@ Voor het instellen van door het programma gegarandeerde deals voor uitgevers op 
 
    Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer bij uw advertentie opnemen.
 
-1. [ keurt overeenkomstidentiteitskaart ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL FreeWheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
+1. [&#x200B; keurt overeenkomstidentiteitskaart &#x200B;](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL FreeWheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 
@@ -36,11 +36,11 @@ Voor het instellen van door het programma gegarandeerde deals voor uitgevers op 
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
+1. [&#x200B; Controle de status van de advertentie voorlegging &#x200B;](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](freewheel-submit.md)
->* [ Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG ](freewheel-check-status.md)
->* [ de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen ](freewheel-error-codes.md)
+>* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [&#x200B; voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](freewheel-submit.md)
+>* [&#x200B; Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG &#x200B;](freewheel-check-status.md)
+>* [&#x200B; de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen &#x200B;](freewheel-error-codes.md)
