@@ -24,8 +24,8 @@ ht-degree: 3%
       + [Apparaatoplossingen](/help/dsp/introduction/features/cross-device-solutions.md)
    + [Accountfinanciering](/help/dsp/introduction/billing/account-funding.md)
    + [Ondersteunde valuta](/help/dsp/currency.md)
-   + [&#x200B; Steun voor de privacy van de consument &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
-   + [&#x200B; Beleid en richtlijnen &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html)
+   + [&#x200B; Steun voor de privacy van de consument &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL)
+   + [&#x200B; Beleid en richtlijnen &#x200B;](https://experienceleague.adobe.com/docs/advertising/privacy/home.html?lang=nl-NL)
    + [Geavanceerde meetoplossingen](/help/dsp/introduction/advanced-measurement-services.md)
 + [Zoeken naar productdocumentatie met AI-chat](/help/dsp/agent-chat.md)
 + Campagnebeheer {#campaign-management}
@@ -77,7 +77,7 @@ ht-degree: 3%
       + [Advertentiedetails bekijken en bewerken met behulp van bulksbladen](/help/dsp/campaign-management/ads/ad-qa.md)
       + [Een advertentie bewerken](/help/dsp/campaign-management/ads/ad-edit.md)
       + [Een advertentie dupliceren](/help/dsp/campaign-management/ads/ad-duplicate.md)
-      + [&#x200B; maak en verwijder reclame van plaatsen  vast](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html)
+      + [&#x200B; maak en verwijder reclame van plaatsen  vast](https://experienceleague.adobe.com/docs/advertising/dsp/campaign-management/placements/ad-attach-to-placement.html?lang=nl-NL)
       + [De plaatsingen weergeven die aan een advertentie zijn gekoppeld](/help/dsp/campaign-management/ads/ad-list-placements.md)
       + [Gedetailleerd rapport weergeven voor een advertentie](/help/dsp/campaign-management/ads/ad-view-report.md)
       + [Een advertentie pauzeren of activeren](/help/dsp/campaign-management/ads/ad-pause-activate.md)
@@ -233,9 +233,9 @@ ht-degree: 3%
    + Meldingen {#notifications}
       + [Informatie over abonnementen](/help/dsp/admin/alerts-about.md)
       + [Waarschuwingsabonnementen beheren](/help/dsp/admin/alerts-manage.md)
-+ [&#x200B; Integraties met Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html)
++ [&#x200B; Integraties met Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/advertising/integrations/home.html?lang=nl-NL)
 + [Hulp vragen](/help/dsp/get-help.md)
-+ [&#x200B; de versienota&#39;s van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html)
++ [&#x200B; de versienota&#39;s van Adobe Experience Cloud &#x200B;](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=nl-NL)
 
 
 <!--
