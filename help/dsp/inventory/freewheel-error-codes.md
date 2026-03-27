@@ -3,16 +3,16 @@ title: De codes van de fout voor  [!DNL FreeWheel]  plaatsen
 description: Verwijs naar de foutencodes die voor advertentie aan  [!DNL FreeWheel] zijn teruggekeerd.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: e48937c2-ced9-4107-9e1d-65a3bac51fff
-source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
-source-wordcount: '642'
+source-wordcount: '641'
 ht-degree: 3%
 
 ---
 
 # Foutcodes voor [!DNL FreeWheel] ad-hocreacties
 
-De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertising DSP of van [!DNL FreeWheel] . Foutberichten worden weergegeven in de kolom [!UICONTROL API Response] in het [[!UICONTROL Freewheel Status] dialoogvenster &#x200B;](freewheel-check-status.md) .
+De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertising DSP of van [!DNL FreeWheel] . Zoek foutberichten in de kolom [!UICONTROL API Response] in het [[!UICONTROL FreeWheel Status] dialoogvenster ](freewheel-check-status.md) .
 
 ## Interne Advertising DSP-fouten
 
@@ -29,7 +29,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API-fouten
+## [!DNL FreeWheel] API-fouten
 
 | Code | Betekenis | Beschrijving | Volgende stappen |
 |--- |--- |--- |--- |
@@ -38,12 +38,12 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 | 404 | Niet gevonden | De bron die u hebt aangevraagd, is niet beschikbaar. Als de Creative-id niet wordt gevonden in de PUT-bewerking, wordt een 404 geretourneerd. | Neem contact op met uw Adobe-accountteam. |
 | 405 | Methode niet toegestaan | Er is een aanvraag ingediend voor een bron met behulp van een aanvraagmethode die niet door die bron wordt ondersteund (bijvoorbeeld GET gebruiken voor een methode waarbij gegevens moeten worden verzonden door POST of PUT gebruiken voor een alleen-lezen bron). | Neem contact op met uw Adobe-accountteam. |
 | 408 | Tijdslimiet aanvraag | Er is een time-out opgetreden tijdens de verwerking van dit verzoek. De onderbrekingen worden gewoonlijk veroorzaakt door gezamenlijke verzoeken van exclusieve toegang tot bepaalde middelen. | Verzend het verzoek opnieuw wanneer u deze status ontvangt. Neem contact op met uw Adobe-accountteam als het probleem zich blijft voordoen. |
-| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als overeenkomst identiteitskaart niet werd gevonden). Zie [&#x200B; FreeWheel API 422 Fouten &#x200B;](#freewheel-422-errors) voor meer informatie. | Neem contact op met uw Adobe-accountteam. |
+| 422 | Onbewerkbare entiteit | Ongeldige bron. Deze fout gebeurt wanneer het verzoeklichaam ongeldig is of het gecreeerde/bijgewerkte middel ongeldig is (bijvoorbeeld, als overeenkomst identiteitskaart niet werd gevonden). Zie [ FreeWheel API 422 Fouten ](#freewheel-422-errors) voor meer informatie. | Neem contact op met uw Adobe-accountteam. |
 | 500 | Interne serverfout | API-systeemfout. | Neem contact op met uw Adobe-accountteam. |
 
 {style="table-layout:auto"}
 
-## [!DNL Freewheel] API 422-fouten {#freewheel-422-errors}
+## [!DNL FreeWheel] API 422-fouten {#freewheel-422-errors}
 
 | Code | HTTP-code | Beschrijving |
 |--- |--- |--- |
@@ -64,7 +64,7 @@ De foutberichten voor mislukte advertenties kunnen afkomstig zijn van Advertisin
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL Freewheel]](/help/dsp/inventory/freewheel-overview.md)
->* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [&#x200B; voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL Freewheel]](/help/dsp/inventory/freewheel-submit.md)
->* [&#x200B; Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG &#x200B;](/help/dsp/inventory/freewheel-check-status.md)
+>* [ Overzicht van vestiging programmatic gewaarborgde overeenkomsten in  [!DNL FreeWheel]](/help/dsp/inventory/freewheel-overview.md)
+>* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](/help/dsp/inventory/freewheel-submit.md)
+>* [ Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG ](/help/dsp/inventory/freewheel-check-status.md)

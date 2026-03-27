@@ -3,7 +3,7 @@ title: Universele instellingen voor video en video
 description: Zie beschrijvingen van de beschikbare advertentie-instellingen voor universele videoadvertenties.
 feature: DSP Ads
 exl-id: 51b7d632-1e73-4726-980b-07ed50447146
-source-git-commit: f58e478ea2c1397b15c667c1415a7038b6ea5e5b
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
 source-wordcount: '384'
 ht-degree: 0%
@@ -46,13 +46,13 @@ ht-degree: 0%
 
 **[!UICONTROL VAST Tag]:** (Toevoegen met alleen VAST-tags; alleen-lezen) De VAST-tag van derden die u hebt ingevoerd als advertentiebron.
 
-**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [&#x200B; gebruikte het volgen van Advertising DSP macro&#39;s &#x200B;](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
+**[!UICONTROL Final VAST Tag]:** (Adds gebruikend VAST markeringen slechts; read-only) de derde VAST markering u als advertentiebron met de noodzakelijke [ gebruikte het volgen van Advertising DSP macro&#39;s ](/help/dsp/campaign-management/macros.md) inging, als toepasselijk.
 
 **[!UICONTROL Wmode]:** De venstermodus: *[!UICONTROL window]* , *[!UICONTROL transparent]* of *[!UICONTROL opaque]* . Laat deze instelling leeg als deze niet van toepassing is.
 
 **[!UICONTROL Video Format]:** De indeling van de advertentiespeler voor mogelijke inventarisatie: *[!UICONTROL VPAID]*, *[!UICONTROL VPAID & VAST]* of *[!UICONTROL VAST]* . Zichtbaarheid wordt altijd gemeten voor [!UICONTROL VPAID] , maar [!UICONTROL VPAID & VAST] bevat een overzicht waarin geen meting van de weergavekwaliteit is toegestaan. Houd rekening met dit verschil als meetgegevens voor de weergavemogelijkheden belangrijk zijn voor uw campagne.
 
-Gebruik [!UICONTROL VAST] , dat geen meetbaarheid toestaat, wanneer u zich richt op aangesloten tv of inventaris die uitsluitend VAST-indeling vereist (gewoonlijk van leveringsbronnen zoals Google Ad Manager, Appnexus, SpotX en Freewiel). Gebruik deze optie ook voor voorraad die eerder compatibel was met de standaardinstellingen voor Pre-roll (VAST) of Phone + Tablet Standard Pre-roll (VAST).
+Gebruik [!UICONTROL VAST] , dat geen meetbaarheid toestaat, wanneer u zich richt op aangesloten tv of inventaris die uitsluitend VAST-indeling vereist (gewoonlijk van leveringsbronnen zoals Google Ad Manager, Appnexus, SpotX en FreeWheel). Gebruik deze optie ook voor voorraad die eerder compatibel was met de standaardinstellingen voor Pre-roll (VAST) of Phone + Tablet Standard Pre-roll (VAST).
 
 **[!UICONTROL Clock Number]**: (Wordt alleen gebruikt in het Verenigd Koninkrijk; alleen beschikbaar voor gebruikers met toestemming) Een unieke id die wordt gebruikt om ervoor te zorgen dat de juiste advertentie wordt uitgezonden. Laat deze instelling leeg als deze niet van toepassing is.
 
@@ -64,9 +64,9 @@ Gebruik [!UICONTROL VAST] , dat geen meetbaarheid toestaat, wanneer u zich richt
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Veelgestelde vragen over universele video &#x200B;](/help/dsp/campaign-management/faq-universal-video.md)
->* [&#x200B; Ongeveer en beheer in Advertising DSP &#x200B;](ad-about.md)
->* [&#x200B; creeer één enkele advertentie &#x200B;](ad-create.md)
->* [&#x200B; maak een lijst van de plaatsen verbonden aan een advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-list-placements.md)
->* [&#x200B; Advertentiespecificaties &#x200B;](ad-specs.md)
->* [&#x200B; de macro&#39;s van DSP &#x200B;](/help/dsp/campaign-management/macros.md)
+>* [ Veelgestelde vragen over universele video ](/help/dsp/campaign-management/faq-universal-video.md)
+>* [ Ongeveer en beheer in Advertising DSP ](ad-about.md)
+>* [ creeer één enkele advertentie ](ad-create.md)
+>* [ maak een lijst van de plaatsen verbonden aan een advertentie ](/help/dsp/campaign-management/ads/ad-list-placements.md)
+>* [ Advertentiespecificaties ](ad-specs.md)
+>* [ de macro&#39;s van DSP ](/help/dsp/campaign-management/macros.md)

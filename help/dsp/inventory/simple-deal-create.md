@@ -3,9 +3,9 @@ title: Een [!UICONTROL Simple Ad Serving] -deal maken
 description: Leer hoe u een tekstspatiëringspixel maakt voor een [!UICONTROL Simple Ad Serving] -deal.
 feature: DSP Simple Ad Serving
 exl-id: 77d5dabd-1a0d-4dce-8a9a-8d54a637e15d
-source-git-commit: d6416dae58543e1287b7af7df44eada4be023731
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '384'
 ht-degree: 0%
 
 ---
@@ -16,7 +16,7 @@ ht-degree: 0%
 
 1. Klik boven de datatabel op **[!UICONTROL Create]** en selecteer vervolgens **[!UICONTROL Simple Ad Serving]** .
 
-1. Ga de [&#x200B; overeenkomstenmontages &#x200B;](simple-deal-settings.md) in:
+1. Ga de [ overeenkomstenmontages ](simple-deal-settings.md) in:
 
    1. Geef in de sectie [!UICONTROL Select Ad Source] informatie op over de uitgever, de adverteerder en de campagne, en het type advertentie. Klik vervolgens op **[!UICONTROL Next]** .
 
@@ -26,7 +26,7 @@ ht-degree: 0%
 
          * Selecteer voor bestaande advertenties de advertenties die u wilt gebruiken.
 
-         * Voor nieuwe advertenties, creeer een volmacht [&#x200B; derde advertentie &#x200B;](/help/dsp/campaign-management/ads/ad-create-multiple.md).
+         * Voor nieuwe advertenties, creeer een volmacht [ derde advertentie ](/help/dsp/campaign-management/ads/ad-create-multiple.md).
 
       >[!NOTE]
       > DSP heeft geen advertenties die u opgeeft. De uitgever dient de advertentie.
@@ -35,7 +35,7 @@ ht-degree: 0%
 
    1. Bewerk in Details feed de gegevens van de feed en klik op **[!UICONTROL Next]** .
 
-      DSP produceert automatisch een plaatsing, genoemd &quot;SAS Plaatsing - &lt;*overeenkomstennaam*>,&quot;voor de advertentie. In de plaatsing, wordt de overeenkomst automatisch gericht in de [!UICONTROL Inventory Targets] sectie. Alle andere doelopties zijn niet van toepassing.
+      DSP genereert automatisch een plaatsing met de naam &quot;SAS Placement - &lt;*naam van de deal*>&quot; voor de advertentie. In de plaatsing, wordt de overeenkomst automatisch gericht in de [!UICONTROL Inventory Targets] sectie. Alle andere doelopties zijn niet van toepassing.
 
 1. Verzend de pixels voor het bijhouden van gebeurtenissen naar de uitgever voor implementatie op een van de volgende manieren:
 
@@ -47,13 +47,13 @@ ht-degree: 0%
 
          * Als u de gegevens in een e-mailbericht in een e-mailtoepassing op uw apparaat wilt plakken, klikt u op **[!UICONTROL Email & Done]** en selecteert u de e-mailtoepassing. Het veld [!UICONTROL CC:] wordt vooraf gevuld met een [!DNL Adobe] -ondersteuningsadres. U kunt het bericht dan naar het aangewezen contact voor de uitgever verzenden.
 
-         * Klik op **[!UICONTROL Copy Email]om de gegevens naar het klembord te kopiëren.** U kunt de inhoud vervolgens handmatig in een e-mailbericht plakken en naar de juiste contactpersoon voor de uitgever verzenden. U moet een kopie (CC:) naar `publisher-support-global@adobe.com` opnemen. Klik op **[!UICONTROL Email & Done]** wanneer u het bericht hebt gekopieerd.
+         * Klik op **[!UICONTROL Copy Email]om de gegevens naar het klembord te kopiëren.** U kunt de inhoud vervolgens handmatig in een e-mailbericht plakken en naar de juiste contactpersoon voor de uitgever verzenden. Kopie (CC:) naar `publisher-support-global@adobe.com` opnemen. Klik op **[!UICONTROL Email & Done]** wanneer u het bericht hebt gekopieerd.
 
       1. (Indien nodig) Neem contact op met de uitgever om te controleren of de tag de juiste macro&#39;s bevat, zodat de tag met de advertentieserver van de uitgever werkt kan worden.
 
    * (Optioneel) Stuur de pixels voor het bijhouden van gebeurtenissen handmatig naar de uitgever:
 
-      1. In de overeenkomstenrij binnen de [!UICONTROL Deals] mening, klik ![&#x200B; het menu van Opties &#x200B;](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
+      1. In de overeenkomstenrij binnen de [!UICONTROL Deals] mening, klik ![ het menu van Opties ](/help/dsp/assets/options-menu.png) **>[!UICONTROL show pixel]**.
 
          De gebeurtenispixels omvatten een [!UICONTROL Clickthrough] pixel en een [!UICONTROL Impression] pixel. Video- en audioadvertenties bevatten ook gebeurtenispixels op kwartaalbasis voltooid (van [!UICONTROL 25% Complete] tot [!UICONTROL 100% Complete] ).
 
@@ -61,9 +61,9 @@ ht-degree: 0%
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
->* [[!UICONTROL Simple Ad Serving] settings &#x200B;](simple-deal-settings.md)
->* [&#x200B; Mening een gedetailleerd rapport voor een overeenkomst &#x200B;](/help/dsp/inventory/deal-view-report.md)
+>* [ Over [!UICONTROL Simple Ad Serving]](simple-deal-about.md)
+>* [[!UICONTROL Simple Ad Serving] settings ](simple-deal-settings.md)
+>* [ Mening een gedetailleerd rapport voor een overeenkomst ](/help/dsp/inventory/deal-view-report.md)
 
 <!--
  add back when reimplemented:

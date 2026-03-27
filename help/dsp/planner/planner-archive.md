@@ -3,7 +3,7 @@ title: Een bereik van verbonden tv archiveren
 description: Leer hoe u een bereikplan voor een verbonden tv archiveert.
 feature: DSP Planner
 exl-id: 335db881-51e6-412d-9346-216c6a70a6de
-source-git-commit: 9b5c00cdb0942ec4e7fbf69d7ce638ab50439915
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Een bereik van verbonden tv archiveren
 
-Als u een abonnement archiveert, wordt dit verwijderd uit de standaardweergave van [!UICONTROL Planner] .<!-- You can still view it by including the [!UICONTROL Status] "[!UICONTROL Archived]" in the view filter. -->
+Als u een abonnement archiveert, wordt dit verwijderd uit de standaardweergave van [!UICONTROL Planner] .
 
 1. Klik in het hoofdmenu op **[!UICONTROL Planner]** .
 
@@ -20,10 +20,10 @@ Als u een abonnement archiveert, wordt dit verwijderd uit de standaardweergave v
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; Ongeveer DSP [!UICONTROL Planner] hulpmiddel &#x200B;](planner-about.md)
->* [&#x200B; creeer een verbonden plan van het het bereik van TV &#x200B;](planner-create.md)
->* [&#x200B; Dupliceer een verbonden het bereikplan van TV &#x200B;](planner-duplicate.md)
->* [&#x200B; geef een verbonden plan van het het bereik van TV uit &#x200B;](planner-edit.md)
->* [&#x200B; de Uitvoer een verbonden plan van het het bereik van TV &#x200B;](planner-export.md)
->* [&#x200B; Regenereer de voorspelling voor een verbonden plan van het bereik van TV &#x200B;](planner-forecast.md)
->* [&#x200B; Montages voor verbonden TV bereiken plannen &#x200B;](planner-settings.md)
+>* [ Ongeveer DSP [!UICONTROL Planner] hulpmiddel ](planner-about.md)
+>* [ creeer een verbonden plan van het het bereik van TV ](planner-create.md)
+>* [ Dupliceer een verbonden het bereikplan van TV ](planner-duplicate.md)
+>* [ geef een verbonden plan van het het bereik van TV uit ](planner-edit.md)
+>* [ de Uitvoer een verbonden plan van het het bereik van TV ](planner-export.md)
+>* [ Regenereer de voorspelling voor een verbonden plan van het bereik van TV ](planner-forecast.md)
+>* [ Montages voor verbonden TV bereiken plannen ](planner-settings.md)

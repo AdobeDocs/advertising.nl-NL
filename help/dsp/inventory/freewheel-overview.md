@@ -1,18 +1,18 @@
 ---
-title: Overzicht van het opzetten van de overeenkomsten van PG in  [!DNL Freewheel]
-description: Leer over de eerste vereisten en extra stappen noodzakelijk om advertenties voor programmatic gewaarborgde overeenkomsten met uitgevers op  [!DNL Freewheel] in werking te stellen.
+title: Overzicht van het opzetten van de overeenkomsten van PG in  [!DNL FreeWheel]
+description: Leer over de eerste vereisten en extra stappen noodzakelijk om advertenties voor programmatic gewaarborgde overeenkomsten met uitgevers op  [!DNL FreeWheel] in werking te stellen.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: b9c60248-8104-42ef-8afb-2f9db67b33b0
-source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 0%
 
 ---
 
-# Overzicht van het instellen van door het programma gegarandeerde deals in [!DNL Freewheel]
+# Overzicht van het instellen van door het programma gegarandeerde deals in [!DNL FreeWheel]
 
-Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL Freewheel] zijn extra machtigingen en stappen vereist.
+Voor het instellen van door het programma gegarandeerde deals voor uitgevers op [!DNL FreeWheel] zijn extra machtigingen en stappen vereist.
 
 >[!PREREQUISITES]
 >
@@ -28,19 +28,19 @@ Voor het instellen van door het programma gegarandeerde deals voor uitgevers op 
 
    Voor sommige Britse uitgevers moet u een [!DNL Clearcast] kloknummer bij uw advertentie opnemen.
 
-1. [&#x200B; keurt overeenkomstidentiteitskaart &#x200B;](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL Freewheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
+1. [ keurt overeenkomstidentiteitskaart ](#programmatic-guaranteed-set-up.md#pg-setup-deal-id-inbox) goed die u reeds met een uitgever op [!DNL FreeWheel] gebruikend identiteitskaart Inbox van de Overeenkomst hebt onderhandeld.
 
    Nadat u de overeenkomst goedkeurt, volg de herinneringen aan 1) selecteer de advertentie voor de overeenkomst te gebruiken en 2) creeer een programmatic gewaarborgde standaardplaatsing om de advertentie te dienen.
 
-1. [De advertentie verzenden naar  [!DNL Freewheel]](freewheel-submit.md)
+1. [De advertentie verzenden naar  [!DNL FreeWheel]](freewheel-submit.md)
 
    De advertentie moet vóór de uitvoering worden ingediend en goedgekeurd.
 
-1. [&#x200B; Controle de status van de advertentie voorlegging &#x200B;](freewheel-check-status.md).
+1. [ Controle de status van de advertentie voorlegging ](freewheel-check-status.md).
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [&#x200B; voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL Freewheel]](freewheel-submit.md)
->* [&#x200B; Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG &#x200B;](freewheel-check-status.md)
->* [&#x200B; de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen &#x200B;](freewheel-error-codes.md)
+>* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [ voorlegt een advertentie voor een programmatic gewaarborgde overeenkomst aan  [!DNL FreeWheel]](freewheel-submit.md)
+>* [ Controle het statuut van advertenties voor de overeenkomst van a [!DNL FreeWheel]  PG ](freewheel-check-status.md)
+>* [ de codes van de Fout voor  [!DNL FreeWheel]  en bijdragen ](freewheel-error-codes.md)

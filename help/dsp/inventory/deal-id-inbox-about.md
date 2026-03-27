@@ -3,9 +3,9 @@ title: Over de [!UICONTROL Deal ID Inbox]
 description: Leer over de [!UICONTROL Deal ID Inbox] eigenschap, die u toestaat om privé overeenkomsten goed te keuren u reeds met uitgevers op  [!DNL FreeWheel], [!DNL Google Authorized Buyers]  (vroeger gekend als  [!DNL AdX]), and [!DNL Magnite DV+]  (vroeger  [!DNL Rubicon]) hebt onderhandeld.
 feature: DSP Private Inventory, DSP Deal IDs
 exl-id: a1ba7de0-d6b4-4e22-8615-3e62d2ffdf5c
-source-git-commit: a5be425ee34960cf58642cb850ae817998652f53
+source-git-commit: 1e307a95d597f20c97683ee20c0a3b99f662f7fd
 workflow-type: tm+mt
-source-wordcount: '488'
+source-wordcount: '487'
 ht-degree: 0%
 
 ---
@@ -48,7 +48,7 @@ Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de kope
 
 * **de overeenkomsten van het Overzicht** om te verifiëren dat SSP de correcte uitgever, vluchtdata, CPM, en andere overeenkomstendetails heeft verzonden. Als de uitgever een fout heeft gemaakt, contacteer hen buiten DSP zodat kunnen zij de overeenkomst verbeteren en opnieuw verzenden.
 
-* **keurt overeenkomsten** na het herzien goed, en zij verschijnen niet meer in [!UICONTROL Deal ID Inbox]. Accepteerde deals worden weergegeven in [!UICONTROL Inventory] > [!UICONTROL Deals] en zijn gereed om zich te richten binnen de plaatsen van adverteerders.
+* **keurt overeenkomsten** na het herzien goed, en zij verschijnen niet meer in [!UICONTROL Deal ID Inbox]. Geaccepteerde deals worden weergegeven in [!UICONTROL Inventory] > [!UICONTROL Deals] en zijn klaar om te worden gestart binnen de plaatsen van adverteerders.
 
 * **negeer overeenkomsten** die niet nodig zijn of ongevraagd zijn. Genegeerde deals worden verplaatst naar het tabblad [!UICONTROL Ignored Deals] in [!UICONTROL Deal ID Inbox] , dat als archief fungeert. DSP waarschuwt geen SSPs en uitgevers wanneer u een overeenkomst negeert.
 
@@ -56,7 +56,7 @@ Geef de uitgever tijdens de onderhandelingen over deals de deal door aan de kope
 
 ## Welke soorten overeenkomsten kunnen niet worden geaccepteerd?
 
-Wanneer een overeenkomstenlijst niet a ![&#x200B; omvat Accepteer &#x200B;](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID Inbox] goedkeuren. In plaats daarvan, kunt u [&#x200B; de details van identiteitskaart van de overeenkomst manueel &#x200B;](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
+Wanneer een overeenkomstenlijst niet a ![ omvat Accepteer ](/help/dsp/assets/accept.png) pictogram of een [!UICONTROL Accept] knoop, kunt u niet het van [!UICONTROL Deal ID Inbox] goedkeuren. In plaats daarvan, kunt u [ de details van identiteitskaart van de overeenkomst manueel ](/help/dsp/inventory/deal-id-create.md) tot stand brengen.
 
 U kunt de volgende typen overeenkomsten niet accepteren:
 
@@ -74,5 +74,5 @@ De overeenkomstendetails omvatten de reden dat de overeenkomst niet beschikbaar 
 
 >[!MORELIKETHIS]
 >
->* [&#x200B; keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
->* [&#x200B; Overzicht van inventariseigenschappen &#x200B;](inventory-overview.md)
+>* [ keur een overeenkomst in [!UICONTROL Deal ID Inbox]](deal-id-inbox-accept.md) goed
+>* [ Overzicht van inventariseigenschappen ](inventory-overview.md)
